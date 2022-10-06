@@ -1,0 +1,31 @@
+{
+  "name": "src-posts",
+  "version": "1.0.0",
+  "description": "**COPYING THE ARTICLES HERE ARE STRICTLY PROHIBITED** ||| |---|---| | Engine Used | [NodeJS](https://nodejs.org/) | | Framework | (site generato) [HexoJS](https://hexo.io/), (article processor) [SBG](https://github.com/dimaslanjaka/static-blog-generator) |",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "server": "cd .. && hexo server",
+    "copy": "cd .. && sbg copy --nocache",
+    "deploy": "cd .. && npm run deploy",
+    "clean": "cd .. && npm run clean"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/gulp": "^4.0.9",
+    "@types/node": "^18.8.2",
+    "@types/through2": "github:dimaslanjaka/nodejs-package-types#through2",
+    "gulp": "^4.0.2",
+    "hexo-util": "^2.7.0",
+    "nodemon": "^2.0.19",
+    "npm-run-all": "^4.1.5",
+    "through2": "^4.0.2"
+  },
+  "dependencies": {
+    "ansi-colors": "^4.1.3",
+    "hexo-post-parser": "github:dimaslanjaka/hexo-post-parser",
+    "upath": "^2.0.1"
+  }
+}
