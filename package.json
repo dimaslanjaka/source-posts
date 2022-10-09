@@ -15,6 +15,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/gulp": "^4.0.9",
+    "@types/hexo-util": "^0.6.5",
     "@types/node": "^18.8.2",
     "@types/through2": "github:dimaslanjaka/nodejs-package-types#through2",
     "gulp": "^4.0.2",

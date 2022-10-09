@@ -17,7 +17,7 @@ gulp.task('default', async () => {
 
 gulp.task('fix-dmca', () => {
   return gulp
-    .src([path.join(__dirname, '**/*.md'), '!**/tmp/', '!**/node_modules/'])
+    .src([path.join(__dirname, 'posts/**/*.md'), '!**/tmp/', '!**/node_modules/'])
     .pipe(
       through2.obj(async (vinyl, enc, next) => {
         const contents = String(vinyl.contents);
