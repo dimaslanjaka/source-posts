@@ -1,12 +1,28 @@
 {
+  "extends": "./tsconfig.base",
+  "ts-node": {
+    "compilerOptions": {
+      "module": "CommonJS"
+    },
+    //"esm": true,
+    //"experimentalSpecifierResolution": "node"
+  },
   "compilerOptions": {
-    "noEmit": true,
-    "outDir": "../tmp/src-posts",
+    "lib": [
+      "es2020",
+      "DOM"
+    ],
+    "target": "ES2020",
+    "declaration": true,
+    "declarationDir": "./tmp/declaration",
+    "outDir": "./tmp/src-posts",
     "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node"
   },
   "include": [
-    "./*.ts"
+    "./*.ts",
+    "src"
   ],
   "exclude": [
     "**/node_modules"

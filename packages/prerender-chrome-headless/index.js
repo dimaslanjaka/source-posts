@@ -9,40 +9,41 @@ module.exports = function (source, options = {}) {
   const delayPageLoad = options.delayPageLoad || 0;
   const puppeteerOptions = options.puppeteerOptions || {};
   if (chromeFlags.length) {
-      puppeteerOptions.args = chromeFlags;
+    puppeteerOptions.args = chromeFlags;
   }
 
   debug(`Launching chrome in ${delayLaunch}ms`);
   return wait(delayLaunch).then(() =>
-  chain(
-    'puppeteer.launch',
-    () => puppeteer.launch(puppeteerOptions),
+    chain(
+      'puppeteer.launch',
+      () => puppeteer.launch(puppeteerOptions),
 
-    'browser.newPage',
-    (browser) => browser.newPage(),
+      'browser.newPage',
+      (browser) => browser.newPage(),
 
-    `adding console listeners`,
-    (page) => page.on('pageerror', options.onPageError || noop) || page,
+      `adding console listeners`,
+      (page) => page.on('pageerror', options.onPageError || noop) || page,
 
-    `page.goto('${source}')`,
-    (page) => page.goto(source)
-  )
-  .then(([browser, page]) => chain(
-    `Waiting ${delayPageLoad}ms after page load event`,
-    () => page.waitFor(delayPageLoad),
+      `page.goto('${source}')`,
+      (page) => page.goto(source)
+    )
+      .then(([browser, page]) =>
+        chain(
+          `Waiting ${delayPageLoad}ms after page load event`,
+          () => page.waitFor(delayPageLoad),
 
-    'Extracting HTML from the page',
-    () => page.content(),
+          'Extracting HTML from the page',
+          () => page.content(),
 
-    (result) => extractHtml(result),
+          (result) => extractHtml(result),
 
-    'Terminating Chrome',
-    () => browser.close()
-  ))
-  .then(
-    (results) => results.find(r => r && r.extractedHTML).extractedHTML
-  ));
-}
+          'Terminating Chrome',
+          () => browser.close()
+        )
+      )
+      .then((results) => results.find((r) => r && r.extractedHTML).extractedHTML)
+  );
+};
 
 function extractHtml(result) {
   debug('Got result from runtime');
@@ -52,24 +53,25 @@ function extractHtml(result) {
 function chain(...actions) {
   const results = [];
   let didCallAFunction = false;
-  return actions.reduce((promise, fnOrString) => {
-    return promise.then((previous) => {
-      if (typeof fnOrString === 'function') {
-        if (didCallAFunction) {
-          results.push(previous);
+  return actions
+    .reduce((promise, fnOrString) => {
+      return promise.then((previous) => {
+        if (typeof fnOrString === 'function') {
+          if (didCallAFunction) {
+            results.push(previous);
+          }
+          didCallAFunction = true;
+          return fnOrString(previous);
+        } else {
+          debug(fnOrString);
+          return previous;
         }
-        didCallAFunction = true;
-        return fnOrString(previous);
-      } else {
-        debug(fnOrString);
-        return previous;
-      }
+      });
+    }, Promise.resolve())
+    .then((last) => {
+      results.push(last);
+      return results;
     });
-  }, Promise.resolve())
-  .then((last) => {
-    results.push(last);
-    return results;
-  });
 }
 
 function wait(time) {
@@ -79,4 +81,6 @@ function wait(time) {
   return Promise.resolve();
 }
 
-function noop () {}
+function noop() {
+  //
+}
