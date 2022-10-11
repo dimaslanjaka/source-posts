@@ -11,5 +11,4 @@ if [ -z "$(git status --porcelain)" ]; then
 else
     set -e
     git commit -am "updated on - $(date)"
-    git push
 fi
