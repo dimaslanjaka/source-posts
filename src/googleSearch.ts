@@ -34,8 +34,8 @@ async function search(keyword: string) {
       console.log('timeout while waiting');
     } else if (e instanceof Error) {
       const msg = e.message;
-      const connectionReset = /net::ERR_CONNECTION_RESET/gim;
-      if (connectionReset.test(msg)) {
+      const proxyError = /net::ERR_CONNECTION_RESET|net::ERR_TIMED_OUT/gim;
+      if (proxyError.test(msg)) {
         await closeBrowser();
       } else {
         console.log(msg);
