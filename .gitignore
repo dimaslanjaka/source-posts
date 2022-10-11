@@ -1,0 +1,17 @@
+Test
+.guid
+/dimaslanjaka
+
+# olds and backups
+*-old
+*-backup
+*-private
+
+# auto
+node_modules
+vendor
+tmp
+
+# master project
+/nodejs-esm-starter
+/posts
