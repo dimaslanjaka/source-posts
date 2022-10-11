@@ -16,53 +16,44 @@ gulp.task('default', async () => {
 });
 
 gulp.task('fix-dmca', () => {
-  return gulp
-    .src([path.join(__dirname, 'posts/**/*.md'), '!**/tmp/', '!**/node_modules/'])
-    .pipe(
-      through2.obj(async (vinyl, enc, next) => {
-        const contents = String(vinyl.contents);
-        try {
-          const parse = (await parsePost(contents, {
-            cache: false,
-            sourceFile: vinyl.path,
-            fix: true,
-            formatDate: true,
-            shortcodes: {
-              youtube: true,
-              codeblock: true,
-              include: true,
-              css: true,
-              link: true,
-              text: true,
-              script: true,
-              now: true
-            }
-          })) as extPost;
-          if (parse && /download/i.test(parse.metadata.title)) {
-            if (
-              'adsense' in parse.metadata === false ||
-              parse.metadata.adsense === true
-            ) {
-              if (/lagu/i.test(parse.metadata.title)) {
-                console.log(
-                  ansiColors.yellow('Download'),
-                  ansiColors.magenta('Lagu'),
-                  'adsense=' + parse.metadata.adsense,
-                  vinyl.path
-                );
-              } else {
-                console.log(
-                  ansiColors.yellow('Download'),
-                  'adsense=' + parse.metadata.adsense,
-                  vinyl.path
-                );
-              }
+  return gulp.src([path.join(__dirname, 'posts/**/*.md'), '!**/tmp/', '!**/node_modules/']).pipe(
+    through2.obj(async (vinyl, enc, next) => {
+      const contents = String(vinyl.contents);
+      try {
+        const parse = (await parsePost(contents, {
+          cache: false,
+          sourceFile: vinyl.path,
+          fix: true,
+          formatDate: true,
+          shortcodes: {
+            youtube: true,
+            codeblock: true,
+            include: true,
+            css: true,
+            link: true,
+            text: true,
+            script: true,
+            now: true
+          }
+        })) as extPost;
+        if (parse && /download/i.test(parse.metadata.title)) {
+          if ('adsense' in parse.metadata === false || parse.metadata.adsense === true) {
+            if (/lagu/i.test(parse.metadata.title)) {
+              console.log(
+                ansiColors.yellow('Download'),
+                ansiColors.magenta('Lagu'),
+                'adsense=' + parse.metadata.adsense,
+                vinyl.path
+              );
+            } else {
+              console.log(ansiColors.yellow('Download'), 'adsense=' + parse.metadata.adsense, vinyl.path);
             }
           }
-        } catch (e) {
-          console.log(ansiColors.redBright(e.message), vinyl.path);
         }
-        next();
-      })
-    );
+      } catch (e) {
+        console.log(ansiColors.redBright(e.message), vinyl.path);
+      }
+      next();
+    })
+  );
 });

@@ -1,11 +1,8 @@
 {
   "extends": "./tsconfig.base",
   "ts-node": {
-    "compilerOptions": {
-      "module": "CommonJS"
-    },
-    //"esm": true,
-    //"experimentalSpecifierResolution": "node"
+    "esm": true,
+    "experimentalSpecifierResolution": "node"
   },
   "compilerOptions": {
     "lib": [
@@ -21,8 +18,7 @@
     "moduleResolution": "node"
   },
   "include": [
-    "./*.ts",
-    "src"
+    "src/**/*"
   ],
   "exclude": [
     "**/node_modules"

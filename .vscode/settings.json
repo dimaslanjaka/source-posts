@@ -3,5 +3,7 @@
     "source.fixAll": true,
     "source.organizeImports": true
   },
-  "code-runner.clearPreviousOutput": true
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.runInTerminal": true
 }
