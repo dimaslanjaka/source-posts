@@ -3,6 +3,14 @@ title: Snippet Convert Bytes To Human Readable
 date: 2022-10-12T09:02:28+07:00
 updated: 2022-10-12T09:02:28+07:00
 keywords: ['bytes','human readable','typescript','javascript','function']
+tags:
+  - file
+  - size
+  - node
+  - JS
+category:
+  - Programming
+  - JS
 ---
 
 Script function JS for Converting file size in bytes to human-readable string
