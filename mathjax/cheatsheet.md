@@ -4,6 +4,10 @@ date: 2022-10-12T18:46:14+07:00
 updated: 2022-10-12T18:46:14+07:00
 ---
 
+[MathJax Basic Quick References](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
+[Patterns Mathjax](https://docs.mathjax.org/en/v3.0-latest/input/tex/macros/index.html)
+
+
 <table>
   <thead>
     <tr>
