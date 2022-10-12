@@ -172,6 +172,25 @@ Jarak pada peta = 1/400.000 x 12.000.000 cm
 
 Jarak pada peta = 30 cm
 
+### Soal 4
+**Diketahui :**
+
+Jarak sebenarnya = 450 Km = 45.000.000 cm
+
+Skala = 1 : 75.000.000
+
+**Ditanya : Jarak di peta ?**
+
+**Jawab :**
+
+Skala = Jarak pada peta : Jarak sebenarnya
+
+Jarak pada peta = Skala x Jarak sebenarnya
+
+Jarak pada peta = (1 : 75.000.000) x 450.000.000cm
+
+Jarak pada peta = 6 cm
+
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
