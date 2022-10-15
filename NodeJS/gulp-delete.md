@@ -1,7 +1,7 @@
 ---
 title: How to delete files with gulp without any plugin
 date: 2022-10-15T14:00:08+07:00
-updated: 2022-10-15T15:04:37+07:00
+updated: 2022-10-15T15:16:12+07:00
 thumbnail: https://opengraph.githubassets.com/d5c0c03975090ca4fdc9426231dd22310716b7d817cb6de10306acc7399a583c/sindresorhus/del/issues/42
 keywords:
   - delete files with gulp
@@ -14,12 +14,17 @@ keywords:
 ## Issues about del and gulp
 - [Issue#42](https://github.com/sindresorhus/del/issues/42)
 
-```typescript
+## Variables
+```javascript
 const { rmSync, rmdirSync, existsSync } = require('fs')
 const { join } = require('path')
 const gulp = require('gulp')
 // folder to scan and delete files
 const destDir = join(__dirname, 'folder/to/scan')
+```
+
+Using standard `gulp.src` with `!` as ignore
+```typescript
 gulp.task('clean', function () {
   return gulp
     // this will delete all files, except .git*,/bin/*
@@ -40,28 +45,31 @@ gulp.task('clean', function () {
 })
 ```
 
-my gulp function
+OR you can using `ignore` options like below
 ```typescript
 gulp.task('clean', function () {
   return gulp
     .src(
       [
         // delete all files and folders
-        '**/*',
-        // keep git files
-        '!^.git*',
-        // keep shortcut script
-        '!**/bin',
-        // keep sitemap
-        '!sitemap.*',
-        // keep CNAME
-        '!CNAME',
-        // keep nojekyll builds
-        '!.nojekyll',
-        // skip removing html, for keep old files on remote
-        '!**/*.html'
+        '**/*'
       ],
       {
+        ignore: [
+          // keep git files
+          '^.git*',
+          // keep shortcut script
+          '**/bin',
+          // keep sitemap
+          'sitemap.*',
+          // keep CNAME
+          'CNAME',
+          // keep nojekyll builds
+          '.nojekyll',
+          // skip removing html, for keep old files on remote
+          '**/*.html',
+          '*.html'
+        ],
         cwd: destDir
       }
     )
@@ -69,11 +77,10 @@ gulp.task('clean', function () {
       through2.obj((file, _enc, next) => {
         try {
           if (existsSync(file.path))
-            rmSync(file.path, { recursive: true, force: true })
+            rm(file.path, { recursive: true, force: true }, next)
         } catch {
           //
         }
-        next()
       })
     )
 })
