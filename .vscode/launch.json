@@ -17,8 +17,14 @@
       }
     },
     {
-      "command": "cd ../ && npx gulp article:copy && npx hexo clean && npx hexo server",
+      "command": "cd ../ && npm run copy && npx hexo clean && npx hexo server",
       "name": "Hexo Clean Server",
+      "request": "launch",
+      "type": "node-terminal"
+    },
+    {
+      "command": "cd ../ && npx gulp watch-post",
+      "name": "Watch Post",
       "request": "launch",
       "type": "node-terminal"
     }
