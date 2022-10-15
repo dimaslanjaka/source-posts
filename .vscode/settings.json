@@ -82,5 +82,7 @@
   "editor.formatOnSave": true,
   "files.exclude": {
     "**/node_modules": true
-  }
+  },
+  "frontMatter.preview.host": "",
+  "frontMatter.content.autoUpdateDate": true
 }

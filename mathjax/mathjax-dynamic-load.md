@@ -1,9 +1,13 @@
 ---
 title: MathJax Dynamic Customized Load
 date: 2022-10-12T21:52:12+07:00
-updated: 2022-10-12T21:52:12+07:00
-category: ['Programming', 'JS']
-tags: ['JS', 'Snippet']
+updated: 2022-10-16T02:52:26+07:00
+category:
+  - Programming
+  - JS
+tags:
+  - JS
+  - Snippet
 ---
 
 ## Main Snippet
@@ -86,7 +90,7 @@ you can use our cdn
 
 ## Online mathjax playground
 
-<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="wvjRReG" data-user="dimaslanjaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="300" data-default-tab="result" data-slug-hash="wvjRReG" data-editable="true" data-user="dimaslanjaka" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/dimaslanjaka/pen/wvjRReG">
   MathJax Playground</a> by dimas lanjaka (<a href="https://codepen.io/dimaslanjaka">@dimaslanjaka</a>)
   on <a href="https://codepen.io" rel="nofollow noopener noreferer">CodePen</a>.</span>
