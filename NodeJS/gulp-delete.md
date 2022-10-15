@@ -67,8 +67,7 @@ gulp.task('clean', function () {
           // keep nojekyll builds
           '.nojekyll',
           // skip removing html, for keep old files on remote
-          '**/*.html',
-          '*.html'
+          '**/*.html'
         ],
         cwd: destDir
       }
