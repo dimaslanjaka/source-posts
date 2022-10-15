@@ -11,6 +11,8 @@ keywords:
 ---
 
 `del` is now only used for ESM
+## Issues about del and gulp
+- [Issue#42](https://github.com/sindresorhus/del/issues/42)
 
 ```typescript
 const { rmSync, rmdirSync } = require('fs')
