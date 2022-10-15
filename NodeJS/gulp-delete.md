@@ -39,3 +39,42 @@ gulp.task('clean', function () {
     .pipe(gulp.dest(destDir))
 })
 ```
+
+my gulp function
+```typescript
+gulp.task('clean', function () {
+  return gulp
+    .src(
+      [
+        // delete all files and folders
+        '**/*',
+        // keep git files
+        '!^.git*',
+        // keep shortcut script
+        '!**/bin',
+        // keep sitemap
+        '!sitemap.*',
+        // keep CNAME
+        '!CNAME',
+        // keep nojekyll builds
+        '!.nojekyll',
+        // skip removing html, for keep old files on remote
+        '!**/*.html'
+      ],
+      {
+        cwd: destDir
+      }
+    )
+    .pipe(
+      through2.obj((file, _enc, next) => {
+        try {
+          if (existsSync(file.path))
+            rmSync(file.path, { recursive: true, force: true })
+        } catch {
+          //
+        }
+        next()
+      })
+    )
+})
+```
