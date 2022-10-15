@@ -1,8 +1,10 @@
 ---
 title: How to delete files with gulp without any plugin
 date: 2022-10-15T14:00:08+07:00
-updated: 2022-10-15T15:16:12+07:00
+updated: 2022-10-15T16:40:13+07:00
 thumbnail: https://opengraph.githubassets.com/d5c0c03975090ca4fdc9426231dd22310716b7d817cb6de10306acc7399a583c/sindresorhus/del/issues/42
+tags: ['snippets', 'JS']
+category: ['Programming','JS']
 keywords:
   - delete files with gulp
   - gulp delete files
@@ -15,6 +17,7 @@ keywords:
 - [Issue#42](https://github.com/sindresorhus/del/issues/42)
 
 ## Variables
+`fs-extra` better than `fs` for supressing useless errors
 ```javascript
 const { rmSync, rmdirSync, existsSync } = require('fs')
 const { join } = require('path')
