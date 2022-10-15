@@ -23,7 +23,7 @@ const destDir = join(__dirname, 'folder/to/scan')
 gulp.task('clean', function () {
   return gulp
     // this will delete all files, except .git*,/bin/*
-    .src(['**/*.*', '!^.git*', '!**/bin/*'], { cwd: destDir })
+    .src(['**/*', '!^.git*', '!**/bin/*'], { cwd: destDir })
     .pipe(
       through2.obj((file, _enc, next) => {
         if (statSync(file.path).isFile()) {
