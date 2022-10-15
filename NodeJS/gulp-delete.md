@@ -1,7 +1,7 @@
 ---
 title: How to delete files with gulp without any plugin
 date: 2022-10-15T14:00:08+07:00
-updated: 2022-10-15T14:09:47+07:00
+updated: 2022-10-15T15:04:37+07:00
 thumbnail: https://opengraph.githubassets.com/d5c0c03975090ca4fdc9426231dd22310716b7d817cb6de10306acc7399a583c/sindresorhus/del/issues/42
 keywords:
   - delete files with gulp
