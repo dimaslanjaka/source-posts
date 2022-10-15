@@ -26,7 +26,7 @@ const gulp = require('gulp')
 const destDir = join(__dirname, 'folder/to/scan')
 ```
 
-Using standard `gulp.src` with `!` as ignore
+## Using standard `gulp.src` with `!` as ignore
 ```typescript
 gulp.task('clean', function () {
   return gulp
@@ -48,7 +48,9 @@ gulp.task('clean', function () {
 })
 ```
 
-OR you can using `ignore` options like below
+OR you can 
+
+## Using `ignore` options like below
 ```typescript
 gulp.task('clean', function () {
   return gulp
@@ -80,6 +82,54 @@ gulp.task('clean', function () {
         try {
           if (existsSync(file.path))
             rm(file.path, { recursive: true, force: true }, next)
+        } catch {
+          //
+        }
+      })
+    )
+})
+```
+
+## My Gulp Clean Script
+```typescript
+gulp.task('clean', function () {
+  return gulp
+    .src(
+      [
+        // delete all files and folders
+        '**/*'
+      ],
+      {
+        ignore: [
+          // keep git files
+          '^.git*',
+          // keep shortcut script
+          '**/bin',
+          // keep sitemap
+          'sitemap.*',
+          // keep CNAME
+          'CNAME',
+          // keep nojekyll builds
+          '.nojekyll',
+          // skip removing html, for keep old files on remote
+          '**/*.html'
+        ],
+        cwd: destDir
+      }
+    )
+    .pipe(
+      through2.obj((file, _enc, next) => {
+        try {
+          if (existsSync(file.path)) {
+            const { path } = file
+            const stats = statSync(path)
+            if (stats.isFile()) {
+              rmSync(path)
+            } else {
+              rmSync(path, { recursive: true })
+            }
+            next(null)
+          }
         } catch {
           //
         }
