@@ -29,7 +29,7 @@ title: Eslint Prettier In Typescript Project Using Vscode
 type: post
 uuid: 3f6ada3c-0ed8-4888-87c8-3371f8927a2c
 webtitle: NodeJS
-updated: 2022-05-03T18:14:00+0700
+updated: 2022-10-16T08:34:54+07:00
 ---
 
 ## Auto Lint And Format Typescript Using VSCode With Eslint And Prettier
@@ -57,59 +57,66 @@ yarn add prettier eslint-config-prettier eslint-plugin-prettier eslint @typescri
 
 ## Create .eslintrc.js
 ```js
-module.exports = {
+const prettier = require('./.prettierrc');
+/**
+ * @type {import('eslint').ESLint.Options}
+ */
+const config = {
   root: true, // Specifies your current project has own eslint rules without extends parent folder eslint rules
-  parser: "@typescript-eslint/parser", // Specifies the ESLint parser
+  parser: '@typescript-eslint/parser', // Specifies the ESLint parser
   env: {
     browser: true, // add support for browser js (window,document,location,etc)
     amd: true, // add amd support
-    node: true, // add node support (module.export,etc)
+    node: true // add node support (module.export,etc)
   },
   parserOptions: {
     ecmaVersion: 2020, // Allows for the parsing of modern ECMAScript features
-    sourceType: "module", // Allows for the use of imports
+    sourceType: 'module' // Allows for the use of imports
   },
   extends: [
-    "eslint:recommended", // uses eslint default recommended
-    "plugin:@typescript-eslint/eslint-recommended", // Uses the recommended rules from the @typescript-eslint/eslint-plugin
-    "plugin:@typescript-eslint/recommended", // Uses the recommended rules from the @typescript-eslint/eslint-plugin
-    "plugin:prettier/recommended", // Enables eslint-plugin-prettier and eslint-config-prettier. This will display prettier errors as ESLint errors. Make sure this is always the last configuration in the extends array.
+    'eslint:recommended', // uses eslint default recommended
+    'plugin:@typescript-eslint/eslint-recommended', // Uses the recommended rules from the @typescript-eslint/eslint-plugin
+    'plugin:@typescript-eslint/recommended', // Uses the recommended rules from the @typescript-eslint/eslint-plugin
+    'plugin:prettier/recommended' // Enables eslint-plugin-prettier and eslint-config-prettier. This will display prettier errors as ESLint errors. Make sure this is always the last configuration in the extends array.
   ],
   // override rules for js files
   overrides: [
     {
-      files: ["*.js"],
+      files: ['*.js'],
       rules: {
-        "@typescript-eslint/no-var-requires": "off", // disable require warning on js files
-      },
-    },
+        '@typescript-eslint/no-var-requires': 'off' // disable require warning on js files
+      }
+    }
   ],
   // specify your desired rules for eslint
   rules: {
-    "@typescript-eslint/explicit-function-return-type": "off", // disable function without return type
-    "no-unused-vars": "off", // disable original eslint unused-vars
-    "@typescript-eslint/no-unused-vars": [
-      "error",
+    'prettier/prettier': ['error', prettier],
+    '@typescript-eslint/explicit-function-return-type': 'off', // disable function without return type
+    'no-unused-vars': 'off', // disable original eslint unused-vars
+    '@typescript-eslint/no-unused-vars': [
+      'error',
       {
-        argsIgnorePattern: "^_",
-        varsIgnorePattern: "^_",
-        caughtErrorsIgnorePattern: "^_",
-      },
+        argsIgnorePattern: '^_',
+        varsIgnorePattern: '^_',
+        caughtErrorsIgnorePattern: '^_'
+      }
     ], // enable typescript-eslint unused-vars and allow unused vars start with underscore (_)
-    "@typescript-eslint/no-explicit-any": "off", // allow any types
-    "@typescript-eslint/no-this-alias": [
+    '@typescript-eslint/no-explicit-any': 'off', // allow any types
+    '@typescript-eslint/no-this-alias': [
       // rules for this binding
-      "error",
+      'error',
       {
         allowDestructuring: false, // Disallow `const { props, state } = this`; true by default
-        allowedNames: ["self"], // Allow `const self = this`; `[]` by default
-      },
+        allowedNames: ['self'] // Allow `const self = this`; `[]` by default
+      }
     ],
     // "arrow-body-style" and "prefer-arrow-callback" are two ESLint core rules that can cause issues with prettier/prettier plugin, so turn them off.
-    "arrow-body-style": "off",
-    "prefer-arrow-callback": "off",
-  },
+    'arrow-body-style': 'off',
+    'prefer-arrow-callback': 'off'
+  }
 };
+
+module.exports = config;
 ```
 
 ## Create Prettier Config
@@ -124,7 +131,8 @@ module.exports = {
   tabWidth: 2
 };
 ```
-### Using .prettierc
+
+### Using .prettierc.json
 ```jsonc
 {
   "$schema": "https://json.schemastore.org/prettierrc",
@@ -138,17 +146,22 @@ module.exports = {
 
 ## Create .vscode/settings.json
 this will automate lint and format your codes when saving.
-```jsonc
+```jsonc 
 {
+  "files.autoSave": "onWindowChange",
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true // let ESLint take formating and linting
+    "source.fixAll": true, // let ESLint take formating and linting
+    "source.organizeImports": true // auto remove unused imports
   },
+  "editor.formatOnPaste": false, // disable default vscode formatter
+  "editor.formatOnSave": false, // disable default vscode formatter
   "[json]": {
     "editor.formatOnSave": true // enable json formating with default vscode formatter
   },
-  "editor.formatOnSave": false, // disable default vscode formatter
 }
 ```
+
+**now your vscode auto format and lint every saved files on vscode**
 
 ## optional: create tsconfig.json (if not created yet)
 for example tsconfig.json for node 12.
