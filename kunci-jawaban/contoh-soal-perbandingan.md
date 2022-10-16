@@ -1,7 +1,7 @@
 ---
 title: Contoh soal perbandingan
 date: 2022-10-12T18:39:25+07:00
-updated: 2022-10-13T04:39:27+07:00
+updated: 2022-10-16T07:35:42+07:00
 language: id
 tags:
   - scala

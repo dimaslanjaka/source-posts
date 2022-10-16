@@ -1,8 +1,9 @@
 ---
 title: Cara menentukan skala pada peta
-description: Rumus Skala, Contoh Soal Skala, Jarak Sebenarnya, Jarak Pada Peta, Penentuan Skala
+description: Rumus Skala, Contoh Soal Skala, Jarak Sebenarnya, Jarak Pada Peta,
+  Penentuan Skala
 date: 2022-10-11T23:43:58+07:00
-updated: 2022-10-12T18:39:25+07:00
+updated: 2022-10-16T07:35:43+07:00
 language: id
 keywords:
   - Menentukan jarak sebenarnya dari peta
