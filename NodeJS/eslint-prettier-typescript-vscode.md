@@ -174,7 +174,7 @@ this will automate lint and format your codes when saving.
 }
 ```
 
-**now your vscode auto format and lint every saved files on vscode**
+**now your vscode auto format and lint every saved files**
 
 ## optional: create tsconfig.json (if not created yet)
 for example tsconfig.json for node 12.
