@@ -3,6 +3,7 @@ title: Kumpulan rumus satuan dalam matematika
 date: 2022-10-16T04:01:16+07:00
 updated: 2022-10-16T04:12:52+07:00
 description: Kumpulan rumus satuan dalam matematika
+language: id
 tags:
   - Unit
 categories:
