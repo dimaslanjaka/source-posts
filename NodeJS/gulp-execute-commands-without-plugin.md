@@ -35,6 +35,9 @@ gulp.task('default', function () {
 });
 ```
 
+## Result using exec
+![image](https://user-images.githubusercontent.com/12471057/196072185-f39e2b13-1f0f-49a6-9a98-e3741a20ae7e.png)
+
 References:
 -----------
 
