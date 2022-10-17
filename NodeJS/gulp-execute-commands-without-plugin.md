@@ -2,7 +2,7 @@
 title: Gulp execute commands without plugin
 lang: en
 date: 2022-10-17T08:40:46+07:00
-updated: 2022-10-17T08:40:46+07:00
+updated: 2022-10-17T08:51:29+07:00
 tags: ['JS', 'gulp', 'exec']
 categories: ['Programming', 'JS']
 ---
