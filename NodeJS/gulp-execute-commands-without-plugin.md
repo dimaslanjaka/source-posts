@@ -9,8 +9,10 @@ categories: ['Programming', 'JS']
 
 solution for executing shell commands within gulp in NodeJS.
 
-## Using child_process.exec in gulp
+## Using child_process.exec in gulp with gulp.watch
 Using [exec child_process](https://nodejs.org/api/child_process.html#child_processexeccommand-options-callback). `exec` takes one string that will be parsed by the shell, and it silences output by default.
+
+Below codes for watching files and run shell commands every file changes.
 
 ```js
 const { exec } = require('child_process');
