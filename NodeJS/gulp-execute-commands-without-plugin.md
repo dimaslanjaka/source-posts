@@ -10,7 +10,7 @@ categories: ['Programming', 'JS']
 solution for executing shell commands within gulp in NodeJS.
 
 ## Using child_process.exec in gulp
-Using [exec child_process](https://nodejs.org/api/child_process.html#child_processexeccommand-options-callback)
+Using [exec child_process](https://nodejs.org/api/child_process.html#child_processexeccommand-options-callback). `exec` takes one string that will be parsed by the shell, and it silences output by default.
 
 ```js
 const { exec } = require('child_process');
@@ -34,3 +34,12 @@ gulp.task('default', function () {
   });
 });
 ```
+
+References:
+-----------
+
+-   Gulp documentation: [Returning a child process](https://gulpjs.com/docs/en/getting-started/async-completion/#returning-a-child-process)
+-   Node documentation: [`child_process.exec(command, options, callback)`](https://nodejs.org/api/child_process.html#child_process_child_process_exec_command_options_callback)
+-   Node documentation: [`child_process.spawn(command, args, options)`](https://nodejs.org/api/child_process.html#child_process_child_process_spawn_command_args_options)
+
+
