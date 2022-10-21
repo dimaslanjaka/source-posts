@@ -131,6 +131,11 @@
           "title": "updated",
           "name": "updated",
           "type": "datetime"
+        },
+        {
+          "title": "webtitle",
+          "name": "webtitle",
+          "type": "string"
         }
       ]
     }
