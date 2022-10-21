@@ -7,7 +7,7 @@ keywords:
 description: Mora cost weapon genshin impact
 author: Dimas Lanjaka
 date: 2021-05-14T20:30:00+07:00
-updated: 2022-10-22T05:03:56+07:00
+updated: 2022-10-22T05:35:22+07:00
 thumbnail: /2021/05/mora-cost-weapon-genshin-impact/mora-cost-weapon.png
 category:
   - Games
@@ -20,9 +20,11 @@ tags:
 
 ## How much mora required to upgrade weapon to maximum level on genshin impact?
 
+![Mora cost for upgrading weapon on Genshin Impact](mora-cost-weapon-genshin-impact/mora-cost-weapon.png)
+
 ## The ascension costs for weapon
 
-### For **3 star** weapon to go
+### For _3 star_ weapon to go
 
 From lvl 20 to 20*,  you need 5000 moras,
 
@@ -36,35 +38,36 @@ From lvl 70 to 70*, you need 26000 moras
 
 From lvl 80 to 80*, you need 30000 moras
 
-
-For **4 star** weapons to go
+### For _4 star_ weapons to go
 
 from lvl 20 to 20*, you need 5000 moras,
 
-From lvl 40 to 40*, you need 15'000 moras
+From lvl 40 to 40*, you need 15,000 moras
 
-From lvl 50 to 50*, you need 20'000 moras
+From lvl 50 to 50*, you need 20,000 moras
 
-From lvl 60 to 60*, you need 30'000 moras
+From lvl 60 to 60*, you need 30,000 moras
 
-From lvl 70 to 70*, you need 35'000 moras
+From lvl 70 to 70*, you need 35,000 moras
 
-From lvl 80 to 80*, you need 45'000 moras
-
-
-For 5* weapons to go
-
-from lvl20 to 20*,  you need 10'000 moras,
-
-From lvl40 to 40*, you need 20'000 moras
-
-From lvl50 to 50*, you need 30'000 moras
-
-From lvl60 to 60*, you need 45'000 moras
-
-From lvl70 to 70*, you need  55'000 moras
-
-From lvl80 to 80*, you need 65'000 moras
+From lvl 80 to 80*, you need 45,000 moras
 
 
-If you have the Shogun Raiden, these costs can be divided by 2 if it's a sword or a polearm.
+### For _5 star_ weapons to go
+
+From lvl 20 to 20*,  you need 10,000 moras
+
+From lvl 40 to 40*, you need 20,000 moras
+
+From lvl 50 to 50*, you need 30,000 moras
+
+From lvl 60 to 60*, you need 45,000 moras
+
+From lvl 70 to 70*, you need 55,000 moras
+
+From lvl 80 to 80*, you need 65,000 moras
+
+
+If you have the **Shogun Raiden**, these costs can be divided by 2 if it's a sword or a polearm.
+
+<!-- script mora-cost-weapon-genshin-impact/script.js -->
