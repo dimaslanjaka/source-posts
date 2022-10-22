@@ -21,6 +21,8 @@ tags:
 ## How much mora required to upgrade weapon to maximum level on genshin impact?
 When leveling a weapon, 10 XP costs 1 Mora (unless recycling a weapon that is already leveling, see below). (1/2/3/4/5 stars). Upgrading Chuck weapons restores 80% of experience at no additional mora cost (e.g. using a level 20 3 star weapon gives 1,800 + 0.8 * 53,475 = 44,580 experience, or 180 mora cost).
 
+Upgrading 4-star and 5-star weapons requires spending approximately 750,000 and 1.31 million moras respectively.
+
 ### 5 star weapons mora costs
 | Level | Exp to Next Level | Total EXP | Cost per EXP |
 | --- | --- | --- | --- |
