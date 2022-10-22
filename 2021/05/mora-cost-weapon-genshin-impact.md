@@ -7,7 +7,7 @@ keywords:
 description: Mora cost weapon genshin impact
 author: Dimas Lanjaka
 date: 2021-05-14T20:30:00+07:00
-updated: 2022-10-22T08:47:37+07:00
+updated: 2022-10-22T11:33:23+07:00
 thumbnail: /2021/05/mora-cost-weapon-genshin-impact/mora-cost-weapon.png
 category:
   - Games
