@@ -7,7 +7,7 @@ keywords:
 description: Mora cost weapon genshin impact
 author: Dimas Lanjaka
 date: 2021-05-14T20:30:00+07:00
-updated: 2022-10-22T08:09:52+07:00
+updated: 2022-10-22T08:47:37+07:00
 thumbnail: /2021/05/mora-cost-weapon-genshin-impact/mora-cost-weapon.png
 category:
   - Games
@@ -117,7 +117,7 @@ When leveling a weapon, 10 XP costs 1 Mora (unless recycling a weapon that is al
 
 <!-- include mora-cost-weapon-genshin-impact/wp5.html -->
 
-## The ascension mora costs for weapon
+## Mora costs for The ascension weapon
 
 ### For _3 star_ weapon to go
 
