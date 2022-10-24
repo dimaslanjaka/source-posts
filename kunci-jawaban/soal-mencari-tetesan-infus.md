@@ -19,8 +19,8 @@ Jawab :
 
 <p>\[ TPM = (15\ tetes/mL x 1000 mL) / 10 jam x 60 \]</p>
 
-TPM = 15000/600
+<p>\[ TPM = 15000 \div 600 \]</p>
 
-TPM = 25 tetes/menit
+<p>\[ TPM = 25 tetes/menit \]</p>
 
 <script src="https://raw.githack.com/dimaslanjaka/Web-Manajemen/master/mathjax/loader.js"></script>

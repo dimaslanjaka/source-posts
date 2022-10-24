@@ -1,5 +1,4 @@
 {
-  "cSpell.words": ["Agustina", "Bluestacks", "Maulinda", "Neverland"],
   "editor.tabCompletion": "on",
   "emmet.excludeLanguages": [],
   "emmet.includeLanguages": {
@@ -7,8 +6,14 @@
   },
   "[markdown]": {
     "editor.wordWrap": "on",
-    "editor.quickSuggestions": true
+    "editor.quickSuggestions": {
+      "other": "on",
+      "comments": "off",
+      "strings": "off"
+    }
   },
   "emmet.showSuggestionsAsSnippets": true,
-  "emmet.extensionsPath": ["D:\\Repositories\\gh-pages\\src-posts\\The Legend Of Neverland\\.vscode"]
+  "emmet.extensionsPath": [
+    "D:\\Repositories\\gh-pages\\src-posts\\The Legend Of Neverland\\.vscode"
+  ]
 }
