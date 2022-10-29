@@ -40,6 +40,8 @@ updated: 2022-10-29T09:57:25+07:00
 <!-- include Quiz/table.html -->
 
 ## Changelog
+### 2022-10-29
+- Prepend new question and answer of quiz
 ### 2022-09-26
 - single backend (no more separate servers causing duplicate quiz questions and answers)
 - change **While cooking, adding salt to before taking the dish out can reduce the loss of iodine** from **(O)** to **(X)**
