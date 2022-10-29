@@ -63,3 +63,6 @@ ts-mocha test/*.spec.ts
 ts-mocha test/basic.spec.ts
 ```
 
+## Result Screenshots
+![Using ts-mocha](https://user-images.githubusercontent.com/12471057/198816982-3f460b71-7105-4211-806e-9e5fcdab1c03.png)
+
