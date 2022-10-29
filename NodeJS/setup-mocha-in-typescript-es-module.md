@@ -4,6 +4,7 @@ date: 2022-10-29T13:14:19+07:00
 updated: 2022-10-29T13:14:19+07:00
 tags: ['mocha', 'typescript', 'esm']
 categories: ['Programming', 'NodeJS']
+thumbnail: https://user-images.githubusercontent.com/17888086/62067383-2fe4af00-b1f9-11e9-88c4-4953bb090215.png
 ---
 
 ## Install dependencies
