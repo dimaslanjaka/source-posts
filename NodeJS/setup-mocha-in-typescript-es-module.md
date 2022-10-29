@@ -1,7 +1,7 @@
 ---
 title: How to setup mocha in typescript ES Module
 date: 2022-10-29T13:14:19+07:00
-updated: 2022-10-29T13:14:19+07:00
+updated: 2022-10-29T13:47:01+07:00
 tags: ['mocha', 'typescript', 'esm']
 categories: ['Programming', 'NodeJS']
 thumbnail: https://user-images.githubusercontent.com/17888086/62067383-2fe4af00-b1f9-11e9-88c4-4953bb090215.png
@@ -56,11 +56,21 @@ describe('My function', function () {
 
 ## How to test
 
+### mocha test all patterns from .mocharc.json
 ```bash
-# testing bulk files
+mocha
+```
+### mocha testing bulk files
+```bash
 ts-mocha test/*.spec.ts
-# or testing single file
+```
+### mocha testing single file
+```bash
 ts-mocha test/basic.spec.ts
+```
+### mocha test reporting to html
+```bash
+mocha --reporter doc > reports/report.html
 ```
 
 ## Result Screenshots
