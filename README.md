@@ -1,4 +1,4 @@
-# dimaslanjaka.github.io source posts
+# dimaslanjaka.github.io / www.webmanajemen.com source posts
 
 **COPYING THE ARTICLES HERE ARE STRICTLY PROHIBITED**
 | Key | Value |
