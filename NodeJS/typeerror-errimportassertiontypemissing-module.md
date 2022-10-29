@@ -30,6 +30,12 @@ const { default: info } = await import("./package.json", {
 });
 ```
 
+## Difference between import assertion in a static import and a dynamic import
+
+Static import just importing JSON as ANY TYPE.
+
+Dynamic import is importing JSON with the JSON structure type.
+
 Proposed by [https://github.com/tc39/proposal-import-assertions](https://github.com/tc39/proposal-import-assertions)
 
 Answer source: [https://stackoverflow.com/a/70106896](https://stackoverflow.com/a/70106896)
