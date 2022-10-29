@@ -17,6 +17,11 @@ import countryTable from './data/countries.json';
 ```typescript
 import countryTable from "./data/countries.json" assert { type: "json" };
 ```
+
+Proposed by [https://github.com/tc39/proposal-import-assertions](https://github.com/tc39/proposal-import-assertions)
+
+Answer source: [https://stackoverflow.com/a/70106896](https://stackoverflow.com/a/70106896)
+
 ## More example importing JSON in ESM
 ```typescript
 // An import assertion in a static import
@@ -55,6 +60,16 @@ const require = createRequire(import.meta.url);
 const data = require("./data.json");
 ```
 
-Proposed by [https://github.com/tc39/proposal-import-assertions](https://github.com/tc39/proposal-import-assertions)
+#### Dynamic import and assign to interfaces
+```typescript
+interface Thesaurus {
+  [key: string]: string[];
+}
+const { default: thesaurus }: { default: Thesaurus } = await import('./thesaurus-en.json', {
+  assert: {
+    type: 'json'
+  }
+});
+```
 
-Answer source: [https://stackoverflow.com/a/70106896](https://stackoverflow.com/a/70106896)
+
