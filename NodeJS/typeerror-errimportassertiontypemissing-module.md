@@ -2,7 +2,7 @@
 title: TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix
 date: 2022-10-29T11:21:14+07:00
 updated: 2022-10-29T11:52:09+07:00
-categories: ['Programming', 'TS']
+categories: ['Programming', 'TS', 'JS']
 tags: ['typescript', 'typeerror']
 thumbnail: https://bobbyhadz.com/images/blog/node-type-error-err-import-assertion-type-missing/typeerror-err-import-assertion-type-missing.webp
 ---
