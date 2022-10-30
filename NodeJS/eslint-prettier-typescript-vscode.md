@@ -146,6 +146,9 @@ module.exports = {
 ```
 
 ### Using .prettierc.json
+
+> if you using json, change top of [`.eslintrc.js`](#Create-eslintrc-js) to `const prettier = require('./.prettierrc.json');`
+
 ```jsonc
 {
   "$schema": "https://json.schemastore.org/prettierrc",
