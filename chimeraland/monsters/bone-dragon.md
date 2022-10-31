@@ -1,0 +1,18 @@
+---
+title: Bone Dragon
+webtitle: Chimeraland
+author: L3n4r0x
+updated: 2022-10-31T14:52:24+07:00
+date: 2022-01-06T20:56:03+07:00
+permalink: /monsters/bone-dragon.html
+photos: []
+tags:
+  - Monster
+  - Pet
+categories:
+  - Games
+  - Chimeraland
+  - Monsters
+---
+
+<section id="bootstrap-wrapper"><link rel="stylesheet" href="https://cdn.statically.io/gh/dimaslanjaka/Web-Manajemen/40ac3225/css/bootstrap-4.5-wrapper.css"/><h1>Bone Dragon Information from Chimeraland</h1><p><b>Bone Dragon</b> default attribute GRADE A ATK 73 HP 71 DEF 69<table><tr><th>GRADE</th><td>A</td></tr><tr><th>Attack</th><td>73</td></tr><tr><th>Health Point (HP)</th><td>71</td></tr><tr><th>Defense</th><td>69</td></tr></table></p><hr/><h2>Delicacies/Tasty for Bone Dragon</h2><hr/><div id="gallery"><h2>Galleries for Bone Dragon</h2><div class="row"></div></div></section>

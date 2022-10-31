@@ -1,0 +1,17 @@
+---
+title: Lunar Regni
+webtitle: Chimeraland
+author: L3n4r0x
+updated: 2022-10-31T14:52:25+07:00
+date: 2022-01-06T20:56:03+07:00
+permalink: /attendants/lunar-regni.html
+photos: []
+tags:
+  - Attendant
+categories:
+  - Games
+  - Chimeraland
+  - Attendants
+---
+
+<section id="bootstrap-wrapper"><link rel="stylesheet" href="https://cdn.statically.io/gh/dimaslanjaka/Web-Manajemen/40ac3225/css/bootstrap-4.5-wrapper.css"/><h1>Lunar Regni Information from Chimeraland</h1><p><b>Lunar Regni</b> default attribute GRADE B ATK 70 HP 70 DEF 70<table><tr><th>GRADE</th><td>B</td></tr><tr><th>Attack</th><td>70</td></tr><tr><th>Health Point (HP)</th><td>70</td></tr><tr><th>Defense</th><td>70</td></tr></table></p><hr/><h2>Delicacies/Tasty for Lunar Regni</h2><li class="d-flex justify-content-between">Rustic Preserved Deer Roll </li><li class="d-flex justify-content-between">Exotic Herbal Jelly <a href="/chimeraland/recipes/exotic-herbal-jelly.html">Click here to view recipe <i>Exotic Herbal Jelly</i> details</a></li><li class="d-flex justify-content-between">Hot Stone Icefox Meat </li><hr/><div id="gallery"><h2>Galleries for Lunar Regni</h2><div class="row"></div></div></section>
