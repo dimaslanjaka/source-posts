@@ -11,6 +11,8 @@ categories:
   - Chimeraland
   - Scenic
   - Spot
+date: 2022-09-10T00:00:00+07:00
+updated: 2022-11-01T16:05:02+07:00
 description: Scenic Spot Locations - Chimeraland
 language: en-US,id
 image: https://i.ytimg.com/vi/vk8Nz2AiKe8/maxresdefault.jpg
