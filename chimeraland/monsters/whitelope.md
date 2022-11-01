@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T09:18:27+07:00
 date: 2022-01-11T12:56:03+07:00
-permalink: /monsters/whitelope.html
+permalink: /chimeraland/monsters/whitelope.html
 photos:
-  - /monsters/whitelope/Screenshot_2022-07-14-15-53-09-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/whitelope/Screenshot_2022-07-14-15-53-15-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/whitelope/Screenshot_2022-07-14-15-53-22-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/whitelope/Screenshot_2022-07-14-15-53-29-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/whitelope/Screenshot_2022-07-14-15-53-44-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/whitelope/Screenshot_2022-07-14-15-53-49-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/whitelope/Screenshot_2022-07-14-15-53-09-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-09-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-15-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-22-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-29-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-44-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-49-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-09-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T08:18:27+07:00
 date: 2022-01-07T07:56:03+07:00
-permalink: /monsters/camel.html
+permalink: /chimeraland/monsters/camel.html
 photos:
-  - /monsters/camel/Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/camel/Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/camel/Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/camel/Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/camel/Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/camel/Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/camel/Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

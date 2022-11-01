@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T08:26:37+07:00
 date: 2022-01-07T09:56:03+07:00
-permalink: /attendants/letoo.html
+permalink: /chimeraland/attendants/letoo.html
 photos:
-  - /attendants/letoo/Screenshot_2022-07-24-12-17-40-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/letoo/Screenshot_2022-07-24-12-17-43-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/letoo/Screenshot_2022-07-24-12-17-46-21_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/letoo/Screenshot_2022-07-24-12-17-48-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/letoo/Screenshot_2022-07-24-12-17-53-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/letoo/Screenshot_2022-07-24-12-18-03-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/letoo/Screenshot_2022-07-24-12-17-40-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-40-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-43-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-46-21_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-48-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-53-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/letoo/Screenshot_2022-07-24-12-18-03-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-40-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

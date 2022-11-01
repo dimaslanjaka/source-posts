@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T07:26:37+07:00
 date: 2022-01-07T03:56:03+07:00
-permalink: /attendants/mantiguard.html
+permalink: /chimeraland/attendants/mantiguard.html
 photos:
-  - /attendants/mantiguard/Screenshot_2022-07-17-22-28-18-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/mantiguard/Screenshot_2022-07-17-22-28-22-85_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/mantiguard/Screenshot_2022-07-17-22-28-27-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/mantiguard/Screenshot_2022-07-17-22-28-31-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/mantiguard/Screenshot_2022-07-17-22-28-36-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/mantiguard/Screenshot_2022-07-17-22-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/mantiguard/Screenshot_2022-07-17-22-28-18-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/mantiguard/Screenshot_2022-07-17-22-28-18-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/mantiguard/Screenshot_2022-07-17-22-28-22-85_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/mantiguard/Screenshot_2022-07-17-22-28-27-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/mantiguard/Screenshot_2022-07-17-22-28-31-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/mantiguard/Screenshot_2022-07-17-22-28-36-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/mantiguard/Screenshot_2022-07-17-22-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/mantiguard/Screenshot_2022-07-17-22-28-18-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

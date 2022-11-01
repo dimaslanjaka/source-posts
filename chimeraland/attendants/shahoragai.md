@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T10:26:37+07:00
 date: 2022-01-07T04:56:03+07:00
-permalink: /attendants/shahoragai.html
+permalink: /chimeraland/attendants/shahoragai.html
 photos:
-  - /attendants/shahoragai/Screenshot_2022-07-17-22-35-20-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/shahoragai/Screenshot_2022-07-17-22-35-23-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/shahoragai/Screenshot_2022-07-17-22-35-27-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/shahoragai/Screenshot_2022-07-17-22-35-31-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/shahoragai/Screenshot_2022-07-17-22-35-35-28_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/shahoragai/Screenshot_2022-07-17-22-35-40-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/shahoragai/Screenshot_2022-07-17-22-35-20-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-20-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-23-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-27-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-31-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-35-28_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-40-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-20-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

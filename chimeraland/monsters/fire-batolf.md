@@ -4,17 +4,17 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T22:18:27+07:00
 date: 2022-01-07T17:56:03+07:00
-permalink: /monsters/fire-batolf.html
+permalink: /chimeraland/monsters/fire-batolf.html
 photos:
-  - /monsters/fire-batolf/Screenshot_2022-08-12-23-37-52-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/fire-batolf/Screenshot_2022-08-12-23-37-57-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/fire-batolf/Screenshot_2022-08-12-23-38-02-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/fire-batolf/Screenshot_2022-08-12-23-38-07-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/fire-batolf/Screenshot_2022-08-12-23-38-11-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/fire-batolf/Screenshot_2022-08-12-23-38-16-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/fire-batolf/Screenshot_2022-08-12-23-38-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/fire-batolf/Screenshot_2022-08-12-23-38-27-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/fire-batolf/Screenshot_2022-08-12-23-37-52-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-37-52-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-37-57-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-02-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-07-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-11-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-16-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-27-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-37-52-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

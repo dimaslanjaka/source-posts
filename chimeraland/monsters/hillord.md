@@ -4,16 +4,16 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T11:18:27+07:00
 date: 2022-01-08T01:56:03+07:00
-permalink: /monsters/hillord.html
+permalink: /chimeraland/monsters/hillord.html
 photos:
-  - /monsters/hillord/Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/hillord/Screenshot_2022-07-29-00-43-57-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/hillord/Screenshot_2022-07-29-00-44-04-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/hillord/Screenshot_2022-07-29-00-44-09-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/hillord/Screenshot_2022-07-29-00-44-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/hillord/Screenshot_2022-07-29-00-44-16-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/hillord/Screenshot_2022-07-29-00-44-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/hillord/Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-43-57-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-04-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-09-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-16-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

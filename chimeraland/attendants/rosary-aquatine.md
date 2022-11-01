@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T04:26:37+07:00
 date: 2022-01-07T21:56:03+07:00
-permalink: /attendants/rosary-aquatine.html
+permalink: /chimeraland/attendants/rosary-aquatine.html
 photos:
-  - /attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-49-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-52-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-58-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rosary-aquatine/Screenshot_2022-07-29-21-53-01-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rosary-aquatine/Screenshot_2022-07-29-21-53-04-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rosary-aquatine/Screenshot_2022-07-29-21-53-08-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-49-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-49-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-52-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-58-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-53-01-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-53-04-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-53-08-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-49-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

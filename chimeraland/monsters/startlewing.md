@@ -4,17 +4,17 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-02T20:18:27+07:00
 date: 2022-01-10T13:56:03+07:00
-permalink: /monsters/startlewing.html
+permalink: /chimeraland/monsters/startlewing.html
 photos:
-  - /monsters/startlewing/Screenshot_2022-08-12-23-38-42-38_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/startlewing/Screenshot_2022-08-12-23-38-49-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/startlewing/Screenshot_2022-08-12-23-38-53-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/startlewing/Screenshot_2022-08-12-23-38-59-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/startlewing/Screenshot_2022-08-12-23-39-03-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/startlewing/Screenshot_2022-08-12-23-39-08-91_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/startlewing/Screenshot_2022-08-12-23-39-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/startlewing/Screenshot_2022-08-12-23-39-18-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/startlewing/Screenshot_2022-08-12-23-38-42-38_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-42-38_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-49-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-53-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-59-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-03-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-08-91_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-18-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-42-38_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

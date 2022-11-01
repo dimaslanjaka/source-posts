@@ -4,10 +4,10 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T04:18:27+07:00
 date: 2022-01-11T20:56:03+07:00
-permalink: /monsters/noble-serpent.html
+permalink: /chimeraland/monsters/noble-serpent.html
 photos:
-  - /monsters/noble-serpent/chimeraland-noble-serpent-evolve-featured.webp
-thumbnail: /monsters/noble-serpent/chimeraland-noble-serpent-evolve-featured.webp
+  - /chimeraland/monsters/noble-serpent/chimeraland-noble-serpent-evolve-featured.webp
+thumbnail: /chimeraland/monsters/noble-serpent/chimeraland-noble-serpent-evolve-featured.webp
 tags:
   - Chimeraland
   - Monster

@@ -4,17 +4,17 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-28T23:18:27+07:00
 date: 2022-01-07T14:56:03+07:00
-permalink: /monsters/coracrab.html
+permalink: /chimeraland/monsters/coracrab.html
 photos:
-  - /monsters/coracrab/Screenshot_2022-07-29-00-34-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/coracrab/Screenshot_2022-07-29-00-34-53-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/coracrab/Screenshot_2022-07-29-00-34-59-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/coracrab/Screenshot_2022-07-29-00-35-03-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/coracrab/Screenshot_2022-07-29-00-35-08-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/coracrab/Screenshot_2022-07-29-00-35-11-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/coracrab/Screenshot_2022-07-29-00-35-18-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/coracrab/Screenshot_2022-07-29-00-35-22-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/coracrab/Screenshot_2022-07-29-00-34-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-34-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-34-53-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-34-59-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-03-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-08-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-11-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-18-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-22-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-34-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

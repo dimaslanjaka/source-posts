@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T20:18:27+07:00
 date: 2022-01-08T15:56:03+07:00
-permalink: /monsters/horned-bosalo.html
+permalink: /chimeraland/monsters/horned-bosalo.html
 photos:
-  - /monsters/horned-bosalo/Screenshot_2022-07-15-17-00-24-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/horned-bosalo/Screenshot_2022-07-15-17-00-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/horned-bosalo/Screenshot_2022-07-15-17-00-36-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/horned-bosalo/Screenshot_2022-07-15-17-00-41-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/horned-bosalo/Screenshot_2022-07-15-17-00-45-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/horned-bosalo/Screenshot_2022-07-15-17-00-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/horned-bosalo/Screenshot_2022-07-15-17-00-24-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-24-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-36-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-41-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-45-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-24-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

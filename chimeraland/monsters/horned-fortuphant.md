@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T19:18:27+07:00
 date: 2022-01-09T01:56:03+07:00
-permalink: /monsters/horned-fortuphant.html
+permalink: /chimeraland/monsters/horned-fortuphant.html
 photos: []
 tags:
   - Chimeraland

@@ -4,16 +4,16 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-01T23:18:27+07:00
 date: 2022-01-10T21:56:03+07:00
-permalink: /monsters/vuldo.html
+permalink: /chimeraland/monsters/vuldo.html
 photos:
-  - /monsters/vuldo/Screenshot_2022-07-18-01-10-33-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/vuldo/Screenshot_2022-07-18-01-10-37-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/vuldo/Screenshot_2022-07-18-01-10-41-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/vuldo/Screenshot_2022-07-18-01-10-44-64_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/vuldo/Screenshot_2022-07-18-01-10-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/vuldo/Screenshot_2022-07-18-01-10-52-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/vuldo/Screenshot_2022-07-29-00-21-28-82_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/vuldo/Screenshot_2022-07-18-01-10-33-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-33-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-37-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-41-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-44-64_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-52-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/vuldo/Screenshot_2022-07-29-00-21-28-82_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-33-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

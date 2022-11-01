@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T06:26:37+07:00
 date: 2022-01-07T06:56:03+07:00
-permalink: /attendants/draco-violentine.html
+permalink: /chimeraland/attendants/draco-violentine.html
 photos:
-  - /attendants/draco-violentine/Screenshot_2022-08-31-21-04-41-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/draco-violentine/Screenshot_2022-08-31-21-04-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/draco-violentine/Screenshot_2022-08-31-21-04-59-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/draco-violentine/Screenshot_2022-08-31-21-04-41-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/draco-violentine/Screenshot_2022-08-31-21-04-41-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/draco-violentine/Screenshot_2022-08-31-21-04-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/draco-violentine/Screenshot_2022-08-31-21-04-59-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/draco-violentine/Screenshot_2022-08-31-21-04-41-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

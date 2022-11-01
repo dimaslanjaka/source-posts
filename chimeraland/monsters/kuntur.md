@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-01T07:18:27+07:00
 date: 2022-01-09T02:56:03+07:00
-permalink: /monsters/kuntur.html
+permalink: /chimeraland/monsters/kuntur.html
 photos: []
 tags:
   - Chimeraland

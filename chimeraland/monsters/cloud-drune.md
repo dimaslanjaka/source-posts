@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T13:18:27+07:00
 date: 2022-01-07T22:56:03+07:00
-permalink: /monsters/cloud-drune.html
+permalink: /chimeraland/monsters/cloud-drune.html
 photos: []
 tags:
   - Chimeraland

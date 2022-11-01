@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T18:26:37+07:00
 date: 2022-01-07T23:56:03+07:00
-permalink: /attendants/shaman-luna.html
+permalink: /chimeraland/attendants/shaman-luna.html
 photos: []
 tags:
   - Chimeraland

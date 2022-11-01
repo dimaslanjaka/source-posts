@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-02T06:18:27+07:00
 date: 2022-01-09T22:56:03+07:00
-permalink: /monsters/snowie.html
+permalink: /chimeraland/monsters/snowie.html
 photos: []
 tags:
   - Chimeraland

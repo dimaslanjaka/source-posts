@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T01:18:27+07:00
 date: 2022-01-08T20:56:03+07:00
-permalink: /monsters/lime-lobcray.html
+permalink: /chimeraland/monsters/lime-lobcray.html
 photos: []
 tags:
   - Chimeraland

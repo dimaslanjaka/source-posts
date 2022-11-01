@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T17:18:27+07:00
 date: 2022-01-06T22:56:03+07:00
-permalink: /monsters/dragon-horse.html
+permalink: /chimeraland/monsters/dragon-horse.html
 photos: []
 tags:
   - Chimeraland

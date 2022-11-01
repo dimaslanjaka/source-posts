@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T07:26:37+07:00
 date: 2022-01-08T01:56:03+07:00
-permalink: /attendants/vuloneer.html
+permalink: /chimeraland/attendants/vuloneer.html
 photos:
-  - /attendants/vuloneer/Screenshot_2022-07-30-14-34-42-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/vuloneer/Screenshot_2022-07-30-14-34-46-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/vuloneer/Screenshot_2022-07-30-14-34-50-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/vuloneer/Screenshot_2022-07-30-14-34-55-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/vuloneer/Screenshot_2022-07-30-14-35-01-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/vuloneer/Screenshot_2022-07-30-14-35-06-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/vuloneer/Screenshot_2022-07-30-14-34-42-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-34-42-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-34-46-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-34-50-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-34-55-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-35-01-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-35-06-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-34-42-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

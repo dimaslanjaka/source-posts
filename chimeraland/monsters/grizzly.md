@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T16:18:27+07:00
 date: 2022-01-08T05:56:03+07:00
-permalink: /monsters/grizzly.html
+permalink: /chimeraland/monsters/grizzly.html
 photos:
-  - /monsters/grizzly/Screenshot_2022-07-16-18-47-32-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/grizzly/Screenshot_2022-07-16-18-47-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/grizzly/Screenshot_2022-07-16-18-47-40-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/grizzly/Screenshot_2022-07-16-18-47-44-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/grizzly/Screenshot_2022-07-16-18-47-49-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/grizzly/Screenshot_2022-07-16-18-47-54-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/grizzly/Screenshot_2022-07-16-18-47-32-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-32-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-40-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-44-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-49-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-54-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-32-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

@@ -4,17 +4,17 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-02T19:18:27+07:00
 date: 2022-01-10T22:56:03+07:00
-permalink: /monsters/stappo.html
+permalink: /chimeraland/monsters/stappo.html
 photos:
-  - /monsters/stappo/Screenshot_2022-08-18-02-51-13-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/stappo/Screenshot_2022-08-18-02-51-17-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/stappo/Screenshot_2022-08-18-02-51-21-38_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/stappo/Screenshot_2022-08-18-02-51-25-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/stappo/Screenshot_2022-08-18-02-51-30-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/stappo/Screenshot_2022-08-18-02-51-33-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/stappo/Screenshot_2022-08-18-02-51-39-56_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/stappo/Screenshot_2022-08-18-02-51-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/stappo/Screenshot_2022-08-18-02-51-13-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-13-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-17-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-21-38_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-25-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-30-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-33-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-39-56_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-13-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

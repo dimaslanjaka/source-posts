@@ -4,16 +4,16 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-02T05:18:27+07:00
 date: 2022-01-10T19:56:03+07:00
-permalink: /monsters/starefish.html
+permalink: /chimeraland/monsters/starefish.html
 photos:
-  - /monsters/starefish/Screenshot_2022-08-13-19-08-52-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/starefish/Screenshot_2022-08-13-19-08-57-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/starefish/Screenshot_2022-08-13-19-09-01-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/starefish/Screenshot_2022-08-13-19-09-06-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/starefish/Screenshot_2022-08-13-19-09-10-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/starefish/Screenshot_2022-08-13-19-09-16-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/starefish/Screenshot_2022-08-13-19-09-21-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/starefish/Screenshot_2022-08-13-19-08-52-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/starefish/Screenshot_2022-08-13-19-08-52-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/starefish/Screenshot_2022-08-13-19-08-57-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/starefish/Screenshot_2022-08-13-19-09-01-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/starefish/Screenshot_2022-08-13-19-09-06-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/starefish/Screenshot_2022-08-13-19-09-10-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/starefish/Screenshot_2022-08-13-19-09-16-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/starefish/Screenshot_2022-08-13-19-09-21-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/starefish/Screenshot_2022-08-13-19-08-52-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

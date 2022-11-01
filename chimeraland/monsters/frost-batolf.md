@@ -4,17 +4,17 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T23:18:27+07:00
 date: 2022-01-08T09:56:03+07:00
-permalink: /monsters/frost-batolf.html
+permalink: /chimeraland/monsters/frost-batolf.html
 photos:
-  - /monsters/frost-batolf/Screenshot_2022-08-14-02-17-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/frost-batolf/Screenshot_2022-08-14-02-17-42-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/frost-batolf/Screenshot_2022-08-14-02-17-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/frost-batolf/Screenshot_2022-08-14-02-17-49-90_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/frost-batolf/Screenshot_2022-08-14-02-17-54-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/frost-batolf/Screenshot_2022-08-14-02-18-02-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/frost-batolf/Screenshot_2022-08-14-02-18-06-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/frost-batolf/Screenshot_2022-08-14-02-18-10-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/frost-batolf/Screenshot_2022-08-14-02-17-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-42-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-49-90_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-54-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-02-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-06-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-10-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

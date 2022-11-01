@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T13:26:37+07:00
 date: 2022-01-07T07:56:03+07:00
-permalink: /attendants/reisiger.html
+permalink: /chimeraland/attendants/reisiger.html
 photos:
-  - /attendants/reisiger/Screenshot_2022-07-17-13-52-06-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/reisiger/Screenshot_2022-07-17-13-52-11-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/reisiger/Screenshot_2022-07-17-13-52-16-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/reisiger/Screenshot_2022-07-17-13-52-20-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/reisiger/Screenshot_2022-07-17-13-52-25-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/reisiger/Screenshot_2022-07-17-13-52-31-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/reisiger/Screenshot_2022-07-17-13-52-06-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/reisiger/Screenshot_2022-07-17-13-52-06-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/reisiger/Screenshot_2022-07-17-13-52-11-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/reisiger/Screenshot_2022-07-17-13-52-16-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/reisiger/Screenshot_2022-07-17-13-52-20-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/reisiger/Screenshot_2022-07-17-13-52-25-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/reisiger/Screenshot_2022-07-17-13-52-31-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/reisiger/Screenshot_2022-07-17-13-52-06-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

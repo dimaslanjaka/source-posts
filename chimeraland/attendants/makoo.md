@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T11:26:37+07:00
 date: 2022-01-06T23:56:03+07:00
-permalink: /attendants/makoo.html
+permalink: /chimeraland/attendants/makoo.html
 photos:
-  - /attendants/makoo/Screenshot_2022-07-24-12-18-18-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/makoo/Screenshot_2022-07-24-12-18-23-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/makoo/Screenshot_2022-07-24-12-18-29-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/makoo/Screenshot_2022-07-24-12-18-33-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/makoo/Screenshot_2022-07-24-12-18-40-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/makoo/Screenshot_2022-07-24-12-18-47-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/makoo/Screenshot_2022-07-24-12-18-18-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-18-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-23-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-29-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-33-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-40-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-47-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-18-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

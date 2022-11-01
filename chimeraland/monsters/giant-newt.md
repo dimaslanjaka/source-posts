@@ -4,17 +4,17 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T07:18:27+07:00
 date: 2022-01-08T10:56:03+07:00
-permalink: /monsters/giant-newt.html
+permalink: /chimeraland/monsters/giant-newt.html
 photos:
-  - /monsters/giant-newt/Screenshot_2022-08-15-18-34-26-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/giant-newt/Screenshot_2022-08-15-18-34-30-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/giant-newt/Screenshot_2022-08-15-18-34-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/giant-newt/Screenshot_2022-08-15-18-34-37-58_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/giant-newt/Screenshot_2022-08-15-18-34-42-69_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/giant-newt/Screenshot_2022-08-15-18-34-46-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/giant-newt/Screenshot_2022-08-15-18-34-52-23_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/giant-newt/Screenshot_2022-08-15-18-34-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/giant-newt/Screenshot_2022-08-15-18-34-26-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-26-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-30-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-37-58_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-42-69_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-46-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-52-23_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-26-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

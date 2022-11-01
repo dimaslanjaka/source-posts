@@ -4,17 +4,17 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T14:26:37+07:00
 date: 2022-01-07T18:56:03+07:00
-permalink: /attendants/vulamber.html
+permalink: /chimeraland/attendants/vulamber.html
 photos:
-  - /attendants/vulamber/Screenshot_2022-07-14-00-55-12-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/vulamber/Screenshot_2022-07-14-00-55-19-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/vulamber/Screenshot_2022-07-14-00-55-29-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/vulamber/Screenshot_2022-07-14-22-52-41-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/vulamber/Screenshot_2022-07-14-22-52-51-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/vulamber/Screenshot_2022-07-14-22-52-56-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/vulamber/Screenshot_2022-07-14-22-53-01-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/vulamber/Screenshot_2022-07-14-22-53-06-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/vulamber/Screenshot_2022-07-14-00-55-12-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/vulamber/Screenshot_2022-07-14-00-55-12-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/vulamber/Screenshot_2022-07-14-00-55-19-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/vulamber/Screenshot_2022-07-14-00-55-29-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/vulamber/Screenshot_2022-07-14-22-52-41-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/vulamber/Screenshot_2022-07-14-22-52-51-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/vulamber/Screenshot_2022-07-14-22-52-56-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/vulamber/Screenshot_2022-07-14-22-53-01-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/vulamber/Screenshot_2022-07-14-22-53-06-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/vulamber/Screenshot_2022-07-14-00-55-12-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

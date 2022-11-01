@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T03:26:37+07:00
 date: 2022-01-07T01:56:03+07:00
-permalink: /attendants/rosary-twinkel.html
+permalink: /chimeraland/attendants/rosary-twinkel.html
 photos: []
 tags:
   - Chimeraland

@@ -4,17 +4,17 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T06:18:27+07:00
 date: 2022-01-07T08:56:03+07:00
-permalink: /monsters/banshee.html
+permalink: /chimeraland/monsters/banshee.html
 photos:
-  - /monsters/banshee/Screenshot_2022-08-19-20-41-34-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/banshee/Screenshot_2022-08-19-20-41-39-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/banshee/Screenshot_2022-08-19-20-41-43-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/banshee/Screenshot_2022-08-19-20-41-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/banshee/Screenshot_2022-08-19-20-41-53-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/banshee/Screenshot_2022-08-19-20-42-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/banshee/Screenshot_2022-08-19-20-42-06-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/banshee/Screenshot_2022-08-19-20-42-12-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/banshee/Screenshot_2022-08-19-20-41-34-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-34-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-39-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-43-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-53-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-06-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-12-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-34-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

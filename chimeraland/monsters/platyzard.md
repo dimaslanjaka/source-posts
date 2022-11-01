@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-01T18:18:27+07:00
 date: 2022-01-09T21:56:03+07:00
-permalink: /monsters/platyzard.html
+permalink: /chimeraland/monsters/platyzard.html
 photos:
-  - /monsters/platyzard/Screenshot_2022-07-16-18-55-53-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/platyzard/Screenshot_2022-07-16-18-55-59-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/platyzard/Screenshot_2022-07-16-18-56-03-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/platyzard/Screenshot_2022-07-16-18-56-07-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/platyzard/Screenshot_2022-07-16-18-56-12-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/platyzard/Screenshot_2022-07-16-18-56-17-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/platyzard/Screenshot_2022-07-16-18-55-53-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-55-53-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-55-59-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-56-03-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-56-07-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-56-12-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-56-17-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-55-53-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-01T19:18:27+07:00
 date: 2022-01-09T07:56:03+07:00
-permalink: /monsters/mukrider.html
+permalink: /chimeraland/monsters/mukrider.html
 photos:
-  - /monsters/mukrider/Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/mukrider/Screenshot_2022-07-14-16-01-16-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/mukrider/Screenshot_2022-07-14-16-01-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/mukrider/Screenshot_2022-07-14-16-01-26-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/mukrider/Screenshot_2022-07-14-16-01-31-91_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/mukrider/Screenshot_2022-07-14-16-01-37-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/mukrider/Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-16-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-26-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-31-91_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-37-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

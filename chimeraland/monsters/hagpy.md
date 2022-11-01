@@ -4,17 +4,17 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T03:18:27+07:00
 date: 2022-01-08T16:56:03+07:00
-permalink: /monsters/hagpy.html
+permalink: /chimeraland/monsters/hagpy.html
 photos:
-  - /monsters/hagpy/Screenshot_2022-08-13-02-42-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/hagpy/Screenshot_2022-08-13-02-42-56-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/hagpy/Screenshot_2022-08-13-02-43-01-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/hagpy/Screenshot_2022-08-13-02-43-04-64_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/hagpy/Screenshot_2022-08-13-02-43-09-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/hagpy/Screenshot_2022-08-13-02-43-12-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/hagpy/Screenshot_2022-08-13-02-43-18-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/hagpy/Screenshot_2022-08-13-02-43-24-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/hagpy/Screenshot_2022-08-13-02-42-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-42-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-42-56-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-01-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-04-64_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-09-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-12-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-18-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-24-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-42-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

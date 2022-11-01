@@ -4,16 +4,16 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-01T15:18:27+07:00
 date: 2022-01-09T15:56:03+07:00
-permalink: /monsters/pinchpion.html
+permalink: /chimeraland/monsters/pinchpion.html
 photos:
-  - /monsters/pinchpion/Screenshot 2022-08-09 191501.webp
-  - /monsters/pinchpion/Screenshot 2022-08-09 191639.webp
-  - /monsters/pinchpion/Screenshot 2022-08-09 191659.webp
-  - /monsters/pinchpion/Screenshot 2022-08-09 191724.webp
-  - /monsters/pinchpion/Screenshot 2022-08-09 191741.webp
-  - /monsters/pinchpion/Screenshot 2022-08-09 191802.webp
-  - /monsters/pinchpion/Screenshot 2022-08-09 191821.webp
-thumbnail: /monsters/pinchpion/Screenshot 2022-08-09 191501.webp
+  - /chimeraland/monsters/pinchpion/Screenshot 2022-08-09 191501.webp
+  - /chimeraland/monsters/pinchpion/Screenshot 2022-08-09 191639.webp
+  - /chimeraland/monsters/pinchpion/Screenshot 2022-08-09 191659.webp
+  - /chimeraland/monsters/pinchpion/Screenshot 2022-08-09 191724.webp
+  - /chimeraland/monsters/pinchpion/Screenshot 2022-08-09 191741.webp
+  - /chimeraland/monsters/pinchpion/Screenshot 2022-08-09 191802.webp
+  - /chimeraland/monsters/pinchpion/Screenshot 2022-08-09 191821.webp
+thumbnail: /chimeraland/monsters/pinchpion/Screenshot 2022-08-09 191501.webp
 tags:
   - Chimeraland
   - Monster

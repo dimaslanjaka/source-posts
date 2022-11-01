@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-01T10:18:27+07:00
 date: 2022-01-09T05:56:03+07:00
-permalink: /monsters/mallard.html
+permalink: /chimeraland/monsters/mallard.html
 photos: []
 tags:
   - Chimeraland

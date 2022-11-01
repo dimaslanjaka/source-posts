@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T09:26:37+07:00
 date: 2022-01-07T10:56:03+07:00
-permalink: /attendants/lunar-shiren.html
+permalink: /chimeraland/attendants/lunar-shiren.html
 photos:
-  - /attendants/lunar-shiren/Screenshot_2022-07-17-22-35-55-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/lunar-shiren/Screenshot_2022-07-17-22-35-58-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/lunar-shiren/Screenshot_2022-07-17-22-36-02-58_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/lunar-shiren/Screenshot_2022-07-17-22-36-07-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/lunar-shiren/Screenshot_2022-07-17-22-36-12-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/lunar-shiren/Screenshot_2022-07-17-22-36-19-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/lunar-shiren/Screenshot_2022-07-17-22-35-55-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-35-55-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-35-58-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-36-02-58_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-36-07-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-36-12-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-36-19-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-35-55-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

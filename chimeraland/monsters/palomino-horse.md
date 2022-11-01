@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-11-01T14:09:43+07:00
 date: 2022-01-09T13:56:03+07:00
-permalink: /monsters/palomino-horse.html
+permalink: /chimeraland/monsters/palomino-horse.html
 photos:
-  - /monsters/palomino-horse/Screenshot_2022-07-15-11-57-32-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/palomino-horse/Screenshot_2022-07-15-11-57-37-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/palomino-horse/Screenshot_2022-07-15-11-57-42-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/palomino-horse/Screenshot_2022-07-15-11-57-47-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/palomino-horse/Screenshot_2022-07-15-11-57-52-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/palomino-horse/Screenshot_2022-07-15-11-57-57-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/palomino-horse/Screenshot_2022-07-15-11-57-32-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-32-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-37-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-42-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-47-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-52-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-57-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-32-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T14:18:27+07:00
 date: 2022-01-08T00:56:03+07:00
-permalink: /monsters/eleboar.html
+permalink: /chimeraland/monsters/eleboar.html
 photos: []
 tags:
   - Chimeraland

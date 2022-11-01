@@ -4,25 +4,25 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T12:18:27+07:00
 date: 2022-01-10T17:56:03+07:00
-permalink: /monsters/white-maiden.html
+permalink: /chimeraland/monsters/white-maiden.html
 photos:
-  - /monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-42-35-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-42-39-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-42-42-85_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-42-46-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-42-51-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-42-57-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-43-04-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-43-13-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-43-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-43-25-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-43-31-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-43-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-43-42-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-43-48-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/white-maiden/Screenshot_2022-08-19-20-43-59-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp
+  - /chimeraland/monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-35-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-39-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-42-85_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-46-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-51-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-57-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-04-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-13-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-25-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-31-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-42-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-48-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-59-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp
 tags:
   - Chimeraland
   - Monster

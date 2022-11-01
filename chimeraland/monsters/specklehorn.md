@@ -4,16 +4,16 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-02T14:18:27+07:00
 date: 2022-01-10T05:56:03+07:00
-permalink: /monsters/specklehorn.html
+permalink: /chimeraland/monsters/specklehorn.html
 photos:
-  - /monsters/specklehorn/Screenshot_2022-08-16-09-07-58-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/specklehorn/Screenshot_2022-08-16-09-08-02-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/specklehorn/Screenshot_2022-08-16-09-08-06-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/specklehorn/Screenshot_2022-08-16-09-08-09-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/specklehorn/Screenshot_2022-08-16-09-08-13-28_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/specklehorn/Screenshot_2022-08-16-09-08-20-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/specklehorn/Screenshot_2022-08-16-09-08-24-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/specklehorn/Screenshot_2022-08-16-09-07-58-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-07-58-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-02-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-06-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-09-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-13-28_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-20-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-24-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-07-58-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

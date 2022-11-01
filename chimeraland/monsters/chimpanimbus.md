@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T10:18:27+07:00
 date: 2022-01-07T12:56:03+07:00
-permalink: /monsters/chimpanimbus.html
+permalink: /chimeraland/monsters/chimpanimbus.html
 photos: []
 tags:
   - Chimeraland

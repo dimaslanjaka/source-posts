@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T20:26:37+07:00
 date: 2022-01-07T13:56:03+07:00
-permalink: /attendants/mantitrack.html
+permalink: /chimeraland/attendants/mantitrack.html
 photos:
-  - /attendants/mantitrack/Screenshot_2022-07-17-22-37-18-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/mantitrack/Screenshot_2022-07-17-22-37-22-23_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/mantitrack/Screenshot_2022-07-17-22-37-26-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/mantitrack/Screenshot_2022-07-17-22-37-29-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/mantitrack/Screenshot_2022-07-17-22-37-33-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/mantitrack/Screenshot_2022-07-17-22-37-38-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/mantitrack/Screenshot_2022-07-17-22-37-18-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-18-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-22-23_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-26-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-29-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-33-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-38-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-18-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

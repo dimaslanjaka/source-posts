@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-28T21:26:37+07:00
 date: 2022-01-06T21:56:03+07:00
-permalink: /attendants/shaman-astra.html
+permalink: /chimeraland/attendants/shaman-astra.html
 photos:
-  - /attendants/shaman-astra/Screenshot_2022-07-17-22-36-40-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/shaman-astra/Screenshot_2022-07-17-22-36-44-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/shaman-astra/Screenshot_2022-07-17-22-36-48-85_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/shaman-astra/Screenshot_2022-07-17-22-36-52-69_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/shaman-astra/Screenshot_2022-07-17-22-36-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/shaman-astra/Screenshot_2022-07-17-22-37-00-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/shaman-astra/Screenshot_2022-07-17-22-36-40-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-40-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-44-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-48-85_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-52-69_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-37-00-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-40-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

@@ -4,17 +4,17 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-01T04:18:27+07:00
 date: 2022-01-08T18:56:03+07:00
-permalink: /monsters/inkdrop.html
+permalink: /chimeraland/monsters/inkdrop.html
 photos:
-  - /monsters/inkdrop/Screenshot 2022-08-09 191911.webp
-  - /monsters/inkdrop/Screenshot 2022-08-09 191953.webp
-  - /monsters/inkdrop/Screenshot 2022-08-09 192014.webp
-  - /monsters/inkdrop/Screenshot 2022-08-09 192033.webp
-  - /monsters/inkdrop/Screenshot 2022-08-09 192050.webp
-  - /monsters/inkdrop/Screenshot 2022-08-09 192107.webp
-  - /monsters/inkdrop/Screenshot 2022-08-09 192128.webp
-  - /monsters/inkdrop/Screenshot 2022-08-09 192145.webp
-thumbnail: /monsters/inkdrop/Screenshot 2022-08-09 191911.webp
+  - /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 191911.webp
+  - /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 191953.webp
+  - /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 192014.webp
+  - /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 192033.webp
+  - /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 192050.webp
+  - /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 192107.webp
+  - /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 192128.webp
+  - /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 192145.webp
+thumbnail: /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 191911.webp
 tags:
   - Chimeraland
   - Monster

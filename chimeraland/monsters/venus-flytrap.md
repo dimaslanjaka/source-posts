@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-02T12:18:27+07:00
 date: 2022-01-11T06:56:03+07:00
-permalink: /monsters/venus-flytrap.html
+permalink: /chimeraland/monsters/venus-flytrap.html
 photos:
-  - /monsters/venus-flytrap/Screenshot_2022-07-15-16-58-29-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/venus-flytrap/Screenshot_2022-07-15-16-58-36-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/venus-flytrap/Screenshot_2022-07-15-16-58-43-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/venus-flytrap/Screenshot_2022-07-15-16-58-48-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/venus-flytrap/Screenshot_2022-07-15-16-58-53-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/venus-flytrap/Screenshot_2022-07-15-16-58-58-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/venus-flytrap/Screenshot_2022-07-15-16-58-29-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-29-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-36-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-43-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-48-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-53-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-58-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-29-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

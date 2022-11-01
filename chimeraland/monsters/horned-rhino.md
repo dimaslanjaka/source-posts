@@ -4,16 +4,16 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T18:18:27+07:00
 date: 2022-01-08T14:56:03+07:00
-permalink: /monsters/horned-rhino.html
+permalink: /chimeraland/monsters/horned-rhino.html
 photos:
-  - /monsters/horned-rhino/Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/horned-rhino/Screenshot_2022-07-26-00-29-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/horned-rhino/Screenshot_2022-07-26-00-29-05-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/horned-rhino/Screenshot_2022-07-26-00-29-11-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/horned-rhino/Screenshot_2022-07-26-00-29-16-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/horned-rhino/Screenshot_2022-07-26-00-29-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/horned-rhino/Screenshot_2022-07-30-16-33-39-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/horned-rhino/Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-05-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-11-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-16-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-30-16-33-39-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

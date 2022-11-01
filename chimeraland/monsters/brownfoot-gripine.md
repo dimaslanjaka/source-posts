@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T01:18:27+07:00
 date: 2022-01-06T21:56:03+07:00
-permalink: /monsters/brownfoot-gripine.html
+permalink: /chimeraland/monsters/brownfoot-gripine.html
 photos:
-  - /monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-17-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-22-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-27-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-32-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-44-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-17-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-17-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-22-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-27-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-32-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-44-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-17-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

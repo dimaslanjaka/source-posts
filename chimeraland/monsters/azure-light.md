@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-28T22:18:27+07:00
 date: 2022-01-07T05:56:03+07:00
-permalink: /monsters/azure-light.html
+permalink: /chimeraland/monsters/azure-light.html
 photos:
-  - /monsters/azure-light/Screenshot_2022-07-15-17-03-52-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/azure-light/Screenshot_2022-07-15-17-03-56-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/azure-light/Screenshot_2022-07-15-17-04-00-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/azure-light/Screenshot_2022-07-15-17-04-04-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/azure-light/Screenshot_2022-07-15-17-04-09-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/azure-light/Screenshot_2022-07-15-17-04-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/azure-light/Screenshot_2022-07-15-17-03-52-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-03-52-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-03-56-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-04-00-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-04-04-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-04-09-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-04-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-03-52-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

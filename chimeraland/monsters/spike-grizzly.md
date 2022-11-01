@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-02T15:18:27+07:00
 date: 2022-01-10T10:56:03+07:00
-permalink: /monsters/spike-grizzly.html
+permalink: /chimeraland/monsters/spike-grizzly.html
 photos:
-  - /monsters/spike-grizzly/Screenshot_2022-07-26-00-29-34-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/spike-grizzly/Screenshot_2022-07-26-00-29-39-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/spike-grizzly/Screenshot_2022-07-26-00-29-43-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/spike-grizzly/Screenshot_2022-07-26-00-29-47-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/spike-grizzly/Screenshot_2022-07-26-00-29-51-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/spike-grizzly/Screenshot_2022-07-26-00-30-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/spike-grizzly/Screenshot_2022-07-26-00-29-34-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-34-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-39-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-43-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-47-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-51-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-30-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-34-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

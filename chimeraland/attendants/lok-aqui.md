@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T02:26:37+07:00
 date: 2022-01-07T12:56:03+07:00
-permalink: /attendants/lok-aqui.html
+permalink: /chimeraland/attendants/lok-aqui.html
 photos:
-  - /attendants/lok-aqui/Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/lok-aqui/Screenshot_2022-07-17-22-34-41-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/lok-aqui/Screenshot_2022-07-17-22-34-48-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/lok-aqui/Screenshot_2022-07-17-22-34-53-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/lok-aqui/Screenshot_2022-07-17-22-34-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/lok-aqui/Screenshot_2022-07-17-22-35-01-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/lok-aqui/Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-41-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-48-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-53-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-35-01-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

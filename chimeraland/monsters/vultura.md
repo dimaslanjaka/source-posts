@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-02T21:18:27+07:00
 date: 2022-01-10T15:56:03+07:00
-permalink: /monsters/vultura.html
+permalink: /chimeraland/monsters/vultura.html
 photos:
-  - /monsters/vultura/Screenshot_2022-07-15-11-58-33-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/vultura/Screenshot_2022-07-15-11-58-45-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/vultura/Screenshot_2022-07-15-11-58-54-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/vultura/Screenshot_2022-07-15-11-58-59-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/vultura/Screenshot_2022-07-15-11-59-04-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/vultura/Screenshot_2022-07-15-11-59-10-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/vultura/Screenshot_2022-07-15-11-58-33-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/vultura/Screenshot_2022-07-15-11-58-33-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/vultura/Screenshot_2022-07-15-11-58-45-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/vultura/Screenshot_2022-07-15-11-58-54-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/vultura/Screenshot_2022-07-15-11-58-59-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/vultura/Screenshot_2022-07-15-11-59-04-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/vultura/Screenshot_2022-07-15-11-59-10-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/vultura/Screenshot_2022-07-15-11-58-33-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

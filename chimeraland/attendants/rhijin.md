@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T02:26:37+07:00
 date: 2022-01-07T20:56:03+07:00
-permalink: /attendants/rhijin.html
+permalink: /chimeraland/attendants/rhijin.html
 photos:
-  - /attendants/rhijin/Screenshot_2022-07-29-21-50-16-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rhijin/Screenshot_2022-07-29-21-50-20-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rhijin/Screenshot_2022-07-29-21-50-25-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rhijin/Screenshot_2022-07-29-21-50-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rhijin/Screenshot_2022-07-29-21-50-32-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rhijin/Screenshot_2022-07-29-21-50-37-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/rhijin/Screenshot_2022-07-29-21-50-16-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-16-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-20-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-25-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-32-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-37-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-16-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

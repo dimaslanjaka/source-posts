@@ -4,16 +4,16 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T03:18:27+07:00
 date: 2022-01-06T23:56:03+07:00
-permalink: /monsters/ancient-piranha.html
+permalink: /chimeraland/monsters/ancient-piranha.html
 photos:
-  - /monsters/ancient-piranha/Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/ancient-piranha/Screenshot_2022-07-29-00-31-22-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/ancient-piranha/Screenshot_2022-07-29-00-31-26-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/ancient-piranha/Screenshot_2022-07-29-00-31-29-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/ancient-piranha/Screenshot_2022-07-29-00-31-34-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/ancient-piranha/Screenshot_2022-07-29-00-31-39-21_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/ancient-piranha/Screenshot_2022-07-29-00-31-49-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/ancient-piranha/Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-22-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-26-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-29-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-34-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-39-21_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-49-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

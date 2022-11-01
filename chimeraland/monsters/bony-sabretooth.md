@@ -4,10 +4,10 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T10:18:27+07:00
 date: 2022-01-11T17:56:03+07:00
-permalink: /monsters/bony-sabretooth.html
+permalink: /chimeraland/monsters/bony-sabretooth.html
 photos:
-  - /monsters/bony-sabretooth/chimeraland-bony-stretooth-evolve-featured.webp
-thumbnail: /monsters/bony-sabretooth/chimeraland-bony-stretooth-evolve-featured.webp
+  - /chimeraland/monsters/bony-sabretooth/chimeraland-bony-stretooth-evolve-featured.webp
+thumbnail: /chimeraland/monsters/bony-sabretooth/chimeraland-bony-stretooth-evolve-featured.webp
 tags:
   - Chimeraland
   - Monster

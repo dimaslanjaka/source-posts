@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T21:26:37+07:00
 date: 2022-01-07T16:56:03+07:00
-permalink: /attendants/ocygatha.html
+permalink: /chimeraland/attendants/ocygatha.html
 photos:
-  - /attendants/ocygatha/Screenshot_2022-07-30-14-35-24-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/ocygatha/Screenshot_2022-07-30-14-35-29-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/ocygatha/Screenshot_2022-07-30-14-35-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/ocygatha/Screenshot_2022-07-30-14-35-41-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/ocygatha/Screenshot_2022-07-30-14-35-45-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/ocygatha/Screenshot_2022-07-30-14-35-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/ocygatha/Screenshot_2022-07-30-14-35-24-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-24-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-29-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-41-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-45-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-24-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

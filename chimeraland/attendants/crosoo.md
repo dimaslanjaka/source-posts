@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T00:26:37+07:00
 date: 2022-01-06T22:56:03+07:00
-permalink: /attendants/crosoo.html
+permalink: /chimeraland/attendants/crosoo.html
 photos:
-  - /attendants/crosoo/Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/crosoo/Screenshot_2022-07-15-19-44-28-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/crosoo/Screenshot_2022-07-15-19-44-34-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/crosoo/Screenshot_2022-07-15-19-44-40-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/crosoo/Screenshot_2022-07-15-19-44-46-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/crosoo/Screenshot_2022-07-15-19-44-51-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/crosoo/Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-28-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-34-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-40-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-46-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-51-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

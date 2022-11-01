@@ -4,17 +4,17 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-01T11:18:27+07:00
 date: 2022-01-09T11:56:03+07:00
-permalink: /monsters/newt.html
+permalink: /chimeraland/monsters/newt.html
 photos:
-  - /monsters/newt/Screenshot_2022-07-30-16-35-20-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/newt/Screenshot_2022-07-30-16-35-23-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/newt/Screenshot_2022-07-30-16-35-27-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/newt/Screenshot_2022-07-30-16-35-30-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/newt/Screenshot_2022-07-30-16-35-41-21_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/newt/Screenshot_2022-07-30-16-35-46-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/newt/Screenshot_2022-07-30-16-35-51-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /monsters/newt/Screenshot_2022-07-30-16-35-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /monsters/newt/Screenshot_2022-07-30-16-35-20-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-20-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-23-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-27-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-30-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-41-21_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-46-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-51-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-20-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Monster

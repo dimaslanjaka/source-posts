@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-02T18:18:27+07:00
 date: 2022-01-11T08:56:03+07:00
-permalink: /monsters/stonebug.html
+permalink: /chimeraland/monsters/stonebug.html
 photos: []
 tags:
   - Chimeraland

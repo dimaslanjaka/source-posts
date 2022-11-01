@@ -4,15 +4,15 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T15:26:37+07:00
 date: 2022-01-08T03:56:03+07:00
-permalink: /attendants/rosary-fortuna.html
+permalink: /chimeraland/attendants/rosary-fortuna.html
 photos:
-  - /attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-16-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-22-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-27-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-30-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-34-58_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-38-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-16-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-16-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-22-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-27-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-30-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-34-58_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-38-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-16-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - Chimeraland
   - Attendant

@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T00:18:27+07:00
 date: 2022-01-07T01:56:03+07:00
-permalink: /monsters/blushpuff.html
+permalink: /chimeraland/monsters/blushpuff.html
 photos: []
 tags:
   - Chimeraland
