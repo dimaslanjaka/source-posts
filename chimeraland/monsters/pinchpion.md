@@ -15,6 +15,7 @@ photos:
   - /monsters/pinchpion/Screenshot 2022-08-09 191821.webp
 thumbnail: /monsters/pinchpion/Screenshot 2022-08-09 191501.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

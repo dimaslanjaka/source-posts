@@ -14,6 +14,7 @@ photos:
   - /attendants/shaman-joya/Screenshot_2022-07-26-01-05-39-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/shaman-joya/Screenshot_2022-07-26-01-05-16-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

@@ -15,6 +15,7 @@ photos:
   - /monsters/osterlope/Screenshot_2022-08-14-02-18-56-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/osterlope/Screenshot_2022-08-14-02-18-30-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

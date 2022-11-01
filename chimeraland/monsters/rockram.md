@@ -7,6 +7,7 @@ date: 2022-01-09T17:56:03+07:00
 permalink: /monsters/rockram.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

@@ -7,6 +7,7 @@ date: 2022-01-06T20:56:03+07:00
 permalink: /attendants/lunar-aquatine.html
 photos: []
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

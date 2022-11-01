@@ -15,6 +15,7 @@ photos:
   - /monsters/verdypterid/Screenshot_2022-08-12-23-35-29-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/verdypterid/Screenshot_2022-08-12-23-34-53-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

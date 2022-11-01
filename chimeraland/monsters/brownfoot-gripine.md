@@ -14,6 +14,7 @@ photos:
   - /monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-44-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-17-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

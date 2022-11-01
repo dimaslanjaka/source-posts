@@ -6,11 +6,13 @@ updated: 2022-10-07T01:46:56+07:00
 date: 2022-01-13T15:56:03+07:00
 permalink: /chimeraland/recipes/wonton-noodles.html
 photos:
+  - /chimeraland/recipes/wonton-noodles/wonton-noodles.webp
   - /chimeraland/recipes/wonton-noodles/wonton-noodles-name.webp
   - /chimeraland/recipes/wonton-noodles/wonton-noodles-icon.webp
   - /chimeraland/recipes/wonton-noodles/wonton-noodles-material.webp
-thumbnail: /chimeraland/recipes/wonton-noodles/wonton-noodles-icon.webp
+thumbnail: /chimeraland/recipes/wonton-noodles/wonton-noodles.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

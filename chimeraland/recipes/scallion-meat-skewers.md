@@ -6,11 +6,13 @@ updated: 2022-10-06T08:46:55+07:00
 date: 2022-01-11T03:56:03+07:00
 permalink: /chimeraland/recipes/scallion-meat-skewers.html
 photos:
+  - /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers.webp
   - /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers-name.webp
   - /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers-icon.webp
   - /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers-material.webp
-thumbnail: /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers-icon.webp
+thumbnail: /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

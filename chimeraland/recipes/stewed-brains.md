@@ -6,11 +6,13 @@ updated: 2022-10-07T02:46:55+07:00
 date: 2022-01-12T06:56:03+07:00
 permalink: /chimeraland/recipes/stewed-brains.html
 photos:
+  - /chimeraland/recipes/stewed-brains/stewed-brains.webp
   - /chimeraland/recipes/stewed-brains/stewed-brains-name.webp
   - /chimeraland/recipes/stewed-brains/stewed-brains-icon.webp
   - /chimeraland/recipes/stewed-brains/stewed-brains-material.webp
-thumbnail: /chimeraland/recipes/stewed-brains/stewed-brains-icon.webp
+thumbnail: /chimeraland/recipes/stewed-brains/stewed-brains.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

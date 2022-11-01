@@ -6,11 +6,13 @@ updated: 2022-10-05T07:46:53+07:00
 date: 2022-01-06T20:56:03+07:00
 permalink: /chimeraland/recipes/stir-fried-vegetables.html
 photos:
+  - /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables.webp
   - /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables-name.webp
   - /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables-icon.webp
   - /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables-material.webp
-thumbnail: /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables-icon.webp
+thumbnail: /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

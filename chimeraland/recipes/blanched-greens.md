@@ -6,11 +6,13 @@ updated: 2022-09-29T03:26:37+07:00
 date: 2022-01-07T11:56:03+07:00
 permalink: /chimeraland/recipes/blanched-greens.html
 photos:
+  - /chimeraland/recipes/blanched-greens/blanched-greens.webp
   - /chimeraland/recipes/blanched-greens/blanched-greens-name.webp
   - /chimeraland/recipes/blanched-greens/blanched-greens-icon.webp
   - /chimeraland/recipes/blanched-greens/blanched-greens-material.webp
-thumbnail: /chimeraland/recipes/blanched-greens/blanched-greens-icon.webp
+thumbnail: /chimeraland/recipes/blanched-greens/blanched-greens.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

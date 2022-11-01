@@ -14,6 +14,7 @@ photos:
   - /monsters/horned-bosalo/Screenshot_2022-07-15-17-00-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/horned-bosalo/Screenshot_2022-07-15-17-00-24-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

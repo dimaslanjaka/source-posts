@@ -7,6 +7,7 @@ date: 2022-01-07T01:56:03+07:00
 permalink: /monsters/blushpuff.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

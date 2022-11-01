@@ -9,6 +9,7 @@ photos:
   - /monsters/noble-golden-crow/noble-golden-crow.webp
 thumbnail: /monsters/noble-golden-crow/noble-golden-crow.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

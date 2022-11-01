@@ -14,6 +14,7 @@ photos:
   - /attendants/letoo/Screenshot_2022-07-24-12-18-03-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/letoo/Screenshot_2022-07-24-12-17-40-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

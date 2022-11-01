@@ -6,11 +6,13 @@ updated: 2022-10-05T10:46:57+07:00
 date: 2022-01-07T20:56:03+07:00
 permalink: /chimeraland/recipes/dragon-meat-stew.html
 photos:
+  - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew.webp
   - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-name.webp
   - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-icon.webp
   - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-material.webp
-thumbnail: /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-icon.webp
+thumbnail: /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

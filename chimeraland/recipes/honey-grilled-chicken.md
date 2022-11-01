@@ -6,11 +6,13 @@ updated: 2022-10-05T10:46:55+07:00
 date: 2022-01-10T10:56:03+07:00
 permalink: /chimeraland/recipes/honey-grilled-chicken.html
 photos:
+  - /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken.webp
   - /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken-name.webp
   - /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken-icon.webp
   - /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken-material.webp
-thumbnail: /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken-icon.webp
+thumbnail: /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

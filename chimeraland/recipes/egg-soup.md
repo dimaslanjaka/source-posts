@@ -6,11 +6,13 @@ updated: 2022-10-05T11:46:54+07:00
 date: 2022-01-08T04:56:03+07:00
 permalink: /chimeraland/recipes/egg-soup.html
 photos:
+  - /chimeraland/recipes/egg-soup/egg-soup.webp
   - /chimeraland/recipes/egg-soup/egg-soup-name.webp
   - /chimeraland/recipes/egg-soup/egg-soup-icon.webp
   - /chimeraland/recipes/egg-soup/egg-soup-material.webp
-thumbnail: /chimeraland/recipes/egg-soup/egg-soup-icon.webp
+thumbnail: /chimeraland/recipes/egg-soup/egg-soup.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

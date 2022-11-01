@@ -6,11 +6,13 @@ updated: 2022-10-05T08:46:54+07:00
 date: 2022-01-08T19:56:03+07:00
 permalink: /chimeraland/recipes/fried-pork-in-scoop.html
 photos:
+  - /chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop.webp
   - /chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop-name.webp
   - /chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop-icon.webp
   - /chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop-material.webp
-thumbnail: /chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop-icon.webp
+thumbnail: /chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

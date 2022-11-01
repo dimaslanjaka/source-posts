@@ -6,11 +6,13 @@ updated: 2022-10-07T10:46:55+07:00
 date: 2022-01-12T14:56:03+07:00
 permalink: /chimeraland/recipes/ultimate-meat-dish.html
 photos:
+  - /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish.webp
   - /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish-name.webp
   - /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish-icon.webp
   - /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish-material.webp
-thumbnail: /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish-icon.webp
+thumbnail: /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

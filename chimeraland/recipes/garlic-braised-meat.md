@@ -6,11 +6,13 @@ updated: 2022-10-06T01:46:54+07:00
 date: 2022-01-09T03:56:03+07:00
 permalink: /chimeraland/recipes/garlic-braised-meat.html
 photos:
+  - /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat.webp
   - /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat-name.webp
   - /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat-icon.webp
   - /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat-material.webp
-thumbnail: /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat-icon.webp
+thumbnail: /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

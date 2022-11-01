@@ -6,11 +6,13 @@ updated: 2022-09-29T02:26:37+07:00
 date: 2022-01-07T00:56:03+07:00
 permalink: /chimeraland/recipes/bodhi-fruit-sauce.html
 photos:
+  - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce.webp
   - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-name.webp
   - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-icon.webp
   - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-material.webp
-thumbnail: /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-icon.webp
+thumbnail: /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

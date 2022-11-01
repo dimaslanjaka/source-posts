@@ -6,11 +6,13 @@ updated: 2022-10-06T01:46:55+07:00
 date: 2022-01-07T23:56:03+07:00
 permalink: /chimeraland/recipes/cherry-braised-meat.html
 photos:
+  - /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat.webp
   - /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat-name.webp
   - /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat-icon.webp
   - /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat-material.webp
-thumbnail: /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat-icon.webp
+thumbnail: /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

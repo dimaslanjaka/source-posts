@@ -6,11 +6,13 @@ updated: 2022-10-06T09:46:54+07:00
 date: 2022-01-09T22:56:03+07:00
 permalink: /chimeraland/recipes/grilled-rabbit.html
 photos:
+  - /chimeraland/recipes/grilled-rabbit/grilled-rabbit.webp
   - /chimeraland/recipes/grilled-rabbit/grilled-rabbit-name.webp
   - /chimeraland/recipes/grilled-rabbit/grilled-rabbit-icon.webp
   - /chimeraland/recipes/grilled-rabbit/grilled-rabbit-material.webp
-thumbnail: /chimeraland/recipes/grilled-rabbit/grilled-rabbit-icon.webp
+thumbnail: /chimeraland/recipes/grilled-rabbit/grilled-rabbit.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -6,11 +6,13 @@ updated: 2022-10-05T09:46:53+07:00
 date: 2022-01-07T08:56:03+07:00
 permalink: /chimeraland/recipes/braised-scorpion.html
 photos:
+  - /chimeraland/recipes/braised-scorpion/braised-scorpion.webp
   - /chimeraland/recipes/braised-scorpion/braised-scorpion-name.webp
   - /chimeraland/recipes/braised-scorpion/braised-scorpion-icon.webp
   - /chimeraland/recipes/braised-scorpion/braised-scorpion-material.webp
-thumbnail: /chimeraland/recipes/braised-scorpion/braised-scorpion-icon.webp
+thumbnail: /chimeraland/recipes/braised-scorpion/braised-scorpion.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -15,6 +15,7 @@ photos:
   - /monsters/ancient-piranha/Screenshot_2022-07-29-00-31-49-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/ancient-piranha/Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

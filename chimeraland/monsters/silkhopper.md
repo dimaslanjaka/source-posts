@@ -7,6 +7,7 @@ date: 2022-01-10T14:56:03+07:00
 permalink: /monsters/silkhopper.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

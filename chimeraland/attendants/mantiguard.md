@@ -14,6 +14,7 @@ photos:
   - /attendants/mantiguard/Screenshot_2022-07-17-22-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/mantiguard/Screenshot_2022-07-17-22-28-18-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

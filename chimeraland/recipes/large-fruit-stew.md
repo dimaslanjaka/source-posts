@@ -6,11 +6,13 @@ updated: 2022-10-06T15:46:54+07:00
 date: 2022-01-10T15:56:03+07:00
 permalink: /chimeraland/recipes/large-fruit-stew.html
 photos:
+  - /chimeraland/recipes/large-fruit-stew/large-fruit-stew.webp
   - /chimeraland/recipes/large-fruit-stew/large-fruit-stew-name.webp
   - /chimeraland/recipes/large-fruit-stew/large-fruit-stew-icon.webp
   - /chimeraland/recipes/large-fruit-stew/large-fruit-stew-material.webp
-thumbnail: /chimeraland/recipes/large-fruit-stew/large-fruit-stew-icon.webp
+thumbnail: /chimeraland/recipes/large-fruit-stew/large-fruit-stew.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

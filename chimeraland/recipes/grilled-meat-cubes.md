@@ -6,11 +6,13 @@ updated: 2022-10-06T07:46:54+07:00
 date: 2022-01-10T01:56:03+07:00
 permalink: /chimeraland/recipes/grilled-meat-cubes.html
 photos:
+  - /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes.webp
   - /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes-name.webp
   - /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes-icon.webp
   - /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes-material.webp
-thumbnail: /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes-icon.webp
+thumbnail: /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -6,11 +6,13 @@ updated: 2022-10-05T12:46:54+07:00
 date: 2022-01-08T11:56:03+07:00
 permalink: /chimeraland/recipes/fragrant-steamed-buns.html
 photos:
+  - /chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns.webp
   - /chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns-name.webp
   - /chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns-icon.webp
   - /chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns-material.webp
-thumbnail: /chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns-icon.webp
+thumbnail: /chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

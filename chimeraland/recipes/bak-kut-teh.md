@@ -6,11 +6,13 @@ updated: 2022-10-05T12:46:53+07:00
 date: 2022-01-07T04:56:03+07:00
 permalink: /chimeraland/recipes/bak-kut-teh.html
 photos:
+  - /chimeraland/recipes/bak-kut-teh/bak-kut-teh.webp
   - /chimeraland/recipes/bak-kut-teh/bak-kut-teh-name.webp
   - /chimeraland/recipes/bak-kut-teh/bak-kut-teh-icon.webp
   - /chimeraland/recipes/bak-kut-teh/bak-kut-teh-material.webp
-thumbnail: /chimeraland/recipes/bak-kut-teh/bak-kut-teh-icon.webp
+thumbnail: /chimeraland/recipes/bak-kut-teh/bak-kut-teh.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

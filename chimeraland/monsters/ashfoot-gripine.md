@@ -14,6 +14,7 @@ photos:
   - /monsters/ashfoot-gripine/Screenshot_2022-07-16-19-00-05-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/ashfoot-gripine/Screenshot_2022-07-16-18-59-34-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

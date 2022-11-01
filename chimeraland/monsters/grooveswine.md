@@ -7,6 +7,7 @@ date: 2022-01-07T23:56:03+07:00
 permalink: /monsters/grooveswine.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

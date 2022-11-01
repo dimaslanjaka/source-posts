@@ -16,6 +16,7 @@ photos:
   - /monsters/banshee/Screenshot_2022-08-19-20-42-12-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/banshee/Screenshot_2022-08-19-20-41-34-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

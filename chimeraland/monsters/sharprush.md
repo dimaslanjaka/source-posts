@@ -14,6 +14,7 @@ photos:
   - /monsters/sharprush/Screenshot_2022-07-24-13-48-52-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/sharprush/Screenshot_2022-07-24-13-48-26-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

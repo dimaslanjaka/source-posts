@@ -6,11 +6,13 @@ updated: 2022-10-05T09:46:55+07:00
 date: 2022-01-08T21:56:03+07:00
 permalink: /chimeraland/recipes/fried-liver.html
 photos:
+  - /chimeraland/recipes/fried-liver/fried-liver.webp
   - /chimeraland/recipes/fried-liver/fried-liver-name.webp
   - /chimeraland/recipes/fried-liver/fried-liver-icon.webp
   - /chimeraland/recipes/fried-liver/fried-liver-material.webp
-thumbnail: /chimeraland/recipes/fried-liver/fried-liver-icon.webp
+thumbnail: /chimeraland/recipes/fried-liver/fried-liver.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -15,6 +15,7 @@ photos:
   - /monsters/horned-rhino/Screenshot_2022-07-30-16-33-39-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/horned-rhino/Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

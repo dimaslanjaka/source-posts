@@ -6,11 +6,13 @@ updated: 2022-10-06T08:46:54+07:00
 date: 2022-01-10T08:56:03+07:00
 permalink: /chimeraland/recipes/honeybee-jerky.html
 photos:
+  - /chimeraland/recipes/honeybee-jerky/honeybee-jerky.webp
   - /chimeraland/recipes/honeybee-jerky/honeybee-jerky-name.webp
   - /chimeraland/recipes/honeybee-jerky/honeybee-jerky-icon.webp
   - /chimeraland/recipes/honeybee-jerky/honeybee-jerky-material.webp
-thumbnail: /chimeraland/recipes/honeybee-jerky/honeybee-jerky-icon.webp
+thumbnail: /chimeraland/recipes/honeybee-jerky/honeybee-jerky.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

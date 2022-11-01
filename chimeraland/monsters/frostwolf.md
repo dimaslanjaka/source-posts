@@ -7,6 +7,7 @@ date: 2022-01-07T20:56:03+07:00
 permalink: /monsters/frostwolf.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

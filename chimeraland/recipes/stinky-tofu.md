@@ -6,11 +6,13 @@ updated: 2022-10-05T07:47:00+07:00
 date: 2022-01-12T17:56:03+07:00
 permalink: /chimeraland/recipes/stinky-tofu.html
 photos:
+  - /chimeraland/recipes/stinky-tofu/stinky-tofu.webp
   - /chimeraland/recipes/stinky-tofu/stinky-tofu-name.webp
   - /chimeraland/recipes/stinky-tofu/stinky-tofu-icon.webp
   - /chimeraland/recipes/stinky-tofu/stinky-tofu-material.webp
-thumbnail: /chimeraland/recipes/stinky-tofu/stinky-tofu-icon.webp
+thumbnail: /chimeraland/recipes/stinky-tofu/stinky-tofu.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

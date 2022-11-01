@@ -14,6 +14,7 @@ photos:
   - /attendants/shaman-astra/Screenshot_2022-07-17-22-37-00-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/shaman-astra/Screenshot_2022-07-17-22-36-40-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

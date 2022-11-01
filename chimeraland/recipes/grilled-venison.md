@@ -6,11 +6,13 @@ updated: 2022-10-06T14:46:54+07:00
 date: 2022-01-10T05:56:03+07:00
 permalink: /chimeraland/recipes/grilled-venison.html
 photos:
+  - /chimeraland/recipes/grilled-venison/grilled-venison.webp
   - /chimeraland/recipes/grilled-venison/grilled-venison-name.webp
   - /chimeraland/recipes/grilled-venison/grilled-venison-icon.webp
   - /chimeraland/recipes/grilled-venison/grilled-venison-material.webp
-thumbnail: /chimeraland/recipes/grilled-venison/grilled-venison-icon.webp
+thumbnail: /chimeraland/recipes/grilled-venison/grilled-venison.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

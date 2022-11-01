@@ -14,6 +14,7 @@ photos:
   - /attendants/remetrog/Screenshot_2022-07-25-17-35-20-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/remetrog/Screenshot_2022-07-25-17-34-56-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

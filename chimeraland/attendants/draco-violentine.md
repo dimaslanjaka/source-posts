@@ -11,6 +11,7 @@ photos:
   - /attendants/draco-violentine/Screenshot_2022-08-31-21-04-59-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/draco-violentine/Screenshot_2022-08-31-21-04-41-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

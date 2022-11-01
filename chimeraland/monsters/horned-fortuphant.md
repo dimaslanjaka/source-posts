@@ -7,6 +7,7 @@ date: 2022-01-09T01:56:03+07:00
 permalink: /monsters/horned-fortuphant.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

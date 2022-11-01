@@ -6,11 +6,13 @@ updated: 2022-10-06T18:46:55+07:00
 date: 2022-01-12T08:56:03+07:00
 permalink: /chimeraland/recipes/steamed-brains.html
 photos:
+  - /chimeraland/recipes/steamed-brains/steamed-brains.webp
   - /chimeraland/recipes/steamed-brains/steamed-brains-name.webp
   - /chimeraland/recipes/steamed-brains/steamed-brains-icon.webp
   - /chimeraland/recipes/steamed-brains/steamed-brains-material.webp
-thumbnail: /chimeraland/recipes/steamed-brains/steamed-brains-icon.webp
+thumbnail: /chimeraland/recipes/steamed-brains/steamed-brains.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -6,11 +6,13 @@ updated: 2022-10-06T02:46:54+07:00
 date: 2022-01-09T12:56:03+07:00
 permalink: /chimeraland/recipes/grilled-fish.html
 photos:
+  - /chimeraland/recipes/grilled-fish/grilled-fish.webp
   - /chimeraland/recipes/grilled-fish/grilled-fish-name.webp
   - /chimeraland/recipes/grilled-fish/grilled-fish-icon.webp
   - /chimeraland/recipes/grilled-fish/grilled-fish-material.webp
-thumbnail: /chimeraland/recipes/grilled-fish/grilled-fish-icon.webp
+thumbnail: /chimeraland/recipes/grilled-fish/grilled-fish.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

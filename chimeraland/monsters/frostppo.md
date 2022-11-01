@@ -16,6 +16,7 @@ photos:
   - /monsters/frostppo/Screenshot_2022-11-01-12-44-20-38_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/frostppo/Screenshot_2022-11-01-12-43-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

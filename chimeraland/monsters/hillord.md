@@ -15,6 +15,7 @@ photos:
   - /monsters/hillord/Screenshot_2022-07-29-00-44-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/hillord/Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

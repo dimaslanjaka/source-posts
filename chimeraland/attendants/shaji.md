@@ -7,6 +7,7 @@ date: 2022-01-07T00:56:03+07:00
 permalink: /attendants/shaji.html
 photos: []
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

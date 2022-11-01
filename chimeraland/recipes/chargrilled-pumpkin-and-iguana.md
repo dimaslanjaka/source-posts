@@ -6,11 +6,13 @@ updated: 2022-10-05T13:46:55+07:00
 date: 2022-01-07T01:56:03+07:00
 permalink: /chimeraland/recipes/chargrilled-pumpkin-and-iguana.html
 photos:
+  - /chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana.webp
   - /chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana-name.webp
   - /chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana-icon.webp
   - /chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana-material.webp
-thumbnail: /chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana-icon.webp
+thumbnail: /chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

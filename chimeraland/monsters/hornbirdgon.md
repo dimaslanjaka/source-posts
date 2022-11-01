@@ -14,6 +14,7 @@ photos:
   - /monsters/hornbirdgon/Screenshot_2022-07-16-07-21-10-93_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/hornbirdgon/Screenshot_2022-07-16-07-20-44-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

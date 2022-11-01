@@ -14,6 +14,7 @@ photos:
   - /monsters/grizzly/Screenshot_2022-07-16-18-47-54-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/grizzly/Screenshot_2022-07-16-18-47-32-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

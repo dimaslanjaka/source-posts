@@ -6,11 +6,13 @@ updated: 2022-10-06T11:46:56+07:00
 date: 2022-01-12T21:56:03+07:00
 permalink: /chimeraland/recipes/vegetable-patty.html
 photos:
+  - /chimeraland/recipes/vegetable-patty/vegetable-patty.webp
   - /chimeraland/recipes/vegetable-patty/vegetable-patty-name.webp
   - /chimeraland/recipes/vegetable-patty/vegetable-patty-icon.webp
   - /chimeraland/recipes/vegetable-patty/vegetable-patty-material.webp
-thumbnail: /chimeraland/recipes/vegetable-patty/vegetable-patty-icon.webp
+thumbnail: /chimeraland/recipes/vegetable-patty/vegetable-patty.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -6,11 +6,13 @@ updated: 2022-10-06T18:46:54+07:00
 date: 2022-01-10T21:56:03+07:00
 permalink: /chimeraland/recipes/new-year-dumplings.html
 photos:
+  - /chimeraland/recipes/new-year-dumplings/new-year-dumplings.webp
   - /chimeraland/recipes/new-year-dumplings/new-year-dumplings-name.webp
   - /chimeraland/recipes/new-year-dumplings/new-year-dumplings-icon.webp
   - /chimeraland/recipes/new-year-dumplings/new-year-dumplings-material.webp
-thumbnail: /chimeraland/recipes/new-year-dumplings/new-year-dumplings-icon.webp
+thumbnail: /chimeraland/recipes/new-year-dumplings/new-year-dumplings.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

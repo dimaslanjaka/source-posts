@@ -9,8 +9,10 @@ photos:
   - null
   - null
   - null
+  - null
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hotstone Icefox Meat
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

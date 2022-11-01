@@ -6,11 +6,13 @@ updated: 2022-10-05T15:46:53+07:00
 date: 2022-01-07T07:56:03+07:00
 permalink: /chimeraland/recipes/broiled-meat.html
 photos:
+  - /chimeraland/recipes/broiled-meat/broiled-meat.webp
   - /chimeraland/recipes/broiled-meat/broiled-meat-name.webp
   - /chimeraland/recipes/broiled-meat/broiled-meat-icon.webp
   - /chimeraland/recipes/broiled-meat/broiled-meat-material.webp
-thumbnail: /chimeraland/recipes/broiled-meat/broiled-meat-icon.webp
+thumbnail: /chimeraland/recipes/broiled-meat/broiled-meat.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

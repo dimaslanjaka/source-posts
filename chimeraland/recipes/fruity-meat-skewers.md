@@ -6,11 +6,13 @@ updated: 2022-10-05T21:46:54+07:00
 date: 2022-01-08T03:56:03+07:00
 permalink: /chimeraland/recipes/fruity-meat-skewers.html
 photos:
+  - /chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers.webp
   - /chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers-name.webp
   - /chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers-icon.webp
   - /chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers-material.webp
-thumbnail: /chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers-icon.webp
+thumbnail: /chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

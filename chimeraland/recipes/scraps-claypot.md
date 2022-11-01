@@ -6,11 +6,13 @@ updated: 2022-10-06T12:46:55+07:00
 date: 2022-01-11T06:56:03+07:00
 permalink: /chimeraland/recipes/scraps-claypot.html
 photos:
+  - /chimeraland/recipes/scraps-claypot/scraps-claypot.webp
   - /chimeraland/recipes/scraps-claypot/scraps-claypot-name.webp
   - /chimeraland/recipes/scraps-claypot/scraps-claypot-icon.webp
   - /chimeraland/recipes/scraps-claypot/scraps-claypot-material.webp
-thumbnail: /chimeraland/recipes/scraps-claypot/scraps-claypot-icon.webp
+thumbnail: /chimeraland/recipes/scraps-claypot/scraps-claypot.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

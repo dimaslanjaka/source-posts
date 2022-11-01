@@ -6,11 +6,13 @@ updated: 2022-10-05T22:46:53+07:00
 date: 2022-01-07T16:56:03+07:00
 permalink: /chimeraland/recipes/cantaloupe-slushie.html
 photos:
+  - /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie.webp
   - /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie-name.webp
   - /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie-icon.webp
   - /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie-material.webp
-thumbnail: /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie-icon.webp
+thumbnail: /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

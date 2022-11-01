@@ -6,11 +6,13 @@ updated: 2022-10-05T23:46:56+07:00
 date: 2022-01-11T18:56:03+07:00
 permalink: /chimeraland/recipes/spicy-grilled-fish.html
 photos:
+  - /chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish.webp
   - /chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish-name.webp
   - /chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish-icon.webp
   - /chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish-material.webp
-thumbnail: /chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish-icon.webp
+thumbnail: /chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

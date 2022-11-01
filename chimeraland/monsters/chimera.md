@@ -7,6 +7,7 @@ date: 2022-01-07T10:56:03+07:00
 permalink: /monsters/chimera.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

@@ -6,11 +6,13 @@ updated: 2022-10-06T14:46:55+07:00
 date: 2022-01-11T19:56:03+07:00
 permalink: /chimeraland/recipes/sea-buckthorn-slushie.html
 photos:
+  - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie.webp
   - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-name.webp
   - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-icon.webp
   - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-material.webp
-thumbnail: /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-icon.webp
+thumbnail: /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

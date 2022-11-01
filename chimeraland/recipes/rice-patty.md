@@ -6,11 +6,13 @@ updated: 2022-10-06T11:46:54+07:00
 date: 2022-01-11T01:56:03+07:00
 permalink: /chimeraland/recipes/rice-patty.html
 photos:
+  - /chimeraland/recipes/rice-patty/rice-patty.webp
   - /chimeraland/recipes/rice-patty/rice-patty-name.webp
   - /chimeraland/recipes/rice-patty/rice-patty-icon.webp
   - /chimeraland/recipes/rice-patty/rice-patty-material.webp
-thumbnail: /chimeraland/recipes/rice-patty/rice-patty-icon.webp
+thumbnail: /chimeraland/recipes/rice-patty/rice-patty.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

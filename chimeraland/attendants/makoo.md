@@ -14,6 +14,7 @@ photos:
   - /attendants/makoo/Screenshot_2022-07-24-12-18-47-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/makoo/Screenshot_2022-07-24-12-18-18-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

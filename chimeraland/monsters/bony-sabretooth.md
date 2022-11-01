@@ -9,6 +9,7 @@ photos:
   - /monsters/bony-sabretooth/chimeraland-bony-stretooth-evolve-featured.webp
 thumbnail: /monsters/bony-sabretooth/chimeraland-bony-stretooth-evolve-featured.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

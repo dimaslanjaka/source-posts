@@ -6,11 +6,13 @@ updated: 2022-10-05T16:46:57+07:00
 date: 2022-01-08T00:56:03+07:00
 permalink: /chimeraland/recipes/deep-fried-liver.html
 photos:
+  - /chimeraland/recipes/deep-fried-liver/deep-fried-liver.webp
   - /chimeraland/recipes/deep-fried-liver/deep-fried-liver-name.webp
   - /chimeraland/recipes/deep-fried-liver/deep-fried-liver-icon.webp
   - /chimeraland/recipes/deep-fried-liver/deep-fried-liver-material.webp
-thumbnail: /chimeraland/recipes/deep-fried-liver/deep-fried-liver-icon.webp
+thumbnail: /chimeraland/recipes/deep-fried-liver/deep-fried-liver.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

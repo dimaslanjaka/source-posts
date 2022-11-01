@@ -6,11 +6,13 @@ updated: 2022-10-06T08:46:56+07:00
 date: 2022-01-12T10:56:03+07:00
 permalink: /chimeraland/recipes/stewed-liver.html
 photos:
+  - /chimeraland/recipes/stewed-liver/stewed-liver.webp
   - /chimeraland/recipes/stewed-liver/stewed-liver-name.webp
   - /chimeraland/recipes/stewed-liver/stewed-liver-icon.webp
   - /chimeraland/recipes/stewed-liver/stewed-liver-material.webp
-thumbnail: /chimeraland/recipes/stewed-liver/stewed-liver-icon.webp
+thumbnail: /chimeraland/recipes/stewed-liver/stewed-liver.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

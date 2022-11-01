@@ -6,11 +6,13 @@ updated: 2022-10-06T04:46:56+07:00
 date: 2022-01-12T19:56:03+07:00
 permalink: /chimeraland/recipes/sweet-and-spicy-venison.html
 photos:
+  - /chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison.webp
   - /chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison-name.webp
   - /chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison-icon.webp
   - /chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison-material.webp
-thumbnail: /chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison-icon.webp
+thumbnail: /chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -6,11 +6,13 @@ updated: 2022-10-06T05:46:54+07:00
 date: 2022-01-10T03:56:03+07:00
 permalink: /chimeraland/recipes/grilled-frog-legs.html
 photos:
+  - /chimeraland/recipes/grilled-frog-legs/grilled-frog-legs.webp
   - /chimeraland/recipes/grilled-frog-legs/grilled-frog-legs-name.webp
   - /chimeraland/recipes/grilled-frog-legs/grilled-frog-legs-icon.webp
   - /chimeraland/recipes/grilled-frog-legs/grilled-frog-legs-material.webp
-thumbnail: /chimeraland/recipes/grilled-frog-legs/grilled-frog-legs-icon.webp
+thumbnail: /chimeraland/recipes/grilled-frog-legs/grilled-frog-legs.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

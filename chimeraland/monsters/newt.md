@@ -16,6 +16,7 @@ photos:
   - /monsters/newt/Screenshot_2022-07-30-16-35-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/newt/Screenshot_2022-07-30-16-35-20-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

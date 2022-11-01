@@ -15,6 +15,7 @@ photos:
   - /monsters/specklehorn/Screenshot_2022-08-16-09-08-24-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/specklehorn/Screenshot_2022-08-16-09-07-58-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

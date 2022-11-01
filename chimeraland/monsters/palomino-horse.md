@@ -14,6 +14,7 @@ photos:
   - /monsters/palomino-horse/Screenshot_2022-07-15-11-57-57-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/palomino-horse/Screenshot_2022-07-15-11-57-32-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

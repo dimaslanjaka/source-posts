@@ -6,11 +6,13 @@ updated: 2022-10-06T15:46:56+07:00
 date: 2022-01-12T09:56:03+07:00
 permalink: /chimeraland/recipes/vegetable-dumplings.html
 photos:
+  - /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings.webp
   - /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings-name.webp
   - /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings-icon.webp
   - /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings-material.webp
-thumbnail: /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings-icon.webp
+thumbnail: /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -6,11 +6,13 @@ updated: 2022-10-06T10:46:54+07:00
 date: 2022-01-09T21:56:03+07:00
 permalink: /chimeraland/recipes/grilled-wings.html
 photos:
+  - /chimeraland/recipes/grilled-wings/grilled-wings.webp
   - /chimeraland/recipes/grilled-wings/grilled-wings-name.webp
   - /chimeraland/recipes/grilled-wings/grilled-wings-icon.webp
   - /chimeraland/recipes/grilled-wings/grilled-wings-material.webp
-thumbnail: /chimeraland/recipes/grilled-wings/grilled-wings-icon.webp
+thumbnail: /chimeraland/recipes/grilled-wings/grilled-wings.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

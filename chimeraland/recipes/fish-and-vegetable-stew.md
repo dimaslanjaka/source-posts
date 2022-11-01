@@ -6,11 +6,13 @@ updated: 2022-10-05T14:46:54+07:00
 date: 2022-01-08T05:56:03+07:00
 permalink: /chimeraland/recipes/fish-and-vegetable-stew.html
 photos:
+  - /chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew.webp
   - /chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew-name.webp
   - /chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew-icon.webp
   - /chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew-material.webp
-thumbnail: /chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew-icon.webp
+thumbnail: /chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -6,11 +6,13 @@ updated: 2022-10-05T22:46:55+07:00
 date: 2022-01-10T13:56:03+07:00
 permalink: /chimeraland/recipes/mushroom-broth.html
 photos:
+  - /chimeraland/recipes/mushroom-broth/mushroom-broth.webp
   - /chimeraland/recipes/mushroom-broth/mushroom-broth-name.webp
   - /chimeraland/recipes/mushroom-broth/mushroom-broth-icon.webp
   - /chimeraland/recipes/mushroom-broth/mushroom-broth-material.webp
-thumbnail: /chimeraland/recipes/mushroom-broth/mushroom-broth-icon.webp
+thumbnail: /chimeraland/recipes/mushroom-broth/mushroom-broth.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

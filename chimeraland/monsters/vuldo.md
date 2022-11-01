@@ -15,6 +15,7 @@ photos:
   - /monsters/vuldo/Screenshot_2022-07-29-00-21-28-82_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/vuldo/Screenshot_2022-07-18-01-10-33-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

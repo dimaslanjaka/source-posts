@@ -14,6 +14,7 @@ photos:
   - /monsters/moogiradeer/Screenshot_2022-07-28-01-03-07-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/moogiradeer/Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

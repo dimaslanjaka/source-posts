@@ -6,11 +6,13 @@ updated: 2022-10-05T17:46:53+07:00
 date: 2022-01-06T22:56:03+07:00
 permalink: /chimeraland/recipes/braised-bear-meat.html
 photos:
+  - /chimeraland/recipes/braised-bear-meat/braised-bear-meat.webp
   - /chimeraland/recipes/braised-bear-meat/braised-bear-meat-name.webp
   - /chimeraland/recipes/braised-bear-meat/braised-bear-meat-icon.webp
   - /chimeraland/recipes/braised-bear-meat/braised-bear-meat-material.webp
-thumbnail: /chimeraland/recipes/braised-bear-meat/braised-bear-meat-icon.webp
+thumbnail: /chimeraland/recipes/braised-bear-meat/braised-bear-meat.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

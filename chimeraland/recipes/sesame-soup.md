@@ -6,11 +6,13 @@ updated: 2022-10-06T19:46:54+07:00
 date: 2022-01-11T11:56:03+07:00
 permalink: /chimeraland/recipes/sesame-soup.html
 photos:
+  - /chimeraland/recipes/sesame-soup/sesame-soup.webp
   - /chimeraland/recipes/sesame-soup/sesame-soup-name.webp
   - /chimeraland/recipes/sesame-soup/sesame-soup-icon.webp
   - /chimeraland/recipes/sesame-soup/sesame-soup-material.webp
-thumbnail: /chimeraland/recipes/sesame-soup/sesame-soup-icon.webp
+thumbnail: /chimeraland/recipes/sesame-soup/sesame-soup.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

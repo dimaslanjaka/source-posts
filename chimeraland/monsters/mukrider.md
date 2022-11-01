@@ -14,6 +14,7 @@ photos:
   - /monsters/mukrider/Screenshot_2022-07-14-16-01-37-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/mukrider/Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

@@ -6,11 +6,13 @@ updated: 2022-10-06T20:46:54+07:00
 date: 2022-01-11T08:56:03+07:00
 permalink: /chimeraland/recipes/sea-buckthorn-broth.html
 photos:
+  - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth.webp
   - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-name.webp
   - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-icon.webp
   - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-material.webp
-thumbnail: /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-icon.webp
+thumbnail: /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

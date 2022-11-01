@@ -6,11 +6,13 @@ updated: 2022-10-05T14:46:55+07:00
 date: 2022-01-09T00:56:03+07:00
 permalink: /chimeraland/recipes/garlic-steak.html
 photos:
+  - /chimeraland/recipes/garlic-steak/garlic-steak.webp
   - /chimeraland/recipes/garlic-steak/garlic-steak-name.webp
   - /chimeraland/recipes/garlic-steak/garlic-steak-icon.webp
   - /chimeraland/recipes/garlic-steak/garlic-steak-material.webp
-thumbnail: /chimeraland/recipes/garlic-steak/garlic-steak-icon.webp
+thumbnail: /chimeraland/recipes/garlic-steak/garlic-steak.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -6,11 +6,13 @@ updated: 2022-10-05T15:46:55+07:00
 date: 2022-01-11T04:56:03+07:00
 permalink: /chimeraland/recipes/peanut-ball-soup.html
 photos:
+  - /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup.webp
   - /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup-name.webp
   - /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup-icon.webp
   - /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup-material.webp
-thumbnail: /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup-icon.webp
+thumbnail: /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

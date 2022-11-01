@@ -15,6 +15,7 @@ photos:
   - /monsters/starefish/Screenshot_2022-08-13-19-09-21-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/starefish/Screenshot_2022-08-13-19-08-52-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

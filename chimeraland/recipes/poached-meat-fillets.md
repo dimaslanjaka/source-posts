@@ -6,11 +6,13 @@ updated: 2022-10-06T09:46:55+07:00
 date: 2022-01-11T05:56:03+07:00
 permalink: /chimeraland/recipes/poached-meat-fillets.html
 photos:
+  - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets.webp
   - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-name.webp
   - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-icon.webp
   - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-material.webp
-thumbnail: /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-icon.webp
+thumbnail: /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

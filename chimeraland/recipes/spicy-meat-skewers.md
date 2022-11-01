@@ -6,11 +6,13 @@ updated: 2022-10-06T02:46:55+07:00
 date: 2022-01-12T02:56:03+07:00
 permalink: /chimeraland/recipes/spicy-meat-skewers.html
 photos:
+  - /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers.webp
   - /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers-name.webp
   - /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers-icon.webp
   - /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers-material.webp
-thumbnail: /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers-icon.webp
+thumbnail: /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

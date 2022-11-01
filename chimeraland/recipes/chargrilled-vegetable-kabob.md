@@ -6,11 +6,13 @@ updated: 2022-10-06T00:46:53+07:00
 date: 2022-01-07T19:56:03+07:00
 permalink: /chimeraland/recipes/chargrilled-vegetable-kabob.html
 photos:
+  - /chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob.webp
   - /chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob-name.webp
   - /chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob-icon.webp
   - /chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob-material.webp
-thumbnail: /chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob-icon.webp
+thumbnail: /chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

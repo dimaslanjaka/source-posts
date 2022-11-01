@@ -6,11 +6,13 @@ updated: 2022-10-05T20:46:56+07:00
 date: 2022-01-08T13:56:03+07:00
 permalink: /chimeraland/recipes/fragrant-meat-stew.html
 photos:
+  - /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew.webp
   - /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew-name.webp
   - /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew-icon.webp
   - /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew-material.webp
-thumbnail: /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew-icon.webp
+thumbnail: /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

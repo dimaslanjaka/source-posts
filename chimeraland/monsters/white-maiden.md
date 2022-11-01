@@ -24,6 +24,7 @@ photos:
   - /monsters/white-maiden/Screenshot_2022-08-19-20-43-59-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

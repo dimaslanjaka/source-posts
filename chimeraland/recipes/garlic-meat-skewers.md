@@ -6,11 +6,13 @@ updated: 2022-10-06T06:46:54+07:00
 date: 2022-01-09T04:56:03+07:00
 permalink: /chimeraland/recipes/garlic-meat-skewers.html
 photos:
+  - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers.webp
   - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-name.webp
   - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-icon.webp
   - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-material.webp
-thumbnail: /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-icon.webp
+thumbnail: /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

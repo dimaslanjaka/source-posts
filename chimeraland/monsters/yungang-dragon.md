@@ -15,6 +15,7 @@ photos:
   - /monsters/yungang-dragon/Screenshot_2022-07-29-00-22-29-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/yungang-dragon/Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

@@ -6,11 +6,13 @@ updated: 2022-10-05T08:46:53+07:00
 date: 2022-01-07T15:56:03+07:00
 permalink: /chimeraland/recipes/bubbling-stew.html
 photos:
+  - /chimeraland/recipes/bubbling-stew/bubbling-stew.webp
   - /chimeraland/recipes/bubbling-stew/bubbling-stew-name.webp
   - /chimeraland/recipes/bubbling-stew/bubbling-stew-icon.webp
   - /chimeraland/recipes/bubbling-stew/bubbling-stew-material.webp
-thumbnail: /chimeraland/recipes/bubbling-stew/bubbling-stew-icon.webp
+thumbnail: /chimeraland/recipes/bubbling-stew/bubbling-stew.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

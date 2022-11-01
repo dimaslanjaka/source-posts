@@ -14,6 +14,7 @@ photos:
   - /monsters/whitelope/Screenshot_2022-07-14-15-53-49-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/whitelope/Screenshot_2022-07-14-15-53-09-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

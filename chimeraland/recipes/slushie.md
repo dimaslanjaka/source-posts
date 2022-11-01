@@ -6,11 +6,13 @@ updated: 2022-10-06T07:46:55+07:00
 date: 2022-01-11T12:56:03+07:00
 permalink: /chimeraland/recipes/slushie.html
 photos:
+  - /chimeraland/recipes/slushie/slushie.webp
   - /chimeraland/recipes/slushie/slushie-name.webp
   - /chimeraland/recipes/slushie/slushie-icon.webp
   - /chimeraland/recipes/slushie/slushie-material.webp
-thumbnail: /chimeraland/recipes/slushie/slushie-icon.webp
+thumbnail: /chimeraland/recipes/slushie/slushie.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

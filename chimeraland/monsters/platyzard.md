@@ -14,6 +14,7 @@ photos:
   - /monsters/platyzard/Screenshot_2022-07-16-18-56-17-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/platyzard/Screenshot_2022-07-16-18-55-53-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

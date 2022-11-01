@@ -7,6 +7,7 @@ date: 2022-01-11T00:56:03+07:00
 permalink: /monsters/wolfspider.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

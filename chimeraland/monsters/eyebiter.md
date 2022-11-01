@@ -7,6 +7,7 @@ date: 2022-01-07T06:56:03+07:00
 permalink: /monsters/eyebiter.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

@@ -6,11 +6,13 @@ updated: 2022-10-05T18:46:55+07:00
 date: 2022-01-10T02:56:03+07:00
 permalink: /chimeraland/recipes/hot-water.html
 photos:
+  - /chimeraland/recipes/hot-water/hot-water.webp
   - /chimeraland/recipes/hot-water/hot-water-name.webp
   - /chimeraland/recipes/hot-water/hot-water-icon.webp
   - /chimeraland/recipes/hot-water/hot-water-material.webp
-thumbnail: /chimeraland/recipes/hot-water/hot-water-icon.webp
+thumbnail: /chimeraland/recipes/hot-water/hot-water.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

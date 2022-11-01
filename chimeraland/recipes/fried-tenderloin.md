@@ -6,11 +6,13 @@ updated: 2022-10-06T09:46:56+07:00
 date: 2022-01-13T10:56:03+07:00
 permalink: /chimeraland/recipes/fried-tenderloin.html
 photos:
+  - /chimeraland/recipes/fried-tenderloin/fried-tenderloin.webp
   - /chimeraland/recipes/fried-tenderloin/fried-tenderloin-name.webp
   - /chimeraland/recipes/fried-tenderloin/fried-tenderloin-icon.webp
   - /chimeraland/recipes/fried-tenderloin/fried-tenderloin-material.webp
-thumbnail: /chimeraland/recipes/fried-tenderloin/fried-tenderloin-icon.webp
+thumbnail: /chimeraland/recipes/fried-tenderloin/fried-tenderloin.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

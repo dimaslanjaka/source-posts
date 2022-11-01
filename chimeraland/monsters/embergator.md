@@ -7,6 +7,7 @@ date: 2022-01-08T02:56:03+07:00
 permalink: /monsters/embergator.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

@@ -6,11 +6,13 @@ updated: 2022-10-06T16:46:54+07:00
 date: 2022-01-09T15:56:03+07:00
 permalink: /chimeraland/recipes/grilled-wolf.html
 photos:
+  - /chimeraland/recipes/grilled-wolf/grilled-wolf.webp
   - /chimeraland/recipes/grilled-wolf/grilled-wolf-name.webp
   - /chimeraland/recipes/grilled-wolf/grilled-wolf-icon.webp
   - /chimeraland/recipes/grilled-wolf/grilled-wolf-material.webp
-thumbnail: /chimeraland/recipes/grilled-wolf/grilled-wolf-icon.webp
+thumbnail: /chimeraland/recipes/grilled-wolf/grilled-wolf.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

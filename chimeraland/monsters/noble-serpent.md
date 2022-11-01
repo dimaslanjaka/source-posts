@@ -9,6 +9,7 @@ photos:
   - /monsters/noble-serpent/chimeraland-noble-serpent-evolve-featured.webp
 thumbnail: /monsters/noble-serpent/chimeraland-noble-serpent-evolve-featured.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

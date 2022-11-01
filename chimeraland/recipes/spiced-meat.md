@@ -6,11 +6,13 @@ updated: 2022-10-06T16:46:55+07:00
 date: 2022-01-11T16:56:03+07:00
 permalink: /chimeraland/recipes/spiced-meat.html
 photos:
+  - /chimeraland/recipes/spiced-meat/spiced-meat.webp
   - /chimeraland/recipes/spiced-meat/spiced-meat-name.webp
   - /chimeraland/recipes/spiced-meat/spiced-meat-icon.webp
   - /chimeraland/recipes/spiced-meat/spiced-meat-material.webp
-thumbnail: /chimeraland/recipes/spiced-meat/spiced-meat-icon.webp
+thumbnail: /chimeraland/recipes/spiced-meat/spiced-meat.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

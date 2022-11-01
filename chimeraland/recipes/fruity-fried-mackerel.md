@@ -9,8 +9,10 @@ photos:
   - null
   - null
   - null
+  - null
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fruity Fried Mackerel
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

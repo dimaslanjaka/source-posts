@@ -14,6 +14,7 @@ photos:
   - /attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-38-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-16-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

@@ -6,11 +6,13 @@ updated: 2022-10-07T00:46:54+07:00
 date: 2022-01-11T00:56:03+07:00
 permalink: /chimeraland/recipes/meat-noodles.html
 photos:
+  - /chimeraland/recipes/meat-noodles/meat-noodles.webp
   - /chimeraland/recipes/meat-noodles/meat-noodles-name.webp
   - /chimeraland/recipes/meat-noodles/meat-noodles-icon.webp
   - /chimeraland/recipes/meat-noodles/meat-noodles-material.webp
-thumbnail: /chimeraland/recipes/meat-noodles/meat-noodles-icon.webp
+thumbnail: /chimeraland/recipes/meat-noodles/meat-noodles.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

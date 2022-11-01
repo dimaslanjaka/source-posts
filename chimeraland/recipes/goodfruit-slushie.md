@@ -6,11 +6,13 @@ updated: 2022-10-05T08:46:55+07:00
 date: 2022-01-09T06:56:03+07:00
 permalink: /chimeraland/recipes/goodfruit-slushie.html
 photos:
+  - /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie.webp
   - /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie-name.webp
   - /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie-icon.webp
   - /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie-material.webp
-thumbnail: /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie-icon.webp
+thumbnail: /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

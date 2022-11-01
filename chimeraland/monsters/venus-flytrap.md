@@ -14,6 +14,7 @@ photos:
   - /monsters/venus-flytrap/Screenshot_2022-07-15-16-58-58-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/venus-flytrap/Screenshot_2022-07-15-16-58-29-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

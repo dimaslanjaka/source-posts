@@ -6,11 +6,13 @@ updated: 2022-10-05T14:46:53+07:00
 date: 2022-01-07T02:56:03+07:00
 permalink: /chimeraland/recipes/beggars-chicken.html
 photos:
+  - /chimeraland/recipes/beggars-chicken/beggars-chicken.webp
   - /chimeraland/recipes/beggars-chicken/beggars-chicken-name.webp
   - /chimeraland/recipes/beggars-chicken/beggars-chicken-icon.webp
   - /chimeraland/recipes/beggars-chicken/beggars-chicken-material.webp
-thumbnail: /chimeraland/recipes/beggars-chicken/beggars-chicken-icon.webp
+thumbnail: /chimeraland/recipes/beggars-chicken/beggars-chicken.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

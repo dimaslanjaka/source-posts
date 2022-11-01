@@ -16,6 +16,7 @@ photos:
   - /monsters/hagpy/Screenshot_2022-08-13-02-43-24-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/hagpy/Screenshot_2022-08-13-02-42-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

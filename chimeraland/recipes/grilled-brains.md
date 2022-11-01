@@ -6,11 +6,13 @@ updated: 2022-10-05T10:46:54+07:00
 date: 2022-01-09T10:56:03+07:00
 permalink: /chimeraland/recipes/grilled-brains.html
 photos:
+  - /chimeraland/recipes/grilled-brains/grilled-brains.webp
   - /chimeraland/recipes/grilled-brains/grilled-brains-name.webp
   - /chimeraland/recipes/grilled-brains/grilled-brains-icon.webp
   - /chimeraland/recipes/grilled-brains/grilled-brains-material.webp
-thumbnail: /chimeraland/recipes/grilled-brains/grilled-brains-icon.webp
+thumbnail: /chimeraland/recipes/grilled-brains/grilled-brains.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -6,11 +6,13 @@ updated: 2022-10-07T00:46:55+07:00
 date: 2022-01-13T01:56:03+07:00
 permalink: /chimeraland/recipes/sea-buckthorn-mixed-juice.html
 photos:
+  - /chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice.webp
   - /chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice-name.webp
   - /chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice-icon.webp
   - /chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice-material.webp
-thumbnail: /chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice-icon.webp
+thumbnail: /chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

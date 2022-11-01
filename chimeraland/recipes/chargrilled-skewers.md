@@ -6,11 +6,13 @@ updated: 2022-10-05T16:46:55+07:00
 date: 2022-01-07T18:56:03+07:00
 permalink: /chimeraland/recipes/chargrilled-skewers.html
 photos:
+  - /chimeraland/recipes/chargrilled-skewers/chargrilled-skewers.webp
   - /chimeraland/recipes/chargrilled-skewers/chargrilled-skewers-name.webp
   - /chimeraland/recipes/chargrilled-skewers/chargrilled-skewers-icon.webp
   - /chimeraland/recipes/chargrilled-skewers/chargrilled-skewers-material.webp
-thumbnail: /chimeraland/recipes/chargrilled-skewers/chargrilled-skewers-icon.webp
+thumbnail: /chimeraland/recipes/chargrilled-skewers/chargrilled-skewers.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

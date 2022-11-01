@@ -6,11 +6,13 @@ updated: 2022-10-05T16:46:53+07:00
 date: 2022-01-07T14:56:03+07:00
 permalink: /chimeraland/recipes/apple-slushie.html
 photos:
+  - /chimeraland/recipes/apple-slushie/apple-slushie.webp
   - /chimeraland/recipes/apple-slushie/apple-slushie-name.webp
   - /chimeraland/recipes/apple-slushie/apple-slushie-icon.webp
   - /chimeraland/recipes/apple-slushie/apple-slushie-material.webp
-thumbnail: /chimeraland/recipes/apple-slushie/apple-slushie-icon.webp
+thumbnail: /chimeraland/recipes/apple-slushie/apple-slushie.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

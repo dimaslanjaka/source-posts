@@ -14,6 +14,7 @@ photos:
   - /attendants/versamelaar/Screenshot_2022-07-17-22-38-12-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/versamelaar/Screenshot_2022-07-17-22-37-52-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

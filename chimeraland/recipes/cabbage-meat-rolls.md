@@ -6,11 +6,13 @@ updated: 2022-10-05T12:46:55+07:00
 date: 2022-01-06T23:56:03+07:00
 permalink: /chimeraland/recipes/cabbage-meat-rolls.html
 photos:
+  - /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls.webp
   - /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls-name.webp
   - /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls-icon.webp
   - /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls-material.webp
-thumbnail: /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls-icon.webp
+thumbnail: /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

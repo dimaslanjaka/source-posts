@@ -6,11 +6,13 @@ updated: 2022-10-05T20:46:55+07:00
 date: 2022-01-10T04:56:03+07:00
 permalink: /chimeraland/recipes/jobs-tears-broth.html
 photos:
+  - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth.webp
   - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-name.webp
   - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-icon.webp
   - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-material.webp
-thumbnail: /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-icon.webp
+thumbnail: /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

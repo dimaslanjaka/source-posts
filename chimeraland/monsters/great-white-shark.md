@@ -7,6 +7,7 @@ date: 2022-01-08T13:56:03+07:00
 permalink: /monsters/great-white-shark.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

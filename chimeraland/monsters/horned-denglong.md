@@ -14,6 +14,7 @@ photos:
   - /monsters/horned-denglong/Screenshot_2022-07-14-22-21-35-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/horned-denglong/Screenshot_2022-07-14-22-21-04-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

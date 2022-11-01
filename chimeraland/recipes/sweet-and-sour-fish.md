@@ -6,11 +6,13 @@ updated: 2022-10-07T03:46:55+07:00
 date: 2022-01-12T22:56:03+07:00
 permalink: /chimeraland/recipes/sweet-and-sour-fish.html
 photos:
+  - /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish.webp
   - /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish-name.webp
   - /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish-icon.webp
   - /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish-material.webp
-thumbnail: /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish-icon.webp
+thumbnail: /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

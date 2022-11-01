@@ -16,6 +16,7 @@ photos:
   - /monsters/inkdrop/Screenshot 2022-08-09 192145.webp
 thumbnail: /monsters/inkdrop/Screenshot 2022-08-09 191911.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

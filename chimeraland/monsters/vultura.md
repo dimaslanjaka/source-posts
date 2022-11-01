@@ -14,6 +14,7 @@ photos:
   - /monsters/vultura/Screenshot_2022-07-15-11-59-10-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/vultura/Screenshot_2022-07-15-11-58-33-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

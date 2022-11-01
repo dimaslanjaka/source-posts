@@ -6,11 +6,13 @@ updated: 2022-09-29T10:26:37+07:00
 date: 2022-01-10T18:56:03+07:00
 permalink: /chimeraland/recipes/jobs-tears-sauce.html
 photos:
+  - /chimeraland/recipes/jobs-tears-sauce/jobs-tears-sauce.webp
   - /chimeraland/recipes/jobs-tears-sauce/jobs-tears-sauce-name.webp
   - /chimeraland/recipes/jobs-tears-sauce/jobs-tears-sauce-icon.webp
   - /chimeraland/recipes/jobs-tears-sauce/jobs-tears-sauce-material.webp
-thumbnail: /chimeraland/recipes/jobs-tears-sauce/jobs-tears-sauce-icon.webp
+thumbnail: /chimeraland/recipes/jobs-tears-sauce/jobs-tears-sauce.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

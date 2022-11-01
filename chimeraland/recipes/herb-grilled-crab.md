@@ -6,11 +6,13 @@ updated: 2022-10-05T17:46:54+07:00
 date: 2022-01-09T11:56:03+07:00
 permalink: /chimeraland/recipes/herb-grilled-crab.html
 photos:
+  - /chimeraland/recipes/herb-grilled-crab/herb-grilled-crab.webp
   - /chimeraland/recipes/herb-grilled-crab/herb-grilled-crab-name.webp
   - /chimeraland/recipes/herb-grilled-crab/herb-grilled-crab-icon.webp
   - /chimeraland/recipes/herb-grilled-crab/herb-grilled-crab-material.webp
-thumbnail: /chimeraland/recipes/herb-grilled-crab/herb-grilled-crab-icon.webp
+thumbnail: /chimeraland/recipes/herb-grilled-crab/herb-grilled-crab.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

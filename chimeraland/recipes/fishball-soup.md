@@ -6,11 +6,13 @@ updated: 2022-10-05T21:46:56+07:00
 date: 2022-01-08T10:56:03+07:00
 permalink: /chimeraland/recipes/fishball-soup.html
 photos:
+  - /chimeraland/recipes/fishball-soup/fishball-soup.webp
   - /chimeraland/recipes/fishball-soup/fishball-soup-name.webp
   - /chimeraland/recipes/fishball-soup/fishball-soup-icon.webp
   - /chimeraland/recipes/fishball-soup/fishball-soup-material.webp
-thumbnail: /chimeraland/recipes/fishball-soup/fishball-soup-icon.webp
+thumbnail: /chimeraland/recipes/fishball-soup/fishball-soup.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -16,6 +16,7 @@ photos:
   - /monsters/frost-batolf/Screenshot_2022-08-14-02-18-10-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/frost-batolf/Screenshot_2022-08-14-02-17-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

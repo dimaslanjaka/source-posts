@@ -7,6 +7,7 @@ date: 2022-01-09T10:56:03+07:00
 permalink: /monsters/plate-fortuphant.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

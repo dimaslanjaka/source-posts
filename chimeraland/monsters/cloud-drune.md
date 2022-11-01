@@ -7,6 +7,7 @@ date: 2022-01-07T22:56:03+07:00
 permalink: /monsters/cloud-drune.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

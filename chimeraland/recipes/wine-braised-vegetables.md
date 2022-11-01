@@ -6,11 +6,13 @@ updated: 2022-10-06T17:46:56+07:00
 date: 2022-01-13T05:56:03+07:00
 permalink: /chimeraland/recipes/wine-braised-vegetables.html
 photos:
+  - /chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables.webp
   - /chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables-name.webp
   - /chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables-icon.webp
   - /chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables-material.webp
-thumbnail: /chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables-icon.webp
+thumbnail: /chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

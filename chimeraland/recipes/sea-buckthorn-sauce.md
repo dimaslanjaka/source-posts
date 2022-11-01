@@ -6,11 +6,13 @@ updated: 2022-09-29T07:26:37+07:00
 date: 2022-01-11T14:56:03+07:00
 permalink: /chimeraland/recipes/sea-buckthorn-sauce.html
 photos:
+  - /chimeraland/recipes/sea-buckthorn-sauce/sea-buckthorn-sauce.webp
   - /chimeraland/recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-name.webp
   - /chimeraland/recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-icon.webp
   - /chimeraland/recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-material.webp
-thumbnail: /chimeraland/recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-icon.webp
+thumbnail: /chimeraland/recipes/sea-buckthorn-sauce/sea-buckthorn-sauce.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

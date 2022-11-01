@@ -6,11 +6,13 @@ updated: 2022-10-06T23:46:54+07:00
 date: 2022-01-10T20:56:03+07:00
 permalink: /chimeraland/recipes/omelette.html
 photos:
+  - /chimeraland/recipes/omelette/omelette.webp
   - /chimeraland/recipes/omelette/omelette-name.webp
   - /chimeraland/recipes/omelette/omelette-icon.webp
   - /chimeraland/recipes/omelette/omelette-material.webp
-thumbnail: /chimeraland/recipes/omelette/omelette-icon.webp
+thumbnail: /chimeraland/recipes/omelette/omelette.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

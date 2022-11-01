@@ -6,11 +6,13 @@ updated: 2022-09-29T03:10:00+0700
 date: 2022-01-07T22:56:03+07:00
 permalink: /chimeraland/recipes/dark-cuisine.html
 photos:
+  - /chimeraland/recipes/dark-cuisine/dark-cuisine.webp
   - /chimeraland/recipes/dark-cuisine/dark-cuisine-name.webp
   - /chimeraland/recipes/dark-cuisine/dark-cuisine-icon.webp
   - /chimeraland/recipes/dark-cuisine/dark-cuisine-material.webp
-thumbnail: /chimeraland/recipes/dark-cuisine/dark-cuisine-icon.webp
+thumbnail: /chimeraland/recipes/dark-cuisine/dark-cuisine.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

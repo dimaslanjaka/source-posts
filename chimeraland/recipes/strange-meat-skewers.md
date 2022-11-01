@@ -6,11 +6,13 @@ updated: 2022-10-05T10:46:56+07:00
 date: 2022-01-12T18:56:03+07:00
 permalink: /chimeraland/recipes/strange-meat-skewers.html
 photos:
+  - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers.webp
   - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-name.webp
   - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-icon.webp
   - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-material.webp
-thumbnail: /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-icon.webp
+thumbnail: /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

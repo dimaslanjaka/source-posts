@@ -6,11 +6,13 @@ updated: 2022-10-06T12:46:54+07:00
 date: 2022-01-10T11:56:03+07:00
 permalink: /chimeraland/recipes/hot-oil.html
 photos:
+  - /chimeraland/recipes/hot-oil/hot-oil.webp
   - /chimeraland/recipes/hot-oil/hot-oil-name.webp
   - /chimeraland/recipes/hot-oil/hot-oil-icon.webp
   - /chimeraland/recipes/hot-oil/hot-oil-material.webp
-thumbnail: /chimeraland/recipes/hot-oil/hot-oil-icon.webp
+thumbnail: /chimeraland/recipes/hot-oil/hot-oil.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

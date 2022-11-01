@@ -16,6 +16,7 @@ photos:
   - /monsters/coracrab/Screenshot_2022-07-29-00-35-22-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/coracrab/Screenshot_2022-07-29-00-34-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

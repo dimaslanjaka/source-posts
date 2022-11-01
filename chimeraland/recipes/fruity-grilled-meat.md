@@ -6,11 +6,13 @@ updated: 2022-10-05T09:46:54+07:00
 date: 2022-01-08T18:56:03+07:00
 permalink: /chimeraland/recipes/fruity-grilled-meat.html
 photos:
+  - /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat.webp
   - /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat-name.webp
   - /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat-icon.webp
   - /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat-material.webp
-thumbnail: /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat-icon.webp
+thumbnail: /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

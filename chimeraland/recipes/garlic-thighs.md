@@ -6,11 +6,13 @@ updated: 2022-10-05T23:46:54+07:00
 date: 2022-01-09T08:56:03+07:00
 permalink: /chimeraland/recipes/garlic-thighs.html
 photos:
+  - /chimeraland/recipes/garlic-thighs/garlic-thighs.webp
   - /chimeraland/recipes/garlic-thighs/garlic-thighs-name.webp
   - /chimeraland/recipes/garlic-thighs/garlic-thighs-icon.webp
   - /chimeraland/recipes/garlic-thighs/garlic-thighs-material.webp
-thumbnail: /chimeraland/recipes/garlic-thighs/garlic-thighs-icon.webp
+thumbnail: /chimeraland/recipes/garlic-thighs/garlic-thighs.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

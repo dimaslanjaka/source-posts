@@ -14,6 +14,7 @@ photos:
   - /attendants/rhijin/Screenshot_2022-07-29-21-50-37-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/rhijin/Screenshot_2022-07-29-21-50-16-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

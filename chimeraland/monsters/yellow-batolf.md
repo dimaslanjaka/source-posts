@@ -7,6 +7,7 @@ date: 2022-01-11T18:56:03+07:00
 permalink: /monsters/yellow-batolf.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

@@ -6,11 +6,13 @@ updated: 2022-10-05T13:46:56+07:00
 date: 2022-01-08T15:56:03+07:00
 permalink: /chimeraland/recipes/fried-meat-with-mushrooms.html
 photos:
+  - /chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms.webp
   - /chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms-name.webp
   - /chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms-icon.webp
   - /chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms-material.webp
-thumbnail: /chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms-icon.webp
+thumbnail: /chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

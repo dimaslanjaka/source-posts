@@ -6,11 +6,13 @@ updated: 2022-10-06T00:46:55+07:00
 date: 2022-01-10T16:56:03+07:00
 permalink: /chimeraland/recipes/meat-and-vegetable.html
 photos:
+  - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable.webp
   - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-name.webp
   - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-icon.webp
   - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-material.webp
-thumbnail: /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-icon.webp
+thumbnail: /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

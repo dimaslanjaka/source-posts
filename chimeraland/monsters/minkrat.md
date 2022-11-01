@@ -7,6 +7,7 @@ date: 2022-01-08T22:56:03+07:00
 permalink: /monsters/minkrat.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

@@ -6,11 +6,13 @@ updated: 2022-10-05T19:46:54+07:00
 date: 2022-01-08T16:56:03+07:00
 permalink: /chimeraland/recipes/fried-intestines.html
 photos:
+  - /chimeraland/recipes/fried-intestines/fried-intestines.webp
   - /chimeraland/recipes/fried-intestines/fried-intestines-name.webp
   - /chimeraland/recipes/fried-intestines/fried-intestines-icon.webp
   - /chimeraland/recipes/fried-intestines/fried-intestines-material.webp
-thumbnail: /chimeraland/recipes/fried-intestines/fried-intestines-icon.webp
+thumbnail: /chimeraland/recipes/fried-intestines/fried-intestines.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

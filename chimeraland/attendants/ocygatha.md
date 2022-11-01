@@ -14,6 +14,7 @@ photos:
   - /attendants/ocygatha/Screenshot_2022-07-30-14-35-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/ocygatha/Screenshot_2022-07-30-14-35-24-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

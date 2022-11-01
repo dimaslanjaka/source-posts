@@ -14,6 +14,7 @@ photos:
   - /attendants/lok-aqui/Screenshot_2022-07-17-22-35-01-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/lok-aqui/Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

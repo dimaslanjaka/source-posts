@@ -16,6 +16,7 @@ photos:
   - /monsters/stappo/Screenshot_2022-08-18-02-51-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/stappo/Screenshot_2022-08-18-02-51-13-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

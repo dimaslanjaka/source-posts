@@ -15,6 +15,7 @@ photos:
   - /monsters/crocupine/Screenshot_2022-08-12-23-37-34-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/crocupine/Screenshot_2022-08-12-23-36-53-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

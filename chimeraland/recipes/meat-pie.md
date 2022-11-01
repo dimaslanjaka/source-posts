@@ -6,11 +6,13 @@ updated: 2022-10-05T23:46:55+07:00
 date: 2022-01-10T09:56:03+07:00
 permalink: /chimeraland/recipes/meat-pie.html
 photos:
+  - /chimeraland/recipes/meat-pie/meat-pie.webp
   - /chimeraland/recipes/meat-pie/meat-pie-name.webp
   - /chimeraland/recipes/meat-pie/meat-pie-icon.webp
   - /chimeraland/recipes/meat-pie/meat-pie-material.webp
-thumbnail: /chimeraland/recipes/meat-pie/meat-pie-icon.webp
+thumbnail: /chimeraland/recipes/meat-pie/meat-pie.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

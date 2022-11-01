@@ -6,11 +6,13 @@ updated: 2022-10-06T02:46:56+07:00
 date: 2022-01-11T21:56:03+07:00
 permalink: /chimeraland/recipes/soy-braised-pork.html
 photos:
+  - /chimeraland/recipes/soy-braised-pork/soy-braised-pork.webp
   - /chimeraland/recipes/soy-braised-pork/soy-braised-pork-name.webp
   - /chimeraland/recipes/soy-braised-pork/soy-braised-pork-icon.webp
   - /chimeraland/recipes/soy-braised-pork/soy-braised-pork-material.webp
-thumbnail: /chimeraland/recipes/soy-braised-pork/soy-braised-pork-icon.webp
+thumbnail: /chimeraland/recipes/soy-braised-pork/soy-braised-pork.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

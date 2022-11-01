@@ -7,6 +7,7 @@ date: 2022-01-10T23:56:03+07:00
 permalink: /monsters/stoatle.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

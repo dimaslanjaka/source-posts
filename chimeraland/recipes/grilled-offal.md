@@ -6,11 +6,13 @@ updated: 2022-10-05T08:46:56+07:00
 date: 2022-01-09T20:56:03+07:00
 permalink: /chimeraland/recipes/grilled-offal.html
 photos:
+  - /chimeraland/recipes/grilled-offal/grilled-offal.webp
   - /chimeraland/recipes/grilled-offal/grilled-offal-name.webp
   - /chimeraland/recipes/grilled-offal/grilled-offal-icon.webp
   - /chimeraland/recipes/grilled-offal/grilled-offal-material.webp
-thumbnail: /chimeraland/recipes/grilled-offal/grilled-offal-icon.webp
+thumbnail: /chimeraland/recipes/grilled-offal/grilled-offal.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

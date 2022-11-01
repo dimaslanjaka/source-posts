@@ -6,11 +6,13 @@ updated: 2022-10-06T04:46:54+07:00
 date: 2022-01-09T13:56:03+07:00
 permalink: /chimeraland/recipes/grilled-bear-paw.html
 photos:
+  - /chimeraland/recipes/grilled-bear-paw/grilled-bear-paw.webp
   - /chimeraland/recipes/grilled-bear-paw/grilled-bear-paw-name.webp
   - /chimeraland/recipes/grilled-bear-paw/grilled-bear-paw-icon.webp
   - /chimeraland/recipes/grilled-bear-paw/grilled-bear-paw-material.webp
-thumbnail: /chimeraland/recipes/grilled-bear-paw/grilled-bear-paw-icon.webp
+thumbnail: /chimeraland/recipes/grilled-bear-paw/grilled-bear-paw.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

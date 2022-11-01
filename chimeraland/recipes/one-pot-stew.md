@@ -6,11 +6,13 @@ updated: 2022-10-05T11:46:55+07:00
 date: 2022-01-10T14:56:03+07:00
 permalink: /chimeraland/recipes/one-pot-stew.html
 photos:
+  - /chimeraland/recipes/one-pot-stew/one-pot-stew.webp
   - /chimeraland/recipes/one-pot-stew/one-pot-stew-name.webp
   - /chimeraland/recipes/one-pot-stew/one-pot-stew-icon.webp
   - /chimeraland/recipes/one-pot-stew/one-pot-stew-material.webp
-thumbnail: /chimeraland/recipes/one-pot-stew/one-pot-stew-icon.webp
+thumbnail: /chimeraland/recipes/one-pot-stew/one-pot-stew.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -6,11 +6,13 @@ updated: 2022-09-29T14:26:37+07:00
 date: 2022-01-12T04:56:03+07:00
 permalink: /chimeraland/recipes/spicy-pepper-sauce.html
 photos:
+  - /chimeraland/recipes/spicy-pepper-sauce/spicy-pepper-sauce.webp
   - /chimeraland/recipes/spicy-pepper-sauce/spicy-pepper-sauce-name.webp
   - /chimeraland/recipes/spicy-pepper-sauce/spicy-pepper-sauce-icon.webp
   - /chimeraland/recipes/spicy-pepper-sauce/spicy-pepper-sauce-material.webp
-thumbnail: /chimeraland/recipes/spicy-pepper-sauce/spicy-pepper-sauce-icon.webp
+thumbnail: /chimeraland/recipes/spicy-pepper-sauce/spicy-pepper-sauce.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

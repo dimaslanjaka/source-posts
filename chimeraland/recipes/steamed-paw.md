@@ -6,11 +6,13 @@ updated: 2022-10-06T23:46:55+07:00
 date: 2022-01-12T01:56:03+07:00
 permalink: /chimeraland/recipes/steamed-paw.html
 photos:
+  - /chimeraland/recipes/steamed-paw/steamed-paw.webp
   - /chimeraland/recipes/steamed-paw/steamed-paw-name.webp
   - /chimeraland/recipes/steamed-paw/steamed-paw-icon.webp
   - /chimeraland/recipes/steamed-paw/steamed-paw-material.webp
-thumbnail: /chimeraland/recipes/steamed-paw/steamed-paw-icon.webp
+thumbnail: /chimeraland/recipes/steamed-paw/steamed-paw.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

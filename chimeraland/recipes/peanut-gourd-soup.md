@@ -6,11 +6,13 @@ updated: 2022-10-05T19:46:56+07:00
 date: 2022-01-10T17:56:03+07:00
 permalink: /chimeraland/recipes/peanut-gourd-soup.html
 photos:
+  - /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup.webp
   - /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup-name.webp
   - /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup-icon.webp
   - /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup-material.webp
-thumbnail: /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup-icon.webp
+thumbnail: /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

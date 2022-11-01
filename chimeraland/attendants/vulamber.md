@@ -16,6 +16,7 @@ photos:
   - /attendants/vulamber/Screenshot_2022-07-14-22-53-06-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/vulamber/Screenshot_2022-07-14-00-55-12-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

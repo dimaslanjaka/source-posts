@@ -6,11 +6,13 @@ updated: 2022-10-06T03:46:56+07:00
 date: 2022-01-13T08:56:03+07:00
 permalink: /chimeraland/recipes/veggie-cake.html
 photos:
+  - /chimeraland/recipes/veggie-cake/veggie-cake.webp
   - /chimeraland/recipes/veggie-cake/veggie-cake-name.webp
   - /chimeraland/recipes/veggie-cake/veggie-cake-icon.webp
   - /chimeraland/recipes/veggie-cake/veggie-cake-material.webp
-thumbnail: /chimeraland/recipes/veggie-cake/veggie-cake-icon.webp
+thumbnail: /chimeraland/recipes/veggie-cake/veggie-cake.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -6,11 +6,13 @@ updated: 2022-09-29T05:26:37+07:00
 date: 2022-01-08T06:56:03+07:00
 permalink: /chimeraland/recipes/drunken-fish.html
 photos:
+  - /chimeraland/recipes/drunken-fish/drunken-fish.webp
   - /chimeraland/recipes/drunken-fish/drunken-fish-name.webp
   - /chimeraland/recipes/drunken-fish/drunken-fish-icon.webp
   - /chimeraland/recipes/drunken-fish/drunken-fish-material.webp
-thumbnail: /chimeraland/recipes/drunken-fish/drunken-fish-icon.webp
+thumbnail: /chimeraland/recipes/drunken-fish/drunken-fish.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

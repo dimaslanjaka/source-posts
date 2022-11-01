@@ -14,6 +14,7 @@ photos:
   - /monsters/piscertus/Screenshot_2022-07-15-16-59-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/piscertus/Screenshot_2022-07-15-16-59-18-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

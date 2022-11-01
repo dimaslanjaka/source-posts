@@ -6,11 +6,13 @@ updated: 2022-10-06T05:46:55+07:00
 date: 2022-01-10T07:56:03+07:00
 permalink: /chimeraland/recipes/jobs-tears-stew.html
 photos:
+  - /chimeraland/recipes/jobs-tears-stew/jobs-tears-stew.webp
   - /chimeraland/recipes/jobs-tears-stew/jobs-tears-stew-name.webp
   - /chimeraland/recipes/jobs-tears-stew/jobs-tears-stew-icon.webp
   - /chimeraland/recipes/jobs-tears-stew/jobs-tears-stew-material.webp
-thumbnail: /chimeraland/recipes/jobs-tears-stew/jobs-tears-stew-icon.webp
+thumbnail: /chimeraland/recipes/jobs-tears-stew/jobs-tears-stew.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

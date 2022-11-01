@@ -6,11 +6,13 @@ updated: 2022-10-05T22:46:54+07:00
 date: 2022-01-09T18:56:03+07:00
 permalink: /chimeraland/recipes/grilled-meat-and-mushrooms.html
 photos:
+  - /chimeraland/recipes/grilled-meat-and-mushrooms/grilled-meat-and-mushrooms.webp
   - /chimeraland/recipes/grilled-meat-and-mushrooms/grilled-meat-and-mushrooms-name.webp
   - /chimeraland/recipes/grilled-meat-and-mushrooms/grilled-meat-and-mushrooms-icon.webp
   - /chimeraland/recipes/grilled-meat-and-mushrooms/grilled-meat-and-mushrooms-material.webp
-thumbnail: /chimeraland/recipes/grilled-meat-and-mushrooms/grilled-meat-and-mushrooms-icon.webp
+thumbnail: /chimeraland/recipes/grilled-meat-and-mushrooms/grilled-meat-and-mushrooms.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

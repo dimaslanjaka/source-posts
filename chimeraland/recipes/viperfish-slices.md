@@ -6,11 +6,13 @@ updated: 2022-10-06T06:46:56+07:00
 date: 2022-01-12T23:56:03+07:00
 permalink: /chimeraland/recipes/viperfish-slices.html
 photos:
+  - /chimeraland/recipes/viperfish-slices/viperfish-slices.webp
   - /chimeraland/recipes/viperfish-slices/viperfish-slices-name.webp
   - /chimeraland/recipes/viperfish-slices/viperfish-slices-icon.webp
   - /chimeraland/recipes/viperfish-slices/viperfish-slices-material.webp
-thumbnail: /chimeraland/recipes/viperfish-slices/viperfish-slices-icon.webp
+thumbnail: /chimeraland/recipes/viperfish-slices/viperfish-slices.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

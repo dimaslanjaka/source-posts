@@ -6,11 +6,13 @@ updated: 2022-10-06T15:46:55+07:00
 date: 2022-01-11T07:56:03+07:00
 permalink: /chimeraland/recipes/spiced-meat-skewers.html
 photos:
+  - /chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers.webp
   - /chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers-name.webp
   - /chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers-icon.webp
   - /chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers-material.webp
-thumbnail: /chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers-icon.webp
+thumbnail: /chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

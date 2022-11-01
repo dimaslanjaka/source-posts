@@ -14,6 +14,7 @@ photos:
   - /monsters/azure-light/Screenshot_2022-07-15-17-04-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/azure-light/Screenshot_2022-07-15-17-03-52-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

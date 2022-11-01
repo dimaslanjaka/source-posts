@@ -6,11 +6,13 @@ updated: 2022-10-05T07:46:57+07:00
 date: 2022-01-07T12:56:03+07:00
 permalink: /chimeraland/recipes/braised-wings.html
 photos:
+  - /chimeraland/recipes/braised-wings/braised-wings.webp
   - /chimeraland/recipes/braised-wings/braised-wings-name.webp
   - /chimeraland/recipes/braised-wings/braised-wings-icon.webp
   - /chimeraland/recipes/braised-wings/braised-wings-material.webp
-thumbnail: /chimeraland/recipes/braised-wings/braised-wings-icon.webp
+thumbnail: /chimeraland/recipes/braised-wings/braised-wings.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

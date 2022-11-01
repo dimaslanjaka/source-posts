@@ -14,6 +14,7 @@ photos:
   - /monsters/horsedeer/Screenshot_2022-07-15-17-10-40-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/horsedeer/Screenshot_2022-07-15-17-10-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

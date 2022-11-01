@@ -14,6 +14,7 @@ photos:
   - /attendants/reisiger/Screenshot_2022-07-17-13-52-31-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/reisiger/Screenshot_2022-07-17-13-52-06-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

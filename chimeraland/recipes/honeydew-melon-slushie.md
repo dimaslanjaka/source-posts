@@ -6,11 +6,13 @@ updated: 2022-10-05T17:46:55+07:00
 date: 2022-01-09T23:56:03+07:00
 permalink: /chimeraland/recipes/honeydew-melon-slushie.html
 photos:
+  - /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie.webp
   - /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie-name.webp
   - /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie-icon.webp
   - /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie-material.webp
-thumbnail: /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie-icon.webp
+thumbnail: /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

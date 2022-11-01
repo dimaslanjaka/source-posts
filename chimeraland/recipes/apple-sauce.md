@@ -6,11 +6,13 @@ updated: 2022-09-28T20:26:37+07:00
 date: 2022-01-07T05:56:03+07:00
 permalink: /chimeraland/recipes/apple-sauce.html
 photos:
+  - /chimeraland/recipes/apple-sauce/apple-sauce.webp
   - /chimeraland/recipes/apple-sauce/apple-sauce-name.webp
   - /chimeraland/recipes/apple-sauce/apple-sauce-icon.webp
   - /chimeraland/recipes/apple-sauce/apple-sauce-material.webp
-thumbnail: /chimeraland/recipes/apple-sauce/apple-sauce-icon.webp
+thumbnail: /chimeraland/recipes/apple-sauce/apple-sauce.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

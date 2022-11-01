@@ -7,6 +7,7 @@ date: 2022-01-07T01:56:03+07:00
 permalink: /attendants/rosary-twinkel.html
 photos: []
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

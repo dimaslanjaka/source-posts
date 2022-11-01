@@ -6,11 +6,13 @@ updated: 2022-10-05T12:46:56+07:00
 date: 2022-01-09T05:56:03+07:00
 permalink: /chimeraland/recipes/grilled-heart.html
 photos:
+  - /chimeraland/recipes/grilled-heart/grilled-heart.webp
   - /chimeraland/recipes/grilled-heart/grilled-heart-name.webp
   - /chimeraland/recipes/grilled-heart/grilled-heart-icon.webp
   - /chimeraland/recipes/grilled-heart/grilled-heart-material.webp
-thumbnail: /chimeraland/recipes/grilled-heart/grilled-heart-icon.webp
+thumbnail: /chimeraland/recipes/grilled-heart/grilled-heart.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

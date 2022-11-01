@@ -6,11 +6,13 @@ updated: 2022-10-05T07:46:54+07:00
 date: 2022-01-07T13:56:03+07:00
 permalink: /chimeraland/recipes/curry-grilled-meat.html
 photos:
+  - /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat.webp
   - /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat-name.webp
   - /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat-icon.webp
   - /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat-material.webp
-thumbnail: /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat-icon.webp
+thumbnail: /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

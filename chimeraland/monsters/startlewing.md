@@ -16,6 +16,7 @@ photos:
   - /monsters/startlewing/Screenshot_2022-08-12-23-39-18-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/startlewing/Screenshot_2022-08-12-23-38-42-38_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

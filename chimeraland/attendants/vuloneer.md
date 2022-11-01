@@ -14,6 +14,7 @@ photos:
   - /attendants/vuloneer/Screenshot_2022-07-30-14-35-06-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/vuloneer/Screenshot_2022-07-30-14-34-42-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

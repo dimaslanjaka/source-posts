@@ -6,11 +6,13 @@ updated: 2022-10-05T11:46:56+07:00
 date: 2022-01-08T22:56:03+07:00
 permalink: /chimeraland/recipes/fried-vegetarian-balls.html
 photos:
+  - /chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls.webp
   - /chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls-name.webp
   - /chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls-icon.webp
   - /chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls-material.webp
-thumbnail: /chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls-icon.webp
+thumbnail: /chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

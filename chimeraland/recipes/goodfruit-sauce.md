@@ -6,11 +6,13 @@ updated: 2022-09-28T21:26:37+07:00
 date: 2022-01-09T14:56:03+07:00
 permalink: /chimeraland/recipes/goodfruit-sauce.html
 photos:
+  - /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce.webp
   - /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce-name.webp
   - /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce-icon.webp
   - /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce-material.webp
-thumbnail: /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce-icon.webp
+thumbnail: /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

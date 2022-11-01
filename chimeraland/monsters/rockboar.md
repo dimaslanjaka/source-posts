@@ -7,6 +7,7 @@ date: 2022-01-10T01:56:03+07:00
 permalink: /monsters/rockboar.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

@@ -7,6 +7,7 @@ date: 2022-01-07T23:56:03+07:00
 permalink: /attendants/shaman-luna.html
 photos: []
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

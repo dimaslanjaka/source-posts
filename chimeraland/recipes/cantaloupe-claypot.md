@@ -6,11 +6,13 @@ updated: 2022-10-05T20:46:53+07:00
 date: 2022-01-07T10:56:03+07:00
 permalink: /chimeraland/recipes/cantaloupe-claypot.html
 photos:
+  - /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot.webp
   - /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot-name.webp
   - /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot-icon.webp
   - /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot-material.webp
-thumbnail: /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot-icon.webp
+thumbnail: /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

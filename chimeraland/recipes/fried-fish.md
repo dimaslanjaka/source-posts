@@ -6,11 +6,13 @@ updated: 2022-10-05T13:46:54+07:00
 date: 2022-01-08T08:56:03+07:00
 permalink: /chimeraland/recipes/fried-fish.html
 photos:
+  - /chimeraland/recipes/fried-fish/fried-fish.webp
   - /chimeraland/recipes/fried-fish/fried-fish-name.webp
   - /chimeraland/recipes/fried-fish/fried-fish-icon.webp
   - /chimeraland/recipes/fried-fish/fried-fish-material.webp
-thumbnail: /chimeraland/recipes/fried-fish/fried-fish-icon.webp
+thumbnail: /chimeraland/recipes/fried-fish/fried-fish.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -6,11 +6,13 @@ updated: 2022-09-29T11:26:37+07:00
 date: 2022-01-11T09:56:03+07:00
 permalink: /chimeraland/recipes/red-hot-sauce.html
 photos:
+  - /chimeraland/recipes/red-hot-sauce/red-hot-sauce.webp
   - /chimeraland/recipes/red-hot-sauce/red-hot-sauce-name.webp
   - /chimeraland/recipes/red-hot-sauce/red-hot-sauce-icon.webp
   - /chimeraland/recipes/red-hot-sauce/red-hot-sauce-material.webp
-thumbnail: /chimeraland/recipes/red-hot-sauce/red-hot-sauce-icon.webp
+thumbnail: /chimeraland/recipes/red-hot-sauce/red-hot-sauce.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

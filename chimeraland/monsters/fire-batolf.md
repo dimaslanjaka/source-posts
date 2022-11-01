@@ -16,6 +16,7 @@ photos:
   - /monsters/fire-batolf/Screenshot_2022-08-12-23-38-27-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/fire-batolf/Screenshot_2022-08-12-23-37-52-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

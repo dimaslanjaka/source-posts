@@ -14,6 +14,7 @@ photos:
   - /monsters/spike-grizzly/Screenshot_2022-07-26-00-30-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /monsters/spike-grizzly/Screenshot_2022-07-26-00-29-34-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

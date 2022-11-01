@@ -6,11 +6,13 @@ updated: 2022-10-05T07:46:55+07:00
 date: 2022-01-06T21:56:03+07:00
 permalink: /chimeraland/recipes/arowana-slices.html
 photos:
+  - /chimeraland/recipes/arowana-slices/arowana-slices.webp
   - /chimeraland/recipes/arowana-slices/arowana-slices-name.webp
   - /chimeraland/recipes/arowana-slices/arowana-slices-icon.webp
   - /chimeraland/recipes/arowana-slices/arowana-slices-material.webp
-thumbnail: /chimeraland/recipes/arowana-slices/arowana-slices-icon.webp
+thumbnail: /chimeraland/recipes/arowana-slices/arowana-slices.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

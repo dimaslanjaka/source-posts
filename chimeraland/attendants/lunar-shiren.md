@@ -14,6 +14,7 @@ photos:
   - /attendants/lunar-shiren/Screenshot_2022-07-17-22-36-19-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/lunar-shiren/Screenshot_2022-07-17-22-35-55-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

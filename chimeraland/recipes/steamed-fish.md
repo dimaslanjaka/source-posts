@@ -6,11 +6,13 @@ updated: 2022-10-07T01:46:55+07:00
 date: 2022-01-12T07:56:03+07:00
 permalink: /chimeraland/recipes/steamed-fish.html
 photos:
+  - /chimeraland/recipes/steamed-fish/steamed-fish.webp
   - /chimeraland/recipes/steamed-fish/steamed-fish-name.webp
   - /chimeraland/recipes/steamed-fish/steamed-fish-icon.webp
   - /chimeraland/recipes/steamed-fish/steamed-fish-material.webp
-thumbnail: /chimeraland/recipes/steamed-fish/steamed-fish-icon.webp
+thumbnail: /chimeraland/recipes/steamed-fish/steamed-fish.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

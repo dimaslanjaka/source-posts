@@ -6,11 +6,13 @@ updated: 2022-10-06T19:46:56+07:00
 date: 2022-01-13T02:56:03+07:00
 permalink: /chimeraland/recipes/watermelon-slushie.html
 photos:
+  - /chimeraland/recipes/watermelon-slushie/watermelon-slushie.webp
   - /chimeraland/recipes/watermelon-slushie/watermelon-slushie-name.webp
   - /chimeraland/recipes/watermelon-slushie/watermelon-slushie-icon.webp
   - /chimeraland/recipes/watermelon-slushie/watermelon-slushie-material.webp
-thumbnail: /chimeraland/recipes/watermelon-slushie/watermelon-slushie-icon.webp
+thumbnail: /chimeraland/recipes/watermelon-slushie/watermelon-slushie.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

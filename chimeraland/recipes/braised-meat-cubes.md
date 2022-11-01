@@ -6,11 +6,13 @@ updated: 2022-10-05T07:46:56+07:00
 date: 2022-01-07T03:56:03+07:00
 permalink: /chimeraland/recipes/braised-meat-cubes.html
 photos:
+  - /chimeraland/recipes/braised-meat-cubes/braised-meat-cubes.webp
   - /chimeraland/recipes/braised-meat-cubes/braised-meat-cubes-name.webp
   - /chimeraland/recipes/braised-meat-cubes/braised-meat-cubes-icon.webp
   - /chimeraland/recipes/braised-meat-cubes/braised-meat-cubes-material.webp
-thumbnail: /chimeraland/recipes/braised-meat-cubes/braised-meat-cubes-icon.webp
+thumbnail: /chimeraland/recipes/braised-meat-cubes/braised-meat-cubes.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

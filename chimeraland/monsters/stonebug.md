@@ -7,6 +7,7 @@ date: 2022-01-11T08:56:03+07:00
 permalink: /monsters/stonebug.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

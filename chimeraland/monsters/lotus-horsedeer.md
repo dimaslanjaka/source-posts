@@ -7,6 +7,7 @@ date: 2022-01-08T21:56:03+07:00
 permalink: /monsters/lotus-horsedeer.html
 photos: []
 tags:
+  - Chimeraland
   - Monster
   - Pet
 categories:

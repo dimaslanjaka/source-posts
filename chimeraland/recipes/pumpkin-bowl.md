@@ -6,11 +6,13 @@ updated: 2022-10-07T02:46:54+07:00
 date: 2022-01-10T06:56:03+07:00
 permalink: /chimeraland/recipes/pumpkin-bowl.html
 photos:
+  - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl.webp
   - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-name.webp
   - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-icon.webp
   - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-material.webp
-thumbnail: /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-icon.webp
+thumbnail: /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

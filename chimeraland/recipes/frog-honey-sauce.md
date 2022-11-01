@@ -6,11 +6,13 @@ updated: 2022-10-06T03:46:54+07:00
 date: 2022-01-09T02:56:03+07:00
 permalink: /chimeraland/recipes/frog-honey-sauce.html
 photos:
+  - /chimeraland/recipes/frog-honey-sauce/frog-honey-sauce.webp
   - /chimeraland/recipes/frog-honey-sauce/frog-honey-sauce-name.webp
   - /chimeraland/recipes/frog-honey-sauce/frog-honey-sauce-icon.webp
   - /chimeraland/recipes/frog-honey-sauce/frog-honey-sauce-material.webp
-thumbnail: /chimeraland/recipes/frog-honey-sauce/frog-honey-sauce-icon.webp
+thumbnail: /chimeraland/recipes/frog-honey-sauce/frog-honey-sauce.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

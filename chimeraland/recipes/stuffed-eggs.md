@@ -6,11 +6,13 @@ updated: 2022-10-05T16:46:56+07:00
 date: 2022-01-12T16:56:03+07:00
 permalink: /chimeraland/recipes/stuffed-eggs.html
 photos:
+  - /chimeraland/recipes/stuffed-eggs/stuffed-eggs.webp
   - /chimeraland/recipes/stuffed-eggs/stuffed-eggs-name.webp
   - /chimeraland/recipes/stuffed-eggs/stuffed-eggs-icon.webp
   - /chimeraland/recipes/stuffed-eggs/stuffed-eggs-material.webp
-thumbnail: /chimeraland/recipes/stuffed-eggs/stuffed-eggs-icon.webp
+thumbnail: /chimeraland/recipes/stuffed-eggs/stuffed-eggs.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

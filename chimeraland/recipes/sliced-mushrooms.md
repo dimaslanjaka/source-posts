@@ -6,11 +6,13 @@ updated: 2022-10-05T11:46:57+07:00
 date: 2022-01-11T10:56:03+07:00
 permalink: /chimeraland/recipes/sliced-mushrooms.html
 photos:
+  - /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms.webp
   - /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms-name.webp
   - /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms-icon.webp
   - /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms-material.webp
-thumbnail: /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms-icon.webp
+thumbnail: /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

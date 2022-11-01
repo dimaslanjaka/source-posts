@@ -6,11 +6,13 @@ updated: 2022-10-06T13:46:56+07:00
 date: 2022-01-12T13:56:03+07:00
 permalink: /chimeraland/recipes/turtle-soup.html
 photos:
+  - /chimeraland/recipes/turtle-soup/turtle-soup.webp
   - /chimeraland/recipes/turtle-soup/turtle-soup-name.webp
   - /chimeraland/recipes/turtle-soup/turtle-soup-icon.webp
   - /chimeraland/recipes/turtle-soup/turtle-soup-material.webp
-thumbnail: /chimeraland/recipes/turtle-soup/turtle-soup-icon.webp
+thumbnail: /chimeraland/recipes/turtle-soup/turtle-soup.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -6,11 +6,13 @@ updated: 2022-10-05T15:46:54+07:00
 date: 2022-01-08T09:56:03+07:00
 permalink: /chimeraland/recipes/eggs-with-gourd.html
 photos:
+  - /chimeraland/recipes/eggs-with-gourd/eggs-with-gourd.webp
   - /chimeraland/recipes/eggs-with-gourd/eggs-with-gourd-name.webp
   - /chimeraland/recipes/eggs-with-gourd/eggs-with-gourd-icon.webp
   - /chimeraland/recipes/eggs-with-gourd/eggs-with-gourd-material.webp
-thumbnail: /chimeraland/recipes/eggs-with-gourd/eggs-with-gourd-icon.webp
+thumbnail: /chimeraland/recipes/eggs-with-gourd/eggs-with-gourd.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

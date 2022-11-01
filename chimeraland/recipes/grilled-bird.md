@@ -6,11 +6,13 @@ updated: 2022-10-05T18:46:56+07:00
 date: 2022-01-09T19:56:03+07:00
 permalink: /chimeraland/recipes/grilled-bird.html
 photos:
+  - /chimeraland/recipes/grilled-bird/grilled-bird.webp
   - /chimeraland/recipes/grilled-bird/grilled-bird-name.webp
   - /chimeraland/recipes/grilled-bird/grilled-bird-icon.webp
   - /chimeraland/recipes/grilled-bird/grilled-bird-material.webp
-thumbnail: /chimeraland/recipes/grilled-bird/grilled-bird-icon.webp
+thumbnail: /chimeraland/recipes/grilled-bird/grilled-bird.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

@@ -6,11 +6,13 @@ updated: 2022-10-07T04:46:54+07:00
 date: 2022-01-13T00:56:03+07:00
 permalink: /chimeraland/recipes/tomahawk-steak.html
 photos:
+  - /chimeraland/recipes/tomahawk-steak/tomahawk-steak.webp
   - /chimeraland/recipes/tomahawk-steak/tomahawk-steak-name.webp
   - /chimeraland/recipes/tomahawk-steak/tomahawk-steak-icon.webp
   - /chimeraland/recipes/tomahawk-steak/tomahawk-steak-material.webp
-thumbnail: /chimeraland/recipes/tomahawk-steak/tomahawk-steak-icon.webp
+thumbnail: /chimeraland/recipes/tomahawk-steak/tomahawk-steak.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food

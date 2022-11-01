@@ -7,6 +7,7 @@ date: 2022-01-07T08:56:03+07:00
 permalink: /attendants/shaman-twinkle.html
 photos: []
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

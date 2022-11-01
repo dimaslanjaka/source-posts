@@ -14,6 +14,7 @@ photos:
   - /attendants/crosoo/Screenshot_2022-07-15-19-44-51-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/crosoo/Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

@@ -14,6 +14,7 @@ photos:
   - /attendants/rosary-aquatine/Screenshot_2022-07-29-21-53-08-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-49-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
+  - Chimeraland
   - Attendant
 categories:
   - Games

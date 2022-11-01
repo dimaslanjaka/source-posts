@@ -6,11 +6,13 @@ updated: 2022-10-06T10:46:55+07:00
 date: 2022-01-11T20:56:03+07:00
 permalink: /chimeraland/recipes/sliced-fish-stew.html
 photos:
+  - /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew.webp
   - /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew-name.webp
   - /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew-icon.webp
   - /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew-material.webp
-thumbnail: /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew-icon.webp
+thumbnail: /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew.webp
 tags:
+  - Chimeraland
   - Recipe
   - Buff
   - Food
