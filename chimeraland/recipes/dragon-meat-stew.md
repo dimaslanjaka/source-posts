@@ -2,8 +2,8 @@
 title: Dragon Meat Stew
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:57+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T10:46:57+07:00
+date: 2022-01-07T20:56:03+07:00
 permalink: /recipes/dragon-meat-stew.html
 photos:
   - /recipes/dragon-meat-stew/dragon-meat-stew-name.webp

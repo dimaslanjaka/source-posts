@@ -2,8 +2,8 @@
 title: Stir-Fried Tomato With Eggs
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:55+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-06T21:46:55+07:00
+date: 2022-01-12T15:56:03+07:00
 permalink: /recipes/stir-fried-tomato-with-eggs.html
 photos:
   - /recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-name.webp

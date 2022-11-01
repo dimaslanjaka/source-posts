@@ -2,8 +2,8 @@
 title: Grilled Venison
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:54+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-06T14:46:54+07:00
+date: 2022-01-10T05:56:03+07:00
 permalink: /recipes/grilled-venison.html
 photos:
   - /recipes/grilled-venison/grilled-venison-name.webp

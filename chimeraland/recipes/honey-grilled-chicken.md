@@ -2,8 +2,8 @@
 title: Honey Grilled Chicken
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:55+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T10:46:55+07:00
+date: 2022-01-10T10:56:03+07:00
 permalink: /recipes/honey-grilled-chicken.html
 photos:
   - /recipes/honey-grilled-chicken/honey-grilled-chicken-name.webp

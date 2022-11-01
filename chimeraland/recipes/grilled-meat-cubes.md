@@ -2,8 +2,8 @@
 title: Grilled Meat Cubes
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:54+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-06T07:46:54+07:00
+date: 2022-01-10T01:56:03+07:00
 permalink: /recipes/grilled-meat-cubes.html
 photos:
   - /recipes/grilled-meat-cubes/grilled-meat-cubes-name.webp

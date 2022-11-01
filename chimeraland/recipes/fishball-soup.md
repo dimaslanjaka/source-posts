@@ -2,8 +2,8 @@
 title: Fishball Soup
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:56+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T21:46:56+07:00
+date: 2022-01-08T10:56:03+07:00
 permalink: /recipes/fishball-soup.html
 photos:
   - /recipes/fishball-soup/fishball-soup-name.webp

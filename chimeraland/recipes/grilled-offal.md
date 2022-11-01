@@ -2,8 +2,8 @@
 title: Grilled Offal
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:56+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T08:46:56+07:00
+date: 2022-01-09T20:56:03+07:00
 permalink: /recipes/grilled-offal.html
 photos:
   - /recipes/grilled-offal/grilled-offal-name.webp

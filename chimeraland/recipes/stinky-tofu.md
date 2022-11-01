@@ -3,7 +3,7 @@ title: Stinky Tofu
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T07:47:00+07:00
-date: 2022-01-06T20:56:03+07:00
+date: 2022-01-12T17:56:03+07:00
 permalink: /recipes/stinky-tofu.html
 photos:
   - /recipes/stinky-tofu/stinky-tofu-name.webp

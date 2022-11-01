@@ -2,8 +2,8 @@
 title: Hot Oil
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:54+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-06T12:46:54+07:00
+date: 2022-01-10T11:56:03+07:00
 permalink: /recipes/hot-oil.html
 photos:
   - /recipes/hot-oil/hot-oil-name.webp

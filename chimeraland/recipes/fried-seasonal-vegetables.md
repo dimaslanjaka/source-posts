@@ -2,8 +2,8 @@
 title: Fried Seasonal Vegetables
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:54+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T18:46:54+07:00
+date: 2022-01-08T14:56:03+07:00
 permalink: /recipes/fried-seasonal-vegetables.html
 photos:
   - /recipes/fried-seasonal-vegetables/fried-seasonal-vegetables-name.webp

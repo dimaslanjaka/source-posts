@@ -2,8 +2,8 @@
 title: Sea-Buckthorn Sauce
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-09-28T20:26:37+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-29T07:26:37+07:00
+date: 2022-01-11T14:56:03+07:00
 permalink: /recipes/sea-buckthorn-sauce.html
 photos:
   - /recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-name.webp

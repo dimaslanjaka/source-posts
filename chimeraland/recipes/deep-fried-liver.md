@@ -2,8 +2,8 @@
 title: Deep Fried Liver
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:57+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T16:46:57+07:00
+date: 2022-01-08T00:56:03+07:00
 permalink: /recipes/deep-fried-liver.html
 photos:
   - /recipes/deep-fried-liver/deep-fried-liver-name.webp

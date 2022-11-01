@@ -3,7 +3,7 @@ title: Braised Meat Cubes
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T07:46:56+07:00
-date: 2022-01-06T20:56:03+07:00
+date: 2022-01-07T03:56:03+07:00
 permalink: /recipes/braised-meat-cubes.html
 photos:
   - /recipes/braised-meat-cubes/braised-meat-cubes-name.webp

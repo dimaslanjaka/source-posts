@@ -2,8 +2,8 @@
 title: Garlic Sauce
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-09-28T20:26:37+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-29T08:26:37+07:00
+date: 2022-01-09T01:56:03+07:00
 permalink: /recipes/garlic-sauce.html
 photos:
   - /recipes/garlic-sauce/garlic-sauce-name.webp

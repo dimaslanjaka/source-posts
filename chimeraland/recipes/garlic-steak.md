@@ -2,8 +2,8 @@
 title: Garlic Steak
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:55+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T14:46:55+07:00
+date: 2022-01-09T00:56:03+07:00
 permalink: /recipes/garlic-steak.html
 photos:
   - /recipes/garlic-steak/garlic-steak-name.webp

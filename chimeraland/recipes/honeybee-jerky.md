@@ -2,8 +2,8 @@
 title: Honeybee Jerky
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:54+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-06T08:46:54+07:00
+date: 2022-01-10T08:56:03+07:00
 permalink: /recipes/honeybee-jerky.html
 photos:
   - /recipes/honeybee-jerky/honeybee-jerky-name.webp

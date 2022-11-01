@@ -2,8 +2,8 @@
 title: Garlic Braised Meat
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:54+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-06T01:46:54+07:00
+date: 2022-01-09T03:56:03+07:00
 permalink: /recipes/garlic-braised-meat.html
 photos:
   - /recipes/garlic-braised-meat/garlic-braised-meat-name.webp

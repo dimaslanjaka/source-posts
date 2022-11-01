@@ -2,8 +2,8 @@
 title: Stewed Brains
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:55+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-07T02:46:55+07:00
+date: 2022-01-12T06:56:03+07:00
 permalink: /recipes/stewed-brains.html
 photos:
   - /recipes/stewed-brains/stewed-brains-name.webp

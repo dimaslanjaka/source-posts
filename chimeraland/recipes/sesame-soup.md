@@ -2,8 +2,8 @@
 title: Sesame Soup
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:54+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-06T19:46:54+07:00
+date: 2022-01-11T11:56:03+07:00
 permalink: /recipes/sesame-soup.html
 photos:
   - /recipes/sesame-soup/sesame-soup-name.webp

@@ -2,8 +2,8 @@
 title: Bak Kut Teh
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:53+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T12:46:53+07:00
+date: 2022-01-07T04:56:03+07:00
 permalink: /recipes/bak-kut-teh.html
 photos:
   - /recipes/bak-kut-teh/bak-kut-teh-name.webp

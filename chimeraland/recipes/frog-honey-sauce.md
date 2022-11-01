@@ -2,8 +2,8 @@
 title: Frog Honey Sauce
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:54+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-06T03:46:54+07:00
+date: 2022-01-09T02:56:03+07:00
 permalink: /recipes/frog-honey-sauce.html
 photos:
   - /recipes/frog-honey-sauce/frog-honey-sauce-name.webp

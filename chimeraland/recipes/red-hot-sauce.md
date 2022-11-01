@@ -2,8 +2,8 @@
 title: Red Hot Sauce
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-09-28T20:26:37+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-29T11:26:37+07:00
+date: 2022-01-11T09:56:03+07:00
 permalink: /recipes/red-hot-sauce.html
 photos:
   - /recipes/red-hot-sauce/red-hot-sauce-name.webp

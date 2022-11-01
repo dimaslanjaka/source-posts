@@ -2,8 +2,8 @@
 title: Buddha's Temptation
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:53+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T10:46:53+07:00
+date: 2022-01-07T17:56:03+07:00
 permalink: /recipes/buddhas-temptation.html
 photos:
   - null

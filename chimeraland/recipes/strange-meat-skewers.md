@@ -2,8 +2,8 @@
 title: Strange Meat Skewers
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:56+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T10:46:56+07:00
+date: 2022-01-12T18:56:03+07:00
 permalink: /recipes/strange-meat-skewers.html
 photos:
   - /recipes/strange-meat-skewers/strange-meat-skewers-name.webp

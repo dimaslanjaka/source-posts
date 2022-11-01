@@ -2,8 +2,8 @@
 title: Soy-Braised Pork
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:56+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-06T02:46:56+07:00
+date: 2022-01-11T21:56:03+07:00
 permalink: /recipes/soy-braised-pork.html
 photos:
   - /recipes/soy-braised-pork/soy-braised-pork-name.webp

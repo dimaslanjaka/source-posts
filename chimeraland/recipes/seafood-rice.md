@@ -2,8 +2,8 @@
 title: Seafood Rice
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:55+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-06T17:46:55+07:00
+date: 2022-01-11T15:56:03+07:00
 permalink: /recipes/seafood-rice.html
 photos:
   - /recipes/seafood-rice/seafood-rice-name.webp

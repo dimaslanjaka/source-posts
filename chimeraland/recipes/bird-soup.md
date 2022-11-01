@@ -2,8 +2,8 @@
 title: Bird Soup
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:53+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T13:46:53+07:00
+date: 2022-01-07T06:56:03+07:00
 permalink: /recipes/bird-soup.html
 photos:
   - /recipes/bird-soup/bird-soup-name.webp

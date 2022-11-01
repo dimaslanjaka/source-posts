@@ -2,8 +2,8 @@
 title: Spiced Meat Skewers
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:55+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-06T15:46:55+07:00
+date: 2022-01-11T07:56:03+07:00
 permalink: /recipes/spiced-meat-skewers.html
 photos:
   - /recipes/spiced-meat-skewers/spiced-meat-skewers-name.webp

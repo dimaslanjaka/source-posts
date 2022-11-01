@@ -2,8 +2,8 @@
 title: New Year Dumplings
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:54+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-06T18:46:54+07:00
+date: 2022-01-10T21:56:03+07:00
 permalink: /recipes/new-year-dumplings.html
 photos:
   - /recipes/new-year-dumplings/new-year-dumplings-name.webp

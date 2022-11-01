@@ -3,7 +3,7 @@ title: Braised Wings
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T07:46:57+07:00
-date: 2022-01-06T20:56:03+07:00
+date: 2022-01-07T12:56:03+07:00
 permalink: /recipes/braised-wings.html
 photos:
   - /recipes/braised-wings/braised-wings-name.webp

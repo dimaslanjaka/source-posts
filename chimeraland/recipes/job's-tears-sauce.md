@@ -2,8 +2,8 @@
 title: Job's Tears Sauce
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-09-28T20:26:37+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-29T10:26:37+07:00
+date: 2022-01-10T18:56:03+07:00
 permalink: /recipes/jobs-tears-sauce.html
 photos:
   - /recipes/jobs-tears-sauce/jobs-tears-sauce-name.webp

@@ -2,8 +2,8 @@
 title: Fried Meat With Mushrooms
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:56+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T13:46:56+07:00
+date: 2022-01-08T15:56:03+07:00
 permalink: /recipes/fried-meat-with-mushrooms.html
 photos:
   - /recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms-name.webp

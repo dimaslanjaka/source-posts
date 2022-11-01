@@ -2,8 +2,8 @@
 title: Large Fruit Stew
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:54+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-06T15:46:54+07:00
+date: 2022-01-10T15:56:03+07:00
 permalink: /recipes/large-fruit-stew.html
 photos:
   - /recipes/large-fruit-stew/large-fruit-stew-name.webp

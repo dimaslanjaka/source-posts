@@ -2,8 +2,8 @@
 title: Grilled Brains
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:54+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T10:46:54+07:00
+date: 2022-01-09T10:56:03+07:00
 permalink: /recipes/grilled-brains.html
 photos:
   - /recipes/grilled-brains/grilled-brains-name.webp

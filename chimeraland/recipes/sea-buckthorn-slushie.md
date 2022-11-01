@@ -2,8 +2,8 @@
 title: Sea-Buckthorn Slushie
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:55+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-06T14:46:55+07:00
+date: 2022-01-11T19:56:03+07:00
 permalink: /recipes/sea-buckthorn-slushie.html
 photos:
   - /recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-name.webp

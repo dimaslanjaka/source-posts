@@ -2,8 +2,8 @@
 title: Garlic Thighs
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:54+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T23:46:54+07:00
+date: 2022-01-09T08:56:03+07:00
 permalink: /recipes/garlic-thighs.html
 photos:
   - /recipes/garlic-thighs/garlic-thighs-name.webp

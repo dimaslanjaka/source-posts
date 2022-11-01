@@ -2,8 +2,8 @@
 title: Eggs With Gourd
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:54+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-05T15:46:54+07:00
+date: 2022-01-08T09:56:03+07:00
 permalink: /recipes/eggs-with-gourd.html
 photos:
   - /recipes/eggs-with-gourd/eggs-with-gourd-name.webp

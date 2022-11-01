@@ -2,8 +2,8 @@
 title: Sea-Buckthorn Mixed Juice
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:55+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-07T00:46:55+07:00
+date: 2022-01-13T01:56:03+07:00
 permalink: /recipes/sea-buckthorn-mixed-juice.html
 photos:
   - /recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice-name.webp

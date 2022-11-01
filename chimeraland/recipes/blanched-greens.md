@@ -2,8 +2,8 @@
 title: Blanched Greens
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-09-28T20:26:37+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-29T03:26:37+07:00
+date: 2022-01-07T11:56:03+07:00
 permalink: /recipes/blanched-greens.html
 photos:
   - /recipes/blanched-greens/blanched-greens-name.webp
