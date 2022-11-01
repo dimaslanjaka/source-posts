@@ -2,8 +2,8 @@
 title: Azure Light
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:24+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-28T22:18:27+07:00
+date: 2022-01-07T05:56:03+07:00
 permalink: /monsters/azure-light.html
 photos:
   - /monsters/azure-light/Screenshot_2022-07-15-17-03-52-59_f4fc9fb10454fc3a3dacb99dff89b568.webp

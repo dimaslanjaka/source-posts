@@ -2,8 +2,8 @@
 title: Chimera
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:24+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-29T11:18:27+07:00
+date: 2022-01-07T10:56:03+07:00
 permalink: /monsters/chimera.html
 photos: []
 tags:

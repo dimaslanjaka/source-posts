@@ -2,8 +2,8 @@
 title: Lunar Shiren
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-29T09:26:37+07:00
+date: 2022-01-07T10:56:03+07:00
 permalink: /attendants/lunar-shiren.html
 photos:
   - /attendants/lunar-shiren/Screenshot_2022-07-17-22-35-55-13_f4fc9fb10454fc3a3dacb99dff89b568.webp

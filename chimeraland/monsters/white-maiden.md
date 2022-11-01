@@ -2,8 +2,8 @@
 title: White Maiden
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-03T12:18:27+07:00
+date: 2022-01-10T17:56:03+07:00
 permalink: /monsters/white-maiden.html
 photos:
   - /monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp

@@ -2,8 +2,8 @@
 title: Specklehorn
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-02T14:18:27+07:00
+date: 2022-01-10T05:56:03+07:00
 permalink: /monsters/specklehorn.html
 photos:
   - /monsters/specklehorn/Screenshot_2022-08-16-09-07-58-31_f4fc9fb10454fc3a3dacb99dff89b568.webp

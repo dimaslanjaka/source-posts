@@ -2,8 +2,8 @@
 title: Spike Alligon
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-02T09:18:27+07:00
+date: 2022-01-10T11:56:03+07:00
 permalink: /monsters/spike-alligon.html
 photos: []
 tags:

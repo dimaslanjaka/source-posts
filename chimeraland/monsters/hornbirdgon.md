@@ -2,8 +2,8 @@
 title: Hornbirdgon
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-30T15:18:27+07:00
+date: 2022-01-08T19:56:03+07:00
 permalink: /monsters/hornbirdgon.html
 photos:
   - /monsters/hornbirdgon/Screenshot_2022-07-16-07-20-44-57_f4fc9fb10454fc3a3dacb99dff89b568.webp

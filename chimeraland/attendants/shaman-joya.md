@@ -2,8 +2,8 @@
 title: Shaman Joya
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-29T01:26:37+07:00
+date: 2022-01-07T11:56:03+07:00
 permalink: /attendants/shaman-joya.html
 photos:
   - /attendants/shaman-joya/Screenshot_2022-07-26-01-05-16-92_f4fc9fb10454fc3a3dacb99dff89b568.webp

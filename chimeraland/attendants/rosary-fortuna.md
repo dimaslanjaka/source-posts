@@ -2,8 +2,8 @@
 title: Rosary Fortuna
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-29T15:26:37+07:00
+date: 2022-01-08T03:56:03+07:00
 permalink: /attendants/rosary-fortuna.html
 photos:
   - /attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-16-73_f4fc9fb10454fc3a3dacb99dff89b568.webp

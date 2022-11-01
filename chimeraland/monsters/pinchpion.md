@@ -2,8 +2,8 @@
 title: Pinchpion
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-01T15:18:27+07:00
+date: 2022-01-09T15:56:03+07:00
 permalink: /monsters/pinchpion.html
 photos:
   - /monsters/pinchpion/Screenshot 2022-08-09 191501.webp

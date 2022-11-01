@@ -2,8 +2,8 @@
 title: Crocupine
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:24+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-29T09:18:27+07:00
+date: 2022-01-07T16:56:03+07:00
 permalink: /monsters/crocupine.html
 photos:
   - /monsters/crocupine/Screenshot_2022-08-12-23-36-53-61_f4fc9fb10454fc3a3dacb99dff89b568.webp

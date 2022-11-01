@@ -2,8 +2,8 @@
 title: Hillord
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-30T11:18:27+07:00
+date: 2022-01-08T01:56:03+07:00
 permalink: /monsters/hillord.html
 photos:
   - /monsters/hillord/Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp

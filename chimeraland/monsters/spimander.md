@@ -2,8 +2,8 @@
 title: Spimander
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-01T20:18:27+07:00
+date: 2022-01-10T09:56:03+07:00
 permalink: /monsters/spimander.html
 photos: []
 tags:

@@ -2,8 +2,8 @@
 title: Ashfoot Gripine
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:24+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-29T04:18:27+07:00
+date: 2022-01-07T03:56:03+07:00
 permalink: /monsters/ashfoot-gripine.html
 photos:
   - /monsters/ashfoot-gripine/Screenshot_2022-07-16-18-59-34-77_f4fc9fb10454fc3a3dacb99dff89b568.webp

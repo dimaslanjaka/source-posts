@@ -2,8 +2,8 @@
 title: Frost Batolf
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-29T23:18:27+07:00
+date: 2022-01-08T09:56:03+07:00
 permalink: /monsters/frost-batolf.html
 photos:
   - /monsters/frost-batolf/Screenshot_2022-08-14-02-17-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp

@@ -2,8 +2,8 @@
 title: Stappo
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-02T19:18:27+07:00
+date: 2022-01-10T22:56:03+07:00
 permalink: /monsters/stappo.html
 photos:
   - /monsters/stappo/Screenshot_2022-08-18-02-51-13-46_f4fc9fb10454fc3a3dacb99dff89b568.webp

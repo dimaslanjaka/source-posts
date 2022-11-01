@@ -2,8 +2,8 @@
 title: Horned Rhino
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-30T18:18:27+07:00
+date: 2022-01-08T14:56:03+07:00
 permalink: /monsters/horned-rhino.html
 photos:
   - /monsters/horned-rhino/Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp

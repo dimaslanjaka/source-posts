@@ -2,8 +2,8 @@
 title: Ancient Piranha
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:24+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-29T03:18:27+07:00
+date: 2022-01-06T23:56:03+07:00
 permalink: /monsters/ancient-piranha.html
 photos:
   - /monsters/ancient-piranha/Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp

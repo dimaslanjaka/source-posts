@@ -2,8 +2,8 @@
 title: Verdypterid
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-10-02T17:18:27+07:00
+date: 2022-01-11T01:56:03+07:00
 permalink: /monsters/verdypterid.html
 photos:
   - /monsters/verdypterid/Screenshot_2022-08-12-23-34-53-01_f4fc9fb10454fc3a3dacb99dff89b568.webp

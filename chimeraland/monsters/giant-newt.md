@@ -2,8 +2,8 @@
 title: Giant Newt
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-31T14:52:25+07:00
-date: 2022-01-06T20:56:03+07:00
+updated: 2022-09-30T07:18:27+07:00
+date: 2022-01-08T10:56:03+07:00
 permalink: /monsters/giant-newt.html
 photos:
   - /monsters/giant-newt/Screenshot_2022-08-15-18-34-26-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
