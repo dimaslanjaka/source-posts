@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T09:46:54+07:00
 date: 2022-01-09T22:56:03+07:00
-permalink: /recipes/grilled-rabbit.html
+permalink: /chimeraland/recipes/grilled-rabbit.html
 photos:
-  - /recipes/grilled-rabbit/grilled-rabbit-name.webp
-  - /recipes/grilled-rabbit/grilled-rabbit-icon.webp
-  - /recipes/grilled-rabbit/grilled-rabbit-material.webp
-thumbnail: /recipes/grilled-rabbit/grilled-rabbit-icon.webp
+  - /chimeraland/recipes/grilled-rabbit/grilled-rabbit-name.webp
+  - /chimeraland/recipes/grilled-rabbit/grilled-rabbit-icon.webp
+  - /chimeraland/recipes/grilled-rabbit/grilled-rabbit-material.webp
+thumbnail: /chimeraland/recipes/grilled-rabbit/grilled-rabbit-icon.webp
 tags:
   - Recipe
   - Buff

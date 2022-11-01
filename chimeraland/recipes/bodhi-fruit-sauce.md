@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T02:26:37+07:00
 date: 2022-01-07T00:56:03+07:00
-permalink: /recipes/bodhi-fruit-sauce.html
+permalink: /chimeraland/recipes/bodhi-fruit-sauce.html
 photos:
-  - /recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-name.webp
-  - /recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-icon.webp
-  - /recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-material.webp
-thumbnail: /recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-icon.webp
+  - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-name.webp
+  - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-icon.webp
+  - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-material.webp
+thumbnail: /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-icon.webp
 tags:
   - Recipe
   - Buff

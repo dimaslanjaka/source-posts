@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T00:46:54+07:00
 date: 2022-01-11T00:56:03+07:00
-permalink: /recipes/meat-noodles.html
+permalink: /chimeraland/recipes/meat-noodles.html
 photos:
-  - /recipes/meat-noodles/meat-noodles-name.webp
-  - /recipes/meat-noodles/meat-noodles-icon.webp
-  - /recipes/meat-noodles/meat-noodles-material.webp
-thumbnail: /recipes/meat-noodles/meat-noodles-icon.webp
+  - /chimeraland/recipes/meat-noodles/meat-noodles-name.webp
+  - /chimeraland/recipes/meat-noodles/meat-noodles-icon.webp
+  - /chimeraland/recipes/meat-noodles/meat-noodles-material.webp
+thumbnail: /chimeraland/recipes/meat-noodles/meat-noodles-icon.webp
 tags:
   - Recipe
   - Buff

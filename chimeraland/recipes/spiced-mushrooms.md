@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T13:46:55+07:00
 date: 2022-01-11T22:56:03+07:00
-permalink: /recipes/spiced-mushrooms.html
+permalink: /chimeraland/recipes/spiced-mushrooms.html
 photos:
-  - /recipes/spiced-mushrooms/spiced-mushrooms-name.webp
-  - /recipes/spiced-mushrooms/spiced-mushrooms-icon.webp
-  - /recipes/spiced-mushrooms/spiced-mushrooms-material.webp
-thumbnail: /recipes/spiced-mushrooms/spiced-mushrooms-icon.webp
+  - /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms-name.webp
+  - /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms-icon.webp
+  - /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms-material.webp
+thumbnail: /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms-icon.webp
 tags:
   - Recipe
   - Buff

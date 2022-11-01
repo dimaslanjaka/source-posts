@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T08:46:53+07:00
 date: 2022-01-07T15:56:03+07:00
-permalink: /recipes/bubbling-stew.html
+permalink: /chimeraland/recipes/bubbling-stew.html
 photos:
-  - /recipes/bubbling-stew/bubbling-stew-name.webp
-  - /recipes/bubbling-stew/bubbling-stew-icon.webp
-  - /recipes/bubbling-stew/bubbling-stew-material.webp
-thumbnail: /recipes/bubbling-stew/bubbling-stew-icon.webp
+  - /chimeraland/recipes/bubbling-stew/bubbling-stew-name.webp
+  - /chimeraland/recipes/bubbling-stew/bubbling-stew-icon.webp
+  - /chimeraland/recipes/bubbling-stew/bubbling-stew-material.webp
+thumbnail: /chimeraland/recipes/bubbling-stew/bubbling-stew-icon.webp
 tags:
   - Recipe
   - Buff

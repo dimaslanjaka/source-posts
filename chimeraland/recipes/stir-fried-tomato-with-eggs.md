@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T21:46:55+07:00
 date: 2022-01-12T15:56:03+07:00
-permalink: /recipes/stir-fried-tomato-with-eggs.html
+permalink: /chimeraland/recipes/stir-fried-tomato-with-eggs.html
 photos:
-  - /recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-name.webp
-  - /recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-icon.webp
-  - /recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-material.webp
-thumbnail: /recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-icon.webp
+  - /chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-name.webp
+  - /chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-icon.webp
+  - /chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-material.webp
+thumbnail: /chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-icon.webp
 tags:
   - Recipe
   - Buff

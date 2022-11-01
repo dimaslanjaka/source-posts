@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T08:46:54+07:00
 date: 2022-01-10T08:56:03+07:00
-permalink: /recipes/honeybee-jerky.html
+permalink: /chimeraland/recipes/honeybee-jerky.html
 photos:
-  - /recipes/honeybee-jerky/honeybee-jerky-name.webp
-  - /recipes/honeybee-jerky/honeybee-jerky-icon.webp
-  - /recipes/honeybee-jerky/honeybee-jerky-material.webp
-thumbnail: /recipes/honeybee-jerky/honeybee-jerky-icon.webp
+  - /chimeraland/recipes/honeybee-jerky/honeybee-jerky-name.webp
+  - /chimeraland/recipes/honeybee-jerky/honeybee-jerky-icon.webp
+  - /chimeraland/recipes/honeybee-jerky/honeybee-jerky-material.webp
+thumbnail: /chimeraland/recipes/honeybee-jerky/honeybee-jerky-icon.webp
 tags:
   - Recipe
   - Buff

@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T14:46:56+07:00
 date: 2022-01-09T07:56:03+07:00
-permalink: /recipes/fruity-fried-mackerel.html
+permalink: /chimeraland/recipes/fruity-fried-mackerel.html
 photos:
   - null
   - null

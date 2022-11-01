@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T22:46:55+07:00
 date: 2022-01-13T12:56:03+07:00
-permalink: /recipes/wormy-soup.html
+permalink: /chimeraland/recipes/wormy-soup.html
 photos:
-  - /recipes/wormy-soup/wormy-soup-name.webp
-  - /recipes/wormy-soup/wormy-soup-icon.webp
-  - /recipes/wormy-soup/wormy-soup-material.webp
-thumbnail: /recipes/wormy-soup/wormy-soup-icon.webp
+  - /chimeraland/recipes/wormy-soup/wormy-soup-name.webp
+  - /chimeraland/recipes/wormy-soup/wormy-soup-icon.webp
+  - /chimeraland/recipes/wormy-soup/wormy-soup-material.webp
+thumbnail: /chimeraland/recipes/wormy-soup/wormy-soup-icon.webp
 tags:
   - Recipe
   - Buff

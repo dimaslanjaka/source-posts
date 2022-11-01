@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T14:46:54+07:00
 date: 2022-01-10T05:56:03+07:00
-permalink: /recipes/grilled-venison.html
+permalink: /chimeraland/recipes/grilled-venison.html
 photos:
-  - /recipes/grilled-venison/grilled-venison-name.webp
-  - /recipes/grilled-venison/grilled-venison-icon.webp
-  - /recipes/grilled-venison/grilled-venison-material.webp
-thumbnail: /recipes/grilled-venison/grilled-venison-icon.webp
+  - /chimeraland/recipes/grilled-venison/grilled-venison-name.webp
+  - /chimeraland/recipes/grilled-venison/grilled-venison-icon.webp
+  - /chimeraland/recipes/grilled-venison/grilled-venison-material.webp
+thumbnail: /chimeraland/recipes/grilled-venison/grilled-venison-icon.webp
 tags:
   - Recipe
   - Buff

@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T16:46:54+07:00
 date: 2022-01-08T12:56:03+07:00
-permalink: /recipes/deep-fried-meat.html
+permalink: /chimeraland/recipes/deep-fried-meat.html
 photos:
-  - /recipes/deep-fried-meat/deep-fried-meat-name.webp
-  - /recipes/deep-fried-meat/deep-fried-meat-icon.webp
-  - /recipes/deep-fried-meat/deep-fried-meat-material.webp
-thumbnail: /recipes/deep-fried-meat/deep-fried-meat-icon.webp
+  - /chimeraland/recipes/deep-fried-meat/deep-fried-meat-name.webp
+  - /chimeraland/recipes/deep-fried-meat/deep-fried-meat-icon.webp
+  - /chimeraland/recipes/deep-fried-meat/deep-fried-meat-material.webp
+thumbnail: /chimeraland/recipes/deep-fried-meat/deep-fried-meat-icon.webp
 tags:
   - Recipe
   - Buff

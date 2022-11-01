@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T09:46:55+07:00
 date: 2022-01-11T05:56:03+07:00
-permalink: /recipes/poached-meat-fillets.html
+permalink: /chimeraland/recipes/poached-meat-fillets.html
 photos:
-  - /recipes/poached-meat-fillets/poached-meat-fillets-name.webp
-  - /recipes/poached-meat-fillets/poached-meat-fillets-icon.webp
-  - /recipes/poached-meat-fillets/poached-meat-fillets-material.webp
-thumbnail: /recipes/poached-meat-fillets/poached-meat-fillets-icon.webp
+  - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-name.webp
+  - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-icon.webp
+  - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-material.webp
+thumbnail: /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-icon.webp
 tags:
   - Recipe
   - Buff

@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T08:46:56+07:00
 date: 2022-01-12T10:56:03+07:00
-permalink: /recipes/stewed-liver.html
+permalink: /chimeraland/recipes/stewed-liver.html
 photos:
-  - /recipes/stewed-liver/stewed-liver-name.webp
-  - /recipes/stewed-liver/stewed-liver-icon.webp
-  - /recipes/stewed-liver/stewed-liver-material.webp
-thumbnail: /recipes/stewed-liver/stewed-liver-icon.webp
+  - /chimeraland/recipes/stewed-liver/stewed-liver-name.webp
+  - /chimeraland/recipes/stewed-liver/stewed-liver-icon.webp
+  - /chimeraland/recipes/stewed-liver/stewed-liver-material.webp
+thumbnail: /chimeraland/recipes/stewed-liver/stewed-liver-icon.webp
 tags:
   - Recipe
   - Buff

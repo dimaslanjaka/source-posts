@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T10:46:55+07:00
 date: 2022-01-11T20:56:03+07:00
-permalink: /recipes/sliced-fish-stew.html
+permalink: /chimeraland/recipes/sliced-fish-stew.html
 photos:
-  - /recipes/sliced-fish-stew/sliced-fish-stew-name.webp
-  - /recipes/sliced-fish-stew/sliced-fish-stew-icon.webp
-  - /recipes/sliced-fish-stew/sliced-fish-stew-material.webp
-thumbnail: /recipes/sliced-fish-stew/sliced-fish-stew-icon.webp
+  - /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew-name.webp
+  - /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew-icon.webp
+  - /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew-material.webp
+thumbnail: /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew-icon.webp
 tags:
   - Recipe
   - Buff

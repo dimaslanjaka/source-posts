@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T16:46:56+07:00
 date: 2022-01-12T16:56:03+07:00
-permalink: /recipes/stuffed-eggs.html
+permalink: /chimeraland/recipes/stuffed-eggs.html
 photos:
-  - /recipes/stuffed-eggs/stuffed-eggs-name.webp
-  - /recipes/stuffed-eggs/stuffed-eggs-icon.webp
-  - /recipes/stuffed-eggs/stuffed-eggs-material.webp
-thumbnail: /recipes/stuffed-eggs/stuffed-eggs-icon.webp
+  - /chimeraland/recipes/stuffed-eggs/stuffed-eggs-name.webp
+  - /chimeraland/recipes/stuffed-eggs/stuffed-eggs-icon.webp
+  - /chimeraland/recipes/stuffed-eggs/stuffed-eggs-material.webp
+thumbnail: /chimeraland/recipes/stuffed-eggs/stuffed-eggs-icon.webp
 tags:
   - Recipe
   - Buff

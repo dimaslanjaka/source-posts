@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T23:46:54+07:00
 date: 2022-01-10T20:56:03+07:00
-permalink: /recipes/omelette.html
+permalink: /chimeraland/recipes/omelette.html
 photos:
-  - /recipes/omelette/omelette-name.webp
-  - /recipes/omelette/omelette-icon.webp
-  - /recipes/omelette/omelette-material.webp
-thumbnail: /recipes/omelette/omelette-icon.webp
+  - /chimeraland/recipes/omelette/omelette-name.webp
+  - /chimeraland/recipes/omelette/omelette-icon.webp
+  - /chimeraland/recipes/omelette/omelette-material.webp
+thumbnail: /chimeraland/recipes/omelette/omelette-icon.webp
 tags:
   - Recipe
   - Buff

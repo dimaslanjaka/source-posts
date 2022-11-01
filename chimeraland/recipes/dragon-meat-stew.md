@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T10:46:57+07:00
 date: 2022-01-07T20:56:03+07:00
-permalink: /recipes/dragon-meat-stew.html
+permalink: /chimeraland/recipes/dragon-meat-stew.html
 photos:
-  - /recipes/dragon-meat-stew/dragon-meat-stew-name.webp
-  - /recipes/dragon-meat-stew/dragon-meat-stew-icon.webp
-  - /recipes/dragon-meat-stew/dragon-meat-stew-material.webp
-thumbnail: /recipes/dragon-meat-stew/dragon-meat-stew-icon.webp
+  - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-name.webp
+  - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-icon.webp
+  - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-material.webp
+thumbnail: /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-icon.webp
 tags:
   - Recipe
   - Buff

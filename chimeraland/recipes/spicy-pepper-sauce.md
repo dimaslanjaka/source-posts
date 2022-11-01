@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T14:26:37+07:00
 date: 2022-01-12T04:56:03+07:00
-permalink: /recipes/spicy-pepper-sauce.html
+permalink: /chimeraland/recipes/spicy-pepper-sauce.html
 photos:
-  - /recipes/spicy-pepper-sauce/spicy-pepper-sauce-name.webp
-  - /recipes/spicy-pepper-sauce/spicy-pepper-sauce-icon.webp
-  - /recipes/spicy-pepper-sauce/spicy-pepper-sauce-material.webp
-thumbnail: /recipes/spicy-pepper-sauce/spicy-pepper-sauce-icon.webp
+  - /chimeraland/recipes/spicy-pepper-sauce/spicy-pepper-sauce-name.webp
+  - /chimeraland/recipes/spicy-pepper-sauce/spicy-pepper-sauce-icon.webp
+  - /chimeraland/recipes/spicy-pepper-sauce/spicy-pepper-sauce-material.webp
+thumbnail: /chimeraland/recipes/spicy-pepper-sauce/spicy-pepper-sauce-icon.webp
 tags:
   - Recipe
   - Buff

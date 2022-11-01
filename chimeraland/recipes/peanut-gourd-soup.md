@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T19:46:56+07:00
 date: 2022-01-10T17:56:03+07:00
-permalink: /recipes/peanut-gourd-soup.html
+permalink: /chimeraland/recipes/peanut-gourd-soup.html
 photos:
-  - /recipes/peanut-gourd-soup/peanut-gourd-soup-name.webp
-  - /recipes/peanut-gourd-soup/peanut-gourd-soup-icon.webp
-  - /recipes/peanut-gourd-soup/peanut-gourd-soup-material.webp
-thumbnail: /recipes/peanut-gourd-soup/peanut-gourd-soup-icon.webp
+  - /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup-name.webp
+  - /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup-icon.webp
+  - /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup-material.webp
+thumbnail: /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup-icon.webp
 tags:
   - Recipe
   - Buff

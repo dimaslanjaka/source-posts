@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T06:46:54+07:00
 date: 2022-01-09T04:56:03+07:00
-permalink: /recipes/garlic-meat-skewers.html
+permalink: /chimeraland/recipes/garlic-meat-skewers.html
 photos:
-  - /recipes/garlic-meat-skewers/garlic-meat-skewers-name.webp
-  - /recipes/garlic-meat-skewers/garlic-meat-skewers-icon.webp
-  - /recipes/garlic-meat-skewers/garlic-meat-skewers-material.webp
-thumbnail: /recipes/garlic-meat-skewers/garlic-meat-skewers-icon.webp
+  - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-name.webp
+  - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-icon.webp
+  - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-material.webp
+thumbnail: /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-icon.webp
 tags:
   - Recipe
   - Buff

@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T19:46:54+07:00
 date: 2022-01-11T11:56:03+07:00
-permalink: /recipes/sesame-soup.html
+permalink: /chimeraland/recipes/sesame-soup.html
 photos:
-  - /recipes/sesame-soup/sesame-soup-name.webp
-  - /recipes/sesame-soup/sesame-soup-icon.webp
-  - /recipes/sesame-soup/sesame-soup-material.webp
-thumbnail: /recipes/sesame-soup/sesame-soup-icon.webp
+  - /chimeraland/recipes/sesame-soup/sesame-soup-name.webp
+  - /chimeraland/recipes/sesame-soup/sesame-soup-icon.webp
+  - /chimeraland/recipes/sesame-soup/sesame-soup-material.webp
+thumbnail: /chimeraland/recipes/sesame-soup/sesame-soup-icon.webp
 tags:
   - Recipe
   - Buff

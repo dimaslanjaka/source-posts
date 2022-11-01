@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T13:46:56+07:00
 date: 2022-01-12T13:56:03+07:00
-permalink: /recipes/turtle-soup.html
+permalink: /chimeraland/recipes/turtle-soup.html
 photos:
-  - /recipes/turtle-soup/turtle-soup-name.webp
-  - /recipes/turtle-soup/turtle-soup-icon.webp
-  - /recipes/turtle-soup/turtle-soup-material.webp
-thumbnail: /recipes/turtle-soup/turtle-soup-icon.webp
+  - /chimeraland/recipes/turtle-soup/turtle-soup-name.webp
+  - /chimeraland/recipes/turtle-soup/turtle-soup-icon.webp
+  - /chimeraland/recipes/turtle-soup/turtle-soup-material.webp
+thumbnail: /chimeraland/recipes/turtle-soup/turtle-soup-icon.webp
 tags:
   - Recipe
   - Buff

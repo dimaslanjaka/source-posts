@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T20:46:55+07:00
 date: 2022-01-10T04:56:03+07:00
-permalink: /recipes/jobs-tears-broth.html
+permalink: /chimeraland/recipes/jobs-tears-broth.html
 photos:
-  - /recipes/jobs-tears-broth/jobs-tears-broth-name.webp
-  - /recipes/jobs-tears-broth/jobs-tears-broth-icon.webp
-  - /recipes/jobs-tears-broth/jobs-tears-broth-material.webp
-thumbnail: /recipes/jobs-tears-broth/jobs-tears-broth-icon.webp
+  - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-name.webp
+  - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-icon.webp
+  - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-material.webp
+thumbnail: /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-icon.webp
 tags:
   - Recipe
   - Buff

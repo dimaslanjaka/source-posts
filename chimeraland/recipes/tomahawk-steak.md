@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T04:46:54+07:00
 date: 2022-01-13T00:56:03+07:00
-permalink: /recipes/tomahawk-steak.html
+permalink: /chimeraland/recipes/tomahawk-steak.html
 photos:
-  - /recipes/tomahawk-steak/tomahawk-steak-name.webp
-  - /recipes/tomahawk-steak/tomahawk-steak-icon.webp
-  - /recipes/tomahawk-steak/tomahawk-steak-material.webp
-thumbnail: /recipes/tomahawk-steak/tomahawk-steak-icon.webp
+  - /chimeraland/recipes/tomahawk-steak/tomahawk-steak-name.webp
+  - /chimeraland/recipes/tomahawk-steak/tomahawk-steak-icon.webp
+  - /chimeraland/recipes/tomahawk-steak/tomahawk-steak-material.webp
+thumbnail: /chimeraland/recipes/tomahawk-steak/tomahawk-steak-icon.webp
 tags:
   - Recipe
   - Buff

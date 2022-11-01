@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T19:46:55+07:00
 date: 2022-01-12T11:56:03+07:00
-permalink: /recipes/spicy-smoked-meat.html
+permalink: /chimeraland/recipes/spicy-smoked-meat.html
 photos:
-  - /recipes/spicy-smoked-meat/spicy-smoked-meat-name.webp
-  - /recipes/spicy-smoked-meat/spicy-smoked-meat-icon.webp
-  - /recipes/spicy-smoked-meat/spicy-smoked-meat-material.webp
-thumbnail: /recipes/spicy-smoked-meat/spicy-smoked-meat-icon.webp
+  - /chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat-name.webp
+  - /chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat-icon.webp
+  - /chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat-material.webp
+thumbnail: /chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat-icon.webp
 tags:
   - Recipe
   - Buff

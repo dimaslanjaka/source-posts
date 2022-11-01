@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T07:46:54+07:00
 date: 2022-01-07T13:56:03+07:00
-permalink: /recipes/curry-grilled-meat.html
+permalink: /chimeraland/recipes/curry-grilled-meat.html
 photos:
-  - /recipes/curry-grilled-meat/curry-grilled-meat-name.webp
-  - /recipes/curry-grilled-meat/curry-grilled-meat-icon.webp
-  - /recipes/curry-grilled-meat/curry-grilled-meat-material.webp
-thumbnail: /recipes/curry-grilled-meat/curry-grilled-meat-icon.webp
+  - /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat-name.webp
+  - /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat-icon.webp
+  - /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat-material.webp
+thumbnail: /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat-icon.webp
 tags:
   - Recipe
   - Buff

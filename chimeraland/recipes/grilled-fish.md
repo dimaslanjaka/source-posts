@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T02:46:54+07:00
 date: 2022-01-09T12:56:03+07:00
-permalink: /recipes/grilled-fish.html
+permalink: /chimeraland/recipes/grilled-fish.html
 photos:
-  - /recipes/grilled-fish/grilled-fish-name.webp
-  - /recipes/grilled-fish/grilled-fish-icon.webp
-  - /recipes/grilled-fish/grilled-fish-material.webp
-thumbnail: /recipes/grilled-fish/grilled-fish-icon.webp
+  - /chimeraland/recipes/grilled-fish/grilled-fish-name.webp
+  - /chimeraland/recipes/grilled-fish/grilled-fish-icon.webp
+  - /chimeraland/recipes/grilled-fish/grilled-fish-material.webp
+thumbnail: /chimeraland/recipes/grilled-fish/grilled-fish-icon.webp
 tags:
   - Recipe
   - Buff

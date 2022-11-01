@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T17:46:55+07:00
 date: 2022-01-11T15:56:03+07:00
-permalink: /recipes/seafood-rice.html
+permalink: /chimeraland/recipes/seafood-rice.html
 photos:
-  - /recipes/seafood-rice/seafood-rice-name.webp
-  - /recipes/seafood-rice/seafood-rice-icon.webp
-  - /recipes/seafood-rice/seafood-rice-material.webp
-thumbnail: /recipes/seafood-rice/seafood-rice-icon.webp
+  - /chimeraland/recipes/seafood-rice/seafood-rice-name.webp
+  - /chimeraland/recipes/seafood-rice/seafood-rice-icon.webp
+  - /chimeraland/recipes/seafood-rice/seafood-rice-material.webp
+thumbnail: /chimeraland/recipes/seafood-rice/seafood-rice-icon.webp
 tags:
   - Recipe
   - Buff

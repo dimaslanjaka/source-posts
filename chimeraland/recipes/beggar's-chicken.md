@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T14:46:53+07:00
 date: 2022-01-07T02:56:03+07:00
-permalink: /recipes/beggars-chicken.html
+permalink: /chimeraland/recipes/beggars-chicken.html
 photos:
-  - /recipes/beggars-chicken/beggars-chicken-name.webp
-  - /recipes/beggars-chicken/beggars-chicken-icon.webp
-  - /recipes/beggars-chicken/beggars-chicken-material.webp
-thumbnail: /recipes/beggars-chicken/beggars-chicken-icon.webp
+  - /chimeraland/recipes/beggars-chicken/beggars-chicken-name.webp
+  - /chimeraland/recipes/beggars-chicken/beggars-chicken-icon.webp
+  - /chimeraland/recipes/beggars-chicken/beggars-chicken-material.webp
+thumbnail: /chimeraland/recipes/beggars-chicken/beggars-chicken-icon.webp
 tags:
   - Recipe
   - Buff

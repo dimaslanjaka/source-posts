@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T16:46:54+07:00
 date: 2022-01-09T15:56:03+07:00
-permalink: /recipes/grilled-wolf.html
+permalink: /chimeraland/recipes/grilled-wolf.html
 photos:
-  - /recipes/grilled-wolf/grilled-wolf-name.webp
-  - /recipes/grilled-wolf/grilled-wolf-icon.webp
-  - /recipes/grilled-wolf/grilled-wolf-material.webp
-thumbnail: /recipes/grilled-wolf/grilled-wolf-icon.webp
+  - /chimeraland/recipes/grilled-wolf/grilled-wolf-name.webp
+  - /chimeraland/recipes/grilled-wolf/grilled-wolf-icon.webp
+  - /chimeraland/recipes/grilled-wolf/grilled-wolf-material.webp
+thumbnail: /chimeraland/recipes/grilled-wolf/grilled-wolf-icon.webp
 tags:
   - Recipe
   - Buff

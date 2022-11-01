@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T13:26:37+07:00
 date: 2022-01-09T17:56:03+07:00
-permalink: /recipes/grilled-crab-claws.html
+permalink: /chimeraland/recipes/grilled-crab-claws.html
 photos:
   - null
   - null

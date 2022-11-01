@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T01:26:37+07:00
 date: 2022-01-08T20:56:03+07:00
-permalink: /recipes/fruit-and-veggie-paste.html
+permalink: /chimeraland/recipes/fruit-and-veggie-paste.html
 photos:
   - null
   - null

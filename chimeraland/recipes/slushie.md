@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T07:46:55+07:00
 date: 2022-01-11T12:56:03+07:00
-permalink: /recipes/slushie.html
+permalink: /chimeraland/recipes/slushie.html
 photos:
-  - /recipes/slushie/slushie-name.webp
-  - /recipes/slushie/slushie-icon.webp
-  - /recipes/slushie/slushie-material.webp
-thumbnail: /recipes/slushie/slushie-icon.webp
+  - /chimeraland/recipes/slushie/slushie-name.webp
+  - /chimeraland/recipes/slushie/slushie-icon.webp
+  - /chimeraland/recipes/slushie/slushie-material.webp
+thumbnail: /chimeraland/recipes/slushie/slushie-icon.webp
 tags:
   - Recipe
   - Buff

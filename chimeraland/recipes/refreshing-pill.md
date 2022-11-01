@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T01:46:56+07:00
 date: 2022-01-11T13:56:03+07:00
-permalink: /recipes/refreshing-pill.html
+permalink: /chimeraland/recipes/refreshing-pill.html
 photos:
-  - /recipes/refreshing-pill/refreshing-pill-name.webp
-  - /recipes/refreshing-pill/refreshing-pill-icon.webp
-  - /recipes/refreshing-pill/refreshing-pill-material.webp
-thumbnail: /recipes/refreshing-pill/refreshing-pill-icon.webp
+  - /chimeraland/recipes/refreshing-pill/refreshing-pill-name.webp
+  - /chimeraland/recipes/refreshing-pill/refreshing-pill-icon.webp
+  - /chimeraland/recipes/refreshing-pill/refreshing-pill-material.webp
+thumbnail: /chimeraland/recipes/refreshing-pill/refreshing-pill-icon.webp
 tags:
   - Recipe
   - Buff

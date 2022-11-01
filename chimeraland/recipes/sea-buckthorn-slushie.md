@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T14:46:55+07:00
 date: 2022-01-11T19:56:03+07:00
-permalink: /recipes/sea-buckthorn-slushie.html
+permalink: /chimeraland/recipes/sea-buckthorn-slushie.html
 photos:
-  - /recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-name.webp
-  - /recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-icon.webp
-  - /recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-material.webp
-thumbnail: /recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-icon.webp
+  - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-name.webp
+  - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-icon.webp
+  - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-material.webp
+thumbnail: /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-icon.webp
 tags:
   - Recipe
   - Buff

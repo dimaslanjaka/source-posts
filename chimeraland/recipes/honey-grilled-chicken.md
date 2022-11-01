@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T10:46:55+07:00
 date: 2022-01-10T10:56:03+07:00
-permalink: /recipes/honey-grilled-chicken.html
+permalink: /chimeraland/recipes/honey-grilled-chicken.html
 photos:
-  - /recipes/honey-grilled-chicken/honey-grilled-chicken-name.webp
-  - /recipes/honey-grilled-chicken/honey-grilled-chicken-icon.webp
-  - /recipes/honey-grilled-chicken/honey-grilled-chicken-material.webp
-thumbnail: /recipes/honey-grilled-chicken/honey-grilled-chicken-icon.webp
+  - /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken-name.webp
+  - /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken-icon.webp
+  - /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken-material.webp
+thumbnail: /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken-icon.webp
 tags:
   - Recipe
   - Buff

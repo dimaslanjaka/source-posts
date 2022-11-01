@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T08:46:55+07:00
 date: 2022-01-09T06:56:03+07:00
-permalink: /recipes/goodfruit-slushie.html
+permalink: /chimeraland/recipes/goodfruit-slushie.html
 photos:
-  - /recipes/goodfruit-slushie/goodfruit-slushie-name.webp
-  - /recipes/goodfruit-slushie/goodfruit-slushie-icon.webp
-  - /recipes/goodfruit-slushie/goodfruit-slushie-material.webp
-thumbnail: /recipes/goodfruit-slushie/goodfruit-slushie-icon.webp
+  - /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie-name.webp
+  - /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie-icon.webp
+  - /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie-material.webp
+thumbnail: /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie-icon.webp
 tags:
   - Recipe
   - Buff

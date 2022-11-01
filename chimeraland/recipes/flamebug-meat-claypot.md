@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T22:26:37+07:00
 date: 2022-01-14T03:56:03+07:00
-permalink: /recipes/flamebug-meat-claypot.html
+permalink: /chimeraland/recipes/flamebug-meat-claypot.html
 photos:
   - null
   - null

@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T07:46:53+07:00
 date: 2022-01-06T20:56:03+07:00
-permalink: /recipes/stir-fried-vegetables.html
+permalink: /chimeraland/recipes/stir-fried-vegetables.html
 photos:
-  - /recipes/stir-fried-vegetables/stir-fried-vegetables-name.webp
-  - /recipes/stir-fried-vegetables/stir-fried-vegetables-icon.webp
-  - /recipes/stir-fried-vegetables/stir-fried-vegetables-material.webp
-thumbnail: /recipes/stir-fried-vegetables/stir-fried-vegetables-icon.webp
+  - /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables-name.webp
+  - /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables-icon.webp
+  - /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables-material.webp
+thumbnail: /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables-icon.webp
 tags:
   - Recipe
   - Buff

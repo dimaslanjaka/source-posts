@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T15:46:56+07:00
 date: 2022-01-07T09:56:03+07:00
-permalink: /recipes/braised-tendons.html
+permalink: /chimeraland/recipes/braised-tendons.html
 photos:
-  - /recipes/braised-tendons/braised-tendons-name.webp
-  - /recipes/braised-tendons/braised-tendons-icon.webp
-  - /recipes/braised-tendons/braised-tendons-material.webp
-thumbnail: /recipes/braised-tendons/braised-tendons-icon.webp
+  - /chimeraland/recipes/braised-tendons/braised-tendons-name.webp
+  - /chimeraland/recipes/braised-tendons/braised-tendons-icon.webp
+  - /chimeraland/recipes/braised-tendons/braised-tendons-material.webp
+thumbnail: /chimeraland/recipes/braised-tendons/braised-tendons-icon.webp
 tags:
   - Recipe
   - Buff

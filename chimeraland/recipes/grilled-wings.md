@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T10:46:54+07:00
 date: 2022-01-09T21:56:03+07:00
-permalink: /recipes/grilled-wings.html
+permalink: /chimeraland/recipes/grilled-wings.html
 photos:
-  - /recipes/grilled-wings/grilled-wings-name.webp
-  - /recipes/grilled-wings/grilled-wings-icon.webp
-  - /recipes/grilled-wings/grilled-wings-material.webp
-thumbnail: /recipes/grilled-wings/grilled-wings-icon.webp
+  - /chimeraland/recipes/grilled-wings/grilled-wings-name.webp
+  - /chimeraland/recipes/grilled-wings/grilled-wings-icon.webp
+  - /chimeraland/recipes/grilled-wings/grilled-wings-material.webp
+thumbnail: /chimeraland/recipes/grilled-wings/grilled-wings-icon.webp
 tags:
   - Recipe
   - Buff

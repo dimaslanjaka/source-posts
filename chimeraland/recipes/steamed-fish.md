@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T01:46:55+07:00
 date: 2022-01-12T07:56:03+07:00
-permalink: /recipes/steamed-fish.html
+permalink: /chimeraland/recipes/steamed-fish.html
 photos:
-  - /recipes/steamed-fish/steamed-fish-name.webp
-  - /recipes/steamed-fish/steamed-fish-icon.webp
-  - /recipes/steamed-fish/steamed-fish-material.webp
-thumbnail: /recipes/steamed-fish/steamed-fish-icon.webp
+  - /chimeraland/recipes/steamed-fish/steamed-fish-name.webp
+  - /chimeraland/recipes/steamed-fish/steamed-fish-icon.webp
+  - /chimeraland/recipes/steamed-fish/steamed-fish-material.webp
+thumbnail: /chimeraland/recipes/steamed-fish/steamed-fish-icon.webp
 tags:
   - Recipe
   - Buff

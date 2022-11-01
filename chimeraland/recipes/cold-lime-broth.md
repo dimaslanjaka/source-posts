@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T19:46:53+07:00
 date: 2022-01-08T07:56:03+07:00
-permalink: /recipes/cold-lime-broth.html
+permalink: /chimeraland/recipes/cold-lime-broth.html
 photos:
   - null
   - null

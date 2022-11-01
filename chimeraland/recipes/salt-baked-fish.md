@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T06:46:55+07:00
 date: 2022-01-11T02:56:03+07:00
-permalink: /recipes/salt-baked-fish.html
+permalink: /chimeraland/recipes/salt-baked-fish.html
 photos:
-  - /recipes/salt-baked-fish/salt-baked-fish-name.webp
-  - /recipes/salt-baked-fish/salt-baked-fish-icon.webp
-  - /recipes/salt-baked-fish/salt-baked-fish-material.webp
-thumbnail: /recipes/salt-baked-fish/salt-baked-fish-icon.webp
+  - /chimeraland/recipes/salt-baked-fish/salt-baked-fish-name.webp
+  - /chimeraland/recipes/salt-baked-fish/salt-baked-fish-icon.webp
+  - /chimeraland/recipes/salt-baked-fish/salt-baked-fish-material.webp
+thumbnail: /chimeraland/recipes/salt-baked-fish/salt-baked-fish-icon.webp
 tags:
   - Recipe
   - Buff

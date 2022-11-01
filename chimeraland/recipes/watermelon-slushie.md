@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T19:46:56+07:00
 date: 2022-01-13T02:56:03+07:00
-permalink: /recipes/watermelon-slushie.html
+permalink: /chimeraland/recipes/watermelon-slushie.html
 photos:
-  - /recipes/watermelon-slushie/watermelon-slushie-name.webp
-  - /recipes/watermelon-slushie/watermelon-slushie-icon.webp
-  - /recipes/watermelon-slushie/watermelon-slushie-material.webp
-thumbnail: /recipes/watermelon-slushie/watermelon-slushie-icon.webp
+  - /chimeraland/recipes/watermelon-slushie/watermelon-slushie-name.webp
+  - /chimeraland/recipes/watermelon-slushie/watermelon-slushie-icon.webp
+  - /chimeraland/recipes/watermelon-slushie/watermelon-slushie-material.webp
+thumbnail: /chimeraland/recipes/watermelon-slushie/watermelon-slushie-icon.webp
 tags:
   - Recipe
   - Buff

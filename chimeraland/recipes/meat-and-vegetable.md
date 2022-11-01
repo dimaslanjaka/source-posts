@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T00:46:55+07:00
 date: 2022-01-10T16:56:03+07:00
-permalink: /recipes/meat-and-vegetable.html
+permalink: /chimeraland/recipes/meat-and-vegetable.html
 photos:
-  - /recipes/meat-and-vegetable/meat-and-vegetable-name.webp
-  - /recipes/meat-and-vegetable/meat-and-vegetable-icon.webp
-  - /recipes/meat-and-vegetable/meat-and-vegetable-material.webp
-thumbnail: /recipes/meat-and-vegetable/meat-and-vegetable-icon.webp
+  - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-name.webp
+  - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-icon.webp
+  - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-material.webp
+thumbnail: /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-icon.webp
 tags:
   - Recipe
   - Buff

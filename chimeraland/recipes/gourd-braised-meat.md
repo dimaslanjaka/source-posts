@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T13:46:54+07:00
 date: 2022-01-09T09:56:03+07:00
-permalink: /recipes/gourd-braised-meat.html
+permalink: /chimeraland/recipes/gourd-braised-meat.html
 photos:
-  - /recipes/gourd-braised-meat/gourd-braised-meat-name.webp
-  - /recipes/gourd-braised-meat/gourd-braised-meat-icon.webp
-  - /recipes/gourd-braised-meat/gourd-braised-meat-material.webp
-thumbnail: /recipes/gourd-braised-meat/gourd-braised-meat-icon.webp
+  - /chimeraland/recipes/gourd-braised-meat/gourd-braised-meat-name.webp
+  - /chimeraland/recipes/gourd-braised-meat/gourd-braised-meat-icon.webp
+  - /chimeraland/recipes/gourd-braised-meat/gourd-braised-meat-material.webp
+thumbnail: /chimeraland/recipes/gourd-braised-meat/gourd-braised-meat-icon.webp
 tags:
   - Recipe
   - Buff

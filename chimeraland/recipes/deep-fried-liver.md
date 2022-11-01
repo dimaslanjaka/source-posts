@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T16:46:57+07:00
 date: 2022-01-08T00:56:03+07:00
-permalink: /recipes/deep-fried-liver.html
+permalink: /chimeraland/recipes/deep-fried-liver.html
 photos:
-  - /recipes/deep-fried-liver/deep-fried-liver-name.webp
-  - /recipes/deep-fried-liver/deep-fried-liver-icon.webp
-  - /recipes/deep-fried-liver/deep-fried-liver-material.webp
-thumbnail: /recipes/deep-fried-liver/deep-fried-liver-icon.webp
+  - /chimeraland/recipes/deep-fried-liver/deep-fried-liver-name.webp
+  - /chimeraland/recipes/deep-fried-liver/deep-fried-liver-icon.webp
+  - /chimeraland/recipes/deep-fried-liver/deep-fried-liver-material.webp
+thumbnail: /chimeraland/recipes/deep-fried-liver/deep-fried-liver-icon.webp
 tags:
   - Recipe
   - Buff

@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T15:46:53+07:00
 date: 2022-01-07T07:56:03+07:00
-permalink: /recipes/broiled-meat.html
+permalink: /chimeraland/recipes/broiled-meat.html
 photos:
-  - /recipes/broiled-meat/broiled-meat-name.webp
-  - /recipes/broiled-meat/broiled-meat-icon.webp
-  - /recipes/broiled-meat/broiled-meat-material.webp
-thumbnail: /recipes/broiled-meat/broiled-meat-icon.webp
+  - /chimeraland/recipes/broiled-meat/broiled-meat-name.webp
+  - /chimeraland/recipes/broiled-meat/broiled-meat-icon.webp
+  - /chimeraland/recipes/broiled-meat/broiled-meat-material.webp
+thumbnail: /chimeraland/recipes/broiled-meat/broiled-meat-icon.webp
 tags:
   - Recipe
   - Buff

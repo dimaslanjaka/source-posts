@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T20:46:53+07:00
 date: 2022-01-07T10:56:03+07:00
-permalink: /recipes/cantaloupe-claypot.html
+permalink: /chimeraland/recipes/cantaloupe-claypot.html
 photos:
-  - /recipes/cantaloupe-claypot/cantaloupe-claypot-name.webp
-  - /recipes/cantaloupe-claypot/cantaloupe-claypot-icon.webp
-  - /recipes/cantaloupe-claypot/cantaloupe-claypot-material.webp
-thumbnail: /recipes/cantaloupe-claypot/cantaloupe-claypot-icon.webp
+  - /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot-name.webp
+  - /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot-icon.webp
+  - /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot-material.webp
+thumbnail: /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot-icon.webp
 tags:
   - Recipe
   - Buff

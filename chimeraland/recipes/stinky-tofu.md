@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T07:47:00+07:00
 date: 2022-01-12T17:56:03+07:00
-permalink: /recipes/stinky-tofu.html
+permalink: /chimeraland/recipes/stinky-tofu.html
 photos:
-  - /recipes/stinky-tofu/stinky-tofu-name.webp
-  - /recipes/stinky-tofu/stinky-tofu-icon.webp
-  - /recipes/stinky-tofu/stinky-tofu-material.webp
-thumbnail: /recipes/stinky-tofu/stinky-tofu-icon.webp
+  - /chimeraland/recipes/stinky-tofu/stinky-tofu-name.webp
+  - /chimeraland/recipes/stinky-tofu/stinky-tofu-icon.webp
+  - /chimeraland/recipes/stinky-tofu/stinky-tofu-material.webp
+thumbnail: /chimeraland/recipes/stinky-tofu/stinky-tofu-icon.webp
 tags:
   - Recipe
   - Buff

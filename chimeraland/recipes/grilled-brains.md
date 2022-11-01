@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T10:46:54+07:00
 date: 2022-01-09T10:56:03+07:00
-permalink: /recipes/grilled-brains.html
+permalink: /chimeraland/recipes/grilled-brains.html
 photos:
-  - /recipes/grilled-brains/grilled-brains-name.webp
-  - /recipes/grilled-brains/grilled-brains-icon.webp
-  - /recipes/grilled-brains/grilled-brains-material.webp
-thumbnail: /recipes/grilled-brains/grilled-brains-icon.webp
+  - /chimeraland/recipes/grilled-brains/grilled-brains-name.webp
+  - /chimeraland/recipes/grilled-brains/grilled-brains-icon.webp
+  - /chimeraland/recipes/grilled-brains/grilled-brains-material.webp
+thumbnail: /chimeraland/recipes/grilled-brains/grilled-brains-icon.webp
 tags:
   - Recipe
   - Buff

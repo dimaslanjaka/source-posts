@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T12:46:55+07:00
 date: 2022-01-06T23:56:03+07:00
-permalink: /recipes/cabbage-meat-rolls.html
+permalink: /chimeraland/recipes/cabbage-meat-rolls.html
 photos:
-  - /recipes/cabbage-meat-rolls/cabbage-meat-rolls-name.webp
-  - /recipes/cabbage-meat-rolls/cabbage-meat-rolls-icon.webp
-  - /recipes/cabbage-meat-rolls/cabbage-meat-rolls-material.webp
-thumbnail: /recipes/cabbage-meat-rolls/cabbage-meat-rolls-icon.webp
+  - /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls-name.webp
+  - /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls-icon.webp
+  - /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls-material.webp
+thumbnail: /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls-icon.webp
 tags:
   - Recipe
   - Buff

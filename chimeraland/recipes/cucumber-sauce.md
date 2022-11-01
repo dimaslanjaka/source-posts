@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T04:26:37+07:00
 date: 2022-01-08T01:56:03+07:00
-permalink: /recipes/cucumber-sauce.html
+permalink: /chimeraland/recipes/cucumber-sauce.html
 photos:
-  - /recipes/cucumber-sauce/cucumber-sauce-name.webp
-  - /recipes/cucumber-sauce/cucumber-sauce-icon.webp
-  - /recipes/cucumber-sauce/cucumber-sauce-material.webp
-thumbnail: /recipes/cucumber-sauce/cucumber-sauce-icon.webp
+  - /chimeraland/recipes/cucumber-sauce/cucumber-sauce-name.webp
+  - /chimeraland/recipes/cucumber-sauce/cucumber-sauce-icon.webp
+  - /chimeraland/recipes/cucumber-sauce/cucumber-sauce-material.webp
+thumbnail: /chimeraland/recipes/cucumber-sauce/cucumber-sauce-icon.webp
 tags:
   - Recipe
   - Buff

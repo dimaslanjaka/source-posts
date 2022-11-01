@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T16:26:37+07:00
 date: 2022-01-13T13:56:03+07:00
-permalink: /recipes/hot-n-sour-jelly.html
+permalink: /chimeraland/recipes/hot-n-sour-jelly.html
 photos:
   - null
   - null

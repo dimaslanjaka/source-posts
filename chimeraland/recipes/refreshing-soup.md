@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T04:46:55+07:00
 date: 2022-01-10T23:56:03+07:00
-permalink: /recipes/refreshing-soup.html
+permalink: /chimeraland/recipes/refreshing-soup.html
 photos:
-  - /recipes/refreshing-soup/refreshing-soup-name.webp
-  - /recipes/refreshing-soup/refreshing-soup-icon.webp
-  - /recipes/refreshing-soup/refreshing-soup-material.webp
-thumbnail: /recipes/refreshing-soup/refreshing-soup-icon.webp
+  - /chimeraland/recipes/refreshing-soup/refreshing-soup-name.webp
+  - /chimeraland/recipes/refreshing-soup/refreshing-soup-icon.webp
+  - /chimeraland/recipes/refreshing-soup/refreshing-soup-material.webp
+thumbnail: /chimeraland/recipes/refreshing-soup/refreshing-soup-icon.webp
 tags:
   - Recipe
   - Buff

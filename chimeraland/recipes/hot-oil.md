@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T12:46:54+07:00
 date: 2022-01-10T11:56:03+07:00
-permalink: /recipes/hot-oil.html
+permalink: /chimeraland/recipes/hot-oil.html
 photos:
-  - /recipes/hot-oil/hot-oil-name.webp
-  - /recipes/hot-oil/hot-oil-icon.webp
-  - /recipes/hot-oil/hot-oil-material.webp
-thumbnail: /recipes/hot-oil/hot-oil-icon.webp
+  - /chimeraland/recipes/hot-oil/hot-oil-name.webp
+  - /chimeraland/recipes/hot-oil/hot-oil-icon.webp
+  - /chimeraland/recipes/hot-oil/hot-oil-material.webp
+thumbnail: /chimeraland/recipes/hot-oil/hot-oil-icon.webp
 tags:
   - Recipe
   - Buff

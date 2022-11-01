@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T00:26:37+07:00
 date: 2022-01-13T06:56:03+07:00
-permalink: /recipes/chimeraland-one-pot-dish.html
+permalink: /chimeraland/recipes/chimeraland-one-pot-dish.html
 photos:
   - null
   - null

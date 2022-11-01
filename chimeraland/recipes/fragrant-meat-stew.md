@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T20:46:56+07:00
 date: 2022-01-08T13:56:03+07:00
-permalink: /recipes/fragrant-meat-stew.html
+permalink: /chimeraland/recipes/fragrant-meat-stew.html
 photos:
-  - /recipes/fragrant-meat-stew/fragrant-meat-stew-name.webp
-  - /recipes/fragrant-meat-stew/fragrant-meat-stew-icon.webp
-  - /recipes/fragrant-meat-stew/fragrant-meat-stew-material.webp
-thumbnail: /recipes/fragrant-meat-stew/fragrant-meat-stew-icon.webp
+  - /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew-name.webp
+  - /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew-icon.webp
+  - /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew-material.webp
+thumbnail: /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew-icon.webp
 tags:
   - Recipe
   - Buff

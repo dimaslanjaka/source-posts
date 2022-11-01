@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T01:46:54+07:00
 date: 2022-01-09T03:56:03+07:00
-permalink: /recipes/garlic-braised-meat.html
+permalink: /chimeraland/recipes/garlic-braised-meat.html
 photos:
-  - /recipes/garlic-braised-meat/garlic-braised-meat-name.webp
-  - /recipes/garlic-braised-meat/garlic-braised-meat-icon.webp
-  - /recipes/garlic-braised-meat/garlic-braised-meat-material.webp
-thumbnail: /recipes/garlic-braised-meat/garlic-braised-meat-icon.webp
+  - /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat-name.webp
+  - /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat-icon.webp
+  - /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat-material.webp
+thumbnail: /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat-icon.webp
 tags:
   - Recipe
   - Buff

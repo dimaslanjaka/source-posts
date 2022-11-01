@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T10:46:56+07:00
 date: 2022-01-12T18:56:03+07:00
-permalink: /recipes/strange-meat-skewers.html
+permalink: /chimeraland/recipes/strange-meat-skewers.html
 photos:
-  - /recipes/strange-meat-skewers/strange-meat-skewers-name.webp
-  - /recipes/strange-meat-skewers/strange-meat-skewers-icon.webp
-  - /recipes/strange-meat-skewers/strange-meat-skewers-material.webp
-thumbnail: /recipes/strange-meat-skewers/strange-meat-skewers-icon.webp
+  - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-name.webp
+  - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-icon.webp
+  - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-material.webp
+thumbnail: /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-icon.webp
 tags:
   - Recipe
   - Buff

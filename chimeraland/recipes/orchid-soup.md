@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T22:46:56+07:00
 date: 2022-01-10T19:56:03+07:00
-permalink: /recipes/orchid-soup.html
+permalink: /chimeraland/recipes/orchid-soup.html
 photos:
-  - /recipes/orchid-soup/orchid-soup-name.webp
-  - /recipes/orchid-soup/orchid-soup-icon.webp
-  - /recipes/orchid-soup/orchid-soup-material.webp
-thumbnail: /recipes/orchid-soup/orchid-soup-icon.webp
+  - /chimeraland/recipes/orchid-soup/orchid-soup-name.webp
+  - /chimeraland/recipes/orchid-soup/orchid-soup-icon.webp
+  - /chimeraland/recipes/orchid-soup/orchid-soup-material.webp
+thumbnail: /chimeraland/recipes/orchid-soup/orchid-soup-icon.webp
 tags:
   - Recipe
   - Buff

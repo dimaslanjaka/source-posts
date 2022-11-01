@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T07:46:55+07:00
 date: 2022-01-06T21:56:03+07:00
-permalink: /recipes/arowana-slices.html
+permalink: /chimeraland/recipes/arowana-slices.html
 photos:
-  - /recipes/arowana-slices/arowana-slices-name.webp
-  - /recipes/arowana-slices/arowana-slices-icon.webp
-  - /recipes/arowana-slices/arowana-slices-material.webp
-thumbnail: /recipes/arowana-slices/arowana-slices-icon.webp
+  - /chimeraland/recipes/arowana-slices/arowana-slices-name.webp
+  - /chimeraland/recipes/arowana-slices/arowana-slices-icon.webp
+  - /chimeraland/recipes/arowana-slices/arowana-slices-material.webp
+thumbnail: /chimeraland/recipes/arowana-slices/arowana-slices-icon.webp
 tags:
   - Recipe
   - Buff

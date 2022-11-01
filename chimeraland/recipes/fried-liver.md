@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T09:46:55+07:00
 date: 2022-01-08T21:56:03+07:00
-permalink: /recipes/fried-liver.html
+permalink: /chimeraland/recipes/fried-liver.html
 photos:
-  - /recipes/fried-liver/fried-liver-name.webp
-  - /recipes/fried-liver/fried-liver-icon.webp
-  - /recipes/fried-liver/fried-liver-material.webp
-thumbnail: /recipes/fried-liver/fried-liver-icon.webp
+  - /chimeraland/recipes/fried-liver/fried-liver-name.webp
+  - /chimeraland/recipes/fried-liver/fried-liver-icon.webp
+  - /chimeraland/recipes/fried-liver/fried-liver-material.webp
+thumbnail: /chimeraland/recipes/fried-liver/fried-liver-icon.webp
 tags:
   - Recipe
   - Buff

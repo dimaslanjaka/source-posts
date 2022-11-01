@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T16:46:55+07:00
 date: 2022-01-11T16:56:03+07:00
-permalink: /recipes/spiced-meat.html
+permalink: /chimeraland/recipes/spiced-meat.html
 photos:
-  - /recipes/spiced-meat/spiced-meat-name.webp
-  - /recipes/spiced-meat/spiced-meat-icon.webp
-  - /recipes/spiced-meat/spiced-meat-material.webp
-thumbnail: /recipes/spiced-meat/spiced-meat-icon.webp
+  - /chimeraland/recipes/spiced-meat/spiced-meat-name.webp
+  - /chimeraland/recipes/spiced-meat/spiced-meat-icon.webp
+  - /chimeraland/recipes/spiced-meat/spiced-meat-material.webp
+thumbnail: /chimeraland/recipes/spiced-meat/spiced-meat-icon.webp
 tags:
   - Recipe
   - Buff

@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T18:46:54+07:00
 date: 2022-01-08T14:56:03+07:00
-permalink: /recipes/fried-seasonal-vegetables.html
+permalink: /chimeraland/recipes/fried-seasonal-vegetables.html
 photos:
-  - /recipes/fried-seasonal-vegetables/fried-seasonal-vegetables-name.webp
-  - /recipes/fried-seasonal-vegetables/fried-seasonal-vegetables-icon.webp
-  - /recipes/fried-seasonal-vegetables/fried-seasonal-vegetables-material.webp
-thumbnail: /recipes/fried-seasonal-vegetables/fried-seasonal-vegetables-icon.webp
+  - /chimeraland/recipes/fried-seasonal-vegetables/fried-seasonal-vegetables-name.webp
+  - /chimeraland/recipes/fried-seasonal-vegetables/fried-seasonal-vegetables-icon.webp
+  - /chimeraland/recipes/fried-seasonal-vegetables/fried-seasonal-vegetables-material.webp
+thumbnail: /chimeraland/recipes/fried-seasonal-vegetables/fried-seasonal-vegetables-icon.webp
 tags:
   - Recipe
   - Buff

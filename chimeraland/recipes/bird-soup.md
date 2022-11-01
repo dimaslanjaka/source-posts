@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T13:46:53+07:00
 date: 2022-01-07T06:56:03+07:00
-permalink: /recipes/bird-soup.html
+permalink: /chimeraland/recipes/bird-soup.html
 photos:
-  - /recipes/bird-soup/bird-soup-name.webp
-  - /recipes/bird-soup/bird-soup-icon.webp
-  - /recipes/bird-soup/bird-soup-material.webp
-thumbnail: /recipes/bird-soup/bird-soup-icon.webp
+  - /chimeraland/recipes/bird-soup/bird-soup-name.webp
+  - /chimeraland/recipes/bird-soup/bird-soup-icon.webp
+  - /chimeraland/recipes/bird-soup/bird-soup-material.webp
+thumbnail: /chimeraland/recipes/bird-soup/bird-soup-icon.webp
 tags:
   - Recipe
   - Buff

@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T08:46:55+07:00
 date: 2022-01-11T03:56:03+07:00
-permalink: /recipes/scallion-meat-skewers.html
+permalink: /chimeraland/recipes/scallion-meat-skewers.html
 photos:
-  - /recipes/scallion-meat-skewers/scallion-meat-skewers-name.webp
-  - /recipes/scallion-meat-skewers/scallion-meat-skewers-icon.webp
-  - /recipes/scallion-meat-skewers/scallion-meat-skewers-material.webp
-thumbnail: /recipes/scallion-meat-skewers/scallion-meat-skewers-icon.webp
+  - /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers-name.webp
+  - /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers-icon.webp
+  - /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers-material.webp
+thumbnail: /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers-icon.webp
 tags:
   - Recipe
   - Buff

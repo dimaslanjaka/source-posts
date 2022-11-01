@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T11:46:54+07:00
 date: 2022-01-11T01:56:03+07:00
-permalink: /recipes/rice-patty.html
+permalink: /chimeraland/recipes/rice-patty.html
 photos:
-  - /recipes/rice-patty/rice-patty-name.webp
-  - /recipes/rice-patty/rice-patty-icon.webp
-  - /recipes/rice-patty/rice-patty-material.webp
-thumbnail: /recipes/rice-patty/rice-patty-icon.webp
+  - /chimeraland/recipes/rice-patty/rice-patty-name.webp
+  - /chimeraland/recipes/rice-patty/rice-patty-icon.webp
+  - /chimeraland/recipes/rice-patty/rice-patty-material.webp
+thumbnail: /chimeraland/recipes/rice-patty/rice-patty-icon.webp
 tags:
   - Recipe
   - Buff

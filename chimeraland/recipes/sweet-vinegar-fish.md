@@ -4,7 +4,7 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T10:46:56+07:00
 date: 2022-01-12T00:56:03+07:00
-permalink: /recipes/sweet-vinegar-fish.html
+permalink: /chimeraland/recipes/sweet-vinegar-fish.html
 photos:
   - null
   - null

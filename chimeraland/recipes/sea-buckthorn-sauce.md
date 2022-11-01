@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T07:26:37+07:00
 date: 2022-01-11T14:56:03+07:00
-permalink: /recipes/sea-buckthorn-sauce.html
+permalink: /chimeraland/recipes/sea-buckthorn-sauce.html
 photos:
-  - /recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-name.webp
-  - /recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-icon.webp
-  - /recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-material.webp
-thumbnail: /recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-icon.webp
+  - /chimeraland/recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-name.webp
+  - /chimeraland/recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-icon.webp
+  - /chimeraland/recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-material.webp
+thumbnail: /chimeraland/recipes/sea-buckthorn-sauce/sea-buckthorn-sauce-icon.webp
 tags:
   - Recipe
   - Buff

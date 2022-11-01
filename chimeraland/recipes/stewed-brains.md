@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T02:46:55+07:00
 date: 2022-01-12T06:56:03+07:00
-permalink: /recipes/stewed-brains.html
+permalink: /chimeraland/recipes/stewed-brains.html
 photos:
-  - /recipes/stewed-brains/stewed-brains-name.webp
-  - /recipes/stewed-brains/stewed-brains-icon.webp
-  - /recipes/stewed-brains/stewed-brains-material.webp
-thumbnail: /recipes/stewed-brains/stewed-brains-icon.webp
+  - /chimeraland/recipes/stewed-brains/stewed-brains-name.webp
+  - /chimeraland/recipes/stewed-brains/stewed-brains-icon.webp
+  - /chimeraland/recipes/stewed-brains/stewed-brains-material.webp
+thumbnail: /chimeraland/recipes/stewed-brains/stewed-brains-icon.webp
 tags:
   - Recipe
   - Buff

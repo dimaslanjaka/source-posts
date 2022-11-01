@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T10:46:55+07:00
 date: 2022-01-12T14:56:03+07:00
-permalink: /recipes/ultimate-meat-dish.html
+permalink: /chimeraland/recipes/ultimate-meat-dish.html
 photos:
-  - /recipes/ultimate-meat-dish/ultimate-meat-dish-name.webp
-  - /recipes/ultimate-meat-dish/ultimate-meat-dish-icon.webp
-  - /recipes/ultimate-meat-dish/ultimate-meat-dish-material.webp
-thumbnail: /recipes/ultimate-meat-dish/ultimate-meat-dish-icon.webp
+  - /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish-name.webp
+  - /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish-icon.webp
+  - /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish-material.webp
+thumbnail: /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish-icon.webp
 tags:
   - Recipe
   - Buff

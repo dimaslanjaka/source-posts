@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T02:46:54+07:00
 date: 2022-01-10T06:56:03+07:00
-permalink: /recipes/pumpkin-bowl.html
+permalink: /chimeraland/recipes/pumpkin-bowl.html
 photos:
-  - /recipes/pumpkin-bowl/pumpkin-bowl-name.webp
-  - /recipes/pumpkin-bowl/pumpkin-bowl-icon.webp
-  - /recipes/pumpkin-bowl/pumpkin-bowl-material.webp
-thumbnail: /recipes/pumpkin-bowl/pumpkin-bowl-icon.webp
+  - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-name.webp
+  - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-icon.webp
+  - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-material.webp
+thumbnail: /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-icon.webp
 tags:
   - Recipe
   - Buff

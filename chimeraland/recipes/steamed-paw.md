@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T23:46:55+07:00
 date: 2022-01-12T01:56:03+07:00
-permalink: /recipes/steamed-paw.html
+permalink: /chimeraland/recipes/steamed-paw.html
 photos:
-  - /recipes/steamed-paw/steamed-paw-name.webp
-  - /recipes/steamed-paw/steamed-paw-icon.webp
-  - /recipes/steamed-paw/steamed-paw-material.webp
-thumbnail: /recipes/steamed-paw/steamed-paw-icon.webp
+  - /chimeraland/recipes/steamed-paw/steamed-paw-name.webp
+  - /chimeraland/recipes/steamed-paw/steamed-paw-icon.webp
+  - /chimeraland/recipes/steamed-paw/steamed-paw-material.webp
+thumbnail: /chimeraland/recipes/steamed-paw/steamed-paw-icon.webp
 tags:
   - Recipe
   - Buff

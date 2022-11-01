@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T12:46:55+07:00
 date: 2022-01-11T06:56:03+07:00
-permalink: /recipes/scraps-claypot.html
+permalink: /chimeraland/recipes/scraps-claypot.html
 photos:
-  - /recipes/scraps-claypot/scraps-claypot-name.webp
-  - /recipes/scraps-claypot/scraps-claypot-icon.webp
-  - /recipes/scraps-claypot/scraps-claypot-material.webp
-thumbnail: /recipes/scraps-claypot/scraps-claypot-icon.webp
+  - /chimeraland/recipes/scraps-claypot/scraps-claypot-name.webp
+  - /chimeraland/recipes/scraps-claypot/scraps-claypot-icon.webp
+  - /chimeraland/recipes/scraps-claypot/scraps-claypot-material.webp
+thumbnail: /chimeraland/recipes/scraps-claypot/scraps-claypot-icon.webp
 tags:
   - Recipe
   - Buff

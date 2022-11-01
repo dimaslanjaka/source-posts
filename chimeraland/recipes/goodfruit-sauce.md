@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-28T21:26:37+07:00
 date: 2022-01-09T14:56:03+07:00
-permalink: /recipes/goodfruit-sauce.html
+permalink: /chimeraland/recipes/goodfruit-sauce.html
 photos:
-  - /recipes/goodfruit-sauce/goodfruit-sauce-name.webp
-  - /recipes/goodfruit-sauce/goodfruit-sauce-icon.webp
-  - /recipes/goodfruit-sauce/goodfruit-sauce-material.webp
-thumbnail: /recipes/goodfruit-sauce/goodfruit-sauce-icon.webp
+  - /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce-name.webp
+  - /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce-icon.webp
+  - /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce-material.webp
+thumbnail: /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce-icon.webp
 tags:
   - Recipe
   - Buff

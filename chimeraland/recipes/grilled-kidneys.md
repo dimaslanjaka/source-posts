@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T17:46:56+07:00
 date: 2022-01-09T16:56:03+07:00
-permalink: /recipes/grilled-kidneys.html
+permalink: /chimeraland/recipes/grilled-kidneys.html
 photos:
-  - /recipes/grilled-kidneys/grilled-kidneys-name.webp
-  - /recipes/grilled-kidneys/grilled-kidneys-icon.webp
-  - /recipes/grilled-kidneys/grilled-kidneys-material.webp
-thumbnail: /recipes/grilled-kidneys/grilled-kidneys-icon.webp
+  - /chimeraland/recipes/grilled-kidneys/grilled-kidneys-name.webp
+  - /chimeraland/recipes/grilled-kidneys/grilled-kidneys-icon.webp
+  - /chimeraland/recipes/grilled-kidneys/grilled-kidneys-material.webp
+thumbnail: /chimeraland/recipes/grilled-kidneys/grilled-kidneys-icon.webp
 tags:
   - Recipe
   - Buff

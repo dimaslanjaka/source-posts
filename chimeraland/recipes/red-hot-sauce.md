@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T11:26:37+07:00
 date: 2022-01-11T09:56:03+07:00
-permalink: /recipes/red-hot-sauce.html
+permalink: /chimeraland/recipes/red-hot-sauce.html
 photos:
-  - /recipes/red-hot-sauce/red-hot-sauce-name.webp
-  - /recipes/red-hot-sauce/red-hot-sauce-icon.webp
-  - /recipes/red-hot-sauce/red-hot-sauce-material.webp
-thumbnail: /recipes/red-hot-sauce/red-hot-sauce-icon.webp
+  - /chimeraland/recipes/red-hot-sauce/red-hot-sauce-name.webp
+  - /chimeraland/recipes/red-hot-sauce/red-hot-sauce-icon.webp
+  - /chimeraland/recipes/red-hot-sauce/red-hot-sauce-material.webp
+thumbnail: /chimeraland/recipes/red-hot-sauce/red-hot-sauce-icon.webp
 tags:
   - Recipe
   - Buff

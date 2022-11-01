@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T15:46:55+07:00
 date: 2022-01-11T04:56:03+07:00
-permalink: /recipes/peanut-ball-soup.html
+permalink: /chimeraland/recipes/peanut-ball-soup.html
 photos:
-  - /recipes/peanut-ball-soup/peanut-ball-soup-name.webp
-  - /recipes/peanut-ball-soup/peanut-ball-soup-icon.webp
-  - /recipes/peanut-ball-soup/peanut-ball-soup-material.webp
-thumbnail: /recipes/peanut-ball-soup/peanut-ball-soup-icon.webp
+  - /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup-name.webp
+  - /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup-icon.webp
+  - /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup-material.webp
+thumbnail: /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup-icon.webp
 tags:
   - Recipe
   - Buff

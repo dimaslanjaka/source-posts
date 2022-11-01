@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T11:46:55+07:00
 date: 2022-01-10T14:56:03+07:00
-permalink: /recipes/one-pot-stew.html
+permalink: /chimeraland/recipes/one-pot-stew.html
 photos:
-  - /recipes/one-pot-stew/one-pot-stew-name.webp
-  - /recipes/one-pot-stew/one-pot-stew-icon.webp
-  - /recipes/one-pot-stew/one-pot-stew-material.webp
-thumbnail: /recipes/one-pot-stew/one-pot-stew-icon.webp
+  - /chimeraland/recipes/one-pot-stew/one-pot-stew-name.webp
+  - /chimeraland/recipes/one-pot-stew/one-pot-stew-icon.webp
+  - /chimeraland/recipes/one-pot-stew/one-pot-stew-material.webp
+thumbnail: /chimeraland/recipes/one-pot-stew/one-pot-stew-icon.webp
 tags:
   - Recipe
   - Buff

@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T22:46:53+07:00
 date: 2022-01-07T16:56:03+07:00
-permalink: /recipes/cantaloupe-slushie.html
+permalink: /chimeraland/recipes/cantaloupe-slushie.html
 photos:
-  - /recipes/cantaloupe-slushie/cantaloupe-slushie-name.webp
-  - /recipes/cantaloupe-slushie/cantaloupe-slushie-icon.webp
-  - /recipes/cantaloupe-slushie/cantaloupe-slushie-material.webp
-thumbnail: /recipes/cantaloupe-slushie/cantaloupe-slushie-icon.webp
+  - /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie-name.webp
+  - /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie-icon.webp
+  - /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie-material.webp
+thumbnail: /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie-icon.webp
 tags:
   - Recipe
   - Buff

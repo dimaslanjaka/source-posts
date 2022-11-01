@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T18:46:55+07:00
 date: 2022-01-12T08:56:03+07:00
-permalink: /recipes/steamed-brains.html
+permalink: /chimeraland/recipes/steamed-brains.html
 photos:
-  - /recipes/steamed-brains/steamed-brains-name.webp
-  - /recipes/steamed-brains/steamed-brains-icon.webp
-  - /recipes/steamed-brains/steamed-brains-material.webp
-thumbnail: /recipes/steamed-brains/steamed-brains-icon.webp
+  - /chimeraland/recipes/steamed-brains/steamed-brains-name.webp
+  - /chimeraland/recipes/steamed-brains/steamed-brains-icon.webp
+  - /chimeraland/recipes/steamed-brains/steamed-brains-material.webp
+thumbnail: /chimeraland/recipes/steamed-brains/steamed-brains-icon.webp
 tags:
   - Recipe
   - Buff

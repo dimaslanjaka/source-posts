@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T21:46:56+07:00
 date: 2022-01-08T10:56:03+07:00
-permalink: /recipes/fishball-soup.html
+permalink: /chimeraland/recipes/fishball-soup.html
 photos:
-  - /recipes/fishball-soup/fishball-soup-name.webp
-  - /recipes/fishball-soup/fishball-soup-icon.webp
-  - /recipes/fishball-soup/fishball-soup-material.webp
-thumbnail: /recipes/fishball-soup/fishball-soup-icon.webp
+  - /chimeraland/recipes/fishball-soup/fishball-soup-name.webp
+  - /chimeraland/recipes/fishball-soup/fishball-soup-icon.webp
+  - /chimeraland/recipes/fishball-soup/fishball-soup-material.webp
+thumbnail: /chimeraland/recipes/fishball-soup/fishball-soup-icon.webp
 tags:
   - Recipe
   - Buff

@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T03:46:55+07:00
 date: 2022-01-11T23:56:03+07:00
-permalink: /recipes/seasonal-vegetables-fried-with-garlic.html
+permalink: /chimeraland/recipes/seasonal-vegetables-fried-with-garlic.html
 photos:
-  - /recipes/seasonal-vegetables-fried-with-garlic/seasonal-vegetables-fried-with-garlic-name.webp
-  - /recipes/seasonal-vegetables-fried-with-garlic/seasonal-vegetables-fried-with-garlic-icon.webp
-  - /recipes/seasonal-vegetables-fried-with-garlic/seasonal-vegetables-fried-with-garlic-material.webp
-thumbnail: /recipes/seasonal-vegetables-fried-with-garlic/seasonal-vegetables-fried-with-garlic-icon.webp
+  - /chimeraland/recipes/seasonal-vegetables-fried-with-garlic/seasonal-vegetables-fried-with-garlic-name.webp
+  - /chimeraland/recipes/seasonal-vegetables-fried-with-garlic/seasonal-vegetables-fried-with-garlic-icon.webp
+  - /chimeraland/recipes/seasonal-vegetables-fried-with-garlic/seasonal-vegetables-fried-with-garlic-material.webp
+thumbnail: /chimeraland/recipes/seasonal-vegetables-fried-with-garlic/seasonal-vegetables-fried-with-garlic-icon.webp
 tags:
   - Recipe
   - Buff

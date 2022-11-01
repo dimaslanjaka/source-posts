@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T15:46:56+07:00
 date: 2022-01-12T09:56:03+07:00
-permalink: /recipes/vegetable-dumplings.html
+permalink: /chimeraland/recipes/vegetable-dumplings.html
 photos:
-  - /recipes/vegetable-dumplings/vegetable-dumplings-name.webp
-  - /recipes/vegetable-dumplings/vegetable-dumplings-icon.webp
-  - /recipes/vegetable-dumplings/vegetable-dumplings-material.webp
-thumbnail: /recipes/vegetable-dumplings/vegetable-dumplings-icon.webp
+  - /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings-name.webp
+  - /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings-icon.webp
+  - /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings-material.webp
+thumbnail: /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings-icon.webp
 tags:
   - Recipe
   - Buff

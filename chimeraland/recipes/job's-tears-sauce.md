@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T10:26:37+07:00
 date: 2022-01-10T18:56:03+07:00
-permalink: /recipes/jobs-tears-sauce.html
+permalink: /chimeraland/recipes/jobs-tears-sauce.html
 photos:
-  - /recipes/jobs-tears-sauce/jobs-tears-sauce-name.webp
-  - /recipes/jobs-tears-sauce/jobs-tears-sauce-icon.webp
-  - /recipes/jobs-tears-sauce/jobs-tears-sauce-material.webp
-thumbnail: /recipes/jobs-tears-sauce/jobs-tears-sauce-icon.webp
+  - /chimeraland/recipes/jobs-tears-sauce/jobs-tears-sauce-name.webp
+  - /chimeraland/recipes/jobs-tears-sauce/jobs-tears-sauce-icon.webp
+  - /chimeraland/recipes/jobs-tears-sauce/jobs-tears-sauce-material.webp
+thumbnail: /chimeraland/recipes/jobs-tears-sauce/jobs-tears-sauce-icon.webp
 tags:
   - Recipe
   - Buff

@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T02:46:55+07:00
 date: 2022-01-12T02:56:03+07:00
-permalink: /recipes/spicy-meat-skewers.html
+permalink: /chimeraland/recipes/spicy-meat-skewers.html
 photos:
-  - /recipes/spicy-meat-skewers/spicy-meat-skewers-name.webp
-  - /recipes/spicy-meat-skewers/spicy-meat-skewers-icon.webp
-  - /recipes/spicy-meat-skewers/spicy-meat-skewers-material.webp
-thumbnail: /recipes/spicy-meat-skewers/spicy-meat-skewers-icon.webp
+  - /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers-name.webp
+  - /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers-icon.webp
+  - /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers-material.webp
+thumbnail: /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers-icon.webp
 tags:
   - Recipe
   - Buff

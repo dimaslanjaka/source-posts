@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T09:46:55+07:00
 date: 2022-01-13T18:56:03+07:00
-permalink: /recipes/grilled-mushrooms.html
+permalink: /chimeraland/recipes/grilled-mushrooms.html
 photos:
-  - /recipes/grilled-mushrooms/grilled-mushrooms-name.webp
-  - /recipes/grilled-mushrooms/grilled-mushrooms-icon.webp
-  - /recipes/grilled-mushrooms/grilled-mushrooms-material.webp
-thumbnail: /recipes/grilled-mushrooms/grilled-mushrooms-icon.webp
+  - /chimeraland/recipes/grilled-mushrooms/grilled-mushrooms-name.webp
+  - /chimeraland/recipes/grilled-mushrooms/grilled-mushrooms-icon.webp
+  - /chimeraland/recipes/grilled-mushrooms/grilled-mushrooms-material.webp
+thumbnail: /chimeraland/recipes/grilled-mushrooms/grilled-mushrooms-icon.webp
 tags:
   - Recipe
   - Buff

@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T05:26:37+07:00
 date: 2022-01-08T06:56:03+07:00
-permalink: /recipes/drunken-fish.html
+permalink: /chimeraland/recipes/drunken-fish.html
 photos:
-  - /recipes/drunken-fish/drunken-fish-name.webp
-  - /recipes/drunken-fish/drunken-fish-icon.webp
-  - /recipes/drunken-fish/drunken-fish-material.webp
-thumbnail: /recipes/drunken-fish/drunken-fish-icon.webp
+  - /chimeraland/recipes/drunken-fish/drunken-fish-name.webp
+  - /chimeraland/recipes/drunken-fish/drunken-fish-icon.webp
+  - /chimeraland/recipes/drunken-fish/drunken-fish-material.webp
+thumbnail: /chimeraland/recipes/drunken-fish/drunken-fish-icon.webp
 tags:
   - Recipe
   - Buff

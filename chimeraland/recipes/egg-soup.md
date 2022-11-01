@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T11:46:54+07:00
 date: 2022-01-08T04:56:03+07:00
-permalink: /recipes/egg-soup.html
+permalink: /chimeraland/recipes/egg-soup.html
 photos:
-  - /recipes/egg-soup/egg-soup-name.webp
-  - /recipes/egg-soup/egg-soup-icon.webp
-  - /recipes/egg-soup/egg-soup-material.webp
-thumbnail: /recipes/egg-soup/egg-soup-icon.webp
+  - /chimeraland/recipes/egg-soup/egg-soup-name.webp
+  - /chimeraland/recipes/egg-soup/egg-soup-icon.webp
+  - /chimeraland/recipes/egg-soup/egg-soup-material.webp
+thumbnail: /chimeraland/recipes/egg-soup/egg-soup-icon.webp
 tags:
   - Recipe
   - Buff

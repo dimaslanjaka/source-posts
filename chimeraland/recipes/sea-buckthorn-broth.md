@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T20:46:54+07:00
 date: 2022-01-11T08:56:03+07:00
-permalink: /recipes/sea-buckthorn-broth.html
+permalink: /chimeraland/recipes/sea-buckthorn-broth.html
 photos:
-  - /recipes/sea-buckthorn-broth/sea-buckthorn-broth-name.webp
-  - /recipes/sea-buckthorn-broth/sea-buckthorn-broth-icon.webp
-  - /recipes/sea-buckthorn-broth/sea-buckthorn-broth-material.webp
-thumbnail: /recipes/sea-buckthorn-broth/sea-buckthorn-broth-icon.webp
+  - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-name.webp
+  - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-icon.webp
+  - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-material.webp
+thumbnail: /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-icon.webp
 tags:
   - Recipe
   - Buff

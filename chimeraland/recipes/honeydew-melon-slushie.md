@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T17:46:55+07:00
 date: 2022-01-09T23:56:03+07:00
-permalink: /recipes/honeydew-melon-slushie.html
+permalink: /chimeraland/recipes/honeydew-melon-slushie.html
 photos:
-  - /recipes/honeydew-melon-slushie/honeydew-melon-slushie-name.webp
-  - /recipes/honeydew-melon-slushie/honeydew-melon-slushie-icon.webp
-  - /recipes/honeydew-melon-slushie/honeydew-melon-slushie-material.webp
-thumbnail: /recipes/honeydew-melon-slushie/honeydew-melon-slushie-icon.webp
+  - /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie-name.webp
+  - /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie-icon.webp
+  - /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie-material.webp
+thumbnail: /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie-icon.webp
 tags:
   - Recipe
   - Buff

@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-28T20:26:37+07:00
 date: 2022-01-07T05:56:03+07:00
-permalink: /recipes/apple-sauce.html
+permalink: /chimeraland/recipes/apple-sauce.html
 photos:
-  - /recipes/apple-sauce/apple-sauce-name.webp
-  - /recipes/apple-sauce/apple-sauce-icon.webp
-  - /recipes/apple-sauce/apple-sauce-material.webp
-thumbnail: /recipes/apple-sauce/apple-sauce-icon.webp
+  - /chimeraland/recipes/apple-sauce/apple-sauce-name.webp
+  - /chimeraland/recipes/apple-sauce/apple-sauce-icon.webp
+  - /chimeraland/recipes/apple-sauce/apple-sauce-material.webp
+thumbnail: /chimeraland/recipes/apple-sauce/apple-sauce-icon.webp
 tags:
   - Recipe
   - Buff

@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T09:46:54+07:00
 date: 2022-01-08T18:56:03+07:00
-permalink: /recipes/fruity-grilled-meat.html
+permalink: /chimeraland/recipes/fruity-grilled-meat.html
 photos:
-  - /recipes/fruity-grilled-meat/fruity-grilled-meat-name.webp
-  - /recipes/fruity-grilled-meat/fruity-grilled-meat-icon.webp
-  - /recipes/fruity-grilled-meat/fruity-grilled-meat-material.webp
-thumbnail: /recipes/fruity-grilled-meat/fruity-grilled-meat-icon.webp
+  - /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat-name.webp
+  - /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat-icon.webp
+  - /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat-material.webp
+thumbnail: /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat-icon.webp
 tags:
   - Recipe
   - Buff

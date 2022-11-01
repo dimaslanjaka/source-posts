@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T20:46:54+07:00
 date: 2022-01-07T21:56:03+07:00
-permalink: /recipes/flower-pancake.html
+permalink: /chimeraland/recipes/flower-pancake.html
 photos:
-  - /recipes/flower-pancake/flower-pancake-name.webp
-  - /recipes/flower-pancake/flower-pancake-icon.webp
-  - /recipes/flower-pancake/flower-pancake-material.webp
-thumbnail: /recipes/flower-pancake/flower-pancake-icon.webp
+  - /chimeraland/recipes/flower-pancake/flower-pancake-name.webp
+  - /chimeraland/recipes/flower-pancake/flower-pancake-icon.webp
+  - /chimeraland/recipes/flower-pancake/flower-pancake-material.webp
+thumbnail: /chimeraland/recipes/flower-pancake/flower-pancake-icon.webp
 tags:
   - Recipe
   - Buff

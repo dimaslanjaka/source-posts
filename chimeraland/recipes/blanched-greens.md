@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T03:26:37+07:00
 date: 2022-01-07T11:56:03+07:00
-permalink: /recipes/blanched-greens.html
+permalink: /chimeraland/recipes/blanched-greens.html
 photos:
-  - /recipes/blanched-greens/blanched-greens-name.webp
-  - /recipes/blanched-greens/blanched-greens-icon.webp
-  - /recipes/blanched-greens/blanched-greens-material.webp
-thumbnail: /recipes/blanched-greens/blanched-greens-icon.webp
+  - /chimeraland/recipes/blanched-greens/blanched-greens-name.webp
+  - /chimeraland/recipes/blanched-greens/blanched-greens-icon.webp
+  - /chimeraland/recipes/blanched-greens/blanched-greens-material.webp
+thumbnail: /chimeraland/recipes/blanched-greens/blanched-greens-icon.webp
 tags:
   - Recipe
   - Buff

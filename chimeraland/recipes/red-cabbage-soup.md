@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T00:46:56+07:00
 date: 2022-01-10T22:56:03+07:00
-permalink: /recipes/red-cabbage-soup.html
+permalink: /chimeraland/recipes/red-cabbage-soup.html
 photos:
-  - /recipes/red-cabbage-soup/red-cabbage-soup-name.webp
-  - /recipes/red-cabbage-soup/red-cabbage-soup-icon.webp
-  - /recipes/red-cabbage-soup/red-cabbage-soup-material.webp
-thumbnail: /recipes/red-cabbage-soup/red-cabbage-soup-icon.webp
+  - /chimeraland/recipes/red-cabbage-soup/red-cabbage-soup-name.webp
+  - /chimeraland/recipes/red-cabbage-soup/red-cabbage-soup-icon.webp
+  - /chimeraland/recipes/red-cabbage-soup/red-cabbage-soup-material.webp
+thumbnail: /chimeraland/recipes/red-cabbage-soup/red-cabbage-soup-icon.webp
 tags:
   - Recipe
   - Buff

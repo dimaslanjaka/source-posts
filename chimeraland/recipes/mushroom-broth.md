@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T22:46:55+07:00
 date: 2022-01-10T13:56:03+07:00
-permalink: /recipes/mushroom-broth.html
+permalink: /chimeraland/recipes/mushroom-broth.html
 photos:
-  - /recipes/mushroom-broth/mushroom-broth-name.webp
-  - /recipes/mushroom-broth/mushroom-broth-icon.webp
-  - /recipes/mushroom-broth/mushroom-broth-material.webp
-thumbnail: /recipes/mushroom-broth/mushroom-broth-icon.webp
+  - /chimeraland/recipes/mushroom-broth/mushroom-broth-name.webp
+  - /chimeraland/recipes/mushroom-broth/mushroom-broth-icon.webp
+  - /chimeraland/recipes/mushroom-broth/mushroom-broth-material.webp
+thumbnail: /chimeraland/recipes/mushroom-broth/mushroom-broth-icon.webp
 tags:
   - Recipe
   - Buff

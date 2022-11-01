@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T07:46:54+07:00
 date: 2022-01-10T01:56:03+07:00
-permalink: /recipes/grilled-meat-cubes.html
+permalink: /chimeraland/recipes/grilled-meat-cubes.html
 photos:
-  - /recipes/grilled-meat-cubes/grilled-meat-cubes-name.webp
-  - /recipes/grilled-meat-cubes/grilled-meat-cubes-icon.webp
-  - /recipes/grilled-meat-cubes/grilled-meat-cubes-material.webp
-thumbnail: /recipes/grilled-meat-cubes/grilled-meat-cubes-icon.webp
+  - /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes-name.webp
+  - /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes-icon.webp
+  - /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes-material.webp
+thumbnail: /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes-icon.webp
 tags:
   - Recipe
   - Buff

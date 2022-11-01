@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T11:46:56+07:00
 date: 2022-01-12T21:56:03+07:00
-permalink: /recipes/vegetable-patty.html
+permalink: /chimeraland/recipes/vegetable-patty.html
 photos:
-  - /recipes/vegetable-patty/vegetable-patty-name.webp
-  - /recipes/vegetable-patty/vegetable-patty-icon.webp
-  - /recipes/vegetable-patty/vegetable-patty-material.webp
-thumbnail: /recipes/vegetable-patty/vegetable-patty-icon.webp
+  - /chimeraland/recipes/vegetable-patty/vegetable-patty-name.webp
+  - /chimeraland/recipes/vegetable-patty/vegetable-patty-icon.webp
+  - /chimeraland/recipes/vegetable-patty/vegetable-patty-material.webp
+thumbnail: /chimeraland/recipes/vegetable-patty/vegetable-patty-icon.webp
 tags:
   - Recipe
   - Buff

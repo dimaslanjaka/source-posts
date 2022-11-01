@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T00:46:54+07:00
 date: 2022-01-08T17:56:03+07:00
-permalink: /recipes/fried-melon-and-meat.html
+permalink: /chimeraland/recipes/fried-melon-and-meat.html
 photos:
-  - /recipes/fried-melon-and-meat/fried-melon-and-meat-name.webp
-  - /recipes/fried-melon-and-meat/fried-melon-and-meat-icon.webp
-  - /recipes/fried-melon-and-meat/fried-melon-and-meat-material.webp
-thumbnail: /recipes/fried-melon-and-meat/fried-melon-and-meat-icon.webp
+  - /chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat-name.webp
+  - /chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat-icon.webp
+  - /chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat-material.webp
+thumbnail: /chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat-icon.webp
 tags:
   - Recipe
   - Buff

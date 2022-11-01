@@ -4,12 +4,12 @@ webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T13:46:54+07:00
 date: 2022-01-08T08:56:03+07:00
-permalink: /recipes/fried-fish.html
+permalink: /chimeraland/recipes/fried-fish.html
 photos:
-  - /recipes/fried-fish/fried-fish-name.webp
-  - /recipes/fried-fish/fried-fish-icon.webp
-  - /recipes/fried-fish/fried-fish-material.webp
-thumbnail: /recipes/fried-fish/fried-fish-icon.webp
+  - /chimeraland/recipes/fried-fish/fried-fish-name.webp
+  - /chimeraland/recipes/fried-fish/fried-fish-icon.webp
+  - /chimeraland/recipes/fried-fish/fried-fish-material.webp
+thumbnail: /chimeraland/recipes/fried-fish/fried-fish-icon.webp
 tags:
   - Recipe
   - Buff
