@@ -1,13 +1,16 @@
 ---
 title: Scenic Spot Locations
 webtitel: Chimeraland
-permalink: /scenic-spots/
+permalink: /chimeraland/scenic-spots/
 tags:
-  - Scenic-Spot
+  - Chimeraland
+  - Scenic
+  - Spot
 categories:
   - Games
   - Chimeraland
-  - Scenic-Spot
+  - Scenic
+  - Spot
 description: Scenic Spot Locations - Chimeraland
 language: en-US,id
 image: https://i.ytimg.com/vi/vk8Nz2AiKe8/maxresdefault.jpg
