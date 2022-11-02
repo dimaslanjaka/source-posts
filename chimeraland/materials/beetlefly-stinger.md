@@ -1,5 +1,5 @@
 ---
-title: Beetlefly Stinger
+title: Material Beetlefly Stinger
 webtitle: Chimeraland
 date: 2022-01-11T06:56:03+07:00
 updated: 2022-10-03T06:26:37+07:00

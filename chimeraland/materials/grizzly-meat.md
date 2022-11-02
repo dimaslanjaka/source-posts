@@ -1,5 +1,5 @@
 ---
-title: Grizzly Meat
+title: Material Grizzly Meat
 webtitle: Chimeraland
 date: 2022-01-08T06:56:03+07:00
 updated: 2022-09-30T06:26:37+07:00

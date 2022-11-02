@@ -1,5 +1,5 @@
 ---
-title: Skyshark Primal Spirit
+title: Material Skyshark Primal Spirit
 webtitle: Chimeraland
 date: 2022-01-11T05:56:03+07:00
 updated: 2022-10-03T05:26:37+07:00

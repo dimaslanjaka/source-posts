@@ -1,5 +1,5 @@
 ---
-title: Spirit Fox Primal Spirit
+title: Material Spirit Fox Primal Spirit
 webtitle: Chimeraland
 date: 2022-01-11T18:56:03+07:00
 updated: 2022-10-03T18:26:37+07:00

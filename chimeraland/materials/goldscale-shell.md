@@ -1,5 +1,5 @@
 ---
-title: Goldscale Shell
+title: Material Goldscale Shell
 webtitle: Chimeraland
 date: 2022-01-10T23:56:03+07:00
 updated: 2022-10-02T23:26:37+07:00

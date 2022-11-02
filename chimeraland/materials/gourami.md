@@ -1,5 +1,5 @@
 ---
-title: Gourami
+title: Material Gourami
 webtitle: Chimeraland
 date: 2022-01-15T19:56:03+07:00
 updated: 2022-10-07T19:26:37+07:00

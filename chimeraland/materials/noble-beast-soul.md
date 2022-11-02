@@ -1,5 +1,5 @@
 ---
-title: Noble Beast Soul
+title: Material Noble Beast Soul
 webtitle: Chimeraland
 date: 2022-01-10T01:56:03+07:00
 updated: 2022-10-02T01:26:37+07:00

@@ -1,5 +1,5 @@
 ---
-title: Spotted Scat
+title: Material Spotted Scat
 webtitle: Chimeraland
 date: 2022-01-15T11:56:03+07:00
 updated: 2022-10-07T11:26:37+07:00

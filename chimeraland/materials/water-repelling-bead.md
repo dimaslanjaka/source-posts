@@ -1,5 +1,5 @@
 ---
-title: Water Repelling Bead
+title: Material Water Repelling Bead
 webtitle: Chimeraland
 date: 2022-01-10T12:56:03+07:00
 updated: 2022-10-02T12:26:37+07:00

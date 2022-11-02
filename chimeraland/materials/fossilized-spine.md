@@ -1,5 +1,5 @@
 ---
-title: Fossilized Spine
+title: Material Fossilized Spine
 webtitle: Chimeraland
 date: 2022-01-13T14:56:03+07:00
 updated: 2022-10-05T14:26:37+07:00

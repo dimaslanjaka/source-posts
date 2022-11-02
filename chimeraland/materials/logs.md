@@ -1,5 +1,5 @@
 ---
-title: Logs
+title: Material Logs
 webtitle: Chimeraland
 date: 2022-01-13T17:56:03+07:00
 updated: 2022-10-05T17:26:37+07:00

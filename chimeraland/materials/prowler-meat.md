@@ -1,5 +1,5 @@
 ---
-title: Prowler Meat
+title: Material Prowler Meat
 webtitle: Chimeraland
 date: 2022-01-08T10:56:03+07:00
 updated: 2022-09-30T10:26:37+07:00

@@ -1,5 +1,5 @@
 ---
-title: Lux Gold
+title: Material Lux Gold
 webtitle: Chimeraland
 date: 2022-01-07T15:56:03+07:00
 updated: 2022-09-29T15:26:37+07:00

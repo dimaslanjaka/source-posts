@@ -1,5 +1,5 @@
 ---
-title: Fossilized Pelvis
+title: Material Fossilized Pelvis
 webtitle: Chimeraland
 date: 2022-01-13T11:56:03+07:00
 updated: 2022-10-05T11:26:37+07:00

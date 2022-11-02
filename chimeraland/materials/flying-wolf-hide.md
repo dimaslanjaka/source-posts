@@ -1,5 +1,5 @@
 ---
-title: Flying Wolf Hide
+title: Material Flying Wolf Hide
 webtitle: Chimeraland
 date: 2022-01-09T18:56:03+07:00
 updated: 2022-10-01T18:26:37+07:00

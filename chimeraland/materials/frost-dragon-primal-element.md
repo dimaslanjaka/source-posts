@@ -1,5 +1,5 @@
 ---
-title: Frost Dragon Primal Element
+title: Material Frost Dragon Primal Element
 webtitle: Chimeraland
 date: 2022-01-18T10:56:03+07:00
 updated: 2022-10-10T10:26:37+07:00

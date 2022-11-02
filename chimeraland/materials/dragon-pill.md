@@ -1,5 +1,5 @@
 ---
-title: Dragon Pill
+title: Material Dragon Pill
 webtitle: Chimeraland
 date: 2022-01-18T07:56:03+07:00
 updated: 2022-10-10T07:26:37+07:00

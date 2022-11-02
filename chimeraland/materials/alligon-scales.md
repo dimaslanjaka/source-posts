@@ -1,5 +1,5 @@
 ---
-title: Alligon Scales
+title: Material Alligon Scales
 webtitle: Chimeraland
 date: 2022-01-10T04:56:03+07:00
 updated: 2022-10-02T04:26:37+07:00

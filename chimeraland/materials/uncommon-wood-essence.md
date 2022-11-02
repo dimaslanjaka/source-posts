@@ -1,5 +1,5 @@
 ---
-title: Uncommon Wood Essence
+title: Material Uncommon Wood Essence
 webtitle: Chimeraland
 date: 2022-01-12T13:56:03+07:00
 updated: 2022-10-04T13:26:37+07:00

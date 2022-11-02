@@ -1,5 +1,5 @@
 ---
-title: Eleboar Hide
+title: Material Eleboar Hide
 webtitle: Chimeraland
 date: 2022-01-10T02:56:03+07:00
 updated: 2022-10-02T02:26:37+07:00

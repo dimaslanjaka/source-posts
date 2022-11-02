@@ -1,5 +1,5 @@
 ---
-title: Primal Bones
+title: Material Primal Bones
 webtitle: Chimeraland
 date: 2022-01-10T22:56:03+07:00
 updated: 2022-10-02T22:26:37+07:00

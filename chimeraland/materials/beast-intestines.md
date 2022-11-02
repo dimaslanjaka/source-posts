@@ -1,5 +1,5 @@
 ---
-title: Beast Intestines
+title: Material Beast Intestines
 webtitle: Chimeraland
 date: 2022-01-08T20:56:03+07:00
 updated: 2022-09-30T20:26:37+07:00

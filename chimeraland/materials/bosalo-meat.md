@@ -1,5 +1,5 @@
 ---
-title: Bosalo Meat
+title: Material Bosalo Meat
 webtitle: Chimeraland
 date: 2022-01-08T14:56:03+07:00
 updated: 2022-09-30T14:26:37+07:00

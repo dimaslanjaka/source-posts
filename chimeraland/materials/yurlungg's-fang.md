@@ -1,5 +1,5 @@
 ---
-title: Yurlungg's Fang
+title: Material Yurlungg's Fang
 webtitle: Chimeraland
 date: 2022-01-11T07:56:03+07:00
 updated: 2022-10-03T07:26:37+07:00

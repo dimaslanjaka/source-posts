@@ -1,5 +1,5 @@
 ---
-title: Lingzhi
+title: Material Lingzhi
 webtitle: Chimeraland
 date: 2022-01-18T05:56:03+07:00
 updated: 2022-10-10T05:26:37+07:00

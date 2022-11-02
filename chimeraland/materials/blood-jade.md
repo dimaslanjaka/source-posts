@@ -1,5 +1,5 @@
 ---
-title: Blood Jade
+title: Material Blood Jade
 webtitle: Chimeraland
 date: 2022-01-09T13:56:03+07:00
 updated: 2022-10-01T13:26:37+07:00

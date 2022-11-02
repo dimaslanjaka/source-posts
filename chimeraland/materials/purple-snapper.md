@@ -1,5 +1,5 @@
 ---
-title: Purple Snapper
+title: Material Purple Snapper
 webtitle: Chimeraland
 date: 2022-01-14T21:56:03+07:00
 updated: 2022-10-06T21:26:37+07:00

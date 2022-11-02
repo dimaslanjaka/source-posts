@@ -1,5 +1,5 @@
 ---
-title: Chimeraland Beast Hide
+title: Material Chimeraland Beast Hide
 webtitle: Chimeraland
 date: 2022-01-07T01:56:03+07:00
 updated: 2022-09-29T01:26:37+07:00

@@ -1,5 +1,5 @@
 ---
-title: Spirit Fox Fur
+title: Material Spirit Fox Fur
 webtitle: Chimeraland
 date: 2022-01-11T12:56:03+07:00
 updated: 2022-10-03T12:26:37+07:00

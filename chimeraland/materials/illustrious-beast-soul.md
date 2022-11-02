@@ -1,5 +1,5 @@
 ---
-title: Illustrious Beast Soul
+title: Material Illustrious Beast Soul
 webtitle: Chimeraland
 date: 2022-01-11T20:56:03+07:00
 updated: 2022-10-03T20:26:37+07:00

@@ -1,5 +1,5 @@
 ---
-title: Duahawk Evol Pill
+title: Material Duahawk Evol Pill
 webtitle: Chimeraland
 date: 2022-01-06T20:56:03+07:00
 updated: 2022-09-28T20:26:37+07:00

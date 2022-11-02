@@ -1,5 +1,5 @@
 ---
-title: Royle's Spurge
+title: Material Royle's Spurge
 webtitle: Chimeraland
 date: 2022-01-18T00:56:03+07:00
 updated: 2022-10-10T00:26:37+07:00

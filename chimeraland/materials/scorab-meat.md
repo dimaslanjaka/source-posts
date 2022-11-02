@@ -1,5 +1,5 @@
 ---
-title: Scorab Meat
+title: Material Scorab Meat
 webtitle: Chimeraland
 date: 2022-01-08T13:56:03+07:00
 updated: 2022-09-30T13:26:37+07:00

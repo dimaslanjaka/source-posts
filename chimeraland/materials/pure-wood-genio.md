@@ -1,5 +1,5 @@
 ---
-title: Pure Wood Genio
+title: Material Pure Wood Genio
 webtitle: Chimeraland
 date: 2022-01-12T10:56:03+07:00
 updated: 2022-10-04T10:26:37+07:00

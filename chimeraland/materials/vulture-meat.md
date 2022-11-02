@@ -1,5 +1,5 @@
 ---
-title: Vulture Meat
+title: Material Vulture Meat
 webtitle: Chimeraland
 date: 2022-01-07T20:56:03+07:00
 updated: 2022-09-29T20:26:37+07:00

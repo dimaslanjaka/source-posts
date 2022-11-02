@@ -1,5 +1,5 @@
 ---
-title: Pine Resin
+title: Material Pine Resin
 webtitle: Chimeraland
 date: 2022-01-14T07:56:03+07:00
 updated: 2022-10-06T07:26:37+07:00

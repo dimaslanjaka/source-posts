@@ -1,5 +1,5 @@
 ---
-title: Leoparbeak Meat
+title: Material Leoparbeak Meat
 webtitle: Chimeraland
 date: 2022-01-08T05:56:03+07:00
 updated: 2022-09-30T05:26:37+07:00

@@ -1,5 +1,5 @@
 ---
-title: Beast Vital Qi Pill
+title: Material Beast Vital Qi Pill
 webtitle: Chimeraland
 date: 2022-01-09T14:56:03+07:00
 updated: 2022-10-01T14:26:37+07:00

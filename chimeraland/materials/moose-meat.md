@@ -1,5 +1,5 @@
 ---
-title: Moose Meat
+title: Material Moose Meat
 webtitle: Chimeraland
 date: 2022-01-07T23:56:03+07:00
 updated: 2022-09-29T23:26:37+07:00

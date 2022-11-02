@@ -1,5 +1,5 @@
 ---
-title: Beast Brain
+title: Material Beast Brain
 webtitle: Chimeraland
 date: 2022-01-08T21:56:03+07:00
 updated: 2022-09-30T21:26:37+07:00

@@ -1,5 +1,5 @@
 ---
-title: Sweet Potato
+title: Material Sweet Potato
 webtitle: Chimeraland
 date: 2022-01-12T02:56:03+07:00
 updated: 2022-10-04T02:26:37+07:00

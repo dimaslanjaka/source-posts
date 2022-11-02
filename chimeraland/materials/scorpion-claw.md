@@ -1,5 +1,5 @@
 ---
-title: Scorpion Claw
+title: Material Scorpion Claw
 webtitle: Chimeraland
 date: 2022-01-11T08:56:03+07:00
 updated: 2022-10-03T08:26:37+07:00

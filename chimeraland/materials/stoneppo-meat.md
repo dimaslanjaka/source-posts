@@ -1,5 +1,5 @@
 ---
-title: Stoneppo Meat
+title: Material Stoneppo Meat
 webtitle: Chimeraland
 date: 2022-01-08T15:56:03+07:00
 updated: 2022-09-30T15:26:37+07:00

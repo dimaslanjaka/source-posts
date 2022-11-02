@@ -1,5 +1,5 @@
 ---
-title: Moorish Idol
+title: Material Moorish Idol
 webtitle: Chimeraland
 date: 2022-01-15T17:56:03+07:00
 updated: 2022-10-07T17:26:37+07:00

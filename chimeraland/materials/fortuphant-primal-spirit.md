@@ -1,5 +1,5 @@
 ---
-title: Fortuphant Primal Spirit
+title: Material Fortuphant Primal Spirit
 webtitle: Chimeraland
 date: 2022-01-11T15:56:03+07:00
 updated: 2022-10-03T15:26:37+07:00

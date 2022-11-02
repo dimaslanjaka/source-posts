@@ -1,5 +1,5 @@
 ---
-title: Gold Barb
+title: Material Gold Barb
 webtitle: Chimeraland
 date: 2022-01-16T00:56:03+07:00
 updated: 2022-10-08T00:26:37+07:00

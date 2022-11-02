@@ -1,5 +1,5 @@
 ---
-title: Bear Paw
+title: Material Bear Paw
 webtitle: Chimeraland
 date: 2022-01-09T03:56:03+07:00
 updated: 2022-10-01T03:26:37+07:00

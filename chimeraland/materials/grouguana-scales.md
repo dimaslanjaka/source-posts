@@ -1,5 +1,5 @@
 ---
-title: Grouguana Scales
+title: Material Grouguana Scales
 webtitle: Chimeraland
 date: 2022-01-09T15:56:03+07:00
 updated: 2022-10-01T15:26:37+07:00
