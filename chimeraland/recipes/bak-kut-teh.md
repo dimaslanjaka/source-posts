@@ -66,7 +66,7 @@ categories:
               <li>+200 ATK</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -83,16 +83,15 @@ categories:
                 <a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Ice Piece/Dew</a
+                  >Ice Piece</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Ice Piece/Dew</a
+                  >Dew</a
                 ><span> + </span>Any Meat<span> + </span>Any High Quality
-                Seasoning<span> + </span>Any Flower/Any Mutant Flower<span>
-                  / </span
-                >Any Flower/Any Mutant Flower
+                Seasoning<span> + </span>Any Flower<span> / </span>Any Mutant
+                Flower
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

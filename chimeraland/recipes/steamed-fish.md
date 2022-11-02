@@ -68,7 +68,7 @@ categories:
               </li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -87,9 +87,8 @@ categories:
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
                 ><span> + </span>Dew or Ice Piece<span> + </span>Purple grade
-                fish/Orange grade fish/Red grade fish<span> / </span>Purple
-                grade fish/Orange grade fish/Red grade fish<span> / </span
-                >Purple grade fish/Orange grade fish/Red grade fish
+                fish<span> / </span>Orange grade fish<span> / </span>Red grade
+                fish
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

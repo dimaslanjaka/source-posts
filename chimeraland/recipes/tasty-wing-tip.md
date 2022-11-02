@@ -58,7 +58,7 @@ categories:
               Buff Tasty Wing Tip not yet written
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -95,17 +95,17 @@ categories:
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bird-wing.html"
-                  >Bird Wing/Bear Paw/Crab Claw Meat</a
+                  >Bird Wing</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bear-paw.html"
-                  >Bird Wing/Bear Paw/Crab Claw Meat</a
+                  >Bear Paw</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
-                  >Bird Wing/Bear Paw/Crab Claw Meat</a
+                  >Crab Claw Meat</a
                 >
               </li>
               <li>Device: Stove or Camp</li>

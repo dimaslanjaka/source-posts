@@ -66,7 +66,7 @@ categories:
               <li>+200 atk</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -94,12 +94,12 @@ categories:
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Dew/Ice Piece</a
+                  >Dew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Dew/Ice Piece</a
+                  >Ice Piece</a
                 >
               </li>
               <li>Device: Stove or Camp</li>
@@ -133,12 +133,12 @@ categories:
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Ice Piece/Dew</a
+                  >Ice Piece</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Ice Piece/Dew</a
+                  >Dew</a
                 >
               </li>
               <li>Device: Stove or Camp</li>

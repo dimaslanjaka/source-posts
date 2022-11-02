@@ -58,7 +58,7 @@ categories:
               Buff Flamebug Meat Claypot not yet written
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -86,10 +86,9 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span>Any Meat<span> + </span>Red Hot Sauce/Cucumber
-                Sauce/Fruit Sauce<span> / </span>Red Hot Sauce/Cucumber
-                Sauce/Fruit Sauce<span> / </span>Red Hot Sauce/Cucumber
-                Sauce/Fruit Sauce
+                ><span> + </span>Any Meat<span> + </span>Red Hot Sauce<span>
+                  / </span
+                >Cucumber Sauce<span> / </span>Fruit Sauce
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

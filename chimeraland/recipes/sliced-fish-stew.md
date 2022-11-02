@@ -66,7 +66,7 @@ categories:
               <li>Temporarily protect from drowning for a long time</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -81,10 +81,8 @@ categories:
             <ul>
               <li>
                 Egg White<span> + </span>Any Meat<span> + </span>Any Lv.3
-                Crop<span> + </span>Purple grade fish/Orange grade fish/Red
-                grade fish<span> / </span>Purple grade fish/Orange grade
-                fish/Red grade fish<span> / </span>Purple grade fish/Orange
-                grade fish/Red grade fish
+                Crop<span> + </span>Purple grade fish<span> / </span>Orange
+                grade fish<span> / </span>Red grade fish
               </li>
               <li>Device: Stove or Camp</li>
             </ul>
@@ -103,9 +101,10 @@ categories:
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
-                  >Lemon Tree Leaf/Any rare Crops such as pumpkin etc</a
-                ><span> / </span>Lemon Tree Leaf/Any rare Crops such as pumpkin
-                etc<span> + </span>any Purple Fish
+                  >Lemon Tree Leaf</a
+                ><span> / </span>Any rare Crops such as pumpkin etc<span>
+                  + </span
+                >any Purple Fish
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

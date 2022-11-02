@@ -66,7 +66,7 @@ categories:
               <li>-50 Humidity (decreased over time)</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -88,12 +88,12 @@ categories:
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Dew/Ice Piece</a
+                  >Dew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Dew/Ice Piece</a
+                  >Ice Piece</a
                 ><span> + </span>Any Meat
               </li>
               <li>Device: Stove or Camp</li>

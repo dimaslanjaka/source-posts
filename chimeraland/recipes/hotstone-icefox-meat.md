@@ -58,7 +58,7 @@ categories:
               Buff Hotstone Icefox Meat not yet written
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -90,42 +90,34 @@ categories:
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-heart.html"
-                  >Beast Heart/Beast Liver/Beast Brain/Beast
-                  Insentines/Kidney/Hoof Sinew/Chunk Of Fat</a
+                  >Beast Heart</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
-                  >Beast Heart/Beast Liver/Beast Brain/Beast
-                  Insentines/Kidney/Hoof Sinew/Chunk Of Fat</a
+                  >Beast Liver</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-brain.html"
-                  >Beast Heart/Beast Liver/Beast Brain/Beast
-                  Insentines/Kidney/Hoof Sinew/Chunk Of Fat</a
-                ><span> / </span>Beast Heart/Beast Liver/Beast Brain/Beast
-                Insentines/Kidney/Hoof Sinew/Chunk Of Fat<span> / </span
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/kidney.html"
-                  >Beast Heart/Beast Liver/Beast Brain/Beast
-                  Insentines/Kidney/Hoof Sinew/Chunk Of Fat</a
+                  >Kidney</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/hoof-sinew.html"
-                  >Beast Heart/Beast Liver/Beast Brain/Beast
-                  Insentines/Kidney/Hoof Sinew/Chunk Of Fat</a
+                  >Hoof Sinew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
-                  >Beast Heart/Beast Liver/Beast Brain/Beast
-                  Insentines/Kidney/Hoof Sinew/Chunk Of Fat</a
-                ><span> + </span>Corriander Powder/Five Spice Sauce<span>
-                  / </span
-                >Corriander Powder/Five Spice Sauce
+                  >Chunk Of Fat</a
+                ><span> + </span>Corriander Powder<span> / </span>Five Spice
+                Sauce
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

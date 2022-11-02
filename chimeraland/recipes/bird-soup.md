@@ -67,7 +67,7 @@ categories:
               <li>Great Focus</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -90,8 +90,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
-                ><span> + </span>Any Seasoning<span> + </span>Any Lv.5 / Lv.6
-                Crop<span> / </span>Any Lv.5 / Lv.6 Crop
+                ><span> + </span>Any Seasoning<span> + </span>Any Lv.5
+                <span> / </span> Lv.6 Crop
               </li>
               <li>Device: Stove or Camp</li>
             </ul>
@@ -115,8 +115,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Seasoning<span> + </span>Any Lv.5 / Lv.6
-                Crop<span> / </span>Any Lv.5 / Lv.6 Crop
+                ><span> + </span>Any Seasoning<span> + </span>Any Lv.5
+                <span> / </span> Lv.6 Crop
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

@@ -66,7 +66,7 @@ categories:
               <li>8% CRIT damage deal</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -94,8 +94,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
-                ><span> + </span>Any Lv.5 Crop/Any Lv.6 Crop<span> / </span>Any
-                Lv.5 Crop/Any Lv.6 Crop
+                ><span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

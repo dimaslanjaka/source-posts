@@ -66,7 +66,7 @@ categories:
               <li>Strenghten Underwater Effect</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -80,10 +80,8 @@ categories:
           <div class="card-text">
             <ul>
               <li>
-                Any Seasoning<span> + </span>Purple grade fish/Orange grade
-                fish/Red grade fish<span> / </span>Purple grade fish/Orange
-                grade fish/Red grade fish<span> / </span>Purple grade
-                fish/Orange grade fish/Red grade fish
+                Any Seasoning<span> + </span>Purple grade fish<span> / </span
+                >Orange grade fish<span> / </span>Red grade fish
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

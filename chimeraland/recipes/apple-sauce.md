@@ -66,7 +66,7 @@ categories:
               <li>Heat Resistance +5</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -102,7 +102,7 @@ categories:
                 <a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
-                  >Apple [2]</a
+                  >Apple</a
                 >
               </li>
               <li>Device: Stove or Camp</li>

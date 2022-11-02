@@ -60,7 +60,7 @@ categories:
               <li>This food can be given to all pets and attendants</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -73,9 +73,7 @@ categories:
           <h2 class="card-title fs-5">Recipe Chimeraland One Pot Dish 1</h2>
           <div class="card-text">
             <ul>
-              <li>
-                Buy From Shop / Event<span> / </span>Buy From Shop / Event
-              </li>
+              <li>Buy From Shop <span> / </span> Event</li>
               <li>Device: Stove or Camp</li>
             </ul>
           </div>

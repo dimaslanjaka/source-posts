@@ -67,7 +67,7 @@ categories:
               Buff Wine-Braised Vegetables not yet written
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -83,8 +83,9 @@ categories:
               <li>
                 Fruit &amp; Veggie Paste<span> + </span>Peanut Oil<span>
                   + </span
-                >Fruit &amp; Veggie Paste<span> + </span>Any Lv.5 Crop/Any Lv.6
-                Crop<span> / </span>Any Lv.5 Crop/Any Lv.6 Crop<span> + </span
+                >Fruit &amp; Veggie Paste<span> + </span>Any Lv.5 Crop<span>
+                  / </span
+                >Any Lv.6 Crop<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"

@@ -66,7 +66,7 @@ categories:
               <li>+120 def</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -90,8 +90,7 @@ categories:
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
                 ><span> + </span>Dew or Ice Piece<span> + </span>Any
-                Seasoning/Any High Quality Seasoning<span> / </span>Any
-                Seasoning/Any High Quality Seasoning
+                Seasoning<span> / </span>Any High Quality Seasoning
               </li>
               <li>Device: Stove or Camp</li>
             </ul>
@@ -119,15 +118,14 @@ categories:
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Dew/Ice Piece</a
+                  >Dew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Dew/Ice Piece</a
-                ><span> + </span>Garlic Powder/Job&#x27;s Tears Powder<span>
-                  / </span
-                >Garlic Powder/Job&#x27;s Tears Powder
+                  >Ice Piece</a
+                ><span> + </span>Garlic Powder<span> / </span>Job&#x27;s Tears
+                Powder
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

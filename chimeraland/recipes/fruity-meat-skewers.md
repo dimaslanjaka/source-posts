@@ -65,7 +65,7 @@ categories:
               <li>240 Fullness</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -79,58 +79,38 @@ categories:
           <div class="card-text">
             <ul>
               <li>
-                Any Meat<span> + </span>Any Wild Fruit/Any Seasoning/Beast
-                Heart/Beast Liver/Beast Brain/Beast Insentines/Kidney/Hoof
-                Sinew/Chunk Of Fat/Any Spice<span> / </span>Any Wild Fruit/Any
-                Seasoning/Beast Heart/Beast Liver/Beast Brain/Beast
-                Insentines/Kidney/Hoof Sinew/Chunk Of Fat/Any Spice<span>
-                  / </span
+                Any Meat<span> + </span>Any Wild Fruit<span> / </span>Any
+                Seasoning<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-heart.html"
-                  >Any Wild Fruit/Any Seasoning/Beast Heart/Beast Liver/Beast
-                  Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat/Any
-                  Spice</a
+                  >Beast Heart</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
-                  >Any Wild Fruit/Any Seasoning/Beast Heart/Beast Liver/Beast
-                  Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat/Any
-                  Spice</a
+                  >Beast Liver</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-brain.html"
-                  >Any Wild Fruit/Any Seasoning/Beast Heart/Beast Liver/Beast
-                  Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat/Any
-                  Spice</a
-                ><span> / </span>Any Wild Fruit/Any Seasoning/Beast Heart/Beast
-                Liver/Beast Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of
-                Fat/Any Spice<span> / </span
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/kidney.html"
-                  >Any Wild Fruit/Any Seasoning/Beast Heart/Beast Liver/Beast
-                  Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat/Any
-                  Spice</a
+                  >Kidney</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/hoof-sinew.html"
-                  >Any Wild Fruit/Any Seasoning/Beast Heart/Beast Liver/Beast
-                  Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat/Any
-                  Spice</a
+                  >Hoof Sinew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
-                  >Any Wild Fruit/Any Seasoning/Beast Heart/Beast Liver/Beast
-                  Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat/Any
-                  Spice</a
-                ><span> / </span>Any Wild Fruit/Any Seasoning/Beast Heart/Beast
-                Liver/Beast Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of
-                Fat/Any Spice
+                  >Chunk Of Fat</a
+                ><span> / </span>Any Spice
               </li>
               <li>Device: Stove or Camp</li>
             </ul>
@@ -145,15 +125,8 @@ categories:
           <div class="card-text">
             <ul>
               <li>
-                Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop<span>
-                  / </span
-                >Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop<span>
-                  / </span
-                >Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop<span>
-                  / </span
-                >Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop<span>
-                  + </span
-                >Any Meat
+                Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span> / </span>Any
+                Lv.3 Crop<span> / </span>Any Lv.4 Crop<span> + </span>Any Meat
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

@@ -67,7 +67,7 @@ categories:
               Buff Fried Meat With Mushrooms not yet written
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -82,8 +82,7 @@ categories:
             <ul>
               <li>
                 Any Mushroom<span> + </span>Any Meat<span> + </span>Any
-                Seasoning/Any High Quality Seasoning<span> / </span>Any
-                Seasoning/Any High Quality Seasoning
+                Seasoning<span> / </span>Any High Quality Seasoning
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

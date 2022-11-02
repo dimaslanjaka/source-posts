@@ -58,7 +58,7 @@ categories:
               Buff Flame Roasted Horn not yet written
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -86,13 +86,13 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span>Spicy Pepper Sauce/Garlic Sauce<span> / </span
-                >Spicy Pepper Sauce/Garlic Sauce<span> + </span
+                ><span> + </span>Spicy Pepper Sauce<span> / </span>Garlic
+                Sauce<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
-                  >Lemon Tree Leaf/Any Lv.3 Crops</a
-                ><span> / </span>Lemon Tree Leaf/Any Lv.3 Crops
+                  >Lemon Tree Leaf</a
+                ><span> / </span>Any Lv.3 Crops
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

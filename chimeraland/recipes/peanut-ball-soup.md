@@ -66,7 +66,7 @@ categories:
               <li>+6% CRIT Damage Dealt</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -88,8 +88,8 @@ categories:
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Dew/ce Piece</a
-                ><span> / </span>Dew/ce Piece<span> + </span>Any Meat
+                  >Dew</a
+                ><span> / </span>ce Piece<span> + </span>Any Meat
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

@@ -65,7 +65,7 @@ categories:
               <li>300 Fullness</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -81,8 +81,7 @@ categories:
               <li>
                 Job&#x27;s Tears Powder<span> + </span>Any Wild Fruit<span>
                   + </span
-                >Any Mutant Flower/Any Flower<span> / </span>Any Mutant
-                Flower/Any Flower
+                >Any Mutant Flower<span> / </span>Any Flower
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

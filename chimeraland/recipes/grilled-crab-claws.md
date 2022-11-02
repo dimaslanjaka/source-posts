@@ -59,7 +59,7 @@ categories:
               <li>150 ATK</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -77,10 +77,9 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
                   >Crab Claw Meat</a
-                ><span> + </span>Any Seasoning/Any Spice/Any High Quality
-                Seasoning<span> / </span>Any Seasoning/Any Spice/Any High
-                Quality Seasoning<span> / </span>Any Seasoning/Any Spice/Any
-                High Quality Seasoning
+                ><span> + </span>Any Seasoning<span> / </span>Any Spice<span>
+                  / </span
+                >Any High Quality Seasoning
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

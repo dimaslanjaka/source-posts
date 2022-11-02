@@ -59,7 +59,7 @@ categories:
         <div class="card-body">
           <h2 class="card-title fs-5">Buff Steamed Sweet &amp; Sour Icebug</h2>
           <div class="card-text"><ul></ul></div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -89,10 +89,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span>Red Hot Sauce/Cucumber Sauce/Fruit Sauce<span>
-                  / </span
-                >Red Hot Sauce/Cucumber Sauce/Fruit Sauce<span> / </span>Red Hot
-                Sauce/Cucumber Sauce/Fruit Sauce<span> + </span>Orange Grade
+                ><span> + </span>Red Hot Sauce<span> / </span>Cucumber
+                Sauce<span> / </span>Fruit Sauce<span> + </span>Orange Grade
                 Fish
               </li>
               <li>Device: Stove or Camp</li>

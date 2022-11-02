@@ -66,7 +66,7 @@ categories:
               <li>+30 CRIT</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -80,12 +80,10 @@ categories:
           <div class="card-text">
             <ul>
               <li>
-                Job&#x27;s Tears Powder<span> + </span>Any Lv.1 Crop/Any Lv.2
-                Crop/Any Lv.3 Crop/Any Lv.4 Crop<span> / </span>Any Lv.1
-                Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop<span> / </span
-                >Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop<span>
+                Job&#x27;s Tears Powder<span> + </span>Any Lv.1 Crop<span>
                   / </span
-                >Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop
+                >Any Lv.2 Crop<span> / </span>Any Lv.3 Crop<span> / </span>Any
+                Lv.4 Crop
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

@@ -66,7 +66,7 @@ categories:
               <li>+50 Armor Pierce</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -83,42 +83,32 @@ categories:
                 <a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Ice Piece/Dew, Beast Heart/Beast Liver/Beast Brain/Beast
-                  Insentines/Kidney/Hoof Sinew/Chunk Of Fat [4]</a
-                ><span> / </span>Ice Piece/Dew, Beast Heart/Beast Liver/Beast
-                Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat [4]<span>
-                  / </span
+                  >Ice Piece</a
+                ><span> / </span>Dew, Beast Heart<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
-                  >Ice Piece/Dew, Beast Heart/Beast Liver/Beast Brain/Beast
-                  Insentines/Kidney/Hoof Sinew/Chunk Of Fat [4]</a
+                  >Beast Liver</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-brain.html"
-                  >Ice Piece/Dew, Beast Heart/Beast Liver/Beast Brain/Beast
-                  Insentines/Kidney/Hoof Sinew/Chunk Of Fat [4]</a
-                ><span> / </span>Ice Piece/Dew, Beast Heart/Beast Liver/Beast
-                Brain/Beast Insentines/Kidney/Hoof Sinew/Chunk Of Fat [4]<span>
-                  / </span
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/kidney.html"
-                  >Ice Piece/Dew, Beast Heart/Beast Liver/Beast Brain/Beast
-                  Insentines/Kidney/Hoof Sinew/Chunk Of Fat [4]</a
+                  >Kidney</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/hoof-sinew.html"
-                  >Ice Piece/Dew, Beast Heart/Beast Liver/Beast Brain/Beast
-                  Insentines/Kidney/Hoof Sinew/Chunk Of Fat [4]</a
+                  >Hoof Sinew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
-                  >Ice Piece/Dew, Beast Heart/Beast Liver/Beast Brain/Beast
-                  Insentines/Kidney/Hoof Sinew/Chunk Of Fat [4]</a
+                  >Chunk Of Fat</a
                 >
               </li>
               <li>Device: Stove or Camp</li>

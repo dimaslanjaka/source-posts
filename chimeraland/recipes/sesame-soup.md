@@ -66,7 +66,7 @@ categories:
               <li>+35 RES</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -85,11 +85,9 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/sesame.html"
                   >Sesame</a
-                ><span> + </span>Any Seasoning/Any Spice/Any Sweet Sauce/Any
-                Spicy Sauce<span> / </span>Any Seasoning/Any Spice/Any Sweet
-                Sauce/Any Spicy Sauce<span> / </span>Any Seasoning/Any Spice/Any
-                Sweet Sauce/Any Spicy Sauce<span> / </span>Any Seasoning/Any
-                Spice/Any Sweet Sauce/Any Spicy Sauce
+                ><span> + </span>Any Seasoning<span> / </span>Any Spice<span>
+                  / </span
+                >Any Sweet Sauce<span> / </span>Any Spicy Sauce
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

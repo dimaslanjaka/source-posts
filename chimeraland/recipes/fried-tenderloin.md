@@ -67,7 +67,7 @@ categories:
               <li>Vulorman Attendant Recruitment</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -98,8 +98,7 @@ categories:
             <ul>
               <li>
                 Peanut Oil<span> + </span>Any Mixed Sauce<span> + </span>Any
-                Meat<span> + </span>Any Flower/Any Mutant Flower<span> / </span
-                >Any Flower/Any Mutant Flower
+                Meat<span> + </span>Any Flower<span> / </span>Any Mutant Flower
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

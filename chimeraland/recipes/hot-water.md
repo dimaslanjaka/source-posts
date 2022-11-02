@@ -66,7 +66,7 @@ categories:
               <li>Cold Resistance +5</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -83,29 +83,28 @@ categories:
                 <a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Dew/Ice Piece</a
+                  >Dew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Dew/Ice Piece</a
+                  >Ice Piece</a
                 ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Dew/Ice Piece/Any Seasoning/Any Spice/Insect Ichor</a
+                  >Dew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Dew/Ice Piece/Any Seasoning/Any Spice/Insect Ichor</a
-                ><span> / </span>Dew/Ice Piece/Any Seasoning/Any Spice/Insect
-                Ichor<span> / </span>Dew/Ice Piece/Any Seasoning/Any
-                Spice/Insect Ichor<span> / </span
+                  >Ice Piece</a
+                ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
+                  / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/insect-ichor.html"
-                  >Dew/Ice Piece/Any Seasoning/Any Spice/Insect Ichor</a
+                  >Insect Ichor</a
                 >
               </li>
               <li>Device: Stove or Camp</li>

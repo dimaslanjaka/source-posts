@@ -58,7 +58,7 @@ categories:
               Buff Fruity Fried Mackerel not yet written
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -73,9 +73,8 @@ categories:
             <ul>
               <li>
                 Any Wild Fruit<span> + </span>Any Mixed Sauce<span> + </span>Any
-                Mixed Sauce<span> + </span>Orange grade fish/Red grade fish<span>
-                  / </span
-                >Orange grade fish/Red grade fish<span> + </span>Peanut Oil
+                Mixed Sauce<span> + </span>Orange grade fish<span> / </span>Red
+                grade fish<span> + </span>Peanut Oil
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

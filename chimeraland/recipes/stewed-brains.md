@@ -66,7 +66,7 @@ categories:
               <li>+60 Crit</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -84,16 +84,10 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
-                ><span> + </span>Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any
-                Flower/Any Mutant Flower / Peanut Oil<span> / </span>Any Lv.4
-                Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Flower/Any Mutant Flower /
-                Peanut Oil<span> / </span>Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6
-                Crop/Any Flower/Any Mutant Flower / Peanut Oil<span> / </span
-                >Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any Flower/Any Mutant
-                Flower / Peanut Oil<span> / </span>Any Lv.4 Crop/Any Lv.5
-                Crop/Any Lv.6 Crop/Any Flower/Any Mutant Flower / Peanut
-                Oil<span> / </span>Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop/Any
-                Flower/Any Mutant Flower / Peanut Oil
+                ><span> + </span>Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span>
+                  / </span
+                >Any Lv.6 Crop<span> / </span>Any Flower<span> / </span>Any
+                Mutant Flower <span> / </span> Peanut Oil
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

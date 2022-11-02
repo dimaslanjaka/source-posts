@@ -66,7 +66,7 @@ categories:
               <li>+150 ATK</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -89,8 +89,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> + </span>Any Seasoning/Any Spice<span> / </span>Any
-                Seasoning/Any Spice
+                ><span> + </span>Any Seasoning<span> / </span>Any Spice
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

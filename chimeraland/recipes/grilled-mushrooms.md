@@ -65,7 +65,7 @@ categories:
               <li>Unlock Stove II</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -78,7 +78,7 @@ categories:
           <h2 class="card-title fs-5">Recipe Grilled Mushrooms 1</h2>
           <div class="card-text">
             <ul>
-              <li>Any Mushroom [1]</li>
+              <li>Any Mushroom</li>
               <li>Device: Stove or Camp</li>
             </ul>
           </div>

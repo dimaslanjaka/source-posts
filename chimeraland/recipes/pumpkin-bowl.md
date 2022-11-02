@@ -67,7 +67,7 @@ categories:
               <li>Great Focus</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -87,11 +87,8 @@ categories:
                   >Pumpkin</a
                 ><span> + </span>Any Lv.6 Crop<span> + </span>Any Meat<span>
                   + </span
-                >Any Meat<span> + </span>Any Lv.3 Crop/Any Lv.4 Crop/Any Lv.5
-                Crop/Any Lv.6 Crop<span> / </span>Any Lv.3 Crop/Any Lv.4
-                Crop/Any Lv.5 Crop/Any Lv.6 Crop<span> / </span>Any Lv.3
-                Crop/Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop<span> / </span
-                >Any Lv.3 Crop/Any Lv.4 Crop/Any Lv.5 Crop/Any Lv.6 Crop
+                >Any Meat<span> + </span>Any Lv.3 Crop<span> / </span>Any Lv.4
+                Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

@@ -65,7 +65,7 @@ categories:
               <li>Component for making fertilizer</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -87,12 +87,12 @@ categories:
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Dew/Ice Piece</a
+                  >Dew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Dew/Ice Piece</a
+                  >Ice Piece</a
                 >
               </li>
               <li>Device: Mixer - Jam</li>
@@ -150,12 +150,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> + </span>Any High Quality Seasoning/Any Flower/Any
-                Mutant Flower/Any Curio<span> / </span>Any High Quality
-                Seasoning/Any Flower/Any Mutant Flower/Any Curio<span> / </span
-                >Any High Quality Seasoning/Any Flower/Any Mutant Flower/Any
-                Curio<span> / </span>Any High Quality Seasoning/Any Flower/Any
-                Mutant Flower/Any Curio
+                ><span> + </span>Any High Quality Seasoning<span> / </span>Any
+                Flower<span> / </span>Any Mutant Flower<span> / </span>Any Curio
               </li>
               <li>Device: Stove II</li>
             </ul>
@@ -169,7 +165,7 @@ categories:
           <h2 class="card-title fs-5">Recipe Dark Cuisine 5</h2>
           <div class="card-text">
             <ul>
-              <li>Any Meat [1]</li>
+              <li>Any Meat</li>
               <li>Device: Stove/Camp</li>
             </ul>
           </div>
@@ -186,7 +182,7 @@ categories:
                 <a
                   class="text-decoration-none"
                   href="/chimeraland/materials/insect-ichor.html"
-                  >Insect Ichor [1]</a
+                  >Insect Ichor</a
                 >
               </li>
               <li>Device: Stove/Camp</li>

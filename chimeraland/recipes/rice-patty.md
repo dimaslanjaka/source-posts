@@ -67,7 +67,7 @@ categories:
               <li>+35 RES</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -82,7 +82,7 @@ categories:
             <ul>
               <li>
                 Job&#x27;s Tears Powder<span> + </span>Any Meat<span> + </span
-                >Lv.3/4 Crop<span> / </span>Lv.3/4 Crop
+                >Lv.3<span> / </span>4 Crop
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

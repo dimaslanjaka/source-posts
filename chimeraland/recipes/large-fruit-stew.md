@@ -65,7 +65,7 @@ categories:
               <li>240 Fullness</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -83,17 +83,17 @@ categories:
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Dew/Ice Piece/Insect Ichor</a
+                  >Dew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Dew/Ice Piece/Insect Ichor</a
+                  >Ice Piece</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/insect-ichor.html"
-                  >Dew/Ice Piece/Insect Ichor</a
+                  >Insect Ichor</a
                 >
               </li>
               <li>Device: Stove or Camp</li>
@@ -112,17 +112,15 @@ categories:
                 <a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Dew/Ice Piece</a
+                  >Dew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Dew/Ice Piece</a
-                ><span> + </span>Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any
-                Lv.4 Crop<span> / </span>Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3
-                Crop/Any Lv.4 Crop<span> / </span>Any Lv.1 Crop/Any Lv.2
-                Crop/Any Lv.3 Crop/Any Lv.4 Crop<span> / </span>Any Lv.1
-                Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop
+                  >Ice Piece</a
+                ><span> + </span>Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span>
+                  / </span
+                >Any Lv.3 Crop<span> / </span>Any Lv.4 Crop
               </li>
               <li>Device: Stove or Camp</li>
             </ul>
@@ -140,23 +138,16 @@ categories:
                 <a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Dew/Ice Piece</a
+                  >Dew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Dew/Ice Piece</a
-                ><span> + </span>Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any
-                Lv.4 Crop/Any Mutant Flower/Any Flower<span> / </span>Any Lv.1
-                Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop/Any Mutant
-                Flower/Any Flower<span> / </span>Any Lv.1 Crop/Any Lv.2 Crop/Any
-                Lv.3 Crop/Any Lv.4 Crop/Any Mutant Flower/Any Flower<span>
+                  >Ice Piece</a
+                ><span> + </span>Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span>
                   / </span
-                >Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3 Crop/Any Lv.4 Crop/Any
-                Mutant Flower/Any Flower<span> / </span>Any Lv.1 Crop/Any Lv.2
-                Crop/Any Lv.3 Crop/Any Lv.4 Crop/Any Mutant Flower/Any
-                Flower<span> / </span>Any Lv.1 Crop/Any Lv.2 Crop/Any Lv.3
-                Crop/Any Lv.4 Crop/Any Mutant Flower/Any Flower
+                >Any Lv.3 Crop<span> / </span>Any Lv.4 Crop<span> / </span>Any
+                Mutant Flower<span> / </span>Any Flower
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

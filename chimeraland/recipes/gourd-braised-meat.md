@@ -66,7 +66,7 @@ categories:
               <li>+6% Crit Damage Dealt</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -84,13 +84,10 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/gourd.html"
                   >Gourd</a
-                ><span> + </span>Any Meat<span> + </span>Any Seasoning/Any
-                Spice/Any Sweet Sauce/Any Spicy Sauce<span> / </span>Any
-                Seasoning/Any Spice/Any Sweet Sauce/Any Spicy Sauce<span>
+                ><span> + </span>Any Meat<span> + </span>Any Seasoning<span>
                   / </span
-                >Any Seasoning/Any Spice/Any Sweet Sauce/Any Spicy Sauce<span>
-                  / </span
-                >Any Seasoning/Any Spice/Any Sweet Sauce/Any Spicy Sauce
+                >Any Spice<span> / </span>Any Sweet Sauce<span> / </span>Any
+                Spicy Sauce
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

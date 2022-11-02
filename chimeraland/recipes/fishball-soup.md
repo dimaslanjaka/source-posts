@@ -66,7 +66,7 @@ categories:
               <li>-50 Humidity (decreased over time) (decreased over time)</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -83,22 +83,22 @@ categories:
                 <a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Dew/Ice Piece</a
+                  >Dew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Dew/Ice Piece</a
+                  >Ice Piece</a
                 ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Dew/Ice Piece</a
+                  >Dew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Dew/Ice Piece</a
+                  >Ice Piece</a
                 ><span> + </span>Green grade fish
               </li>
               <li>Device: Stove or Camp</li>
@@ -117,18 +117,14 @@ categories:
                 <a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
-                  >Dew/Ice Piece</a
+                  >Dew</a
                 ><span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
-                  >Dew/Ice Piece</a
-                ><span> + </span>Blue grade fish/Purple grade fish/Orange grade
-                fish/Red grade fish<span> / </span>Blue grade fish/Purple grade
-                fish/Orange grade fish/Red grade fish<span> / </span>Blue grade
-                fish/Purple grade fish/Orange grade fish/Red grade fish<span>
-                  / </span
-                >Blue grade fish/Purple grade fish/Orange grade fish/Red grade
+                  >Ice Piece</a
+                ><span> + </span>Blue grade fish<span> / </span>Purple grade
+                fish<span> / </span>Orange grade fish<span> / </span>Red grade
                 fish
               </li>
               <li>Device: Stove or Camp</li>

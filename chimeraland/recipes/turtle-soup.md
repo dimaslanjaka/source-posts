@@ -65,7 +65,7 @@ categories:
               Buff Turtle Soup not yet written
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark">recipe</span>
+          <span class="badge rounded-pill bg-dark text-white">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -84,9 +84,8 @@ categories:
                   href="/chimeraland/materials/gratoise-meat.html"
                   >Gratoise Meat</a
                 ><span> + </span>Dew or Ice Piece<span> + </span>Any
-                Seasoning<span> + </span>Any Lv.5 Crop/Any Lv.6 Crop<span>
-                  / </span
-                >Any Lv.5 Crop/Any Lv.6 Crop
+                Seasoning<span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6
+                Crop
               </li>
               <li>Device: Stove or Camp</li>
             </ul>
