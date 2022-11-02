@@ -1,5 +1,5 @@
 ---
-title: Scorab
+title: Monster Scorab
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-02T02:18:27+07:00

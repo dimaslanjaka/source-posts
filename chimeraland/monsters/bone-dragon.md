@@ -1,5 +1,5 @@
 ---
-title: Bone Dragon
+title: Monster Bone Dragon
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-28T21:18:27+07:00

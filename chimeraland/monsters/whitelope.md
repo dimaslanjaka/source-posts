@@ -1,5 +1,5 @@
 ---
-title: Whitelope
+title: Monster Whitelope
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T09:18:27+07:00

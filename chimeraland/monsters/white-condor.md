@@ -1,5 +1,5 @@
 ---
-title: White Condor
+title: Monster White Condor
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-02T22:18:27+07:00

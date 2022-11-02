@@ -1,5 +1,5 @@
 ---
-title: Bony Sabretooth
+title: Monster Bony Sabretooth
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T10:18:27+07:00

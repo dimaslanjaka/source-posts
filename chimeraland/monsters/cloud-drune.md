@@ -1,5 +1,5 @@
 ---
-title: Cloud Drune
+title: Monster Cloud Drune
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T13:18:27+07:00

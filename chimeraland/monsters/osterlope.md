@@ -1,5 +1,5 @@
 ---
-title: Osterlope
+title: Monster Osterlope
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-01T05:18:27+07:00

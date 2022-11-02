@@ -1,5 +1,5 @@
 ---
-title: Halcyonet
+title: Monster Halcyonet
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T23:18:27+07:00

@@ -1,5 +1,5 @@
 ---
-title: Noble Golden Crow
+title: Monster Noble Golden Crow
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T11:18:27+07:00

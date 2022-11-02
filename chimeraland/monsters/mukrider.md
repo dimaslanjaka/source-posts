@@ -1,5 +1,5 @@
 ---
-title: Mukrider
+title: Monster Mukrider
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-01T19:18:27+07:00

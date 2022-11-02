@@ -1,5 +1,5 @@
 ---
-title: Globonisus
+title: Monster Globonisus
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T02:18:27+07:00

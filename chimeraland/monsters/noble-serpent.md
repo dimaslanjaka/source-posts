@@ -1,5 +1,5 @@
 ---
-title: Noble Serpent
+title: Monster Noble Serpent
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T04:18:27+07:00

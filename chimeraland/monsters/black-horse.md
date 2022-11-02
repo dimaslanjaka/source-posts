@@ -1,5 +1,5 @@
 ---
-title: Black Horse
+title: Monster Black Horse
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T12:18:27+07:00

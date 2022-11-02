@@ -1,5 +1,5 @@
 ---
-title: Rosary Aquatine
+title: Monster Rosary Aquatine
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T04:26:37+07:00

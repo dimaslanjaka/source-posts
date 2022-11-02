@@ -1,5 +1,5 @@
 ---
-title: Yungang Dragon
+title: Monster Yungang Dragon
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T06:18:27+07:00

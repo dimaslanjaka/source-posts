@@ -1,5 +1,5 @@
 ---
-title: Mallard
+title: Monster Mallard
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-01T10:18:27+07:00

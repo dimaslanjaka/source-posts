@@ -1,5 +1,5 @@
 ---
-title: Tang
+title: Monster Tang
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T08:18:27+07:00

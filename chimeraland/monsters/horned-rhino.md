@@ -1,5 +1,5 @@
 ---
-title: Horned Rhino
+title: Monster Horned Rhino
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T18:18:27+07:00

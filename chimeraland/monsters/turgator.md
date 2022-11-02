@@ -1,5 +1,5 @@
 ---
-title: Turgator
+title: Monster Turgator
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T03:18:27+07:00

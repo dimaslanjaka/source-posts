@@ -1,5 +1,5 @@
 ---
-title: Crosoo
+title: Monster Crosoo
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T00:26:37+07:00

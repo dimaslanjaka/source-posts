@@ -1,5 +1,5 @@
 ---
-title: Spike Grizzly
+title: Monster Spike Grizzly
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-02T15:18:27+07:00

@@ -1,5 +1,5 @@
 ---
-title: Blushpuff
+title: Monster Blushpuff
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T00:18:27+07:00

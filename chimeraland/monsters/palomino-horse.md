@@ -1,5 +1,5 @@
 ---
-title: Palomino Horse
+title: Monster Palomino Horse
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-11-01T14:09:43+07:00

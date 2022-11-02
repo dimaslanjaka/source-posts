@@ -1,5 +1,5 @@
 ---
-title: Eleboar
+title: Monster Eleboar
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T14:18:27+07:00

@@ -1,5 +1,5 @@
 ---
-title: Snowbear
+title: Monster Snowbear
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-01T22:18:27+07:00

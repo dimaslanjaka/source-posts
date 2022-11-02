@@ -1,5 +1,5 @@
 ---
-title: Golquito
+title: Monster Golquito
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T05:18:27+07:00

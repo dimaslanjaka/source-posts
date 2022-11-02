@@ -1,5 +1,5 @@
 ---
-title: Kuntur
+title: Monster Kuntur
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-01T07:18:27+07:00

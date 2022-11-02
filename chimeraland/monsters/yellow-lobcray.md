@@ -1,5 +1,5 @@
 ---
-title: Yellow Lobcray
+title: Monster Yellow Lobcray
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T07:18:27+07:00

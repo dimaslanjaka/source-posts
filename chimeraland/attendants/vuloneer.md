@@ -1,5 +1,5 @@
 ---
-title: Vuloneer
+title: Monster Vuloneer
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T07:26:37+07:00

@@ -1,5 +1,5 @@
 ---
-title: White Maiden
+title: Monster White Maiden
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T12:18:27+07:00

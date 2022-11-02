@@ -1,5 +1,5 @@
 ---
-title: Smobirdgon
+title: Monster Smobirdgon
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-02T16:18:27+07:00

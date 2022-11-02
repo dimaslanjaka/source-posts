@@ -1,5 +1,5 @@
 ---
-title: Frostppo
+title: Monster Frostppo
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-11-01T14:00:58+07:00

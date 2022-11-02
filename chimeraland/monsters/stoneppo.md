@@ -1,5 +1,5 @@
 ---
-title: Stoneppo
+title: Monster Stoneppo
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T01:18:27+07:00

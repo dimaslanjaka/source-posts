@@ -1,5 +1,5 @@
 ---
-title: Rhino
+title: Monster Rhino
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T10:18:27+07:00

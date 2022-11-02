@@ -1,5 +1,5 @@
 ---
-title: Frostwolf
+title: Monster Frostwolf
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T00:18:27+07:00

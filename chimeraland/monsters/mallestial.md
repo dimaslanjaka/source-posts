@@ -1,5 +1,5 @@
 ---
-title: Mallestial
+title: Monster Mallestial
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-01T01:18:27+07:00

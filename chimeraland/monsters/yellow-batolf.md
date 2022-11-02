@@ -1,5 +1,5 @@
 ---
-title: Yellow Batolf
+title: Monster Yellow Batolf
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-03T05:18:27+07:00

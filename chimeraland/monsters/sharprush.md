@@ -1,5 +1,5 @@
 ---
-title: Sharprush
+title: Monster Sharprush
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-02T07:18:27+07:00
