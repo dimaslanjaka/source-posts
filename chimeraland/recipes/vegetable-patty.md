@@ -1,8 +1,9 @@
 ---
-title: Vegetable Patty
+title: Recipe Vegetable Patty
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T11:46:56+07:00
+lang: en
 date: 2022-01-12T21:56:03+07:00
 permalink: /chimeraland/recipes/vegetable-patty.html
 photos:

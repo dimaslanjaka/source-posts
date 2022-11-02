@@ -1,8 +1,9 @@
 ---
-title: Egg Soup
+title: Recipe Egg Soup
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T11:46:54+07:00
+lang: en
 date: 2022-01-08T04:56:03+07:00
 permalink: /chimeraland/recipes/egg-soup.html
 photos:

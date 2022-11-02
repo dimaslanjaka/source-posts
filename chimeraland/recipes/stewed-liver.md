@@ -1,8 +1,9 @@
 ---
-title: Stewed Liver
+title: Recipe Stewed Liver
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T08:46:56+07:00
+lang: en
 date: 2022-01-12T10:56:03+07:00
 permalink: /chimeraland/recipes/stewed-liver.html
 photos:

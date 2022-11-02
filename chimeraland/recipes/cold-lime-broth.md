@@ -1,8 +1,9 @@
 ---
-title: Cold Lime Broth
+title: Recipe Cold Lime Broth
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T19:46:53+07:00
+lang: en
 date: 2022-01-08T07:56:03+07:00
 permalink: /chimeraland/recipes/cold-lime-broth.html
 photos:

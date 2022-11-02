@@ -1,8 +1,9 @@
 ---
-title: Goodfruit Slushie
+title: Recipe Goodfruit Slushie
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T08:46:55+07:00
+lang: en
 date: 2022-01-09T06:56:03+07:00
 permalink: /chimeraland/recipes/goodfruit-slushie.html
 photos:

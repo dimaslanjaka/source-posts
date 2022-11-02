@@ -1,8 +1,9 @@
 ---
-title: Beggar's Chicken
+title: Recipe Beggar's Chicken
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T14:46:53+07:00
+lang: en
 date: 2022-01-07T02:56:03+07:00
 permalink: /chimeraland/recipes/beggars-chicken.html
 photos:

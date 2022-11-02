@@ -1,8 +1,9 @@
 ---
-title: Chargrilled Vegetable Kabob
+title: Recipe Chargrilled Vegetable Kabob
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T00:46:53+07:00
+lang: en
 date: 2022-01-07T19:56:03+07:00
 permalink: /chimeraland/recipes/chargrilled-vegetable-kabob.html
 photos:

@@ -1,8 +1,9 @@
 ---
-title: Mushroom Broth
+title: Recipe Mushroom Broth
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T22:46:55+07:00
+lang: en
 date: 2022-01-10T13:56:03+07:00
 permalink: /chimeraland/recipes/mushroom-broth.html
 photos:

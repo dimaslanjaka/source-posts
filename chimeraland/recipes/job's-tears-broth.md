@@ -1,8 +1,9 @@
 ---
-title: Job's Tears Broth
+title: Recipe Job's Tears Broth
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T20:46:55+07:00
+lang: en
 date: 2022-01-10T04:56:03+07:00
 permalink: /chimeraland/recipes/jobs-tears-broth.html
 photos:

@@ -1,8 +1,9 @@
 ---
-title: Grilled Meat And Mushrooms
+title: Recipe Grilled Meat And Mushrooms
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T22:46:54+07:00
+lang: en
 date: 2022-01-09T18:56:03+07:00
 permalink: /chimeraland/recipes/grilled-meat-and-mushrooms.html
 photos:

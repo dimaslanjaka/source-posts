@@ -1,8 +1,9 @@
 ---
-title: Spicy Meat Skewers
+title: Recipe Spicy Meat Skewers
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T02:46:55+07:00
+lang: en
 date: 2022-01-12T02:56:03+07:00
 permalink: /chimeraland/recipes/spicy-meat-skewers.html
 photos:

@@ -1,8 +1,9 @@
 ---
-title: Grilled Fish
+title: Recipe Grilled Fish
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T02:46:54+07:00
+lang: en
 date: 2022-01-09T12:56:03+07:00
 permalink: /chimeraland/recipes/grilled-fish.html
 photos:

@@ -1,8 +1,9 @@
 ---
-title: Bodhi Fruit Sauce
+title: Recipe Bodhi Fruit Sauce
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T02:26:37+07:00
+lang: en
 date: 2022-01-07T00:56:03+07:00
 permalink: /chimeraland/recipes/bodhi-fruit-sauce.html
 photos:

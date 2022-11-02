@@ -1,8 +1,9 @@
 ---
-title: Veggie Cake
+title: Recipe Veggie Cake
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T03:46:56+07:00
+lang: en
 date: 2022-01-13T08:56:03+07:00
 permalink: /chimeraland/recipes/veggie-cake.html
 photos:

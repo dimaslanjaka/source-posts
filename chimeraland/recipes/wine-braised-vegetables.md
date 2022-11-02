@@ -1,8 +1,9 @@
 ---
-title: Wine-Braised Vegetables
+title: Recipe Wine-Braised Vegetables
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T17:46:56+07:00
+lang: en
 date: 2022-01-13T05:56:03+07:00
 permalink: /chimeraland/recipes/wine-braised-vegetables.html
 photos:

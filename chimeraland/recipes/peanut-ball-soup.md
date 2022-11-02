@@ -1,8 +1,9 @@
 ---
-title: Peanut Ball Soup
+title: Recipe Peanut Ball Soup
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T15:46:55+07:00
+lang: en
 date: 2022-01-11T04:56:03+07:00
 permalink: /chimeraland/recipes/peanut-ball-soup.html
 photos:

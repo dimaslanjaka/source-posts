@@ -1,8 +1,9 @@
 ---
-title: Grilled Frog Legs
+title: Recipe Grilled Frog Legs
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T05:46:54+07:00
+lang: en
 date: 2022-01-10T03:56:03+07:00
 permalink: /chimeraland/recipes/grilled-frog-legs.html
 photos:

@@ -1,8 +1,9 @@
 ---
-title: Grilled Bird
+title: Recipe Grilled Bird
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T18:46:56+07:00
+lang: en
 date: 2022-01-09T19:56:03+07:00
 permalink: /chimeraland/recipes/grilled-bird.html
 photos:

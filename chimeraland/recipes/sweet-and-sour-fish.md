@@ -1,8 +1,9 @@
 ---
-title: Sweet And Sour Fish
+title: Recipe Sweet And Sour Fish
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T03:46:55+07:00
+lang: en
 date: 2022-01-12T22:56:03+07:00
 permalink: /chimeraland/recipes/sweet-and-sour-fish.html
 photos:

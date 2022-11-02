@@ -1,8 +1,9 @@
 ---
-title: One-Pot Stew
+title: Recipe One-Pot Stew
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T11:46:55+07:00
+lang: en
 date: 2022-01-10T14:56:03+07:00
 permalink: /chimeraland/recipes/one-pot-stew.html
 photos:

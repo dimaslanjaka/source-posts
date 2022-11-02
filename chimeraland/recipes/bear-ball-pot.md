@@ -1,8 +1,9 @@
 ---
-title: Bear Ball Pot
+title: Recipe Bear Ball Pot
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T17:26:37+07:00
+lang: en
 date: 2022-01-14T00:56:03+07:00
 permalink: /chimeraland/recipes/bear-ball-pot.html
 photos:

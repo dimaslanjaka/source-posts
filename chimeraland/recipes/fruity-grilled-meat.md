@@ -1,8 +1,9 @@
 ---
-title: Fruity Grilled Meat
+title: Recipe Fruity Grilled Meat
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T09:46:54+07:00
+lang: en
 date: 2022-01-08T18:56:03+07:00
 permalink: /chimeraland/recipes/fruity-grilled-meat.html
 photos:

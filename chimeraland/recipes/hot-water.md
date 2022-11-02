@@ -1,8 +1,9 @@
 ---
-title: Hot Water
+title: Recipe Hot Water
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T18:46:55+07:00
+lang: en
 date: 2022-01-10T02:56:03+07:00
 permalink: /chimeraland/recipes/hot-water.html
 photos:

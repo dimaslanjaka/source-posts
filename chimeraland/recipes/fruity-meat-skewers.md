@@ -1,8 +1,9 @@
 ---
-title: Fruity Meat Skewers
+title: Recipe Fruity Meat Skewers
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T21:46:54+07:00
+lang: en
 date: 2022-01-08T03:56:03+07:00
 permalink: /chimeraland/recipes/fruity-meat-skewers.html
 photos:

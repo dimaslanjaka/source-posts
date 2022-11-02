@@ -1,8 +1,9 @@
 ---
-title: Cucumber Sauce
+title: Recipe Cucumber Sauce
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T04:26:37+07:00
+lang: en
 date: 2022-01-08T01:56:03+07:00
 permalink: /chimeraland/recipes/cucumber-sauce.html
 photos:

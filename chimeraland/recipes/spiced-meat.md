@@ -1,8 +1,9 @@
 ---
-title: Spiced Meat
+title: Recipe Spiced Meat
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T16:46:55+07:00
+lang: en
 date: 2022-01-11T16:56:03+07:00
 permalink: /chimeraland/recipes/spiced-meat.html
 photos:

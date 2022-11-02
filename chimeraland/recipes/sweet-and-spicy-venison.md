@@ -1,8 +1,9 @@
 ---
-title: Sweet And Spicy Venison
+title: Recipe Sweet And Spicy Venison
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T04:46:56+07:00
+lang: en
 date: 2022-01-12T19:56:03+07:00
 permalink: /chimeraland/recipes/sweet-and-spicy-venison.html
 photos:

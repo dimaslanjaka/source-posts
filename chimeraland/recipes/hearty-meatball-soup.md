@@ -1,8 +1,9 @@
 ---
-title: Hearty Meatball Soup
+title: Recipe Hearty Meatball Soup
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T09:26:37+07:00
+lang: en
 date: 2022-01-13T17:56:03+07:00
 permalink: /chimeraland/recipes/hearty-meatball-soup.html
 photos:

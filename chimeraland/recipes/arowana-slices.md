@@ -1,8 +1,9 @@
 ---
-title: Arowana Slices
+title: Recipe Arowana Slices
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T07:46:55+07:00
+lang: en
 date: 2022-01-06T21:56:03+07:00
 permalink: /chimeraland/recipes/arowana-slices.html
 photos:

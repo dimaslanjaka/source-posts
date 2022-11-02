@@ -1,8 +1,9 @@
 ---
-title: Salt-Baked Fish
+title: Recipe Salt-Baked Fish
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T06:46:55+07:00
+lang: en
 date: 2022-01-11T02:56:03+07:00
 permalink: /chimeraland/recipes/salt-baked-fish.html
 photos:

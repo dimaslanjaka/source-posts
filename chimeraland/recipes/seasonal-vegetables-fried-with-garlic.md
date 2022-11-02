@@ -1,8 +1,9 @@
 ---
-title: Seasonal Vegetables Fried With Garlic
+title: Recipe Seasonal Vegetables Fried With Garlic
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T03:46:55+07:00
+lang: en
 date: 2022-01-11T23:56:03+07:00
 permalink: /chimeraland/recipes/seasonal-vegetables-fried-with-garlic.html
 photos:

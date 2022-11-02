@@ -1,8 +1,9 @@
 ---
-title: Meat Noodles
+title: Recipe Meat Noodles
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T00:46:54+07:00
+lang: en
 date: 2022-01-11T00:56:03+07:00
 permalink: /chimeraland/recipes/meat-noodles.html
 photos:

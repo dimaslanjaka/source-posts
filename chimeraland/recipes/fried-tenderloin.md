@@ -1,8 +1,9 @@
 ---
-title: Fried Tenderloin
+title: Recipe Fried Tenderloin
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T09:46:56+07:00
+lang: en
 date: 2022-01-13T10:56:03+07:00
 permalink: /chimeraland/recipes/fried-tenderloin.html
 photos:

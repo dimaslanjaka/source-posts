@@ -1,8 +1,9 @@
 ---
-title: Exotic Herbal Jelly
+title: Recipe Exotic Herbal Jelly
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T00:26:37+07:00
+lang: en
 date: 2022-01-12T20:56:03+07:00
 permalink: /chimeraland/recipes/exotic-herbal-jelly.html
 photos:

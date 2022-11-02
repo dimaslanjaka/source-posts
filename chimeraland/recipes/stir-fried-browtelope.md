@@ -1,8 +1,9 @@
 ---
-title: Stir-Fried Browtelope
+title: Recipe Stir-Fried Browtelope
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T07:26:37+07:00
+lang: en
 date: 2022-01-13T19:56:03+07:00
 permalink: /chimeraland/recipes/stir-fried-browtelope.html
 photos:

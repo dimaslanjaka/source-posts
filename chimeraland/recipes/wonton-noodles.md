@@ -1,8 +1,9 @@
 ---
-title: Wonton Noodles
+title: Recipe Wonton Noodles
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T01:46:56+07:00
+lang: en
 date: 2022-01-13T15:56:03+07:00
 permalink: /chimeraland/recipes/wonton-noodles.html
 photos:

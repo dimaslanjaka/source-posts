@@ -1,8 +1,9 @@
 ---
-title: Spicy Pepper Sauce
+title: Recipe Spicy Pepper Sauce
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T14:26:37+07:00
+lang: en
 date: 2022-01-12T04:56:03+07:00
 permalink: /chimeraland/recipes/spicy-pepper-sauce.html
 photos:

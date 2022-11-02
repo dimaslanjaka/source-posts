@@ -1,8 +1,9 @@
 ---
-title: Stir Fried Vegetables
+title: Recipe Stir Fried Vegetables
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T07:46:53+07:00
+lang: en
 date: 2022-01-06T20:56:03+07:00
 permalink: /chimeraland/recipes/stir-fried-vegetables.html
 photos:

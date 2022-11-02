@@ -1,8 +1,9 @@
 ---
-title: Orchid Soup
+title: Recipe Orchid Soup
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T22:46:56+07:00
+lang: en
 date: 2022-01-10T19:56:03+07:00
 permalink: /chimeraland/recipes/orchid-soup.html
 photos:

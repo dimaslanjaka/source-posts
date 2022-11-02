@@ -1,8 +1,9 @@
 ---
-title: Spicy Smoked Meat
+title: Recipe Spicy Smoked Meat
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T19:46:55+07:00
+lang: en
 date: 2022-01-12T11:56:03+07:00
 permalink: /chimeraland/recipes/spicy-smoked-meat.html
 photos:

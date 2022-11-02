@@ -1,8 +1,9 @@
 ---
-title: Sliced Mushrooms
+title: Recipe Sliced Mushrooms
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T11:46:57+07:00
+lang: en
 date: 2022-01-11T10:56:03+07:00
 permalink: /chimeraland/recipes/sliced-mushrooms.html
 photos:

@@ -1,8 +1,9 @@
 ---
-title: Ultimate Meat Dish
+title: Recipe Ultimate Meat Dish
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T10:46:55+07:00
+lang: en
 date: 2022-01-12T14:56:03+07:00
 permalink: /chimeraland/recipes/ultimate-meat-dish.html
 photos:

@@ -1,8 +1,9 @@
 ---
-title: Refreshing Soup
+title: Recipe Refreshing Soup
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T04:46:55+07:00
+lang: en
 date: 2022-01-10T23:56:03+07:00
 permalink: /chimeraland/recipes/refreshing-soup.html
 photos:

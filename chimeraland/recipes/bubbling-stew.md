@@ -1,8 +1,9 @@
 ---
-title: Bubbling Stew
+title: Recipe Bubbling Stew
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T08:46:53+07:00
+lang: en
 date: 2022-01-07T15:56:03+07:00
 permalink: /chimeraland/recipes/bubbling-stew.html
 photos:

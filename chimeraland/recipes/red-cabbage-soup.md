@@ -1,8 +1,9 @@
 ---
-title: Red Cabbage Soup
+title: Recipe Red Cabbage Soup
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T00:46:56+07:00
+lang: en
 date: 2022-01-10T22:56:03+07:00
 permalink: /chimeraland/recipes/red-cabbage-soup.html
 photos:

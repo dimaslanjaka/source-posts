@@ -1,8 +1,9 @@
 ---
-title: Chimeraland One Pot Dish
+title: Recipe Chimeraland One Pot Dish
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T00:26:37+07:00
+lang: en
 date: 2022-01-13T06:56:03+07:00
 permalink: /chimeraland/recipes/chimeraland-one-pot-dish.html
 photos:

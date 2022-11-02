@@ -1,8 +1,9 @@
 ---
-title: Garlic Meat Skewers
+title: Recipe Garlic Meat Skewers
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T06:46:54+07:00
+lang: en
 date: 2022-01-09T04:56:03+07:00
 permalink: /chimeraland/recipes/garlic-meat-skewers.html
 photos:

@@ -1,8 +1,9 @@
 ---
-title: Steamed Sweet & Sour Icebug
+title: Recipe Steamed Sweet & Sour Icebug
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T01:26:37+07:00
+lang: en
 date: 2022-01-14T01:56:03+07:00
 permalink: /chimeraland/recipes/steamed-sweet-and-sour-icebug.html
 photos:

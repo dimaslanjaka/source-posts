@@ -1,8 +1,9 @@
 ---
-title: Grilled Rabbit
+title: Recipe Grilled Rabbit
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T09:46:54+07:00
+lang: en
 date: 2022-01-09T22:56:03+07:00
 permalink: /chimeraland/recipes/grilled-rabbit.html
 photos:

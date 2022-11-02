@@ -1,8 +1,9 @@
 ---
-title: Fruit And Vegetable Stew
+title: Recipe Fruit And Vegetable Stew
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-28T23:26:37+07:00
+lang: en
 date: 2022-01-08T23:56:03+07:00
 permalink: /chimeraland/recipes/fruit-and-vegetable-stew.html
 photos:
