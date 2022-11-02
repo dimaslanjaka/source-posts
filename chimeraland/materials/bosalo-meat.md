@@ -1,8 +1,8 @@
 ---
 title: Bosalo Meat
 webtitle: Chimeraland
-date: 2022-01-06T20:56:03+07:00
-updated: 2022-09-28T20:26:37+07:00
+date: 2022-01-08T14:56:03+07:00
+updated: 2022-09-30T14:26:37+07:00
 author: L3n4r0x
 permalink: /chimeraland/materials/bosalo-meat.html
 photos:
@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Bosalo Meat</h3>
-      <div class="mb-1 text-muted">September 28, 2022 8:26 PM</div>
+      <div class="mb-1 text-muted">September 30, 2022 2:26 PM</div>
       <a href="#" class="stretched-link d-none">Continue reading Bosalo Meat</a>
     </div>
     <div class="col-auto d-none d-lg-block">

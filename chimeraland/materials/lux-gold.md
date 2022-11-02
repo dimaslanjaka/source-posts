@@ -1,8 +1,8 @@
 ---
 title: Lux Gold
 webtitle: Chimeraland
-date: 2022-01-06T20:56:03+07:00
-updated: 2022-09-28T20:26:37+07:00
+date: 2022-01-07T15:56:03+07:00
+updated: 2022-09-29T15:26:37+07:00
 author: L3n4r0x
 permalink: /chimeraland/materials/lux-gold.html
 photos:
@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Lux Gold</h3>
-      <div class="mb-1 text-muted">September 28, 2022 8:26 PM</div>
+      <div class="mb-1 text-muted">September 29, 2022 3:26 PM</div>
       <div class="mb-2 border p-1">
         Gold that&#x27;s been mixed with white minerals, higher purity than red
         gold but less than gold, soft and malleable.

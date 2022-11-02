@@ -1,8 +1,8 @@
 ---
 title: Mackerel
 webtitle: Chimeraland
-date: 2022-01-06T20:56:03+07:00
-updated: 2022-09-28T20:26:37+07:00
+date: 2022-01-15T07:56:03+07:00
+updated: 2022-10-07T07:26:37+07:00
 author: L3n4r0x
 permalink: /chimeraland/materials/mackerel.html
 photos:
@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Mackerel</h3>
-      <div class="mb-1 text-muted">September 28, 2022 8:26 PM</div>
+      <div class="mb-1 text-muted">October 7, 2022 7:26 AM</div>
       <div class="mb-2 border p-1">
         A marine fish with a smooth and delicate body. It is spindle-shaped, has
         a blue-black back, is covered in blue sports, and has a slivery gray

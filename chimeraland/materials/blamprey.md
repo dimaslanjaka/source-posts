@@ -1,8 +1,8 @@
 ---
 title: Blamprey
 webtitle: Chimeraland
-date: 2022-01-06T20:56:03+07:00
-updated: 2022-09-28T20:26:37+07:00
+date: 2022-01-16T12:56:03+07:00
+updated: 2022-10-08T12:26:37+07:00
 author: L3n4r0x
 permalink: /chimeraland/materials/blamprey.html
 photos:
@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Blamprey</h3>
-      <div class="mb-1 text-muted">September 28, 2022 8:26 PM</div>
+      <div class="mb-1 text-muted">October 8, 2022 12:26 PM</div>
       <a href="#" class="stretched-link d-none">Continue reading Blamprey</a>
     </div>
     <div class="col-auto d-none d-lg-block">

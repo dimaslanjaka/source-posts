@@ -1,8 +1,8 @@
 ---
 title: Strange Beast Tendon
 webtitle: Chimeraland
-date: 2022-01-06T20:56:03+07:00
-updated: 2022-09-28T20:26:37+07:00
+date: 2022-01-09T05:56:03+07:00
+updated: 2022-10-01T05:26:37+07:00
 author: L3n4r0x
 permalink: /chimeraland/materials/strange-beast-tendon.html
 photos:
@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Strange Beast Tendon</h3>
-      <div class="mb-1 text-muted">September 28, 2022 8:26 PM</div>
+      <div class="mb-1 text-muted">October 1, 2022 5:26 AM</div>
       <a href="#" class="stretched-link d-none"
         >Continue reading Strange Beast Tendon</a
       >

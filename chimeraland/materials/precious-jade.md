@@ -1,8 +1,8 @@
 ---
 title: Precious Jade
 webtitle: Chimeraland
-date: 2022-01-06T20:56:03+07:00
-updated: 2022-09-28T20:26:37+07:00
+date: 2022-01-07T02:56:03+07:00
+updated: 2022-09-29T02:26:37+07:00
 author: L3n4r0x
 permalink: /chimeraland/materials/precious-jade.html
 photos:
@@ -33,7 +33,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Precious Jade</h3>
-      <div class="mb-1 text-muted">September 28, 2022 8:26 PM</div>
+      <div class="mb-1 text-muted">September 29, 2022 2:26 AM</div>
       <div class="mb-2 border p-1">
         Crystal-marrow appears as ice, hidden and unwavering, minds clear as
         violet descends, on the edge as well as the beginning.

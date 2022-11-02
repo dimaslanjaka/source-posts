@@ -1,8 +1,8 @@
 ---
 title: First Jade
 webtitle: Chimeraland
-date: 2022-01-06T20:56:03+07:00
-updated: 2022-09-28T20:26:37+07:00
+date: 2022-01-07T16:56:03+07:00
+updated: 2022-09-29T16:26:37+07:00
 author: L3n4r0x
 permalink: /chimeraland/materials/first-jade.html
 photos:
@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">First Jade</h3>
-      <div class="mb-1 text-muted">September 28, 2022 8:26 PM</div>
+      <div class="mb-1 text-muted">September 29, 2022 4:26 PM</div>
       <div class="mb-2 border p-1">
         Glowing like a star, with crystals like dew on a leaf. It is the color
         of the sky and water, and has a mist-pattern.

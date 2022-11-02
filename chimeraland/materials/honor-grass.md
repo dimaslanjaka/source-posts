@@ -1,8 +1,8 @@
 ---
 title: Honor Grass
 webtitle: Chimeraland
-date: 2022-01-06T20:56:03+07:00
-updated: 2022-09-28T20:26:37+07:00
+date: 2022-01-18T03:56:03+07:00
+updated: 2022-10-10T03:26:37+07:00
 author: L3n4r0x
 permalink: /chimeraland/materials/honor-grass.html
 photos:
@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Honor Grass</h3>
-      <div class="mb-1 text-muted">September 28, 2022 8:26 PM</div>
+      <div class="mb-1 text-muted">October 10, 2022 3:26 AM</div>
       <div class="mb-2 border p-1">
         An extremely rare herb, distinguished by tangled, branching roots as
         well as purple leaves and flowers. Taken to protect against thunder, it
