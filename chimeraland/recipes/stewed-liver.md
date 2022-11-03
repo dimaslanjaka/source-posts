@@ -109,6 +109,96 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Dew, Beast Heart<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-liver.html"
+                  >Beast Liver</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/kidney.html"
+                  >Kidney</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hoof-sinew.html"
+                  >Hoof Sinew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk Of Fat</a
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Dew, Beast Heart<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-liver.html"
+                  >Beast Liver</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/kidney.html"
+                  >Kidney</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hoof-sinew.html"
+                  >Hoof Sinew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk Of Fat</a
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Dew, Beast Heart<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-liver.html"
+                  >Beast Liver</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/kidney.html"
+                  >Kidney</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hoof-sinew.html"
+                  >Hoof Sinew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk Of Fat</a
                 >
               </li>
               <li>Device: Stove or Camp</li>

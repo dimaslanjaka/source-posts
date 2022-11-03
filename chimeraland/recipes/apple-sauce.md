@@ -103,6 +103,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/apple.html"
+                  >Apple</a
                 >
               </li>
               <li>Device: Mixer - Jam</li>

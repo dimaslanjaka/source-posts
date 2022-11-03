@@ -78,7 +78,11 @@ categories:
           <h2 class="card-title fs-5">Recipe Scraps Claypot 1</h2>
           <div class="card-text">
             <ul>
-              <li>Add Dung</li>
+              <li>
+                Add Dung<span> + </span>Add Dung<span> + </span>Add Dung<span>
+                  + </span
+                >Add Dung
+              </li>
               <li>Device: Stove or Camp</li>
             </ul>
           </div>

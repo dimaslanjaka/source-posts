@@ -108,6 +108,10 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/apple.html"
+                  >Apple</a
                 >
               </td>
             </tr>

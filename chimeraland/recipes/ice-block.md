@@ -108,6 +108,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
                 >
               </li>
               <li>Device: Stove or Camp</li>

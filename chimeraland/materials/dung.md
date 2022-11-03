@@ -219,7 +219,7 @@ categories:
             </tr>
             <tr>
               <th>Material</th>
-              <td>Add Dung</td>
+              <td>Add Dung<br />Add Dung<br />Add Dung<br />Add Dung</td>
             </tr>
             <tr>
               <th>Device</th>

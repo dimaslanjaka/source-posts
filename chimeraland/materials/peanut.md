@@ -912,7 +912,7 @@ categories:
                   >Beast Brain</a
                 ><br />Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span
                 >Any Lv.6 Crop<span> / </span>Any Flower<span> / </span>Any
-                Mutant Flower <span> / </span> Peanut Oil
+                Mutant Flower<span> / </span>Peanut Oil
               </td>
             </tr>
             <tr>
