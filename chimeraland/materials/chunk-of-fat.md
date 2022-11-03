@@ -103,6 +103,132 @@ categories:
         </div>
       </div>
       <br />
+      <div id="recipe-fruity-meat-skewers">
+        <h3 id="item-fruity-meat-skewers">Fruity Meat Skewers</h3>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fruity Meat Skewers</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Any Meat<br />Any Wild Fruit<span> / </span>Any Seasoning<span>
+                  / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-heart.html"
+                  >Beast Heart</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-liver.html"
+                  >Beast Liver</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/kidney.html"
+                  >Kidney</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hoof-sinew.html"
+                  >Hoof Sinew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk Of Fat</a
+                ><span> / </span>Any Spice
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fruity Meat Skewers</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span> / </span>Any
+                Lv.3 Crop<span> / </span>Any Lv.4 Crop<br />Any Meat
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-grilled-meat-cubes">
+        <h3 id="item-grilled-meat-cubes">Grilled Meat Cubes</h3>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Grilled Meat Cubes</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Any Meat<br />Any Meat<span> / </span>Any Seasoning<span>
+                  / </span
+                >Any Spice<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-heart.html"
+                  >Beast Heart</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-liver.html"
+                  >Beast Liver</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/kidney.html"
+                  >Kidney</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hoof-sinew.html"
+                  >Hoof Sinew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk Of Fat</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <br />
       <div id="recipe-hot-oil">
         <h3 id="item-hot-oil">Hot Oil</h3>
         <div class="mb-2">
@@ -139,6 +265,309 @@ categories:
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk of Fat</a
                 >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-meat-and-vegetable">
+        <h3 id="item-meat-and-vegetable">Meat And Vegetable</h3>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Meat And Vegetable</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Any Meat<br />Any Spice<br />Any Lv.3 Crop<span> / </span>Any
+                Lv.4 Crop
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Meat And Vegetable</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-heart.html"
+                  >Beast Heart</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-liver.html"
+                  >Beast Liver</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/kidney.html"
+                  >Kidney</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hoof-sinew.html"
+                  >Hoof Sinew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk Of Fat</a
+                ><br />Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Meat And Vegetable</b> 3</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>Any Curio<br />Any Lv.5 Crop<span> / </span>Any Lv.6 Crop</td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Meat And Vegetable</b> 4</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>Any Meat<br />Any Lv.5 Crop<span> / </span>Any Lv.6 Crop</td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-stewed-liver">
+        <h3 id="item-stewed-liver">Stewed Liver</h3>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Stewed Liver</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Dew, Beast Heart<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-liver.html"
+                  >Beast Liver</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/kidney.html"
+                  >Kidney</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hoof-sinew.html"
+                  >Hoof Sinew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk Of Fat</a
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Dew, Beast Heart<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-liver.html"
+                  >Beast Liver</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/kidney.html"
+                  >Kidney</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hoof-sinew.html"
+                  >Hoof Sinew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk Of Fat</a
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Dew, Beast Heart<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-liver.html"
+                  >Beast Liver</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/kidney.html"
+                  >Kidney</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hoof-sinew.html"
+                  >Hoof Sinew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk Of Fat</a
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Dew, Beast Heart<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-liver.html"
+                  >Beast Liver</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/kidney.html"
+                  >Kidney</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hoof-sinew.html"
+                  >Hoof Sinew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk Of Fat</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-hotstone-icefox-meat">
+        <h3 id="item-hotstone-icefox-meat">Hotstone Icefox Meat</h3>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Hotstone Icefox Meat</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/spirit-fox-primal-spirit.html"
+                  >Spirit Fox Primal Spirit</a
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/spirit-fox-primal-spirit.html"
+                  >Spirit Fox Primal Spirit</a
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-heart.html"
+                  >Beast Heart</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-liver.html"
+                  >Beast Liver</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/kidney.html"
+                  >Kidney</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hoof-sinew.html"
+                  >Hoof Sinew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk Of Fat</a
+                ><br />Corriander Powder<span> / </span>Five Spice Sauce
               </td>
             </tr>
             <tr>

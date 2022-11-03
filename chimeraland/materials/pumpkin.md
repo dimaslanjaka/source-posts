@@ -121,6 +121,53 @@ categories:
           </table>
         </div>
       </div>
+      <br />
+      <div id="recipe-sliced-fish-stew">
+        <h3 id="item-sliced-fish-stew">Sliced Fish Stew</h3>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sliced Fish Stew</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Egg White<br />Any Meat<br />Any Lv.3 Crop<br />Purple grade
+                fish<span> / </span>Orange grade fish<span> / </span>Red grade
+                fish
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sliced Fish Stew</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Egg White<br />Any Meat<br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/lemon-tree-leaf.html"
+                  >Lemon Tree Leaf</a
+                ><span> / </span>Any rare Crops such as pumpkin etc<br />any
+                Purple Fish
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+      </div>
     </div>
     <div class="col-12 mb-2">
       <h2>Pumpkin Spawn Locations</h2>

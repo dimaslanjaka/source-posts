@@ -72,6 +72,42 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
+      <h2 id="cookable">Cooking Recipes Using Red and White Beak</h2>
+      <div id="recipe-sparrow-beak">
+        <h3 id="item-sparrow-beak">Sparrow Beak</h3>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sparrow Beak</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/red-and-white-beak.html"
+                  >Red And White Beak</a
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/red-and-white-beak.html"
+                  >Red And White Beak</a
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><br />Any Mixed Sauce<br />Any Blue Grade Fish
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 mb-2">
       <h2>Red and White Beak Spawn Locations</h2>
       <p>Red and White Beak is randomly spawned</p>
     </div>

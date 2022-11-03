@@ -704,6 +704,40 @@ categories:
         </div>
       </div>
       <br />
+      <div id="recipe-honeydew-melon-slushie">
+        <h3 id="item-honeydew-melon-slushie">Honeydew Melon Slushie</h3>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Honeydew Melon Slushie</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/honeydew-melon.html"
+                  >Honeydew Melon</a
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Mixer - Jam</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <br />
       <div id="recipe-hot-water">
         <h3 id="item-hot-water">Hot Water</h3>
         <div class="mb-2">

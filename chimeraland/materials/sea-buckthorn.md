@@ -76,6 +76,146 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
+      <h2 id="cookable">Cooking Recipes Using Sea Buckthorn</h2>
+      <div id="recipe-sea-buckthorn-broth">
+        <h3 id="item-sea-buckthorn-broth">Sea-Buckthorn Broth</h3>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sea-Buckthorn Broth</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/sea-buckthorn.html"
+                  >Sea-Buckthorn</a
+                ><br />Dew or Ice Piece<br />Any Meat
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-sea-buckthorn-mixed-juice">
+        <h3 id="item-sea-buckthorn-mixed-juice">Sea-Buckthorn Mixed Juice</h3>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sea-Buckthorn Mixed Juice</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/sea-buckthorn.html"
+                  >Sea-Buckthorn</a
+                ><br />Any Wild Fruit
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-sea-buckthorn-sauce">
+        <h3 id="item-sea-buckthorn-sauce">Sea-Buckthorn Sauce</h3>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sea-Buckthorn Sauce</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/sea-buckthorn.html"
+                  >Sea-Buckthorn</a
+                ><br />Any Wild Fruit
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Mixer - Jam</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-sea-buckthorn-slushie">
+        <h3 id="item-sea-buckthorn-slushie">Sea-Buckthorn Slushie</h3>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sea-Buckthorn Slushie</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/sea-buckthorn.html"
+                  >Sea-Buckthorn</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Mixer - Jam</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-sea-buckthorn-mixed-juice">
+        <h3 id="item-sea-buckthorn-mixed-juice">Sea-Buckthorn Mixed Juice</h3>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sea-Buckthorn Mixed Juice</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/sea-buckthorn.html"
+                  >Sea-Buckthorn</a
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/apple.html"
+                  >Apple</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 mb-2">
       <h2>Sea Buckthorn Spawn Locations</h2>
       <p>Sea Buckthorn is randomly spawned</p>
     </div>
