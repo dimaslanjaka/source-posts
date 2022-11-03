@@ -86,7 +86,9 @@ jobs:
       continue-on-error: true
       working-directory: .deploy_git
       run: |
-        git submodule foreach "git add . && git commit -m 'update ${{ steps.vars.outputs.date }}\nfrom https://github.com/dimaslanjaka/dimaslanjaka/tree/commit/${{ steps.vars.outputs.hash }}' && git push"
+        git submodule foreach "git add . || :"
+        git submodule foreach "git commit -m 'update ${{ steps.vars.outputs.date }}\nfrom https://github.com/dimaslanjaka/dimaslanjaka/tree/commit/${{ steps.vars.outputs.hash }}' || :"
+        git submodule foreach "git push || :"
  
     - name: Deploy
       continue-on-error: true
