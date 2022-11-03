@@ -332,7 +332,7 @@ categories:
             </tr>
             <tr>
               <th>Device</th>
-              <td>Stove or Camp</td>
+              <td>Mixer - Jam</td>
             </tr>
           </table>
         </div>
