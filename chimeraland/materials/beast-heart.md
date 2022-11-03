@@ -63,7 +63,7 @@ categories:
         </div>
       </div>
     </div>
-    <div class="col-lg-6 col-12 mb-2">
+    <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Beast Heart</h2>
       <div id="recipe-fruity-meat-skewers">
         <h5 id="item-fruity-meat-skewers">Fruity Meat Skewers</h5>

@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <div class="col-lg-6 col-12 mb-2">
+    <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Sesame</h2>
       <div id="recipe-sesame-soup">
         <h5 id="item-sesame-soup">Sesame Soup</h5>

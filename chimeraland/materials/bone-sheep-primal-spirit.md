@@ -73,7 +73,7 @@ categories:
         </div>
       </div>
     </div>
-    <div class="col-lg-6 col-12 mb-2">
+    <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Bone Sheep Primal Spirit</h2>
       <div id="recipe-stir-fried-browtelope">
         <h5 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h5>

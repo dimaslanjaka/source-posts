@@ -77,7 +77,7 @@ categories:
         </div>
       </div>
     </div>
-    <div class="col-lg-6 col-12 mb-2">
+    <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Chimeraland Beast Hide</h2>
       <div id="recipe-hot-n-sour-jelly">
         <h5 id="item-hot-n-sour-jelly">Hot &#x27;n Sour Jelly</h5>

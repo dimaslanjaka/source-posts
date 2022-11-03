@@ -69,7 +69,7 @@ categories:
         </div>
       </div>
     </div>
-    <div class="col-lg-6 col-12 mb-2">
+    <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Lemon Tree Leaf</h2>
       <div id="recipe-arowana-slices">
         <h5 id="item-arowana-slices">Arowana Slices</h5>

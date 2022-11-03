@@ -75,7 +75,7 @@ categories:
         </div>
       </div>
     </div>
-    <div class="col-lg-6 col-12 mb-2">
+    <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Red Goodfruit</h2>
       <div id="recipe-goodfruit-sauce">
         <h5 id="item-goodfruit-sauce">Goodfruit Sauce</h5>

@@ -74,7 +74,7 @@ categories:
         </div>
       </div>
     </div>
-    <div class="col-lg-6 col-12 mb-2">
+    <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Spirit Fox Primal Spirit</h2>
       <div id="recipe-hotstone-icefox-meat">
         <h5 id="item-hotstone-icefox-meat">Hotstone Icefox Meat</h5>
