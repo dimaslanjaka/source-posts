@@ -83,9 +83,19 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/gratoise-meat.html"
                   >Gratoise Meat</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any
-                Seasoning<span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6
-                Crop
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> + </span>Any Seasoning<span> + </span>Any Lv.5 Crop<span>
+                  / </span
+                >Any Lv.6 Crop
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

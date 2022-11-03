@@ -86,9 +86,18 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Purple grade
-                fish<span> / </span>Orange grade fish<span> / </span>Red grade
-                fish
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> + </span>Purple grade fish<span> / </span>Orange grade
+                fish<span> / </span>Red grade fish
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

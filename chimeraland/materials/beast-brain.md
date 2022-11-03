@@ -342,8 +342,16 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><br />Dew or Ice Piece<br />Any Seasoning<span> / </span>Any
-                High Quality Seasoning
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><br />Any Seasoning<span> / </span>Any High Quality Seasoning
               </td>
             </tr>
             <tr>

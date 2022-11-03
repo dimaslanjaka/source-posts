@@ -86,7 +86,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/coriander.html"
                   >Coriander</a
-                ><span> + </span>Any Meat<span> + </span>Any Lv.5 or Lv.6 Crop
+                ><span> + </span>Any Meat<span> + </span>Any Lv.5<span> / </span
+                >Lv.6 Crop
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

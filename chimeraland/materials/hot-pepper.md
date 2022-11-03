@@ -92,9 +92,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><br />Dew or Ice Piece<br />Any Meat<br />Any Lv.4 Crop<span>
-                  / </span
-                >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><br />Any Meat<br />Any Lv.4 Crop<span> / </span>Any Lv.5
+                Crop<span> / </span>Any Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -180,7 +188,16 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><br />Dew or Ice Piece<br />Any Meat
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><br />Any Meat
               </td>
             </tr>
             <tr>

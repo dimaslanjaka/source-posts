@@ -86,10 +86,19 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat<span>
-                  + </span
-                >Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any
-                Lv.6 Crop
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> + </span>Any Meat<span> + </span>Any Lv.4 Crop<span>
+                  / </span
+                >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

@@ -83,7 +83,7 @@ categories:
               <li>
                 Any Meat<span> + </span>Any High Quality Seasoning<span>
                   + </span
-                >Any Lv.5 or Lv.6 Crop
+                >Any Lv.5<span> / </span>Lv.6 Crop
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

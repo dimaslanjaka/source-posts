@@ -107,9 +107,18 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/gourd.html"
                   >Gourd</a
-                ><br />Dew or Ice Piece<br />Any Lv.4 Crop<span> / </span>Any
-                Lv.5 Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
-                Flower<span> / </span>Any Mutant Flower
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><br />Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span
+                >Any Lv.6 Crop<span> / </span>Any Flower<span> / </span>Any
+                Mutant Flower
               </td>
             </tr>
             <tr>

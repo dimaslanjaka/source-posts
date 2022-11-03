@@ -89,8 +89,18 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any
-                Seasoning<span> / </span>Any High Quality Seasoning
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> + </span>Any Seasoning<span> / </span>Any High Quality
+                Seasoning
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

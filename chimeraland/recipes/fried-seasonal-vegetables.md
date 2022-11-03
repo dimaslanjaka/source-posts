@@ -147,10 +147,9 @@ categories:
           <div class="card-text">
             <ul>
               <li>
-                Any Lv.5 Crop<span> + </span>Any Lv.5 Crop or higher Crop<span>
-                  / </span
-                >Any Mushroom<span> / </span>Any Mutant Flower<span> / </span
-                >Any Flower
+                Any Lv.5 Crop<span> + </span>Any Lv.5 Crop<span> / </span>higher
+                Crop<span> / </span>Any Mushroom<span> / </span>Any Mutant
+                Flower<span> / </span>Any Flower
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

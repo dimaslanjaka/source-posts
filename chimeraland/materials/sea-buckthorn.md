@@ -92,7 +92,16 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/sea-buckthorn.html"
                   >Sea-Buckthorn</a
-                ><br />Dew or Ice Piece<br />Any Meat
+                ><br /><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><br />Any Meat
               </td>
             </tr>
             <tr>
