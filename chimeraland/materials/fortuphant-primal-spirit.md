@@ -88,39 +88,33 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/fortuphant-primal-spirit.html"
                       >Fortuphant Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/fortuphant-primal-spirit.html"
                       >Fortuphant Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    + Corriander /
-                    <a
+                    ><span> / </span>Corriander<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/flat-cabbage.html"
                       >Flat Cabbage</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/watermelon.html"
                       >Watermelon</a

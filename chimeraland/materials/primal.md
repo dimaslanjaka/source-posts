@@ -78,39 +78,33 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/fortuphant-primal-spirit.html"
                       >Fortuphant Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/fortuphant-primal-spirit.html"
                       >Fortuphant Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    + Corriander /
-                    <a
+                    ><span> / </span>Corriander<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/flat-cabbage.html"
                       >Flat Cabbage</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/watermelon.html"
                       >Watermelon</a
@@ -137,28 +131,25 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/grizzly-primal-spirit.html"
                       >Grizzly Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/grizzly-primal-spirit.html"
                       >Grizzly Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Red Hot Sauce / Cucumber Sauce / Fruit Sauce + Corriander
-                    /
-                    <a
+                    ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
+                    Sauce<span> / </span>Fruit Sauce<span> / </span
+                    >Corriander<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/flat-cabbage.html"
                       >Flat Cabbage</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/watermelon.html"
                       >Watermelon</a
@@ -185,56 +176,48 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                       >Spirit Fox Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                       >Spirit Fox Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-heart.html"
                       >Beast Heart</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-liver.html"
                       >Beast Liver</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    >
-                    / Beast Insentines /
-                    <a
+                    ><span> / </span>Beast Insentines<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/kidney.html"
                       >Kidney</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hoof-sinew.html"
                       >Hoof Sinew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chunk-of-fat.html"
                       >Chunk Of Fat</a
-                    >
-                    + Corriander Powder / Five Spice Sauce
+                    ><span> / </span>Corriander Powder<span> / </span>Five Spice
+                    Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -257,27 +240,24 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bone-sheep-primal-spirit.html"
                       >Bone Sheep Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bone-sheep-primal-spirit.html"
                       >Bone Sheep Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Corriander Powder / Five Spice Sauce + Corriander /
-                    <a
+                    ><span> / </span>Corriander Powder<span> / </span>Five Spice
+                    Sauce<span> / </span>Corriander<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/flat-cabbage.html"
                       >Flat Cabbage</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/watermelon.html"
                       >Watermelon</a
@@ -304,20 +284,19 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/flamebug-primal-spirit.html"
                       >Flamebug Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/flamebug-primal-spirit.html"
                       >Flamebug Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Any Meat + Red Hot Sauce / Cucumber Sauce / Fruit Sauce
+                    ><span> / </span>Any Meat<span> / </span>Red Hot Sauce<span>
+                      / </span
+                    >Cucumber Sauce<span> / </span>Fruit Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -344,21 +323,19 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/icebug-primal-spirit.html"
                       >Icebug Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/icebug-primal-spirit.html"
                       >Icebug Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Red Hot Sauce / Cucumber Sauce / Fruit Sauce + Orange
-                    Grade Fish
+                    ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
+                    Sauce<span> / </span>Fruit Sauce<span> / </span>Orange Grade
+                    Fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

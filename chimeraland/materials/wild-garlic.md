@@ -86,14 +86,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/wolfspider-meat.html"
                       >Wolfspider Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    >
-                    + Garlic Powder
+                    ><span> / </span>Garlic Powder
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -108,14 +106,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder +
-                    <a
+                    Garlic Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a
@@ -134,14 +131,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder +
-                    <a
+                    Garlic Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/scorab-meat.html"
                       >Scorab Meat</a
@@ -160,14 +156,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder +
-                    <a
+                    Garlic Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beetlefly-meat.html"
                       >Beetlefly Meat</a
@@ -194,8 +189,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    >
-                    + Any Wild Fruit
+                    ><span> / </span>Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -218,8 +212,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    >
-                    + Fruit &amp; Veggie Paste
+                    ><span> / </span>Fruit &amp; Veggie Paste
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -238,8 +231,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    >
-                    + Veggie Paste
+                    ><span> / </span>Veggie Paste
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -262,8 +254,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    >
-                    + Dew or Ice Piece + Any Meat
+                    ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -290,8 +281,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    >
-                    + Garlic Powder + Any Lv.2, Lv.3 and Lv.4 Crop
+                    ><span> / </span>Garlic Powder<span> / </span>Any Lv.2, Lv.3
+                    and Lv.4 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

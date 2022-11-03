@@ -94,20 +94,19 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/flamebug-primal-spirit.html"
                       >Flamebug Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/flamebug-primal-spirit.html"
                       >Flamebug Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Any Meat + Red Hot Sauce / Cucumber Sauce / Fruit Sauce
+                    ><span> / </span>Any Meat<span> / </span>Red Hot Sauce<span>
+                      / </span
+                    >Cucumber Sauce<span> / </span>Fruit Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

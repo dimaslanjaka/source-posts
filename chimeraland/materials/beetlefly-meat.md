@@ -75,14 +75,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil +
-                    <a
+                    Peanut Oil<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beetlefly-meat.html"
                       >Beetlefly Meat</a
-                    >
-                    + Any High Quality Seasoning + Any Mixed Sauce + Any Mixed
-                    Sauce
+                    ><span> / </span>Any High Quality Seasoning<span> / </span
+                    >Any Mixed Sauce<span> / </span>Any Mixed Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -105,14 +104,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/wolfspider-meat.html"
                       >Wolfspider Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    >
-                    + Garlic Powder
+                    ><span> / </span>Garlic Powder
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -127,14 +124,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder +
-                    <a
+                    Garlic Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a
@@ -153,14 +149,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder +
-                    <a
+                    Garlic Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/scorab-meat.html"
                       >Scorab Meat</a
@@ -179,14 +174,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder +
-                    <a
+                    Garlic Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beetlefly-meat.html"
                       >Beetlefly Meat</a
@@ -213,8 +207,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beetlefly-meat.html"
                       >Beetlefly Meat</a
-                    >
-                    + Any Meat + Any Sweet Sauce + Peanut Oil
+                    ><span> / </span>Any Meat<span> / </span>Any Sweet
+                    Sauce<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

@@ -85,20 +85,18 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hoof-sinew.html"
                       >Hoof Sinew</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bird-wing.html"
                       >Bird Wing</a
-                    >
-                    + Coriander Powder + Any Mushroom
+                    ><span> / </span>Coriander Powder<span> / </span>Any
+                    Mushroom
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -121,8 +119,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bird-wing.html"
                       >Bird Wing</a
-                    >
-                    + Any Seasoning / Any Spice / Any High Quality Seasoning
+                    ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
+                      / </span
+                    >Any High Quality Seasoning
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -145,39 +144,33 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/nirvana-feather.html"
                       >Nirvana Feather</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/nirvana-feather.html"
                       >Nirvana Feather</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bird-wing.html"
                       >Bird Wing</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bird-wing.html"
                       >Bird Wing</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bear-paw.html"
                       >Bear Paw</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a

@@ -86,26 +86,22 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/ancient-bone.html"
                       >Ancient Bone</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ancient-bone.html"
                       >Ancient Bone</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Any Mixed Sauce +
-                    <a
+                    ><span> / </span>Any Mixed Sauce<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    >
-                    / Any Lv.3 Crops
+                    ><span> / </span>Any Lv.3 Crops
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

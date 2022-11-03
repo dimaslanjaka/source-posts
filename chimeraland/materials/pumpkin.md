@@ -75,19 +75,17 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil +
-                    <a
+                    Peanut Oil<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/grouguana-meat.html"
                       >Grouguana Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/pumpkin.html"
                       >Pumpkin</a
-                    >
-                    + Any Flower / Any Mutant Flower
+                    ><span> / </span>Any Flower<span> / </span>Any Mutant Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -110,9 +108,11 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/pumpkin.html"
                       >Pumpkin</a
-                    >
-                    + Any Lv.6 Crop + Any Meat + Any Meat + Any Lv.3 Crop / Any
-                    Lv.4 Crop / Any Lv.5 Crop / Any Lv.6 Crop
+                    ><span> / </span>Any Lv.6 Crop<span> / </span>Any Meat<span>
+                      / </span
+                    >Any Meat<span> / </span>Any Lv.3 Crop<span> / </span>Any
+                    Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any
+                    Lv.6 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

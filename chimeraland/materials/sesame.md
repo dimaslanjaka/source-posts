@@ -69,14 +69,14 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil +
-                    <a
+                    Peanut Oil<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/sesame.html"
                       >Sesame</a
-                    >
-                    + Any Seasoning / Any Spice / Any Sweet Sauce / Any Spicy
-                    Sauce
+                    ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
+                      / </span
+                    >Any Sweet Sauce<span> / </span>Any Spicy Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

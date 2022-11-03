@@ -87,14 +87,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/orchid.html"
                       >Orchid</a
-                    >
-                    + Any Seasoning / Any Spice
+                    ><span> / </span>Any Seasoning<span> / </span>Any Spice
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -117,20 +115,17 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/orchid.html"
                       >Orchid</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    + Any Wild Fruit
+                    ><span> / </span>Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -153,21 +148,19 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bear-paw.html"
                       >Bear Paw</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/orchid.html"
                       >Orchid</a
-                    >
-                    + Five Spice Powder + Any Wild Fruit +
-                    <a
+                    ><span> / </span>Five Spice Powder<span> / </span>Any Wild
+                    Fruit<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
@@ -190,27 +183,23 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bear-paw.html"
                       >Bear Paw</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/orchid.html"
                       >Orchid</a
-                    >
-                    + Five Spice Powder +
-                    <a
+                    ><span> / </span>Five Spice Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a

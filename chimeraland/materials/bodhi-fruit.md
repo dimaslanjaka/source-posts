@@ -93,8 +93,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bodhi-fruit.html"
                       >Bodhi Fruit</a
-                    >
-                    + Any Wild Fruit
+                    ><span> / </span>Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -117,14 +116,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bodhi-fruit.html"
                       >Bodhi Fruit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    + Any Meat
+                    ><span> / </span>Any Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -147,9 +144,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bodhi-fruit.html"
                       >Bodhi Fruit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
@@ -176,9 +172,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bodhi-fruit.html"
                       >Bodhi Fruit</a

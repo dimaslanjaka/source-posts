@@ -73,8 +73,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/grizzly-meat.html"
                       >Grizzly Meat</a
-                    >
-                    + Peanut Oil + Any Sweet Sauce + Any Sweet Sauce
+                    ><span> / </span>Peanut Oil<span> / </span>Any Sweet
+                    Sauce<span> / </span>Any Sweet Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -97,8 +97,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/scorab-meat.html"
                       >Scorab Meat</a
-                    >
-                    + Any Mixed Sauce + Any High Quality Seasoning + Peanut Oil
+                    ><span> / </span>Any Mixed Sauce<span> / </span>Any High
+                    Quality Seasoning<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -117,13 +117,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil +
-                    <a
+                    Peanut Oil<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bok-choy.html"
                       >Bok Choy</a
-                    >
-                    + Any Lv.6 Crop + Any High Quality Seasoning + Any Meat
+                    ><span> / </span>Any Lv.6 Crop<span> / </span>Any High
+                    Quality Seasoning<span> / </span>Any Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -146,19 +146,17 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil +
-                    <a
+                    Peanut Oil<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/grouguana-meat.html"
                       >Grouguana Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/pumpkin.html"
                       >Pumpkin</a
-                    >
-                    + Any Flower / Any Mutant Flower
+                    ><span> / </span>Any Flower<span> / </span>Any Mutant Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -181,8 +179,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/watermelon.html"
                       >Watermelon</a
-                    >
-                    + Egg White + Peanut Oil
+                    ><span> / </span>Egg White<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -201,8 +198,9 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil + Any High Quality Seasoning + Red grade Fish +
-                    Peanut Oil
+                    Peanut Oil<span> / </span>Any High Quality Seasoning<span>
+                      / </span
+                    >Red grade Fish<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -225,9 +223,10 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-intestines.html"
                       >Beast Intestines</a
-                    >
-                    + Any Lv.4 Crop / Any Lv.5 Crop / Any Lv.6 Crop / Any Flower
-                    / Any Mutant Flower + Peanut Oil
+                    ><span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5
+                    Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
+                    Flower<span> / </span>Any Mutant Flower<span> / </span
+                    >Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -246,9 +245,10 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/kidney.html"
                       >Kidney</a
-                    >
-                    + Peanut Oil + Any Lv.4 Crop / Any Lv.5 Crop / Any Lv.6 Crop
-                    / Any Flower / Any Mutant Flower
+                    ><span> / </span>Peanut Oil<span> / </span>Any Lv.4
+                    Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
+                    Crop<span> / </span>Any Flower<span> / </span>Any Mutant
+                    Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -267,14 +267,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil +
-                    <a
+                    Peanut Oil<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beetlefly-meat.html"
                       >Beetlefly Meat</a
-                    >
-                    + Any High Quality Seasoning + Any Mixed Sauce + Any Mixed
-                    Sauce
+                    ><span> / </span>Any High Quality Seasoning<span> / </span
+                    >Any Mixed Sauce<span> / </span>Any Mixed Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -293,8 +292,10 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Any Wild Fruit + Any Mixed Sauce + Any Mixed Sauce + Orange
-                    grade fish / Red grade fish + Peanut Oil
+                    Any Wild Fruit<span> / </span>Any Mixed Sauce<span> / </span
+                    >Any Mixed Sauce<span> / </span>Orange grade fish<span>
+                      / </span
+                    >Red grade fish<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -313,7 +314,8 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Any Meat + Any Wild Fruit + Any Sweet Sauce + Peanut Oil
+                    Any Meat<span> / </span>Any Wild Fruit<span> / </span>Any
+                    Sweet Sauce<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -336,8 +338,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/scallion.html"
                       >Scallion</a
-                    >
-                    + Any Meat + Peanut Oil
+                    ><span> / </span>Any Meat<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -356,19 +357,17 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil +
-                    <a
+                    Peanut Oil<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/prowler-meat.html"
                       >Prowler Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/prowler-meat.html"
                       >Prowler Meat</a
-                    >
-                    + Any Seasoning
+                    ><span> / </span>Any Seasoning
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -391,14 +390,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/condor-meat.html"
                       >Condor Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/condor-meat.html"
                       >Condor Meat</a
-                    >
-                    + Any Sweet Sauce + Peanut Oil
+                    ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -417,14 +414,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/vulture-meat.html"
                       >Vulture Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/vulture-meat.html"
                       >Vulture Meat</a
-                    >
-                    + Any Sweet Sauce + Peanut Oil
+                    ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -443,14 +438,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/vuldo-meat.html"
                       >Vuldo Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/vuldo-meat.html"
                       >Vuldo Meat</a
-                    >
-                    + Any Sweet Sauce + Peanut Oil
+                    ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -473,8 +466,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beetlefly-meat.html"
                       >Beetlefly Meat</a
-                    >
-                    + Any Meat + Any Sweet Sauce + Peanut Oil
+                    ><span> / </span>Any Meat<span> / </span>Any Sweet
+                    Sauce<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -492,7 +485,7 @@ categories:
               <h2 class="card-title fs-5">Recipe Hot Oil 1</h2>
               <div class="card-text">
                 <ul>
-                  <li>Peanut Oil + Peanut Oil</li>
+                  <li>Peanut Oil<span> / </span>Peanut Oil</li>
                   <li>Device: Stove or Camp</li>
                 </ul>
               </div>
@@ -510,9 +503,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/chunk-of-fat.html"
                       >Chunk of Fat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chunk-of-fat.html"
                       >Chunk of Fat</a
@@ -535,8 +527,9 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Job&#x27;s Tears Powder + Job&#x27;s Tears Powder + Any Lv.6
-                    Crop + Any Meat + Peanut Oil
+                    Job&#x27;s Tears Powder<span> / </span>Job&#x27;s Tears
+                    Powder<span> / </span>Any Lv.6 Crop<span> / </span>Any
+                    Meat<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -559,14 +552,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    / ce Piece + Any Meat
+                    ><span> / </span>ce Piece<span> / </span>Any Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -589,15 +580,15 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/gourd.html"
                       >Gourd</a
-                    >
-                    + Dew or Ice Piece + Any Lv.4 Crop / Any Lv.5 Crop / Any
-                    Lv.6 Crop / Any Flower / Any Mutant Flower
+                    ><span> / </span>Dew or Ice Piece<span> / </span>Any Lv.4
+                    Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
+                    Crop<span> / </span>Any Flower<span> / </span>Any Mutant
+                    Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -616,26 +607,23 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/gourd.html"
                       >Gourd</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    + Cantaloupe / Mutant Flower / Equonix Flower / Lv6
+                    ><span> / </span>Cantaloupe<span> / </span>Mutant
+                    Flower<span> / </span>Equonix Flower<span> / </span>Lv6
                     Vegetable
                   </li>
                   <li>Device: Stove or Camp</li>
@@ -655,14 +643,14 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil +
-                    <a
+                    Peanut Oil<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    >
-                    + Dew or Ice Piece + Any Meat + Any Lv.4 Crop / Any Lv.5
-                    Crop / Any Lv.6 Crop
+                    ><span> / </span>Dew or Ice Piece<span> / </span>Any
+                    Meat<span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5
+                    Crop<span> / </span>Any Lv.6 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -681,14 +669,14 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil +
-                    <a
+                    Peanut Oil<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/sesame.html"
                       >Sesame</a
-                    >
-                    + Any Seasoning / Any Spice / Any Sweet Sauce / Any Spicy
-                    Sauce
+                    ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
+                      / </span
+                    >Any Sweet Sauce<span> / </span>Any Spicy Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -706,7 +694,10 @@ categories:
               <h2 class="card-title fs-5">Recipe Soy-Braised Pork 1</h2>
               <div class="card-text">
                 <ul>
-                  <li>Peanut Oil + Spicy Powder + Any Wild Fruit + Any Meat</li>
+                  <li>
+                    Peanut Oil<span> / </span>Spicy Powder<span> / </span>Any
+                    Wild Fruit<span> / </span>Any Meat
+                  </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
               </div>
@@ -724,8 +715,10 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil + Any Spicy Sauce + Blue grade fish / Purple
-                    grade fish / Orange grade fish / Red grade fish
+                    Peanut Oil<span> / </span>Any Spicy Sauce<span> / </span
+                    >Blue grade fish<span> / </span>Purple grade fish<span>
+                      / </span
+                    >Orange grade fish<span> / </span>Red grade fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -743,7 +736,10 @@ categories:
               <h2 class="card-title fs-5">Recipe Spicy Smoked Meat 1</h2>
               <div class="card-text">
                 <ul>
-                  <li>Any Meat + Peanut Oil + Spicy Powder</li>
+                  <li>
+                    Any Meat<span> / </span>Peanut Oil<span> / </span>Spicy
+                    Powder
+                  </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
               </div>
@@ -765,15 +761,13 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a
-                    >
-                    + Dew or Ice Piece + Any Seasoning / Any High Quality
-                    Seasoning
+                    ><span> / </span>Dew or Ice Piece<span> / </span>Any
+                    Seasoning<span> / </span>Any High Quality Seasoning
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -792,26 +786,23 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    + Garlic Powder / Job&#x27;s Tears Powder
+                    ><span> / </span>Garlic Powder<span> / </span>Job&#x27;s
+                    Tears Powder
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -830,9 +821,12 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Egg White + Peanut Oil + Fruit &amp; Veggie Paste + Any Lv.3
-                    Crop / Any Lv.4 Crop / Any Lv.5 Crop / Any Lv.6 Crop / Any
-                    Flower / Any Mutant Flower
+                    Egg White<span> / </span>Peanut Oil<span> / </span>Fruit
+                    &amp; Veggie Paste<span> / </span>Any Lv.3 Crop<span>
+                      / </span
+                    >Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span
+                    >Any Lv.6 Crop<span> / </span>Any Flower<span> / </span>Any
+                    Mutant Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -855,9 +849,10 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    >
-                    + Any Lv.4 Crop / Any Lv.5 Crop / Any Lv.6 Crop / Any Flower
-                    / Any Mutant Flower / Peanut Oil
+                    ><span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5
+                    Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
+                    Flower<span> / </span>Any Mutant Flower
+                    <span> / </span> Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -880,15 +875,13 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a
@@ -915,8 +908,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/moose-meat.html"
                       >Moose Meat</a
-                    >
-                    + Peanut Oil + Any Sweet Sauce + Any Spicy Sauce / Any Spice
+                    ><span> / </span>Peanut Oil<span> / </span>Any Sweet
+                    Sauce<span> / </span>Any Spicy Sauce<span> / </span>Any
+                    Spice
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -935,8 +929,11 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil + Job&#x27;s Tears Powder + Any Wild Fruit +
-                    Purple grade fish / Orange grade fish / Red grade fish
+                    Peanut Oil<span> / </span>Job&#x27;s Tears Powder<span>
+                      / </span
+                    >Any Wild Fruit<span> / </span>Purple grade fish<span>
+                      / </span
+                    >Orange grade fish<span> / </span>Red grade fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -951,13 +948,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil + Job&#x27;s Tear Powder +
-                    <a
+                    Peanut Oil<span> / </span>Job&#x27;s Tear Powder<span>
+                      / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
-                    >
-                    + Any Purple Fish
+                    ><span> / </span>Any Purple Fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -976,9 +973,12 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Fruit &amp; Veggie Paste + Peanut Oil + Fruit &amp; Veggie
-                    Paste + Any Lv.5 Crop / Any Lv.6 Crop +
-                    <a
+                    Fruit &amp; Veggie Paste<span> / </span>Peanut Oil<span>
+                      / </span
+                    >Fruit &amp; Veggie Paste<span> / </span>Any Lv.5 Crop<span>
+                      / </span
+                    >Any Lv.6 Crop<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
@@ -1001,7 +1001,8 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Egg White + Peanut Oil + Veggie Paste + Equinox Flower
+                    Egg White<span> / </span>Peanut Oil<span> / </span>Veggie
+                    Paste<span> / </span>Equinox Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -1019,7 +1020,10 @@ categories:
               <h2 class="card-title fs-5">Recipe Fried Tenderloin 1</h2>
               <div class="card-text">
                 <ul>
-                  <li>Peanut Oil + Fruit Sauce + Any Meat + Equinox Flower</li>
+                  <li>
+                    Peanut Oil<span> / </span>Fruit Sauce<span> / </span>Any
+                    Meat<span> / </span>Equinox Flower
+                  </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
               </div>
@@ -1033,8 +1037,9 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil + Any Mixed Sauce + Any Meat + Any Flower / Any
-                    Mutant Flower
+                    Peanut Oil<span> / </span>Any Mixed Sauce<span> / </span>Any
+                    Meat<span> / </span>Any Flower<span> / </span>Any Mutant
+                    Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

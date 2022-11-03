@@ -89,26 +89,22 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/spirit-fox-fur.html"
                       >Spirit Fox Fur</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/spirit-fox-fur.html"
                       >Spirit Fox Fur</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Spicy Powder +
-                    <a
+                    ><span> / </span>Spicy Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    >
-                    / Any Lv.3 Crops
+                    ><span> / </span>Any Lv.3 Crops
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -131,20 +127,18 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/red-and-white-beak.html"
                       >Red And White Beak</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/red-and-white-beak.html"
                       >Red And White Beak</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Any Mixed Sauce + Any Blue Grade Fish
+                    ><span> / </span>Any Mixed Sauce<span> / </span>Any Blue
+                    Grade Fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -167,20 +161,18 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/fine-jade-liquid.html"
                       >Fine Jade Liquid</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/fine-jade-liquid.html"
                       >Fine Jade Liquid</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Any Mixed Sauce + Any Blue Grade Fish
+                    ><span> / </span>Any Mixed Sauce<span> / </span>Any Blue
+                    Grade Fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -203,26 +195,22 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/ancient-bone.html"
                       >Ancient Bone</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ancient-bone.html"
                       >Ancient Bone</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Any Mixed Sauce +
-                    <a
+                    ><span> / </span>Any Mixed Sauce<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    >
-                    / Any Lv.3 Crops
+                    ><span> / </span>Any Lv.3 Crops
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -245,26 +233,22 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/stoatle-shell.html"
                       >Stoatle Shell</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/stoatle-shell.html"
                       >Stoatle Shell</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Scallion Powder +
-                    <a
+                    ><span> / </span>Scallion Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    >
-                    / Any Lv.3 Crops
+                    ><span> / </span>Any Lv.3 Crops
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -287,39 +271,33 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/nirvana-feather.html"
                       >Nirvana Feather</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/nirvana-feather.html"
                       >Nirvana Feather</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bird-wing.html"
                       >Bird Wing</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bird-wing.html"
                       >Bird Wing</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bear-paw.html"
                       >Bear Paw</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a
@@ -346,26 +324,23 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/magnificent-horn.html"
                       >Magnificent Horn</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/magnificent-horn.html"
                       >Magnificent Horn</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Spicy Pepper Sauce / Garlic Sauce +
-                    <a
+                    ><span> / </span>Spicy Pepper Sauce<span> / </span>Garlic
+                    Sauce<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    >
-                    / Any Lv.3 Crops
+                    ><span> / </span>Any Lv.3 Crops
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -388,39 +363,33 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/fortuphant-primal-spirit.html"
                       >Fortuphant Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/fortuphant-primal-spirit.html"
                       >Fortuphant Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    + Corriander /
-                    <a
+                    ><span> / </span>Corriander<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/flat-cabbage.html"
                       >Flat Cabbage</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/watermelon.html"
                       >Watermelon</a
@@ -447,28 +416,25 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/grizzly-primal-spirit.html"
                       >Grizzly Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/grizzly-primal-spirit.html"
                       >Grizzly Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Red Hot Sauce / Cucumber Sauce / Fruit Sauce + Corriander
-                    /
-                    <a
+                    ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
+                    Sauce<span> / </span>Fruit Sauce<span> / </span
+                    >Corriander<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/flat-cabbage.html"
                       >Flat Cabbage</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/watermelon.html"
                       >Watermelon</a
@@ -495,56 +461,48 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                       >Spirit Fox Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                       >Spirit Fox Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-heart.html"
                       >Beast Heart</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-liver.html"
                       >Beast Liver</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    >
-                    / Beast Insentines /
-                    <a
+                    ><span> / </span>Beast Insentines<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/kidney.html"
                       >Kidney</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hoof-sinew.html"
                       >Hoof Sinew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chunk-of-fat.html"
                       >Chunk Of Fat</a
-                    >
-                    + Corriander Powder / Five Spice Sauce
+                    ><span> / </span>Corriander Powder<span> / </span>Five Spice
+                    Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -567,27 +525,24 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bone-sheep-primal-spirit.html"
                       >Bone Sheep Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bone-sheep-primal-spirit.html"
                       >Bone Sheep Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Corriander Powder / Five Spice Sauce + Corriander /
-                    <a
+                    ><span> / </span>Corriander Powder<span> / </span>Five Spice
+                    Sauce<span> / </span>Corriander<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/flat-cabbage.html"
                       >Flat Cabbage</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/watermelon.html"
                       >Watermelon</a
@@ -614,20 +569,19 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/flamebug-primal-spirit.html"
                       >Flamebug Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/flamebug-primal-spirit.html"
                       >Flamebug Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Any Meat + Red Hot Sauce / Cucumber Sauce / Fruit Sauce
+                    ><span> / </span>Any Meat<span> / </span>Red Hot Sauce<span>
+                      / </span
+                    >Cucumber Sauce<span> / </span>Fruit Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -654,21 +608,19 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/icebug-primal-spirit.html"
                       >Icebug Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/icebug-primal-spirit.html"
                       >Icebug Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Red Hot Sauce / Cucumber Sauce / Fruit Sauce + Orange
-                    Grade Fish
+                    ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
+                    Sauce<span> / </span>Fruit Sauce<span> / </span>Orange Grade
+                    Fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

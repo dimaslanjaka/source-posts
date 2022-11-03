@@ -75,19 +75,17 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil +
-                    <a
+                    Peanut Oil<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/prowler-meat.html"
                       >Prowler Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/prowler-meat.html"
                       >Prowler Meat</a
-                    >
-                    + Any Seasoning
+                    ><span> / </span>Any Seasoning
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

@@ -75,8 +75,9 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder + Job&#x27;s Tears Powder +
-                    <a
+                    Garlic Powder<span> / </span>Job&#x27;s Tears Powder<span>
+                      / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bosalo-meat.html"
                       >Bosalo Meat</a

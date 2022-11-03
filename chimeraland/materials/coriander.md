@@ -78,20 +78,18 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hoof-sinew.html"
                       >Hoof Sinew</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bird-wing.html"
                       >Bird Wing</a
-                    >
-                    + Coriander Powder + Any Mushroom
+                    ><span> / </span>Coriander Powder<span> / </span>Any
+                    Mushroom
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -110,13 +108,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Job&#x27;s Tears Powder +
-                    <a
+                    Job&#x27;s Tears Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/coriander.html"
                       >Coriander</a
-                    >
-                    + Any Meat + Any Lv.5 or Lv.6 Crop
+                    ><span> / </span>Any Meat<span> / </span>Any Lv.5 or Lv.6
+                    Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -134,7 +132,10 @@ categories:
               <h2 class="card-title fs-5">Recipe Strange Meat Skewers 1</h2>
               <div class="card-text">
                 <ul>
-                  <li>Any Meat + Any Meat + Coriander Powder</li>
+                  <li>
+                    Any Meat<span> / </span>Any Meat<span> / </span>Coriander
+                    Powder
+                  </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
               </div>

@@ -92,20 +92,18 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/fine-jade-liquid.html"
                       >Fine Jade Liquid</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/fine-jade-liquid.html"
                       >Fine Jade Liquid</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Any Mixed Sauce + Any Blue Grade Fish
+                    ><span> / </span>Any Mixed Sauce<span> / </span>Any Blue
+                    Grade Fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

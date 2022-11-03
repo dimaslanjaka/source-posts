@@ -79,14 +79,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/condor-meat.html"
                       >Condor Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/condor-meat.html"
                       >Condor Meat</a
-                    >
-                    + Any Sweet Sauce + Peanut Oil
+                    ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -105,14 +103,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/vulture-meat.html"
                       >Vulture Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/vulture-meat.html"
                       >Vulture Meat</a
-                    >
-                    + Any Sweet Sauce + Peanut Oil
+                    ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -131,14 +127,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/vuldo-meat.html"
                       >Vuldo Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/vuldo-meat.html"
                       >Vuldo Meat</a
-                    >
-                    + Any Sweet Sauce + Peanut Oil
+                    ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

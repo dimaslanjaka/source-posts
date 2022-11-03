@@ -73,27 +73,24 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/tomato.html"
                       >Tomato</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    + Any Lv.6 Crop + Any Mixed Sauce +
-                    <a
+                    ><span> / </span>Any Lv.6 Crop<span> / </span>Any Mixed
+                    Sauce<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
@@ -120,13 +117,12 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Egg White +
-                    <a
+                    Egg White<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/tomato.html"
                       >Tomato</a
-                    >
-                    + Any Lv.3 Crop / Any Lv.4 Crop
+                    ><span> / </span>Any Lv.3 Crop<span> / </span>Any Lv.4 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

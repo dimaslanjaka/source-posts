@@ -84,8 +84,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
-                    >
-                    + Any Wild Fruit
+                    ><span> / </span>Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -127,9 +126,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
@@ -156,14 +154,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
-                    >
-                    + Any Wild Fruit
+                    ><span> / </span>Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -186,21 +182,19 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bear-paw.html"
                       >Bear Paw</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/orchid.html"
                       >Orchid</a
-                    >
-                    + Five Spice Powder + Any Wild Fruit +
-                    <a
+                    ><span> / </span>Five Spice Powder<span> / </span>Any Wild
+                    Fruit<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
@@ -223,27 +217,23 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bear-paw.html"
                       >Bear Paw</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/orchid.html"
                       >Orchid</a
-                    >
-                    + Five Spice Powder +
-                    <a
+                    ><span> / </span>Five Spice Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
@@ -266,8 +256,11 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil + Job&#x27;s Tears Powder + Any Wild Fruit +
-                    Purple grade fish / Orange grade fish / Red grade fish
+                    Peanut Oil<span> / </span>Job&#x27;s Tears Powder<span>
+                      / </span
+                    >Any Wild Fruit<span> / </span>Purple grade fish<span>
+                      / </span
+                    >Orange grade fish<span> / </span>Red grade fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -282,13 +275,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil + Job&#x27;s Tear Powder +
-                    <a
+                    Peanut Oil<span> / </span>Job&#x27;s Tear Powder<span>
+                      / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
-                    >
-                    + Any Purple Fish
+                    ><span> / </span>Any Purple Fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -336,9 +329,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/sea-buckthorn.html"
                       >Sea-Buckthorn</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a

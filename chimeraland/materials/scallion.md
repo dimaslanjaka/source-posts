@@ -75,8 +75,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/scallion.html"
                       >Scallion</a
-                    >
-                    + Any Meat + Peanut Oil
+                    ><span> / </span>Any Meat<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -94,7 +93,7 @@ categories:
               <h2 class="card-title fs-5">Recipe Scallion Meat Skewers 1</h2>
               <div class="card-text">
                 <ul>
-                  <li>Scallion Powder + Any Meat</li>
+                  <li>Scallion Powder<span> / </span>Any Meat</li>
                   <li>Device: Stove or Camp</li>
                 </ul>
               </div>
@@ -116,26 +115,22 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/stoatle-shell.html"
                       >Stoatle Shell</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/stoatle-shell.html"
                       >Stoatle Shell</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Scallion Powder +
-                    <a
+                    ><span> / </span>Scallion Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    >
-                    / Any Lv.3 Crops
+                    ><span> / </span>Any Lv.3 Crops
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

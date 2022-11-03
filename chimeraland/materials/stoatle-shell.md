@@ -87,26 +87,22 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/stoatle-shell.html"
                       >Stoatle Shell</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/stoatle-shell.html"
                       >Stoatle Shell</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Scallion Powder +
-                    <a
+                    ><span> / </span>Scallion Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    >
-                    / Any Lv.3 Crops
+                    ><span> / </span>Any Lv.3 Crops
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

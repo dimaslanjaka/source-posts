@@ -86,14 +86,14 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil +
-                    <a
+                    Peanut Oil<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    >
-                    + Dew or Ice Piece + Any Meat + Any Lv.4 Crop / Any Lv.5
-                    Crop / Any Lv.6 Crop
+                    ><span> / </span>Dew or Ice Piece<span> / </span>Any
+                    Meat<span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5
+                    Crop<span> / </span>Any Lv.6 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -116,14 +116,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
-                    >
-                    + Any Wild Fruit
+                    ><span> / </span>Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -146,8 +144,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    >
-                    + Any Wild Fruit
+                    ><span> / </span>Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -172,14 +169,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/red-goodfruit.html"
                       >Red Goodfruit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    >
-                    + Dew or Ice Piece + Any Meat
+                    ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -202,15 +197,13 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a
@@ -233,9 +226,12 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Fruit &amp; Veggie Paste + Peanut Oil + Fruit &amp; Veggie
-                    Paste + Any Lv.5 Crop / Any Lv.6 Crop +
-                    <a
+                    Fruit &amp; Veggie Paste<span> / </span>Peanut Oil<span>
+                      / </span
+                    >Fruit &amp; Veggie Paste<span> / </span>Any Lv.5 Crop<span>
+                      / </span
+                    >Any Lv.6 Crop<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a

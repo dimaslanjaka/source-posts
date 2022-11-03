@@ -81,15 +81,13 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
@@ -112,8 +110,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    >
-                    + Any Fish
+                    ><span> / </span>Any Fish
                   </li>
                   <li>Device: Camp II</li>
                 </ul>
@@ -132,8 +129,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    >
-                    + Any Grade Crop
+                    ><span> / </span>Any Grade Crop
                   </li>
                   <li>Device: Stove II</li>
                 </ul>
@@ -152,9 +148,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    >
-                    + Any High Quality Seasoning / Any Flower / Any Mutant
-                    Flower / Any Curio
+                    ><span> / </span>Any High Quality Seasoning<span> / </span
+                    >Any Flower<span> / </span>Any Mutant Flower<span> / </span
+                    >Any Curio
                   </li>
                   <li>Device: Stove II</li>
                 </ul>
@@ -226,15 +222,13 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a

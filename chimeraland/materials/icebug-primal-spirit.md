@@ -98,21 +98,19 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/icebug-primal-spirit.html"
                       >Icebug Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/icebug-primal-spirit.html"
                       >Icebug Primal Spirit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    >
-                    + Red Hot Sauce / Cucumber Sauce / Fruit Sauce + Orange
-                    Grade Fish
+                    ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
+                    Sauce<span> / </span>Fruit Sauce<span> / </span>Orange Grade
+                    Fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

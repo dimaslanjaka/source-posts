@@ -78,21 +78,18 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-liver.html"
                       >Beast Liver</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chunk-of-fat.html"
                       >Chunk of Fat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chunk-of-fat.html"
                       >Chunk of Fat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-liver.html"
                       >Beast Liver</a
@@ -114,7 +111,7 @@ categories:
               <h2 class="card-title fs-5">Recipe Hot Oil 1</h2>
               <div class="card-text">
                 <ul>
-                  <li>Peanut Oil + Peanut Oil</li>
+                  <li>Peanut Oil<span> / </span>Peanut Oil</li>
                   <li>Device: Stove or Camp</li>
                 </ul>
               </div>
@@ -132,9 +129,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/chunk-of-fat.html"
                       >Chunk of Fat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chunk-of-fat.html"
                       >Chunk of Fat</a

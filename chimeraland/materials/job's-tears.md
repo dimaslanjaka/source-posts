@@ -86,14 +86,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/cucumber.html"
                       >Cucumber</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/job&#x27;s-tears.html"
                       >Job&#x27;s Tears</a
-                    >
-                    + Any Wild Fruit
+                    ><span> / </span>Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -112,8 +110,9 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Job&#x27;s Tears Powder + Any Wild Fruit + Any Mutant Flower
-                    / Any Flower
+                    Job&#x27;s Tears Powder<span> / </span>Any Wild Fruit<span>
+                      / </span
+                    >Any Mutant Flower<span> / </span>Any Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -132,8 +131,10 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Job&#x27;s Tears Powder + Egg White + Any Lv.6 Crop + Any
-                    Meat + Any Meat
+                    Job&#x27;s Tears Powder<span> / </span>Egg White<span>
+                      / </span
+                    >Any Lv.6 Crop<span> / </span>Any Meat<span> / </span>Any
+                    Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -152,13 +153,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Job&#x27;s Tears Powder +
-                    <a
+                    Job&#x27;s Tears Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/coriander.html"
                       >Coriander</a
-                    >
-                    + Any Meat + Any Lv.5 or Lv.6 Crop
+                    ><span> / </span>Any Meat<span> / </span>Any Lv.5 or Lv.6
+                    Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -177,8 +178,10 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Job&#x27;s Tears Powder + Any Lv.1 Crop / Any Lv.2 Crop /
-                    Any Lv.3 Crop / Any Lv.4 Crop
+                    Job&#x27;s Tears Powder<span> / </span>Any Lv.1 Crop<span>
+                      / </span
+                    >Any Lv.2 Crop<span> / </span>Any Lv.3 Crop<span> / </span
+                    >Any Lv.4 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -197,8 +200,9 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder + Job&#x27;s Tears Powder +
-                    <a
+                    Garlic Powder<span> / </span>Job&#x27;s Tears Powder<span>
+                      / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bosalo-meat.html"
                       >Bosalo Meat</a
@@ -225,20 +229,17 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/job&#x27;s-tears.html"
                       >Job&#x27;s Tears</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    + Any Meat
+                    ><span> / </span>Any Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -263,15 +264,13 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/job&#x27;s-tears.html"
                       >Job&#x27;s Tears</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
@@ -298,8 +297,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/job&#x27;s-tears.html"
                       >Job&#x27;s Tears</a
-                    >
-                    + Any Wild Fruit
+                    ><span> / </span>Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -322,8 +320,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/job&#x27;s-tears.html"
                       >Job&#x27;s Tears</a
-                    >
-                    + Any Meat + Any Lv.4 Crop
+                    ><span> / </span>Any Meat<span> / </span>Any Lv.4 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -342,8 +339,10 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Any Meat + Any Meat + Any Meat + Any High Quality Seasoning
-                    + Job&#x27;s Tears Powder
+                    Any Meat<span> / </span>Any Meat<span> / </span>Any
+                    Meat<span> / </span>Any High Quality Seasoning<span>
+                      / </span
+                    >Job&#x27;s Tears Powder
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -362,8 +361,9 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Job&#x27;s Tears Powder + Job&#x27;s Tears Powder + Any Lv.6
-                    Crop + Any Meat + Peanut Oil
+                    Job&#x27;s Tears Powder<span> / </span>Job&#x27;s Tears
+                    Powder<span> / </span>Any Lv.6 Crop<span> / </span>Any
+                    Meat<span> / </span>Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -381,7 +381,11 @@ categories:
               <h2 class="card-title fs-5">Recipe Rice Patty 1</h2>
               <div class="card-text">
                 <ul>
-                  <li>Job&#x27;s Tears Powder + Any Meat + Lv.3 / 4 Crop</li>
+                  <li>
+                    Job&#x27;s Tears Powder<span> / </span>Any Meat<span>
+                      / </span
+                    >Lv.3<span> / </span>4 Crop
+                  </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
               </div>
@@ -403,20 +407,18 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/job&#x27;s-tears.html"
                       >Job&#x27;s Tears</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/job&#x27;s-tears.html"
                       >Job&#x27;s Tears</a
-                    >
-                    + Any High Quality Seasoning + Any Lv.6 Crop
+                    ><span> / </span>Any High Quality Seasoning<span> / </span
+                    >Any Lv.6 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -439,15 +441,13 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a
-                    >
-                    + Dew or Ice Piece + Any Seasoning / Any High Quality
-                    Seasoning
+                    ><span> / </span>Dew or Ice Piece<span> / </span>Any
+                    Seasoning<span> / </span>Any High Quality Seasoning
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -466,26 +466,23 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    + Garlic Powder / Job&#x27;s Tears Powder
+                    ><span> / </span>Garlic Powder<span> / </span>Job&#x27;s
+                    Tears Powder
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -504,8 +501,11 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil + Job&#x27;s Tears Powder + Any Wild Fruit +
-                    Purple grade fish / Orange grade fish / Red grade fish
+                    Peanut Oil<span> / </span>Job&#x27;s Tears Powder<span>
+                      / </span
+                    >Any Wild Fruit<span> / </span>Purple grade fish<span>
+                      / </span
+                    >Orange grade fish<span> / </span>Red grade fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -520,13 +520,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil + Job&#x27;s Tear Powder +
-                    <a
+                    Peanut Oil<span> / </span>Job&#x27;s Tear Powder<span>
+                      / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
-                    >
-                    + Any Purple Fish
+                    ><span> / </span>Any Purple Fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -549,9 +549,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/chives.html"
                       >Chives</a
-                    >
-                    + Job&#x27;s Tears Powder + Any Meat + Any Lv.6 Crop + Any
-                    Meat
+                    ><span> / </span>Job&#x27;s Tears Powder<span> / </span>Any
+                    Meat<span> / </span>Any Lv.6 Crop<span> / </span>Any Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -570,8 +569,10 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Job&#x27;s Tears Powder + Any Meat + Any Meat + Any Lv.4
-                    Crop / Any Lv.5 Crop / Any Lv.6 Crop
+                    Job&#x27;s Tears Powder<span> / </span>Any Meat<span>
+                      / </span
+                    >Any Meat<span> / </span>Any Lv.4 Crop<span> / </span>Any
+                    Lv.5 Crop<span> / </span>Any Lv.6 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -590,19 +591,18 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Job&#x27;s Tears Powder + Job&#x27;s Tears Powder +
-                    <a
+                    Job&#x27;s Tears Powder<span> / </span>Job&#x27;s Tears
+                    Powder<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    + Any Lv.6 Crop + Any Meat
+                    ><span> / </span>Any Lv.6 Crop<span> / </span>Any Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

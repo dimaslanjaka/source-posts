@@ -90,8 +90,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/red-goodfruit.html"
                       >Red Goodfruit</a
-                    >
-                    + Any Wild Fruit
+                    ><span> / </span>Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -114,9 +113,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/red-goodfruit.html"
                       >Red Goodfruit</a
@@ -145,14 +143,12 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/red-goodfruit.html"
                       >Red Goodfruit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    >
-                    + Dew or Ice Piece + Any Meat
+                    ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -175,15 +171,13 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/red-goodfruit.html"
                       >Red Goodfruit</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a

@@ -79,19 +79,17 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil +
-                    <a
+                    Peanut Oil<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/grouguana-meat.html"
                       >Grouguana Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/pumpkin.html"
                       >Pumpkin</a
-                    >
-                    + Any Flower / Any Mutant Flower
+                    ><span> / </span>Any Flower<span> / </span>Any Mutant Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

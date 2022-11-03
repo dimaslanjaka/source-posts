@@ -73,9 +73,10 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/gourd.html"
                       >Gourd</a
-                    >
-                    + Any Meat + Any Seasoning / Any Spice / Any Sweet Sauce /
-                    Any Spicy Sauce
+                    ><span> / </span>Any Meat<span> / </span>Any Seasoning<span>
+                      / </span
+                    >Any Spice<span> / </span>Any Sweet Sauce<span> / </span>Any
+                    Spicy Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -98,15 +99,15 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/gourd.html"
                       >Gourd</a
-                    >
-                    + Dew or Ice Piece + Any Lv.4 Crop / Any Lv.5 Crop / Any
-                    Lv.6 Crop / Any Flower / Any Mutant Flower
+                    ><span> / </span>Dew or Ice Piece<span> / </span>Any Lv.4
+                    Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
+                    Crop<span> / </span>Any Flower<span> / </span>Any Mutant
+                    Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -125,26 +126,23 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/gourd.html"
                       >Gourd</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    + Cantaloupe / Mutant Flower / Equonix Flower / Lv6
+                    ><span> / </span>Cantaloupe<span> / </span>Mutant
+                    Flower<span> / </span>Equonix Flower<span> / </span>Lv6
                     Vegetable
                   </li>
                   <li>Device: Stove or Camp</li>

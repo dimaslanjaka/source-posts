@@ -78,14 +78,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Any Meat +
-                    <a
+                    Any Meat<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/insect-ichor.html"
                       >Insect Ichor</a
@@ -112,15 +111,13 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
@@ -143,8 +140,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    >
-                    + Any Fish
+                    ><span> / </span>Any Fish
                   </li>
                   <li>Device: Camp II</li>
                 </ul>
@@ -163,8 +159,7 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    >
-                    + Any Grade Crop
+                    ><span> / </span>Any Grade Crop
                   </li>
                   <li>Device: Stove II</li>
                 </ul>
@@ -183,9 +178,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    >
-                    + Any High Quality Seasoning / Any Flower / Any Mutant
-                    Flower / Any Curio
+                    ><span> / </span>Any High Quality Seasoning<span> / </span
+                    >Any Flower<span> / </span>Any Mutant Flower<span> / </span
+                    >Any Curio
                   </li>
                   <li>Device: Stove II</li>
                 </ul>
@@ -240,27 +235,24 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    / Any Seasoning / Any Spice /
-                    <a
+                    ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
+                      / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/insect-ichor.html"
                       >Insect Ichor</a
@@ -283,20 +275,18 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Any Wild Fruit +
-                    <a
+                    Any Wild Fruit<span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/insect-ichor.html"
                       >Insect Ichor</a
@@ -319,14 +309,13 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    + Any Lv.1 Crop / Any Lv.2 Crop / Any Lv.3 Crop / Any Lv.4
+                    ><span> / </span>Any Lv.1 Crop<span> / </span>Any Lv.2
+                    Crop<span> / </span>Any Lv.3 Crop<span> / </span>Any Lv.4
                     Crop
                   </li>
                   <li>Device: Stove or Camp</li>
@@ -346,15 +335,15 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    >
-                    + Any Lv.1 Crop / Any Lv.2 Crop / Any Lv.3 Crop / Any Lv.4
-                    Crop / Any Mutant Flower / Any Flower
+                    ><span> / </span>Any Lv.1 Crop<span> / </span>Any Lv.2
+                    Crop<span> / </span>Any Lv.3 Crop<span> / </span>Any Lv.4
+                    Crop<span> / </span>Any Mutant Flower<span> / </span>Any
+                    Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -377,15 +366,13 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/insect-ichor.html"
                       >Insect Ichor</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    >
-                    /
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a

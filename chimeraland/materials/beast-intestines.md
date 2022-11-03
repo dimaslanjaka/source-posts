@@ -78,9 +78,10 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-intestines.html"
                       >Beast Intestines</a
-                    >
-                    + Any Lv.4 Crop / Any Lv.5 Crop / Any Lv.6 Crop / Any Flower
-                    / Any Mutant Flower + Peanut Oil
+                    ><span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5
+                    Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
+                    Flower<span> / </span>Any Mutant Flower<span> / </span
+                    >Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -99,9 +100,10 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/kidney.html"
                       >Kidney</a
-                    >
-                    + Peanut Oil + Any Lv.4 Crop / Any Lv.5 Crop / Any Lv.6 Crop
-                    / Any Flower / Any Mutant Flower
+                    ><span> / </span>Peanut Oil<span> / </span>Any Lv.4
+                    Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
+                    Crop<span> / </span>Any Flower<span> / </span>Any Mutant
+                    Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -124,9 +126,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-intestines.html"
                       >Beast Intestines</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-intestines.html"
                       >Beast Intestines</a

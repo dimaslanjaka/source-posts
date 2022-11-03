@@ -79,9 +79,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/moose-meat.html"
                       >Moose Meat</a
-                    >
-                    +
-                    <a
+                    ><span> / </span
+                    ><a
                       class="text-decoration-none"
                       href="/chimeraland/materials/moose-meat.html"
                       >Moose Meat</a
@@ -108,8 +107,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/moose-meat.html"
                       >Moose Meat</a
-                    >
-                    + Peanut Oil + Any Sweet Sauce + Any Spicy Sauce / Any Spice
+                    ><span> / </span>Peanut Oil<span> / </span>Any Sweet
+                    Sauce<span> / </span>Any Spicy Sauce<span> / </span>Any
+                    Spice
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
