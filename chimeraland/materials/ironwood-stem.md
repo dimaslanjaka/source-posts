@@ -26,7 +26,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Ironwood Stem</h3>
+      <h2 class="mb-0">Ironwood Stem</h2>
       <div class="mb-1 text-muted">October 6, 2022 2:26 AM</div>
       <div class="mb-2 border p-1">
         Ironwood Stalk. Cylindrical, unbranched, thick as well as firm.
@@ -48,7 +48,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Ironwood Stem</h2>
+          <h3 class="card-title">What is the use of the Ironwood Stem</h3>
           <div class="card-text">
             <ul>
               <li>
@@ -63,7 +63,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Ironwood Stem</h2>
+          <h3 class="card-title">How to get Ironwood Stem</h3>
           <div class="card-text">
             <ul>
               <li>Go to the Auction House to obtain</li>

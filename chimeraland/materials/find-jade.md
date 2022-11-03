@@ -27,7 +27,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Find Jade</h3>
+      <h2 class="mb-0">Find Jade</h2>
       <div class="mb-1 text-muted">September 29, 2022 6:26 PM</div>
       <div class="mb-2 border p-1">
         Half-bathed in light, half obscured in shadow, see the goblet
@@ -50,7 +50,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Find Jade</h2>
+          <h3 class="card-title">What is the use of the Find Jade</h3>
           <div class="card-text">
             <ul>
               <li>
@@ -65,7 +65,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Find Jade</h2>
+          <h3 class="card-title">How to get Find Jade</h3>
           <div class="card-text">
             <ul>
               <li>Mine Jadestone.</li>

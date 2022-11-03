@@ -27,7 +27,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Gold</h3>
+      <h2 class="mb-0">Gold</h2>
       <div class="mb-1 text-muted">September 29, 2022 12:26 PM</div>
       <div class="mb-2 border p-1">
         Nearly pure gold and more pure than red or lux gold. It&#x27;s stable,
@@ -45,7 +45,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Gold</h2>
+          <h3 class="card-title">What is the use of the Gold</h3>
           <div class="card-text">
             <ul>
               <li>
@@ -61,7 +61,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Gold</h2>
+          <h3 class="card-title">How to get Gold</h3>
           <div class="card-text">
             <ul>
               <li>Mine Gold Mine.</li>

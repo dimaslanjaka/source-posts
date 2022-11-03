@@ -26,7 +26,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Fleet Feather</h3>
+      <h2 class="mb-0">Fleet Feather</h2>
       <div class="mb-1 text-muted">October 3, 2022 12:26 AM</div>
       <a
         href="/chimeraland/materials/fleet-feather.html"
@@ -45,7 +45,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Fleet Feather</h2>
+          <h3 class="card-title">What is the use of the Fleet Feather</h3>
           <div class="card-text">
             <ul>
               <li>A specialty of the Centralmount mainland.</li>
@@ -57,7 +57,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Fleet Feather</h2>
+          <h3 class="card-title">How to get Fleet Feather</h3>
           <div class="card-text">
             <ul>
               <li>Go to the Auction House to obtain it.</li>

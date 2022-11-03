@@ -26,7 +26,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Hilsa Herring</h3>
+      <h2 class="mb-0">Hilsa Herring</h2>
       <div class="mb-1 text-muted">October 8, 2022 1:26 PM</div>
       <div class="mb-2 border p-1">
         A marine fish with green black. Its sides and belly are slivery-white.
@@ -50,7 +50,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Hilsa Herring</h2>
+          <h3 class="card-title">What is the use of the Hilsa Herring</h3>
           <div class="card-text"><ul></ul></div>
         </div>
       </div>
@@ -58,7 +58,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Hilsa Herring</h2>
+          <h3 class="card-title">How to get Hilsa Herring</h3>
           <div class="card-text">
             <ul>
               <li>Go to the Auction House to obtain it.</li>

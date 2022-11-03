@@ -26,7 +26,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Snow Goose Claw</h3>
+      <h2 class="mb-0">Snow Goose Claw</h2>
       <div class="mb-1 text-muted">October 1, 2022 8:26 PM</div>
       <div class="mb-2 border p-1">
         Condor Claw, no trace in the snow, can overcome the strong stone, wear
@@ -49,7 +49,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Snow Goose Claw</h2>
+          <h3 class="card-title">What is the use of the Snow Goose Claw</h3>
           <div class="card-text">
             <ul>
               <li>An extremely uncommon material used in advanced fusions.</li>
@@ -61,7 +61,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Snow Goose Claw</h2>
+          <h3 class="card-title">How to get Snow Goose Claw</h3>
           <div class="card-text">
             <ul>
               <li>Got to the Auction House to obtain it.</li>

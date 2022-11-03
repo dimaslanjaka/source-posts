@@ -27,7 +27,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Pale Jade</h3>
+      <h2 class="mb-0">Pale Jade</h2>
       <div class="mb-1 text-muted">September 29, 2022 3:26 AM</div>
       <div class="mb-2 border p-1">
         The color of jade s pale such as water, cool to the touch such as water,
@@ -50,7 +50,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Pale Jade</h2>
+          <h3 class="card-title">What is the use of the Pale Jade</h3>
           <div class="card-text">
             <ul>
               <li>
@@ -66,7 +66,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Pale Jade</h2>
+          <h3 class="card-title">How to get Pale Jade</h3>
           <div class="card-text">
             <ul>
               <li>To obtain this item, mine pale stone.</li>

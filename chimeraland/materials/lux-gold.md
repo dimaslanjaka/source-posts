@@ -26,7 +26,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Lux Gold</h3>
+      <h2 class="mb-0">Lux Gold</h2>
       <div class="mb-1 text-muted">September 29, 2022 3:26 PM</div>
       <div class="mb-2 border p-1">
         Gold that&#x27;s been mixed with white minerals, higher purity than red
@@ -46,7 +46,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Lux Gold</h2>
+          <h3 class="card-title">What is the use of the Lux Gold</h3>
           <div class="card-text">
             <ul>
               <li>
@@ -62,7 +62,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Lux Gold</h2>
+          <h3 class="card-title">How to get Lux Gold</h3>
           <div class="card-text">
             <ul>
               <li>Mine at Lux Gold Mine to get Lux Gold.</li>

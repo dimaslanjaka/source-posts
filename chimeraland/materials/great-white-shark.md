@@ -26,7 +26,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Great White Shark</h3>
+      <h2 class="mb-0">Great White Shark</h2>
       <div class="mb-1 text-muted">October 9, 2022 12:26 AM</div>
       <div class="mb-2 border p-1">
         A marine fish with a spindle-shaped body and stout torso. It head is
@@ -50,7 +50,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Great White Shark</h2>
+          <h3 class="card-title">What is the use of the Great White Shark</h3>
           <div class="card-text"><ul></ul></div>
         </div>
       </div>
@@ -58,7 +58,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Great White Shark</h2>
+          <h3 class="card-title">How to get Great White Shark</h3>
           <div class="card-text">
             <ul>
               <li>Go to the Auction House to obtain it.</li>

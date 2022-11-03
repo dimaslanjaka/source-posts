@@ -26,7 +26,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Fiber</h3>
+      <h2 class="mb-0">Fiber</h2>
       <div class="mb-1 text-muted">October 9, 2022 6:26 PM</div>
       <div class="mb-2 border p-1">
         Silk produced from a silk tree. Soft and smooth to the though as well as
@@ -44,7 +44,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Fiber</h2>
+          <h3 class="card-title">What is the use of the Fiber</h3>
           <div class="card-text"><ul></ul></div>
         </div>
       </div>
@@ -52,7 +52,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Fiber</h2>
+          <h3 class="card-title">How to get Fiber</h3>
           <div class="card-text">
             <ul>
               <li>Purchase Fiber from Grocer or Home Shop.</li>

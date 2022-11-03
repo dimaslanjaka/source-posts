@@ -26,7 +26,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Scorpion Claw</h3>
+      <h2 class="mb-0">Scorpion Claw</h2>
       <div class="mb-1 text-muted">October 3, 2022 8:26 AM</div>
       <div class="mb-2 border p-1">
         Scorab pincer, serrated, firm and sharp.
@@ -48,7 +48,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Scorpion Claw</h2>
+          <h3 class="card-title">What is the use of the Scorpion Claw</h3>
           <div class="card-text">
             <ul>
               <li>
@@ -62,7 +62,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Scorpion Claw</h2>
+          <h3 class="card-title">How to get Scorpion Claw</h3>
           <div class="card-text">
             <ul>
               <li>Go to the Auction House to obtain it.</li>

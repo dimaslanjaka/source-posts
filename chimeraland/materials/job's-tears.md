@@ -26,7 +26,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Job&#x27;s Tears</h3>
+      <h2 class="mb-0">Job&#x27;s Tears</h2>
       <div class="mb-1 text-muted">October 9, 2022 7:26 PM</div>
       <a
         href="/chimeraland/materials/job&#x27;s-tears.html"
@@ -45,7 +45,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Job&#x27;s Tears</h2>
+          <h3 class="card-title">What is the use of the Job&#x27;s Tears</h3>
           <div class="card-text">
             <ul>
               <li>
@@ -60,7 +60,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Job&#x27;s Tears</h2>
+          <h3 class="card-title">How to get Job&#x27;s Tears</h3>
           <div class="card-text">
             <ul>
               <li>Gather at the water&#x27;s edge to get Job&#x27;s Tears.</li>

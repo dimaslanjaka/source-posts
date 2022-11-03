@@ -26,7 +26,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Logs</h3>
+      <h2 class="mb-0">Logs</h2>
       <div class="mb-1 text-muted">October 5, 2022 5:26 PM</div>
       <div class="mb-2 border p-1">
         Wood on the edge of the trunk. Its sow texture makes it vulnerable to
@@ -44,7 +44,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Logs</h2>
+          <h3 class="card-title">What is the use of the Logs</h3>
           <div class="card-text">
             <ul>
               <li>Base product obtained by chopping down certain trees.</li>
@@ -56,7 +56,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Logs</h2>
+          <h3 class="card-title">How to get Logs</h3>
           <div class="card-text">
             <ul>
               <li>

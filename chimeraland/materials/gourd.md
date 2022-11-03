@@ -26,7 +26,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Gourd</h3>
+      <h2 class="mb-0">Gourd</h2>
       <div class="mb-1 text-muted">October 4, 2022 1:26 AM</div>
       <a href="/chimeraland/materials/gourd.html" class="stretched-link d-none"
         >Continue reading Gourd</a
@@ -40,7 +40,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Gourd</h2>
+          <h3 class="card-title">What is the use of the Gourd</h3>
           <div class="card-text"><ul></ul></div>
         </div>
       </div>
@@ -48,7 +48,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Gourd</h2>
+          <h3 class="card-title">How to get Gourd</h3>
           <div class="card-text">
             <ul>
               <li>Go to the Auction House to obtain</li>

@@ -26,7 +26,7 @@ categories:
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
-      <h3 class="mb-0">Yellow Grass</h3>
+      <h2 class="mb-0">Yellow Grass</h2>
       <div class="mb-1 text-muted">October 10, 2022 4:26 AM</div>
       <div class="mb-2 border p-1">
         A somewhat rare herb with a straight stalk and yellow fruit similar to
@@ -50,7 +50,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">What is the use of the Yellow Grass</h2>
+          <h3 class="card-title">What is the use of the Yellow Grass</h3>
           <div class="card-text">
             <ul>
               <li>
@@ -65,7 +65,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h2 class="card-title">How to get Yellow Grass</h2>
+          <h3 class="card-title">How to get Yellow Grass</h3>
           <div class="card-text">
             <ul>
               <li>Explore the world to gather Yellow Grass.</li>
