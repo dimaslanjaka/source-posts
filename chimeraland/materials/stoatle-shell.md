@@ -77,38 +77,28 @@ categories:
       <div id="recipe-exotic-herbal-jelly">
         <h5 id="item-exotic-herbal-jelly">Exotic Herbal Jelly</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Exotic Herbal Jelly 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/stoatle-shell.html"
-                      >Stoatle Shell</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/stoatle-shell.html"
-                      >Stoatle Shell</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chimeraland-beast-hide.html"
-                      >Chimeraland Beast Hide</a
-                    ><span> / </span>Scallion Powder<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/lemon-tree-leaf.html"
-                      >Lemon Tree Leaf</a
-                    ><span> / </span>Any Lv.3 Crops
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Exotic Herbal Jelly</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/stoatle-shell.html"
+              >Stoatle Shell</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/stoatle-shell.html"
+              >Stoatle Shell</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chimeraland-beast-hide.html"
+              >Chimeraland Beast Hide</a
+            ><span> / </span>Scallion Powder<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/lemon-tree-leaf.html"
+              >Lemon Tree Leaf</a
+            ><span> / </span>Any Lv.3 Crops<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
     </div>

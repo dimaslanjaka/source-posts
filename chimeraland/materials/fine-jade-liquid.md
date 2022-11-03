@@ -82,34 +82,24 @@ categories:
       <div id="recipe-hearty-meatball-soup">
         <h5 id="item-hearty-meatball-soup">Hearty Meatball Soup</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Hearty Meatball Soup 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/fine-jade-liquid.html"
-                      >Fine Jade Liquid</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/fine-jade-liquid.html"
-                      >Fine Jade Liquid</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chimeraland-beast-hide.html"
-                      >Chimeraland Beast Hide</a
-                    ><span> / </span>Any Mixed Sauce<span> / </span>Any Blue
-                    Grade Fish
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Hearty Meatball Soup</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/fine-jade-liquid.html"
+              >Fine Jade Liquid</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/fine-jade-liquid.html"
+              >Fine Jade Liquid</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chimeraland-beast-hide.html"
+              >Chimeraland Beast Hide</a
+            ><span> / </span>Any Mixed Sauce<span> / </span>Any Blue Grade
+            Fish<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
     </div>

@@ -74,273 +74,171 @@ categories:
       <div id="recipe-apple-sauce">
         <h5 id="item-apple-sauce">Apple Sauce</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Apple Sauce 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/apple.html"
-                      >Apple</a
-                    ><span> / </span>Any Wild Fruit
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Apple Sauce</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/apple.html"
+              >Apple</a
+            ><span> / </span>Any Wild Fruit<br />Device: Stove or Camp
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Apple Sauce 2</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/apple.html"
-                      >Apple</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Apple Sauce</b> 2<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/apple.html"
+              >Apple</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-apple-slushie">
         <h5 id="item-apple-slushie">Apple Slushie</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Apple Slushie 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/apple.html"
-                      >Apple</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Apple Slushie</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/apple.html"
+              >Apple</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-red-hot-sauce">
         <h5 id="item-red-hot-sauce">Red Hot Sauce</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Red Hot Sauce 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/hot-pepper.html"
-                      >Hot Pepper</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/apple.html"
-                      >Apple</a
-                    ><span> / </span>Any Wild Fruit
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Red Hot Sauce</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/hot-pepper.html"
+              >Hot Pepper</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/apple.html"
+              >Apple</a
+            ><span> / </span>Any Wild Fruit<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-steamed-paw">
         <h5 id="item-steamed-paw">Steamed Paw</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Steamed Paw 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/bear-paw.html"
-                      >Bear Paw</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/orchid.html"
-                      >Orchid</a
-                    ><span> / </span>Five Spice Powder<span> / </span>Any Wild
-                    Fruit<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dew.html"
-                      >Dew</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Steamed Paw</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/bear-paw.html"
+              >Bear Paw</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/orchid.html"
+              >Orchid</a
+            ><span> / </span>Five Spice Powder<span> / </span>Any Wild
+            Fruit<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dew.html"
+              >Dew</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Steamed Paw 2</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/bear-paw.html"
-                      >Bear Paw</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/orchid.html"
-                      >Orchid</a
-                    ><span> / </span>Five Spice Powder<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/apple.html"
-                      >Apple</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dew.html"
-                      >Dew</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Steamed Paw</b> 2<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/bear-paw.html"
+              >Bear Paw</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/orchid.html"
+              >Orchid</a
+            ><span> / </span>Five Spice Powder<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/apple.html"
+              >Apple</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dew.html"
+              >Dew</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-sweet-vinegar-fish">
         <h5 id="item-sweet-vinegar-fish">Sweet Vinegar Fish</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Sweet Vinegar Fish 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    Peanut Oil<span> / </span>Job&#x27;s Tears Powder<span>
-                      / </span
-                    >Any Wild Fruit<span> / </span>Purple grade fish<span>
-                      / </span
-                    >Orange grade fish<span> / </span>Red grade fish
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Sweet Vinegar Fish</b> 1<br />Peanut Oil<span> / </span
+            >Job&#x27;s Tears Powder<span> / </span>Any Wild Fruit<span>
+              / </span
+            >Purple grade fish<span> / </span>Orange grade fish<span> / </span
+            >Red grade fish<br />Device: Stove or Camp
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Sweet Vinegar Fish 2</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    Peanut Oil<span> / </span>Job&#x27;s Tear Powder<span>
-                      / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/apple.html"
-                      >Apple</a
-                    ><span> / </span>Any Purple Fish
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Sweet Vinegar Fish</b> 2<br />Peanut Oil<span> / </span
+            >Job&#x27;s Tear Powder<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/apple.html"
+              >Apple</a
+            ><span> / </span>Any Purple Fish<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-veggie-paste">
         <h5 id="item-veggie-paste">Veggie Paste</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Veggie Paste 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/apple.html"
-                      >Apple</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Veggie Paste</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/apple.html"
+              >Apple</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-sea-buckthorn-mixed-juice">
         <h5 id="item-sea-buckthorn-mixed-juice">Sea-Buckthorn Mixed Juice</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">
-                Recipe Sea-Buckthorn Mixed Juice 1
-              </h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/sea-buckthorn.html"
-                      >Sea-Buckthorn</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/apple.html"
-                      >Apple</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Sea-Buckthorn Mixed Juice</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/sea-buckthorn.html"
+              >Sea-Buckthorn</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/apple.html"
+              >Apple</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
     </div>

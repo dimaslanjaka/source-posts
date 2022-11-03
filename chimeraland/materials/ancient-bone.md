@@ -76,38 +76,28 @@ categories:
       <div id="recipe-soy-braised-dragon-bone">
         <h5 id="item-soy-braised-dragon-bone">Soy Braised Dragon Bone</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Soy Braised Dragon Bone 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ancient-bone.html"
-                      >Ancient Bone</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ancient-bone.html"
-                      >Ancient Bone</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chimeraland-beast-hide.html"
-                      >Chimeraland Beast Hide</a
-                    ><span> / </span>Any Mixed Sauce<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/lemon-tree-leaf.html"
-                      >Lemon Tree Leaf</a
-                    ><span> / </span>Any Lv.3 Crops
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Soy Braised Dragon Bone</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ancient-bone.html"
+              >Ancient Bone</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ancient-bone.html"
+              >Ancient Bone</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chimeraland-beast-hide.html"
+              >Chimeraland Beast Hide</a
+            ><span> / </span>Any Mixed Sauce<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/lemon-tree-leaf.html"
+              >Lemon Tree Leaf</a
+            ><span> / </span>Any Lv.3 Crops<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
     </div>

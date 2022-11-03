@@ -76,38 +76,28 @@ categories:
       <div id="recipe-hot-n-sour-jelly">
         <h5 id="item-hot-n-sour-jelly">Hot &#x27;n Sour Jelly</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Hot &#x27;n Sour Jelly 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/spirit-fox-fur.html"
-                      >Spirit Fox Fur</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/spirit-fox-fur.html"
-                      >Spirit Fox Fur</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chimeraland-beast-hide.html"
-                      >Chimeraland Beast Hide</a
-                    ><span> / </span>Spicy Powder<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/lemon-tree-leaf.html"
-                      >Lemon Tree Leaf</a
-                    ><span> / </span>Any Lv.3 Crops
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Hot &#x27;n Sour Jelly</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/spirit-fox-fur.html"
+              >Spirit Fox Fur</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/spirit-fox-fur.html"
+              >Spirit Fox Fur</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chimeraland-beast-hide.html"
+              >Chimeraland Beast Hide</a
+            ><span> / </span>Spicy Powder<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/lemon-tree-leaf.html"
+              >Lemon Tree Leaf</a
+            ><span> / </span>Any Lv.3 Crops<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
     </div>

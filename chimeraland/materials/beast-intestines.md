@@ -68,76 +68,46 @@ categories:
       <div id="recipe-fried-intestines">
         <h5 id="item-fried-intestines">Fried Intestines</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Fried Intestines 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/beast-intestines.html"
-                      >Beast Intestines</a
-                    ><span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5
-                    Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
-                    Flower<span> / </span>Any Mutant Flower<span> / </span
-                    >Peanut Oil
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Fried Intestines</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/beast-intestines.html"
+              >Beast Intestines</a
+            ><span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span>
+              / </span
+            >Any Lv.6 Crop<span> / </span>Any Flower<span> / </span>Any Mutant
+            Flower<span> / </span>Peanut Oil<br />Device: Stove or Camp
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Fried Intestines 2</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/kidney.html"
-                      >Kidney</a
-                    ><span> / </span>Peanut Oil<span> / </span>Any Lv.4
-                    Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
-                    Crop<span> / </span>Any Flower<span> / </span>Any Mutant
-                    Flower
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Fried Intestines</b> 2<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/kidney.html"
+              >Kidney</a
+            ><span> / </span>Peanut Oil<span> / </span>Any Lv.4 Crop<span>
+              / </span
+            >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
+            Flower<span> / </span>Any Mutant Flower<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-grilled-offal">
         <h5 id="item-grilled-offal">Grilled Offal</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Grilled Offal 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/beast-intestines.html"
-                      >Beast Intestines</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/beast-intestines.html"
-                      >Beast Intestines</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Grilled Offal</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/beast-intestines.html"
+              >Beast Intestines</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/beast-intestines.html"
+              >Beast Intestines</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
     </div>

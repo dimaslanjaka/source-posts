@@ -63,93 +63,64 @@ categories:
       <div id="recipe-gourd-braised-meat">
         <h5 id="item-gourd-braised-meat">Gourd-Braised Meat</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Gourd-Braised Meat 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/gourd.html"
-                      >Gourd</a
-                    ><span> / </span>Any Meat<span> / </span>Any Seasoning<span>
-                      / </span
-                    >Any Spice<span> / </span>Any Sweet Sauce<span> / </span>Any
-                    Spicy Sauce
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Gourd-Braised Meat</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/gourd.html"
+              >Gourd</a
+            ><span> / </span>Any Meat<span> / </span>Any Seasoning<span>
+              / </span
+            >Any Spice<span> / </span>Any Sweet Sauce<span> / </span>Any Spicy
+            Sauce<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-peanut-gourd-soup">
         <h5 id="item-peanut-gourd-soup">Peanut Gourd Soup</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Peanut Gourd Soup 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/peanut.html"
-                      >Peanut</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/gourd.html"
-                      >Gourd</a
-                    ><span> / </span>Dew or Ice Piece<span> / </span>Any Lv.4
-                    Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
-                    Crop<span> / </span>Any Flower<span> / </span>Any Mutant
-                    Flower
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Peanut Gourd Soup</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/peanut.html"
+              >Peanut</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/gourd.html"
+              >Gourd</a
+            ><span> / </span>Dew or Ice Piece<span> / </span>Any Lv.4 Crop<span>
+              / </span
+            >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
+            Flower<span> / </span>Any Mutant Flower<br />Device: Stove or Camp
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Peanut Gourd Soup 2</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/peanut.html"
-                      >Peanut</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/gourd.html"
-                      >Gourd</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dew.html"
-                      >Dew</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    ><span> / </span>Cantaloupe<span> / </span>Mutant
-                    Flower<span> / </span>Equonix Flower<span> / </span>Lv6
-                    Vegetable
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Peanut Gourd Soup</b> 2<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/peanut.html"
+              >Peanut</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/gourd.html"
+              >Gourd</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dew.html"
+              >Dew</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><span> / </span>Cantaloupe<span> / </span>Mutant Flower<span>
+              / </span
+            >Equonix Flower<span> / </span>Lv6 Vegetable<br />Device: Stove or
+            Camp
+          </p>
         </div>
       </div>
     </div>

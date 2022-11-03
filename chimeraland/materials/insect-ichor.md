@@ -72,317 +72,200 @@ categories:
       <div id="recipe-braised-meat-cubes">
         <h5 id="item-braised-meat-cubes">Braised Meat Cubes</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Braised Meat Cubes 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    Any Meat<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dew.html"
-                      >Dew</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/insect-ichor.html"
-                      >Insect Ichor</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Braised Meat Cubes</b> 1<br />Any Meat<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dew.html"
+              >Dew</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/insect-ichor.html"
+              >Insect Ichor</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-dark-cuisine">
         <h5 id="item-dark-cuisine">Dark Cuisine</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Dark Cuisine 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dung.html"
-                      >Dung</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dew.html"
-                      >Dew</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    >
-                  </li>
-                  <li>Device: Mixer - Jam</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Dark Cuisine</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dung.html"
+              >Dung</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dew.html"
+              >Dew</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><br />Device: Mixer - Jam
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Dark Cuisine 2</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dung.html"
-                      >Dung</a
-                    ><span> / </span>Any Fish
-                  </li>
-                  <li>Device: Camp II</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Dark Cuisine</b> 2<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dung.html"
+              >Dung</a
+            ><span> / </span>Any Fish<br />Device: Camp II
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Dark Cuisine 3</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dung.html"
-                      >Dung</a
-                    ><span> / </span>Any Grade Crop
-                  </li>
-                  <li>Device: Stove II</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Dark Cuisine</b> 3<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dung.html"
+              >Dung</a
+            ><span> / </span>Any Grade Crop<br />Device: Stove II
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Dark Cuisine 4</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dung.html"
-                      >Dung</a
-                    ><span> / </span>Any High Quality Seasoning<span> / </span
-                    >Any Flower<span> / </span>Any Mutant Flower<span> / </span
-                    >Any Curio
-                  </li>
-                  <li>Device: Stove II</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Dark Cuisine</b> 4<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dung.html"
+              >Dung</a
+            ><span> / </span>Any High Quality Seasoning<span> / </span>Any
+            Flower<span> / </span>Any Mutant Flower<span> / </span>Any Curio<br />Device:
+            Stove II
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Dark Cuisine 5</h2>
-              <div class="card-text">
-                <ul>
-                  <li>Any Meat</li>
-                  <li>Device: Stove/Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Dark Cuisine</b> 5<br />Any Meat<br />Device: Stove/Camp
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Dark Cuisine 6</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/insect-ichor.html"
-                      >Insect Ichor</a
-                    >
-                  </li>
-                  <li>Device: Stove/Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Dark Cuisine</b> 6<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/insect-ichor.html"
+              >Insect Ichor</a
+            ><br />Device: Stove/Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-hot-water">
         <h5 id="item-hot-water">Hot Water</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Hot Water 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dew.html"
-                      >Dew</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dew.html"
-                      >Dew</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
-                      / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/insect-ichor.html"
-                      >Insect Ichor</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Hot Water</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dew.html"
+              >Dew</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dew.html"
+              >Dew</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
+              / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/insect-ichor.html"
+              >Insect Ichor</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-large-fruit-stew">
         <h5 id="item-large-fruit-stew">Large Fruit Stew</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Large Fruit Stew 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    Any Wild Fruit<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dew.html"
-                      >Dew</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/insect-ichor.html"
-                      >Insect Ichor</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Large Fruit Stew</b> 1<br />Any Wild Fruit<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dew.html"
+              >Dew</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/insect-ichor.html"
+              >Insect Ichor</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Large Fruit Stew 2</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dew.html"
-                      >Dew</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    ><span> / </span>Any Lv.1 Crop<span> / </span>Any Lv.2
-                    Crop<span> / </span>Any Lv.3 Crop<span> / </span>Any Lv.4
-                    Crop
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Large Fruit Stew</b> 2<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dew.html"
+              >Dew</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><span> / </span>Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span>
+              / </span
+            >Any Lv.3 Crop<span> / </span>Any Lv.4 Crop<br />Device: Stove or
+            Camp
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Large Fruit Stew 3</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dew.html"
-                      >Dew</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    ><span> / </span>Any Lv.1 Crop<span> / </span>Any Lv.2
-                    Crop<span> / </span>Any Lv.3 Crop<span> / </span>Any Lv.4
-                    Crop<span> / </span>Any Mutant Flower<span> / </span>Any
-                    Flower
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Large Fruit Stew</b> 3<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dew.html"
+              >Dew</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><span> / </span>Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span>
+              / </span
+            >Any Lv.3 Crop<span> / </span>Any Lv.4 Crop<span> / </span>Any
+            Mutant Flower<span> / </span>Any Flower<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-wormy-soup">
         <h5 id="item-wormy-soup">Wormy Soup</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Wormy Soup 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/insect-ichor.html"
-                      >Insect Ichor</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dew.html"
-                      >Dew</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Wormy Soup</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/insect-ichor.html"
+              >Insect Ichor</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dew.html"
+              >Dew</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
     </div>

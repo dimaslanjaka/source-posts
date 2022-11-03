@@ -65,108 +65,79 @@ categories:
       <div id="recipe-cucumber-sauce">
         <h5 id="item-cucumber-sauce">Cucumber Sauce</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Cucumber Sauce 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/cucumber.html"
-                      >Cucumber</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/job&#x27;s-tears.html"
-                      >Job&#x27;s Tears</a
-                    ><span> / </span>Any Wild Fruit
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Cucumber Sauce</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/cucumber.html"
+              >Cucumber</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/job&#x27;s-tears.html"
+              >Job&#x27;s Tears</a
+            ><span> / </span>Any Wild Fruit<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-bear-ball-pot">
         <h5 id="item-bear-ball-pot">Bear Ball Pot</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Bear Ball Pot 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/grizzly-primal-spirit.html"
-                      >Grizzly Primal Spirit</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/grizzly-primal-spirit.html"
-                      >Grizzly Primal Spirit</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chimeraland-beast-hide.html"
-                      >Chimeraland Beast Hide</a
-                    ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
-                    Sauce<span> / </span>Fruit Sauce<span> / </span
-                    >Corriander<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/flat-cabbage.html"
-                      >Flat Cabbage</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/watermelon.html"
-                      >Watermelon</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Bear Ball Pot</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/grizzly-primal-spirit.html"
+              >Grizzly Primal Spirit</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/grizzly-primal-spirit.html"
+              >Grizzly Primal Spirit</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chimeraland-beast-hide.html"
+              >Chimeraland Beast Hide</a
+            ><span> / </span>Red Hot Sauce<span> / </span>Cucumber Sauce<span>
+              / </span
+            >Fruit Sauce<span> / </span>Corriander<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/flat-cabbage.html"
+              >Flat Cabbage</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/watermelon.html"
+              >Watermelon</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-flamebug-meat-claypot">
         <h5 id="item-flamebug-meat-claypot">Flamebug Meat Claypot</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Flamebug Meat Claypot 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/flamebug-primal-spirit.html"
-                      >Flamebug Primal Spirit</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/flamebug-primal-spirit.html"
-                      >Flamebug Primal Spirit</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chimeraland-beast-hide.html"
-                      >Chimeraland Beast Hide</a
-                    ><span> / </span>Any Meat<span> / </span>Red Hot Sauce<span>
-                      / </span
-                    >Cucumber Sauce<span> / </span>Fruit Sauce
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Flamebug Meat Claypot</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/flamebug-primal-spirit.html"
+              >Flamebug Primal Spirit</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/flamebug-primal-spirit.html"
+              >Flamebug Primal Spirit</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chimeraland-beast-hide.html"
+              >Chimeraland Beast Hide</a
+            ><span> / </span>Any Meat<span> / </span>Red Hot Sauce<span>
+              / </span
+            >Cucumber Sauce<span> / </span>Fruit Sauce<br />Device: Stove or
+            Camp
+          </p>
         </div>
       </div>
       <br />
@@ -175,37 +146,26 @@ categories:
           Steamed Sweet &amp; Sour Icebug
         </h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">
-                Recipe Steamed Sweet &amp; Sour Icebug 1
-              </h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/icebug-primal-spirit.html"
-                      >Icebug Primal Spirit</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/icebug-primal-spirit.html"
-                      >Icebug Primal Spirit</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chimeraland-beast-hide.html"
-                      >Chimeraland Beast Hide</a
-                    ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
-                    Sauce<span> / </span>Fruit Sauce<span> / </span>Orange Grade
-                    Fish
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Steamed Sweet &amp; Sour Icebug</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/icebug-primal-spirit.html"
+              >Icebug Primal Spirit</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/icebug-primal-spirit.html"
+              >Icebug Primal Spirit</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chimeraland-beast-hide.html"
+              >Chimeraland Beast Hide</a
+            ><span> / </span>Red Hot Sauce<span> / </span>Cucumber Sauce<span>
+              / </span
+            >Fruit Sauce<span> / </span>Orange Grade Fish<br />Device: Stove or
+            Camp
+          </p>
         </div>
       </div>
     </div>

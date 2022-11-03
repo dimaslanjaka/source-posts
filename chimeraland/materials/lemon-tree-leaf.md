@@ -74,278 +74,190 @@ categories:
       <div id="recipe-arowana-slices">
         <h5 id="item-arowana-slices">Arowana Slices</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Arowana Slices 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    Barbled Dragonfish<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/lemon-tree-leaf.html"
-                      >Lemon Tree Leaf</a
-                    ><span> / </span>Barbled Dragonfish
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Arowana Slices</b> 1<br />Barbled Dragonfish<span>
+              / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/lemon-tree-leaf.html"
+              >Lemon Tree Leaf</a
+            ><span> / </span>Barbled Dragonfish<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-sliced-fish-stew">
         <h5 id="item-sliced-fish-stew">Sliced Fish Stew</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Sliced Fish Stew 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    Egg White<span> / </span>Any Meat<span> / </span>Any Lv.3
-                    Crop<span> / </span>Purple grade fish<span> / </span>Orange
-                    grade fish<span> / </span>Red grade fish
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Sliced Fish Stew</b> 1<br />Egg White<span> / </span>Any
+            Meat<span> / </span>Any Lv.3 Crop<span> / </span>Purple grade
+            fish<span> / </span>Orange grade fish<span> / </span>Red grade
+            fish<br />Device: Stove or Camp
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Sliced Fish Stew 2</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    Egg White<span> / </span>Any Meat<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/lemon-tree-leaf.html"
-                      >Lemon Tree Leaf</a
-                    ><span> / </span>Any rare Crops such as pumpkin etc<span>
-                      / </span
-                    >any Purple Fish
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Sliced Fish Stew</b> 2<br />Egg White<span> / </span>Any
+            Meat<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/lemon-tree-leaf.html"
+              >Lemon Tree Leaf</a
+            ><span> / </span>Any rare Crops such as pumpkin etc<span> / </span
+            >any Purple Fish<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-steamed-fish">
         <h5 id="item-steamed-fish">Steamed Fish</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Steamed Fish 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/lemon-tree-leaf.html"
-                      >Lemon Tree Leaf</a
-                    ><span> / </span>Dew or Ice Piece<span> / </span>Purple
-                    grade fish<span> / </span>Orange grade fish<span> / </span
-                    >Red grade fish
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Steamed Fish</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/lemon-tree-leaf.html"
+              >Lemon Tree Leaf</a
+            ><span> / </span>Dew or Ice Piece<span> / </span>Purple grade
+            fish<span> / </span>Orange grade fish<span> / </span>Red grade
+            fish<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-viperfish-slices">
         <h5 id="item-viperfish-slices">Viperfish Slices</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Viperfish Slices 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/viperfish.html"
-                      >Viperfish</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/lemon-tree-leaf.html"
-                      >Lemon Tree Leaf</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/viperfish.html"
-                      >Viperfish</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Viperfish Slices</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/viperfish.html"
+              >Viperfish</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/lemon-tree-leaf.html"
+              >Lemon Tree Leaf</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/viperfish.html"
+              >Viperfish</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-hot-n-sour-jelly">
         <h5 id="item-hot-n-sour-jelly">Hot &#x27;n Sour Jelly</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Hot &#x27;n Sour Jelly 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/spirit-fox-fur.html"
-                      >Spirit Fox Fur</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/spirit-fox-fur.html"
-                      >Spirit Fox Fur</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chimeraland-beast-hide.html"
-                      >Chimeraland Beast Hide</a
-                    ><span> / </span>Spicy Powder<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/lemon-tree-leaf.html"
-                      >Lemon Tree Leaf</a
-                    ><span> / </span>Any Lv.3 Crops
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Hot &#x27;n Sour Jelly</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/spirit-fox-fur.html"
+              >Spirit Fox Fur</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/spirit-fox-fur.html"
+              >Spirit Fox Fur</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chimeraland-beast-hide.html"
+              >Chimeraland Beast Hide</a
+            ><span> / </span>Spicy Powder<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/lemon-tree-leaf.html"
+              >Lemon Tree Leaf</a
+            ><span> / </span>Any Lv.3 Crops<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-soy-braised-dragon-bone">
         <h5 id="item-soy-braised-dragon-bone">Soy Braised Dragon Bone</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Soy Braised Dragon Bone 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ancient-bone.html"
-                      >Ancient Bone</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ancient-bone.html"
-                      >Ancient Bone</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chimeraland-beast-hide.html"
-                      >Chimeraland Beast Hide</a
-                    ><span> / </span>Any Mixed Sauce<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/lemon-tree-leaf.html"
-                      >Lemon Tree Leaf</a
-                    ><span> / </span>Any Lv.3 Crops
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Soy Braised Dragon Bone</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ancient-bone.html"
+              >Ancient Bone</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ancient-bone.html"
+              >Ancient Bone</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chimeraland-beast-hide.html"
+              >Chimeraland Beast Hide</a
+            ><span> / </span>Any Mixed Sauce<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/lemon-tree-leaf.html"
+              >Lemon Tree Leaf</a
+            ><span> / </span>Any Lv.3 Crops<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-exotic-herbal-jelly">
         <h5 id="item-exotic-herbal-jelly">Exotic Herbal Jelly</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Exotic Herbal Jelly 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/stoatle-shell.html"
-                      >Stoatle Shell</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/stoatle-shell.html"
-                      >Stoatle Shell</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chimeraland-beast-hide.html"
-                      >Chimeraland Beast Hide</a
-                    ><span> / </span>Scallion Powder<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/lemon-tree-leaf.html"
-                      >Lemon Tree Leaf</a
-                    ><span> / </span>Any Lv.3 Crops
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Exotic Herbal Jelly</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/stoatle-shell.html"
+              >Stoatle Shell</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/stoatle-shell.html"
+              >Stoatle Shell</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chimeraland-beast-hide.html"
+              >Chimeraland Beast Hide</a
+            ><span> / </span>Scallion Powder<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/lemon-tree-leaf.html"
+              >Lemon Tree Leaf</a
+            ><span> / </span>Any Lv.3 Crops<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-flame-roasted-horn">
         <h5 id="item-flame-roasted-horn">Flame Roasted Horn</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Flame Roasted Horn 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/magnificent-horn.html"
-                      >Magnificent Horn</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/magnificent-horn.html"
-                      >Magnificent Horn</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chimeraland-beast-hide.html"
-                      >Chimeraland Beast Hide</a
-                    ><span> / </span>Spicy Pepper Sauce<span> / </span>Garlic
-                    Sauce<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/lemon-tree-leaf.html"
-                      >Lemon Tree Leaf</a
-                    ><span> / </span>Any Lv.3 Crops
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Flame Roasted Horn</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/magnificent-horn.html"
+              >Magnificent Horn</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/magnificent-horn.html"
+              >Magnificent Horn</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chimeraland-beast-hide.html"
+              >Chimeraland Beast Hide</a
+            ><span> / </span>Spicy Pepper Sauce<span> / </span>Garlic Sauce<span>
+              / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/lemon-tree-leaf.html"
+              >Lemon Tree Leaf</a
+            ><span> / </span>Any Lv.3 Crops<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
     </div>

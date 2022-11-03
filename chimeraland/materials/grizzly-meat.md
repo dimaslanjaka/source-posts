@@ -69,24 +69,15 @@ categories:
       <div id="recipe-braised-bear-meat">
         <h5 id="item-braised-bear-meat">Braised Bear Meat</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Braised Bear Meat 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/grizzly-meat.html"
-                      >Grizzly Meat</a
-                    ><span> / </span>Peanut Oil<span> / </span>Any Sweet
-                    Sauce<span> / </span>Any Sweet Sauce
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Braised Bear Meat</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/grizzly-meat.html"
+              >Grizzly Meat</a
+            ><span> / </span>Peanut Oil<span> / </span>Any Sweet Sauce<span>
+              / </span
+            >Any Sweet Sauce<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
     </div>

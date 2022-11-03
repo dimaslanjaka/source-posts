@@ -78,45 +78,35 @@ categories:
       <div id="recipe-bear-ball-pot">
         <h5 id="item-bear-ball-pot">Bear Ball Pot</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Bear Ball Pot 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/grizzly-primal-spirit.html"
-                      >Grizzly Primal Spirit</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/grizzly-primal-spirit.html"
-                      >Grizzly Primal Spirit</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chimeraland-beast-hide.html"
-                      >Chimeraland Beast Hide</a
-                    ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
-                    Sauce<span> / </span>Fruit Sauce<span> / </span
-                    >Corriander<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/flat-cabbage.html"
-                      >Flat Cabbage</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/watermelon.html"
-                      >Watermelon</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Bear Ball Pot</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/grizzly-primal-spirit.html"
+              >Grizzly Primal Spirit</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/grizzly-primal-spirit.html"
+              >Grizzly Primal Spirit</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chimeraland-beast-hide.html"
+              >Chimeraland Beast Hide</a
+            ><span> / </span>Red Hot Sauce<span> / </span>Cucumber Sauce<span>
+              / </span
+            >Fruit Sauce<span> / </span>Corriander<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/flat-cabbage.html"
+              >Flat Cabbage</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/watermelon.html"
+              >Watermelon</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
     </div>

@@ -68,79 +68,52 @@ categories:
       <div id="recipe-deep-fried-liver">
         <h5 id="item-deep-fried-liver">Deep Fried Liver</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Deep Fried Liver 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/beast-liver.html"
-                      >Beast Liver</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chunk-of-fat.html"
-                      >Chunk of Fat</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chunk-of-fat.html"
-                      >Chunk of Fat</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/beast-liver.html"
-                      >Beast Liver</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Deep Fried Liver</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/beast-liver.html"
+              >Beast Liver</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chunk-of-fat.html"
+              >Chunk of Fat</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chunk-of-fat.html"
+              >Chunk of Fat</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/beast-liver.html"
+              >Beast Liver</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-hot-oil">
         <h5 id="item-hot-oil">Hot Oil</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Hot Oil 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>Peanut Oil<span> / </span>Peanut Oil</li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Hot Oil</b> 1<br />Peanut Oil<span> / </span>Peanut Oil<br />Device:
+            Stove or Camp
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Hot Oil 2</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chunk-of-fat.html"
-                      >Chunk of Fat</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chunk-of-fat.html"
-                      >Chunk of Fat</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Hot Oil</b> 2<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chunk-of-fat.html"
+              >Chunk of Fat</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chunk-of-fat.html"
+              >Chunk of Fat</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
     </div>

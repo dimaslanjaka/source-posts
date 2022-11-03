@@ -86,37 +86,26 @@ categories:
           Steamed Sweet &amp; Sour Icebug
         </h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">
-                Recipe Steamed Sweet &amp; Sour Icebug 1
-              </h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/icebug-primal-spirit.html"
-                      >Icebug Primal Spirit</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/icebug-primal-spirit.html"
-                      >Icebug Primal Spirit</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chimeraland-beast-hide.html"
-                      >Chimeraland Beast Hide</a
-                    ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
-                    Sauce<span> / </span>Fruit Sauce<span> / </span>Orange Grade
-                    Fish
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Steamed Sweet &amp; Sour Icebug</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/icebug-primal-spirit.html"
+              >Icebug Primal Spirit</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/icebug-primal-spirit.html"
+              >Icebug Primal Spirit</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chimeraland-beast-hide.html"
+              >Chimeraland Beast Hide</a
+            ><span> / </span>Red Hot Sauce<span> / </span>Cucumber Sauce<span>
+              / </span
+            >Fruit Sauce<span> / </span>Orange Grade Fish<br />Device: Stove or
+            Camp
+          </p>
         </div>
       </div>
     </div>

@@ -70,33 +70,23 @@ categories:
       <div id="recipe-honeydew-melon-slushie">
         <h5 id="item-honeydew-melon-slushie">Honeydew Melon Slushie</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Honeydew Melon Slushie 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/honeydew-melon.html"
-                      >Honeydew Melon</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Honeydew Melon Slushie</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/honeydew-melon.html"
+              >Honeydew Melon</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
     </div>

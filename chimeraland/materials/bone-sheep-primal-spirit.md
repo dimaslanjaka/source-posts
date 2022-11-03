@@ -78,44 +78,34 @@ categories:
       <div id="recipe-stir-fried-browtelope">
         <h5 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Stir-Fried Browtelope 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/bone-sheep-primal-spirit.html"
-                      >Bone Sheep Primal Spirit</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/bone-sheep-primal-spirit.html"
-                      >Bone Sheep Primal Spirit</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/chimeraland-beast-hide.html"
-                      >Chimeraland Beast Hide</a
-                    ><span> / </span>Corriander Powder<span> / </span>Five Spice
-                    Sauce<span> / </span>Corriander<span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/flat-cabbage.html"
-                      >Flat Cabbage</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/watermelon.html"
-                      >Watermelon</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Stir-Fried Browtelope</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/bone-sheep-primal-spirit.html"
+              >Bone Sheep Primal Spirit</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/bone-sheep-primal-spirit.html"
+              >Bone Sheep Primal Spirit</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/chimeraland-beast-hide.html"
+              >Chimeraland Beast Hide</a
+            ><span> / </span>Corriander Powder<span> / </span>Five Spice
+            Sauce<span> / </span>Corriander<span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/flat-cabbage.html"
+              >Flat Cabbage</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/watermelon.html"
+              >Watermelon</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
     </div>

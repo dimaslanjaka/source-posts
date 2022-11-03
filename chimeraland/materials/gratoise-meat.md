@@ -69,50 +69,32 @@ categories:
       <div id="recipe-turtle-soup">
         <h5 id="item-turtle-soup">Turtle Soup</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Turtle Soup 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/gratoise-meat.html"
-                      >Gratoise Meat</a
-                    ><span> / </span>Dew or Ice Piece<span> / </span>Any
-                    Seasoning<span> / </span>Any Lv.5 Crop<span> / </span>Any
-                    Lv.6 Crop
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Turtle Soup</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/gratoise-meat.html"
+              >Gratoise Meat</a
+            ><span> / </span>Dew or Ice Piece<span> / </span>Any Seasoning<span>
+              / </span
+            >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<br />Device: Stove or
+            Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-ultimate-meat-dish">
         <h5 id="item-ultimate-meat-dish">Ultimate Meat Dish</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Ultimate Meat Dish 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/gratoise-meat.html"
-                      >Gratoise Meat</a
-                    ><span> / </span>Any Meat<span> / </span>Any Lv.4 Crop<span>
-                      / </span
-                    >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Ultimate Meat Dish</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/gratoise-meat.html"
+              >Gratoise Meat</a
+            ><span> / </span>Any Meat<span> / </span>Any Lv.4 Crop<span>
+              / </span
+            >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<br />Device: Stove or
+            Camp
+          </p>
         </div>
       </div>
     </div>

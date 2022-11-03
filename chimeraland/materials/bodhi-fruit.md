@@ -83,107 +83,67 @@ categories:
       <div id="recipe-bodhi-fruit-sauce">
         <h5 id="item-bodhi-fruit-sauce">Bodhi Fruit Sauce</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Bodhi Fruit Sauce 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/bodhi-fruit.html"
-                      >Bodhi Fruit</a
-                    ><span> / </span>Any Wild Fruit
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Bodhi Fruit Sauce</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/bodhi-fruit.html"
+              >Bodhi Fruit</a
+            ><span> / </span>Any Wild Fruit<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-cold-lime-broth">
         <h5 id="item-cold-lime-broth">Cold Lime Broth</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Cold Lime Broth 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/bodhi-fruit.html"
-                      >Bodhi Fruit</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    ><span> / </span>Any Meat
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Cold Lime Broth</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/bodhi-fruit.html"
+              >Bodhi Fruit</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><span> / </span>Any Meat<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-cold-lime-soup">
         <h5 id="item-cold-lime-soup">Cold Lime Soup</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Cold Lime Soup 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/bodhi-fruit.html"
-                      >Bodhi Fruit</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Cold Lime Soup</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/bodhi-fruit.html"
+              >Bodhi Fruit</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-verdura-slushie">
         <h5 id="item-verdura-slushie">Verdura Slushie</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Verdura Slushie 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/bodhi-fruit.html"
-                      >Bodhi Fruit</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Verdura Slushie</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/bodhi-fruit.html"
+              >Bodhi Fruit</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
     </div>

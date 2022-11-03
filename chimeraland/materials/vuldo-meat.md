@@ -69,181 +69,115 @@ categories:
       <div id="recipe-beggars-chicken">
         <h5 id="item-beggars-chicken">Beggar&#x27;s Chicken</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Beggar&#x27;s Chicken 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/watermelon.html"
-                      >Watermelon</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/vuldo-meat.html"
-                      >Vuldo Meat</a
-                    >
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Beggar&#x27;s Chicken</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/watermelon.html"
+              >Watermelon</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/vuldo-meat.html"
+              >Vuldo Meat</a
+            ><br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-bird-soup">
         <h5 id="item-bird-soup">Bird Soup</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Bird Soup 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/vuldo-meat.html"
-                      >Vuldo Meat</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/dew.html"
-                      >Dew</a
-                    ><span> / </span>Any Seasoning<span> / </span>Any Lv.5
-                    <span> / </span> Lv.6 Crop
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Bird Soup</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/vuldo-meat.html"
+              >Vuldo Meat</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/dew.html"
+              >Dew</a
+            ><span> / </span>Any Seasoning<span> / </span>Any Lv.5
+            <span> / </span> Lv.6 Crop<br />Device: Stove or Camp
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Bird Soup 2</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/vuldo-meat.html"
-                      >Vuldo Meat</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/ice-piece.html"
-                      >Ice Piece</a
-                    ><span> / </span>Any Seasoning<span> / </span>Any Lv.5
-                    <span> / </span> Lv.6 Crop
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Bird Soup</b> 2<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/vuldo-meat.html"
+              >Vuldo Meat</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/ice-piece.html"
+              >Ice Piece</a
+            ><span> / </span>Any Seasoning<span> / </span>Any Lv.5
+            <span> / </span> Lv.6 Crop<br />Device: Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-grilled-bird">
         <h5 id="item-grilled-bird">Grilled Bird</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Grilled Bird 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/vuldo-meat.html"
-                      >Vuldo Meat</a
-                    ><span> / </span>Any Wild Fruit<span> / </span>Any Lv.4 Crop
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Grilled Bird</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/vuldo-meat.html"
+              >Vuldo Meat</a
+            ><span> / </span>Any Wild Fruit<span> / </span>Any Lv.4 Crop<br />Device:
+            Stove or Camp
+          </p>
         </div>
       </div>
       <br />
       <div id="recipe-honey-grilled-chicken">
         <h5 id="item-honey-grilled-chicken">Honey Grilled Chicken</h5>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 1</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/condor-meat.html"
-                      >Condor Meat</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/condor-meat.html"
-                      >Condor Meat</a
-                    ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Honey Grilled Chicken</b> 1<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/condor-meat.html"
+              >Condor Meat</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/condor-meat.html"
+              >Condor Meat</a
+            ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil<br />Device:
+            Stove or Camp
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 2</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/vulture-meat.html"
-                      >Vulture Meat</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/vulture-meat.html"
-                      >Vulture Meat</a
-                    ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Honey Grilled Chicken</b> 2<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/vulture-meat.html"
+              >Vulture Meat</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/vulture-meat.html"
+              >Vulture Meat</a
+            ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil<br />Device:
+            Stove or Camp
+          </p>
         </div>
         <div class="mb-2">
-          <div class="card">
-            <div class="card-body">
-              <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 3</h2>
-              <div class="card-text">
-                <ul>
-                  <li>
-                    <a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/vuldo-meat.html"
-                      >Vuldo Meat</a
-                    ><span> / </span
-                    ><a
-                      class="text-decoration-none"
-                      href="/chimeraland/materials/vuldo-meat.html"
-                      >Vuldo Meat</a
-                    ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
-                  </li>
-                  <li>Device: Stove or Camp</li>
-                </ul>
-              </div>
-            </div>
-          </div>
+          <p class="fs-5">
+            Recipe <b>Honey Grilled Chicken</b> 3<br /><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/vuldo-meat.html"
+              >Vuldo Meat</a
+            ><span> / </span
+            ><a
+              class="text-decoration-none"
+              href="/chimeraland/materials/vuldo-meat.html"
+              >Vuldo Meat</a
+            ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil<br />Device:
+            Stove or Camp
+          </p>
         </div>
       </div>
     </div>
