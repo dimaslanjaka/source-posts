@@ -80,10 +80,7 @@ jobs:
 
     - name: Build
       run: |
-        npx sbg copy --nocache
-        npx hexo generate
-        npx gulp safelink
-        npx sbg deploy --nocache --verbose
+        npm run build
 
     - name: Commit Submodules
       continue-on-error: true
