@@ -74,9 +74,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Water Repelling Bead</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Water Repelling Bead Spawn Locations</h5>
       <p>Water Repelling Bead is randomly spawned</p>
     </div>

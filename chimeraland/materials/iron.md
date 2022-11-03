@@ -69,9 +69,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Iron</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Iron Spawn Locations</h5>
       <p>Iron is randomly spawned</p>
     </div>

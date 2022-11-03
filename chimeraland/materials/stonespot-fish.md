@@ -71,9 +71,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Stonespot Fish</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Stonespot Fish Spawn Locations</h5>
       <p>Stonespot Fish is randomly spawned</p>
     </div>

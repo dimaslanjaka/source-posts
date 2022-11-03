@@ -76,9 +76,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Mulberry Root</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Mulberry Root Spawn Locations</h5>
       <p>Mulberry Root is randomly spawned</p>
     </div>

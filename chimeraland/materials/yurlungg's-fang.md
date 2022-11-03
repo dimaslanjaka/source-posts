@@ -74,9 +74,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Yurlungg&#x27;s Fang</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Yurlungg&#x27;s Fang Spawn Locations</h5>
       <p>Yurlungg&#x27;s Fang is randomly spawned</p>
     </div>

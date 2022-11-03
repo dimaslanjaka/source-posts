@@ -72,9 +72,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Red and White Beak</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Red and White Beak Spawn Locations</h5>
       <p>Red and White Beak is randomly spawned</p>
     </div>

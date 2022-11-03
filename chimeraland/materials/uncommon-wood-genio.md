@@ -64,9 +64,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Uncommon Wood Genio</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Uncommon Wood Genio Spawn Locations</h5>
       <p>Uncommon Wood Genio is randomly spawned</p>
     </div>

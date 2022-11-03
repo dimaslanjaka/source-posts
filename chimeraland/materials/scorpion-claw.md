@@ -77,9 +77,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Scorpion Claw</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Scorpion Claw Spawn Locations</h5>
       <p>Scorpion Claw is randomly spawned</p>
     </div>

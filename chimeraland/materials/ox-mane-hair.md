@@ -77,9 +77,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Ox Mane Hair</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Ox Mane Hair Spawn Locations</h5>
       <p>Ox Mane Hair is randomly spawned</p>
     </div>

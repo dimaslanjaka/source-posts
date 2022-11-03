@@ -74,9 +74,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Freshwater Carp</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Freshwater Carp Spawn Locations</h5>
       <p>Freshwater Carp is randomly spawned</p>
     </div>

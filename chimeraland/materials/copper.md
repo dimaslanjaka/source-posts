@@ -73,9 +73,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Copper</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Copper Spawn Locations</h5>
       <p>Copper is randomly spawned</p>
     </div>

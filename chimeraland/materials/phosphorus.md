@@ -72,9 +72,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Phosphorus</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Phosphorus Spawn Locations</h5>
       <p>Phosphorus is randomly spawned</p>
     </div>

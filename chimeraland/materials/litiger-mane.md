@@ -77,9 +77,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Litiger Mane</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Litiger Mane Spawn Locations</h5>
       <p>Litiger Mane is randomly spawned</p>
     </div>

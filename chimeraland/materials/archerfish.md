@@ -68,9 +68,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Archerfish</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Archerfish Spawn Locations</h5>
       <p>Archerfish is randomly spawned</p>
     </div>

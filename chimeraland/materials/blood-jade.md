@@ -70,9 +70,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Blood Jade</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Blood Jade Spawn Locations</h5>
       <p>Blood Jade is randomly spawned</p>
     </div>

@@ -80,9 +80,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Moddly Wings</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Moddly Wings Spawn Locations</h5>
       <p>Moddly Wings is randomly spawned</p>
     </div>

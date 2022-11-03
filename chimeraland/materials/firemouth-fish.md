@@ -70,9 +70,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Firemouth Fish</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Firemouth Fish Spawn Locations</h5>
       <p>Firemouth Fish is randomly spawned</p>
     </div>

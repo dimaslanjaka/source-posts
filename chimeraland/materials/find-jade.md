@@ -78,9 +78,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Find Jade</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Find Jade Spawn Locations</h5>
       <div></div>
       <div></div>

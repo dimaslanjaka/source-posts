@@ -77,9 +77,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Strange Beast Tendon</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Strange Beast Tendon Spawn Locations</h5>
       <p>Strange Beast Tendon is randomly spawned</p>
     </div>

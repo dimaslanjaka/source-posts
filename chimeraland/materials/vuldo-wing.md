@@ -73,9 +73,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Vuldo Wing</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Vuldo Wing Spawn Locations</h5>
       <p>Vuldo Wing is randomly spawned</p>
     </div>

@@ -64,9 +64,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Common Wood Essence</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Common Wood Essence Spawn Locations</h5>
       <p>Common Wood Essence is randomly spawned</p>
     </div>

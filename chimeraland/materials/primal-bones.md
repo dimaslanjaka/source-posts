@@ -71,9 +71,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Primal Bones</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Primal Bones Spawn Locations</h5>
       <p>Primal Bones is randomly spawned</p>
     </div>

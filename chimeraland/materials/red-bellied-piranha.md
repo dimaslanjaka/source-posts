@@ -72,9 +72,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Red-bellied Piranha</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Red-bellied Piranha Spawn Locations</h5>
       <p>Red-bellied Piranha is randomly spawned</p>
     </div>

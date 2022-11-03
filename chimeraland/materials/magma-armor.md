@@ -75,9 +75,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Magma Armor</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Magma Armor Spawn Locations</h5>
       <p>Magma Armor is randomly spawned</p>
     </div>

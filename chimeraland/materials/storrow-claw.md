@@ -76,9 +76,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Storrow Claw</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Storrow Claw Spawn Locations</h5>
       <p>Storrow Claw is randomly spawned</p>
     </div>

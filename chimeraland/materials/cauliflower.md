@@ -71,9 +71,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Cauliflower</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Cauliflower Spawn Locations</h5>
       <p>Cauliflower is randomly spawned</p>
     </div>

@@ -69,9 +69,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Swallowfish</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Swallowfish Spawn Locations</h5>
       <p>Swallowfish is randomly spawned</p>
     </div>

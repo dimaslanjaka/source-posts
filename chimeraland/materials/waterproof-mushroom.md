@@ -75,9 +75,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Waterproof Mushroom</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Waterproof Mushroom Spawn Locations</h5>
       <p>Waterproof Mushroom is randomly spawned</p>
     </div>

@@ -64,9 +64,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Mixed Wood Essence</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Mixed Wood Essence Spawn Locations</h5>
       <p>Mixed Wood Essence is randomly spawned</p>
     </div>

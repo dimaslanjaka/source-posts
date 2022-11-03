@@ -67,9 +67,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Nibea</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Nibea Spawn Locations</h5>
       <p>Nibea is randomly spawned</p>
     </div>

@@ -74,9 +74,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Bone Sheep Skin</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Bone Sheep Skin Spawn Locations</h5>
       <p>Bone Sheep Skin is randomly spawned</p>
     </div>

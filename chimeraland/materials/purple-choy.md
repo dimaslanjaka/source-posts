@@ -64,9 +64,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Purple Choy</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Purple Choy Spawn Locations</h5>
       <p>Purple Choy is randomly spawned</p>
     </div>

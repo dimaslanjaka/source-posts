@@ -73,9 +73,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Ambusher Hair</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Ambusher Hair Spawn Locations</h5>
       <p>Ambusher Hair is randomly spawned</p>
     </div>

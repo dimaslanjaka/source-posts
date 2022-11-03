@@ -72,9 +72,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Bamboo Leaf</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Bamboo Leaf Spawn Locations</h5>
       <p>Bamboo Leaf is randomly spawned</p>
     </div>

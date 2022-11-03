@@ -69,9 +69,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Fossilized Pelvis</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Fossilized Pelvis Spawn Locations</h5>
       <p>Fossilized Pelvis is randomly spawned</p>
     </div>

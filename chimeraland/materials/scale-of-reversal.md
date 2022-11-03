@@ -73,9 +73,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Scale of Reversal</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Scale of Reversal Spawn Locations</h5>
       <p>Scale of Reversal is randomly spawned</p>
     </div>

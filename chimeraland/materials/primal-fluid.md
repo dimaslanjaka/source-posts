@@ -70,9 +70,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Primal Fluid</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Primal Fluid Spawn Locations</h5>
       <p>Primal Fluid is randomly spawned</p>
     </div>

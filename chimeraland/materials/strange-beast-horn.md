@@ -74,9 +74,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Strange Beast Horn</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Strange Beast Horn Spawn Locations</h5>
       <p>Strange Beast Horn is randomly spawned</p>
     </div>

@@ -77,9 +77,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Brilliant Jade</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Brilliant Jade Spawn Locations</h5>
       <p>Brilliant Jade is randomly spawned</p>
     </div>

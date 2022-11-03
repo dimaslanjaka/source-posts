@@ -76,9 +76,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using 30 Catties of Logs</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>30 Catties of Logs Spawn Locations</h5>
       <p>30 Catties of Logs is randomly spawned</p>
     </div>

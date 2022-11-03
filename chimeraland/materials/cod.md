@@ -59,9 +59,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Cod</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Cod Spawn Locations</h5>
       <p>Cod is randomly spawned</p>
     </div>

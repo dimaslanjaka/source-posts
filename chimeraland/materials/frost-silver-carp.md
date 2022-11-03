@@ -72,9 +72,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Frost Silver Carp</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Frost Silver Carp Spawn Locations</h5>
       <p>Frost Silver Carp is randomly spawned</p>
     </div>

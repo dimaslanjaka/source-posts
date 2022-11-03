@@ -78,9 +78,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Yellow Grass</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Yellow Grass Spawn Locations</h5>
       <p>Yellow Grass is randomly spawned</p>
     </div>

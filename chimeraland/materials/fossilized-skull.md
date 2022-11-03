@@ -69,9 +69,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Fossilized Skull</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Fossilized Skull Spawn Locations</h5>
       <p>Fossilized Skull is randomly spawned</p>
     </div>

@@ -69,9 +69,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Crystal</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Crystal Spawn Locations</h5>
       <p>Crystal is randomly spawned</p>
     </div>

@@ -70,9 +70,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Fleet Feather</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Fleet Feather Spawn Locations</h5>
       <p>Fleet Feather is randomly spawned</p>
     </div>

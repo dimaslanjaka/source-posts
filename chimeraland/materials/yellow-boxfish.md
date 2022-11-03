@@ -70,9 +70,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Yellow Boxfish</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Yellow Boxfish Spawn Locations</h5>
       <p>Yellow Boxfish is randomly spawned</p>
     </div>

@@ -73,9 +73,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Alligon Scales</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Alligon Scales Spawn Locations</h5>
       <p>Alligon Scales is randomly spawned</p>
     </div>

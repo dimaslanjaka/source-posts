@@ -70,9 +70,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Leopardfish</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Leopardfish Spawn Locations</h5>
       <p>Leopardfish is randomly spawned</p>
     </div>

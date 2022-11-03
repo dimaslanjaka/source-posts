@@ -65,9 +65,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Warcrab Meat</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Warcrab Meat Spawn Locations</h5>
       <p>Warcrab Meat is randomly spawned</p>
     </div>

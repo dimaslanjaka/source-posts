@@ -77,9 +77,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Thorny Pipfruit</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Thorny Pipfruit Spawn Locations</h5>
       <p>Thorny Pipfruit is randomly spawned</p>
     </div>

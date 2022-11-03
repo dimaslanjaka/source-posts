@@ -60,9 +60,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Cyathea</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Cyathea Spawn Locations</h5>
       <p>Cyathea is randomly spawned</p>
     </div>

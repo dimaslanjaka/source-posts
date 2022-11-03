@@ -76,9 +76,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Binge Cherry Leaf</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Binge Cherry Leaf Spawn Locations</h5>
       <p>Binge Cherry Leaf is randomly spawned</p>
     </div>

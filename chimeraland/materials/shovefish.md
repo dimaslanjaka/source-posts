@@ -71,9 +71,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Shovefish</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Shovefish Spawn Locations</h5>
       <p>Shovefish is randomly spawned</p>
     </div>

@@ -71,9 +71,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Silvercut Fish</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Silvercut Fish Spawn Locations</h5>
       <p>Silvercut Fish is randomly spawned</p>
     </div>

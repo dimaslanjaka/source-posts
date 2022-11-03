@@ -77,9 +77,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using First Jade</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>First Jade Spawn Locations</h5>
       <p>First Jade is randomly spawned</p>
     </div>

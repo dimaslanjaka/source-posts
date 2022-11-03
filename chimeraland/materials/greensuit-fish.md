@@ -70,9 +70,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Greensuit Fish</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Greensuit Fish Spawn Locations</h5>
       <p>Greensuit Fish is randomly spawned</p>
     </div>

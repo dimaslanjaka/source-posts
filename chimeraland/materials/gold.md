@@ -74,9 +74,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Gold</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Gold Spawn Locations</h5>
       <div></div>
       <div class="p-4">

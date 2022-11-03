@@ -80,9 +80,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Pale Jade</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Pale Jade Spawn Locations</h5>
       <div></div>
       <div class="p-4">

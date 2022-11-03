@@ -64,9 +64,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Blue Butterflyfish</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Blue Butterflyfish Spawn Locations</h5>
       <p>Blue Butterflyfish is randomly spawned</p>
     </div>

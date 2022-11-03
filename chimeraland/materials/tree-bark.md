@@ -76,9 +76,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Tree Bark</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Tree Bark Spawn Locations</h5>
       <p>Tree Bark is randomly spawned</p>
     </div>

@@ -70,9 +70,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Beast Vital Qi Pill</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Beast Vital Qi Pill Spawn Locations</h5>
       <p>Beast Vital Qi Pill is randomly spawned</p>
     </div>

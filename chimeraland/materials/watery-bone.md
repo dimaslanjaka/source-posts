@@ -78,9 +78,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Watery Bone</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Watery Bone Spawn Locations</h5>
       <p>Watery Bone is randomly spawned</p>
     </div>

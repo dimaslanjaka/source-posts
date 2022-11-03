@@ -68,9 +68,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Fiber</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Fiber Spawn Locations</h5>
       <p>Fiber is randomly spawned</p>
     </div>

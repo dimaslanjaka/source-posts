@@ -65,9 +65,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Newt Meat</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Newt Meat Spawn Locations</h5>
       <p>Newt Meat is randomly spawned</p>
     </div>

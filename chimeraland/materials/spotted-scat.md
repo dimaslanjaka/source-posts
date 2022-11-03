@@ -71,9 +71,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Spotted Scat</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Spotted Scat Spawn Locations</h5>
       <p>Spotted Scat is randomly spawned</p>
     </div>

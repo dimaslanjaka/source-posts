@@ -74,9 +74,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Strange Beast Bone</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Strange Beast Bone Spawn Locations</h5>
       <p>Strange Beast Bone is randomly spawned</p>
     </div>
