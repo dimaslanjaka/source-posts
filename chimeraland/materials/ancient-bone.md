@@ -88,18 +88,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ancient-bone.html"
                   >Ancient Bone</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ancient-bone.html"
                   >Ancient Bone</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span>Any Mixed Sauce<span> + </span
-                ><a
+                ><br />Any Mixed Sauce<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a

@@ -92,9 +92,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
-                ><span> + </span>Any Meat<span> + </span>Any High Quality
-                Seasoning<span> + </span>Any Flower<span> / </span>Any Mutant
-                Flower
+                ><br />Any Meat<br />Any High Quality Seasoning<br />Any
+                Flower<span> / </span>Any Mutant Flower
               </td>
             </tr>
             <tr>
@@ -120,13 +119,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
-                ><span> + </span>Any Seasoning<span> + </span>Any Lv.5
-                <span> / </span> Lv.6 Crop
+                ><br />Any Seasoning<br />Any Lv.5 <span> / </span> Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -148,13 +145,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Seasoning<span> + </span>Any Lv.5
-                <span> / </span> Lv.6 Crop
+                ><br />Any Seasoning<br />Any Lv.5 <span> / </span> Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -180,7 +175,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
-                ><span> + </span>Any Lv.6 Crop<span> + </span>Any Lv.6 Crop
+                ><br />Any Lv.6 Crop<br />Any Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -202,7 +197,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Lv.6 Crop<span> + </span>Any Lv.6 Crop
+                ><br />Any Lv.6 Crop<br />Any Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -224,8 +219,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Meat<span> + </span
-                ><a
+                Any Meat<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -260,17 +254,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
-                ><span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
+                ><br />Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -301,9 +293,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
-                ><span> + </span>Any Mixed Sauce<span> + </span>Any Meat<span>
-                  + </span
-                >Any Meat<span> + </span>Any High Quality Seasoning
+                ><br />Any Mixed Sauce<br />Any Meat<br />Any Meat<br />Any High
+                Quality Seasoning
               </td>
             </tr>
             <tr>
@@ -325,14 +316,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Cantaloupe<span> + </span
-                ><a
+                Cantaloupe<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/recipes/fruit-and-veggie-paste.html"
                   >Fruit &amp; Veggie Paste</a
-                ><span> + </span>Any Meat<span> + </span>Any Lv.6 Crop<span>
-                  + </span
-                ><a
+                ><br />Any Meat<br />Any Lv.6 Crop<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -362,8 +350,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -394,7 +381,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> + </span>Any Fish
+                ><br />Any Fish
               </td>
             </tr>
             <tr>
@@ -416,7 +403,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> + </span>Any Grade Crop
+                ><br />Any Grade Crop
               </td>
             </tr>
             <tr>
@@ -438,8 +425,9 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> + </span>Any High Quality Seasoning<span> / </span>Any
-                Flower<span> / </span>Any Mutant Flower<span> / </span>Any Curio
+                ><br />Any High Quality Seasoning<span> / </span>Any Flower<span>
+                  / </span
+                >Any Mutant Flower<span> / </span>Any Curio
               </td>
             </tr>
             <tr>
@@ -499,8 +487,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Croc Meat<span> + </span
-                ><a
+                Croc Meat<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -509,7 +496,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Lv.6 Crop<span> + </span>Any Lv.6 Crop
+                ><br />Any Lv.6 Crop<br />Any Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -531,8 +518,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Egg White<span> + </span
-                ><a
+                Egg White<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -572,9 +558,9 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Lv.6 Crop<span> + </span>Any Spice<span>
-                  + </span
-                >Orange grade fish<span> / </span>Red grade fish
+                ><br />Any Lv.6 Crop<br />Any Spice<br />Orange grade fish<span>
+                  / </span
+                >Red grade fish
               </td>
             </tr>
             <tr>
@@ -605,8 +591,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -615,7 +600,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Green grade fish
+                ><br />Green grade fish
               </td>
             </tr>
             <tr>
@@ -642,9 +627,9 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Blue grade fish<span> / </span>Purple grade
-                fish<span> / </span>Orange grade fish<span> / </span>Red grade
-                fish
+                ><br />Blue grade fish<span> / </span>Purple grade fish<span>
+                  / </span
+                >Orange grade fish<span> / </span>Red grade fish
               </td>
             </tr>
             <tr>
@@ -675,10 +660,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any High Quality Seasoning<span> + </span>Any
-                Meat<span> + </span>Any Spice<span> + </span>Any Lv.5 Crop<span>
-                  / </span
-                >Any Lv.6 Crop
+                ><br />Any High Quality Seasoning<br />Any Meat<br />Any
+                Spice<br />Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -700,8 +683,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Meat<span> + </span
-                ><a
+                Any Meat<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -710,9 +692,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Seasoning<span> + </span>Any Lv.5 Crop<span>
-                  / </span
-                >Any Lv.6 Crop
+                ><br />Any Seasoning<br />Any Lv.5 Crop<span> / </span>Any Lv.6
+                Crop
               </td>
             </tr>
             <tr>
@@ -743,8 +724,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -785,8 +765,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/job&#x27;s-tears.html"
                   >Job&#x27;s Tears</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -795,7 +774,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Meat
+                ><br />Any Meat
               </td>
             </tr>
             <tr>
@@ -821,8 +800,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/job&#x27;s-tears.html"
                   >Job&#x27;s Tears</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -853,8 +831,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Wild Fruit<span> + </span
-                ><a
+                Any Wild Fruit<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -895,8 +872,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span>
-                  / </span
+                ><br />Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span> / </span
                 >Any Lv.3 Crop<span> / </span>Any Lv.4 Crop
               </td>
             </tr>
@@ -924,8 +900,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span>
-                  / </span
+                ><br />Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span> / </span
                 >Any Lv.3 Crop<span> / </span>Any Lv.4 Crop<span> / </span>Any
                 Mutant Flower<span> / </span>Any Flower
               </td>
@@ -958,9 +933,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Lv.6 Crop<span> + </span>Any Meat<span>
-                  + </span
-                >Any Lv.6 Crop
+                ><br />Any Lv.6 Crop<br />Any Meat<br />Any Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -982,9 +955,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >dew</a
-                ><span> + </span>crop level 6<span> + </span>Any Meat<span>
-                  + </span
-                >crop level 6
+                ><br />crop level 6<br />Any Meat<br />crop level 6
               </td>
             </tr>
             <tr>
@@ -1006,8 +977,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Mushroom<span> + </span>Any Meat<span> + </span
-                ><a
+                Any Mushroom<br />Any Meat<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -1042,8 +1012,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -1052,7 +1021,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Wild Fruit
+                ><br />Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -1078,12 +1047,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
-                ><span> / </span>ce Piece<span> + </span>Any Meat
+                ><span> / </span>ce Piece<br />Any Meat
               </td>
             </tr>
             <tr>
@@ -1109,14 +1077,13 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/gourd.html"
                   >Gourd</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any Lv.4
-                Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
-                Crop<span> / </span>Any Flower<span> / </span>Any Mutant Flower
+                ><br />Dew or Ice Piece<br />Any Lv.4 Crop<span> / </span>Any
+                Lv.5 Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
+                Flower<span> / </span>Any Mutant Flower
               </td>
             </tr>
             <tr>
@@ -1138,13 +1105,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/gourd.html"
                   >Gourd</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -1153,8 +1118,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Cantaloupe<span> / </span>Mutant Flower<span>
-                  / </span
+                ><br />Cantaloupe<span> / </span>Mutant Flower<span> / </span
                 >Equonix Flower<span> / </span>Lv6 Vegetable
               </td>
             </tr>
@@ -1177,15 +1141,13 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span
-                ><a
+                Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat<span>
-                  + </span
-                >Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any
-                Lv.6 Crop
+                ><br />Dew or Ice Piece<br />Any Meat<br />Any Lv.4 Crop<span>
+                  / </span
+                >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -1211,8 +1173,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/tomato.html"
                   >Tomato</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -1221,9 +1182,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Lv.6 Crop<span> + </span>Any Mixed
-                Sauce<span> + </span
-                ><a
+                ><br />Any Lv.6 Crop<br />Any Mixed Sauce<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -1258,7 +1217,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat
+                ><br />Dew or Ice Piece<br />Any Meat
               </td>
             </tr>
             <tr>
@@ -1284,7 +1243,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/sea-buckthorn.html"
                   >Sea-Buckthorn</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat
+                ><br />Dew or Ice Piece<br />Any Meat
               </td>
             </tr>
             <tr>
@@ -1306,8 +1265,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Mushroom<span> + </span>Any Wild Fruit<span> + </span
-                ><a
+                Any Mushroom<br />Any Wild Fruit<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -1316,7 +1274,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Seasoning
+                ><br />Any Seasoning
               </td>
             </tr>
             <tr>
@@ -1369,7 +1327,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Wild Fruit
+                ><br />Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -1395,12 +1353,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/red-goodfruit.html"
                   >Red Goodfruit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat
+                ><br />Dew or Ice Piece<br />Any Meat
               </td>
             </tr>
             <tr>
@@ -1426,8 +1383,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/red-goodfruit.html"
                   >Red Goodfruit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -1462,13 +1418,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any
-                Seasoning<span> / </span>Any High Quality Seasoning
+                ><br />Dew or Ice Piece<br />Any Seasoning<span> / </span>Any
+                High Quality Seasoning
               </td>
             </tr>
             <tr>
@@ -1490,13 +1445,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -1505,8 +1458,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Garlic Powder<span> / </span>Job&#x27;s Tears
-                Powder
+                ><br />Garlic Powder<span> / </span>Job&#x27;s Tears Powder
               </td>
             </tr>
             <tr>
@@ -1532,9 +1484,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Purple grade
-                fish<span> / </span>Orange grade fish<span> / </span>Red grade
-                fish
+                ><br />Dew or Ice Piece<br />Purple grade fish<span> / </span
+                >Orange grade fish<span> / </span>Red grade fish
               </td>
             </tr>
             <tr>
@@ -1560,14 +1511,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bear-paw.html"
                   >Bear Paw</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> + </span>Five Spice Powder<span> + </span>Any Wild
-                Fruit<span> + </span
-                ><a
+                ><br />Five Spice Powder<br />Any Wild Fruit<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -1598,18 +1546,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bear-paw.html"
                   >Bear Paw</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> + </span>Five Spice Powder<span> + </span
-                ><a
+                ><br />Five Spice Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
@@ -1691,8 +1636,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Egg White<span> + </span
-                ><a
+                Egg White<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -1701,7 +1645,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Meat
+                ><br />Any Meat
               </td>
             </tr>
             <tr>
@@ -1723,8 +1667,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Wild Fruit<span> + </span
-                ><a
+                Any Wild Fruit<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -1733,9 +1676,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Meat<span> + </span>Orange grade fish<span>
-                  / </span
-                >Red grade fish
+                ><br />Any Meat<br />Orange grade fish<span> / </span>Red grade
+                fish
               </td>
             </tr>
             <tr>
@@ -1761,9 +1703,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/gratoise-meat.html"
                   >Gratoise Meat</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any
-                Seasoning<span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6
-                Crop
+                ><br />Dew or Ice Piece<br />Any Seasoning<br />Any Lv.5
+                Crop<span> / </span>Any Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -1785,9 +1726,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Job&#x27;s Tears Powder<span> + </span>Job&#x27;s Tears
-                Powder<span> + </span
-                ><a
+                Job&#x27;s Tears Powder<br />Job&#x27;s Tears Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -1796,7 +1735,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Lv.6 Crop<span> + </span>Any Meat
+                ><br />Any Lv.6 Crop<br />Any Meat
               </td>
             </tr>
             <tr>
@@ -1822,8 +1761,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/insect-ichor.html"
                   >Insect Ichor</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -1858,18 +1796,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/fortuphant-primal-spirit.html"
                   >Fortuphant Primal Spirit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/fortuphant-primal-spirit.html"
                   >Fortuphant Primal Spirit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -1878,7 +1813,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Corriander<span> / </span
+                ><br />Corriander<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/flat-cabbage.html"

@@ -81,12 +81,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wolfspider-meat.html"
                   >Wolfspider Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span>Garlic Powder
+                ><br />Garlic Powder
               </td>
             </tr>
             <tr>
@@ -104,13 +103,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> + </span
-                ><a
+                Garlic Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
                   >Crab Claw Meat</a
@@ -132,13 +129,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> + </span
-                ><a
+                Garlic Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/scorab-meat.html"
                   >Scorab Meat</a
@@ -160,13 +155,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> + </span
-                ><a
+                Garlic Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beetlefly-meat.html"
                   >Beetlefly Meat</a

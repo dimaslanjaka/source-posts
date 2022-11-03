@@ -92,7 +92,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/red-goodfruit.html"
                   >Red Goodfruit</a
-                ><span> + </span>Any Wild Fruit
+                ><br />Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -118,8 +118,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/red-goodfruit.html"
                   >Red Goodfruit</a
@@ -149,12 +148,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/red-goodfruit.html"
                   >Red Goodfruit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat
+                ><br />Dew or Ice Piece<br />Any Meat
               </td>
             </tr>
             <tr>
@@ -180,8 +178,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/red-goodfruit.html"
                   >Red Goodfruit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a

@@ -94,18 +94,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/fine-jade-liquid.html"
                   >Fine Jade Liquid</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/fine-jade-liquid.html"
                   >Fine Jade Liquid</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span>Any Mixed Sauce<span> + </span>Any Blue Grade
-                Fish
+                ><br />Any Mixed Sauce<br />Any Blue Grade Fish
               </td>
             </tr>
             <tr>

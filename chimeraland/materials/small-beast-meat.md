@@ -88,13 +88,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/small-beast-meat.html"
                   >Small Beast Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/small-beast-meat.html"
                   >Small Beast Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/small-beast-meat.html"
                   >Small Beast Meat</a

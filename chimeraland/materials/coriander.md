@@ -80,17 +80,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/hoof-sinew.html"
                   >Hoof Sinew</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
                   >Crab Claw Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bird-wing.html"
                   >Bird Wing</a
-                ><span> + </span>Coriander Powder<span> + </span>Any Mushroom
+                ><br />Coriander Powder<br />Any Mushroom
               </td>
             </tr>
             <tr>
@@ -112,12 +110,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Job&#x27;s Tears Powder<span> + </span
-                ><a
+                Job&#x27;s Tears Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/coriander.html"
                   >Coriander</a
-                ><span> + </span>Any Meat<span> + </span>Any Lv.5 or Lv.6 Crop
+                ><br />Any Meat<br />Any Lv.5 or Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -138,9 +135,7 @@ categories:
             </tr>
             <tr>
               <th>Material</th>
-              <td>
-                Any Meat<span> + </span>Any Meat<span> + </span>Coriander Powder
-              </td>
+              <td>Any Meat<br />Any Meat<br />Coriander Powder</td>
             </tr>
             <tr>
               <th>Device</th>

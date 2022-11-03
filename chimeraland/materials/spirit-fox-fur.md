@@ -88,18 +88,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-fur.html"
                   >Spirit Fox Fur</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-fur.html"
                   >Spirit Fox Fur</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span>Spicy Powder<span> + </span
-                ><a
+                ><br />Spicy Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a

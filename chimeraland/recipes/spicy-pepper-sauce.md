@@ -85,7 +85,7 @@ categories:
                   >Hot Pepper</a
                 ><span> + </span>Any Wild Fruit
               </li>
-              <li>Device: Stove or Camp</li>
+              <li>Device: Mixer - Jam</li>
             </ul>
           </div>
         </div>

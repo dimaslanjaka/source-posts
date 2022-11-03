@@ -75,8 +75,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chives.html"
                   >Chives</a
-                ><span> + </span>Job&#x27;s Tears Powder<span> + </span>Any
-                Meat<span> + </span>Any Lv.6 Crop<span> + </span>Any Meat
+                ><br />Job&#x27;s Tears Powder<br />Any Meat<br />Any Lv.6
+                Crop<br />Any Meat
               </td>
             </tr>
             <tr>

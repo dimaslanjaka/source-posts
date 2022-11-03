@@ -77,17 +77,15 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span
-                ><a
+                Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/prowler-meat.html"
                   >Prowler Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/prowler-meat.html"
                   >Prowler Meat</a
-                ><span> + </span>Any Seasoning
+                ><br />Any Seasoning
               </td>
             </tr>
             <tr>

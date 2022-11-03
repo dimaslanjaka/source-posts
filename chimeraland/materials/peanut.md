@@ -75,9 +75,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/grizzly-meat.html"
                   >Grizzly Meat</a
-                ><span> + </span>Peanut Oil<span> + </span>Any Sweet Sauce<span>
-                  + </span
-                >Any Sweet Sauce
+                ><br />Peanut Oil<br />Any Sweet Sauce<br />Any Sweet Sauce
               </td>
             </tr>
             <tr>
@@ -103,8 +101,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/scorab-meat.html"
                   >Scorab Meat</a
-                ><span> + </span>Any Mixed Sauce<span> + </span>Any High Quality
-                Seasoning<span> + </span>Peanut Oil
+                ><br />Any Mixed Sauce<br />Any High Quality Seasoning<br />Peanut
+                Oil
               </td>
             </tr>
             <tr>
@@ -126,13 +124,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span
-                ><a
+                Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bok-choy.html"
                   >Bok Choy</a
-                ><span> + </span>Any Lv.6 Crop<span> + </span>Any High Quality
-                Seasoning<span> + </span>Any Meat
+                ><br />Any Lv.6 Crop<br />Any High Quality Seasoning<br />Any
+                Meat
               </td>
             </tr>
             <tr>
@@ -156,17 +153,15 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span
-                ><a
+                Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/grouguana-meat.html"
                   >Grouguana Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/pumpkin.html"
                   >Pumpkin</a
-                ><span> + </span>Any Flower<span> / </span>Any Mutant Flower
+                ><br />Any Flower<span> / </span>Any Mutant Flower
               </td>
             </tr>
             <tr>
@@ -192,7 +187,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/watermelon.html"
                   >Watermelon</a
-                ><span> + </span>Egg White<span> + </span>Peanut Oil
+                ><br />Egg White<br />Peanut Oil
               </td>
             </tr>
             <tr>
@@ -214,9 +209,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span>Any High Quality Seasoning<span>
-                  + </span
-                >Red grade Fish<span> + </span>Peanut Oil
+                Peanut Oil<br />Any High Quality Seasoning<br />Red grade
+                Fish<br />Peanut Oil
               </td>
             </tr>
             <tr>
@@ -242,10 +236,9 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-intestines.html"
                   >Beast Intestines</a
-                ><span> + </span>Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span>
-                  / </span
+                ><br />Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span
                 >Any Lv.6 Crop<span> / </span>Any Flower<span> / </span>Any
-                Mutant Flower<span> + </span>Peanut Oil
+                Mutant Flower<br />Peanut Oil
               </td>
             </tr>
             <tr>
@@ -267,10 +260,10 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/kidney.html"
                   >Kidney</a
-                ><span> + </span>Peanut Oil<span> + </span>Any Lv.4 Crop<span>
+                ><br />Peanut Oil<br />Any Lv.4 Crop<span> / </span>Any Lv.5
+                Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any Flower<span>
                   / </span
-                >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
-                Flower<span> / </span>Any Mutant Flower
+                >Any Mutant Flower
               </td>
             </tr>
             <tr>
@@ -292,13 +285,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span
-                ><a
+                Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beetlefly-meat.html"
                   >Beetlefly Meat</a
-                ><span> + </span>Any High Quality Seasoning<span> + </span>Any
-                Mixed Sauce<span> + </span>Any Mixed Sauce
+                ><br />Any High Quality Seasoning<br />Any Mixed Sauce<br />Any
+                Mixed Sauce
               </td>
             </tr>
             <tr>
@@ -320,9 +312,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Wild Fruit<span> + </span>Any Mixed Sauce<span> + </span>Any
-                Mixed Sauce<span> + </span>Orange grade fish<span> / </span>Red
-                grade fish<span> + </span>Peanut Oil
+                Any Wild Fruit<br />Any Mixed Sauce<br />Any Mixed Sauce<br />Orange
+                grade fish<span> / </span>Red grade fish<br />Peanut Oil
               </td>
             </tr>
             <tr>
@@ -344,8 +335,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Meat<span> + </span>Any Wild Fruit<span> + </span>Any Sweet
-                Sauce<span> + </span>Peanut Oil
+                Any Meat<br />Any Wild Fruit<br />Any Sweet Sauce<br />Peanut
+                Oil
               </td>
             </tr>
             <tr>
@@ -371,7 +362,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/scallion.html"
                   >Scallion</a
-                ><span> + </span>Any Meat<span> + </span>Peanut Oil
+                ><br />Any Meat<br />Peanut Oil
               </td>
             </tr>
             <tr>
@@ -393,17 +384,15 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span
-                ><a
+                Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/prowler-meat.html"
                   >Prowler Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/prowler-meat.html"
                   >Prowler Meat</a
-                ><span> + </span>Any Seasoning
+                ><br />Any Seasoning
               </td>
             </tr>
             <tr>
@@ -429,12 +418,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/condor-meat.html"
                   >Condor Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/condor-meat.html"
                   >Condor Meat</a
-                ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                ><br />Any Sweet Sauce<br />Peanut Oil
               </td>
             </tr>
             <tr>
@@ -456,12 +444,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/vulture-meat.html"
                   >Vulture Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/vulture-meat.html"
                   >Vulture Meat</a
-                ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                ><br />Any Sweet Sauce<br />Peanut Oil
               </td>
             </tr>
             <tr>
@@ -483,12 +470,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
-                ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                ><br />Any Sweet Sauce<br />Peanut Oil
               </td>
             </tr>
             <tr>
@@ -514,9 +500,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beetlefly-meat.html"
                   >Beetlefly Meat</a
-                ><span> + </span>Any Meat<span> + </span>Any Sweet Sauce<span>
-                  + </span
-                >Peanut Oil
+                ><br />Any Meat<br />Any Sweet Sauce<br />Peanut Oil
               </td>
             </tr>
             <tr>
@@ -537,7 +521,7 @@ categories:
             </tr>
             <tr>
               <th>Material</th>
-              <td>Peanut Oil<span> + </span>Peanut Oil</td>
+              <td>Peanut Oil<br />Peanut Oil</td>
             </tr>
             <tr>
               <th>Device</th>
@@ -558,8 +542,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk of Fat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk of Fat</a
@@ -585,10 +568,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Job&#x27;s Tears Powder<span> + </span>Job&#x27;s Tears
-                Powder<span> + </span>Any Lv.6 Crop<span> + </span>Any Meat<span>
-                  + </span
-                >Peanut Oil
+                Job&#x27;s Tears Powder<br />Job&#x27;s Tears Powder<br />Any
+                Lv.6 Crop<br />Any Meat<br />Peanut Oil
               </td>
             </tr>
             <tr>
@@ -614,12 +595,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
-                ><span> / </span>ce Piece<span> + </span>Any Meat
+                ><span> / </span>ce Piece<br />Any Meat
               </td>
             </tr>
             <tr>
@@ -645,14 +625,13 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/gourd.html"
                   >Gourd</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any Lv.4
-                Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
-                Crop<span> / </span>Any Flower<span> / </span>Any Mutant Flower
+                ><br />Dew or Ice Piece<br />Any Lv.4 Crop<span> / </span>Any
+                Lv.5 Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
+                Flower<span> / </span>Any Mutant Flower
               </td>
             </tr>
             <tr>
@@ -674,13 +653,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/gourd.html"
                   >Gourd</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -689,8 +666,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Cantaloupe<span> / </span>Mutant Flower<span>
-                  / </span
+                ><br />Cantaloupe<span> / </span>Mutant Flower<span> / </span
                 >Equonix Flower<span> / </span>Lv6 Vegetable
               </td>
             </tr>
@@ -713,15 +689,13 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span
-                ><a
+                Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat<span>
-                  + </span
-                >Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any
-                Lv.6 Crop
+                ><br />Dew or Ice Piece<br />Any Meat<br />Any Lv.4 Crop<span>
+                  / </span
+                >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -743,14 +717,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span
-                ><a
+                Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/sesame.html"
                   >Sesame</a
-                ><span> + </span>Any Seasoning<span> / </span>Any Spice<span>
-                  / </span
-                >Any Sweet Sauce<span> / </span>Any Spicy Sauce
+                ><br />Any Seasoning<span> / </span>Any Spice<span> / </span>Any
+                Sweet Sauce<span> / </span>Any Spicy Sauce
               </td>
             </tr>
             <tr>
@@ -772,8 +744,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span>Spicy Powder<span> + </span>Any Wild
-                Fruit<span> + </span>Any Meat
+                Peanut Oil<br />Spicy Powder<br />Any Wild Fruit<br />Any Meat
               </td>
             </tr>
             <tr>
@@ -795,9 +766,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span>Any Spicy Sauce<span> + </span>Blue
-                grade fish<span> / </span>Purple grade fish<span> / </span
-                >Orange grade fish<span> / </span>Red grade fish
+                Peanut Oil<br />Any Spicy Sauce<br />Blue grade fish<span>
+                  / </span
+                >Purple grade fish<span> / </span>Orange grade fish<span>
+                  / </span
+                >Red grade fish
               </td>
             </tr>
             <tr>
@@ -818,9 +791,7 @@ categories:
             </tr>
             <tr>
               <th>Material</th>
-              <td>
-                Any Meat<span> + </span>Peanut Oil<span> + </span>Spicy Powder
-              </td>
+              <td>Any Meat<br />Peanut Oil<br />Spicy Powder</td>
             </tr>
             <tr>
               <th>Device</th>
@@ -845,13 +816,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any
-                Seasoning<span> / </span>Any High Quality Seasoning
+                ><br />Dew or Ice Piece<br />Any Seasoning<span> / </span>Any
+                High Quality Seasoning
               </td>
             </tr>
             <tr>
@@ -873,13 +843,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -888,8 +856,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Garlic Powder<span> / </span>Job&#x27;s Tears
-                Powder
+                ><br />Garlic Powder<span> / </span>Job&#x27;s Tears Powder
               </td>
             </tr>
             <tr>
@@ -911,13 +878,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Egg White<span> + </span>Peanut Oil<span> + </span
-                ><a
+                Egg White<br />Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/recipes/fruit-and-veggie-paste.html"
                   >Fruit &amp; Veggie Paste</a
-                ><span> + </span>Any Lv.3 Crop<span> / </span>Any Lv.4 Crop<span>
-                  / </span
+                ><br />Any Lv.3 Crop<span> / </span>Any Lv.4 Crop<span> / </span
                 >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
                 Flower<span> / </span>Any Mutant Flower
               </td>
@@ -945,8 +910,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
-                ><span> + </span>Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span>
-                  / </span
+                ><br />Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span
                 >Any Lv.6 Crop<span> / </span>Any Flower<span> / </span>Any
                 Mutant Flower <span> / </span> Peanut Oil
               </td>
@@ -974,13 +938,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
@@ -1010,9 +972,9 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/moose-meat.html"
                   >Moose Meat</a
-                ><span> + </span>Peanut Oil<span> + </span>Any Sweet Sauce<span>
-                  + </span
-                >Any Spicy Sauce<span> / </span>Any Spice
+                ><br />Peanut Oil<br />Any Sweet Sauce<br />Any Spicy Sauce<span>
+                  / </span
+                >Any Spice
               </td>
             </tr>
             <tr>
@@ -1034,9 +996,9 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span>Job&#x27;s Tears Powder<span> + </span
-                >Any Wild Fruit<span> + </span>Purple grade fish<span> / </span
-                >Orange grade fish<span> / </span>Red grade fish
+                Peanut Oil<br />Job&#x27;s Tears Powder<br />Any Wild Fruit<br />Purple
+                grade fish<span> / </span>Orange grade fish<span> / </span>Red
+                grade fish
               </td>
             </tr>
             <tr>
@@ -1054,12 +1016,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span>Job&#x27;s Tear Powder<span> + </span
-                ><a
+                Peanut Oil<br />Job&#x27;s Tear Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
-                ><span> + </span>Any Purple Fish
+                ><br />Any Purple Fish
               </td>
             </tr>
             <tr>
@@ -1085,14 +1046,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/recipes/fruit-and-veggie-paste.html"
                   >Fruit &amp; Veggie Paste</a
-                ><span> + </span>Peanut Oil<span> + </span
-                ><a
+                ><br />Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/recipes/fruit-and-veggie-paste.html"
                   >Fruit &amp; Veggie Paste</a
-                ><span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span>
-                  + </span
-                ><a
+                ><br />Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
@@ -1118,12 +1076,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Egg White<span> + </span>Peanut Oil<span> + </span
-                ><a
+                Egg White<br />Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/recipes/veggie-paste.html"
                   >Veggie Paste</a
-                ><span> + </span>Equinox Flower
+                ><br />Equinox Flower
               </td>
             </tr>
             <tr>
@@ -1145,8 +1102,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span>Fruit Sauce<span> + </span>Any
-                Meat<span> + </span>Equinox Flower
+                Peanut Oil<br />Fruit Sauce<br />Any Meat<br />Equinox Flower
               </td>
             </tr>
             <tr>
@@ -1164,8 +1120,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span>Any Mixed Sauce<span> + </span>Any
-                Meat<span> + </span>Any Flower<span> / </span>Any Mutant Flower
+                Peanut Oil<br />Any Mixed Sauce<br />Any Meat<br />Any
+                Flower<span> / </span>Any Mutant Flower
               </td>
             </tr>
             <tr>

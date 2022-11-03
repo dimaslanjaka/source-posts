@@ -98,18 +98,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/icebug-primal-spirit.html"
                   >Icebug Primal Spirit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/icebug-primal-spirit.html"
                   >Icebug Primal Spirit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/recipes/red-hot-sauce.html"
                   >Red Hot Sauce</a
@@ -118,7 +115,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/recipes/cucumber-sauce.html"
                   >Cucumber Sauce</a
-                ><span> / </span>Fruit Sauce<span> + </span>Orange Grade Fish
+                ><span> / </span>Fruit Sauce<br />Orange Grade Fish
               </td>
             </tr>
             <tr>

@@ -77,9 +77,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> + </span>Job&#x27;s Tears Powder<span>
-                  + </span
-                ><a
+                Garlic Powder<br />Job&#x27;s Tears Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bosalo-meat.html"
                   >Bosalo Meat</a

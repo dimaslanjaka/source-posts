@@ -75,10 +75,9 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/gourd.html"
                   >Gourd</a
-                ><span> + </span>Any Meat<span> + </span>Any Seasoning<span>
+                ><br />Any Meat<br />Any Seasoning<span> / </span>Any Spice<span>
                   / </span
-                >Any Spice<span> / </span>Any Sweet Sauce<span> / </span>Any
-                Spicy Sauce
+                >Any Sweet Sauce<span> / </span>Any Spicy Sauce
               </td>
             </tr>
             <tr>
@@ -104,14 +103,13 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/gourd.html"
                   >Gourd</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any Lv.4
-                Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
-                Crop<span> / </span>Any Flower<span> / </span>Any Mutant Flower
+                ><br />Dew or Ice Piece<br />Any Lv.4 Crop<span> / </span>Any
+                Lv.5 Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
+                Flower<span> / </span>Any Mutant Flower
               </td>
             </tr>
             <tr>
@@ -133,13 +131,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/gourd.html"
                   >Gourd</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -148,8 +144,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Cantaloupe<span> / </span>Mutant Flower<span>
-                  / </span
+                ><br />Cantaloupe<span> / </span>Mutant Flower<span> / </span
                 >Equonix Flower<span> / </span>Lv6 Vegetable
               </td>
             </tr>

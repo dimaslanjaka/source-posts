@@ -80,18 +80,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk of Fat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk of Fat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
@@ -116,7 +113,7 @@ categories:
             </tr>
             <tr>
               <th>Material</th>
-              <td>Peanut Oil<span> + </span>Peanut Oil</td>
+              <td>Peanut Oil<br />Peanut Oil</td>
             </tr>
             <tr>
               <th>Device</th>
@@ -137,8 +134,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk of Fat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk of Fat</a

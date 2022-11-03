@@ -90,18 +90,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/grizzly-primal-spirit.html"
                   >Grizzly Primal Spirit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/grizzly-primal-spirit.html"
                   >Grizzly Primal Spirit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/recipes/red-hot-sauce.html"
                   >Red Hot Sauce</a
@@ -110,8 +107,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/recipes/cucumber-sauce.html"
                   >Cucumber Sauce</a
-                ><span> / </span>Fruit Sauce<span> + </span>Corriander<span>
-                  / </span
+                ><span> / </span>Fruit Sauce<br />Corriander<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/flat-cabbage.html"

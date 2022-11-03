@@ -96,18 +96,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/flamebug-primal-spirit.html"
                   >Flamebug Primal Spirit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/flamebug-primal-spirit.html"
                   >Flamebug Primal Spirit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span>Any Meat<span> + </span
-                ><a
+                ><br />Any Meat<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/recipes/red-hot-sauce.html"
                   >Red Hot Sauce</a

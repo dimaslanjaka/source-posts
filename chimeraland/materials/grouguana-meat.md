@@ -79,17 +79,15 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span
-                ><a
+                Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/grouguana-meat.html"
                   >Grouguana Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/pumpkin.html"
                   >Pumpkin</a
-                ><span> + </span>Any Flower<span> / </span>Any Mutant Flower
+                ><br />Any Flower<span> / </span>Any Mutant Flower
               </td>
             </tr>
             <tr>

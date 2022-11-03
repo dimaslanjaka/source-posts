@@ -96,7 +96,7 @@ categories:
                   >Ice Piece</a
                 >
               </li>
-              <li>Device: Stove or Camp</li>
+              <li>Device: Mixer - Jam</li>
             </ul>
           </div>
         </div>

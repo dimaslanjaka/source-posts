@@ -73,13 +73,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span
-                ><a
+                Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bok-choy.html"
                   >Bok Choy</a
-                ><span> + </span>Any Lv.6 Crop<span> + </span>Any High Quality
-                Seasoning<span> + </span>Any Meat
+                ><br />Any Lv.6 Crop<br />Any High Quality Seasoning<br />Any
+                Meat
               </td>
             </tr>
             <tr>

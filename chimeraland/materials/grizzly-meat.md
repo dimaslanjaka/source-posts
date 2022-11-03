@@ -81,9 +81,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/grizzly-meat.html"
                   >Grizzly Meat</a
-                ><span> + </span>Peanut Oil<span> + </span>Any Sweet Sauce<span>
-                  + </span
-                >Any Sweet Sauce
+                ><br />Peanut Oil<br />Any Sweet Sauce<br />Any Sweet Sauce
               </td>
             </tr>
             <tr>

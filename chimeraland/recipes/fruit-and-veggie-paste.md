@@ -78,7 +78,7 @@ categories:
                 Lv.3 Crop<span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5
                 Crop<span> / </span>Any Lv.6 Crop
               </li>
-              <li>Device: Stove or Camp</li>
+              <li>Device: Mixer - Jam</li>
             </ul>
           </div>
         </div>

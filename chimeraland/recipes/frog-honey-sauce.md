@@ -88,7 +88,7 @@ categories:
                 ><span> + </span>Any High Quality Seasoning<span> + </span>Any
                 Mixed Sauce<span> + </span>Any Mixed Sauce
               </li>
-              <li>Device: Stove or Camp</li>
+              <li>Device: Mixer - Jam</li>
             </ul>
           </div>
         </div>

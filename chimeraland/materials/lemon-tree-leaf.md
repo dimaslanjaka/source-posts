@@ -82,12 +82,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Barbled Dragonfish<span> + </span
-                ><a
+                Barbled Dragonfish<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
-                ><span> + </span>Barbled Dragonfish
+                ><br />Barbled Dragonfish
               </td>
             </tr>
             <tr>
@@ -109,9 +108,9 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Egg White<span> + </span>Any Meat<span> + </span>Any Lv.3
-                Crop<span> + </span>Purple grade fish<span> / </span>Orange
-                grade fish<span> / </span>Red grade fish
+                Egg White<br />Any Meat<br />Any Lv.3 Crop<br />Purple grade
+                fish<span> / </span>Orange grade fish<span> / </span>Red grade
+                fish
               </td>
             </tr>
             <tr>
@@ -129,14 +128,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Egg White<span> + </span>Any Meat<span> + </span
-                ><a
+                Egg White<br />Any Meat<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
-                ><span> / </span>Any rare Crops such as pumpkin etc<span>
-                  + </span
-                >any Purple Fish
+                ><span> / </span>Any rare Crops such as pumpkin etc<br />any
+                Purple Fish
               </td>
             </tr>
             <tr>
@@ -162,9 +159,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Purple grade
-                fish<span> / </span>Orange grade fish<span> / </span>Red grade
-                fish
+                ><br />Dew or Ice Piece<br />Purple grade fish<span> / </span
+                >Orange grade fish<span> / </span>Red grade fish
               </td>
             </tr>
             <tr>
@@ -190,13 +186,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/viperfish.html"
                   >Viperfish</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/viperfish.html"
                   >Viperfish</a
@@ -226,18 +220,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-fur.html"
                   >Spirit Fox Fur</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-fur.html"
                   >Spirit Fox Fur</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span>Spicy Powder<span> + </span
-                ><a
+                ><br />Spicy Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
@@ -267,18 +258,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ancient-bone.html"
                   >Ancient Bone</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ancient-bone.html"
                   >Ancient Bone</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span>Any Mixed Sauce<span> + </span
-                ><a
+                ><br />Any Mixed Sauce<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
@@ -308,18 +296,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/stoatle-shell.html"
                   >Stoatle Shell</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/stoatle-shell.html"
                   >Stoatle Shell</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span>Scallion Powder<span> + </span
-                ><a
+                ><br />Scallion Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
@@ -349,18 +334,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/magnificent-horn.html"
                   >Magnificent Horn</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/magnificent-horn.html"
                   >Magnificent Horn</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/recipes/spicy-pepper-sauce.html"
                   >Spicy Pepper Sauce</a
@@ -369,8 +351,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/recipes/garlic-sauce.html"
                   >Garlic Sauce</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a

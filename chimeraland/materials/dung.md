@@ -83,8 +83,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -115,7 +114,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> + </span>Any Fish
+                ><br />Any Fish
               </td>
             </tr>
             <tr>
@@ -137,7 +136,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> + </span>Any Grade Crop
+                ><br />Any Grade Crop
               </td>
             </tr>
             <tr>
@@ -159,8 +158,9 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> + </span>Any High Quality Seasoning<span> / </span>Any
-                Flower<span> / </span>Any Mutant Flower<span> / </span>Any Curio
+                ><br />Any High Quality Seasoning<span> / </span>Any Flower<span>
+                  / </span
+                >Any Mutant Flower<span> / </span>Any Curio
               </td>
             </tr>
             <tr>
@@ -244,13 +244,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a

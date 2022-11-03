@@ -89,18 +89,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/stoatle-shell.html"
                   >Stoatle Shell</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/stoatle-shell.html"
                   >Stoatle Shell</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span>Scallion Powder<span> + </span
-                ><a
+                ><br />Scallion Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a

@@ -91,18 +91,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                   >Spirit Fox Primal Spirit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                   >Spirit Fox Primal Spirit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-heart.html"
                   >Beast Heart</a
@@ -131,8 +128,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
-                ><span> + </span>Corriander Powder<span> / </span>Five Spice
-                Sauce
+                ><br />Corriander Powder<span> / </span>Five Spice Sauce
               </td>
             </tr>
             <tr>

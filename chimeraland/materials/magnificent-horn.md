@@ -88,18 +88,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/magnificent-horn.html"
                   >Magnificent Horn</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/magnificent-horn.html"
                   >Magnificent Horn</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/recipes/spicy-pepper-sauce.html"
                   >Spicy Pepper Sauce</a
@@ -108,8 +105,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/recipes/garlic-sauce.html"
                   >Garlic Sauce</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a

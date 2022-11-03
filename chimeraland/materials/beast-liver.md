@@ -80,18 +80,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk of Fat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk of Fat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
@@ -121,8 +118,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
@@ -148,8 +144,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Meat<span> + </span>Any Wild Fruit<span> / </span>Any
-                Seasoning<span> / </span
+                Any Meat<br />Any Wild Fruit<span> / </span>Any Seasoning<span>
+                  / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-heart.html"
@@ -198,7 +194,7 @@ categories:
               <th>Material</th>
               <td>
                 Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span> / </span>Any
-                Lv.3 Crop<span> / </span>Any Lv.4 Crop<span> + </span>Any Meat
+                Lv.3 Crop<span> / </span>Any Lv.4 Crop<br />Any Meat
               </td>
             </tr>
             <tr>
@@ -220,8 +216,9 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Meat<span> + </span>Any Meat<span> / </span>Any
-                Seasoning<span> / </span>Any Spice<span> / </span
+                Any Meat<br />Any Meat<span> / </span>Any Seasoning<span>
+                  / </span
+                >Any Spice<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-heart.html"
@@ -273,8 +270,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Meat<span> + </span>Any Spice<span> + </span>Any Lv.3
-                Crop<span> / </span>Any Lv.4 Crop
+                Any Meat<br />Any Spice<br />Any Lv.3 Crop<span> / </span>Any
+                Lv.4 Crop
               </td>
             </tr>
             <tr>
@@ -321,7 +318,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
-                ><span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
+                ><br />Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -338,10 +335,7 @@ categories:
             </tr>
             <tr>
               <th>Material</th>
-              <td>
-                Any Curio<span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6
-                Crop
-              </td>
+              <td>Any Curio<br />Any Lv.5 Crop<span> / </span>Any Lv.6 Crop</td>
             </tr>
             <tr>
               <th>Device</th>
@@ -357,10 +351,7 @@ categories:
             </tr>
             <tr>
               <th>Material</th>
-              <td>
-                Any Meat<span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6
-                Crop
-              </td>
+              <td>Any Meat<br />Any Lv.5 Crop<span> / </span>Any Lv.6 Crop</td>
             </tr>
             <tr>
               <th>Device</th>
@@ -436,18 +427,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                   >Spirit Fox Primal Spirit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                   >Spirit Fox Primal Spirit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-heart.html"
                   >Beast Heart</a
@@ -476,8 +464,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
-                ><span> + </span>Corriander Powder<span> / </span>Five Spice
-                Sauce
+                ><br />Corriander Powder<span> / </span>Five Spice Sauce
               </td>
             </tr>
             <tr>

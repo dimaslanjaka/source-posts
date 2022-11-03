@@ -75,8 +75,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/tomato.html"
                   >Tomato</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -85,9 +84,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Lv.6 Crop<span> + </span>Any Mixed
-                Sauce<span> + </span
-                ><a
+                ><br />Any Lv.6 Crop<br />Any Mixed Sauce<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -120,12 +117,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Egg White<span> + </span
-                ><a
+                Egg White<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/tomato.html"
                   >Tomato</a
-                ><span> + </span>Any Lv.3 Crop<span> / </span>Any Lv.4 Crop
+                ><br />Any Lv.3 Crop<span> / </span>Any Lv.4 Crop
               </td>
             </tr>
             <tr>

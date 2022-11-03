@@ -88,12 +88,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wolfspider-meat.html"
                   >Wolfspider Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span>Garlic Powder
+                ><br />Garlic Powder
               </td>
             </tr>
             <tr>
@@ -111,13 +110,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> + </span
-                ><a
+                Garlic Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
                   >Crab Claw Meat</a
@@ -139,13 +136,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> + </span
-                ><a
+                Garlic Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/scorab-meat.html"
                   >Scorab Meat</a
@@ -167,13 +162,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> + </span
-                ><a
+                Garlic Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beetlefly-meat.html"
                   >Beetlefly Meat</a
@@ -203,7 +196,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span>Any Wild Fruit
+                ><br />Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -229,8 +222,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/recipes/fruit-and-veggie-paste.html"
                   >Fruit &amp; Veggie Paste</a
@@ -256,8 +248,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/recipes/veggie-paste.html"
                   >Veggie Paste</a
@@ -287,7 +278,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat
+                ><br />Dew or Ice Piece<br />Any Meat
               </td>
             </tr>
             <tr>
@@ -315,8 +306,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span>Garlic Powder<span> + </span>Any Lv.2, Lv.3 and
-                Lv.4 Crop
+                ><br />Garlic Powder<br />Any Lv.2, Lv.3 and Lv.4 Crop
               </td>
             </tr>
             <tr>

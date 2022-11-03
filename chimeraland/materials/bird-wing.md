@@ -87,17 +87,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/hoof-sinew.html"
                   >Hoof Sinew</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
                   >Crab Claw Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bird-wing.html"
                   >Bird Wing</a
-                ><span> + </span>Coriander Powder<span> + </span>Any Mushroom
+                ><br />Coriander Powder<br />Any Mushroom
               </td>
             </tr>
             <tr>
@@ -123,9 +121,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bird-wing.html"
                   >Bird Wing</a
-                ><span> + </span>Any Seasoning<span> / </span>Any Spice<span>
-                  / </span
-                >Any High Quality Seasoning
+                ><br />Any Seasoning<span> / </span>Any Spice<span> / </span>Any
+                High Quality Seasoning
               </td>
             </tr>
             <tr>
@@ -151,23 +148,19 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/nirvana-feather.html"
                   >Nirvana Feather</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/nirvana-feather.html"
                   >Nirvana Feather</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bird-wing.html"
                   >Bird Wing</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bird-wing.html"
                   >Bird Wing</a

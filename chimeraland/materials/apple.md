@@ -86,7 +86,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
-                ><span> + </span>Any Wild Fruit
+                ><br />Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -134,8 +134,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
@@ -165,12 +164,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
-                ><span> + </span>Any Wild Fruit
+                ><br />Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -196,14 +194,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bear-paw.html"
                   >Bear Paw</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> + </span>Five Spice Powder<span> + </span>Any Wild
-                Fruit<span> + </span
-                ><a
+                ><br />Five Spice Powder<br />Any Wild Fruit<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
@@ -234,18 +229,15 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bear-paw.html"
                   >Bear Paw</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> + </span>Five Spice Powder<span> + </span
-                ><a
+                ><br />Five Spice Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
@@ -276,9 +268,9 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span>Job&#x27;s Tears Powder<span> + </span
-                >Any Wild Fruit<span> + </span>Purple grade fish<span> / </span
-                >Orange grade fish<span> / </span>Red grade fish
+                Peanut Oil<br />Job&#x27;s Tears Powder<br />Any Wild Fruit<br />Purple
+                grade fish<span> / </span>Orange grade fish<span> / </span>Red
+                grade fish
               </td>
             </tr>
             <tr>
@@ -296,12 +288,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span>Job&#x27;s Tear Powder<span> + </span
-                ><a
+                Peanut Oil<br />Job&#x27;s Tear Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
-                ><span> + </span>Any Purple Fish
+                ><br />Any Purple Fish
               </td>
             </tr>
             <tr>
@@ -353,8 +344,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/sea-buckthorn.html"
                   >Sea-Buckthorn</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a

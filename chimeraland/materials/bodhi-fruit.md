@@ -95,7 +95,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bodhi-fruit.html"
                   >Bodhi Fruit</a
-                ><span> + </span>Any Wild Fruit
+                ><br />Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -121,12 +121,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bodhi-fruit.html"
                   >Bodhi Fruit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span>Any Meat
+                ><br />Any Meat
               </td>
             </tr>
             <tr>
@@ -152,8 +151,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bodhi-fruit.html"
                   >Bodhi Fruit</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
@@ -183,8 +181,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bodhi-fruit.html"
                   >Bodhi Fruit</a

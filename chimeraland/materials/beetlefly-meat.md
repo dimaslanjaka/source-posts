@@ -77,13 +77,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span
-                ><a
+                Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beetlefly-meat.html"
                   >Beetlefly Meat</a
-                ><span> + </span>Any High Quality Seasoning<span> + </span>Any
-                Mixed Sauce<span> + </span>Any Mixed Sauce
+                ><br />Any High Quality Seasoning<br />Any Mixed Sauce<br />Any
+                Mixed Sauce
               </td>
             </tr>
             <tr>
@@ -109,12 +108,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wolfspider-meat.html"
                   >Wolfspider Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span>Garlic Powder
+                ><br />Garlic Powder
               </td>
             </tr>
             <tr>
@@ -132,13 +130,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> + </span
-                ><a
+                Garlic Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
                   >Crab Claw Meat</a
@@ -160,13 +156,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> + </span
-                ><a
+                Garlic Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/scorab-meat.html"
                   >Scorab Meat</a
@@ -188,13 +182,11 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> + </span
-                ><a
+                Garlic Powder<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beetlefly-meat.html"
                   >Beetlefly Meat</a
@@ -224,9 +216,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beetlefly-meat.html"
                   >Beetlefly Meat</a
-                ><span> + </span>Any Meat<span> + </span>Any Sweet Sauce<span>
-                  + </span
-                >Peanut Oil
+                ><br />Any Meat<br />Any Sweet Sauce<br />Peanut Oil
               </td>
             </tr>
             <tr>

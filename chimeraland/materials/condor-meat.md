@@ -81,12 +81,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/condor-meat.html"
                   >Condor Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/condor-meat.html"
                   >Condor Meat</a
-                ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                ><br />Any Sweet Sauce<br />Peanut Oil
               </td>
             </tr>
             <tr>
@@ -108,12 +107,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/vulture-meat.html"
                   >Vulture Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/vulture-meat.html"
                   >Vulture Meat</a
-                ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                ><br />Any Sweet Sauce<br />Peanut Oil
               </td>
             </tr>
             <tr>
@@ -135,12 +133,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
-                ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                ><br />Any Sweet Sauce<br />Peanut Oil
               </td>
             </tr>
             <tr>

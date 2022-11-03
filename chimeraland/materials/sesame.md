@@ -71,14 +71,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> + </span
-                ><a
+                Peanut Oil<br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/sesame.html"
                   >Sesame</a
-                ><span> + </span>Any Seasoning<span> / </span>Any Spice<span>
-                  / </span
-                >Any Sweet Sauce<span> / </span>Any Spicy Sauce
+                ><br />Any Seasoning<span> / </span>Any Spice<span> / </span>Any
+                Sweet Sauce<span> / </span>Any Spicy Sauce
               </td>
             </tr>
             <tr>

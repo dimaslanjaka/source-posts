@@ -88,13 +88,11 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/viperfish.html"
                   >Viperfish</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
-                ><span> + </span
-                ><a
+                ><br /><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/viperfish.html"
                   >Viperfish</a
