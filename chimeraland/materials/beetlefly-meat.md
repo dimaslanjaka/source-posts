@@ -62,6 +62,160 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Beetlefly Meat is a cooking ingredient for</h2>
+      <div id="recipe-frog-honey-sauce">
+        <h5 id="item-frog-honey-sauce">Frog Honey Sauce</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Frog Honey Sauce 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    Peanut Oil<span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/beetlefly-meat.html"
+                      >Beetlefly Meat</a
+                    ><span> + </span>Any High Quality Seasoning<span> + </span
+                    >Any Mixed Sauce<span> + </span>Any Mixed Sauce
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-garlic-braised-meat">
+        <h5 id="item-garlic-braised-meat">Garlic Braised Meat</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Garlic Braised Meat 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wolfspider-meat.html"
+                      >Wolfspider Meat</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wild-garlic.html"
+                      >Wild Garlic</a
+                    ><span> + </span>Garlic Powder
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Garlic Braised Meat 2</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    Garlic Powder<span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wild-garlic.html"
+                      >Wild Garlic</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/crab-claw-meat.html"
+                      >Crab Claw Meat</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Garlic Braised Meat 3</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    Garlic Powder<span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wild-garlic.html"
+                      >Wild Garlic</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/scorab-meat.html"
+                      >Scorab Meat</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Garlic Braised Meat 4</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    Garlic Powder<span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wild-garlic.html"
+                      >Wild Garlic</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/beetlefly-meat.html"
+                      >Beetlefly Meat</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-honeybee-jerky">
+        <h5 id="item-honeybee-jerky">Honeybee Jerky</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Honeybee Jerky 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/beetlefly-meat.html"
+                      >Beetlefly Meat</a
+                    ><span> + </span>Any Meat<span> + </span>Any Sweet
+                    Sauce<span> + </span>Peanut Oil
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Beetlefly Meat Spawn Locations</h5>
       <p>Beetlefly Meat is randomly spawned</p>

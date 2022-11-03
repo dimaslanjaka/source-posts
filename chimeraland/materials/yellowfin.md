@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Yellowfin</h3>
       <div class="mb-1 text-muted">October 7, 2022 9:26 PM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Yellowfin</a>
+      <a
+        href="/chimeraland/materials/yellowfin.html"
+        class="stretched-link d-none"
+        >Continue reading Yellowfin</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -61,6 +65,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Yellowfin is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Yellowfin Spawn Locations</h5>

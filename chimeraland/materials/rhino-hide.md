@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Rhino Hide</h3>
       <div class="mb-1 text-muted">October 2, 2022 4:26 PM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Rhino Hide</a>
+      <a
+        href="/chimeraland/materials/rhino-hide.html"
+        class="stretched-link d-none"
+        >Continue reading Rhino Hide</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -68,6 +72,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Rhino Hide is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Rhino Hide Spawn Locations</h5>

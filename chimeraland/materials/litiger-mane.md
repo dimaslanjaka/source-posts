@@ -74,6 +74,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Litiger Mane is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Litiger Mane Spawn Locations</h5>
       <p>Litiger Mane is randomly spawned</p>

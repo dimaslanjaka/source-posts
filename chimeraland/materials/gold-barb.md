@@ -67,6 +67,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Gold Barb is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Gold Barb Spawn Locations</h5>
       <p>Gold Barb is randomly spawned</p>

@@ -33,7 +33,11 @@ categories:
         Half-bathed in light, half obscured in shadow, see the goblet
         overfloweth, savor the delightful fragrance.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Find Jade</a>
+      <a
+        href="/chimeraland/materials/find-jade.html"
+        class="stretched-link d-none"
+        >Continue reading Find Jade</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -72,6 +76,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Find Jade is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Find Jade Spawn Locations</h5>

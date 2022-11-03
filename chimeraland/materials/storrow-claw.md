@@ -32,7 +32,9 @@ categories:
         Its claws are long and short and its feet are webbed. It can stand and
         crouch and is and excellent fighter.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/storrow-claw.html"
+        class="stretched-link d-none"
         >Continue reading Storrow Claw</a
       >
     </div>
@@ -72,6 +74,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Storrow Claw is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Storrow Claw Spawn Locations</h5>

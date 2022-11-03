@@ -32,7 +32,9 @@ categories:
         Grizzly thorn, Wearer does not need to eat or drink and can rest on the
         ground.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/vangard-bear-thorn.html"
+        class="stretched-link d-none"
         >Continue reading Vangard Bear Thorn</a
       >
     </div>
@@ -72,6 +74,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Vangard Bear Thorn is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Vangard Bear Thorn Spawn Locations</h5>

@@ -60,6 +60,33 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Bosalo Meat is a cooking ingredient for</h2>
+      <div id="recipe-garlic-steak">
+        <h5 id="item-garlic-steak">Garlic Steak</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Garlic Steak 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    Garlic Powder<span> + </span>Job&#x27;s Tears Powder<span>
+                      + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/bosalo-meat.html"
+                      >Bosalo Meat</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Bosalo Meat Spawn Locations</h5>
       <p>Bosalo Meat is randomly spawned</p>

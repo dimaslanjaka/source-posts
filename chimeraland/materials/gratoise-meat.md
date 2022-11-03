@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Gratoise Meat</h3>
       <div class="mb-1 text-muted">September 29, 2022 10:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/gratoise-meat.html"
+        class="stretched-link d-none"
         >Continue reading Gratoise Meat</a
       >
     </div>
@@ -58,6 +60,58 @@ categories:
               <li>Hunt Gratoise to get.</li>
               <li>Orient the Resource Finder to find.</li>
             </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Gratoise Meat is a cooking ingredient for</h2>
+      <div id="recipe-turtle-soup">
+        <h5 id="item-turtle-soup">Turtle Soup</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Turtle Soup 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/gratoise-meat.html"
+                      >Gratoise Meat</a
+                    ><span> + </span>Dew or Ice Piece<span> + </span>Any
+                    Seasoning<span> + </span>Any Lv.5 Crop<span> / </span>Any
+                    Lv.6 Crop
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-ultimate-meat-dish">
+        <h5 id="item-ultimate-meat-dish">Ultimate Meat Dish</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Ultimate Meat Dish 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/gratoise-meat.html"
+                      >Gratoise Meat</a
+                    ><span> + </span>Any Meat<span> + </span>Any Lv.4 Crop<span>
+                      / </span
+                    >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>

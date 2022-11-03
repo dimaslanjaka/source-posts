@@ -69,6 +69,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Great White Shark is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Great White Shark Spawn Locations</h5>
       <p>Great White Shark is randomly spawned</p>

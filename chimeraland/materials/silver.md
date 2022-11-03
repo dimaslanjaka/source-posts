@@ -31,7 +31,9 @@ categories:
       <div class="mb-2 border p-1">
         White when pure, imperfections much darker, soft as well as ductile.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Silver</a>
+      <a href="/chimeraland/materials/silver.html" class="stretched-link d-none"
+        >Continue reading Silver</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/silver/silver.webp" alt="Silver" />
@@ -67,6 +69,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Silver is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Silver Spawn Locations</h5>

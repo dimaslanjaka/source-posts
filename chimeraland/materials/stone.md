@@ -32,7 +32,9 @@ categories:
         Stone often come in Large chunks with a wide range of uses, various
         types are typically product from large veins.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Stone</a>
+      <a href="/chimeraland/materials/stone.html" class="stretched-link d-none"
+        >Continue reading Stone</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/stone/stone.webp" alt="Stone" />
@@ -68,6 +70,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Stone is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Stone Spawn Locations</h5>

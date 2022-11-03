@@ -56,6 +56,86 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Scallion is a cooking ingredient for</h2>
+      <div id="recipe-garlic-thighs">
+        <h5 id="item-garlic-thighs">Garlic Thighs</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Garlic Thighs 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/scallion.html"
+                      >Scallion</a
+                    ><span> + </span>Any Meat<span> + </span>Peanut Oil
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-scallion-meat-skewers">
+        <h5 id="item-scallion-meat-skewers">Scallion Meat Skewers</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Scallion Meat Skewers 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>Scallion Powder<span> + </span>Any Meat</li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-exotic-herbal-jelly">
+        <h5 id="item-exotic-herbal-jelly">Exotic Herbal Jelly</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Exotic Herbal Jelly 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/stoatle-shell.html"
+                      >Stoatle Shell</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/stoatle-shell.html"
+                      >Stoatle Shell</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/chimeraland-beast-hide.html"
+                      >Chimeraland Beast Hide</a
+                    ><span> + </span>Scallion Powder<span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/lemon-tree-leaf.html"
+                      >Lemon Tree Leaf</a
+                    ><span> / </span>Any Lv.3 Crops
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Scallion Spawn Locations</h5>
       <p>Scallion is randomly spawned</p>

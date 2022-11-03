@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Warcrab Meat</h3>
       <div class="mb-1 text-muted">September 30, 2022 12:26 AM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/warcrab-meat.html"
+        class="stretched-link d-none"
         >Continue reading Warcrab Meat</a
       >
     </div>
@@ -61,6 +63,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Warcrab Meat is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Warcrab Meat Spawn Locations</h5>

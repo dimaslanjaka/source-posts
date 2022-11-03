@@ -32,7 +32,11 @@ categories:
         Gold that&#x27;s been mixed with reddish minerals. Less pure than lux
         gold, it&#x27;s soft and malleable.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Red Gold</a>
+      <a
+        href="/chimeraland/materials/red-gold.html"
+        class="stretched-link d-none"
+        >Continue reading Red Gold</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/red-gold/red-gold.webp" alt="Red Gold" />
@@ -69,6 +73,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Red Gold is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Red Gold Spawn Locations</h5>

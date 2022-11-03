@@ -33,7 +33,11 @@ categories:
         The color of jade s pale such as water, cool to the touch such as water,
         even its sound is alike to water.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Pale Jade</a>
+      <a
+        href="/chimeraland/materials/pale-jade.html"
+        class="stretched-link d-none"
+        >Continue reading Pale Jade</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -74,6 +78,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Pale Jade is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Pale Jade Spawn Locations</h5>

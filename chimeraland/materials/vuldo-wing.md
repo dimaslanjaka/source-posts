@@ -31,7 +31,11 @@ categories:
       <div class="mb-2 border p-1">
         Vuldo feather, strength may fall, but wear to not be slowed.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Vuldo Wing</a>
+      <a
+        href="/chimeraland/materials/vuldo-wing.html"
+        class="stretched-link d-none"
+        >Continue reading Vuldo Wing</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -67,6 +71,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Vuldo Wing is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Vuldo Wing Spawn Locations</h5>

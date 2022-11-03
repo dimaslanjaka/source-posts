@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Moose Meat</h3>
       <div class="mb-1 text-muted">September 29, 2022 11:26 PM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Moose Meat</a>
+      <a
+        href="/chimeraland/materials/moose-meat.html"
+        class="stretched-link d-none"
+        >Continue reading Moose Meat</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -56,6 +60,61 @@ categories:
               <li>Hunt Horsedeer to get.</li>
               <li>Orient the Resource Finder to find.</li>
             </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Moose Meat is a cooking ingredient for</h2>
+      <div id="recipe-grilled-venison">
+        <h5 id="item-grilled-venison">Grilled Venison</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Grilled Venison 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/moose-meat.html"
+                      >Moose Meat</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/moose-meat.html"
+                      >Moose Meat</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-sweet-and-spicy-venison">
+        <h5 id="item-sweet-and-spicy-venison">Sweet And Spicy Venison</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Sweet And Spicy Venison 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/moose-meat.html"
+                      >Moose Meat</a
+                    ><span> + </span>Peanut Oil<span> + </span>Any Sweet
+                    Sauce<span> + </span>Any Spicy Sauce<span> / </span>Any
+                    Spice
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>

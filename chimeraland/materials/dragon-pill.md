@@ -65,6 +65,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Dragon Pill is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Dragon Pill Spawn Locations</h5>
       <p>Dragon Pill is randomly spawned</p>

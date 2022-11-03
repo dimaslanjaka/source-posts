@@ -67,6 +67,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Moon Resin Dew is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Moon Resin Dew Spawn Locations</h5>
       <p>Moon Resin Dew is randomly spawned</p>

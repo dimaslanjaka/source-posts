@@ -71,6 +71,176 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Hot Pepper is a cooking ingredient for</h2>
+      <div id="recipe-poached-meat-fillets">
+        <h5 id="item-poached-meat-fillets">Poached Meat Fillets</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Poached Meat Fillets 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    Peanut Oil<span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/hot-pepper.html"
+                      >Hot Pepper</a
+                    ><span> + </span>Dew or Ice Piece<span> + </span>Any
+                    Meat<span> + </span>Any Lv.4 Crop<span> / </span>Any Lv.5
+                    Crop<span> / </span>Any Lv.6 Crop
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-red-hot-sauce">
+        <h5 id="item-red-hot-sauce">Red Hot Sauce</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Red Hot Sauce 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/hot-pepper.html"
+                      >Hot Pepper</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/apple.html"
+                      >Apple</a
+                    ><span> + </span>Any Wild Fruit
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-spicy-pepper-sauce">
+        <h5 id="item-spicy-pepper-sauce">Spicy Pepper Sauce</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Spicy Pepper Sauce 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/hot-pepper.html"
+                      >Hot Pepper</a
+                    ><span> + </span>Any Wild Fruit
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-spicy-red-goodfruit-broth">
+        <h5 id="item-spicy-red-goodfruit-broth">Spicy Red Goodfruit Broth</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">
+                Recipe Spicy Red Goodfruit Broth 1
+              </h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/red-goodfruit.html"
+                      >Red Goodfruit</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/hot-pepper.html"
+                      >Hot Pepper</a
+                    ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-stinky-tofu">
+        <h5 id="item-stinky-tofu">Stinky Tofu</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Stinky Tofu 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/hot-pepper.html"
+                      >Hot Pepper</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/dung.html"
+                      >Dung</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/peanut.html"
+                      >Peanut</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-wine-braised-vegetables">
+        <h5 id="item-wine-braised-vegetables">Wine-Braised Vegetables</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Wine-Braised Vegetables 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    Fruit &amp; Veggie Paste<span> + </span>Peanut Oil<span>
+                      + </span
+                    >Fruit &amp; Veggie Paste<span> + </span>Any Lv.5 Crop<span>
+                      / </span
+                    >Any Lv.6 Crop<span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/hot-pepper.html"
+                      >Hot Pepper</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Hot Pepper Spawn Locations</h5>
       <p>Hot Pepper is randomly spawned</p>

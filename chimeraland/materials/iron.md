@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Iron</h3>
       <div class="mb-1 text-muted">September 29, 2022 9:26 AM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Iron</a>
+      <a href="/chimeraland/materials/iron.html" class="stretched-link d-none"
+        >Continue reading Iron</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/iron/iron.webp" alt="Iron" />
@@ -65,6 +67,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Iron is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Iron Spawn Locations</h5>

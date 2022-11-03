@@ -31,7 +31,9 @@ categories:
       <div class="mb-2 border p-1">
         A giant snake&#x27;s fang. It&#x27;s sure to give you fever.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/yurlungg&#x27;s-fang.html"
+        class="stretched-link d-none"
         >Continue reading Yurlungg&#x27;s Fang</a
       >
     </div>
@@ -70,6 +72,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Yurlungg&#x27;s Fang is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Yurlungg&#x27;s Fang Spawn Locations</h5>

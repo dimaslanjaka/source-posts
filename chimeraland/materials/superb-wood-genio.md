@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Superb Wood Genio</h3>
       <div class="mb-1 text-muted">October 5, 2022 7:26 AM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/superb-wood-genio.html"
+        class="stretched-link d-none"
         >Continue reading Superb Wood Genio</a
       >
     </div>
@@ -60,6 +62,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Superb Wood Genio is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Superb Wood Genio Spawn Locations</h5>

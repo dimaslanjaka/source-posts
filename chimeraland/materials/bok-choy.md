@@ -56,6 +56,33 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Bok Choy is a cooking ingredient for</h2>
+      <div id="recipe-cabbage-meat-rolls">
+        <h5 id="item-cabbage-meat-rolls">Cabbage Meat Rolls</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Cabbage Meat Rolls 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    Peanut Oil<span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/bok-choy.html"
+                      >Bok Choy</a
+                    ><span> + </span>Any Lv.6 Crop<span> + </span>Any High
+                    Quality Seasoning<span> + </span>Any Meat
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Bok Choy Spawn Locations</h5>
       <p>Bok Choy is randomly spawned</p>

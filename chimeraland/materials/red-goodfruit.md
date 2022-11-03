@@ -73,6 +73,122 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Red Goodfruit is a cooking ingredient for</h2>
+      <div id="recipe-goodfruit-sauce">
+        <h5 id="item-goodfruit-sauce">Goodfruit Sauce</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Goodfruit Sauce 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/red-goodfruit.html"
+                      >Red Goodfruit</a
+                    ><span> + </span>Any Wild Fruit
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-goodfruit-slushie">
+        <h5 id="item-goodfruit-slushie">Goodfruit Slushie</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Goodfruit Slushie 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/ice-piece.html"
+                      >Ice Piece</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/red-goodfruit.html"
+                      >Red Goodfruit</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-spicy-red-goodfruit-broth">
+        <h5 id="item-spicy-red-goodfruit-broth">Spicy Red Goodfruit Broth</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">
+                Recipe Spicy Red Goodfruit Broth 1
+              </h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/red-goodfruit.html"
+                      >Red Goodfruit</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/hot-pepper.html"
+                      >Hot Pepper</a
+                    ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-spicy-red-goodfruit-soup">
+        <h5 id="item-spicy-red-goodfruit-soup">Spicy Red Goodfruit Soup</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Spicy Red Goodfruit Soup 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/red-goodfruit.html"
+                      >Red Goodfruit</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/dew.html"
+                      >Dew</a
+                    ><span> / </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/ice-piece.html"
+                      >Ice Piece</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Red Goodfruit Spawn Locations</h5>
       <p>Red Goodfruit is randomly spawned</p>

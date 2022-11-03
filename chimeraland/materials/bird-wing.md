@@ -66,6 +66,120 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Bird Wing is a cooking ingredient for</h2>
+      <div id="recipe-buddhas-temptation">
+        <h5 id="item-buddhas-temptation">Buddha&#x27;s Temptation</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Buddha&#x27;s Temptation 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/hoof-sinew.html"
+                      >Hoof Sinew</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/crab-claw-meat.html"
+                      >Crab Claw Meat</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/bird-wing.html"
+                      >Bird Wing</a
+                    ><span> + </span>Coriander Powder<span> + </span>Any
+                    Mushroom
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-grilled-wings">
+        <h5 id="item-grilled-wings">Grilled Wings</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Grilled Wings 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/bird-wing.html"
+                      >Bird Wing</a
+                    ><span> + </span>Any Seasoning<span> / </span>Any Spice<span>
+                      / </span
+                    >Any High Quality Seasoning
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-tasty-wing-tip">
+        <h5 id="item-tasty-wing-tip">Tasty Wing Tip</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Tasty Wing Tip 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/nirvana-feather.html"
+                      >Nirvana Feather</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/nirvana-feather.html"
+                      >Nirvana Feather</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/chimeraland-beast-hide.html"
+                      >Chimeraland Beast Hide</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/bird-wing.html"
+                      >Bird Wing</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/bird-wing.html"
+                      >Bird Wing</a
+                    ><span> / </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/bear-paw.html"
+                      >Bear Paw</a
+                    ><span> / </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/crab-claw-meat.html"
+                      >Crab Claw Meat</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Bird Wing Spawn Locations</h5>
       <p>Bird Wing is randomly spawned</p>

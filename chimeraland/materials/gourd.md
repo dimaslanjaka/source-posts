@@ -56,6 +56,101 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Gourd is a cooking ingredient for</h2>
+      <div id="recipe-gourd-braised-meat">
+        <h5 id="item-gourd-braised-meat">Gourd-Braised Meat</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Gourd-Braised Meat 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/gourd.html"
+                      >Gourd</a
+                    ><span> + </span>Any Meat<span> + </span>Any Seasoning<span>
+                      / </span
+                    >Any Spice<span> / </span>Any Sweet Sauce<span> / </span>Any
+                    Spicy Sauce
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-peanut-gourd-soup">
+        <h5 id="item-peanut-gourd-soup">Peanut Gourd Soup</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Peanut Gourd Soup 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/peanut.html"
+                      >Peanut</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/gourd.html"
+                      >Gourd</a
+                    ><span> + </span>Dew or Ice Piece<span> + </span>Any Lv.4
+                    Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
+                    Crop<span> / </span>Any Flower<span> / </span>Any Mutant
+                    Flower
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Peanut Gourd Soup 2</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/peanut.html"
+                      >Peanut</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/gourd.html"
+                      >Gourd</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/dew.html"
+                      >Dew</a
+                    ><span> / </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/ice-piece.html"
+                      >Ice Piece</a
+                    ><span> + </span>Cantaloupe<span> / </span>Mutant
+                    Flower<span> / </span>Equonix Flower<span> / </span>Lv6
+                    Vegetable
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Gourd Spawn Locations</h5>
       <p>Gourd is randomly spawned</p>

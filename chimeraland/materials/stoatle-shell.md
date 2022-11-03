@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Stoatle Shell</h3>
       <div class="mb-1 text-muted">October 3, 2022 3:26 AM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/stoatle-shell.html"
+        class="stretched-link d-none"
         >Continue reading Stoatle Shell</a
       >
     </div>
@@ -66,6 +68,46 @@ categories:
               <li>Hunt a Noble Giant Beast to get this.</li>
               <li>Explore the world to get.</li>
             </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Stoatle Shell is a cooking ingredient for</h2>
+      <div id="recipe-exotic-herbal-jelly">
+        <h5 id="item-exotic-herbal-jelly">Exotic Herbal Jelly</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Exotic Herbal Jelly 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/stoatle-shell.html"
+                      >Stoatle Shell</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/stoatle-shell.html"
+                      >Stoatle Shell</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/chimeraland-beast-hide.html"
+                      >Chimeraland Beast Hide</a
+                    ><span> + </span>Scallion Powder<span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/lemon-tree-leaf.html"
+                      >Lemon Tree Leaf</a
+                    ><span> / </span>Any Lv.3 Crops
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>

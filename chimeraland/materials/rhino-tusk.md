@@ -32,7 +32,11 @@ categories:
         Rhino tusk. Heaven may be fickle, but wearing it can help avoid
         adversity.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Rhino Tusk</a>
+      <a
+        href="/chimeraland/materials/rhino-tusk.html"
+        class="stretched-link d-none"
+        >Continue reading Rhino Tusk</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -72,6 +76,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Rhino Tusk is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Rhino Tusk Spawn Locations</h5>

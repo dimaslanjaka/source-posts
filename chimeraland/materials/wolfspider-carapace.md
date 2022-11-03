@@ -29,7 +29,9 @@ categories:
       <h3 class="mb-0">Wolfspider Carapace</h3>
       <div class="mb-1 text-muted">October 1, 2022 11:26 PM</div>
       <div class="mb-2 border p-1">Wolfspider shell, worn to repel bugs.</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/wolfspider-carapace.html"
+        class="stretched-link d-none"
         >Continue reading Wolfspider Carapace</a
       >
     </div>
@@ -69,6 +71,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Wolfspider Carapace is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Wolfspider Carapace Spawn Locations</h5>

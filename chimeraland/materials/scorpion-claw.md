@@ -31,7 +31,9 @@ categories:
       <div class="mb-2 border p-1">
         Scorab pincer, serrated, firm and sharp.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/scorpion-claw.html"
+        class="stretched-link d-none"
         >Continue reading Scorpion Claw</a
       >
     </div>
@@ -73,6 +75,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Scorpion Claw is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Scorpion Claw Spawn Locations</h5>

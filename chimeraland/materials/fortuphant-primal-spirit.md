@@ -71,6 +71,63 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">
+        Fortuphant Primal Spirit is a cooking ingredient for
+      </h2>
+      <div id="recipe-overlord-hide-jelly">
+        <h5 id="item-overlord-hide-jelly">Overlord Hide Jelly</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Overlord Hide Jelly 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/fortuphant-primal-spirit.html"
+                      >Fortuphant Primal Spirit</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/fortuphant-primal-spirit.html"
+                      >Fortuphant Primal Spirit</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/chimeraland-beast-hide.html"
+                      >Chimeraland Beast Hide</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/dew.html"
+                      >Dew</a
+                    ><span> / </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/ice-piece.html"
+                      >Ice Piece</a
+                    ><span> + </span>Corriander<span> / </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/flat-cabbage.html"
+                      >Flat Cabbage</a
+                    ><span> / </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/watermelon.html"
+                      >Watermelon</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Fortuphant Primal Spirit Spawn Locations</h5>
       <p>Fortuphant Primal Spirit is randomly spawned</p>

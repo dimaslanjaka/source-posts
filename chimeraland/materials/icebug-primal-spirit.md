@@ -77,6 +77,47 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Icebug Primal Spirit is a cooking ingredient for</h2>
+      <div id="recipe-steamed-sweet-and-sour-icebug">
+        <h5 id="item-steamed-sweet-and-sour-icebug">
+          Steamed Sweet &amp; Sour Icebug
+        </h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">
+                Recipe Steamed Sweet &amp; Sour Icebug 1
+              </h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/icebug-primal-spirit.html"
+                      >Icebug Primal Spirit</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/icebug-primal-spirit.html"
+                      >Icebug Primal Spirit</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/chimeraland-beast-hide.html"
+                      >Chimeraland Beast Hide</a
+                    ><span> + </span>Red Hot Sauce<span> / </span>Cucumber
+                    Sauce<span> / </span>Fruit Sauce<span> + </span>Orange Grade
+                    Fish
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Icebug Primal Spirit Spawn Locations</h5>
       <p>Icebug Primal Spirit is randomly spawned</p>

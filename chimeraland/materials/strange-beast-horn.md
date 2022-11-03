@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Strange Beast Horn</h3>
       <div class="mb-1 text-muted">October 1, 2022 6:26 AM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/strange-beast-horn.html"
+        class="stretched-link d-none"
         >Continue reading Strange Beast Horn</a
       >
     </div>
@@ -70,6 +72,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Strange Beast Horn is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Strange Beast Horn Spawn Locations</h5>

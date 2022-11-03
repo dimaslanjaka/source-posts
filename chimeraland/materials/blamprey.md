@@ -59,6 +59,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Blamprey is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Blamprey Spawn Locations</h5>
       <p>Blamprey is randomly spawned</p>

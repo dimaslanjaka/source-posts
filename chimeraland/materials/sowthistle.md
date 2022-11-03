@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Sowthistle</h3>
       <div class="mb-1 text-muted">October 4, 2022 3:26 AM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Sowthistle</a>
+      <a
+        href="/chimeraland/materials/sowthistle.html"
+        class="stretched-link d-none"
+        >Continue reading Sowthistle</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -58,6 +62,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Sowthistle is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Sowthistle Spawn Locations</h5>

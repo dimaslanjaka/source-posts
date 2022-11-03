@@ -56,6 +56,68 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Pumpkin is a cooking ingredient for</h2>
+      <div id="recipe-chargrilled-pumpkin-and-iguana">
+        <h5 id="item-chargrilled-pumpkin-and-iguana">
+          Chargrilled Pumpkin And Iguana
+        </h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">
+                Recipe Chargrilled Pumpkin And Iguana 1
+              </h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    Peanut Oil<span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/grouguana-meat.html"
+                      >Grouguana Meat</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/pumpkin.html"
+                      >Pumpkin</a
+                    ><span> + </span>Any Flower<span> / </span>Any Mutant Flower
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-pumpkin-bowl">
+        <h5 id="item-pumpkin-bowl">Pumpkin Bowl</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Pumpkin Bowl 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/pumpkin.html"
+                      >Pumpkin</a
+                    ><span> + </span>Any Lv.6 Crop<span> + </span>Any Meat<span>
+                      + </span
+                    >Any Meat<span> + </span>Any Lv.3 Crop<span> / </span>Any
+                    Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any
+                    Lv.6 Crop
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Pumpkin Spawn Locations</h5>
       <p>Pumpkin is randomly spawned</p>

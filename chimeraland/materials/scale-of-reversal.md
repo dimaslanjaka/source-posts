@@ -32,7 +32,9 @@ categories:
         Death Scale. A death scale from the Miragon&#x27;s throat, and it hunts
         those with an infant.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/scale-of-reversal.html"
+        class="stretched-link d-none"
         >Continue reading Scale of Reversal</a
       >
     </div>
@@ -69,6 +71,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Scale of Reversal is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Scale of Reversal Spawn Locations</h5>

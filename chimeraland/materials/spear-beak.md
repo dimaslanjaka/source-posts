@@ -32,7 +32,11 @@ categories:
         Its beak is long and narrow and it&#x27;s strong as a spear. It prey
         best on water.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Spear Beak</a>
+      <a
+        href="/chimeraland/materials/spear-beak.html"
+        class="stretched-link d-none"
+        >Continue reading Spear Beak</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -70,6 +74,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Spear Beak is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Spear Beak Spawn Locations</h5>

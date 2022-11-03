@@ -61,6 +61,150 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Flat Cabbage is a cooking ingredient for</h2>
+      <div id="recipe-overlord-hide-jelly">
+        <h5 id="item-overlord-hide-jelly">Overlord Hide Jelly</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Overlord Hide Jelly 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/fortuphant-primal-spirit.html"
+                      >Fortuphant Primal Spirit</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/fortuphant-primal-spirit.html"
+                      >Fortuphant Primal Spirit</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/chimeraland-beast-hide.html"
+                      >Chimeraland Beast Hide</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/dew.html"
+                      >Dew</a
+                    ><span> / </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/ice-piece.html"
+                      >Ice Piece</a
+                    ><span> + </span>Corriander<span> / </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/flat-cabbage.html"
+                      >Flat Cabbage</a
+                    ><span> / </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/watermelon.html"
+                      >Watermelon</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-bear-ball-pot">
+        <h5 id="item-bear-ball-pot">Bear Ball Pot</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Bear Ball Pot 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/grizzly-primal-spirit.html"
+                      >Grizzly Primal Spirit</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/grizzly-primal-spirit.html"
+                      >Grizzly Primal Spirit</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/chimeraland-beast-hide.html"
+                      >Chimeraland Beast Hide</a
+                    ><span> + </span>Red Hot Sauce<span> / </span>Cucumber
+                    Sauce<span> / </span>Fruit Sauce<span> + </span
+                    >Corriander<span> / </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/flat-cabbage.html"
+                      >Flat Cabbage</a
+                    ><span> / </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/watermelon.html"
+                      >Watermelon</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-stir-fried-browtelope">
+        <h5 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Stir-Fried Browtelope 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/bone-sheep-primal-spirit.html"
+                      >Bone Sheep Primal Spirit</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/bone-sheep-primal-spirit.html"
+                      >Bone Sheep Primal Spirit</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/chimeraland-beast-hide.html"
+                      >Chimeraland Beast Hide</a
+                    ><span> + </span>Corriander Powder<span> / </span>Five Spice
+                    Sauce<span> + </span>Corriander<span> / </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/flat-cabbage.html"
+                      >Flat Cabbage</a
+                    ><span> / </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/watermelon.html"
+                      >Watermelon</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Flat Cabbage Spawn Locations</h5>
       <p>Flat Cabbage is randomly spawned</p>

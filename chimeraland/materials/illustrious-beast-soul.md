@@ -77,6 +77,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Illustrious Beast Soul is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Illustrious Beast Soul Spawn Locations</h5>
       <p>Illustrious Beast Soul is randomly spawned</p>

@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Vulture Meat</h3>
       <div class="mb-1 text-muted">September 29, 2022 8:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/vulture-meat.html"
+        class="stretched-link d-none"
         >Continue reading Vulture Meat</a
       >
     </div>
@@ -58,6 +60,84 @@ categories:
               <li>Hunt Vultures to get.</li>
               <li>Orient the Resource Finder to find.</li>
             </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Vulture Meat is a cooking ingredient for</h2>
+      <div id="recipe-honey-grilled-chicken">
+        <h5 id="item-honey-grilled-chicken">Honey Grilled Chicken</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/condor-meat.html"
+                      >Condor Meat</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/condor-meat.html"
+                      >Condor Meat</a
+                    ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 2</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/vulture-meat.html"
+                      >Vulture Meat</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/vulture-meat.html"
+                      >Vulture Meat</a
+                    ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 3</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/vuldo-meat.html"
+                      >Vuldo Meat</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/vuldo-meat.html"
+                      >Vuldo Meat</a
+                    ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>

@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Grizzly Meat</h3>
       <div class="mb-1 text-muted">September 30, 2022 6:26 AM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/grizzly-meat.html"
+        class="stretched-link d-none"
         >Continue reading Grizzly Meat</a
       >
     </div>
@@ -58,6 +60,32 @@ categories:
               <li>Hunt Grizzly to get.</li>
               <li>Orient the Resource Finder to find.</li>
             </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Grizzly Meat is a cooking ingredient for</h2>
+      <div id="recipe-braised-bear-meat">
+        <h5 id="item-braised-bear-meat">Braised Bear Meat</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Braised Bear Meat 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/grizzly-meat.html"
+                      >Grizzly Meat</a
+                    ><span> + </span>Peanut Oil<span> + </span>Any Sweet
+                    Sauce<span> + </span>Any Sweet Sauce
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
       </div>

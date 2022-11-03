@@ -67,6 +67,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Goldscale Shell is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Goldscale Shell Spawn Locations</h5>
       <p>Goldscale Shell is randomly spawned</p>

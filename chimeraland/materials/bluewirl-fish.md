@@ -68,6 +68,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Bluewirl Fish is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Bluewirl Fish Spawn Locations</h5>
       <p>Bluewirl Fish is randomly spawned</p>

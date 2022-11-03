@@ -67,6 +67,227 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Wild Garlic is a cooking ingredient for</h2>
+      <div id="recipe-garlic-braised-meat">
+        <h5 id="item-garlic-braised-meat">Garlic Braised Meat</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Garlic Braised Meat 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wolfspider-meat.html"
+                      >Wolfspider Meat</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wild-garlic.html"
+                      >Wild Garlic</a
+                    ><span> + </span>Garlic Powder
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Garlic Braised Meat 2</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    Garlic Powder<span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wild-garlic.html"
+                      >Wild Garlic</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/crab-claw-meat.html"
+                      >Crab Claw Meat</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Garlic Braised Meat 3</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    Garlic Powder<span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wild-garlic.html"
+                      >Wild Garlic</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/scorab-meat.html"
+                      >Scorab Meat</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Garlic Braised Meat 4</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    Garlic Powder<span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wild-garlic.html"
+                      >Wild Garlic</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/beetlefly-meat.html"
+                      >Beetlefly Meat</a
+                    >
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-garlic-sauce">
+        <h5 id="item-garlic-sauce">Garlic Sauce</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Garlic Sauce 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wild-garlic.html"
+                      >Wild Garlic</a
+                    ><span> + </span>Any Wild Fruit
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-refreshing-pill">
+        <h5 id="item-refreshing-pill">Refreshing Pill</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Refreshing Pill 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wild-garlic.html"
+                      >Wild Garlic</a
+                    ><span> + </span>Fruit &amp; Veggie Paste
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Refreshing Pill 2</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wild-garlic.html"
+                      >Wild Garlic</a
+                    ><span> + </span>Veggie Paste
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-refreshing-soup">
+        <h5 id="item-refreshing-soup">Refreshing Soup</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Refreshing Soup 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wild-garlic.html"
+                      >Wild Garlic</a
+                    ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-seasonal-vegetables-fried-with-garlic">
+        <h5 id="item-seasonal-vegetables-fried-with-garlic">
+          Seasonal Vegetables Fried With Garlic
+        </h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">
+                Recipe Seasonal Vegetables Fried With Garlic 1
+              </h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/wild-garlic.html"
+                      >Wild Garlic</a
+                    ><span> + </span>Garlic Powder<span> + </span>Any Lv.2, Lv.3
+                    and Lv.4 Crop
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Wild Garlic Spawn Locations</h5>
       <p>Wild Garlic is randomly spawned</p>

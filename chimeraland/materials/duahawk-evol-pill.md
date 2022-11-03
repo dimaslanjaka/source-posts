@@ -26,7 +26,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Duahawk Evol Pill</h3>
       <div class="mb-1 text-muted">September 28, 2022 8:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/duahawk-evol-pill.html"
+        class="stretched-link d-none"
         >Continue reading Duahawk Evol Pill</a
       >
     </div>
@@ -47,6 +49,9 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2"></div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Duahawk Evol Pill is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Duahawk Evol Pill Spawn Locations</h5>
       <p>Duahawk Evol Pill is randomly spawned</p>

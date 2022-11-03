@@ -67,6 +67,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Beast Vital Qi Pill is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Beast Vital Qi Pill Spawn Locations</h5>
       <p>Beast Vital Qi Pill is randomly spawned</p>

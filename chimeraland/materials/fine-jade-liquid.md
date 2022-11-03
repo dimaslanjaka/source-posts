@@ -75,6 +75,42 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Fine Jade Liquid is a cooking ingredient for</h2>
+      <div id="recipe-hearty-meatball-soup">
+        <h5 id="item-hearty-meatball-soup">Hearty Meatball Soup</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Hearty Meatball Soup 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/fine-jade-liquid.html"
+                      >Fine Jade Liquid</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/fine-jade-liquid.html"
+                      >Fine Jade Liquid</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/chimeraland-beast-hide.html"
+                      >Chimeraland Beast Hide</a
+                    ><span> + </span>Any Mixed Sauce<span> + </span>Any Blue
+                    Grade Fish
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Fine Jade Liquid Spawn Locations</h5>
       <p>Fine Jade Liquid is randomly spawned</p>

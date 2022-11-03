@@ -59,6 +59,87 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Coriander is a cooking ingredient for</h2>
+      <div id="recipe-buddhas-temptation">
+        <h5 id="item-buddhas-temptation">Buddha&#x27;s Temptation</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Buddha&#x27;s Temptation 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    <a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/hoof-sinew.html"
+                      >Hoof Sinew</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/crab-claw-meat.html"
+                      >Crab Claw Meat</a
+                    ><span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/bird-wing.html"
+                      >Bird Wing</a
+                    ><span> + </span>Coriander Powder<span> + </span>Any
+                    Mushroom
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-fried-pork-in-scoop">
+        <h5 id="item-fried-pork-in-scoop">Fried Pork In Scoop</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Fried Pork In Scoop 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    Job&#x27;s Tears Powder<span> + </span
+                    ><a
+                      class="text-decoration-none"
+                      href="/chimeraland/materials/coriander.html"
+                      >Coriander</a
+                    ><span> + </span>Any Meat<span> + </span>Any Lv.5 or Lv.6
+                    Crop
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+      <div id="recipe-strange-meat-skewers">
+        <h5 id="item-strange-meat-skewers">Strange Meat Skewers</h5>
+        <div class="col-12 col-lg-6 recipe-item mb-2">
+          <div class="card">
+            <div class="card-body">
+              <h2 class="card-title fs-5">Recipe Strange Meat Skewers 1</h2>
+              <div class="card-text">
+                <ul>
+                  <li>
+                    Any Meat<span> + </span>Any Meat<span> + </span>Coriander
+                    Powder
+                  </li>
+                  <li>Device: Stove or Camp</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="col-12 mb-2">
       <h5>Coriander Spawn Locations</h5>
       <p>Coriander is randomly spawned</p>

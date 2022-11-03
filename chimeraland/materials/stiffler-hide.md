@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Stiffler Hide</h3>
       <div class="mb-1 text-muted">October 2, 2022 5:26 AM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/stiffler-hide.html"
+        class="stretched-link d-none"
         >Continue reading Stiffler Hide</a
       >
     </div>
@@ -70,6 +72,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Stiffler Hide is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Stiffler Hide Spawn Locations</h5>

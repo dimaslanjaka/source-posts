@@ -31,7 +31,11 @@ categories:
       <div class="mb-2 border p-1">
         Daimyo oak bark. Ash gray, split into layers, eaten to relieve pain.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Tree Bark</a>
+      <a
+        href="/chimeraland/materials/tree-bark.html"
+        class="stretched-link d-none"
+        >Continue reading Tree Bark</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -70,6 +74,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Tree Bark is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Tree Bark Spawn Locations</h5>

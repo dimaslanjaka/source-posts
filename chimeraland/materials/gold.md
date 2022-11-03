@@ -33,7 +33,9 @@ categories:
         Nearly pure gold and more pure than red or lux gold. It&#x27;s stable,
         soft, and malleable.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Gold</a>
+      <a href="/chimeraland/materials/gold.html" class="stretched-link d-none"
+        >Continue reading Gold</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/gold/gold.webp" alt="Gold" />
@@ -70,6 +72,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Gold is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Gold Spawn Locations</h5>

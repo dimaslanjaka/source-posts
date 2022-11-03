@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Noble Beast Soul</h3>
       <div class="mb-1 text-muted">October 2, 2022 1:26 AM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/noble-beast-soul.html"
+        class="stretched-link d-none"
         >Continue reading Noble Beast Soul</a
       >
     </div>
@@ -67,6 +69,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Noble Beast Soul is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Noble Beast Soul Spawn Locations</h5>

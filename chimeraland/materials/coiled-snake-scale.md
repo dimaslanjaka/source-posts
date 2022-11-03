@@ -69,6 +69,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Coiled Snake Scale is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Coiled Snake Scale Spawn Locations</h5>
       <p>Coiled Snake Scale is randomly spawned</p>

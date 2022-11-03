@@ -31,7 +31,9 @@ categories:
       <div class="mb-2 border p-1">
         Ox Mane, fortifies clothes against cold.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/ox-mane-hair.html"
+        class="stretched-link d-none"
         >Continue reading Ox Mane Hair</a
       >
     </div>
@@ -73,6 +75,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Ox Mane Hair is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Ox Mane Hair Spawn Locations</h5>

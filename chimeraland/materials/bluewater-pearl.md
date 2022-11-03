@@ -69,6 +69,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Bluewater Pearl is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Bluewater Pearl Spawn Locations</h5>
       <p>Bluewater Pearl is randomly spawned</p>

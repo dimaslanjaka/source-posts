@@ -32,7 +32,9 @@ categories:
         Condor Claw, no trace in the snow, can overcome the strong stone, wear
         to be unblockable.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/snow-goose-claw.html"
+        class="stretched-link d-none"
         >Continue reading Snow Goose Claw</a
       >
     </div>
@@ -72,6 +74,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Snow Goose Claw is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Snow Goose Claw Spawn Locations</h5>

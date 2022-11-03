@@ -32,7 +32,11 @@ categories:
         Glowing like a star, with crystals like dew on a leaf. It is the color
         of the sky and water, and has a mist-pattern.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading First Jade</a>
+      <a
+        href="/chimeraland/materials/first-jade.html"
+        class="stretched-link d-none"
+        >Continue reading First Jade</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -71,6 +75,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">First Jade is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>First Jade Spawn Locations</h5>

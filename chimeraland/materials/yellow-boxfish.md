@@ -32,7 +32,9 @@ categories:
         A marine fish with a yellow box-shape body with brown spots. The yellow
         color turns brown when it be comes an adult fish.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/yellow-boxfish.html"
+        class="stretched-link d-none"
         >Continue reading Yellow Boxfish</a
       >
     </div>
@@ -66,6 +68,9 @@ categories:
           </div>
         </div>
       </div>
+    </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Yellow Boxfish is a cooking ingredient for</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Yellow Boxfish Spawn Locations</h5>

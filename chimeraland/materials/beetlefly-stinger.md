@@ -72,6 +72,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Beetlefly Stinger is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Beetlefly Stinger Spawn Locations</h5>
       <p>Beetlefly Stinger is randomly spawned</p>

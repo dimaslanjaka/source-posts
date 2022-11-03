@@ -63,6 +63,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Pirarucu is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Pirarucu Spawn Locations</h5>
       <p>Pirarucu is randomly spawned</p>

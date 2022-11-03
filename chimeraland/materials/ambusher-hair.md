@@ -70,6 +70,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Ambusher Hair is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Ambusher Hair Spawn Locations</h5>
       <p>Ambusher Hair is randomly spawned</p>

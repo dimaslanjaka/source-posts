@@ -61,6 +61,9 @@ categories:
         </div>
       </div>
     </div>
+    <div class="col-lg-6 col-12 mb-2">
+      <h2 id="cookable">Bigeye is a cooking ingredient for</h2>
+    </div>
     <div class="col-12 mb-2">
       <h5>Bigeye Spawn Locations</h5>
       <p>Bigeye is randomly spawned</p>
