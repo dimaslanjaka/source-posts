@@ -52,7 +52,7 @@ jobs:
         git config --global user.email "dimaslanjaka@gmail.com"
         git config --global user.name "dimaslanjaka"
         git config --global init.defaultBranch master
-        git submodule foreach git pull
+        git submodule foreach "git pull || :"
           
     - name: Use Node.js
       uses: actions/setup-node@v3
@@ -80,23 +80,22 @@ jobs:
 
     - name: Build
       run: |
-        npx sbg copy --nocache
-        npx hexo generate
-        npx gulp safelink
-        npx sbg deploy --nocache --verbose
+        npm run build
 
     - name: Commit Submodules
       continue-on-error: true
       working-directory: .deploy_git
       run: |
-        git submodule foreach "git add . && git commit -m 'update ${{ steps.vars.outputs.date }}\nfrom https://github.com/dimaslanjaka/dimaslanjaka/tree/commit/${{ steps.vars.outputs.hash }}' && git push"
+        git submodule foreach "git add . || :"
+        git submodule foreach "git commit -m 'update ${{ steps.vars.outputs.date }}\nfrom https://github.com/dimaslanjaka/static-blog-generator-hexo/tree/commit/${{ steps.vars.outputs.hash }}' || :"
+        git submodule foreach "git push || :"
  
     - name: Deploy
       continue-on-error: true
       working-directory: .deploy_git
       run: |
         git add -A
-        git commit -m "update site ${{ steps.vars.outputs.date }}\nfrom: https://github.com/dimaslanjaka/dimaslanjaka/tree/commit/${{ steps.vars.outputs.hash }}"
+        git commit -m "update site ${{ steps.vars.outputs.date }}\nfrom: https://github.com/dimaslanjaka/static-blog-generator-hexo/tree/commit/${{ steps.vars.outputs.hash }}"
 
     # push to https://github.com/dimaslanjaka/dimaslanjaka.github.io#master
     - name: Push
