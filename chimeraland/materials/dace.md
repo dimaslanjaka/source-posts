@@ -34,7 +34,9 @@ categories:
         spines on its dorsal fin, and short chest fins. It tail fin is board and
         forked. Usually found nearby Westmount freshwater areas.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Dace</a>
+      <a href="/chimeraland/materials/dace.html" class="stretched-link d-none"
+        >Continue reading Dace</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/dace/dace.webp" alt="Dace" />
@@ -66,7 +68,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Dace is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Dace</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Dace Spawn Locations</h5>

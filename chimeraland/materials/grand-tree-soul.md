@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Grand Tree Soul</h3>
       <div class="mb-1 text-muted">October 6, 2022 10:26 AM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/grand-tree-soul.html"
+        class="stretched-link d-none"
         >Continue reading Grand Tree Soul</a
       >
     </div>
@@ -65,7 +67,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Grand Tree Soul is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Grand Tree Soul</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Grand Tree Soul Spawn Locations</h5>

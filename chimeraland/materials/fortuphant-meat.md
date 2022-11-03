@@ -65,7 +65,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Fortuphant Meat is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Fortuphant Meat</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Fortuphant Meat Spawn Locations</h5>

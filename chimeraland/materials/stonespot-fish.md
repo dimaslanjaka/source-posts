@@ -33,7 +33,9 @@ categories:
         head is taller than the body, the dorsal fin is strong and connected to
         the fin selections. Centralmount Sea is where it maybe found.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/stonespot-fish.html"
+        class="stretched-link d-none"
         >Continue reading Stonespot Fish</a
       >
     </div>
@@ -69,7 +71,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Stonespot Fish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Stonespot Fish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Stonespot Fish Spawn Locations</h5>

@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Broccoli</h3>
       <div class="mb-1 text-muted">October 4, 2022 5:26 AM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Broccoli</a>
+      <a
+        href="/chimeraland/materials/broccoli.html"
+        class="stretched-link d-none"
+        >Continue reading Broccoli</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/broccoli/broccoli.webp" alt="Broccoli" />
@@ -57,7 +61,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Broccoli is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Broccoli</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Broccoli Spawn Locations</h5>

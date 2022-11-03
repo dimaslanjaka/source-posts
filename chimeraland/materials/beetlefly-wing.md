@@ -29,7 +29,9 @@ categories:
       <h3 class="mb-0">Beetlefly Wing</h3>
       <div class="mb-1 text-muted">October 2, 2022 8:26 PM</div>
       <div class="mb-2 border p-1">Beetlefly wing, hold to see far.</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/beetlefly-wing.html"
+        class="stretched-link d-none"
         >Continue reading Beetlefly Wing</a
       >
     </div>
@@ -71,7 +73,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Beetlefly Wing is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Beetlefly Wing</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Beetlefly Wing Spawn Locations</h5>

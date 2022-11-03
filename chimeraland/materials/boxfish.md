@@ -33,7 +33,11 @@ categories:
         is quadrangular. All fin have no spines. Westmount Blizzard Plains Sea
         Area where it may be found.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Boxfish</a>
+      <a
+        href="/chimeraland/materials/boxfish.html"
+        class="stretched-link d-none"
+        >Continue reading Boxfish</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/boxfish/boxfish.webp" alt="Boxfish" />
@@ -65,7 +69,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Boxfish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Boxfish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Boxfish Spawn Locations</h5>

@@ -32,7 +32,9 @@ categories:
         Just a small chunk of this divine tree&#x27;s wood can weigh over 30
         pounds.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/30-catties-of-logs.html"
+        class="stretched-link d-none"
         >Continue reading 30 Catties of Logs</a
       >
     </div>
@@ -74,7 +76,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">30 Catties of Logs is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using 30 Catties of Logs</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>30 Catties of Logs Spawn Locations</h5>

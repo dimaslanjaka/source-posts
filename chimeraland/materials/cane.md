@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Cane</h3>
       <div class="mb-1 text-muted">October 5, 2022 6:26 PM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Cane</a>
+      <a href="/chimeraland/materials/cane.html" class="stretched-link d-none"
+        >Continue reading Cane</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/cane/cane.webp" alt="Cane" />
@@ -72,7 +74,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Cane is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Cane</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Cane Spawn Locations</h5>

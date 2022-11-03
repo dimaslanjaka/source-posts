@@ -32,7 +32,11 @@ categories:
         The armor of a Magma Beast shines like a blazing day and is
         indestructible.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Magma Armor</a>
+      <a
+        href="/chimeraland/materials/magma-armor.html"
+        class="stretched-link d-none"
+        >Continue reading Magma Armor</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -71,7 +75,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Magma Armor is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Magma Armor</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Magma Armor Spawn Locations</h5>

@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Condor Meat</h3>
       <div class="mb-1 text-muted">September 30, 2022 3:26 AM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Condor Meat</a>
+      <a
+        href="/chimeraland/materials/condor-meat.html"
+        class="stretched-link d-none"
+        >Continue reading Condor Meat</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -61,7 +65,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Condor Meat is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Condor Meat</h2>
       <div id="recipe-honey-grilled-chicken">
         <h5 id="item-honey-grilled-chicken">Honey Grilled Chicken</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -75,12 +79,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/condor-meat.html"
                       >Condor Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/condor-meat.html"
                       >Condor Meat</a
-                    ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                    >
+                    + Any Sweet Sauce + Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -99,12 +105,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/vulture-meat.html"
                       >Vulture Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/vulture-meat.html"
                       >Vulture Meat</a
-                    ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                    >
+                    + Any Sweet Sauce + Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -123,12 +131,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/vuldo-meat.html"
                       >Vuldo Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/vuldo-meat.html"
                       >Vuldo Meat</a
-                    ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                    >
+                    + Any Sweet Sauce + Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

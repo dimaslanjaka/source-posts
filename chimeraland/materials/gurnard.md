@@ -33,7 +33,11 @@ categories:
         Traditionally known as a gurnard or red maiden fish. Most often seen
         near the Eastmount Sea.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Gurnard</a>
+      <a
+        href="/chimeraland/materials/gurnard.html"
+        class="stretched-link d-none"
+        >Continue reading Gurnard</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/gurnard/gurnard.webp" alt="Gurnard" />
@@ -62,7 +66,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Gurnard is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Gurnard</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Gurnard Spawn Locations</h5>

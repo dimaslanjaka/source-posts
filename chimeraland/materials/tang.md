@@ -33,7 +33,9 @@ categories:
         peduncle. It has a small mouth with dense row of incisor-like teeth, or
         bristle-like teeth. Various sea areas are where it can be found.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Tang</a>
+      <a href="/chimeraland/materials/tang.html" class="stretched-link d-none"
+        >Continue reading Tang</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/tang/tang.webp" alt="Tang" />
@@ -62,7 +64,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Tang is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Tang</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Tang Spawn Locations</h5>

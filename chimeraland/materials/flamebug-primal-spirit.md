@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Flamebug Primal Spirit</h3>
       <div class="mb-1 text-muted">October 3, 2022 9:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/flamebug-primal-spirit.html"
+        class="stretched-link d-none"
         >Continue reading Flamebug Primal Spirit</a
       >
     </div>
@@ -78,7 +80,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Flamebug Primal Spirit is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Flamebug Primal Spirit</h2>
       <div id="recipe-flamebug-meat-claypot">
         <h5 id="item-flamebug-meat-claypot">Flamebug Meat Claypot</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -92,19 +94,20 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/flamebug-primal-spirit.html"
                       >Flamebug Primal Spirit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/flamebug-primal-spirit.html"
                       >Flamebug Primal Spirit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span>Any Meat<span> + </span>Red Hot Sauce<span>
-                      / </span
-                    >Cucumber Sauce<span> / </span>Fruit Sauce
+                    >
+                    + Any Meat + Red Hot Sauce / Cucumber Sauce / Fruit Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

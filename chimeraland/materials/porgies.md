@@ -33,7 +33,11 @@ categories:
         has continuous dorsal fin with no notches in the middle, and the rear
         and dorsal fin are in parralled, while its tai ifs forked.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Porgies</a>
+      <a
+        href="/chimeraland/materials/porgies.html"
+        class="stretched-link d-none"
+        >Continue reading Porgies</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/porgies/porgies.webp" alt="Porgies" />
@@ -62,7 +66,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Porgies is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Porgies</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Porgies Spawn Locations</h5>

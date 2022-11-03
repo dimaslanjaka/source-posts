@@ -32,7 +32,11 @@ categories:
         A freshwater fish with a strong body with a large and heavy head. Fierce
         and tough, it&#x27;s not picky about food.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Leopardfish</a>
+      <a
+        href="/chimeraland/materials/leopardfish.html"
+        class="stretched-link d-none"
+        >Continue reading Leopardfish</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -66,7 +70,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Leopardfish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Leopardfish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Leopardfish Spawn Locations</h5>

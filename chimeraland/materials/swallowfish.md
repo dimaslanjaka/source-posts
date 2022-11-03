@@ -33,7 +33,11 @@ categories:
         flat tail fin edge. It has dorsal and rear fin which extended backwards
         symmertrically, above and below.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Swallowfish</a>
+      <a
+        href="/chimeraland/materials/swallowfish.html"
+        class="stretched-link d-none"
+        >Continue reading Swallowfish</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -65,7 +69,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Swallowfish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Swallowfish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Swallowfish Spawn Locations</h5>

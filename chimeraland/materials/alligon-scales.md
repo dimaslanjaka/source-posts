@@ -29,7 +29,9 @@ categories:
       <h3 class="mb-0">Alligon Scales</h3>
       <div class="mb-1 text-muted">October 2, 2022 4:26 AM</div>
       <div class="mb-2 border p-1">Alligon scale, resists weapons.</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/alligon-scales.html"
+        class="stretched-link d-none"
         >Continue reading Alligon Scales</a
       >
     </div>
@@ -71,7 +73,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Alligon Scales is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Alligon Scales</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Alligon Scales Spawn Locations</h5>

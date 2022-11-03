@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Beast Intestines</h3>
       <div class="mb-1 text-muted">September 30, 2022 8:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/beast-intestines.html"
+        class="stretched-link d-none"
         >Continue reading Beast Intestines</a
       >
     </div>
@@ -62,7 +64,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Beast Intestines is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Beast Intestines</h2>
       <div id="recipe-fried-intestines">
         <h5 id="item-fried-intestines">Fried Intestines</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -76,10 +78,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-intestines.html"
                       >Beast Intestines</a
-                    ><span> + </span>Any Lv.4 Crop<span> / </span>Any Lv.5
-                    Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
-                    Flower<span> / </span>Any Mutant Flower<span> + </span
-                    >Peanut Oil
+                    >
+                    + Any Lv.4 Crop / Any Lv.5 Crop / Any Lv.6 Crop / Any Flower
+                    / Any Mutant Flower + Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -98,10 +99,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/kidney.html"
                       >Kidney</a
-                    ><span> + </span>Peanut Oil<span> + </span>Any Lv.4
-                    Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
-                    Crop<span> / </span>Any Flower<span> / </span>Any Mutant
-                    Flower
+                    >
+                    + Peanut Oil + Any Lv.4 Crop / Any Lv.5 Crop / Any Lv.6 Crop
+                    / Any Flower / Any Mutant Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -124,8 +124,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-intestines.html"
                       >Beast Intestines</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-intestines.html"
                       >Beast Intestines</a

@@ -32,7 +32,9 @@ categories:
         A freshwater fish with a slightly oval body, flat and tall. It has deep
         notching between the hard spine and soft lines of its dorsal fin.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/spotted-scat.html"
+        class="stretched-link d-none"
         >Continue reading Spotted Scat</a
       >
     </div>
@@ -69,7 +71,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Spotted Scat is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Spotted Scat</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Spotted Scat Spawn Locations</h5>

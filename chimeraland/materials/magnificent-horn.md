@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Magnificent Horn</h3>
       <div class="mb-1 text-muted">October 3, 2022 1:26 AM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/magnificent-horn.html"
+        class="stretched-link d-none"
         >Continue reading Magnificent Horn</a
       >
     </div>
@@ -70,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Magnificent Horn is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Magnificent Horn</h2>
       <div id="recipe-flame-roasted-horn">
         <h5 id="item-flame-roasted-horn">Flame Roasted Horn</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -84,23 +86,26 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/magnificent-horn.html"
                       >Magnificent Horn</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/magnificent-horn.html"
                       >Magnificent Horn</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span>Spicy Pepper Sauce<span> / </span>Garlic
-                    Sauce<span> + </span
-                    ><a
+                    >
+                    + Spicy Pepper Sauce / Garlic Sauce +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    ><span> / </span>Any Lv.3 Crops
+                    >
+                    / Any Lv.3 Crops
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

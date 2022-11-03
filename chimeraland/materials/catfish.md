@@ -34,7 +34,11 @@ categories:
         corners reaching below the front edge of its eyes. Usually found nearby
         Southmount freshwater areas.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Catfish</a>
+      <a
+        href="/chimeraland/materials/catfish.html"
+        class="stretched-link d-none"
+        >Continue reading Catfish</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/catfish/catfish.webp" alt="Catfish" />
@@ -66,7 +70,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Catfish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Catfish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Catfish Spawn Locations</h5>

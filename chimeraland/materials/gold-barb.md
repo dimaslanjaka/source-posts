@@ -33,7 +33,11 @@ categories:
         the common carp, but without the feelers at the mouth. Southmount is
         where traces of it maybe found.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Gold Barb</a>
+      <a
+        href="/chimeraland/materials/gold-barb.html"
+        class="stretched-link d-none"
+        >Continue reading Gold Barb</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -68,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Gold Barb is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Gold Barb</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Gold Barb Spawn Locations</h5>

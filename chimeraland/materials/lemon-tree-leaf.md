@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Lemon Tree Leaf</h3>
       <div class="mb-1 text-muted">October 5, 2022 8:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/lemon-tree-leaf.html"
+        class="stretched-link d-none"
         >Continue reading Lemon Tree Leaf</a
       >
     </div>
@@ -68,7 +70,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Lemon Tree Leaf is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Lemon Tree Leaf</h2>
       <div id="recipe-arowana-slices">
         <h5 id="item-arowana-slices">Arowana Slices</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -78,12 +80,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Barbled Dragonfish<span> + </span
-                    ><a
+                    Barbled Dragonfish +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    ><span> + </span>Barbled Dragonfish
+                    >
+                    + Barbled Dragonfish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -102,9 +105,8 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Egg White<span> + </span>Any Meat<span> + </span>Any Lv.3
-                    Crop<span> + </span>Purple grade fish<span> / </span>Orange
-                    grade fish<span> / </span>Red grade fish
+                    Egg White + Any Meat + Any Lv.3 Crop + Purple grade fish /
+                    Orange grade fish / Red grade fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -119,14 +121,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Egg White<span> + </span>Any Meat<span> + </span
-                    ><a
+                    Egg White + Any Meat +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    ><span> / </span>Any rare Crops such as pumpkin etc<span>
-                      + </span
-                    >any Purple Fish
+                    >
+                    / Any rare Crops such as pumpkin etc + any Purple Fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -149,9 +150,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    ><span> + </span>Dew or Ice Piece<span> + </span>Purple
-                    grade fish<span> / </span>Orange grade fish<span> / </span
-                    >Red grade fish
+                    >
+                    + Dew or Ice Piece + Purple grade fish / Orange grade fish /
+                    Red grade fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -174,13 +175,15 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/viperfish.html"
                       >Viperfish</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/viperfish.html"
                       >Viperfish</a
@@ -207,22 +210,26 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/spirit-fox-fur.html"
                       >Spirit Fox Fur</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/spirit-fox-fur.html"
                       >Spirit Fox Fur</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span>Spicy Powder<span> + </span
-                    ><a
+                    >
+                    + Spicy Powder +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    ><span> / </span>Any Lv.3 Crops
+                    >
+                    / Any Lv.3 Crops
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -245,22 +252,26 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/ancient-bone.html"
                       >Ancient Bone</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ancient-bone.html"
                       >Ancient Bone</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span>Any Mixed Sauce<span> + </span
-                    ><a
+                    >
+                    + Any Mixed Sauce +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    ><span> / </span>Any Lv.3 Crops
+                    >
+                    / Any Lv.3 Crops
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -283,22 +294,26 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/stoatle-shell.html"
                       >Stoatle Shell</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/stoatle-shell.html"
                       >Stoatle Shell</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span>Scallion Powder<span> + </span
-                    ><a
+                    >
+                    + Scallion Powder +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    ><span> / </span>Any Lv.3 Crops
+                    >
+                    / Any Lv.3 Crops
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -321,23 +336,26 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/magnificent-horn.html"
                       >Magnificent Horn</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/magnificent-horn.html"
                       >Magnificent Horn</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span>Spicy Pepper Sauce<span> / </span>Garlic
-                    Sauce<span> + </span
-                    ><a
+                    >
+                    + Spicy Pepper Sauce / Garlic Sauce +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    ><span> / </span>Any Lv.3 Crops
+                    >
+                    / Any Lv.3 Crops
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

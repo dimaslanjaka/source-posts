@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Dung</h3>
       <div class="mb-1 text-muted">October 5, 2022 8:26 AM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Dung</a>
+      <a href="/chimeraland/materials/dung.html" class="stretched-link d-none"
+        >Continue reading Dung</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/dung/dung.webp" alt="Dung" />
@@ -65,7 +67,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Dung is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Dung</h2>
       <div id="recipe-dark-cuisine">
         <h5 id="item-dark-cuisine">Dark Cuisine</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -79,13 +81,15 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
@@ -108,7 +112,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    ><span> + </span>Any Fish
+                    >
+                    + Any Fish
                   </li>
                   <li>Device: Camp II</li>
                 </ul>
@@ -127,7 +132,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    ><span> + </span>Any Grade Crop
+                    >
+                    + Any Grade Crop
                   </li>
                   <li>Device: Stove II</li>
                 </ul>
@@ -146,9 +152,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    ><span> + </span>Any High Quality Seasoning<span> / </span
-                    >Any Flower<span> / </span>Any Mutant Flower<span> / </span
-                    >Any Curio
+                    >
+                    + Any High Quality Seasoning / Any Flower / Any Mutant
+                    Flower / Any Curio
                   </li>
                   <li>Device: Stove II</li>
                 </ul>
@@ -220,13 +226,15 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a

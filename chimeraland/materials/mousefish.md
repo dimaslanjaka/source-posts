@@ -33,7 +33,11 @@ categories:
         and first dorsal fin are hard spines. It has whiskers at its mouth
         corners, resembling a mouse.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Mousefish</a>
+      <a
+        href="/chimeraland/materials/mousefish.html"
+        class="stretched-link d-none"
+        >Continue reading Mousefish</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -68,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Mousefish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Mousefish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Mousefish Spawn Locations</h5>

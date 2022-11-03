@@ -32,7 +32,11 @@ categories:
         A marine fish with an almost egg-like body. It has a flat head and
         pointed snout, flattened body, and big eyes. Found in various areas.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Archerfish</a>
+      <a
+        href="/chimeraland/materials/archerfish.html"
+        class="stretched-link d-none"
+        >Continue reading Archerfish</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -64,7 +68,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Archerfish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Archerfish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Archerfish Spawn Locations</h5>

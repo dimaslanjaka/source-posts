@@ -77,7 +77,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Ox Mane Hair is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Ox Mane Hair</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Ox Mane Hair Spawn Locations</h5>

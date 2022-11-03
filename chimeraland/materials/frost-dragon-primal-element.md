@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Frost Dragon Primal Element</h3>
       <div class="mb-1 text-muted">October 10, 2022 10:26 AM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/frost-dragon-primal-element.html"
+        class="stretched-link d-none"
         >Continue reading Frost Dragon Primal Element</a
       >
     </div>
@@ -70,9 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">
-        Frost Dragon Primal Element is a cooking ingredient for
-      </h2>
+      <h2 id="cookable">Cooking Recipes Using Frost Dragon Primal Element</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Frost Dragon Primal Element Spawn Locations</h5>

@@ -29,7 +29,9 @@ categories:
       <h3 class="mb-0">Grouguana Scales</h3>
       <div class="mb-1 text-muted">October 1, 2022 3:26 PM</div>
       <div class="mb-2 border p-1">Viper Scale, worn to not sink.</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/grouguana-scales.html"
+        class="stretched-link d-none"
         >Continue reading Grouguana Scales</a
       >
     </div>
@@ -73,7 +75,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Grouguana Scales is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Grouguana Scales</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Grouguana Scales Spawn Locations</h5>

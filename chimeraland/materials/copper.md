@@ -32,7 +32,9 @@ categories:
         Red-orange when pure, imperfections are often greenish, pliable yet
         tough.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Copper</a>
+      <a href="/chimeraland/materials/copper.html" class="stretched-link d-none"
+        >Continue reading Copper</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/copper/copper.webp" alt="Copper" />
@@ -71,7 +73,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Copper is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Copper</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Copper Spawn Locations</h5>

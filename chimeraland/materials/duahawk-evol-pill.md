@@ -50,7 +50,7 @@ categories:
     </div>
     <div class="col-lg-6 col-12 mb-2"></div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Duahawk Evol Pill is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Duahawk Evol Pill</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Duahawk Evol Pill Spawn Locations</h5>

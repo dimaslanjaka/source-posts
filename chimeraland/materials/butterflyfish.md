@@ -32,7 +32,9 @@ categories:
         A marine fish with a flattened body, prominent snout, and colorful,
         elegant look. Found in various sea areas.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/butterflyfish.html"
+        class="stretched-link d-none"
         >Continue reading Butterflyfish</a
       >
     </div>
@@ -66,7 +68,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Butterflyfish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Butterflyfish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Butterflyfish Spawn Locations</h5>

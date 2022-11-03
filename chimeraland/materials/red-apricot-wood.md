@@ -31,7 +31,9 @@ categories:
       <div class="mb-2 border p-1">
         Cherry tree core. Formed over many years, can be used for vehicles.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/red-apricot-wood.html"
+        class="stretched-link d-none"
         >Continue reading Red Apricot Wood</a
       >
     </div>
@@ -74,7 +76,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Red Apricot Wood is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Red Apricot Wood</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Red Apricot Wood Spawn Locations</h5>

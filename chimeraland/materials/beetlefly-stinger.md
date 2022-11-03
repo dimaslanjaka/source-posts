@@ -31,7 +31,9 @@ categories:
       <div class="mb-2 border p-1">
         Contains a poison that kills plants and animals.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/beetlefly-stinger.html"
+        class="stretched-link d-none"
         >Continue reading Beetlefly Stinger</a
       >
     </div>
@@ -73,7 +75,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Beetlefly Stinger is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Beetlefly Stinger</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Beetlefly Stinger Spawn Locations</h5>

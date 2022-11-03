@@ -33,7 +33,9 @@ categories:
         The snout protrudes a little. It has a large maw tilted upwards.
         Centralmount sea areas are where it can be found.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Nibea</a>
+      <a href="/chimeraland/materials/nibea.html" class="stretched-link d-none"
+        >Continue reading Nibea</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/nibea/nibea.webp" alt="Nibea" />
@@ -65,7 +67,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Nibea is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Nibea</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Nibea Spawn Locations</h5>

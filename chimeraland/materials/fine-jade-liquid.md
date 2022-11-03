@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Fine Jade Liquid</h3>
       <div class="mb-1 text-muted">October 2, 2022 3:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/fine-jade-liquid.html"
+        class="stretched-link d-none"
         >Continue reading Fine Jade Liquid</a
       >
     </div>
@@ -76,7 +78,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Fine Jade Liquid is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Fine Jade Liquid</h2>
       <div id="recipe-hearty-meatball-soup">
         <h5 id="item-hearty-meatball-soup">Hearty Meatball Soup</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -90,18 +92,20 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/fine-jade-liquid.html"
                       >Fine Jade Liquid</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/fine-jade-liquid.html"
                       >Fine Jade Liquid</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span>Any Mixed Sauce<span> + </span>Any Blue
-                    Grade Fish
+                    >
+                    + Any Mixed Sauce + Any Blue Grade Fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

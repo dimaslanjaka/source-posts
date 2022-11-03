@@ -31,7 +31,9 @@ categories:
       <div class="mb-2 border p-1">
         Bug Saliva, brown and murky, sticky, dissolves wood and stone.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/insect-ichor.html"
+        class="stretched-link d-none"
         >Continue reading Insect Ichor</a
       >
     </div>
@@ -66,7 +68,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Insect Ichor is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Insect Ichor</h2>
       <div id="recipe-braised-meat-cubes">
         <h5 id="item-braised-meat-cubes">Braised Meat Cubes</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -76,13 +78,14 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Any Meat<span> + </span
-                    ><a
+                    Any Meat +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/insect-ichor.html"
                       >Insect Ichor</a
@@ -109,13 +112,15 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
@@ -138,7 +143,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    ><span> + </span>Any Fish
+                    >
+                    + Any Fish
                   </li>
                   <li>Device: Camp II</li>
                 </ul>
@@ -157,7 +163,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    ><span> + </span>Any Grade Crop
+                    >
+                    + Any Grade Crop
                   </li>
                   <li>Device: Stove II</li>
                 </ul>
@@ -176,9 +183,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    ><span> + </span>Any High Quality Seasoning<span> / </span
-                    >Any Flower<span> / </span>Any Mutant Flower<span> / </span
-                    >Any Curio
+                    >
+                    + Any High Quality Seasoning / Any Flower / Any Mutant
+                    Flower / Any Curio
                   </li>
                   <li>Device: Stove II</li>
                 </ul>
@@ -233,24 +240,27 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
-                      / </span
-                    ><a
+                    >
+                    / Any Seasoning / Any Spice /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/insect-ichor.html"
                       >Insect Ichor</a
@@ -273,18 +283,20 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Any Wild Fruit<span> + </span
-                    ><a
+                    Any Wild Fruit +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/insect-ichor.html"
                       >Insect Ichor</a
@@ -307,13 +319,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> + </span>Any Lv.1 Crop<span> / </span>Any Lv.2
-                    Crop<span> / </span>Any Lv.3 Crop<span> / </span>Any Lv.4
+                    >
+                    + Any Lv.1 Crop / Any Lv.2 Crop / Any Lv.3 Crop / Any Lv.4
                     Crop
                   </li>
                   <li>Device: Stove or Camp</li>
@@ -333,15 +346,15 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> + </span>Any Lv.1 Crop<span> / </span>Any Lv.2
-                    Crop<span> / </span>Any Lv.3 Crop<span> / </span>Any Lv.4
-                    Crop<span> / </span>Any Mutant Flower<span> / </span>Any
-                    Flower
+                    >
+                    + Any Lv.1 Crop / Any Lv.2 Crop / Any Lv.3 Crop / Any Lv.4
+                    Crop / Any Mutant Flower / Any Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -364,13 +377,15 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/insect-ichor.html"
                       >Insect Ichor</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a

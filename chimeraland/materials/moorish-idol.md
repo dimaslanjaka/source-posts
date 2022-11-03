@@ -34,7 +34,9 @@ categories:
         yellow body, and golden yellow dorsal, rear, and tail fin. Eastmount Sea
         is where is can be found.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/moorish-idol.html"
+        class="stretched-link d-none"
         >Continue reading Moorish Idol</a
       >
     </div>
@@ -70,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Moorish Idol is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Moorish Idol</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Moorish Idol Spawn Locations</h5>

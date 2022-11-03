@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Glow Deer Hide</h3>
       <div class="mb-1 text-muted">October 1, 2022 9:26 AM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/glow-deer-hide.html"
+        class="stretched-link d-none"
         >Continue reading Glow Deer Hide</a
       >
     </div>
@@ -70,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Glow Deer Hide is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Glow Deer Hide</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Glow Deer Hide Spawn Locations</h5>

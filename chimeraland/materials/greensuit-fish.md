@@ -32,7 +32,9 @@ categories:
         A marine fish, tiny in size and green all over with a white abdomen and
         large eyes. Commonly found in Westmount Sea.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/greensuit-fish.html"
+        class="stretched-link d-none"
         >Continue reading Greensuit Fish</a
       >
     </div>
@@ -68,7 +70,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Greensuit Fish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Greensuit Fish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Greensuit Fish Spawn Locations</h5>

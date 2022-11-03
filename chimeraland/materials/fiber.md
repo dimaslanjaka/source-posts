@@ -32,7 +32,9 @@ categories:
         Silk produced from a silk tree. Soft and smooth to the though as well as
         translucent, it is often used to make cloth.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Fiber</a>
+      <a href="/chimeraland/materials/fiber.html" class="stretched-link d-none"
+        >Continue reading Fiber</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/fiber/fiber.webp" alt="Fiber" />
@@ -66,7 +68,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Fiber is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Fiber</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Fiber Spawn Locations</h5>

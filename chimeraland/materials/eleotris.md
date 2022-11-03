@@ -32,7 +32,11 @@ categories:
         A marine fish with a long flat body, It has small, flat head, and short
         rounded snout. It has large eyes on the top of its head.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Eleotris</a>
+      <a
+        href="/chimeraland/materials/eleotris.html"
+        class="stretched-link d-none"
+        >Continue reading Eleotris</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/eleotris/eleotris.webp" alt="Eleotris" />
@@ -61,7 +65,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Eleotris is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Eleotris</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Eleotris Spawn Locations</h5>

@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Beetlefly Meat</h3>
       <div class="mb-1 text-muted">September 30, 2022 12:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/beetlefly-meat.html"
+        class="stretched-link d-none"
         >Continue reading Beetlefly Meat</a
       >
     </div>
@@ -63,7 +65,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Beetlefly Meat is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Beetlefly Meat</h2>
       <div id="recipe-frog-honey-sauce">
         <h5 id="item-frog-honey-sauce">Frog Honey Sauce</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -73,13 +75,14 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil<span> + </span
-                    ><a
+                    Peanut Oil +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beetlefly-meat.html"
                       >Beetlefly Meat</a
-                    ><span> + </span>Any High Quality Seasoning<span> + </span
-                    >Any Mixed Sauce<span> + </span>Any Mixed Sauce
+                    >
+                    + Any High Quality Seasoning + Any Mixed Sauce + Any Mixed
+                    Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -102,12 +105,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/wolfspider-meat.html"
                       >Wolfspider Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    ><span> + </span>Garlic Powder
+                    >
+                    + Garlic Powder
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -122,13 +127,14 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder<span> + </span
-                    ><a
+                    Garlic Powder +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a
@@ -147,13 +153,14 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder<span> + </span
-                    ><a
+                    Garlic Powder +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/scorab-meat.html"
                       >Scorab Meat</a
@@ -172,13 +179,14 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder<span> + </span
-                    ><a
+                    Garlic Powder +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beetlefly-meat.html"
                       >Beetlefly Meat</a
@@ -205,8 +213,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beetlefly-meat.html"
                       >Beetlefly Meat</a
-                    ><span> + </span>Any Meat<span> + </span>Any Sweet
-                    Sauce<span> + </span>Peanut Oil
+                    >
+                    + Any Meat + Any Sweet Sauce + Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

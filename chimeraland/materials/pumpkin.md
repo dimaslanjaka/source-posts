@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Pumpkin</h3>
       <div class="mb-1 text-muted">October 4, 2022 8:26 AM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Pumpkin</a>
+      <a
+        href="/chimeraland/materials/pumpkin.html"
+        class="stretched-link d-none"
+        >Continue reading Pumpkin</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/pumpkin/pumpkin.webp" alt="Pumpkin" />
@@ -57,7 +61,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Pumpkin is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Pumpkin</h2>
       <div id="recipe-chargrilled-pumpkin-and-iguana">
         <h5 id="item-chargrilled-pumpkin-and-iguana">
           Chargrilled Pumpkin And Iguana
@@ -71,17 +75,19 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil<span> + </span
-                    ><a
+                    Peanut Oil +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/grouguana-meat.html"
                       >Grouguana Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/pumpkin.html"
                       >Pumpkin</a
-                    ><span> + </span>Any Flower<span> / </span>Any Mutant Flower
+                    >
+                    + Any Flower / Any Mutant Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -104,11 +110,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/pumpkin.html"
                       >Pumpkin</a
-                    ><span> + </span>Any Lv.6 Crop<span> + </span>Any Meat<span>
-                      + </span
-                    >Any Meat<span> + </span>Any Lv.3 Crop<span> / </span>Any
-                    Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any
-                    Lv.6 Crop
+                    >
+                    + Any Lv.6 Crop + Any Meat + Any Meat + Any Lv.3 Crop / Any
+                    Lv.4 Crop / Any Lv.5 Crop / Any Lv.6 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Sea Buckthorn</h3>
       <div class="mb-1 text-muted">October 9, 2022 10:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/sea-buckthorn.html"
+        class="stretched-link d-none"
         >Continue reading Sea Buckthorn</a
       >
     </div>
@@ -74,7 +76,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Sea Buckthorn is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Sea Buckthorn</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Sea Buckthorn Spawn Locations</h5>

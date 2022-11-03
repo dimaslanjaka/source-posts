@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Blamprey</h3>
       <div class="mb-1 text-muted">October 8, 2022 12:26 PM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Blamprey</a>
+      <a
+        href="/chimeraland/materials/blamprey.html"
+        class="stretched-link d-none"
+        >Continue reading Blamprey</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/blamprey/blamprey.webp" alt="Blamprey" />
@@ -60,7 +64,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Blamprey is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Blamprey</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Blamprey Spawn Locations</h5>

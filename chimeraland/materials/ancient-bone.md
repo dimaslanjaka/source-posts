@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Ancient Bone</h3>
       <div class="mb-1 text-muted">October 3, 2022 4:26 AM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/ancient-bone.html"
+        class="stretched-link d-none"
         >Continue reading Ancient Bone</a
       >
     </div>
@@ -70,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Ancient Bone is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Ancient Bone</h2>
       <div id="recipe-soy-braised-dragon-bone">
         <h5 id="item-soy-braised-dragon-bone">Soy Braised Dragon Bone</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -84,22 +86,26 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/ancient-bone.html"
                       >Ancient Bone</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ancient-bone.html"
                       >Ancient Bone</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span>Any Mixed Sauce<span> + </span
-                    ><a
+                    >
+                    + Any Mixed Sauce +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    ><span> / </span>Any Lv.3 Crops
+                    >
+                    / Any Lv.3 Crops
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

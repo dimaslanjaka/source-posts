@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Pure Wood Essence</h3>
       <div class="mb-1 text-muted">October 4, 2022 12:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/pure-wood-essence.html"
+        class="stretched-link d-none"
         >Continue reading Pure Wood Essence</a
       >
     </div>
@@ -62,7 +64,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Pure Wood Essence is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Pure Wood Essence</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Pure Wood Essence Spawn Locations</h5>

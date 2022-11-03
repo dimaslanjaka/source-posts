@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Common Wood Essence</h3>
       <div class="mb-1 text-muted">October 4, 2022 8:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/common-wood-essence.html"
+        class="stretched-link d-none"
         >Continue reading Common Wood Essence</a
       >
     </div>
@@ -62,7 +64,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Common Wood Essence is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Common Wood Essence</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Common Wood Essence Spawn Locations</h5>

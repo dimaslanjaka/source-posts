@@ -33,7 +33,9 @@ categories:
         and its dorsal fin curves slightly in an arc. Both eyes are evenly
         spaced. Southmount Sea is where it may be found.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/purple-snapper.html"
+        class="stretched-link d-none"
         >Continue reading Purple Snapper</a
       >
     </div>
@@ -70,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Purple Snapper is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Purple Snapper</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Purple Snapper Spawn Locations</h5>

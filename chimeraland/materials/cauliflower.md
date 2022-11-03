@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Cauliflower</h3>
       <div class="mb-1 text-muted">October 9, 2022 1:26 PM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Cauliflower</a>
+      <a
+        href="/chimeraland/materials/cauliflower.html"
+        class="stretched-link d-none"
+        >Continue reading Cauliflower</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -67,7 +71,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Cauliflower is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Cauliflower</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Cauliflower Spawn Locations</h5>

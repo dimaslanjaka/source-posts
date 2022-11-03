@@ -65,7 +65,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Vuldo Meat is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Vuldo Meat</h2>
       <div id="recipe-beggars-chicken">
         <h5 id="item-beggars-chicken">Beggar&#x27;s Chicken</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -79,8 +79,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/watermelon.html"
                       >Watermelon</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/vuldo-meat.html"
                       >Vuldo Meat</a
@@ -107,13 +108,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/vuldo-meat.html"
                       >Vuldo Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    ><span> + </span>Any Seasoning<span> + </span>Any Lv.5
-                    <span> / </span> Lv.6 Crop
+                    >
+                    + Any Seasoning + Any Lv.5 / Lv.6 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -132,13 +134,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/vuldo-meat.html"
                       >Vuldo Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> + </span>Any Seasoning<span> + </span>Any Lv.5
-                    <span> / </span> Lv.6 Crop
+                    >
+                    + Any Seasoning + Any Lv.5 / Lv.6 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -161,7 +164,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/vuldo-meat.html"
                       >Vuldo Meat</a
-                    ><span> + </span>Any Wild Fruit<span> + </span>Any Lv.4 Crop
+                    >
+                    + Any Wild Fruit + Any Lv.4 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -184,12 +188,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/condor-meat.html"
                       >Condor Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/condor-meat.html"
                       >Condor Meat</a
-                    ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                    >
+                    + Any Sweet Sauce + Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -208,12 +214,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/vulture-meat.html"
                       >Vulture Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/vulture-meat.html"
                       >Vulture Meat</a
-                    ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                    >
+                    + Any Sweet Sauce + Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -232,12 +240,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/vuldo-meat.html"
                       >Vuldo Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/vuldo-meat.html"
                       >Vuldo Meat</a
-                    ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
+                    >
+                    + Any Sweet Sauce + Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

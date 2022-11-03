@@ -34,7 +34,9 @@ categories:
         back fins have tough serrated spines. The side of its body are golden
         yellow.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/goldfin-carp.html"
+        class="stretched-link d-none"
         >Continue reading Goldfin Carp</a
       >
     </div>
@@ -71,7 +73,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Goldfin Carp is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Goldfin Carp</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Goldfin Carp Spawn Locations</h5>

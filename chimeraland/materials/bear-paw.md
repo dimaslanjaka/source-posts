@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Bear Paw</h3>
       <div class="mb-1 text-muted">October 1, 2022 3:26 AM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Bear Paw</a>
+      <a
+        href="/chimeraland/materials/bear-paw.html"
+        class="stretched-link d-none"
+        >Continue reading Bear Paw</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/bear-paw/bear-paw.webp" alt="Bear Paw" />
@@ -64,7 +68,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Bear Paw is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Bear Paw</h2>
       <div id="recipe-grilled-bear-paw">
         <h5 id="item-grilled-bear-paw">Grilled Bear Paw</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -78,9 +82,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bear-paw.html"
                       >Bear Paw</a
-                    ><span> + </span>Any Seasoning<span> / </span>Any Spice<span>
-                      / </span
-                    >Any High Quality Seasoning
+                    >
+                    + Any Seasoning / Any Spice / Any High Quality Seasoning
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -103,19 +106,21 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bear-paw.html"
                       >Bear Paw</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/orchid.html"
                       >Orchid</a
-                    ><span> + </span>Five Spice Powder<span> + </span>Any Wild
-                    Fruit<span> + </span
-                    ><a
+                    >
+                    + Five Spice Powder + Any Wild Fruit +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
@@ -138,23 +143,27 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bear-paw.html"
                       >Bear Paw</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/orchid.html"
                       >Orchid</a
-                    ><span> + </span>Five Spice Powder<span> + </span
-                    ><a
+                    >
+                    + Five Spice Powder +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
@@ -181,33 +190,39 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/nirvana-feather.html"
                       >Nirvana Feather</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/nirvana-feather.html"
                       >Nirvana Feather</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bird-wing.html"
                       >Bird Wing</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bird-wing.html"
                       >Bird Wing</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bear-paw.html"
                       >Bear Paw</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a

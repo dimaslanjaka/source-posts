@@ -32,7 +32,11 @@ categories:
         Like a jade ship endowed with mountain mist, this rare wild fruit is
         found in the desert.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Bodhi Fruit</a>
+      <a
+        href="/chimeraland/materials/bodhi-fruit.html"
+        class="stretched-link d-none"
+        >Continue reading Bodhi Fruit</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -75,7 +79,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Bodhi Fruit is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Bodhi Fruit</h2>
       <div id="recipe-bodhi-fruit-sauce">
         <h5 id="item-bodhi-fruit-sauce">Bodhi Fruit Sauce</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -89,7 +93,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bodhi-fruit.html"
                       >Bodhi Fruit</a
-                    ><span> + </span>Any Wild Fruit
+                    >
+                    + Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -112,12 +117,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bodhi-fruit.html"
                       >Bodhi Fruit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> + </span>Any Meat
+                    >
+                    + Any Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -140,8 +147,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bodhi-fruit.html"
                       >Bodhi Fruit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
@@ -168,8 +176,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bodhi-fruit.html"
                       >Bodhi Fruit</a

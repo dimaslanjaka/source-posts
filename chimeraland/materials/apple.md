@@ -31,7 +31,9 @@ categories:
       <div class="mb-2 border p-1">
         Crystal fruit looks like an ice crystal and feels cold to match.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Apple</a>
+      <a href="/chimeraland/materials/apple.html" class="stretched-link d-none"
+        >Continue reading Apple</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/apple/apple.webp" alt="Apple" />
@@ -68,7 +70,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Apple is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Apple</h2>
       <div id="recipe-apple-sauce">
         <h5 id="item-apple-sauce">Apple Sauce</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -82,7 +84,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
-                    ><span> + </span>Any Wild Fruit
+                    >
+                    + Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -124,8 +127,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
@@ -152,12 +156,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
-                    ><span> + </span>Any Wild Fruit
+                    >
+                    + Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -180,19 +186,21 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bear-paw.html"
                       >Bear Paw</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/orchid.html"
                       >Orchid</a
-                    ><span> + </span>Five Spice Powder<span> + </span>Any Wild
-                    Fruit<span> + </span
-                    ><a
+                    >
+                    + Five Spice Powder + Any Wild Fruit +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
@@ -215,23 +223,27 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/bear-paw.html"
                       >Bear Paw</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/orchid.html"
                       >Orchid</a
-                    ><span> + </span>Five Spice Powder<span> + </span
-                    ><a
+                    >
+                    + Five Spice Powder +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
@@ -254,11 +266,8 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil<span> + </span>Job&#x27;s Tears Powder<span>
-                      + </span
-                    >Any Wild Fruit<span> + </span>Purple grade fish<span>
-                      / </span
-                    >Orange grade fish<span> / </span>Red grade fish
+                    Peanut Oil + Job&#x27;s Tears Powder + Any Wild Fruit +
+                    Purple grade fish / Orange grade fish / Red grade fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -273,13 +282,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil<span> + </span>Job&#x27;s Tear Powder<span>
-                      + </span
-                    ><a
+                    Peanut Oil + Job&#x27;s Tear Powder +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
-                    ><span> + </span>Any Purple Fish
+                    >
+                    + Any Purple Fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -327,8 +336,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/sea-buckthorn.html"
                       >Sea-Buckthorn</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a

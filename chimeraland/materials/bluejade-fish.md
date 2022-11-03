@@ -33,7 +33,9 @@ categories:
         slightly thick snout. The dorsal fin is extended and a dozen hard spines
         are in rows in front.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/bluejade-fish.html"
+        class="stretched-link d-none"
         >Continue reading Bluejade Fish</a
       >
     </div>
@@ -70,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Bluejade Fish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Bluejade Fish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Bluejade Fish Spawn Locations</h5>

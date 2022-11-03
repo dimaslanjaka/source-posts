@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Fortuphant Primal Spirit</h3>
       <div class="mb-1 text-muted">October 3, 2022 3:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/fortuphant-primal-spirit.html"
+        class="stretched-link d-none"
         >Continue reading Fortuphant Primal Spirit</a
       >
     </div>
@@ -72,9 +74,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">
-        Fortuphant Primal Spirit is a cooking ingredient for
-      </h2>
+      <h2 id="cookable">Cooking Recipes Using Fortuphant Primal Spirit</h2>
       <div id="recipe-overlord-hide-jelly">
         <h5 id="item-overlord-hide-jelly">Overlord Hide Jelly</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -88,33 +88,39 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/fortuphant-primal-spirit.html"
                       >Fortuphant Primal Spirit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/fortuphant-primal-spirit.html"
                       >Fortuphant Primal Spirit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> + </span>Corriander<span> / </span
-                    ><a
+                    >
+                    + Corriander /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/flat-cabbage.html"
                       >Flat Cabbage</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/watermelon.html"
                       >Watermelon</a

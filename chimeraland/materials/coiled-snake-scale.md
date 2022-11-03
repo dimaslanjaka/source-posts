@@ -31,7 +31,9 @@ categories:
       <div class="mb-2 border p-1">
         A giant Snake&#x27;s skin. It&#x27;s simply fascinating.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/coiled-snake-scale.html"
+        class="stretched-link d-none"
         >Continue reading Coiled Snake Scale</a
       >
     </div>
@@ -70,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Coiled Snake Scale is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Coiled Snake Scale</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Coiled Snake Scale Spawn Locations</h5>

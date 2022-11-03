@@ -33,7 +33,9 @@ categories:
         spindle-like body. It has no swim bladder and has to keep swimming to
         avoid sinking to the bottom.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Shark</a>
+      <a href="/chimeraland/materials/shark.html" class="stretched-link d-none"
+        >Continue reading Shark</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/shark/shark.webp" alt="Shark" />
@@ -65,7 +67,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Shark is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Shark</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Shark Spawn Locations</h5>

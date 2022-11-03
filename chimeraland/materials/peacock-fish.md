@@ -32,7 +32,9 @@ categories:
         Freshwater fish with a thin body, flamboyantly colorful and an elegant
         body shape, In various freshwater areas traces of it may be found.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/peacock-fish.html"
+        class="stretched-link d-none"
         >Continue reading Peacock Fish</a
       >
     </div>
@@ -69,7 +71,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Peacock Fish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Peacock Fish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Peacock Fish Spawn Locations</h5>

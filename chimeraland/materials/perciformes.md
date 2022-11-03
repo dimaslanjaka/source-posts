@@ -33,7 +33,11 @@ categories:
         throat at the abdomen. It is ligh green-gray on the back, with light
         gray-back lines.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Perciformes</a>
+      <a
+        href="/chimeraland/materials/perciformes.html"
+        class="stretched-link d-none"
+        >Continue reading Perciformes</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -68,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Perciformes is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Perciformes</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Perciformes Spawn Locations</h5>

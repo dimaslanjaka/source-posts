@@ -33,7 +33,11 @@ categories:
         colored, with black stripes splitting orange and white live with
         anemones.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Clownfish</a>
+      <a
+        href="/chimeraland/materials/clownfish.html"
+        class="stretched-link d-none"
+        >Continue reading Clownfish</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -65,7 +69,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Clownfish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Clownfish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Clownfish Spawn Locations</h5>

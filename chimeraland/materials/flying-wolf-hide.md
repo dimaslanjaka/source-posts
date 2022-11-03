@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Flying Wolf Hide</h3>
       <div class="mb-1 text-muted">October 1, 2022 6:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/flying-wolf-hide.html"
+        class="stretched-link d-none"
         >Continue reading Flying Wolf Hide</a
       >
     </div>
@@ -72,7 +74,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Flying Wolf Hide is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Flying Wolf Hide</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Flying Wolf Hide Spawn Locations</h5>

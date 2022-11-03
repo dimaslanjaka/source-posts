@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Grizzly Primal Spirit</h3>
       <div class="mb-1 text-muted">October 3, 2022 7:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/grizzly-primal-spirit.html"
+        class="stretched-link d-none"
         >Continue reading Grizzly Primal Spirit</a
       >
     </div>
@@ -72,7 +74,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Grizzly Primal Spirit is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Grizzly Primal Spirit</h2>
       <div id="recipe-bear-ball-pot">
         <h5 id="item-bear-ball-pot">Bear Ball Pot</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -86,25 +88,28 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/grizzly-primal-spirit.html"
                       >Grizzly Primal Spirit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/grizzly-primal-spirit.html"
                       >Grizzly Primal Spirit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span>Red Hot Sauce<span> / </span>Cucumber
-                    Sauce<span> / </span>Fruit Sauce<span> + </span
-                    >Corriander<span> / </span
-                    ><a
+                    >
+                    + Red Hot Sauce / Cucumber Sauce / Fruit Sauce + Corriander
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/flat-cabbage.html"
                       >Flat Cabbage</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/watermelon.html"
                       >Watermelon</a

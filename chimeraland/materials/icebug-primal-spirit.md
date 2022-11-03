@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Icebug Primal Spirit</h3>
       <div class="mb-1 text-muted">October 3, 2022 10:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/icebug-primal-spirit.html"
+        class="stretched-link d-none"
         >Continue reading Icebug Primal Spirit</a
       >
     </div>
@@ -78,7 +80,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Icebug Primal Spirit is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Icebug Primal Spirit</h2>
       <div id="recipe-steamed-sweet-and-sour-icebug">
         <h5 id="item-steamed-sweet-and-sour-icebug">
           Steamed Sweet &amp; Sour Icebug
@@ -96,19 +98,21 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/icebug-primal-spirit.html"
                       >Icebug Primal Spirit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/icebug-primal-spirit.html"
                       >Icebug Primal Spirit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span>Red Hot Sauce<span> / </span>Cucumber
-                    Sauce<span> / </span>Fruit Sauce<span> + </span>Orange Grade
-                    Fish
+                    >
+                    + Red Hot Sauce / Cucumber Sauce / Fruit Sauce + Orange
+                    Grade Fish
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

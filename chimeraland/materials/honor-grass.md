@@ -33,7 +33,11 @@ categories:
         well as purple leaves and flowers. Taken to protect against thunder, it
         can only be found on Snowy Peak.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Honor Grass</a>
+      <a
+        href="/chimeraland/materials/honor-grass.html"
+        class="stretched-link d-none"
+        >Continue reading Honor Grass</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -74,7 +78,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Honor Grass is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Honor Grass</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Honor Grass Spawn Locations</h5>

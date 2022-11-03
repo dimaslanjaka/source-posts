@@ -32,7 +32,11 @@ categories:
         It has wings like a cicada, appears with the night mist, and is found in
         bushes.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Mist Wings</a>
+      <a
+        href="/chimeraland/materials/mist-wings.html"
+        class="stretched-link d-none"
+        >Continue reading Mist Wings</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -72,7 +76,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Mist Wings is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Mist Wings</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Mist Wings Spawn Locations</h5>

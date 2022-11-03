@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Dark Jade</h3>
       <div class="mb-1 text-muted">September 29, 2022 2:26 PM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Dark Jade</a>
+      <a
+        href="/chimeraland/materials/dark-jade.html"
+        class="stretched-link d-none"
+        >Continue reading Dark Jade</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -70,7 +74,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Dark Jade is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Dark Jade</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Dark Jade Spawn Locations</h5>

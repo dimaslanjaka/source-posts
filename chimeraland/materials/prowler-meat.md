@@ -65,7 +65,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Prowler Meat is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Prowler Meat</h2>
       <div id="recipe-grilled-wolf">
         <h5 id="item-grilled-wolf">Grilled Wolf</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -75,17 +75,19 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil<span> + </span
-                    ><a
+                    Peanut Oil +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/prowler-meat.html"
                       >Prowler Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/prowler-meat.html"
                       >Prowler Meat</a
-                    ><span> + </span>Any Seasoning
+                    >
+                    + Any Seasoning
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

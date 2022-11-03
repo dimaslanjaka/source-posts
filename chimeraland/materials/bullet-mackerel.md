@@ -32,7 +32,9 @@ categories:
         A marine fish, quite large, peculiar in shape, with sharp teeth. It like
         to live alone.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/bullet-mackerel.html"
+        class="stretched-link d-none"
         >Continue reading Bullet Mackerel</a
       >
     </div>
@@ -66,7 +68,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Bullet Mackerel is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Bullet Mackerel</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Bullet Mackerel Spawn Locations</h5>

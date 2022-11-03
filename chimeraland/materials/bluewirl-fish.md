@@ -33,7 +33,9 @@ categories:
         parttern. The edge of its trailing caudal fins is flat, and the dorsal
         and rear fins extend backward.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/bluewirl-fish.html"
+        class="stretched-link d-none"
         >Continue reading Bluewirl Fish</a
       >
     </div>
@@ -69,7 +71,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Bluewirl Fish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Bluewirl Fish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Bluewirl Fish Spawn Locations</h5>

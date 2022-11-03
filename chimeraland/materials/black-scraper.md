@@ -32,7 +32,9 @@ categories:
         A marine fish with a long oval body and tall sides. Its skin is rough
         and thick. Often found nearby the Westmount Sea.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/black-scraper.html"
+        class="stretched-link d-none"
         >Continue reading Black Scraper</a
       >
     </div>
@@ -66,7 +68,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Black Scraper is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Black Scraper</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Black Scraper Spawn Locations</h5>

@@ -33,7 +33,11 @@ categories:
         with the teeth that grow on its palate. It has a green body and reddish
         tail fin.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Pirarucu</a>
+      <a
+        href="/chimeraland/materials/pirarucu.html"
+        class="stretched-link d-none"
+        >Continue reading Pirarucu</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/pirarucu/pirarucu.webp" alt="Pirarucu" />
@@ -64,7 +68,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Pirarucu is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Pirarucu</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Pirarucu Spawn Locations</h5>

@@ -32,7 +32,9 @@ categories:
         Five-colored jade, rolling and boiling, five-fragranced, goodness of
         heaven, oh flawless luster, ever propitious.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/brilliant-jade.html"
+        class="stretched-link d-none"
         >Continue reading Brilliant Jade</a
       >
     </div>
@@ -75,7 +77,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Brilliant Jade is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Brilliant Jade</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Brilliant Jade Spawn Locations</h5>

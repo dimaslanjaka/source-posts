@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Beast Brain</h3>
       <div class="mb-1 text-muted">September 30, 2022 9:26 PM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Beast Brain</a>
+      <a
+        href="/chimeraland/materials/beast-brain.html"
+        class="stretched-link d-none"
+        >Continue reading Beast Brain</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -60,7 +64,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Beast Brain is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Beast Brain</h2>
       <div id="recipe-fruity-meat-skewers">
         <h5 id="item-fruity-meat-skewers">Fruity Meat Skewers</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -70,38 +74,43 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Any Meat<span> + </span>Any Wild Fruit<span> / </span>Any
-                    Seasoning<span> / </span
-                    ><a
+                    Any Meat + Any Wild Fruit / Any Seasoning /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-heart.html"
                       >Beast Heart</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-liver.html"
                       >Beast Liver</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    ><span> / </span>Beast Insentines<span> / </span
-                    ><a
+                    >
+                    / Beast Insentines /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/kidney.html"
                       >Kidney</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hoof-sinew.html"
                       >Hoof Sinew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chunk-of-fat.html"
                       >Chunk Of Fat</a
-                    ><span> / </span>Any Spice
+                    >
+                    / Any Spice
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -116,9 +125,8 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span> / </span
-                    >Any Lv.3 Crop<span> / </span>Any Lv.4 Crop<span> + </span
-                    >Any Meat
+                    Any Lv.1 Crop / Any Lv.2 Crop / Any Lv.3 Crop / Any Lv.4
+                    Crop + Any Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -141,8 +149,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
@@ -165,34 +174,38 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Any Meat<span> + </span>Any Meat<span> / </span>Any
-                    Seasoning<span> / </span>Any Spice<span> / </span
-                    ><a
+                    Any Meat + Any Meat / Any Seasoning / Any Spice /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-heart.html"
                       >Beast Heart</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-liver.html"
                       >Beast Liver</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    ><span> / </span>Beast Insentines<span> / </span
-                    ><a
+                    >
+                    / Beast Insentines /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/kidney.html"
                       >Kidney</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hoof-sinew.html"
                       >Hoof Sinew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chunk-of-fat.html"
                       >Chunk Of Fat</a
@@ -214,10 +227,7 @@ categories:
               <h2 class="card-title fs-5">Recipe Meat And Vegetable 1</h2>
               <div class="card-text">
                 <ul>
-                  <li>
-                    Any Meat<span> + </span>Any Spice<span> + </span>Any Lv.3
-                    Crop<span> / </span>Any Lv.4 Crop
-                  </li>
+                  <li>Any Meat + Any Spice + Any Lv.3 Crop / Any Lv.4 Crop</li>
                   <li>Device: Stove or Camp</li>
                 </ul>
               </div>
@@ -235,32 +245,38 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-heart.html"
                       >Beast Heart</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-liver.html"
                       >Beast Liver</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    ><span> / </span>Beast Insentines<span> / </span
-                    ><a
+                    >
+                    / Beast Insentines /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/kidney.html"
                       >Kidney</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hoof-sinew.html"
                       >Hoof Sinew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chunk-of-fat.html"
                       >Chunk Of Fat</a
-                    ><span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
+                    >
+                    + Any Lv.5 Crop / Any Lv.6 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -274,10 +290,7 @@ categories:
               <h2 class="card-title fs-5">Recipe Meat And Vegetable 3</h2>
               <div class="card-text">
                 <ul>
-                  <li>
-                    Any Curio<span> + </span>Any Lv.5 Crop<span> / </span>Any
-                    Lv.6 Crop
-                  </li>
+                  <li>Any Curio + Any Lv.5 Crop / Any Lv.6 Crop</li>
                   <li>Device: Stove or Camp</li>
                 </ul>
               </div>
@@ -290,10 +303,7 @@ categories:
               <h2 class="card-title fs-5">Recipe Meat And Vegetable 4</h2>
               <div class="card-text">
                 <ul>
-                  <li>
-                    Any Meat<span> + </span>Any Lv.5 Crop<span> / </span>Any
-                    Lv.6 Crop
-                  </li>
+                  <li>Any Meat + Any Lv.5 Crop / Any Lv.6 Crop</li>
                   <li>Device: Stove or Camp</li>
                 </ul>
               </div>
@@ -315,13 +325,15 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a
-                    ><span> + </span>Dew or Ice Piece<span> + </span>Any
-                    Seasoning<span> / </span>Any High Quality Seasoning
+                    >
+                    + Dew or Ice Piece + Any Seasoning / Any High Quality
+                    Seasoning
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -340,23 +352,26 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dew.html"
                       >Dew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> + </span>Garlic Powder<span> / </span>Job&#x27;s
-                    Tears Powder
+                    >
+                    + Garlic Powder / Job&#x27;s Tears Powder
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -379,10 +394,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    ><span> + </span>Any Lv.4 Crop<span> / </span>Any Lv.5
-                    Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
-                    Flower<span> / </span>Any Mutant Flower
-                    <span> / </span> Peanut Oil
+                    >
+                    + Any Lv.4 Crop / Any Lv.5 Crop / Any Lv.6 Crop / Any Flower
+                    / Any Mutant Flower / Peanut Oil
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -405,28 +419,33 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> / </span>Dew, Beast Heart<span> / </span
-                    ><a
+                    >
+                    / Dew, Beast Heart /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-liver.html"
                       >Beast Liver</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    ><span> / </span>Beast Insentines<span> / </span
-                    ><a
+                    >
+                    / Beast Insentines /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/kidney.html"
                       >Kidney</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hoof-sinew.html"
                       >Hoof Sinew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chunk-of-fat.html"
                       >Chunk Of Fat</a
@@ -453,48 +472,56 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                       >Spirit Fox Primal Spirit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                       >Spirit Fox Primal Spirit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-heart.html"
                       >Beast Heart</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-liver.html"
                       >Beast Liver</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    ><span> / </span>Beast Insentines<span> / </span
-                    ><a
+                    >
+                    / Beast Insentines /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/kidney.html"
                       >Kidney</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hoof-sinew.html"
                       >Hoof Sinew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chunk-of-fat.html"
                       >Chunk Of Fat</a
-                    ><span> + </span>Corriander Powder<span> / </span>Five Spice
-                    Sauce
+                    >
+                    + Corriander Powder / Five Spice Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

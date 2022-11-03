@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Beast Vital Qi Pill</h3>
       <div class="mb-1 text-muted">October 1, 2022 2:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/beast-vital-qi-pill.html"
+        class="stretched-link d-none"
         >Continue reading Beast Vital Qi Pill</a
       >
     </div>
@@ -68,7 +70,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Beast Vital Qi Pill is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Beast Vital Qi Pill</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Beast Vital Qi Pill Spawn Locations</h5>

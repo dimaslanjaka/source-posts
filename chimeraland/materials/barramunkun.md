@@ -33,7 +33,11 @@ categories:
         and tapers out toward the head and tail. It is fierce in nature a good
         swimmer, and very fast.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Barramunkun</a>
+      <a
+        href="/chimeraland/materials/barramunkun.html"
+        class="stretched-link d-none"
+        >Continue reading Barramunkun</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -68,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Barramunkun is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Barramunkun</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Barramunkun Spawn Locations</h5>

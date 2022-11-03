@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Fossilized Spine</h3>
       <div class="mb-1 text-muted">October 5, 2022 2:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/fossilized-spine.html"
+        class="stretched-link d-none"
         >Continue reading Fossilized Spine</a
       >
     </div>
@@ -67,7 +69,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Fossilized Spine is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Fossilized Spine</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Fossilized Spine Spawn Locations</h5>

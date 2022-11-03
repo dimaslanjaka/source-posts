@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Bluewater Pearl</h3>
       <div class="mb-1 text-muted">October 5, 2022 4:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/bluewater-pearl.html"
+        class="stretched-link d-none"
         >Continue reading Bluewater Pearl</a
       >
     </div>
@@ -70,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Bluewater Pearl is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Bluewater Pearl</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Bluewater Pearl Spawn Locations</h5>

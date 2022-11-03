@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Crab Claw Meat</h3>
       <div class="mb-1 text-muted">October 1, 2022 2:26 AM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/crab-claw-meat.html"
+        class="stretched-link d-none"
         >Continue reading Crab Claw Meat</a
       >
     </div>
@@ -69,7 +71,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Crab Claw Meat is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Crab Claw Meat</h2>
       <div id="recipe-buddhas-temptation">
         <h5 id="item-buddhas-temptation">Buddha&#x27;s Temptation</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -83,18 +85,20 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hoof-sinew.html"
                       >Hoof Sinew</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bird-wing.html"
                       >Bird Wing</a
-                    ><span> + </span>Coriander Powder<span> + </span>Any
-                    Mushroom
+                    >
+                    + Coriander Powder + Any Mushroom
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -117,12 +121,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/wolfspider-meat.html"
                       >Wolfspider Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    ><span> + </span>Garlic Powder
+                    >
+                    + Garlic Powder
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -137,13 +143,14 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder<span> + </span
-                    ><a
+                    Garlic Powder +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a
@@ -162,13 +169,14 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder<span> + </span
-                    ><a
+                    Garlic Powder +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/scorab-meat.html"
                       >Scorab Meat</a
@@ -187,13 +195,14 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder<span> + </span
-                    ><a
+                    Garlic Powder +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/wild-garlic.html"
                       >Wild Garlic</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beetlefly-meat.html"
                       >Beetlefly Meat</a
@@ -220,9 +229,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a
-                    ><span> + </span>Any Seasoning<span> / </span>Any Spice<span>
-                      / </span
-                    >Any High Quality Seasoning
+                    >
+                    + Any Seasoning / Any Spice / Any High Quality Seasoning
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -245,12 +253,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/orchid.html"
                       >Orchid</a
-                    ><span> + </span>Any Seasoning<span> / </span>Any Spice
+                    >
+                    + Any Seasoning / Any Spice
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -273,18 +283,20 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/job&#x27;s-tears.html"
                       >Job&#x27;s Tears</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/job&#x27;s-tears.html"
                       >Job&#x27;s Tears</a
-                    ><span> + </span>Any High Quality Seasoning<span> + </span
-                    >Any Lv.6 Crop
+                    >
+                    + Any High Quality Seasoning + Any Lv.6 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -307,33 +319,39 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/nirvana-feather.html"
                       >Nirvana Feather</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/nirvana-feather.html"
                       >Nirvana Feather</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bird-wing.html"
                       >Bird Wing</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bird-wing.html"
                       >Bird Wing</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bear-paw.html"
                       >Bear Paw</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a

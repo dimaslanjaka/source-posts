@@ -33,7 +33,9 @@ categories:
         lateral line, no scales on the head. Westmount Sea is where it may be
         found.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/silvercut-fish.html"
+        class="stretched-link d-none"
         >Continue reading Silvercut Fish</a
       >
     </div>
@@ -69,7 +71,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Silvercut Fish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Silvercut Fish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Silvercut Fish Spawn Locations</h5>

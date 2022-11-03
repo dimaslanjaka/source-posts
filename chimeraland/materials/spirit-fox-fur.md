@@ -72,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Spirit Fox Fur is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Spirit Fox Fur</h2>
       <div id="recipe-hot-n-sour-jelly">
         <h5 id="item-hot-n-sour-jelly">Hot &#x27;n Sour Jelly</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -86,22 +86,26 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/spirit-fox-fur.html"
                       >Spirit Fox Fur</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/spirit-fox-fur.html"
                       >Spirit Fox Fur</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span>Spicy Powder<span> + </span
-                    ><a
+                    >
+                    + Spicy Powder +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/lemon-tree-leaf.html"
                       >Lemon Tree Leaf</a
-                    ><span> / </span>Any Lv.3 Crops
+                    >
+                    / Any Lv.3 Crops
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

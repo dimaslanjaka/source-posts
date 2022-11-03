@@ -33,7 +33,9 @@ categories:
         not. With a thick stem, green leaves, and red flowers, it is found
         everywhere on the prairie. Taken to boost memory.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Anise</a>
+      <a href="/chimeraland/materials/anise.html" class="stretched-link d-none"
+        >Continue reading Anise</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/anise/anise.webp" alt="Anise" />
@@ -71,7 +73,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Anise is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Anise</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Anise Spawn Locations</h5>

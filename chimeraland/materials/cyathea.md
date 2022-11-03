@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Cyathea</h3>
       <div class="mb-1 text-muted">October 5, 2022 2:26 AM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Cyathea</a>
+      <a
+        href="/chimeraland/materials/cyathea.html"
+        class="stretched-link d-none"
+        >Continue reading Cyathea</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/cyathea/cyathea.webp" alt="Cyathea" />
@@ -56,7 +60,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Cyathea is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Cyathea</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Cyathea Spawn Locations</h5>

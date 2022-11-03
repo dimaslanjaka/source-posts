@@ -32,7 +32,9 @@ categories:
         A freshwater fish that is small, with a blue body and fierce
         temperament. It feeds on shellfish and has astonishing bite power.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Bream</a>
+      <a href="/chimeraland/materials/bream.html" class="stretched-link d-none"
+        >Continue reading Bream</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/bream/bream.webp" alt="Bream" />
@@ -64,7 +66,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Bream is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Bream</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Bream Spawn Locations</h5>

@@ -31,7 +31,11 @@ categories:
       <div class="mb-2 border p-1">
         Longleaf tree leaf. Multi-leaf pattern, eaten to relieve sores.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Longleaf</a>
+      <a
+        href="/chimeraland/materials/longleaf.html"
+        class="stretched-link d-none"
+        >Continue reading Longleaf</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/longleaf/longleaf.webp" alt="Longleaf" />
@@ -69,7 +73,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Longleaf is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Longleaf</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Longleaf Spawn Locations</h5>

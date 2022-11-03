@@ -32,7 +32,11 @@ categories:
         A marine fish with a spindle-shaped body, flat, with fan-shaped caudal
         fins, not forked. Found in various sea areas.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Phoenixfish</a>
+      <a
+        href="/chimeraland/materials/phoenixfish.html"
+        class="stretched-link d-none"
+        >Continue reading Phoenixfish</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -64,7 +68,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Phoenixfish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Phoenixfish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Phoenixfish Spawn Locations</h5>

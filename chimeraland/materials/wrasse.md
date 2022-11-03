@@ -33,7 +33,9 @@ categories:
         to the eye, ending in a protrusion. The adult fish has a prominent
         forhead, and it is medium-large.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Wrasse</a>
+      <a href="/chimeraland/materials/wrasse.html" class="stretched-link d-none"
+        >Continue reading Wrasse</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/wrasse/wrasse.webp" alt="Wrasse" />
@@ -62,7 +64,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Wrasse is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Wrasse</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Wrasse Spawn Locations</h5>

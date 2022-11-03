@@ -29,7 +29,9 @@ categories:
       <h3 class="mb-0">Ambusher Hair</h3>
       <div class="mb-1 text-muted">October 1, 2022 12:26 PM</div>
       <div class="mb-2 border p-1">Direwolf fur, provides camouflage.</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/ambusher-hair.html"
+        class="stretched-link d-none"
         >Continue reading Ambusher Hair</a
       >
     </div>
@@ -71,7 +73,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Ambusher Hair is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Ambusher Hair</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Ambusher Hair Spawn Locations</h5>

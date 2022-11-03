@@ -31,7 +31,9 @@ categories:
       <div class="mb-2 border p-1">
         It likes to spread its green wings and glide with the wind.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/moddly-wings.html"
+        class="stretched-link d-none"
         >Continue reading Moddly Wings</a
       >
     </div>
@@ -78,7 +80,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Moddly Wings is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Moddly Wings</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Moddly Wings Spawn Locations</h5>

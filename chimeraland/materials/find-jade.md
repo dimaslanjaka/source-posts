@@ -78,7 +78,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Find Jade is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Find Jade</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Find Jade Spawn Locations</h5>

@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Illustrious Beast Soul</h3>
       <div class="mb-1 text-muted">October 3, 2022 8:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/illustrious-beast-soul.html"
+        class="stretched-link d-none"
         >Continue reading Illustrious Beast Soul</a
       >
     </div>
@@ -78,7 +80,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Illustrious Beast Soul is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Illustrious Beast Soul</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Illustrious Beast Soul Spawn Locations</h5>

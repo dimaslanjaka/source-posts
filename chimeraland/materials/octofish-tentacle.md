@@ -31,7 +31,9 @@ categories:
       <div class="mb-2 border p-1">
         The legs of the Octofish are flexible and strong.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/octofish-tentacle.html"
+        class="stretched-link d-none"
         >Continue reading Octofish Tentacle</a
       >
     </div>
@@ -72,7 +74,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Octofish Tentacle is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Octofish Tentacle</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Octofish Tentacle Spawn Locations</h5>

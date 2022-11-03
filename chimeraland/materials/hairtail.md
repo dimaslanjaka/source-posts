@@ -34,7 +34,11 @@ categories:
         fangs, and luminous part. It is fierce. Sealand Sea area is where it may
         be found.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Hairtail</a>
+      <a
+        href="/chimeraland/materials/hairtail.html"
+        class="stretched-link d-none"
+        >Continue reading Hairtail</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/hairtail/hairtail.webp" alt="Hairtail" />
@@ -70,7 +74,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Hairtail is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Hairtail</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Hairtail Spawn Locations</h5>

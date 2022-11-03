@@ -32,7 +32,11 @@ categories:
         An extremely rare herb grown from dew. Its fruit resembles Lingzhi
         mushrooms. Taken to increase longevity. Found only on Snowy Peak.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Lingzhi</a>
+      <a
+        href="/chimeraland/materials/lingzhi.html"
+        class="stretched-link d-none"
+        >Continue reading Lingzhi</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/lingzhi/lingzhi.webp" alt="Lingzhi" />
@@ -70,7 +74,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Lingzhi is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Lingzhi</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Lingzhi Spawn Locations</h5>

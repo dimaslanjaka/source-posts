@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Bone Sheep Skin</h3>
       <div class="mb-1 text-muted">October 1, 2022 4:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/bone-sheep-skin.html"
+        class="stretched-link d-none"
         >Continue reading Bone Sheep Skin</a
       >
     </div>
@@ -72,7 +74,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Bone Sheep Skin is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Bone Sheep Skin</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Bone Sheep Skin Spawn Locations</h5>

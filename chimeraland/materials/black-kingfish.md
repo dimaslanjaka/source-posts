@@ -34,7 +34,9 @@ categories:
         horizontal and close to the tip of its snout. Southmount Sea is where it
         maybe found.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/black-kingfish.html"
+        class="stretched-link d-none"
         >Continue reading Black Kingfish</a
       >
     </div>
@@ -71,7 +73,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Black Kingfish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Black Kingfish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Black Kingfish Spawn Locations</h5>

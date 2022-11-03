@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Stingray</h3>
       <div class="mb-1 text-muted">October 8, 2022 8:26 AM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Stingray</a>
+      <a
+        href="/chimeraland/materials/stingray.html"
+        class="stretched-link d-none"
+        >Continue reading Stingray</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/stingray/stingray.webp" alt="Stingray" />
@@ -60,7 +64,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Stingray is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Stingray</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Stingray Spawn Locations</h5>

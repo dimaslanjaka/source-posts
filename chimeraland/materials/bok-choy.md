@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Bok Choy</h3>
       <div class="mb-1 text-muted">October 4, 2022 12:26 AM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Bok Choy</a>
+      <a
+        href="/chimeraland/materials/bok-choy.html"
+        class="stretched-link d-none"
+        >Continue reading Bok Choy</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/bok-choy/bok-choy.webp" alt="Bok Choy" />
@@ -57,7 +61,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Bok Choy is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Bok Choy</h2>
       <div id="recipe-cabbage-meat-rolls">
         <h5 id="item-cabbage-meat-rolls">Cabbage Meat Rolls</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -67,13 +71,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil<span> + </span
-                    ><a
+                    Peanut Oil +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bok-choy.html"
                       >Bok Choy</a
-                    ><span> + </span>Any Lv.6 Crop<span> + </span>Any High
-                    Quality Seasoning<span> + </span>Any Meat
+                    >
+                    + Any Lv.6 Crop + Any High Quality Seasoning + Any Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

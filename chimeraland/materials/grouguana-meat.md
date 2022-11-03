@@ -65,7 +65,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Grouguana Meat is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Grouguana Meat</h2>
       <div id="recipe-chargrilled-pumpkin-and-iguana">
         <h5 id="item-chargrilled-pumpkin-and-iguana">
           Chargrilled Pumpkin And Iguana
@@ -79,17 +79,19 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil<span> + </span
-                    ><a
+                    Peanut Oil +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/grouguana-meat.html"
                       >Grouguana Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/pumpkin.html"
                       >Pumpkin</a
-                    ><span> + </span>Any Flower<span> / </span>Any Mutant Flower
+                    >
+                    + Any Flower / Any Mutant Flower
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

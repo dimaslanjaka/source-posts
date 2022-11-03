@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Parasitic Grass</h3>
       <div class="mb-1 text-muted">October 9, 2022 3:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/parasitic-grass.html"
+        class="stretched-link d-none"
         >Continue reading Parasitic Grass</a
       >
     </div>
@@ -68,7 +70,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Parasitic Grass is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Parasitic Grass</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Parasitic Grass Spawn Locations</h5>

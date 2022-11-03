@@ -32,7 +32,9 @@ categories:
         A marine fish with a body like a tadpole. It is red with an ugly,
         twisted face and lacks fat. The Eastmount Sea is where it may be found.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/red-starefish.html"
+        class="stretched-link d-none"
         >Continue reading Red Starefish</a
       >
     </div>
@@ -66,7 +68,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Red Starefish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Red Starefish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Red Starefish Spawn Locations</h5>

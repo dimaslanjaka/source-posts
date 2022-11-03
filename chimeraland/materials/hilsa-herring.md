@@ -33,7 +33,9 @@ categories:
         The back of its snout is pale gray, fins are yellowish, and dorsal and
         tail fin edge grayish-black.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/hilsa-herring.html"
+        class="stretched-link d-none"
         >Continue reading Hilsa Herring</a
       >
     </div>
@@ -70,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Hilsa Herring is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Hilsa Herring</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Hilsa Herring Spawn Locations</h5>

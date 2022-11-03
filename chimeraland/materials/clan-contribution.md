@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Clan Contribution</h3>
       <div class="mb-1 text-muted">September 28, 2022 11:26 PM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/clan-contribution.html"
+        class="stretched-link d-none"
         >Continue reading Clan Contribution</a
       >
     </div>
@@ -64,7 +66,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Clan Contribution is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Clan Contribution</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Clan Contribution Spawn Locations</h5>

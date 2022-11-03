@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Fossilized Tailbone</h3>
       <div class="mb-1 text-muted">October 5, 2022 10:26 AM</div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/fossilized-tailbone.html"
+        class="stretched-link d-none"
         >Continue reading Fossilized Tailbone</a
       >
     </div>
@@ -67,7 +69,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Fossilized Tailbone is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Fossilized Tailbone</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Fossilized Tailbone Spawn Locations</h5>

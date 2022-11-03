@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Bosalo Meat</h3>
       <div class="mb-1 text-muted">September 30, 2022 2:26 PM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Bosalo Meat</a>
+      <a
+        href="/chimeraland/materials/bosalo-meat.html"
+        class="stretched-link d-none"
+        >Continue reading Bosalo Meat</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -61,7 +65,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Bosalo Meat is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Bosalo Meat</h2>
       <div id="recipe-garlic-steak">
         <h5 id="item-garlic-steak">Garlic Steak</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -71,9 +75,8 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Garlic Powder<span> + </span>Job&#x27;s Tears Powder<span>
-                      + </span
-                    ><a
+                    Garlic Powder + Job&#x27;s Tears Powder +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bosalo-meat.html"
                       >Bosalo Meat</a

@@ -33,7 +33,9 @@ categories:
         generally long. There are depressions on the top and bottom of its tail
         base, which tapers and pointy.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/great-white-shark.html"
+        class="stretched-link d-none"
         >Continue reading Great White Shark</a
       >
     </div>
@@ -70,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Great White Shark is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Great White Shark</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Great White Shark Spawn Locations</h5>

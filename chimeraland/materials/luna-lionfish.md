@@ -32,7 +32,9 @@ categories:
         A marine fish that is small and light brown with bright stripes. Its fin
         spines carry Venom.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/luna-lionfish.html"
+        class="stretched-link d-none"
         >Continue reading Luna Lionfish</a
       >
     </div>
@@ -68,7 +70,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Luna Lionfish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Luna Lionfish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Luna Lionfish Spawn Locations</h5>

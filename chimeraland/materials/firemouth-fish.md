@@ -32,7 +32,9 @@ categories:
         A marine fish that is small and has colorful stripes. Its fin spines
         carry venom. Westmount sea is where it can be found.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/firemouth-fish.html"
+        class="stretched-link d-none"
         >Continue reading Firemouth Fish</a
       >
     </div>
@@ -68,7 +70,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Firemouth Fish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Firemouth Fish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Firemouth Fish Spawn Locations</h5>

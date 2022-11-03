@@ -32,7 +32,11 @@ categories:
         Poplar trees essence. Resemble water, transparent, eaten to relieve
         exhaustion.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Poplar Sap</a>
+      <a
+        href="/chimeraland/materials/poplar-sap.html"
+        class="stretched-link d-none"
+        >Continue reading Poplar Sap</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -73,7 +77,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Poplar Sap is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Poplar Sap</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Poplar Sap Spawn Locations</h5>

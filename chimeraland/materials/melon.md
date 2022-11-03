@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Melon</h3>
       <div class="mb-1 text-muted">October 9, 2022 4:26 PM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Melon</a>
+      <a href="/chimeraland/materials/melon.html" class="stretched-link d-none"
+        >Continue reading Melon</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/melon/melon.webp" alt="Melon" />
@@ -64,7 +66,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Melon is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Melon</h2>
       <div id="recipe-honeydew-melon-slushie">
         <h5 id="item-honeydew-melon-slushie">Honeydew Melon Slushie</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -78,13 +80,15 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/honeydew-melon.html"
                       >Honeydew Melon</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/ice-piece.html"
                       >Ice Piece</a

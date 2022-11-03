@@ -31,7 +31,9 @@ categories:
       <div class="mb-2 border p-1">
         Mulberry root. Curved, grayish-brown tendrils, eat to relieve pain.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/mulberry-root.html"
+        class="stretched-link d-none"
         >Continue reading Mulberry Root</a
       >
     </div>
@@ -74,7 +76,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Mulberry Root is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Mulberry Root</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Mulberry Root Spawn Locations</h5>

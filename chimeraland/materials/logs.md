@@ -32,7 +32,9 @@ categories:
         Wood on the edge of the trunk. Its sow texture makes it vulnerable to
         rot.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Logs</a>
+      <a href="/chimeraland/materials/logs.html" class="stretched-link d-none"
+        >Continue reading Logs</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/logs/logs.webp" alt="Logs" />
@@ -70,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Logs is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Logs</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Logs Spawn Locations</h5>

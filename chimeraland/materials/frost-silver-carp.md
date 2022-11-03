@@ -33,7 +33,9 @@ categories:
         dull-colored black and ligh-colored, almost white belly. Often seen
         around Eastmount freshwaters.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/frost-silver-carp.html"
+        class="stretched-link d-none"
         >Continue reading Frost Silver Carp</a
       >
     </div>
@@ -70,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Frost Silver Carp is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Frost Silver Carp</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Frost Silver Carp Spawn Locations</h5>

@@ -31,7 +31,9 @@ categories:
       <div class="mb-2 border p-1">
         Elm leaf. Oval-shaped spiral with settled edges, eaten to dispel poison.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/binge-cherry-leaf.html"
+        class="stretched-link d-none"
         >Continue reading Binge Cherry Leaf</a
       >
     </div>
@@ -74,7 +76,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Binge Cherry Leaf is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Binge Cherry Leaf</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Binge Cherry Leaf Spawn Locations</h5>

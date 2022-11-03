@@ -34,7 +34,9 @@ categories:
         septum. Its snout it round and blunt. Eastmount sea is where it can be
         found.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Mola</a>
+      <a href="/chimeraland/materials/mola.html" class="stretched-link d-none"
+        >Continue reading Mola</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/mola/mola.webp" alt="Mola" />
@@ -63,7 +65,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Mola is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Mola</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Mola Spawn Locations</h5>

@@ -28,7 +28,9 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Chives</h3>
       <div class="mb-1 text-muted">October 4, 2022 9:26 AM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Chives</a>
+      <a href="/chimeraland/materials/chives.html" class="stretched-link d-none"
+        >Continue reading Chives</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/chives/chives.webp" alt="Chives" />
@@ -57,7 +59,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Chives is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Chives</h2>
       <div id="recipe-vegetable-dumplings">
         <h5 id="item-vegetable-dumplings">Vegetable Dumplings</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -71,8 +73,9 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/chives.html"
                       >Chives</a
-                    ><span> + </span>Job&#x27;s Tears Powder<span> + </span>Any
-                    Meat<span> + </span>Any Lv.6 Crop<span> + </span>Any Meat
+                    >
+                    + Job&#x27;s Tears Powder + Any Meat + Any Lv.6 Crop + Any
+                    Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

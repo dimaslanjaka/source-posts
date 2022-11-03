@@ -33,7 +33,9 @@ categories:
         an apricot, sweet tasting as well as nutritious, found only on the
         Deserted Mountain.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/yellow-grass.html"
+        class="stretched-link d-none"
         >Continue reading Yellow Grass</a
       >
     </div>
@@ -76,7 +78,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Yellow Grass is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Yellow Grass</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Yellow Grass Spawn Locations</h5>

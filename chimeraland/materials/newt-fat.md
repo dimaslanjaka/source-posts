@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Newt Fat</h3>
       <div class="mb-1 text-muted">October 2, 2022 6:26 PM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Newt Fat</a>
+      <a
+        href="/chimeraland/materials/newt-fat.html"
+        class="stretched-link d-none"
+        >Continue reading Newt Fat</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/newt-fat/newt-fat.webp" alt="Newt Fat" />
@@ -68,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Newt Fat is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Newt Fat</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Newt Fat Spawn Locations</h5>

@@ -59,7 +59,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Sesame is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Sesame</h2>
       <div id="recipe-sesame-soup">
         <h5 id="item-sesame-soup">Sesame Soup</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -69,14 +69,14 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil<span> + </span
-                    ><a
+                    Peanut Oil +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/sesame.html"
                       >Sesame</a
-                    ><span> + </span>Any Seasoning<span> / </span>Any Spice<span>
-                      / </span
-                    >Any Sweet Sauce<span> / </span>Any Spicy Sauce
+                    >
+                    + Any Seasoning / Any Spice / Any Sweet Sauce / Any Spicy
+                    Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>

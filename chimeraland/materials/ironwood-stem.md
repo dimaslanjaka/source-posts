@@ -31,7 +31,9 @@ categories:
       <div class="mb-2 border p-1">
         Ironwood Stalk. Cylindrical, unbranched, thick as well as firm.
       </div>
-      <a href="#" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/ironwood-stem.html"
+        class="stretched-link d-none"
         >Continue reading Ironwood Stem</a
       >
     </div>
@@ -74,7 +76,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Ironwood Stem is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Ironwood Stem</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Ironwood Stem Spawn Locations</h5>

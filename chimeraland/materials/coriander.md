@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Coriander</h3>
       <div class="mb-1 text-muted">October 4, 2022 5:26 PM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Coriander</a>
+      <a
+        href="/chimeraland/materials/coriander.html"
+        class="stretched-link d-none"
+        >Continue reading Coriander</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -60,7 +64,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Coriander is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Coriander</h2>
       <div id="recipe-buddhas-temptation">
         <h5 id="item-buddhas-temptation">Buddha&#x27;s Temptation</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -74,18 +78,20 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hoof-sinew.html"
                       >Hoof Sinew</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/crab-claw-meat.html"
                       >Crab Claw Meat</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/bird-wing.html"
                       >Bird Wing</a
-                    ><span> + </span>Coriander Powder<span> + </span>Any
-                    Mushroom
+                    >
+                    + Coriander Powder + Any Mushroom
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -104,13 +110,13 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Job&#x27;s Tears Powder<span> + </span
-                    ><a
+                    Job&#x27;s Tears Powder +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/coriander.html"
                       >Coriander</a
-                    ><span> + </span>Any Meat<span> + </span>Any Lv.5 or Lv.6
-                    Crop
+                    >
+                    + Any Meat + Any Lv.5 or Lv.6 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -128,10 +134,7 @@ categories:
               <h2 class="card-title fs-5">Recipe Strange Meat Skewers 1</h2>
               <div class="card-text">
                 <ul>
-                  <li>
-                    Any Meat<span> + </span>Any Meat<span> + </span>Coriander
-                    Powder
-                  </li>
+                  <li>Any Meat + Any Meat + Coriander Powder</li>
                   <li>Device: Stove or Camp</li>
                 </ul>
               </div>

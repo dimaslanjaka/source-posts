@@ -33,7 +33,11 @@ categories:
         comb-shaped narrow teeth. It is dorsal fin no hard spines and the outer
         edge is flat. Often seen nearby the Westmount Freshwaters.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Black Carp</a>
+      <a
+        href="/chimeraland/materials/black-carp.html"
+        class="stretched-link d-none"
+        >Continue reading Black Carp</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -68,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Black Carp is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Black Carp</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Black Carp Spawn Locations</h5>

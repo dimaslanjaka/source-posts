@@ -28,7 +28,11 @@ categories:
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h3 class="mb-0">Hot Pepper</h3>
       <div class="mb-1 text-muted">October 9, 2022 11:26 PM</div>
-      <a href="#" class="stretched-link d-none">Continue reading Hot Pepper</a>
+      <a
+        href="/chimeraland/materials/hot-pepper.html"
+        class="stretched-link d-none"
+        >Continue reading Hot Pepper</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
@@ -72,7 +76,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Hot Pepper is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Hot Pepper</h2>
       <div id="recipe-poached-meat-fillets">
         <h5 id="item-poached-meat-fillets">Poached Meat Fillets</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -82,14 +86,14 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Peanut Oil<span> + </span
-                    ><a
+                    Peanut Oil +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    ><span> + </span>Dew or Ice Piece<span> + </span>Any
-                    Meat<span> + </span>Any Lv.4 Crop<span> / </span>Any Lv.5
-                    Crop<span> / </span>Any Lv.6 Crop
+                    >
+                    + Dew or Ice Piece + Any Meat + Any Lv.4 Crop / Any Lv.5
+                    Crop / Any Lv.6 Crop
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -112,12 +116,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/apple.html"
                       >Apple</a
-                    ><span> + </span>Any Wild Fruit
+                    >
+                    + Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -140,7 +146,8 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    ><span> + </span>Any Wild Fruit
+                    >
+                    + Any Wild Fruit
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -165,12 +172,14 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/red-goodfruit.html"
                       >Red Goodfruit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat
+                    >
+                    + Dew or Ice Piece + Any Meat
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
@@ -193,13 +202,15 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/dung.html"
                       >Dung</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/peanut.html"
                       >Peanut</a
@@ -222,12 +233,9 @@ categories:
               <div class="card-text">
                 <ul>
                   <li>
-                    Fruit &amp; Veggie Paste<span> + </span>Peanut Oil<span>
-                      + </span
-                    >Fruit &amp; Veggie Paste<span> + </span>Any Lv.5 Crop<span>
-                      / </span
-                    >Any Lv.6 Crop<span> + </span
-                    ><a
+                    Fruit &amp; Veggie Paste + Peanut Oil + Fruit &amp; Veggie
+                    Paste + Any Lv.5 Crop / Any Lv.6 Crop +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hot-pepper.html"
                       >Hot Pepper</a

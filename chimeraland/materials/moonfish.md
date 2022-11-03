@@ -33,7 +33,11 @@ categories:
         forked tail fin, and long slender chest fins in the shape of sickles.
         Found in various sea areas.
       </div>
-      <a href="#" class="stretched-link d-none">Continue reading Moonfish</a>
+      <a
+        href="/chimeraland/materials/moonfish.html"
+        class="stretched-link d-none"
+        >Continue reading Moonfish</a
+      >
     </div>
     <div class="col-auto d-none d-lg-block">
       <img src="/chimeraland/materials/moonfish/moonfish.webp" alt="Moonfish" />
@@ -62,7 +66,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">Moonfish is a cooking ingredient for</h2>
+      <h2 id="cookable">Cooking Recipes Using Moonfish</h2>
     </div>
     <div class="col-12 mb-2">
       <h5>Moonfish Spawn Locations</h5>

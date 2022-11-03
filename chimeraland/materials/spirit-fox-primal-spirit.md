@@ -75,9 +75,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <h2 id="cookable">
-        Spirit Fox Primal Spirit is a cooking ingredient for
-      </h2>
+      <h2 id="cookable">Cooking Recipes Using Spirit Fox Primal Spirit</h2>
       <div id="recipe-hotstone-icefox-meat">
         <h5 id="item-hotstone-icefox-meat">Hotstone Icefox Meat</h5>
         <div class="col-12 col-lg-6 recipe-item mb-2">
@@ -91,48 +89,56 @@ categories:
                       class="text-decoration-none"
                       href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                       >Spirit Fox Primal Spirit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                       >Spirit Fox Primal Spirit</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chimeraland-beast-hide.html"
                       >Chimeraland Beast Hide</a
-                    ><span> + </span
-                    ><a
+                    >
+                    +
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-heart.html"
                       >Beast Heart</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-liver.html"
                       >Beast Liver</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/beast-brain.html"
                       >Beast Brain</a
-                    ><span> / </span>Beast Insentines<span> / </span
-                    ><a
+                    >
+                    / Beast Insentines /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/kidney.html"
                       >Kidney</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/hoof-sinew.html"
                       >Hoof Sinew</a
-                    ><span> / </span
-                    ><a
+                    >
+                    /
+                    <a
                       class="text-decoration-none"
                       href="/chimeraland/materials/chunk-of-fat.html"
                       >Chunk Of Fat</a
-                    ><span> + </span>Corriander Powder<span> / </span>Five Spice
-                    Sauce
+                    >
+                    + Corriander Powder / Five Spice Sauce
                   </li>
                   <li>Device: Stove or Camp</li>
                 </ul>
