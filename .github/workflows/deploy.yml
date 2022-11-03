@@ -52,7 +52,7 @@ jobs:
         git config --global user.email "dimaslanjaka@gmail.com"
         git config --global user.name "dimaslanjaka"
         git config --global init.defaultBranch master
-        git submodule foreach git pull
+        git submodule foreach "git pull || :"
           
     - name: Use Node.js
       uses: actions/setup-node@v3
