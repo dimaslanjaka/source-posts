@@ -86,26 +86,38 @@ categories:
           Steamed Sweet &amp; Sour Icebug
         </h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Steamed Sweet &amp; Sour Icebug</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/icebug-primal-spirit.html"
-              >Icebug Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/icebug-primal-spirit.html"
-              >Icebug Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chimeraland-beast-hide.html"
-              >Chimeraland Beast Hide</a
-            ><span> / </span>Red Hot Sauce<span> / </span>Cucumber Sauce<span>
-              / </span
-            >Fruit Sauce<span> / </span>Orange Grade Fish<br />Device: Stove or
-            Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Steamed Sweet &amp; Sour Icebug</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/icebug-primal-spirit.html"
+                  >Icebug Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/icebug-primal-spirit.html"
+                  >Icebug Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
+                Sauce<span> / </span>Fruit Sauce<span> / </span>Orange Grade
+                Fish
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

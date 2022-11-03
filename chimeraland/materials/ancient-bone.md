@@ -76,28 +76,41 @@ categories:
       <div id="recipe-soy-braised-dragon-bone">
         <h5 id="item-soy-braised-dragon-bone">Soy Braised Dragon Bone</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Soy Braised Dragon Bone</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ancient-bone.html"
-              >Ancient Bone</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ancient-bone.html"
-              >Ancient Bone</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chimeraland-beast-hide.html"
-              >Chimeraland Beast Hide</a
-            ><span> / </span>Any Mixed Sauce<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/lemon-tree-leaf.html"
-              >Lemon Tree Leaf</a
-            ><span> / </span>Any Lv.3 Crops<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Soy Braised Dragon Bone</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ancient-bone.html"
+                  >Ancient Bone</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ancient-bone.html"
+                  >Ancient Bone</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><span> / </span>Any Mixed Sauce<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/lemon-tree-leaf.html"
+                  >Lemon Tree Leaf</a
+                ><span> / </span>Any Lv.3 Crops
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

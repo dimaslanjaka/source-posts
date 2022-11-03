@@ -68,52 +68,88 @@ categories:
       <div id="recipe-deep-fried-liver">
         <h5 id="item-deep-fried-liver">Deep Fried Liver</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Deep Fried Liver</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beast-liver.html"
-              >Beast Liver</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chunk-of-fat.html"
-              >Chunk of Fat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chunk-of-fat.html"
-              >Chunk of Fat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beast-liver.html"
-              >Beast Liver</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Deep Fried Liver</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-liver.html"
+                  >Beast Liver</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk of Fat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk of Fat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-liver.html"
+                  >Beast Liver</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-hot-oil">
         <h5 id="item-hot-oil">Hot Oil</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Hot Oil</b> 1<br />Peanut Oil<span> / </span>Peanut Oil<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Hot Oil</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>Peanut Oil<span> / </span>Peanut Oil</td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Hot Oil</b> 2<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chunk-of-fat.html"
-              >Chunk of Fat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chunk-of-fat.html"
-              >Chunk of Fat</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Hot Oil</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk of Fat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk of Fat</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

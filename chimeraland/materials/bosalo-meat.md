@@ -69,15 +69,28 @@ categories:
       <div id="recipe-garlic-steak">
         <h5 id="item-garlic-steak">Garlic Steak</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Garlic Steak</b> 1<br />Garlic Powder<span> / </span
-            >Job&#x27;s Tears Powder<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bosalo-meat.html"
-              >Bosalo Meat</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Garlic Steak</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Garlic Powder<span> / </span>Job&#x27;s Tears Powder<span>
+                  / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bosalo-meat.html"
+                  >Bosalo Meat</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

@@ -63,17 +63,29 @@ categories:
       <div id="recipe-sesame-soup">
         <h5 id="item-sesame-soup">Sesame Soup</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Sesame Soup</b> 1<br />Peanut Oil<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/sesame.html"
-              >Sesame</a
-            ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
-              / </span
-            >Any Sweet Sauce<span> / </span>Any Spicy Sauce<br />Device: Stove
-            or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sesame Soup</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/sesame.html"
+                  >Sesame</a
+                ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
+                  / </span
+                >Any Sweet Sauce<span> / </span>Any Spicy Sauce
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

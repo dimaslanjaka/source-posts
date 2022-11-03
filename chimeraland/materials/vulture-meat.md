@@ -69,49 +69,85 @@ categories:
       <div id="recipe-honey-grilled-chicken">
         <h5 id="item-honey-grilled-chicken">Honey Grilled Chicken</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Honey Grilled Chicken</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/condor-meat.html"
-              >Condor Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/condor-meat.html"
-              >Condor Meat</a
-            ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Honey Grilled Chicken</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/condor-meat.html"
+                  >Condor Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/condor-meat.html"
+                  >Condor Meat</a
+                ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Honey Grilled Chicken</b> 2<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/vulture-meat.html"
-              >Vulture Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/vulture-meat.html"
-              >Vulture Meat</a
-            ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Honey Grilled Chicken</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/vulture-meat.html"
+                  >Vulture Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/vulture-meat.html"
+                  >Vulture Meat</a
+                ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Honey Grilled Chicken</b> 3<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/vuldo-meat.html"
-              >Vuldo Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/vuldo-meat.html"
-              >Vuldo Meat</a
-            ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Honey Grilled Chicken</b> 3</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/vuldo-meat.html"
+                  >Vuldo Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/vuldo-meat.html"
+                  >Vuldo Meat</a
+                ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

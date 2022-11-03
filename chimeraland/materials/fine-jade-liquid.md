@@ -82,24 +82,37 @@ categories:
       <div id="recipe-hearty-meatball-soup">
         <h5 id="item-hearty-meatball-soup">Hearty Meatball Soup</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Hearty Meatball Soup</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/fine-jade-liquid.html"
-              >Fine Jade Liquid</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/fine-jade-liquid.html"
-              >Fine Jade Liquid</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chimeraland-beast-hide.html"
-              >Chimeraland Beast Hide</a
-            ><span> / </span>Any Mixed Sauce<span> / </span>Any Blue Grade
-            Fish<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Hearty Meatball Soup</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/fine-jade-liquid.html"
+                  >Fine Jade Liquid</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/fine-jade-liquid.html"
+                  >Fine Jade Liquid</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><span> / </span>Any Mixed Sauce<span> / </span>Any Blue Grade
+                Fish
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

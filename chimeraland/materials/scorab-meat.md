@@ -69,80 +69,142 @@ categories:
       <div id="recipe-braised-scorpion">
         <h5 id="item-braised-scorpion">Braised Scorpion</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Braised Scorpion</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/scorab-meat.html"
-              >Scorab Meat</a
-            ><span> / </span>Any Mixed Sauce<span> / </span>Any High Quality
-            Seasoning<span> / </span>Peanut Oil<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Braised Scorpion</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/scorab-meat.html"
+                  >Scorab Meat</a
+                ><span> / </span>Any Mixed Sauce<span> / </span>Any High Quality
+                Seasoning<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-garlic-braised-meat">
         <h5 id="item-garlic-braised-meat">Garlic Braised Meat</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Garlic Braised Meat</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/wolfspider-meat.html"
-              >Wolfspider Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/wild-garlic.html"
-              >Wild Garlic</a
-            ><span> / </span>Garlic Powder<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Garlic Braised Meat</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/wolfspider-meat.html"
+                  >Wolfspider Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/wild-garlic.html"
+                  >Wild Garlic</a
+                ><span> / </span>Garlic Powder
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Garlic Braised Meat</b> 2<br />Garlic Powder<span>
-              / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/wild-garlic.html"
-              >Wild Garlic</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/crab-claw-meat.html"
-              >Crab Claw Meat</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Garlic Braised Meat</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Garlic Powder<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/wild-garlic.html"
+                  >Wild Garlic</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/crab-claw-meat.html"
+                  >Crab Claw Meat</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Garlic Braised Meat</b> 3<br />Garlic Powder<span>
-              / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/wild-garlic.html"
-              >Wild Garlic</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/scorab-meat.html"
-              >Scorab Meat</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Garlic Braised Meat</b> 3</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Garlic Powder<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/wild-garlic.html"
+                  >Wild Garlic</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/scorab-meat.html"
+                  >Scorab Meat</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Garlic Braised Meat</b> 4<br />Garlic Powder<span>
-              / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/wild-garlic.html"
-              >Wild Garlic</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beetlefly-meat.html"
-              >Beetlefly Meat</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Garlic Braised Meat</b> 4</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Garlic Powder<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/wild-garlic.html"
+                  >Wild Garlic</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beetlefly-meat.html"
+                  >Beetlefly Meat</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

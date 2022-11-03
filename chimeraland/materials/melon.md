@@ -70,23 +70,36 @@ categories:
       <div id="recipe-honeydew-melon-slushie">
         <h5 id="item-honeydew-melon-slushie">Honeydew Melon Slushie</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Honeydew Melon Slushie</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/honeydew-melon.html"
-              >Honeydew Melon</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Honeydew Melon Slushie</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/honeydew-melon.html"
+                  >Honeydew Melon</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Mixer - Jam</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

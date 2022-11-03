@@ -71,21 +71,32 @@ categories:
           Chargrilled Pumpkin And Iguana
         </h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Chargrilled Pumpkin And Iguana</b> 1<br />Peanut Oil<span>
-              / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/grouguana-meat.html"
-              >Grouguana Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/pumpkin.html"
-              >Pumpkin</a
-            ><span> / </span>Any Flower<span> / </span>Any Mutant Flower<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Chargrilled Pumpkin And Iguana</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/grouguana-meat.html"
+                  >Grouguana Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/pumpkin.html"
+                  >Pumpkin</a
+                ><span> / </span>Any Flower<span> / </span>Any Mutant Flower
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

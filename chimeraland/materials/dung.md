@@ -71,99 +71,197 @@ categories:
       <div id="recipe-dark-cuisine">
         <h5 id="item-dark-cuisine">Dark Cuisine</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Dark Cuisine</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dung.html"
-              >Dung</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><br />Device: Mixer - Jam
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Dark Cuisine</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dung.html"
+                  >Dung</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Mixer - Jam</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Dark Cuisine</b> 2<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dung.html"
-              >Dung</a
-            ><span> / </span>Any Fish<br />Device: Camp II
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Dark Cuisine</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dung.html"
+                  >Dung</a
+                ><span> / </span>Any Fish
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Camp II</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Dark Cuisine</b> 3<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dung.html"
-              >Dung</a
-            ><span> / </span>Any Grade Crop<br />Device: Stove II
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Dark Cuisine</b> 3</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dung.html"
+                  >Dung</a
+                ><span> / </span>Any Grade Crop
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove II</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Dark Cuisine</b> 4<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dung.html"
-              >Dung</a
-            ><span> / </span>Any High Quality Seasoning<span> / </span>Any
-            Flower<span> / </span>Any Mutant Flower<span> / </span>Any Curio<br />Device:
-            Stove II
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Dark Cuisine</b> 4</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dung.html"
+                  >Dung</a
+                ><span> / </span>Any High Quality Seasoning<span> / </span>Any
+                Flower<span> / </span>Any Mutant Flower<span> / </span>Any Curio
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove II</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Dark Cuisine</b> 5<br />Any Meat<br />Device: Stove/Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Dark Cuisine</b> 5</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>Any Meat</td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove/Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Dark Cuisine</b> 6<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/insect-ichor.html"
-              >Insect Ichor</a
-            ><br />Device: Stove/Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Dark Cuisine</b> 6</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/insect-ichor.html"
+                  >Insect Ichor</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove/Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-scraps-claypot">
         <h5 id="item-scraps-claypot">Scraps Claypot</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Scraps Claypot</b> 1<br />Add Dung<br />Device: Stove or
-            Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Scraps Claypot</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>Add Dung</td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-stinky-tofu">
         <h5 id="item-stinky-tofu">Stinky Tofu</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Stinky Tofu</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/hot-pepper.html"
-              >Hot Pepper</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dung.html"
-              >Dung</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/peanut.html"
-              >Peanut</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Stinky Tofu</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hot-pepper.html"
+                  >Hot Pepper</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dung.html"
+                  >Dung</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/peanut.html"
+                  >Peanut</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

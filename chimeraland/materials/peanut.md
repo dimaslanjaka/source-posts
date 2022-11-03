@@ -63,44 +63,83 @@ categories:
       <div id="recipe-braised-bear-meat">
         <h5 id="item-braised-bear-meat">Braised Bear Meat</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Braised Bear Meat</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/grizzly-meat.html"
-              >Grizzly Meat</a
-            ><span> / </span>Peanut Oil<span> / </span>Any Sweet Sauce<span>
-              / </span
-            >Any Sweet Sauce<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Braised Bear Meat</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/grizzly-meat.html"
+                  >Grizzly Meat</a
+                ><span> / </span>Peanut Oil<span> / </span>Any Sweet Sauce<span>
+                  / </span
+                >Any Sweet Sauce
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-braised-scorpion">
         <h5 id="item-braised-scorpion">Braised Scorpion</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Braised Scorpion</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/scorab-meat.html"
-              >Scorab Meat</a
-            ><span> / </span>Any Mixed Sauce<span> / </span>Any High Quality
-            Seasoning<span> / </span>Peanut Oil<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Braised Scorpion</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/scorab-meat.html"
+                  >Scorab Meat</a
+                ><span> / </span>Any Mixed Sauce<span> / </span>Any High Quality
+                Seasoning<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-cabbage-meat-rolls">
         <h5 id="item-cabbage-meat-rolls">Cabbage Meat Rolls</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Cabbage Meat Rolls</b> 1<br />Peanut Oil<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bok-choy.html"
-              >Bok Choy</a
-            ><span> / </span>Any Lv.6 Crop<span> / </span>Any High Quality
-            Seasoning<span> / </span>Any Meat<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Cabbage Meat Rolls</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bok-choy.html"
+                  >Bok Choy</a
+                ><span> / </span>Any Lv.6 Crop<span> / </span>Any High Quality
+                Seasoning<span> / </span>Any Meat
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
@@ -109,565 +148,1016 @@ categories:
           Chargrilled Pumpkin And Iguana
         </h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Chargrilled Pumpkin And Iguana</b> 1<br />Peanut Oil<span>
-              / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/grouguana-meat.html"
-              >Grouguana Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/pumpkin.html"
-              >Pumpkin</a
-            ><span> / </span>Any Flower<span> / </span>Any Mutant Flower<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Chargrilled Pumpkin And Iguana</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/grouguana-meat.html"
+                  >Grouguana Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/pumpkin.html"
+                  >Pumpkin</a
+                ><span> / </span>Any Flower<span> / </span>Any Mutant Flower
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-eggs-with-gourd">
         <h5 id="item-eggs-with-gourd">Eggs With Gourd</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Eggs With Gourd</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/watermelon.html"
-              >Watermelon</a
-            ><span> / </span>Egg White<span> / </span>Peanut Oil<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Eggs With Gourd</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/watermelon.html"
+                  >Watermelon</a
+                ><span> / </span>Egg White<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-fried-fish">
         <h5 id="item-fried-fish">Fried Fish</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Fried Fish</b> 1<br />Peanut Oil<span> / </span>Any High
-            Quality Seasoning<span> / </span>Red grade Fish<span> / </span
-            >Peanut Oil<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fried Fish</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span>Any High Quality Seasoning<span>
+                  / </span
+                >Red grade Fish<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-fried-intestines">
         <h5 id="item-fried-intestines">Fried Intestines</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Fried Intestines</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beast-intestines.html"
-              >Beast Intestines</a
-            ><span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span>
-              / </span
-            >Any Lv.6 Crop<span> / </span>Any Flower<span> / </span>Any Mutant
-            Flower<span> / </span>Peanut Oil<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fried Intestines</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-intestines.html"
+                  >Beast Intestines</a
+                ><span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span>
+                  / </span
+                >Any Lv.6 Crop<span> / </span>Any Flower<span> / </span>Any
+                Mutant Flower<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Fried Intestines</b> 2<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/kidney.html"
-              >Kidney</a
-            ><span> / </span>Peanut Oil<span> / </span>Any Lv.4 Crop<span>
-              / </span
-            >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
-            Flower<span> / </span>Any Mutant Flower<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fried Intestines</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/kidney.html"
+                  >Kidney</a
+                ><span> / </span>Peanut Oil<span> / </span>Any Lv.4 Crop<span>
+                  / </span
+                >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
+                Flower<span> / </span>Any Mutant Flower
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-frog-honey-sauce">
         <h5 id="item-frog-honey-sauce">Frog Honey Sauce</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Frog Honey Sauce</b> 1<br />Peanut Oil<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beetlefly-meat.html"
-              >Beetlefly Meat</a
-            ><span> / </span>Any High Quality Seasoning<span> / </span>Any Mixed
-            Sauce<span> / </span>Any Mixed Sauce<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Frog Honey Sauce</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beetlefly-meat.html"
+                  >Beetlefly Meat</a
+                ><span> / </span>Any High Quality Seasoning<span> / </span>Any
+                Mixed Sauce<span> / </span>Any Mixed Sauce
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Mixer - Jam</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-fruity-fried-mackerel">
         <h5 id="item-fruity-fried-mackerel">Fruity Fried Mackerel</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Fruity Fried Mackerel</b> 1<br />Any Wild Fruit<span>
-              / </span
-            >Any Mixed Sauce<span> / </span>Any Mixed Sauce<span> / </span
-            >Orange grade fish<span> / </span>Red grade fish<span> / </span
-            >Peanut Oil<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fruity Fried Mackerel</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Any Wild Fruit<span> / </span>Any Mixed Sauce<span> / </span>Any
+                Mixed Sauce<span> / </span>Orange grade fish<span> / </span>Red
+                grade fish<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-fruity-grilled-meat">
         <h5 id="item-fruity-grilled-meat">Fruity Grilled Meat</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Fruity Grilled Meat</b> 1<br />Any Meat<span> / </span>Any
-            Wild Fruit<span> / </span>Any Sweet Sauce<span> / </span>Peanut
-            Oil<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fruity Grilled Meat</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Any Meat<span> / </span>Any Wild Fruit<span> / </span>Any Sweet
+                Sauce<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-garlic-thighs">
         <h5 id="item-garlic-thighs">Garlic Thighs</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Garlic Thighs</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/scallion.html"
-              >Scallion</a
-            ><span> / </span>Any Meat<span> / </span>Peanut Oil<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Garlic Thighs</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/scallion.html"
+                  >Scallion</a
+                ><span> / </span>Any Meat<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-grilled-wolf">
         <h5 id="item-grilled-wolf">Grilled Wolf</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Grilled Wolf</b> 1<br />Peanut Oil<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/prowler-meat.html"
-              >Prowler Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/prowler-meat.html"
-              >Prowler Meat</a
-            ><span> / </span>Any Seasoning<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Grilled Wolf</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/prowler-meat.html"
+                  >Prowler Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/prowler-meat.html"
+                  >Prowler Meat</a
+                ><span> / </span>Any Seasoning
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-honey-grilled-chicken">
         <h5 id="item-honey-grilled-chicken">Honey Grilled Chicken</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Honey Grilled Chicken</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/condor-meat.html"
-              >Condor Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/condor-meat.html"
-              >Condor Meat</a
-            ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Honey Grilled Chicken</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/condor-meat.html"
+                  >Condor Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/condor-meat.html"
+                  >Condor Meat</a
+                ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Honey Grilled Chicken</b> 2<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/vulture-meat.html"
-              >Vulture Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/vulture-meat.html"
-              >Vulture Meat</a
-            ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Honey Grilled Chicken</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/vulture-meat.html"
+                  >Vulture Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/vulture-meat.html"
+                  >Vulture Meat</a
+                ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Honey Grilled Chicken</b> 3<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/vuldo-meat.html"
-              >Vuldo Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/vuldo-meat.html"
-              >Vuldo Meat</a
-            ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Honey Grilled Chicken</b> 3</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/vuldo-meat.html"
+                  >Vuldo Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/vuldo-meat.html"
+                  >Vuldo Meat</a
+                ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-honeybee-jerky">
         <h5 id="item-honeybee-jerky">Honeybee Jerky</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Honeybee Jerky</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beetlefly-meat.html"
-              >Beetlefly Meat</a
-            ><span> / </span>Any Meat<span> / </span>Any Sweet Sauce<span>
-              / </span
-            >Peanut Oil<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Honeybee Jerky</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beetlefly-meat.html"
+                  >Beetlefly Meat</a
+                ><span> / </span>Any Meat<span> / </span>Any Sweet Sauce<span>
+                  / </span
+                >Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-hot-oil">
         <h5 id="item-hot-oil">Hot Oil</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Hot Oil</b> 1<br />Peanut Oil<span> / </span>Peanut Oil<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Hot Oil</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>Peanut Oil<span> / </span>Peanut Oil</td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Hot Oil</b> 2<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chunk-of-fat.html"
-              >Chunk of Fat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chunk-of-fat.html"
-              >Chunk of Fat</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Hot Oil</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk of Fat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk of Fat</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-new-year-dumplings">
         <h5 id="item-new-year-dumplings">New Year Dumplings</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>New Year Dumplings</b> 1<br />Job&#x27;s Tears Powder<span>
-              / </span
-            >Job&#x27;s Tears Powder<span> / </span>Any Lv.6 Crop<span> / </span
-            >Any Meat<span> / </span>Peanut Oil<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>New Year Dumplings</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Job&#x27;s Tears Powder<span> / </span>Job&#x27;s Tears
+                Powder<span> / </span>Any Lv.6 Crop<span> / </span>Any Meat<span>
+                  / </span
+                >Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-peanut-ball-soup">
         <h5 id="item-peanut-ball-soup">Peanut Ball Soup</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Peanut Ball Soup</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/peanut.html"
-              >Peanut</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><span> / </span>ce Piece<span> / </span>Any Meat<br />Device: Stove
-            or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Peanut Ball Soup</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/peanut.html"
+                  >Peanut</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span>ce Piece<span> / </span>Any Meat
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-peanut-gourd-soup">
         <h5 id="item-peanut-gourd-soup">Peanut Gourd Soup</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Peanut Gourd Soup</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/peanut.html"
-              >Peanut</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/gourd.html"
-              >Gourd</a
-            ><span> / </span>Dew or Ice Piece<span> / </span>Any Lv.4 Crop<span>
-              / </span
-            >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
-            Flower<span> / </span>Any Mutant Flower<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Peanut Gourd Soup</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/peanut.html"
+                  >Peanut</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/gourd.html"
+                  >Gourd</a
+                ><span> / </span>Dew or Ice Piece<span> / </span>Any Lv.4
+                Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
+                Crop<span> / </span>Any Flower<span> / </span>Any Mutant Flower
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Peanut Gourd Soup</b> 2<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/peanut.html"
-              >Peanut</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/gourd.html"
-              >Gourd</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><span> / </span>Cantaloupe<span> / </span>Mutant Flower<span>
-              / </span
-            >Equonix Flower<span> / </span>Lv6 Vegetable<br />Device: Stove or
-            Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Peanut Gourd Soup</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/peanut.html"
+                  >Peanut</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/gourd.html"
+                  >Gourd</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Cantaloupe<span> / </span>Mutant Flower<span>
+                  / </span
+                >Equonix Flower<span> / </span>Lv6 Vegetable
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-poached-meat-fillets">
         <h5 id="item-poached-meat-fillets">Poached Meat Fillets</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Poached Meat Fillets</b> 1<br />Peanut Oil<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/hot-pepper.html"
-              >Hot Pepper</a
-            ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat<span>
-              / </span
-            >Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
-            Crop<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Poached Meat Fillets</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hot-pepper.html"
+                  >Hot Pepper</a
+                ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat<span>
+                  / </span
+                >Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any
+                Lv.6 Crop
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-sesame-soup">
         <h5 id="item-sesame-soup">Sesame Soup</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Sesame Soup</b> 1<br />Peanut Oil<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/sesame.html"
-              >Sesame</a
-            ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
-              / </span
-            >Any Sweet Sauce<span> / </span>Any Spicy Sauce<br />Device: Stove
-            or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sesame Soup</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/sesame.html"
+                  >Sesame</a
+                ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
+                  / </span
+                >Any Sweet Sauce<span> / </span>Any Spicy Sauce
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-soy-braised-pork">
         <h5 id="item-soy-braised-pork">Soy-Braised Pork</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Soy-Braised Pork</b> 1<br />Peanut Oil<span> / </span
-            >Spicy Powder<span> / </span>Any Wild Fruit<span> / </span>Any
-            Meat<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Soy-Braised Pork</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span>Spicy Powder<span> / </span>Any Wild
+                Fruit<span> / </span>Any Meat
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-spicy-grilled-fish">
         <h5 id="item-spicy-grilled-fish">Spicy Grilled Fish</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Spicy Grilled Fish</b> 1<br />Peanut Oil<span> / </span
-            >Any Spicy Sauce<span> / </span>Blue grade fish<span> / </span
-            >Purple grade fish<span> / </span>Orange grade fish<span> / </span
-            >Red grade fish<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Spicy Grilled Fish</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span>Any Spicy Sauce<span> / </span>Blue
+                grade fish<span> / </span>Purple grade fish<span> / </span
+                >Orange grade fish<span> / </span>Red grade fish
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-spicy-smoked-meat">
         <h5 id="item-spicy-smoked-meat">Spicy Smoked Meat</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Spicy Smoked Meat</b> 1<br />Any Meat<span> / </span
-            >Peanut Oil<span> / </span>Spicy Powder<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Spicy Smoked Meat</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Any Meat<span> / </span>Peanut Oil<span> / </span>Spicy Powder
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-steamed-brains">
         <h5 id="item-steamed-brains">Steamed Brains</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Steamed Brains</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beast-brain.html"
-              >Beast Brain</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/peanut.html"
-              >Peanut</a
-            ><span> / </span>Dew or Ice Piece<span> / </span>Any Seasoning<span>
-              / </span
-            >Any High Quality Seasoning<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Steamed Brains</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/peanut.html"
+                  >Peanut</a
+                ><span> / </span>Dew or Ice Piece<span> / </span>Any
+                Seasoning<span> / </span>Any High Quality Seasoning
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Steamed Brains</b> 2<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beast-brain.html"
-              >Beast Brain</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/peanut.html"
-              >Peanut</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><span> / </span>Garlic Powder<span> / </span>Job&#x27;s Tears
-            Powder<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Steamed Brains</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/peanut.html"
+                  >Peanut</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Garlic Powder<span> / </span>Job&#x27;s Tears
+                Powder
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-steamed-vegetarian-patty">
         <h5 id="item-steamed-vegetarian-patty">Steamed Vegetarian Patty</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Steamed Vegetarian Patty</b> 1<br />Egg White<span>
-              / </span
-            >Peanut Oil<span> / </span>Fruit &amp; Veggie Paste<span> / </span
-            >Any Lv.3 Crop<span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5
-            Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any Flower<span>
-              / </span
-            >Any Mutant Flower<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Steamed Vegetarian Patty</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Egg White<span> / </span>Peanut Oil<span> / </span>Fruit &amp;
+                Veggie Paste<span> / </span>Any Lv.3 Crop<span> / </span>Any
+                Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
+                Crop<span> / </span>Any Flower<span> / </span>Any Mutant Flower
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-stewed-brains">
         <h5 id="item-stewed-brains">Stewed Brains</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Stewed Brains</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beast-brain.html"
-              >Beast Brain</a
-            ><span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span>
-              / </span
-            >Any Lv.6 Crop<span> / </span>Any Flower<span> / </span>Any Mutant
-            Flower <span> / </span> Peanut Oil<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Stewed Brains</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span>
+                  / </span
+                >Any Lv.6 Crop<span> / </span>Any Flower<span> / </span>Any
+                Mutant Flower <span> / </span> Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-stinky-tofu">
         <h5 id="item-stinky-tofu">Stinky Tofu</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Stinky Tofu</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/hot-pepper.html"
-              >Hot Pepper</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dung.html"
-              >Dung</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/peanut.html"
-              >Peanut</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Stinky Tofu</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hot-pepper.html"
+                  >Hot Pepper</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dung.html"
+                  >Dung</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/peanut.html"
+                  >Peanut</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-sweet-and-spicy-venison">
         <h5 id="item-sweet-and-spicy-venison">Sweet And Spicy Venison</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Sweet And Spicy Venison</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/moose-meat.html"
-              >Moose Meat</a
-            ><span> / </span>Peanut Oil<span> / </span>Any Sweet Sauce<span>
-              / </span
-            >Any Spicy Sauce<span> / </span>Any Spice<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sweet And Spicy Venison</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/moose-meat.html"
+                  >Moose Meat</a
+                ><span> / </span>Peanut Oil<span> / </span>Any Sweet Sauce<span>
+                  / </span
+                >Any Spicy Sauce<span> / </span>Any Spice
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-sweet-vinegar-fish">
         <h5 id="item-sweet-vinegar-fish">Sweet Vinegar Fish</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Sweet Vinegar Fish</b> 1<br />Peanut Oil<span> / </span
-            >Job&#x27;s Tears Powder<span> / </span>Any Wild Fruit<span>
-              / </span
-            >Purple grade fish<span> / </span>Orange grade fish<span> / </span
-            >Red grade fish<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sweet Vinegar Fish</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span>Job&#x27;s Tears Powder<span> / </span
+                >Any Wild Fruit<span> / </span>Purple grade fish<span> / </span
+                >Orange grade fish<span> / </span>Red grade fish
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Sweet Vinegar Fish</b> 2<br />Peanut Oil<span> / </span
-            >Job&#x27;s Tear Powder<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/apple.html"
-              >Apple</a
-            ><span> / </span>Any Purple Fish<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sweet Vinegar Fish</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span>Job&#x27;s Tear Powder<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/apple.html"
+                  >Apple</a
+                ><span> / </span>Any Purple Fish
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-wine-braised-vegetables">
         <h5 id="item-wine-braised-vegetables">Wine-Braised Vegetables</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Wine-Braised Vegetables</b> 1<br />Fruit &amp; Veggie
-            Paste<span> / </span>Peanut Oil<span> / </span>Fruit &amp; Veggie
-            Paste<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span>
-              / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/hot-pepper.html"
-              >Hot Pepper</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Wine-Braised Vegetables</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Fruit &amp; Veggie Paste<span> / </span>Peanut Oil<span>
+                  / </span
+                >Fruit &amp; Veggie Paste<span> / </span>Any Lv.5 Crop<span>
+                  / </span
+                >Any Lv.6 Crop<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hot-pepper.html"
+                  >Hot Pepper</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-veggie-cake">
         <h5 id="item-veggie-cake">Veggie Cake</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Veggie Cake</b> 1<br />Egg White<span> / </span>Peanut
-            Oil<span> / </span>Veggie Paste<span> / </span>Equinox Flower<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Veggie Cake</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Egg White<span> / </span>Peanut Oil<span> / </span>Veggie
+                Paste<span> / </span>Equinox Flower
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-fried-tenderloin">
         <h5 id="item-fried-tenderloin">Fried Tenderloin</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Fried Tenderloin</b> 1<br />Peanut Oil<span> / </span
-            >Fruit Sauce<span> / </span>Any Meat<span> / </span>Equinox
-            Flower<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fried Tenderloin</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span>Fruit Sauce<span> / </span>Any
+                Meat<span> / </span>Equinox Flower
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Fried Tenderloin</b> 2<br />Peanut Oil<span> / </span>Any
-            Mixed Sauce<span> / </span>Any Meat<span> / </span>Any Flower<span>
-              / </span
-            >Any Mutant Flower<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fried Tenderloin</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span>Any Mixed Sauce<span> / </span>Any
+                Meat<span> / </span>Any Flower<span> / </span>Any Mutant Flower
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

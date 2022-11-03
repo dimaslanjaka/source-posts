@@ -76,23 +76,36 @@ categories:
       <div id="recipe-viperfish-slices">
         <h5 id="item-viperfish-slices">Viperfish Slices</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Viperfish Slices</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/viperfish.html"
-              >Viperfish</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/lemon-tree-leaf.html"
-              >Lemon Tree Leaf</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/viperfish.html"
-              >Viperfish</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Viperfish Slices</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/viperfish.html"
+                  >Viperfish</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/lemon-tree-leaf.html"
+                  >Lemon Tree Leaf</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/viperfish.html"
+                  >Viperfish</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

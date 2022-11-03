@@ -63,15 +63,27 @@ categories:
       <div id="recipe-vegetable-dumplings">
         <h5 id="item-vegetable-dumplings">Vegetable Dumplings</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Vegetable Dumplings</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chives.html"
-              >Chives</a
-            ><span> / </span>Job&#x27;s Tears Powder<span> / </span>Any
-            Meat<span> / </span>Any Lv.6 Crop<span> / </span>Any Meat<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Vegetable Dumplings</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chives.html"
+                  >Chives</a
+                ><span> / </span>Job&#x27;s Tears Powder<span> / </span>Any
+                Meat<span> / </span>Any Lv.6 Crop<span> / </span>Any Meat
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

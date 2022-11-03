@@ -80,73 +80,124 @@ categories:
       <div id="recipe-goodfruit-sauce">
         <h5 id="item-goodfruit-sauce">Goodfruit Sauce</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Goodfruit Sauce</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/red-goodfruit.html"
-              >Red Goodfruit</a
-            ><span> / </span>Any Wild Fruit<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Goodfruit Sauce</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/red-goodfruit.html"
+                  >Red Goodfruit</a
+                ><span> / </span>Any Wild Fruit
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Mixer - Jam</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-goodfruit-slushie">
         <h5 id="item-goodfruit-slushie">Goodfruit Slushie</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Goodfruit Slushie</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/red-goodfruit.html"
-              >Red Goodfruit</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Goodfruit Slushie</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/red-goodfruit.html"
+                  >Red Goodfruit</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Mixer - Jam</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-spicy-red-goodfruit-broth">
         <h5 id="item-spicy-red-goodfruit-broth">Spicy Red Goodfruit Broth</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Spicy Red Goodfruit Broth</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/red-goodfruit.html"
-              >Red Goodfruit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/hot-pepper.html"
-              >Hot Pepper</a
-            ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Spicy Red Goodfruit Broth</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/red-goodfruit.html"
+                  >Red Goodfruit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hot-pepper.html"
+                  >Hot Pepper</a
+                ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-spicy-red-goodfruit-soup">
         <h5 id="item-spicy-red-goodfruit-soup">Spicy Red Goodfruit Soup</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Spicy Red Goodfruit Soup</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/red-goodfruit.html"
-              >Red Goodfruit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Spicy Red Goodfruit Soup</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/red-goodfruit.html"
+                  >Red Goodfruit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

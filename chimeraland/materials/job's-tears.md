@@ -76,338 +76,593 @@ categories:
       <div id="recipe-cucumber-sauce">
         <h5 id="item-cucumber-sauce">Cucumber Sauce</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Cucumber Sauce</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/cucumber.html"
-              >Cucumber</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/job&#x27;s-tears.html"
-              >Job&#x27;s Tears</a
-            ><span> / </span>Any Wild Fruit<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Cucumber Sauce</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/cucumber.html"
+                  >Cucumber</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/job&#x27;s-tears.html"
+                  >Job&#x27;s Tears</a
+                ><span> / </span>Any Wild Fruit
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Mixer - Jam</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-flower-pancake">
         <h5 id="item-flower-pancake">Flower Pancake</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Flower Pancake</b> 1<br />Job&#x27;s Tears Powder<span>
-              / </span
-            >Any Wild Fruit<span> / </span>Any Mutant Flower<span> / </span>Any
-            Flower<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Flower Pancake</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Job&#x27;s Tears Powder<span> / </span>Any Wild Fruit<span>
+                  / </span
+                >Any Mutant Flower<span> / </span>Any Flower
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-fragrant-steamed-buns">
         <h5 id="item-fragrant-steamed-buns">Fragrant Steamed Buns</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Fragrant Steamed Buns</b> 1<br />Job&#x27;s Tears
-            Powder<span> / </span>Egg White<span> / </span>Any Lv.6 Crop<span>
-              / </span
-            >Any Meat<span> / </span>Any Meat<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fragrant Steamed Buns</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Job&#x27;s Tears Powder<span> / </span>Egg White<span> / </span
+                >Any Lv.6 Crop<span> / </span>Any Meat<span> / </span>Any Meat
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-fried-pork-in-scoop">
         <h5 id="item-fried-pork-in-scoop">Fried Pork In Scoop</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Fried Pork In Scoop</b> 1<br />Job&#x27;s Tears
-            Powder<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/coriander.html"
-              >Coriander</a
-            ><span> / </span>Any Meat<span> / </span>Any Lv.5 or Lv.6 Crop<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fried Pork In Scoop</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Job&#x27;s Tears Powder<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/coriander.html"
+                  >Coriander</a
+                ><span> / </span>Any Meat<span> / </span>Any Lv.5 or Lv.6 Crop
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-fried-vegetarian-balls">
         <h5 id="item-fried-vegetarian-balls">Fried Vegetarian Balls</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Fried Vegetarian Balls</b> 1<br />Job&#x27;s Tears
-            Powder<span> / </span>Any Lv.1 Crop<span> / </span>Any Lv.2
-            Crop<span> / </span>Any Lv.3 Crop<span> / </span>Any Lv.4 Crop<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fried Vegetarian Balls</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Job&#x27;s Tears Powder<span> / </span>Any Lv.1 Crop<span>
+                  / </span
+                >Any Lv.2 Crop<span> / </span>Any Lv.3 Crop<span> / </span>Any
+                Lv.4 Crop
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-garlic-steak">
         <h5 id="item-garlic-steak">Garlic Steak</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Garlic Steak</b> 1<br />Garlic Powder<span> / </span
-            >Job&#x27;s Tears Powder<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bosalo-meat.html"
-              >Bosalo Meat</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Garlic Steak</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Garlic Powder<span> / </span>Job&#x27;s Tears Powder<span>
+                  / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bosalo-meat.html"
+                  >Bosalo Meat</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-jobs-tears-broth">
         <h5 id="item-jobs-tears-broth">Job&#x27;s Tears Broth</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Job&#x27;s Tears Broth</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/job&#x27;s-tears.html"
-              >Job&#x27;s Tears</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><span> / </span>Any Meat<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Job&#x27;s Tears Broth</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/job&#x27;s-tears.html"
+                  >Job&#x27;s Tears</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Any Meat
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-jobs-tears-porridge">
         <h5 id="item-jobs-tears-porridge">Job&#x27;s Tears Porridge</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Job&#x27;s Tears Porridge</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/job&#x27;s-tears.html"
-              >Job&#x27;s Tears</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Job&#x27;s Tears Porridge</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/job&#x27;s-tears.html"
+                  >Job&#x27;s Tears</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-jobs-tears-sauce">
         <h5 id="item-jobs-tears-sauce">Job&#x27;s Tears Sauce</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Job&#x27;s Tears Sauce</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/job&#x27;s-tears.html"
-              >Job&#x27;s Tears</a
-            ><span> / </span>Any Wild Fruit<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Job&#x27;s Tears Sauce</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/job&#x27;s-tears.html"
+                  >Job&#x27;s Tears</a
+                ><span> / </span>Any Wild Fruit
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Mixer - Jam</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-jobs-tears-stew">
         <h5 id="item-jobs-tears-stew">Job&#x27;s Tears Stew</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Job&#x27;s Tears Stew</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/job&#x27;s-tears.html"
-              >Job&#x27;s Tears</a
-            ><span> / </span>Any Meat<span> / </span>Any Lv.4 Crop<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Job&#x27;s Tears Stew</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/job&#x27;s-tears.html"
+                  >Job&#x27;s Tears</a
+                ><span> / </span>Any Meat<span> / </span>Any Lv.4 Crop
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-meat-pie">
         <h5 id="item-meat-pie">Meat Pie</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Meat Pie</b> 1<br />Any Meat<span> / </span>Any Meat<span>
-              / </span
-            >Any Meat<span> / </span>Any High Quality Seasoning<span> / </span
-            >Job&#x27;s Tears Powder<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Meat Pie</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Any Meat<span> / </span>Any Meat<span> / </span>Any Meat<span>
+                  / </span
+                >Any High Quality Seasoning<span> / </span>Job&#x27;s Tears
+                Powder
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-new-year-dumplings">
         <h5 id="item-new-year-dumplings">New Year Dumplings</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>New Year Dumplings</b> 1<br />Job&#x27;s Tears Powder<span>
-              / </span
-            >Job&#x27;s Tears Powder<span> / </span>Any Lv.6 Crop<span> / </span
-            >Any Meat<span> / </span>Peanut Oil<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>New Year Dumplings</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Job&#x27;s Tears Powder<span> / </span>Job&#x27;s Tears
+                Powder<span> / </span>Any Lv.6 Crop<span> / </span>Any Meat<span>
+                  / </span
+                >Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-rice-patty">
         <h5 id="item-rice-patty">Rice Patty</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Rice Patty</b> 1<br />Job&#x27;s Tears Powder<span>
-              / </span
-            >Any Meat<span> / </span>Lv.3<span> / </span>4 Crop<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Rice Patty</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Job&#x27;s Tears Powder<span> / </span>Any Meat<span> / </span
+                >Lv.3<span> / </span>4 Crop
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-seafood-rice">
         <h5 id="item-seafood-rice">Seafood Rice</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Seafood Rice</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/job&#x27;s-tears.html"
-              >Job&#x27;s Tears</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/crab-claw-meat.html"
-              >Crab Claw Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/job&#x27;s-tears.html"
-              >Job&#x27;s Tears</a
-            ><span> / </span>Any High Quality Seasoning<span> / </span>Any Lv.6
-            Crop<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Seafood Rice</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/job&#x27;s-tears.html"
+                  >Job&#x27;s Tears</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/crab-claw-meat.html"
+                  >Crab Claw Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/job&#x27;s-tears.html"
+                  >Job&#x27;s Tears</a
+                ><span> / </span>Any High Quality Seasoning<span> / </span>Any
+                Lv.6 Crop
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-steamed-brains">
         <h5 id="item-steamed-brains">Steamed Brains</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Steamed Brains</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beast-brain.html"
-              >Beast Brain</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/peanut.html"
-              >Peanut</a
-            ><span> / </span>Dew or Ice Piece<span> / </span>Any Seasoning<span>
-              / </span
-            >Any High Quality Seasoning<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Steamed Brains</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/peanut.html"
+                  >Peanut</a
+                ><span> / </span>Dew or Ice Piece<span> / </span>Any
+                Seasoning<span> / </span>Any High Quality Seasoning
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Steamed Brains</b> 2<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beast-brain.html"
-              >Beast Brain</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/peanut.html"
-              >Peanut</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><span> / </span>Garlic Powder<span> / </span>Job&#x27;s Tears
-            Powder<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Steamed Brains</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/peanut.html"
+                  >Peanut</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Garlic Powder<span> / </span>Job&#x27;s Tears
+                Powder
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-sweet-vinegar-fish">
         <h5 id="item-sweet-vinegar-fish">Sweet Vinegar Fish</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Sweet Vinegar Fish</b> 1<br />Peanut Oil<span> / </span
-            >Job&#x27;s Tears Powder<span> / </span>Any Wild Fruit<span>
-              / </span
-            >Purple grade fish<span> / </span>Orange grade fish<span> / </span
-            >Red grade fish<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sweet Vinegar Fish</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span>Job&#x27;s Tears Powder<span> / </span
+                >Any Wild Fruit<span> / </span>Purple grade fish<span> / </span
+                >Orange grade fish<span> / </span>Red grade fish
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Sweet Vinegar Fish</b> 2<br />Peanut Oil<span> / </span
-            >Job&#x27;s Tear Powder<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/apple.html"
-              >Apple</a
-            ><span> / </span>Any Purple Fish<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sweet Vinegar Fish</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span>Job&#x27;s Tear Powder<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/apple.html"
+                  >Apple</a
+                ><span> / </span>Any Purple Fish
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-vegetable-dumplings">
         <h5 id="item-vegetable-dumplings">Vegetable Dumplings</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Vegetable Dumplings</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chives.html"
-              >Chives</a
-            ><span> / </span>Job&#x27;s Tears Powder<span> / </span>Any
-            Meat<span> / </span>Any Lv.6 Crop<span> / </span>Any Meat<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Vegetable Dumplings</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chives.html"
+                  >Chives</a
+                ><span> / </span>Job&#x27;s Tears Powder<span> / </span>Any
+                Meat<span> / </span>Any Lv.6 Crop<span> / </span>Any Meat
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-vegetable-patty">
         <h5 id="item-vegetable-patty">Vegetable Patty</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Vegetable Patty</b> 1<br />Job&#x27;s Tears Powder<span>
-              / </span
-            >Any Meat<span> / </span>Any Meat<span> / </span>Any Lv.4 Crop<span>
-              / </span
-            >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<br />Device: Stove or
-            Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Vegetable Patty</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Job&#x27;s Tears Powder<span> / </span>Any Meat<span> / </span
+                >Any Meat<span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5
+                Crop<span> / </span>Any Lv.6 Crop
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-wonton-noodles">
         <h5 id="item-wonton-noodles">Wonton Noodles</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Wonton Noodles</b> 1<br />Job&#x27;s Tears Powder<span>
-              / </span
-            >Job&#x27;s Tears Powder<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><span> / </span>Any Lv.6 Crop<span> / </span>Any Meat<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Wonton Noodles</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Job&#x27;s Tears Powder<span> / </span>Job&#x27;s Tears
+                Powder<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Any Lv.6 Crop<span> / </span>Any Meat
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

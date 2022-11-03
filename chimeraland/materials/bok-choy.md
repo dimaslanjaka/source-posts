@@ -65,15 +65,28 @@ categories:
       <div id="recipe-cabbage-meat-rolls">
         <h5 id="item-cabbage-meat-rolls">Cabbage Meat Rolls</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Cabbage Meat Rolls</b> 1<br />Peanut Oil<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bok-choy.html"
-              >Bok Choy</a
-            ><span> / </span>Any Lv.6 Crop<span> / </span>Any High Quality
-            Seasoning<span> / </span>Any Meat<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Cabbage Meat Rolls</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bok-choy.html"
+                  >Bok Choy</a
+                ><span> / </span>Any Lv.6 Crop<span> / </span>Any High Quality
+                Seasoning<span> / </span>Any Meat
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

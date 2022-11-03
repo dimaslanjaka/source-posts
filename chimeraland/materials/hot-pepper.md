@@ -80,107 +80,185 @@ categories:
       <div id="recipe-poached-meat-fillets">
         <h5 id="item-poached-meat-fillets">Poached Meat Fillets</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Poached Meat Fillets</b> 1<br />Peanut Oil<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/hot-pepper.html"
-              >Hot Pepper</a
-            ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat<span>
-              / </span
-            >Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
-            Crop<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Poached Meat Fillets</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hot-pepper.html"
+                  >Hot Pepper</a
+                ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat<span>
+                  / </span
+                >Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any
+                Lv.6 Crop
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-red-hot-sauce">
         <h5 id="item-red-hot-sauce">Red Hot Sauce</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Red Hot Sauce</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/hot-pepper.html"
-              >Hot Pepper</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/apple.html"
-              >Apple</a
-            ><span> / </span>Any Wild Fruit<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Red Hot Sauce</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hot-pepper.html"
+                  >Hot Pepper</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/apple.html"
+                  >Apple</a
+                ><span> / </span>Any Wild Fruit
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Mixer - Jam</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-spicy-pepper-sauce">
         <h5 id="item-spicy-pepper-sauce">Spicy Pepper Sauce</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Spicy Pepper Sauce</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/hot-pepper.html"
-              >Hot Pepper</a
-            ><span> / </span>Any Wild Fruit<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Spicy Pepper Sauce</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hot-pepper.html"
+                  >Hot Pepper</a
+                ><span> / </span>Any Wild Fruit
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Mixer - Jam</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-spicy-red-goodfruit-broth">
         <h5 id="item-spicy-red-goodfruit-broth">Spicy Red Goodfruit Broth</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Spicy Red Goodfruit Broth</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/red-goodfruit.html"
-              >Red Goodfruit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/hot-pepper.html"
-              >Hot Pepper</a
-            ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Spicy Red Goodfruit Broth</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/red-goodfruit.html"
+                  >Red Goodfruit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hot-pepper.html"
+                  >Hot Pepper</a
+                ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-stinky-tofu">
         <h5 id="item-stinky-tofu">Stinky Tofu</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Stinky Tofu</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/hot-pepper.html"
-              >Hot Pepper</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dung.html"
-              >Dung</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/peanut.html"
-              >Peanut</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Stinky Tofu</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hot-pepper.html"
+                  >Hot Pepper</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dung.html"
+                  >Dung</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/peanut.html"
+                  >Peanut</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-wine-braised-vegetables">
         <h5 id="item-wine-braised-vegetables">Wine-Braised Vegetables</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Wine-Braised Vegetables</b> 1<br />Fruit &amp; Veggie
-            Paste<span> / </span>Peanut Oil<span> / </span>Fruit &amp; Veggie
-            Paste<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span>
-              / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/hot-pepper.html"
-              >Hot Pepper</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Wine-Braised Vegetables</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Fruit &amp; Veggie Paste<span> / </span>Peanut Oil<span>
+                  / </span
+                >Fruit &amp; Veggie Paste<span> / </span>Any Lv.5 Crop<span>
+                  / </span
+                >Any Lv.6 Crop<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hot-pepper.html"
+                  >Hot Pepper</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

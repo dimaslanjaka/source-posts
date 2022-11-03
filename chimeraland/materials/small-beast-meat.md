@@ -76,23 +76,36 @@ categories:
       <div id="recipe-grilled-frog-legs">
         <h5 id="item-grilled-frog-legs">Grilled Frog Legs</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Grilled Frog Legs</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/small-beast-meat.html"
-              >Small Beast Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/small-beast-meat.html"
-              >Small Beast Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/small-beast-meat.html"
-              >Small Beast Meat</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Grilled Frog Legs</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/small-beast-meat.html"
+                  >Small Beast Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/small-beast-meat.html"
+                  >Small Beast Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/small-beast-meat.html"
+                  >Small Beast Meat</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

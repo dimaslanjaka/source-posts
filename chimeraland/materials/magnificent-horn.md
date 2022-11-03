@@ -76,29 +76,42 @@ categories:
       <div id="recipe-flame-roasted-horn">
         <h5 id="item-flame-roasted-horn">Flame Roasted Horn</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Flame Roasted Horn</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/magnificent-horn.html"
-              >Magnificent Horn</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/magnificent-horn.html"
-              >Magnificent Horn</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chimeraland-beast-hide.html"
-              >Chimeraland Beast Hide</a
-            ><span> / </span>Spicy Pepper Sauce<span> / </span>Garlic Sauce<span>
-              / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/lemon-tree-leaf.html"
-              >Lemon Tree Leaf</a
-            ><span> / </span>Any Lv.3 Crops<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Flame Roasted Horn</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/magnificent-horn.html"
+                  >Magnificent Horn</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/magnificent-horn.html"
+                  >Magnificent Horn</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><span> / </span>Spicy Pepper Sauce<span> / </span>Garlic
+                Sauce<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/lemon-tree-leaf.html"
+                  >Lemon Tree Leaf</a
+                ><span> / </span>Any Lv.3 Crops
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

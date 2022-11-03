@@ -68,192 +68,256 @@ categories:
       <div id="recipe-overlord-hide-jelly">
         <h5 id="item-overlord-hide-jelly">Overlord Hide Jelly</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Overlord Hide Jelly</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/fortuphant-primal-spirit.html"
-              >Fortuphant Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/fortuphant-primal-spirit.html"
-              >Fortuphant Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chimeraland-beast-hide.html"
-              >Chimeraland Beast Hide</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><span> / </span>Corriander<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/flat-cabbage.html"
-              >Flat Cabbage</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/watermelon.html"
-              >Watermelon</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Overlord Hide Jelly</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/fortuphant-primal-spirit.html"
+                  >Fortuphant Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/fortuphant-primal-spirit.html"
+                  >Fortuphant Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Corriander<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/flat-cabbage.html"
+                  >Flat Cabbage</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/watermelon.html"
+                  >Watermelon</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-bear-ball-pot">
         <h5 id="item-bear-ball-pot">Bear Ball Pot</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Bear Ball Pot</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/grizzly-primal-spirit.html"
-              >Grizzly Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/grizzly-primal-spirit.html"
-              >Grizzly Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chimeraland-beast-hide.html"
-              >Chimeraland Beast Hide</a
-            ><span> / </span>Red Hot Sauce<span> / </span>Cucumber Sauce<span>
-              / </span
-            >Fruit Sauce<span> / </span>Corriander<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/flat-cabbage.html"
-              >Flat Cabbage</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/watermelon.html"
-              >Watermelon</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Bear Ball Pot</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/grizzly-primal-spirit.html"
+                  >Grizzly Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/grizzly-primal-spirit.html"
+                  >Grizzly Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
+                Sauce<span> / </span>Fruit Sauce<span> / </span>Corriander<span>
+                  / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/flat-cabbage.html"
+                  >Flat Cabbage</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/watermelon.html"
+                  >Watermelon</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-hotstone-icefox-meat">
         <h5 id="item-hotstone-icefox-meat">Hotstone Icefox Meat</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Hotstone Icefox Meat</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/spirit-fox-primal-spirit.html"
-              >Spirit Fox Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/spirit-fox-primal-spirit.html"
-              >Spirit Fox Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chimeraland-beast-hide.html"
-              >Chimeraland Beast Hide</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beast-heart.html"
-              >Beast Heart</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beast-liver.html"
-              >Beast Liver</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beast-brain.html"
-              >Beast Brain</a
-            ><span> / </span>Beast Insentines<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/kidney.html"
-              >Kidney</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/hoof-sinew.html"
-              >Hoof Sinew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chunk-of-fat.html"
-              >Chunk Of Fat</a
-            ><span> / </span>Corriander Powder<span> / </span>Five Spice
-            Sauce<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Hotstone Icefox Meat</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/spirit-fox-primal-spirit.html"
+                  >Spirit Fox Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/spirit-fox-primal-spirit.html"
+                  >Spirit Fox Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-heart.html"
+                  >Beast Heart</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-liver.html"
+                  >Beast Liver</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-brain.html"
+                  >Beast Brain</a
+                ><span> / </span>Beast Insentines<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/kidney.html"
+                  >Kidney</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hoof-sinew.html"
+                  >Hoof Sinew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chunk-of-fat.html"
+                  >Chunk Of Fat</a
+                ><span> / </span>Corriander Powder<span> / </span>Five Spice
+                Sauce
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-stir-fried-browtelope">
         <h5 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Stir-Fried Browtelope</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bone-sheep-primal-spirit.html"
-              >Bone Sheep Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bone-sheep-primal-spirit.html"
-              >Bone Sheep Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chimeraland-beast-hide.html"
-              >Chimeraland Beast Hide</a
-            ><span> / </span>Corriander Powder<span> / </span>Five Spice
-            Sauce<span> / </span>Corriander<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/flat-cabbage.html"
-              >Flat Cabbage</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/watermelon.html"
-              >Watermelon</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Stir-Fried Browtelope</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bone-sheep-primal-spirit.html"
+                  >Bone Sheep Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bone-sheep-primal-spirit.html"
+                  >Bone Sheep Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><span> / </span>Corriander Powder<span> / </span>Five Spice
+                Sauce<span> / </span>Corriander<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/flat-cabbage.html"
+                  >Flat Cabbage</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/watermelon.html"
+                  >Watermelon</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-flamebug-meat-claypot">
         <h5 id="item-flamebug-meat-claypot">Flamebug Meat Claypot</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Flamebug Meat Claypot</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/flamebug-primal-spirit.html"
-              >Flamebug Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/flamebug-primal-spirit.html"
-              >Flamebug Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chimeraland-beast-hide.html"
-              >Chimeraland Beast Hide</a
-            ><span> / </span>Any Meat<span> / </span>Red Hot Sauce<span>
-              / </span
-            >Cucumber Sauce<span> / </span>Fruit Sauce<br />Device: Stove or
-            Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Flamebug Meat Claypot</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/flamebug-primal-spirit.html"
+                  >Flamebug Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/flamebug-primal-spirit.html"
+                  >Flamebug Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><span> / </span>Any Meat<span> / </span>Red Hot Sauce<span>
+                  / </span
+                >Cucumber Sauce<span> / </span>Fruit Sauce
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
@@ -262,26 +326,38 @@ categories:
           Steamed Sweet &amp; Sour Icebug
         </h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Steamed Sweet &amp; Sour Icebug</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/icebug-primal-spirit.html"
-              >Icebug Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/icebug-primal-spirit.html"
-              >Icebug Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chimeraland-beast-hide.html"
-              >Chimeraland Beast Hide</a
-            ><span> / </span>Red Hot Sauce<span> / </span>Cucumber Sauce<span>
-              / </span
-            >Fruit Sauce<span> / </span>Orange Grade Fish<br />Device: Stove or
-            Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Steamed Sweet &amp; Sour Icebug</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/icebug-primal-spirit.html"
+                  >Icebug Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/icebug-primal-spirit.html"
+                  >Icebug Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
+                Sauce<span> / </span>Fruit Sauce<span> / </span>Orange Grade
+                Fish
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

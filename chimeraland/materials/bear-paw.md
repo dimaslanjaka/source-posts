@@ -72,116 +72,168 @@ categories:
       <div id="recipe-grilled-bear-paw">
         <h5 id="item-grilled-bear-paw">Grilled Bear Paw</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Grilled Bear Paw</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bear-paw.html"
-              >Bear Paw</a
-            ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
-              / </span
-            >Any High Quality Seasoning<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Grilled Bear Paw</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bear-paw.html"
+                  >Bear Paw</a
+                ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
+                  / </span
+                >Any High Quality Seasoning
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-steamed-paw">
         <h5 id="item-steamed-paw">Steamed Paw</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Steamed Paw</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bear-paw.html"
-              >Bear Paw</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/orchid.html"
-              >Orchid</a
-            ><span> / </span>Five Spice Powder<span> / </span>Any Wild
-            Fruit<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Steamed Paw</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bear-paw.html"
+                  >Bear Paw</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/orchid.html"
+                  >Orchid</a
+                ><span> / </span>Five Spice Powder<span> / </span>Any Wild
+                Fruit<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Steamed Paw</b> 2<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bear-paw.html"
-              >Bear Paw</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/orchid.html"
-              >Orchid</a
-            ><span> / </span>Five Spice Powder<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/apple.html"
-              >Apple</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Steamed Paw</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bear-paw.html"
+                  >Bear Paw</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/orchid.html"
+                  >Orchid</a
+                ><span> / </span>Five Spice Powder<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/apple.html"
+                  >Apple</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-tasty-wing-tip">
         <h5 id="item-tasty-wing-tip">Tasty Wing Tip</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Tasty Wing Tip</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/nirvana-feather.html"
-              >Nirvana Feather</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/nirvana-feather.html"
-              >Nirvana Feather</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chimeraland-beast-hide.html"
-              >Chimeraland Beast Hide</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bird-wing.html"
-              >Bird Wing</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bird-wing.html"
-              >Bird Wing</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bear-paw.html"
-              >Bear Paw</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/crab-claw-meat.html"
-              >Crab Claw Meat</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Tasty Wing Tip</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/nirvana-feather.html"
+                  >Nirvana Feather</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/nirvana-feather.html"
+                  >Nirvana Feather</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bird-wing.html"
+                  >Bird Wing</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bird-wing.html"
+                  >Bird Wing</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bear-paw.html"
+                  >Bear Paw</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/crab-claw-meat.html"
+                  >Crab Claw Meat</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

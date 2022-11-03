@@ -63,34 +63,47 @@ categories:
       <div id="recipe-red-cabbage-soup">
         <h5 id="item-red-cabbage-soup">Red Cabbage Soup</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Red Cabbage Soup</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/tomato.html"
-              >Tomato</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><span> / </span>Any Lv.6 Crop<span> / </span>Any Mixed Sauce<span>
-              / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Red Cabbage Soup</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/tomato.html"
+                  >Tomato</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Any Lv.6 Crop<span> / </span>Any Mixed
+                Sauce<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
@@ -99,16 +112,27 @@ categories:
           Stir-Fried Tomato With Eggs
         </h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Stir-Fried Tomato With Eggs</b> 1<br />Egg White<span>
-              / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/tomato.html"
-              >Tomato</a
-            ><span> / </span>Any Lv.3 Crop<span> / </span>Any Lv.4 Crop<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Stir-Fried Tomato With Eggs</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Egg White<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/tomato.html"
+                  >Tomato</a
+                ><span> / </span>Any Lv.3 Crop<span> / </span>Any Lv.4 Crop
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

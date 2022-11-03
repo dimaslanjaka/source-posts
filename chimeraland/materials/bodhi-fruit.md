@@ -83,67 +83,119 @@ categories:
       <div id="recipe-bodhi-fruit-sauce">
         <h5 id="item-bodhi-fruit-sauce">Bodhi Fruit Sauce</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Bodhi Fruit Sauce</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bodhi-fruit.html"
-              >Bodhi Fruit</a
-            ><span> / </span>Any Wild Fruit<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Bodhi Fruit Sauce</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bodhi-fruit.html"
+                  >Bodhi Fruit</a
+                ><span> / </span>Any Wild Fruit
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Mixer - Jam</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-cold-lime-broth">
         <h5 id="item-cold-lime-broth">Cold Lime Broth</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Cold Lime Broth</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bodhi-fruit.html"
-              >Bodhi Fruit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><span> / </span>Any Meat<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Cold Lime Broth</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bodhi-fruit.html"
+                  >Bodhi Fruit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Any Meat
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-cold-lime-soup">
         <h5 id="item-cold-lime-soup">Cold Lime Soup</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Cold Lime Soup</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bodhi-fruit.html"
-              >Bodhi Fruit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Cold Lime Soup</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bodhi-fruit.html"
+                  >Bodhi Fruit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-verdura-slushie">
         <h5 id="item-verdura-slushie">Verdura Slushie</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Verdura Slushie</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bodhi-fruit.html"
-              >Bodhi Fruit</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Verdura Slushie</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bodhi-fruit.html"
+                  >Bodhi Fruit</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Mixer - Jam</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

@@ -69,33 +69,59 @@ categories:
       <div id="recipe-grilled-venison">
         <h5 id="item-grilled-venison">Grilled Venison</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Grilled Venison</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/moose-meat.html"
-              >Moose Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/moose-meat.html"
-              >Moose Meat</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Grilled Venison</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/moose-meat.html"
+                  >Moose Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/moose-meat.html"
+                  >Moose Meat</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-sweet-and-spicy-venison">
         <h5 id="item-sweet-and-spicy-venison">Sweet And Spicy Venison</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Sweet And Spicy Venison</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/moose-meat.html"
-              >Moose Meat</a
-            ><span> / </span>Peanut Oil<span> / </span>Any Sweet Sauce<span>
-              / </span
-            >Any Spicy Sauce<span> / </span>Any Spice<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Sweet And Spicy Venison</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/moose-meat.html"
+                  >Moose Meat</a
+                ><span> / </span>Peanut Oil<span> / </span>Any Sweet Sauce<span>
+                  / </span
+                >Any Spicy Sauce<span> / </span>Any Spice
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

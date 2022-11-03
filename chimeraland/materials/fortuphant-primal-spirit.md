@@ -78,43 +78,56 @@ categories:
       <div id="recipe-overlord-hide-jelly">
         <h5 id="item-overlord-hide-jelly">Overlord Hide Jelly</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Overlord Hide Jelly</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/fortuphant-primal-spirit.html"
-              >Fortuphant Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/fortuphant-primal-spirit.html"
-              >Fortuphant Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chimeraland-beast-hide.html"
-              >Chimeraland Beast Hide</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/dew.html"
-              >Dew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/ice-piece.html"
-              >Ice Piece</a
-            ><span> / </span>Corriander<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/flat-cabbage.html"
-              >Flat Cabbage</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/watermelon.html"
-              >Watermelon</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Overlord Hide Jelly</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/fortuphant-primal-spirit.html"
+                  >Fortuphant Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/fortuphant-primal-spirit.html"
+                  >Fortuphant Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><span> / </span>Corriander<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/flat-cabbage.html"
+                  >Flat Cabbage</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/watermelon.html"
+                  >Watermelon</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

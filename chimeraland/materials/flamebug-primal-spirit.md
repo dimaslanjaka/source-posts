@@ -84,26 +84,38 @@ categories:
       <div id="recipe-flamebug-meat-claypot">
         <h5 id="item-flamebug-meat-claypot">Flamebug Meat Claypot</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Flamebug Meat Claypot</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/flamebug-primal-spirit.html"
-              >Flamebug Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/flamebug-primal-spirit.html"
-              >Flamebug Primal Spirit</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/chimeraland-beast-hide.html"
-              >Chimeraland Beast Hide</a
-            ><span> / </span>Any Meat<span> / </span>Red Hot Sauce<span>
-              / </span
-            >Cucumber Sauce<span> / </span>Fruit Sauce<br />Device: Stove or
-            Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Flamebug Meat Claypot</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/flamebug-primal-spirit.html"
+                  >Flamebug Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/flamebug-primal-spirit.html"
+                  >Flamebug Primal Spirit</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/chimeraland-beast-hide.html"
+                  >Chimeraland Beast Hide</a
+                ><span> / </span>Any Meat<span> / </span>Red Hot Sauce<span>
+                  / </span
+                >Cucumber Sauce<span> / </span>Fruit Sauce
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

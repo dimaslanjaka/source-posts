@@ -68,46 +68,85 @@ categories:
       <div id="recipe-fried-intestines">
         <h5 id="item-fried-intestines">Fried Intestines</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Fried Intestines</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beast-intestines.html"
-              >Beast Intestines</a
-            ><span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span>
-              / </span
-            >Any Lv.6 Crop<span> / </span>Any Flower<span> / </span>Any Mutant
-            Flower<span> / </span>Peanut Oil<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fried Intestines</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-intestines.html"
+                  >Beast Intestines</a
+                ><span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span>
+                  / </span
+                >Any Lv.6 Crop<span> / </span>Any Flower<span> / </span>Any
+                Mutant Flower<span> / </span>Peanut Oil
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Fried Intestines</b> 2<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/kidney.html"
-              >Kidney</a
-            ><span> / </span>Peanut Oil<span> / </span>Any Lv.4 Crop<span>
-              / </span
-            >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
-            Flower<span> / </span>Any Mutant Flower<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fried Intestines</b> 2</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/kidney.html"
+                  >Kidney</a
+                ><span> / </span>Peanut Oil<span> / </span>Any Lv.4 Crop<span>
+                  / </span
+                >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
+                Flower<span> / </span>Any Mutant Flower
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-grilled-offal">
         <h5 id="item-grilled-offal">Grilled Offal</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Grilled Offal</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beast-intestines.html"
-              >Beast Intestines</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/beast-intestines.html"
-              >Beast Intestines</a
-            ><br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Grilled Offal</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-intestines.html"
+                  >Beast Intestines</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/beast-intestines.html"
+                  >Beast Intestines</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

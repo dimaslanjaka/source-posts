@@ -68,50 +68,85 @@ categories:
       <div id="recipe-buddhas-temptation">
         <h5 id="item-buddhas-temptation">Buddha&#x27;s Temptation</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Buddha&#x27;s Temptation</b> 1<br /><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/hoof-sinew.html"
-              >Hoof Sinew</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/crab-claw-meat.html"
-              >Crab Claw Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/bird-wing.html"
-              >Bird Wing</a
-            ><span> / </span>Coriander Powder<span> / </span>Any Mushroom<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Buddha&#x27;s Temptation</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/hoof-sinew.html"
+                  >Hoof Sinew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/crab-claw-meat.html"
+                  >Crab Claw Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/bird-wing.html"
+                  >Bird Wing</a
+                ><span> / </span>Coriander Powder<span> / </span>Any Mushroom
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-fried-pork-in-scoop">
         <h5 id="item-fried-pork-in-scoop">Fried Pork In Scoop</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Fried Pork In Scoop</b> 1<br />Job&#x27;s Tears
-            Powder<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/coriander.html"
-              >Coriander</a
-            ><span> / </span>Any Meat<span> / </span>Any Lv.5 or Lv.6 Crop<br />Device:
-            Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Fried Pork In Scoop</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Job&#x27;s Tears Powder<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/coriander.html"
+                  >Coriander</a
+                ><span> / </span>Any Meat<span> / </span>Any Lv.5 or Lv.6 Crop
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
       <br />
       <div id="recipe-strange-meat-skewers">
         <h5 id="item-strange-meat-skewers">Strange Meat Skewers</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Strange Meat Skewers</b> 1<br />Any Meat<span> / </span
-            >Any Meat<span> / </span>Coriander Powder<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Strange Meat Skewers</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Any Meat<span> / </span>Any Meat<span> / </span>Coriander Powder
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

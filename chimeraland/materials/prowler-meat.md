@@ -69,19 +69,32 @@ categories:
       <div id="recipe-grilled-wolf">
         <h5 id="item-grilled-wolf">Grilled Wolf</h5>
         <div class="mb-2">
-          <p class="fs-5">
-            Recipe <b>Grilled Wolf</b> 1<br />Peanut Oil<span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/prowler-meat.html"
-              >Prowler Meat</a
-            ><span> / </span
-            ><a
-              class="text-decoration-none"
-              href="/chimeraland/materials/prowler-meat.html"
-              >Prowler Meat</a
-            ><span> / </span>Any Seasoning<br />Device: Stove or Camp
-          </p>
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Grilled Wolf</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                Peanut Oil<span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/prowler-meat.html"
+                  >Prowler Meat</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/materials/prowler-meat.html"
+                  >Prowler Meat</a
+                ><span> / </span>Any Seasoning
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>
