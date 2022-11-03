@@ -81,9 +81,13 @@ categories:
           <div class="card-text">
             <ul>
               <li>
-                Cantaloupe<span> + </span>Fruit &amp; Veggie Paste<span>
+                Cantaloupe<span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/fruit-and-veggie-paste.html"
+                  >Fruit &amp; Veggie Paste</a
+                ><span> + </span>Any Meat<span> + </span>Any Lv.6 Crop<span>
                   + </span
-                >Any Meat<span> + </span>Any Lv.6 Crop<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"

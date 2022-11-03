@@ -76,7 +76,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Bone Sheep Primal Spirit</h2>
       <div id="recipe-stir-fried-browtelope">
-        <h5 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h5>
+        <h3 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -90,18 +90,18 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bone-sheep-primal-spirit.html"
                   >Bone Sheep Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bone-sheep-primal-spirit.html"
                   >Bone Sheep Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Corriander Powder<span> / </span>Five Spice
-                Sauce<span> / </span>Corriander<span> / </span
+                ><span> + </span>Corriander Powder<span> / </span>Five Spice
+                Sauce<span> + </span>Corriander<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/flat-cabbage.html"

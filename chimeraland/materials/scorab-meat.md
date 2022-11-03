@@ -67,7 +67,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Scorab Meat</h2>
       <div id="recipe-braised-scorpion">
-        <h5 id="item-braised-scorpion">Braised Scorpion</h5>
+        <h3 id="item-braised-scorpion">Braised Scorpion</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -81,8 +81,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/scorab-meat.html"
                   >Scorab Meat</a
-                ><span> / </span>Any Mixed Sauce<span> / </span>Any High Quality
-                Seasoning<span> / </span>Peanut Oil
+                ><span> + </span>Any Mixed Sauce<span> + </span>Any High Quality
+                Seasoning<span> + </span>Peanut Oil
               </td>
             </tr>
             <tr>
@@ -94,7 +94,7 @@ categories:
       </div>
       <br />
       <div id="recipe-garlic-braised-meat">
-        <h5 id="item-garlic-braised-meat">Garlic Braised Meat</h5>
+        <h3 id="item-garlic-braised-meat">Garlic Braised Meat</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -108,12 +108,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wolfspider-meat.html"
                   >Wolfspider Meat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span>Garlic Powder
+                ><span> + </span>Garlic Powder
               </td>
             </tr>
             <tr>
@@ -131,12 +131,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> / </span
+                Garlic Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
@@ -159,12 +159,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> / </span
+                Garlic Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/scorab-meat.html"
@@ -187,12 +187,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> / </span
+                Garlic Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beetlefly-meat.html"

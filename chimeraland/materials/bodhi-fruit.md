@@ -81,7 +81,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Bodhi Fruit</h2>
       <div id="recipe-bodhi-fruit-sauce">
-        <h5 id="item-bodhi-fruit-sauce">Bodhi Fruit Sauce</h5>
+        <h3 id="item-bodhi-fruit-sauce">Bodhi Fruit Sauce</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -95,7 +95,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bodhi-fruit.html"
                   >Bodhi Fruit</a
-                ><span> / </span>Any Wild Fruit
+                ><span> + </span>Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -107,7 +107,7 @@ categories:
       </div>
       <br />
       <div id="recipe-cold-lime-broth">
-        <h5 id="item-cold-lime-broth">Cold Lime Broth</h5>
+        <h3 id="item-cold-lime-broth">Cold Lime Broth</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -121,12 +121,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bodhi-fruit.html"
                   >Bodhi Fruit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span>Any Meat
+                ><span> + </span>Any Meat
               </td>
             </tr>
             <tr>
@@ -138,7 +138,7 @@ categories:
       </div>
       <br />
       <div id="recipe-cold-lime-soup">
-        <h5 id="item-cold-lime-soup">Cold Lime Soup</h5>
+        <h3 id="item-cold-lime-soup">Cold Lime Soup</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -152,7 +152,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bodhi-fruit.html"
                   >Bodhi Fruit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
@@ -169,7 +169,7 @@ categories:
       </div>
       <br />
       <div id="recipe-verdura-slushie">
-        <h5 id="item-verdura-slushie">Verdura Slushie</h5>
+        <h3 id="item-verdura-slushie">Verdura Slushie</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -183,7 +183,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bodhi-fruit.html"

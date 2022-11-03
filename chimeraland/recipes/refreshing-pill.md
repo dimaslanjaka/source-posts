@@ -84,7 +84,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span>Fruit &amp; Veggie Paste
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/fruit-and-veggie-paste.html"
+                  >Fruit &amp; Veggie Paste</a
+                >
               </li>
               <li>Device: Stove or Camp</li>
             </ul>
@@ -103,7 +108,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> + </span>Veggie Paste
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/veggie-paste.html"
+                  >Veggie Paste</a
+                >
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

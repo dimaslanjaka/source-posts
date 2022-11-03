@@ -66,7 +66,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Coriander</h2>
       <div id="recipe-buddhas-temptation">
-        <h5 id="item-buddhas-temptation">Buddha&#x27;s Temptation</h5>
+        <h3 id="item-buddhas-temptation">Buddha&#x27;s Temptation</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -80,17 +80,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/hoof-sinew.html"
                   >Hoof Sinew</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
                   >Crab Claw Meat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bird-wing.html"
                   >Bird Wing</a
-                ><span> / </span>Coriander Powder<span> / </span>Any Mushroom
+                ><span> + </span>Coriander Powder<span> + </span>Any Mushroom
               </td>
             </tr>
             <tr>
@@ -102,7 +102,7 @@ categories:
       </div>
       <br />
       <div id="recipe-fried-pork-in-scoop">
-        <h5 id="item-fried-pork-in-scoop">Fried Pork In Scoop</h5>
+        <h3 id="item-fried-pork-in-scoop">Fried Pork In Scoop</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -112,12 +112,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Job&#x27;s Tears Powder<span> / </span
+                Job&#x27;s Tears Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/coriander.html"
                   >Coriander</a
-                ><span> / </span>Any Meat<span> / </span>Any Lv.5 or Lv.6 Crop
+                ><span> + </span>Any Meat<span> + </span>Any Lv.5 or Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -129,7 +129,7 @@ categories:
       </div>
       <br />
       <div id="recipe-strange-meat-skewers">
-        <h5 id="item-strange-meat-skewers">Strange Meat Skewers</h5>
+        <h3 id="item-strange-meat-skewers">Strange Meat Skewers</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -139,7 +139,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Meat<span> / </span>Any Meat<span> / </span>Coriander Powder
+                Any Meat<span> + </span>Any Meat<span> + </span>Coriander Powder
               </td>
             </tr>
             <tr>

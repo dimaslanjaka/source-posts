@@ -76,7 +76,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Grizzly Primal Spirit</h2>
       <div id="recipe-bear-ball-pot">
-        <h5 id="item-bear-ball-pot">Bear Ball Pot</h5>
+        <h3 id="item-bear-ball-pot">Bear Ball Pot</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -90,18 +90,27 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/grizzly-primal-spirit.html"
                   >Grizzly Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/grizzly-primal-spirit.html"
                   >Grizzly Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
-                Sauce<span> / </span>Fruit Sauce<span> / </span>Corriander<span>
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/red-hot-sauce.html"
+                  >Red Hot Sauce</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/cucumber-sauce.html"
+                  >Cucumber Sauce</a
+                ><span> / </span>Fruit Sauce<span> + </span>Corriander<span>
                   / </span
                 ><a
                   class="text-decoration-none"

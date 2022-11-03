@@ -70,7 +70,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Bear Paw</h2>
       <div id="recipe-grilled-bear-paw">
-        <h5 id="item-grilled-bear-paw">Grilled Bear Paw</h5>
+        <h3 id="item-grilled-bear-paw">Grilled Bear Paw</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -84,7 +84,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bear-paw.html"
                   >Bear Paw</a
-                ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
+                ><span> + </span>Any Seasoning<span> / </span>Any Spice<span>
                   / </span
                 >Any High Quality Seasoning
               </td>
@@ -98,7 +98,7 @@ categories:
       </div>
       <br />
       <div id="recipe-steamed-paw">
-        <h5 id="item-steamed-paw">Steamed Paw</h5>
+        <h3 id="item-steamed-paw">Steamed Paw</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -112,13 +112,13 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bear-paw.html"
                   >Bear Paw</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> / </span>Five Spice Powder<span> / </span>Any Wild
-                Fruit<span> / </span
+                ><span> + </span>Five Spice Powder<span> + </span>Any Wild
+                Fruit<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -150,17 +150,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bear-paw.html"
                   >Bear Paw</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> / </span>Five Spice Powder<span> / </span
+                ><span> + </span>Five Spice Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
@@ -182,7 +182,7 @@ categories:
       </div>
       <br />
       <div id="recipe-tasty-wing-tip">
-        <h5 id="item-tasty-wing-tip">Tasty Wing Tip</h5>
+        <h3 id="item-tasty-wing-tip">Tasty Wing Tip</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -196,22 +196,22 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/nirvana-feather.html"
                   >Nirvana Feather</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/nirvana-feather.html"
                   >Nirvana Feather</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bird-wing.html"
                   >Bird Wing</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bird-wing.html"

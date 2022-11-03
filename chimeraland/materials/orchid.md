@@ -75,7 +75,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Orchid</h2>
       <div id="recipe-herb-grilled-crab">
-        <h5 id="item-herb-grilled-crab">Herb Grilled Crab</h5>
+        <h3 id="item-herb-grilled-crab">Herb Grilled Crab</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -89,12 +89,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
                   >Crab Claw Meat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> / </span>Any Seasoning<span> / </span>Any Spice
+                ><span> + </span>Any Seasoning<span> / </span>Any Spice
               </td>
             </tr>
             <tr>
@@ -106,7 +106,7 @@ categories:
       </div>
       <br />
       <div id="recipe-orchid-soup">
-        <h5 id="item-orchid-soup">Orchid Soup</h5>
+        <h3 id="item-orchid-soup">Orchid Soup</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -120,7 +120,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -130,7 +130,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span>Any Wild Fruit
+                ><span> + </span>Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -142,7 +142,7 @@ categories:
       </div>
       <br />
       <div id="recipe-steamed-paw">
-        <h5 id="item-steamed-paw">Steamed Paw</h5>
+        <h3 id="item-steamed-paw">Steamed Paw</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -156,13 +156,13 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bear-paw.html"
                   >Bear Paw</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> / </span>Five Spice Powder<span> / </span>Any Wild
-                Fruit<span> / </span
+                ><span> + </span>Five Spice Powder<span> + </span>Any Wild
+                Fruit<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -194,17 +194,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bear-paw.html"
                   >Bear Paw</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> / </span>Five Spice Powder<span> / </span
+                ><span> + </span>Five Spice Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"

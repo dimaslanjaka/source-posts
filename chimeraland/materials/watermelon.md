@@ -66,7 +66,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Watermelon</h2>
       <div id="recipe-beggars-chicken">
-        <h5 id="item-beggars-chicken">Beggar&#x27;s Chicken</h5>
+        <h3 id="item-beggars-chicken">Beggar&#x27;s Chicken</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -80,7 +80,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/watermelon.html"
                   >Watermelon</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/vuldo-meat.html"
@@ -97,7 +97,7 @@ categories:
       </div>
       <br />
       <div id="recipe-eggs-with-gourd">
-        <h5 id="item-eggs-with-gourd">Eggs With Gourd</h5>
+        <h3 id="item-eggs-with-gourd">Eggs With Gourd</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -111,7 +111,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/watermelon.html"
                   >Watermelon</a
-                ><span> / </span>Egg White<span> / </span>Peanut Oil
+                ><span> + </span>Egg White<span> + </span>Peanut Oil
               </td>
             </tr>
             <tr>
@@ -123,7 +123,7 @@ categories:
       </div>
       <br />
       <div id="recipe-watermelon-slushie">
-        <h5 id="item-watermelon-slushie">Watermelon Slushie</h5>
+        <h3 id="item-watermelon-slushie">Watermelon Slushie</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -137,7 +137,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/watermelon.html"
@@ -164,7 +164,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/watermelon.html"
                   >Watermelon</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
@@ -181,7 +181,7 @@ categories:
       </div>
       <br />
       <div id="recipe-overlord-hide-jelly">
-        <h5 id="item-overlord-hide-jelly">Overlord Hide Jelly</h5>
+        <h3 id="item-overlord-hide-jelly">Overlord Hide Jelly</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -195,17 +195,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/fortuphant-primal-spirit.html"
                   >Fortuphant Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/fortuphant-primal-spirit.html"
                   >Fortuphant Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -215,7 +215,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span>Corriander<span> / </span
+                ><span> + </span>Corriander<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/flat-cabbage.html"
@@ -237,7 +237,7 @@ categories:
       </div>
       <br />
       <div id="recipe-bear-ball-pot">
-        <h5 id="item-bear-ball-pot">Bear Ball Pot</h5>
+        <h3 id="item-bear-ball-pot">Bear Ball Pot</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -251,18 +251,27 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/grizzly-primal-spirit.html"
                   >Grizzly Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/grizzly-primal-spirit.html"
                   >Grizzly Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
-                Sauce<span> / </span>Fruit Sauce<span> / </span>Corriander<span>
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/red-hot-sauce.html"
+                  >Red Hot Sauce</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/cucumber-sauce.html"
+                  >Cucumber Sauce</a
+                ><span> / </span>Fruit Sauce<span> + </span>Corriander<span>
                   / </span
                 ><a
                   class="text-decoration-none"
@@ -285,7 +294,7 @@ categories:
       </div>
       <br />
       <div id="recipe-stir-fried-browtelope">
-        <h5 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h5>
+        <h3 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -299,18 +308,18 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bone-sheep-primal-spirit.html"
                   >Bone Sheep Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bone-sheep-primal-spirit.html"
                   >Bone Sheep Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Corriander Powder<span> / </span>Five Spice
-                Sauce<span> / </span>Corriander<span> / </span
+                ><span> + </span>Corriander Powder<span> / </span>Five Spice
+                Sauce<span> + </span>Corriander<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/flat-cabbage.html"

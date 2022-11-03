@@ -72,7 +72,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Lemon Tree Leaf</h2>
       <div id="recipe-arowana-slices">
-        <h5 id="item-arowana-slices">Arowana Slices</h5>
+        <h3 id="item-arowana-slices">Arowana Slices</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -82,12 +82,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Barbled Dragonfish<span> / </span
+                Barbled Dragonfish<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
-                ><span> / </span>Barbled Dragonfish
+                ><span> + </span>Barbled Dragonfish
               </td>
             </tr>
             <tr>
@@ -99,7 +99,7 @@ categories:
       </div>
       <br />
       <div id="recipe-sliced-fish-stew">
-        <h5 id="item-sliced-fish-stew">Sliced Fish Stew</h5>
+        <h3 id="item-sliced-fish-stew">Sliced Fish Stew</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -109,8 +109,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Egg White<span> / </span>Any Meat<span> / </span>Any Lv.3
-                Crop<span> / </span>Purple grade fish<span> / </span>Orange
+                Egg White<span> + </span>Any Meat<span> + </span>Any Lv.3
+                Crop<span> + </span>Purple grade fish<span> / </span>Orange
                 grade fish<span> / </span>Red grade fish
               </td>
             </tr>
@@ -129,13 +129,13 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Egg White<span> / </span>Any Meat<span> / </span
+                Egg White<span> + </span>Any Meat<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
                 ><span> / </span>Any rare Crops such as pumpkin etc<span>
-                  / </span
+                  + </span
                 >any Purple Fish
               </td>
             </tr>
@@ -148,7 +148,7 @@ categories:
       </div>
       <br />
       <div id="recipe-steamed-fish">
-        <h5 id="item-steamed-fish">Steamed Fish</h5>
+        <h3 id="item-steamed-fish">Steamed Fish</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -162,7 +162,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
-                ><span> / </span>Dew or Ice Piece<span> / </span>Purple grade
+                ><span> + </span>Dew or Ice Piece<span> + </span>Purple grade
                 fish<span> / </span>Orange grade fish<span> / </span>Red grade
                 fish
               </td>
@@ -176,7 +176,7 @@ categories:
       </div>
       <br />
       <div id="recipe-viperfish-slices">
-        <h5 id="item-viperfish-slices">Viperfish Slices</h5>
+        <h3 id="item-viperfish-slices">Viperfish Slices</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -190,12 +190,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/viperfish.html"
                   >Viperfish</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/viperfish.html"
@@ -212,7 +212,7 @@ categories:
       </div>
       <br />
       <div id="recipe-hot-n-sour-jelly">
-        <h5 id="item-hot-n-sour-jelly">Hot &#x27;n Sour Jelly</h5>
+        <h3 id="item-hot-n-sour-jelly">Hot &#x27;n Sour Jelly</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -226,17 +226,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-fur.html"
                   >Spirit Fox Fur</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-fur.html"
                   >Spirit Fox Fur</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Spicy Powder<span> / </span
+                ><span> + </span>Spicy Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
@@ -253,7 +253,7 @@ categories:
       </div>
       <br />
       <div id="recipe-soy-braised-dragon-bone">
-        <h5 id="item-soy-braised-dragon-bone">Soy Braised Dragon Bone</h5>
+        <h3 id="item-soy-braised-dragon-bone">Soy Braised Dragon Bone</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -267,17 +267,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ancient-bone.html"
                   >Ancient Bone</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ancient-bone.html"
                   >Ancient Bone</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Any Mixed Sauce<span> / </span
+                ><span> + </span>Any Mixed Sauce<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
@@ -294,7 +294,7 @@ categories:
       </div>
       <br />
       <div id="recipe-exotic-herbal-jelly">
-        <h5 id="item-exotic-herbal-jelly">Exotic Herbal Jelly</h5>
+        <h3 id="item-exotic-herbal-jelly">Exotic Herbal Jelly</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -308,17 +308,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/stoatle-shell.html"
                   >Stoatle Shell</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/stoatle-shell.html"
                   >Stoatle Shell</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Scallion Powder<span> / </span
+                ><span> + </span>Scallion Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
@@ -335,7 +335,7 @@ categories:
       </div>
       <br />
       <div id="recipe-flame-roasted-horn">
-        <h5 id="item-flame-roasted-horn">Flame Roasted Horn</h5>
+        <h3 id="item-flame-roasted-horn">Flame Roasted Horn</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -349,18 +349,27 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/magnificent-horn.html"
                   >Magnificent Horn</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/magnificent-horn.html"
                   >Magnificent Horn</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Spicy Pepper Sauce<span> / </span>Garlic
-                Sauce<span> / </span
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/spicy-pepper-sauce.html"
+                  >Spicy Pepper Sauce</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/garlic-sauce.html"
+                  >Garlic Sauce</a
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"

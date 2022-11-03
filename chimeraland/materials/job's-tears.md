@@ -74,7 +74,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Job&#x27;s Tears</h2>
       <div id="recipe-cucumber-sauce">
-        <h5 id="item-cucumber-sauce">Cucumber Sauce</h5>
+        <h3 id="item-cucumber-sauce">Cucumber Sauce</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -88,12 +88,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/cucumber.html"
                   >Cucumber</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/job&#x27;s-tears.html"
                   >Job&#x27;s Tears</a
-                ><span> / </span>Any Wild Fruit
+                ><span> + </span>Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -105,7 +105,7 @@ categories:
       </div>
       <br />
       <div id="recipe-flower-pancake">
-        <h5 id="item-flower-pancake">Flower Pancake</h5>
+        <h3 id="item-flower-pancake">Flower Pancake</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -115,8 +115,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Job&#x27;s Tears Powder<span> / </span>Any Wild Fruit<span>
-                  / </span
+                Job&#x27;s Tears Powder<span> + </span>Any Wild Fruit<span>
+                  + </span
                 >Any Mutant Flower<span> / </span>Any Flower
               </td>
             </tr>
@@ -129,7 +129,7 @@ categories:
       </div>
       <br />
       <div id="recipe-fragrant-steamed-buns">
-        <h5 id="item-fragrant-steamed-buns">Fragrant Steamed Buns</h5>
+        <h3 id="item-fragrant-steamed-buns">Fragrant Steamed Buns</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -139,8 +139,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Job&#x27;s Tears Powder<span> / </span>Egg White<span> / </span
-                >Any Lv.6 Crop<span> / </span>Any Meat<span> / </span>Any Meat
+                Job&#x27;s Tears Powder<span> + </span>Egg White<span> + </span
+                >Any Lv.6 Crop<span> + </span>Any Meat<span> + </span>Any Meat
               </td>
             </tr>
             <tr>
@@ -152,7 +152,7 @@ categories:
       </div>
       <br />
       <div id="recipe-fried-pork-in-scoop">
-        <h5 id="item-fried-pork-in-scoop">Fried Pork In Scoop</h5>
+        <h3 id="item-fried-pork-in-scoop">Fried Pork In Scoop</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -162,12 +162,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Job&#x27;s Tears Powder<span> / </span
+                Job&#x27;s Tears Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/coriander.html"
                   >Coriander</a
-                ><span> / </span>Any Meat<span> / </span>Any Lv.5 or Lv.6 Crop
+                ><span> + </span>Any Meat<span> + </span>Any Lv.5 or Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -179,7 +179,7 @@ categories:
       </div>
       <br />
       <div id="recipe-fried-vegetarian-balls">
-        <h5 id="item-fried-vegetarian-balls">Fried Vegetarian Balls</h5>
+        <h3 id="item-fried-vegetarian-balls">Fried Vegetarian Balls</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -189,7 +189,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Job&#x27;s Tears Powder<span> / </span>Any Lv.1 Crop<span>
+                Job&#x27;s Tears Powder<span> + </span>Any Lv.1 Crop<span>
                   / </span
                 >Any Lv.2 Crop<span> / </span>Any Lv.3 Crop<span> / </span>Any
                 Lv.4 Crop
@@ -204,7 +204,7 @@ categories:
       </div>
       <br />
       <div id="recipe-garlic-steak">
-        <h5 id="item-garlic-steak">Garlic Steak</h5>
+        <h3 id="item-garlic-steak">Garlic Steak</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -214,8 +214,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> / </span>Job&#x27;s Tears Powder<span>
-                  / </span
+                Garlic Powder<span> + </span>Job&#x27;s Tears Powder<span>
+                  + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bosalo-meat.html"
@@ -232,7 +232,7 @@ categories:
       </div>
       <br />
       <div id="recipe-jobs-tears-broth">
-        <h5 id="item-jobs-tears-broth">Job&#x27;s Tears Broth</h5>
+        <h3 id="item-jobs-tears-broth">Job&#x27;s Tears Broth</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -246,7 +246,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/job&#x27;s-tears.html"
                   >Job&#x27;s Tears</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -256,7 +256,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span>Any Meat
+                ><span> + </span>Any Meat
               </td>
             </tr>
             <tr>
@@ -268,7 +268,7 @@ categories:
       </div>
       <br />
       <div id="recipe-jobs-tears-porridge">
-        <h5 id="item-jobs-tears-porridge">Job&#x27;s Tears Porridge</h5>
+        <h3 id="item-jobs-tears-porridge">Job&#x27;s Tears Porridge</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -282,7 +282,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/job&#x27;s-tears.html"
                   >Job&#x27;s Tears</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -304,7 +304,7 @@ categories:
       </div>
       <br />
       <div id="recipe-jobs-tears-sauce">
-        <h5 id="item-jobs-tears-sauce">Job&#x27;s Tears Sauce</h5>
+        <h3 id="item-jobs-tears-sauce">Job&#x27;s Tears Sauce</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -318,7 +318,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/job&#x27;s-tears.html"
                   >Job&#x27;s Tears</a
-                ><span> / </span>Any Wild Fruit
+                ><span> + </span>Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -330,7 +330,7 @@ categories:
       </div>
       <br />
       <div id="recipe-jobs-tears-stew">
-        <h5 id="item-jobs-tears-stew">Job&#x27;s Tears Stew</h5>
+        <h3 id="item-jobs-tears-stew">Job&#x27;s Tears Stew</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -344,7 +344,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/job&#x27;s-tears.html"
                   >Job&#x27;s Tears</a
-                ><span> / </span>Any Meat<span> / </span>Any Lv.4 Crop
+                ><span> + </span>Any Meat<span> + </span>Any Lv.4 Crop
               </td>
             </tr>
             <tr>
@@ -356,7 +356,7 @@ categories:
       </div>
       <br />
       <div id="recipe-meat-pie">
-        <h5 id="item-meat-pie">Meat Pie</h5>
+        <h3 id="item-meat-pie">Meat Pie</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -366,9 +366,9 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Meat<span> / </span>Any Meat<span> / </span>Any Meat<span>
-                  / </span
-                >Any High Quality Seasoning<span> / </span>Job&#x27;s Tears
+                Any Meat<span> + </span>Any Meat<span> + </span>Any Meat<span>
+                  + </span
+                >Any High Quality Seasoning<span> + </span>Job&#x27;s Tears
                 Powder
               </td>
             </tr>
@@ -381,7 +381,7 @@ categories:
       </div>
       <br />
       <div id="recipe-new-year-dumplings">
-        <h5 id="item-new-year-dumplings">New Year Dumplings</h5>
+        <h3 id="item-new-year-dumplings">New Year Dumplings</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -391,9 +391,9 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Job&#x27;s Tears Powder<span> / </span>Job&#x27;s Tears
-                Powder<span> / </span>Any Lv.6 Crop<span> / </span>Any Meat<span>
-                  / </span
+                Job&#x27;s Tears Powder<span> + </span>Job&#x27;s Tears
+                Powder<span> + </span>Any Lv.6 Crop<span> + </span>Any Meat<span>
+                  + </span
                 >Peanut Oil
               </td>
             </tr>
@@ -406,7 +406,7 @@ categories:
       </div>
       <br />
       <div id="recipe-rice-patty">
-        <h5 id="item-rice-patty">Rice Patty</h5>
+        <h3 id="item-rice-patty">Rice Patty</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -416,7 +416,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Job&#x27;s Tears Powder<span> / </span>Any Meat<span> / </span
+                Job&#x27;s Tears Powder<span> + </span>Any Meat<span> + </span
                 >Lv.3<span> / </span>4 Crop
               </td>
             </tr>
@@ -429,7 +429,7 @@ categories:
       </div>
       <br />
       <div id="recipe-seafood-rice">
-        <h5 id="item-seafood-rice">Seafood Rice</h5>
+        <h3 id="item-seafood-rice">Seafood Rice</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -443,17 +443,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/job&#x27;s-tears.html"
                   >Job&#x27;s Tears</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
                   >Crab Claw Meat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/job&#x27;s-tears.html"
                   >Job&#x27;s Tears</a
-                ><span> / </span>Any High Quality Seasoning<span> / </span>Any
+                ><span> + </span>Any High Quality Seasoning<span> + </span>Any
                 Lv.6 Crop
               </td>
             </tr>
@@ -466,7 +466,7 @@ categories:
       </div>
       <br />
       <div id="recipe-steamed-brains">
-        <h5 id="item-steamed-brains">Steamed Brains</h5>
+        <h3 id="item-steamed-brains">Steamed Brains</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -480,12 +480,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> / </span>Dew or Ice Piece<span> / </span>Any
+                ><span> + </span>Dew or Ice Piece<span> + </span>Any
                 Seasoning<span> / </span>Any High Quality Seasoning
               </td>
             </tr>
@@ -508,12 +508,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -523,7 +523,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span>Garlic Powder<span> / </span>Job&#x27;s Tears
+                ><span> + </span>Garlic Powder<span> / </span>Job&#x27;s Tears
                 Powder
               </td>
             </tr>
@@ -536,7 +536,7 @@ categories:
       </div>
       <br />
       <div id="recipe-sweet-vinegar-fish">
-        <h5 id="item-sweet-vinegar-fish">Sweet Vinegar Fish</h5>
+        <h3 id="item-sweet-vinegar-fish">Sweet Vinegar Fish</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -546,8 +546,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> / </span>Job&#x27;s Tears Powder<span> / </span
-                >Any Wild Fruit<span> / </span>Purple grade fish<span> / </span
+                Peanut Oil<span> + </span>Job&#x27;s Tears Powder<span> + </span
+                >Any Wild Fruit<span> + </span>Purple grade fish<span> / </span
                 >Orange grade fish<span> / </span>Red grade fish
               </td>
             </tr>
@@ -566,12 +566,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> / </span>Job&#x27;s Tear Powder<span> / </span
+                Peanut Oil<span> + </span>Job&#x27;s Tear Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
-                ><span> / </span>Any Purple Fish
+                ><span> + </span>Any Purple Fish
               </td>
             </tr>
             <tr>
@@ -583,7 +583,7 @@ categories:
       </div>
       <br />
       <div id="recipe-vegetable-dumplings">
-        <h5 id="item-vegetable-dumplings">Vegetable Dumplings</h5>
+        <h3 id="item-vegetable-dumplings">Vegetable Dumplings</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -597,8 +597,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chives.html"
                   >Chives</a
-                ><span> / </span>Job&#x27;s Tears Powder<span> / </span>Any
-                Meat<span> / </span>Any Lv.6 Crop<span> / </span>Any Meat
+                ><span> + </span>Job&#x27;s Tears Powder<span> + </span>Any
+                Meat<span> + </span>Any Lv.6 Crop<span> + </span>Any Meat
               </td>
             </tr>
             <tr>
@@ -610,7 +610,7 @@ categories:
       </div>
       <br />
       <div id="recipe-vegetable-patty">
-        <h5 id="item-vegetable-patty">Vegetable Patty</h5>
+        <h3 id="item-vegetable-patty">Vegetable Patty</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -620,8 +620,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Job&#x27;s Tears Powder<span> / </span>Any Meat<span> / </span
-                >Any Meat<span> / </span>Any Lv.4 Crop<span> / </span>Any Lv.5
+                Job&#x27;s Tears Powder<span> + </span>Any Meat<span> + </span
+                >Any Meat<span> + </span>Any Lv.4 Crop<span> / </span>Any Lv.5
                 Crop<span> / </span>Any Lv.6 Crop
               </td>
             </tr>
@@ -634,7 +634,7 @@ categories:
       </div>
       <br />
       <div id="recipe-wonton-noodles">
-        <h5 id="item-wonton-noodles">Wonton Noodles</h5>
+        <h3 id="item-wonton-noodles">Wonton Noodles</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -644,8 +644,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Job&#x27;s Tears Powder<span> / </span>Job&#x27;s Tears
-                Powder<span> / </span
+                Job&#x27;s Tears Powder<span> + </span>Job&#x27;s Tears
+                Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -655,7 +655,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span>Any Lv.6 Crop<span> / </span>Any Meat
+                ><span> + </span>Any Lv.6 Crop<span> + </span>Any Meat
               </td>
             </tr>
             <tr>

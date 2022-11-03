@@ -77,7 +77,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Beast Hide</h2>
       <div id="recipe-hot-n-sour-jelly">
-        <h5 id="item-hot-n-sour-jelly">Hot &#x27;n Sour Jelly</h5>
+        <h3 id="item-hot-n-sour-jelly">Hot &#x27;n Sour Jelly</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -91,17 +91,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-fur.html"
                   >Spirit Fox Fur</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-fur.html"
                   >Spirit Fox Fur</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Spicy Powder<span> / </span
+                ><span> + </span>Spicy Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
@@ -118,7 +118,7 @@ categories:
       </div>
       <br />
       <div id="recipe-sparrow-beak">
-        <h5 id="item-sparrow-beak">Sparrow Beak</h5>
+        <h3 id="item-sparrow-beak">Sparrow Beak</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -132,17 +132,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/red-and-white-beak.html"
                   >Red And White Beak</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/red-and-white-beak.html"
                   >Red And White Beak</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Any Mixed Sauce<span> / </span>Any Blue Grade
+                ><span> + </span>Any Mixed Sauce<span> + </span>Any Blue Grade
                 Fish
               </td>
             </tr>
@@ -155,7 +155,7 @@ categories:
       </div>
       <br />
       <div id="recipe-hearty-meatball-soup">
-        <h5 id="item-hearty-meatball-soup">Hearty Meatball Soup</h5>
+        <h3 id="item-hearty-meatball-soup">Hearty Meatball Soup</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -169,17 +169,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/fine-jade-liquid.html"
                   >Fine Jade Liquid</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/fine-jade-liquid.html"
                   >Fine Jade Liquid</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Any Mixed Sauce<span> / </span>Any Blue Grade
+                ><span> + </span>Any Mixed Sauce<span> + </span>Any Blue Grade
                 Fish
               </td>
             </tr>
@@ -192,7 +192,7 @@ categories:
       </div>
       <br />
       <div id="recipe-soy-braised-dragon-bone">
-        <h5 id="item-soy-braised-dragon-bone">Soy Braised Dragon Bone</h5>
+        <h3 id="item-soy-braised-dragon-bone">Soy Braised Dragon Bone</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -206,17 +206,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ancient-bone.html"
                   >Ancient Bone</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ancient-bone.html"
                   >Ancient Bone</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Any Mixed Sauce<span> / </span
+                ><span> + </span>Any Mixed Sauce<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
@@ -233,7 +233,7 @@ categories:
       </div>
       <br />
       <div id="recipe-exotic-herbal-jelly">
-        <h5 id="item-exotic-herbal-jelly">Exotic Herbal Jelly</h5>
+        <h3 id="item-exotic-herbal-jelly">Exotic Herbal Jelly</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -247,17 +247,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/stoatle-shell.html"
                   >Stoatle Shell</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/stoatle-shell.html"
                   >Stoatle Shell</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Scallion Powder<span> / </span
+                ><span> + </span>Scallion Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
@@ -274,7 +274,7 @@ categories:
       </div>
       <br />
       <div id="recipe-tasty-wing-tip">
-        <h5 id="item-tasty-wing-tip">Tasty Wing Tip</h5>
+        <h3 id="item-tasty-wing-tip">Tasty Wing Tip</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -288,22 +288,22 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/nirvana-feather.html"
                   >Nirvana Feather</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/nirvana-feather.html"
                   >Nirvana Feather</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bird-wing.html"
                   >Bird Wing</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bird-wing.html"
@@ -330,7 +330,7 @@ categories:
       </div>
       <br />
       <div id="recipe-flame-roasted-horn">
-        <h5 id="item-flame-roasted-horn">Flame Roasted Horn</h5>
+        <h3 id="item-flame-roasted-horn">Flame Roasted Horn</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -344,18 +344,27 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/magnificent-horn.html"
                   >Magnificent Horn</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/magnificent-horn.html"
                   >Magnificent Horn</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Spicy Pepper Sauce<span> / </span>Garlic
-                Sauce<span> / </span
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/spicy-pepper-sauce.html"
+                  >Spicy Pepper Sauce</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/garlic-sauce.html"
+                  >Garlic Sauce</a
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
@@ -372,7 +381,7 @@ categories:
       </div>
       <br />
       <div id="recipe-overlord-hide-jelly">
-        <h5 id="item-overlord-hide-jelly">Overlord Hide Jelly</h5>
+        <h3 id="item-overlord-hide-jelly">Overlord Hide Jelly</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -386,17 +395,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/fortuphant-primal-spirit.html"
                   >Fortuphant Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/fortuphant-primal-spirit.html"
                   >Fortuphant Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -406,7 +415,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span>Corriander<span> / </span
+                ><span> + </span>Corriander<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/flat-cabbage.html"
@@ -428,7 +437,7 @@ categories:
       </div>
       <br />
       <div id="recipe-bear-ball-pot">
-        <h5 id="item-bear-ball-pot">Bear Ball Pot</h5>
+        <h3 id="item-bear-ball-pot">Bear Ball Pot</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -442,18 +451,27 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/grizzly-primal-spirit.html"
                   >Grizzly Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/grizzly-primal-spirit.html"
                   >Grizzly Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
-                Sauce<span> / </span>Fruit Sauce<span> / </span>Corriander<span>
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/red-hot-sauce.html"
+                  >Red Hot Sauce</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/cucumber-sauce.html"
+                  >Cucumber Sauce</a
+                ><span> / </span>Fruit Sauce<span> + </span>Corriander<span>
                   / </span
                 ><a
                   class="text-decoration-none"
@@ -476,7 +494,7 @@ categories:
       </div>
       <br />
       <div id="recipe-hotstone-icefox-meat">
-        <h5 id="item-hotstone-icefox-meat">Hotstone Icefox Meat</h5>
+        <h3 id="item-hotstone-icefox-meat">Hotstone Icefox Meat</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -490,17 +508,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                   >Spirit Fox Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                   >Spirit Fox Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-heart.html"
@@ -530,7 +548,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
-                ><span> / </span>Corriander Powder<span> / </span>Five Spice
+                ><span> + </span>Corriander Powder<span> / </span>Five Spice
                 Sauce
               </td>
             </tr>
@@ -543,7 +561,7 @@ categories:
       </div>
       <br />
       <div id="recipe-stir-fried-browtelope">
-        <h5 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h5>
+        <h3 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -557,18 +575,18 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bone-sheep-primal-spirit.html"
                   >Bone Sheep Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bone-sheep-primal-spirit.html"
                   >Bone Sheep Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Corriander Powder<span> / </span>Five Spice
-                Sauce<span> / </span>Corriander<span> / </span
+                ><span> + </span>Corriander Powder<span> / </span>Five Spice
+                Sauce<span> + </span>Corriander<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/flat-cabbage.html"
@@ -590,7 +608,7 @@ categories:
       </div>
       <br />
       <div id="recipe-flamebug-meat-claypot">
-        <h5 id="item-flamebug-meat-claypot">Flamebug Meat Claypot</h5>
+        <h3 id="item-flamebug-meat-claypot">Flamebug Meat Claypot</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -604,19 +622,27 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/flamebug-primal-spirit.html"
                   >Flamebug Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/flamebug-primal-spirit.html"
                   >Flamebug Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Any Meat<span> / </span>Red Hot Sauce<span>
-                  / </span
-                >Cucumber Sauce<span> / </span>Fruit Sauce
+                ><span> + </span>Any Meat<span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/red-hot-sauce.html"
+                  >Red Hot Sauce</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/cucumber-sauce.html"
+                  >Cucumber Sauce</a
+                ><span> / </span>Fruit Sauce
               </td>
             </tr>
             <tr>
@@ -628,9 +654,9 @@ categories:
       </div>
       <br />
       <div id="recipe-steamed-sweet-and-sour-icebug">
-        <h5 id="item-steamed-sweet-and-sour-icebug">
+        <h3 id="item-steamed-sweet-and-sour-icebug">
           Steamed Sweet &amp; Sour Icebug
-        </h5>
+        </h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -644,19 +670,27 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/icebug-primal-spirit.html"
                   >Icebug Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/icebug-primal-spirit.html"
                   >Icebug Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
-                Sauce<span> / </span>Fruit Sauce<span> / </span>Orange Grade
-                Fish
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/red-hot-sauce.html"
+                  >Red Hot Sauce</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/cucumber-sauce.html"
+                  >Cucumber Sauce</a
+                ><span> / </span>Fruit Sauce<span> + </span>Orange Grade Fish
               </td>
             </tr>
             <tr>

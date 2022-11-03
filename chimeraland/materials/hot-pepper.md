@@ -78,7 +78,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Hot Pepper</h2>
       <div id="recipe-poached-meat-fillets">
-        <h5 id="item-poached-meat-fillets">Poached Meat Fillets</h5>
+        <h3 id="item-poached-meat-fillets">Poached Meat Fillets</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -88,13 +88,13 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> / </span
+                Peanut Oil<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat<span>
-                  / </span
+                ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat<span>
+                  + </span
                 >Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any
                 Lv.6 Crop
               </td>
@@ -108,7 +108,7 @@ categories:
       </div>
       <br />
       <div id="recipe-red-hot-sauce">
-        <h5 id="item-red-hot-sauce">Red Hot Sauce</h5>
+        <h3 id="item-red-hot-sauce">Red Hot Sauce</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -122,12 +122,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
-                ><span> / </span>Any Wild Fruit
+                ><span> + </span>Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -139,7 +139,7 @@ categories:
       </div>
       <br />
       <div id="recipe-spicy-pepper-sauce">
-        <h5 id="item-spicy-pepper-sauce">Spicy Pepper Sauce</h5>
+        <h3 id="item-spicy-pepper-sauce">Spicy Pepper Sauce</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -153,7 +153,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> / </span>Any Wild Fruit
+                ><span> + </span>Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -165,7 +165,7 @@ categories:
       </div>
       <br />
       <div id="recipe-spicy-red-goodfruit-broth">
-        <h5 id="item-spicy-red-goodfruit-broth">Spicy Red Goodfruit Broth</h5>
+        <h3 id="item-spicy-red-goodfruit-broth">Spicy Red Goodfruit Broth</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -179,12 +179,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/red-goodfruit.html"
                   >Red Goodfruit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat
+                ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat
               </td>
             </tr>
             <tr>
@@ -196,7 +196,7 @@ categories:
       </div>
       <br />
       <div id="recipe-stinky-tofu">
-        <h5 id="item-stinky-tofu">Stinky Tofu</h5>
+        <h3 id="item-stinky-tofu">Stinky Tofu</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -210,12 +210,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
@@ -232,7 +232,7 @@ categories:
       </div>
       <br />
       <div id="recipe-wine-braised-vegetables">
-        <h5 id="item-wine-braised-vegetables">Wine-Braised Vegetables</h5>
+        <h3 id="item-wine-braised-vegetables">Wine-Braised Vegetables</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -242,11 +242,17 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Fruit &amp; Veggie Paste<span> / </span>Peanut Oil<span>
-                  / </span
-                >Fruit &amp; Veggie Paste<span> / </span>Any Lv.5 Crop<span>
-                  / </span
-                >Any Lv.6 Crop<span> / </span
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/fruit-and-veggie-paste.html"
+                  >Fruit &amp; Veggie Paste</a
+                ><span> + </span>Peanut Oil<span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/fruit-and-veggie-paste.html"
+                  >Fruit &amp; Veggie Paste</a
+                ><span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span>
+                  + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"

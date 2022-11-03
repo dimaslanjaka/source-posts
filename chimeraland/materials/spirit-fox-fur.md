@@ -74,7 +74,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Spirit Fox Fur</h2>
       <div id="recipe-hot-n-sour-jelly">
-        <h5 id="item-hot-n-sour-jelly">Hot &#x27;n Sour Jelly</h5>
+        <h3 id="item-hot-n-sour-jelly">Hot &#x27;n Sour Jelly</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -88,17 +88,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-fur.html"
                   >Spirit Fox Fur</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-fur.html"
                   >Spirit Fox Fur</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Spicy Powder<span> / </span
+                ><span> + </span>Spicy Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"

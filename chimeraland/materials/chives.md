@@ -61,7 +61,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Chives</h2>
       <div id="recipe-vegetable-dumplings">
-        <h5 id="item-vegetable-dumplings">Vegetable Dumplings</h5>
+        <h3 id="item-vegetable-dumplings">Vegetable Dumplings</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -75,8 +75,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chives.html"
                   >Chives</a
-                ><span> / </span>Job&#x27;s Tears Powder<span> / </span>Any
-                Meat<span> / </span>Any Lv.6 Crop<span> / </span>Any Meat
+                ><span> + </span>Job&#x27;s Tears Powder<span> + </span>Any
+                Meat<span> + </span>Any Lv.6 Crop<span> + </span>Any Meat
               </td>
             </tr>
             <tr>

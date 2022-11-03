@@ -67,7 +67,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Bosalo Meat</h2>
       <div id="recipe-garlic-steak">
-        <h5 id="item-garlic-steak">Garlic Steak</h5>
+        <h3 id="item-garlic-steak">Garlic Steak</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -77,8 +77,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> / </span>Job&#x27;s Tears Powder<span>
-                  / </span
+                Garlic Powder<span> + </span>Job&#x27;s Tears Powder<span>
+                  + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bosalo-meat.html"

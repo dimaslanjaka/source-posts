@@ -77,7 +77,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Spirit Fox Primal Spirit</h2>
       <div id="recipe-hotstone-icefox-meat">
-        <h5 id="item-hotstone-icefox-meat">Hotstone Icefox Meat</h5>
+        <h3 id="item-hotstone-icefox-meat">Hotstone Icefox Meat</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -91,17 +91,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                   >Spirit Fox Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                   >Spirit Fox Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-heart.html"
@@ -131,7 +131,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
-                ><span> / </span>Corriander Powder<span> / </span>Five Spice
+                ><span> + </span>Corriander Powder<span> / </span>Five Spice
                 Sauce
               </td>
             </tr>

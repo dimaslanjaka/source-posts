@@ -63,7 +63,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Scallion</h2>
       <div id="recipe-garlic-thighs">
-        <h5 id="item-garlic-thighs">Garlic Thighs</h5>
+        <h3 id="item-garlic-thighs">Garlic Thighs</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -77,7 +77,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/scallion.html"
                   >Scallion</a
-                ><span> / </span>Any Meat<span> / </span>Peanut Oil
+                ><span> + </span>Any Meat<span> + </span>Peanut Oil
               </td>
             </tr>
             <tr>
@@ -89,7 +89,7 @@ categories:
       </div>
       <br />
       <div id="recipe-scallion-meat-skewers">
-        <h5 id="item-scallion-meat-skewers">Scallion Meat Skewers</h5>
+        <h3 id="item-scallion-meat-skewers">Scallion Meat Skewers</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -98,7 +98,7 @@ categories:
             </tr>
             <tr>
               <th>Material</th>
-              <td>Scallion Powder<span> / </span>Any Meat</td>
+              <td>Scallion Powder<span> + </span>Any Meat</td>
             </tr>
             <tr>
               <th>Device</th>
@@ -109,7 +109,7 @@ categories:
       </div>
       <br />
       <div id="recipe-exotic-herbal-jelly">
-        <h5 id="item-exotic-herbal-jelly">Exotic Herbal Jelly</h5>
+        <h3 id="item-exotic-herbal-jelly">Exotic Herbal Jelly</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -123,17 +123,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/stoatle-shell.html"
                   >Stoatle Shell</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/stoatle-shell.html"
                   >Stoatle Shell</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Scallion Powder<span> / </span
+                ><span> + </span>Scallion Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"

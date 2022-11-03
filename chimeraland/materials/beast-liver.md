@@ -66,7 +66,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Beast Liver</h2>
       <div id="recipe-deep-fried-liver">
-        <h5 id="item-deep-fried-liver">Deep Fried Liver</h5>
+        <h3 id="item-deep-fried-liver">Deep Fried Liver</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -80,17 +80,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk of Fat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk of Fat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
@@ -107,7 +107,7 @@ categories:
       </div>
       <br />
       <div id="recipe-fried-liver">
-        <h5 id="item-fried-liver">Fried Liver</h5>
+        <h3 id="item-fried-liver">Fried Liver</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -121,7 +121,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
@@ -138,7 +138,7 @@ categories:
       </div>
       <br />
       <div id="recipe-fruity-meat-skewers">
-        <h5 id="item-fruity-meat-skewers">Fruity Meat Skewers</h5>
+        <h3 id="item-fruity-meat-skewers">Fruity Meat Skewers</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -148,7 +148,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Meat<span> / </span>Any Wild Fruit<span> / </span>Any
+                Any Meat<span> + </span>Any Wild Fruit<span> / </span>Any
                 Seasoning<span> / </span
                 ><a
                   class="text-decoration-none"
@@ -198,7 +198,7 @@ categories:
               <th>Material</th>
               <td>
                 Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span> / </span>Any
-                Lv.3 Crop<span> / </span>Any Lv.4 Crop<span> / </span>Any Meat
+                Lv.3 Crop<span> / </span>Any Lv.4 Crop<span> + </span>Any Meat
               </td>
             </tr>
             <tr>
@@ -210,7 +210,7 @@ categories:
       </div>
       <br />
       <div id="recipe-grilled-meat-cubes">
-        <h5 id="item-grilled-meat-cubes">Grilled Meat Cubes</h5>
+        <h3 id="item-grilled-meat-cubes">Grilled Meat Cubes</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -220,7 +220,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Meat<span> / </span>Any Meat<span> / </span>Any
+                Any Meat<span> + </span>Any Meat<span> / </span>Any
                 Seasoning<span> / </span>Any Spice<span> / </span
                 ><a
                   class="text-decoration-none"
@@ -263,7 +263,7 @@ categories:
       </div>
       <br />
       <div id="recipe-meat-and-vegetable">
-        <h5 id="item-meat-and-vegetable">Meat And Vegetable</h5>
+        <h3 id="item-meat-and-vegetable">Meat And Vegetable</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -273,7 +273,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Meat<span> / </span>Any Spice<span> / </span>Any Lv.3
+                Any Meat<span> + </span>Any Spice<span> + </span>Any Lv.3
                 Crop<span> / </span>Any Lv.4 Crop
               </td>
             </tr>
@@ -321,7 +321,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
-                ><span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
+                ><span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
               </td>
             </tr>
             <tr>
@@ -339,7 +339,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Curio<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
+                Any Curio<span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6
                 Crop
               </td>
             </tr>
@@ -358,7 +358,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Meat<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
+                Any Meat<span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6
                 Crop
               </td>
             </tr>
@@ -371,7 +371,7 @@ categories:
       </div>
       <br />
       <div id="recipe-stewed-liver">
-        <h5 id="item-stewed-liver">Stewed Liver</h5>
+        <h3 id="item-stewed-liver">Stewed Liver</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -422,7 +422,7 @@ categories:
       </div>
       <br />
       <div id="recipe-hotstone-icefox-meat">
-        <h5 id="item-hotstone-icefox-meat">Hotstone Icefox Meat</h5>
+        <h3 id="item-hotstone-icefox-meat">Hotstone Icefox Meat</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -436,17 +436,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                   >Spirit Fox Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                   >Spirit Fox Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-heart.html"
@@ -476,7 +476,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
-                ><span> / </span>Corriander Powder<span> / </span>Five Spice
+                ><span> + </span>Corriander Powder<span> / </span>Five Spice
                 Sauce
               </td>
             </tr>

@@ -75,10 +75,15 @@ categories:
           <div class="card-text">
             <ul>
               <li>
-                Egg White<span> + </span>Peanut Oil<span> + </span>Fruit &amp;
-                Veggie Paste<span> + </span>Any Lv.3 Crop<span> / </span>Any
-                Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
-                Crop<span> / </span>Any Flower<span> / </span>Any Mutant Flower
+                Egg White<span> + </span>Peanut Oil<span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/fruit-and-veggie-paste.html"
+                  >Fruit &amp; Veggie Paste</a
+                ><span> + </span>Any Lv.3 Crop<span> / </span>Any Lv.4 Crop<span>
+                  / </span
+                >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span> / </span>Any
+                Flower<span> / </span>Any Mutant Flower
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

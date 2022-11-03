@@ -61,7 +61,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Gourd</h2>
       <div id="recipe-gourd-braised-meat">
-        <h5 id="item-gourd-braised-meat">Gourd-Braised Meat</h5>
+        <h3 id="item-gourd-braised-meat">Gourd-Braised Meat</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -75,7 +75,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/gourd.html"
                   >Gourd</a
-                ><span> / </span>Any Meat<span> / </span>Any Seasoning<span>
+                ><span> + </span>Any Meat<span> + </span>Any Seasoning<span>
                   / </span
                 >Any Spice<span> / </span>Any Sweet Sauce<span> / </span>Any
                 Spicy Sauce
@@ -90,7 +90,7 @@ categories:
       </div>
       <br />
       <div id="recipe-peanut-gourd-soup">
-        <h5 id="item-peanut-gourd-soup">Peanut Gourd Soup</h5>
+        <h3 id="item-peanut-gourd-soup">Peanut Gourd Soup</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -104,12 +104,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/gourd.html"
                   >Gourd</a
-                ><span> / </span>Dew or Ice Piece<span> / </span>Any Lv.4
+                ><span> + </span>Dew or Ice Piece<span> + </span>Any Lv.4
                 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
                 Crop<span> / </span>Any Flower<span> / </span>Any Mutant Flower
               </td>
@@ -133,12 +133,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/gourd.html"
                   >Gourd</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -148,7 +148,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span>Cantaloupe<span> / </span>Mutant Flower<span>
+                ><span> + </span>Cantaloupe<span> / </span>Mutant Flower<span>
                   / </span
                 >Equonix Flower<span> / </span>Lv6 Vegetable
               </td>

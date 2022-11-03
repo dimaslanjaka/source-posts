@@ -73,7 +73,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Crab Claw Meat</h2>
       <div id="recipe-buddhas-temptation">
-        <h5 id="item-buddhas-temptation">Buddha&#x27;s Temptation</h5>
+        <h3 id="item-buddhas-temptation">Buddha&#x27;s Temptation</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -87,17 +87,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/hoof-sinew.html"
                   >Hoof Sinew</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
                   >Crab Claw Meat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bird-wing.html"
                   >Bird Wing</a
-                ><span> / </span>Coriander Powder<span> / </span>Any Mushroom
+                ><span> + </span>Coriander Powder<span> + </span>Any Mushroom
               </td>
             </tr>
             <tr>
@@ -109,7 +109,7 @@ categories:
       </div>
       <br />
       <div id="recipe-garlic-braised-meat">
-        <h5 id="item-garlic-braised-meat">Garlic Braised Meat</h5>
+        <h3 id="item-garlic-braised-meat">Garlic Braised Meat</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -123,12 +123,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wolfspider-meat.html"
                   >Wolfspider Meat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span>Garlic Powder
+                ><span> + </span>Garlic Powder
               </td>
             </tr>
             <tr>
@@ -146,12 +146,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> / </span
+                Garlic Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
@@ -174,12 +174,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> / </span
+                Garlic Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/scorab-meat.html"
@@ -202,12 +202,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> / </span
+                Garlic Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beetlefly-meat.html"
@@ -224,7 +224,7 @@ categories:
       </div>
       <br />
       <div id="recipe-grilled-crab-claws">
-        <h5 id="item-grilled-crab-claws">Grilled Crab Claws</h5>
+        <h3 id="item-grilled-crab-claws">Grilled Crab Claws</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -238,7 +238,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
                   >Crab Claw Meat</a
-                ><span> / </span>Any Seasoning<span> / </span>Any Spice<span>
+                ><span> + </span>Any Seasoning<span> / </span>Any Spice<span>
                   / </span
                 >Any High Quality Seasoning
               </td>
@@ -252,7 +252,7 @@ categories:
       </div>
       <br />
       <div id="recipe-herb-grilled-crab">
-        <h5 id="item-herb-grilled-crab">Herb Grilled Crab</h5>
+        <h3 id="item-herb-grilled-crab">Herb Grilled Crab</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -266,12 +266,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
                   >Crab Claw Meat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> / </span>Any Seasoning<span> / </span>Any Spice
+                ><span> + </span>Any Seasoning<span> / </span>Any Spice
               </td>
             </tr>
             <tr>
@@ -283,7 +283,7 @@ categories:
       </div>
       <br />
       <div id="recipe-seafood-rice">
-        <h5 id="item-seafood-rice">Seafood Rice</h5>
+        <h3 id="item-seafood-rice">Seafood Rice</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -297,17 +297,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/job&#x27;s-tears.html"
                   >Job&#x27;s Tears</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
                   >Crab Claw Meat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/job&#x27;s-tears.html"
                   >Job&#x27;s Tears</a
-                ><span> / </span>Any High Quality Seasoning<span> / </span>Any
+                ><span> + </span>Any High Quality Seasoning<span> + </span>Any
                 Lv.6 Crop
               </td>
             </tr>
@@ -320,7 +320,7 @@ categories:
       </div>
       <br />
       <div id="recipe-tasty-wing-tip">
-        <h5 id="item-tasty-wing-tip">Tasty Wing Tip</h5>
+        <h3 id="item-tasty-wing-tip">Tasty Wing Tip</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -334,22 +334,22 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/nirvana-feather.html"
                   >Nirvana Feather</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/nirvana-feather.html"
                   >Nirvana Feather</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bird-wing.html"
                   >Bird Wing</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bird-wing.html"

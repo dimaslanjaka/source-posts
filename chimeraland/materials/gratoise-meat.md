@@ -67,7 +67,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Gratoise Meat</h2>
       <div id="recipe-turtle-soup">
-        <h5 id="item-turtle-soup">Turtle Soup</h5>
+        <h3 id="item-turtle-soup">Turtle Soup</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -81,8 +81,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/gratoise-meat.html"
                   >Gratoise Meat</a
-                ><span> / </span>Dew or Ice Piece<span> / </span>Any
-                Seasoning<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6
+                ><span> + </span>Dew or Ice Piece<span> + </span>Any
+                Seasoning<span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6
                 Crop
               </td>
             </tr>
@@ -95,7 +95,7 @@ categories:
       </div>
       <br />
       <div id="recipe-ultimate-meat-dish">
-        <h5 id="item-ultimate-meat-dish">Ultimate Meat Dish</h5>
+        <h3 id="item-ultimate-meat-dish">Ultimate Meat Dish</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -109,7 +109,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/gratoise-meat.html"
                   >Gratoise Meat</a
-                ><span> / </span>Any Meat<span> / </span>Any Lv.4 Crop<span>
+                ><span> + </span>Any Meat<span> + </span>Any Lv.4 Crop<span>
                   / </span
                 >Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
               </td>

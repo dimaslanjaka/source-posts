@@ -63,9 +63,9 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Pumpkin</h2>
       <div id="recipe-chargrilled-pumpkin-and-iguana">
-        <h5 id="item-chargrilled-pumpkin-and-iguana">
+        <h3 id="item-chargrilled-pumpkin-and-iguana">
           Chargrilled Pumpkin And Iguana
-        </h5>
+        </h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -75,17 +75,17 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> / </span
+                Peanut Oil<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/grouguana-meat.html"
                   >Grouguana Meat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/pumpkin.html"
                   >Pumpkin</a
-                ><span> / </span>Any Flower<span> / </span>Any Mutant Flower
+                ><span> + </span>Any Flower<span> / </span>Any Mutant Flower
               </td>
             </tr>
             <tr>
@@ -97,7 +97,7 @@ categories:
       </div>
       <br />
       <div id="recipe-pumpkin-bowl">
-        <h5 id="item-pumpkin-bowl">Pumpkin Bowl</h5>
+        <h3 id="item-pumpkin-bowl">Pumpkin Bowl</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -111,9 +111,9 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/pumpkin.html"
                   >Pumpkin</a
-                ><span> / </span>Any Lv.6 Crop<span> / </span>Any Meat<span>
-                  / </span
-                >Any Meat<span> / </span>Any Lv.3 Crop<span> / </span>Any Lv.4
+                ><span> + </span>Any Lv.6 Crop<span> + </span>Any Meat<span>
+                  + </span
+                >Any Meat<span> + </span>Any Lv.3 Crop<span> / </span>Any Lv.4
                 Crop<span> / </span>Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
               </td>
             </tr>

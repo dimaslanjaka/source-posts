@@ -74,7 +74,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Wild Garlic</h2>
       <div id="recipe-garlic-braised-meat">
-        <h5 id="item-garlic-braised-meat">Garlic Braised Meat</h5>
+        <h3 id="item-garlic-braised-meat">Garlic Braised Meat</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -88,12 +88,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wolfspider-meat.html"
                   >Wolfspider Meat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span>Garlic Powder
+                ><span> + </span>Garlic Powder
               </td>
             </tr>
             <tr>
@@ -111,12 +111,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> / </span
+                Garlic Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/crab-claw-meat.html"
@@ -139,12 +139,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> / </span
+                Garlic Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/scorab-meat.html"
@@ -167,12 +167,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Garlic Powder<span> / </span
+                Garlic Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beetlefly-meat.html"
@@ -189,7 +189,7 @@ categories:
       </div>
       <br />
       <div id="recipe-garlic-sauce">
-        <h5 id="item-garlic-sauce">Garlic Sauce</h5>
+        <h3 id="item-garlic-sauce">Garlic Sauce</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -203,7 +203,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span>Any Wild Fruit
+                ><span> + </span>Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -215,7 +215,7 @@ categories:
       </div>
       <br />
       <div id="recipe-refreshing-pill">
-        <h5 id="item-refreshing-pill">Refreshing Pill</h5>
+        <h3 id="item-refreshing-pill">Refreshing Pill</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -229,7 +229,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span>Fruit &amp; Veggie Paste
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/fruit-and-veggie-paste.html"
+                  >Fruit &amp; Veggie Paste</a
+                >
               </td>
             </tr>
             <tr>
@@ -251,7 +256,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span>Veggie Paste
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/veggie-paste.html"
+                  >Veggie Paste</a
+                >
               </td>
             </tr>
             <tr>
@@ -263,7 +273,7 @@ categories:
       </div>
       <br />
       <div id="recipe-refreshing-soup">
-        <h5 id="item-refreshing-soup">Refreshing Soup</h5>
+        <h3 id="item-refreshing-soup">Refreshing Soup</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -277,7 +287,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat
+                ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat
               </td>
             </tr>
             <tr>
@@ -289,9 +299,9 @@ categories:
       </div>
       <br />
       <div id="recipe-seasonal-vegetables-fried-with-garlic">
-        <h5 id="item-seasonal-vegetables-fried-with-garlic">
+        <h3 id="item-seasonal-vegetables-fried-with-garlic">
           Seasonal Vegetables Fried With Garlic
-        </h5>
+        </h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -305,7 +315,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
-                ><span> / </span>Garlic Powder<span> / </span>Any Lv.2, Lv.3 and
+                ><span> + </span>Garlic Powder<span> + </span>Any Lv.2, Lv.3 and
                 Lv.4 Crop
               </td>
             </tr>

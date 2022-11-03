@@ -76,7 +76,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Fortuphant Primal Spirit</h2>
       <div id="recipe-overlord-hide-jelly">
-        <h5 id="item-overlord-hide-jelly">Overlord Hide Jelly</h5>
+        <h3 id="item-overlord-hide-jelly">Overlord Hide Jelly</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -90,17 +90,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/fortuphant-primal-spirit.html"
                   >Fortuphant Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/fortuphant-primal-spirit.html"
                   >Fortuphant Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -110,7 +110,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span>Corriander<span> / </span
+                ><span> + </span>Corriander<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/flat-cabbage.html"

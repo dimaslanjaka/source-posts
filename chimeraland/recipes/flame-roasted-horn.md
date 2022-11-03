@@ -86,8 +86,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> + </span>Spicy Pepper Sauce<span> / </span>Garlic
-                Sauce<span> + </span
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/spicy-pepper-sauce.html"
+                  >Spicy Pepper Sauce</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/garlic-sauce.html"
+                  >Garlic Sauce</a
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/lemon-tree-leaf.html"

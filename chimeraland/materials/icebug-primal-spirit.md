@@ -82,9 +82,9 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Icebug Primal Spirit</h2>
       <div id="recipe-steamed-sweet-and-sour-icebug">
-        <h5 id="item-steamed-sweet-and-sour-icebug">
+        <h3 id="item-steamed-sweet-and-sour-icebug">
           Steamed Sweet &amp; Sour Icebug
-        </h5>
+        </h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -98,19 +98,27 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/icebug-primal-spirit.html"
                   >Icebug Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/icebug-primal-spirit.html"
                   >Icebug Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
-                Sauce<span> / </span>Fruit Sauce<span> / </span>Orange Grade
-                Fish
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/red-hot-sauce.html"
+                  >Red Hot Sauce</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/cucumber-sauce.html"
+                  >Cucumber Sauce</a
+                ><span> / </span>Fruit Sauce<span> + </span>Orange Grade Fish
               </td>
             </tr>
             <tr>

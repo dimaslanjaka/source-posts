@@ -79,8 +79,12 @@ categories:
           <div class="card-text">
             <ul>
               <li>
-                Egg White<span> + </span>Peanut Oil<span> + </span>Veggie
-                Paste<span> + </span>Equinox Flower
+                Egg White<span> + </span>Peanut Oil<span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/veggie-paste.html"
+                  >Veggie Paste</a
+                ><span> + </span>Equinox Flower
               </li>
               <li>Device: Stove or Camp</li>
             </ul>

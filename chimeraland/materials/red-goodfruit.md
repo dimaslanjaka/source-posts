@@ -78,7 +78,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Red Goodfruit</h2>
       <div id="recipe-goodfruit-sauce">
-        <h5 id="item-goodfruit-sauce">Goodfruit Sauce</h5>
+        <h3 id="item-goodfruit-sauce">Goodfruit Sauce</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -92,7 +92,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/red-goodfruit.html"
                   >Red Goodfruit</a
-                ><span> / </span>Any Wild Fruit
+                ><span> + </span>Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -104,7 +104,7 @@ categories:
       </div>
       <br />
       <div id="recipe-goodfruit-slushie">
-        <h5 id="item-goodfruit-slushie">Goodfruit Slushie</h5>
+        <h3 id="item-goodfruit-slushie">Goodfruit Slushie</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -118,7 +118,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/red-goodfruit.html"
@@ -135,7 +135,7 @@ categories:
       </div>
       <br />
       <div id="recipe-spicy-red-goodfruit-broth">
-        <h5 id="item-spicy-red-goodfruit-broth">Spicy Red Goodfruit Broth</h5>
+        <h3 id="item-spicy-red-goodfruit-broth">Spicy Red Goodfruit Broth</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -149,12 +149,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/red-goodfruit.html"
                   >Red Goodfruit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> / </span>Dew or Ice Piece<span> / </span>Any Meat
+                ><span> + </span>Dew or Ice Piece<span> + </span>Any Meat
               </td>
             </tr>
             <tr>
@@ -166,7 +166,7 @@ categories:
       </div>
       <br />
       <div id="recipe-spicy-red-goodfruit-soup">
-        <h5 id="item-spicy-red-goodfruit-soup">Spicy Red Goodfruit Soup</h5>
+        <h3 id="item-spicy-red-goodfruit-soup">Spicy Red Goodfruit Soup</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -180,7 +180,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/red-goodfruit.html"
                   >Red Goodfruit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"

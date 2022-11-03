@@ -66,7 +66,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Flat Cabbage</h2>
       <div id="recipe-overlord-hide-jelly">
-        <h5 id="item-overlord-hide-jelly">Overlord Hide Jelly</h5>
+        <h3 id="item-overlord-hide-jelly">Overlord Hide Jelly</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -80,17 +80,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/fortuphant-primal-spirit.html"
                   >Fortuphant Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/fortuphant-primal-spirit.html"
                   >Fortuphant Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -100,7 +100,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span>Corriander<span> / </span
+                ><span> + </span>Corriander<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/flat-cabbage.html"
@@ -122,7 +122,7 @@ categories:
       </div>
       <br />
       <div id="recipe-bear-ball-pot">
-        <h5 id="item-bear-ball-pot">Bear Ball Pot</h5>
+        <h3 id="item-bear-ball-pot">Bear Ball Pot</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -136,18 +136,27 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/grizzly-primal-spirit.html"
                   >Grizzly Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/grizzly-primal-spirit.html"
                   >Grizzly Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
-                Sauce<span> / </span>Fruit Sauce<span> / </span>Corriander<span>
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/red-hot-sauce.html"
+                  >Red Hot Sauce</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/cucumber-sauce.html"
+                  >Cucumber Sauce</a
+                ><span> / </span>Fruit Sauce<span> + </span>Corriander<span>
                   / </span
                 ><a
                   class="text-decoration-none"
@@ -170,7 +179,7 @@ categories:
       </div>
       <br />
       <div id="recipe-stir-fried-browtelope">
-        <h5 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h5>
+        <h3 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -184,18 +193,18 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bone-sheep-primal-spirit.html"
                   >Bone Sheep Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/bone-sheep-primal-spirit.html"
                   >Bone Sheep Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Corriander Powder<span> / </span>Five Spice
-                Sauce<span> / </span>Corriander<span> / </span
+                ><span> + </span>Corriander Powder<span> / </span>Five Spice
+                Sauce<span> + </span>Corriander<span> / </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/flat-cabbage.html"

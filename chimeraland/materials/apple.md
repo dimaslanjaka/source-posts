@@ -72,7 +72,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Apple</h2>
       <div id="recipe-apple-sauce">
-        <h5 id="item-apple-sauce">Apple Sauce</h5>
+        <h3 id="item-apple-sauce">Apple Sauce</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -86,7 +86,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
-                ><span> / </span>Any Wild Fruit
+                ><span> + </span>Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -120,7 +120,7 @@ categories:
       </div>
       <br />
       <div id="recipe-apple-slushie">
-        <h5 id="item-apple-slushie">Apple Slushie</h5>
+        <h3 id="item-apple-slushie">Apple Slushie</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -134,7 +134,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
@@ -151,7 +151,7 @@ categories:
       </div>
       <br />
       <div id="recipe-red-hot-sauce">
-        <h5 id="item-red-hot-sauce">Red Hot Sauce</h5>
+        <h3 id="item-red-hot-sauce">Red Hot Sauce</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -165,12 +165,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
-                ><span> / </span>Any Wild Fruit
+                ><span> + </span>Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -182,7 +182,7 @@ categories:
       </div>
       <br />
       <div id="recipe-steamed-paw">
-        <h5 id="item-steamed-paw">Steamed Paw</h5>
+        <h3 id="item-steamed-paw">Steamed Paw</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -196,13 +196,13 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bear-paw.html"
                   >Bear Paw</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> / </span>Five Spice Powder<span> / </span>Any Wild
-                Fruit<span> / </span
+                ><span> + </span>Five Spice Powder<span> + </span>Any Wild
+                Fruit<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -234,17 +234,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/bear-paw.html"
                   >Bear Paw</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
-                ><span> / </span>Five Spice Powder<span> / </span
+                ><span> + </span>Five Spice Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
@@ -266,7 +266,7 @@ categories:
       </div>
       <br />
       <div id="recipe-sweet-vinegar-fish">
-        <h5 id="item-sweet-vinegar-fish">Sweet Vinegar Fish</h5>
+        <h3 id="item-sweet-vinegar-fish">Sweet Vinegar Fish</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -276,8 +276,8 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> / </span>Job&#x27;s Tears Powder<span> / </span
-                >Any Wild Fruit<span> / </span>Purple grade fish<span> / </span
+                Peanut Oil<span> + </span>Job&#x27;s Tears Powder<span> + </span
+                >Any Wild Fruit<span> + </span>Purple grade fish<span> / </span
                 >Orange grade fish<span> / </span>Red grade fish
               </td>
             </tr>
@@ -296,12 +296,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> / </span>Job&#x27;s Tear Powder<span> / </span
+                Peanut Oil<span> + </span>Job&#x27;s Tear Powder<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
-                ><span> / </span>Any Purple Fish
+                ><span> + </span>Any Purple Fish
               </td>
             </tr>
             <tr>
@@ -313,7 +313,7 @@ categories:
       </div>
       <br />
       <div id="recipe-veggie-paste">
-        <h5 id="item-veggie-paste">Veggie Paste</h5>
+        <h3 id="item-veggie-paste">Veggie Paste</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -339,7 +339,7 @@ categories:
       </div>
       <br />
       <div id="recipe-sea-buckthorn-mixed-juice">
-        <h5 id="item-sea-buckthorn-mixed-juice">Sea-Buckthorn Mixed Juice</h5>
+        <h3 id="item-sea-buckthorn-mixed-juice">Sea-Buckthorn Mixed Juice</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -353,7 +353,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/sea-buckthorn.html"
                   >Sea-Buckthorn</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/apple.html"

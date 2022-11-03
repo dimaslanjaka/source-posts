@@ -67,7 +67,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Vulture Meat</h2>
       <div id="recipe-honey-grilled-chicken">
-        <h5 id="item-honey-grilled-chicken">Honey Grilled Chicken</h5>
+        <h3 id="item-honey-grilled-chicken">Honey Grilled Chicken</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -81,12 +81,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/condor-meat.html"
                   >Condor Meat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/condor-meat.html"
                   >Condor Meat</a
-                ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
+                ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
               </td>
             </tr>
             <tr>
@@ -108,12 +108,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/vulture-meat.html"
                   >Vulture Meat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/vulture-meat.html"
                   >Vulture Meat</a
-                ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
+                ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
               </td>
             </tr>
             <tr>
@@ -135,12 +135,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
-                ><span> / </span>Any Sweet Sauce<span> / </span>Peanut Oil
+                ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
               </td>
             </tr>
             <tr>

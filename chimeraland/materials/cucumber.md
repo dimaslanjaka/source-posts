@@ -63,7 +63,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Cucumber</h2>
       <div id="recipe-cucumber-sauce">
-        <h5 id="item-cucumber-sauce">Cucumber Sauce</h5>
+        <h3 id="item-cucumber-sauce">Cucumber Sauce</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -77,12 +77,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/cucumber.html"
                   >Cucumber</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/job&#x27;s-tears.html"
                   >Job&#x27;s Tears</a
-                ><span> / </span>Any Wild Fruit
+                ><span> + </span>Any Wild Fruit
               </td>
             </tr>
             <tr>
@@ -94,7 +94,7 @@ categories:
       </div>
       <br />
       <div id="recipe-bear-ball-pot">
-        <h5 id="item-bear-ball-pot">Bear Ball Pot</h5>
+        <h3 id="item-bear-ball-pot">Bear Ball Pot</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -108,18 +108,27 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/grizzly-primal-spirit.html"
                   >Grizzly Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/grizzly-primal-spirit.html"
                   >Grizzly Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
-                Sauce<span> / </span>Fruit Sauce<span> / </span>Corriander<span>
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/red-hot-sauce.html"
+                  >Red Hot Sauce</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/cucumber-sauce.html"
+                  >Cucumber Sauce</a
+                ><span> / </span>Fruit Sauce<span> + </span>Corriander<span>
                   / </span
                 ><a
                   class="text-decoration-none"
@@ -142,7 +151,7 @@ categories:
       </div>
       <br />
       <div id="recipe-flamebug-meat-claypot">
-        <h5 id="item-flamebug-meat-claypot">Flamebug Meat Claypot</h5>
+        <h3 id="item-flamebug-meat-claypot">Flamebug Meat Claypot</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -156,19 +165,27 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/flamebug-primal-spirit.html"
                   >Flamebug Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/flamebug-primal-spirit.html"
                   >Flamebug Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Any Meat<span> / </span>Red Hot Sauce<span>
-                  / </span
-                >Cucumber Sauce<span> / </span>Fruit Sauce
+                ><span> + </span>Any Meat<span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/red-hot-sauce.html"
+                  >Red Hot Sauce</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/cucumber-sauce.html"
+                  >Cucumber Sauce</a
+                ><span> / </span>Fruit Sauce
               </td>
             </tr>
             <tr>
@@ -180,9 +197,9 @@ categories:
       </div>
       <br />
       <div id="recipe-steamed-sweet-and-sour-icebug">
-        <h5 id="item-steamed-sweet-and-sour-icebug">
+        <h3 id="item-steamed-sweet-and-sour-icebug">
           Steamed Sweet &amp; Sour Icebug
-        </h5>
+        </h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -196,19 +213,27 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/icebug-primal-spirit.html"
                   >Icebug Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/icebug-primal-spirit.html"
                   >Icebug Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Red Hot Sauce<span> / </span>Cucumber
-                Sauce<span> / </span>Fruit Sauce<span> / </span>Orange Grade
-                Fish
+                ><span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/red-hot-sauce.html"
+                  >Red Hot Sauce</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/cucumber-sauce.html"
+                  >Cucumber Sauce</a
+                ><span> / </span>Fruit Sauce<span> + </span>Orange Grade Fish
               </td>
             </tr>
             <tr>

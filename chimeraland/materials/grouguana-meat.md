@@ -67,9 +67,9 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Grouguana Meat</h2>
       <div id="recipe-chargrilled-pumpkin-and-iguana">
-        <h5 id="item-chargrilled-pumpkin-and-iguana">
+        <h3 id="item-chargrilled-pumpkin-and-iguana">
           Chargrilled Pumpkin And Iguana
-        </h5>
+        </h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -79,17 +79,17 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Peanut Oil<span> / </span
+                Peanut Oil<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/grouguana-meat.html"
                   >Grouguana Meat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/pumpkin.html"
                   >Pumpkin</a
-                ><span> / </span>Any Flower<span> / </span>Any Mutant Flower
+                ><span> + </span>Any Flower<span> / </span>Any Mutant Flower
               </td>
             </tr>
             <tr>

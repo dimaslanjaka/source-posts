@@ -82,7 +82,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Flamebug Primal Spirit</h2>
       <div id="recipe-flamebug-meat-claypot">
-        <h5 id="item-flamebug-meat-claypot">Flamebug Meat Claypot</h5>
+        <h3 id="item-flamebug-meat-claypot">Flamebug Meat Claypot</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -96,19 +96,27 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/flamebug-primal-spirit.html"
                   >Flamebug Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/flamebug-primal-spirit.html"
                   >Flamebug Primal Spirit</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
-                ><span> / </span>Any Meat<span> / </span>Red Hot Sauce<span>
-                  / </span
-                >Cucumber Sauce<span> / </span>Fruit Sauce
+                ><span> + </span>Any Meat<span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/red-hot-sauce.html"
+                  >Red Hot Sauce</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/cucumber-sauce.html"
+                  >Cucumber Sauce</a
+                ><span> / </span>Fruit Sauce
               </td>
             </tr>
             <tr>

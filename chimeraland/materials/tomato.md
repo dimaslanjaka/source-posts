@@ -61,7 +61,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Tomato</h2>
       <div id="recipe-red-cabbage-soup">
-        <h5 id="item-red-cabbage-soup">Red Cabbage Soup</h5>
+        <h3 id="item-red-cabbage-soup">Red Cabbage Soup</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -75,7 +75,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/tomato.html"
                   >Tomato</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -85,8 +85,8 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span>Any Lv.6 Crop<span> / </span>Any Mixed
-                Sauce<span> / </span
+                ><span> + </span>Any Lv.6 Crop<span> + </span>Any Mixed
+                Sauce<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -108,9 +108,9 @@ categories:
       </div>
       <br />
       <div id="recipe-stir-fried-tomato-with-eggs">
-        <h5 id="item-stir-fried-tomato-with-eggs">
+        <h3 id="item-stir-fried-tomato-with-eggs">
           Stir-Fried Tomato With Eggs
-        </h5>
+        </h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -120,12 +120,12 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Egg White<span> / </span
+                Egg White<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/tomato.html"
                   >Tomato</a
-                ><span> / </span>Any Lv.3 Crop<span> / </span>Any Lv.4 Crop
+                ><span> + </span>Any Lv.3 Crop<span> / </span>Any Lv.4 Crop
               </td>
             </tr>
             <tr>

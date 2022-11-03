@@ -66,7 +66,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Chunk of Fat</h2>
       <div id="recipe-deep-fried-liver">
-        <h5 id="item-deep-fried-liver">Deep Fried Liver</h5>
+        <h3 id="item-deep-fried-liver">Deep Fried Liver</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -80,17 +80,17 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk of Fat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk of Fat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/beast-liver.html"
@@ -107,7 +107,7 @@ categories:
       </div>
       <br />
       <div id="recipe-hot-oil">
-        <h5 id="item-hot-oil">Hot Oil</h5>
+        <h3 id="item-hot-oil">Hot Oil</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -116,7 +116,7 @@ categories:
             </tr>
             <tr>
               <th>Material</th>
-              <td>Peanut Oil<span> / </span>Peanut Oil</td>
+              <td>Peanut Oil<span> + </span>Peanut Oil</td>
             </tr>
             <tr>
               <th>Device</th>
@@ -137,7 +137,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk of Fat</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/chunk-of-fat.html"

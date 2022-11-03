@@ -70,7 +70,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Insect Ichor</h2>
       <div id="recipe-braised-meat-cubes">
-        <h5 id="item-braised-meat-cubes">Braised Meat Cubes</h5>
+        <h3 id="item-braised-meat-cubes">Braised Meat Cubes</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -80,7 +80,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Meat<span> / </span
+                Any Meat<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -102,7 +102,7 @@ categories:
       </div>
       <br />
       <div id="recipe-dark-cuisine">
-        <h5 id="item-dark-cuisine">Dark Cuisine</h5>
+        <h3 id="item-dark-cuisine">Dark Cuisine</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -116,7 +116,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -148,7 +148,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> / </span>Any Fish
+                ><span> + </span>Any Fish
               </td>
             </tr>
             <tr>
@@ -170,7 +170,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> / </span>Any Grade Crop
+                ><span> + </span>Any Grade Crop
               </td>
             </tr>
             <tr>
@@ -192,7 +192,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
-                ><span> / </span>Any High Quality Seasoning<span> / </span>Any
+                ><span> + </span>Any High Quality Seasoning<span> / </span>Any
                 Flower<span> / </span>Any Mutant Flower<span> / </span>Any Curio
               </td>
             </tr>
@@ -243,7 +243,7 @@ categories:
       </div>
       <br />
       <div id="recipe-hot-water">
-        <h5 id="item-hot-water">Hot Water</h5>
+        <h3 id="item-hot-water">Hot Water</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -262,7 +262,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -290,7 +290,7 @@ categories:
       </div>
       <br />
       <div id="recipe-large-fruit-stew">
-        <h5 id="item-large-fruit-stew">Large Fruit Stew</h5>
+        <h3 id="item-large-fruit-stew">Large Fruit Stew</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -300,7 +300,7 @@ categories:
             <tr>
               <th>Material</th>
               <td>
-                Any Wild Fruit<span> / </span
+                Any Wild Fruit<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"
@@ -342,7 +342,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span>Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span>
+                ><span> + </span>Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span>
                   / </span
                 >Any Lv.3 Crop<span> / </span>Any Lv.4 Crop
               </td>
@@ -371,7 +371,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span>Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span>
+                ><span> + </span>Any Lv.1 Crop<span> / </span>Any Lv.2 Crop<span>
                   / </span
                 >Any Lv.3 Crop<span> / </span>Any Lv.4 Crop<span> / </span>Any
                 Mutant Flower<span> / </span>Any Flower
@@ -386,7 +386,7 @@ categories:
       </div>
       <br />
       <div id="recipe-wormy-soup">
-        <h5 id="item-wormy-soup">Wormy Soup</h5>
+        <h3 id="item-wormy-soup">Wormy Soup</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -400,7 +400,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/insect-ichor.html"
                   >Insect Ichor</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/dew.html"

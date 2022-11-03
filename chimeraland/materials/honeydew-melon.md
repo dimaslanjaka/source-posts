@@ -66,7 +66,7 @@ categories:
     <div class="col-12 mb-2">
       <h2 id="cookable">Cooking Recipes Using Honeydew Melon</h2>
       <div id="recipe-honeydew-melon-slushie">
-        <h5 id="item-honeydew-melon-slushie">Honeydew Melon Slushie</h5>
+        <h3 id="item-honeydew-melon-slushie">Honeydew Melon Slushie</h3>
         <div class="mb-2">
           <table class="table">
             <tr>
@@ -80,12 +80,12 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/honeydew-melon.html"
                   >Honeydew Melon</a
-                ><span> / </span
+                ><span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/ice-piece.html"

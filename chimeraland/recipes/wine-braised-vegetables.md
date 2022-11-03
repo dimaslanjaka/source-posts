@@ -81,11 +81,17 @@ categories:
           <div class="card-text">
             <ul>
               <li>
-                Fruit &amp; Veggie Paste<span> + </span>Peanut Oil<span>
+                <a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/fruit-and-veggie-paste.html"
+                  >Fruit &amp; Veggie Paste</a
+                ><span> + </span>Peanut Oil<span> + </span
+                ><a
+                  class="text-decoration-none"
+                  href="/chimeraland/recipes/fruit-and-veggie-paste.html"
+                  >Fruit &amp; Veggie Paste</a
+                ><span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span>
                   + </span
-                >Fruit &amp; Veggie Paste<span> + </span>Any Lv.5 Crop<span>
-                  / </span
-                >Any Lv.6 Crop<span> + </span
                 ><a
                   class="text-decoration-none"
                   href="/chimeraland/materials/hot-pepper.html"
