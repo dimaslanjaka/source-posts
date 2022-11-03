@@ -62,7 +62,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Gourd</h2>
       <div id="recipe-gourd-braised-meat">
         <h5 id="item-gourd-braised-meat">Gourd-Braised Meat</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Gourd-Braised Meat 1</h2>
@@ -88,7 +88,7 @@ categories:
       <br />
       <div id="recipe-peanut-gourd-soup">
         <h5 id="item-peanut-gourd-soup">Peanut Gourd Soup</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Peanut Gourd Soup 1</h2>
@@ -115,7 +115,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Peanut Gourd Soup 2</h2>

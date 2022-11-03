@@ -74,7 +74,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Crab Claw Meat</h2>
       <div id="recipe-buddhas-temptation">
         <h5 id="item-buddhas-temptation">Buddha&#x27;s Temptation</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Buddha&#x27;s Temptation 1</h2>
@@ -108,7 +108,7 @@ categories:
       <br />
       <div id="recipe-garlic-braised-meat">
         <h5 id="item-garlic-braised-meat">Garlic Braised Meat</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Garlic Braised Meat 1</h2>
@@ -132,7 +132,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Garlic Braised Meat 2</h2>
@@ -157,7 +157,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Garlic Braised Meat 3</h2>
@@ -182,7 +182,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Garlic Braised Meat 4</h2>
@@ -211,7 +211,7 @@ categories:
       <br />
       <div id="recipe-grilled-crab-claws">
         <h5 id="item-grilled-crab-claws">Grilled Crab Claws</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Grilled Crab Claws 1</h2>
@@ -236,7 +236,7 @@ categories:
       <br />
       <div id="recipe-herb-grilled-crab">
         <h5 id="item-herb-grilled-crab">Herb Grilled Crab</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Herb Grilled Crab 1</h2>
@@ -264,7 +264,7 @@ categories:
       <br />
       <div id="recipe-seafood-rice">
         <h5 id="item-seafood-rice">Seafood Rice</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Seafood Rice 1</h2>
@@ -298,7 +298,7 @@ categories:
       <br />
       <div id="recipe-tasty-wing-tip">
         <h5 id="item-tasty-wing-tip">Tasty Wing Tip</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Tasty Wing Tip 1</h2>

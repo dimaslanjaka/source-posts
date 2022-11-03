@@ -78,7 +78,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Spirit Fox Primal Spirit</h2>
       <div id="recipe-hotstone-icefox-meat">
         <h5 id="item-hotstone-icefox-meat">Hotstone Icefox Meat</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Hotstone Icefox Meat 1</h2>

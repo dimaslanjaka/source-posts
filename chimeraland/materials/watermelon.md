@@ -67,7 +67,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Watermelon</h2>
       <div id="recipe-beggars-chicken">
         <h5 id="item-beggars-chicken">Beggar&#x27;s Chicken</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Beggar&#x27;s Chicken 1</h2>
@@ -95,7 +95,7 @@ categories:
       <br />
       <div id="recipe-eggs-with-gourd">
         <h5 id="item-eggs-with-gourd">Eggs With Gourd</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Eggs With Gourd 1</h2>
@@ -118,7 +118,7 @@ categories:
       <br />
       <div id="recipe-watermelon-slushie">
         <h5 id="item-watermelon-slushie">Watermelon Slushie</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Watermelon Slushie 1</h2>
@@ -142,7 +142,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Watermelon Slushie 2</h2>
@@ -170,7 +170,7 @@ categories:
       <br />
       <div id="recipe-overlord-hide-jelly">
         <h5 id="item-overlord-hide-jelly">Overlord Hide Jelly</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Overlord Hide Jelly 1</h2>
@@ -223,7 +223,7 @@ categories:
       <br />
       <div id="recipe-bear-ball-pot">
         <h5 id="item-bear-ball-pot">Bear Ball Pot</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Bear Ball Pot 1</h2>
@@ -268,7 +268,7 @@ categories:
       <br />
       <div id="recipe-stir-fried-browtelope">
         <h5 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Stir-Fried Browtelope 1</h2>

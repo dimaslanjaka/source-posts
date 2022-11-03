@@ -77,7 +77,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Bone Sheep Primal Spirit</h2>
       <div id="recipe-stir-fried-browtelope">
         <h5 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Stir-Fried Browtelope 1</h2>

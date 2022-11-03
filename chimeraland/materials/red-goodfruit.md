@@ -79,7 +79,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Red Goodfruit</h2>
       <div id="recipe-goodfruit-sauce">
         <h5 id="item-goodfruit-sauce">Goodfruit Sauce</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Goodfruit Sauce 1</h2>
@@ -102,7 +102,7 @@ categories:
       <br />
       <div id="recipe-goodfruit-slushie">
         <h5 id="item-goodfruit-slushie">Goodfruit Slushie</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Goodfruit Slushie 1</h2>
@@ -130,7 +130,7 @@ categories:
       <br />
       <div id="recipe-spicy-red-goodfruit-broth">
         <h5 id="item-spicy-red-goodfruit-broth">Spicy Red Goodfruit Broth</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">
@@ -160,7 +160,7 @@ categories:
       <br />
       <div id="recipe-spicy-red-goodfruit-soup">
         <h5 id="item-spicy-red-goodfruit-soup">Spicy Red Goodfruit Soup</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Spicy Red Goodfruit Soup 1</h2>

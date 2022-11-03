@@ -75,7 +75,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Job&#x27;s Tears</h2>
       <div id="recipe-cucumber-sauce">
         <h5 id="item-cucumber-sauce">Cucumber Sauce</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Cucumber Sauce 1</h2>
@@ -103,7 +103,7 @@ categories:
       <br />
       <div id="recipe-flower-pancake">
         <h5 id="item-flower-pancake">Flower Pancake</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Flower Pancake 1</h2>
@@ -124,7 +124,7 @@ categories:
       <br />
       <div id="recipe-fragrant-steamed-buns">
         <h5 id="item-fragrant-steamed-buns">Fragrant Steamed Buns</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fragrant Steamed Buns 1</h2>
@@ -146,7 +146,7 @@ categories:
       <br />
       <div id="recipe-fried-pork-in-scoop">
         <h5 id="item-fried-pork-in-scoop">Fried Pork In Scoop</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fried Pork In Scoop 1</h2>
@@ -171,7 +171,7 @@ categories:
       <br />
       <div id="recipe-fried-vegetarian-balls">
         <h5 id="item-fried-vegetarian-balls">Fried Vegetarian Balls</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fried Vegetarian Balls 1</h2>
@@ -193,7 +193,7 @@ categories:
       <br />
       <div id="recipe-garlic-steak">
         <h5 id="item-garlic-steak">Garlic Steak</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Garlic Steak 1</h2>
@@ -218,7 +218,7 @@ categories:
       <br />
       <div id="recipe-jobs-tears-broth">
         <h5 id="item-jobs-tears-broth">Job&#x27;s Tears Broth</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Job&#x27;s Tears Broth 1</h2>
@@ -251,7 +251,7 @@ categories:
       <br />
       <div id="recipe-jobs-tears-porridge">
         <h5 id="item-jobs-tears-porridge">Job&#x27;s Tears Porridge</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">
@@ -286,7 +286,7 @@ categories:
       <br />
       <div id="recipe-jobs-tears-sauce">
         <h5 id="item-jobs-tears-sauce">Job&#x27;s Tears Sauce</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Job&#x27;s Tears Sauce 1</h2>
@@ -309,7 +309,7 @@ categories:
       <br />
       <div id="recipe-jobs-tears-stew">
         <h5 id="item-jobs-tears-stew">Job&#x27;s Tears Stew</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Job&#x27;s Tears Stew 1</h2>
@@ -332,7 +332,7 @@ categories:
       <br />
       <div id="recipe-meat-pie">
         <h5 id="item-meat-pie">Meat Pie</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Meat Pie 1</h2>
@@ -354,7 +354,7 @@ categories:
       <br />
       <div id="recipe-new-year-dumplings">
         <h5 id="item-new-year-dumplings">New Year Dumplings</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe New Year Dumplings 1</h2>
@@ -375,7 +375,7 @@ categories:
       <br />
       <div id="recipe-rice-patty">
         <h5 id="item-rice-patty">Rice Patty</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Rice Patty 1</h2>
@@ -396,7 +396,7 @@ categories:
       <br />
       <div id="recipe-seafood-rice">
         <h5 id="item-seafood-rice">Seafood Rice</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Seafood Rice 1</h2>
@@ -430,7 +430,7 @@ categories:
       <br />
       <div id="recipe-steamed-brains">
         <h5 id="item-steamed-brains">Steamed Brains</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Steamed Brains 1</h2>
@@ -455,7 +455,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Steamed Brains 2</h2>
@@ -494,7 +494,7 @@ categories:
       <br />
       <div id="recipe-sweet-vinegar-fish">
         <h5 id="item-sweet-vinegar-fish">Sweet Vinegar Fish</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Sweet Vinegar Fish 1</h2>
@@ -513,7 +513,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Sweet Vinegar Fish 2</h2>
@@ -538,7 +538,7 @@ categories:
       <br />
       <div id="recipe-vegetable-dumplings">
         <h5 id="item-vegetable-dumplings">Vegetable Dumplings</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Vegetable Dumplings 1</h2>
@@ -562,7 +562,7 @@ categories:
       <br />
       <div id="recipe-vegetable-patty">
         <h5 id="item-vegetable-patty">Vegetable Patty</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Vegetable Patty 1</h2>
@@ -584,7 +584,7 @@ categories:
       <br />
       <div id="recipe-wonton-noodles">
         <h5 id="item-wonton-noodles">Wonton Noodles</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Wonton Noodles 1</h2>

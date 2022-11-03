@@ -75,7 +75,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Spirit Fox Fur</h2>
       <div id="recipe-hot-n-sour-jelly">
         <h5 id="item-hot-n-sour-jelly">Hot &#x27;n Sour Jelly</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Hot &#x27;n Sour Jelly 1</h2>

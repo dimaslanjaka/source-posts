@@ -67,7 +67,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Beast Intestines</h2>
       <div id="recipe-fried-intestines">
         <h5 id="item-fried-intestines">Fried Intestines</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fried Intestines 1</h2>
@@ -89,7 +89,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fried Intestines 2</h2>
@@ -115,7 +115,7 @@ categories:
       <br />
       <div id="recipe-grilled-offal">
         <h5 id="item-grilled-offal">Grilled Offal</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Grilled Offal 1</h2>

@@ -81,7 +81,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Chimeraland Beast Hide</h2>
       <div id="recipe-hot-n-sour-jelly">
         <h5 id="item-hot-n-sour-jelly">Hot &#x27;n Sour Jelly</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Hot &#x27;n Sour Jelly 1</h2>
@@ -119,7 +119,7 @@ categories:
       <br />
       <div id="recipe-sparrow-beak">
         <h5 id="item-sparrow-beak">Sparrow Beak</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Sparrow Beak 1</h2>
@@ -153,7 +153,7 @@ categories:
       <br />
       <div id="recipe-hearty-meatball-soup">
         <h5 id="item-hearty-meatball-soup">Hearty Meatball Soup</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Hearty Meatball Soup 1</h2>
@@ -187,7 +187,7 @@ categories:
       <br />
       <div id="recipe-soy-braised-dragon-bone">
         <h5 id="item-soy-braised-dragon-bone">Soy Braised Dragon Bone</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Soy Braised Dragon Bone 1</h2>
@@ -225,7 +225,7 @@ categories:
       <br />
       <div id="recipe-exotic-herbal-jelly">
         <h5 id="item-exotic-herbal-jelly">Exotic Herbal Jelly</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Exotic Herbal Jelly 1</h2>
@@ -263,7 +263,7 @@ categories:
       <br />
       <div id="recipe-tasty-wing-tip">
         <h5 id="item-tasty-wing-tip">Tasty Wing Tip</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Tasty Wing Tip 1</h2>
@@ -316,7 +316,7 @@ categories:
       <br />
       <div id="recipe-flame-roasted-horn">
         <h5 id="item-flame-roasted-horn">Flame Roasted Horn</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Flame Roasted Horn 1</h2>
@@ -355,7 +355,7 @@ categories:
       <br />
       <div id="recipe-overlord-hide-jelly">
         <h5 id="item-overlord-hide-jelly">Overlord Hide Jelly</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Overlord Hide Jelly 1</h2>
@@ -408,7 +408,7 @@ categories:
       <br />
       <div id="recipe-bear-ball-pot">
         <h5 id="item-bear-ball-pot">Bear Ball Pot</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Bear Ball Pot 1</h2>
@@ -453,7 +453,7 @@ categories:
       <br />
       <div id="recipe-hotstone-icefox-meat">
         <h5 id="item-hotstone-icefox-meat">Hotstone Icefox Meat</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Hotstone Icefox Meat 1</h2>
@@ -517,7 +517,7 @@ categories:
       <br />
       <div id="recipe-stir-fried-browtelope">
         <h5 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Stir-Fried Browtelope 1</h2>
@@ -561,7 +561,7 @@ categories:
       <br />
       <div id="recipe-flamebug-meat-claypot">
         <h5 id="item-flamebug-meat-claypot">Flamebug Meat Claypot</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Flamebug Meat Claypot 1</h2>
@@ -598,7 +598,7 @@ categories:
         <h5 id="item-steamed-sweet-and-sour-icebug">
           Steamed Sweet &amp; Sour Icebug
         </h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">

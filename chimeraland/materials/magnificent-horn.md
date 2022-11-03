@@ -75,7 +75,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Magnificent Horn</h2>
       <div id="recipe-flame-roasted-horn">
         <h5 id="item-flame-roasted-horn">Flame Roasted Horn</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Flame Roasted Horn 1</h2>

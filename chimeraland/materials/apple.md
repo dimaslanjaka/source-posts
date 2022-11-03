@@ -73,7 +73,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Apple</h2>
       <div id="recipe-apple-sauce">
         <h5 id="item-apple-sauce">Apple Sauce</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Apple Sauce 1</h2>
@@ -92,7 +92,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Apple Sauce 2</h2>
@@ -115,7 +115,7 @@ categories:
       <br />
       <div id="recipe-apple-slushie">
         <h5 id="item-apple-slushie">Apple Slushie</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Apple Slushie 1</h2>
@@ -143,7 +143,7 @@ categories:
       <br />
       <div id="recipe-red-hot-sauce">
         <h5 id="item-red-hot-sauce">Red Hot Sauce</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Red Hot Sauce 1</h2>
@@ -171,7 +171,7 @@ categories:
       <br />
       <div id="recipe-steamed-paw">
         <h5 id="item-steamed-paw">Steamed Paw</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Steamed Paw 1</h2>
@@ -206,7 +206,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Steamed Paw 2</h2>
@@ -249,7 +249,7 @@ categories:
       <br />
       <div id="recipe-sweet-vinegar-fish">
         <h5 id="item-sweet-vinegar-fish">Sweet Vinegar Fish</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Sweet Vinegar Fish 1</h2>
@@ -268,7 +268,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Sweet Vinegar Fish 2</h2>
@@ -293,7 +293,7 @@ categories:
       <br />
       <div id="recipe-veggie-paste">
         <h5 id="item-veggie-paste">Veggie Paste</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Veggie Paste 1</h2>
@@ -316,7 +316,7 @@ categories:
       <br />
       <div id="recipe-sea-buckthorn-mixed-juice">
         <h5 id="item-sea-buckthorn-mixed-juice">Sea-Buckthorn Mixed Juice</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">

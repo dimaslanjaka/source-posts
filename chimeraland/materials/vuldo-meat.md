@@ -68,7 +68,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Vuldo Meat</h2>
       <div id="recipe-beggars-chicken">
         <h5 id="item-beggars-chicken">Beggar&#x27;s Chicken</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Beggar&#x27;s Chicken 1</h2>
@@ -96,7 +96,7 @@ categories:
       <br />
       <div id="recipe-bird-soup">
         <h5 id="item-bird-soup">Bird Soup</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Bird Soup 1</h2>
@@ -121,7 +121,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Bird Soup 2</h2>
@@ -150,7 +150,7 @@ categories:
       <br />
       <div id="recipe-grilled-bird">
         <h5 id="item-grilled-bird">Grilled Bird</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Grilled Bird 1</h2>
@@ -173,7 +173,7 @@ categories:
       <br />
       <div id="recipe-honey-grilled-chicken">
         <h5 id="item-honey-grilled-chicken">Honey Grilled Chicken</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 1</h2>
@@ -197,7 +197,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 2</h2>
@@ -221,7 +221,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 3</h2>

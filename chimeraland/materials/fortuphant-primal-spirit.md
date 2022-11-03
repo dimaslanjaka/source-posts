@@ -77,7 +77,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Fortuphant Primal Spirit</h2>
       <div id="recipe-overlord-hide-jelly">
         <h5 id="item-overlord-hide-jelly">Overlord Hide Jelly</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Overlord Hide Jelly 1</h2>

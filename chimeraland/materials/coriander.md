@@ -67,7 +67,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Coriander</h2>
       <div id="recipe-buddhas-temptation">
         <h5 id="item-buddhas-temptation">Buddha&#x27;s Temptation</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Buddha&#x27;s Temptation 1</h2>
@@ -101,7 +101,7 @@ categories:
       <br />
       <div id="recipe-fried-pork-in-scoop">
         <h5 id="item-fried-pork-in-scoop">Fried Pork In Scoop</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fried Pork In Scoop 1</h2>
@@ -126,7 +126,7 @@ categories:
       <br />
       <div id="recipe-strange-meat-skewers">
         <h5 id="item-strange-meat-skewers">Strange Meat Skewers</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Strange Meat Skewers 1</h2>

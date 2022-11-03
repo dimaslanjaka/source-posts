@@ -77,7 +77,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Grizzly Primal Spirit</h2>
       <div id="recipe-bear-ball-pot">
         <h5 id="item-bear-ball-pot">Bear Ball Pot</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Bear Ball Pot 1</h2>

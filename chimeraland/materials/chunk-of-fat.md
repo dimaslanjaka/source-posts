@@ -67,7 +67,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Chunk of Fat</h2>
       <div id="recipe-deep-fried-liver">
         <h5 id="item-deep-fried-liver">Deep Fried Liver</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Deep Fried Liver 1</h2>
@@ -105,7 +105,7 @@ categories:
       <br />
       <div id="recipe-hot-oil">
         <h5 id="item-hot-oil">Hot Oil</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Hot Oil 1</h2>
@@ -118,7 +118,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Hot Oil 2</h2>

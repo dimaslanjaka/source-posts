@@ -73,7 +73,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Lemon Tree Leaf</h2>
       <div id="recipe-arowana-slices">
         <h5 id="item-arowana-slices">Arowana Slices</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Arowana Slices 1</h2>
@@ -97,7 +97,7 @@ categories:
       <br />
       <div id="recipe-sliced-fish-stew">
         <h5 id="item-sliced-fish-stew">Sliced Fish Stew</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Sliced Fish Stew 1</h2>
@@ -114,7 +114,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Sliced Fish Stew 2</h2>
@@ -140,7 +140,7 @@ categories:
       <br />
       <div id="recipe-steamed-fish">
         <h5 id="item-steamed-fish">Steamed Fish</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Steamed Fish 1</h2>
@@ -165,7 +165,7 @@ categories:
       <br />
       <div id="recipe-viperfish-slices">
         <h5 id="item-viperfish-slices">Viperfish Slices</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Viperfish Slices 1</h2>
@@ -198,7 +198,7 @@ categories:
       <br />
       <div id="recipe-hot-n-sour-jelly">
         <h5 id="item-hot-n-sour-jelly">Hot &#x27;n Sour Jelly</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Hot &#x27;n Sour Jelly 1</h2>
@@ -236,7 +236,7 @@ categories:
       <br />
       <div id="recipe-soy-braised-dragon-bone">
         <h5 id="item-soy-braised-dragon-bone">Soy Braised Dragon Bone</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Soy Braised Dragon Bone 1</h2>
@@ -274,7 +274,7 @@ categories:
       <br />
       <div id="recipe-exotic-herbal-jelly">
         <h5 id="item-exotic-herbal-jelly">Exotic Herbal Jelly</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Exotic Herbal Jelly 1</h2>
@@ -312,7 +312,7 @@ categories:
       <br />
       <div id="recipe-flame-roasted-horn">
         <h5 id="item-flame-roasted-horn">Flame Roasted Horn</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Flame Roasted Horn 1</h2>

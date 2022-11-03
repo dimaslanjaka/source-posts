@@ -70,7 +70,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Dung</h2>
       <div id="recipe-dark-cuisine">
         <h5 id="item-dark-cuisine">Dark Cuisine</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Dark Cuisine 1</h2>
@@ -99,7 +99,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Dark Cuisine 2</h2>
@@ -118,7 +118,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Dark Cuisine 3</h2>
@@ -137,7 +137,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Dark Cuisine 4</h2>
@@ -158,7 +158,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Dark Cuisine 5</h2>
@@ -171,7 +171,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Dark Cuisine 6</h2>
@@ -194,7 +194,7 @@ categories:
       <br />
       <div id="recipe-scraps-claypot">
         <h5 id="item-scraps-claypot">Scraps Claypot</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Scraps Claypot 1</h2>
@@ -211,7 +211,7 @@ categories:
       <br />
       <div id="recipe-stinky-tofu">
         <h5 id="item-stinky-tofu">Stinky Tofu</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Stinky Tofu 1</h2>

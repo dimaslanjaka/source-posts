@@ -79,7 +79,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Hot Pepper</h2>
       <div id="recipe-poached-meat-fillets">
         <h5 id="item-poached-meat-fillets">Poached Meat Fillets</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Poached Meat Fillets 1</h2>
@@ -105,7 +105,7 @@ categories:
       <br />
       <div id="recipe-red-hot-sauce">
         <h5 id="item-red-hot-sauce">Red Hot Sauce</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Red Hot Sauce 1</h2>
@@ -133,7 +133,7 @@ categories:
       <br />
       <div id="recipe-spicy-pepper-sauce">
         <h5 id="item-spicy-pepper-sauce">Spicy Pepper Sauce</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Spicy Pepper Sauce 1</h2>
@@ -156,7 +156,7 @@ categories:
       <br />
       <div id="recipe-spicy-red-goodfruit-broth">
         <h5 id="item-spicy-red-goodfruit-broth">Spicy Red Goodfruit Broth</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">
@@ -186,7 +186,7 @@ categories:
       <br />
       <div id="recipe-stinky-tofu">
         <h5 id="item-stinky-tofu">Stinky Tofu</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Stinky Tofu 1</h2>
@@ -219,7 +219,7 @@ categories:
       <br />
       <div id="recipe-wine-braised-vegetables">
         <h5 id="item-wine-braised-vegetables">Wine-Braised Vegetables</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Wine-Braised Vegetables 1</h2>

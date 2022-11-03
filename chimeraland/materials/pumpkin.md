@@ -66,7 +66,7 @@ categories:
         <h5 id="item-chargrilled-pumpkin-and-iguana">
           Chargrilled Pumpkin And Iguana
         </h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">
@@ -97,7 +97,7 @@ categories:
       <br />
       <div id="recipe-pumpkin-bowl">
         <h5 id="item-pumpkin-bowl">Pumpkin Bowl</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Pumpkin Bowl 1</h2>

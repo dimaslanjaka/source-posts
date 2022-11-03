@@ -62,7 +62,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Chives</h2>
       <div id="recipe-vegetable-dumplings">
         <h5 id="item-vegetable-dumplings">Vegetable Dumplings</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Vegetable Dumplings 1</h2>

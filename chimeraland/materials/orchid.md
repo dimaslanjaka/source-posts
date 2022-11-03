@@ -76,7 +76,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Orchid</h2>
       <div id="recipe-herb-grilled-crab">
         <h5 id="item-herb-grilled-crab">Herb Grilled Crab</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Herb Grilled Crab 1</h2>
@@ -104,7 +104,7 @@ categories:
       <br />
       <div id="recipe-orchid-soup">
         <h5 id="item-orchid-soup">Orchid Soup</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Orchid Soup 1</h2>
@@ -137,7 +137,7 @@ categories:
       <br />
       <div id="recipe-steamed-paw">
         <h5 id="item-steamed-paw">Steamed Paw</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Steamed Paw 1</h2>
@@ -172,7 +172,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Steamed Paw 2</h2>

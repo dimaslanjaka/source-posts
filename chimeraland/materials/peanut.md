@@ -62,7 +62,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Peanut</h2>
       <div id="recipe-braised-bear-meat">
         <h5 id="item-braised-bear-meat">Braised Bear Meat</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Braised Bear Meat 1</h2>
@@ -86,7 +86,7 @@ categories:
       <br />
       <div id="recipe-braised-scorpion">
         <h5 id="item-braised-scorpion">Braised Scorpion</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Braised Scorpion 1</h2>
@@ -110,7 +110,7 @@ categories:
       <br />
       <div id="recipe-cabbage-meat-rolls">
         <h5 id="item-cabbage-meat-rolls">Cabbage Meat Rolls</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Cabbage Meat Rolls 1</h2>
@@ -137,7 +137,7 @@ categories:
         <h5 id="item-chargrilled-pumpkin-and-iguana">
           Chargrilled Pumpkin And Iguana
         </h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">
@@ -168,7 +168,7 @@ categories:
       <br />
       <div id="recipe-eggs-with-gourd">
         <h5 id="item-eggs-with-gourd">Eggs With Gourd</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Eggs With Gourd 1</h2>
@@ -191,7 +191,7 @@ categories:
       <br />
       <div id="recipe-fried-fish">
         <h5 id="item-fried-fish">Fried Fish</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fried Fish 1</h2>
@@ -212,7 +212,7 @@ categories:
       <br />
       <div id="recipe-fried-intestines">
         <h5 id="item-fried-intestines">Fried Intestines</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fried Intestines 1</h2>
@@ -234,7 +234,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fried Intestines 2</h2>
@@ -260,7 +260,7 @@ categories:
       <br />
       <div id="recipe-frog-honey-sauce">
         <h5 id="item-frog-honey-sauce">Frog Honey Sauce</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Frog Honey Sauce 1</h2>
@@ -285,7 +285,7 @@ categories:
       <br />
       <div id="recipe-fruity-fried-mackerel">
         <h5 id="item-fruity-fried-mackerel">Fruity Fried Mackerel</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fruity Fried Mackerel 1</h2>
@@ -307,7 +307,7 @@ categories:
       <br />
       <div id="recipe-fruity-grilled-meat">
         <h5 id="item-fruity-grilled-meat">Fruity Grilled Meat</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fruity Grilled Meat 1</h2>
@@ -327,7 +327,7 @@ categories:
       <br />
       <div id="recipe-garlic-thighs">
         <h5 id="item-garlic-thighs">Garlic Thighs</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Garlic Thighs 1</h2>
@@ -350,7 +350,7 @@ categories:
       <br />
       <div id="recipe-grilled-wolf">
         <h5 id="item-grilled-wolf">Grilled Wolf</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Grilled Wolf 1</h2>
@@ -379,7 +379,7 @@ categories:
       <br />
       <div id="recipe-honey-grilled-chicken">
         <h5 id="item-honey-grilled-chicken">Honey Grilled Chicken</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 1</h2>
@@ -403,7 +403,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 2</h2>
@@ -427,7 +427,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 3</h2>
@@ -455,7 +455,7 @@ categories:
       <br />
       <div id="recipe-honeybee-jerky">
         <h5 id="item-honeybee-jerky">Honeybee Jerky</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Honeybee Jerky 1</h2>
@@ -479,7 +479,7 @@ categories:
       <br />
       <div id="recipe-hot-oil">
         <h5 id="item-hot-oil">Hot Oil</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Hot Oil 1</h2>
@@ -492,7 +492,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Hot Oil 2</h2>
@@ -520,7 +520,7 @@ categories:
       <br />
       <div id="recipe-new-year-dumplings">
         <h5 id="item-new-year-dumplings">New Year Dumplings</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe New Year Dumplings 1</h2>
@@ -541,7 +541,7 @@ categories:
       <br />
       <div id="recipe-peanut-ball-soup">
         <h5 id="item-peanut-ball-soup">Peanut Ball Soup</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Peanut Ball Soup 1</h2>
@@ -569,7 +569,7 @@ categories:
       <br />
       <div id="recipe-peanut-gourd-soup">
         <h5 id="item-peanut-gourd-soup">Peanut Gourd Soup</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Peanut Gourd Soup 1</h2>
@@ -596,7 +596,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Peanut Gourd Soup 2</h2>
@@ -636,7 +636,7 @@ categories:
       <br />
       <div id="recipe-poached-meat-fillets">
         <h5 id="item-poached-meat-fillets">Poached Meat Fillets</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Poached Meat Fillets 1</h2>
@@ -662,7 +662,7 @@ categories:
       <br />
       <div id="recipe-sesame-soup">
         <h5 id="item-sesame-soup">Sesame Soup</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Sesame Soup 1</h2>
@@ -688,7 +688,7 @@ categories:
       <br />
       <div id="recipe-soy-braised-pork">
         <h5 id="item-soy-braised-pork">Soy-Braised Pork</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Soy-Braised Pork 1</h2>
@@ -708,7 +708,7 @@ categories:
       <br />
       <div id="recipe-spicy-grilled-fish">
         <h5 id="item-spicy-grilled-fish">Spicy Grilled Fish</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Spicy Grilled Fish 1</h2>
@@ -730,7 +730,7 @@ categories:
       <br />
       <div id="recipe-spicy-smoked-meat">
         <h5 id="item-spicy-smoked-meat">Spicy Smoked Meat</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Spicy Smoked Meat 1</h2>
@@ -750,7 +750,7 @@ categories:
       <br />
       <div id="recipe-steamed-brains">
         <h5 id="item-steamed-brains">Steamed Brains</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Steamed Brains 1</h2>
@@ -775,7 +775,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Steamed Brains 2</h2>
@@ -814,7 +814,7 @@ categories:
       <br />
       <div id="recipe-steamed-vegetarian-patty">
         <h5 id="item-steamed-vegetarian-patty">Steamed Vegetarian Patty</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Steamed Vegetarian Patty 1</h2>
@@ -838,7 +838,7 @@ categories:
       <br />
       <div id="recipe-stewed-brains">
         <h5 id="item-stewed-brains">Stewed Brains</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Stewed Brains 1</h2>
@@ -864,7 +864,7 @@ categories:
       <br />
       <div id="recipe-stinky-tofu">
         <h5 id="item-stinky-tofu">Stinky Tofu</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Stinky Tofu 1</h2>
@@ -897,7 +897,7 @@ categories:
       <br />
       <div id="recipe-sweet-and-spicy-venison">
         <h5 id="item-sweet-and-spicy-venison">Sweet And Spicy Venison</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Sweet And Spicy Venison 1</h2>
@@ -922,7 +922,7 @@ categories:
       <br />
       <div id="recipe-sweet-vinegar-fish">
         <h5 id="item-sweet-vinegar-fish">Sweet Vinegar Fish</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Sweet Vinegar Fish 1</h2>
@@ -941,7 +941,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Sweet Vinegar Fish 2</h2>
@@ -966,7 +966,7 @@ categories:
       <br />
       <div id="recipe-wine-braised-vegetables">
         <h5 id="item-wine-braised-vegetables">Wine-Braised Vegetables</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Wine-Braised Vegetables 1</h2>
@@ -994,7 +994,7 @@ categories:
       <br />
       <div id="recipe-veggie-cake">
         <h5 id="item-veggie-cake">Veggie Cake</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Veggie Cake 1</h2>
@@ -1014,7 +1014,7 @@ categories:
       <br />
       <div id="recipe-fried-tenderloin">
         <h5 id="item-fried-tenderloin">Fried Tenderloin</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fried Tenderloin 1</h2>
@@ -1030,7 +1030,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fried Tenderloin 2</h2>

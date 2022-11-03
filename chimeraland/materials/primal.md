@@ -67,7 +67,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Primal</h2>
       <div id="recipe-overlord-hide-jelly">
         <h5 id="item-overlord-hide-jelly">Overlord Hide Jelly</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Overlord Hide Jelly 1</h2>
@@ -120,7 +120,7 @@ categories:
       <br />
       <div id="recipe-bear-ball-pot">
         <h5 id="item-bear-ball-pot">Bear Ball Pot</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Bear Ball Pot 1</h2>
@@ -165,7 +165,7 @@ categories:
       <br />
       <div id="recipe-hotstone-icefox-meat">
         <h5 id="item-hotstone-icefox-meat">Hotstone Icefox Meat</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Hotstone Icefox Meat 1</h2>
@@ -229,7 +229,7 @@ categories:
       <br />
       <div id="recipe-stir-fried-browtelope">
         <h5 id="item-stir-fried-browtelope">Stir-Fried Browtelope</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Stir-Fried Browtelope 1</h2>
@@ -273,7 +273,7 @@ categories:
       <br />
       <div id="recipe-flamebug-meat-claypot">
         <h5 id="item-flamebug-meat-claypot">Flamebug Meat Claypot</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Flamebug Meat Claypot 1</h2>
@@ -310,7 +310,7 @@ categories:
         <h5 id="item-steamed-sweet-and-sour-icebug">
           Steamed Sweet &amp; Sour Icebug
         </h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">

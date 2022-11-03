@@ -68,7 +68,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Beetlefly Meat</h2>
       <div id="recipe-frog-honey-sauce">
         <h5 id="item-frog-honey-sauce">Frog Honey Sauce</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Frog Honey Sauce 1</h2>
@@ -93,7 +93,7 @@ categories:
       <br />
       <div id="recipe-garlic-braised-meat">
         <h5 id="item-garlic-braised-meat">Garlic Braised Meat</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Garlic Braised Meat 1</h2>
@@ -117,7 +117,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Garlic Braised Meat 2</h2>
@@ -142,7 +142,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Garlic Braised Meat 3</h2>
@@ -167,7 +167,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Garlic Braised Meat 4</h2>
@@ -196,7 +196,7 @@ categories:
       <br />
       <div id="recipe-honeybee-jerky">
         <h5 id="item-honeybee-jerky">Honeybee Jerky</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Honeybee Jerky 1</h2>

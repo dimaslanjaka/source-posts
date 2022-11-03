@@ -64,7 +64,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Bok Choy</h2>
       <div id="recipe-cabbage-meat-rolls">
         <h5 id="item-cabbage-meat-rolls">Cabbage Meat Rolls</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Cabbage Meat Rolls 1</h2>

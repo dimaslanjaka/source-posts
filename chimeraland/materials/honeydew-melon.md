@@ -67,7 +67,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Honeydew Melon</h2>
       <div id="recipe-honeydew-melon-slushie">
         <h5 id="item-honeydew-melon-slushie">Honeydew Melon Slushie</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Honeydew Melon Slushie 1</h2>

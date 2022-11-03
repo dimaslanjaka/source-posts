@@ -68,7 +68,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Moose Meat</h2>
       <div id="recipe-grilled-venison">
         <h5 id="item-grilled-venison">Grilled Venison</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Grilled Venison 1</h2>
@@ -96,7 +96,7 @@ categories:
       <br />
       <div id="recipe-sweet-and-spicy-venison">
         <h5 id="item-sweet-and-spicy-venison">Sweet And Spicy Venison</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Sweet And Spicy Venison 1</h2>

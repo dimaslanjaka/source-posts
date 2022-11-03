@@ -68,7 +68,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Gratoise Meat</h2>
       <div id="recipe-turtle-soup">
         <h5 id="item-turtle-soup">Turtle Soup</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Turtle Soup 1</h2>
@@ -93,7 +93,7 @@ categories:
       <br />
       <div id="recipe-ultimate-meat-dish">
         <h5 id="item-ultimate-meat-dish">Ultimate Meat Dish</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Ultimate Meat Dish 1</h2>

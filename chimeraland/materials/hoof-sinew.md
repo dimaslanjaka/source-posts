@@ -74,7 +74,7 @@ categories:
       <h2 id="cookable">Cooking Recipes Using Hoof Sinew</h2>
       <div id="recipe-braised-tendons">
         <h5 id="item-braised-tendons">Braised Tendons</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Braised Tendons 1</h2>
@@ -102,7 +102,7 @@ categories:
       <br />
       <div id="recipe-buddhas-temptation">
         <h5 id="item-buddhas-temptation">Buddha&#x27;s Temptation</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Buddha&#x27;s Temptation 1</h2>
@@ -136,7 +136,7 @@ categories:
       <br />
       <div id="recipe-fruity-meat-skewers">
         <h5 id="item-fruity-meat-skewers">Fruity Meat Skewers</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fruity Meat Skewers 1</h2>
@@ -182,7 +182,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Fruity Meat Skewers 2</h2>
@@ -203,7 +203,7 @@ categories:
       <br />
       <div id="recipe-grilled-meat-cubes">
         <h5 id="item-grilled-meat-cubes">Grilled Meat Cubes</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Grilled Meat Cubes 1</h2>
@@ -253,7 +253,7 @@ categories:
       <br />
       <div id="recipe-meat-and-vegetable">
         <h5 id="item-meat-and-vegetable">Meat And Vegetable</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Meat And Vegetable 1</h2>
@@ -269,7 +269,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Meat And Vegetable 2</h2>
@@ -313,7 +313,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Meat And Vegetable 3</h2>
@@ -329,7 +329,7 @@ categories:
             </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Meat And Vegetable 4</h2>
@@ -349,7 +349,7 @@ categories:
       <br />
       <div id="recipe-stewed-liver">
         <h5 id="item-stewed-liver">Stewed Liver</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Stewed Liver 1</h2>
@@ -397,7 +397,7 @@ categories:
       <br />
       <div id="recipe-hotstone-icefox-meat">
         <h5 id="item-hotstone-icefox-meat">Hotstone Icefox Meat</h5>
-        <div class="col-12 col-lg-6 recipe-item mb-2">
+        <div class="mb-2">
           <div class="card">
             <div class="card-body">
               <h2 class="card-title fs-5">Recipe Hotstone Icefox Meat 1</h2>
