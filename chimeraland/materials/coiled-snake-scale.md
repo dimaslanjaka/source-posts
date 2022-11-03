@@ -48,7 +48,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Coiled Snake Scale</h5>
+          <h2 class="card-title">What is the use of the Coiled Snake Scale</h2>
           <div class="card-text">
             <ul>
               <li>Obtained when searching fro Wyrm. Used in Creation.</li>
@@ -60,7 +60,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Coiled Snake Scale</h5>
+          <h2 class="card-title">How to get Coiled Snake Scale</h2>
           <div class="card-text">
             <ul>
               <li>Got to the Auction House to obtain it.</li>
@@ -72,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Coiled Snake Scale Spawn Locations</h5>
+      <h2>Coiled Snake Scale Spawn Locations</h2>
       <p>Coiled Snake Scale is randomly spawned</p>
     </div>
   </div>

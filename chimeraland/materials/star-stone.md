@@ -45,7 +45,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Star Stone</h5>
+          <h2 class="card-title">What is the use of the Star Stone</h2>
           <div class="card-text">
             <ul>
               <li>Found around the stars, makes for a good craft material.</li>
@@ -57,7 +57,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Star Stone</h5>
+          <h2 class="card-title">How to get Star Stone</h2>
           <div class="card-text">
             <ul>
               <li>Mine Star Stone in the starry sky.</li>
@@ -69,7 +69,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Star Stone Spawn Locations</h5>
+      <h2>Star Stone Spawn Locations</h2>
       <p>Star Stone is randomly spawned</p>
     </div>
   </div>

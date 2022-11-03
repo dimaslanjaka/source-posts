@@ -45,7 +45,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Wild Garlic</h5>
+          <h2 class="card-title">What is the use of the Wild Garlic</h2>
           <div class="card-text">
             <ul>
               <li>
@@ -60,7 +60,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Wild Garlic</h5>
+          <h2 class="card-title">How to get Wild Garlic</h2>
           <div class="card-text">
             <ul>
               <li>Gather at the top of a mountain to get Wild Garlic.</li>
@@ -328,7 +328,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Wild Garlic Spawn Locations</h5>
+      <h2>Wild Garlic Spawn Locations</h2>
       <p>Wild Garlic is randomly spawned</p>
     </div>
   </div>

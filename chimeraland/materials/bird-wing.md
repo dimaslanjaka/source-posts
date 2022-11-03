@@ -45,7 +45,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Bird Wing</h5>
+          <h2 class="card-title">What is the use of the Bird Wing</h2>
           <div class="card-text">
             <ul>
               <li>
@@ -60,7 +60,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Bird Wing</h5>
+          <h2 class="card-title">How to get Bird Wing</h2>
           <div class="card-text">
             <ul>
               <li>Got to the Auction House to obtain it.</li>
@@ -193,7 +193,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Bird Wing Spawn Locations</h5>
+      <h2>Bird Wing Spawn Locations</h2>
       <p>Bird Wing is randomly spawned</p>
     </div>
   </div>

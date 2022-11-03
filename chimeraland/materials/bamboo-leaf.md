@@ -45,7 +45,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Bamboo Leaf</h5>
+          <h2 class="card-title">What is the use of the Bamboo Leaf</h2>
           <div class="card-text">
             <ul>
               <li>
@@ -60,7 +60,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Bamboo Leaf</h5>
+          <h2 class="card-title">How to get Bamboo Leaf</h2>
           <div class="card-text">
             <ul>
               <li>Go to the Auction How to obtain</li>
@@ -72,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Bamboo Leaf Spawn Locations</h5>
+      <h2>Bamboo Leaf Spawn Locations</h2>
       <p>Bamboo Leaf is randomly spawned</p>
     </div>
   </div>

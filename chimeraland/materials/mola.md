@@ -46,7 +46,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Mola</h5>
+          <h2 class="card-title">What is the use of the Mola</h2>
           <div class="card-text"><ul></ul></div>
         </div>
       </div>
@@ -54,7 +54,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Mola</h5>
+          <h2 class="card-title">How to get Mola</h2>
           <div class="card-text">
             <ul>
               <li>Go to the Auction House to obtain it.</li>
@@ -65,7 +65,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Mola Spawn Locations</h5>
+      <h2>Mola Spawn Locations</h2>
       <p>Mola is randomly spawned</p>
     </div>
   </div>

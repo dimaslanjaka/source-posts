@@ -42,7 +42,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Pumpkin</h5>
+          <h2 class="card-title">What is the use of the Pumpkin</h2>
           <div class="card-text"><ul></ul></div>
         </div>
       </div>
@@ -50,7 +50,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Pumpkin</h5>
+          <h2 class="card-title">How to get Pumpkin</h2>
           <div class="card-text">
             <ul>
               <li>Go to the Auction House to obtain</li>
@@ -126,7 +126,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Pumpkin Spawn Locations</h5>
+      <h2>Pumpkin Spawn Locations</h2>
       <p>Pumpkin is randomly spawned</p>
     </div>
   </div>

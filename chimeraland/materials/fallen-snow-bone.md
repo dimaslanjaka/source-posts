@@ -45,7 +45,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Fallen Snow Bone</h5>
+          <h2 class="card-title">What is the use of the Fallen Snow Bone</h2>
           <div class="card-text">
             <ul>
               <li>Used for Evolve Bony Sabretooth</li>
@@ -56,7 +56,7 @@ categories:
     </div>
     <div class="col-lg-6 col-12 mb-2"></div>
     <div class="col-12 mb-2">
-      <h5>Fallen Snow Bone Spawn Locations</h5>
+      <h2>Fallen Snow Bone Spawn Locations</h2>
       <p>Fallen Snow Bone is randomly spawned</p>
     </div>
   </div>

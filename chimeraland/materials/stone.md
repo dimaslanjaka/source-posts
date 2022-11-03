@@ -44,7 +44,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Stone</h5>
+          <h2 class="card-title">What is the use of the Stone</h2>
           <div class="card-text">
             <ul>
               <li>Mine any ore to obtain this basic Mining product.</li>
@@ -56,7 +56,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Stone</h5>
+          <h2 class="card-title">How to get Stone</h2>
           <div class="card-text">
             <ul>
               <li>
@@ -72,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Stone Spawn Locations</h5>
+      <h2>Stone Spawn Locations</h2>
       <p>Stone is randomly spawned</p>
     </div>
   </div>

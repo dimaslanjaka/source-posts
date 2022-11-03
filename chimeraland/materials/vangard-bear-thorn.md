@@ -49,7 +49,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Vangard Bear Thorn</h5>
+          <h2 class="card-title">What is the use of the Vangard Bear Thorn</h2>
           <div class="card-text">
             <ul>
               <li>An Extremely uncommon material used in advanced fusions.</li>
@@ -61,7 +61,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Vangard Bear Thorn</h5>
+          <h2 class="card-title">How to get Vangard Bear Thorn</h2>
           <div class="card-text">
             <ul>
               <li>Go to the Auction House to obtain it.</li>
@@ -76,7 +76,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Vangard Bear Thorn Spawn Locations</h5>
+      <h2>Vangard Bear Thorn Spawn Locations</h2>
       <p>Vangard Bear Thorn is randomly spawned</p>
     </div>
   </div>

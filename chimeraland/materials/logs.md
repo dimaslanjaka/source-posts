@@ -44,7 +44,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Logs</h5>
+          <h2 class="card-title">What is the use of the Logs</h2>
           <div class="card-text">
             <ul>
               <li>Base product obtained by chopping down certain trees.</li>
@@ -56,7 +56,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Logs</h5>
+          <h2 class="card-title">How to get Logs</h2>
           <div class="card-text">
             <ul>
               <li>
@@ -72,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Logs Spawn Locations</h5>
+      <h2>Logs Spawn Locations</h2>
       <p>Logs is randomly spawned</p>
     </div>
   </div>

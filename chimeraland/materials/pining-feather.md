@@ -45,7 +45,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Pining Feather</h5>
+          <h2 class="card-title">What is the use of the Pining Feather</h2>
           <div class="card-text">
             <ul>
               <li>Used for Evolve Duahawk</li>
@@ -57,7 +57,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Pining Feather</h5>
+          <h2 class="card-title">How to get Pining Feather</h2>
           <div class="card-text">
             <ul>
               <li>
@@ -70,7 +70,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Pining Feather Spawn Locations</h5>
+      <h2>Pining Feather Spawn Locations</h2>
       <p>Pining Feather is randomly spawned</p>
     </div>
   </div>

@@ -49,7 +49,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Red Goodfruit</h5>
+          <h2 class="card-title">What is the use of the Red Goodfruit</h2>
           <div class="card-text">
             <ul>
               <li>
@@ -64,7 +64,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Red Goodfruit</h5>
+          <h2 class="card-title">How to get Red Goodfruit</h2>
           <div class="card-text">
             <ul>
               <li>Gather in the Tundra or at Snowy Peak.</li>
@@ -202,7 +202,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Red Goodfruit Spawn Locations</h5>
+      <h2>Red Goodfruit Spawn Locations</h2>
       <p>Red Goodfruit is randomly spawned</p>
     </div>
   </div>

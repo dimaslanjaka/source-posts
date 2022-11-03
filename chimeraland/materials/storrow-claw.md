@@ -49,7 +49,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Storrow Claw</h5>
+          <h2 class="card-title">What is the use of the Storrow Claw</h2>
           <div class="card-text">
             <ul>
               <li>
@@ -63,7 +63,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Storrow Claw</h5>
+          <h2 class="card-title">How to get Storrow Claw</h2>
           <div class="card-text">
             <ul>
               <li>Go to the Auction House to obtain it.</li>
@@ -76,7 +76,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Storrow Claw Spawn Locations</h5>
+      <h2>Storrow Claw Spawn Locations</h2>
       <p>Storrow Claw is randomly spawned</p>
     </div>
   </div>

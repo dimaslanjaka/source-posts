@@ -45,7 +45,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Glow Deer Hide</h5>
+          <h2 class="card-title">What is the use of the Glow Deer Hide</h2>
           <div class="card-text">
             <ul>
               <li>An extremely uncommon material used in advanced fusions.</li>
@@ -57,7 +57,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Glow Deer Hide</h5>
+          <h2 class="card-title">How to get Glow Deer Hide</h2>
           <div class="card-text">
             <ul>
               <li>Got to the Auction House to obtain it.</li>
@@ -72,7 +72,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Glow Deer Hide Spawn Locations</h5>
+      <h2>Glow Deer Hide Spawn Locations</h2>
       <p>Glow Deer Hide is randomly spawned</p>
     </div>
   </div>

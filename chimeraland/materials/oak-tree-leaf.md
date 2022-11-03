@@ -45,7 +45,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Oak Tree Leaf</h5>
+          <h2 class="card-title">What is the use of the Oak Tree Leaf</h2>
           <div class="card-text">
             <ul>
               <li>Can be used for Creation.</li>
@@ -57,7 +57,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Oak Tree Leaf</h5>
+          <h2 class="card-title">How to get Oak Tree Leaf</h2>
           <div class="card-text">
             <ul>
               <li>Go to the Auction House to obtain</li>
@@ -69,7 +69,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Oak Tree Leaf Spawn Locations</h5>
+      <h2>Oak Tree Leaf Spawn Locations</h2>
       <p>Oak Tree Leaf is randomly spawned</p>
     </div>
   </div>

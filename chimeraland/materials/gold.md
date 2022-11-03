@@ -45,7 +45,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Gold</h5>
+          <h2 class="card-title">What is the use of the Gold</h2>
           <div class="card-text">
             <ul>
               <li>
@@ -61,7 +61,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Gold</h5>
+          <h2 class="card-title">How to get Gold</h2>
           <div class="card-text">
             <ul>
               <li>Mine Gold Mine.</li>
@@ -74,7 +74,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Gold Spawn Locations</h5>
+      <h2>Gold Spawn Locations</h2>
       <div></div>
       <div class="p-4">
         <h5>Golden Desire Eastmount</h5>

@@ -50,7 +50,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Pale Jade</h5>
+          <h2 class="card-title">What is the use of the Pale Jade</h2>
           <div class="card-text">
             <ul>
               <li>
@@ -66,7 +66,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Pale Jade</h5>
+          <h2 class="card-title">How to get Pale Jade</h2>
           <div class="card-text">
             <ul>
               <li>To obtain this item, mine pale stone.</li>
@@ -80,7 +80,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Pale Jade Spawn Locations</h5>
+      <h2>Pale Jade Spawn Locations</h2>
       <div></div>
       <div class="p-4">
         <h5>Pale Jade Eastmount</h5>

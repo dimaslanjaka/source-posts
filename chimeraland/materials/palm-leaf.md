@@ -45,7 +45,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Palm Leaf</h5>
+          <h2 class="card-title">What is the use of the Palm Leaf</h2>
           <div class="card-text">
             <ul>
               <li>
@@ -60,7 +60,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Palm Leaf</h5>
+          <h2 class="card-title">How to get Palm Leaf</h2>
           <div class="card-text">
             <ul>
               <li>Got to the Auction House to obtain</li>
@@ -73,7 +73,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Palm Leaf Spawn Locations</h5>
+      <h2>Palm Leaf Spawn Locations</h2>
       <p>Palm Leaf is randomly spawned</p>
     </div>
   </div>

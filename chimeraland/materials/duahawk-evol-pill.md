@@ -43,14 +43,14 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Duahawk Evol Pill</h5>
+          <h2 class="card-title">What is the use of the Duahawk Evol Pill</h2>
           <div class="card-text"><ul></ul></div>
         </div>
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2"></div>
     <div class="col-12 mb-2">
-      <h5>Duahawk Evol Pill Spawn Locations</h5>
+      <h2>Duahawk Evol Pill Spawn Locations</h2>
       <p>Duahawk Evol Pill is randomly spawned</p>
     </div>
   </div>

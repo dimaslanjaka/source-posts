@@ -45,7 +45,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">What is the use of the Job&#x27;s Tears</h5>
+          <h2 class="card-title">What is the use of the Job&#x27;s Tears</h2>
           <div class="card-text">
             <ul>
               <li>
@@ -60,7 +60,7 @@ categories:
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
-          <h5 class="card-title">How to get Job&#x27;s Tears</h5>
+          <h2 class="card-title">How to get Job&#x27;s Tears</h2>
           <div class="card-text">
             <ul>
               <li>Gather at the water&#x27;s edge to get Job&#x27;s Tears.</li>
@@ -667,7 +667,7 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h5>Job&#x27;s Tears Spawn Locations</h5>
+      <h2>Job&#x27;s Tears Spawn Locations</h2>
       <p>Job&#x27;s Tears is randomly spawned</p>
     </div>
   </div>
