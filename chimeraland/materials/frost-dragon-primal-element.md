@@ -72,9 +72,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Frost Dragon Primal Element</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Frost Dragon Primal Element Spawn Locations</h5>
       <p>Frost Dragon Primal Element is randomly spawned</p>
     </div>

@@ -70,9 +70,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Cray Pill</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Cray Pill Spawn Locations</h5>
       <p>Cray Pill is randomly spawned</p>
     </div>

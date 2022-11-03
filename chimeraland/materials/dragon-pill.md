@@ -70,9 +70,6 @@ categories:
       </div>
     </div>
     <div class="col-12 mb-2">
-      <h2 id="cookable">Cooking Recipes Using Dragon Pill</h2>
-    </div>
-    <div class="col-12 mb-2">
       <h5>Dragon Pill Spawn Locations</h5>
       <p>Dragon Pill is randomly spawned</p>
     </div>
