@@ -72,17 +72,32 @@ jobs:
     - name: NPM Install
       run: |
         npm i gulp-cli typescript npm ts-node hexo-cli yarn typescript --location=global
-        npm i -D https://github.com/dimaslanjaka/static-blog-generator/raw/master/release/development.tgz
+        #npm i -D https://github.com/dimaslanjaka/static-blog-generator/raw/master/release/development.tgz
         npm i -D https://github.com/dimaslanjaka/hexo-post-parser.git
         npm i -D https://github.com/dimaslanjaka/safelink.git
         npm i https://github.com/dimaslanjaka/hexo-adsense.git
         npm install
 
+    - run: mkdir .deploy_git
+      continue-on-error: true
+      name: Create Deployment Directory
+    - name: Init Deployment Directory
+      working-directory: .deploy_git
+      run: |
+        git init
+        git remote add origin https://github.com/dimaslanjaka/dimaslanjaka.github.io.git
+        git pull origin master
+
+    - run: gulp copy-all-post
+    - run: hexo generate
+    - run: gulp copy
+
     - name: Build
+      continue-on-error: true
       run: |
         npm run build
-
-    - name: Commit Submodules
+    
+    - name: Commit And Push Submodules
       continue-on-error: true
       working-directory: .deploy_git
       run: |
@@ -90,7 +105,7 @@ jobs:
         git submodule foreach "git commit -m 'update ${{ steps.vars.outputs.date }}\nfrom https://github.com/dimaslanjaka/static-blog-generator-hexo/tree/commit/${{ steps.vars.outputs.hash }}' || :"
         git submodule foreach "git push || :"
  
-    - name: Deploy
+    - name: Commit Root Site
       continue-on-error: true
       working-directory: .deploy_git
       run: |
@@ -98,7 +113,7 @@ jobs:
         git commit -m "update site ${{ steps.vars.outputs.date }}\nfrom: https://github.com/dimaslanjaka/static-blog-generator-hexo/tree/commit/${{ steps.vars.outputs.hash }}"
 
     # push to https://github.com/dimaslanjaka/dimaslanjaka.github.io#master
-    - name: Push
+    - name: Push Root Site
       continue-on-error: true
       working-directory: .deploy_git
       run: |
