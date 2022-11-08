@@ -80,6 +80,7 @@ jobs:
 
     - run: mkdir .deploy_git
       continue-on-error: true
+      name: Create Deployment Directory
     - name: Init Deployment Directory
       working-directory: .deploy_git
       run: |
