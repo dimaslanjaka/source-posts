@@ -105,7 +105,7 @@ jobs:
         git submodule foreach "git commit -m 'update ${{ steps.vars.outputs.date }}\nfrom https://github.com/dimaslanjaka/static-blog-generator-hexo/tree/commit/${{ steps.vars.outputs.hash }}' || :"
         git submodule foreach "git push || :"
  
-    - name: Deploy
+    - name: Commit Root Site
       continue-on-error: true
       working-directory: .deploy_git
       run: |
@@ -113,12 +113,10 @@ jobs:
         git commit -m "update site ${{ steps.vars.outputs.date }}\nfrom: https://github.com/dimaslanjaka/static-blog-generator-hexo/tree/commit/${{ steps.vars.outputs.hash }}"
 
     # push to https://github.com/dimaslanjaka/dimaslanjaka.github.io#master
-    - name: Commit And Push Root
+    - name: Push Root Site
       continue-on-error: true
       working-directory: .deploy_git
       run: |
         git config user.email "dimaslanjaka@gmail.com"
         git config user.name "dimaslanjaka"
-        git add .
-        git commit -m "update site ${{ steps.vars.outputs.date }}\nfrom https://github.com/dimaslanjaka/static-blog-generator-hexo/tree/commit/${{ steps.vars.outputs.hash }}"
         git push -u origin master --recurse-submodules=on-demand
