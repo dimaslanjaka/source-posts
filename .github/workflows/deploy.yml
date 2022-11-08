@@ -78,14 +78,23 @@ jobs:
         npm i https://github.com/dimaslanjaka/hexo-adsense.git
         npm install
 
-    - name: Build
+    - run: mkdir .deploy_git
       continue-on-error: true
+    - name: Init Deployment Directory
+      working-directory: .deploy_git
       run: |
-        npm run build
+        git init
+        git remote add origin https://github.com/dimaslanjaka/dimaslanjaka.github.io.git
+        git pull origin master
 
     - run: gulp copy-all-post
     - run: hexo generate
     - run: gulp copy
+
+    - name: Build
+      continue-on-error: true
+      run: |
+        npm run build
     
     - name: Commit Submodules
       continue-on-error: true
