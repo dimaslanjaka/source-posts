@@ -72,7 +72,7 @@ jobs:
     - name: NPM Install
       run: |
         npm i gulp-cli typescript npm ts-node hexo-cli yarn typescript --location=global
-        npm i -D https://github.com/dimaslanjaka/static-blog-generator/raw/master/release/development.tgz
+        #npm i -D https://github.com/dimaslanjaka/static-blog-generator/raw/master/release/development.tgz
         npm i -D https://github.com/dimaslanjaka/hexo-post-parser.git
         npm i -D https://github.com/dimaslanjaka/safelink.git
         npm i https://github.com/dimaslanjaka/hexo-adsense.git
