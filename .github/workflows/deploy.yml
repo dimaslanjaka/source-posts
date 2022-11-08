@@ -83,7 +83,7 @@ jobs:
       run: |
         npm run build
 
-    - run: gulp copy-all-posts
+    - run: gulp copy-all-post
     - run: hexo generate
     - run: gulp copy
     
