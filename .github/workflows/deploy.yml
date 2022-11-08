@@ -79,9 +79,14 @@ jobs:
         npm install
 
     - name: Build
+      continue-on-error: true
       run: |
         npm run build
 
+    - run: gulp copy-all-posts
+    - run: hexo generate
+    - run: gulp copy
+    
     - name: Commit Submodules
       continue-on-error: true
       working-directory: .deploy_git
