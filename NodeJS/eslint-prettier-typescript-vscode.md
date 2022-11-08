@@ -21,9 +21,9 @@ location: Indonesia
 subtitle: How to configure eslint with prettier to automated lint and format
   codes in typescript project using vscode
 tags:
+  - NodeJS
   - JS
   - TS
-  - NodeJS
   - ESLint
 title: Eslint Prettier In Typescript Project Using Vscode
 type: post
