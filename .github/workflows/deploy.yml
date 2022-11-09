@@ -52,6 +52,7 @@ jobs:
         git config --global user.email "dimaslanjaka@gmail.com"
         git config --global user.name "dimaslanjaka"
         git config --global init.defaultBranch master
+        git submodule update -r -i
         git submodule foreach "git pull || :"
           
     - name: Use Node.js
@@ -88,6 +89,10 @@ jobs:
         git init
         git remote add origin https://github.com/dimaslanjaka/dimaslanjaka.github.io.git
         git pull origin master
+    - run: git submodule update -r -i
+      name: Update submodules
+      working-directory: .deploy_git
+      continue-on-error: true
 
     - run: gulp copy-all-post
     - run: hexo generate
