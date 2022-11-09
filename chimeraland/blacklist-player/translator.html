@@ -168,17 +168,11 @@
 <script type="text/javascript">
   function translatorWidgetStart() {
     var mylang = 'id', // Your website language
-      anchor = document.getElementById('translate-me'),
+      translateBtn = document.getElementById('translate-me'),
       canonical = document.querySelector('link[rel="canonical"]');
     // get href
-    if (canonical) {
-      console.log('get href of canonical')
-      canonical = canonical.getAttribute('href').toString().trim();
-    }
-    console.log({
-      canonical
-    });
-    anchor.onclick = function () {
+    if (canonical) canonical = canonical.getAttribute('href').toString().trim();
+    translateBtn.onclick = function () {
       var toLang = document
         .querySelector('select#translate-language')
         .value.trim();
