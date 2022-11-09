@@ -1,5 +1,5 @@
 ---
-title: Monster Shaman Twinkle
+title: Attendant Shaman Twinkle
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T05:26:37+07:00

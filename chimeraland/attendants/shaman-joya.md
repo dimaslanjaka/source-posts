@@ -1,5 +1,5 @@
 ---
-title: Monster Shaman Joya
+title: Attendant Shaman Joya
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T01:26:37+07:00

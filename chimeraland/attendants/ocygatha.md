@@ -1,5 +1,5 @@
 ---
-title: Monster Ocygatha
+title: Attendant Ocygatha
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T21:26:37+07:00

@@ -1,5 +1,5 @@
 ---
-title: Monster Shaman Astra
+title: Attendant Shaman Astra
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-28T21:26:37+07:00

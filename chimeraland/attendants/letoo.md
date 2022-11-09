@@ -1,5 +1,5 @@
 ---
-title: Monster Letoo
+title: Attendant Letoo
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T08:26:37+07:00

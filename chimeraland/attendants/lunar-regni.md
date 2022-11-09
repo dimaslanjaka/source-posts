@@ -1,5 +1,5 @@
 ---
-title: Monster Lunar Regni
+title: Attendant Lunar Regni
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-28T22:26:37+07:00

@@ -1,5 +1,5 @@
 ---
-title: Monster Lok-Aqui
+title: Attendant Lok-Aqui
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T02:26:37+07:00

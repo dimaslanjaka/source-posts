@@ -1,5 +1,5 @@
 ---
-title: Monster Rhijin
+title: Attendant Rhijin
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T02:26:37+07:00

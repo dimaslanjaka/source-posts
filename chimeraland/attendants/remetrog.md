@@ -1,5 +1,5 @@
 ---
-title: Monster Remetrog
+title: Attendant Remetrog
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-28T23:26:37+07:00

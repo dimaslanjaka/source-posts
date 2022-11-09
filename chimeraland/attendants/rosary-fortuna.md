@@ -1,5 +1,5 @@
 ---
-title: Monster Rosary Fortuna
+title: Attendant Rosary Fortuna
 webtitle: Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T15:26:37+07:00
