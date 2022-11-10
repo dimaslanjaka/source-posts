@@ -1,0 +1,131 @@
+---
+title: VSCode settings JSON for nunjucks and EJS
+tags: ['VSCode']
+category: ['Programming']
+date: 2022-11-10T07:45:00+07:00
+updated: 2022-11-10T07:45:00+07:00
+---
+
+```jsonc
+{
+  "terminal.integrated.env.linux": {
+    "PATH": "${env:PATH}:${workspaceFolder}/node_modules/.bin:${workspaceFolder}/bin"
+  },
+  "terminal.integrated.env.windows": {
+    "PATH": "${env:PATH};${workspaceFolder}\\node_modules\\.bin;${workspaceFolder}\\bin"
+  },
+  "npm.enableRunFromFolder": true,
+  "files.autoSave": "onWindowChange",
+  "files.autoSaveDelay": 30000,
+  "typescript.tsc.autoDetect": "on",
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "files.associations": {
+    "*.njk": "html",
+    "*.ejs": "html"
+  },
+  "emmet.includeLanguages": {
+    "ejs": "html",
+    "njk": "html",
+    "nunjucks": "html"
+  },
+  "emmet.syntaxProfiles": {
+    "njk": "html",
+  },
+  "eslint.format.enable": true,
+  "eslint.trace.server": "messages",
+  "editor.wordWrap": "on",
+  "editor.bracketPairColorization.enabled": true,
+  "javascript.suggestionActions.enabled": false,
+  "typescript.suggestionActions.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll.eslint": true // let ESLint take formating and linting
+  },
+  "eslint.validate": [
+    "javascript",
+    "typescript"
+  ],
+  "[nunjucks]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[ejs]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[scss]": {
+    "editor.suggest.insertMode": "replace",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.suggest.insertMode": "replace",
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[json]": {
+    "editor.formatOnSave": true, // enable json formating with default vscode formatter
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[markdown]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": false,
+      "source.fixAll.eslint": false
+    }
+  },
+  "[jsonc]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[typescript]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": false
+    }
+  },
+  "editor.formatOnSave": false,
+  "editor.tabSize": 2,
+  "files.eol": "\n",
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/vendor": true,
+    "**/tmp/yarn": true
+  },
+  "code-runner.executorMap": {
+    "typescriptreact": "cross-env-shell DEBUG=chimera-* ts-node",
+    "javascript": "node",
+    "typescript": "cross-env-shell DEBUG=git-command-helper,chimera-* ts-node",
+    "coffeescript": "coffee",
+    "sass": "sass --style expanded",
+    "scss": "scss --style expanded",
+    "less": "cd $dir && lessc $fileName $fileNameWithoutExt.css"
+  },
+  "code-runner.runInTerminal": true,
+  "code-runner.cwd": "${workspaceFolder}",
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.respectShebang": true,
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "typescript.format.enable": true,
+  "typescript.tsserver.enableTracing": false,
+  "typescript.tsserver.log": "off",
+  "typescript.tsserver.trace": "off",
+  "editor.autoClosingBrackets": "always",
+  "editor.matchBrackets": "always",
+  "prettier.enableDebugLogs": true,
+  "prettier.prettierPath": "./node_modules/prettier",
+  "prettier.printWidth": 180,
+  "npm.packageManager": "npm",
+  "git.enabled": true,
+  "eslint.packageManager": "npm",
+  "explorer.autoReveal": false
+}
+```
