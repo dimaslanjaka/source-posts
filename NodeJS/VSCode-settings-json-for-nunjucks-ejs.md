@@ -21,32 +21,44 @@ permalink: /2022/10/vscode-settings-json-for-nunjucks-ejs.html
   "typescript.tsc.autoDetect": "on",
   "editor.fontFamily": "Consolas, 'Courier New', monospace",
   "editor.fontLigatures": true,
+  // setup file associations for nunjucks and ejs
   "files.associations": {
     "*.njk": "html",
     "*.ejs": "html"
   },
+  // setup emmet auto complete for nunjucks and ejs
   "emmet.includeLanguages": {
     "ejs": "html",
     "njk": "html",
     "nunjucks": "html"
   },
+  // setup syntax profiles for nunjucks and ejs
   "emmet.syntaxProfiles": {
     "njk": "html",
+    "ejs": "html"
   },
+  // optional: for eslint plugin
   "eslint.format.enable": true,
   "eslint.trace.server": "messages",
+  // make editor auto word-wrap
   "editor.wordWrap": "on",
+  // enable bracket pair colorized
   "editor.bracketPairColorization.enabled": true,
+  // disable javascript suggestions
   "javascript.suggestionActions.enabled": false,
   "typescript.suggestionActions.enabled": true,
   "editor.codeActionsOnSave": {
+    // remove unused imports
     "source.organizeImports": true,
-    "source.fixAll.eslint": true // let ESLint take formating and linting
+    // fix all errors such as eslint, etc
+    "source.fixAll": true // let ESLint take formating and linting
   },
+  // optional: eslint validate files assoc
   "eslint.validate": [
     "javascript",
     "typescript"
   ],
+  // custom settings for nunjucks files
   "[nunjucks]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "vscode.html-language-features"
