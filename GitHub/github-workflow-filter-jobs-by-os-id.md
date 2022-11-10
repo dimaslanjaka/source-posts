@@ -2,7 +2,7 @@
 title: Github Workflow Filter Job Berdasarkan OS Yang Dijalankan
 lang: id
 date: 2022-11-09T16:42:24+07:00
-updated: 2022-11-09T16:42:24+07:00
+updated: 2022-11-11T06:16:29+07:00
 category: ['Programming', 'GitHub']
 tags: ['GitHub', 'Workflow', 'Job']
 permalink: /id/GitHub/github-workflow-filter-jobs-by-os.html

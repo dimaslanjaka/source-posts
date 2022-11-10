@@ -2,7 +2,7 @@
 title: Github Workflow Filter Jobs By OS
 lang: en
 date: 2022-11-09T16:49:20+07:00
-updated: 2022-11-09T21:59:56+07:00
+updated: 2022-11-11T06:16:29+07:00
 category: ['Programming', 'GitHub']
 tags: ['GitHub', 'Workflow', 'Job']
 permalink: /GitHub/github-workflow-filter-jobs-by-os.html
