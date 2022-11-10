@@ -5,6 +5,7 @@ category: ['Programming']
 date: 2022-11-10T07:45:00+07:00
 updated: 2022-11-10T08:00:33+07:00
 permalink: /2022/10/vscode-settings-json-for-nunjucks-ejs.html
+thumbnail: https://miro.medium.com/max/1400/1*Q1xstpngN6E4H-WHLySJvg.png
 ---
 
 ## Download VSCode Nunjucks Plugin
