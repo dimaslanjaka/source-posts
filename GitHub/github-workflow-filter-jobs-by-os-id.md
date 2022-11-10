@@ -5,6 +5,7 @@ date: 2022-11-09T16:42:24+07:00
 updated: 2022-11-09T16:42:24+07:00
 category: ['Programming', 'GitHub']
 tags: ['GitHub', 'Workflow', 'Job']
+permalink: permalink: /id/GitHub/github-workflow-filter-jobs-by-os.html
 ---
 
 ## Condition Syntax Berdasarkan OS Yang Dijalankan Saat Ini
