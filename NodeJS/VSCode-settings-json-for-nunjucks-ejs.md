@@ -3,9 +3,21 @@ title: VSCode settings JSON for nunjucks and EJS
 tags: ['VSCode']
 category: ['Programming']
 date: 2022-11-10T07:45:00+07:00
-updated: 2022-11-10T07:45:00+07:00
+updated: 2022-11-10T08:00:33+07:00
 permalink: /2022/10/vscode-settings-json-for-nunjucks-ejs.html
 ---
+
+## Download VSCode Nunjucks Plugin
+| Resource | Link |
+| :--- | :--- |
+| Marketplace | [https://marketplace.visualstudio.com/items?itemName=ginfuru.better-nunjucks](https://marketplace.visualstudio.com/items?itemName=ginfuru.better-nunjucks) |
+| Repository | [https://github.com/edheltzel/nunjucks-for-visual-studio-code](https://github.com/edheltzel/nunjucks-for-visual-studio-code) |
+
+## Download VSCode EJS Plugin
+| Resource | Link |
+| :--- | :--- |
+| Marketplace | [https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support](https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support)
+| Repository | [https://github.com/Digitalbrainstem/ejs-grammar](https://github.com/Digitalbrainstem/ejs-grammar) |
 
 ```jsonc
 {
