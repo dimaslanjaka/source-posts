@@ -19,6 +19,7 @@ permalink: /2022/10/vscode-settings-json-for-nunjucks-ejs.html
 | Marketplace | [https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support](https://marketplace.visualstudio.com/items?itemName=DigitalBrainstem.javascript-ejs-support)
 | Repository | [https://github.com/Digitalbrainstem/ejs-grammar](https://github.com/Digitalbrainstem/ejs-grammar) |
 
+## VSCode Settings JSON for Nunjucks and EJS
 ```jsonc
 {
   "terminal.integrated.env.linux": {
