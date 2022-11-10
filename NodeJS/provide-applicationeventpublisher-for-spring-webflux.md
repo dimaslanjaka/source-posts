@@ -2,8 +2,9 @@
 title: Provide 'ApplicationEventPublisher' for Spring WebFlux
 permalink: /2020/10/provide-applicationeventpublisher-for-spring-webflux.html
 date: 2022-11-10T08:35:48+07:00
-updated: 2022-11-10T08:35:48+07:00
-category: ['Programming', 'TS']
+updated: 2022-11-10T09:08:23+07:00
+category: ['Programming', 'Java']
+tags: ['Java', 'SpringBoot', 'WebFlux']
 ---
 
 ApplicationEventPublisher is provided in Spring for publishing events, which is useful in some scenarios, for example, when I create an item, and another service listens for item creation and creates inventory for it. So it's very practical in Spring MVC, and I often use it for decoupling, but when I switch to WebFlux, it's embarrassing. Because ApplicationEventPublisher is a synchronous operation, it does not support reactive, ie streaming operations.
