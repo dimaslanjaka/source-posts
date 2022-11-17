@@ -3,25 +3,24 @@ author:
   nick: Kus Wati
   link: https://www.blogger.com/profile/06399286952380672824
   email: noreply@blogger.com
-category: []
+category: ["Programming", "Java"]
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
 date: 2020-02-25T05:25:00.001+07:00
 lang: en
-subtitle: You can speed up your Eclipse or Android Studio work, you just follow these
 tags:
   - Android
   - Tips & Tricks
+  - Java
 title: Increase Performance Android Studio
 type: post
 uuid: 07fe6730-d4e9-4888-8069-db5d8c1f9297
-updated: 2022-11-17T05:00:01+07:00
+updated: 2022-11-17T05:10:04+07:00
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
 permalink: /2020/02/increase-performance-android-studio.html
-description: You can speed up your Eclipse or Android Studio work, you just follow these
 ---
 
-![](https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1)
+![Thumbnail](https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1)
 
 ### Solver 1
 
@@ -74,9 +73,16 @@ You can fix this by changing the Gradle JVM options. You can do this on a per-us
 org.gradle.jvmargs=-Xmx256m -XX:MaxPermSize=256m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
 ```
 
-### For java 11 or higher
+#### For java 11 or higher
+jvmarg for `-XX:MaxPermSize` java 11 has changed to `-XX:MaxMetaspaceSize`
 ```properties
 org.gradle.jvmargs=-Xmx256m -XX:MaxMetaspaceSize=256m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
+```
+
+> If you got error **java.lang.OutOfMemoryError: Java heap space**, try below jvmargs
+
+```properties
+org.gradle.jvmargs=-Xmx2048m -XX:MaxMetaspaceSize=512m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
 ```
     
 
