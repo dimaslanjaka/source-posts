@@ -84,7 +84,7 @@ jobs:
 
     - run: mkdir .deploy_git
       continue-on-error: true
-      name: Create Deployment Directory
+      name: "Deploy: Create Deployment Directory"
     - name: Init Deployment Directory
       working-directory: .deploy_git
       continue-on-error: true
@@ -93,7 +93,7 @@ jobs:
         git remote add origin https://github.com/dimaslanjaka/dimaslanjaka.github.io.git
         git pull origin master
     - run: git submodule update -r -i
-      name: Update submodules
+      name: "Deploy: Update submodules"
       working-directory: .deploy_git
       continue-on-error: true
 
@@ -106,7 +106,7 @@ jobs:
       run: |
         npm run build
     
-    - name: Commit And Push Submodules
+    - name: "Deploy: Commit And Push Submodules"
       continue-on-error: true
       working-directory: .deploy_git
       run: |
@@ -114,7 +114,7 @@ jobs:
         git submodule foreach "git commit -m 'update ${{ steps.vars.outputs.date }}\nfrom https://github.com/dimaslanjaka/static-blog-generator-hexo/tree/commit/${{ steps.vars.outputs.hash }}' || :"
         git submodule foreach "git push || :"
  
-    - name: Commit Root Site
+    - name: "Deploy: Commit Root Site"
       continue-on-error: true
       working-directory: .deploy_git
       run: |
@@ -122,10 +122,18 @@ jobs:
         git commit -m "update site ${{ steps.vars.outputs.date }}\nfrom: https://github.com/dimaslanjaka/static-blog-generator-hexo/tree/commit/${{ steps.vars.outputs.hash }}"
 
     # push to https://github.com/dimaslanjaka/dimaslanjaka.github.io#master
-    - name: Push Root Site
+    - name: "Deploy: Push Root Site"
       continue-on-error: true
       working-directory: .deploy_git
       run: |
         git config user.email "dimaslanjaka@gmail.com"
         git config user.name "dimaslanjaka"
         git push -u origin master --recurse-submodules=on-demand
+    - name: Re-deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@v4.3.0
+      with:
+        repository-name: dimaslanjaka/dimaslanjaka.github.io # repository url
+        branch: master # The branch the action should deploy to.
+        folder: .deploy_git # The folder the action should deploy.
+        force: false # merge instead delete old files
+        token: "${{ secrets.GITHUB_TOKEN }}"
