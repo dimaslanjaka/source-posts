@@ -74,9 +74,12 @@ jobs:
       run: |
         npm i gulp-cli typescript npm ts-node hexo-cli yarn typescript --location=global
         #npm i -D https://github.com/dimaslanjaka/static-blog-generator/raw/master/release/development.tgz
+        echo "install hexo-post-parser"
         npm i -D https://github.com/dimaslanjaka/hexo-post-parser.git
+        echo "install safelinkify"
         npm i -D https://github.com/dimaslanjaka/safelink.git
-        npm i https://github.com/dimaslanjaka/hexo-adsense.git
+        #npm i https://github.com/dimaslanjaka/hexo-adsense.git
+        echo "install project"
         npm install
 
     - run: mkdir .deploy_git
