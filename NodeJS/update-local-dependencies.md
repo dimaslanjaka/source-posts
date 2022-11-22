@@ -92,4 +92,4 @@ add script `postinstall` to package.json
 
 usages
 
-just run `npm install` and the script runned automatically.
+just run `npm install` and the script `postinstall` runned automatically.
