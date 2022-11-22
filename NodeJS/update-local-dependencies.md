@@ -10,9 +10,8 @@ tags: ['NPM', 'Auto']
 create file `postinstall.js`
 
 ```js
-require('./bin/update-cache.js');
 const pjson = require('./package.json');
-const { summon } = require('./preinstall.js');
+const { spawn } = require('cross-spawn');
 const fs = require('fs');
 const path = require('path/posix');
 
@@ -48,6 +47,31 @@ const path = require('path/posix');
     }
   }
 })();
+
+/**
+ * spawn command prompt
+ * @param {string} cmd
+ * @param {string[]} args
+ * @param {Parameters<typeof spawn>[2]} opt
+ * @returns
+ */
+function summon(cmd, args = [], opt = {}) {
+  // *** Return the promise
+  return new Promise(function (resolve, reject) {
+    if (typeof cmd !== 'string' || cmd.trim().length === 0)
+      return reject('cmd empty');
+    const process = spawn(cmd, args, opt);
+    process.on('close', function (code) {
+      // Should probably be 'exit', not 'close'
+      // *** Process completed
+      resolve(code);
+    });
+    process.on('error', function (err) {
+      // *** Process creation failed
+      reject(err);
+    });
+  });
+}
 ```
 
 add script `postinstall` to package.json
