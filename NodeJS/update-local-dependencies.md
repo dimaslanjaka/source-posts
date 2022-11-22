@@ -7,12 +7,13 @@ category: ['Programming']
 tags: ['NPM', 'Auto']
 ---
 
-install package
+## install package
 
 ```bash
 npm i -D cross-spawn
 ```
 
+## Create Script
 create file `postinstall.js`
 
 ```js
@@ -80,6 +81,7 @@ function summon(cmd, args = [], opt = {}) {
 }
 ```
 
+## Register Script
 add script `postinstall` to package.json
 
 ```json
@@ -90,6 +92,11 @@ add script `postinstall` to package.json
 }
 ```
 
+## Conclusion
+
 usages
 
 just run `npm install` and the script `postinstall` runned automatically.
+
+## References
+- [https://stackoverflow.com/questions/32873867/update-local-file-dependency-with-npm](https://stackoverflow.com/questions/32873867/update-local-file-dependency-with-npm)
