@@ -7,6 +7,12 @@ category: ['Programming']
 tags: ['NPM', 'Auto']
 ---
 
+install package
+
+```bash
+npm i -D cross-spawn
+```
+
 create file `postinstall.js`
 
 ```js
