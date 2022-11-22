@@ -1,5 +1,5 @@
 ---
-title: Update NPM local dependencies
+title: Auto update NPM local and monorepo dependencies
 description: How to always update local and monorepo dependencies automatically
 date: 2022-11-22T21:00:09+07:00
 updated: 2022-11-22T21:00:09+07:00
