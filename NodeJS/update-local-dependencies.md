@@ -89,3 +89,7 @@ add script `postinstall` to package.json
   }
 }
 ```
+
+usages
+
+just run `npm install` and the script runned automatically.
