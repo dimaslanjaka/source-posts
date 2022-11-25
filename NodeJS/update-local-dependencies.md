@@ -2,7 +2,7 @@
 title: Auto update NPM local and monorepo dependencies
 description: How to always update local and monorepo dependencies automatically
 date: 2022-11-22T21:00:09+07:00
-updated: 2022-11-22T21:08:11+07:00
+updated: 2022-11-25T21:14:51+07:00
 category: ['Programming']
 tags: ['NPM', 'Auto']
 ---
