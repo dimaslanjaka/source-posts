@@ -2,7 +2,7 @@
 title: Auto update NPM local and monorepo dependencies
 description: How to always update local and monorepo dependencies automatically
 date: 2022-11-22T21:00:09+07:00
-updated: 2022-11-25T21:14:51+07:00
+updated: 2022-11-25T22:27:31+07:00
 category: ['Programming']
 tags: ['NPM', 'Auto']
 ---
@@ -81,18 +81,8 @@ function summon(cmd, args = [], opt = {}) {
 }
 ```
 
-## Register Script
-add script `postinstall` to package.json
-
-```json
-{
-  "scripts": {
-    "postinstall": "node postinstall.js"
-  }
-}
-```
-
-## Update Script 25-11-2022
+### Update script 25-11-2022
+> - using `npm update` or `yarn upgrade`
 ```js
 const pjson = require('./package.json');
 const fs = require('fs');
@@ -104,7 +94,7 @@ const { spawn } = require('cross-spawn');
   const packages = [pjson.dependencies, pjson.devDependencies];
   for (let i = 0; i < packages.length; i++) {
     const pkgs = packages[i];
-    const isDev = i === 1; // <-- index devDependencies
+    //const isDev = i === 1; // <-- index devDependencies
     for (const pkgname in pkgs) {
       /**
        * @type {string}
@@ -113,16 +103,16 @@ const { spawn } = require('cross-spawn');
       // re-installing local and monorepo package
       if (/^((file|github):|(git|ssh)\+|http)/.test(version)) {
         const isYarn = fs.existsSync(path.join(__dirname, 'yarn.lock'));
-        const arg = [version, isDev ? '-D' : ''].filter((str) => str.trim().length > 0);
+        //const arg = [version, isDev ? '-D' : ''].filter((str) => str.trim().length > 0);
         if (isYarn) {
           // yarn upgrade package
-          await summon('yarn', ['upgrade'].concat(arg), {
+          await summon('yarn', ['upgrade'].concat(pkgname), {
             cwd: __dirname,
             stdio: 'inherit'
           });
         } else {
           // npm update package
-          await summon('npm', ['update'].concat(arg), {
+          await summon('npm', ['update'].concat(pkgname), {
             cwd: __dirname,
             stdio: 'inherit'
           });
@@ -154,6 +144,17 @@ function summon(cmd, args = [], opt = {}) {
       reject(err);
     });
   });
+}
+```
+
+## Register Script
+add script `postinstall` to package.json
+
+```json
+{
+  "scripts": {
+    "postinstall": "node postinstall.js"
+  }
 }
 ```
 
