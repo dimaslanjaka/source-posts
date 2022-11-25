@@ -16,4 +16,4 @@ categories:
   - Monsters
 ---
 
-<section id="bootstrap-wrapper"><link rel="stylesheet" href="https://cdn.statically.io/gh/dimaslanjaka/Web-Manajemen/40ac3225/css/bootstrap-4.5-wrapper.css"/><h1>Snowie Information from Chimeraland</h1><p><b>Snowie</b> default attribute GRADE B ATK 58 HP 58 DEF 58<table><tr><th>GRADE</th><td>B</td></tr><tr><th>Attack</th><td>58</td></tr><tr><th>Health Point (HP)</th><td>58</td></tr><tr><th>Defense</th><td>58</td></tr></table></p><hr/><h2>Delicacies/Tasty for Snowie</h2><hr/><div id="gallery"><h2>Galleries for Snowie</h2><div class="row"></div></div></section>
+<section id="bootstrap-wrapper"><link rel="stylesheet" href="https://cdn.statically.io/gh/dimaslanjaka/Web-Manajemen/40ac3225/css/bootstrap-4.5-wrapper.css"/><h2>Snowie Information from Chimeraland</h2><p><b>Snowie</b> default attribute GRADE B ATK 58 HP 58 DEF 58<table><tr><th>GRADE</th><td>B</td></tr><tr><th>Attack</th><td>58</td></tr><tr><th>Health Point (HP)</th><td>58</td></tr><tr><th>Defense</th><td>58</td></tr></table></p><hr/><h2>Delicacies/Tasty for Snowie</h2><hr/><div id="gallery"><h2>Galleries for Snowie</h2><div class="row"></div></div></section>
