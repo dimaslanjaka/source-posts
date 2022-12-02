@@ -7,12 +7,12 @@ author: L3n4r0x
 permalink: /chimeraland/materials/precious-jade.html
 photos:
   - /chimeraland/materials/precious-jade/precious-jade.webp
-  - /chimeraland/materials/precious-jade/precious-jade-eastmount.webp
-  - /chimeraland/materials/precious-jade/precious-jade-southmount.webp
-  - /chimeraland/materials/precious-jade/precious-jade-westmount.webp
-  - /chimeraland/materials/precious-jade/precious-jade-2-westmount.webp
-  - /chimeraland/materials/precious-jade/precious-jade-3-eastmount.webp
-  - /chimeraland/materials/precious-jade/precious-jade-3-westmount.webp
+  - /chimeraland/materials/precious-jade/eastmount-3.webp
+  - /chimeraland/materials/precious-jade/eastmount.webp
+  - /chimeraland/materials/precious-jade/southmount.webp
+  - /chimeraland/materials/precious-jade/westmount-2.webp
+  - /chimeraland/materials/precious-jade/westmount-3.webp
+  - /chimeraland/materials/precious-jade/westmount.webp
 thumbnail: /chimeraland/materials/precious-jade/precious-jade.webp
 tags:
   - Material
@@ -87,54 +87,54 @@ categories:
       <h2>Precious Jade Spawn Locations</h2>
       <div></div>
       <div class="p-4">
-        <h5>Precious Jade Eastmount</h5>
+        <h5>Eastmount 3</h5>
         <img
-          src="/chimeraland/materials/precious-jade/precious-jade-eastmount.webp"
+          src="/chimeraland/materials/precious-jade/eastmount-3.webp"
           alt="Precious Jade"
           data-fancybox="true"
           width="100%"
         />
       </div>
       <div class="p-4">
-        <h5>Precious Jade Southmount</h5>
+        <h5>Eastmount</h5>
         <img
-          src="/chimeraland/materials/precious-jade/precious-jade-southmount.webp"
+          src="/chimeraland/materials/precious-jade/eastmount.webp"
           alt="Precious Jade"
           data-fancybox="true"
           width="100%"
         />
       </div>
       <div class="p-4">
-        <h5>Precious Jade Westmount</h5>
+        <h5>Southmount</h5>
         <img
-          src="/chimeraland/materials/precious-jade/precious-jade-westmount.webp"
+          src="/chimeraland/materials/precious-jade/southmount.webp"
           alt="Precious Jade"
           data-fancybox="true"
           width="100%"
         />
       </div>
       <div class="p-4">
-        <h5>Precious Jade 2 Westmount</h5>
+        <h5>Westmount 2</h5>
         <img
-          src="/chimeraland/materials/precious-jade/precious-jade-2-westmount.webp"
+          src="/chimeraland/materials/precious-jade/westmount-2.webp"
           alt="Precious Jade"
           data-fancybox="true"
           width="100%"
         />
       </div>
       <div class="p-4">
-        <h5>Precious Jade 3 Eastmount</h5>
+        <h5>Westmount 3</h5>
         <img
-          src="/chimeraland/materials/precious-jade/precious-jade-3-eastmount.webp"
+          src="/chimeraland/materials/precious-jade/westmount-3.webp"
           alt="Precious Jade"
           data-fancybox="true"
           width="100%"
         />
       </div>
       <div class="p-4">
-        <h5>Precious Jade 3 Westmount</h5>
+        <h5>Westmount</h5>
         <img
-          src="/chimeraland/materials/precious-jade/precious-jade-3-westmount.webp"
+          src="/chimeraland/materials/precious-jade/westmount.webp"
           alt="Precious Jade"
           data-fancybox="true"
           width="100%"

@@ -7,7 +7,7 @@ author: L3n4r0x
 permalink: /chimeraland/materials/pale-jade.html
 photos:
   - /chimeraland/materials/pale-jade/pale-jade.webp
-  - /chimeraland/materials/pale-jade/pale-jade-eastmount.webp
+  - /chimeraland/materials/pale-jade/eastmount.webp
 thumbnail: /chimeraland/materials/pale-jade/pale-jade.webp
 tags:
   - Material
@@ -83,9 +83,9 @@ categories:
       <h2>Pale Jade Spawn Locations</h2>
       <div></div>
       <div class="p-4">
-        <h5>Pale Jade Eastmount</h5>
+        <h5>Eastmount</h5>
         <img
-          src="/chimeraland/materials/pale-jade/pale-jade-eastmount.webp"
+          src="/chimeraland/materials/pale-jade/eastmount.webp"
           alt="Pale Jade"
           data-fancybox="true"
           width="100%"

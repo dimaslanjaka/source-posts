@@ -7,7 +7,6 @@ author: L3n4r0x
 permalink: /chimeraland/materials/gold.html
 photos:
   - /chimeraland/materials/gold/gold.webp
-  - /chimeraland/materials/gold/golden-desire-eastmount.webp
 thumbnail: /chimeraland/materials/gold/gold.webp
 tags:
   - Material
@@ -75,16 +74,7 @@ categories:
     </div>
     <div class="col-12 mb-2">
       <h2>Gold Spawn Locations</h2>
-      <div></div>
-      <div class="p-4">
-        <h5>Golden Desire Eastmount</h5>
-        <img
-          src="/chimeraland/materials/gold/golden-desire-eastmount.webp"
-          alt="Gold"
-          data-fancybox="true"
-          width="100%"
-        />
-      </div>
+      <p>Gold is randomly spawned</p>
     </div>
   </div>
 </section>
