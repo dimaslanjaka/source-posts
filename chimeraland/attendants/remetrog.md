@@ -20,8 +20,8 @@ categories:
   - Games
   - Chimeraland
   - Attendants
-description: Remetrog default quality GRADE C ATK 51 HP 52 DEF 47 Attack 20,HP
-  200,Monster EXP Bonus 40.0% delicacies/tasty Aged Butterfly Wing
+description: attendant Remetrog default quality GRADE C ATK 51 HP 52 DEF 47
+  Attack 20,HP 200,Monster EXP Bonus 40.0% delicacies/tasty Aged Butterfly Wing
   Broth,Yurlunggur Mixed Vegetables,Dragon Serpent Combo
   Games,Chimeraland,Attendants Chimeraland,Attendant
 ---

@@ -22,7 +22,7 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
+description: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
   Attributes Conversion Rate 4.0%,Ranged Dmg +4.8% delicacies/tasty Brined
   Silkhopper Meat,Hot 'n Sour Jelly,Overlord Hide Jelly
   Games,Chimeraland,Monsters Chimeraland,Monster,Pet

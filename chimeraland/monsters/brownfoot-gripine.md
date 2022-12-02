@@ -21,8 +21,8 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF 66
-  Attributes Conversion Rate 4.0%,Melee DMG Increase 4.8% delicacies/tasty
+description: monster Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF
+  66 Attributes Conversion Rate 4.0%,Melee DMG Increase 4.8% delicacies/tasty
   Succulent Ox Marrow,Exotic Herbal Jelly,Steamed Sweet & Sour Icebug
   Games,Chimeraland,Monsters Chimeraland,Monster,Pet
 ---

@@ -22,9 +22,9 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Hillord default quality GRADE B ATK 60 HP 60 DEF 60 Attributes
-  Conversion Rate 4.0%,Crit 328 delicacies/tasty Smoked Eleboar Meat,Crispy
-  Fried Stinger,Flamebug Meat Claypot Games,Chimeraland,Monsters
+description: monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0%,Crit 328 delicacies/tasty Smoked Eleboar
+  Meat,Crispy Fried Stinger,Flamebug Meat Claypot Games,Chimeraland,Monsters
   Chimeraland,Monster,Pet
 ---
 

@@ -21,7 +21,7 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Palomino Horse default quality Need admin to write (auto
+description: monster Palomino Horse default quality Need admin to write (auto
   build)  delicacies/tasty Braised Lobcray Meat,Tasty Wing Tip,Steamed Sweet &
   Sour Icebug Games,Chimeraland,Monsters Chimeraland,Monster,Pet
 ---

@@ -31,9 +31,9 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: White Maiden default quality GRADE A ATK 83 HP 79 DEF 78 Attributes
-  Conversion Rate 5.0%,HP 12600,Ranged Dmg +4.8%,Resilience 35,Defense 315
-  delicacies/tasty Spicy Fish & Mutton Soup,Yurlunggur Mixed
+description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
+  Attributes Conversion Rate 5.0%,HP 12600,Ranged Dmg +4.8%,Resilience
+  35,Defense 315 delicacies/tasty Spicy Fish & Mutton Soup,Yurlunggur Mixed
   Vegetables,Stir-Fried Browtelope Games,Chimeraland,Monsters
   Chimeraland,Monster,Pet
 ---

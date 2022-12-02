@@ -21,9 +21,9 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Mukrider default quality GRADE A ATK 70 HP 70 DEF 70 Attributes
-  Conversion Rate 4.0%,Melee DMG Increase 4.8% delicacies/tasty Steamed
-  Fortuphant Meat,Flame Roasted Horn,Flamebug Meat Claypot
+description: monster Mukrider default quality GRADE A ATK 70 HP 70 DEF 70
+  Attributes Conversion Rate 4.0%,Melee DMG Increase 4.8% delicacies/tasty
+  Steamed Fortuphant Meat,Flame Roasted Horn,Flamebug Meat Claypot
   Games,Chimeraland,Monsters Chimeraland,Monster,Pet
 ---
 

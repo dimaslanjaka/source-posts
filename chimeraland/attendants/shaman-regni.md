@@ -13,8 +13,8 @@ categories:
   - Games
   - Chimeraland
   - Attendants
-description: Shaman Regni default quality GRADE C ATK 60 HP 60 DEF 60 Attack
-  30,HP 300,Monster EXP Bonus 40% delicacies/tasty Rustic Preserved Deer
+description: attendant Shaman Regni default quality GRADE C ATK 60 HP 60 DEF 60
+  Attack 30,HP 300,Monster EXP Bonus 40% delicacies/tasty Rustic Preserved Deer
   Roll,Exotic Herbal Jelly,Hot Stone Icefox Meat Games,Chimeraland,Attendants
   Chimeraland,Attendant
 ---

@@ -21,7 +21,7 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
+description: monster Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
   Attributes Conversion Rate 4.0%,Hp 339 delicacies/tasty Five Venom Serpent
   Soup,Moddly Wings Topped Rice,Dragon Serpent Combo Games,Chimeraland,Monsters
   Chimeraland,Monster,Pet

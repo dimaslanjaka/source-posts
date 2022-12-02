@@ -22,7 +22,7 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
+description: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
   Attributes Conversion Rate 4.0%,PvP Damage Reduction 4.8% delicacies/tasty
   Spiced Alligon,Exotic Herbal Jelly,Bear Ball Pot Games,Chimeraland,Monsters
   Chimeraland,Monster,Pet

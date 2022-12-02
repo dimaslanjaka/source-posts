@@ -22,7 +22,7 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF 64
+description: monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF 64
   Attributes Conversion Rate 4.0%,Crit 328 delicacies/tasty Aromatic Litiger
   Ball,Flame Roasted Horn,Overlord Hide Jelly Games,Chimeraland,Monsters
   Chimeraland,Monster,Pet

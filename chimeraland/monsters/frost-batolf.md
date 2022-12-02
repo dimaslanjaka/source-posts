@@ -23,9 +23,9 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Frost Batolf default quality GRADE A ATK 71 HP 72 DEF 68 Attributes
-  Conversion Rate 4.0%,Ranged Dmg +4.8% delicacies/tasty Spicy Fish & Mutton
-  Soup,Moddly Wings Topped Rice,Steamed Sweet & Sour Icebug
+description: monster Frost Batolf default quality GRADE A ATK 71 HP 72 DEF 68
+  Attributes Conversion Rate 4.0%,Ranged Dmg +4.8% delicacies/tasty Spicy Fish &
+  Mutton Soup,Moddly Wings Topped Rice,Steamed Sweet & Sour Icebug
   Games,Chimeraland,Monsters Chimeraland,Monster,Pet
 ---
 

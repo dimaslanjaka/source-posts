@@ -21,7 +21,7 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Horned Denglong default quality GRADE A ATK 71 HP 73 DEF 67
+description: monster Horned Denglong default quality GRADE A ATK 71 HP 73 DEF 67
   Attributes Conversion Rate 4.0%,Melee Damage Increase 4.8% delicacies/tasty
   Spicy Fish & Mutton Soup,Exotic Herbal Jelly,Hot Stone Icefox Meat
   Games,Chimeraland,Monsters Chimeraland,Monster,Pet

@@ -13,9 +13,9 @@ categories:
   - Games
   - Chimeraland
   - Attendants
-description: Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF 60 Attack
-  30,HP 300,Monster EXP Bonus 40.0% delicacies/tasty Aromatic Litiger Ball,Hot
-  'n Sour Jelly,Stir-Fried Browtelope Games,Chimeraland,Attendants
+description: attendant Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF
+  60 Attack 30,HP 300,Monster EXP Bonus 40.0% delicacies/tasty Aromatic Litiger
+  Ball,Hot 'n Sour Jelly,Stir-Fried Browtelope Games,Chimeraland,Attendants
   Chimeraland,Attendant
 ---
 

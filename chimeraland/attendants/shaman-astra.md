@@ -20,9 +20,9 @@ categories:
   - Games
   - Chimeraland
   - Attendants
-description: Shaman Astra default quality GRADE C ATK 60 HP 60 DEF 60 Attack
-  30,HP 300,Monster EXP Bonus 40.0% delicacies/tasty Horse Stew Hotpot,Hot 'n
-  Sour Jelly,Hot Stone Icefox Meat Games,Chimeraland,Attendants
+description: attendant Shaman Astra default quality GRADE C ATK 60 HP 60 DEF 60
+  Attack 30,HP 300,Monster EXP Bonus 40.0% delicacies/tasty Horse Stew
+  Hotpot,Hot 'n Sour Jelly,Hot Stone Icefox Meat Games,Chimeraland,Attendants
   Chimeraland,Attendant
 ---
 

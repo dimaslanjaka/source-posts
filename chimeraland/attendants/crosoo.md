@@ -20,9 +20,9 @@ categories:
   - Games
   - Chimeraland
   - Attendants
-description: Crosoo default quality GRADE C ATK 53 HP 54 DEF 43 Attack 20,HP
-  200,Monster EXP Bonus 40.0% delicacies/tasty Scorpion King Broth,Soy Braised
-  Dragon Bone,Flamebug Meat Claypot Games,Chimeraland,Attendants
+description: attendant Crosoo default quality GRADE C ATK 53 HP 54 DEF 43 Attack
+  20,HP 200,Monster EXP Bonus 40.0% delicacies/tasty Scorpion King Broth,Soy
+  Braised Dragon Bone,Flamebug Meat Claypot Games,Chimeraland,Attendants
   Chimeraland,Attendant
 ---
 

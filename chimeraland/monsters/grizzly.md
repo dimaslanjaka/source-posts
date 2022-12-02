@@ -21,9 +21,9 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Grizzly default quality GRADE C ATK 50 HP 60 DEF 60 Attributes
-  Conversion Rate 4.0%,Melee DMG Reduction 4.8% delicacies/tasty Hot Stone Ox
-  Marrow,Hot 'n Sour Jelly,Steamed Sweet & Sour Icebug
+description: monster Grizzly default quality GRADE C ATK 50 HP 60 DEF 60
+  Attributes Conversion Rate 4.0%,Melee DMG Reduction 4.8% delicacies/tasty Hot
+  Stone Ox Marrow,Hot 'n Sour Jelly,Steamed Sweet & Sour Icebug
   Games,Chimeraland,Monsters Chimeraland,Monster,Pet
 ---
 

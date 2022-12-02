@@ -13,9 +13,9 @@ categories:
   - Games
   - Chimeraland
   - Attendants
-description: Lunar Aquatine default quality GRADE B ATK 70 HP 70 DEF 70 Attack
-  40,HP 400,Monster EXP Bonus 40%,Joint Firearm DMG +20% delicacies/tasty Smoked
-  Eleboar Meat,Flame Roasted Horn,Stir-Fried Browtelope
+description: attendant Lunar Aquatine default quality GRADE B ATK 70 HP 70 DEF
+  70 Attack 40,HP 400,Monster EXP Bonus 40%,Joint Firearm DMG +20%
+  delicacies/tasty Smoked Eleboar Meat,Flame Roasted Horn,Stir-Fried Browtelope
   Games,Chimeraland,Attendants Chimeraland,Attendant
 ---
 

@@ -21,7 +21,7 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Venus Flytrap default quality GRADE B ATK 60 HP 60 DEF 60
+description: monster Venus Flytrap default quality GRADE B ATK 60 HP 60 DEF 60
   Attributes Conversion Rate 4.0%,HP 339 delicacies/tasty Tasty Crispy
   Spider,Soy Braised Dragon Bone,Bear Ball Pot Games,Chimeraland,Monsters
   Chimeraland,Monster,Pet

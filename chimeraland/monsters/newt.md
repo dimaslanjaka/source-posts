@@ -23,7 +23,7 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
+description: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
   Conversion Rate 4.0% delicacies/tasty Spiced Alligon,Exotic Herbal
   Jelly,Stir-Fried Browtelope Games,Chimeraland,Monsters Chimeraland,Monster,Pet
 ---

@@ -21,7 +21,7 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Ashfoot Gripine default quality GRADE C ATK 63 HP 64 DEF 70
+description: monster Ashfoot Gripine default quality GRADE C ATK 63 HP 64 DEF 70
   Attributes Conversion Rate 4.0%,Ranged DMG Reduction 4.8% delicacies/tasty
   Woodsmoked Gator Meat,Moddly Wings Topped Rice,Hot Stone Icefox Meat
   Games,Chimeraland,Monsters Chimeraland,Monster,Pet

@@ -21,9 +21,9 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Moogiradeer default quality GRADE C ATK 53 HP 63 DEF 63 Attributes
-  Conversion Rate 4.0%,PvP DMG Reduction 4.8% delicacies/tasty Braised Lobcray
-  Meat,Yurlunggur Mixed Vegetables,Overlord Hide Jelly
+description: monster Moogiradeer default quality GRADE C ATK 53 HP 63 DEF 63
+  Attributes Conversion Rate 4.0%,PvP DMG Reduction 4.8% delicacies/tasty
+  Braised Lobcray Meat,Yurlunggur Mixed Vegetables,Overlord Hide Jelly
   Games,Chimeraland,Monsters Chimeraland,Monster,Pet
 ---
 

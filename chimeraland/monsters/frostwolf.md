@@ -14,9 +14,9 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Frostwolf default quality GRADE B ATK 61 HP 57 DEF 63 Attributes
-  Conversion Rate 4.0%,Ranged DMG Reduction 4.8% delicacies/tasty Brined
-  Silkhopper Meat,Hot 'n Sour Jelly,Overlord Hide Jelly
+description: monster Frostwolf default quality GRADE B ATK 61 HP 57 DEF 63
+  Attributes Conversion Rate 4.0%,Ranged DMG Reduction 4.8% delicacies/tasty
+  Brined Silkhopper Meat,Hot 'n Sour Jelly,Overlord Hide Jelly
   Games,Chimeraland,Monsters Chimeraland,Monster,Pet
 ---
 

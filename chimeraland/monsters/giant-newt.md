@@ -23,9 +23,9 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59 Attributes
-  Conversion Rate 4.0%,HP 339 delicacies/tasty Spiced Alligon,Moddly Wings
-  Topped Rice,Flamebug Meat Claypot Games,Chimeraland,Monsters
+description: monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
+  Attributes Conversion Rate 4.0%,HP 339 delicacies/tasty Spiced Alligon,Moddly
+  Wings Topped Rice,Flamebug Meat Claypot Games,Chimeraland,Monsters
   Chimeraland,Monster,Pet
 ---
 

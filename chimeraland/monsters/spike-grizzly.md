@@ -21,7 +21,7 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
+description: monster Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
   Attributes Conversion Rate 4.0%,HP 339 delicacies/tasty Stewed Snow Goose
   Feet,Hot 'n Sour Jelly,Dragon Serpent Combo Games,Chimeraland,Monsters
   Chimeraland,Monster,Pet

@@ -23,9 +23,9 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Coracrab default quality GRADE B ATK 63 HP 66 DEF 54 Attributes
-  Conversion Rate 4.0%,PvP DMG Bonus +4.8% delicacies/tasty Tasty Exotic
-  Crab,Pepper Salt Scorpion Pincer,Hot Stone Icefox Meat
+description: monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
+  Attributes Conversion Rate 4.0%,PvP DMG Bonus +4.8% delicacies/tasty Tasty
+  Exotic Crab,Pepper Salt Scorpion Pincer,Hot Stone Icefox Meat
   Games,Chimeraland,Monsters Chimeraland,Monster,Pet
 ---
 

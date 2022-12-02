@@ -22,9 +22,9 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62 Attributes
-  Conversion Rate 4.0%,Resilience 257 delicacies/tasty Aromatic Litiger
-  Ball,Moddly Wings Topped Rice,Bear Ball Pot Games,Chimeraland,Monsters
+description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
+  Attributes Conversion Rate 4.0%,Resilience 257 delicacies/tasty Aromatic
+  Litiger Ball,Moddly Wings Topped Rice,Bear Ball Pot Games,Chimeraland,Monsters
   Chimeraland,Monster,Pet
 ---
 

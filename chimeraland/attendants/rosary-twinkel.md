@@ -13,9 +13,9 @@ categories:
   - Games
   - Chimeraland
   - Attendants
-description: Rosary Twinkel default quality GRADE C ATK 50 HP 50 DEF 50 Attack
-  20,HP 200,Monster EXP Bonus 40% delicacies/tasty Aromatic Litiger Ball,Hot 'n
-  Sour Jelly,Stir-Fried Browtelope Games,Chimeraland,Attendants
+description: attendant Rosary Twinkel default quality GRADE C ATK 50 HP 50 DEF
+  50 Attack 20,HP 200,Monster EXP Bonus 40% delicacies/tasty Aromatic Litiger
+  Ball,Hot 'n Sour Jelly,Stir-Fried Browtelope Games,Chimeraland,Attendants
   Chimeraland,Attendant
 ---
 

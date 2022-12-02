@@ -21,9 +21,9 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Azure Light default quality GRADE B ATK 60 HP 61 DEF 62 Attributes
-  Conversion Rate 4.0%,PvP DMG Bonus 4.8% delicacies/tasty Tasty Exotic Crab,Hot
-  'n Sour Jelly,Flamebug Meat Claypot Games,Chimeraland,Monsters
+description: monster Azure Light default quality GRADE B ATK 60 HP 61 DEF 62
+  Attributes Conversion Rate 4.0%,PvP DMG Bonus 4.8% delicacies/tasty Tasty
+  Exotic Crab,Hot 'n Sour Jelly,Flamebug Meat Claypot Games,Chimeraland,Monsters
   Chimeraland,Monster,Pet
 ---
 

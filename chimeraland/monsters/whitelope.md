@@ -21,9 +21,9 @@ categories:
   - Games
   - Chimeraland
   - Monsters
-description: Whitelope default quality GRADE B ATK 60 HP 56 DEF 64 Attributes
-  Conversion Rate 4.0% delicacies/tasty Dry Fried Vuldo Wing,Exotic Herbal
-  Jelly,Steamed Sweet & Sour Icebug Games,Chimeraland,Monsters
+description: monster Whitelope default quality GRADE B ATK 60 HP 56 DEF 64
+  Attributes Conversion Rate 4.0% delicacies/tasty Dry Fried Vuldo Wing,Exotic
+  Herbal Jelly,Steamed Sweet & Sour Icebug Games,Chimeraland,Monsters
   Chimeraland,Monster,Pet
 ---
 
