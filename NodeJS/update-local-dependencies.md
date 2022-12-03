@@ -17,7 +17,7 @@ npm i -D cross-spawn upath
 create file `postinstall.js`
 > Update script changelog
 >
-> history: [https://github.com/dimaslanjaka/source-posts/commits/posts/NodeJS/update-local-dependencies.md](https://github.com/dimaslanjaka/source-posts/commits/posts/NodeJS/update-local-dependencies.md)
+> commit history: [https://github.com/dimaslanjaka/source-posts/commits/posts/NodeJS/update-local-dependencies.md](https://github.com/dimaslanjaka/source-posts/commits/posts/NodeJS/update-local-dependencies.md)
 >
 > ### 25-11-2022
 > - using `npm update` or `yarn upgrade`
