@@ -82,10 +82,8 @@ let quizUrls = [
     '//' +
     location.host.trim() +
     ,*/
-  '/The Legend Of Neverland/Quiz/quiz.txt',
-  'https://dimaslanjaka-cors.herokuapp.com/http://backend.webmanajemen.com/tlon/quiz.txt'
-  //'https://www.webmanajemen.com/assets/tlon/Quiz/quiz.txt',
-  //'https://dimaslanjaka-cors.herokuapp.com/http://apotek.webmanajemen.com/tlon/quiz.txt'
+  'https://www.webmanajemen.com/The Legend Of Neverland/Quiz/quiz.txt',
+  'https://dimaslanjaka-cors.herokuapp.com/http://backend.webmanajemen.com/tlon/quiz.php'
 ];
 let quizSrc = [];
 
