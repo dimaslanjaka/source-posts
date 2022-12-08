@@ -32,7 +32,8 @@ I think this would be a nice feature. It would also lead to a more consistent ap
 
 If there is no caveat for the second option, I would suggest that the *checkout* action configures Git accordingly if none of both options is already set. (Alternatively, GitHub's runners could be updated to use this configuration.)
 
-> [FULL EXAMPLE yaml file](https://github.com/dimaslanjaka/nodejs-package-types/blob/main/.github/workflows/build-release.yml)
+### Working Examples For Setup Github Actions Username And Email
+- [dimaslanjaka/nodejs-package-types](https://github.com/dimaslanjaka/nodejs-package-types/blob/main/.github/workflows/build-release.yml)
 
 source issues:
 
