@@ -21,4 +21,5 @@ If there is no caveat for the second option, I would suggest that the *checkout*
 > [FULL EXAMPLE yaml file](https://github.com/dimaslanjaka/nodejs-package-types/blob/main/.github/workflows/build-release.yml)
 
 source issues:
-    - [actions/checkout/issues/13#issuecomment-724415212](https://github.com/actions/checkout/issues/13#issuecomment-724415212)
+
+- [actions/checkout/issues/13#issuecomment-724415212](https://github.com/actions/checkout/issues/13#issuecomment-724415212)
