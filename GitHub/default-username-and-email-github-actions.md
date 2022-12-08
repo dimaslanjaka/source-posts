@@ -16,6 +16,8 @@ I think this would be a nice feature. It would also lead to a more consistent ap
 3.  Most repositories I found seem to use `GitHub Action <action@github.com>`. I don't know where this is comming from. GitHub seems to link it to some user but clicking on the user opens a 404-page. The icon and name doesn't match what is usually shown for GitHub Actions.\
     [![grafik](https://user-images.githubusercontent.com/1288216/98620024-bb0d8980-2304-11eb-8aa6-c1b85091b470.png)](https://user-images.githubusercontent.com/1288216/98620024-bb0d8980-2304-11eb-8aa6-c1b85091b470.png)
 
+## Conclusion
+
 If there is no caveat for the second option, I would suggest that the *checkout* action configures Git accordingly if none of both options is already set. (Alternatively, GitHub's runners could be updated to use this configuration.)
 
 > [FULL EXAMPLE yaml file](https://github.com/dimaslanjaka/nodejs-package-types/blob/main/.github/workflows/build-release.yml)
