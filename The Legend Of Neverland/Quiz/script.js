@@ -163,31 +163,33 @@ function jQueryMethod() {
     //console.log(url_parse.toString());
 
     //console.log(quizUrl);
-    $.get(url_parse.toString()).then(function (data) {
-      if (data) {
-        // split newLine from retrieved text into array
-        let split = data.split('\n');
-        // trim
-        quizSrc = quizSrc.map(function (str) {
-          return str.trim();
-        });
-        // merge and remove duplicates
-        quizSrc = uniqArr(
-          // merge
-          quizSrc
-            .concat(split)
-            // trim
-            .map(function (str) {
-              return str.trim();
-            })
-        );
-        // transform
-        transformArray2Li();
-      }
-      // attach event listener
-      processLi();
-    });
+    $.get(url_parse.toString()).then(processResponse);
   });
+
+  function processResponse(data) {
+    if (typeof data === 'string') {
+      // split newLine from retrieved text into array
+      let split = data.split('\n');
+      // trim
+      quizSrc = quizSrc.map(function (str) {
+        return str.trim();
+      });
+      // merge and remove duplicates
+      quizSrc = uniqArr(
+        // merge
+        quizSrc
+          .concat(split)
+          // trim
+          .map(function (str) {
+            return str.trim();
+          })
+      );
+      // transform
+      transformArray2Li();
+    }
+    // attach event listener
+    processLi();
+  }
 
   // filter only (O)
   $('#O_only').on('change', function (e) {
