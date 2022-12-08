@@ -78,12 +78,12 @@ function escapeRegExp(string) {
 }
 
 let quizUrls = [
-  /*location.protocol +
+  location.protocol +
     '//' +
     location.host.trim() +
-    ,*/
-  'https://www.webmanajemen.com/The Legend Of Neverland/Quiz/quiz.txt',
-  'https://dimaslanjaka-cors.herokuapp.com/http://backend.webmanajemen.com/tlon/quiz.php'
+    '/The Legend Of Neverland/Quiz/quiz.txt',
+  //'https://dimaslanjaka-cors.herokuapp.com/http://backend.webmanajemen.com/tlon/quiz.php',
+  'https://backend.webmanajemen.com/tlon/quiz.php?show'
 ];
 let quizSrc = [];
 
