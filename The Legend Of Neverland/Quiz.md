@@ -34,12 +34,14 @@ subtitle: Quiz questions and the answers. The Legend Of Neverland Event.
 tags:
   - Event
 title: Quiz The Legend Of Neverland
-updated: 2022-10-29T09:57:25+07:00
+updated: 2022-12-08T13:53:03+07:00
 ---
 
 <!-- include Quiz/table.html -->
 
 ## Changelog
+### 2022-12-08
+- Fix Quota Excedeed of Server
 ### 2022-10-29
 - Prepend new question and answer of quiz
 ### 2022-09-26
