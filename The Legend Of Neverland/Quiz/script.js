@@ -163,7 +163,11 @@ function jQueryMethod() {
     //console.log(url_parse.toString());
 
     //console.log(quizUrl);
-    $.get(url_parse.toString()).then(processResponse);
+    $.get(url_parse.toString())
+      .then(processResponse)
+      .catch(function () {
+        console.log('cannot fetch', url_parse.toString());
+      });
   });
 
   function processResponse(data) {
