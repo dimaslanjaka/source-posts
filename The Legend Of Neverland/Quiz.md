@@ -38,10 +38,10 @@ title: Quiz The Legend Of Neverland
 updated: 2022-12-10T21:33:59+07:00
 ---
 
-<!-- include Quiz/table.min.html -->
+<!-- include Quiz/table.html -->
 <div id="quiz-debug"></div>
-<!-- css Quiz/style.min.css -->
-<!-- script Quiz/script.min.js -->
+<!-- css Quiz/style.css -->
+<!-- script Quiz/script.js -->
 
 ## Changelog
 ### 2022-12-08
