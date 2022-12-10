@@ -79,5 +79,7 @@
         }
       ]
     }
-  ]
+  ],
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.saveAllFilesBeforeRun": true
 }

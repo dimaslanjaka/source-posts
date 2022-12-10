@@ -61,6 +61,6 @@ updated: 2022-12-08T13:53:03+07:00
 - Integrate search `li` texts
 
 <!--<div id="quiz-debug"></div> -->
-<!-- css Quiz/style.css -->
+<!-- css Quiz/style.min.css -->
 <!-- script Quiz/script.min.js -->
 

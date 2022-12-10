@@ -53,8 +53,29 @@ axios.default
 // minify script.js
 const terser = require('terser')
 
-const scriptjs = join(__dirname, 'script.js');
-const scriptminjs = join(__dirname, 'script.min.js');
-terser.minify(fs.readFileSync(scriptjs, 'utf-8')).then(function (result) {
-  if (typeof result.code === 'string') fs.writeFileSync(scriptminjs, result.code)
+let input = join(__dirname, 'script.js');
+let output = join(__dirname, 'script.min.js');
+terser.minify(fs.readFileSync(input, 'utf-8')).then(function (result) {
+  if (typeof result.code === 'string') fs.writeFileSync(output, result.code)
 })
+
+// minify style.css
+const CleanCSS = require('clean-css');
+
+input = join(__dirname, 'style.css');
+output = join(__dirname, 'style.min.css');
+const result = new CleanCSS({}).minify(fs.readFileSync(input, 'utf-8')).styles
+if (typeof result === 'string') fs.writeFileSync(output, result)
+
+// minify table.html
+const hmt = require('html-minifier-terser');
+
+input = join(__dirname, 'table.html');
+output = join(__dirname, 'table.min.html');
+hmt.minify(fs.readFileSync(input, 'utf-8').replace('<!-- include Quiz/quiz.txt -->', fs.readFileSync(join(__dirname, 'quiz.txt'))), {
+  removeAttributeQuotes: false,
+  collapseWhitespace: true
+}).then(result => {
+  if (typeof result === 'string') fs.writeFileSync(output, result)
+})
+

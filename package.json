@@ -37,6 +37,8 @@
     "@types/bluebird": "^3.5.38",
     "@types/jquery": "^3.5.14",
     "@types/toastr": "^2.1.40",
+    "clean-css": "^5.3.1",
+    "html-minifier-terser": "^7.1.0",
     "terser": "^5.16.1"
   },
   "optionalDependencies": {
