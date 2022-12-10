@@ -44,6 +44,8 @@ updated: 2022-12-10T21:33:59+07:00
 <!-- script Quiz/script.js -->
 
 ## Changelog
+### 10-12-2022
+- Fix miss-configured backend url
 ### 2022-12-08
 - Fix Quota Excedeed of Server
 ### 2022-10-29
