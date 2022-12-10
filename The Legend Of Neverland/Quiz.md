@@ -43,7 +43,8 @@ updated: 2022-12-10T23:12:29+07:00
 <!-- css Quiz/style.css -->
 <!-- script Quiz/script.js -->
 
-## The Legend Of Neverland Quiz Data Changelog
+<h2 id="changelog">The Legend Of Neverland Quiz Data Changelog</h2>
+
 ### 2022-12-10
 - Fix miss-configured backend url
 ### 2022-12-08
