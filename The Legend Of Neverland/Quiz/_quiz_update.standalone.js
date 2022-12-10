@@ -7,7 +7,7 @@ const through = require('through2');
 
 const quizfile = path.join(__dirname, 'quiz.txt');
 axios.default
-  .get('http://backend.webmanajemen.com/tlon/quiz.txt', {
+  .get('http://backend.webmanajemen.com/tlon/quiz.php?show', {
     method: 'get',
     responseType: 'stream'
   })
@@ -20,11 +20,12 @@ axios.default
       .pipe(
         through.obj(function (file, _, next) {
           const trim = file
-            .toString('utf-8')
-            .split(/\r?\n/gm)
-            .map((str) => str.trim())
-            .join('\n')
+            .toString()
+            //.split(/\n/gm)
+            //.map((str) => str.trim())
+            //.join('\n')
             .trim();
+          file = Buffer.from(trim);
           return next(null, file);
         })
       )
