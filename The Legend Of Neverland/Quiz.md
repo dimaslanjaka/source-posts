@@ -35,7 +35,7 @@ tags:
   - The Legend Of Neverland
   - Event
 title: Quiz The Legend Of Neverland
-updated: 2022-12-10T21:33:59+07:00
+updated: 2022-12-10T23:12:29+07:00
 ---
 
 <!-- include Quiz/table.html -->
@@ -44,7 +44,7 @@ updated: 2022-12-10T21:33:59+07:00
 <!-- script Quiz/script.js -->
 
 ## Changelog
-### 10-12-2022
+### 2022-12-10
 - Fix miss-configured backend url
 ### 2022-12-08
 - Fix Quota Excedeed of Server
