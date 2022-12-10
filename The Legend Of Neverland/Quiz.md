@@ -60,7 +60,7 @@ updated: 2022-12-08T13:53:03+07:00
 ### 2021-08-16
 - Integrate search `li` texts
 
-<div id="quiz-debug"></div>
-
+<!--<div id="quiz-debug"></div> -->
 <!-- css Quiz/style.css -->
-<!-- script Quiz/script.js -->
+<!-- script Quiz/script.min.js -->
+

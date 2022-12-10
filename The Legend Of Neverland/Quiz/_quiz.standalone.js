@@ -2,6 +2,7 @@
 
 const axios = require('axios');
 const fs = require('fs');
+const { join } = require('path');
 const path = require('path');
 const through = require('through2');
 
@@ -48,3 +49,12 @@ axios.default
     }
     console.log(error.config);
   });
+
+// minify script.js
+const terser = require('terser')
+
+const scriptjs = join(__dirname, 'script.js');
+const scriptminjs = join(__dirname, 'script.min.js');
+terser.minify(fs.readFileSync(scriptjs, 'utf-8')).then(function (result) {
+  if (typeof result.code === 'string') fs.writeFileSync(scriptminjs, result.code)
+})

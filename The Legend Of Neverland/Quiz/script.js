@@ -166,7 +166,11 @@ function jQueryMethod() {
       .catch(function () {
         const log = 'cannot fetch' + url_parse.toString();
         const debugEl = document.getElementById('quiz-debug');
-        if (debugEl) debugEl.innerHTML += log + '<hr/>';
+        if (debugEl) {
+          debugEl.innerHTML += log + '<hr/>';
+        } else {
+          console.log(log);
+        }
       });
   });
 
