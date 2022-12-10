@@ -19,7 +19,7 @@
   },
   "emmet.showSuggestionsAsSnippets": true,
   "files.autoSave": "afterDelay",
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "files.exclude": {
     "**/node_modules": true
   },
@@ -81,5 +81,5 @@
     }
   ],
   "code-runner.clearPreviousOutput": true,
-  "code-runner.saveAllFilesBeforeRun": true
+  "code-runner.saveAllFilesBeforeRun": true,
 }

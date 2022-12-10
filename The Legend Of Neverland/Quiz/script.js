@@ -79,9 +79,9 @@ function escapeRegExp(string) {
 
 let quizUrls = [
   location.protocol +
-  '//' +
-  location.host.trim() +
-  '/The Legend Of Neverland/Quiz/quiz.txt',
+    '//' +
+    location.host.trim() +
+    '/The Legend Of Neverland/Quiz/quiz.txt',
   //'https://dimaslanjaka-cors.herokuapp.com/http://backend.webmanajemen.com/tlon/quiz.php',
   'https://backend.webmanajemen.com/tlon/quiz.php?show'
 ];
@@ -158,7 +158,7 @@ function jQueryMethod() {
   quizUrls.forEach(function (quizUrl) {
     let url_parse = new URL(quizUrl);
     //url_parse.search = '?uid=' + new Date();
-    console.log(parse_query_url(url_parse))
+    console.log(parse_query_url(url_parse));
     //console.log(url_parse.toString());
 
     //console.log(quizUrl);
