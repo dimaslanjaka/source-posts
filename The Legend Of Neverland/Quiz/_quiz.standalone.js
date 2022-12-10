@@ -72,10 +72,12 @@ const hmt = require('html-minifier-terser');
 
 input = join(__dirname, 'table.html');
 output = join(__dirname, 'table.min.html');
-hmt.minify(fs.readFileSync(input, 'utf-8').replace('<!-- include Quiz/quiz.txt -->', fs.readFileSync(join(__dirname, 'quiz.txt'))), {
+hmt.minify(fs.readFileSync(input, 'utf-8'), {
   removeAttributeQuotes: false,
-  collapseWhitespace: true
+  collapseWhitespace: true,
+  preserveLineBreaks: true,
+  removeComments: false
 }).then(result => {
-  if (typeof result === 'string') fs.writeFileSync(output, result)
+  if (typeof result === 'string') fs.writeFileSync(output, result.replace('<!-- include Quiz/quiz.txt -->', fs.readFileSync(join(__dirname, 'quiz.txt'))))
 })
 
