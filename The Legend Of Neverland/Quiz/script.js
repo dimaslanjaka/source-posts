@@ -158,7 +158,7 @@ function jQueryMethod() {
   quizUrls.forEach(function (quizUrl) {
     let url_parse = new URL(quizUrl);
     //url_parse.search = '?uid=' + new Date();
-    console.log('parse_query_url', parse_query_url(url_parse));
+    console.log('parse_query_url', parse_query_url(url_parse.toString()));
     //console.log(url_parse.toString());
 
     //console.log(quizUrl);
@@ -249,10 +249,10 @@ if (typeof jQuery === 'undefined') {
  * How URL native work {@link https://dmitripavlutin.com/parse-url-javascript/}
  * @see {@link https://stackoverflow.com/questions/8486099/how-do-i-parse-a-url-query-parameters-in-javascript}
  * @param {string} url
- * @returns {Record<string, any>}
+ * @returns {Record<string, any>|undefined}
  */
 function parse_query_url(url) {
-  if (typeof url !== 'string') throw new Error('Please provide url');
+  if (typeof url !== 'string') return; //throw new Error('Please provide url');
   var query = url.replace(/^\?/, ''); //url.substr(1); // skip first ?
   var result = {};
   query.split('&').forEach(function (part) {
