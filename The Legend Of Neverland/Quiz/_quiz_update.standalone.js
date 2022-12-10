@@ -4,10 +4,9 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
-axios
-  .get({
+axios.default
+  .get('http://backend.webmanajemen.com/tlon/quiz.txt', {
     method: 'get',
-    url: 'http://backend.webmanajemen.com/tlon/quiz.txt',
     responseType: 'stream'
   })
   .then(function (response) {
