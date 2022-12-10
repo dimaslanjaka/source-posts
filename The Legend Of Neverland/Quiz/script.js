@@ -79,9 +79,9 @@ function escapeRegExp(string) {
 
 let quizUrls = [
   location.protocol +
-    '//' +
-    location.host.trim() +
-    '/The Legend Of Neverland/Quiz/quiz.txt',
+  '//' +
+  location.host.trim() +
+  '/The Legend Of Neverland/Quiz/quiz.txt',
   //'https://dimaslanjaka-cors.herokuapp.com/http://backend.webmanajemen.com/tlon/quiz.php',
   'https://backend.webmanajemen.com/tlon/quiz.php?show'
 ];
@@ -157,14 +157,15 @@ function jQueryMethod() {
   // step 1: get new question sources
   quizUrls.forEach(function (quizUrl) {
     let url_parse = new URL(quizUrl);
-    url_parse.search = '?uid=' + new Date();
+    //url_parse.search = '?uid=' + new Date();
+    console.log(parse_query_url(url_parse))
     //console.log(url_parse.toString());
 
     //console.log(quizUrl);
     $.get(url_parse.toString())
       .then(processResponse)
       .catch(function () {
-        const log = 'cannot fetch' + url_parse.toString();
+        const log = 'cannot fetch ' + url_parse.toString();
         const debugEl = document.getElementById('quiz-debug');
         if (debugEl) {
           debugEl.innerHTML += log + '<hr/>';
@@ -248,11 +249,11 @@ if (typeof jQuery === 'undefined') {
  * How URL native work {@link https://dmitripavlutin.com/parse-url-javascript/}
  * @see {@link https://stackoverflow.com/questions/8486099/how-do-i-parse-a-url-query-parameters-in-javascript}
  * @param {string} url
- * @returns
+ * @returns {Record<string, any>}
  */
-/*function parse_query_url(url) {
-  if (!url) throw 'Please provide url';
-  var query = url.substr(1); // skip first ?
+function parse_query_url(url) {
+  if (!url) throw new Error('Please provide url');
+  var query = url.substring(0, 1); // skip first ?
   var result = {};
   query.split('&').forEach(function (part) {
     var item = part.split('=');
@@ -260,6 +261,8 @@ if (typeof jQuery === 'undefined') {
   });
   return result;
 }
+
+/*
 
 function parse_url(url) {
   let parse = new URL(url);
