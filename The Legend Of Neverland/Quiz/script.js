@@ -248,12 +248,14 @@ if (typeof jQuery === 'undefined') {
 /**
  * How URL native work {@link https://dmitripavlutin.com/parse-url-javascript/}
  * @see {@link https://stackoverflow.com/questions/8486099/how-do-i-parse-a-url-query-parameters-in-javascript}
+ * @see {@link http://jsfiddle.net/drzaus/8EE8k/}
  * @param {string|URL} url
  * @returns {Record<string, any>|undefined}
  */
 function parse_query_url(url) {
   if (url instanceof URL) url = url.toString();
   if (typeof url !== 'string') return; //throw new Error('Please provide url');
+  // http://jsfiddle.net/drzaus/8EE8k/
   const deparam = (function(d, x, params, p, i, j) {
   return function(qs) {
     // start bucket; can't cheat by setting it in scope declaration or it overwrites
