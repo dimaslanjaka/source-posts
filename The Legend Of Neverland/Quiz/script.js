@@ -252,8 +252,8 @@ if (typeof jQuery === 'undefined') {
  * @returns {Record<string, any>}
  */
 function parse_query_url(url) {
-  if (!url) throw new Error('Please provide url');
-  var query = url.substring(0, 1); // skip first ?
+  if (typeof url !== 'string') throw new Error('Please provide url');
+  var query = url.replace(/^\?/, ''); //url.substr(1); // skip first ?
   var result = {};
   query.split('&').forEach(function (part) {
     var item = part.split('=');
