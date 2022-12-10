@@ -248,10 +248,11 @@ if (typeof jQuery === 'undefined') {
 /**
  * How URL native work {@link https://dmitripavlutin.com/parse-url-javascript/}
  * @see {@link https://stackoverflow.com/questions/8486099/how-do-i-parse-a-url-query-parameters-in-javascript}
- * @param {string} url
+ * @param {string|URL} url
  * @returns {Record<string, any>|undefined}
  */
 function parse_query_url(url) {
+  if (url instanceof URL) url = url.toString();
   if (typeof url !== 'string') return; //throw new Error('Please provide url');
   var query = url.replace(/^\?/, ''); //url.substr(1); // skip first ?
   var result = {};
