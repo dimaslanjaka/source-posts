@@ -30,14 +30,18 @@ keywords:
   - The Legend of Neverland Guide and Tips for quiz event
 lang: en
 location: Indonesia
-subtitle: Quiz questions and the answers. The Legend Of Neverland Event.
+description: Quiz questions and the answers. The Legend Of Neverland Event. The Legend of Neverland Guide and Tips for quiz event. Scenic Quiz Event Answers - The Legend of Neverland
 tags:
+  - The Legend Of Neverland
   - Event
 title: Quiz The Legend Of Neverland
-updated: 2022-12-08T13:53:03+07:00
+updated: 2022-12-10T21:33:59+07:00
 ---
 
 <!-- include Quiz/table.html -->
+<!--<div id="quiz-debug"></div> -->
+<!-- css Quiz/style.min.css -->
+<!-- script Quiz/script.min.js -->
 
 ## Changelog
 ### 2022-12-08
@@ -59,8 +63,3 @@ updated: 2022-12-08T13:53:03+07:00
 - skip process when input is emptied
 ### 2021-08-16
 - Integrate search `li` texts
-
-<!--<div id="quiz-debug"></div> -->
-<!-- css Quiz/style.min.css -->
-<!-- script Quiz/script.min.js -->
-
