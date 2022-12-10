@@ -20,11 +20,10 @@ axios.default
       .pipe(
         through.obj(function (file, _, next) {
           const trim = file
-            .toString()
-            //.split(/\n/gm)
-            //.map((str) => str.trim())
-            //.join('\n')
-            .trim();
+            .toString('utf-8')
+            .split(/\r?\n/gm)
+            .filter((str) => str.trim().length > 0)
+            .join('\n');
           file = Buffer.from(trim);
           return next(null, file);
         })
