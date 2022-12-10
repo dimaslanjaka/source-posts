@@ -246,7 +246,7 @@ if (typeof jQuery === 'undefined') {
  * @param {string} url
  * @returns
  */
-function parse_query_url(url) {
+/*function parse_query_url(url) {
   if (!url) throw 'Please provide url';
   var query = url.substr(1); // skip first ?
   var result = {};
@@ -261,7 +261,7 @@ function parse_url(url) {
   let parse = new URL(url);
   parse.search = parse_query_url(parse.search);
   return parse;
-}
+}*/
 
 if (typeof jQuery !== 'undefined') {
   $(document).on('click', '#clear-cache', function () {

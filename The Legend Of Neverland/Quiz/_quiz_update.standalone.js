@@ -3,14 +3,32 @@
 const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
+const through = require('through2');
 
+const quizfile = path.join(__dirname, 'quiz.txt');
 axios.default
   .get('http://backend.webmanajemen.com/tlon/quiz.txt', {
     method: 'get',
     responseType: 'stream'
   })
   .then(function (response) {
-    response.data.pipe(fs.createWriteStream(path.join(__dirname, 'quiz.txt')));
+    /**
+     * @type {import('stream').Stream}
+     */
+    const streamData = response.data;
+    streamData
+      .pipe(
+        through.obj(function (file, _, next) {
+          const trim = file
+            .toString('utf-8')
+            .split(/\r?\n/gm)
+            .map((str) => str.trim())
+            .join('\n')
+            .trim();
+          return next(null, file);
+        })
+      )
+      .pipe(fs.createWriteStream(quizfile));
   })
   .catch(function (error) {
     if (error.response) {
