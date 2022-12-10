@@ -254,13 +254,26 @@ if (typeof jQuery === 'undefined') {
 function parse_query_url(url) {
   if (url instanceof URL) url = url.toString();
   if (typeof url !== 'string') return; //throw new Error('Please provide url');
-  var query = url.replace(/^\?/, ''); //url.substr(1); // skip first ?
-  var result = {};
-  query.split('&').forEach(function (part) {
-    var item = part.split('=');
-    result[item[0]] = decodeURIComponent(item[1]);
-  });
-  return result;
+  const deparam = (function(d, x, params, p, i, j) {
+  return function(qs) {
+    // start bucket; can't cheat by setting it in scope declaration or it overwrites
+    params = {};
+    // remove preceding non-querystring, correct spaces, and split
+    qs = qs.substring(qs.indexOf('?') + 1).replace(x, ' ').split('&');
+    // march and parse
+    for (i = qs.length; i > 0;) {
+      p = qs[--i];
+      // allow equals in value
+      j = p.indexOf('=');
+      // what if no val?
+      if (j === -1) params[d(p)] = undefined;
+      else params[d(p.substring(0, j))] = d(p.substring(j + 1));
+    }
+
+    return params;
+  }; //--  fn  deparam
+})(decodeURIComponent, /\+/g);
+  return deparam(url)
 }
 
 /*
