@@ -1414,3 +1414,5 @@ In Pirates of the Caribbean: At World's End, Jet Li acted as the Captain Sao Fen
 According to London University, those who laugh a lot in daily life can live 30% longer than those who don't (X)
 In the anime The Seven Deadly Sins, Zaratras is the Holy Knight dubbed as the Dragon's Sin (X)
 The tunnel that connects with Cabala is called Path of Cremation (X)
+Crit attribute decides whether ATK increased by 1.5x triggered (X)
+Frostbite Causes Injury Of The Hair Capillary (X)
