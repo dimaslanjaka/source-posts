@@ -5,6 +5,7 @@ date: 2022-11-22T21:00:09+07:00
 updated: 2022-12-20T19:20:11+07:00
 category: ['Programming', 'NodeJS']
 tags: ['npm', 'auto', 'update']
+thumbnail: /NodeJS/update-local-dependencies/logo.png
 ---
 
 ## install package
