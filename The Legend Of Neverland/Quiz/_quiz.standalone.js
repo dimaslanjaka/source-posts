@@ -11,7 +11,8 @@ async function main() {
   await axios.default
     .get('http://backend.webmanajemen.com/tlon/quiz.php?show', {
       method: 'get',
-      responseType: 'stream'
+      responseType: 'stream',
+      maxRedirects: 10
     })
     .then(function (response) {
       /**
