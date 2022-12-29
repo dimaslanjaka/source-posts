@@ -17,14 +17,11 @@ subtitle: Usage, explanations of node options for nodejs
 tags:
   - JS
   - NodeJS
-title: Node Options For NodeJS
+title: All About NodeJS Configurations
 type: post
 uuid: 586f70e0-6dec-4888-8cac-99671aad2296
-webtitle: NodeJS
-updated: 2021-12-10T19:53:25+07:00
+updated: 2022-12-29T14:25:47+07:00
 thumbnail: https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
-photos:
-  - https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
 description: Usage, explanations of node options for nodejs
 ---
 
