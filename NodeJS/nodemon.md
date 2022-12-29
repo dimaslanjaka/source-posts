@@ -3,6 +3,7 @@ title: nodemon
 description: all about nodemon
 date: 2022-04-24
 updated: 2022-04-24
+redirect_to: /NodeJS/node-options.html
 ---
 
 ## Basic nodemon.json configuration
