@@ -61,3 +61,35 @@ These above codes would limit the heap totals to 225mb and 450mb respectively. I
 - `--max-executable-size` the maximum size of heap reserved for executable code (the native code result of just-in-time compiled JavaScript).
 - `--max-old-space-size` the maximum size of heap reserved for long term objects
 - `--max-semi-space-size` the maximum size of heap reserved for short term objects
+
+## Yarn Clean Install
+
+```bash
+yarn install --immutable --immutable-cache --check-cache --frozen-lockfile --check-files
+```
+
+## Nodemon Configuration
+
+```json
+{
+  "$schema": "http://json.schemastore.org/nodemon",
+  "exec": "npm run build && npm start",
+  "watch": ["./src/*.ts", "./index.ts", "./webpack.*.js", "./tsconfig.json", "./package.json"],
+  "ignore": [
+    "*.test.js",
+    ".vscode",
+    ".gitignore",
+    "gh-pages",
+    "dist",
+    "tests",
+    "tmp",
+    "temp",
+    "./src/tmp",
+    "docs",
+    "release"
+  ],
+  "delay": 3000,
+  "ext": "ts,js",
+  "verbose": true
+}
+```
