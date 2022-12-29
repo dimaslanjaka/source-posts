@@ -10,7 +10,7 @@ Cara setting github actions agar jalan satu job saja (sequentally), cukup tambah
 ```yaml
 # run single job
 concurrency:
-  group: safelink-${{ github.head_ref }}
+  group: nama-runner-bebas-${{ github.head_ref }}
   cancel-in-progress: true
 ```
 
