@@ -2,6 +2,8 @@
 title: Github Workflows Run Strategy Matrix Sequentally
 date: 2022-12-31T13:04:49+07:00
 updated: 2022-12-31T13:04:49+07:00
+category: ['Programming', 'GitHub']
+tags: ['github', 'actions', 'workflows', 'strategy', 'matrix']
 ---
 
 How to setup github action matrix to be run sequentally or series each job ?
