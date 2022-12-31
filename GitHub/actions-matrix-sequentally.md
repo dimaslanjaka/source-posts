@@ -8,8 +8,14 @@ How to setup github action matrix to be run sequentally or series each job ?
 
 Conclusing Just add below codes:
 ```yaml
-fail-fast: true
-max-parallel: 1
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    strategy:
+      # When set to true, GitHub cancels all in-progress jobs if any matrix job fails.
+      fail-fast: true
+      # The maximum number of jobs that can run simultaneously
+      max-parallel: 1
 ```
 Full Example
 ```yaml
