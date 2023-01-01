@@ -60,7 +60,7 @@ hexo.extend.helper.register(
 ```
 
 ## Usages
-
+example _get posts by tags or categories_ using _nunjuck_ template
 ```njk
 <div class="py-4">
   <h2>Another Snippets</h2>
