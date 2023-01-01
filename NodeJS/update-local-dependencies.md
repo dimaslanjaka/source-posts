@@ -4,7 +4,7 @@ description: How to always update local and monorepo dependencies automatically
 date: 2022-11-22T21:00:09+07:00
 updated: 2022-12-20T19:20:11+07:00
 category: ['Programming', 'NodeJS']
-tags: ['npm', 'auto', 'update']
+tags: ['npm', 'auto', 'update', 'snippet']
 thumbnail: /NodeJS/update-local-dependencies/logo.png
 ---
 
