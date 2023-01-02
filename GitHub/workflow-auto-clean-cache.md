@@ -1,8 +1,8 @@
 ---
 title: yaml github actions to clean all caches
 date: 2023-01-01T17:12:28+07:00
-updated: 2023-01-01T17:12:28+07:00
-tags: ['github', 'actions', 'clean', 'caches', 'workflows']
+updated: 2023-01-03T01:03:19+07:00
+tags: ['github-workflows', 'snippet', 'yaml', 'github-actions']
 categories: ['programming', 'github']
 ---
 

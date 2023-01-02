@@ -2,8 +2,8 @@
 author:
   nick: Dimas Lanjaka
   link: https://github.com/dimaslanjaka
-category:
-  - Programming
+tags: ['github-workflows', 'snippet', 'yaml', 'github-actions']
+categories: ['programming', 'github']
 comments: true
 cover: /GitHub/workflows/cover.png
 date: 2021-11-23T02:00:00+07:00
@@ -14,13 +14,11 @@ keywords:
 lang: id
 location: Indonesia
 subtitle: Macam-macam kondisional pada GitHub Workflows
-tags:
-  - GitHub
 title: GitHub Workflow Conditions
 type: post
 uuid: f4c6a18d-2377-4888-8330-9223d5f34263
 webtitle: WMI GitHub
-updated: 2021-11-30T20:10:25+07:00
+updated: 2023-01-03T01:03:19+07:00
 thumbnail: /GitHub/workflows/cover.png
 photos:
   - /GitHub/workflows/cover.png

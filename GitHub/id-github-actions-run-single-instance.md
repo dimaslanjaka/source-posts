@@ -1,10 +1,12 @@
 ---
 title: "Menjalankan Github Workflow Satu Instansi (sequentally)"
 description: "Cara setting github actions agar jalan satu job saja (sequentally)"
-permalink: /id/Github/github-actions-run-single-instance.md
+permalink: /id/Github/github-actions-run-single-instance.html
 date: 2022-12-29T19:40:35+07:00
-updated: 2022-12-31T13:14:47+07:00
+updated: 2023-01-03T01:03:09+07:00
 lang: id
+tags: ['github-workflows', 'snippet', 'yaml', 'github-actions']
+categories: ['programming', 'github']
 ---
 
 Cara setting github actions agar jalan satu job saja (sequentally), cukup tambahkan kode berikut:

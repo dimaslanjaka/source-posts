@@ -2,8 +2,8 @@
 author:
   nick: Dimas Lanjaka
   link: https://github.com/dimaslanjaka
-category: ['Programming', 'GitHub']
-tags: ['github', 'actions', 'workflows', 'events']
+tags: ['github-workflows', 'snippet', 'yaml', 'github-actions']
+categories: ['programming', 'github']
 comments: true
 cover: /GitHub/workflows/events.png
 date: 2021-11-21T23:00:00+07:00
@@ -18,7 +18,7 @@ title: GitHub Workflow Events
 type: post
 uuid: e94a4f00-6a10-4888-8fca-dfc8fe6e687f
 webtitle: WMI GitHub
-updated: 2021-12-20T15:33:55+07:00
+updated: 2023-01-03T01:03:19+07:00
 thumbnail: /GitHub/workflows/events.png
 description: Macam-macam events pada GitHub Workflows
 ---
