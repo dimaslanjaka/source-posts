@@ -42,8 +42,7 @@ jobs:
           python-version: '3.10'
       - name: install git-filter-repo
         run: |
-          python3 git-filter-repo --analyze
-          # python3 -m pip install --user git-filter-repo
+          python3 -m pip install --user git-filter-repo
       - name: set env
         id: set-env
         shell: bash
