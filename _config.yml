@@ -1,0 +1,3 @@
+deploy:
+  repo: https://github.com/dimaslanjaka/source-posts
+  branch: posts

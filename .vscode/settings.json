@@ -17,5 +17,11 @@
   },
   "emmet.includeLanguages": {
     "md": "html"
+  },
+  "terminal.integrated.env.windows": {
+    "PATH": "${env:PATH};${workspaceFolder}\\bin;${workspaceFolder}\\node_modules\\.bin"
+  },
+  "terminal.integrated.env.linux": {
+    "PATH": "${workspaceFolder}/bin:${env:PATH}:${workspaceFolder}/node_modules/.bin"
   }
 }

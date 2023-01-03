@@ -1,15 +1,18 @@
-import ansiColors from 'ansi-colors';
-import fs from 'fs-extra';
-import { spawnAsync } from 'git-command-helper/dist/spawn';
-import { parsePost } from 'hexo-post-parser';
-import { spawn } from 'hexo-util';
-import { getConfig, gulp } from 'static-blog-generator';
-import through2 from 'through2';
-import path from 'upath';
-import { extPost } from './globals';
+/* eslint-disable @typescript-eslint/no-var-requires */
+const ansiColors = require('ansi-colors');
+const fs = require('fs-extra');
+const { default: git } = require('git-command-helper');
+const { spawn, spawnAsync } = require('git-command-helper/dist/spawn');
+const { parsePost } = require('hexo-post-parser');
+const { getConfig, gulp } = require('static-blog-generator');
+const through2 = require('through2');
+const path = require('upath');
 
 //
 // process by gulp
+// commands:
+// ./bin/gulpp <task-name>
+// gulpp <task-name>
 //
 
 gulp.task('default', async () => {
@@ -23,15 +26,16 @@ gulp.task('default', async () => {
 
 /**
  * git clone
- * @param destFolder
+ * @param {string} destFolder
+ * @param {import('child_process').SpawnOptions} options
  */
-async function clone(destFolder: string, options?: import('child_process').SpawnOptions) {
+async function clone(destFolder, options) {
   const spawnOpt = Object.assign({ cwd: __dirname }, options);
   if (!fs.existsSync(destFolder)) {
     // clone from root deployment dir
     await spawnAsync(
       'git',
-      [...'clone -b master --single-branch'.split(' '), getConfig().deploy.repo, destFolder],
+      ['clone', '-b', getConfig().deploy.branch, '--single-branch', getConfig().deploy.repo, destFolder],
       spawnOpt
     );
     // update submodule from deployment dir
@@ -43,34 +47,30 @@ async function clone(destFolder: string, options?: import('child_process').Spawn
 
 /**
  * git pull on deploy dir
+ * @param {gulp.TaskFunctionCallback} done
  */
-async function pull(done: gulp.TaskFunctionCallback) {
-  const config = getConfig();
-  const cwd = config.deploy.deployDir;
-  const gh = config.deploy.github;
+async function pull(done) {
+  const cwd = path.join(__dirname, 'posts');
+  const gh = new git(cwd);
 
-  const doPull = async (cwd: string) => {
-    try {
-      await spawnAsync('git', ['config', 'pull.rebase', 'false'], {
-        cwd
-      });
-    } catch (e) {
-      // console.log(e.message, sub.root);
-    }
+  /**
+   * run pull
+   * @param {string} cwd
+   */
+  const doPull = async (cwd) => {
+    await spawnAsync('git', ['config', 'pull.rebase', 'false'], {
+      cwd
+    }).catch(() => console.log('cannot set pull.rebase to false'));
 
-    try {
-      console.log('pulling', cwd);
-      await gh.spawn('git', ['pull', '-X', 'theirs'], {
-        cwd,
-        stdio: 'pipe'
-      });
-    } catch (e) {
-      console.log('cannot pull', cwd);
-    }
+    console.log('pulling', cwd);
+    await spawn('git', ['pull', '-X', 'theirs'], {
+      cwd,
+      stdio: 'pipe'
+    }).catch(() => console.log('cannot pull', cwd));
   };
 
   try {
-    await clone('posts');
+    await clone('posts', { cwd: __dirname });
     await doPull(cwd);
     if (gh) {
       const submodules = gh.submodule.get();
@@ -86,12 +86,17 @@ async function pull(done: gulp.TaskFunctionCallback) {
   if (typeof done === 'function') done();
 }
 
+gulp.task('pull', pull);
+
 gulp.task('adsense-fix', () => {
   return gulp.src([path.join(__dirname, 'posts/**/*.md'), '!**/tmp/', '!**/node_modules/']).pipe(
     through2.obj(async (vinyl, enc, next) => {
       const contents = String(vinyl.contents);
       try {
-        const parse = (await parsePost(contents, {
+        /**
+         * @type {import('./globals').extPost}
+         */
+        const parse = await parsePost(contents, {
           cache: false,
           sourceFile: vinyl.path,
           fix: true,
@@ -106,7 +111,7 @@ gulp.task('adsense-fix', () => {
             script: true,
             now: true
           }
-        })) as extPost;
+        });
         if (parse && /download/i.test(parse.metadata.title)) {
           if ('adsense' in parse.metadata === false || parse.metadata.adsense === true) {
             if (/lagu/i.test(parse.metadata.title)) {
