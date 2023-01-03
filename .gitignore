@@ -12,3 +12,6 @@ Test
 node_modules
 vendor
 tmp
+
+# custom
+/nodejs-esm-starter

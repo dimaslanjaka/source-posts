@@ -2,10 +2,21 @@ name: Garbage Collector
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - '**/*.tgz'
+      - '**/*.gz'
+      - '**/*.zip'
+      - '**garbage-collector**'
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+# permissions: read-all
 
 # cancel previous workflows, run only one workflow
 concurrency:
-  group: deploy-${{ github.event.push.number || github.event.pull_request.number || github.ref }}
+  group: 'garbage-collector'
   cancel-in-progress: true
 
 jobs:
@@ -33,7 +44,22 @@ jobs:
           echo "GITHUB_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
           echo "GITHUB_COMMIT_URL=https://github.com/${{github.repository}}/commit/$(echo $GITHUB_SHA)" >> $GITHUB_ENV
           echo "GITHUB_RUNNER_URL=https://github.com/${{github.repository}}/commit/${{github.sha}}/checks/${{github.run_id}}" >> $GITHUB_ENV
-      - run: git gc --aggressive --prune=now
+      - run: git reflog expire --all --expire=now
+      - run: git gc --prune=now --aggressive
+      - shell: bash
+        name: filter large files
+        run: |
+          # Find the largest files in .git:
+          git rev-list --objects --all | grep -f <(git verify-pack -v  .git/objects/pack/*.idx| sort -k 3 -n | cut -f 1 -d " " | tail -10)
+          # Start filtering these large files:
+          git filter-repo --path-glob '*.zip' --invert-paths --force
+          git filter-repo --path-glob '*.tgz' --invert-paths --force
+          git filter-repo --path-glob '*.gz' --invert-paths --force
+          git filter-repo --path-glob '*.tar' --invert-paths --force
+          git filter-repo --path-glob '*.rar' --invert-paths --force
+          # git push --all --force
+          # git push --tags --force
+
       - name: push changes
         shell: bash
         id: push-manual
