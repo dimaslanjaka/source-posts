@@ -15,3 +15,6 @@ tmp
 # master project
 /nodejs-esm-starter
 /posts
+
+# auto generated
+chimeraland/blacklist-player.md

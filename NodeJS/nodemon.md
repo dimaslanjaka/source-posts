@@ -2,7 +2,7 @@
 title: nodemon
 description: all about nodemon
 date: 2022-04-24
-updated: 2022-04-24
+updated: 2022-12-29T14:24:41+07:00
 ---
 
 ## Basic nodemon.json configuration
@@ -17,3 +17,7 @@ updated: 2022-04-24
   "verbose": true
 }
 ```
+
+<script>
+  location.href = '/NodeJS/node-options.html#nodemon'
+</script>

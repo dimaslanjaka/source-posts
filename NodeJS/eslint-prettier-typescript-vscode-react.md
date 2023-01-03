@@ -5,10 +5,12 @@ subtitle: How to auto format using eslint and prettier in typescript react
 cover: https://miro.medium.com/max/1400/1*N9n5F63ne3HimpJ10d1HEw.jpeg
 date: 2022-04-19T16:37:38+07:00
 updated: 2022-10-16T08:52:12+07:00
+categories: ['Programming']
 tags:
-  - ESLint
-  - TS
+  - NodeJS
   - JS
+  - TS
+  - ESLint
 ---
 
 ## Auto format Tsx files in VSCode

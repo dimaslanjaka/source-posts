@@ -21,15 +21,15 @@ location: Indonesia
 subtitle: How to configure eslint with prettier to automated lint and format
   codes in typescript project using vscode
 tags:
+  - NodeJS
   - JS
   - TS
-  - NodeJS
   - ESLint
 title: Eslint Prettier In Typescript Project Using Vscode
 type: post
 uuid: 3f6ada3c-0ed8-4888-87c8-3371f8927a2c
 webtitle: NodeJS
-updated: 2022-10-21T04:18:10+07:00
+updated: 2022-10-30T23:41:16+07:00
 ---
 
 ## Auto Lint And Format Typescript Using VSCode With Eslint And Prettier
@@ -146,6 +146,9 @@ module.exports = {
 ```
 
 ### Using .prettierc.json
+
+> if you using json, change top of [`.eslintrc.js`](#Create-eslintrc-js) to `const prettier = require('./.prettierrc.json');`
+
 ```jsonc
 {
   "$schema": "https://json.schemastore.org/prettierrc",

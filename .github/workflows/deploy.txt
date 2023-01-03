@@ -1,0 +1,139 @@
+name: Deploy with HexoJS
+
+on:
+  push:
+    branches: [ "posts" ]
+
+# cancel previous workflows, run only one workflow
+concurrency:
+  group: deploy-${{ github.event.push.number || github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: szenius/set-timezone@v1.0
+      with:
+        timezoneLinux: "Asia/Jakarta"
+        timezoneMacos: "Asia/Jakarta"
+        timezoneWindows: "Western Indonesia Time"
+    - uses: actions/checkout@v3
+      with:
+        repository: dimaslanjaka/static-blog-generator-hexo
+        ref: master
+        token: "${{ secrets.GITHUB_TOKEN }}"
+        submodules: recursive
+    - name: Declare some variables
+      id: vars
+      shell: bash
+      run: |
+        echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        echo "::set-output name=hash::$(git rev-parse --short HEAD)"
+        echo "::set-output name=yarn::$(yarn cache dir)"
+        echo "::set-output name=npm::$(npm config get cache)"
+        echo "::set-output name=date::$(date +'%Y-%m-%d')"
+    - uses: actions/cache@v3
+      with:
+        path: |
+          ${{ steps.vars.outputs.npm }}
+          ./tmp
+          ./node_modules
+          ./.deploy_git
+          ./db.json
+          ./source
+          ./public
+        key: ${{ runner.os }}-${{ hashFiles('README.md') }}
+        
+    - name: Resolve git user
+      continue-on-error: true
+      run: |
+        git config --global user.email "dimaslanjaka@gmail.com"
+        git config --global user.name "dimaslanjaka"
+        git config --global init.defaultBranch master
+        git submodule update -r -i
+        git submodule foreach "git pull || :"
+          
+    - name: Use Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16.x
+        
+    - name: Install System
+      run: |
+        sudo apt-get install software-properties-common -y
+        sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+        sudo apt-get update -y
+        sudo apt-get install gcc -y
+        sudo apt-get install libssl-dev -y
+        sudo apt-get install g++ -y 
+        sudo apt-get install libkrb5-dev -y
+        
+    - name: NPM Install
+      run: |
+        npm i gulp-cli typescript npm ts-node hexo-cli yarn typescript --location=global
+        #npm i -D https://github.com/dimaslanjaka/static-blog-generator/raw/master/release/development.tgz
+        echo "install hexo-post-parser"
+        npm i -D https://github.com/dimaslanjaka/hexo-post-parser.git
+        echo "install safelinkify"
+        npm i -D https://github.com/dimaslanjaka/safelink.git
+        #npm i https://github.com/dimaslanjaka/hexo-adsense.git
+        echo "install project"
+        npm install
+
+    - run: mkdir .deploy_git
+      continue-on-error: true
+      name: "Deploy: Create Deployment Directory"
+    - name: Init Deployment Directory
+      working-directory: .deploy_git
+      continue-on-error: true
+      run: |
+        git init
+        git remote add origin https://github.com/dimaslanjaka/dimaslanjaka.github.io.git
+        git pull origin master
+    - run: git submodule update -r -i
+      name: "Deploy: Update submodules"
+      working-directory: .deploy_git
+      continue-on-error: true
+
+    - run: gulp copy-all-post
+    - run: hexo generate
+    - run: gulp copy
+
+    - name: Build
+      continue-on-error: true
+      run: |
+        npm run build
+    
+    - name: "Deploy: Commit And Push Submodules"
+      continue-on-error: true
+      working-directory: .deploy_git
+      run: |
+        git submodule foreach "git add . || :"
+        git submodule foreach "git commit -m 'update ${{ steps.vars.outputs.date }}\nfrom https://github.com/dimaslanjaka/static-blog-generator-hexo/tree/commit/${{ steps.vars.outputs.hash }}' || :"
+        git submodule foreach "git push || :"
+ 
+    - name: "Deploy: Commit Root Site"
+      continue-on-error: true
+      working-directory: .deploy_git
+      run: |
+        git add -A
+        git commit -m "update site ${{ steps.vars.outputs.date }}\nfrom: https://github.com/dimaslanjaka/static-blog-generator-hexo/tree/commit/${{ steps.vars.outputs.hash }}"
+
+    # push to https://github.com/dimaslanjaka/dimaslanjaka.github.io#master
+    - name: "Deploy: Push Root Site"
+      continue-on-error: true
+      working-directory: .deploy_git
+      run: |
+        git config user.email "dimaslanjaka@gmail.com"
+        git config user.name "dimaslanjaka"
+        git push -u origin master --recurse-submodules=on-demand
+    - name: Re-deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@v4.3.0
+      with:
+        repository-name: dimaslanjaka/dimaslanjaka.github.io # repository url
+        branch: master # The branch the action should deploy to.
+        folder: .deploy_git # The folder the action should deploy.
+        force: false # merge instead delete old files
+        token: "${{ secrets.GITHUB_TOKEN }}"

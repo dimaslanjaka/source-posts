@@ -8,18 +8,15 @@ comments: true
 cover: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU6daixUyrq6m3xUPsDdb4VZ4UR6ctElGQg4CeeBUJ39a-VCfX
 date: 2017-04-16T21:38:00.001+07:00
 lang: en
-location: ""
-modified: 2017-04-21T00:48:32.542+07:00
-subtitle: ""
 tags:
   - Wordpress
   - CSS
   - Blogger
   - Blogging
-title: HTML5 Boostrap For AMP
+title: HTML5 Bootstrap For AMP
 type: post
 uuid: 50dc711f-b623-4888-8098-114c050515b9
-updated: 2017-04-21T00:48:32+07:00
+updated: 2022-11-20T16:35:45+07:00
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU6daixUyrq6m3xUPsDdb4VZ4UR6ctElGQg4CeeBUJ39a-VCfX
 photos:
   - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU6daixUyrq6m3xUPsDdb4VZ4UR6ctElGQg4CeeBUJ39a-VCfX

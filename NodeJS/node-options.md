@@ -17,14 +17,11 @@ subtitle: Usage, explanations of node options for nodejs
 tags:
   - JS
   - NodeJS
-title: Node Options For NodeJS
+title: All About NodeJS Configurations
 type: post
 uuid: 586f70e0-6dec-4888-8cac-99671aad2296
-webtitle: NodeJS
-updated: 2021-12-10T19:53:25+07:00
+updated: 2022-12-29T14:25:47+07:00
 thumbnail: https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
-photos:
-  - https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
 description: Usage, explanations of node options for nodejs
 ---
 
@@ -61,3 +58,35 @@ These above codes would limit the heap totals to 225mb and 450mb respectively. I
 - `--max-executable-size` the maximum size of heap reserved for executable code (the native code result of just-in-time compiled JavaScript).
 - `--max-old-space-size` the maximum size of heap reserved for long term objects
 - `--max-semi-space-size` the maximum size of heap reserved for short term objects
+
+## Yarn Clean Install
+
+```bash
+yarn install --immutable --immutable-cache --check-cache --frozen-lockfile --check-files
+```
+
+## Nodemon Configuration
+
+```json
+{
+  "$schema": "http://json.schemastore.org/nodemon",
+  "exec": "npm run build && npm start",
+  "watch": ["./src/*.ts", "./index.ts", "./webpack.*.js", "./tsconfig.json", "./package.json"],
+  "ignore": [
+    "*.test.js",
+    ".vscode",
+    ".gitignore",
+    "gh-pages",
+    "dist",
+    "tests",
+    "tmp",
+    "temp",
+    "./src/tmp",
+    "docs",
+    "release"
+  ],
+  "delay": 3000,
+  "ext": "ts,js",
+  "verbose": true
+}
+```

@@ -8,9 +8,9 @@ type: post
 category:
   - Programming
 tags:
+  - NodeJS
   - JS
   - TS
-  - NodeJS
   - ESLint
 ---
 

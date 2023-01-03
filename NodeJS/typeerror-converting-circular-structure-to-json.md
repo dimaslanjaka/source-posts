@@ -1,9 +1,10 @@
 ---
-title: TypeError: Converting circular structure to JSON
+title: TypeError Converting circular structure to JSON
 date: 2022-10-24T16:02:58+07:00
-updated: 2022-10-24T16:02:58+07:00
-category: ['Programming', 'JS']
-tags: ['JS', 'JSON']
+updated: 2022-10-29T11:36:35+07:00
+category: ['Programming', 'JS', 'TS']
+tags: ['javascript', 'typescript', 'JSON']
+thumbnail: https://i.stack.imgur.com/YFTWJ.png
 ---
 
 TypeError: Converting circular structure to JSON produce errors like below

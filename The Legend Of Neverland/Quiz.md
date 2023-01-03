@@ -30,16 +30,27 @@ keywords:
   - The Legend of Neverland Guide and Tips for quiz event
 lang: en
 location: Indonesia
-subtitle: Quiz questions and the answers. The Legend Of Neverland Event.
+description: Quiz questions and the answers. The Legend Of Neverland Event. The Legend of Neverland Guide and Tips for quiz event. Scenic Quiz Event Answers - The Legend of Neverland
 tags:
+  - The Legend Of Neverland
   - Event
 title: Quiz The Legend Of Neverland
-updated: 2022-09-29T17:07:50+07:00
+updated: 2022-12-10T23:12:29+07:00
 ---
 
 <!-- include Quiz/table.html -->
+<div id="quiz-debug"></div>
+<!-- css Quiz/style.css -->
+<!-- script Quiz/script.js -->
 
-## Changelog
+<h2 id="changelog">The Legend Of Neverland Quiz Data Changelog</h2>
+
+### 2022-12-10
+- Fix miss-configured backend url
+### 2022-12-08
+- Fix Quota Excedeed of Server
+### 2022-10-29
+- Prepend new question and answer of quiz
 ### 2022-09-26
 - single backend (no more separate servers causing duplicate quiz questions and answers)
 - change **While cooking, adding salt to before taking the dish out can reduce the loss of iodine** from **(O)** to **(X)**
@@ -55,7 +66,3 @@ updated: 2022-09-29T17:07:50+07:00
 - skip process when input is emptied
 ### 2021-08-16
 - Integrate search `li` texts
-
-
-<!-- css Quiz/style.css -->
-<!-- script Quiz/script.js -->
