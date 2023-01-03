@@ -23,5 +23,12 @@
   },
   "terminal.integrated.env.linux": {
     "PATH": "${workspaceFolder}/bin:${env:PATH}:${workspaceFolder}/node_modules/.bin"
+  },
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "search.exclude": {
+    "**/.cache/**": true,
+    "**/dist/**": true
   }
 }
