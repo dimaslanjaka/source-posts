@@ -214,6 +214,6 @@ yarn add --dev @tsconfig/node12
 }
 ```
 
-## Finish
+## Conclusion
 now your vscode format and lint your codes automatically.
 
