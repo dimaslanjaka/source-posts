@@ -175,6 +175,9 @@ this will automate lint and format your codes when saving.
   "[json]": {
     "editor.formatOnSave": true // enable json formating with default vscode formatter
   },
+  "[jsonc]": {
+    "editor.formatOnSave": true // enable jsonc formating with default vscode formatter
+  }
 }
 ```
 
