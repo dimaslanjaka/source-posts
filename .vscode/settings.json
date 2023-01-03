@@ -5,5 +5,17 @@
   },
   "code-runner.clearPreviousOutput": true,
   "code-runner.saveAllFilesBeforeRun": true,
-  "code-runner.runInTerminal": true
+  "code-runner.runInTerminal": true,
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    }
+  },
+  "[typescript]": {
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+  },
+  "emmet.includeLanguages": {
+    "md": "html"
+  }
 }
