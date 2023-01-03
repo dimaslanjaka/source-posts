@@ -1,1 +1,1 @@
-gulp --gulpfile gulpfile.cjs -- %*
+gulp --gulpfile gulpfile.cjs %*

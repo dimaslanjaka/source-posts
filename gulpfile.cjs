@@ -15,15 +15,6 @@ const path = require('upath');
 // gulpp <task-name>
 //
 
-gulp.task('default', async () => {
-  await spawn('git', ['add', '.'], { cwd: __dirname, stdio: 'inherit' });
-  await spawn('git', ['add', '-A'], { cwd: __dirname, stdio: 'inherit' });
-  await spawn('git', ['commit', '-m', 'update article ' + new Date()], {
-    cwd: __dirname,
-    stdio: 'inherit'
-  });
-});
-
 /**
  * git clone
  * @param {string} destFolder
@@ -66,7 +57,7 @@ async function pull(done) {
     await spawn('git', ['pull', '-X', 'theirs'], {
       cwd,
       stdio: 'pipe'
-    }).catch(() => console.log('cannot pull', cwd));
+    }).catch((e) => console.log('cannot pull', cwd, e.message));
   };
 
   try {
@@ -87,6 +78,59 @@ async function pull(done) {
 }
 
 gulp.task('pull', pull);
+
+/**
+ * get current commit url
+ * @returns
+ */
+async function getCurrentCommit() {
+  const gh = new git(__dirname);
+  const commit = await gh.latestCommit();
+  const remote = await gh.getremote();
+  return remote.fetch.url.replace(/(.git|\/)$/, '') + '/commit/' + commit;
+}
+
+/**
+ * do commit including submodules
+ * @param {(...args: any[]) => any} done
+ */
+async function commit(done) {
+  const config = getConfig();
+  const cwd = path.join(__dirname, 'posts');
+  const gh = config.deploy.github || new git(cwd);
+
+  /**
+   * do commit
+   * @param {string} cwd
+   */
+  const doCommit = async (cwd) => {
+    console.log('commiting', cwd);
+    await spawnAsync('git', ['add', '.'], { cwd }).catch(() => console.log('cannot add', cwd));
+    await spawnAsync('git', ['commit', '-m', 'Update site from ' + (await getCurrentCommit())], { cwd }).catch(() =>
+      console.log('cannot commit', cwd)
+    );
+  };
+
+  // runners
+  try {
+    // commit submodules first
+    const submodules = gh.submodule.get();
+    for (let i = 0; i < submodules.length; i++) {
+      const sub = submodules[i];
+      const cwd = sub.root;
+      await doCommit(cwd);
+    }
+
+    // commit root repo
+    await doCommit(cwd);
+  } catch (e) {
+    console.log(e.message);
+  }
+
+  if (typeof done === 'function') done();
+}
+
+gulp.task('commit', commit);
 
 gulp.task('adsense-fix', () => {
   return gulp.src([path.join(__dirname, 'posts/**/*.md'), '!**/tmp/', '!**/node_modules/']).pipe(
