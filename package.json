@@ -55,6 +55,7 @@
     "hexo-post-parser": "https://github.com/dimaslanjaka/hexo-post-parser/tarball/master",
     "persistent-cache": "https://github.com/dimaslanjaka/persistent-cache/tarball/improve2",
     "puppeteer": "^19.4.1",
+    "static-blog-generator": "file:packages/static-blog-generator",
     "upath": "^2.0.1"
   }
 }

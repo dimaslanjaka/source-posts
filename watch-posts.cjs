@@ -1,33 +1,35 @@
 var chokidar = require('chokidar');
 const { join } = require('path');
 const fs = require('fs');
-const { projectIgnores, commonIgnore } = require('static-blog-generator/dist/gulp.config');
-const { EOL } = require('os');
+const { projectIgnores, commonIgnore } = require('./packages/static-blog-generator/dist/gulp.config');
+const { updatePost } = require('./packages/static-blog-generator/dist/gulp.post');
+const { scheduler } = require('./packages/static-blog-generator');
 
-const ignored = commonIgnore.concat(...projectIgnores, /^\./, '**/.git*', '**/.idea/**');
-var watcher = chokidar.watch(['**/*.*'], {
-  ignored,
-  persistent: true,
-  cwd: join(__dirname, 'posts'),
-  ignorePermissionErrors: true,
-  alwaysStat: false
-});
-
-console.log(ignored);
+scheduler.register();
 
 const isAsset = (path) => /.(js|css|scss|njk|ejs|png|jpe?g|gif|svg|webp|json|html|txt)$/.test(String(path));
 const isMarkdown = (path) => /.(md)$/i.test(String(path));
 
-setTimeout(() => {
-  fs.appendFileSync(__dirname + '/posts\\hexo-theme-unit-test\\post-watcher.md', EOL);
-}, 1000);
+const sourceDir = join(__dirname, 'posts');
+const ignored = commonIgnore.concat(...projectIgnores, /^\./, '**/.git*', '**/.idea/**');
+var watcher = chokidar.watch(['**/*.*'], {
+  ignored,
+  persistent: true,
+  cwd: sourceDir,
+  ignorePermissionErrors: true,
+  alwaysStat: false
+});
+
 watcher
   .on('add', (path) => {
     if (!isMarkdown(path) && !isAsset(path)) console.log('non-markdown and non-asset', path.toString());
   })
   .on('change', function (path) {
     if (isMarkdown(path)) {
-      console.log('File', path, 'has been changed');
+      if (!fs.existsSync(path)) path = join(sourceDir, path);
+      // console.log('File', path.replace(__dirname, ''), 'has been changed');
+      //console.log('validate', processing.indexOf(path));
+      scheduler.add('update post ' + path, () => updatePost(path));
     }
   })
   .on('unlink', function (path) {
