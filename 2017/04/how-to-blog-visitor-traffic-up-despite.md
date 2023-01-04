@@ -52,7 +52,7 @@ updated: 2022-04-15T12:19:00+0700
 <ul>
 <li><a href="https://www.google.com/search?q=site:www.webmanajemen.com+12+best+blog" target="_blank" rel="noopener noreferer nofollow">12 Best Blog in Indonesia In A Wide Range Of Topics</a></li>
 <li><a href="https://www.google.com/search?q=site:webmanajemen.com+increase+blog+visitor" target="_blank" rel="noopener noreferer nofollow">17 Ways to Increase Blog Visitors</a></li>
-<li><a href="http://www.webmanajemen.com/p/search.html?q=SEO+mistakes" rel="noopener noreferer nofollow">20 Beginner SEO Mistakes to Avoid</a></li>
+<li><a href="http://www.webmanajemen.com/search/?q=SEO+mistakes" rel="noopener noreferer nofollow">20 Beginner SEO Mistakes to Avoid</a></li>
 </ul>
 <div>4. And others ...</div>
 <div>There are many more types of other articles that could be an Evergreen Content.</div>

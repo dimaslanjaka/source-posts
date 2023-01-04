@@ -59,7 +59,7 @@ updated: 2022-05-21T05:20:52+0000
   <div>
     <pre><br>su<br>data="/data/data/com.eminis.server.php"<br>chmod 755 $data/files/*<br>chmod 755 $data/lib/*<br></pre>
     Or you can also manually set permissions <span style="color: red">755</span> in
-    <span style="color: red">/data/data/<a href="http://web-manajemen.blogspot.com/search?q=com.eminis.server.php" target="_blank">com.eminis.server.php</a>/</span> all the files in the folder "files"
+    <span style="color: red">/data/data/<a href="http://webmanajemen.com/search?q=com.eminis.server.php" target="_blank">com.eminis.server.php</a>/</span> all the files in the folder "files"
     and "lib" <br />
     <br />
     4. Open Root Explorer, open the folder <span style="color: red">/data/data/com.eminis.server.php/files/</span>, "press and hold" file named php. (See screenshot) <br />

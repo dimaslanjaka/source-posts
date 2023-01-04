@@ -32,7 +32,7 @@ or
 ```
 
 ## Post
-Blogger Conditional Tag for determine current page is post ex: http://web-manajemen.blogspot.com/p/privacy.html (**Is Post**)
+Blogger Conditional Tag for determine current page is post ex: http://webmanajemen.com/p/privacy.html (**Is Post**)
 ```xml
 <b:if cond='data:blog.pageType == &quot;item&quot;'></b:if>
 ```
@@ -56,9 +56,9 @@ or
 ```xml
 <b:if cond='data:blog.url == &quot;Url Post Or Page&quot;'></b:if>
 ```
-Example: Determine current page is https://web-manajemen.blogspot.com/2017/04/instal-php-cli-pada-android-instalasi.html
+Example: Determine current page is https://webmanajemen.com/2017/04/instal-php-cli-pada-android-instalasi.html
 ```xml
-<b:if cond='data:blog.url == &quot;https://web-manajemen.blogspot.com/2017/04/instal-php-cli-pada-android-instalasi.html&quot;'></b:if>
+<b:if cond='data:blog.url == &quot;https://webmanajemen.com/2017/04/instal-php-cli-pada-android-instalasi.html&quot;'></b:if>
 ```
 
 ## Index
@@ -72,7 +72,7 @@ or
 ```
 
 ## Label
-Blogger Conditional Tag to display element while on label page (current page is label) ex: http://web-manajemen.blogspot.com/search/label/Blogger (**Is label (Tags/Categories)**)
+Blogger Conditional Tag to display element while on label page (current page is label) ex: http://webmanajemen.com/search/label/Blogger (**Is label (Tags/Categories)**)
 ```xml
 <b:if cond='data:blog.searchLabel'></b:if>
 ```
@@ -92,7 +92,7 @@ or
 ```
 
 ## Search Page
-Blogger conditional tag to display an element when it is on a search page or query data in a blog. ex: https://web-manajemen.blogspot.com/search?q=Install+php+cli
+Blogger conditional tag to display an element when it is on a search page or query data in a blog. ex: https://webmanajemen.com/search?q=Install+php+cli
 ```xml
 <b:if cond='data:blog.searchQuery'></b:if>
 ```
@@ -112,7 +112,7 @@ or
 ```
 
 ## Archives
-Blogger conditional tag to determine current page is Archive Blog. ex: http://web-manajemen.blogspot.com/2017/05/
+Blogger conditional tag to determine current page is Archive Blog. ex: http://webmanajemen.com/2017/05/
 ```xml
 <b:if cond='data:blog.pageType == &quot;archive&quot;'></b:if>
 ```
@@ -138,7 +138,7 @@ This blogger conditional tag can be used to not display adsense js on page layou
 ```
 
 ## Mobile Requests
-This blogger conditional tag code will only read for HTML code that is displayed specifically on mobile devices aka HandPhones and Tablets. ex: https://web-manajemen.blogspot.com/2017/04/instal-php-cli-pada-android-instalasi.html?m=1
+This blogger conditional tag code will only read for HTML code that is displayed specifically on mobile devices aka HandPhones and Tablets. ex: https://webmanajemen.com/2017/04/instal-php-cli-pada-android-instalasi.html?m=1
 ```xml
 <b:if cond='data:blog.isMobileRequest'></b:if>
 ```

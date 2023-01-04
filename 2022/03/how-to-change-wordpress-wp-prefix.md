@@ -28,7 +28,7 @@ $table_prefix = 'NEWPREFIX_';
 
 ## Step 2
 ### Update SQL database to change wordpress table prefix
-1.  [Open your database in PhpMyAdmin](/p/search.html?q=access+database+phpmyadmin).
+1.  [Open your database in PhpMyAdmin](/search/?q=access+database+phpmyadmin).
 2.  Click on the database name in the menu to the left to unfold all tables.
 3.  Select all tables that start with *wp_*; you should have 12 in total.
 4.  Click **With selected** to open the drop-down menu and select **Replace table prefix**.

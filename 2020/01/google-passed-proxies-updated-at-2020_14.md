@@ -33,7 +33,7 @@ description: Fresh proxy oogle passedGoogle passed proxies,
                  <small id="descr">Google passed proxies, updated at 2020-01-13</small>
                </div>
                <div>
-                 <a class="btn btn-warning w3-text-white w3-hide" id="blogger" href="https://web-manajemen.blogspot.com" rel="follow" title="Free Google Proxy List">Create article <i class="fab fa-blogger"></i></a>
+                 <a class="btn btn-warning w3-text-white w3-hide" id="blogger" href="https://webmanajemen.com" rel="follow" title="Free Google Proxy List">Create article <i class="fab fa-blogger"></i></a>
                </div>
              </div>
            </header>

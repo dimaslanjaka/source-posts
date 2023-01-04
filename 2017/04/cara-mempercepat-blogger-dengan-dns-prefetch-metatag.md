@@ -93,7 +93,7 @@ dahulukan.
 ### Untuk kalian yang menggunakan template biasa
 
 kalian juga bisa menerapkan teknik diatas cuman ganti saja <mark>href</mark> source nya dengan source external anda. <b>Malah lebih joss bila kalian juga menerapkan defer load javascript</b>. Baca
-disini: <a href="https://web-manajemen.blogspot.com/search?q=defer+javascript">Bagaimana cara defer javascript</a>.
+disini: <a href="https://webmanajemen.com/search?q=defer+javascript">Bagaimana cara defer javascript</a>.
 
 Selesai. Semoga tulisan saya ini membantu kalian. :) . Jangan lupa
 share yah...

@@ -55,4 +55,4 @@ echo $PATH
 
 ### Also See
 - [vscode alert: CommonJS may be converted to an es module](/2022/03/26/file-is-a-commonjs-module-it-may-be-converted-to-an-es-module.html)
-- [vscode crossplatform settings](/p/search.html?q=vscode+crossplatform+setting)
+- [vscode crossplatform settings](/search/?q=vscode+crossplatform+setting)
