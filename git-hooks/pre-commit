@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# update local package
+npm install
