@@ -5,3 +5,4 @@ exclude:
   - '**/readme.md'
 skip_render:
   - '**/readme.md'
+post_dir: posts
