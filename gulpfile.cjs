@@ -4,7 +4,7 @@ const fs = require('fs-extra');
 const { default: git } = require('git-command-helper');
 const { spawn, spawnAsync } = require('git-command-helper/dist/spawn');
 const { parsePost } = require('hexo-post-parser');
-const { getConfig, gulp, watchPost } = require('static-blog-generator');
+const { getConfig, gulp } = require('static-blog-generator');
 const through2 = require('through2');
 const path = require('upath');
 
@@ -15,11 +15,6 @@ const path = require('upath');
 // ./bin/gulpp <task-name>
 // gulpp <task-name>
 //
-
-gulp.task('watch', function (done) {
-  watchPost(done);
-});
-
 /**
  * git clone
  * @param {string} destFolder
