@@ -4,6 +4,8 @@ date: 2023-01-01T23:05:15+07:00
 updated: 2023-01-03T00:52:22+07:00
 tags: ['snippet','hexo']
 categories: ['programming', 'nodejs']
+layout: snippet
+type: post
 ---
 
 ## `@types/hexo` required for typescript users
