@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+
+echo "updating subpackages dependencies"
+cd "$SCRIPT_DIR/packages/static-blog-generator"
+npm run update
+cd "$SCRIPT_DIR/packages/hexo-post-parser"
+npm run update
+echo "updating project dependencies"
+cd "$SCRIPT_DIR"
+npm run update
