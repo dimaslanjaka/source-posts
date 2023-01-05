@@ -16,7 +16,6 @@ tags: []
 title: watching post
 type: page
 updated: 2023-01-04T09:18:05Z
-url: http://example.com/posts/hexo-theme-unit-test/post-watcher.html
 wordcount: 7
 ---
 
