@@ -1,7 +1,7 @@
 ---
 title: "rel attribute explanations in anchor html element"
 description: "explanations, sample, and functions of rel attribute values such as nofollow noreferer dofollow noopener etc."
-language: en
+lang: en
 date: 2022-10-10T23:09:00+0700
 updated: 2022-10-10T23:09:00+0700
 tags:

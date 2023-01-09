@@ -1,6 +1,6 @@
 ---
 title: Kunci Jawaban Soal LKS Kelas 10
-language: id
+lang: id
 date: 2022-10-11T16:26:00+0700
 updated: 2022-10-11T16:26:00+0700
 ---

@@ -4,7 +4,7 @@ description: Rumus Skala, Contoh Soal Skala, Jarak Sebenarnya, Jarak Pada Peta,
   Penentuan Skala
 date: 2022-10-11T23:43:58+07:00
 updated: 2022-10-16T07:35:43+07:00
-language: id
+lang: id
 keywords:
   - Menentukan jarak sebenarnya dari peta
   - Menentukan skala dari jarak peta dan jarak sebenarnya

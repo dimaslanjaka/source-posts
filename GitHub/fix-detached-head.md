@@ -1,7 +1,7 @@
 ---
 title: How to fix github detached HEAD
 description: Now it turns out that the head is cut off/detached. i don't know what it is. How do I get it back?
-language: en
+lang: en
 date: 2022-10-10T22:56:00+0700
 updated: 2022-10-10T22:56:00+0700
 thumbnail: https://production-cci-com.imgix.net/blog/media/2021-10-22-git-detached-head-3.png

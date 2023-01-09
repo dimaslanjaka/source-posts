@@ -3,7 +3,7 @@ title: Rumus Jarak, Kecepatan, Waktu, Dan Rata-rata
 description: Memahami rumus jarak, kecepatan, waktu, rata-rata dalam matematika
 date: 2022-10-16T02:42:33+07:00
 updated: 2022-10-16T07:35:43+07:00
-language: id
+lang: id
 thumbnail: https://imgix2.ruangguru.com/assets/miscellaneous/png_yr7v2m_1615.png
 tags:
   - distance
