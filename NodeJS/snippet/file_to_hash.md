@@ -8,6 +8,7 @@ tags: ['snippet', 'javascript', 'typescript', 'file']
 categories: ['JS', 'TS']
 layout: snippet
 type: post
+thumbnail: /NodeJS/assets/pngwing.com.png
 ---
 
 ## get checksum from file
