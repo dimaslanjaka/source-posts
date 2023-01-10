@@ -7,6 +7,7 @@ tags: ['snippet', 'JS', 'TS']
 categories: ['JS', 'TS']
 layout: snippet
 type: post
+thumbnail: /NodeJS/assets/pngwing.com.png
 ---
 
 ## Faq
