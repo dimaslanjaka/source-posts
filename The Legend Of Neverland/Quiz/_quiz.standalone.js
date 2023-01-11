@@ -65,6 +65,7 @@ async function main() {
     }
   });
 
+  /*
   // minify table.html
   const hmt = require('html-minifier-terser');
 
@@ -96,7 +97,7 @@ async function main() {
   const result = new CleanCSS({}).minify(
     fs.readFileSync(input, 'utf-8')
   ).styles;
-  if (typeof result === 'string') fs.writeFileSync(output, result);
+  if (typeof result === 'string') fs.writeFileSync(output, result);*/
 }
 
 main();

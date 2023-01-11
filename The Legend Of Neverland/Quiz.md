@@ -35,7 +35,7 @@ tags:
   - The Legend Of Neverland
   - Event
 title: Quiz The Legend Of Neverland
-updated: 2022-12-10T23:12:29+07:00
+updated: 2023-01-11T11:42:52+07:00
 ---
 
 <!-- include Quiz/table.html -->
@@ -66,3 +66,6 @@ updated: 2022-12-10T23:12:29+07:00
 - skip process when input is emptied
 ### 2021-08-16
 - Integrate search `li` texts
+### 2023-01-11
+- change quiz `The tunnel that connects with Cabala is called Path of Cremation (X)`
+- change quiz `The Tunnel That Connects With Cabala Is Called Parh Of Fire Sword (O)`
