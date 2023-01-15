@@ -26,6 +26,10 @@ async function main() {
               .toString('utf-8')
               .split(/\r?\n/gm)
               .filter((str) => str.trim().length > 0)
+              .map((str) => str.trim())
+              .sort(function (a, b) {
+                return a === b ? 0 : a < b ? -1 : 1;
+              })
               .join('\n');
             file = Buffer.from(trim);
             return next(null, file);
