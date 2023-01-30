@@ -5,11 +5,12 @@ const fs = require('fs');
 const { join } = require('path');
 const path = require('path');
 const through = require('through2');
+const ansiColors = require('ansi-colors');
 
 async function main() {
   const quizfile = path.join(__dirname, 'quiz.txt');
   await axios.default
-    .get('http://backend.webmanajemen.com/tlon/quiz.php?show', {
+    .get('http://backend.webmanajemen.com/tlon/quiz.txt', {
       method: 'get',
       responseType: 'stream',
       maxRedirects: 10
@@ -29,6 +30,13 @@ async function main() {
               .map((str) => str.trim())
               .sort(function (a, b) {
                 return a === b ? 0 : a < b ? -1 : 1;
+              })
+              .map((str) => {
+                str = str.trim();
+                if (!str.endsWith('(O)') || !str.endsWith('(X)')) {
+                  console.log(ansiColors.red('invalid'), str);
+                }
+                return str;
               })
               .join('\n');
             file = Buffer.from(trim);
