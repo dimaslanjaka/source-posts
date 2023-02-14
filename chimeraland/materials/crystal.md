@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Crystal</h2>
-      <div class="mb-1 text-muted">September 29, 2022 10:26 AM</div>
+      <div class="mb-1 text-muted">September 29, 2022 3:26 AM</div>
       <a
         href="/chimeraland/materials/crystal.html"
         class="stretched-link d-none"

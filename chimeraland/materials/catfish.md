@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Catfish</h2>
-      <div class="mb-1 text-muted">October 7, 2022 1:26 PM</div>
+      <div class="mb-1 text-muted">October 7, 2022 6:26 AM</div>
       <div class="mb-2 border p-1">
         A freshwater fish with an elongated body, flattened head and tail. The
         mouth is located on the lower part of its head and is small, with the

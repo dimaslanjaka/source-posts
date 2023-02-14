@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Brilliant Jade</h2>
-      <div class="mb-1 text-muted">September 29, 2022 4:26 AM</div>
+      <div class="mb-1 text-muted">September 28, 2022 9:26 PM</div>
       <div class="mb-2 border p-1">
         Five-colored jade, rolling and boiling, five-fragranced, goodness of
         heaven, oh flawless luster, ever propitious.

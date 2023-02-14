@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Bluejade Fish</h2>
-      <div class="mb-1 text-muted">October 9, 2022 2:26 AM</div>
+      <div class="mb-1 text-muted">October 8, 2022 7:26 PM</div>
       <div class="mb-2 border p-1">
         A freshwater fish with a flattened oval body, a triangular head, and
         slightly thick snout. The dorsal fin is extended and a dozen hard spines

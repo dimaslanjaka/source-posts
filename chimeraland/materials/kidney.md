@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Kidney</h2>
-      <div class="mb-1 text-muted">September 30, 2022 7:26 PM</div>
+      <div class="mb-1 text-muted">September 30, 2022 12:26 PM</div>
       <a href="/chimeraland/materials/kidney.html" class="stretched-link d-none"
         >Continue reading Kidney</a
       >

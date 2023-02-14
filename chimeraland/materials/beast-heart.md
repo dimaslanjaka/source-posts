@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Beast Heart</h2>
-      <div class="mb-1 text-muted">September 30, 2022 11:26 PM</div>
+      <div class="mb-1 text-muted">September 30, 2022 4:26 PM</div>
       <a
         href="/chimeraland/materials/beast-heart.html"
         class="stretched-link d-none"

@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Freshwater Carp</h2>
-      <div class="mb-1 text-muted">October 6, 2022 10:26 PM</div>
+      <div class="mb-1 text-muted">October 6, 2022 3:26 PM</div>
       <div class="mb-2 border p-1">
         A freshwater fish with a slightly flattened body, a large head with a
         pointed end, and a flat and wide back of the head, with a raised dorsal

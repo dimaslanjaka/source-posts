@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Vuldo Wing</h2>
-      <div class="mb-1 text-muted">October 2, 2022 3:26 AM</div>
+      <div class="mb-1 text-muted">October 1, 2022 8:26 PM</div>
       <div class="mb-2 border p-1">
         Vuldo feather, strength may fall, but wear to not be slowed.
       </div>

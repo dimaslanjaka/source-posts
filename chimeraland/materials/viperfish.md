@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Viperfish</h2>
-      <div class="mb-1 text-muted">October 9, 2022 8:26 AM</div>
+      <div class="mb-1 text-muted">October 9, 2022 1:26 AM</div>
       <div class="mb-2 border p-1">
         A deep-sea fish, small, with luminous parts. It has large and prominent
         teeth like a python and is ugly. Sealand Sea area is where it may be

@@ -3,7 +3,7 @@ title: Chimeraland Scammer List Player
 description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illus 16 party, roll drop item, dan lain-lain)
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-02-13T04:49:35+07:00
+updated: 2023-02-14T07:32:05+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 tags:
@@ -14,6 +14,9 @@ tags:
 categories:
   - Games
   - Chimeraland
+keywords:
+  - scammer list chimeraland
+  - blacklist player chimeraland
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.palmassgames.ru/wp-content/uploads/2021/07/screenshot_6-1-1024x504.png
 author: L3n4r0x
 ---
@@ -218,7 +221,7 @@ author: L3n4r0x
   document.addEventListener('DOMContentLoaded', translatorWidgetStart);
 </script>
 
-<h2 id="daftar-blacklist-player-kategori-scammer-map-illus-16-party" tabindex="-1"><a href="#daftar-blacklist-player-kategori-scammer-map-illus-16-party">Daftar blacklist player kategori SCAMMER MAP ILLUS 16 PARTY</a></h2>
+<h2 id="daftar-scammer-blacklist-player-kategori-scammer-map-illus-16-party" tabindex="-1"><a href="#daftar-scammer-blacklist-player-kategori-scammer-map-illus-16-party">Daftar scammer blacklist player kategori SCAMMER MAP ILLUS 16 PARTY</a></h2>
 <table style="width:100%;">
 <thead>
 <tr>
@@ -275,9 +278,25 @@ author: L3n4r0x
 <td style="text-align:left" notranslate="true" class=" notranslate">Glitch</td>
 <td style="text-align:left">SCAMMER map illus 16</td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="xSOLETAx">xSOLETAx</td>
+<td style="text-align:left">SCAMMER map illus 16</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Elacan">Elacan</td>
+<td style="text-align:left">SCAMMER map illus 16</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="YurikoSanGyi">YurikoSanGyi</td>
+<td style="text-align:left">Roll and SCAMMER MAP ILLUS 16</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="yukie">yukie</td>
+<td style="text-align:left">SCAMMER map illus 16</td>
+</tr>
 </tbody>
 </table>
-<h2 id="daftar-blacklist-player-kategori-scammer-ruby" tabindex="-1"><a href="#daftar-blacklist-player-kategori-scammer-ruby">Daftar blacklist player kategori SCAMMER RUBY</a></h2>
+<h2 id="daftar-scammer-blacklist-player-kategori-scammer-ruby" tabindex="-1"><a href="#daftar-scammer-blacklist-player-kategori-scammer-ruby">Daftar scammer blacklist player kategori SCAMMER RUBY</a></h2>
 <table style="width:100%;">
 <thead>
 <tr>
@@ -337,6 +356,10 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Freecss">Freecss</td>
 <td style="text-align:left">SCAMMER ruby alasan baru main dan new owner</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="drin">drin</td>
+<td style="text-align:left">SCAMMER ruby clan APPOCALYPSE</td>
 </tr>
 </tbody>
 </table>
@@ -428,21 +451,42 @@ author: L3n4r0x
 </table>
 <h2 id="hindari-hal-hal-berikut-agar-tidak-kena-scam" tabindex="-1"><a href="#hindari-hal-hal-berikut-agar-tidak-kena-scam">Hindari Hal-Hal Berikut Agar Tidak Kena Scam</a></h2>
 <ul>
-<li>Jangan ikut map illus dengan tiket telur grand (kebanyakan orang-orang ini kadang hanya akan mengambil telur grand anda saja lalu menendang anda dari tim).</li>
+<li>Jangan ikut map illus dengan tiket telur grand (kadang orang-orang ini kadang hanya akan mengambil telur anda lalu keluar/kabur dari tim).</li>
 <li>Jangan melakukan transaksi dengan <strong>AKUN SMURF</strong> (orang indonesia menyebutnya <strong>AKUN TUYUL</strong>), 90% merupakan scammer.</li>
 </ul>
 <h2 id="tautan-yang-merujuk-tentang-scammer" tabindex="-1"><a href="#tautan-yang-merujuk-tentang-scammer">Tautan yang merujuk tentang scammer</a></h2>
 <ul>
-<li>scammer midman/rekber (rekening bersama): https://www.facebook.com/groups/5827051707365882/permalink/8491039837633709/?mibextid=Nif5oz</li>
+<li>scammer midman/rekber (rekening bersama): <a href="https://www.facebook.com/groups/5827051707365882/permalink/8491039837633709/?mibextid=Nif5oz">https://www.facebook.com/groups/5827051707365882/permalink/8491039837633709/?mibextid=Nif5oz</a></li>
 <li>shortlink halaman ini: <a href="http://bit.ly/chimeraland-blacklist">http://bit.ly/chimeraland-blacklist</a></li>
 </ul>
 <h2 id="kumpulan-tangkapan-layar-screenshot-tentang-scammer" tabindex="-1"><a href="#kumpulan-tangkapan-layar-screenshot-tentang-scammer">Kumpulan Tangkapan Layar (screenshot) tentang scammer</a></h2>
-<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Chinese%20player%20&%20UnknowN.jpg" alt="Chinese player & UnknowN.jpg" />
-<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Rishya.jpeg" alt="Rishya.jpeg" />
-<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/HitsuiTH%20&%20jiejie%20&%20Glitch%20+%20Dikoo.jpeg" alt="HitsuiTH & jiejie & Glitch + Dikoo.jpeg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/xSOLETAXx%20-%20viral%20one%20day.jpg" alt="xSOLETAXx - viral one day.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/ourobores%20clan.jpeg" alt="ourobores clan.jpeg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/naru.jpeg" alt="naru.jpeg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/maraa.jpeg" alt="maraa.jpeg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/korban%20naru.png" alt="korban naru.png" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/isman%20-%20ovo%20dan%20rekening%20bank.png" alt="isman - ovo dan rekening bank.png" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/drin%20-%20clan%20APPOCALYPSE.jpeg" alt="drin - clan APPOCALYPSE.jpeg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/blackblades%20&%20Yayan%20bae.jpg" alt="blackblades & Yayan bae.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/black%20sword%20&%20sakuraz.jpg" alt="black sword & sakuraz.jpg" />
-<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Screenshot_2023-01-31-00-01-13-69_f4fc9fb10454fc3a3dacb99dff89b568.jpg" alt="Screenshot_2023-01-31-00-01-13-69_f4fc9fb10454fc3a3dacb99dff89b568.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/batagor%20&%20sus%20&%20unknown.jpg" alt="batagor & sus & unknown.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Xalll.jpg" alt="Xalll.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Xaiii.jpeg" alt="Xaiii.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Screenshot_2023-02-06-12-17-44-79_f4fc9fb10454fc3a3dacb99dff89b568.jpg" alt="Screenshot_2023-02-06-12-17-44-79_f4fc9fb10454fc3a3dacb99dff89b568.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Screenshot_2023-02-04-20-02-09-35_f4fc9fb10454fc3a3dacb99dff89b568.jpg" alt="Screenshot_2023-02-04-20-02-09-35_f4fc9fb10454fc3a3dacb99dff89b568.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Screenshot_2023-02-03-16-17-27-44_f4fc9fb10454fc3a3dacb99dff89b568.jpg" alt="Screenshot_2023-02-03-16-17-27-44_f4fc9fb10454fc3a3dacb99dff89b568.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Screenshot_2023-02-03-16-16-00-56_f4fc9fb10454fc3a3dacb99dff89b568.jpg" alt="Screenshot_2023-02-03-16-16-00-56_f4fc9fb10454fc3a3dacb99dff89b568.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Screenshot_2023-02-03-16-15-18-46_f4fc9fb10454fc3a3dacb99dff89b568.jpg" alt="Screenshot_2023-02-03-16-15-18-46_f4fc9fb10454fc3a3dacb99dff89b568.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Screenshot_2023-02-02-21-10-04-73_f4fc9fb10454fc3a3dacb99dff89b568.jpg" alt="Screenshot_2023-02-02-21-10-04-73_f4fc9fb10454fc3a3dacb99dff89b568.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Screenshot_2023-02-01-22-38-12-07_f4fc9fb10454fc3a3dacb99dff89b568.jpg" alt="Screenshot_2023-02-01-22-38-12-07_f4fc9fb10454fc3a3dacb99dff89b568.jpg" />
-<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Xalll.jpg" alt="Xalll.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Screenshot_2023-02-01-22-37-54-12_f4fc9fb10454fc3a3dacb99dff89b568.jpg" alt="Screenshot_2023-02-01-22-37-54-12_f4fc9fb10454fc3a3dacb99dff89b568.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Rishya.jpeg" alt="Rishya.jpeg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/HitsuiTH,%20Jiejie,%20glitch,%20dikoo,%20Elacan.jpg" alt="HitsuiTH, Jiejie, glitch, dikoo, Elacan.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/HitsuiTH,%20Dikoo,%20Jiejie,%20Glitch.jpeg" alt="HitsuiTH, Dikoo, Jiejie, Glitch.jpeg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/HitsuiTH%20&%20jiejie%20&%20Glitch%20+%20Dikoo.jpeg" alt="HitsuiTH & jiejie & Glitch + Dikoo.jpeg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/HODE.jpg" alt="HODE.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Freecss.jpeg" alt="Freecss.jpeg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Egy%20&%20sizukaz%20&%20Black%20sword%20&%20hella%20&%20aster%20&%20Dikoo.jpg" alt="Egy & sizukaz & Black sword & hella & aster & Dikoo.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Dicurigai%20-%20HODE.jpeg" alt="Dicurigai - HODE.jpeg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Chinese%20player%20&%20UnknowN.jpg" alt="Chinese player & UnknowN.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/yukie.jpg" alt="yukie.jpg" />
