@@ -3,7 +3,7 @@ title: Chimeraland Scammer List Player
 description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illus 16 party, roll drop item, dan lain-lain)
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-02-14T07:32:05+07:00
+updated: 2023-02-15T04:33:54+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 tags:
@@ -361,6 +361,10 @@ author: L3n4r0x
 <td style="text-align:left" notranslate="true" class=" notranslate" id="drin">drin</td>
 <td style="text-align:left">SCAMMER ruby clan APPOCALYPSE</td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="MegumiAI">MegumiAI</td>
+<td style="text-align:left">Alibi SCAMMER ruby</td>
+</tr>
 </tbody>
 </table>
 <h2 id="daftar-player-kategori-tukang-roll-drop-item" tabindex="-1"><a href="#daftar-player-kategori-tukang-roll-drop-item">Daftar player kategori tukang roll drop item</a></h2>
@@ -481,6 +485,7 @@ author: L3n4r0x
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Screenshot_2023-02-01-22-38-12-07_f4fc9fb10454fc3a3dacb99dff89b568.jpg" alt="Screenshot_2023-02-01-22-38-12-07_f4fc9fb10454fc3a3dacb99dff89b568.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Screenshot_2023-02-01-22-37-54-12_f4fc9fb10454fc3a3dacb99dff89b568.jpg" alt="Screenshot_2023-02-01-22-37-54-12_f4fc9fb10454fc3a3dacb99dff89b568.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Rishya.jpeg" alt="Rishya.jpeg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/MegumiAI%20-%20Alibi%20Freecss.jpeg" alt="MegumiAI - Alibi Freecss.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/HitsuiTH,%20Jiejie,%20glitch,%20dikoo,%20Elacan.jpg" alt="HitsuiTH, Jiejie, glitch, dikoo, Elacan.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/HitsuiTH,%20Dikoo,%20Jiejie,%20Glitch.jpeg" alt="HitsuiTH, Dikoo, Jiejie, Glitch.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/HitsuiTH%20&%20jiejie%20&%20Glitch%20+%20Dikoo.jpeg" alt="HitsuiTH & jiejie & Glitch + Dikoo.jpeg" />
