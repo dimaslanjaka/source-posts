@@ -222,12 +222,12 @@ author: L3n4r0x
   document.addEventListener('DOMContentLoaded', translatorWidgetStart);
 </script>
 
-<h2 id="daftar-scammer-blacklist-player-kategori-scammer-map-illus-16-party" tabindex="-1"><a href="#daftar-scammer-blacklist-player-kategori-scammer-map-illus-16-party">Daftar scammer blacklist player kategori SCAMMER MAP ILLUS 16 PARTY</a></h2>
+<h2 id="scammer-map-illus-16">Daftar scammer blacklist player kategori SCAMMER MAP ILLUS 16 PARTY</h2>
 <table style="width:100%;">
 <thead>
 <tr>
 <th style="text-align:left">Nama Player</th>
-<th style="text-align:left">clan</th>
+<th style="text-align:left">Clan</th>
 <th style="text-align:left">Keterangan</th>
 </tr>
 </thead>
@@ -299,8 +299,8 @@ author: L3n4r0x
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="YurikoSanGyi">YurikoSanGyi</td>
-<td style="text-align:left">Roll and SCAMMER MAP ILLUS 16</td>
 <td style="text-align:left"></td>
+<td style="text-align:left">Roll and SCAMMER MAP ILLUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="yukie">yukie</td>
@@ -312,14 +312,24 @@ author: L3n4r0x
 <td style="text-align:left">matanglawin</td>
 <td style="text-align:left">SCAMMER map illus 16</td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="UnknowN">UnknowN</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">SCAMMER map illus 16</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Sus">Sus</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">SCAMMER map illus 16</td>
+</tr>
 </tbody>
 </table>
-<h2 id="daftar-scammer-blacklist-player-kategori-scammer-ruby" tabindex="-1"><a href="#daftar-scammer-blacklist-player-kategori-scammer-ruby">Daftar scammer blacklist player kategori SCAMMER RUBY</a></h2>
+<h2 id="scammer-ruby">Daftar scammer blacklist player kategori SCAMMER RUBY</h2>
 <table style="width:100%;">
 <thead>
 <tr>
 <th style="text-align:left">Nama Player</th>
-<th style="text-align:left">clan</th>
+<th style="text-align:left">Clan</th>
 <th style="text-align:left">Keterangan</th>
 </tr>
 </thead>
@@ -352,7 +362,7 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="hella">hella</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER sebagai penjual telur rare, scam player <strong>oishitamango</strong></td>
+<td style="text-align:left">SCAMMER sebagai penjual telur rare, player korban scam <strong>oishitamango</strong></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="LORD">LORD</td>
@@ -401,7 +411,7 @@ author: L3n4r0x
 </tr>
 </tbody>
 </table>
-<h2 id="daftar-player-kategori-tukang-roll-drop-item" tabindex="-1"><a href="#daftar-player-kategori-tukang-roll-drop-item">Daftar player kategori tukang roll drop item</a></h2>
+<h2 id="tukang-roll">Daftar player kategori tukang roll drop item</h2>
 <table style="width:100%;">
 <thead>
 <tr>
@@ -497,7 +507,7 @@ author: L3n4r0x
 <li>scammer midman/rekber (rekening bersama): <a href="https://www.facebook.com/groups/5827051707365882/permalink/8491039837633709/?mibextid=Nif5oz">https://www.facebook.com/groups/5827051707365882/permalink/8491039837633709/?mibextid=Nif5oz</a></li>
 <li>shortlink halaman ini: <a href="http://bit.ly/chimeraland-blacklist">http://bit.ly/chimeraland-blacklist</a></li>
 </ul>
-<h2 id="kumpulan-tangkapan-layar-screenshot-tentang-scammer" tabindex="-1"><a href="#kumpulan-tangkapan-layar-screenshot-tentang-scammer">Kumpulan Tangkapan Layar (screenshot) tentang scammer</a></h2>
+<h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/batagor%20&%20sus%20&%20unknown.jpg" alt="batagor & sus & unknown.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/black%20sword%20&%20sakuraz.jpg" alt="black sword & sakuraz.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/blackblades%20&%20Yayan%20bae.jpg" alt="blackblades & Yayan bae.jpg" />
