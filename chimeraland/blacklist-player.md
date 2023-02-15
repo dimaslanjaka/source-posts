@@ -1,7 +1,7 @@
 ---
 title: Chimeraland Scammer List Player
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-02-15T13:17:20+07:00
+updated: 2023-02-15T17:57:26+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -227,68 +227,89 @@ author: L3n4r0x
 <thead>
 <tr>
 <th style="text-align:left">Nama Player</th>
+<th style="text-align:left">clan</th>
 <th style="text-align:left">Keterangan</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="ASTER">ASTER</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER MAP ILLUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="arkep">arkep</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER MAP ILLUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Shelby">Shelby</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER MAP ILLUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Suvi">Suvi</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER MAP ILLUS 16 sebagai LEADER PARTY</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="PrimalHunter">PrimalHunter</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER MAP ILLUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="HitsuiTH">HitsuiTH</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER MAP ILLUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Dikoo">Dikoo</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER MAP ILLUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Glitch">Glitch</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER MAP ILLUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="jiejieJiejie">jiejie/Jiejie</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER MAP ILLUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate">HitsuiTH</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER map illus 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate">Glitch</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER map illus 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="xSOLETAx">xSOLETAx</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER map illus 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Elacan">Elacan</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER map illus 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="YurikoSanGyi">YurikoSanGyi</td>
 <td style="text-align:left">Roll and SCAMMER MAP ILLUS 16</td>
+<td style="text-align:left"></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="yukie">yukie</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">SCAMMER map illus 16</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="EmpiLighT">EmpiLighT</td>
+<td style="text-align:left">matanglawin</td>
 <td style="text-align:left">SCAMMER map illus 16</td>
 </tr>
 </tbody>
@@ -298,65 +319,85 @@ author: L3n4r0x
 <thead>
 <tr>
 <th style="text-align:left">Nama Player</th>
+<th style="text-align:left">clan</th>
 <th style="text-align:left">Keterangan</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate">Shelby</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER ruby</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="NesaMiko">NesaMiko</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER 6000 ruby tukar akun <strong>Mobile Legends</strong></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Tusboll">Tusboll</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER ruby dengan alasan <strong>harga pensi</strong> / rate pensi</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Ryujin">Ryujin</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER ruby dengan alasan <strong>harga pensi</strong> / rate pensi</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Ryuukendo">Ryuukendo</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER ruby dengan alasan <strong>harga pensi</strong> / rate pensi</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="hella">hella</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER sebagai penjual telur rare, scam player <strong>oishitamango</strong></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="LORD">LORD</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">AKUN KEDUA <strong><a href="https://www.webmanajemen.com/chimeraland/blacklist-player.html?highlight=hella&amp;scroll=true">hella</a></strong></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Yayan-bae">Yayan bae</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER Illus Seal, Toxic</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Rishya">Rishya</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER ruby</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="BangPo">BangPo</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER ruby</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Xalll">Xalll</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER ruby</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Xaiii">Xaiii</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER ruby, akun kedua dari <strong><a href="https://www.webmanajemen.com/chimeraland/blacklist-player.html?highlight=Xalll&amp;scroll=true">Xalll</a></strong></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Freecss">Freecss</td>
+<td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER ruby alasan baru main dan new owner</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="drin">drin</td>
-<td style="text-align:left">SCAMMER ruby clan APPOCALYPSE</td>
+<td style="text-align:left">APPOCALYPSE</td>
+<td style="text-align:left">SCAMMER ruby</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Narunaru">Naru/naru</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">SCAMMER ruby</td>
 </tr>
 </tbody>
 </table>
@@ -457,6 +498,7 @@ author: L3n4r0x
 <li>shortlink halaman ini: <a href="http://bit.ly/chimeraland-blacklist">http://bit.ly/chimeraland-blacklist</a></li>
 </ul>
 <h2 id="kumpulan-tangkapan-layar-screenshot-tentang-scammer" tabindex="-1"><a href="#kumpulan-tangkapan-layar-screenshot-tentang-scammer">Kumpulan Tangkapan Layar (screenshot) tentang scammer</a></h2>
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/BangPo.jpeg" alt="BangPo.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/batagor%20&%20sus%20&%20unknown.jpg" alt="batagor & sus & unknown.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/black%20sword%20&%20sakuraz.jpg" alt="black sword & sakuraz.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/blackblades%20&%20Yayan%20bae.jpg" alt="blackblades & Yayan bae.jpg" />
@@ -464,6 +506,7 @@ author: L3n4r0x
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Dicurigai%20-%20HODE.jpeg" alt="Dicurigai - HODE.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/drin%20-%20clan%20APPOCALYPSE.jpeg" alt="drin - clan APPOCALYPSE.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Egy%20&%20sizukaz%20&%20Black%20sword%20&%20hella%20&%20aster%20&%20Dikoo.jpg" alt="Egy & sizukaz & Black sword & hella & aster & Dikoo.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/EmpiLighT%20-%20clan%20matanglawin.jpg" alt="EmpiLighT - clan matanglawin.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Freecss.jpeg" alt="Freecss.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Freecss%20mengakui%20bahwa%20dia%20scammer.jpeg" alt="Freecss mengakui bahwa dia scammer.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/HEE.jpg" alt="HEE.jpg" />
@@ -476,6 +519,7 @@ author: L3n4r0x
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/korban%20naru.png" alt="korban naru.png" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/maraa.jpeg" alt="maraa.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/naru.jpeg" alt="naru.jpeg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/naru%20-%20nomor%20whatsapp.jpg" alt="naru - nomor whatsapp.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Nicko.jpg" alt="Nicko.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/ourobores%20clan.jpeg" alt="ourobores clan.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Rishya.jpeg" alt="Rishya.jpeg" />
