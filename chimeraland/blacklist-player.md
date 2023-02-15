@@ -263,15 +263,11 @@ author: L3n4r0x
 <td style="text-align:left">SCAMMER MAP ILLUS 16</td>
 </tr>
 <tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="jiejie">jiejie</td>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="jiejieJiejie">jiejie/Jiejie</td>
 <td style="text-align:left">SCAMMER MAP ILLUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate">HitsuiTH</td>
-<td style="text-align:left">SCAMMER map illus 16</td>
-</tr>
-<tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="Jiejie">Jiejie</td>
 <td style="text-align:left">SCAMMER map illus 16</td>
 </tr>
 <tr>
@@ -351,7 +347,7 @@ author: L3n4r0x
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Xaiii">Xaiii</td>
-<td style="text-align:left">SCAMMER ruby, second account of <strong><a href="https://www.webmanajemen.com/chimeraland/blacklist-player.html?highlight=Xalll&amp;scroll=true">Xalll</a></strong></td>
+<td style="text-align:left">SCAMMER ruby, akun kedua dari <strong><a href="https://www.webmanajemen.com/chimeraland/blacklist-player.html?highlight=Xalll&amp;scroll=true">Xalll</a></strong></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Freecss">Freecss</td>
@@ -360,10 +356,6 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="drin">drin</td>
 <td style="text-align:left">SCAMMER ruby clan APPOCALYPSE</td>
-</tr>
-<tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="MegumiAI">MegumiAI</td>
-<td style="text-align:left">Alibi SCAMMER ruby</td>
 </tr>
 </tbody>
 </table>
@@ -485,12 +477,12 @@ author: L3n4r0x
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Screenshot_2023-02-01-22-38-12-07_f4fc9fb10454fc3a3dacb99dff89b568.jpg" alt="Screenshot_2023-02-01-22-38-12-07_f4fc9fb10454fc3a3dacb99dff89b568.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Screenshot_2023-02-01-22-37-54-12_f4fc9fb10454fc3a3dacb99dff89b568.jpg" alt="Screenshot_2023-02-01-22-37-54-12_f4fc9fb10454fc3a3dacb99dff89b568.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Rishya.jpeg" alt="Rishya.jpeg" />
-<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/MegumiAI%20-%20Alibi%20Freecss.jpeg" alt="MegumiAI - Alibi Freecss.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/HitsuiTH,%20Jiejie,%20glitch,%20dikoo,%20Elacan.jpg" alt="HitsuiTH, Jiejie, glitch, dikoo, Elacan.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/HitsuiTH,%20Dikoo,%20Jiejie,%20Glitch.jpeg" alt="HitsuiTH, Dikoo, Jiejie, Glitch.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/HitsuiTH%20&%20jiejie%20&%20Glitch%20+%20Dikoo.jpeg" alt="HitsuiTH & jiejie & Glitch + Dikoo.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/HODE.jpg" alt="HODE.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Freecss.jpeg" alt="Freecss.jpeg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Freecss%20mengakui%20bahwa%20dia%20scammer.jpeg" alt="Freecss mengakui bahwa dia scammer.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Egy%20&%20sizukaz%20&%20Black%20sword%20&%20hella%20&%20aster%20&%20Dikoo.jpg" alt="Egy & sizukaz & Black sword & hella & aster & Dikoo.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Dicurigai%20-%20HODE.jpeg" alt="Dicurigai - HODE.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/Chinese%20player%20&%20UnknowN.jpg" alt="Chinese player & UnknowN.jpg" />
