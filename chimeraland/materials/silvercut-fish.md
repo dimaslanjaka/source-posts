@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Silvercut Fish</h2>
-      <div class="mb-1 text-muted">October 6, 2022 10:26 PM</div>
+      <div class="mb-1 text-muted">October 7, 2022 5:26 AM</div>
       <div class="mb-2 border p-1">
         A marine fish, slim, slivery, with a singular short dorsal fin. No
         lateral line, no scales on the head. Westmount Sea is where it may be

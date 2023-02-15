@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Bluewirl Fish</h2>
-      <div class="mb-1 text-muted">October 8, 2022 4:26 AM</div>
+      <div class="mb-1 text-muted">October 8, 2022 11:26 AM</div>
       <div class="mb-2 border p-1">
         A marine fish that is diamond shaped, with a very flat body and blue
         parttern. The edge of its trailing caudal fins is flat, and the dorsal

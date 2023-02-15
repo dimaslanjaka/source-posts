@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Orchid</h2>
-      <div class="mb-1 text-muted">October 9, 2022 7:26 AM</div>
+      <div class="mb-1 text-muted">October 9, 2022 2:26 PM</div>
       <div class="mb-2 border p-1">
         An common herb found anywhere. It&#x27;s leaves are like an orchid,
         it&#x27;s stem like a bellflower. It flourishes in brilliant light.

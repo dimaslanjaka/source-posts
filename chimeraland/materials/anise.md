@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Anise</h2>
-      <div class="mb-1 text-muted">October 9, 2022 10:26 AM</div>
+      <div class="mb-1 text-muted">October 9, 2022 5:26 PM</div>
       <div class="mb-2 border p-1">
         A relatively common herb, often mistaken for a tree even though it is
         not. With a thick stem, green leaves, and red flowers, it is found

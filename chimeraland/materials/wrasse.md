@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Wrasse</h2>
-      <div class="mb-1 text-muted">October 8, 2022 11:26 AM</div>
+      <div class="mb-1 text-muted">October 8, 2022 6:26 PM</div>
       <div class="mb-2 border p-1">
         A marine fish with a long and oval body. It has flat head from the back
         to the eye, ending in a protrusion. The adult fish has a prominent

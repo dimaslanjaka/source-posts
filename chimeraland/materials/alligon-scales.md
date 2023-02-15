@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Alligon Scales</h2>
-      <div class="mb-1 text-muted">October 1, 2022 9:26 PM</div>
+      <div class="mb-1 text-muted">October 2, 2022 4:26 AM</div>
       <div class="mb-2 border p-1">Alligon scale, resists weapons.</div>
       <a
         href="/chimeraland/materials/alligon-scales.html"

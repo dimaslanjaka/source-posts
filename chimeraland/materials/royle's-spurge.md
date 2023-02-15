@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Royle&#x27;s Spurge</h2>
-      <div class="mb-1 text-muted">October 9, 2022 5:26 PM</div>
+      <div class="mb-1 text-muted">October 10, 2022 12:26 AM</div>
       <div class="mb-2 border p-1">
         A somewhat rare herb, its creeping stem holds many branches and matching
         leaves. Often taken to increase longevity. It can be found growing on

@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Bone Sheep Primal Spirit</h2>
-      <div class="mb-1 text-muted">September 28, 2022 5:26 PM</div>
+      <div class="mb-1 text-muted">September 29, 2022 12:26 AM</div>
       <a
         href="/chimeraland/materials/bone-sheep-primal-spirit.html"
         class="stretched-link d-none"
