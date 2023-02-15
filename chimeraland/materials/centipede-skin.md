@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Centipede Skin</h2>
-      <div class="mb-1 text-muted">October 2, 2022 6:26 AM</div>
+      <div class="mb-1 text-muted">October 1, 2022 11:26 PM</div>
       <a
         href="/chimeraland/materials/centipede-skin.html"
         class="stretched-link d-none"

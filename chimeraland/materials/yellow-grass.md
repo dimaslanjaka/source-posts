@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Yellow Grass</h2>
-      <div class="mb-1 text-muted">October 10, 2022 4:26 AM</div>
+      <div class="mb-1 text-muted">October 9, 2022 9:26 PM</div>
       <div class="mb-2 border p-1">
         A somewhat rare herb with a straight stalk and yellow fruit similar to
         an apricot, sweet tasting as well as nutritious, found only on the

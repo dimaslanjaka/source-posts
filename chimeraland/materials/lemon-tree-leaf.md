@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Lemon Tree Leaf</h2>
-      <div class="mb-1 text-muted">October 5, 2022 8:26 PM</div>
+      <div class="mb-1 text-muted">October 5, 2022 1:26 PM</div>
       <a
         href="/chimeraland/materials/lemon-tree-leaf.html"
         class="stretched-link d-none"

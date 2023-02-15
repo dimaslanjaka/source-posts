@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Blood Jade</h2>
-      <div class="mb-1 text-muted">October 1, 2022 1:26 PM</div>
+      <div class="mb-1 text-muted">October 1, 2022 6:26 AM</div>
       <a
         href="/chimeraland/materials/blood-jade.html"
         class="stretched-link d-none"

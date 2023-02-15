@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Barramunkun</h2>
-      <div class="mb-1 text-muted">October 8, 2022 11:26 PM</div>
+      <div class="mb-1 text-muted">October 8, 2022 4:26 PM</div>
       <div class="mb-2 border p-1">
         A marine fish with a spindle-shaped body. It is thicker in the center
         and tapers out toward the head and tail. It is fierce in nature a good

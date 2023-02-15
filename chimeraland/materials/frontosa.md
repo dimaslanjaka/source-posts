@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Frontosa</h2>
-      <div class="mb-1 text-muted">October 7, 2022 12:26 PM</div>
+      <div class="mb-1 text-muted">October 7, 2022 5:26 AM</div>
       <div class="mb-2 border p-1">
         A freshwater fish with a high dorsal arc and a gentle ventral arc. The
         dorsal fin is broad and the tail fin is forked. It is black and white.

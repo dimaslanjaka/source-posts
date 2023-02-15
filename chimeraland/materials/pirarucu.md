@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Pirarucu</h2>
-      <div class="mb-1 text-muted">October 8, 2022 3:26 AM</div>
+      <div class="mb-1 text-muted">October 7, 2022 8:26 PM</div>
       <div class="mb-2 border p-1">
         A Freshwater fish with a well-developed teeth and tongue. It can bite
         with the teeth that grow on its palate. It has a green body and reddish
