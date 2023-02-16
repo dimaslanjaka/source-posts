@@ -1,11 +1,11 @@
 name: Build Site
 
 on:
-  push:
-    branches:
-      - posts
-    paths:
-      - '**/*.md'
+#  push:
+#    branches:
+#      - posts
+#    paths:
+#      - '**/*.md'
   workflow_dispatch:
 
 concurrency:
