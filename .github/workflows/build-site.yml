@@ -161,26 +161,4 @@ jobs:
         working-directory: ./.deploy_git
         name: push .deploy_git
         shell: bash
-      - run: |
-          git config --global user.name 'dimaslanjaka'
-          git config --global user.email 'dimaslanjaka@gmail.com'
-          git submodule foreach "git add -A | :"
-          git submodule foreach "git commit -am 'Update build from ${{ env.GITHUB_COMMIT_URL }}' | :"
-          git submodule foreach "git push | :"
-          #git add -A
-          #git commit -m "Update build from ${{ env.GITHUB_COMMIT_URL }}" -m "commit hash: ${{ env.GITHUB_SHA_SHORT }}" -m "commit url: ${{ env.GITHUB_COMMIT_URL }}" -m "runner: ${{ env.GITHUB_RUNNER_URL }}"
-        continue-on-error: true
-      - name: Deploy 🚀
-        #if: ${{ false }}
-        #if: steps.push-manual.outcome == 'failure' && steps.push-manual.conclusion == 'failure'
-        uses: JamesIves/github-pages-deploy-action@v4.4.1
-        with:
-          #commit-message: "update: commit ${{ env.GITHUB_COMMIT_URL }} runner ${{ env.GITHUB_RUNNER_URL }}"
-          branch: 'master' # The branch the action should deploy to.
-          folder: "." # The folder the action should deploy.
-          force: false # merge instead push --force, (keep old / non modified) files?
-          token: "${{ secrets.ACCESS_TOKEN }}" # github token
-          repository-name: "dimaslanjaka/static-blog-generator-hexo" # Repostory URL
-          git-config-email: 'dimaslanjaka@gmail.com'
-          git-config-name: 'dimaslanjaka'
-          clean-exclude: "*"
+      
