@@ -27,6 +27,11 @@ jobs:
 
     steps:
       - run: git config --global core.autocrlf false
+      - uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "Asia/Jakarta"
+          timezoneMacos: "Asia/Jakarta"
+          timezoneWindows: "Indonesia Standard Time"
       - uses: actions/checkout@v3
         name: checkout root project
         with:
