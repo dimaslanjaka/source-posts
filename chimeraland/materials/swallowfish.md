@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Swallowfish</h2>
-      <div class="mb-1 text-muted">October 8, 2022 9:26 PM</div>
+      <div class="mb-1 text-muted">October 8, 2022 2:26 PM</div>
       <div class="mb-2 border p-1">
         A marine fish that is diamond-shaped, with a very flat body, and very
         flat tail fin edge. It has dorsal and rear fin which extended backwards

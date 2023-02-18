@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Coiled Snake Scale</h2>
-      <div class="mb-1 text-muted">October 1, 2022 10:26 AM</div>
+      <div class="mb-1 text-muted">October 1, 2022 3:26 AM</div>
       <div class="mb-2 border p-1">
         A giant Snake&#x27;s skin. It&#x27;s simply fascinating.
       </div>

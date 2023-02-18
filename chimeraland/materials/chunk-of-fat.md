@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Chunk of Fat</h2>
-      <div class="mb-1 text-muted">September 29, 2022 7:26 PM</div>
+      <div class="mb-1 text-muted">September 29, 2022 12:26 PM</div>
       <a
         href="/chimeraland/materials/chunk-of-fat.html"
         class="stretched-link d-none"
