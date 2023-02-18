@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Yellow Boxfish</h2>
-      <div class="mb-1 text-muted">October 7, 2022 1:26 PM</div>
+      <div class="mb-1 text-muted">October 7, 2022 8:26 PM</div>
       <div class="mb-2 border p-1">
         A marine fish with a yellow box-shape body with brown spots. The yellow
         color turns brown when it be comes an adult fish.

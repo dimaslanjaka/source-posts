@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Ancient Bone</h2>
-      <div class="mb-1 text-muted">October 2, 2022 9:26 PM</div>
+      <div class="mb-1 text-muted">October 3, 2022 4:26 AM</div>
       <a
         href="/chimeraland/materials/ancient-bone.html"
         class="stretched-link d-none"

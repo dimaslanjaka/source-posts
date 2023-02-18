@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Poplar Sap</h2>
-      <div class="mb-1 text-muted">October 5, 2022 11:26 PM</div>
+      <div class="mb-1 text-muted">October 6, 2022 6:26 AM</div>
       <div class="mb-2 border p-1">
         Poplar trees essence. Resemble water, transparent, eaten to relieve
         exhaustion.

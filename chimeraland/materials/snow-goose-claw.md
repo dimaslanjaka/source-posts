@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Snow Goose Claw</h2>
-      <div class="mb-1 text-muted">October 1, 2022 1:26 PM</div>
+      <div class="mb-1 text-muted">October 1, 2022 8:26 PM</div>
       <div class="mb-2 border p-1">
         Condor Claw, no trace in the snow, can overcome the strong stone, wear
         to be unblockable.

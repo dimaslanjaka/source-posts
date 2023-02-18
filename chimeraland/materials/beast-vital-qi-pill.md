@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Beast Vital Qi Pill</h2>
-      <div class="mb-1 text-muted">October 1, 2022 7:26 AM</div>
+      <div class="mb-1 text-muted">October 1, 2022 2:26 PM</div>
       <a
         href="/chimeraland/materials/beast-vital-qi-pill.html"
         class="stretched-link d-none"

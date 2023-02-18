@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Shark</h2>
-      <div class="mb-1 text-muted">October 8, 2022 3:26 PM</div>
+      <div class="mb-1 text-muted">October 8, 2022 10:26 PM</div>
       <div class="mb-2 border p-1">
         A marine fish with hard skin, strong tail, sharp teeth, and a
         spindle-like body. It has no swim bladder and has to keep swimming to

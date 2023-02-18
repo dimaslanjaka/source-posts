@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Mackerel</h2>
-      <div class="mb-1 text-muted">October 7, 2022 12:26 AM</div>
+      <div class="mb-1 text-muted">October 7, 2022 7:26 AM</div>
       <div class="mb-2 border p-1">
         A marine fish with a smooth and delicate body. It is spindle-shaped, has
         a blue-black back, is covered in blue sports, and has a slivery gray
