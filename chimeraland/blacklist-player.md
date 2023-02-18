@@ -1,7 +1,10 @@
 ---
 title: Chimeraland Scammer List Player
+description: Blacklist player chimeraland (scammer list meliputi ruby trader,
+  map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
+  chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-02-15T17:57:26+07:00
+updated: 2023-02-16T20:32:54+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -222,7 +225,7 @@ author: L3n4r0x
   document.addEventListener('DOMContentLoaded', translatorWidgetStart);
 </script>
 
-<h2 id="scammer-map-illus-16">Daftar scammer blacklist player kategori SCAMMER MAP ILLUS 16 PARTY</h2>
+<h2 id="scammer-map-illus-16">Daftar scammer/blacklist player kategori SCAMMER chimeraland MAP ILLUSTRIOUS 16 PARTY</h2>
 <table style="width:100%;">
 <thead>
 <tr>
@@ -235,96 +238,101 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="ASTER">ASTER</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER MAP ILLUS 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="arkep">arkep</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER MAP ILLUS 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Shelby">Shelby</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER MAP ILLUS 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Suvi">Suvi</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER MAP ILLUS 16 sebagai LEADER PARTY</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16 sebagai LEADER PARTY</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="PrimalHunter">PrimalHunter</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER MAP ILLUS 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="HitsuiTH">HitsuiTH</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER MAP ILLUS 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Dikoo">Dikoo</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER MAP ILLUS 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Glitch">Glitch</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER MAP ILLUS 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="jiejieJiejie">jiejie/Jiejie</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER MAP ILLUS 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate">HitsuiTH</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER map illus 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate">Glitch</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER map illus 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="xSOLETAx">xSOLETAx</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER map illus 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Elacan">Elacan</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER map illus 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="YurikoSanGyi">YurikoSanGyi</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">Roll and SCAMMER MAP ILLUS 16</td>
+<td style="text-align:left">Roll and SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="yukie">yukie</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER map illus 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="EmpiLighT">EmpiLighT</td>
 <td style="text-align:left">matanglawin</td>
-<td style="text-align:left">SCAMMER map illus 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="UnknowN">UnknowN</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER map illus 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Sus">Sus</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER map illus 16</td>
+<td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="HEE">HEE</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">this account got hacked, and new owner is SCAMMER, last activity SCAMMING chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 </tbody>
 </table>
-<h2 id="scammer-ruby">Daftar scammer blacklist player kategori SCAMMER RUBY</h2>
+<h2 id="scammer-ruby">Daftar scammer/blacklist player kategori SCAMMER RUBY</h2>
 <table style="width:100%;">
 <thead>
 <tr>
@@ -424,17 +432,17 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Corleonx">Corleonx</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">Roll drops items from Map Illus 16</td>
+<td style="text-align:left">Roll drops items from chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate">Shelby</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">Roll drops items from Map Illus 16</td>
+<td style="text-align:left">Roll drops items from chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate">PrimalHunter</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">Roll drops items from Map Illus 16</td>
+<td style="text-align:left">Roll drops items from chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="blackblades">blackblades</td>
@@ -444,7 +452,7 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="maraa">maraa</td>
 <td style="text-align:left">undead</td>
-<td style="text-align:left">Roll drops items from Map Illus 16</td>
+<td style="text-align:left">Roll drops items from chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 </tbody>
 </table>
@@ -461,7 +469,7 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="ChipsChips">ChipsChips</td>
 <td style="text-align:left">-</td>
-<td style="text-align:left">dicurigai sebagai scammer map illus 16 party</td>
+<td style="text-align:left">dicurigai sebagai scammer chimeraland MAP ILLUSTRIOUS 16 party</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Yunas">Yunas</td>
@@ -471,7 +479,7 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="HODE">HODE</td>
 <td style="text-align:left">LastEmperror</td>
-<td style="text-align:left">dicurigai sebagai roll drops items map illus 16 party</td>
+<td style="text-align:left">dicurigai sebagai roll drops items chimeraland MAP ILLUSTRIOUS 16 party</td>
 </tr>
 </tbody>
 </table>
@@ -499,7 +507,7 @@ author: L3n4r0x
 </table>
 <h2 id="hindari-hal-hal-berikut-agar-tidak-kena-scam" tabindex="-1"><a href="#hindari-hal-hal-berikut-agar-tidak-kena-scam">Hindari Hal-Hal Berikut Agar Tidak Kena Scam</a></h2>
 <ul>
-<li>Jangan ikut map illus dengan tiket telur grand (kadang orang-orang ini kadang hanya akan mengambil telur anda lalu keluar/kabur dari tim).</li>
+<li>Jangan ikut chimeraland MAP ILLUSTRIOUS dengan tiket telur grand (kadang orang-orang ini kadang hanya akan mengambil telur anda lalu keluar/kabur dari tim).</li>
 <li>Jangan melakukan transaksi dengan <strong>AKUN SMURF</strong> (orang indonesia menyebutnya <strong>AKUN TUYUL</strong>), 90% merupakan scammer.</li>
 </ul>
 <h2 id="tautan-yang-merujuk-tentang-scammer" tabindex="-1"><a href="#tautan-yang-merujuk-tentang-scammer">Tautan yang merujuk tentang scammer</a></h2>
@@ -540,3 +548,5 @@ author: L3n4r0x
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/xSOLETAXx%20-%20viral%20one%20day.jpg" alt="xSOLETAXx - viral one day.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/yukie.jpg" alt="yukie.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/yukie%20-%202.jpg" alt="yukie - 2.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/yurikosangyi%20-%202.jpg" alt="yurikosangyi - 2.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/yurikosangyi%20-%203.jpg" alt="yurikosangyi - 3.jpg" />
