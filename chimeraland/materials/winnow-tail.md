@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Winnow Tail</h2>
-      <div class="mb-1 text-muted">October 2, 2022 12:26 PM</div>
+      <div class="mb-1 text-muted">October 2, 2022 7:26 PM</div>
       <div class="mb-2 border p-1">
         It&#x27;s agile and powerful. It can crush wood and stones and can even
         control water to form pearls.

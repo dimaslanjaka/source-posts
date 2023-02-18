@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Perciformes</h2>
-      <div class="mb-1 text-muted">October 7, 2022 10:26 PM</div>
+      <div class="mb-1 text-muted">October 8, 2022 5:26 AM</div>
       <div class="mb-2 border p-1">
         A freshwater fish that is ligh orange-red or orange-yellow from head and
         throat at the abdomen. It is ligh green-gray on the back, with light

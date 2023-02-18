@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Moddly Wings</h2>
-      <div class="mb-1 text-muted">October 3, 2022 3:26 AM</div>
+      <div class="mb-1 text-muted">October 3, 2022 10:26 AM</div>
       <div class="mb-2 border p-1">
         It likes to spread its green wings and glide with the wind.
       </div>

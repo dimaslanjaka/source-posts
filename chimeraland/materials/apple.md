@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Apple</h2>
-      <div class="mb-1 text-muted">October 9, 2022 5:26 AM</div>
+      <div class="mb-1 text-muted">October 9, 2022 12:26 PM</div>
       <div class="mb-2 border p-1">
         Crystal fruit looks like an ice crystal and feels cold to match.
       </div>

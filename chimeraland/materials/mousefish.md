@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Mousefish</h2>
-      <div class="mb-1 text-muted">October 8, 2022 7:26 AM</div>
+      <div class="mb-1 text-muted">October 8, 2022 2:26 PM</div>
       <div class="mb-2 border p-1">
         A freshwater fish with bony plate all over its body. the pectoral fins
         and first dorsal fin are hard spines. It has whiskers at its mouth

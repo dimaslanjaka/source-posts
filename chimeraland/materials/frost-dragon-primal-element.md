@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Frost Dragon Primal Element</h2>
-      <div class="mb-1 text-muted">October 10, 2022 3:26 AM</div>
+      <div class="mb-1 text-muted">October 10, 2022 10:26 AM</div>
       <a
         href="/chimeraland/materials/frost-dragon-primal-element.html"
         class="stretched-link d-none"

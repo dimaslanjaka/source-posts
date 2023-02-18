@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Lux Gold</h2>
-      <div class="mb-1 text-muted">September 29, 2022 8:26 AM</div>
+      <div class="mb-1 text-muted">September 29, 2022 3:26 PM</div>
       <div class="mb-2 border p-1">
         Gold that&#x27;s been mixed with white minerals, higher purity than red
         gold but less than gold, soft and malleable.

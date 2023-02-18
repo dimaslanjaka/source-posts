@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Spotted Scat</h2>
-      <div class="mb-1 text-muted">October 7, 2022 4:26 AM</div>
+      <div class="mb-1 text-muted">October 7, 2022 11:26 AM</div>
       <div class="mb-2 border p-1">
         A freshwater fish with a slightly oval body, flat and tall. It has deep
         notching between the hard spine and soft lines of its dorsal fin.

@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Superb Wood Genio</h2>
-      <div class="mb-1 text-muted">October 5, 2022 12:26 AM</div>
+      <div class="mb-1 text-muted">October 5, 2022 7:26 AM</div>
       <a
         href="/chimeraland/materials/superb-wood-genio.html"
         class="stretched-link d-none"

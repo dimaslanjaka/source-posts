@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Beast Brain</h2>
-      <div class="mb-1 text-muted">September 30, 2022 2:26 PM</div>
+      <div class="mb-1 text-muted">September 30, 2022 9:26 PM</div>
       <a
         href="/chimeraland/materials/beast-brain.html"
         class="stretched-link d-none"

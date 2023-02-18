@@ -28,7 +28,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Leoparbeak Meat</h2>
-      <div class="mb-1 text-muted">September 29, 2022 10:26 PM</div>
+      <div class="mb-1 text-muted">September 30, 2022 5:26 AM</div>
       <a
         href="/chimeraland/materials/leoparbeak-meat.html"
         class="stretched-link d-none"

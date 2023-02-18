@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Mist Wings</h2>
-      <div class="mb-1 text-muted">October 2, 2022 2:26 AM</div>
+      <div class="mb-1 text-muted">October 2, 2022 9:26 AM</div>
       <div class="mb-2 border p-1">
         It has wings like a cicada, appears with the night mist, and is found in
         bushes.

@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Silver</h2>
-      <div class="mb-1 text-muted">September 29, 2022 12:26 AM</div>
+      <div class="mb-1 text-muted">September 29, 2022 7:26 AM</div>
       <div class="mb-2 border p-1">
         White when pure, imperfections much darker, soft as well as ductile.
       </div>

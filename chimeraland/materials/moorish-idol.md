@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Moorish Idol</h2>
-      <div class="mb-1 text-muted">October 7, 2022 10:26 AM</div>
+      <div class="mb-1 text-muted">October 7, 2022 5:26 PM</div>
       <div class="mb-2 border p-1">
         A marine fish with a disc-shape body, triangular head, pointed mouth,
         and eyes near the top of the head. It has a slivery-white and pale

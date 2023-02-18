@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Muddled Catfish</h2>
-      <div class="mb-1 text-muted">October 8, 2022 8:26 PM</div>
+      <div class="mb-1 text-muted">October 9, 2022 3:26 AM</div>
       <div class="mb-2 border p-1">
         A freshwater fish with a brownish body. It Swims with its belly facing
         up. The upper part of its body lighter than its lower part so that it

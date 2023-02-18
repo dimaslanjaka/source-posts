@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Eleotris</h2>
-      <div class="mb-1 text-muted">October 8, 2022 2:26 AM</div>
+      <div class="mb-1 text-muted">October 8, 2022 9:26 AM</div>
       <div class="mb-2 border p-1">
         A marine fish with a long flat body, It has small, flat head, and short
         rounded snout. It has large eyes on the top of its head.

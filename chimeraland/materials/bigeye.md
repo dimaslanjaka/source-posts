@@ -27,7 +27,7 @@ categories:
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Bigeye</h2>
-      <div class="mb-1 text-muted">October 7, 2022 7:26 PM</div>
+      <div class="mb-1 text-muted">October 8, 2022 2:26 AM</div>
       <div class="mb-2 border p-1">
         A marine fish with a long flat body and short snout. It has big eyes on
         a mid-sized head, and a short, large upturned mouth. The Eastmount Sea
