@@ -226,7 +226,7 @@ author: L3n4r0x
 </script>
 
 <blockquote>
-<p>IGN Akun admin <strong>L3n4r0x</strong> berada di <strong>S101-116</strong> clan <strong>Hellvius</strong>, tidak pernah menjual ruby</p>
+<p>IGN Akun admin <strong>L3n4r0x</strong> berada di <strong>S101-116</strong> clan <strong>Hellvius</strong>, tidak pernah menjual ruby, tidak pernah menyediakan JASA APAPUN.</p>
 <p>Daftar akun tuyul admin:</p>
 <ul>
 <li>L3n4r0x PC (S101-116)</li>
