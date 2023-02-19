@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-02-19T15:00:00+07:00
+updated: 2023-02-19T19:11:50+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -438,6 +438,11 @@ author: L3n4r0x
 <td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER ruby</td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Pokemonn">Pokemonn</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">SCAMMER ruby</td>
+</tr>
 </tbody>
 </table>
 <h2 id="tukang-roll">Daftar player kategori tukang roll drop item dan tidak dikembalikan (tidak ada penyelesaian)</h2>
@@ -506,6 +511,11 @@ author: L3n4r0x
 <td style="text-align:left">LastEmperror</td>
 <td style="text-align:left">dicurigai sebagai roll drops items chimeraland MAP ILLUSTRIOUS 16 party</td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Deshwan">Deshwan</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">dicurigai sebagai scammer MAP ILLUSTRIOUS 16</td>
+</tr>
 </tbody>
 </table>
 <h2 id="daftar-nama-player-yang-dihapus-dari-list-diatas" tabindex="-1"><a href="#daftar-nama-player-yang-dihapus-dari-list-diatas">Daftar Nama Player Yang Dihapus Dari List Diatas</a></h2>
@@ -540,6 +550,9 @@ author: L3n4r0x
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/black%20sword%20&%20sakuraz.jpg" alt="black sword & sakuraz.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/blackblades%20&%20Yayan%20bae.jpg" alt="blackblades & Yayan bae.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Chinese%20player%20&%20UnknowN.jpg" alt="Chinese player & UnknowN.jpg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Deshwan%20-%20Scam%20MAP%20ILLUS.png" alt="Deshwan - Scam MAP ILLUS.png" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Deshwan%20-%20Scam%20MAP%20ILLUS%20-%202.png" alt="Deshwan - Scam MAP ILLUS - 2.png" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Deshwan%20-%20Scam%20MAP%20ILLUS%20-%203.png" alt="Deshwan - Scam MAP ILLUS - 3.png" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Dicurigai%20-%20HODE.jpeg" alt="Dicurigai - HODE.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/doraemon%20-%20scam%20map%20illus.jpg" alt="doraemon - scam map illus.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/drin%20-%20clan%20APPOCALYPSE.jpeg" alt="drin - clan APPOCALYPSE.jpeg" />
