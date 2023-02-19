@@ -440,7 +440,16 @@ author: L3n4r0x
 </tr>
 </tbody>
 </table>
-<h2 id="tukang-roll">Daftar player kategori tukang roll drop item</h2>
+<h2 id="tukang-roll">Daftar player kategori tukang roll drop item dan tidak dikembalikan (tidak ada penyelesaian)</h2>
+<blockquote>
+<p>Pastikan <strong>Auto abadon roll sudah cek</strong> pada <strong>Team Settings</strong> setiap masuk sebuah team.</p>
+<ul>
+<li>Klik Team</li>
+<li>Klik Team Settings</li>
+<li>Cek <strong>Auto abadon roll</strong></li>
+<li>Klik Confirm/OK</li>
+</ul>
+</blockquote>
 <table style="width:100%;">
 <thead>
 <tr>
