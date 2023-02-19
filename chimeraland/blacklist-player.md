@@ -353,6 +353,7 @@ author: L3n4r0x
 </tr>
 </tbody>
 </table>
+<!-- | Deshwan | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 | -->
 <h2 id="scammer-ruby">Daftar scammer/blacklist player kategori SCAMMER RUBY</h2>
 <table style="width:100%;">
 <thead>
