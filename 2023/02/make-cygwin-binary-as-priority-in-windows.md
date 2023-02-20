@@ -4,7 +4,7 @@ description: Using linux binary command instead windows binary command. Make cyg
 date: 2023-02-20T06:40:36+07:00
 updated: 2023-02-20T06:40:36+07:00
 tags: ['cygwin', 'windows', 'linux']
-categories: [['programming'], ['linux'], ['windows']]
+categories: ['programming']
 thumbnail: https://www.wikihow.com/images/7/7f/Use-Cygwin-Step-13.jpg
 ---
 
