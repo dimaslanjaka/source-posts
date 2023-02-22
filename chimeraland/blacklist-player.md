@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-02-19T19:11:50+07:00
+updated: 2023-02-21T14:22:47+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -377,17 +377,17 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Tusboll">Tusboll</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER ruby dengan alasan <strong>harga pensi</strong> / rate pensi</td>
+<td style="text-align:left">SCAMMER ruby dengan alasan <strong>harga pensiun bermain</strong> / rate pensiun bermain</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Ryujin">Ryujin</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER ruby dengan alasan <strong>harga pensi</strong> / rate pensi</td>
+<td style="text-align:left">SCAMMER ruby dengan alasan <strong>harga pensiun bermain</strong> / rate pensiun bermain</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Ryuukendo">Ryuukendo</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER ruby dengan alasan <strong>harga pensi</strong> / rate pensi</td>
+<td style="text-align:left">SCAMMER ruby dengan alasan <strong>harga pensiun bermain</strong> / rate pensiun bermain</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="hella">hella</td>
@@ -436,11 +436,6 @@ author: L3n4r0x
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Narunaru">Naru/naru</td>
-<td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER ruby</td>
-</tr>
-<tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="Pokemonn">Pokemonn</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER ruby</td>
 </tr>
@@ -517,6 +512,16 @@ author: L3n4r0x
 <td style="text-align:left"></td>
 <td style="text-align:left">dicurigai sebagai scammer MAP ILLUSTRIOUS 16</td>
 </tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Pokemonn">Pokemonn</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">dicurigai sebagai SCAMMER ruby</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="VenKy">VenKy</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">dicurigai sebagai SCAMMER ruby</td>
+</tr>
 </tbody>
 </table>
 <h2 id="daftar-nama-player-yang-dihapus-dari-list-diatas" tabindex="-1"><a href="#daftar-nama-player-yang-dihapus-dari-list-diatas">Daftar Nama Player Yang Dihapus Dari List Diatas</a></h2>
@@ -547,6 +552,7 @@ author: L3n4r0x
 <li>shortlink halaman ini: <a href="http://bit.ly/chimeraland-blacklist">http://bit.ly/chimeraland-blacklist</a></li>
 </ul>
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/BangPo.jpeg" alt="BangPo.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/batagor%20&%20sus%20&%20unknown.jpg" alt="batagor & sus & unknown.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/black%20sword%20&%20sakuraz.jpg" alt="black sword & sakuraz.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/blackblades%20&%20Yayan%20bae.jpg" alt="blackblades & Yayan bae.jpg" />
@@ -578,6 +584,7 @@ author: L3n4r0x
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Nicko.jpg" alt="Nicko.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/ourobores%20clan.jpeg" alt="ourobores clan.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Rishya.jpeg" alt="Rishya.jpeg" />
+<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/VenKy.jpeg" alt="VenKy.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Xaiii.jpeg" alt="Xaiii.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/Xalll.jpg" alt="Xalll.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/xSOLETAx.jpg" alt="xSOLETAx.jpg" />
