@@ -49,6 +49,7 @@ description: Midi collection for the legend of neverland perform music skill
 | Clout - Save me                      | https://bitmidi.com/uploads/24659.mid  |
 | TokiMeki                             | https://bitmidi.com/uploads/24659.mid  |
 | Hatsune Miku                         | https://bitmidi.com/uploads/55292.mid  |
+| Alan Walker - Faded | https://www.mididb.com/alan-walker/ |
 
 ## How to convert Youtube Videos to MIDI
 
