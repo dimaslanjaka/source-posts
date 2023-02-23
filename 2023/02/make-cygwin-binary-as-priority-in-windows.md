@@ -2,7 +2,7 @@
 title: Make CYGWIN binary as priority in windows
 description: Using linux binary command instead windows binary command. Make cygwin downloaded package as priority.
 date: 2023-02-20T06:40:36+07:00
-updated: 2023-02-20T06:40:36+07:00
+updated: 2023-02-24T03:27:39+07:00
 tags: ['cygwin', 'windows', 'linux']
 categories: ['programming']
 thumbnail: https://www.wikihow.com/images/7/7f/Use-Cygwin-Step-13.jpg
