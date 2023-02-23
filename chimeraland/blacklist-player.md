@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-02-21T14:22:47+07:00
+updated: 2023-02-24T00:37:54+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -353,7 +353,6 @@ author: L3n4r0x
 </tr>
 </tbody>
 </table>
-<!-- | Deshwan | | SCAMMER chimeraland MAP ILLUSTRIOUS 16 | -->
 <h2 id="scammer-ruby">Daftar scammer/blacklist player kategori SCAMMER RUBY</h2>
 <table style="width:100%;">
 <thead>
@@ -373,6 +372,11 @@ author: L3n4r0x
 <td style="text-align:left" notranslate="true" class=" notranslate" id="NesaMiko">NesaMiko</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER 6000 ruby tukar akun <strong>Mobile Legends</strong></td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Pokemonn">Pokemonn</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">pemilik pertama akun ini adalah SCAMMER ruby, korban scam <strong>IlmuAkhirZmn</strong></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Tusboll">Tusboll</td>
@@ -484,11 +488,6 @@ author: L3n4r0x
 <td style="text-align:left" notranslate="true" class=" notranslate" id="maraa">maraa</td>
 <td style="text-align:left">undead</td>
 <td style="text-align:left">Roll drops items from chimeraland MAP ILLUSTRIOUS 16</td>
-</tr>
-<tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="Pokemonn">Pokemonn</td>
-<td style="text-align:left"></td>
-<td style="text-align:left">pemilik pertama akun ini adalah SCAMMER ruby, korban scam <strong>IlmuAkhirZmn</strong></td>
 </tr>
 </tbody>
 </table>
