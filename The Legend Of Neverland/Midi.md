@@ -8,7 +8,7 @@ category:
 comments: true
 cover: https://i.ytimg.com/vi/lK7h30vvRuI/mqdefault.jpg
 date: 2021-08-21T00:00:00+07:00
-updated: 2022-05-31T10:37:00+0700
+updated: 2023-02-24T00:13:33+07:00
 lang: en
 location: Indonesia
 related_posts:
@@ -51,7 +51,8 @@ description: Midi collection for the legend of neverland perform music skill
 | Hatsune Miku                         | https://bitmidi.com/uploads/55292.mid  |
 
 ## How to convert Youtube Videos to MIDI
-Visit [YT2MIDI](https://youtube2midi.github.io/)
+
+To create **self created score the legend of neverland** from youtube you can visit [YT2MIDI](https://youtube2midi.github.io/)
 
 ### Available Midi Sites
 - https://github.com/dimaslanjaka/public-source/tree/master/assets/Midi
