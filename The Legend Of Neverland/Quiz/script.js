@@ -162,7 +162,11 @@ function jQueryMethod() {
     //console.log(url_parse.toString());
 
     //console.log(quizUrl);
-    $.get(url_parse.toString())
+    fetch(url_parse.toString())
+      .then(function (response) {
+        // The API call was successful!
+        return response.text();
+      })
       .then(processResponse)
       .catch(function () {
         const log = 'cannot fetch ' + url_parse.toString();
@@ -236,7 +240,7 @@ function jQueryMethod() {
   */
 }
 
-if (typeof jQuery === 'undefined') {
+if (typeof window.jQuery === 'undefined') {
   loadJScript(
     'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js',
     jQueryMethod
