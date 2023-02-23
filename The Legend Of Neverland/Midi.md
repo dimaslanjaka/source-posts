@@ -50,6 +50,7 @@ description: Midi collection for the legend of neverland perform music skill
 | TokiMeki                             | https://bitmidi.com/uploads/24659.mid  |
 | Hatsune Miku                         | https://bitmidi.com/uploads/55292.mid  |
 | Alan Walker - Faded | https://www.mididb.com/alan-walker/ |
+| Sadness And Sorrow - Naruto | https://bitmidi.com/uploads/79353.mid https://bitmidi.com/uploads/79356.mid |
 
 ## How to convert Youtube Videos to MIDI
 
