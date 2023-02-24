@@ -1,5 +1,5 @@
 ---
-title: What is /dev/null in shell command
+title: "What is /dev/null in shell command ?"
 date: 2023-02-24T16:39:30+07:00
 updated: 2023-02-24T16:39:30+07:00
 tags: ['bash', 'script']
