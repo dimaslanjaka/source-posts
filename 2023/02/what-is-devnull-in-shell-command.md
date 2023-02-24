@@ -17,4 +17,22 @@ categories: ['programming', 'bash']
 
 `/dev/null` is the 'null device' which just swallows any input provided to it. You can combine the two to effectively throw away output from a command.
 
+## Usages /dev/null example
+
+**Suppress `rm` warnings**
+
+```
+$ rm tempfl.txt 2> /dev/null
+
+```
+
+**Redirect script output to `/dev/null`**
+
+```
+$ ./myscript.sh 2> /dev/null
+
+```
+
+The latter has a drawback of missing all other warning messages produced by your script.
+
 this article source from [stackoverflow](https://stackoverflow.com/a/51045329)
