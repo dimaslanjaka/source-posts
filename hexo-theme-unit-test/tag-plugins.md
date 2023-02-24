@@ -74,11 +74,11 @@ Note: Theme's style should support `.highlight.line.marked` (recommend to use th
 
 ### Gist
 
-{% gist 996818 %}
+{% gist a6aa24a8fa7a13999ee3dac077fa21fe %}
 
 ### jsFiddle
 
-{% jsfiddle ccWP7 %}
+{% jsfiddle A9RDk %}
 
 ## Pullquote
 
