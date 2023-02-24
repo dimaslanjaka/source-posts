@@ -5,18 +5,11 @@
 
 version: 2
 updates:
-- package-ecosystem: "npm"
-  directory: "/"
-  target-branch: "master"
-  schedule:
-    interval: "daily"
-- package-ecosystem: "github-actions"
-  target-branch: "master"
+- package-ecosystem: npm
   directory: "/"
   schedule:
-    interval: "daily"
-- package-ecosystem: "gitsubmodule"
-  target-branch: "master"
+    interval: weekly
+- package-ecosystem: github-actions
+  directory: "/"
   schedule:
-      interval: "daily"
-  directory: /
+    interval: weekly
