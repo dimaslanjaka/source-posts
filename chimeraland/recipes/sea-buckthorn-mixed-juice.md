@@ -2,9 +2,9 @@
 title: Recipe Sea-Buckthorn Mixed Juice
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-10-07T00:46:55+07:00
+updated: 2022-10-05T09:46:56+07:00
 lang: en
-date: 2022-01-13T01:56:03+07:00
+date: 2022-01-11T17:56:03+07:00
 permalink: /chimeraland/recipes/sea-buckthorn-mixed-juice.html
 photos:
   - /chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice.webp
@@ -64,8 +64,7 @@ categories:
           <h2 class="card-title fs-5">Buff Sea-Buckthorn Mixed Juice</h2>
           <div class="card-text">
             <ul>
-              <li>+180 fullness</li>
-              <li>Lv.2 Sandstrom Resistance</li>
+              Buff Sea-Buckthorn Mixed Juice not yet written
             </ul>
           </div>
           <span class="badge rounded-pill bg-dark text-white">recipe</span>
@@ -86,12 +85,7 @@ categories:
                   class="text-decoration-none"
                   href="/chimeraland/materials/sea-buckthorn.html"
                   >Sea-Buckthorn</a
-                ><span> + </span
-                ><a
-                  class="text-decoration-none"
-                  href="/chimeraland/materials/apple.html"
-                  >Apple</a
-                >
+                ><span> + </span>Any Wild Fruit
               </li>
               <li>Device: Stove or Camp</li>
             </ul>
