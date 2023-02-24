@@ -1,5 +1,6 @@
-title: Tag Plugins
+title: Hexo Shortcodes Tag Plugins
 date: 2013-12-25 00:14:39
+updated: 2023-02-25T00:48:02+07:00
 robots: no-index
 tags: []
 ---
