@@ -6,6 +6,8 @@ tags: ['bash', 'script']
 categories: ['programming', 'bash']
 ---
 
+## various types of arguments /dev/null
+
 | argument | argument description |
 | :--- | :--- |
 |   `> /dev/null`  | throw away **stdout** |
