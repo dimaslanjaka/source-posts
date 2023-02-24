@@ -91,15 +91,15 @@ jobs:
           echo "GITHUB_COMMIT_URL=https://github.com/${{github.repository}}/commit/$(echo $GITHUB_SHA)" >> $GITHUB_ENV
           echo "GITHUB_RUNNER_URL=https://github.com/${{github.repository}}/commit/${{github.sha}}/checks/${{github.run_id}}" >> $GITHUB_ENV
           echo "CACHE_NPM=$(npm config get cache)" >> $GITHUB_ENV
-          echo "CACHE_YARN=$(yarn cache dir)" >> $GITHUB_ENV
           echo "CACHE_YARN2=$(yarn config get cacheFolder)" >> $GITHUB_ENV
           echo "cache-npm=$(npm config get cache)" >> $GITHUB_OUTPUT
-          echo "cache-yarn=$(yarn cache dir)" >> $GITHUB_OUTPUT
           echo "cache-yarn2=$(yarn config get cacheFolder)" >> $GITHUB_OUTPUT
           echo "/home/runner/node_modules/.bin" >> $GITHUB_PATH
           echo "/home/runner/bin" >> $GITHUB_PATH
           echo "bin" >> $GITHUB_PATH
           echo "node_modules/.bin" >> $GITHUB_PATH
+      # echo "cache-yarn=$(yarn cache dir)" >> $GITHUB_OUTPUT
+      # echo "CACHE_YARN=$(yarn cache dir)" >> $GITHUB_ENV
       #- uses: pat-s/always-upload-cache@v3.0.11
       - uses: actions/cache@v3
         id: cache
@@ -107,7 +107,6 @@ jobs:
         with:
           path: |
             ${{ steps.set-env.outputs.cache-npm }}
-            ${{ steps.set-env.outputs.cache-yarn }}
             ${{ steps.set-env.outputs.cache-yarn2 }}
             /home/runner/db.json
             /home/runner/public
