@@ -74,11 +74,25 @@ Note: Theme's style should support `.highlight.line.marked` (recommend to use th
 
 ### Gist
 
-{% gist a6aa24a8fa7a13999ee3dac077fa21fe %}
+```nunjucks
+{% gist meredrica/088f5a593a2a7184202850c58bcb48d1 %}
+```
+
+{% gist meredrica/088f5a593a2a7184202850c58bcb48d1 %}
 
 ### jsFiddle
 
-{% jsfiddle A9RDk %}
+```nunjucks
+{% jsfiddle heera/A9RDk %}
+```
+
+{% jsfiddle heera/A9RDk %}
+
+```nunjucks
+{% jsfiddle heera/A9RDk js,html,result iframe %}
+```
+
+{% jsfiddle heera/A9RDk js,html,result iframe %}
 
 ## Pullquote
 
