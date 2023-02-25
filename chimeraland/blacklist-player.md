@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-02-24T00:37:54+07:00
+updated: 2023-02-25T23:25:55+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -238,6 +238,15 @@ author: L3n4r0x
 <p>Admin tidak akan pilih kasih untuk memasukkan IGN player kedalam blacklist, meskipun dia anggota clan maupun saudara sekalipun.</p>
 </blockquote>
 <h2 id="scammer-map-illus-16">Daftar scammer/blacklist player kategori SCAMMER chimeraland MAP ILLUSTRIOUS 16 PARTY</h2>
+<blockquote>
+<p>Pastikan <strong>Auto abadon roll sudah cek</strong> pada <strong>Team Settings</strong> setiap masuk sebuah team.</p>
+<ul>
+<li>Klik Team</li>
+<li>Klik Team Settings</li>
+<li>Cek <strong>Auto abadon roll</strong></li>
+<li>Klik Confirm/OK</li>
+</ul>
+</blockquote>
 <table style="width:100%;">
 <thead>
 <tr>
@@ -306,6 +315,31 @@ author: L3n4r0x
 <td style="text-align:left" notranslate="true" class=" notranslate">Glitch</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER chimeraland MAP ILLUSTRIOUS 16</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Corleonx">Corleonx</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Roll drops items dan tidak dikembalikan (tidak ada penyelesaian) chimeraland MAP ILLUSTRIOUS 16</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate">Shelby</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Roll drops items dan tidak dikembalikan (tidak ada penyelesaian) chimeraland MAP ILLUSTRIOUS 16</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate">PrimalHunter</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Roll drops dan tidak dikembalikan (tidak ada penyelesaian) from chimeraland MAP ILLUSTRIOUS 16</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="blackblades">blackblades</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">Roll telur illus 30,000 years dan tidak dikembalikan (tidak ada penyelesaian)</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="maraa">maraa</td>
+<td style="text-align:left">undead</td>
+<td style="text-align:left">Roll drops items dan tidak dikembalikan (tidak ada penyelesaian) chimeraland MAP ILLUSTRIOUS 16</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="xSOLETAx">xSOLETAx</td>
@@ -377,7 +411,7 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Pokemonn">Pokemonn</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">pemilik pertama akun ini adalah SCAMMER ruby, korban scam <strong>IlmuAkhirZmn</strong></td>
+<td style="text-align:left">pemilik sebelumnya akun ini adalah SCAMMER ruby, korban scam <strong>IlmuAkhirZmn</strong></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Tusboll">Tusboll</td>
@@ -446,52 +480,6 @@ author: L3n4r0x
 </tr>
 </tbody>
 </table>
-<h2 id="tukang-roll">Daftar player kategori tukang roll drop item dan tidak dikembalikan (tidak ada penyelesaian)</h2>
-<blockquote>
-<p>Pastikan <strong>Auto abadon roll sudah cek</strong> pada <strong>Team Settings</strong> setiap masuk sebuah team.</p>
-<ul>
-<li>Klik Team</li>
-<li>Klik Team Settings</li>
-<li>Cek <strong>Auto abadon roll</strong></li>
-<li>Klik Confirm/OK</li>
-</ul>
-</blockquote>
-<table style="width:100%;">
-<thead>
-<tr>
-<th style="text-align:left">Nama Player</th>
-<th style="text-align:left">Clan</th>
-<th style="text-align:left">Keterangan</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="Corleonx">Corleonx</td>
-<td style="text-align:left"></td>
-<td style="text-align:left">Roll drops items from chimeraland MAP ILLUSTRIOUS 16</td>
-</tr>
-<tr>
-<td style="text-align:left" notranslate="true" class=" notranslate">Shelby</td>
-<td style="text-align:left"></td>
-<td style="text-align:left">Roll drops items from chimeraland MAP ILLUSTRIOUS 16</td>
-</tr>
-<tr>
-<td style="text-align:left" notranslate="true" class=" notranslate">PrimalHunter</td>
-<td style="text-align:left"></td>
-<td style="text-align:left">Roll drops items from chimeraland MAP ILLUSTRIOUS 16</td>
-</tr>
-<tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="blackblades">blackblades</td>
-<td style="text-align:left"></td>
-<td style="text-align:left">Roll telur illus 30,000 years</td>
-</tr>
-<tr>
-<td style="text-align:left" notranslate="true" class=" notranslate" id="maraa">maraa</td>
-<td style="text-align:left">undead</td>
-<td style="text-align:left">Roll drops items from chimeraland MAP ILLUSTRIOUS 16</td>
-</tr>
-</tbody>
-</table>
 <h2 id="daftar-player-yang-dicurigai-sebagai-scammer" tabindex="-1"><a href="#daftar-player-yang-dicurigai-sebagai-scammer">Daftar player yang dicurigai sebagai scammer</a></h2>
 <table style="width:100%;">
 <thead>
@@ -552,7 +540,6 @@ author: L3n4r0x
 <li>shortlink halaman ini: <a href="http://bit.ly/chimeraland-blacklist">http://bit.ly/chimeraland-blacklist</a></li>
 </ul>
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
-<img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/BangPo.jpeg" alt="BangPo.jpeg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/batagor%20&%20sus%20&%20unknown.jpg" alt="batagor & sus & unknown.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/black%20sword%20&%20sakuraz.jpg" alt="black sword & sakuraz.jpg" />
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/multisite/chimeraland/src/posts/blacklist-player/images/blackblades%20&%20Yayan%20bae.jpg" alt="blackblades & Yayan bae.jpg" />
