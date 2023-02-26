@@ -411,7 +411,7 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Pokemonn">Pokemonn</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">pemilik sebelumnya akun ini adalah SCAMMER ruby, korban scam <strong>IlmuAkhirZmn</strong></td>
+<td style="text-align:left">SCAMMER ruby, korban scam terakhir <strong>IlmuAkhirZmn</strong></td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Tusboll">Tusboll</td>
