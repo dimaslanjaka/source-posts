@@ -19,6 +19,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@popperjs/core": "^2.11.6",
     "aes-js": "^3.1.2",
     "axios": "^1.2.1",
     "bluebird": "^3.7.2",
