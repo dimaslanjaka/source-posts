@@ -1,6 +1,5 @@
 ---
-title: Recipe Meat Noodles
-webtitle: Chimeraland
+title: Recipe Meat Noodles Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T00:46:54+07:00
 lang: en

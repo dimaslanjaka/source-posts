@@ -1,6 +1,5 @@
 ---
-title: Recipe Spiced Meat Skewers
-webtitle: Chimeraland
+title: Recipe Spiced Meat Skewers Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T15:46:55+07:00
 lang: en

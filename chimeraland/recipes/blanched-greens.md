@@ -1,6 +1,5 @@
 ---
-title: Recipe Blanched Greens
-webtitle: Chimeraland
+title: Recipe Blanched Greens Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T03:26:37+07:00
 lang: en

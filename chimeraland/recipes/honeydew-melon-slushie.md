@@ -1,6 +1,5 @@
 ---
-title: Recipe Honeydew Melon Slushie
-webtitle: Chimeraland
+title: Recipe Honeydew Melon Slushie Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T17:46:55+07:00
 lang: en

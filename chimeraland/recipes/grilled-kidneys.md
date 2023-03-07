@@ -1,6 +1,5 @@
 ---
-title: Recipe Grilled Kidneys
-webtitle: Chimeraland
+title: Recipe Grilled Kidneys Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T17:46:56+07:00
 lang: en

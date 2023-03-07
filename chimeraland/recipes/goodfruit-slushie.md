@@ -1,6 +1,5 @@
 ---
-title: Recipe Goodfruit Slushie
-webtitle: Chimeraland
+title: Recipe Goodfruit Slushie Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T08:46:55+07:00
 lang: en

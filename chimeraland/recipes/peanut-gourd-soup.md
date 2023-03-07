@@ -1,6 +1,5 @@
 ---
-title: Recipe Peanut Gourd Soup
-webtitle: Chimeraland
+title: Recipe Peanut Gourd Soup Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T19:46:56+07:00
 lang: en

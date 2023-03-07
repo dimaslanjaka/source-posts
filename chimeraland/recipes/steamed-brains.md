@@ -1,6 +1,5 @@
 ---
-title: Recipe Steamed Brains
-webtitle: Chimeraland
+title: Recipe Steamed Brains Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T18:46:55+07:00
 lang: en

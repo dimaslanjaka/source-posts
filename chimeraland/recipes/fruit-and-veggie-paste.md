@@ -1,6 +1,5 @@
 ---
-title: Recipe Fruit & Veggie Paste
-webtitle: Chimeraland
+title: Recipe Fruit & Veggie Paste Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T01:26:37+07:00
 lang: en

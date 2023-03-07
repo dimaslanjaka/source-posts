@@ -1,6 +1,5 @@
 ---
-title: Recipe Rice Patty
-webtitle: Chimeraland
+title: Recipe Rice Patty Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T11:46:54+07:00
 lang: en

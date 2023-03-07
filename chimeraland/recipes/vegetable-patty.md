@@ -1,6 +1,5 @@
 ---
-title: Recipe Vegetable Patty
-webtitle: Chimeraland
+title: Recipe Vegetable Patty Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T11:46:56+07:00
 lang: en

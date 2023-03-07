@@ -1,6 +1,5 @@
 ---
-title: Recipe Braised Scorpion
-webtitle: Chimeraland
+title: Recipe Braised Scorpion Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T09:46:53+07:00
 lang: en

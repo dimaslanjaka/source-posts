@@ -1,6 +1,5 @@
 ---
-title: Recipe Braised Bear Meat
-webtitle: Chimeraland
+title: Recipe Braised Bear Meat Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T17:46:53+07:00
 lang: en

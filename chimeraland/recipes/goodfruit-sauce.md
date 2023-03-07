@@ -1,6 +1,5 @@
 ---
-title: Recipe Goodfruit Sauce
-webtitle: Chimeraland
+title: Recipe Goodfruit Sauce Chimeraland
 author: L3n4r0x
 updated: 2022-09-28T21:26:37+07:00
 lang: en

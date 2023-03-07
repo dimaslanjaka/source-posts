@@ -1,6 +1,5 @@
 ---
-title: Recipe Braised Tendons
-webtitle: Chimeraland
+title: Recipe Braised Tendons Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T15:46:56+07:00
 lang: en

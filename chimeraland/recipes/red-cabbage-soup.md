@@ -1,6 +1,5 @@
 ---
-title: Recipe Red Cabbage Soup
-webtitle: Chimeraland
+title: Recipe Red Cabbage Soup Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T00:46:56+07:00
 lang: en

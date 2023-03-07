@@ -1,6 +1,5 @@
 ---
-title: Recipe Spicy Grilled Fish
-webtitle: Chimeraland
+title: Recipe Spicy Grilled Fish Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T23:46:56+07:00
 lang: en

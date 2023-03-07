@@ -1,6 +1,5 @@
 ---
-title: Recipe Flamebug Meat Claypot
-webtitle: Chimeraland
+title: Recipe Flamebug Meat Claypot Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T22:26:37+07:00
 lang: en

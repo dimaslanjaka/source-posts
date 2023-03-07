@@ -1,6 +1,5 @@
 ---
-title: Recipe Stir Fried Vegetables
-webtitle: Chimeraland
+title: Recipe Stir Fried Vegetables Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T07:46:53+07:00
 lang: en

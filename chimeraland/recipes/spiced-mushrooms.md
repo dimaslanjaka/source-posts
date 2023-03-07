@@ -1,6 +1,5 @@
 ---
-title: Recipe Spiced Mushrooms
-webtitle: Chimeraland
+title: Recipe Spiced Mushrooms Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T13:46:55+07:00
 lang: en

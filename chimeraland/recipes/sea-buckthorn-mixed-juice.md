@@ -1,6 +1,5 @@
 ---
-title: Recipe Sea-Buckthorn Mixed Juice
-webtitle: Chimeraland
+title: Recipe Sea-Buckthorn Mixed Juice Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T00:46:55+07:00
 lang: en

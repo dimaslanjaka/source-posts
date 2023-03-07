@@ -1,6 +1,5 @@
 ---
-title: Recipe Job's Tears Stew
-webtitle: Chimeraland
+title: Recipe Job's Tears Stew Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T05:46:55+07:00
 lang: en

@@ -1,6 +1,5 @@
 ---
-title: Recipe Bear Ball Pot
-webtitle: Chimeraland
+title: Recipe Bear Ball Pot Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T17:26:37+07:00
 lang: en

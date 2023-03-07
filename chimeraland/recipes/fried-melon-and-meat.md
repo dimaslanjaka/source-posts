@@ -1,6 +1,5 @@
 ---
-title: Recipe Fried Melon And Meat
-webtitle: Chimeraland
+title: Recipe Fried Melon And Meat Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T00:46:54+07:00
 lang: en

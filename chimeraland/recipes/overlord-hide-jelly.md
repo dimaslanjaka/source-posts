@@ -1,6 +1,5 @@
 ---
-title: Recipe Overlord Hide Jelly
-webtitle: Chimeraland
+title: Recipe Overlord Hide Jelly Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T23:26:37+07:00
 lang: en

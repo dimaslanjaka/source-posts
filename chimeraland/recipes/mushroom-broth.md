@@ -1,6 +1,5 @@
 ---
-title: Recipe Mushroom Broth
-webtitle: Chimeraland
+title: Recipe Mushroom Broth Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T22:46:55+07:00
 lang: en

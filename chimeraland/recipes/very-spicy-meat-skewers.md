@@ -1,6 +1,5 @@
 ---
-title: Recipe Very Spicy Meat Skewers
-webtitle: Chimeraland
+title: Recipe Very Spicy Meat Skewers Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T08:46:55+07:00
 lang: en

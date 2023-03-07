@@ -1,6 +1,5 @@
 ---
-title: Recipe Cantaloupe Claypot
-webtitle: Chimeraland
+title: Recipe Cantaloupe Claypot Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T20:46:53+07:00
 lang: en

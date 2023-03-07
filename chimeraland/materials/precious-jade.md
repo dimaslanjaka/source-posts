@@ -1,19 +1,17 @@
 ---
-title: Material Precious Jade
-webtitle: Chimeraland
+title: Material Precious Jade Chimeraland
 date: 2022-01-07T02:56:03+07:00
 updated: 2022-09-29T02:26:37+07:00
 author: L3n4r0x
 permalink: /chimeraland/materials/precious-jade.html
 photos:
-  - /chimeraland/materials/precious-jade/precious-jade.webp
   - /chimeraland/materials/precious-jade/eastmount-3.webp
   - /chimeraland/materials/precious-jade/eastmount.webp
   - /chimeraland/materials/precious-jade/southmount.webp
   - /chimeraland/materials/precious-jade/westmount-2.webp
   - /chimeraland/materials/precious-jade/westmount-3.webp
   - /chimeraland/materials/precious-jade/westmount.webp
-thumbnail: /chimeraland/materials/precious-jade/precious-jade.webp
+thumbnail: /chimeraland/materials/precious-jade/eastmount-3.webp
 tags:
   - Material
 categories:
@@ -28,7 +26,7 @@ categories:
     href="https://cdn.statically.io/gh/dimaslanjaka/Web-Manajemen/40ac3225/css/bootstrap-4.5-wrapper.css"
   />
   <div
-    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative"
+    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative bg-light text-dark"
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
@@ -46,12 +44,12 @@ categories:
     </div>
     <div class="col-auto d-none d-lg-block">
       <img
-        src="/chimeraland/materials/precious-jade/precious-jade.webp"
+        src="/chimeraland/materials/precious-jade/eastmount-3.webp"
         alt="Precious Jade"
       />
     </div>
   </div>
-  <div class="row">
+  <div class="row bg-light text-dark">
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">
@@ -85,7 +83,6 @@ categories:
     </div>
     <div class="col-12 mb-2">
       <h2>Precious Jade Spawn Locations</h2>
-      <div></div>
       <div class="p-4">
         <h5>Eastmount 3</h5>
         <img

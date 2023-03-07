@@ -1,6 +1,5 @@
 ---
-title: Recipe Grilled Wolf
-webtitle: Chimeraland
+title: Recipe Grilled Wolf Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T16:46:54+07:00
 lang: en

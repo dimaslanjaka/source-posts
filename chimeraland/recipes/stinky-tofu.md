@@ -1,6 +1,5 @@
 ---
-title: Recipe Stinky Tofu
-webtitle: Chimeraland
+title: Recipe Stinky Tofu Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T07:47:00+07:00
 lang: en

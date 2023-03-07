@@ -1,6 +1,5 @@
 ---
-title: Recipe Veggie Paste
-webtitle: Chimeraland
+title: Recipe Veggie Paste Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T06:26:37+07:00
 lang: en

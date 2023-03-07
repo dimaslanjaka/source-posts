@@ -1,6 +1,5 @@
 ---
-title: Recipe Fried Liver
-webtitle: Chimeraland
+title: Recipe Fried Liver Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T09:46:55+07:00
 lang: en

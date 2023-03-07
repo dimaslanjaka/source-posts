@@ -1,6 +1,5 @@
 ---
-title: Recipe Large Fruit Stew
-webtitle: Chimeraland
+title: Recipe Large Fruit Stew Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T15:46:54+07:00
 lang: en

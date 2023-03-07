@@ -1,6 +1,5 @@
 ---
-title: Recipe Strange Meat Skewers
-webtitle: Chimeraland
+title: Recipe Strange Meat Skewers Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T10:46:56+07:00
 lang: en

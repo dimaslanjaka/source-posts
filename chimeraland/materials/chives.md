@@ -1,6 +1,5 @@
 ---
-title: Material Chives
-webtitle: Chimeraland
+title: Material Chives Chimeraland
 date: 2022-01-12T09:56:03+07:00
 updated: 2022-10-04T09:26:37+07:00
 author: L3n4r0x
@@ -22,7 +21,7 @@ categories:
     href="https://cdn.statically.io/gh/dimaslanjaka/Web-Manajemen/40ac3225/css/bootstrap-4.5-wrapper.css"
   />
   <div
-    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative"
+    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative bg-light text-dark"
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
@@ -36,7 +35,7 @@ categories:
       <img src="/chimeraland/materials/chives/chives.webp" alt="Chives" />
     </div>
   </div>
-  <div class="row">
+  <div class="row bg-light text-dark">
     <div class="col-lg-6 col-12 mb-2">
       <div class="card">
         <div class="card-body">

@@ -1,6 +1,5 @@
 ---
-title: Recipe Steamed Vegetarian Patty
-webtitle: Chimeraland
+title: Recipe Steamed Vegetarian Patty Chimeraland
 author: L3n4r0x
 updated: 2022-09-28T22:26:37+07:00
 lang: en

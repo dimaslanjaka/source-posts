@@ -1,6 +1,5 @@
 ---
-title: Recipe Viperfish Slices
-webtitle: Chimeraland
+title: Recipe Viperfish Slices Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T06:46:56+07:00
 lang: en

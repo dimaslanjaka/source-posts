@@ -1,6 +1,5 @@
 ---
-title: Recipe Hot Oil
-webtitle: Chimeraland
+title: Recipe Hot Oil Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T12:46:54+07:00
 lang: en

@@ -1,6 +1,5 @@
 ---
-title: Recipe Tomahawk Steak
-webtitle: Chimeraland
+title: Recipe Tomahawk Steak Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T04:46:54+07:00
 lang: en

@@ -1,6 +1,5 @@
 ---
-title: Recipe Buddha's Temptation
-webtitle: Chimeraland
+title: Recipe Buddha's Temptation Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T10:46:53+07:00
 lang: en

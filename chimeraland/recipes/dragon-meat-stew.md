@@ -1,6 +1,5 @@
 ---
-title: Recipe Dragon Meat Stew
-webtitle: Chimeraland
+title: Recipe Dragon Meat Stew Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T10:46:57+07:00
 lang: en

@@ -1,6 +1,5 @@
 ---
-title: Recipe Job's Tears Porridge
-webtitle: Chimeraland
+title: Recipe Job's Tears Porridge Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T19:46:55+07:00
 lang: en

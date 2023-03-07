@@ -1,6 +1,5 @@
 ---
-title: Recipe Fried Pork In Scoop
-webtitle: Chimeraland
+title: Recipe Fried Pork In Scoop Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T08:46:54+07:00
 lang: en

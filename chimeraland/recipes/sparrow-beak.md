@@ -1,6 +1,5 @@
 ---
-title: Recipe Sparrow Beak
-webtitle: Chimeraland
+title: Recipe Sparrow Beak Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T19:26:37+07:00
 lang: en

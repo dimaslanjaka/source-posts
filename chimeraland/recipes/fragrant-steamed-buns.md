@@ -1,6 +1,5 @@
 ---
-title: Recipe Fragrant Steamed Buns
-webtitle: Chimeraland
+title: Recipe Fragrant Steamed Buns Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T12:46:54+07:00
 lang: en

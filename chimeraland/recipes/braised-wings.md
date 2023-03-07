@@ -1,6 +1,5 @@
 ---
-title: Recipe Braised Wings
-webtitle: Chimeraland
+title: Recipe Braised Wings Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T07:46:57+07:00
 lang: en

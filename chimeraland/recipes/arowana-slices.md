@@ -1,6 +1,5 @@
 ---
-title: Recipe Arowana Slices
-webtitle: Chimeraland
+title: Recipe Arowana Slices Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T07:46:55+07:00
 lang: en

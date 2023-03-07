@@ -1,6 +1,5 @@
 ---
-title: Recipe Fried Intestines
-webtitle: Chimeraland
+title: Recipe Fried Intestines Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T19:46:54+07:00
 lang: en

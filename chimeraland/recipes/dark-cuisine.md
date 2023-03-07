@@ -1,6 +1,5 @@
 ---
-title: Recipe Dark Cuisine
-webtitle: Chimeraland
+title: Recipe Dark Cuisine Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T03:10:00+0700
 lang: en

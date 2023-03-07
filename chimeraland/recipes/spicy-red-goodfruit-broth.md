@@ -1,6 +1,5 @@
 ---
-title: Recipe Spicy Red Goodfruit Broth
-webtitle: Chimeraland
+title: Recipe Spicy Red Goodfruit Broth Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T11:46:55+07:00
 lang: en

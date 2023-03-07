@@ -1,6 +1,5 @@
 ---
-title: Recipe Omelette
-webtitle: Chimeraland
+title: Recipe Omelette Chimeraland
 author: L3n4r0x
 updated: 2022-10-06T23:46:54+07:00
 lang: en

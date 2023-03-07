@@ -1,6 +1,5 @@
 ---
-title: Recipe Grilled Brains
-webtitle: Chimeraland
+title: Recipe Grilled Brains Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T10:46:54+07:00
 lang: en

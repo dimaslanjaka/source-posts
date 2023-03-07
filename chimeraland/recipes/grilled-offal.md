@@ -1,6 +1,5 @@
 ---
-title: Recipe Grilled Offal
-webtitle: Chimeraland
+title: Recipe Grilled Offal Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T08:46:56+07:00
 lang: en

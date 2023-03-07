@@ -1,6 +1,5 @@
 ---
-title: Recipe Chimeraland One Pot Dish
-webtitle: Chimeraland
+title: Recipe Chimeraland One Pot Dish Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T00:26:37+07:00
 lang: en

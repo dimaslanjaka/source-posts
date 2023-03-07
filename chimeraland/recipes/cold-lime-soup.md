@@ -1,6 +1,5 @@
 ---
-title: Recipe Cold Lime Soup
-webtitle: Chimeraland
+title: Recipe Cold Lime Soup Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T13:46:57+07:00
 lang: en

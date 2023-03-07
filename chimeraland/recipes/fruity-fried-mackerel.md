@@ -1,6 +1,5 @@
 ---
-title: Recipe Fruity Fried Mackerel
-webtitle: Chimeraland
+title: Recipe Fruity Fried Mackerel Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T14:46:56+07:00
 lang: en

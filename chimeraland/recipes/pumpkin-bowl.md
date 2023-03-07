@@ -1,6 +1,5 @@
 ---
-title: Recipe Pumpkin Bowl
-webtitle: Chimeraland
+title: Recipe Pumpkin Bowl Chimeraland
 author: L3n4r0x
 updated: 2022-10-07T02:46:54+07:00
 lang: en

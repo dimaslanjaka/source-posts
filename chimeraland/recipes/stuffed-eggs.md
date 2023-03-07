@@ -1,6 +1,5 @@
 ---
-title: Recipe Stuffed Eggs
-webtitle: Chimeraland
+title: Recipe Stuffed Eggs Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T16:46:56+07:00
 lang: en

@@ -1,6 +1,5 @@
 ---
-title: Recipe Red Hot Sauce
-webtitle: Chimeraland
+title: Recipe Red Hot Sauce Chimeraland
 author: L3n4r0x
 updated: 2022-09-29T11:26:37+07:00
 lang: en

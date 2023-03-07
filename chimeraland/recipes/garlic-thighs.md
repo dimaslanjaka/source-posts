@@ -1,6 +1,5 @@
 ---
-title: Recipe Garlic Thighs
-webtitle: Chimeraland
+title: Recipe Garlic Thighs Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T23:46:54+07:00
 lang: en

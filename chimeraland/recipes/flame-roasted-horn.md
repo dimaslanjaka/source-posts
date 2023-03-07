@@ -1,6 +1,5 @@
 ---
-title: Recipe Flame Roasted Horn
-webtitle: Chimeraland
+title: Recipe Flame Roasted Horn Chimeraland
 author: L3n4r0x
 updated: 2022-09-30T05:26:37+07:00
 lang: en

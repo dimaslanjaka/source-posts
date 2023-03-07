@@ -1,6 +1,5 @@
 ---
-title: Recipe Deep Fried Meat
-webtitle: Chimeraland
+title: Recipe Deep Fried Meat Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T16:46:54+07:00
 lang: en

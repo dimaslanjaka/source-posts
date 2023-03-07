@@ -1,6 +1,5 @@
 ---
-title: Recipe Fish And Vegetable Stew
-webtitle: Chimeraland
+title: Recipe Fish And Vegetable Stew Chimeraland
 author: L3n4r0x
 updated: 2022-10-05T14:46:54+07:00
 lang: en
