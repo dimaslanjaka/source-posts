@@ -2,8 +2,8 @@
 title: Monster giant roarclops
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-03-10T17:20:17+07:00
-date: 2023-03-10T17:09:17+07:00
+updated: 2023-03-10T19:30:18+07:00
+date: 2023-03-10T19:19:18+07:00
 permalink: /chimeraland/monsters/giant-roarclops.html
 photos:
   - /chimeraland/monsters/giant-roarclops/Screenshot_2023-03-08-22-10-24-89_f4fc9fb10454fc3a3dacb99dff89b568.webp

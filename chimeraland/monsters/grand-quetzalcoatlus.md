@@ -2,8 +2,8 @@
 title: Monster grand quetzalcoatlus
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-03-10T17:20:17+07:00
-date: 2023-03-10T17:09:17+07:00
+updated: 2023-03-10T19:30:18+07:00
+date: 2023-03-10T19:19:18+07:00
 permalink: /chimeraland/monsters/grand-quetzalcoatlus.html
 photos:
   - /chimeraland/monsters/grand-quetzalcoatlus/Screenshot_2023-02-25-21-54-44-00_f4fc9fb10454fc3a3dacb99dff89b568.webp

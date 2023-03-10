@@ -2,8 +2,8 @@
 title: Monster giant grouguana
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-03-10T17:20:17+07:00
-date: 2023-03-10T17:09:17+07:00
+updated: 2023-03-10T19:30:18+07:00
+date: 2023-03-10T19:19:18+07:00
 permalink: /chimeraland/monsters/giant-grouguana.html
 photos:
   - /chimeraland/monsters/giant-grouguana/Screenshot_2023-02-26-12-30-12-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
