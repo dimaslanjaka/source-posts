@@ -1,0 +1,27 @@
+---
+title: Attendant ocywalka
+webtitle: Chimeraland
+author: L3n4r0x
+updated: 2023-03-10T17:20:17+07:00
+date: 2023-03-10T17:09:17+07:00
+permalink: /chimeraland/attendants/ocywalka.html
+photos:
+  - /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-20-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-26-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-32-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-36-79_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-41-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
+tags:
+  - Chimeraland
+  - Attendant
+categories:
+  - Games
+  - Chimeraland
+  - Attendants
+---
+
+<section id="bootstrap-wrapper"><link rel="stylesheet" href="https://cdn.statically.io/gh/dimaslanjaka/Web-Manajemen/40ac3225/css/bootstrap-4.5-wrapper.css"/><h2>ocywalka Information from Chimeraland</h2><p><b>ocywalka</b> default attribute <table><tr><th>GRADE</th><td></td></tr><tr><th>Attack</th><td></td></tr><tr><th>Health Point (HP)</th><td></td></tr><tr><th>Defense</th><td></td></tr></table></p><hr/><h2>Delicacies/Tasty for ocywalka</h2><hr/><div id="gallery"><h2>Galleries for ocywalka</h2><div class="row"><div class="col-lg-6 col-12"><img src="/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="ocywalka Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-20-02_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="ocywalka Screenshot_2023-02-28-19-41-20-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-26-83_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="ocywalka Screenshot_2023-02-28-19-41-26-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-32-59_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="ocywalka Screenshot_2023-02-28-19-41-32-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-36-79_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="ocywalka Screenshot_2023-02-28-19-41-36-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-41-11_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="ocywalka Screenshot_2023-02-28-19-41-41-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="ocywalka Screenshot_2023-02-28-19-41-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="ocywalka Screenshot_2023-02-28-19-41-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div></div></div></section>
