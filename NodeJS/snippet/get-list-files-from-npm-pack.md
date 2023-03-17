@@ -1,6 +1,5 @@
 ---
 title: get list of files from npm pack
-layout: snippet
 date: 2023-01-10T23:27:03+07:00
 updated: 2023-01-10T23:27:03+07:00
 tags: ['snippet', 'javascript', 'npm']

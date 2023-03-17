@@ -5,7 +5,6 @@ date: 2022-11-03T09:39:01+07:00
 updated: 2022-11-03T09:46:31+07:00
 tags: ['snippet', 'JS', 'TS']
 categories: ['JS', 'TS']
-layout: snippet
 type: post
 thumbnail: /NodeJS/assets/pngwing.com.png
 ---
