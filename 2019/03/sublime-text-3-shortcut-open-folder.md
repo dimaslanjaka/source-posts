@@ -20,4 +20,6 @@ description: Script Regedit to open folder with sublime text 3
 
 <h2>Regedit to open folder with sublime text 3</h2>
 
-<script src="https://gist.github.com/roundand/9367852.js"></script>
+<!--<script src="https://gist.github.com/roundand/9367852.js"></script>-->
+
+{% gist roundand/9367852 %}
