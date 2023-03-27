@@ -20,3 +20,9 @@ python -m pip install git-filter-repo
 ```bash
 git filter-repo --path FOLDER-NAME/
 ```
+
+## Troubleshooting
+### pip is missing
+```bash
+python -m pip install --upgrade pip
+```
