@@ -27,7 +27,7 @@ jobs:
 
     steps:
       - run: git config --global core.autocrlf false
-      - uses: szenius/set-timezone@v1.1
+      - uses: szenius/set-timezone@v1.2
         with:
           timezoneLinux: "Asia/Jakarta"
           timezoneMacos: "Asia/Jakarta"
