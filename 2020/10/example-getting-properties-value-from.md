@@ -3,26 +3,18 @@ author:
   nick: Kuswati
   link: https://www.blogger.com/profile/09256263851708439294
   email: noreply@blogger.com
-category: []
+category: ['programming', 'kotlin']
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2020-10-24T09:19:00.000+07:00
-lang: en
-location: ""
-modified: 2020-10-24T09:19:53.448+07:00
-subtitle: pre><br />pluginManagement {<br /> resolutionStrategy {<br />
-  eachPlugin {<br /> // Work around
+lang: en 
 tags:
   - Kotlin
 title: Example getting properties value from settings.gradle.kts
 type: post
 uuid: 27d03306-0c58-4888-8a64-b45d83662e64
-updated: 2020-10-24T09:19:53+07:00
+updated: 2023-03-27T16:54:13+07:00
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-photos:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-description: pre><br />pluginManagement {<br /> resolutionStrategy {<br />
-  eachPlugin {<br /> // Work around
 ---
 
 ```kotlin
