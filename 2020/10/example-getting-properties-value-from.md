@@ -25,4 +25,26 @@ description: pre><br />pluginManagement {<br /> resolutionStrategy {<br />
   eachPlugin {<br /> // Work around
 ---
 
-<pre><br>pluginManagement {<br>    resolutionStrategy {<br>        eachPlugin {<br>            // Work around https://github.com/gradle/gradle/issues/1697.<br>            if (requested.version == null) {<br>                def pluginName = requested.id.name.split('-').collect { it.capitalize() }.join().uncapitalize()<br>                def versionPropertyName = (requested.id.id == 'org.jetbrains.kotlin.jvm') ?<br>                        "kotlinPluginVersion" : "${pluginName}PluginVersion"<br>                logger.info("Checking for plugin version property '$versionPropertyName'.")<br>                if (gradle.rootProject.hasProperty(versionPropertyName)) {<br>                    def version = gradle.rootProject.properties[versionPropertyName]<br>                    logger.info("Setting '${requested.id.id}' plugin version to $version.")<br>                    useVersion version<br>                } else {<br>                    logger.warn("No version specified for plugin '${requested.id.id}' and property " +<br>                            "'$versionPropertyName' does not exist.")<br>                }<br>            }<br>        }<br>    }<br>}<br></pre>
+```kotlin
+pluginManagement {
+    resolutionStrategy {
+        eachPlugin {
+            // Work around https://github.com/gradle/gradle/issues/1697.
+            if (requested.version == null) {
+                def pluginName = requested.id.name.split('-').collect { it.capitalize() }.join().uncapitalize()
+                def versionPropertyName = (requested.id.id == 'org.jetbrains.kotlin.jvm') ?
+                        "kotlinPluginVersion" : "${pluginName}PluginVersion"
+                logger.info("Checking for plugin version property '$versionPropertyName'.")
+                if (gradle.rootProject.hasProperty(versionPropertyName)) {
+                    def version = gradle.rootProject.properties[versionPropertyName]
+                    logger.info("Setting '${requested.id.id}' plugin version to $version.")
+                    useVersion version
+                } else {
+                    logger.warn("No version specified for plugin '${requested.id.id}' and property " +
+                            "'$versionPropertyName' does not exist.")
+                }
+            }
+        }
+    }
+}
+```
