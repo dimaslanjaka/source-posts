@@ -4,8 +4,10 @@ on:
   push:
     branches:
       - posts
+      - master
     paths:
       - '**/*.md'
+      - '**/build-site.yml'
   workflow_dispatch:
 
 concurrency:
