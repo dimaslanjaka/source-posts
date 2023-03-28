@@ -1,11 +1,16 @@
 name: Build Site
 
 on:
-  #  push:
-  #    branches:
-  #      - posts
-  #    paths:
-  #      - '**/*.md'
+  push:
+    branches:
+      - posts
+    paths:
+      - '**/*.md'
+  push:
+    branches:
+      - master
+    paths:
+      - '**/build-site.yml'
   workflow_dispatch:
 
 concurrency:
@@ -32,7 +37,8 @@ jobs:
           timezoneLinux: 'Asia/Jakarta'
           timezoneMacos: 'Asia/Jakarta'
           timezoneWindows: 'Indonesia Standard Time'
-      - uses: dimaslanjaka/static-blog-generator-hexo/.github/workflows/build-site.yml@master
-        secrets:
-          token: ${{ secrets.ACCESS_TOKEN }}
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+  reusing-workflow:
+    uses: dimaslanjaka/static-blog-generator-hexo/.github/workflows/build-site.yml@master
+    secrets:
+      token: ${{ secrets.ACCESS_TOKEN }}
+      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
