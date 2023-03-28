@@ -16,24 +16,6 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions: read-all
-    timeout-minutes: 120
-    strategy:
-      fail-fast: false
-    env:
-      NODE_OPTIONS: '--max_old_space_size=8192' #8192 4096 --expose-gc
-      YARN_ENABLE_IMMUTABLE_INSTALLS: false
-      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-
-    steps:
-      - run: git config --global core.autocrlf false
-      - uses: szenius/set-timezone@v1.2
-        with:
-          timezoneLinux: 'Asia/Jakarta'
-          timezoneMacos: 'Asia/Jakarta'
-          timezoneWindows: 'Indonesia Standard Time'
   reusing-workflow:
     uses: dimaslanjaka/static-blog-generator-hexo/.github/workflows/build-site.yml@master
     secrets:
