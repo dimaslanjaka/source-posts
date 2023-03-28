@@ -35,7 +35,7 @@ tags:
   - The Legend Of Neverland
   - Event
 title: Quiz The Legend Of Neverland
-updated: 2023-03-28T19:27:51+07:00
+updated: 2023-03-28T19:32:51+07:00
 ---
 
 <!-- include Quiz/table.html -->
@@ -85,3 +85,6 @@ There will be lots of general knowledge questions thrown at you, and here are th
 ### 2023-01-11
 - change quiz `The tunnel that connects with Cabala is called Path of Cremation (X)`
 - change quiz `The Tunnel That Connects With Cabala Is Called Parh Of Fire Sword (O)`
+
+## Conclusion
+Those are all the answer keys to various questions that the system will throw at you through this _event_ mini quiz. As we have explained, this question is taken from general knowledge, be it history, economics, geography and many others. You will get not only in-game prizes, but additional knowledge like this you can also find out. Hopefully all of these answer keys can help you answer some questions that you might not know the answers to.
