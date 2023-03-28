@@ -1,7 +1,9 @@
 ---
 title: Android Webview With Extra Headers
 date: 2022-11-11T07:00:19+07:00
-updated: 2022-11-11T07:00:19+07:00
+updated: 2023-03-28T09:52:52+07:00
+category: ['programming', 'java']
+tags: ['android', 'webview']
 ---
 
 ```java
