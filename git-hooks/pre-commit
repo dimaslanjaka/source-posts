@@ -1,4 +1,4 @@
 #!/bin/sh
 
 # update local package
-node postinstall.cjs
+# node postinstall.cjs
