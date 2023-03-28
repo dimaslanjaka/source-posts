@@ -6,11 +6,6 @@ on:
       - posts
     paths:
       - '**/*.md'
-  push:
-    branches:
-      - master
-    paths:
-      - '**/build-site.yml'
   workflow_dispatch:
 
 concurrency:
