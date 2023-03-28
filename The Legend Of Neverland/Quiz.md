@@ -35,13 +35,29 @@ tags:
   - The Legend Of Neverland
   - Event
 title: Quiz The Legend Of Neverland
-updated: 2023-02-23T17:46:45+07:00
+updated: 2023-03-28T19:27:51+07:00
 ---
 
 <!-- include Quiz/table.html -->
 <div id="quiz-debug"></div>
 <!-- css Quiz/style.css -->
 <!-- script Quiz/script.js -->
+
+## Overview
+
+Of the many _mobile_ MMORPG games currently available, not many have their own characteristics and make these games more popular than the others. One mobile MMORPG game that has managed to do this is [The Legend of Neverland](https://www.bluestacks.com/id/apps/role-playing/the-legend-of-neverland-on-pc.html) with several interesting _events_ that are unique and different from the others. This one game is still relatively new and can't be called long-lived, but the developers have succeeded in proving that they can be creative and appear more different than MMORPG games in general. One of the interesting _events_ that we mean here is a mini quiz that you can only access during certain times.
+
+
+The name of the _event_ is **Mini Quiz**, or often also known as _Scenic Quiz_ and _Mabinogi Quiz_, a unique _event_ where you as players will try to answer a question about common knowledge in this world. In this quiz your only task is to answer a question **true** or **wrong**, for example, “The World's Largest Stone Buddha is in Henan?” then you just need to answer it right or wrong. To answer it, you will be given two platforms for your character avatar, later those who answer incorrectly will fall as a sign that they are wrong.
+
+
+![Answer Key Mini Game Quiz - The Legend of Neverland](https://cdn-www.bluestacks.com/bs-images/kunci-jawaban-kuis-mini-game-the-legend-of-neverland-id-2.png)
+
+Completing this mission can give you a _currency_ that can be used to do a costume _gacha_, with tasks that only answer, you can get a chance to get a good costume. You can't access this Mini Quiz forever, this_event will only be open for **Monday, Wednesday, Friday** and **Sunday**, every day you can access it from 9 am to 11 pm, so don't miss it. Every day, you will be given 10 correct questions, if you have managed to answer ten questions correctly then your quota for the day has run out, and you have to do it the next day.
+
+There will be lots of general knowledge questions thrown at you, and here are the key answers to the quiz. You also need to know that **(O)** means **true** and **(X)** is wrong.
+
+![Answer Key Mini Game Quiz - The Legend of Neverland](https://cdn-www.bluestacks.com/bs-images/answer key-quiz-mini-game-the-legend-of-neverland-id- 2.png)
 
 <h2 id="changelog">The Legend Of Neverland Quiz Data Changelog</h2>
 
