@@ -59,8 +59,6 @@ Completing this mission can give you a _currency_ that can be used to do a costu
 
 There will be lots of general knowledge questions thrown at you, and here are the key answers to the quiz. You also need to know that **(O)** means **true** and **(X)** is wrong.
 
-![Answer Key Mini Game Quiz - The Legend of Neverland](https://cdn-www.bluestacks.com/bs-images/kunci-jawaban-kuis-mini-game-the-legend-of-neverland-id-2.png)
-
 <h2 id="changelog">The Legend Of Neverland Quiz Data Changelog</h2>
 
 ### 2022-12-10
