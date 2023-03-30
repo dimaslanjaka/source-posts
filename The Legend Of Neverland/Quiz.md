@@ -35,7 +35,7 @@ tags:
   - The Legend Of Neverland
   - Event
 title: Quiz The Legend Of Neverland
-updated: 2023-03-28T19:32:51+07:00
+updated: 2023-03-30T19:13:02+07:00
 ---
 
 > [try beta version](http://adsense.webmanajemen.com:4000/test-unit/quiz.html)
