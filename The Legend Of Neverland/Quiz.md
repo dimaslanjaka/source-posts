@@ -38,6 +38,8 @@ title: Quiz The Legend Of Neverland
 updated: 2023-03-28T19:32:51+07:00
 ---
 
+> [try beta version](http://adsense.webmanajemen.com:4000/test-unit/quiz.html)
+
 <!-- include Quiz/table.html -->
 <div id="quiz-debug"></div>
 <!-- css Quiz/style.css -->
