@@ -35,10 +35,10 @@ tags:
   - The Legend Of Neverland
   - Event
 title: Quiz The Legend Of Neverland
-updated: 2023-03-30T19:13:02+07:00
+updated: 2023-03-31T20:35:13+07:00
 ---
 
-> [try beta version](http://adsense.webmanajemen.com:4000/test-unit/quiz.html)
+> [try beta version](/test-unit/quiz.html)
 
 <!-- include Quiz/table.html -->
 <div id="quiz-debug"></div>
