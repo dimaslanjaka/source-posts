@@ -1,4 +1,4 @@
-name: Build Site
+name: Post Update
 
 on:
   push:
