@@ -4,7 +4,7 @@ description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-03-29T13:47:51+07:00
+updated: 2023-04-04T18:51:01+07:00
 lang: id
 permalink: /chimeraland/blacklist-player.html
 multilang:
@@ -495,22 +495,27 @@ author: L3n4r0x
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Narunaru">Naru/naru</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER ruby</td>
+<td style="text-align:left">SCAMMER ruby , korban lebih dari 3 orang dan terakhir kali menipu orang beli akun 400k IDR. Nomor naru 083843615781 083172982549 083144392156</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="NARAPIDANA">NARAPIDANA</td>
 <td style="text-align:left">BOOM</td>
-<td style="text-align:left">SCAMMER ruby, korban terakhir <strong>cilla</strong> &amp; <strong>NeBisIndem</strong>. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668</td>
+<td style="text-align:left">SCAMMER ruby, korban terakhir <strong>NeBisIndem</strong>. Nomor kontak 089526134254 Uang dikirim ke dana 089623476668</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="rapiRapi">rapi/Rapi</td>
 <td style="text-align:left"></td>
-<td style="text-align:left">SCAMMER ruby menjanjikan tanggal 20 maret tapi tak kunjung ditrade. Sama halnya NARAPIDANA</td>
+<td style="text-align:left">SCAMMER ruby menjanjikan tanggal 20 maret tapi tak kunjung ditrade, korban terakhir <strong>cilla</strong>. Sama halnya NARAPIDANA</td>
 </tr>
 <tr>
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Devil-God">Devil God</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">SCAMMER sebagai pembeli</td>
+</tr>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="Sofys">Sofys</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">SCAMMER seller ruby, korban terakhir <strong>Kazeoo</strong></td>
 </tr>
 </tbody>
 </table>
@@ -528,6 +533,21 @@ author: L3n4r0x
 <td style="text-align:left" notranslate="true" class=" notranslate" id="Allderosa">Allderosa</td>
 <td style="text-align:left"></td>
 <td style="text-align:left">Roll drop dari Black Mullbery Guardian - Bitter Cold Spring</td>
+</tr>
+</tbody>
+</table>
+<h2 id="scammer-fb">Daftar scammer akun facebook</h2>
+<table style="width:100%;">
+<thead>
+<tr>
+<th style="text-align:left">Link</th>
+<th style="text-align:left">Keterangan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left" notranslate="true" class=" notranslate" id="lessa-href&quot;https:www.facebook.comm.rfauzi.7169709mibextidZbWKwL&quot;greaterDaren-m.rfauzi.7169709lessagreater"><a href="https://www.facebook.com/m.rfauzi.7169709?mibextid=ZbWKwL">Daren - m.rfauzi.7169709</a></td>
+<td style="text-align:left">Menawarkan akun <strong>OhMyRynn</strong> dengan screenshot hasil curian (screenshot lama), sedangkan akun tersebut sudah terjual lama. <a href="#daren-screenshots">screenshots</a></td>
 </tr>
 </tbody>
 </table>
@@ -593,6 +613,11 @@ author: L3n4r0x
 <li><a href="https://www.gamersbahagia.com/blacklist">GamersBahagia Blacklist</a></li>
 </ul>
 <h2 id="screenshots">Kumpulan Tangkapan Layar (screenshot) tentang scammer</h2>
+<h2 id="daren-screenshots" tabindex="-1"><a href="#daren-screenshots">Daren Screenshots</a></h2>
+<p><img src="https://user-images.githubusercontent.com/12471057/229782658-991286f8-dbc3-43e6-af41-29971adae576.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/229782801-60788b86-b808-466e-a5c0-6394b7b11fba.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/229782831-81821db8-bb2d-4b42-85e5-6b0d618d2fb9.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/229782860-4aff146a-5ecc-4b80-aaf4-4119e23d8d49.png" alt="image"></p>
 <h2 id="raemakuu-screenshots" tabindex="-1"><a href="#raemakuu-screenshots">Raemakuu Screenshots</a></h2>
 <p><img src="https://user-images.githubusercontent.com/12471057/225566251-25718631-3f0d-452e-81e0-712317105cd6.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/225566420-058b0f80-d921-4a71-bfd7-d9ac5d567e64.png" alt="image">
@@ -606,6 +631,10 @@ author: L3n4r0x
 <img src="https://user-images.githubusercontent.com/12471057/225884889-8147bac3-758d-42f1-b651-c9eb2e1a1f17.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/225884916-cb66e30a-4e71-4f45-a50a-368dc2b1d7a4.png" alt="image">
 <img src="https://user-images.githubusercontent.com/12471057/225884943-abb05d22-bb22-43e0-8129-a71ce5b9b159.png" alt="image"></p>
+<h2 id="sofys-screenshots" tabindex="-1"><a href="#sofys-screenshots">Sofys Screenshots</a></h2>
+<p><img src="https://user-images.githubusercontent.com/12471057/229296141-5294161a-fe40-4ce4-a904-4343084209d5.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/229296145-8da52534-4850-487b-a19f-9f52768c584b.png" alt="image">
+<img src="https://user-images.githubusercontent.com/12471057/229296151-5ce3b561-5260-49a5-b9fa-c66730e10ff5.png" alt="image"></p>
 <h2 id="semua-screenshots" tabindex="-1"><a href="#semua-screenshots">semua Screenshots</a></h2>
 <p><img src="https://user-images.githubusercontent.com/12471057/228448750-03135c91-cd6a-412e-b26d-23c8c3fa890c.png" alt="image"></p>
 <img src="https://github.com/dimaslanjaka/static-blog-generator-hexo/raw/master/site/multisite/chimeraland/src/posts/blacklist-player/images/batagor%20&%20sus%20&%20unknown.jpg" alt="batagor & sus & unknown.jpg" />
