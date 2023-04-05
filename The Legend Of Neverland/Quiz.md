@@ -32,11 +32,18 @@ lang: en
 location: Indonesia
 description: Quiz questions and the answers. The Legend Of Neverland Event. The Legend of Neverland Guide and Tips for quiz event. Scenic Quiz Event Answers - The Legend of Neverland
 tags:
-  - guide
+  - The Legend Of Neverland
+  - Event
 title: Quiz The Legend Of Neverland
-updated: 2023-04-05T17:50:09+07:00
-layout: quiz
+updated: 2023-03-31T20:35:13+07:00
 ---
+
+> [try beta version](/test-unit/quiz.html)
+
+<!-- include Quiz/table.html -->
+<div id="quiz-debug"></div>
+<!-- css Quiz/style.css -->
+<!-- script Quiz/script.js -->
 
 ## Overview
 
@@ -52,8 +59,7 @@ Completing this mission can give you a _currency_ that can be used to do a costu
 
 There will be lots of general knowledge questions thrown at you, and here are the key answers to the quiz. You also need to know that **(O)** means **true** and **(X)** is wrong.
 
-## Changelog
-The Legend Of Neverland Quiz Data Changelog
+<h2 id="changelog">The Legend Of Neverland Quiz Data Changelog</h2>
 
 ### 2022-12-10
 - Fix miss-configured backend url
@@ -79,10 +85,6 @@ The Legend Of Neverland Quiz Data Changelog
 ### 2023-01-11
 - change quiz `The tunnel that connects with Cabala is called Path of Cremation (X)`
 - change quiz `The Tunnel That Connects With Cabala Is Called Parh Of Fire Sword (O)`
-### 2023-04-17
-- update layout
-- improve search speed
-- improve load speed
 
 ## Conclusion
 Those are all the answer keys to various questions that the system will throw at you through this _event_ mini quiz. As we have explained, this question is taken from general knowledge, be it history, economics, geography and many others. You will get not only in-game prizes, but additional knowledge like this you can also find out. Hopefully all of these answer keys can help you answer some questions that you might not know the answers to.
