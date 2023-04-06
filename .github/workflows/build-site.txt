@@ -1,0 +1,156 @@
+name: Build Site
+
+on:
+#  push:
+#    branches:
+#      - posts
+#    paths:
+#      - '**/*.md'
+  workflow_dispatch:
+
+concurrency:
+  # group: build-${{ github.event.push.number || github.event.pull_request.number || github.ref }}
+  group: deploy
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions: read-all
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+    env:
+      NODE_OPTIONS: "--max_old_space_size=8192" #8192 4096 --expose-gc
+      YARN_ENABLE_IMMUTABLE_INSTALLS: false
+      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
+    steps:
+      - run: git config --global core.autocrlf false
+      - uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "Asia/Jakarta"
+          timezoneMacos: "Asia/Jakarta"
+          timezoneWindows: "Indonesia Standard Time"
+      - uses: actions/checkout@v3
+        name: checkout root project
+        with:
+          ref: master
+          repository: dimaslanjaka/static-blog-generator-hexo
+          submodules: recursive
+          token: "${{ secrets.ACCESS_TOKEN }}"
+      #- run: sh ./bin/submodule-install
+        #shell: bash
+      - name: Checkout src-posts
+        uses: actions/checkout@v3
+        with:
+          repository: dimaslanjaka/source-posts
+          ref: posts
+          path: src-posts
+          token: "${{ secrets.ACCESS_TOKEN }}"
+      - name: Checkout .deploy_git
+        uses: actions/checkout@v3
+        with:
+          repository: dimaslanjaka/dimaslanjaka.github.io
+          ref: master
+          path: .deploy_git
+          token: "${{ secrets.ACCESS_TOKEN }}"
+      - name: Checkout .deploy_git/chimeraland
+        uses: actions/checkout@v3
+        with:
+          repository: dimaslanjaka/chimeraland
+          ref: gh-pages
+          path: .deploy_git/chimeraland
+          token: "${{ secrets.ACCESS_TOKEN }}"
+      - name: Checkout .deploy_git/page
+        uses: actions/checkout@v3
+        with:
+          repository: dimaslanjaka/page
+          ref: gh-pages
+          path: .deploy_git/page
+          token: "${{ secrets.ACCESS_TOKEN }}"
+      - name: Checkout .deploy_git/docs
+        uses: actions/checkout@v3
+        with:
+          repository: dimaslanjaka/docs
+          ref: master
+          path: .deploy_git/docs
+          token: "${{ secrets.ACCESS_TOKEN }}"
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          architecture: x64
+          cache: 'yarn'
+          check-latest: true
+      - name: Set env
+        id: set-env
+        shell: bash
+        run: |
+          echo "GITHUB_SHA_SHORT=$(echo $GITHUB_SHA | cut -c 1-6)" >> $GITHUB_ENV
+          echo "GITHUB_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
+          echo "GITHUB_COMMIT_URL=https://github.com/${{github.repository}}/commit/$(echo $GITHUB_SHA)" >> $GITHUB_ENV
+          echo "GITHUB_RUNNER_URL=https://github.com/${{github.repository}}/commit/${{github.sha}}/checks/${{github.run_id}}" >> $GITHUB_ENV
+          echo "CACHE_NPM=$(npm config get cache)" >> $GITHUB_ENV
+          echo "CACHE_YARN2=$(yarn config get cacheFolder)" >> $GITHUB_ENV
+          echo "cache-npm=$(npm config get cache)" >> $GITHUB_OUTPUT
+          echo "cache-yarn2=$(yarn config get cacheFolder)" >> $GITHUB_OUTPUT
+          echo "/home/runner/node_modules/.bin" >> $GITHUB_PATH
+          echo "/home/runner/bin" >> $GITHUB_PATH
+          echo "bin" >> $GITHUB_PATH
+          echo "node_modules/.bin" >> $GITHUB_PATH
+      # echo "cache-yarn=$(yarn cache dir)" >> $GITHUB_OUTPUT
+      # echo "CACHE_YARN=$(yarn cache dir)" >> $GITHUB_ENV
+      #- uses: pat-s/always-upload-cache@v3.0.11
+      - uses: actions/cache@v3
+        id: cache
+        name: init cache
+        with:
+          path: |
+            ${{ steps.set-env.outputs.cache-npm }}
+            ${{ steps.set-env.outputs.cache-yarn2 }}
+            /home/runner/db.json
+            /home/runner/public
+            /home/runner/tmp
+            /home/runner/build
+            /home/runner/source/_posts
+            **/dist/**
+            **/node_modules
+          key: cache-${{ hashFiles('**/.guid') }}
+          restore-keys: |
+            cache-${{ hashFiles('**/.guid') }}
+            cache-
+      - run: |
+          corepack prepare yarn@3.2.0 --activate
+          corepack enable
+        name: enable yarn
+      - run: npm i -g npm-run-all lerna nx gulp-cli hexo-cli typescript ts-node depcheck husky
+      - run: yarn install
+
+      - run: yarn build
+
+      - run: npx sbg post standalone
+      - run: npx sbg post copy
+      - run: hexo generate
+      - run: gulp deploy:copy
+      - run: npx sbg deploy seo
+      - run: npx sbg deploy safelink
+      - name: commit .deploy_git
+        shell: bash
+        id: push-manual
+        continue-on-error: true
+        working-directory: ./.deploy_git
+        run: |
+          git config --global user.name 'dimaslanjaka'
+          git config --global user.email 'dimaslanjaka@gmail.com'
+          git remote set-url origin https://${{ secrets.ACCESS_TOKEN }}@github.com/dimaslanjaka/dimaslanjaka.github.io
+          git submodule foreach "git add -A | :"
+          git submodule foreach "git commit -am 'Update build from ${{ env.GITHUB_COMMIT_URL }}' | :"
+          git submodule foreach "git push | :"
+          git add .
+          git commit -m "Update build from ${{ env.GITHUB_COMMIT_URL }}" -m "commit hash: ${{ env.GITHUB_SHA_SHORT }}" -m "commit url: ${{ env.GITHUB_COMMIT_URL }}" -m "runner: ${{ env.GITHUB_RUNNER_URL }}"
+
+      - run: git push origin master --recurse-submodules=on-demand
+        working-directory: ./.deploy_git
+        name: push .deploy_git
+        shell: bash
+      
