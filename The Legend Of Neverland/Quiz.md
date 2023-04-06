@@ -59,8 +59,12 @@ Completing this mission can give you a _currency_ that can be used to do a costu
 
 There will be lots of general knowledge questions thrown at you, and here are the key answers to the quiz. You also need to know that **(O)** means **true** and **(X)** is wrong.
 
-<h2 id="changelog">The Legend Of Neverland Quiz Data Changelog</h2>
+## Changelog
+> The Legend Of Neverland Quiz Data Changelog
 
+### 2023-01-11
+- change quiz **The tunnel that connects with Cabala is called Path of Cremation** to **(X)**
+- change quiz **The Tunnel That Connects With Cabala Is Called Parh Of Fire Sword** to **(O)**
 ### 2022-12-10
 - Fix miss-configured backend url
 ### 2022-12-08
@@ -82,9 +86,6 @@ There will be lots of general knowledge questions thrown at you, and here are th
 - skip process when input is emptied
 ### 2021-08-16
 - Integrate search `li` texts
-### 2023-01-11
-- change quiz `The tunnel that connects with Cabala is called Path of Cremation (X)`
-- change quiz `The Tunnel That Connects With Cabala Is Called Parh Of Fire Sword (O)`
 
 ## Conclusion
 Those are all the answer keys to various questions that the system will throw at you through this _event_ mini quiz. As we have explained, this question is taken from general knowledge, be it history, economics, geography and many others. You will get not only in-game prizes, but additional knowledge like this you can also find out. Hopefully all of these answer keys can help you answer some questions that you might not know the answers to.
