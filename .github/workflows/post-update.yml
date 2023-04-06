@@ -8,7 +8,7 @@ on:
 
 concurrency:
   # group: build-${{ github.event.push.number || github.event.pull_request.number || github.ref }}
-  group: reusing-workflow-actions
+  group: update-post-reusing-workflow-actions
   cancel-in-progress: true
 
 jobs:
