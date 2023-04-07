@@ -5,6 +5,7 @@ date: 2023-04-07T18:53:16+07:00
 updated: 2023-04-07T18:57:25+07:00
 categories: [programming, github]
 tags: [cli, github]
+thumbnail: https://1.bp.blogspot.com/-qPtq_n0ithw/YPbCOjZsFyI/AAAAAAAAAhM/JfQ6R2yIcgYMlTZ9GhPaOgFEZ1rm0O0lACLcBGAsYHQ/s600/git-cli-commands.jpg
 ---
 
 ## How do I commit case-sensitive filename changes in Git?
@@ -28,11 +29,15 @@ git status ##Review that **only** changes staged are renames
 ## Commit your changes after reviewing:
 git commit -a -m "Fixing file name casing"
 git push origin main
-
 ```
 
-### Change the Git system global configuration to make file and folder names case sensitive 
-
+### Change the Git system global or local configuration to make file and folder names case sensitive 
+global configuration
 ```bash
-git config --global  core.ignorecase false
+git config --global core.ignorecase false
+```
+
+local configuration
+```bash
+git config core.ignorecase false
 ```
