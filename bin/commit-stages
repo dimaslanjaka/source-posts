@@ -2,9 +2,9 @@
 
 if [ -z "$1" ]; then
     echo "Set default commit message"
-    set COMMIT_MSG="updated on - $(date)"
+    COMMIT_MSG="updated on - $(date)"
 else
-    set COMMIT_MSG="$1"
+    COMMIT_MSG=$1
 fi
 
 git add .
