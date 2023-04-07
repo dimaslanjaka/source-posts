@@ -27,6 +27,7 @@ jobs:
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           repo: static-blog-generator-hexo
+          ref: master
           owner: dimaslanjaka
           workflow: build-site.yml
 
