@@ -5,4 +5,4 @@
 
 rm -rf posts/.github
 cp -r .github posts/.github
-cd posts && git add .github && git commit -m "update from master" && git push
+# cd posts && git add .github && git commit -m "update from master" && git push
