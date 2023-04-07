@@ -12,10 +12,10 @@ updates:
     directory: '/'
     target-branch: 'master'
     schedule:
-      interval: 'weekly'
+      interval: 'monthly'
 
   # Maintain dependencies for npm/yarn
-  - package-ecosystem: 'npm'
+  - package-ecosystem: 'yarn'
     directory: '/'
     target-branch: 'master'
     schedule:

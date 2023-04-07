@@ -14,3 +14,10 @@ tmp
 
 # custom
 /nodejs-esm-starter
+.env
+
+# yarn
+**/.yarn/cache
+**/.yarn/versions
+**/.yarn/unplug*
+**/.yarn/*.gz

@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - posts
+      - master # <-- just for test
   workflow_dispatch:
 
 concurrency:
