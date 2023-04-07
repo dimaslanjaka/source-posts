@@ -20,7 +20,7 @@ else
     set -e
     git submodule foreach "git add -A | :"
     git submodule foreach "git commit -m '$COMMIT_MSG' | :"
-    git submodule foreach "git push | :"
+    #git submodule foreach "git push | :"
     git add -A
     git commit -am "$COMMIT_MSG"
 fi
