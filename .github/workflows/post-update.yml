@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - posts
+      - master # <-- just for test
   workflow_dispatch:
 
 concurrency:
@@ -12,27 +13,35 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  wait-check:
+  check-reusable-ci:
     strategy:
       fail-fast: true
-      max-parallel: 6
+      max-parallel: 1
+    env:
+      NODE_OPTIONS: '--max_old_space_size=8192' #8192 4096 --expose-gc
+      YARN_ENABLE_IMMUTABLE_INSTALLS: false
+      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
     runs-on: ubuntu-latest
 
-    name: check other ci
+    name: check other ci is not running
     steps:
-      - name: Dispatch an action and get the run ID
-        uses: codex-/return-dispatch@v1
-        id: return_dispatch
+      - uses: actions/checkout@v3
+        name: checkout root project
         with:
-          token: ${{ secrets.ACCESS_TOKEN }}
-          repo: static-blog-generator-hexo
           ref: master
-          owner: dimaslanjaka
-          workflow: build-site.yml
+          repository: dimaslanjaka/source-posts
+          submodules: recursive
+          token: '${{ secrets.ACCESS_TOKEN }}'
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: 'yarn'
+          check-latest: true
+      - run: ts-node src/ci/check-other-ci.ts
 
   reusing-workflow:
-    needs: [wait-check]
+    needs: [check-reusable-ci]
     uses: dimaslanjaka/static-blog-generator-hexo/.github/workflows/build-site.yml@master
     secrets:
       token: ${{ secrets.ACCESS_TOKEN }}
