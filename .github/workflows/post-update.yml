@@ -14,17 +14,12 @@ concurrency:
 jobs:
   wait-check:
     strategy:
-      matrix:
-        #os: [ "windows-latest", "macos-11", "ubuntu-latest" ]
-        os: ['ubuntu-latest']
-        node-version: ['14', '16', '18']
-        architecture: ['x86', 'x64']
       fail-fast: true
       max-parallel: 6
 
-    runs-on: ${{ matrix.os }}
+    runs-on: ubuntu-latest
 
-    name: Node ${{ matrix.node-version }} - ${{ matrix.os }} #-${{ matrix.architecture }}
+    name: check other ci
     steps:
       - name: Dispatch an action and get the run ID
         uses: codex-/return-dispatch@v1
@@ -34,7 +29,7 @@ jobs:
           repo: static-blog-generator-hexo
           owner: dimaslanjaka
           workflow: build-site.yml
-          
+
   reusing-workflow:
     needs: [wait-check]
     uses: dimaslanjaka/static-blog-generator-hexo/.github/workflows/build-site.yml@master
