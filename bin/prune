@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+## delete commit history
+
 branch=$(git branch --show-current)
 git checkout --orphan latest_branch # Move to new branch with new object
 git add -A # Add all files
