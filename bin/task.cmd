@@ -1,0 +1,1 @@
+gulp --gulpfile gulpfile.cjs %*

@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+if [ -z "$1" ]; then
+    echo "Set default commit message"
+    COMMIT_MSG="updated on - $(date)"
+else
+    COMMIT_MSG=$1
+fi
+
+git add .
+set +e  # Grep succeeds with nonzero exit codes to show results.
+git diff --quiet; nochanges=$?
+git status | grep modified; modified=$?
+# git status | grep "publish your local"; push=$?
+# if [ $nochanges -eq 0 ]; then
+if [ -z "$(git status --porcelain)" ]; then
+    set -e
+    echo "No changes since last run"
+else
+    set -e
+    git submodule foreach "git add -A | :"
+    git submodule foreach "git commit -m '$COMMIT_MSG' | :"
+    #git submodule foreach "git push | :"
+    git add -A
+    git commit -am "$COMMIT_MSG"
+fi

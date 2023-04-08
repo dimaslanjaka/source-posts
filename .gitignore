@@ -1,0 +1,23 @@
+Test
+.guid
+/dimaslanjaka
+
+# olds and backups
+*-old
+*-backup
+*-private
+
+# auto
+node_modules
+vendor
+tmp
+
+# custom
+/nodejs-esm-starter
+.env
+
+# yarn
+**/.yarn/cache
+**/.yarn/versions
+**/.yarn/unplug*
+**/.yarn/*.gz

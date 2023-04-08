@@ -1,0 +1,39 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.runInTerminal": true,
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    }
+  },
+  "[typescript]": {
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+  },
+  "emmet.includeLanguages": {
+    "md": "html"
+  },
+  "terminal.integrated.env.windows": {
+    "PATH": "${env:PATH};${workspaceFolder}\\bin;${workspaceFolder}\\node_modules\\.bin"
+  },
+  "terminal.integrated.env.linux": {
+    "PATH": "${workspaceFolder}/bin:${env:PATH}:${workspaceFolder}/node_modules/.bin"
+  },
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "search.exclude": {
+    "**/.cache/**": true,
+    "**/dist/**": true
+  },
+  "code-runner.executorMap": {
+    "javascript": "node -r dotenv/config",
+    "typescript": "ts-node -r dotenv/config"
+  },
+  "code-runner.saveFileBeforeRun": true
+}
