@@ -38,7 +38,7 @@ jobs:
           node-version: 18
           cache: 'yarn'
           check-latest: true
-      - run: npm i global add ts-node typescript hexo-cli
+      - run: yarn global add ts-node typescript hexo-cli
       - run: echo \# > yarn.lock && yarn install
       - run: ts-node src/ci/check-other-ci.ts
 
