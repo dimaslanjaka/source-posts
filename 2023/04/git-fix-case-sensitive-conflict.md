@@ -3,8 +3,8 @@ title: git fix case-sensitive conflict
 description: How do I commit case-sensitive only filename changes in Git?
 date: 2023-04-07T18:53:16+07:00
 updated: 2023-04-07T18:57:25+07:00
-categories: [programming, github]
-tags: [cli, github]
+categories: [programming, github, bash]
+tags: [github, script]
 thumbnail: https://1.bp.blogspot.com/-qPtq_n0ithw/YPbCOjZsFyI/AAAAAAAAAhM/JfQ6R2yIcgYMlTZ9GhPaOgFEZ1rm0O0lACLcBGAsYHQ/s600/git-cli-commands.jpg
 ---
 
