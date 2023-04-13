@@ -1,0 +1,50 @@
+---
+title: bash script delete folder recursively
+date: 2023-04-13T16:17:00+07:00
+updated: 2023-04-13T16:17:00+07:00
+---
+
+## script bash to recursive delete folder
+
+```bash
+#!/usr/bin/env bash
+
+# make cygwin bin as priority
+export PATH="/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:$PATH";
+
+(set -o igncr) 2>/dev/null && set -o igncr; # cygwin encoding fix
+
+basedir=`dirname "$0"`
+
+case `uname` in
+  *CYGWIN*) basedir=`cygpath -w "$basedir"`;;
+esac
+
+if [ -z "$1" ]; then
+    echo "You need to provide a file or folder path"
+    exit
+fi
+
+if [ ! -d "$1" ]; then
+  echo "$1 not found"
+  exit
+fi
+
+vowels=( a i u e o A I U E O )
+for letter in {{a..z},{A..Z}}; do
+    for vowel in "${vowels[@]}"; do
+      toBeDeleted=( "$1/.${letter}*" "$1/@${letter}*" "$1/${letter}*" "$1/@${letter}${vowel}*" "$1/.${letter}${vowel}*" "$1/${letter}${vowel}*" )
+      for fpath in "${toBeDeleted[@]}"; do
+        echo "deleting ${fpath}"
+        rm -rf $fpath &
+      done
+    done
+done
+
+wait
+
+echo "cleaning $1"
+rm -rf $1 &
+
+wait
+```
