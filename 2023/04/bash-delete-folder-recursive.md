@@ -2,6 +2,8 @@
 title: bash script delete folder recursively
 date: 2023-04-13T16:17:00+07:00
 updated: 2023-04-13T16:17:00+07:00
+tags: [bash, script]
+categories: [programming, bash]
 ---
 
 ## script bash to recursive delete folder
