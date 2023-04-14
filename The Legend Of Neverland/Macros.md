@@ -54,7 +54,7 @@ Presenting Macros in BlueStacks (for variants 4.140 or higher). Record an arrang
 
 ### Auto Claim Abyss Rewards
 
-[Download Auto Claim Abyss Rewards](Macros/auto%20claim%20abyss.json)
+- [Download Auto Claim Abyss Rewards](Macros/auto%20claim%20abyss.json)
 
 ### Auto target monsters
 
