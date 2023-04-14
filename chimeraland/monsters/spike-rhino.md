@@ -2,8 +2,8 @@
 title: Monster spike rhino
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-11-25T20:28:54+07:00
-date: 2022-11-25T20:17:54+07:00
+updated: 2022-11-25T22:28:54+07:00
+date: 2022-11-25T22:17:54+07:00
 permalink: /chimeraland/monsters/spike-rhino.html
 photos:
   - /chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-08-38_f4fc9fb10454fc3a3dacb99dff89b568.webp

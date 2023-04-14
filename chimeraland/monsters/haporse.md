@@ -2,8 +2,8 @@
 title: Monster haporse
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-03-10T19:30:18+07:00
-date: 2023-03-10T19:19:18+07:00
+updated: 2023-03-11T13:30:18+07:00
+date: 2023-03-11T14:19:18+07:00
 permalink: /chimeraland/monsters/haporse.html
 photos:
   - /chimeraland/monsters/haporse/Screenshot_2023-03-01-12-48-49-80_f4fc9fb10454fc3a3dacb99dff89b568.webp

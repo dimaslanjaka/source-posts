@@ -2,8 +2,8 @@
 title: Monster giant fantafish
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-16T20:53:22+07:00
-date: 2023-02-16T20:42:22+07:00
+updated: 2023-02-16T22:53:22+07:00
+date: 2023-02-16T22:42:22+07:00
 permalink: /chimeraland/monsters/giant-fantafish.html
 photos:
   - /chimeraland/monsters/giant-fantafish/Screenshot_2023-02-16-02-55-32-46_f4fc9fb10454fc3a3dacb99dff89b568.webp

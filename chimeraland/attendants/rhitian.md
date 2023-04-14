@@ -2,8 +2,8 @@
 title: Attendant rhitian
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-08T21:16:58+07:00
-date: 2023-02-08T21:05:58+07:00
+updated: 2023-02-09T06:16:58+07:00
+date: 2023-02-09T06:05:58+07:00
 permalink: /chimeraland/attendants/rhitian.html
 photos:
   - /chimeraland/attendants/rhitian/Screenshot_2023-01-28-18-09-47-59_f4fc9fb10454fc3a3dacb99dff89b568.webp

@@ -2,8 +2,8 @@
 title: Monster yunqi
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-13T12:42:22+07:00
-date: 2023-02-13T12:31:22+07:00
+updated: 2023-02-13T13:42:22+07:00
+date: 2023-02-13T13:31:22+07:00
 permalink: /chimeraland/monsters/yunqi.html
 photos:
   - /chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-15-95_f4fc9fb10454fc3a3dacb99dff89b568.webp

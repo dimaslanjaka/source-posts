@@ -2,8 +2,8 @@
 title: Attendant prospakat
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-16T20:53:20+07:00
-date: 2023-02-16T20:42:20+07:00
+updated: 2023-02-16T22:53:20+07:00
+date: 2023-02-16T22:42:20+07:00
 permalink: /chimeraland/attendants/prospakat.html
 photos:
   - /chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-04-07_f4fc9fb10454fc3a3dacb99dff89b568.webp

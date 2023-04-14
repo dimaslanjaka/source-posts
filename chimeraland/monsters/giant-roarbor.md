@@ -2,8 +2,8 @@
 title: Monster giant roarbor
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-03-10T19:30:18+07:00
-date: 2023-03-10T19:19:18+07:00
+updated: 2023-03-11T05:30:18+07:00
+date: 2023-03-11T06:19:18+07:00
 permalink: /chimeraland/monsters/giant-roarbor.html
 photos:
   - /chimeraland/monsters/giant-roarbor/Screenshot_2023-02-24-13-37-43-57_f4fc9fb10454fc3a3dacb99dff89b568.webp

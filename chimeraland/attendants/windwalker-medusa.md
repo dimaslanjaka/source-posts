@@ -2,8 +2,8 @@
 title: Attendant windwalker medusa
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-13T12:42:21+07:00
-date: 2023-02-13T12:31:21+07:00
+updated: 2023-02-13T13:42:21+07:00
+date: 2023-02-13T13:31:21+07:00
 permalink: /chimeraland/attendants/windwalker-medusa.html
 photos:
   - /chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-32-06_f4fc9fb10454fc3a3dacb99dff89b568.webp

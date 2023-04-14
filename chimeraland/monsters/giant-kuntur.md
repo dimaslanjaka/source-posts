@@ -2,8 +2,8 @@
 title: Monster giant kuntur
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-03-10T19:30:18+07:00
-date: 2023-03-10T19:19:18+07:00
+updated: 2023-03-11T03:30:18+07:00
+date: 2023-03-11T04:19:18+07:00
 permalink: /chimeraland/monsters/giant-kuntur.html
 photos:
   - /chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-17-63_f4fc9fb10454fc3a3dacb99dff89b568.webp

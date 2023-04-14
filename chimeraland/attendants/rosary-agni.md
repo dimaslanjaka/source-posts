@@ -2,8 +2,8 @@
 title: Attendant rosary agni
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-16T20:53:20+07:00
-date: 2023-02-16T20:42:20+07:00
+updated: 2023-02-16T23:53:20+07:00
+date: 2023-02-16T23:42:20+07:00
 permalink: /chimeraland/attendants/rosary-agni.html
 photos:
   - /chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-35-55-77_f4fc9fb10454fc3a3dacb99dff89b568.webp

@@ -2,8 +2,8 @@
 title: Attendant rhishi
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-18T14:09:01+07:00
-date: 2023-02-18T13:58:01+07:00
+updated: 2023-02-18T16:09:01+07:00
+date: 2023-02-18T15:58:01+07:00
 permalink: /chimeraland/attendants/rhishi.html
 photos:
   - /chimeraland/attendants/rhishi/Screenshot_2023-02-17-00-41-57-40_f4fc9fb10454fc3a3dacb99dff89b568.webp

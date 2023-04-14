@@ -2,8 +2,8 @@
 title: Monster child triceratops
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-03-10T19:30:18+07:00
-date: 2023-03-10T19:19:18+07:00
+updated: 2023-03-10T22:30:18+07:00
+date: 2023-03-10T22:19:18+07:00
 permalink: /chimeraland/monsters/child-triceratops.html
 photos:
   - /chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-28-39-83_f4fc9fb10454fc3a3dacb99dff89b568.webp

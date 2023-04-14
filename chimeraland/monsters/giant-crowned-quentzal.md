@@ -2,8 +2,8 @@
 title: Monster giant crowned quentzal
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-24T19:55:43+07:00
-date: 2023-02-24T19:44:43+07:00
+updated: 2023-02-25T03:55:43+07:00
+date: 2023-02-25T03:44:43+07:00
 permalink: /chimeraland/monsters/giant-crowned-quentzal.html
 photos:
   - /chimeraland/monsters/giant-crowned-quentzal/Screenshot_2023-02-23-18-35-29-15_f4fc9fb10454fc3a3dacb99dff89b568.webp

@@ -2,8 +2,8 @@
 title: Monster giant embergator
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-03-10T19:30:18+07:00
-date: 2023-03-10T19:19:18+07:00
+updated: 2023-03-11T00:30:18+07:00
+date: 2023-03-11T01:19:18+07:00
 permalink: /chimeraland/monsters/giant-embergator.html
 photos:
   - /chimeraland/monsters/giant-embergator/Screenshot_2023-02-25-00-52-27-75_f4fc9fb10454fc3a3dacb99dff89b568.webp

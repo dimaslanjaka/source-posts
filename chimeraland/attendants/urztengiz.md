@@ -2,8 +2,8 @@
 title: Attendant urztengiz
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-24T19:55:41+07:00
-date: 2023-02-24T19:44:41+07:00
+updated: 2023-02-24T21:55:41+07:00
+date: 2023-02-24T21:44:41+07:00
 permalink: /chimeraland/attendants/urztengiz.html
 photos:
   - /chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-45-53-25_f4fc9fb10454fc3a3dacb99dff89b568.webp

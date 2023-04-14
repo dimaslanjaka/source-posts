@@ -2,8 +2,8 @@
 title: Monster giant frost giradeer
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-24T19:55:43+07:00
-date: 2023-02-24T19:44:43+07:00
+updated: 2023-02-25T11:55:43+07:00
+date: 2023-02-25T11:44:43+07:00
 permalink: /chimeraland/monsters/giant-frost-giradeer.html
 photos:
   - /chimeraland/monsters/giant-frost-giradeer/Screenshot_2023-02-22-21-51-24-86_f4fc9fb10454fc3a3dacb99dff89b568.webp

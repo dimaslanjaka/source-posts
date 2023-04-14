@@ -2,8 +2,8 @@
 title: Monster lusterewt
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-11-25T20:28:54+07:00
-date: 2022-11-25T20:17:54+07:00
+updated: 2022-11-25T21:28:54+07:00
+date: 2022-11-25T21:17:54+07:00
 permalink: /chimeraland/monsters/lusterewt.html
 photos:
   - /chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp

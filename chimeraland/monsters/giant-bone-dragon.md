@@ -2,8 +2,8 @@
 title: Monster giant bone dragon
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-24T19:55:43+07:00
-date: 2023-02-24T19:44:43+07:00
+updated: 2023-02-25T01:55:43+07:00
+date: 2023-02-25T01:44:43+07:00
 permalink: /chimeraland/monsters/giant-bone-dragon.html
 photos:
   - /chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-23-36-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
