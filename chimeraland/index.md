@@ -1,10 +1,13 @@
 ---
 title: Chimeraland Unofficial Wikipedia
 date: 2022-09-10 12:13:30
-updated: 2022-09-10 12:13:30
+updated: 2023-04-14T15:57:10+07:00
 type: page
 permalink: /chimeraland/index.html
 ---
+
+## [Cooking Recipes](/chimeraland/recipes.html)
+All in one recipes
 
 ## [All about totem in chimeraland](/chimeraland/totem.html)
 ![All about totem in chimeraland](//via.placeholder.com/200x50/FFFFFF/000000/?text=All about totem in chimeraland)
