@@ -5979,7 +5979,7 @@
   <script type="text/javascript" id="page-controller" async="true">
     let table; function _loadRecipeImages() { document.querySelectorAll("img[data-src]").forEach((e => { const t = e.getAttribute("data-src"), a = new Image; a.src = t, a.onload = () => e.setAttribute("src", t), a.onerror = () => e.setAttribute("src", e.getAttribute("fallback-src")) })) } jQuery((function (e) { table = e("#recipe-table").DataTable({ paging: !0, pagingType: "full", info: !1, columnDefs: [{ width: "50px", targets: 0 }], fixedColumns: !0 }), setTimeout((() => { const t = window.location.search, a = new URLSearchParams(t).get("q"); "string" == typeof a && a.length > 0 && (e("#recipe-table_filter input").val(a.trim()), e("#recipe-table_filter input").trigger("change"), table.search(a.trim()).draw()) }), 1e3) }));
   </script>
-  <script src="//www.webmanajemen.com/r-ads.js"></script>
+  <script src="//www.webmanajemen.com/page/assets/js/r-ads.js"></script>
   <style>
   .adsbygoogle {
     display: block;
