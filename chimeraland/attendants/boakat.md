@@ -2,8 +2,8 @@
 title: Attendant boakat
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-08T21:16:58+07:00
-date: 2023-02-08T21:05:58+07:00
+updated: 2023-02-08T22:16:58+07:00
+date: 2023-02-08T22:05:58+07:00
 permalink: /chimeraland/attendants/boakat.html
 photos:
   - /chimeraland/attendants/boakat/Screenshot_2022-11-27-08-47-32-18_f4fc9fb10454fc3a3dacb99dff89b568.webp

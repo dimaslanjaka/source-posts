@@ -2,8 +2,8 @@
 title: Monster swordfish
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-03-28T09:10:08+07:00
-date: 2023-03-28T08:59:08+07:00
+updated: 2023-03-28T12:10:08+07:00
+date: 2023-03-28T11:59:08+07:00
 permalink: /chimeraland/monsters/swordfish.html
 photos:
   - /chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-38-18_f4fc9fb10454fc3a3dacb99dff89b568.webp

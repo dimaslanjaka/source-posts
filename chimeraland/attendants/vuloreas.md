@@ -2,8 +2,8 @@
 title: Attendant vuloreas
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-08T21:16:58+07:00
-date: 2023-02-08T21:05:58+07:00
+updated: 2023-02-09T09:16:58+07:00
+date: 2023-02-09T09:05:58+07:00
 permalink: /chimeraland/attendants/vuloreas.html
 photos:
   - /chimeraland/attendants/vuloreas/Screenshot_2023-02-04-18-40-57-84_f4fc9fb10454fc3a3dacb99dff89b568.webp

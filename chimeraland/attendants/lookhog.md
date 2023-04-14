@@ -2,8 +2,8 @@
 title: Attendant lookhog
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-13T12:32:50+07:00
-date: 2023-02-13T12:21:50+07:00
+updated: 2023-02-13T13:32:50+07:00
+date: 2023-02-13T13:21:50+07:00
 permalink: /chimeraland/attendants/lookhog.html
 photos:
   - /chimeraland/attendants/lookhog/Screenshot_2023-02-10-12-46-26-53_f4fc9fb10454fc3a3dacb99dff89b568.webp

@@ -2,8 +2,8 @@
 title: Attendant stellar agni
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-03-28T09:10:08+07:00
-date: 2023-03-28T08:59:08+07:00
+updated: 2023-03-28T10:10:08+07:00
+date: 2023-03-28T09:59:08+07:00
 permalink: /chimeraland/attendants/stellar-agni.html
 photos:
   - /chimeraland/attendants/stellar-agni/Screenshot_2023-03-09-23-11-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp

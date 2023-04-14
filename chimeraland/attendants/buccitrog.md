@@ -2,8 +2,8 @@
 title: Attendant buccitrog
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2022-11-25T20:35:17+07:00
-date: 2022-11-25T20:24:17+07:00
+updated: 2022-11-25T21:35:17+07:00
+date: 2022-11-25T21:24:17+07:00
 permalink: /chimeraland/attendants/buccitrog.html
 photos:
   - /chimeraland/attendants/buccitrog/Screenshot_2022-11-15-23-45-51-31_f4fc9fb10454fc3a3dacb99dff89b568.webp

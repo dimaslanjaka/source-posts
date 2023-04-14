@@ -2,8 +2,8 @@
 title: Monster giant nian
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-24T19:55:43+07:00
-date: 2023-02-24T19:44:43+07:00
+updated: 2023-02-25T12:55:43+07:00
+date: 2023-02-25T12:44:43+07:00
 permalink: /chimeraland/monsters/giant-nian.html
 photos:
   - /chimeraland/monsters/giant-nian/Screenshot_2023-02-22-14-21-08-74_f4fc9fb10454fc3a3dacb99dff89b568.webp

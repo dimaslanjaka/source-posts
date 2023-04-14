@@ -2,8 +2,8 @@
 title: Attendant shakuna
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-13T12:32:50+07:00
-date: 2023-02-13T12:21:50+07:00
+updated: 2023-02-13T14:32:50+07:00
+date: 2023-02-13T14:21:50+07:00
 permalink: /chimeraland/attendants/shakuna.html
 photos:
   - /chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-18-43-45_f4fc9fb10454fc3a3dacb99dff89b568.webp

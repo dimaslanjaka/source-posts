@@ -2,8 +2,8 @@
 title: Monster giant starefish
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-03-10T19:30:18+07:00
-date: 2023-03-10T19:19:18+07:00
+updated: 2023-03-11T07:30:18+07:00
+date: 2023-03-11T08:19:18+07:00
 permalink: /chimeraland/monsters/giant-starefish.html
 photos:
   - /chimeraland/monsters/giant-starefish/Screenshot_2023-03-02-05-14-12-80_f4fc9fb10454fc3a3dacb99dff89b568.webp

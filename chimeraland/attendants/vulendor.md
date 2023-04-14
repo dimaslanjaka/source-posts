@@ -2,8 +2,8 @@
 title: Attendant vulendor
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-08T21:16:58+07:00
-date: 2023-02-08T21:05:58+07:00
+updated: 2023-02-09T08:16:58+07:00
+date: 2023-02-09T08:05:58+07:00
 permalink: /chimeraland/attendants/vulendor.html
 photos:
   - /chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-29-91_f4fc9fb10454fc3a3dacb99dff89b568.webp

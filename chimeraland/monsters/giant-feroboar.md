@@ -2,8 +2,8 @@
 title: Monster giant feroboar
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-24T19:55:43+07:00
-date: 2023-02-24T19:44:43+07:00
+updated: 2023-02-25T04:55:43+07:00
+date: 2023-02-25T04:44:43+07:00
 permalink: /chimeraland/monsters/giant-feroboar.html
 photos:
   - /chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-03-39-20_f4fc9fb10454fc3a3dacb99dff89b568.webp

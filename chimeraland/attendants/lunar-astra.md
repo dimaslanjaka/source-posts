@@ -2,8 +2,8 @@
 title: Attendant lunar astra
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-03-10T19:30:17+07:00
-date: 2023-03-10T19:19:17+07:00
+updated: 2023-03-11T01:30:17+07:00
+date: 2023-03-11T01:19:17+07:00
 permalink: /chimeraland/attendants/lunar-astra.html
 photos:
   - /chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-06-22_f4fc9fb10454fc3a3dacb99dff89b568.webp

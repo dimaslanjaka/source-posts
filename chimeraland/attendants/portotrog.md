@@ -2,8 +2,8 @@
 title: Attendant portotrog
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-18T14:09:01+07:00
-date: 2023-02-18T13:58:01+07:00
+updated: 2023-02-18T15:09:01+07:00
+date: 2023-02-18T14:58:01+07:00
 permalink: /chimeraland/attendants/portotrog.html
 photos:
   - /chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-19-56-20_f4fc9fb10454fc3a3dacb99dff89b568.webp

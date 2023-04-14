@@ -2,8 +2,8 @@
 title: Attendant urseydis
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-03-10T19:30:17+07:00
-date: 2023-03-10T19:19:17+07:00
+updated: 2023-03-11T08:30:17+07:00
+date: 2023-03-11T08:19:17+07:00
 permalink: /chimeraland/attendants/urseydis.html
 photos:
   - /chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-56-59-52_f4fc9fb10454fc3a3dacb99dff89b568.webp

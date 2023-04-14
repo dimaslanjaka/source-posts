@@ -2,8 +2,8 @@
 title: Attendant vuloberg
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-16T20:53:20+07:00
-date: 2023-02-16T20:42:20+07:00
+updated: 2023-02-17T01:53:20+07:00
+date: 2023-02-17T01:42:20+07:00
 permalink: /chimeraland/attendants/vuloberg.html
 photos:
   - /chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-29-11_f4fc9fb10454fc3a3dacb99dff89b568.webp

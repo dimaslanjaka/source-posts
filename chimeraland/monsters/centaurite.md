@@ -2,8 +2,8 @@
 title: Monster centaurite
 webtitle: Chimeraland
 author: L3n4r0x
-updated: 2023-02-24T19:55:43+07:00
-date: 2023-02-24T19:44:43+07:00
+updated: 2023-02-24T20:55:43+07:00
+date: 2023-02-24T20:44:43+07:00
 permalink: /chimeraland/monsters/centaurite.html
 photos:
   - /chimeraland/monsters/centaurite/Screenshot_2023-02-22-15-41-06-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
