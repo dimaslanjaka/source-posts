@@ -60,16 +60,14 @@ Presenting Macros in BlueStacks (for variants 4.140 or higher). Record an arrang
 
 - [Download Auto target monsters](Macros/auto%20target.json)
 
-### How to import the macros script into bluestacks
+## How to import the macros script into bluestacks
 
+### _Click Macros On Bluestacks_
 ![Click Macros On Bluestacks](https://user-images.githubusercontent.com/12471057/132939380-d9fbf1d7-2cb1-469a-a29b-cf3f1c33084f.png)
-_Click Macros On Bluestacks_
-
+### _Click Import_
 ![Click Import](https://user-images.githubusercontent.com/12471057/132939401-b1a36399-2d91-46bd-82f9-78cb8e65c985.png)
-_Click Import_
-
+### _Select JSON macros script then import_
 ![Select JSON macros script](https://user-images.githubusercontent.com/12471057/132939413-53a2940a-d018-4b04-963c-9968abd6304c.png)
-_Select JSON macros script then import_
-
+### _Import successful_
 ![image](https://user-images.githubusercontent.com/12471057/132939502-c9bb6e0c-284b-47a9-84b5-8863af2266f5.png)
-_Import successful_
+
