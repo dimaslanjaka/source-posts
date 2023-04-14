@@ -43,27 +43,22 @@ Presenting Macros in BlueStacks (for variants 4.140 or higher). Record an arrang
 </div>
 <div style="clear:both;"></div>
 
-<table class="table table-responsive">
-  <tr>
-    <td rowspan="2">Auto Farming Materials</td>
-    <td><a href="Macros/auto%20action%20%5Bn%5D.json">Download (normal mode)</a></td>
-  </tr>
-  <tr>
-    <td><a href="Macros/auto%20action%20%5Bu1%5D.json">Download (unlimited mode)</a></td>
-  </tr>
-  <tr>
-    <td>Auto accept Trial Of Time Captain Invitation</td>
-    <td><a href="Macros/auto%20acc%20tt.json">Download</a></td>
-  </tr>
-  <tr>
-    <td>Auto Claim Abyss Rewards</td>
-    <td><a href="Macros/auto%20claim%20abyss.json">Download</a></td>
-  </tr>
-  <tr>
-    <td>Auto target monsters</td>
-    <td><a href="Macros/auto%20target.json">Download</a></td>
-  </tr>
-</table>
+### Auto Farming Materials
+
+- [Download Auto Farming Materials (normal mode)](Macros/auto%20action%20%5Bn%5D.json)
+- [Download Auto Farming Materials (unlimited mode)](Macros/auto%20action%20%5Bu1%5D.json)
+
+### Auto accept Trial Of Time Captain Invitation
+
+- [Download Auto accept Trial Of Time Captain Invitation](Macros/auto%20acc%20tt.json)
+
+### Auto Claim Abyss Rewards
+
+[Download Auto Claim Abyss Rewards](Macros/auto%20claim%20abyss.json)
+
+### Auto target monsters
+
+- [Download Auto target monsters](Macros/auto%20target.json)
 
 ### How to import the macros script into bluestacks
 
