@@ -1,27 +1,14 @@
 import { JSDOM } from 'jsdom';
 import moment from 'moment-timezone';
-import path, { dirname, join } from 'path';
-import puppeteer from 'puppeteer';
 import { md5, writefile } from 'sbg-utility';
+import path from 'upath';
 import { fileURLToPath } from 'url';
+import { browse } from './puppeter';
 
 const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+const __dirname = path.dirname(__filename);
 
-get('https://stackoverflow.com/questions/23075748/how-to-compile-typescript-code-in-the-browser').then(parse);
-
-export async function get(url: string) {
-  const browser = await puppeteer.launch({ headless: true });
-  const page = await browser.newPage();
-  await page.goto(url, { waitUntil: 'networkidle0' });
-  //await page.waitForSelector('title');
-  const html = await page.content();
-  const file = join(process.cwd(), 'tmp/html/' + md5(url) + '.html');
-  await writefile(file, html, { async: true })
-    .catch(console.trace)
-    .finally(() => browser.close());
-  return { html, file, url };
-}
+browse('https://stackoverflow.com/questions/23075748/how-to-compile-typescript-code-in-the-browser').then(parse);
 
 function parse(o: { html: string; url: string }) {
   const dom = new JSDOM(o.html, { contentType: 'text/html' });
@@ -73,6 +60,10 @@ ${result.question}
     markdown += str;
   });
 
+  const filename = path.basename(new URL(o.url).pathname);
+  const folderpath = result.created.format('YYYY') + '/' + result.created.format('MM');
+  const filepath = path.join(folderpath, filename);
+  console.log(filepath);
   writefile(path.join(process.cwd(), 'tmp/markdown', md5(o.url) + '.md'), markdown);
 
   window.close();
