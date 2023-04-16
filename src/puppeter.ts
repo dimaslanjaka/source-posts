@@ -1,8 +1,9 @@
-import puppeteer from 'puppeteer';
+import puppeteer, { PuppeteerLaunchOptions } from 'puppeteer';
 import { md5, persistentCache, writefile } from 'sbg-utility';
 import path from 'upath';
+import { puppeteerOpt } from './puppeteerOpt';
 
-export async function browse(url: string) {
+export async function browse(url: string, options?: PuppeteerLaunchOptions) {
   const cache = new persistentCache({ base: 'tmp', name: new URL(url).hostname });
   const key = md5(url);
   let html = '',
@@ -10,7 +11,7 @@ export async function browse(url: string) {
   const cached = await cache.get(key, { html, file, url });
   if (cached.html.length > 0) return cached;
 
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch(Object.assign({ headless: true }, puppeteerOpt, options || {}));
   const page = await browser.newPage();
   await page.goto(url, { waitUntil: 'networkidle0' });
   //await page.waitForSelector('title');
