@@ -58,13 +58,13 @@ All in one recipes
 
 ![Lokasi Spawn Bunga Di Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Lokasi+Spawn+Bunga+Di+Chimeraland)
 
-## [cara reclaim draka gift Chimeraland](/chimeraland/cara-reclaim-draka-gift.html)
-
-![cara reclaim draka gift Chimeraland](https://user-images.githubusercontent.com/12471057/172972505-68674e18-9ef3-411b-b6ea-9149e32c6456.png)
-
 ## [Cara teleport ke war banner chimeraland 2.0](/chimeraland/cara-teleport-war-banner-chimeraland-2-0.html)
 
 ![Cara teleport ke war banner chimeraland 2.0](/chimeraland/cara-teleport-war-banner-chimeraland-2-0/teleport-war-banner-chimera-2-0.jpg)
+
+## [cara reclaim draka gift Chimeraland](/chimeraland/cara-reclaim-draka-gift.html)
+
+![cara reclaim draka gift Chimeraland](https://user-images.githubusercontent.com/12471057/172972505-68674e18-9ef3-411b-b6ea-9149e32c6456.png)
 
 ## [Cara grinding skill pet dengan cepat](/chimeraland/cara-grinding-skill-pet-dengan-cepat.html)
 
