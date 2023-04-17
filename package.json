@@ -31,7 +31,7 @@
     "@types/jsdom": "^21",
     "@types/node": "^18.15.11",
     "@types/through2": "https://github.com/dimaslanjaka/nodejs-package-types/tarball/through2",
-    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/eslint-plugin": "^5.58.0",
     "@typescript-eslint/parser": "^5.57.1",
     "chokidar": "^3.5.3",
     "dotenv": "^16.0.3",
