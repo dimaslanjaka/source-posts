@@ -45,8 +45,7 @@ Kali ini saya akan share bagaimana cara mempercepat lagi loading
 
 1. Buka dashboard <i class="fa fa-blogger"></i> <b>Blogger</b>.
 2. Klik tab <i>Layout</i> --&gt; klik <b>Edit HTML</b>.
-3. Kemudian, taruh kode dibawah ini dibawah <mark>&lt;head&gt;</mark> atau diatas
-<mark>&lt;/head&gt;</mark>.
+3. Kemudian, taruh kode dibawah ini dibawah `<head>` atau diatas `</head>`.
 
 ```html
 <link rel="dns-prefetch" href="https://cdn.ampproject.org"/>
