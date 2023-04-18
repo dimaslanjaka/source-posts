@@ -16,7 +16,8 @@
     "editor.formatOnPaste": false
   },
   "emmet.includeLanguages": {
-    "md": "html"
+    "md": "html",
+    "njk": "html"
   },
   "terminal.integrated.env.windows": {
     "PATH": "${env:PATH};${workspaceFolder}\\bin;${workspaceFolder}\\node_modules\\.bin"
@@ -31,9 +32,16 @@
     "**/.cache/**": true,
     "**/dist/**": true
   },
+  "code-runner.executorMapByGlob": {
+    "electron-*.ts": "cross-env-shell NODE_ENV=development electron -r ts-node/register"
+  },
+  "code-runner.respectShebang": true,
   "code-runner.executorMap": {
     "javascript": "node -r dotenv/config",
     "typescript": "ts-node -r dotenv/config"
   },
-  "code-runner.saveFileBeforeRun": true
+  "code-runner.saveFileBeforeRun": true,
+  "nunjucksTemplate.preserveEmptyLine": 3,
+  "npm.packageManager": "yarn",
+  "eslint.packageManager": "yarn"
 }

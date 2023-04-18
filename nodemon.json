@@ -1,15 +1,10 @@
 {
   "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/nodemon.json",
-  "exec": "npm-run-all -s copy server",
+  "exec": "yarn start",
   "watch": [
-    "./**/*.md"
+    "./src/**/*"
   ],
   "ignore": [
-    "*.test.js",
-    "*.test.ts",
-    ".gitignore",
-    "__*__/*",
-    "__*__/*.js",
     "**/node_modules/**",
     "**/dist/**",
     "**/public/**",
@@ -19,6 +14,6 @@
     "**/.vscode/**"
   ],
   "delay": 3000,
-  "ext": "md,js",
-  "verbose": true
+  "ext": "*",
+  "verbose": false
 }
