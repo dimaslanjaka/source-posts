@@ -6,7 +6,6 @@ author:
 category:
   - Programming
   - HTML
-comments: true
 date: 2017-04-30T01:34:00+07:00
 lang: id
 tags:
