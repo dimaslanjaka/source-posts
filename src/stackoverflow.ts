@@ -3,7 +3,7 @@ import moment from 'moment-timezone';
 import { md5, writefile } from 'sbg-utility';
 import path from 'upath';
 import { fileURLToPath } from 'url';
-import { browse } from './puppeter';
+import { browse } from './browse';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);

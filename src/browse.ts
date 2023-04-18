@@ -11,7 +11,7 @@ export async function browse(url: string, options?: PuppeteerLaunchOptions) {
   const cached = await cache.get(key, { html, file, url });
   if (cached.html.length > 0) return cached;
 
-  const browser = await puppeteer.launch(Object.assign({ headless: true }, puppeteerOpt, options || {}));
+  const browser = await puppeteer.launch(Object.assign(puppeteerOpt, { headless: true }, options || {}));
   const page = await browser.newPage();
   await page.goto(url, { waitUntil: 'networkidle0' });
   //await page.waitForSelector('title');

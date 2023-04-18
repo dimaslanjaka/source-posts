@@ -11,7 +11,7 @@
     "./package.json": "./package.json"
   },
   "scripts": {
-    "start": "ts-node -r dotenv/config src/translate.ts",
+    "start": "node --loader ts-node/esm -r dotenv/config src/translate.ts",
     "postinstall": "node postinstall.cjs --yarn",
     "update:postinstall": "curl -L https://github.com/dimaslanjaka/nodejs-package-types/raw/main/postinstall.js > postinstall.cjs",
     "update:ncu": "npx npm-check-updates -u",

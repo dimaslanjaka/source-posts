@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/nodemon.json",
-  "exec": "yarn start",
+  "exec": "yarn run start",
   "watch": [
     "./src/**/*"
   ],
@@ -11,7 +11,8 @@
     "**/tmp/**",
     "**/temp/**",
     "**/vendor/**",
-    "**/.vscode/**"
+    "**/.vscode/**",
+    "package.json"
   ],
   "delay": 3000,
   "ext": "*",
