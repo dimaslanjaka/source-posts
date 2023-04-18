@@ -57,7 +57,7 @@
     "hexo-util": "^3.0.1",
     "jsdom": "^21.1.1",
     "moment-timezone": "^0.5.43",
-    "puppeteer": "^19.8.5",
+    "puppeteer": "^19.9.0",
     "sbg-utility": "^1.0.8",
     "upath": "^2.0.1"
   },
