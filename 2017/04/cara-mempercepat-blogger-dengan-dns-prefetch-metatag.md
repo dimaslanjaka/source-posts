@@ -15,7 +15,7 @@ tags:
 title: Cara Mempercepat Blogger Dengan dns-prefetch metatag
 type: post
 uuid: 5289e74a-6ef9-4888-8f2e-f29add41b8b5
-updated: 2022-10-13T05:32:49+07:00
+updated: 2023-04-18T08:41:35+07:00
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0Jbr1UikPXCMcKYhYI8In9l8ajc_-DJiJInkoPOmc0t4Vi3zz
 description: Bagaimana Cara mempercepat loading blogger AMP maupun NON AMP.
   Langkah awal mempercepat loading <b>AMP Blogger</b> maupun
