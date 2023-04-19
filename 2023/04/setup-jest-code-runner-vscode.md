@@ -1,7 +1,7 @@
 ---
 title: How to setup jest typescript and code runner in vscode
 date: 2023-04-19T13:41:48+07:00
-updated: 2023-04-19T13:41:48+07:00
+updated: 2023-04-19T13:58:47+07:00
 categories: [programming]
 tags: [vscode, guide]
 ---
