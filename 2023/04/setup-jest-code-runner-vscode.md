@@ -1,7 +1,7 @@
 ---
 title: How to setup jest typescript and code runner in vscode
 date: 2023-04-19T13:41:48+07:00
-updated: 2023-04-20T14:16:48+07:00
+updated: 2023-04-20T14:23:49+07:00
 categories: [programming]
 tags: [vscode, guide]
 ---
@@ -150,6 +150,8 @@ export default config;
 create typescript config for jest in root of project folder, change typescript config for jest below as you wish:
 ```jsonc
 {
+  // custom schema (non-vscode environment)
+  "$schema": "https://json.schemastore.org/tsconfig",
   // extends other typescript config file
   "extends": "./tsconfig.json",
   "compilerOptions": {
