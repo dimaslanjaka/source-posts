@@ -1,10 +1,11 @@
 ---
 title: Chimeraland Unofficial Wikipedia
 date: 2022-09-10 12:13:30
-updated: 2023-04-18T00:00:28+07:00
-type: page
-layout: page
+updated: 2023-04-20T13:26:16+07:00
+tags: [chimeraland]
+categories: [games, chimeraland]
 permalink: /chimeraland/index.html
+thumbnail: https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_1.jpg
 ---
 
 ## [Cooking Recipes](/chimeraland/recipes.html)
@@ -97,4 +98,8 @@ All in one recipes
 ## [Chimeraland Pets Attribute Stats Information](/chimeraland/Pets.html)
 
 ![Chimeraland Pets Attribute Stats Information](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Chimeraland+Pets+Attribute+Stats+Information)
+
+## [Bug Report Chimeraland v2.0.2.117](/chimeraland/report/bug-report-v202117.html)
+
+![Bug Report Chimeraland v2.0.2.117](https://rawcdn.githack.com/DXHeroes/knowledge-base-content/c3b5acb81a5769197701b736aa5bb7648548382d/files/bug_reporting.png)
 
