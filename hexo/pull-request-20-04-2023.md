@@ -5,4 +5,6 @@ tags: [javascript, hexo]
 categories: [programming, javascript]
 ---
 
-![image](https://user-images.githubusercontent.com/12471057/233403167-8af620fc-aa8b-48a1-98e8-a6655fd4e59a.png)
+### Dump Result
+![Dump Result](https://user-images.githubusercontent.com/12471057/233403562-6ae7ed96-acab-4466-a5e9-40d64b6745e6.png)
+
