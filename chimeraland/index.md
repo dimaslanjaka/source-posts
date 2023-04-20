@@ -53,7 +53,7 @@ All in one recipes
 
 ## [Chimeraland Unofficial Wikipedia](/chimeraland/index.html)
 
-![Chimeraland Unofficial Wikipedia](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Chimeraland+Unofficial+Wikipedia)
+![Chimeraland Unofficial Wikipedia](https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_1.jpg)
 
 ## [Lokasi Spawn Bunga Di Chimeraland](/chimeraland/flower-locations.html)
 
