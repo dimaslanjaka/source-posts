@@ -7,4 +7,5 @@ categories: [programming, javascript]
 
 ### Dump Result
 ![Dump Result](https://user-images.githubusercontent.com/12471057/233403562-6ae7ed96-acab-4466-a5e9-40d64b6745e6.png)
+![Dump Result - Windows](https://user-images.githubusercontent.com/12471057/233403973-baae400a-5e4b-48ef-ae8e-6361b52f871f.png)
 
