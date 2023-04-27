@@ -14,7 +14,7 @@ categories:
 comments: true
 cover: /GitHub/workflows/cover.png
 date: 2021-11-23T02:00:00+07:00
-updated: 2023-04-27T08:52:40.028Z
+updated: 2023-04-27T09:06:08.561Z
 keywords:
   - GitHub
   - workflows
@@ -103,4 +103,39 @@ jobs:
           echo "jumlah file yang termodifikasi adalah ${{ steps.changes.outputs.cached }}"
 ```
 
+### Menghitung jumlah commits yang belum dipush
+Untuk mengihitung jumlah commit yang belum dipush, dapat menggunakan perintah dasar `git diff` juga. Contohnya sebagai berikut:
+
+```bash
+git diff origin/master..HEAD --numstat | wc -l
+```
+
+Untuk penggunaan dalam Github Actions (CI) contohnya sebagai berikut:
+
+```bash
+git diff origin/${GITHUB_REF#refs/heads/}..HEAD --numstat | wc -l
+```
+
+`GITHUB_REF#refs/heads/` berguna untuk mendapatkan branch yang saat ini dijalankan.
+
+### Snippet lainnya sebagai berikut
+
+#### Get current SHA short hash
+bash
+```bash
+echo $GITHUB_SHA | cut -c 1-6
+```
+Github CI Yaml output env
+```yaml
+echo "GITHUB_SHA_SHORT=$(echo $GITHUB_SHA | cut -c 1-6)" >> $GITHUB_ENV
+```
+Github CI Yaml output steps
+```yaml
+echo "GITHUB_SHA_SHORT=$(echo $GITHUB_SHA | cut -c 1-6)" >> $GITHUB_OUTPUT
+```
+
+## Tentang artikel ini
+
 Artikel ini untuk mempermudah visitor untuk memahami github workflow.
+
+Contoh FULL Github CI https://github.com/dimaslanjaka/static-blog-generator/blob/e8ef351552d57c5e28e016e39e78fef139a8e7b2/.github/workflows/build-beta.yml
