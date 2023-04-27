@@ -1,12 +1,18 @@
 ---
 title: Conventional Commit Messages
 date: 2023-04-24T23:19:05+07:00
-updated: 2023-04-24T23:19:05+07:00
-tags: [github]
-categories: [programming, shell, bash, cmd]
+updated: 2023-04-27T08:47:14.264Z
+tags:
+  - github
+categories:
+  - programming
+  - shell
+  - bash
+  - cmd
+description: Github Conventional Commit Messages
 ---
 
-# Conventional Commit Messages 
+# Conventional Commit Messages
 See how a small change in the style of your commit message can make a difference. [Examples](#examples)
 
 **Have a look at CLI util [git-conventional-commits](https://github.com/qoomon/git-conventional-commits) to ensure this conventions and generate changelogs**
@@ -77,13 +83,13 @@ The `footer` should contain any information about **Breaking Changes** and is al
   ```
 * ```
   feat: remove ticket list endpoint
-  
+
   refers to JIRA-1337
   BREAKING CHANGES: ticket enpoints no longer supports list all entites.
   ```
 * ```
   fix: add missing parameter to service call
-  
+
   The error occurred because of <reasons>.
   ```
 * ```
@@ -98,24 +104,24 @@ The `footer` should contain any information about **Breaking Changes** and is al
 * ```
   style: remove empty line
   ```
-  
-  
+
+
 ## Git Hook Scripts to ensure commit message header format
 
 ### commit-msg Hook (local)
 * create following file in your local repository folder`.git-hooks/commit-msg`
   ```shell
   #!/usr/bin/env sh
-  
+
   commit_message="$1"
   # exit with a non zero exit code incase of an invalid commit message
-  
+
   # use git-conventional-commits, see https://github.com/qoomon/git-conventional-commits
   git-conventional-commits commit-msg-hook "$commit_message"
-  
+
   # or verify $commit_message with your own tooling
   # ...
-  
+
   ```
 * ⚠ make `.git-hooks/commit-msg` executable (unix: `chmod +x '.git-hooks/commit-msg'`)
 * set git hook directory to `.githooks`  `git config core.hooksPath '.git-hooks'`
@@ -177,6 +183,6 @@ The `footer` should contain any information about **Breaking Changes** and is al
 * http://karma-runner.github.io/1.0/dev/git-commit-msg.html
 <br>
 
-* https://github.com/github/platform-samples/tree/master/pre-receive-hooks  
+* https://github.com/github/platform-samples/tree/master/pre-receive-hooks
 * https://github.community/t5/GitHub-Enterprise-Best-Practices/Using-pre-receive-hooks-in-GitHub-Enterprise/ba-p/13863
 
