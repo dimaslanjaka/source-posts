@@ -1,7 +1,7 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.content.autoUpdateDate": false,
-  "frontMatter.preview.host": "",
+  "frontMatter.preview.host": "http://localhost:4000",
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
@@ -25,8 +25,8 @@
           "isPublishDate": true
         },
         {
-          "title": "Content preview",
-          "name": "preview",
+          "title": "Thumbnail",
+          "name": "thumbnail",
           "type": "image"
         },
         {
@@ -52,11 +52,60 @@
           "isModifiedDate": true
         },
         {
-          "title": "webtitle",
-          "name": "webtitle",
-          "type": "string"
+          "title": "uuid",
+          "name": "uuid",
+          "type": "string",
+          "editable": false
+        },
+        {
+          "name": "permalink",
+          "editable": true,
+          "type": "slug"
         }
       ]
     }
+  ],
+  "frontMatter.framework.id": "hexo",
+  "frontMatter.content.publicFolder": "source/images",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "04",
+      "path": "[[workspace]]/2023/04"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [
+    "Adsense",
+    "Android",
+    "Blogger",
+    "Blogging",
+    "CSS",
+    "Durango",
+    "Facebook",
+    "Games",
+    "HTML",
+    "JS",
+    "Miscellaneous",
+    "PHP",
+    "SEO",
+    "Social Media",
+    "Tips & Tricks",
+    "Tools",
+    "VainGlory",
+    "Wordpress",
+    "bash",
+    "batch",
+    "cmd",
+    "github",
+    "guide",
+    "powershell",
+    "script",
+    "vscode"
+  ],
+  "frontMatter.taxonomy.categories": [
+    "bash",
+    "cmd",
+    "github",
+    "programming",
+    "shell"
   ]
 }
