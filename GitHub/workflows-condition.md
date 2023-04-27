@@ -14,11 +14,11 @@ categories:
 comments: true
 cover: /GitHub/workflows/cover.png
 date: 2021-11-23T02:00:00+07:00
-updated: 2023-04-27T08:38:33.975Z
+updated: 2023-04-27T08:52:40.028Z
 keywords:
   - GitHub
   - workflows
-  - yml
+  - yaml
 lang: id
 location: Indonesia
 title: Macam-macam kondisional pada github workflows
@@ -29,9 +29,10 @@ thumbnail: /GitHub/workflows/cover.png
 description: Macam-macam kondisional pada github workflows
 ---
 
-# Kondisional pada GitHub Workflow
+## Kondisional pada GitHub Workflow
 Kondisional-kondisional yang ada di Github Workflow. Kondisional ini berguna untuk memicu job step dengan kasus-kasus tertentu. [source](https://docs.github.com/en/actions/learn-github-actions/expressions) Misalnya:
-## Menjalankan command apabila repository di push dengan commit yang memiliki substring tertentu (match substring from github commit messages)
+
+### Menjalankan command apabila repository di push dengan commit yang memiliki substring tertentu (match substring from github commit messages)
 ```yaml
 jobs:
   build:
@@ -46,7 +47,7 @@ selain `contains` untuk mencari sebuah substring pada string. Adapun fungsi'' la
 - `startsWith` untuk memeriksa apakah string memiliki **awalan** tertentu (penggunaannya sama seperti contoh kode diatas)
 - `endsWith` untuk memeriksa apakah string memiliki **akhiran** tertentu (penggunaannya sama seperti contoh kode diatas)
 
-## Melanjutkan steps meskipun command gagal (continue on error)
+### Melanjutkan steps meskipun command gagal (continue on error)
 ```yaml
 jobs:
   build:
@@ -59,7 +60,7 @@ jobs:
       - run: echo "git commit any"
 ```
 
-## Mengitung jumlah file yang termodifikasi
+### Mengitung jumlah file yang termodifikasi
 Menghitung berapa jumlah file yang termodifikasi (uncommited files) pada github. Lalu bagaimana cara mengintegrasikannya kedalam github CI? berikut ulasannya:
 
 perintah dasar menggunakan `git diff` sebagai berikut:
@@ -68,7 +69,7 @@ perintah dasar menggunakan `git diff` sebagai berikut:
 git diff --cached --numstat | wc -l
 ```
 
-### Github CI - Mengitung jumlah file yang termodifikasi langsung di dalam `run`
+#### Github CI - Mengitung jumlah file yang termodifikasi langsung di dalam `run`
 Contoh konfigurasi github CI langsung di dalam `run`
 
 ```yaml
@@ -83,7 +84,7 @@ jobs:
           echo "jumlah file yang termodifikasi adalah ${cached}"
 ```
 
-### Github CI - Mengitung jumlah file yang termodifikasi ke dalam output steps
+#### Github CI - Mengitung jumlah file yang termodifikasi ke dalam output steps
 Contoh konfigurasi github CI ke dalam output steps
 
 ```yaml
