@@ -61,6 +61,15 @@
           "name": "permalink",
           "editable": true,
           "type": "slug"
+        },
+        {
+          "title": "Author",
+          "name": "author",
+          "type": "divider"
+        },
+        {
+          "name": "slug",
+          "required": false
         }
       ]
     }
