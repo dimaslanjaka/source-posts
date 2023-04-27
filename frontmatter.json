@@ -78,7 +78,11 @@
   "frontMatter.content.publicFolder": "source/images",
   "frontMatter.content.pageFolders": [
     {
-      "title": "04",
+      "title": "2023/03",
+      "path": "[[workspace]]/2023/03"
+    },
+    {
+      "title": "2023/04",
       "path": "[[workspace]]/2023/04"
     }
   ],
@@ -116,5 +120,6 @@
     "github",
     "programming",
     "shell"
-  ]
+  ],
+  "frontMatter.site.baseURL": "https://www.webmanajemen.com/"
 }
