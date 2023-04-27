@@ -2,11 +2,12 @@
 author:
   nick: Dimas Lanjaka
   link: https://github.com/dimaslanjaka
-tags: ['github-workflows', 'snippet', 'yaml', 'github-actions']
-categories: ['programming', 'github']
+tags: ['github-workflows', 'snippet', 'yaml', 'github-actions', 'github']
+categories: ['programming', 'bash']
 comments: true
 cover: /GitHub/workflows/cover.png
 date: 2021-11-23T02:00:00+07:00
+updated: 2023-04-27T15:32:30+07:00
 keywords:
   - GitHub
   - workflows
@@ -18,10 +19,7 @@ title: GitHub Workflow Conditions
 type: post
 uuid: f4c6a18d-2377-4888-8330-9223d5f34263
 webtitle: WMI GitHub
-updated: 2023-01-03T01:03:19+07:00
 thumbnail: /GitHub/workflows/cover.png
-photos:
-  - /GitHub/workflows/cover.png
 description: Macam-macam kondisional pada GitHub Workflows
 ---
 
@@ -41,6 +39,7 @@ jobs:
 selain `contains` untuk mencari sebuah substring pada string. Adapun fungsi'' lain seperti:
 - `startsWith` untuk memeriksa apakah string memiliki **awalan** tertentu (penggunaannya sama seperti contoh kode diatas)
 - `endsWith` untuk memeriksa apakah string memiliki **akhiran** tertentu (penggunaannya sama seperti contoh kode diatas)
+
 ## Melanjutkan steps meskipun command gagal (continue on error)
 ```yaml
 jobs:
@@ -52,6 +51,49 @@ jobs:
         continue-on-error: true # namun dengan ini tidak akan membuat workflow berhenti
         id: custom-id # membuat id khusus (opsional)
       - run: echo "git commit any"
+```
+
+## Mengitung jumlah file yang termodifikasi
+Menghitung berapa jumlah file yang termodifikasi (uncommited files) pada github. Lalu bagaimana cara mengintegrasikannya kedalam github CI? berikut ulasannya:
+
+perintah dasar menggunakan `git diff` sebagai berikut:
+
+```bash
+git diff --cached --numstat | wc -l
+```
+
+### Github CI - Mengitung jumlah file yang termodifikasi langsung di dalam `run`
+Contoh konfigurasi github CI langsung di dalam `run`
+
+```yaml
+jobs:
+  build:
+    name: Mengitung jumlah file yang termodifikasi ke dalam output steps
+    runs-on: ubuntu-latest
+    steps:
+      - shell: bash
+        run: |
+          cached=$(git diff --cached --numstat | wc -l)
+          echo "jumlah file yang termodifikasi adalah ${cached}"
+```
+
+### Github CI - Mengitung jumlah file yang termodifikasi ke dalam output steps
+Contoh konfigurasi github CI ke dalam output steps
+
+```yaml
+jobs:
+  build:
+    name: Mengitung jumlah file yang termodifikasi ke dalam output steps
+    runs-on: ubuntu-latest
+    steps:
+      - shell: bash
+        run: |
+          echo "cached=$(git diff --cached --numstat | wc -l)" >> $GITHUB_OUTPUT
+        name: what changes
+        id: changes
+      - shell: bash
+        run: |
+          echo "jumlah file yang termodifikasi adalah ${{ steps.changes.outputs.cached }}"
 ```
 
 Artikel ini untuk mempermudah visitor untuk memahami github workflow.
