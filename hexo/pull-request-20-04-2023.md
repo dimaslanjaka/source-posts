@@ -3,6 +3,8 @@ title: Hexo pull request 20-04-2023
 description: Hexo pull request 20-04-2023
 tags: [javascript, hexo]
 categories: [programming, javascript]
+date: 20-04-2023
+updated: 20-04-2023
 ---
 
 ### Dump Result
