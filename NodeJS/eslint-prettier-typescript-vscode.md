@@ -29,22 +29,22 @@ title: Eslint Prettier In Typescript Project Using Vscode
 type: post
 uuid: 3f6ada3c-0ed8-4888-87c8-3371f8927a2c
 webtitle: NodeJS
-updated: 2023-01-04T04:34:46+07:00
+updated: 2023-05-02T18:48:39+07:00
 ---
 
 ## Auto Lint And Format Typescript Using VSCode With Eslint And Prettier
 
 Updated january 2023, suitable with VSCode and ESLint VSCode Plugin as below informations
 ```log
-Version: 1.73.1 (user setup)
-Commit: 6261075646f055b99068d3688932416f2346dd3b
-Date: 2022-11-09T04:27:29.066Z
-Electron: 19.0.17
-Chromium: 102.0.5005.167
+Version: 1.77.3 (user setup)
+Commit: 704ed70d4fd1c6bd6342c436f1ede30d1cff4710
+Date: 2023-04-12T09:16:02.548Z
+Electron: 19.1.11
+Chromium: 102.0.5005.196
 Node.js: 16.14.2
-V8: 10.2.154.15-electron.0
+V8: 10.2.154.26-electron.0
 OS: Windows_NT x64 10.0.19045
-Sandboxed: No
+Sandboxed: Yes
 ```
 
 Linter becomes 2 types:
@@ -70,7 +70,9 @@ yarn add prettier eslint-config-prettier eslint-plugin-prettier eslint @typescri
 
 ## Create .eslintrc.js
 ```js
-const prettier = require('./.prettierrc');
+const prettier = require('./.prettierrc.json');
+// or using prettier config javascript
+// const prettier = require('./.prettierrc');
 
 /**
  * @type {import('eslint').ESLint.ConfigData}
@@ -82,6 +84,13 @@ const config = {
     browser: true, // add support for browser js (window,document,location,etc)
     amd: true, // add amd support
     node: true // add node support (module.export,etc)
+  },
+  globals: {
+    dataLayer: true,
+    hexo: true,
+    jQuery: true,
+    $: true,
+    _: true
   },
   parserOptions: {
     ecmaVersion: 2020, // Allows for the parsing of modern ECMAScript features
@@ -96,9 +105,18 @@ const config = {
   // override rules for js files
   overrides: [
     {
-      files: ['*.js', '*.cjs'],
+      files: ['*.js'],
       rules: {
-        '@typescript-eslint/no-var-requires': 'off' // disable require warning on js files
+        'no-unused-vars': [
+          'warn',
+          {
+            argsIgnorePattern: '^_',
+            varsIgnorePattern: '^_',
+            caughtErrorsIgnorePattern: '^_'
+          }
+        ], // warn unused vars on js files
+        'no-var-requires': 'off', // disable require vars on js files
+        '@typescript-eslint/no-var-requires': 'off' // disable require vars warning on js files
       }
     }
   ],
@@ -121,7 +139,7 @@ const config = {
       'error',
       {
         allowDestructuring: false, // Disallow `const { props, state } = this`; true by default
-        allowedNames: ['self'] // Allow `const self = this`; by default
+        allowedNames: ['self', 'hexo'] // Allow `const self = this`; `[]` by default
       }
     ],
     // "arrow-body-style" and "prefer-arrow-callback" are two ESLint core rules that can cause issues with prettier/prettier plugin, so turn them off.
