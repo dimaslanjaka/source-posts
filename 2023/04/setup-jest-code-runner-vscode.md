@@ -74,9 +74,9 @@ create settings file and fill below configs.
 ### install dependencies
 
 ```bash
-npm install -D jest ts-jest jest-config @jest/expect @jest/environment @jest/types @jest/globals
+npm install -D jest ts-jest jest-config jest-mock @jest/expect @jest/environment @jest/types @jest/globals
 # or
-yarn install -D jest ts-jest jest-config @jest/expect @jest/environment @jest/types @jest/globals
+yarn install -D jest ts-jest jest-config jest-mock @jest/expect @jest/environment @jest/types @jest/globals
 ```
 
 ### create `jest.config.ts` in root project
