@@ -14,7 +14,7 @@ categories:
 comments: true
 cover: /GitHub/workflows/cover.png
 date: 2021-11-23T02:00:00+07:00
-updated: 2023-04-27T09:06:08.561Z
+updated: 2023-05-04T16:55:50+07:00
 keywords:
   - GitHub
   - workflows
@@ -138,4 +138,6 @@ echo "GITHUB_SHA_SHORT=$(echo $GITHUB_SHA | cut -c 1-6)" >> $GITHUB_OUTPUT
 
 Artikel ini untuk mempermudah visitor untuk memahami github workflow.
 
-Contoh FULL Github CI https://github.com/dimaslanjaka/static-blog-generator/blob/e8ef351552d57c5e28e016e39e78fef139a8e7b2/.github/workflows/build-beta.yml
+### Contoh FULL Github CI
+https://github.com/dimaslanjaka/static-blog-generator/blob/e8ef351552d57c5e28e016e39e78fef139a8e7b2/.github/workflows/build-beta.yml
+{% github https://github.com/dimaslanjaka/static-blog-generator/blob/e8ef351552d57c5e28e016e39e78fef139a8e7b2/.github/workflows/build-beta.yml %}
