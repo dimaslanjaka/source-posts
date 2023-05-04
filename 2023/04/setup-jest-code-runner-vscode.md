@@ -1,7 +1,7 @@
 ---
 title: How to setup jest typescript and code runner in vscode
 date: 2023-04-19T13:41:48+07:00
-updated: 2023-04-20T14:23:49+07:00
+updated: 2023-05-05T01:29:27+07:00
 categories: [programming]
 tags: [vscode, guide]
 ---
@@ -74,9 +74,9 @@ create settings file and fill below configs.
 ### install dependencies
 
 ```bash
-npm install -D jest ts-jest @jest/globals jest-config
+npm install -D jest ts-jest jest-config @jest/expect @jest/environment @jest/types @jest/globals
 # or
-yarn install -D jest ts-jest @jest/globals jest-config
+yarn install -D jest ts-jest jest-config @jest/expect @jest/environment @jest/types @jest/globals
 ```
 
 ### create `jest.config.ts` in root project
