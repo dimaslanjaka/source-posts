@@ -6,6 +6,8 @@ categories: [programming]
 tags: [vscode, guide]
 ---
 
+![thumbnail](https://user-images.githubusercontent.com/12471057/236297105-21e4c9ef-ea6d-407f-8603-76990ee80977.png)
+
 ## How to setup jest typescript with code runner in vscode
 with this technique you can directly run test single file in vscode without typings manually in terminal, see below screenshot
 ![image](https://user-images.githubusercontent.com/12471057/232989254-54d05159-4379-46e1-827f-812419e721b9.png)
