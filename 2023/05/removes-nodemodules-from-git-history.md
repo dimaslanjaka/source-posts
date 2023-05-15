@@ -6,6 +6,8 @@ category: [programming, bash]
 tags: [bash, snippet, script]
 ---
 
+<!-- https://stackoverflow.com/questions/10067848/remove-folder-and-its-contents-from-git-githubs-history/61544937#61544937 -->
+
 ***WARNING**: git filter-branch is [no longer officially recommended](https://git-scm.com/docs/git-filter-branch#_warning). 
 
 The official recommendation is to use [git-filter-repo](https://github.com/newren/git-filter-repo/).
