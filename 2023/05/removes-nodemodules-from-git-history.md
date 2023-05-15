@@ -36,3 +36,16 @@ The first line iterates through all references on the same tree (`--tree-filter`
 The second line deletes the reference to that old branch.
 
 The rest of the commands are relatively straightforward.
+
+## [André Anjos' answer](https://stackoverflow.com/posts/61544937/timeline)
+
+It appears that the up-to-date answer to this is to **not** use `filter-branch` directly (at least git itself does not recommend it anymore), and defer that work to an external tool. In particular, [git-filter-repo](https://github.com/newren/git-filter-repo/) is currently recommended. The author of that tool [provides arguments](https://github.com/newren/git-filter-repo/#filter-branch) on why using `filter-branch` directly can lead to issues.
+
+Most of the multi-line scripts above to remove `dir` from the history could be re-written as:
+
+```
+git-filter-repo --path dir --invert-paths
+
+```
+
+The tool is more powerful than just that, apparently. You can apply filters by author, email, refname and more ([full manpage here](https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html)). Furthermore, it is **fast**. Installation is easy - it is [distributed in a variety of formats](https://github.com/newren/git-filter-repo/blob/master/INSTALL.md).
