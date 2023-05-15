@@ -10,7 +10,7 @@ tags: [bash, snippet, script]
 
 The official recommendation is to use [git-filter-repo](https://github.com/newren/git-filter-repo/).
 
-see [André Anjos' answer for details](https://stackoverflow.com/questions/10067848/remove-folder-and-its-contents-from-git-githubs-history/61544937#61544937).
+see [André Anjos' answer for details](#andré-anjos-answer).
 
 * * * * *
 
