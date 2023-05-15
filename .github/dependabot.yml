@@ -9,14 +9,14 @@ version: 2
 updates:
   # Maintain dependencies for GitHub Actions
   - package-ecosystem: 'github-actions'
-    directory: '/'
+    # directory: '/'
     target-branch: 'master'
     schedule:
       interval: 'monthly'
 
   # Maintain dependencies for npm/yarn
   - package-ecosystem: 'yarn'
-    directory: '/'
+    # directory: '/'
     target-branch: 'master'
     schedule:
       interval: 'weekly'
@@ -30,5 +30,5 @@ updates:
   - package-ecosystem: 'gitsubmodule'
     target-branch: 'master'
     schedule:
-      interval: 'daily'
-    directory: /
+      interval: 'monthly'
+    # directory: /
