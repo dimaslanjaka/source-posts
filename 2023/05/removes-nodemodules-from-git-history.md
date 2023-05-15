@@ -18,7 +18,7 @@ If you are here to copy-paste code:
 
 This is an example which removes `node_modules` from history
 
-```
+```bash
 git filter-branch --tree-filter "rm -rf node_modules" --prune-empty HEAD
 git for-each-ref --format="%(refname)" refs/original/ | xargs -n 1 git update-ref -d
 echo node_modules/ >> .gitignore
@@ -43,9 +43,8 @@ It appears that the up-to-date answer to this is to **not** use `filter-branch` 
 
 Most of the multi-line scripts above to remove `dir` from the history could be re-written as:
 
-```
+```bash
 git-filter-repo --path dir --invert-paths
-
 ```
 
 The tool is more powerful than just that, apparently. You can apply filters by author, email, refname and more ([full manpage here](https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html)). Furthermore, it is **fast**. Installation is easy - it is [distributed in a variety of formats](https://github.com/newren/git-filter-repo/blob/master/INSTALL.md).
