@@ -46,7 +46,7 @@ It appears that the up-to-date answer to this is to **not** use `filter-branch` 
 Most of the multi-line scripts above to remove `dir` from the history could be re-written as:
 
 ```bash
-git-filter-repo --path dir --invert-paths
+git-filter-repo --path node_modules --invert-paths --refs BRANCH_NAME
 git push -u origin BRANCH_NAME --force-with-lease
 ```
 
