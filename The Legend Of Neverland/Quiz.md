@@ -35,10 +35,12 @@ tags:
   - The Legend Of Neverland
   - Event
 title: Quiz The Legend Of Neverland
-updated: 2023-04-05T20:15:22+07:00
+updated: 2023-05-19T12:49:17+07:00
 ---
 
 > [try beta version](/test-unit/quiz.html)
+>
+> troubleshoot (missing, incorrect quiz) report to +6285655667573 via whatsapp
 
 <!-- include Quiz/table.html -->
 <div id="quiz-debug"></div>
