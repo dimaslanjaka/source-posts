@@ -1,9 +1,9 @@
 ---
 title: How to setup jest typescript and code runner in vscode
 date: 2023-04-19T13:41:48+07:00
-updated: 2023-05-11T18:50:16+07:00
-categories: [programming]
-tags: [vscode, guide]
+updated: 2023-05-19T22:21:18+07:00
+categories: [programming, javascript, typescript]
+tags: [vscode, typescript, jest, test, coverage]
 ---
 
 ![thumbnail](https://user-images.githubusercontent.com/12471057/236297105-21e4c9ef-ea6d-407f-8603-76990ee80977.png)
@@ -94,27 +94,36 @@ import { join } from 'path';
  * * how to run single test {@link https://stackoverflow.com/questions/28725955/how-do-i-test-a-single-file-using-jest}
  */
 const config: Config = {
+  // preset for typescript
   preset: 'ts-jest',
+  // test environtment
   testEnvironment: 'node',
+  // extension of modules
   moduleFileExtensions: [...defaults.moduleFileExtensions, 'mts'],
+  // jest verbose
   verbose: false,
+  // jest use cache
   cache: true,
+  // jest cache directory
   cacheDirectory: join(__dirname, 'tmp/jest'),
+  // collect coverage from src folder but ignore with negate patterns
   collectCoverageFrom: ['src/*.{js,ts}', '!**/node_modules/**', '!**/vendor/**', '!**/test/**', '!**/*.test.{js,ts}'],
+  // test root directory
   roots: [`<rootDir>/test`],
+  // ignore collect coverage from these patterns
   coveragePathIgnorePatterns: ['/node_modules/', '/dist/', '/tmp/', '/test/'],
-
+  // test files with these patterns
   testMatch: [`**/__tests__/**/*.+(ts|tsx|js)`, `**/?(*.)+(spec|test).+(ts|tsx|js)`, `**/test/*.test.ts`],
-
+  // transformer typescript
   transform: {
     '^.+\\.(ts|tsx)$': [
       'ts-jest',
       // required due to custom location of tsconfig.json configuration file
       // https://kulshekhar.github.io/ts-jest/docs/getting-started/options/tsconfig
-      { tsconfig: './tsconfig.jest.json' }
+      { tsconfig: './tsconfig.json' }
     ]
   },
-
+  // detect memory leaks
   detectLeaks: true,
   // Automatically clear mock calls, instances, contexts and results before every test
   clearMocks: true,
