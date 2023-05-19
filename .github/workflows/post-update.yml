@@ -42,7 +42,7 @@ jobs:
           cache: 'yarn'
           check-latest: true
       - run: npm i -g ts-node typescript hexo-cli
-      - run: echo \# > yarn.lock && yarn install
+      - run: echo \# > yarn.lock && yarn cache clean --all && yarn install
       - run: ts-node src/ci/check-other-ci.ts
 
   reusing-workflow:
