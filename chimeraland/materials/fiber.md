@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/fiber/fiber.webp
 thumbnail: /chimeraland/materials/fiber/fiber.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

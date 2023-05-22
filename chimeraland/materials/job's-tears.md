@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/job's-tears/jobs-tears.webp
 thumbnail: /chimeraland/materials/job's-tears/jobs-tears.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

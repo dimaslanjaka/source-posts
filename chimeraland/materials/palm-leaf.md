@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/palm-leaf/palm-leaf.webp
 thumbnail: /chimeraland/materials/palm-leaf/palm-leaf.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

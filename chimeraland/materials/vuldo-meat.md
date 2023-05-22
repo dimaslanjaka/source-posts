@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/vuldo-meat/vuldo-meat.webp
 thumbnail: /chimeraland/materials/vuldo-meat/vuldo-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

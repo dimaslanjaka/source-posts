@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/melon/melon.webp
 thumbnail: /chimeraland/materials/melon/melon.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

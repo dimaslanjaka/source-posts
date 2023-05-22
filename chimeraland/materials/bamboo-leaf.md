@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/bamboo-leaf/bamboo-leaf.webp
 thumbnail: /chimeraland/materials/bamboo-leaf/bamboo-leaf.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

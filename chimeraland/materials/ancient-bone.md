@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/ancient-bone/ancient-bone.webp
 thumbnail: /chimeraland/materials/ancient-bone/ancient-bone.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

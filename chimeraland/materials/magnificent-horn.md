@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/magnificent-horn/magnificent-horn.webp
 thumbnail: /chimeraland/materials/magnificent-horn/magnificent-horn.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

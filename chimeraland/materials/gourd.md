@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/gourd/gourd.webp
 thumbnail: /chimeraland/materials/gourd/gourd.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

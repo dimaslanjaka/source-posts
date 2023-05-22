@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/cyathea/cyathea.webp
 thumbnail: /chimeraland/materials/cyathea/cyathea.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

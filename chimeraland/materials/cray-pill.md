@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/cray-pill/cray-pill.webp
 thumbnail: /chimeraland/materials/cray-pill/cray-pill.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

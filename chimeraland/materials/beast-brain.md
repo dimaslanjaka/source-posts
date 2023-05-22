@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/beast-brain/beast-brain.webp
 thumbnail: /chimeraland/materials/beast-brain/beast-brain.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

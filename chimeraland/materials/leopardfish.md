@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/leopardfish/leopardfish.webp
 thumbnail: /chimeraland/materials/leopardfish/leopardfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

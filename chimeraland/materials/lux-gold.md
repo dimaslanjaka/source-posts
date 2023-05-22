@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/lux-gold/lux-gold.webp
 thumbnail: /chimeraland/materials/lux-gold/lux-gold.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

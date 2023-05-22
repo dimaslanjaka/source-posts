@@ -12,14 +12,12 @@ photos:
   - /chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-material.webp
 thumbnail: /chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs.webp
 tags:
-  - Chimeraland
-  - Recipe
-  - Buff
-  - Food
+  - chimeraland
+  - recipe
 categories:
   - Games
-  - Chimeraland
-  - Recipes
+  - chimeraland
+  - recipes
 ---
 
 <section id="bootstrap-wrapper">
@@ -48,7 +46,7 @@ categories:
       </table>
     </div>
   </div>
-  <div class="card mb-2">
+  <div class="card mb-2 bg-dark text-light">
     <div class="row g-0">
       <div class="col-sm-4 position-relative mb-2">
         <img

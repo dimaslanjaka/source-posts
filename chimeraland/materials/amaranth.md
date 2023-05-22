@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/amaranth/amaranth.webp
 thumbnail: /chimeraland/materials/amaranth/amaranth.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

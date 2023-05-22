@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/siderite/siderite.webp
 thumbnail: /chimeraland/materials/siderite/siderite.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/minkrat-evolution-powder/minkrat-evolution-powder.webp
 thumbnail: /chimeraland/materials/minkrat-evolution-powder/minkrat-evolution-powder.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

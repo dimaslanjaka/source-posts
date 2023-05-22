@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/cane/cane.webp
 thumbnail: /chimeraland/materials/cane/cane.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

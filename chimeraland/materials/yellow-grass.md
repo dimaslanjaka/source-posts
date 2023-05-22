@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/yellow-grass/yellow-grass.webp
 thumbnail: /chimeraland/materials/yellow-grass/yellow-grass.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

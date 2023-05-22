@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/illustrious-beast-soul/illustrious-beast-soul.webp
 thumbnail: /chimeraland/materials/illustrious-beast-soul/illustrious-beast-soul.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/30-catties-of-logs/30-catties-of-logs.webp
 thumbnail: /chimeraland/materials/30-catties-of-logs/30-catties-of-logs.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

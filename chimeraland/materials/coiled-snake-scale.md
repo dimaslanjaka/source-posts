@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/coiled-snake-scale/coiled-snake-scale.webp
 thumbnail: /chimeraland/materials/coiled-snake-scale/coiled-snake-scale.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

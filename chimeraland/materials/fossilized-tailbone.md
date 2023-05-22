@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/fossilized-tailbone/fossilized-tailbone.webp
 thumbnail: /chimeraland/materials/fossilized-tailbone/fossilized-tailbone.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

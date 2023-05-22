@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/porgies/porgies.webp
 thumbnail: /chimeraland/materials/porgies/porgies.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

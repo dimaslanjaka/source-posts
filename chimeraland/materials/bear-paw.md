@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/bear-paw/bear-paw.webp
 thumbnail: /chimeraland/materials/bear-paw/bear-paw.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

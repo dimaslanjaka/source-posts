@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/storrow-claw/storrow-claw.webp
 thumbnail: /chimeraland/materials/storrow-claw/storrow-claw.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/icebug-primal-spirit/icebug-primal-spirit.webp
 thumbnail: /chimeraland/materials/icebug-primal-spirit/icebug-primal-spirit.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

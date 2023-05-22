@@ -9,11 +9,12 @@ photos:
   - /chimeraland/materials/winnow-meat/winnor-meat.webp
 thumbnail: /chimeraland/materials/winnow-meat/winnow-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

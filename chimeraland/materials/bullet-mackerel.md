@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/bullet-mackerel/bullet-mackerel.webp
 thumbnail: /chimeraland/materials/bullet-mackerel/bullet-mackerel.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

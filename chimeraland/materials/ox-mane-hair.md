@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/ox-mane-hair/ox-mane-hair.webp
 thumbnail: /chimeraland/materials/ox-mane-hair/ox-mane-hair.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

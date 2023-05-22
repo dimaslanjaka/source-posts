@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/royle's-spurge/royles-spurge.webp
 thumbnail: /chimeraland/materials/royle's-spurge/royles-spurge.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

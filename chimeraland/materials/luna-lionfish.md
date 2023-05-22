@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/luna-lionfish/luna-lionfish.webp
 thumbnail: /chimeraland/materials/luna-lionfish/luna-lionfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/bone-sheep-skin/bone-sheep-skin.webp
 thumbnail: /chimeraland/materials/bone-sheep-skin/bone-sheep-skin.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

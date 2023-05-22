@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/red-goodfruit/red-goodfruit.webp
 thumbnail: /chimeraland/materials/red-goodfruit/red-goodfruit.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/dace/dace.webp
 thumbnail: /chimeraland/materials/dace/dace.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

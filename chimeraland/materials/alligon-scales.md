@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/alligon-scales/alligon-scales.webp
 thumbnail: /chimeraland/materials/alligon-scales/alligon-scales.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

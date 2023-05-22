@@ -13,14 +13,12 @@ photos:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spicy Red
   Goodfruit Broth
 tags:
-  - Chimeraland
-  - Recipe
-  - Buff
-  - Food
+  - chimeraland
+  - recipe
 categories:
   - Games
-  - Chimeraland
-  - Recipes
+  - chimeraland
+  - recipes
 ---
 
 <section id="bootstrap-wrapper">
@@ -42,7 +40,7 @@ categories:
       </table>
     </div>
   </div>
-  <div class="card mb-2">
+  <div class="card mb-2 bg-dark text-light">
     <div class="row g-0">
       <div class="col-sm-4 position-relative mb-2">
         <img

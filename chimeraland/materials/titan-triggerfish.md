@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/titan-triggerfish/titan-triggerfish.webp
 thumbnail: /chimeraland/materials/titan-triggerfish/titan-triggerfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

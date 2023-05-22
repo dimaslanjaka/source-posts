@@ -6,11 +6,12 @@ author: L3n4r0x
 permalink: /chimeraland/materials/duahawk-evol-pill.html
 photos: []
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

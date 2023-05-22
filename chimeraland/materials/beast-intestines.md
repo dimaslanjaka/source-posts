@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/beast-intestines/beast-intestines.webp
 thumbnail: /chimeraland/materials/beast-intestines/beast-intestines.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

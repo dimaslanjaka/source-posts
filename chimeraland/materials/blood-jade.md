@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/blood-jade/blood-jade.webp
 thumbnail: /chimeraland/materials/blood-jade/blood-jade.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

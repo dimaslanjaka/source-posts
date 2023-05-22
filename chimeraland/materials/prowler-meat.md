@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/prowler-meat/prowler-meat.webp
 thumbnail: /chimeraland/materials/prowler-meat/prowler-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

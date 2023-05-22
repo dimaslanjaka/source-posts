@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/star-stone/star-stone.webp
 thumbnail: /chimeraland/materials/star-stone/star-stone.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

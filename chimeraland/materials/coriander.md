@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/coriander/coriander.webp
 thumbnail: /chimeraland/materials/coriander/coriander.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

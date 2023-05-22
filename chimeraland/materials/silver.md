@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/silver/silver.webp
 thumbnail: /chimeraland/materials/silver/silver.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

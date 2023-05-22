@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/hot-pepper/hot-pepper.webp
 thumbnail: /chimeraland/materials/hot-pepper/hot-pepper.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/longleaf/longleaf.webp
 thumbnail: /chimeraland/materials/longleaf/longleaf.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

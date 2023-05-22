@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/hilsa-herring/hilsa-herring.webp
 thumbnail: /chimeraland/materials/hilsa-herring/hilsa-herring.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

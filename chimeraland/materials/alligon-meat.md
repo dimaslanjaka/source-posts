@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/alligon-meat/alligon-meat.webp
 thumbnail: /chimeraland/materials/alligon-meat/alligon-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

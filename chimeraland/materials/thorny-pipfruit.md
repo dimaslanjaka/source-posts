@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/thorny-pipfruit/thorny-pipfruit.webp
 thumbnail: /chimeraland/materials/thorny-pipfruit/thorny-pipfruit.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

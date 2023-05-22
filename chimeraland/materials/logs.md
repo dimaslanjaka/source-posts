@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/logs/logs.webp
 thumbnail: /chimeraland/materials/logs/logs.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

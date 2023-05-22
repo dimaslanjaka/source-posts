@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/grouguana-meat/grouguana-meat.webp
 thumbnail: /chimeraland/materials/grouguana-meat/grouguana-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

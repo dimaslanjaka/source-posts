@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/magma-armor/magma-armor.webp
 thumbnail: /chimeraland/materials/magma-armor/magma-armor.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/oak-tree-leaf/oak-tree-leaf.webp
 thumbnail: /chimeraland/materials/oak-tree-leaf/oak-tree-leaf.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

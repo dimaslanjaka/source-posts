@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/ambusher-hair/ambusher-hair.webp
 thumbnail: /chimeraland/materials/ambusher-hair/ambusher-hair.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

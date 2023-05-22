@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/binge-cherry-leaf/binge-cherry-leaf.webp
 thumbnail: /chimeraland/materials/binge-cherry-leaf/binge-cherry-leaf.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

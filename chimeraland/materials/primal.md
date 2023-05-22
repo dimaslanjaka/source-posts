@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/primal/primal.webp
 thumbnail: /chimeraland/materials/primal/primal.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

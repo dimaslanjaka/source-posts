@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/wolfspider-carapace/wolfspider-carapace.webp
 thumbnail: /chimeraland/materials/wolfspider-carapace/wolfspider-carapace.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

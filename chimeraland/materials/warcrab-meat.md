@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/warcrab-meat/warcrab-meat.webp
 thumbnail: /chimeraland/materials/warcrab-meat/warcrab-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

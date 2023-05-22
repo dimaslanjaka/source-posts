@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/pirarucu/pirarucu.webp
 thumbnail: /chimeraland/materials/pirarucu/pirarucu.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

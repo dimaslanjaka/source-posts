@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/spinibarbus/spinibarbus.webp
 thumbnail: /chimeraland/materials/spinibarbus/spinibarbus.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

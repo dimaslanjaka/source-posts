@@ -1,6 +1,6 @@
 ---
 title: Monster giant batnix
-webtitle: Chimeraland
+webtitle: chimeraland
 author: L3n4r0x
 updated: 2023-02-25T00:55:43+07:00
 date: 2023-02-25T00:44:43+07:00
@@ -17,13 +17,13 @@ photos:
   - /chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-57-30-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-56-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
-  - Chimeraland
-  - Monster
-  - Pet
+  - chimeraland
+  - monster
+  - pet
 categories:
   - Games
-  - Chimeraland
-  - Monsters
+  - chimeraland
+  - monsters
 ---
 
 <section id="bootstrap-wrapper"><link rel="stylesheet" href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/0c3b5aa1813bd4abcd2c11bf3e37928b15c28664/css/bootstrap-5-3-0-alpha3-wrapper.css"/><h2 id="attribute">giant batnix Information from Chimeraland</h2><p><b>giant batnix</b> default attribute <table><tr><th>GRADE</th><td></td></tr><tr><th>Attack</th><td></td></tr><tr><th>Health Point (HP)</th><td></td></tr><tr><th>Defense</th><td></td></tr></table></p><hr/><h2 id="delicacies">Delicacies/Tasty for giant batnix</h2><div class="text-white bg-dark"></div><hr/><div id="gallery"><h2>Galleries for giant batnix</h2><div class="row"><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-56-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="giant batnix Screenshot_2023-02-22-10-56-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-56-54-43_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="giant batnix Screenshot_2023-02-22-10-56-54-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-56-59-80_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="giant batnix Screenshot_2023-02-22-10-56-59-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-57-03-88_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="giant batnix Screenshot_2023-02-22-10-57-03-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-57-07-97_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="giant batnix Screenshot_2023-02-22-10-57-07-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-57-13-21_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="giant batnix Screenshot_2023-02-22-10-57-13-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-57-20-32_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="giant batnix Screenshot_2023-02-22-10-57-20-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-57-24-88_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="giant batnix Screenshot_2023-02-22-10-57-24-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-57-30-26_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="giant batnix Screenshot_2023-02-22-10-57-30-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div></div></div></section>

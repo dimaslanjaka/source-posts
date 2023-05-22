@@ -1,6 +1,6 @@
 ---
 title: Monster Yungang Dragon
-webtitle: Chimeraland
+webtitle: chimeraland
 author: L3n4r0x
 updated: 2022-10-03T06:18:27+07:00
 date: 2022-01-11T05:56:03+07:00
@@ -15,17 +15,17 @@ photos:
   - /chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-29-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
-  - Chimeraland
-  - Monster
-  - Pet
+  - chimeraland
+  - monster
+  - pet
 categories:
   - Games
-  - Chimeraland
-  - Monsters
+  - chimeraland
+  - monsters
 description: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
   Attributes Conversion Rate 4.0%,Ranged Dmg +4.8% delicacies/tasty Brined
   Silkhopper Meat,Hot 'n Sour Jelly,Overlord Hide Jelly
-  Games,Chimeraland,Monsters Chimeraland,Monster,Pet
+  Games,chimeraland,monsters chimeraland,monster,pet
 ---
 
 <section id="bootstrap-wrapper"><link rel="stylesheet" href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/0c3b5aa1813bd4abcd2c11bf3e37928b15c28664/css/bootstrap-5-3-0-alpha3-wrapper.css"/><h2 id="attribute">Yungang Dragon Information from Chimeraland</h2><p><b>Yungang Dragon</b> default attribute GRADE B ATK 50 HP 54 DEF 66<table><tr><th>GRADE</th><td>B</td></tr><tr><th>Attack</th><td>50</td></tr><tr><th>Health Point (HP)</th><td>54</td></tr><tr><th>Defense</th><td>66</td></tr></table></p><hr/><h2 id="delicacies">Delicacies/Tasty for Yungang Dragon</h2><div class="text-white bg-dark"><li class="d-flex justify-content-between">Brined Silkhopper Meat </li><li class="d-flex justify-content-between">Hot &#x27;n Sour Jelly <a href="/chimeraland/recipes/hot-n-sour-jelly.html" title="Click here to view recipe Hot &#x27;n Sour Jelly details"><i>Hot &#x27;n Sour Jelly</i> details</a></li><li class="d-flex justify-content-between">Overlord Hide Jelly <a href="/chimeraland/recipes/overlord-hide-jelly.html" title="Click here to view recipe Overlord Hide Jelly details"><i>Overlord Hide Jelly</i> details</a></li></div><hr/><div id="gallery"><h2>Galleries for Yungang Dragon</h2><div class="row"><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Yungang Dragon Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-06-29_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Yungang Dragon Screenshot_2022-07-29-00-22-06-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-09-79_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Yungang Dragon Screenshot_2022-07-29-00-22-09-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-13-39_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Yungang Dragon Screenshot_2022-07-29-00-22-13-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Yungang Dragon Screenshot_2022-07-29-00-22-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-20-08_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Yungang Dragon Screenshot_2022-07-29-00-22-20-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-29-13_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Yungang Dragon Screenshot_2022-07-29-00-22-29-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div></div></div></section>

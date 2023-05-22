@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/dung/dung.webp
 thumbnail: /chimeraland/materials/dung/dung.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

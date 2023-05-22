@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/bok-choy/bok-choy.webp
 thumbnail: /chimeraland/materials/bok-choy/bok-choy.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

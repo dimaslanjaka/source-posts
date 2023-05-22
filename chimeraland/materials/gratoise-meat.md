@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/gratoise-meat/gratoise-meat.webp
 thumbnail: /chimeraland/materials/gratoise-meat/gratoise-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

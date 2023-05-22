@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/greensuit-fish/greensuit-fish.webp
 thumbnail: /chimeraland/materials/greensuit-fish/greensuit-fish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

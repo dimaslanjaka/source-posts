@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/butterflyfish/butterflyfish.webp
 thumbnail: /chimeraland/materials/butterflyfish/butterflyfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

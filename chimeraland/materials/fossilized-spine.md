@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/fossilized-spine/fossilized-spine.webp
 thumbnail: /chimeraland/materials/fossilized-spine/fossilized-spine.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

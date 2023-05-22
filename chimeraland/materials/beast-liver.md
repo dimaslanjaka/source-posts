@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/beast-liver/beast-liver.webp
 thumbnail: /chimeraland/materials/beast-liver/beast-liver.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

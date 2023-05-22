@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/viperfish/viperfish.webp
 thumbnail: /chimeraland/materials/viperfish/viperfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

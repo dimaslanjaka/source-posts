@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/zebrafish/zebrafish.webp
 thumbnail: /chimeraland/materials/zebrafish/zebrafish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

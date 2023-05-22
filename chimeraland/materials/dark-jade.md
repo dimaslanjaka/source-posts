@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/dark-jade/dark-jade.webp
 thumbnail: /chimeraland/materials/dark-jade/dark-jade.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

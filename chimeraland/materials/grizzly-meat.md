@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/grizzly-meat/grizzly-meat.webp
 thumbnail: /chimeraland/materials/grizzly-meat/grizzly-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

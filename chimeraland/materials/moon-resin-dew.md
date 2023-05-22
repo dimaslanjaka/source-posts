@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/moon-resin-dew/moon-resin-dew.webp
 thumbnail: /chimeraland/materials/moon-resin-dew/moon-resin-dew.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

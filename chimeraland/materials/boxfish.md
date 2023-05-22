@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/boxfish/boxfish.webp
 thumbnail: /chimeraland/materials/boxfish/boxfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

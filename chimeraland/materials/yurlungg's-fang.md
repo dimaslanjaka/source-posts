@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/yurlungg's-fang/yurlunggurs-fang.webp
 thumbnail: /chimeraland/materials/yurlungg's-fang/yurlunggurs-fang.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

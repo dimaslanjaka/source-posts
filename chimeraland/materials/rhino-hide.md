@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/rhino-hide/rhino-hide.webp
 thumbnail: /chimeraland/materials/rhino-hide/rhino-hide.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

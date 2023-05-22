@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/sowthistle/sowthistle.webp
 thumbnail: /chimeraland/materials/sowthistle/sowthistle.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

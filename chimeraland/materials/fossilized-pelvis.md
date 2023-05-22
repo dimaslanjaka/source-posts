@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/fossilized-pelvis/fossilized-pelvis.webp
 thumbnail: /chimeraland/materials/fossilized-pelvis/fossilized-pelvis.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

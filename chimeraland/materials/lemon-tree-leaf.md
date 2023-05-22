@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/lemon-tree-leaf/lemon-tree-leaf.webp
 thumbnail: /chimeraland/materials/lemon-tree-leaf/lemon-tree-leaf.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

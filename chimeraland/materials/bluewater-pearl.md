@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/bluewater-pearl/bluewater-pearl.webp
 thumbnail: /chimeraland/materials/bluewater-pearl/bluewater-pearl.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

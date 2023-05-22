@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/spirit-fox-fur/spirit-fox-fur.webp
 thumbnail: /chimeraland/materials/spirit-fox-fur/spirit-fox-fur.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

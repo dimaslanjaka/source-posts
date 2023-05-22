@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/shark/shark.webp
 thumbnail: /chimeraland/materials/shark/shark.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

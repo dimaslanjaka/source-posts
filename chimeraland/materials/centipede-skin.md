@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/centipede-skin/centipede-skin.webp
 thumbnail: /chimeraland/materials/centipede-skin/centipede-skin.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

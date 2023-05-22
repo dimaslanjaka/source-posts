@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/uncommon-wood-essence/uncommon-wood-essence.webp
 thumbnail: /chimeraland/materials/uncommon-wood-essence/uncommon-wood-essence.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

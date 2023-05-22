@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/stone/stone.webp
 thumbnail: /chimeraland/materials/stone/stone.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

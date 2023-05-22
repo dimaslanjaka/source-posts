@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/superb-wood-essence/superb-wood-essence.webp
 thumbnail: /chimeraland/materials/superb-wood-essence/superb-wood-essence.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/purple-choy/purple-choy.webp
 thumbnail: /chimeraland/materials/purple-choy/purple-choy.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

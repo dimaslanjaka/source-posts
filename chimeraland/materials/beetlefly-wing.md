@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/beetlefly-wing/beetlefly-wing.webp
 thumbnail: /chimeraland/materials/beetlefly-wing/beetlefly-wing.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

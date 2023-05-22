@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/wrasse/wrasse.webp
 thumbnail: /chimeraland/materials/wrasse/wrasse.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

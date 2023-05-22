@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/scale-of-reversal/scale-of-reversal.webp
 thumbnail: /chimeraland/materials/scale-of-reversal/scale-of-reversal.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

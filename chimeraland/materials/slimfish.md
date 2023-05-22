@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/slimfish/slimfish.webp
 thumbnail: /chimeraland/materials/slimfish/slimfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/pure-wood-genio/pure-wood-genio.webp
 thumbnail: /chimeraland/materials/pure-wood-genio/pure-wood-genio.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/bodhi-fruit/bodhi-fruit.webp
 thumbnail: /chimeraland/materials/bodhi-fruit/bodhi-fruit.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

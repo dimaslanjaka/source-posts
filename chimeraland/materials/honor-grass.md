@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/honor-grass/honor-grass.webp
 thumbnail: /chimeraland/materials/honor-grass/honor-grass.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/ancient-coconut/ancient-coconut.webp
 thumbnail: /chimeraland/materials/ancient-coconut/ancient-coconut.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

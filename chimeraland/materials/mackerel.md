@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/mackerel/mackerel.webp
 thumbnail: /chimeraland/materials/mackerel/mackerel.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

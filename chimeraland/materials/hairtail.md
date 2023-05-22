@@ -9,11 +9,12 @@ photos:
   - /chimeraland/materials/hairtail/barbled-dragonfish.webp
 thumbnail: /chimeraland/materials/hairtail/hairtail.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

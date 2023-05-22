@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/ironwood-stem/ironwood-stem.webp
 thumbnail: /chimeraland/materials/ironwood-stem/ironwood-stem.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

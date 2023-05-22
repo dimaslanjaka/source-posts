@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/glow-deer-hide/glow-deer-hide.webp
 thumbnail: /chimeraland/materials/glow-deer-hide/glow-deer-hide.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

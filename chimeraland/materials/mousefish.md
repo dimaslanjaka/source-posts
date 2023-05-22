@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/mousefish/mousefish.webp
 thumbnail: /chimeraland/materials/mousefish/mousefish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

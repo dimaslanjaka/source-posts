@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/pombug-wing/pombug-wing.webp
 thumbnail: /chimeraland/materials/pombug-wing/pombug-wing.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

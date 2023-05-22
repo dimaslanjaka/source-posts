@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/beast-hide/beast-hide.webp
 thumbnail: /chimeraland/materials/beast-hide/beast-hide.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

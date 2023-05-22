@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/beetlefly-meat/beetlefly-meat.webp
 thumbnail: /chimeraland/materials/beetlefly-meat/beetlefly-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

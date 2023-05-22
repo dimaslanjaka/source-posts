@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/purple-snapper/purple-snapper.webp
 thumbnail: /chimeraland/materials/purple-snapper/purple-snapper.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

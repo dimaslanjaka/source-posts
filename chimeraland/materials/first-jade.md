@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/first-jade/first-jade.webp
 thumbnail: /chimeraland/materials/first-jade/first-jade.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

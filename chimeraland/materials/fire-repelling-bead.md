@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/fire-repelling-bead/fire-repelling-bead.webp
 thumbnail: /chimeraland/materials/fire-repelling-bead/fire-repelling-bead.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/eyebiter/eyebiter.webp
 thumbnail: /chimeraland/materials/eyebiter/eyebiter.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

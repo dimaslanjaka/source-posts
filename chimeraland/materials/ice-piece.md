@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/ice-piece/ice-piece.webp
 thumbnail: /chimeraland/materials/ice-piece/ice-piece.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/cold-repelling-bead/cold-repelling-bead.webp
 thumbnail: /chimeraland/materials/cold-repelling-bead/cold-repelling-bead.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

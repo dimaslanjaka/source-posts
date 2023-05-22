@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/stoneppo-meat/stoneppo-meat.webp
 thumbnail: /chimeraland/materials/stoneppo-meat/stoneppo-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

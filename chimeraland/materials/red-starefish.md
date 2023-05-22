@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/red-starefish/red-starefish.webp
 thumbnail: /chimeraland/materials/red-starefish/red-starefish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

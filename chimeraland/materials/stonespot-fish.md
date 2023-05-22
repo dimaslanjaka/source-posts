@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/stonespot-fish/stonespot-fish.webp
 thumbnail: /chimeraland/materials/stonespot-fish/stonespot-fish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

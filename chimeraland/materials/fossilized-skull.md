@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/fossilized-skull/fossilized-skull.webp
 thumbnail: /chimeraland/materials/fossilized-skull/fossilized-skull.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

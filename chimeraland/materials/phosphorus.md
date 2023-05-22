@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/phosphorus/phosphorus.webp
 thumbnail: /chimeraland/materials/phosphorus/phosphorus.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

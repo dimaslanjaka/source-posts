@@ -9,11 +9,12 @@ photos:
   - /chimeraland/materials/skyshark-primal-spirit/skyshard-primal-spirit.webp
 thumbnail: /chimeraland/materials/skyshark-primal-spirit/skyshark-primal-spirit.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

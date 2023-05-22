@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/red-apricot-wood/red-apricot-wood.webp
 thumbnail: /chimeraland/materials/red-apricot-wood/red-apricot-wood.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

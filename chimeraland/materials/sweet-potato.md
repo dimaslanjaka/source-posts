@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/sweet-potato/sweet-potato.webp
 thumbnail: /chimeraland/materials/sweet-potato/sweet-potato.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

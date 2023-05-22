@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/tang/tang.webp
 thumbnail: /chimeraland/materials/tang/tang.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

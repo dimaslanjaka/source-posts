@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/strange-beast-horn/strange-beast-horn.webp
 thumbnail: /chimeraland/materials/strange-beast-horn/strange-beast-horn.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

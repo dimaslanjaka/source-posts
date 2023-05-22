@@ -9,11 +9,12 @@ photos:
   - /chimeraland/materials/find-jade/fine-jade.webp
 thumbnail: /chimeraland/materials/find-jade/find-jade.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

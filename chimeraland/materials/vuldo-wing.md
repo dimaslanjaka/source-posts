@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/vuldo-wing/vuldo-wing.webp
 thumbnail: /chimeraland/materials/vuldo-wing/vuldo-wing.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

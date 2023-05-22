@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/phoenixfish/phoenixfish.webp
 thumbnail: /chimeraland/materials/phoenixfish/phoenixfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

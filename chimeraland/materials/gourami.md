@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/gourami/gourami.webp
 thumbnail: /chimeraland/materials/gourami/gourami.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

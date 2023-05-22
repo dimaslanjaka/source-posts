@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/trileaf-skin/trileaf-skin.webp
 thumbnail: /chimeraland/materials/trileaf-skin/trileaf-skin.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

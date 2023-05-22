@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/apple/apple.webp
 thumbnail: /chimeraland/materials/apple/apple.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

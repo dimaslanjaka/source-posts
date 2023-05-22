@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/vangard-bear-thorn/vangard-bear-thorn.webp
 thumbnail: /chimeraland/materials/vangard-bear-thorn/vangard-bear-thorn.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

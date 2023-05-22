@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/spear-beak/spear-beak.webp
 thumbnail: /chimeraland/materials/spear-beak/spear-beak.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

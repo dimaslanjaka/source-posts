@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/gold/gold.webp
 thumbnail: /chimeraland/materials/gold/gold.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

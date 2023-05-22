@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/condor-meat/condor-meat.webp
 thumbnail: /chimeraland/materials/condor-meat/condor-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

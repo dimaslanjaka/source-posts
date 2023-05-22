@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/waterproof-mushroom/waterproof-mushroom.webp
 thumbnail: /chimeraland/materials/waterproof-mushroom/waterproof-mushroom.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

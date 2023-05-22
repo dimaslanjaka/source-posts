@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/moorish-idol/moorish-idol.webp
 thumbnail: /chimeraland/materials/moorish-idol/moorish-idol.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

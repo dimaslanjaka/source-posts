@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/pining-feather/pining-feather.webp
 thumbnail: /chimeraland/materials/pining-feather/pining-feather.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

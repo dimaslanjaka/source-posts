@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/anise/anise.webp
 thumbnail: /chimeraland/materials/anise/anise.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

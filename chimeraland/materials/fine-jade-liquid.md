@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/fine-jade-liquid/fine-jade-liquid.webp
 thumbnail: /chimeraland/materials/fine-jade-liquid/fine-jade-liquid.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

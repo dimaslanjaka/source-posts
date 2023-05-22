@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/dew/dew.webp
 thumbnail: /chimeraland/materials/dew/dew.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

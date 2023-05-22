@@ -9,11 +9,12 @@ photos:
   - /chimeraland/materials/leoparbeak-meat/leaoparbeak-meat.webp
 thumbnail: /chimeraland/materials/leoparbeak-meat/leoparbeak-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

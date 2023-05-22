@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/firemouth-fish/firemouth-fish.webp
 thumbnail: /chimeraland/materials/firemouth-fish/firemouth-fish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/nibea/nibea.webp
 thumbnail: /chimeraland/materials/nibea/nibea.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/clan-contribution/clan-contribution.webp
 thumbnail: /chimeraland/materials/clan-contribution/clan-contribution.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/bone-sheep-primal-spirit/bone-sheep-primal-spirit.webp
 thumbnail: /chimeraland/materials/bone-sheep-primal-spirit/bone-sheep-primal-spirit.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

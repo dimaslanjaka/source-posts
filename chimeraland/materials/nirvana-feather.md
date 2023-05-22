@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/nirvana-feather/nirvana-feather.webp
 thumbnail: /chimeraland/materials/nirvana-feather/nirvana-feather.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

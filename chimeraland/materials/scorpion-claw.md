@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/scorpion-claw/scorpion-claw.webp
 thumbnail: /chimeraland/materials/scorpion-claw/scorpion-claw.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

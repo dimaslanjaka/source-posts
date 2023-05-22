@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/spirit-fox-primal-spirit/spirit-fox-primal-spirit.webp
 thumbnail: /chimeraland/materials/spirit-fox-primal-spirit/spirit-fox-primal-spirit.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

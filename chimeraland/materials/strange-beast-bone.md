@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/strange-beast-bone/strange-beast-bone.webp
 thumbnail: /chimeraland/materials/strange-beast-bone/strange-beast-bone.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/fallen-snow-bone/fallen-snow-bone.webp
 thumbnail: /chimeraland/materials/fallen-snow-bone/fallen-snow-bone.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

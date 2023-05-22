@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/rare-wood-essence/rare-wood-essence.webp
 thumbnail: /chimeraland/materials/rare-wood-essence/rare-wood-essence.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

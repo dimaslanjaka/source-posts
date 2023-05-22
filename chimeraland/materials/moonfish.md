@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/moonfish/moonfish.webp
 thumbnail: /chimeraland/materials/moonfish/moonfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

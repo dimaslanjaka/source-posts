@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/spotted-scat/spotted-scat.webp
 thumbnail: /chimeraland/materials/spotted-scat/spotted-scat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

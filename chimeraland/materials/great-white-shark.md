@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/great-white-shark/great-white-shark.webp
 thumbnail: /chimeraland/materials/great-white-shark/great-white-shark.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/embergator-skin/embergator-skin.webp
 thumbnail: /chimeraland/materials/embergator-skin/embergator-skin.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

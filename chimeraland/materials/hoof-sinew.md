@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/hoof-sinew/hoof-sinew.webp
 thumbnail: /chimeraland/materials/hoof-sinew/hoof-sinew.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

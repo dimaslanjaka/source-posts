@@ -14,11 +14,12 @@ photos:
   - /chimeraland/materials/precious-jade/westmount.webp
 thumbnail: /chimeraland/materials/precious-jade/precious-jade.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

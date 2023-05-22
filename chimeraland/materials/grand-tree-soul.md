@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/grand-tree-soul/grand-tree-soul.webp
 thumbnail: /chimeraland/materials/grand-tree-soul/grand-tree-soul.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/rare-wood-genio/rare-wood-genio.webp
 thumbnail: /chimeraland/materials/rare-wood-genio/rare-wood-genio.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

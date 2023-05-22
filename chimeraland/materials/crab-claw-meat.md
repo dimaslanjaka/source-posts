@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/crab-claw-meat/crab-claw-meat.webp
 thumbnail: /chimeraland/materials/crab-claw-meat/crab-claw-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/winnow-tail/winnow-tail.webp
 thumbnail: /chimeraland/materials/winnow-tail/winnow-tail.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

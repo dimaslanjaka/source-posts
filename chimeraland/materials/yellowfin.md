@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/yellowfin/yellowfin.webp
 thumbnail: /chimeraland/materials/yellowfin/yellowfin.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

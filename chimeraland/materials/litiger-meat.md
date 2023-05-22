@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/litiger-meat/litiger-meat.webp
 thumbnail: /chimeraland/materials/litiger-meat/litiger-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

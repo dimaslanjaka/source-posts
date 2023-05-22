@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/turnip/turnip.webp
 thumbnail: /chimeraland/materials/turnip/turnip.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/beast-vital-qi-pill/beast-vital-qi-pill.webp
 thumbnail: /chimeraland/materials/beast-vital-qi-pill/beast-vital-qi-pill.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

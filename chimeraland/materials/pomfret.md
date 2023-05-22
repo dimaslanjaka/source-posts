@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/pomfret/pomfret.webp
 thumbnail: /chimeraland/materials/pomfret/pomfret.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

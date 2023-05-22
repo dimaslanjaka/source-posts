@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/sesame/sesame.webp
 thumbnail: /chimeraland/materials/sesame/sesame.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

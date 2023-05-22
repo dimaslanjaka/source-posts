@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/mist-wings/mist-wings.webp
 thumbnail: /chimeraland/materials/mist-wings/mist-wings.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

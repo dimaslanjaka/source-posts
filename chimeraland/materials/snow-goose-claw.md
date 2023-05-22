@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/snow-goose-claw/snow-goose-claw.webp
 thumbnail: /chimeraland/materials/snow-goose-claw/snow-goose-claw.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

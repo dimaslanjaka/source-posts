@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/peacock-fish/peacock-fish.webp
 thumbnail: /chimeraland/materials/peacock-fish/peacock-fish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

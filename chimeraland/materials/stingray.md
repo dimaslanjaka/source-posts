@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/stingray/stingray.webp
 thumbnail: /chimeraland/materials/stingray/stingray.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

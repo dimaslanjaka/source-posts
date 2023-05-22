@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/vulture-meat/vulture-meat.webp
 thumbnail: /chimeraland/materials/vulture-meat/vulture-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

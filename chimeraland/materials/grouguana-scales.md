@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/grouguana-scales/grouguana-scales.webp
 thumbnail: /chimeraland/materials/grouguana-scales/grouguana-scales.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

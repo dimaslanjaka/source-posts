@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/beast-heart/beast-heart.webp
 thumbnail: /chimeraland/materials/beast-heart/beast-heart.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

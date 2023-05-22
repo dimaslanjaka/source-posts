@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/gurnard/gurnard.webp
 thumbnail: /chimeraland/materials/gurnard/gurnard.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

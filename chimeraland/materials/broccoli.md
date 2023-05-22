@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/broccoli/broccoli.webp
 thumbnail: /chimeraland/materials/broccoli/broccoli.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

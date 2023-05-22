@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/rhino-tusk/rhino-tusk.webp
 thumbnail: /chimeraland/materials/rhino-tusk/rhino-tusk.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

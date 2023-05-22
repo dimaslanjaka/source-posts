@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/red-bellied-piranha/red-bellied-piranha.webp
 thumbnail: /chimeraland/materials/red-bellied-piranha/red-bellied-piranha.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

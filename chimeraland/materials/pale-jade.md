@@ -9,11 +9,12 @@ photos:
   - /chimeraland/materials/pale-jade/eastmount.webp
 thumbnail: /chimeraland/materials/pale-jade/pale-jade.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/octofish-tentacle/octofish-tentacle.webp
 thumbnail: /chimeraland/materials/octofish-tentacle/octofish-tentacle.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

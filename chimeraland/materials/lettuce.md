@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/lettuce/lettuce.webp
 thumbnail: /chimeraland/materials/lettuce/lettuce.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

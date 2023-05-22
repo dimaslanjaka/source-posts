@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/tree-bark/tree-bark.webp
 thumbnail: /chimeraland/materials/tree-bark/tree-bark.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

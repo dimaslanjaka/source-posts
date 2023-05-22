@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/grizzly-primal-spirit/grizzly-primal-spirit.webp
 thumbnail: /chimeraland/materials/grizzly-primal-spirit/grizzly-primal-spirit.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

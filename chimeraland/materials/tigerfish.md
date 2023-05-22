@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/tigerfish/tigerfish.webp
 thumbnail: /chimeraland/materials/tigerfish/tigerfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

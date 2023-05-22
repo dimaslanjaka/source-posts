@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/archerfish/archerfish.webp
 thumbnail: /chimeraland/materials/archerfish/archerfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

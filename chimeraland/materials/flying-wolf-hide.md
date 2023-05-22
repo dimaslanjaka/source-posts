@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/flying-wolf-hide/flying-wolf-hide.webp
 thumbnail: /chimeraland/materials/flying-wolf-hide/flying-wolf-hide.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

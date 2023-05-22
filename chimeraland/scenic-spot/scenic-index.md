@@ -1,16 +1,14 @@
 ---
 title: Scenic Spot Locations
-webtitel: Chimeraland
+webtitel: chimeraland
 permalink: /chimeraland/scenic-spots/
 tags:
-  - Chimeraland
-  - Scenic
-  - Spot
+  - chimeraland
+  - scenic-spot
 categories:
   - Games
-  - Chimeraland
-  - Scenic
-  - Spot
+  - chimeraland
+  - scenic-spot
 date: 2022-09-10T00:00:00+07:00
 updated: 2022-11-02T15:58:09+07:00
 description: Scenic Spot Locations - Chimeraland

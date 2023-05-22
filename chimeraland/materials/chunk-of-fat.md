@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/chunk-of-fat/chunk-of-fat.webp
 thumbnail: /chimeraland/materials/chunk-of-fat/chunk-of-fat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

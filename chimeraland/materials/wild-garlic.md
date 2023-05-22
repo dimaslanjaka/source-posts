@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/wild-garlic/wild-garlic.webp
 thumbnail: /chimeraland/materials/wild-garlic/wild-garlic.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

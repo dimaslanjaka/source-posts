@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/scorpion-king-stinger/scorpion-king-stinger.webp
 thumbnail: /chimeraland/materials/scorpion-king-stinger/scorpion-king-stinger.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

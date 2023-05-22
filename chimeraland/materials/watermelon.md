@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/watermelon/watermelon.webp
 thumbnail: /chimeraland/materials/watermelon/watermelon.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/bigeye/bigeye.webp
 thumbnail: /chimeraland/materials/bigeye/bigeye.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

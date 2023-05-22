@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/red-and-white-beak/red-and-white-beak.webp
 thumbnail: /chimeraland/materials/red-and-white-beak/red-and-white-beak.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/strange-beast-tendon/strange-beast-tendon.webp
 thumbnail: /chimeraland/materials/strange-beast-tendon/strange-beast-tendon.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

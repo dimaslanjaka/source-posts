@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/newt-fat/newt-fat.webp
 thumbnail: /chimeraland/materials/newt-fat/newt-fat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

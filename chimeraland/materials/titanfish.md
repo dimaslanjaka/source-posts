@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/titanfish/titanfish.webp
 thumbnail: /chimeraland/materials/titanfish/titanfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

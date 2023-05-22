@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/shovefish/shovefish.webp
 thumbnail: /chimeraland/materials/shovefish/shovefish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

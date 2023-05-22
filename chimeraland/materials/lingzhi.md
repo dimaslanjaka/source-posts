@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/lingzhi/lingzhi.webp
 thumbnail: /chimeraland/materials/lingzhi/lingzhi.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

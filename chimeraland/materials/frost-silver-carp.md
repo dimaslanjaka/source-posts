@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/frost-silver-carp/frost-silver-carp.webp
 thumbnail: /chimeraland/materials/frost-silver-carp/frost-silver-carp.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

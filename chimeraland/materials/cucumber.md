@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/cucumber/cucumber.webp
 thumbnail: /chimeraland/materials/cucumber/cucumber.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

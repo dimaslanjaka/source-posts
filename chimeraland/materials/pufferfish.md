@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/pufferfish/pufferfish.webp
 thumbnail: /chimeraland/materials/pufferfish/pufferfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

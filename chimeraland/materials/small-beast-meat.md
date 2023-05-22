@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/small-beast-meat/small-beast-meat.webp
 thumbnail: /chimeraland/materials/small-beast-meat/small-beast-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

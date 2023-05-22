@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/perciformes/perciformes.webp
 thumbnail: /chimeraland/materials/perciformes/perciformes.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

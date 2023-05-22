@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/pumpkin/pumpkin.webp
 thumbnail: /chimeraland/materials/pumpkin/pumpkin.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

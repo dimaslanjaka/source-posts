@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/cod/cod.webp
 thumbnail: /chimeraland/materials/cod/cod.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

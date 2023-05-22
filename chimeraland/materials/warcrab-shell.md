@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/warcrab-shell/warcrab-shell.webp
 thumbnail: /chimeraland/materials/warcrab-shell/warcrab-shell.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/water-repelling-bead/water-repelling-bead.webp
 thumbnail: /chimeraland/materials/water-repelling-bead/water-repelling-bead.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

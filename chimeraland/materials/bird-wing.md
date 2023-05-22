@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/bird-wing/bird-wing.webp
 thumbnail: /chimeraland/materials/bird-wing/bird-wing.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

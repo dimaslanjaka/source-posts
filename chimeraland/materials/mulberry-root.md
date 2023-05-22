@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/mulberry-root/mulberry-root.webp
 thumbnail: /chimeraland/materials/mulberry-root/mulberry-root.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

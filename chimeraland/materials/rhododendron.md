@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/rhododendron/rhododendron.webp
 thumbnail: /chimeraland/materials/rhododendron/rhododendron.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

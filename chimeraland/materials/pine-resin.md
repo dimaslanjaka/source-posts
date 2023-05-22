@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/pine-resin/pine-resin.webp
 thumbnail: /chimeraland/materials/pine-resin/pine-resin.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

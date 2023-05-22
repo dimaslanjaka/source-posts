@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/litiger-mane/litiger-mane.webp
 thumbnail: /chimeraland/materials/litiger-mane/litiger-mane.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

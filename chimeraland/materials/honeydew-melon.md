@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/honeydew-melon/honeydew-melon.webp
 thumbnail: /chimeraland/materials/honeydew-melon/honeydew-melon.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

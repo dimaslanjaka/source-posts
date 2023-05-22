@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/bream/bream.webp
 thumbnail: /chimeraland/materials/bream/bream.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/stoatle-shell/stoatle-shell.webp
 thumbnail: /chimeraland/materials/stoatle-shell/stoatle-shell.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

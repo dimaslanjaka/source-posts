@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/orchid/orchid.webp
 thumbnail: /chimeraland/materials/orchid/orchid.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

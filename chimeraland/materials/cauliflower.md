@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/cauliflower/cauliflower.webp
 thumbnail: /chimeraland/materials/cauliflower/cauliflower.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

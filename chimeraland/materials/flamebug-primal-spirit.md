@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/flamebug-primal-spirit/flamebug-primal-spirit.webp
 thumbnail: /chimeraland/materials/flamebug-primal-spirit/flamebug-primal-spirit.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

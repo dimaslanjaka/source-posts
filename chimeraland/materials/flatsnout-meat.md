@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/flatsnout-meat/flatsnout-meat.webp
 thumbnail: /chimeraland/materials/flatsnout-meat/flatsnout-meat.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

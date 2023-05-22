@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/peanut/peanut.webp
 thumbnail: /chimeraland/materials/peanut/peanut.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

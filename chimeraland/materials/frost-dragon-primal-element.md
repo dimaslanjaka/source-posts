@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/frost-dragon-primal-element/frost-dragon-primal-element.webp
 thumbnail: /chimeraland/materials/frost-dragon-primal-element/frost-dragon-primal-element.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

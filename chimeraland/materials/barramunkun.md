@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/barramunkun/barramunkun.webp
 thumbnail: /chimeraland/materials/barramunkun/barramunkun.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

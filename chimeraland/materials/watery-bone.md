@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/watery-bone/watery-bone.webp
 thumbnail: /chimeraland/materials/watery-bone/watery-bone.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

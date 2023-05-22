@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/crystal/crystal.webp
 thumbnail: /chimeraland/materials/crystal/crystal.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

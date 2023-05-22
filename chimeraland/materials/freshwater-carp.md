@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/freshwater-carp/freshwater-carp.webp
 thumbnail: /chimeraland/materials/freshwater-carp/freshwater-carp.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

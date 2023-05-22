@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/chives/chives.webp
 thumbnail: /chimeraland/materials/chives/chives.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

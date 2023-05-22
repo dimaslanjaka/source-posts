@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/yellow-boxfish/yellow-boxfish.webp
 thumbnail: /chimeraland/materials/yellow-boxfish/yellow-boxfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

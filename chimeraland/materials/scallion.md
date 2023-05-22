@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/scallion/scallion.webp
 thumbnail: /chimeraland/materials/scallion/scallion.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

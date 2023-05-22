@@ -12,14 +12,12 @@ photos:
   - /chimeraland/recipes/grilled-bear-paw/grilled-bear-paw-material.webp
 thumbnail: /chimeraland/recipes/grilled-bear-paw/grilled-bear-paw.webp
 tags:
-  - Chimeraland
-  - Recipe
-  - Buff
-  - Food
+  - chimeraland
+  - recipe
 categories:
   - Games
-  - Chimeraland
-  - Recipes
+  - chimeraland
+  - recipes
 ---
 
 <section id="bootstrap-wrapper">
@@ -46,7 +44,7 @@ categories:
       </table>
     </div>
   </div>
-  <div class="card mb-2">
+  <div class="card mb-2 bg-dark text-light">
     <div class="row g-0">
       <div class="col-sm-4 position-relative mb-2">
         <img

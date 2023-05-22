@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/fossilized-rib/fossilized-rib.webp
 thumbnail: /chimeraland/materials/fossilized-rib/fossilized-rib.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

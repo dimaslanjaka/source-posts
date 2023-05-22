@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/muddled-catfish/muddled-catfish.webp
 thumbnail: /chimeraland/materials/muddled-catfish/muddled-catfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

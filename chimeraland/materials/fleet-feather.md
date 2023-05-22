@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/fleet-feather/fleet-feather.webp
 thumbnail: /chimeraland/materials/fleet-feather/fleet-feather.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

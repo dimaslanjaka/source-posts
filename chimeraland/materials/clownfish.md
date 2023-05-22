@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/clownfish/clownfish.webp
 thumbnail: /chimeraland/materials/clownfish/clownfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

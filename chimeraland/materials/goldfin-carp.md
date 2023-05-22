@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/goldfin-carp/goldfin-carp.webp
 thumbnail: /chimeraland/materials/goldfin-carp/goldfin-carp.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

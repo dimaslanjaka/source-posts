@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/black-kingfish/black-kingfish.webp
 thumbnail: /chimeraland/materials/black-kingfish/black-kingfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

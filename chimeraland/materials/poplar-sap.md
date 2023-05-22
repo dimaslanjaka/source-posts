@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/poplar-sap/poplar-sap.webp
 thumbnail: /chimeraland/materials/poplar-sap/poplar-sap.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

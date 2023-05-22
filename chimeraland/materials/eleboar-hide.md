@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/eleboar-hide/eleboar-hide.webp
 thumbnail: /chimeraland/materials/eleboar-hide/eleboar-hide.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

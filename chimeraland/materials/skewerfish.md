@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/skewerfish/skewerfish.webp
 thumbnail: /chimeraland/materials/skewerfish/skewerfish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

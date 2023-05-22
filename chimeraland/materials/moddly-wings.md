@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/moddly-wings/moddly-wings.webp
 thumbnail: /chimeraland/materials/moddly-wings/moddly-wings.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

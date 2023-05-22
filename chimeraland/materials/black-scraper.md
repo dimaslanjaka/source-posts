@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/black-scraper/black-scraper.webp
 thumbnail: /chimeraland/materials/black-scraper/black-scraper.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

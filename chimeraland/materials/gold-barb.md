@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/gold-barb/gold-barb.webp
 thumbnail: /chimeraland/materials/gold-barb/gold-barb.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">

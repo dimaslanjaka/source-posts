@@ -8,11 +8,12 @@ photos:
   - /chimeraland/materials/bluejade-fish/bluejade-fish.webp
 thumbnail: /chimeraland/materials/bluejade-fish/bluejade-fish.webp
 tags:
-  - Material
+  - chimeraland
+  - material
 categories:
   - Games
-  - Chimeraland
-  - Materials
+  - chimeraland
+  - material
 ---
 
 <section id="bootstrap-wrapper">
