@@ -1,9 +1,9 @@
 ---
 title: removes node_modules from git history
 date: 2023-05-16T05:35:19+07:00
-updated: 2023-05-18T22:00:16+07:00
-category: [programming, bash]
-tags: [bash, snippet, script]
+updated: 2023-05-23T10:24:39+07:00
+category: [programming, bash, github]
+tags: [bash, snippet, script, github]
 ---
 
 <!-- https://stackoverflow.com/questions/10067848/remove-folder-and-its-contents-from-git-githubs-history/61544937#61544937 -->
@@ -47,7 +47,7 @@ Most of the multi-line scripts above to remove `dir` from the history could be r
 
 ```bash
 git-filter-repo --path node_modules --invert-paths --refs BRANCH_NAME
-git push -u origin BRANCH_NAME --force-with-lease
+git push --force-with-lease -u origin BRANCH_NAME
 ```
 
 The tool is more powerful than just that, apparently. You can apply filters by author, email, refname and more ([full manpage here](https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html)). Furthermore, it is **fast**. Installation is easy - it is [distributed in a variety of formats](https://github.com/newren/git-filter-repo/blob/master/INSTALL.md).
