@@ -45,7 +45,7 @@ tags: [bash, snippet, script, github]
 
 ## [André Anjos' answer](https://stackoverflow.com/posts/61544937/timeline)
 
-> required [git-filter-branch](https://www.webmanajemen.com/2023/03/install-git-filter-repo.html)
+> required [git-filter-repo](https://www.webmanajemen.com/2023/03/install-git-filter-repo.html)
 
 It appears that the up-to-date answer to this is to **not** use `filter-branch` directly (at least git itself does not recommend it anymore), and defer that work to an external tool. In particular, [git-filter-repo](https://github.com/newren/git-filter-repo/) is currently recommended. The author of that tool [provides arguments](https://github.com/newren/git-filter-repo/#filter-branch) on why using `filter-branch` directly can lead to issues.
 
