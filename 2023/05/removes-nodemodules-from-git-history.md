@@ -1,7 +1,7 @@
 ---
 title: removes node_modules from git history
 date: 2023-05-16T05:35:19+07:00
-updated: 2023-05-23T10:24:39+07:00
+updated: 2023-05-23T10:30:04+07:00
 category: [programming, bash, github]
 tags: [bash, snippet, script, github]
 ---
