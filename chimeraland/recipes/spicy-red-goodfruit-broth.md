@@ -24,7 +24,7 @@ categories:
 <section id="bootstrap-wrapper">
   <link
     rel="stylesheet"
-    href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/0c3b5aa1813bd4abcd2c11bf3e37928b15c28664/css/bootstrap-5-3-0-alpha3-wrapper.css"
+    href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
   />
   <div class="row mb-2">
     <div class="col-md-12 mb-2">
