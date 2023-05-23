@@ -14,7 +14,7 @@
     "start": "node --loader ts-node/esm -r dotenv/config src/translate.ts",
     "postinstall": "node postinstall.cjs --yarn",
     "update:postinstall": "curl -L https://github.com/dimaslanjaka/nodejs-package-types/raw/main/postinstall.js > postinstall.cjs",
-    "update:ncu": "npx npm-check-updates -u",
+    "update:ncu": "npx npm-check-updates -u -x jsdom",
     "update": "run-s update:**",
     "postupdate": "npm install",
     "fix:puppeteer": "node node_modules/puppeteer/install.js"
@@ -68,24 +68,24 @@
     "sbg-utility": "^1.0.9",
     "upath": "^2.0.1"
   },
-  "packageManager": "yarn@3.5.0",
+  "packageManager": "yarn@3.5.1",
   "resolutions": {
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/tarball/private",
     "safelinkify": "https://github.com/dimaslanjaka/safelink/raw/monorepo/release/safelinkify.tgz",
-    "sbg-api": "https://github.com/dimaslanjaka/static-blog-generator/raw/beta/packages/sbg-api/release/sbg-api.tgz",
-    "sbg-cli": "https://github.com/dimaslanjaka/static-blog-generator/raw/beta/packages/sbg-cli/release/sbg-cli.tgz",
-    "sbg-server": "https://github.com/dimaslanjaka/static-blog-generator/raw/beta/packages/sbg-server/release/sbg-server.tgz",
-    "sbg-utility": "https://github.com/dimaslanjaka/static-blog-generator/raw/beta/packages/sbg-utility/release/sbg-utility.tgz",
-    "sitemap-crawler": "https://github.com/dimaslanjaka/static-blog-generator/raw/beta/packages/sitemap-crawler/release/sitemap-crawler.tgz",
-    "static-blog-generator": "https://github.com/dimaslanjaka/static-blog-generator/raw/beta/packages/static-blog-generator/release/static-blog-generator.tgz",
+    "sbg-api": "https://github.com/dimaslanjaka/static-blog-generator/raw/8cf940f/packages/sbg-api/release/sbg-api.tgz",
+    "sbg-cli": "https://github.com/dimaslanjaka/static-blog-generator/raw/8cf940f/packages/sbg-cli/release/sbg-cli.tgz",
+    "sbg-server": "https://github.com/dimaslanjaka/static-blog-generator/raw/8cf940f/packages/sbg-server/release/sbg-server.tgz",
+    "sbg-utility": "https://github.com/dimaslanjaka/static-blog-generator/raw/8cf940f/packages/sbg-utility/release/sbg-utility.tgz",
+    "sitemap-crawler": "https://github.com/dimaslanjaka/static-blog-generator/raw/8cf940f/packages/sitemap-crawler/release/sitemap-crawler.tgz",
+    "static-blog-generator": "https://github.com/dimaslanjaka/static-blog-generator/raw/8cf940f/packages/static-blog-generator/release/static-blog-generator.tgz",
     "hexo-blogger-xml": "https://github.com/dimaslanjaka/hexo-blogger-xml/raw/monorepo/release/hexo-blogger-xml.tgz",
     "hexo-post-parser": "https://github.com/dimaslanjaka/hexo-post-parser/raw/monorepo/release/hexo-post-parser.tgz",
-    "hexo-asset-link": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v7/releases/hexo-asset-link.tgz",
-    "hexo-front-matter": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v7/releases/hexo-front-matter.tgz",
-    "hexo": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v7/releases/hexo.tgz",
-    "warehouse": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v7/releases/warehouse.tgz",
-    "hexo-theme-landscape": "https://github.com/dimaslanjaka/hexo/raw/monorepo-v7/releases/hexo-theme-landscape.tgz",
-    "git-command-helper": "https://github.com/dimaslanjaka/git-command-helper/raw/monorepo/release/git-command-helper.tgz",
-    "instant-indexing": "https://github.com/dimaslanjaka/static-blog-generator/raw/beta/packages/instant-indexing/release/instant-indexing.tgz"
+    "hexo-asset-link": "https://github.com/dimaslanjaka/hexo/raw/7c3a93f/releases/hexo-asset-link.tgz",
+    "hexo-front-matter": "https://github.com/dimaslanjaka/hexo/raw/7c3a93f/releases/hexo-front-matter.tgz",
+    "hexo": "https://github.com/dimaslanjaka/hexo/raw/7c3a93f/releases/hexo.tgz",
+    "warehouse": "https://github.com/dimaslanjaka/hexo/raw/7c3a93f/releases/warehouse.tgz",
+    "hexo-theme-landscape": "https://github.com/dimaslanjaka/hexo/raw/7c3a93f/releases/hexo-theme-landscape.tgz",
+    "git-command-helper": "https://github.com/dimaslanjaka/git-command-helper/raw/f87e951/release/git-command-helper.tgz",
+    "instant-indexing": "https://github.com/dimaslanjaka/static-blog-generator/raw/8cf940f/packages/instant-indexing/release/instant-indexing.tgz"
   }
 }
