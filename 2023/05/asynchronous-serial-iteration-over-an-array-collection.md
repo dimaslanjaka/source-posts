@@ -18,6 +18,7 @@ Book Node.js design patterns by Mario Casciaro and Luciano Mammino modified by L
 ## Features
 - iterate without callback (auto detect callback is called or not)
 - support asynchronous or synchronous callback function
+- typescript generic type supported
 
 ## Javascript Asynchronous serial iteration over an array collection
 
