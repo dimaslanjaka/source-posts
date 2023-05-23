@@ -13,7 +13,7 @@ This is an example of a very common Node.js design pattern.
 Serial asynchronous iteration over collections (arrays) using callbacks.
 
 If you want to learn more about common (and not-so-common) Node.js design patterns, check this out.
-Book Node.js design patterns by Mario Casciaro and Luciano Mammino modified by L3n4r0x support for typescript.
+Book Node.js design patterns by Mario Casciaro and Luciano Mammino modified by L3n4r0x support for typescript. [source](https://gist.github.com/lmammino/ac91a7bde88c0f6c6962268d67e3ffbe)
 
 ## Features
 - iterate without callback (auto detect callback is called or not)
