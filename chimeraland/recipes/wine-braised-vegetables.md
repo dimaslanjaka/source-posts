@@ -64,7 +64,7 @@ categories:
               Buff Wine-Braised Vegetables not yet written
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark text-white">recipe</span>
+          <span class="badge rounded-pill">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -72,25 +72,25 @@ categories:
   </div>
   <div class="row mb-2">
     <div class="col-12 col-lg-6 recipe-item mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h2 class="card-title fs-5">Recipe Wine-Braised Vegetables 1</h2>
           <div class="card-text">
             <ul>
               <li>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/recipes/fruit-and-veggie-paste.html"
                   >Fruit &amp; Veggie Paste</a
                 ><span> + </span>Peanut Oil<span> + </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/recipes/fruit-and-veggie-paste.html"
                   >Fruit &amp; Veggie Paste</a
                 ><span> + </span>Any Lv.5 Crop<span> / </span>Any Lv.6 Crop<span>
                   + </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
                 >

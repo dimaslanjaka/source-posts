@@ -55,7 +55,7 @@ categories:
               Buff Stir-Fried Browtelope not yet written
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark text-white">recipe</span>
+          <span class="badge rounded-pill">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -63,35 +63,35 @@ categories:
   </div>
   <div class="row mb-2">
     <div class="col-12 col-lg-6 recipe-item mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h2 class="card-title fs-5">Recipe Stir-Fried Browtelope 1</h2>
           <div class="card-text">
             <ul>
               <li>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/bone-sheep-primal-spirit.html"
                   >Bone Sheep Primal Spirit</a
                 ><span> + </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/bone-sheep-primal-spirit.html"
                   >Bone Sheep Primal Spirit</a
                 ><span> + </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
                 ><span> + </span>Corriander Powder<span> / </span>Five Spice
                 Sauce<span> + </span>Corriander<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/flat-cabbage.html"
                   >Flat Cabbage</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/watermelon.html"
                   >Watermelon</a
                 >

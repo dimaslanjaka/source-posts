@@ -22,7 +22,7 @@ categories:
     href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
   />
   <div
-    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative bg-light text-dark"
+    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative"
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
@@ -30,7 +30,7 @@ categories:
       <div class="mb-1 text-muted">October 9, 2022 9:26 AM</div>
       <a
         href="/chimeraland/materials/wild-garlic.html"
-        class="stretched-link d-none"
+        class="stretched-link d-none text-primary"
         >Continue reading Wild Garlic</a
       >
     </div>
@@ -41,9 +41,9 @@ categories:
       />
     </div>
   </div>
-  <div class="row bg-light text-dark">
+  <div class="row">
     <div class="col-lg-6 col-12 mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h3 class="card-title">What is the use of the Wild Garlic</h3>
           <div class="card-text">
@@ -58,7 +58,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h3 class="card-title">How to get Wild Garlic</h3>
           <div class="card-text">
@@ -85,11 +85,11 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/wolfspider-meat.html"
                   >Wolfspider Meat</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
                 ><br />Garlic Powder
@@ -111,11 +111,11 @@ categories:
               <th>Material</th>
               <td>
                 Garlic Powder<br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/crab-claw-meat.html"
                   >Crab Claw Meat</a
                 >
@@ -137,11 +137,11 @@ categories:
               <th>Material</th>
               <td>
                 Garlic Powder<br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/scorab-meat.html"
                   >Scorab Meat</a
                 >
@@ -163,11 +163,11 @@ categories:
               <th>Material</th>
               <td>
                 Garlic Powder<br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beetlefly-meat.html"
                   >Beetlefly Meat</a
                 >
@@ -193,7 +193,7 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
                 ><br />Any Wild Fruit
@@ -219,11 +219,11 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/recipes/fruit-and-veggie-paste.html"
                   >Fruit &amp; Veggie Paste</a
                 >
@@ -245,11 +245,11 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/recipes/veggie-paste.html"
                   >Veggie Paste</a
                 >
@@ -275,16 +275,16 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
                 ><br />Any Meat
@@ -312,7 +312,7 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/wild-garlic.html"
                   >Wild Garlic</a
                 ><br />Garlic Powder<br />Any Lv.2, Lv.3 and Lv.4 Crop

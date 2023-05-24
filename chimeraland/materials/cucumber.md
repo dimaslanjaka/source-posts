@@ -22,7 +22,7 @@ categories:
     href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
   />
   <div
-    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative bg-light text-dark"
+    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative"
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
@@ -30,7 +30,7 @@ categories:
       <div class="mb-1 text-muted">October 5, 2022 1:26 AM</div>
       <a
         href="/chimeraland/materials/cucumber.html"
-        class="stretched-link d-none"
+        class="stretched-link d-none text-primary"
         >Continue reading Cucumber</a
       >
     </div>
@@ -38,9 +38,9 @@ categories:
       <img src="/chimeraland/materials/cucumber/cucumber.webp" alt="Cucumber" />
     </div>
   </div>
-  <div class="row bg-light text-dark">
+  <div class="row">
     <div class="col-lg-6 col-12 mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h3 class="card-title">What is the use of the Cucumber</h3>
           <div class="card-text"><ul></ul></div>
@@ -48,7 +48,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h3 class="card-title">How to get Cucumber</h3>
           <div class="card-text">
@@ -74,11 +74,11 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/cucumber.html"
                   >Cucumber</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/job&#x27;s-tears.html"
                   >Job&#x27;s Tears</a
                 ><br />Any Wild Fruit
@@ -104,34 +104,34 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/grizzly-primal-spirit.html"
                   >Grizzly Primal Spirit</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/grizzly-primal-spirit.html"
                   >Grizzly Primal Spirit</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/recipes/red-hot-sauce.html"
                   >Red Hot Sauce</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/recipes/cucumber-sauce.html"
                   >Cucumber Sauce</a
                 ><span> / </span>Fruit Sauce<br />Corriander<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/flat-cabbage.html"
                   >Flat Cabbage</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/watermelon.html"
                   >Watermelon</a
                 >
@@ -157,24 +157,24 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/flamebug-primal-spirit.html"
                   >Flamebug Primal Spirit</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/flamebug-primal-spirit.html"
                   >Flamebug Primal Spirit</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
                 ><br />Any Meat<br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/recipes/red-hot-sauce.html"
                   >Red Hot Sauce</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/recipes/cucumber-sauce.html"
                   >Cucumber Sauce</a
                 ><span> / </span>Fruit Sauce
@@ -202,24 +202,24 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/icebug-primal-spirit.html"
                   >Icebug Primal Spirit</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/icebug-primal-spirit.html"
                   >Icebug Primal Spirit</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/recipes/red-hot-sauce.html"
                   >Red Hot Sauce</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/recipes/cucumber-sauce.html"
                   >Cucumber Sauce</a
                 ><span> / </span>Fruit Sauce<br />Orange Grade Fish

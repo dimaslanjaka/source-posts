@@ -22,13 +22,15 @@ categories:
     href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
   />
   <div
-    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative bg-light text-dark"
+    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative"
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Dung</h2>
       <div class="mb-1 text-muted">October 5, 2022 8:26 AM</div>
-      <a href="/chimeraland/materials/dung.html" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/dung.html"
+        class="stretched-link d-none text-primary"
         >Continue reading Dung</a
       >
     </div>
@@ -36,9 +38,9 @@ categories:
       <img src="/chimeraland/materials/dung/dung.webp" alt="Dung" />
     </div>
   </div>
-  <div class="row bg-light text-dark">
+  <div class="row">
     <div class="col-lg-6 col-12 mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h3 class="card-title">What is the use of the Dung</h3>
           <div class="card-text">
@@ -54,7 +56,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h3 class="card-title">How to get Dung</h3>
           <div class="card-text">
@@ -80,16 +82,16 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
                 >
@@ -111,7 +113,7 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
                 ><br />Any Fish
@@ -133,7 +135,7 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
                 ><br />Any Grade Crop
@@ -155,7 +157,7 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
                 ><br />Any High Quality Seasoning<span> / </span>Any Flower<span>
@@ -195,7 +197,7 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/insect-ichor.html"
                   >Insect Ichor</a
                 >
@@ -241,15 +243,15 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/hot-pepper.html"
                   >Hot Pepper</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/dung.html"
                   >Dung</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/peanut.html"
                   >Peanut</a
                 >

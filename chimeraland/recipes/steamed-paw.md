@@ -63,7 +63,7 @@ categories:
               <li>+200 atk</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark text-white">recipe</span>
+          <span class="badge rounded-pill">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -71,30 +71,30 @@ categories:
   </div>
   <div class="row mb-2">
     <div class="col-12 col-lg-6 recipe-item mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h2 class="card-title fs-5">Recipe Steamed Paw 1</h2>
           <div class="card-text">
             <ul>
               <li>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/bear-paw.html"
                   >Bear Paw</a
                 ><span> + </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
                 ><span> + </span>Five Spice Powder<span> + </span>Any Wild
                 Fruit<span> + </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
                 >
@@ -106,34 +106,34 @@ categories:
       </div>
     </div>
     <div class="col-12 col-lg-6 recipe-item mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h2 class="card-title fs-5">Recipe Steamed Paw 2</h2>
           <div class="card-text">
             <ul>
               <li>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/bear-paw.html"
                   >Bear Paw</a
                 ><span> + </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/orchid.html"
                   >Orchid</a
                 ><span> + </span>Five Spice Powder<span> + </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/apple.html"
                   >Apple</a
                 ><span> + </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
                 >

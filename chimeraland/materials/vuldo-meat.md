@@ -22,7 +22,7 @@ categories:
     href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
   />
   <div
-    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative bg-light text-dark"
+    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative"
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
@@ -30,7 +30,7 @@ categories:
       <div class="mb-1 text-muted">September 30, 2022 7:26 AM</div>
       <a
         href="/chimeraland/materials/vuldo-meat.html"
-        class="stretched-link d-none"
+        class="stretched-link d-none text-primary"
         >Continue reading Vuldo Meat</a
       >
     </div>
@@ -41,9 +41,9 @@ categories:
       />
     </div>
   </div>
-  <div class="row bg-light text-dark">
+  <div class="row">
     <div class="col-lg-6 col-12 mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h3 class="card-title">What is the use of the Vuldo Meat</h3>
           <div class="card-text"><ul></ul></div>
@@ -51,7 +51,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h3 class="card-title">How to get Vuldo Meat</h3>
           <div class="card-text">
@@ -78,11 +78,11 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/watermelon.html"
                   >Watermelon</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
                 >
@@ -108,11 +108,11 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/dew.html"
                   >Dew</a
                 ><br />Any Seasoning<br />Any Lv.5<span> / </span>Lv.6 Crop
@@ -134,11 +134,11 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
                 ><br />Any Seasoning<br />Any Lv.5<span> / </span>Lv.6 Crop
@@ -164,7 +164,7 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
                 ><br />Any Wild Fruit<br />Any Lv.4 Crop
@@ -190,11 +190,11 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/condor-meat.html"
                   >Condor Meat</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/condor-meat.html"
                   >Condor Meat</a
                 ><br />Any Sweet Sauce<br />Peanut Oil
@@ -216,11 +216,11 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/vulture-meat.html"
                   >Vulture Meat</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/vulture-meat.html"
                   >Vulture Meat</a
                 ><br />Any Sweet Sauce<br />Peanut Oil
@@ -242,11 +242,11 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
                 ><br />Any Sweet Sauce<br />Peanut Oil

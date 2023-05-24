@@ -22,7 +22,7 @@ categories:
     href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
   />
   <div
-    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative bg-light text-dark"
+    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative"
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
@@ -30,7 +30,7 @@ categories:
       <div class="mb-1 text-muted">October 4, 2022 8:26 AM</div>
       <a
         href="/chimeraland/materials/pumpkin.html"
-        class="stretched-link d-none"
+        class="stretched-link d-none text-primary"
         >Continue reading Pumpkin</a
       >
     </div>
@@ -38,9 +38,9 @@ categories:
       <img src="/chimeraland/materials/pumpkin/pumpkin.webp" alt="Pumpkin" />
     </div>
   </div>
-  <div class="row bg-light text-dark">
+  <div class="row">
     <div class="col-lg-6 col-12 mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h3 class="card-title">What is the use of the Pumpkin</h3>
           <div class="card-text"><ul></ul></div>
@@ -48,7 +48,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h3 class="card-title">How to get Pumpkin</h3>
           <div class="card-text">
@@ -76,11 +76,11 @@ categories:
               <th>Material</th>
               <td>
                 Peanut Oil<br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/grouguana-meat.html"
                   >Grouguana Meat</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/pumpkin.html"
                   >Pumpkin</a
                 ><br />Any Flower<span> / </span>Any Mutant Flower
@@ -106,7 +106,7 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/pumpkin.html"
                   >Pumpkin</a
                 ><br />Any Lv.6 Crop<br />Any Meat<br />Any Meat<br />Any Lv.3
@@ -154,7 +154,7 @@ categories:
               <th>Material</th>
               <td>
                 Egg White<br />Any Meat<br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/lemon-tree-leaf.html"
                   >Lemon Tree Leaf</a
                 ><span> / </span>Any rare Crops such as pumpkin etc<br />any

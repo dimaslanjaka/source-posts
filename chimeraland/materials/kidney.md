@@ -22,13 +22,15 @@ categories:
     href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
   />
   <div
-    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative bg-light text-dark"
+    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative"
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
       <h2 class="mb-0">Kidney</h2>
       <div class="mb-1 text-muted">September 30, 2022 7:26 PM</div>
-      <a href="/chimeraland/materials/kidney.html" class="stretched-link d-none"
+      <a
+        href="/chimeraland/materials/kidney.html"
+        class="stretched-link d-none text-primary"
         >Continue reading Kidney</a
       >
     </div>
@@ -36,9 +38,9 @@ categories:
       <img src="/chimeraland/materials/kidney/kidney.webp" alt="Kidney" />
     </div>
   </div>
-  <div class="row bg-light text-dark">
+  <div class="row">
     <div class="col-lg-6 col-12 mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h3 class="card-title">What is the use of the Kidney</h3>
           <div class="card-text"><ul></ul></div>
@@ -46,7 +48,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h3 class="card-title">How to get Kidney</h3>
           <div class="card-text">
@@ -72,7 +74,7 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-intestines.html"
                   >Beast Intestines</a
                 ><br />Any Lv.4 Crop<span> / </span>Any Lv.5 Crop<span> / </span
@@ -96,7 +98,7 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/kidney.html"
                   >Kidney</a
                 ><br />Peanut Oil<br />Any Lv.4 Crop<span> / </span>Any Lv.5
@@ -127,32 +129,32 @@ categories:
                 Any Meat<br />Any Wild Fruit<span> / </span>Any Seasoning<span>
                   / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-heart.html"
                   >Beast Heart</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
                 ><span> / </span>Beast Insentines<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/kidney.html"
                   >Kidney</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/hoof-sinew.html"
                   >Hoof Sinew</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
                 ><span> / </span>Any Spice
@@ -197,11 +199,11 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/kidney.html"
                   >Kidney</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/kidney.html"
                   >Kidney</a
                 >
@@ -230,32 +232,32 @@ categories:
                   / </span
                 >Any Spice<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-heart.html"
                   >Beast Heart</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
                 ><span> / </span>Beast Insentines<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/kidney.html"
                   >Kidney</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/hoof-sinew.html"
                   >Hoof Sinew</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
                 >
@@ -300,32 +302,32 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-heart.html"
                   >Beast Heart</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
                 ><span> / </span>Beast Insentines<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/kidney.html"
                   >Kidney</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/hoof-sinew.html"
                   >Hoof Sinew</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
                 ><br />Any Lv.5 Crop<span> / </span>Any Lv.6 Crop
@@ -383,119 +385,119 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
                 ><span> / </span>Dew, Beast Heart<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
                 ><span> / </span>Beast Insentines<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/kidney.html"
                   >Kidney</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/hoof-sinew.html"
                   >Hoof Sinew</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
                 ><span> / </span>Dew, Beast Heart<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
                 ><span> / </span>Beast Insentines<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/kidney.html"
                   >Kidney</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/hoof-sinew.html"
                   >Hoof Sinew</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
                 ><span> / </span>Dew, Beast Heart<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
                 ><span> / </span>Beast Insentines<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/kidney.html"
                   >Kidney</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/hoof-sinew.html"
                   >Hoof Sinew</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/ice-piece.html"
                   >Ice Piece</a
                 ><span> / </span>Dew, Beast Heart<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
                 ><span> / </span>Beast Insentines<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/kidney.html"
                   >Kidney</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/hoof-sinew.html"
                   >Hoof Sinew</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
                 >
@@ -521,44 +523,44 @@ categories:
               <th>Material</th>
               <td>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                   >Spirit Fox Primal Spirit</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/spirit-fox-primal-spirit.html"
                   >Spirit Fox Primal Spirit</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/chimeraland-beast-hide.html"
                   >Chimeraland Beast Hide</a
                 ><br /><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-heart.html"
                   >Beast Heart</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-liver.html"
                   >Beast Liver</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/beast-brain.html"
                   >Beast Brain</a
                 ><span> / </span>Beast Insentines<span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/kidney.html"
                   >Kidney</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/hoof-sinew.html"
                   >Hoof Sinew</a
                 ><span> / </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/chunk-of-fat.html"
                   >Chunk Of Fat</a
                 ><br />Corriander Powder<span> / </span>Five Spice Sauce

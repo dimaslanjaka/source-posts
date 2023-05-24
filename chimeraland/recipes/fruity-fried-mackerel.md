@@ -55,7 +55,7 @@ categories:
               Buff Fruity Fried Mackerel not yet written
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark text-white">recipe</span>
+          <span class="badge rounded-pill">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -63,7 +63,7 @@ categories:
   </div>
   <div class="row mb-2">
     <div class="col-12 col-lg-6 recipe-item mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h2 class="card-title fs-5">Recipe Fruity Fried Mackerel 1</h2>
           <div class="card-text">

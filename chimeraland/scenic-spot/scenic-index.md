@@ -41,6 +41,7 @@ author:
           href="https://steamcommunity.com/stats/1913730/achievements"
           rel="nofollow noopener noreferer noreferrer"
           target="_blank"
+          class="text-primary"
           >View Details Here</a
         >
       </p>

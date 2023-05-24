@@ -63,7 +63,7 @@ categories:
               <li>+80 DEF</li>
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark text-white">recipe</span>
+          <span class="badge rounded-pill">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -71,19 +71,19 @@ categories:
   </div>
   <div class="row mb-2">
     <div class="col-12 col-lg-6 recipe-item mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 1</h2>
           <div class="card-text">
             <ul>
               <li>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/condor-meat.html"
                   >Condor Meat</a
                 ><span> + </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/condor-meat.html"
                   >Condor Meat</a
                 ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
@@ -95,19 +95,19 @@ categories:
       </div>
     </div>
     <div class="col-12 col-lg-6 recipe-item mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 2</h2>
           <div class="card-text">
             <ul>
               <li>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/vulture-meat.html"
                   >Vulture Meat</a
                 ><span> + </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/vulture-meat.html"
                   >Vulture Meat</a
                 ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil
@@ -119,19 +119,19 @@ categories:
       </div>
     </div>
     <div class="col-12 col-lg-6 recipe-item mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h2 class="card-title fs-5">Recipe Honey Grilled Chicken 3</h2>
           <div class="card-text">
             <ul>
               <li>
                 <a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
                 ><span> + </span
                 ><a
-                  class="text-decoration-none"
+                  class="text-decoration-none text-primary"
                   href="/chimeraland/materials/vuldo-meat.html"
                   >Vuldo Meat</a
                 ><span> + </span>Any Sweet Sauce<span> + </span>Peanut Oil

@@ -22,7 +22,7 @@ categories:
     href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
   />
   <div
-    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative bg-light text-dark"
+    class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm position-relative"
   >
     <div class="col p-4 d-flex flex-column position-static">
       <strong class="d-inline-block mb-2 text-success">materials</strong>
@@ -30,7 +30,7 @@ categories:
       <div class="mb-1 text-muted">September 30, 2022 11:26 AM</div>
       <a
         href="/chimeraland/materials/alligon-meat.html"
-        class="stretched-link d-none"
+        class="stretched-link d-none text-primary"
         >Continue reading Alligon Meat</a
       >
     </div>
@@ -41,9 +41,9 @@ categories:
       />
     </div>
   </div>
-  <div class="row bg-light text-dark">
+  <div class="row">
     <div class="col-lg-6 col-12 mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h3 class="card-title">What is the use of the Alligon Meat</h3>
           <div class="card-text"><ul></ul></div>
@@ -51,7 +51,7 @@ categories:
       </div>
     </div>
     <div class="col-lg-6 col-12 mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h3 class="card-title">How to get Alligon Meat</h3>
           <div class="card-text">
@@ -61,6 +61,43 @@ categories:
               <li>Orient the Resource Finder to find.</li>
             </ul>
           </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 mb-2">
+      <h2 id="cookable">Cooking Recipes Using Alligon Meat</h2>
+      <div id="recipe-dragon-meat-stew">
+        <h3 id="item-dragon-meat-stew">Dragon Meat Stew</h3>
+        <div class="mb-2">
+          <table class="table">
+            <tr>
+              <th>Recipe Name</th>
+              <td><b>Dragon Meat Stew</b> 1</td>
+            </tr>
+            <tr>
+              <th>Material</th>
+              <td>
+                <a
+                  class="text-decoration-none text-primary"
+                  href="/chimeraland/materials/alligon-meat.html"
+                  >Alligon Meat</a
+                ><br /><a
+                  class="text-decoration-none text-primary"
+                  href="/chimeraland/materials/dew.html"
+                  >Dew</a
+                ><span> / </span
+                ><a
+                  class="text-decoration-none text-primary"
+                  href="/chimeraland/materials/ice-piece.html"
+                  >Ice Piece</a
+                ><br />Any Lv.6 Crop<br />Any Lv.6 Crop
+              </td>
+            </tr>
+            <tr>
+              <th>Device</th>
+              <td>Stove or Camp</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>

@@ -64,7 +64,7 @@ categories:
               Buff Fried Seasonal Vegetables not yet written
             </ul>
           </div>
-          <span class="badge rounded-pill bg-dark text-white">recipe</span>
+          <span class="badge rounded-pill">recipe</span>
         </div>
         <div class="card-footer text-end text-muted">webmanajemen.com</div>
       </div>
@@ -72,7 +72,7 @@ categories:
   </div>
   <div class="row mb-2">
     <div class="col-12 col-lg-6 recipe-item mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h2 class="card-title fs-5">Recipe Fried Seasonal Vegetables 1</h2>
           <div class="card-text">
@@ -85,7 +85,7 @@ categories:
       </div>
     </div>
     <div class="col-12 col-lg-6 recipe-item mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h2 class="card-title fs-5">Recipe Fried Seasonal Vegetables 2</h2>
           <div class="card-text">
@@ -102,7 +102,7 @@ categories:
       </div>
     </div>
     <div class="col-12 col-lg-6 recipe-item mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h2 class="card-title fs-5">Recipe Fried Seasonal Vegetables 3</h2>
           <div class="card-text">
@@ -120,7 +120,7 @@ categories:
       </div>
     </div>
     <div class="col-12 col-lg-6 recipe-item mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h2 class="card-title fs-5">Recipe Fried Seasonal Vegetables 4</h2>
           <div class="card-text">
@@ -138,7 +138,7 @@ categories:
       </div>
     </div>
     <div class="col-12 col-lg-6 recipe-item mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h2 class="card-title fs-5">Recipe Fried Seasonal Vegetables 5</h2>
           <div class="card-text">
@@ -155,7 +155,7 @@ categories:
       </div>
     </div>
     <div class="col-12 col-lg-6 recipe-item mb-2">
-      <div class="card">
+      <div class="card bg-dark text-light">
         <div class="card-body">
           <h2 class="card-title fs-5">Recipe Fried Seasonal Vegetables 6</h2>
           <div class="card-text">
