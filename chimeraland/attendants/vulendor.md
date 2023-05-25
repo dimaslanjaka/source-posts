@@ -28,100 +28,102 @@ categories:
   href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
 />
 <section id="bootstrap-wrapper">
-  <h2>vulendor Information from Chimeraland</h2>
-  <h2 id="attribute"><i>vulendor</i> default maximum attribute</h2>
-  <div class="row">
-    <div class="col mb-2">
-      <div class="card bg-dark text-light">
-        <div class="card-body">
-          <table>
-            <tr>
-              <th>GRADE</th>
-              <td>N/A <br />N/A</td>
-            </tr>
-            <tr>
-              <th>Attack</th>
-              <td>N/A</td>
-            </tr>
-            <tr>
-              <th>Health Point (HP)</th>
-              <td>N/A</td>
-            </tr>
-            <tr>
-              <th>Defense</th>
-              <td></td>
-            </tr>
+  <div data-bs-theme="dark">
+    <h2>vulendor Information from Chimeraland</h2>
+    <h2 id="attribute"><i>vulendor</i> default maximum attribute</h2>
+    <div class="row">
+      <div class="col mb-2">
+        <div class="card">
+          <div class="card-body">
+            <table>
+              <tr>
+                <th>GRADE</th>
+                <td>N/A <br />N/A</td>
+              </tr>
+              <tr>
+                <th>Attack</th>
+                <td>N/A</td>
+              </tr>
+              <tr>
+                <th>Health Point (HP)</th>
+                <td>N/A</td>
+              </tr>
+              <tr>
+                <th>Defense</th>
+                <td></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <blockquote>
+      Note: vulendor stat will increase based on their <b>grade</b> and
+      <b>delicacies/tasty</b>.
+    </blockquote>
+    <hr />
+    <h2 id="delicacies">Delicacies/Tasty for vulendor</h2>
+    <div class="card">
+      <div class="card-body">
+        <div class="table-responsive">
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>Recipe Name</th>
+                <th>Link</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
           </table>
         </div>
       </div>
     </div>
-  </div>
-  <blockquote>
-    Note: vulendor stat will increase based on their <b>grade</b> and
-    <b>delicacies/tasty</b>.
-  </blockquote>
-  <hr />
-  <h2 id="delicacies">Delicacies/Tasty for vulendor</h2>
-  <div class="card">
-    <div class="card-body">
-      <div class="table-responsive">
-        <table class="table table-striped table-dark">
-          <thead>
-            <tr>
-              <th>Recipe Name</th>
-              <th>Link</th>
-            </tr>
-          </thead>
-          <tbody></tbody>
-        </table>
-      </div>
-    </div>
-  </div>
-  <hr />
-  <div id="gallery">
-    <h2>Galleries for vulendor</h2>
-    <div class="row">
-      <div class="col-lg-6 col-12">
-        <img
-          src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-29-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          alt="vulendor Screenshot_2022-11-27-09-34-29-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-        />
-      </div>
-      <div class="col-lg-6 col-12">
-        <img
-          src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-36-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          alt="vulendor Screenshot_2022-11-27-09-34-36-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-        />
-      </div>
-      <div class="col-lg-6 col-12">
-        <img
-          src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-41-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          alt="vulendor Screenshot_2022-11-27-09-34-41-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-        />
-      </div>
-      <div class="col-lg-6 col-12">
-        <img
-          src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-47-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          alt="vulendor Screenshot_2022-11-27-09-34-47-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-        />
-      </div>
-      <div class="col-lg-6 col-12">
-        <img
-          src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          alt="vulendor Screenshot_2022-11-27-09-34-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-        />
-      </div>
-      <div class="col-lg-6 col-12">
-        <img
-          src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-35-02-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          alt="vulendor Screenshot_2022-11-27-09-35-02-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-        />
-      </div>
-      <div class="col-lg-6 col-12">
-        <img
-          src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-35-08-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          alt="vulendor Screenshot_2022-11-27-09-35-08-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-        />
+    <hr />
+    <div id="gallery">
+      <h2>Galleries for vulendor</h2>
+      <div class="row">
+        <div class="col-lg-6 col-12">
+          <img
+            src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-29-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            alt="vulendor Screenshot_2022-11-27-09-34-29-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          />
+        </div>
+        <div class="col-lg-6 col-12">
+          <img
+            src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-36-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            alt="vulendor Screenshot_2022-11-27-09-34-36-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          />
+        </div>
+        <div class="col-lg-6 col-12">
+          <img
+            src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-41-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            alt="vulendor Screenshot_2022-11-27-09-34-41-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          />
+        </div>
+        <div class="col-lg-6 col-12">
+          <img
+            src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-47-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            alt="vulendor Screenshot_2022-11-27-09-34-47-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          />
+        </div>
+        <div class="col-lg-6 col-12">
+          <img
+            src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            alt="vulendor Screenshot_2022-11-27-09-34-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          />
+        </div>
+        <div class="col-lg-6 col-12">
+          <img
+            src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-35-02-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            alt="vulendor Screenshot_2022-11-27-09-35-02-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          />
+        </div>
+        <div class="col-lg-6 col-12">
+          <img
+            src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-35-08-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            alt="vulendor Screenshot_2022-11-27-09-35-08-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          />
+        </div>
       </div>
     </div>
   </div>

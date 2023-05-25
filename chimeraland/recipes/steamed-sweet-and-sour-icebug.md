@@ -21,11 +21,11 @@ categories:
   - recipes
 ---
 
+<link
+  rel="stylesheet"
+  href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
+/>
 <section id="bootstrap-wrapper">
-  <link
-    rel="stylesheet"
-    href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
-  />
   <div class="row mb-2">
     <div class="col-md-12 mb-2">
       <table class="table" id="post-info">

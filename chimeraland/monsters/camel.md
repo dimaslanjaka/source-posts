@@ -33,134 +33,136 @@ description: monster Camel default quality GRADE C ATK 30 HP 50 DEF 60
   href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
 />
 <section id="bootstrap-wrapper">
-  <h2>Camel Information from Chimeraland</h2>
-  <h2 id="attribute"><i>Camel</i> default maximum attribute</h2>
-  <div class="row">
-    <div class="col mb-2">
-      <div class="card bg-dark text-light">
-        <div class="card-body">
-          <table>
-            <tr>
-              <th>GRADE</th>
-              <td>C <br /><span class="text-primary">RARE</span></td>
-            </tr>
-            <tr>
-              <th>Attack</th>
-              <td>30</td>
-            </tr>
-            <tr>
-              <th>Health Point (HP)</th>
-              <td>50</td>
-            </tr>
-            <tr>
-              <th>Defense</th>
-              <td>60</td>
-            </tr>
+  <div data-bs-theme="dark">
+    <h2>Camel Information from Chimeraland</h2>
+    <h2 id="attribute"><i>Camel</i> default maximum attribute</h2>
+    <div class="row">
+      <div class="col mb-2">
+        <div class="card">
+          <div class="card-body">
+            <table>
+              <tr>
+                <th>GRADE</th>
+                <td>C <br /><span class="text-primary">RARE</span></td>
+              </tr>
+              <tr>
+                <th>Attack</th>
+                <td>30</td>
+              </tr>
+              <tr>
+                <th>Health Point (HP)</th>
+                <td>50</td>
+              </tr>
+              <tr>
+                <th>Defense</th>
+                <td>60</td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <blockquote>
+      Note: Camel stat will increase based on their <b>grade</b> and
+      <b>delicacies/tasty</b>.
+    </blockquote>
+    <hr />
+    <h2 id="delicacies">Delicacies/Tasty for Camel</h2>
+    <div class="card">
+      <div class="card-body">
+        <div class="table-responsive">
+          <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>Recipe Name</th>
+                <th>Link</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Savory Wolf Meat</td>
+                <td>
+                  <a
+                    href="#"
+                    class="text-primary"
+                    title="Click here to view recipe Savory Wolf Meat details"
+                    ><i>Savory Wolf Meat</i> details</a
+                  >
+                </td>
+              </tr>
+              <tr>
+                <td>Pepper Salt Scorpion Pincer</td>
+                <td>
+                  <a
+                    href="#"
+                    class="text-primary"
+                    title="Click here to view recipe Pepper Salt Scorpion Pincer details"
+                    ><i>Pepper Salt Scorpion Pincer</i> details</a
+                  >
+                </td>
+              </tr>
+              <tr>
+                <td>Stir-Fried Browtelope</td>
+                <td>
+                  <a
+                    href="https://www.webmanajemen.com/chimeraland/recipes/stir-fried-browtelope.html"
+                    class="text-primary"
+                    title="Click here to view recipe Stir-Fried Browtelope details"
+                    ><i>Stir-Fried Browtelope</i> details</a
+                  >
+                </td>
+              </tr>
+            </tbody>
           </table>
         </div>
       </div>
     </div>
-  </div>
-  <blockquote>
-    Note: Camel stat will increase based on their <b>grade</b> and
-    <b>delicacies/tasty</b>.
-  </blockquote>
-  <hr />
-  <h2 id="delicacies">Delicacies/Tasty for Camel</h2>
-  <div class="card">
-    <div class="card-body">
-      <div class="table-responsive">
-        <table class="table table-striped table-dark">
-          <thead>
-            <tr>
-              <th>Recipe Name</th>
-              <th>Link</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Savory Wolf Meat</td>
-              <td>
-                <a
-                  href="#"
-                  class="text-primary"
-                  title="Click here to view recipe Savory Wolf Meat details"
-                  ><i>Savory Wolf Meat</i> details</a
-                >
-              </td>
-            </tr>
-            <tr>
-              <td>Pepper Salt Scorpion Pincer</td>
-              <td>
-                <a
-                  href="#"
-                  class="text-primary"
-                  title="Click here to view recipe Pepper Salt Scorpion Pincer details"
-                  ><i>Pepper Salt Scorpion Pincer</i> details</a
-                >
-              </td>
-            </tr>
-            <tr>
-              <td>Stir-Fried Browtelope</td>
-              <td>
-                <a
-                  href="https://www.webmanajemen.com/chimeraland/recipes/stir-fried-browtelope.html"
-                  class="text-primary"
-                  title="Click here to view recipe Stir-Fried Browtelope details"
-                  ><i>Stir-Fried Browtelope</i> details</a
-                >
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
-  </div>
-  <hr />
-  <div id="gallery">
-    <h2>Galleries for Camel</h2>
-    <div class="row">
-      <div class="col-lg-6 col-12">
-        <img
-          src="https://www.webmanajemen.com/undefined"
-          alt="Camel undefined"
-        />
-      </div>
-      <div class="col-lg-6 col-12">
-        <img
-          src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          alt="Camel Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-        />
-      </div>
-      <div class="col-lg-6 col-12">
-        <img
-          src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          alt="Camel Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-        />
-      </div>
-      <div class="col-lg-6 col-12">
-        <img
-          src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          alt="Camel Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-        />
-      </div>
-      <div class="col-lg-6 col-12">
-        <img
-          src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          alt="Camel Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-        />
-      </div>
-      <div class="col-lg-6 col-12">
-        <img
-          src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          alt="Camel Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-        />
-      </div>
-      <div class="col-lg-6 col-12">
-        <img
-          src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          alt="Camel Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-        />
+    <hr />
+    <div id="gallery">
+      <h2>Galleries for Camel</h2>
+      <div class="row">
+        <div class="col-lg-6 col-12">
+          <img
+            src="https://www.webmanajemen.com/undefined"
+            alt="Camel undefined"
+          />
+        </div>
+        <div class="col-lg-6 col-12">
+          <img
+            src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            alt="Camel Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          />
+        </div>
+        <div class="col-lg-6 col-12">
+          <img
+            src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            alt="Camel Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          />
+        </div>
+        <div class="col-lg-6 col-12">
+          <img
+            src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            alt="Camel Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          />
+        </div>
+        <div class="col-lg-6 col-12">
+          <img
+            src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            alt="Camel Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          />
+        </div>
+        <div class="col-lg-6 col-12">
+          <img
+            src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            alt="Camel Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          />
+        </div>
+        <div class="col-lg-6 col-12">
+          <img
+            src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            alt="Camel Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          />
+        </div>
       </div>
     </div>
   </div>
