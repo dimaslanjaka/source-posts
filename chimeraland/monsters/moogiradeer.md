@@ -2,17 +2,18 @@
 title: Monster Moogiradeer
 webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-10-01T14:18:27+07:00
+updated: 2023-05-25T14:57:12+07:00
 date: 2022-01-09T09:56:03+07:00
 permalink: /chimeraland/monsters/moogiradeer.html
 photos:
+  - null
   - /chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-49-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-54-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-58-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-03-02-90_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-03-07-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Moogiradeer
 tags:
   - chimeraland
   - monster
@@ -21,10 +22,147 @@ categories:
   - Games
   - chimeraland
   - monsters
-description: monster Moogiradeer default quality GRADE C ATK 53 HP 63 DEF 63
-  Attributes Conversion Rate 4.0%,PvP DMG Reduction 4.8% delicacies/tasty
-  Braised Lobcray Meat,Yurlunggur Mixed Vegetables,Overlord Hide Jelly
-  Games,chimeraland,monsters chimeraland,monster,pet
+description: "monster Moogiradeer default quality GRADE C ATK 53 HP 63 DEF 63
+  Attributes Conversion Rate 4.0%,PvP DMG Reduction 4.8%,Essence Aspect: Green
+  Silk delicacies/tasty Braised Lobcray Meat,Yurlunggur Mixed
+  Vegetables,Overlord Hide Jelly Games,chimeraland,monsters
+  chimeraland,monster,pet"
 ---
 
-<section id="bootstrap-wrapper"><link rel="stylesheet" href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"/><h2 id="attribute">Moogiradeer Information from Chimeraland</h2><p><b>Moogiradeer</b> default attribute GRADE C ATK 53 HP 63 DEF 63<table><tr><th>GRADE</th><td>C</td></tr><tr><th>Attack</th><td>53</td></tr><tr><th>Health Point (HP)</th><td>63</td></tr><tr><th>Defense</th><td>63</td></tr></table></p><hr/><h2 id="delicacies">Delicacies/Tasty for Moogiradeer</h2><div class="bg-dark text-light"><li class="d-flex justify-content-between bg-dark text-light">Braised Lobcray Meat </li><li class="d-flex justify-content-between bg-dark text-light">Yurlunggur Mixed Vegetables </li><li class="d-flex justify-content-between bg-dark text-light">Overlord Hide Jelly <a href="/chimeraland/recipes/overlord-hide-jelly.html" class="text-primary" title="Click here to view recipe Overlord Hide Jelly details"><i>Overlord Hide Jelly</i> details</a></li></div><hr/><div id="gallery"><h2>Galleries for Moogiradeer</h2><div class="row"><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Moogiradeer Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-49-49_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Moogiradeer Screenshot_2022-07-28-01-02-49-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-54-10_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Moogiradeer Screenshot_2022-07-28-01-02-54-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-58-65_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Moogiradeer Screenshot_2022-07-28-01-02-58-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-03-02-90_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Moogiradeer Screenshot_2022-07-28-01-03-02-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-03-07-55_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Moogiradeer Screenshot_2022-07-28-01-03-07-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div></div></div></section>
+<link
+  rel="stylesheet"
+  href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
+/>
+<section id="bootstrap-wrapper">
+  <h2>Moogiradeer Information from Chimeraland</h2>
+  <h2 id="attribute"><i>Moogiradeer</i> default maximum attribute</h2>
+  <div class="row">
+    <div class="col mb-2">
+      <div class="card bg-dark text-light">
+        <div class="card-body">
+          <table>
+            <tr>
+              <th>GRADE</th>
+              <td>C <br /><span class="text-primary">RARE</span></td>
+            </tr>
+            <tr>
+              <th>Attack</th>
+              <td>53</td>
+            </tr>
+            <tr>
+              <th>Health Point (HP)</th>
+              <td>63</td>
+            </tr>
+            <tr>
+              <th>Defense</th>
+              <td>63</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+  <blockquote>
+    Note: Moogiradeer stat will increase based on their <b>grade</b> and
+    <b>delicacies/tasty</b>.
+  </blockquote>
+  <hr />
+  <h2 id="delicacies">Delicacies/Tasty for Moogiradeer</h2>
+  <div class="card">
+    <div class="card-body">
+      <div class="table-responsive">
+        <table class="table table-striped table-dark">
+          <thead>
+            <tr>
+              <th>Recipe Name</th>
+              <th>Link</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Braised Lobcray Meat</td>
+              <td>
+                <a
+                  href="#"
+                  class="text-primary"
+                  title="Click here to view recipe Braised Lobcray Meat details"
+                  ><i>Braised Lobcray Meat</i> details</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <td>Yurlunggur Mixed Vegetables</td>
+              <td>
+                <a
+                  href="#"
+                  class="text-primary"
+                  title="Click here to view recipe Yurlunggur Mixed Vegetables details"
+                  ><i>Yurlunggur Mixed Vegetables</i> details</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <td>Overlord Hide Jelly</td>
+              <td>
+                <a
+                  href="https://www.webmanajemen.com/chimeraland/recipes/overlord-hide-jelly.html"
+                  class="text-primary"
+                  title="Click here to view recipe Overlord Hide Jelly details"
+                  ><i>Overlord Hide Jelly</i> details</a
+                >
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div id="gallery">
+    <h2>Galleries for Moogiradeer</h2>
+    <div class="row">
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/undefined"
+          alt="Moogiradeer undefined"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Moogiradeer Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-49-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Moogiradeer Screenshot_2022-07-28-01-02-49-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-54-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Moogiradeer Screenshot_2022-07-28-01-02-54-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-58-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Moogiradeer Screenshot_2022-07-28-01-02-58-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-03-02-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Moogiradeer Screenshot_2022-07-28-01-03-02-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-03-07-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Moogiradeer Screenshot_2022-07-28-01-03-07-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+    </div>
+  </div>
+</section>

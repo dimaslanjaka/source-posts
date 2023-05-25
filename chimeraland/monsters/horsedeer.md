@@ -2,10 +2,11 @@
 title: Monster Horsedeer
 webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-30T17:18:27+07:00
+updated: 2023-05-25T03:15:12+07:00
 date: 2022-01-08T06:56:03+07:00
 permalink: /chimeraland/monsters/horsedeer.html
 photos:
+  - null
   - /chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-20-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-24-85_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,7 +14,7 @@ photos:
   - /chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-34-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-40-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horsedeer/Screenshot_2023-03-06-13-30-57-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Horsedeer
 tags:
   - chimeraland
   - monster
@@ -24,4 +25,112 @@ categories:
   - monsters
 ---
 
-<section id="bootstrap-wrapper"><link rel="stylesheet" href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"/><h2 id="attribute">Horsedeer Information from Chimeraland</h2><p><b>Horsedeer</b> default attribute GRADE C ATK 45 HP 57 DEF 53<table><tr><th>GRADE</th><td>C</td></tr><tr><th>Attack</th><td>45</td></tr><tr><th>Health Point (HP)</th><td>57</td></tr><tr><th>Defense</th><td>53</td></tr></table></p><hr/><h2 id="delicacies">Delicacies/Tasty for Horsedeer</h2><div class="bg-dark text-light"></div><hr/><div id="gallery"><h2>Galleries for Horsedeer</h2><div class="row"><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Horsedeer Screenshot_2022-07-15-17-10-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-20-96_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Horsedeer Screenshot_2022-07-15-17-10-20-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-24-85_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Horsedeer Screenshot_2022-07-15-17-10-24-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-29-01_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Horsedeer Screenshot_2022-07-15-17-10-29-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-34-43_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Horsedeer Screenshot_2022-07-15-17-10-34-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-40-37_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Horsedeer Screenshot_2022-07-15-17-10-40-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/horsedeer/Screenshot_2023-03-06-13-30-57-53_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Horsedeer Screenshot_2023-03-06-13-30-57-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div></div></div></section>
+<link
+  rel="stylesheet"
+  href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
+/>
+<section id="bootstrap-wrapper">
+  <h2>Horsedeer Information from Chimeraland</h2>
+  <h2 id="attribute"><i>Horsedeer</i> default maximum attribute</h2>
+  <div class="row">
+    <div class="col mb-2">
+      <div class="card bg-dark text-light">
+        <div class="card-body">
+          <table>
+            <tr>
+              <th>GRADE</th>
+              <td>C <br /><span class="text-primary">RARE</span></td>
+            </tr>
+            <tr>
+              <th>Attack</th>
+              <td>45</td>
+            </tr>
+            <tr>
+              <th>Health Point (HP)</th>
+              <td>57</td>
+            </tr>
+            <tr>
+              <th>Defense</th>
+              <td>53</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+  <blockquote>
+    Note: Horsedeer stat will increase based on their <b>grade</b> and
+    <b>delicacies/tasty</b>.
+  </blockquote>
+  <hr />
+  <h2 id="delicacies">Delicacies/Tasty for Horsedeer</h2>
+  <div class="card">
+    <div class="card-body">
+      <div class="table-responsive">
+        <table class="table table-striped table-dark">
+          <thead>
+            <tr>
+              <th>Recipe Name</th>
+              <th>Link</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div id="gallery">
+    <h2>Galleries for Horsedeer</h2>
+    <div class="row">
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/undefined"
+          alt="Horsedeer undefined"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Horsedeer Screenshot_2022-07-15-17-10-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-20-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Horsedeer Screenshot_2022-07-15-17-10-20-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-24-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Horsedeer Screenshot_2022-07-15-17-10-24-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-29-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Horsedeer Screenshot_2022-07-15-17-10-29-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-34-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Horsedeer Screenshot_2022-07-15-17-10-34-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-40-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Horsedeer Screenshot_2022-07-15-17-10-40-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/horsedeer/Screenshot_2023-03-06-13-30-57-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Horsedeer Screenshot_2023-03-06-13-30-57-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+    </div>
+  </div>
+</section>

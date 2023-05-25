@@ -27,4 +27,136 @@ description: monster Mukrider default quality GRADE A ATK 70 HP 70 DEF 70
   Games,chimeraland,monsters chimeraland,monster,pet
 ---
 
-<section id="bootstrap-wrapper"><link rel="stylesheet" href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"/><h2 id="attribute">Mukrider Information from Chimeraland</h2><p><b>Mukrider</b> default attribute GRADE A ATK 70 HP 70 DEF 70<table><tr><th>GRADE</th><td>A</td></tr><tr><th>Attack</th><td>70</td></tr><tr><th>Health Point (HP)</th><td>70</td></tr><tr><th>Defense</th><td>70</td></tr></table></p><hr/><h2 id="delicacies">Delicacies/Tasty for Mukrider</h2><div class="bg-dark text-light"><li class="d-flex justify-content-between bg-dark text-light">Steamed Fortuphant Meat </li><li class="d-flex justify-content-between bg-dark text-light">Flame Roasted Horn <a href="/chimeraland/recipes/flame-roasted-horn.html" class="text-primary" title="Click here to view recipe Flame Roasted Horn details"><i>Flame Roasted Horn</i> details</a></li><li class="d-flex justify-content-between bg-dark text-light">Flamebug Meat Claypot <a href="/chimeraland/recipes/flamebug-meat-claypot.html" class="text-primary" title="Click here to view recipe Flamebug Meat Claypot details"><i>Flamebug Meat Claypot</i> details</a></li></div><hr/><div id="gallery"><h2>Galleries for Mukrider</h2><div class="row"><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Mukrider Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-16-52_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Mukrider Screenshot_2022-07-14-16-01-16-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Mukrider Screenshot_2022-07-14-16-01-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-26-75_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Mukrider Screenshot_2022-07-14-16-01-26-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-31-91_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Mukrider Screenshot_2022-07-14-16-01-31-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-37-17_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="Mukrider Screenshot_2022-07-14-16-01-37-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div></div></div></section>
+<link
+  rel="stylesheet"
+  href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
+/>
+<section id="bootstrap-wrapper">
+  <h2>Mukrider Information from Chimeraland</h2>
+  <h2 id="attribute"><i>Mukrider</i> default maximum attribute</h2>
+  <div class="row">
+    <div class="col mb-2">
+      <div class="card bg-dark text-light">
+        <div class="card-body">
+          <table>
+            <tr>
+              <th>GRADE</th>
+              <td>
+                A <br /><span class="text-warning">NOBLE - LEGENDARY</span>
+              </td>
+            </tr>
+            <tr>
+              <th>Attack</th>
+              <td>70</td>
+            </tr>
+            <tr>
+              <th>Health Point (HP)</th>
+              <td>70</td>
+            </tr>
+            <tr>
+              <th>Defense</th>
+              <td>70</td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+  <blockquote>
+    Note: Mukrider stat will increase based on their <b>grade</b> and
+    <b>delicacies/tasty</b>.
+  </blockquote>
+  <hr />
+  <h2 id="delicacies">Delicacies/Tasty for Mukrider</h2>
+  <div class="card">
+    <div class="card-body">
+      <div class="table-responsive">
+        <table class="table table-striped table-dark">
+          <thead>
+            <tr>
+              <th>Recipe Name</th>
+              <th>Link</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Steamed Fortuphant Meat</td>
+              <td>
+                <a
+                  href="#"
+                  class="text-primary"
+                  title="Click here to view recipe Steamed Fortuphant Meat details"
+                  ><i>Steamed Fortuphant Meat</i> details</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <td>Flame Roasted Horn</td>
+              <td>
+                <a
+                  href="https://www.webmanajemen.com/chimeraland/recipes/flame-roasted-horn.html"
+                  class="text-primary"
+                  title="Click here to view recipe Flame Roasted Horn details"
+                  ><i>Flame Roasted Horn</i> details</a
+                >
+              </td>
+            </tr>
+            <tr>
+              <td>Flamebug Meat Claypot</td>
+              <td>
+                <a
+                  href="https://www.webmanajemen.com/chimeraland/recipes/flamebug-meat-claypot.html"
+                  class="text-primary"
+                  title="Click here to view recipe Flamebug Meat Claypot details"
+                  ><i>Flamebug Meat Claypot</i> details</a
+                >
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div id="gallery">
+    <h2>Galleries for Mukrider</h2>
+    <div class="row">
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Mukrider Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-16-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Mukrider Screenshot_2022-07-14-16-01-16-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Mukrider Screenshot_2022-07-14-16-01-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-26-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Mukrider Screenshot_2022-07-14-16-01-26-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-31-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Mukrider Screenshot_2022-07-14-16-01-31-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-37-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="Mukrider Screenshot_2022-07-14-16-01-37-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+    </div>
+  </div>
+</section>

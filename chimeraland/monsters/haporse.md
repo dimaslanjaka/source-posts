@@ -2,10 +2,11 @@
 title: Monster haporse
 webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-11T13:30:18+07:00
+updated: 2023-05-25T16:38:12+07:00
 date: 2023-03-11T14:19:18+07:00
 permalink: /chimeraland/monsters/haporse.html
 photos:
+  - null
   - /chimeraland/monsters/haporse/Screenshot_2023-03-01-12-48-49-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/haporse/Screenshot_2023-03-01-12-48-53-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/haporse/Screenshot_2023-03-01-12-48-57-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,7 +15,7 @@ photos:
   - /chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-10-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-14-69_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/haporse/Screenshot_2023-03-01-12-48-49-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=haporse
 tags:
   - chimeraland
   - monster
@@ -25,4 +26,118 @@ categories:
   - monsters
 ---
 
-<section id="bootstrap-wrapper"><link rel="stylesheet" href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"/><h2 id="attribute">haporse Information from Chimeraland</h2><p><b>haporse</b> default attribute <table><tr><th>GRADE</th><td></td></tr><tr><th>Attack</th><td></td></tr><tr><th>Health Point (HP)</th><td></td></tr><tr><th>Defense</th><td></td></tr></table></p><hr/><h2 id="delicacies">Delicacies/Tasty for haporse</h2><div class="bg-dark text-light"></div><hr/><div id="gallery"><h2>Galleries for haporse</h2><div class="row"><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-48-49-80_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="haporse Screenshot_2023-03-01-12-48-49-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-48-53-07_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="haporse Screenshot_2023-03-01-12-48-53-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-48-57-15_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="haporse Screenshot_2023-03-01-12-48-57-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-02-57_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="haporse Screenshot_2023-03-01-12-49-02-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-06-25_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="haporse Screenshot_2023-03-01-12-49-06-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-10-43_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="haporse Screenshot_2023-03-01-12-49-10-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-14-69_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="haporse Screenshot_2023-03-01-12-49-14-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div><div class="col-lg-6 col-12"><img src="/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp" alt="haporse Screenshot_2023-03-01-12-49-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"/></div></div></div></section>
+<link
+  rel="stylesheet"
+  href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
+/>
+<section id="bootstrap-wrapper">
+  <h2>haporse Information from Chimeraland</h2>
+  <h2 id="attribute"><i>haporse</i> default maximum attribute</h2>
+  <div class="row">
+    <div class="col mb-2">
+      <div class="card bg-dark text-light">
+        <div class="card-body">
+          <table>
+            <tr>
+              <th>GRADE</th>
+              <td><br /></td>
+            </tr>
+            <tr>
+              <th>Attack</th>
+              <td></td>
+            </tr>
+            <tr>
+              <th>Health Point (HP)</th>
+              <td></td>
+            </tr>
+            <tr>
+              <th>Defense</th>
+              <td></td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+  <blockquote>
+    Note: haporse stat will increase based on their <b>grade</b> and
+    <b>delicacies/tasty</b>.
+  </blockquote>
+  <hr />
+  <h2 id="delicacies">Delicacies/Tasty for haporse</h2>
+  <div class="card">
+    <div class="card-body">
+      <div class="table-responsive">
+        <table class="table table-striped table-dark">
+          <thead>
+            <tr>
+              <th>Recipe Name</th>
+              <th>Link</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div id="gallery">
+    <h2>Galleries for haporse</h2>
+    <div class="row">
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/undefined"
+          alt="haporse undefined"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-48-49-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="haporse Screenshot_2023-03-01-12-48-49-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-48-53-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="haporse Screenshot_2023-03-01-12-48-53-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-48-57-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="haporse Screenshot_2023-03-01-12-48-57-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-02-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="haporse Screenshot_2023-03-01-12-49-02-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-06-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="haporse Screenshot_2023-03-01-12-49-06-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-10-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="haporse Screenshot_2023-03-01-12-49-10-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-14-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="haporse Screenshot_2023-03-01-12-49-14-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+      <div class="col-lg-6 col-12">
+        <img
+          src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+          alt="haporse Screenshot_2023-03-01-12-49-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+        />
+      </div>
+    </div>
+  </div>
+</section>
