@@ -78,10 +78,16 @@ categories:
       <h2>Galleries for Bony Sabretooth</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/bony-sabretooth/chimeraland-bony-stretooth-evolve-featured.webp"
-            alt="Bony Sabretooth chimeraland-bony-stretooth-evolve-featured.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/bony-sabretooth/chimeraland-bony-stretooth-evolve-featured.webp"
+              alt="Bony Sabretooth chimeraland-bony-stretooth-evolve-featured.webp"
+            />
+            <figcaption>
+              <i>Bony Sabretooth</i>
+              chimeraland-bony-stretooth-evolve-featured.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

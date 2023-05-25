@@ -120,40 +120,76 @@ description: attendant Crosoo default quality GRADE C ATK 53 HP 54 DEF 43 Attack
       <h2>Galleries for Crosoo</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Crosoo Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Crosoo Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Crosoo</i>
+              Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-28-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Crosoo Screenshot_2022-07-15-19-44-28-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-28-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Crosoo Screenshot_2022-07-15-19-44-28-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Crosoo</i>
+              Screenshot_2022-07-15-19-44-28-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-34-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Crosoo Screenshot_2022-07-15-19-44-34-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-34-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Crosoo Screenshot_2022-07-15-19-44-34-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Crosoo</i>
+              Screenshot_2022-07-15-19-44-34-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-40-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Crosoo Screenshot_2022-07-15-19-44-40-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-40-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Crosoo Screenshot_2022-07-15-19-44-40-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Crosoo</i>
+              Screenshot_2022-07-15-19-44-40-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-46-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Crosoo Screenshot_2022-07-15-19-44-46-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-46-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Crosoo Screenshot_2022-07-15-19-44-46-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Crosoo</i>
+              Screenshot_2022-07-15-19-44-46-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-51-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Crosoo Screenshot_2022-07-15-19-44-51-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-51-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Crosoo Screenshot_2022-07-15-19-44-51-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Crosoo</i>
+              Screenshot_2022-07-15-19-44-51-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

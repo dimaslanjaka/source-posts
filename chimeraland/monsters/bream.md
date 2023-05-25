@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Bream</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Bream undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Bream undefined"
+            />
+            <figcaption><i>Bream</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

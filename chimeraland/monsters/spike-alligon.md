@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Spike Alligon</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Spike Alligon undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Spike Alligon undefined"
+            />
+            <figcaption><i>Spike Alligon</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

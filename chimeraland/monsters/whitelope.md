@@ -122,46 +122,85 @@ description: "monster Whitelope default quality GRADE B ATK 60 HP 56 DEF 64
       <h2>Galleries for Whitelope</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Whitelope undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Whitelope undefined"
+            />
+            <figcaption><i>Whitelope</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-09-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Whitelope Screenshot_2022-07-14-15-53-09-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-09-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Whitelope Screenshot_2022-07-14-15-53-09-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Whitelope</i>
+              Screenshot_2022-07-14-15-53-09-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-15-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Whitelope Screenshot_2022-07-14-15-53-15-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-15-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Whitelope Screenshot_2022-07-14-15-53-15-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Whitelope</i>
+              Screenshot_2022-07-14-15-53-15-52_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-22-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Whitelope Screenshot_2022-07-14-15-53-22-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-22-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Whitelope Screenshot_2022-07-14-15-53-22-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Whitelope</i>
+              Screenshot_2022-07-14-15-53-22-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-29-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Whitelope Screenshot_2022-07-14-15-53-29-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-29-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Whitelope Screenshot_2022-07-14-15-53-29-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Whitelope</i>
+              Screenshot_2022-07-14-15-53-29-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-44-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Whitelope Screenshot_2022-07-14-15-53-44-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-44-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Whitelope Screenshot_2022-07-14-15-53-44-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Whitelope</i>
+              Screenshot_2022-07-14-15-53-44-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-49-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Whitelope Screenshot_2022-07-14-15-53-49-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-49-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Whitelope Screenshot_2022-07-14-15-53-49-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Whitelope</i>
+              Screenshot_2022-07-14-15-53-49-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

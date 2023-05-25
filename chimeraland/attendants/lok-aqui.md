@@ -120,40 +120,76 @@ description: attendant Lok-Aqui default quality GRADE C ATK 47 HP 55 DEF 48
       <h2>Galleries for Lok-Aqui</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Lok-Aqui Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Lok-Aqui Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Lok-Aqui</i>
+              Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-41-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Lok-Aqui Screenshot_2022-07-17-22-34-41-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-41-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Lok-Aqui Screenshot_2022-07-17-22-34-41-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Lok-Aqui</i>
+              Screenshot_2022-07-17-22-34-41-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-48-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Lok-Aqui Screenshot_2022-07-17-22-34-48-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-48-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Lok-Aqui Screenshot_2022-07-17-22-34-48-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Lok-Aqui</i>
+              Screenshot_2022-07-17-22-34-48-68_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-53-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Lok-Aqui Screenshot_2022-07-17-22-34-53-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-53-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Lok-Aqui Screenshot_2022-07-17-22-34-53-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Lok-Aqui</i>
+              Screenshot_2022-07-17-22-34-53-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Lok-Aqui Screenshot_2022-07-17-22-34-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Lok-Aqui Screenshot_2022-07-17-22-34-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Lok-Aqui</i>
+              Screenshot_2022-07-17-22-34-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-35-01-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Lok-Aqui Screenshot_2022-07-17-22-35-01-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-35-01-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Lok-Aqui Screenshot_2022-07-17-22-35-01-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Lok-Aqui</i>
+              Screenshot_2022-07-17-22-35-01-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

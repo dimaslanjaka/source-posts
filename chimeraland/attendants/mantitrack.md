@@ -82,40 +82,76 @@ categories:
       <h2>Galleries for Mantitrack</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-18-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Mantitrack Screenshot_2022-07-17-22-37-18-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-18-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Mantitrack Screenshot_2022-07-17-22-37-18-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Mantitrack</i>
+              Screenshot_2022-07-17-22-37-18-70_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-22-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Mantitrack Screenshot_2022-07-17-22-37-22-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-22-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Mantitrack Screenshot_2022-07-17-22-37-22-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Mantitrack</i>
+              Screenshot_2022-07-17-22-37-22-23_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-26-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Mantitrack Screenshot_2022-07-17-22-37-26-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-26-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Mantitrack Screenshot_2022-07-17-22-37-26-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Mantitrack</i>
+              Screenshot_2022-07-17-22-37-26-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-29-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Mantitrack Screenshot_2022-07-17-22-37-29-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-29-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Mantitrack Screenshot_2022-07-17-22-37-29-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Mantitrack</i>
+              Screenshot_2022-07-17-22-37-29-99_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-33-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Mantitrack Screenshot_2022-07-17-22-37-33-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-33-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Mantitrack Screenshot_2022-07-17-22-37-33-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Mantitrack</i>
+              Screenshot_2022-07-17-22-37-33-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-38-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Mantitrack Screenshot_2022-07-17-22-37-38-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-38-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Mantitrack Screenshot_2022-07-17-22-37-38-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Mantitrack</i>
+              Screenshot_2022-07-17-22-37-38-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

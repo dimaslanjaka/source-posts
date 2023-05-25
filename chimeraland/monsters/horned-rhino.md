@@ -123,52 +123,97 @@ description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
       <h2>Galleries for Horned Rhino</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Horned Rhino undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Horned Rhino undefined"
+            />
+            <figcaption><i>Horned Rhino</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Horned Rhino Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Horned Rhino Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Horned Rhino</i>
+              Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Horned Rhino Screenshot_2022-07-26-00-29-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Horned Rhino Screenshot_2022-07-26-00-29-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Horned Rhino</i>
+              Screenshot_2022-07-26-00-29-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-05-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Horned Rhino Screenshot_2022-07-26-00-29-05-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-05-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Horned Rhino Screenshot_2022-07-26-00-29-05-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Horned Rhino</i>
+              Screenshot_2022-07-26-00-29-05-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-11-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Horned Rhino Screenshot_2022-07-26-00-29-11-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-11-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Horned Rhino Screenshot_2022-07-26-00-29-11-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Horned Rhino</i>
+              Screenshot_2022-07-26-00-29-11-59_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-16-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Horned Rhino Screenshot_2022-07-26-00-29-16-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-16-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Horned Rhino Screenshot_2022-07-26-00-29-16-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Horned Rhino</i>
+              Screenshot_2022-07-26-00-29-16-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Horned Rhino Screenshot_2022-07-26-00-29-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Horned Rhino Screenshot_2022-07-26-00-29-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Horned Rhino</i>
+              Screenshot_2022-07-26-00-29-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-30-16-33-39-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Horned Rhino Screenshot_2022-07-30-16-33-39-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-30-16-33-39-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Horned Rhino Screenshot_2022-07-30-16-33-39-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Horned Rhino</i>
+              Screenshot_2022-07-30-16-33-39-42_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

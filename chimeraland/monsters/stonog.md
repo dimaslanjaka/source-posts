@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Stonog</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Stonog undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Stonog undefined"
+            />
+            <figcaption><i>Stonog</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

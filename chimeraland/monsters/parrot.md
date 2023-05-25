@@ -89,76 +89,145 @@ categories:
       <h2>Galleries for Parrot</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Parrot undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Parrot undefined"
+            />
+            <figcaption><i>Parrot</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-17-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Parrot Screenshot_2023-03-02-05-24-17-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-17-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Parrot Screenshot_2023-03-02-05-24-17-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Parrot</i>
+              Screenshot_2023-03-02-05-24-17-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-21-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Parrot Screenshot_2023-03-02-05-24-21-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-21-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Parrot Screenshot_2023-03-02-05-24-21-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Parrot</i>
+              Screenshot_2023-03-02-05-24-21-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-25-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Parrot Screenshot_2023-03-02-05-24-25-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-25-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Parrot Screenshot_2023-03-02-05-24-25-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Parrot</i>
+              Screenshot_2023-03-02-05-24-25-64_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-30-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Parrot Screenshot_2023-03-02-05-24-30-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-30-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Parrot Screenshot_2023-03-02-05-24-30-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Parrot</i>
+              Screenshot_2023-03-02-05-24-30-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-35-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Parrot Screenshot_2023-03-02-05-24-35-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-35-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Parrot Screenshot_2023-03-02-05-24-35-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Parrot</i>
+              Screenshot_2023-03-02-05-24-35-36_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-39-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Parrot Screenshot_2023-03-02-05-24-39-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-39-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Parrot Screenshot_2023-03-02-05-24-39-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Parrot</i>
+              Screenshot_2023-03-02-05-24-39-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Parrot Screenshot_2023-03-02-05-24-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Parrot Screenshot_2023-03-02-05-24-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Parrot</i>
+              Screenshot_2023-03-02-05-24-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-47-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Parrot Screenshot_2023-03-02-05-24-47-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-47-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Parrot Screenshot_2023-03-02-05-24-47-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Parrot</i>
+              Screenshot_2023-03-02-05-24-47-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-17-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Parrot Screenshot_2023-03-02-05-25-17-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-17-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Parrot Screenshot_2023-03-02-05-25-17-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Parrot</i>
+              Screenshot_2023-03-02-05-25-17-46_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-22-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Parrot Screenshot_2023-03-02-05-25-22-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-22-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Parrot Screenshot_2023-03-02-05-25-22-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Parrot</i>
+              Screenshot_2023-03-02-05-25-22-90_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-29-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Parrot Screenshot_2023-03-02-05-25-29-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-29-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Parrot Screenshot_2023-03-02-05-25-29-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Parrot</i>
+              Screenshot_2023-03-02-05-25-29-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

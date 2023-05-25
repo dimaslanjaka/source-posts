@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Jadefox</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Jadefox undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Jadefox undefined"
+            />
+            <figcaption><i>Jadefox</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

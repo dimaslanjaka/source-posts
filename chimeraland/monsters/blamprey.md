@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Blamprey</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Blamprey undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Blamprey undefined"
+            />
+            <figcaption><i>Blamprey</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

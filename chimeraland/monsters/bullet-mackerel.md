@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Bullet Mackerel</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Bullet Mackerel undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Bullet Mackerel undefined"
+            />
+            <figcaption><i>Bullet Mackerel</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

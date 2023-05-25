@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Ice Whale</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Ice Whale undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Ice Whale undefined"
+            />
+            <figcaption><i>Ice Whale</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

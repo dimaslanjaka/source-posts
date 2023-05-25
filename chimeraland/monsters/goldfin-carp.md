@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Goldfin Carp</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Goldfin Carp undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Goldfin Carp undefined"
+            />
+            <figcaption><i>Goldfin Carp</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

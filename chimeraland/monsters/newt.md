@@ -123,58 +123,109 @@ description: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
       <h2>Galleries for Newt</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Newt undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Newt undefined"
+            />
+            <figcaption><i>Newt</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-20-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Newt Screenshot_2022-07-30-16-35-20-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-20-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Newt Screenshot_2022-07-30-16-35-20-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Newt</i>
+              Screenshot_2022-07-30-16-35-20-26_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-23-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Newt Screenshot_2022-07-30-16-35-23-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-23-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Newt Screenshot_2022-07-30-16-35-23-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Newt</i>
+              Screenshot_2022-07-30-16-35-23-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-27-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Newt Screenshot_2022-07-30-16-35-27-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-27-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Newt Screenshot_2022-07-30-16-35-27-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Newt</i>
+              Screenshot_2022-07-30-16-35-27-60_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-30-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Newt Screenshot_2022-07-30-16-35-30-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-30-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Newt Screenshot_2022-07-30-16-35-30-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Newt</i>
+              Screenshot_2022-07-30-16-35-30-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-41-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Newt Screenshot_2022-07-30-16-35-41-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-41-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Newt Screenshot_2022-07-30-16-35-41-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Newt</i>
+              Screenshot_2022-07-30-16-35-41-21_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-46-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Newt Screenshot_2022-07-30-16-35-46-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-46-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Newt Screenshot_2022-07-30-16-35-46-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Newt</i>
+              Screenshot_2022-07-30-16-35-46-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-51-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Newt Screenshot_2022-07-30-16-35-51-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-51-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Newt Screenshot_2022-07-30-16-35-51-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Newt</i>
+              Screenshot_2022-07-30-16-35-51-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Newt Screenshot_2022-07-30-16-35-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Newt Screenshot_2022-07-30-16-35-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Newt</i>
+              Screenshot_2022-07-30-16-35-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

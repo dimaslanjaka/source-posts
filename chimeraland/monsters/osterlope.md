@@ -123,52 +123,97 @@ description: "monster Osterlope default quality GRADE B ATK 60 HP 60 DEF 60
       <h2>Galleries for Osterlope</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Osterlope undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Osterlope undefined"
+            />
+            <figcaption><i>Osterlope</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-09-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Osterlope Screenshot_2023-02-26-13-09-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-09-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Osterlope Screenshot_2023-02-26-13-09-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Osterlope</i>
+              Screenshot_2023-02-26-13-09-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-02-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Osterlope Screenshot_2023-02-26-13-10-02-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-02-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Osterlope Screenshot_2023-02-26-13-10-02-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Osterlope</i>
+              Screenshot_2023-02-26-13-10-02-22_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-06-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Osterlope Screenshot_2023-02-26-13-10-06-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-06-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Osterlope Screenshot_2023-02-26-13-10-06-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Osterlope</i>
+              Screenshot_2023-02-26-13-10-06-80_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-12-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Osterlope Screenshot_2023-02-26-13-10-12-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-12-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Osterlope Screenshot_2023-02-26-13-10-12-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Osterlope</i>
+              Screenshot_2023-02-26-13-10-12-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-17-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Osterlope Screenshot_2023-02-26-13-10-17-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-17-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Osterlope Screenshot_2023-02-26-13-10-17-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Osterlope</i>
+              Screenshot_2023-02-26-13-10-17-26_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-21-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Osterlope Screenshot_2023-02-26-13-10-21-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-21-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Osterlope Screenshot_2023-02-26-13-10-21-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Osterlope</i>
+              Screenshot_2023-02-26-13-10-21-52_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-25-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Osterlope Screenshot_2023-02-26-13-10-25-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-25-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Osterlope Screenshot_2023-02-26-13-10-25-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Osterlope</i>
+              Screenshot_2023-02-26-13-10-25-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

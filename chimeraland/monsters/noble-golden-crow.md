@@ -80,10 +80,15 @@ categories:
       <h2>Galleries for Noble Golden Crow</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/noble-golden-crow/noble-golden-crow.webp"
-            alt="Noble Golden Crow noble-golden-crow.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/noble-golden-crow/noble-golden-crow.webp"
+              alt="Noble Golden Crow noble-golden-crow.webp"
+            />
+            <figcaption>
+              <i>Noble Golden Crow</i> noble-golden-crow.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

@@ -86,58 +86,101 @@ categories:
       <h2>Galleries for Inkdrop</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Inkdrop undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Inkdrop undefined"
+            />
+            <figcaption><i>Inkdrop</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20191911.webp"
-            alt="Inkdrop Screenshot 2022-08-09 191911.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20191911.webp"
+              alt="Inkdrop Screenshot 2022-08-09 191911.webp"
+            />
+            <figcaption>
+              <i>Inkdrop</i> Screenshot 2022-08-09 191911.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20191953.webp"
-            alt="Inkdrop Screenshot 2022-08-09 191953.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20191953.webp"
+              alt="Inkdrop Screenshot 2022-08-09 191953.webp"
+            />
+            <figcaption>
+              <i>Inkdrop</i> Screenshot 2022-08-09 191953.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192014.webp"
-            alt="Inkdrop Screenshot 2022-08-09 192014.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192014.webp"
+              alt="Inkdrop Screenshot 2022-08-09 192014.webp"
+            />
+            <figcaption>
+              <i>Inkdrop</i> Screenshot 2022-08-09 192014.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192033.webp"
-            alt="Inkdrop Screenshot 2022-08-09 192033.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192033.webp"
+              alt="Inkdrop Screenshot 2022-08-09 192033.webp"
+            />
+            <figcaption>
+              <i>Inkdrop</i> Screenshot 2022-08-09 192033.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192050.webp"
-            alt="Inkdrop Screenshot 2022-08-09 192050.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192050.webp"
+              alt="Inkdrop Screenshot 2022-08-09 192050.webp"
+            />
+            <figcaption>
+              <i>Inkdrop</i> Screenshot 2022-08-09 192050.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192107.webp"
-            alt="Inkdrop Screenshot 2022-08-09 192107.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192107.webp"
+              alt="Inkdrop Screenshot 2022-08-09 192107.webp"
+            />
+            <figcaption>
+              <i>Inkdrop</i> Screenshot 2022-08-09 192107.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192128.webp"
-            alt="Inkdrop Screenshot 2022-08-09 192128.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192128.webp"
+              alt="Inkdrop Screenshot 2022-08-09 192128.webp"
+            />
+            <figcaption>
+              <i>Inkdrop</i> Screenshot 2022-08-09 192128.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192145.webp"
-            alt="Inkdrop Screenshot 2022-08-09 192145.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192145.webp"
+              alt="Inkdrop Screenshot 2022-08-09 192145.webp"
+            />
+            <figcaption>
+              <i>Inkdrop</i> Screenshot 2022-08-09 192145.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

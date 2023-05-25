@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Hilsa Herring</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Hilsa Herring undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Hilsa Herring undefined"
+            />
+            <figcaption><i>Hilsa Herring</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

@@ -83,46 +83,88 @@ categories:
       <h2>Galleries for aa-aqui</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-07-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="aa-aqui Screenshot_2022-11-25-05-07-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-07-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="aa-aqui Screenshot_2022-11-25-05-07-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>aa-aqui</i>
+              Screenshot_2022-11-25-05-07-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-07-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="aa-aqui Screenshot_2022-11-25-05-07-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-07-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="aa-aqui Screenshot_2022-11-25-05-07-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>aa-aqui</i>
+              Screenshot_2022-11-25-05-07-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-07-57-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="aa-aqui Screenshot_2022-11-25-05-07-57-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-07-57-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="aa-aqui Screenshot_2022-11-25-05-07-57-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>aa-aqui</i>
+              Screenshot_2022-11-25-05-07-57-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-08-02-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="aa-aqui Screenshot_2022-11-25-05-08-02-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-08-02-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="aa-aqui Screenshot_2022-11-25-05-08-02-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>aa-aqui</i>
+              Screenshot_2022-11-25-05-08-02-26_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-08-11-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="aa-aqui Screenshot_2022-11-25-05-08-11-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-08-11-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="aa-aqui Screenshot_2022-11-25-05-08-11-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>aa-aqui</i>
+              Screenshot_2022-11-25-05-08-11-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-08-17-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="aa-aqui Screenshot_2022-11-25-05-08-17-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-08-17-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="aa-aqui Screenshot_2022-11-25-05-08-17-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>aa-aqui</i>
+              Screenshot_2022-11-25-05-08-17-58_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-08-22-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="aa-aqui Screenshot_2022-11-25-05-08-22-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-08-22-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="aa-aqui Screenshot_2022-11-25-05-08-22-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>aa-aqui</i>
+              Screenshot_2022-11-25-05-08-22-64_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

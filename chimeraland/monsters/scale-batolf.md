@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Scale Batolf</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Scale Batolf undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Scale Batolf undefined"
+            />
+            <figcaption><i>Scale Batolf</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

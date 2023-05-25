@@ -86,58 +86,109 @@ categories:
       <h2>Galleries for Stoneppo</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Stoneppo undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Stoneppo undefined"
+            />
+            <figcaption><i>Stoneppo</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Stoneppo Screenshot_2023-03-24-14-30-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Stoneppo Screenshot_2023-03-24-14-30-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Stoneppo</i>
+              Screenshot_2023-03-24-14-30-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-20-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Stoneppo Screenshot_2023-03-24-14-30-20-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-20-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Stoneppo Screenshot_2023-03-24-14-30-20-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Stoneppo</i>
+              Screenshot_2023-03-24-14-30-20-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-24-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Stoneppo Screenshot_2023-03-24-14-30-24-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-24-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Stoneppo Screenshot_2023-03-24-14-30-24-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Stoneppo</i>
+              Screenshot_2023-03-24-14-30-24-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Stoneppo Screenshot_2023-03-24-14-30-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Stoneppo Screenshot_2023-03-24-14-30-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Stoneppo</i>
+              Screenshot_2023-03-24-14-30-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Stoneppo Screenshot_2023-03-24-14-30-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Stoneppo Screenshot_2023-03-24-14-30-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Stoneppo</i>
+              Screenshot_2023-03-24-14-30-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-49-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Stoneppo Screenshot_2023-03-24-14-30-49-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-49-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Stoneppo Screenshot_2023-03-24-14-30-49-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Stoneppo</i>
+              Screenshot_2023-03-24-14-30-49-22_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-53-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Stoneppo Screenshot_2023-03-24-14-30-53-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-53-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Stoneppo Screenshot_2023-03-24-14-30-53-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Stoneppo</i>
+              Screenshot_2023-03-24-14-30-53-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-58-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Stoneppo Screenshot_2023-03-24-14-30-58-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-58-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Stoneppo Screenshot_2023-03-24-14-30-58-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Stoneppo</i>
+              Screenshot_2023-03-24-14-30-58-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

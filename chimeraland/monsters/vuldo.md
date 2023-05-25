@@ -85,52 +85,97 @@ categories:
       <h2>Galleries for Vuldo</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Vuldo undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Vuldo undefined"
+            />
+            <figcaption><i>Vuldo</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-33-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Vuldo Screenshot_2022-07-18-01-10-33-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-33-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Vuldo Screenshot_2022-07-18-01-10-33-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Vuldo</i>
+              Screenshot_2022-07-18-01-10-33-55_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-37-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Vuldo Screenshot_2022-07-18-01-10-37-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-37-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Vuldo Screenshot_2022-07-18-01-10-37-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Vuldo</i>
+              Screenshot_2022-07-18-01-10-37-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-41-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Vuldo Screenshot_2022-07-18-01-10-41-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-41-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Vuldo Screenshot_2022-07-18-01-10-41-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Vuldo</i>
+              Screenshot_2022-07-18-01-10-41-17_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-44-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Vuldo Screenshot_2022-07-18-01-10-44-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-44-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Vuldo Screenshot_2022-07-18-01-10-44-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Vuldo</i>
+              Screenshot_2022-07-18-01-10-44-64_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Vuldo Screenshot_2022-07-18-01-10-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Vuldo Screenshot_2022-07-18-01-10-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Vuldo</i>
+              Screenshot_2022-07-18-01-10-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-52-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Vuldo Screenshot_2022-07-18-01-10-52-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-52-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Vuldo Screenshot_2022-07-18-01-10-52-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Vuldo</i>
+              Screenshot_2022-07-18-01-10-52-61_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-29-00-21-28-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Vuldo Screenshot_2022-07-29-00-21-28-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-29-00-21-28-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Vuldo Screenshot_2022-07-29-00-21-28-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Vuldo</i>
+              Screenshot_2022-07-29-00-21-28-82_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

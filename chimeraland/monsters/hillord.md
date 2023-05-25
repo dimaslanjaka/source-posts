@@ -123,52 +123,97 @@ description: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
       <h2>Galleries for Hillord</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Hillord undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Hillord undefined"
+            />
+            <figcaption><i>Hillord</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hillord Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hillord Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hillord</i>
+              Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-43-57-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hillord Screenshot_2022-07-29-00-43-57-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-43-57-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hillord Screenshot_2022-07-29-00-43-57-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hillord</i>
+              Screenshot_2022-07-29-00-43-57-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-04-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hillord Screenshot_2022-07-29-00-44-04-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-04-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hillord Screenshot_2022-07-29-00-44-04-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hillord</i>
+              Screenshot_2022-07-29-00-44-04-45_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-09-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hillord Screenshot_2022-07-29-00-44-09-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-09-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hillord Screenshot_2022-07-29-00-44-09-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hillord</i>
+              Screenshot_2022-07-29-00-44-09-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hillord Screenshot_2022-07-29-00-44-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hillord Screenshot_2022-07-29-00-44-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hillord</i>
+              Screenshot_2022-07-29-00-44-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-16-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hillord Screenshot_2022-07-29-00-44-16-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-16-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hillord Screenshot_2022-07-29-00-44-16-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hillord</i>
+              Screenshot_2022-07-29-00-44-16-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hillord Screenshot_2022-07-29-00-44-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hillord Screenshot_2022-07-29-00-44-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hillord</i>
+              Screenshot_2022-07-29-00-44-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

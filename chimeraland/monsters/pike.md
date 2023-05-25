@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Pike</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Pike undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Pike undefined"
+            />
+            <figcaption><i>Pike</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

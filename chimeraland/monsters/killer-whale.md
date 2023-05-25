@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Killer Whale</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Killer Whale undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Killer Whale undefined"
+            />
+            <figcaption><i>Killer Whale</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

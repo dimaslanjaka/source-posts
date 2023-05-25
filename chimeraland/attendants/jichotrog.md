@@ -84,52 +84,100 @@ categories:
       <h2>Galleries for jichotrog</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-09-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="jichotrog Screenshot_2023-03-03-23-55-09-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-09-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="jichotrog Screenshot_2023-03-03-23-55-09-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>jichotrog</i>
+              Screenshot_2023-03-03-23-55-09-54_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-12-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="jichotrog Screenshot_2023-03-03-23-55-12-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-12-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="jichotrog Screenshot_2023-03-03-23-55-12-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>jichotrog</i>
+              Screenshot_2023-03-03-23-55-12-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-15-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="jichotrog Screenshot_2023-03-03-23-55-15-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-15-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="jichotrog Screenshot_2023-03-03-23-55-15-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>jichotrog</i>
+              Screenshot_2023-03-03-23-55-15-89_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-19-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="jichotrog Screenshot_2023-03-03-23-55-19-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-19-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="jichotrog Screenshot_2023-03-03-23-55-19-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>jichotrog</i>
+              Screenshot_2023-03-03-23-55-19-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-25-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="jichotrog Screenshot_2023-03-03-23-55-25-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-25-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="jichotrog Screenshot_2023-03-03-23-55-25-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>jichotrog</i>
+              Screenshot_2023-03-03-23-55-25-04_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-28-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="jichotrog Screenshot_2023-03-03-23-55-28-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-28-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="jichotrog Screenshot_2023-03-03-23-55-28-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>jichotrog</i>
+              Screenshot_2023-03-03-23-55-28-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="jichotrog Screenshot_2023-03-03-23-55-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="jichotrog Screenshot_2023-03-03-23-55-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>jichotrog</i>
+              Screenshot_2023-03-03-23-55-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-36-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="jichotrog Screenshot_2023-03-03-23-55-36-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-36-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="jichotrog Screenshot_2023-03-03-23-55-36-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>jichotrog</i>
+              Screenshot_2023-03-03-23-55-36-92_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

@@ -85,58 +85,112 @@ categories:
       <h2>Galleries for lunar immortia</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-10-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lunar immortia Screenshot_2023-05-21-23-29-10-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-10-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lunar immortia Screenshot_2023-05-21-23-29-10-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lunar immortia</i>
+              Screenshot_2023-05-21-23-29-10-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-14-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lunar immortia Screenshot_2023-05-21-23-29-14-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-14-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lunar immortia Screenshot_2023-05-21-23-29-14-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lunar immortia</i>
+              Screenshot_2023-05-21-23-29-14-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-17-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lunar immortia Screenshot_2023-05-21-23-29-17-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-17-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lunar immortia Screenshot_2023-05-21-23-29-17-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lunar immortia</i>
+              Screenshot_2023-05-21-23-29-17-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-21-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lunar immortia Screenshot_2023-05-21-23-29-21-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-21-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lunar immortia Screenshot_2023-05-21-23-29-21-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lunar immortia</i>
+              Screenshot_2023-05-21-23-29-21-24_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-27-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lunar immortia Screenshot_2023-05-21-23-29-27-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-27-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lunar immortia Screenshot_2023-05-21-23-29-27-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lunar immortia</i>
+              Screenshot_2023-05-21-23-29-27-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-32-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lunar immortia Screenshot_2023-05-21-23-29-32-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-32-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lunar immortia Screenshot_2023-05-21-23-29-32-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lunar immortia</i>
+              Screenshot_2023-05-21-23-29-32-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-37-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lunar immortia Screenshot_2023-05-21-23-29-37-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-37-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lunar immortia Screenshot_2023-05-21-23-29-37-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lunar immortia</i>
+              Screenshot_2023-05-21-23-29-37-15_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-50-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lunar immortia Screenshot_2023-05-21-23-29-50-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-50-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lunar immortia Screenshot_2023-05-21-23-29-50-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lunar immortia</i>
+              Screenshot_2023-05-21-23-29-50-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lunar immortia Screenshot_2023-05-21-23-29-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lunar immortia Screenshot_2023-05-21-23-29-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lunar immortia</i>
+              Screenshot_2023-05-21-23-29-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

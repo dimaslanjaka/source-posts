@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Roarclops</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Roarclops undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Roarclops undefined"
+            />
+            <figcaption><i>Roarclops</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

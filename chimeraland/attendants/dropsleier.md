@@ -83,46 +83,88 @@ categories:
       <h2>Galleries for dropsleier</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/dropsleier/Screenshot_2022-11-21-14-09-38-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="dropsleier Screenshot_2022-11-21-14-09-38-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/dropsleier/Screenshot_2022-11-21-14-09-38-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="dropsleier Screenshot_2022-11-21-14-09-38-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>dropsleier</i>
+              Screenshot_2022-11-21-14-09-38-16_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/dropsleier/Screenshot_2022-11-21-14-09-43-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="dropsleier Screenshot_2022-11-21-14-09-43-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/dropsleier/Screenshot_2022-11-21-14-09-43-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="dropsleier Screenshot_2022-11-21-14-09-43-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>dropsleier</i>
+              Screenshot_2022-11-21-14-09-43-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/dropsleier/Screenshot_2022-11-21-14-09-49-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="dropsleier Screenshot_2022-11-21-14-09-49-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/dropsleier/Screenshot_2022-11-21-14-09-49-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="dropsleier Screenshot_2022-11-21-14-09-49-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>dropsleier</i>
+              Screenshot_2022-11-21-14-09-49-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/dropsleier/Screenshot_2022-11-21-14-09-54-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="dropsleier Screenshot_2022-11-21-14-09-54-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/dropsleier/Screenshot_2022-11-21-14-09-54-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="dropsleier Screenshot_2022-11-21-14-09-54-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>dropsleier</i>
+              Screenshot_2022-11-21-14-09-54-93_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/dropsleier/Screenshot_2022-11-21-14-10-00-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="dropsleier Screenshot_2022-11-21-14-10-00-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/dropsleier/Screenshot_2022-11-21-14-10-00-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="dropsleier Screenshot_2022-11-21-14-10-00-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>dropsleier</i>
+              Screenshot_2022-11-21-14-10-00-41_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/dropsleier/Screenshot_2022-11-21-14-10-04-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="dropsleier Screenshot_2022-11-21-14-10-04-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/dropsleier/Screenshot_2022-11-21-14-10-04-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="dropsleier Screenshot_2022-11-21-14-10-04-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>dropsleier</i>
+              Screenshot_2022-11-21-14-10-04-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/dropsleier/Screenshot_2022-11-21-14-10-09-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="dropsleier Screenshot_2022-11-21-14-10-09-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/dropsleier/Screenshot_2022-11-21-14-10-09-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="dropsleier Screenshot_2022-11-21-14-10-09-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>dropsleier</i>
+              Screenshot_2022-11-21-14-10-09-15_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

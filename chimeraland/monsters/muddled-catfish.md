@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Muddled Catfish</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Muddled Catfish undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Muddled Catfish undefined"
+            />
+            <figcaption><i>Muddled Catfish</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

@@ -85,52 +85,97 @@ categories:
       <h2>Galleries for spike stoneppo</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="spike stoneppo undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="spike stoneppo undefined"
+            />
+            <figcaption><i>spike stoneppo</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-16-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="spike stoneppo Screenshot_2023-01-29-01-29-16-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-16-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="spike stoneppo Screenshot_2023-01-29-01-29-16-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>spike stoneppo</i>
+              Screenshot_2023-01-29-01-29-16-12_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-24-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="spike stoneppo Screenshot_2023-01-29-01-29-24-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-24-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="spike stoneppo Screenshot_2023-01-29-01-29-24-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>spike stoneppo</i>
+              Screenshot_2023-01-29-01-29-24-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-30-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="spike stoneppo Screenshot_2023-01-29-01-29-30-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-30-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="spike stoneppo Screenshot_2023-01-29-01-29-30-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>spike stoneppo</i>
+              Screenshot_2023-01-29-01-29-30-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-36-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="spike stoneppo Screenshot_2023-01-29-01-29-36-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-36-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="spike stoneppo Screenshot_2023-01-29-01-29-36-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>spike stoneppo</i>
+              Screenshot_2023-01-29-01-29-36-85_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-42-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="spike stoneppo Screenshot_2023-01-29-01-29-42-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-42-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="spike stoneppo Screenshot_2023-01-29-01-29-42-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>spike stoneppo</i>
+              Screenshot_2023-01-29-01-29-42-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-48-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="spike stoneppo Screenshot_2023-01-29-01-29-48-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-48-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="spike stoneppo Screenshot_2023-01-29-01-29-48-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>spike stoneppo</i>
+              Screenshot_2023-01-29-01-29-48-97_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-53-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="spike stoneppo Screenshot_2023-01-29-01-29-53-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-53-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="spike stoneppo Screenshot_2023-01-29-01-29-53-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>spike stoneppo</i>
+              Screenshot_2023-01-29-01-29-53-73_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

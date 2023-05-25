@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Frosthorn Rhino</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Frosthorn Rhino undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Frosthorn Rhino undefined"
+            />
+            <figcaption><i>Frosthorn Rhino</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

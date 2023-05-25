@@ -83,46 +83,88 @@ categories:
       <h2>Galleries for ocyloga</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-29-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocyloga Screenshot_2022-11-21-21-47-29-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-29-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocyloga Screenshot_2022-11-21-21-47-29-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocyloga</i>
+              Screenshot_2022-11-21-21-47-29-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-33-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocyloga Screenshot_2022-11-21-21-47-33-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-33-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocyloga Screenshot_2022-11-21-21-47-33-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocyloga</i>
+              Screenshot_2022-11-21-21-47-33-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-38-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocyloga Screenshot_2022-11-21-21-47-38-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-38-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocyloga Screenshot_2022-11-21-21-47-38-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocyloga</i>
+              Screenshot_2022-11-21-21-47-38-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-42-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocyloga Screenshot_2022-11-21-21-47-42-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-42-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocyloga Screenshot_2022-11-21-21-47-42-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocyloga</i>
+              Screenshot_2022-11-21-21-47-42-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-49-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocyloga Screenshot_2022-11-21-21-47-49-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-49-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocyloga Screenshot_2022-11-21-21-47-49-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocyloga</i>
+              Screenshot_2022-11-21-21-47-49-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-54-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocyloga Screenshot_2022-11-21-21-47-54-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-54-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocyloga Screenshot_2022-11-21-21-47-54-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocyloga</i>
+              Screenshot_2022-11-21-21-47-54-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-58-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocyloga Screenshot_2022-11-21-21-47-58-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-58-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocyloga Screenshot_2022-11-21-21-47-58-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocyloga</i>
+              Screenshot_2022-11-21-21-47-58-59_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

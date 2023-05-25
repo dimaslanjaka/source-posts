@@ -122,46 +122,88 @@ description: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
       <h2>Galleries for Yungang Dragon</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Yungang Dragon Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Yungang Dragon Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Yungang Dragon</i>
+              Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-06-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Yungang Dragon Screenshot_2022-07-29-00-22-06-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-06-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Yungang Dragon Screenshot_2022-07-29-00-22-06-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Yungang Dragon</i>
+              Screenshot_2022-07-29-00-22-06-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-09-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Yungang Dragon Screenshot_2022-07-29-00-22-09-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-09-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Yungang Dragon Screenshot_2022-07-29-00-22-09-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Yungang Dragon</i>
+              Screenshot_2022-07-29-00-22-09-79_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-13-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Yungang Dragon Screenshot_2022-07-29-00-22-13-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-13-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Yungang Dragon Screenshot_2022-07-29-00-22-13-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Yungang Dragon</i>
+              Screenshot_2022-07-29-00-22-13-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Yungang Dragon Screenshot_2022-07-29-00-22-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Yungang Dragon Screenshot_2022-07-29-00-22-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Yungang Dragon</i>
+              Screenshot_2022-07-29-00-22-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-20-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Yungang Dragon Screenshot_2022-07-29-00-22-20-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-20-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Yungang Dragon Screenshot_2022-07-29-00-22-20-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Yungang Dragon</i>
+              Screenshot_2022-07-29-00-22-20-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-29-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Yungang Dragon Screenshot_2022-07-29-00-22-29-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-29-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Yungang Dragon Screenshot_2022-07-29-00-22-29-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Yungang Dragon</i>
+              Screenshot_2022-07-29-00-22-29-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

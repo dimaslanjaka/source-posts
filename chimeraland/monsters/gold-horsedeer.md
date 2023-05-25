@@ -123,52 +123,97 @@ description: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
       <h2>Galleries for Gold Horsedeer</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Gold Horsedeer undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Gold Horsedeer undefined"
+            />
+            <figcaption><i>Gold Horsedeer</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-10-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Gold Horsedeer Screenshot_2022-07-29-00-20-10-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-10-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Gold Horsedeer Screenshot_2022-07-29-00-20-10-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Gold Horsedeer</i>
+              Screenshot_2022-07-29-00-20-10-68_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-16-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Gold Horsedeer Screenshot_2022-07-29-00-20-16-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-16-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Gold Horsedeer Screenshot_2022-07-29-00-20-16-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Gold Horsedeer</i>
+              Screenshot_2022-07-29-00-20-16-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-21-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Gold Horsedeer Screenshot_2022-07-29-00-20-21-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-21-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Gold Horsedeer Screenshot_2022-07-29-00-20-21-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Gold Horsedeer</i>
+              Screenshot_2022-07-29-00-20-21-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-24-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Gold Horsedeer Screenshot_2022-07-29-00-20-24-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-24-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Gold Horsedeer Screenshot_2022-07-29-00-20-24-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Gold Horsedeer</i>
+              Screenshot_2022-07-29-00-20-24-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-27-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Gold Horsedeer Screenshot_2022-07-29-00-20-27-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-27-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Gold Horsedeer Screenshot_2022-07-29-00-20-27-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Gold Horsedeer</i>
+              Screenshot_2022-07-29-00-20-27-84_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Gold Horsedeer Screenshot_2022-07-29-00-20-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Gold Horsedeer Screenshot_2022-07-29-00-20-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Gold Horsedeer</i>
+              Screenshot_2022-07-29-00-20-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-37-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Gold Horsedeer Screenshot_2022-07-29-00-20-37-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-37-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Gold Horsedeer Screenshot_2022-07-29-00-20-37-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Gold Horsedeer</i>
+              Screenshot_2022-07-29-00-20-37-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

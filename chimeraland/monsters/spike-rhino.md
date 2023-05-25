@@ -84,46 +84,85 @@ categories:
       <h2>Galleries for spike rhino</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="spike rhino undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="spike rhino undefined"
+            />
+            <figcaption><i>spike rhino</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-08-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="spike rhino Screenshot_2022-11-15-23-48-08-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-08-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="spike rhino Screenshot_2022-11-15-23-48-08-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>spike rhino</i>
+              Screenshot_2022-11-15-23-48-08-38_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-11-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="spike rhino Screenshot_2022-11-15-23-48-11-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-11-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="spike rhino Screenshot_2022-11-15-23-48-11-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>spike rhino</i>
+              Screenshot_2022-11-15-23-48-11-26_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="spike rhino Screenshot_2022-11-15-23-48-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="spike rhino Screenshot_2022-11-15-23-48-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>spike rhino</i>
+              Screenshot_2022-11-15-23-48-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-28-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="spike rhino Screenshot_2022-11-15-23-48-28-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-28-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="spike rhino Screenshot_2022-11-15-23-48-28-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>spike rhino</i>
+              Screenshot_2022-11-15-23-48-28-04_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-32-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="spike rhino Screenshot_2022-11-15-23-48-32-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-32-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="spike rhino Screenshot_2022-11-15-23-48-32-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>spike rhino</i>
+              Screenshot_2022-11-15-23-48-32-14_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-37-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="spike rhino Screenshot_2022-11-15-23-48-37-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-37-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="spike rhino Screenshot_2022-11-15-23-48-37-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>spike rhino</i>
+              Screenshot_2022-11-15-23-48-37-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

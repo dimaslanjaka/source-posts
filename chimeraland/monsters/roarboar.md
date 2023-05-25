@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Roarboar</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Roarboar undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Roarboar undefined"
+            />
+            <figcaption><i>Roarboar</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

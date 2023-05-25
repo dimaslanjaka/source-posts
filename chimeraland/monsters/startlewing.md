@@ -127,58 +127,109 @@ description: "monster Startlewing default quality GRADE A ATK 71 HP 70 DEF 70
       <h2>Galleries for Startlewing</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Startlewing undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Startlewing undefined"
+            />
+            <figcaption><i>Startlewing</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-42-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Startlewing Screenshot_2022-08-12-23-38-42-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-42-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Startlewing Screenshot_2022-08-12-23-38-42-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Startlewing</i>
+              Screenshot_2022-08-12-23-38-42-38_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-49-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Startlewing Screenshot_2022-08-12-23-38-49-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-49-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Startlewing Screenshot_2022-08-12-23-38-49-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Startlewing</i>
+              Screenshot_2022-08-12-23-38-49-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-53-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Startlewing Screenshot_2022-08-12-23-38-53-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-53-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Startlewing Screenshot_2022-08-12-23-38-53-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Startlewing</i>
+              Screenshot_2022-08-12-23-38-53-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-59-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Startlewing Screenshot_2022-08-12-23-38-59-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-59-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Startlewing Screenshot_2022-08-12-23-38-59-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Startlewing</i>
+              Screenshot_2022-08-12-23-38-59-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-03-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Startlewing Screenshot_2022-08-12-23-39-03-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-03-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Startlewing Screenshot_2022-08-12-23-39-03-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Startlewing</i>
+              Screenshot_2022-08-12-23-39-03-20_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-08-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Startlewing Screenshot_2022-08-12-23-39-08-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-08-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Startlewing Screenshot_2022-08-12-23-39-08-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Startlewing</i>
+              Screenshot_2022-08-12-23-39-08-91_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Startlewing Screenshot_2022-08-12-23-39-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Startlewing Screenshot_2022-08-12-23-39-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Startlewing</i>
+              Screenshot_2022-08-12-23-39-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-18-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Startlewing Screenshot_2022-08-12-23-39-18-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-18-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Startlewing Screenshot_2022-08-12-23-39-18-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Startlewing</i>
+              Screenshot_2022-08-12-23-39-18-97_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

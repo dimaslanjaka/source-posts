@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Barbled Dragonfish</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Barbled Dragonfish undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Barbled Dragonfish undefined"
+            />
+            <figcaption><i>Barbled Dragonfish</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

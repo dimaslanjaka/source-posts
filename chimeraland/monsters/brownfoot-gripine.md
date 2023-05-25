@@ -122,46 +122,85 @@ description: monster Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF
       <h2>Galleries for Brownfoot Gripine</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Brownfoot Gripine undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Brownfoot Gripine undefined"
+            />
+            <figcaption><i>Brownfoot Gripine</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-17-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-17-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-17-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-17-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Brownfoot Gripine</i>
+              Screenshot_2022-07-16-18-48-17-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-22-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-22-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-22-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-22-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Brownfoot Gripine</i>
+              Screenshot_2022-07-16-18-48-22-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-27-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-27-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-27-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-27-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Brownfoot Gripine</i>
+              Screenshot_2022-07-16-18-48-27-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-32-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-32-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-32-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-32-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Brownfoot Gripine</i>
+              Screenshot_2022-07-16-18-48-32-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Brownfoot Gripine</i>
+              Screenshot_2022-07-16-18-48-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-44-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-44-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-44-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-44-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Brownfoot Gripine</i>
+              Screenshot_2022-07-16-18-48-44-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

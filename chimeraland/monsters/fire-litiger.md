@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Fire Litiger</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Fire Litiger undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Fire Litiger undefined"
+            />
+            <figcaption><i>Fire Litiger</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

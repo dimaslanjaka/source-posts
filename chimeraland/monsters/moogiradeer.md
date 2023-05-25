@@ -123,46 +123,85 @@ description: "monster Moogiradeer default quality GRADE C ATK 53 HP 63 DEF 63
       <h2>Galleries for Moogiradeer</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Moogiradeer undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Moogiradeer undefined"
+            />
+            <figcaption><i>Moogiradeer</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Moogiradeer Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Moogiradeer Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Moogiradeer</i>
+              Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-49-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Moogiradeer Screenshot_2022-07-28-01-02-49-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-49-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Moogiradeer Screenshot_2022-07-28-01-02-49-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Moogiradeer</i>
+              Screenshot_2022-07-28-01-02-49-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-54-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Moogiradeer Screenshot_2022-07-28-01-02-54-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-54-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Moogiradeer Screenshot_2022-07-28-01-02-54-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Moogiradeer</i>
+              Screenshot_2022-07-28-01-02-54-10_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-58-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Moogiradeer Screenshot_2022-07-28-01-02-58-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-58-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Moogiradeer Screenshot_2022-07-28-01-02-58-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Moogiradeer</i>
+              Screenshot_2022-07-28-01-02-58-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-03-02-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Moogiradeer Screenshot_2022-07-28-01-03-02-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-03-02-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Moogiradeer Screenshot_2022-07-28-01-03-02-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Moogiradeer</i>
+              Screenshot_2022-07-28-01-03-02-90_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-03-07-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Moogiradeer Screenshot_2022-07-28-01-03-07-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-03-07-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Moogiradeer Screenshot_2022-07-28-01-03-07-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Moogiradeer</i>
+              Screenshot_2022-07-28-01-03-07-55_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

@@ -82,40 +82,76 @@ categories:
       <h2>Galleries for Rhijin</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-16-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Rhijin Screenshot_2022-07-29-21-50-16-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-16-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Rhijin Screenshot_2022-07-29-21-50-16-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Rhijin</i>
+              Screenshot_2022-07-29-21-50-16-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-20-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Rhijin Screenshot_2022-07-29-21-50-20-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-20-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Rhijin Screenshot_2022-07-29-21-50-20-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Rhijin</i>
+              Screenshot_2022-07-29-21-50-20-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-25-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Rhijin Screenshot_2022-07-29-21-50-25-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-25-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Rhijin Screenshot_2022-07-29-21-50-25-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Rhijin</i>
+              Screenshot_2022-07-29-21-50-25-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Rhijin Screenshot_2022-07-29-21-50-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Rhijin Screenshot_2022-07-29-21-50-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Rhijin</i>
+              Screenshot_2022-07-29-21-50-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-32-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Rhijin Screenshot_2022-07-29-21-50-32-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-32-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Rhijin Screenshot_2022-07-29-21-50-32-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Rhijin</i>
+              Screenshot_2022-07-29-21-50-32-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-37-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Rhijin Screenshot_2022-07-29-21-50-37-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-37-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Rhijin Screenshot_2022-07-29-21-50-37-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Rhijin</i>
+              Screenshot_2022-07-29-21-50-37-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

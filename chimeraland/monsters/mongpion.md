@@ -86,58 +86,109 @@ categories:
       <h2>Galleries for mongpion</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="mongpion undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="mongpion undefined"
+            />
+            <figcaption><i>mongpion</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-08-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="mongpion Screenshot_2023-02-22-13-43-08-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-08-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="mongpion Screenshot_2023-02-22-13-43-08-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>mongpion</i>
+              Screenshot_2023-02-22-13-43-08-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-12-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="mongpion Screenshot_2023-02-22-13-43-12-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-12-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="mongpion Screenshot_2023-02-22-13-43-12-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>mongpion</i>
+              Screenshot_2023-02-22-13-43-12-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-15-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="mongpion Screenshot_2023-02-22-13-43-15-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-15-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="mongpion Screenshot_2023-02-22-13-43-15-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>mongpion</i>
+              Screenshot_2023-02-22-13-43-15-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-19-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="mongpion Screenshot_2023-02-22-13-43-19-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-19-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="mongpion Screenshot_2023-02-22-13-43-19-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>mongpion</i>
+              Screenshot_2023-02-22-13-43-19-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-22-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="mongpion Screenshot_2023-02-22-13-43-22-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-22-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="mongpion Screenshot_2023-02-22-13-43-22-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>mongpion</i>
+              Screenshot_2023-02-22-13-43-22-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-27-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="mongpion Screenshot_2023-02-22-13-43-27-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-27-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="mongpion Screenshot_2023-02-22-13-43-27-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>mongpion</i>
+              Screenshot_2023-02-22-13-43-27-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-46-37-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="mongpion Screenshot_2023-02-22-13-46-37-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-46-37-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="mongpion Screenshot_2023-02-22-13-46-37-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>mongpion</i>
+              Screenshot_2023-02-22-13-46-37-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-46-43-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="mongpion Screenshot_2023-02-22-13-46-43-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-46-43-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="mongpion Screenshot_2023-02-22-13-46-43-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>mongpion</i>
+              Screenshot_2023-02-22-13-46-43-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

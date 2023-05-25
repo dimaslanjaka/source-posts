@@ -84,52 +84,100 @@ categories:
       <h2>Galleries for abyssal wisteria</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-12-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="abyssal wisteria Screenshot_2023-05-21-23-28-12-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-12-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="abyssal wisteria Screenshot_2023-05-21-23-28-12-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>abyssal wisteria</i>
+              Screenshot_2023-05-21-23-28-12-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-17-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="abyssal wisteria Screenshot_2023-05-21-23-28-17-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-17-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="abyssal wisteria Screenshot_2023-05-21-23-28-17-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>abyssal wisteria</i>
+              Screenshot_2023-05-21-23-28-17-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-21-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="abyssal wisteria Screenshot_2023-05-21-23-28-21-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-21-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="abyssal wisteria Screenshot_2023-05-21-23-28-21-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>abyssal wisteria</i>
+              Screenshot_2023-05-21-23-28-21-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-26-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="abyssal wisteria Screenshot_2023-05-21-23-28-26-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-26-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="abyssal wisteria Screenshot_2023-05-21-23-28-26-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>abyssal wisteria</i>
+              Screenshot_2023-05-21-23-28-26-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-32-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="abyssal wisteria Screenshot_2023-05-21-23-28-32-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-32-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="abyssal wisteria Screenshot_2023-05-21-23-28-32-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>abyssal wisteria</i>
+              Screenshot_2023-05-21-23-28-32-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="abyssal wisteria Screenshot_2023-05-21-23-28-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="abyssal wisteria Screenshot_2023-05-21-23-28-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>abyssal wisteria</i>
+              Screenshot_2023-05-21-23-28-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="abyssal wisteria Screenshot_2023-05-21-23-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="abyssal wisteria Screenshot_2023-05-21-23-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>abyssal wisteria</i>
+              Screenshot_2023-05-21-23-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-54-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="abyssal wisteria Screenshot_2023-05-21-23-28-54-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-54-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="abyssal wisteria Screenshot_2023-05-21-23-28-54-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>abyssal wisteria</i>
+              Screenshot_2023-05-21-23-28-54-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

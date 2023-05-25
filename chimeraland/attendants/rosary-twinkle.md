@@ -83,46 +83,88 @@ categories:
       <h2>Galleries for rosary twinkle</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-06-40-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="rosary twinkle Screenshot_2023-02-27-04-06-40-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-06-40-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="rosary twinkle Screenshot_2023-02-27-04-06-40-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>rosary twinkle</i>
+              Screenshot_2023-02-27-04-06-40-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-06-45-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="rosary twinkle Screenshot_2023-02-27-04-06-45-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-06-45-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="rosary twinkle Screenshot_2023-02-27-04-06-45-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>rosary twinkle</i>
+              Screenshot_2023-02-27-04-06-45-84_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-06-49-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="rosary twinkle Screenshot_2023-02-27-04-06-49-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-06-49-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="rosary twinkle Screenshot_2023-02-27-04-06-49-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>rosary twinkle</i>
+              Screenshot_2023-02-27-04-06-49-89_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-06-53-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="rosary twinkle Screenshot_2023-02-27-04-06-53-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-06-53-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="rosary twinkle Screenshot_2023-02-27-04-06-53-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>rosary twinkle</i>
+              Screenshot_2023-02-27-04-06-53-73_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-06-58-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="rosary twinkle Screenshot_2023-02-27-04-06-58-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-06-58-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="rosary twinkle Screenshot_2023-02-27-04-06-58-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>rosary twinkle</i>
+              Screenshot_2023-02-27-04-06-58-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-07-02-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="rosary twinkle Screenshot_2023-02-27-04-07-02-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-07-02-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="rosary twinkle Screenshot_2023-02-27-04-07-02-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>rosary twinkle</i>
+              Screenshot_2023-02-27-04-07-02-06_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-07-07-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="rosary twinkle Screenshot_2023-02-27-04-07-07-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-07-07-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="rosary twinkle Screenshot_2023-02-27-04-07-07-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>rosary twinkle</i>
+              Screenshot_2023-02-27-04-07-07-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

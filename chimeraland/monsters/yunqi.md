@@ -83,40 +83,76 @@ categories:
       <h2>Galleries for yunqi</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-15-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="yunqi Screenshot_2023-02-11-03-29-15-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-15-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="yunqi Screenshot_2023-02-11-03-29-15-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>yunqi</i>
+              Screenshot_2023-02-11-03-29-15-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-19-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="yunqi Screenshot_2023-02-11-03-29-19-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-19-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="yunqi Screenshot_2023-02-11-03-29-19-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>yunqi</i>
+              Screenshot_2023-02-11-03-29-19-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-25-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="yunqi Screenshot_2023-02-11-03-29-25-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-25-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="yunqi Screenshot_2023-02-11-03-29-25-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>yunqi</i>
+              Screenshot_2023-02-11-03-29-25-38_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="yunqi Screenshot_2023-02-11-03-29-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="yunqi Screenshot_2023-02-11-03-29-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>yunqi</i>
+              Screenshot_2023-02-11-03-29-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="yunqi Screenshot_2023-02-11-03-29-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="yunqi Screenshot_2023-02-11-03-29-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>yunqi</i>
+              Screenshot_2023-02-11-03-29-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-42-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="yunqi Screenshot_2023-02-11-03-29-42-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-42-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="yunqi Screenshot_2023-02-11-03-29-42-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>yunqi</i>
+              Screenshot_2023-02-11-03-29-42-04_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

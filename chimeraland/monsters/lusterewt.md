@@ -86,58 +86,109 @@ categories:
       <h2>Galleries for lusterewt</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="lusterewt undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="lusterewt undefined"
+            />
+            <figcaption><i>lusterewt</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lusterewt Screenshot_2022-11-14-11-07-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lusterewt Screenshot_2022-11-14-11-07-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lusterewt</i>
+              Screenshot_2022-11-14-11-07-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-42-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lusterewt Screenshot_2022-11-14-11-07-42-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-42-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lusterewt Screenshot_2022-11-14-11-07-42-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lusterewt</i>
+              Screenshot_2022-11-14-11-07-42-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-49-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lusterewt Screenshot_2022-11-14-11-07-49-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-49-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lusterewt Screenshot_2022-11-14-11-07-49-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lusterewt</i>
+              Screenshot_2022-11-14-11-07-49-56_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-54-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lusterewt Screenshot_2022-11-14-11-07-54-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-54-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lusterewt Screenshot_2022-11-14-11-07-54-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lusterewt</i>
+              Screenshot_2022-11-14-11-07-54-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-59-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lusterewt Screenshot_2022-11-14-11-07-59-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-59-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lusterewt Screenshot_2022-11-14-11-07-59-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lusterewt</i>
+              Screenshot_2022-11-14-11-07-59-99_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-03-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lusterewt Screenshot_2022-11-14-11-08-03-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-03-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lusterewt Screenshot_2022-11-14-11-08-03-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lusterewt</i>
+              Screenshot_2022-11-14-11-08-03-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-10-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lusterewt Screenshot_2022-11-14-11-08-10-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-10-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lusterewt Screenshot_2022-11-14-11-08-10-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lusterewt</i>
+              Screenshot_2022-11-14-11-08-10-89_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="lusterewt Screenshot_2022-11-14-11-08-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="lusterewt Screenshot_2022-11-14-11-08-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>lusterewt</i>
+              Screenshot_2022-11-14-11-08-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

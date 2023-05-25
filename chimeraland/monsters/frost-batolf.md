@@ -127,58 +127,109 @@ description: "monster Frost Batolf default quality GRADE A ATK 71 HP 72 DEF 68
       <h2>Galleries for Frost Batolf</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Frost Batolf undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Frost Batolf undefined"
+            />
+            <figcaption><i>Frost Batolf</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Frost Batolf Screenshot_2022-08-14-02-17-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Frost Batolf Screenshot_2022-08-14-02-17-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Frost Batolf</i>
+              Screenshot_2022-08-14-02-17-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-42-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Frost Batolf Screenshot_2022-08-14-02-17-42-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-42-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Frost Batolf Screenshot_2022-08-14-02-17-42-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Frost Batolf</i>
+              Screenshot_2022-08-14-02-17-42-24_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Frost Batolf Screenshot_2022-08-14-02-17-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Frost Batolf Screenshot_2022-08-14-02-17-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Frost Batolf</i>
+              Screenshot_2022-08-14-02-17-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-49-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Frost Batolf Screenshot_2022-08-14-02-17-49-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-49-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Frost Batolf Screenshot_2022-08-14-02-17-49-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Frost Batolf</i>
+              Screenshot_2022-08-14-02-17-49-90_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-54-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Frost Batolf Screenshot_2022-08-14-02-17-54-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-54-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Frost Batolf Screenshot_2022-08-14-02-17-54-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Frost Batolf</i>
+              Screenshot_2022-08-14-02-17-54-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-02-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Frost Batolf Screenshot_2022-08-14-02-18-02-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-02-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Frost Batolf Screenshot_2022-08-14-02-18-02-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Frost Batolf</i>
+              Screenshot_2022-08-14-02-18-02-60_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-06-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Frost Batolf Screenshot_2022-08-14-02-18-06-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-06-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Frost Batolf Screenshot_2022-08-14-02-18-06-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Frost Batolf</i>
+              Screenshot_2022-08-14-02-18-06-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-10-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Frost Batolf Screenshot_2022-08-14-02-18-10-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-10-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Frost Batolf Screenshot_2022-08-14-02-18-10-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Frost Batolf</i>
+              Screenshot_2022-08-14-02-18-10-88_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

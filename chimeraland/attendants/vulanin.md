@@ -83,46 +83,88 @@ categories:
       <h2>Galleries for vulanin</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-22-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="vulanin Screenshot_2022-11-21-14-10-22-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-22-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="vulanin Screenshot_2022-11-21-14-10-22-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>vulanin</i>
+              Screenshot_2022-11-21-14-10-22-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-27-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="vulanin Screenshot_2022-11-21-14-10-27-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-27-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="vulanin Screenshot_2022-11-21-14-10-27-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>vulanin</i>
+              Screenshot_2022-11-21-14-10-27-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-42-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="vulanin Screenshot_2022-11-21-14-10-42-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-42-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="vulanin Screenshot_2022-11-21-14-10-42-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>vulanin</i>
+              Screenshot_2022-11-21-14-10-42-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-46-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="vulanin Screenshot_2022-11-21-14-10-46-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-46-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="vulanin Screenshot_2022-11-21-14-10-46-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>vulanin</i>
+              Screenshot_2022-11-21-14-10-46-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-51-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="vulanin Screenshot_2022-11-21-14-10-51-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-51-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="vulanin Screenshot_2022-11-21-14-10-51-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>vulanin</i>
+              Screenshot_2022-11-21-14-10-51-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-57-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="vulanin Screenshot_2022-11-21-14-10-57-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-57-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="vulanin Screenshot_2022-11-21-14-10-57-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>vulanin</i>
+              Screenshot_2022-11-21-14-10-57-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-11-01-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="vulanin Screenshot_2022-11-21-14-11-01-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-11-01-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="vulanin Screenshot_2022-11-21-14-11-01-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>vulanin</i>
+              Screenshot_2022-11-21-14-11-01-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

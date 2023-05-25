@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Blueswirl Fish</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Blueswirl Fish undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Blueswirl Fish undefined"
+            />
+            <figcaption><i>Blueswirl Fish</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

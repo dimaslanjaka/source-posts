@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Frost Lobcray</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Frost Lobcray undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Frost Lobcray undefined"
+            />
+            <figcaption><i>Frost Lobcray</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

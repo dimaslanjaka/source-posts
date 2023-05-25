@@ -124,58 +124,109 @@ description: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
       <h2>Galleries for Specklehorn</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Specklehorn undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Specklehorn undefined"
+            />
+            <figcaption><i>Specklehorn</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-02-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Specklehorn Screenshot_2022-08-16-09-08-02-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-02-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Specklehorn Screenshot_2022-08-16-09-08-02-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Specklehorn</i>
+              Screenshot_2022-08-16-09-08-02-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-06-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Specklehorn Screenshot_2022-08-16-09-08-06-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-06-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Specklehorn Screenshot_2022-08-16-09-08-06-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Specklehorn</i>
+              Screenshot_2022-08-16-09-08-06-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-09-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Specklehorn Screenshot_2022-08-16-09-08-09-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-09-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Specklehorn Screenshot_2022-08-16-09-08-09-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Specklehorn</i>
+              Screenshot_2022-08-16-09-08-09-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-20-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Specklehorn Screenshot_2022-08-16-09-08-20-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-20-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Specklehorn Screenshot_2022-08-16-09-08-20-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Specklehorn</i>
+              Screenshot_2022-08-16-09-08-20-31_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-24-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Specklehorn Screenshot_2022-08-16-09-08-24-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-24-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Specklehorn Screenshot_2022-08-16-09-08-24-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Specklehorn</i>
+              Screenshot_2022-08-16-09-08-24-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-11-14-11-09-08-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Specklehorn Screenshot_2022-11-14-11-09-08-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-11-14-11-09-08-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Specklehorn Screenshot_2022-11-14-11-09-08-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Specklehorn</i>
+              Screenshot_2022-11-14-11-09-08-93_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-11-14-11-09-14-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Specklehorn Screenshot_2022-11-14-11-09-14-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-11-14-11-09-14-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Specklehorn Screenshot_2022-11-14-11-09-14-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Specklehorn</i>
+              Screenshot_2022-11-14-11-09-14-80_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-11-14-11-09-24-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Specklehorn Screenshot_2022-11-14-11-09-24-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-11-14-11-09-24-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Specklehorn Screenshot_2022-11-14-11-09-24-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Specklehorn</i>
+              Screenshot_2022-11-14-11-09-24-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

@@ -83,46 +83,88 @@ categories:
       <h2>Galleries for rosary wisteria</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-29-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="rosary wisteria Screenshot_2022-11-15-23-44-29-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-29-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="rosary wisteria Screenshot_2022-11-15-23-44-29-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>rosary wisteria</i>
+              Screenshot_2022-11-15-23-44-29-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-33-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="rosary wisteria Screenshot_2022-11-15-23-44-33-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-33-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="rosary wisteria Screenshot_2022-11-15-23-44-33-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>rosary wisteria</i>
+              Screenshot_2022-11-15-23-44-33-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-36-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="rosary wisteria Screenshot_2022-11-15-23-44-36-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-36-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="rosary wisteria Screenshot_2022-11-15-23-44-36-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>rosary wisteria</i>
+              Screenshot_2022-11-15-23-44-36-93_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-40-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="rosary wisteria Screenshot_2022-11-15-23-44-40-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-40-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="rosary wisteria Screenshot_2022-11-15-23-44-40-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>rosary wisteria</i>
+              Screenshot_2022-11-15-23-44-40-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-43-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="rosary wisteria Screenshot_2022-11-15-23-44-43-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-43-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="rosary wisteria Screenshot_2022-11-15-23-44-43-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>rosary wisteria</i>
+              Screenshot_2022-11-15-23-44-43-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="rosary wisteria Screenshot_2022-11-15-23-44-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="rosary wisteria Screenshot_2022-11-15-23-44-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>rosary wisteria</i>
+              Screenshot_2022-11-15-23-44-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-49-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="rosary wisteria Screenshot_2022-11-15-23-44-49-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-49-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="rosary wisteria Screenshot_2022-11-15-23-44-49-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>rosary wisteria</i>
+              Screenshot_2022-11-15-23-44-49-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

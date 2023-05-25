@@ -84,52 +84,100 @@ categories:
       <h2>Galleries for ocywalka</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocywalka Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocywalka Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocywalka</i>
+              Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-20-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocywalka Screenshot_2023-02-28-19-41-20-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-20-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocywalka Screenshot_2023-02-28-19-41-20-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocywalka</i>
+              Screenshot_2023-02-28-19-41-20-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-26-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocywalka Screenshot_2023-02-28-19-41-26-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-26-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocywalka Screenshot_2023-02-28-19-41-26-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocywalka</i>
+              Screenshot_2023-02-28-19-41-26-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-32-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocywalka Screenshot_2023-02-28-19-41-32-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-32-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocywalka Screenshot_2023-02-28-19-41-32-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocywalka</i>
+              Screenshot_2023-02-28-19-41-32-59_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-36-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocywalka Screenshot_2023-02-28-19-41-36-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-36-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocywalka Screenshot_2023-02-28-19-41-36-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocywalka</i>
+              Screenshot_2023-02-28-19-41-36-79_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-41-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocywalka Screenshot_2023-02-28-19-41-41-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-41-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocywalka Screenshot_2023-02-28-19-41-41-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocywalka</i>
+              Screenshot_2023-02-28-19-41-41-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocywalka Screenshot_2023-02-28-19-41-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocywalka Screenshot_2023-02-28-19-41-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocywalka</i>
+              Screenshot_2023-02-28-19-41-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ocywalka Screenshot_2023-02-28-19-41-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ocywalka Screenshot_2023-02-28-19-41-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ocywalka</i>
+              Screenshot_2023-02-28-19-41-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

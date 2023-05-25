@@ -123,52 +123,90 @@ description: "monster Pinchpion default quality GRADE B ATK 63 HP 66 DEF 54
       <h2>Galleries for Pinchpion</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Pinchpion undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Pinchpion undefined"
+            />
+            <figcaption><i>Pinchpion</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191501.webp"
-            alt="Pinchpion Screenshot 2022-08-09 191501.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191501.webp"
+              alt="Pinchpion Screenshot 2022-08-09 191501.webp"
+            />
+            <figcaption>
+              <i>Pinchpion</i> Screenshot 2022-08-09 191501.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191639.webp"
-            alt="Pinchpion Screenshot 2022-08-09 191639.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191639.webp"
+              alt="Pinchpion Screenshot 2022-08-09 191639.webp"
+            />
+            <figcaption>
+              <i>Pinchpion</i> Screenshot 2022-08-09 191639.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191659.webp"
-            alt="Pinchpion Screenshot 2022-08-09 191659.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191659.webp"
+              alt="Pinchpion Screenshot 2022-08-09 191659.webp"
+            />
+            <figcaption>
+              <i>Pinchpion</i> Screenshot 2022-08-09 191659.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191724.webp"
-            alt="Pinchpion Screenshot 2022-08-09 191724.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191724.webp"
+              alt="Pinchpion Screenshot 2022-08-09 191724.webp"
+            />
+            <figcaption>
+              <i>Pinchpion</i> Screenshot 2022-08-09 191724.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191741.webp"
-            alt="Pinchpion Screenshot 2022-08-09 191741.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191741.webp"
+              alt="Pinchpion Screenshot 2022-08-09 191741.webp"
+            />
+            <figcaption>
+              <i>Pinchpion</i> Screenshot 2022-08-09 191741.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191802.webp"
-            alt="Pinchpion Screenshot 2022-08-09 191802.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191802.webp"
+              alt="Pinchpion Screenshot 2022-08-09 191802.webp"
+            />
+            <figcaption>
+              <i>Pinchpion</i> Screenshot 2022-08-09 191802.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191821.webp"
-            alt="Pinchpion Screenshot 2022-08-09 191821.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191821.webp"
+              alt="Pinchpion Screenshot 2022-08-09 191821.webp"
+            />
+            <figcaption>
+              <i>Pinchpion</i> Screenshot 2022-08-09 191821.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

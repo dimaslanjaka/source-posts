@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Frontosa</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Frontosa undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Frontosa undefined"
+            />
+            <figcaption><i>Frontosa</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

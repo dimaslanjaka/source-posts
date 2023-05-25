@@ -122,46 +122,85 @@ description: monster Camel default quality GRADE C ATK 30 HP 50 DEF 60
       <h2>Galleries for Camel</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Camel undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Camel undefined"
+            />
+            <figcaption><i>Camel</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Camel Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Camel Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Camel</i>
+              Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Camel Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Camel Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Camel</i>
+              Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Camel Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Camel Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Camel</i>
+              Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Camel Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Camel Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Camel</i>
+              Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Camel Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Camel Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Camel</i>
+              Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Camel Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Camel Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Camel</i>
+              Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

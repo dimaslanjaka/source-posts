@@ -82,40 +82,76 @@ categories:
       <h2>Galleries for Ocygatha</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-24-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Ocygatha Screenshot_2022-07-30-14-35-24-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-24-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Ocygatha Screenshot_2022-07-30-14-35-24-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Ocygatha</i>
+              Screenshot_2022-07-30-14-35-24-99_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-29-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Ocygatha Screenshot_2022-07-30-14-35-29-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-29-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Ocygatha Screenshot_2022-07-30-14-35-29-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Ocygatha</i>
+              Screenshot_2022-07-30-14-35-29-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Ocygatha Screenshot_2022-07-30-14-35-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Ocygatha Screenshot_2022-07-30-14-35-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Ocygatha</i>
+              Screenshot_2022-07-30-14-35-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-41-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Ocygatha Screenshot_2022-07-30-14-35-41-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-41-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Ocygatha Screenshot_2022-07-30-14-35-41-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Ocygatha</i>
+              Screenshot_2022-07-30-14-35-41-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-45-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Ocygatha Screenshot_2022-07-30-14-35-45-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-45-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Ocygatha Screenshot_2022-07-30-14-35-45-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Ocygatha</i>
+              Screenshot_2022-07-30-14-35-45-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Ocygatha Screenshot_2022-07-30-14-35-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Ocygatha Screenshot_2022-07-30-14-35-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Ocygatha</i>
+              Screenshot_2022-07-30-14-35-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

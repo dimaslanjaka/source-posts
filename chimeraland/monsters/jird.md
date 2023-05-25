@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Jird</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Jird undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Jird undefined"
+            />
+            <figcaption><i>Jird</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

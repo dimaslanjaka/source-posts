@@ -84,52 +84,100 @@ categories:
       <h2>Galleries for shaman violetine</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="shaman violetine Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="shaman violetine Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>shaman violetine</i>
+              Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="shaman violetine Screenshot_2023-03-12-23-43-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="shaman violetine Screenshot_2023-03-12-23-43-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>shaman violetine</i>
+              Screenshot_2023-03-12-23-43-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-52-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="shaman violetine Screenshot_2023-03-12-23-43-52-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-52-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="shaman violetine Screenshot_2023-03-12-23-43-52-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>shaman violetine</i>
+              Screenshot_2023-03-12-23-43-52-90_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-56-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="shaman violetine Screenshot_2023-03-12-23-43-56-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-56-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="shaman violetine Screenshot_2023-03-12-23-43-56-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>shaman violetine</i>
+              Screenshot_2023-03-12-23-43-56-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-01-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="shaman violetine Screenshot_2023-03-12-23-44-01-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-01-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="shaman violetine Screenshot_2023-03-12-23-44-01-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>shaman violetine</i>
+              Screenshot_2023-03-12-23-44-01-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-09-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="shaman violetine Screenshot_2023-03-12-23-44-09-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-09-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="shaman violetine Screenshot_2023-03-12-23-44-09-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>shaman violetine</i>
+              Screenshot_2023-03-12-23-44-09-89_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-14-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="shaman violetine Screenshot_2023-03-12-23-44-14-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-14-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="shaman violetine Screenshot_2023-03-12-23-44-14-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>shaman violetine</i>
+              Screenshot_2023-03-12-23-44-14-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-18-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="shaman violetine Screenshot_2023-03-12-23-44-18-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-18-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="shaman violetine Screenshot_2023-03-12-23-44-18-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>shaman violetine</i>
+              Screenshot_2023-03-12-23-44-18-38_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

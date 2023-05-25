@@ -83,46 +83,88 @@ categories:
       <h2>Galleries for ursalton</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-09-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ursalton Screenshot_2022-11-25-11-29-09-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-09-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ursalton Screenshot_2022-11-25-11-29-09-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ursalton</i>
+              Screenshot_2022-11-25-11-29-09-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-15-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ursalton Screenshot_2022-11-25-11-29-15-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-15-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ursalton Screenshot_2022-11-25-11-29-15-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ursalton</i>
+              Screenshot_2022-11-25-11-29-15-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-20-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ursalton Screenshot_2022-11-25-11-29-20-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-20-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ursalton Screenshot_2022-11-25-11-29-20-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ursalton</i>
+              Screenshot_2022-11-25-11-29-20-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-25-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ursalton Screenshot_2022-11-25-11-29-25-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-25-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ursalton Screenshot_2022-11-25-11-29-25-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ursalton</i>
+              Screenshot_2022-11-25-11-29-25-67_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-31-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ursalton Screenshot_2022-11-25-11-29-31-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-31-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ursalton Screenshot_2022-11-25-11-29-31-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ursalton</i>
+              Screenshot_2022-11-25-11-29-31-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ursalton Screenshot_2022-11-25-11-29-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ursalton Screenshot_2022-11-25-11-29-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ursalton</i>
+              Screenshot_2022-11-25-11-29-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-41-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="ursalton Screenshot_2022-11-25-11-29-41-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-41-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="ursalton Screenshot_2022-11-25-11-29-41-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>ursalton</i>
+              Screenshot_2022-11-25-11-29-41-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

@@ -85,52 +85,97 @@ categories:
       <h2>Galleries for Rhino</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Rhino undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Rhino undefined"
+            />
+            <figcaption><i>Rhino</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-41-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Rhino Screenshot_2023-03-14-13-09-41-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-41-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Rhino Screenshot_2023-03-14-13-09-41-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Rhino</i>
+              Screenshot_2023-03-14-13-09-41-06_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-44-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Rhino Screenshot_2023-03-14-13-09-44-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-44-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Rhino Screenshot_2023-03-14-13-09-44-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Rhino</i>
+              Screenshot_2023-03-14-13-09-44-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-48-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Rhino Screenshot_2023-03-14-13-09-48-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-48-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Rhino Screenshot_2023-03-14-13-09-48-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Rhino</i>
+              Screenshot_2023-03-14-13-09-48-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-54-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Rhino Screenshot_2023-03-14-13-09-54-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-54-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Rhino Screenshot_2023-03-14-13-09-54-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Rhino</i>
+              Screenshot_2023-03-14-13-09-54-82_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-58-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Rhino Screenshot_2023-03-14-13-09-58-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-09-58-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Rhino Screenshot_2023-03-14-13-09-58-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Rhino</i>
+              Screenshot_2023-03-14-13-09-58-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-10-03-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Rhino Screenshot_2023-03-14-13-10-03-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-10-03-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Rhino Screenshot_2023-03-14-13-10-03-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Rhino</i>
+              Screenshot_2023-03-14-13-10-03-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-10-07-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Rhino Screenshot_2023-03-14-13-10-07-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/rhino/Screenshot_2023-03-14-13-10-07-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Rhino Screenshot_2023-03-14-13-10-07-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Rhino</i>
+              Screenshot_2023-03-14-13-10-07-61_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

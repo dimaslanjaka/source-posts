@@ -80,10 +80,16 @@ categories:
       <h2>Galleries for Noble Serpent</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/noble-serpent/chimeraland-noble-serpent-evolve-featured.webp"
-            alt="Noble Serpent chimeraland-noble-serpent-evolve-featured.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/noble-serpent/chimeraland-noble-serpent-evolve-featured.webp"
+              alt="Noble Serpent chimeraland-noble-serpent-evolve-featured.webp"
+            />
+            <figcaption>
+              <i>Noble Serpent</i>
+              chimeraland-noble-serpent-evolve-featured.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

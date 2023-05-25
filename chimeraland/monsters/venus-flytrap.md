@@ -122,46 +122,85 @@ description: "monster Venus Flytrap default quality GRADE B ATK 60 HP 60 DEF 60
       <h2>Galleries for Venus Flytrap</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Venus Flytrap undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Venus Flytrap undefined"
+            />
+            <figcaption><i>Venus Flytrap</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-29-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Venus Flytrap Screenshot_2022-07-15-16-58-29-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-29-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Venus Flytrap Screenshot_2022-07-15-16-58-29-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Venus Flytrap</i>
+              Screenshot_2022-07-15-16-58-29-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-36-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Venus Flytrap Screenshot_2022-07-15-16-58-36-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-36-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Venus Flytrap Screenshot_2022-07-15-16-58-36-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Venus Flytrap</i>
+              Screenshot_2022-07-15-16-58-36-59_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-43-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Venus Flytrap Screenshot_2022-07-15-16-58-43-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-43-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Venus Flytrap Screenshot_2022-07-15-16-58-43-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Venus Flytrap</i>
+              Screenshot_2022-07-15-16-58-43-52_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-48-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Venus Flytrap Screenshot_2022-07-15-16-58-48-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-48-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Venus Flytrap Screenshot_2022-07-15-16-58-48-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Venus Flytrap</i>
+              Screenshot_2022-07-15-16-58-48-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-53-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Venus Flytrap Screenshot_2022-07-15-16-58-53-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-53-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Venus Flytrap Screenshot_2022-07-15-16-58-53-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Venus Flytrap</i>
+              Screenshot_2022-07-15-16-58-53-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-58-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Venus Flytrap Screenshot_2022-07-15-16-58-58-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-58-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Venus Flytrap Screenshot_2022-07-15-16-58-58-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Venus Flytrap</i>
+              Screenshot_2022-07-15-16-58-58-55_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

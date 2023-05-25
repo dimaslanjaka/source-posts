@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Lime Lobcray</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Lime Lobcray undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Lime Lobcray undefined"
+            />
+            <figcaption><i>Lime Lobcray</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>

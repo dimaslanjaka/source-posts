@@ -123,52 +123,97 @@ description: "monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF
       <h2>Galleries for Ancient Piranha</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Ancient Piranha undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Ancient Piranha undefined"
+            />
+            <figcaption><i>Ancient Piranha</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Ancient Piranha Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Ancient Piranha Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Ancient Piranha</i>
+              Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-22-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Ancient Piranha Screenshot_2022-07-29-00-31-22-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-22-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Ancient Piranha Screenshot_2022-07-29-00-31-22-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Ancient Piranha</i>
+              Screenshot_2022-07-29-00-31-22-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-26-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Ancient Piranha Screenshot_2022-07-29-00-31-26-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-26-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Ancient Piranha Screenshot_2022-07-29-00-31-26-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Ancient Piranha</i>
+              Screenshot_2022-07-29-00-31-26-31_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-29-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Ancient Piranha Screenshot_2022-07-29-00-31-29-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-29-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Ancient Piranha Screenshot_2022-07-29-00-31-29-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Ancient Piranha</i>
+              Screenshot_2022-07-29-00-31-29-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-34-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Ancient Piranha Screenshot_2022-07-29-00-31-34-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-34-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Ancient Piranha Screenshot_2022-07-29-00-31-34-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Ancient Piranha</i>
+              Screenshot_2022-07-29-00-31-34-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-39-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Ancient Piranha Screenshot_2022-07-29-00-31-39-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-39-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Ancient Piranha Screenshot_2022-07-29-00-31-39-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Ancient Piranha</i>
+              Screenshot_2022-07-29-00-31-39-21_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-49-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Ancient Piranha Screenshot_2022-07-29-00-31-49-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-49-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Ancient Piranha Screenshot_2022-07-29-00-31-49-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Ancient Piranha</i>
+              Screenshot_2022-07-29-00-31-49-12_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

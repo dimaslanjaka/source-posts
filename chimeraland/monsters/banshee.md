@@ -124,58 +124,109 @@ description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
       <h2>Galleries for Banshee</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Banshee undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Banshee undefined"
+            />
+            <figcaption><i>Banshee</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-34-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Banshee Screenshot_2022-08-19-20-41-34-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-34-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Banshee Screenshot_2022-08-19-20-41-34-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Banshee</i>
+              Screenshot_2022-08-19-20-41-34-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-39-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Banshee Screenshot_2022-08-19-20-41-39-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-39-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Banshee Screenshot_2022-08-19-20-41-39-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Banshee</i>
+              Screenshot_2022-08-19-20-41-39-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-43-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Banshee Screenshot_2022-08-19-20-41-43-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-43-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Banshee Screenshot_2022-08-19-20-41-43-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Banshee</i>
+              Screenshot_2022-08-19-20-41-43-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Banshee Screenshot_2022-08-19-20-41-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Banshee Screenshot_2022-08-19-20-41-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Banshee</i>
+              Screenshot_2022-08-19-20-41-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-53-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Banshee Screenshot_2022-08-19-20-41-53-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-53-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Banshee Screenshot_2022-08-19-20-41-53-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Banshee</i>
+              Screenshot_2022-08-19-20-41-53-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Banshee Screenshot_2022-08-19-20-42-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Banshee Screenshot_2022-08-19-20-42-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Banshee</i>
+              Screenshot_2022-08-19-20-42-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-06-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Banshee Screenshot_2022-08-19-20-42-06-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-06-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Banshee Screenshot_2022-08-19-20-42-06-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Banshee</i>
+              Screenshot_2022-08-19-20-42-06-24_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-12-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Banshee Screenshot_2022-08-19-20-42-12-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-12-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Banshee Screenshot_2022-08-19-20-42-12-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Banshee</i>
+              Screenshot_2022-08-19-20-42-12-59_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

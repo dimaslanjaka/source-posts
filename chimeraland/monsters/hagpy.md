@@ -127,58 +127,109 @@ description: "monster Hagpy default quality GRADE A ATK 70 HP 72 DEF 68
       <h2>Galleries for Hagpy</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Hagpy undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Hagpy undefined"
+            />
+            <figcaption><i>Hagpy</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-42-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hagpy Screenshot_2022-08-13-02-42-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-42-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hagpy Screenshot_2022-08-13-02-42-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hagpy</i>
+              Screenshot_2022-08-13-02-42-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-42-56-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hagpy Screenshot_2022-08-13-02-42-56-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-42-56-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hagpy Screenshot_2022-08-13-02-42-56-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hagpy</i>
+              Screenshot_2022-08-13-02-42-56-60_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-01-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hagpy Screenshot_2022-08-13-02-43-01-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-01-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hagpy Screenshot_2022-08-13-02-43-01-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hagpy</i>
+              Screenshot_2022-08-13-02-43-01-10_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-04-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hagpy Screenshot_2022-08-13-02-43-04-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-04-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hagpy Screenshot_2022-08-13-02-43-04-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hagpy</i>
+              Screenshot_2022-08-13-02-43-04-64_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-09-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hagpy Screenshot_2022-08-13-02-43-09-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-09-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hagpy Screenshot_2022-08-13-02-43-09-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hagpy</i>
+              Screenshot_2022-08-13-02-43-09-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-12-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hagpy Screenshot_2022-08-13-02-43-12-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-12-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hagpy Screenshot_2022-08-13-02-43-12-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hagpy</i>
+              Screenshot_2022-08-13-02-43-12-99_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-18-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hagpy Screenshot_2022-08-13-02-43-18-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-18-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hagpy Screenshot_2022-08-13-02-43-18-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hagpy</i>
+              Screenshot_2022-08-13-02-43-18-34_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-24-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Hagpy Screenshot_2022-08-13-02-43-24-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-24-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Hagpy Screenshot_2022-08-13-02-43-24-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Hagpy</i>
+              Screenshot_2022-08-13-02-43-24-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

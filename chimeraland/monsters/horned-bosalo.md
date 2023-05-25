@@ -122,46 +122,85 @@ description: monster Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
       <h2>Galleries for Horned Bosalo</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Horned Bosalo undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Horned Bosalo undefined"
+            />
+            <figcaption><i>Horned Bosalo</i> .</figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-24-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Horned Bosalo Screenshot_2022-07-15-17-00-24-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-24-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Horned Bosalo Screenshot_2022-07-15-17-00-24-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Horned Bosalo</i>
+              Screenshot_2022-07-15-17-00-24-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Horned Bosalo Screenshot_2022-07-15-17-00-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Horned Bosalo Screenshot_2022-07-15-17-00-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Horned Bosalo</i>
+              Screenshot_2022-07-15-17-00-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-36-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Horned Bosalo Screenshot_2022-07-15-17-00-36-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-36-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Horned Bosalo Screenshot_2022-07-15-17-00-36-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Horned Bosalo</i>
+              Screenshot_2022-07-15-17-00-36-99_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-41-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Horned Bosalo Screenshot_2022-07-15-17-00-41-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-41-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Horned Bosalo Screenshot_2022-07-15-17-00-41-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Horned Bosalo</i>
+              Screenshot_2022-07-15-17-00-41-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-45-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Horned Bosalo Screenshot_2022-07-15-17-00-45-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-45-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Horned Bosalo Screenshot_2022-07-15-17-00-45-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Horned Bosalo</i>
+              Screenshot_2022-07-15-17-00-45-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-            alt="Horned Bosalo Screenshot_2022-07-15-17-00-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Horned Bosalo Screenshot_2022-07-15-17-00-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption>
+              <i>Horned Bosalo</i>
+              Screenshot_2022-07-15-17-00-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
         </div>
       </div>
     </div>

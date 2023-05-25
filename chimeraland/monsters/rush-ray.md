@@ -78,10 +78,13 @@ categories:
       <h2>Galleries for Rush Ray</h2>
       <div class="row">
         <div class="col-lg-6 col-12">
-          <img
-            src="https://www.webmanajemen.com/undefined"
-            alt="Rush Ray undefined"
-          />
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/undefined"
+              alt="Rush Ray undefined"
+            />
+            <figcaption><i>Rush Ray</i> .</figcaption>
+          </figure>
         </div>
       </div>
     </div>
