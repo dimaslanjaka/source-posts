@@ -7,7 +7,7 @@ categories: [programming, javascript, typescript]
 ---
 
 <details>
-  <summary>based on [stackoverflow](https://stackoverflow.com/a/73420288/6404439)</summary>
+  <summary>based on <a href="https://stackoverflow.com/a/73420288/6404439">stackoverflow</a></summary>
 
   You can try to use --logHeapUsage\
   From [documentation](https://jestjs.io/docs/cli):
