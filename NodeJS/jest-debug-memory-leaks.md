@@ -37,7 +37,7 @@ categories: [programming, javascript, typescript]
 </details>
 
 ## Step to dump memory leaks
-> If you haven't installed `jest`, please read [https://www.webmanagement.com/2023/04/setup-jest-code-runner-vscode.html](https://www.webmanagement.com/2023/04/setup-jest-code-runner-vscode.html)
+> If you haven't installed `jest`, please read [https://www.webmanajemen.com/2023/04/setup-jest-code-runner-vscode.html](https://www.webmanajemen.com/2023/04/setup-jest-code-runner-vscode.html)
 
 - create new test file
 ```ts
