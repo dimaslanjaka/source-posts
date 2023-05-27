@@ -61,7 +61,7 @@ describe('.gitignore test', () => {
   });
 });
 ```
-  
+
 ```bash
 node --expose-gc ./node_modules/jest-cli/bin/jest.js --logHeapUsage -- test-file-name
 ```
