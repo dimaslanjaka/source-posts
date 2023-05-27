@@ -1,7 +1,7 @@
 ---
 title: debug memory leaks with jest
 date: 2023-05-27T17:04:21+07:00
-updated: 2023-05-27T17:04:21+07:00
+updated: 2023-05-27T17:23:34+07:00
 tags: [jest, js]
 categories: [programming, javascript, typescript]
 ---
@@ -37,6 +37,7 @@ categories: [programming, javascript, typescript]
 </details>
 
 ## Step to dump memory leaks
+- create new test file
 ```ts
 import { afterAll, describe, expect, it } from '@jest/globals';
 import fs from 'fs';
@@ -61,7 +62,7 @@ describe('.gitignore test', () => {
   });
 });
 ```
-
+- run using below command
 ```bash
 node --expose-gc ./node_modules/jest-cli/bin/jest.js --logHeapUsage -- test-file-name
 ```
