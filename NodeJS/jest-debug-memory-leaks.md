@@ -36,7 +36,31 @@ categories: [programming, javascript, typescript]
   <https://chanind.github.io/javascript/2019/10/12/jest-tests-memory-leak.html>
 </details>
 
-## CLI usage  
+## Step to dump memory leaks
+```ts
+import { afterAll, describe, expect, it } from '@jest/globals';
+import fs from 'fs';
+import { join } from 'path';
+import { testcfg } from './config';
+
+describe('.gitignore test', () => {
+  const ignoredFile = join(testcfg.cwd, 'file-ignore.txt');
+  const ignoredFile2 = join(testcfg.cwd, 'file-ignore-another.txt');
+
+  it('write', () => {
+    fs.writeFileSync(ignoredFile, '');
+    fs.writeFileSync(ignoredFile2, '');
+    expect(fs.existsSync(ignoredFile)).toBeTruthy();
+    expect(fs.existsSync(ignoredFile2)).toBeTruthy();
+  }, 900000);
+
+  afterAll(() => {
+    if (global.gc) {
+      global.gc();
+    }
+  });
+});
+```
   
 ```bash
 node --expose-gc ./node_modules/jest-cli/bin/jest.js --logHeapUsage -- test-file-name
