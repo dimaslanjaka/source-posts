@@ -19,13 +19,13 @@ All in one recipes
 
 ![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
 
-## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
-
-![Script auto fishing Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Script+auto+fishing+Chimeraland)
-
 ## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
 
 ![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
+
+## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
+
+![Script auto fishing Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Script+auto+fishing+Chimeraland)
 
 ## [Pet and attendant delicacies tasty informations Chimeraland](/chimeraland/pet-attendant-delicacies.html)
 
@@ -67,13 +67,13 @@ All in one recipes
 
 ![cara reclaim draka gift Chimeraland](https://user-images.githubusercontent.com/12471057/172972505-68674e18-9ef3-411b-b6ea-9149e32c6456.png)
 
-## [How to breeding mermaid in aquarium chimeraland](/chimeraland/breeding-mermaid-in-aquarium.html)
-
-![How to breeding mermaid in aquarium chimeraland](/chimeraland/breeding-mermaid-in-aquarium/mermaid-package.jpg)
-
 ## [Cara grinding skill pet dengan cepat](/chimeraland/cara-grinding-skill-pet-dengan-cepat.html)
 
 ![Cara grinding skill pet dengan cepat](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Cara+grinding+skill+pet+dengan+cepat)
+
+## [How to breeding mermaid in aquarium chimeraland](/chimeraland/breeding-mermaid-in-aquarium.html)
+
+![How to breeding mermaid in aquarium chimeraland](/chimeraland/breeding-mermaid-in-aquarium/mermaid-package.jpg)
 
 ## [Chimeraland Scammer List Player](/chimeraland/blacklist-player.html)
 
