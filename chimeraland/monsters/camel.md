@@ -62,7 +62,7 @@ description: monster Camel default quality GRADE C ATK 30 HP 50 DEF 60
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Camel stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -127,7 +127,9 @@ description: monster Camel default quality GRADE C ATK 30 HP 50 DEF 60
               src="https://www.webmanajemen.com/undefined"
               alt="Camel undefined"
             />
-            <figcaption><i>Camel</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Camel</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -136,7 +138,7 @@ description: monster Camel default quality GRADE C ATK 30 HP 50 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Camel Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Camel</i>
               Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +150,7 @@ description: monster Camel default quality GRADE C ATK 30 HP 50 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Camel Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Camel</i>
               Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +162,7 @@ description: monster Camel default quality GRADE C ATK 30 HP 50 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Camel Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Camel</i>
               Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -172,7 +174,7 @@ description: monster Camel default quality GRADE C ATK 30 HP 50 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Camel Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Camel</i>
               Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -184,7 +186,7 @@ description: monster Camel default quality GRADE C ATK 30 HP 50 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Camel Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Camel</i>
               Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -196,7 +198,7 @@ description: monster Camel default quality GRADE C ATK 30 HP 50 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Camel Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Camel</i>
               Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

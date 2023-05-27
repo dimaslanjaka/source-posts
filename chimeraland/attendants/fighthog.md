@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: fighthog stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/fighthog/Screenshot_2023-01-31-19-21-11-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="fighthog Screenshot_2023-01-31-19-21-11-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>fighthog</i>
               Screenshot_2023-01-31-19-21-11-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/fighthog/Screenshot_2023-01-31-19-21-16-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="fighthog Screenshot_2023-01-31-19-21-16-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>fighthog</i>
               Screenshot_2023-01-31-19-21-16-93_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/fighthog/Screenshot_2023-01-31-19-21-23-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="fighthog Screenshot_2023-01-31-19-21-23-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>fighthog</i>
               Screenshot_2023-01-31-19-21-23-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/fighthog/Screenshot_2023-01-31-19-21-28-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="fighthog Screenshot_2023-01-31-19-21-28-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>fighthog</i>
               Screenshot_2023-01-31-19-21-28-51_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/fighthog/Screenshot_2023-01-31-19-21-33-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="fighthog Screenshot_2023-01-31-19-21-33-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>fighthog</i>
               Screenshot_2023-01-31-19-21-33-17_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/fighthog/Screenshot_2023-01-31-19-21-37-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="fighthog Screenshot_2023-01-31-19-21-37-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>fighthog</i>
               Screenshot_2023-01-31-19-21-37-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

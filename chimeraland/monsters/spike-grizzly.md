@@ -63,7 +63,7 @@ description: monster Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Spike Grizzly stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -128,7 +128,9 @@ description: monster Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
               src="https://www.webmanajemen.com/undefined"
               alt="Spike Grizzly undefined"
             />
-            <figcaption><i>Spike Grizzly</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Spike Grizzly</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -137,7 +139,7 @@ description: monster Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
               src="https://www.webmanajemen.com/chimeraland/monsters/spike-grizzly/IMG_20230224_004153.webp"
               alt="Spike Grizzly IMG_20230224_004153.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Spike Grizzly</i> IMG_20230224_004153.webp.
             </figcaption>
           </figure>
@@ -148,7 +150,7 @@ description: monster Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
               src="https://www.webmanajemen.com/chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-34-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Spike Grizzly Screenshot_2022-07-26-00-29-34-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Spike Grizzly</i>
               Screenshot_2022-07-26-00-29-34-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +162,7 @@ description: monster Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
               src="https://www.webmanajemen.com/chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-39-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Spike Grizzly Screenshot_2022-07-26-00-29-39-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Spike Grizzly</i>
               Screenshot_2022-07-26-00-29-39-26_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -172,7 +174,7 @@ description: monster Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
               src="https://www.webmanajemen.com/chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-43-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Spike Grizzly Screenshot_2022-07-26-00-29-43-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Spike Grizzly</i>
               Screenshot_2022-07-26-00-29-43-68_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -184,7 +186,7 @@ description: monster Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
               src="https://www.webmanajemen.com/chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-47-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Spike Grizzly Screenshot_2022-07-26-00-29-47-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Spike Grizzly</i>
               Screenshot_2022-07-26-00-29-47-10_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -196,7 +198,7 @@ description: monster Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
               src="https://www.webmanajemen.com/chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-51-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Spike Grizzly Screenshot_2022-07-26-00-29-51-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Spike Grizzly</i>
               Screenshot_2022-07-26-00-29-51-04_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -208,7 +210,7 @@ description: monster Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
               src="https://www.webmanajemen.com/chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-30-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Spike Grizzly Screenshot_2022-07-26-00-30-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Spike Grizzly</i>
               Screenshot_2022-07-26-00-30-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

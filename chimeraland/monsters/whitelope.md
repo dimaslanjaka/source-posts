@@ -62,7 +62,7 @@ description: "monster Whitelope default quality GRADE B ATK 60 HP 56 DEF 64
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Whitelope stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -127,7 +127,9 @@ description: "monster Whitelope default quality GRADE B ATK 60 HP 56 DEF 64
               src="https://www.webmanajemen.com/undefined"
               alt="Whitelope undefined"
             />
-            <figcaption><i>Whitelope</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Whitelope</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -136,7 +138,7 @@ description: "monster Whitelope default quality GRADE B ATK 60 HP 56 DEF 64
               src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-09-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Whitelope Screenshot_2022-07-14-15-53-09-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Whitelope</i>
               Screenshot_2022-07-14-15-53-09-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +150,7 @@ description: "monster Whitelope default quality GRADE B ATK 60 HP 56 DEF 64
               src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-15-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Whitelope Screenshot_2022-07-14-15-53-15-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Whitelope</i>
               Screenshot_2022-07-14-15-53-15-52_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +162,7 @@ description: "monster Whitelope default quality GRADE B ATK 60 HP 56 DEF 64
               src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-22-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Whitelope Screenshot_2022-07-14-15-53-22-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Whitelope</i>
               Screenshot_2022-07-14-15-53-22-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -172,7 +174,7 @@ description: "monster Whitelope default quality GRADE B ATK 60 HP 56 DEF 64
               src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-29-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Whitelope Screenshot_2022-07-14-15-53-29-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Whitelope</i>
               Screenshot_2022-07-14-15-53-29-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -184,7 +186,7 @@ description: "monster Whitelope default quality GRADE B ATK 60 HP 56 DEF 64
               src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-44-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Whitelope Screenshot_2022-07-14-15-53-44-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Whitelope</i>
               Screenshot_2022-07-14-15-53-44-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -196,7 +198,7 @@ description: "monster Whitelope default quality GRADE B ATK 60 HP 56 DEF 64
               src="https://www.webmanajemen.com/chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-49-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Whitelope Screenshot_2022-07-14-15-53-49-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Whitelope</i>
               Screenshot_2022-07-14-15-53-49-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

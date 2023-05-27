@@ -63,7 +63,7 @@ description: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Hillord stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -128,7 +128,9 @@ description: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/undefined"
               alt="Hillord undefined"
             />
-            <figcaption><i>Hillord</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Hillord</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -137,7 +139,7 @@ description: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Hillord Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Hillord</i>
               Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +151,7 @@ description: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-43-57-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Hillord Screenshot_2022-07-29-00-43-57-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Hillord</i>
               Screenshot_2022-07-29-00-43-57-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +163,7 @@ description: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-04-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Hillord Screenshot_2022-07-29-00-44-04-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Hillord</i>
               Screenshot_2022-07-29-00-44-04-45_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +175,7 @@ description: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-09-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Hillord Screenshot_2022-07-29-00-44-09-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Hillord</i>
               Screenshot_2022-07-29-00-44-09-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -185,7 +187,7 @@ description: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Hillord Screenshot_2022-07-29-00-44-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Hillord</i>
               Screenshot_2022-07-29-00-44-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -197,7 +199,7 @@ description: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-16-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Hillord Screenshot_2022-07-29-00-44-16-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Hillord</i>
               Screenshot_2022-07-29-00-44-16-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -209,7 +211,7 @@ description: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Hillord Screenshot_2022-07-29-00-44-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Hillord</i>
               Screenshot_2022-07-29-00-44-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

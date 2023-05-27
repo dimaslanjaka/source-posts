@@ -60,7 +60,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant flamehorn rhino stat will increase based on their
       <b>grade</b> and <b>delicacies/tasty</b>.
     </blockquote>
@@ -91,7 +91,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-flamehorn-rhino/Screenshot_2023-02-19-00-29-31-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant flamehorn rhino Screenshot_2023-02-19-00-29-31-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant flamehorn rhino</i>
               Screenshot_2023-02-19-00-29-31-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -103,7 +103,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-flamehorn-rhino/Screenshot_2023-02-19-00-29-35-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant flamehorn rhino Screenshot_2023-02-19-00-29-35-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant flamehorn rhino</i>
               Screenshot_2023-02-19-00-29-35-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -115,7 +115,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-flamehorn-rhino/Screenshot_2023-02-19-00-29-42-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant flamehorn rhino Screenshot_2023-02-19-00-29-42-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant flamehorn rhino</i>
               Screenshot_2023-02-19-00-29-42-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -127,7 +127,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-flamehorn-rhino/Screenshot_2023-02-19-00-29-46-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant flamehorn rhino Screenshot_2023-02-19-00-29-46-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant flamehorn rhino</i>
               Screenshot_2023-02-19-00-29-46-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -139,7 +139,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-flamehorn-rhino/Screenshot_2023-02-19-00-29-52-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant flamehorn rhino Screenshot_2023-02-19-00-29-52-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant flamehorn rhino</i>
               Screenshot_2023-02-19-00-29-52-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -151,7 +151,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-flamehorn-rhino/Screenshot_2023-02-19-00-29-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant flamehorn rhino Screenshot_2023-02-19-00-29-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant flamehorn rhino</i>
               Screenshot_2023-02-19-00-29-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -163,7 +163,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-flamehorn-rhino/Screenshot_2023-02-19-00-30-01-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant flamehorn rhino Screenshot_2023-02-19-00-30-01-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant flamehorn rhino</i>
               Screenshot_2023-02-19-00-30-01-79_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

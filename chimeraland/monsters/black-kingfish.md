@@ -52,7 +52,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Black Kingfish stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -83,7 +83,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Black Kingfish undefined"
             />
-            <figcaption><i>Black Kingfish</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Black Kingfish</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

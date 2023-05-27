@@ -52,7 +52,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Gratoise stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -83,7 +83,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Gratoise undefined"
             />
-            <figcaption><i>Gratoise</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Gratoise</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

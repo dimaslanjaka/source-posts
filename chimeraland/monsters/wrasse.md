@@ -52,7 +52,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Wrasse stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -83,7 +83,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Wrasse undefined"
             />
-            <figcaption><i>Wrasse</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Wrasse</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

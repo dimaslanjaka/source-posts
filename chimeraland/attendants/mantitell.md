@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: mantitell stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-46-53-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mantitell Screenshot_2023-02-22-08-46-53-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mantitell</i>
               Screenshot_2023-02-22-08-46-53-92_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-46-57-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mantitell Screenshot_2023-02-22-08-46-57-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mantitell</i>
               Screenshot_2023-02-22-08-46-57-88_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-47-01-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mantitell Screenshot_2023-02-22-08-47-01-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mantitell</i>
               Screenshot_2023-02-22-08-47-01-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-47-05-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mantitell Screenshot_2023-02-22-08-47-05-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mantitell</i>
               Screenshot_2023-02-22-08-47-05-68_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-47-09-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mantitell Screenshot_2023-02-22-08-47-09-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mantitell</i>
               Screenshot_2023-02-22-08-47-09-60_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-47-13-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mantitell Screenshot_2023-02-22-08-47-13-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mantitell</i>
               Screenshot_2023-02-22-08-47-13-99_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-47-18-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mantitell Screenshot_2023-02-22-08-47-18-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mantitell</i>
               Screenshot_2023-02-22-08-47-18-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-47-22-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mantitell Screenshot_2023-02-22-08-47-22-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mantitell</i>
               Screenshot_2023-02-22-08-47-22-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

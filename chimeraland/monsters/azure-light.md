@@ -62,7 +62,7 @@ description: "monster Azure Light default quality GRADE B ATK 60 HP 61 DEF 62
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Azure Light stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -127,7 +127,9 @@ description: "monster Azure Light default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/undefined"
               alt="Azure Light undefined"
             />
-            <figcaption><i>Azure Light</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Azure Light</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -136,7 +138,7 @@ description: "monster Azure Light default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-03-52-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Azure Light Screenshot_2022-07-15-17-03-52-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Azure Light</i>
               Screenshot_2022-07-15-17-03-52-59_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +150,7 @@ description: "monster Azure Light default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-03-56-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Azure Light Screenshot_2022-07-15-17-03-56-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Azure Light</i>
               Screenshot_2022-07-15-17-03-56-10_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +162,7 @@ description: "monster Azure Light default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-04-00-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Azure Light Screenshot_2022-07-15-17-04-00-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Azure Light</i>
               Screenshot_2022-07-15-17-04-00-30_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -172,7 +174,7 @@ description: "monster Azure Light default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-04-04-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Azure Light Screenshot_2022-07-15-17-04-04-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Azure Light</i>
               Screenshot_2022-07-15-17-04-04-06_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -184,7 +186,7 @@ description: "monster Azure Light default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-04-09-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Azure Light Screenshot_2022-07-15-17-04-09-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Azure Light</i>
               Screenshot_2022-07-15-17-04-09-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -196,7 +198,7 @@ description: "monster Azure Light default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-04-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Azure Light Screenshot_2022-07-15-17-04-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Azure Light</i>
               Screenshot_2022-07-15-17-04-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

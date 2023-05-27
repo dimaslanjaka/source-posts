@@ -60,7 +60,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: mongpion stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -91,7 +91,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="mongpion undefined"
             />
-            <figcaption><i>mongpion</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>mongpion</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -100,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-08-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mongpion Screenshot_2023-02-22-13-43-08-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mongpion</i>
               Screenshot_2023-02-22-13-43-08-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-12-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mongpion Screenshot_2023-02-22-13-43-12-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mongpion</i>
               Screenshot_2023-02-22-13-43-12-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-15-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mongpion Screenshot_2023-02-22-13-43-15-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mongpion</i>
               Screenshot_2023-02-22-13-43-15-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-19-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mongpion Screenshot_2023-02-22-13-43-19-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mongpion</i>
               Screenshot_2023-02-22-13-43-19-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-22-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mongpion Screenshot_2023-02-22-13-43-22-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mongpion</i>
               Screenshot_2023-02-22-13-43-22-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-27-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mongpion Screenshot_2023-02-22-13-43-27-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mongpion</i>
               Screenshot_2023-02-22-13-43-27-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -172,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-46-37-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mongpion Screenshot_2023-02-22-13-46-37-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mongpion</i>
               Screenshot_2023-02-22-13-46-37-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -184,7 +186,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-46-43-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mongpion Screenshot_2023-02-22-13-46-43-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mongpion</i>
               Screenshot_2023-02-22-13-46-43-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

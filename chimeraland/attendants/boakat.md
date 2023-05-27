@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: boakat stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/boakat/Screenshot_2022-11-27-08-47-32-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="boakat Screenshot_2022-11-27-08-47-32-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>boakat</i>
               Screenshot_2022-11-27-08-47-32-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/boakat/Screenshot_2022-11-27-08-47-37-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="boakat Screenshot_2022-11-27-08-47-37-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>boakat</i>
               Screenshot_2022-11-27-08-47-37-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/boakat/Screenshot_2022-11-27-08-47-43-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="boakat Screenshot_2022-11-27-08-47-43-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>boakat</i>
               Screenshot_2022-11-27-08-47-43-64_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/boakat/Screenshot_2022-11-27-08-47-49-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="boakat Screenshot_2022-11-27-08-47-49-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>boakat</i>
               Screenshot_2022-11-27-08-47-49-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/boakat/Screenshot_2022-11-27-08-47-54-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="boakat Screenshot_2022-11-27-08-47-54-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>boakat</i>
               Screenshot_2022-11-27-08-47-54-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/boakat/Screenshot_2022-11-27-08-48-01-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="boakat Screenshot_2022-11-27-08-48-01-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>boakat</i>
               Screenshot_2022-11-27-08-48-01-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/boakat/Screenshot_2022-11-27-08-48-06-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="boakat Screenshot_2022-11-27-08-48-06-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>boakat</i>
               Screenshot_2022-11-27-08-48-06-21_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

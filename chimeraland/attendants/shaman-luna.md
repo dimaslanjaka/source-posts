@@ -49,7 +49,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Shaman Luna stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>

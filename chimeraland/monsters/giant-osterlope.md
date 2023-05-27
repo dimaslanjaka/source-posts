@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant osterlope stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-25-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant osterlope Screenshot_2023-02-28-04-37-25-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant osterlope</i>
               Screenshot_2023-02-28-04-37-25-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-29-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant osterlope Screenshot_2023-02-28-04-37-29-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant osterlope</i>
               Screenshot_2023-02-28-04-37-29-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-33-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant osterlope Screenshot_2023-02-28-04-37-33-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant osterlope</i>
               Screenshot_2023-02-28-04-37-33-73_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-39-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant osterlope Screenshot_2023-02-28-04-37-39-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant osterlope</i>
               Screenshot_2023-02-28-04-37-39-56_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-43-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant osterlope Screenshot_2023-02-28-04-37-43-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant osterlope</i>
               Screenshot_2023-02-28-04-37-43-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-47-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant osterlope Screenshot_2023-02-28-04-37-47-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant osterlope</i>
               Screenshot_2023-02-28-04-37-47-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-51-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant osterlope Screenshot_2023-02-28-04-37-51-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant osterlope</i>
               Screenshot_2023-02-28-04-37-51-82_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

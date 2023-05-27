@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: chandacavii stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/chandacavii/Screenshot_2023-02-06-01-28-14-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="chandacavii Screenshot_2023-02-06-01-28-14-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>chandacavii</i>
               Screenshot_2023-02-06-01-28-14-15_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/chandacavii/Screenshot_2023-02-06-01-28-18-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="chandacavii Screenshot_2023-02-06-01-28-18-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>chandacavii</i>
               Screenshot_2023-02-06-01-28-18-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/chandacavii/Screenshot_2023-02-06-01-28-23-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="chandacavii Screenshot_2023-02-06-01-28-23-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>chandacavii</i>
               Screenshot_2023-02-06-01-28-23-60_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/chandacavii/Screenshot_2023-02-06-01-28-35-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="chandacavii Screenshot_2023-02-06-01-28-35-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>chandacavii</i>
               Screenshot_2023-02-06-01-28-35-04_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/chandacavii/Screenshot_2023-02-06-01-28-39-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="chandacavii Screenshot_2023-02-06-01-28-39-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>chandacavii</i>
               Screenshot_2023-02-06-01-28-39-46_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/chandacavii/Screenshot_2023-02-06-01-28-43-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="chandacavii Screenshot_2023-02-06-01-28-43-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>chandacavii</i>
               Screenshot_2023-02-06-01-28-43-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

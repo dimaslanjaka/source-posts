@@ -63,7 +63,7 @@ description: monster Mukrider default quality GRADE A ATK 70 HP 70 DEF 70
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Mukrider stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -128,7 +128,7 @@ description: monster Mukrider default quality GRADE A ATK 70 HP 70 DEF 70
               src="https://www.webmanajemen.com/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mukrider Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mukrider</i>
               Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -140,7 +140,7 @@ description: monster Mukrider default quality GRADE A ATK 70 HP 70 DEF 70
               src="https://www.webmanajemen.com/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-16-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mukrider Screenshot_2022-07-14-16-01-16-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mukrider</i>
               Screenshot_2022-07-14-16-01-16-52_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -152,7 +152,7 @@ description: monster Mukrider default quality GRADE A ATK 70 HP 70 DEF 70
               src="https://www.webmanajemen.com/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mukrider Screenshot_2022-07-14-16-01-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mukrider</i>
               Screenshot_2022-07-14-16-01-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -164,7 +164,7 @@ description: monster Mukrider default quality GRADE A ATK 70 HP 70 DEF 70
               src="https://www.webmanajemen.com/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-26-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mukrider Screenshot_2022-07-14-16-01-26-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mukrider</i>
               Screenshot_2022-07-14-16-01-26-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -176,7 +176,7 @@ description: monster Mukrider default quality GRADE A ATK 70 HP 70 DEF 70
               src="https://www.webmanajemen.com/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-31-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mukrider Screenshot_2022-07-14-16-01-31-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mukrider</i>
               Screenshot_2022-07-14-16-01-31-91_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -188,7 +188,7 @@ description: monster Mukrider default quality GRADE A ATK 70 HP 70 DEF 70
               src="https://www.webmanajemen.com/chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-37-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mukrider Screenshot_2022-07-14-16-01-37-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mukrider</i>
               Screenshot_2022-07-14-16-01-37-17_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

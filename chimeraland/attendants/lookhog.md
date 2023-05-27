@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: lookhog stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lookhog/Screenshot_2023-02-10-12-46-26-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lookhog Screenshot_2023-02-10-12-46-26-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lookhog</i>
               Screenshot_2023-02-10-12-46-26-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lookhog/Screenshot_2023-02-10-12-46-30-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lookhog Screenshot_2023-02-10-12-46-30-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lookhog</i>
               Screenshot_2023-02-10-12-46-30-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lookhog/Screenshot_2023-02-10-12-46-33-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lookhog Screenshot_2023-02-10-12-46-33-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lookhog</i>
               Screenshot_2023-02-10-12-46-33-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lookhog/Screenshot_2023-02-10-12-46-38-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lookhog Screenshot_2023-02-10-12-46-38-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lookhog</i>
               Screenshot_2023-02-10-12-46-38-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lookhog/Screenshot_2023-02-10-12-46-42-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lookhog Screenshot_2023-02-10-12-46-42-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lookhog</i>
               Screenshot_2023-02-10-12-46-42-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lookhog/Screenshot_2023-02-10-12-46-47-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lookhog Screenshot_2023-02-10-12-46-47-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lookhog</i>
               Screenshot_2023-02-10-12-46-47-73_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

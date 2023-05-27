@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: rhida stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhida/Screenshot_2023-02-25-13-33-38-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhida Screenshot_2023-02-25-13-33-38-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhida</i>
               Screenshot_2023-02-25-13-33-38-55_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhida/Screenshot_2023-02-25-13-33-43-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhida Screenshot_2023-02-25-13-33-43-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhida</i>
               Screenshot_2023-02-25-13-33-43-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhida/Screenshot_2023-02-25-13-33-47-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhida Screenshot_2023-02-25-13-33-47-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhida</i>
               Screenshot_2023-02-25-13-33-47-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhida/Screenshot_2023-02-25-13-33-51-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhida Screenshot_2023-02-25-13-33-51-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhida</i>
               Screenshot_2023-02-25-13-33-51-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhida/Screenshot_2023-02-25-13-33-56-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhida Screenshot_2023-02-25-13-33-56-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhida</i>
               Screenshot_2023-02-25-13-33-56-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhida/Screenshot_2023-02-25-13-34-01-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhida Screenshot_2023-02-25-13-34-01-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhida</i>
               Screenshot_2023-02-25-13-34-01-62_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhida/Screenshot_2023-02-25-13-34-06-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhida Screenshot_2023-02-25-13-34-06-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhida</i>
               Screenshot_2023-02-25-13-34-06-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhida/Screenshot_2023-02-25-13-34-11-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhida Screenshot_2023-02-25-13-34-11-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhida</i>
               Screenshot_2023-02-25-13-34-11-73_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

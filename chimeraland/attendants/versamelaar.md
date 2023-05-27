@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Versamelaar stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/versamelaar/Screenshot_2022-07-17-22-37-52-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Versamelaar Screenshot_2022-07-17-22-37-52-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Versamelaar</i>
               Screenshot_2022-07-17-22-37-52-97_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/versamelaar/Screenshot_2022-07-17-22-37-56-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Versamelaar Screenshot_2022-07-17-22-37-56-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Versamelaar</i>
               Screenshot_2022-07-17-22-37-56-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/versamelaar/Screenshot_2022-07-17-22-38-00-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Versamelaar Screenshot_2022-07-17-22-38-00-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Versamelaar</i>
               Screenshot_2022-07-17-22-38-00-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/versamelaar/Screenshot_2022-07-17-22-38-03-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Versamelaar Screenshot_2022-07-17-22-38-03-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Versamelaar</i>
               Screenshot_2022-07-17-22-38-03-99_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/versamelaar/Screenshot_2022-07-17-22-38-07-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Versamelaar Screenshot_2022-07-17-22-38-07-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Versamelaar</i>
               Screenshot_2022-07-17-22-38-07-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/versamelaar/Screenshot_2022-07-17-22-38-12-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Versamelaar Screenshot_2022-07-17-22-38-12-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Versamelaar</i>
               Screenshot_2022-07-17-22-38-12-46_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

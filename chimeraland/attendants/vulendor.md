@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: vulendor stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-29-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulendor Screenshot_2022-11-27-09-34-29-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulendor</i>
               Screenshot_2022-11-27-09-34-29-91_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-36-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulendor Screenshot_2022-11-27-09-34-36-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulendor</i>
               Screenshot_2022-11-27-09-34-36-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-41-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulendor Screenshot_2022-11-27-09-34-41-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulendor</i>
               Screenshot_2022-11-27-09-34-41-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-47-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulendor Screenshot_2022-11-27-09-34-47-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulendor</i>
               Screenshot_2022-11-27-09-34-47-64_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulendor Screenshot_2022-11-27-09-34-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulendor</i>
               Screenshot_2022-11-27-09-34-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-35-02-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulendor Screenshot_2022-11-27-09-35-02-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulendor</i>
               Screenshot_2022-11-27-09-35-02-23_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-35-08-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulendor Screenshot_2022-11-27-09-35-08-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulendor</i>
               Screenshot_2022-11-27-09-35-08-34_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -52,7 +52,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Mutafish stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -83,7 +83,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Mutafish undefined"
             />
-            <figcaption><i>Mutafish</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Mutafish</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

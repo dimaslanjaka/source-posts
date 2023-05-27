@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: vuloreas stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloreas/Screenshot_2023-02-04-18-40-57-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vuloreas Screenshot_2023-02-04-18-40-57-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vuloreas</i>
               Screenshot_2023-02-04-18-40-57-84_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloreas/Screenshot_2023-02-04-18-41-02-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vuloreas Screenshot_2023-02-04-18-41-02-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vuloreas</i>
               Screenshot_2023-02-04-18-41-02-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloreas/Screenshot_2023-02-04-18-41-07-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vuloreas Screenshot_2023-02-04-18-41-07-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vuloreas</i>
               Screenshot_2023-02-04-18-41-07-52_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloreas/Screenshot_2023-02-04-18-41-29-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vuloreas Screenshot_2023-02-04-18-41-29-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vuloreas</i>
               Screenshot_2023-02-04-18-41-29-52_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloreas/Screenshot_2023-02-04-18-41-34-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vuloreas Screenshot_2023-02-04-18-41-34-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vuloreas</i>
               Screenshot_2023-02-04-18-41-34-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloreas/Screenshot_2023-02-04-18-41-39-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vuloreas Screenshot_2023-02-04-18-41-39-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vuloreas</i>
               Screenshot_2023-02-04-18-41-39-06_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

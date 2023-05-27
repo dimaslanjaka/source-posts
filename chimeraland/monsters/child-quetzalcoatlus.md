@@ -68,7 +68,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: child quetzalcoatlus stat will increase based on their
       <b>grade</b> and <b>delicacies/tasty</b>.
     </blockquote>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-12-21-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-12-21-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-12-21-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-12-25-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-12-25-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-12-25-12_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-12-29-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-12-29-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-12-29-23_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-12-33-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-12-33-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-12-33-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-12-40-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-12-40-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-12-40-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -159,7 +159,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-13-01-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-13-01-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-13-01-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -171,7 +171,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-13-08-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-13-08-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-13-08-70_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -183,7 +183,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-13-14-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-13-14-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-13-14-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -195,7 +195,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-13-19-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-13-19-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-13-19-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -207,7 +207,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-13-44-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-13-44-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-13-44-84_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -219,7 +219,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-13-49-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-13-49-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-13-49-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -231,7 +231,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-14-00-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-14-00-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-14-00-15_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -243,7 +243,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-14-05-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-14-05-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-14-05-93_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -255,7 +255,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-14-12-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-14-12-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-14-12-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -267,7 +267,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-14-17-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child quetzalcoatlus Screenshot_2023-02-25-17-14-17-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child quetzalcoatlus</i>
               Screenshot_2023-02-25-17-14-17-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

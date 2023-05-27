@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: rosary violetine stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-violetine/Screenshot_2022-11-11-13-11-02-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary violetine Screenshot_2022-11-11-13-11-02-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary violetine</i>
               Screenshot_2022-11-11-13-11-02-16_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-violetine/Screenshot_2022-11-11-13-11-07-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary violetine Screenshot_2022-11-11-13-11-07-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary violetine</i>
               Screenshot_2022-11-11-13-11-07-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-violetine/Screenshot_2022-11-11-13-11-15-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary violetine Screenshot_2022-11-11-13-11-15-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary violetine</i>
               Screenshot_2022-11-11-13-11-15-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-violetine/Screenshot_2022-11-11-13-11-19-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary violetine Screenshot_2022-11-11-13-11-19-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary violetine</i>
               Screenshot_2022-11-11-13-11-19-68_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-violetine/Screenshot_2022-11-11-13-11-24-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary violetine Screenshot_2022-11-11-13-11-24-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary violetine</i>
               Screenshot_2022-11-11-13-11-24-38_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-violetine/Screenshot_2022-11-11-13-11-28-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary violetine Screenshot_2022-11-11-13-11-28-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary violetine</i>
               Screenshot_2022-11-11-13-11-28-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-violetine/Screenshot_2022-11-11-13-11-33-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary violetine Screenshot_2022-11-11-13-11-33-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary violetine</i>
               Screenshot_2022-11-11-13-11-33-21_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-violetine/Screenshot_2023-02-28-21-59-18-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary violetine Screenshot_2023-02-28-21-59-18-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary violetine</i>
               Screenshot_2023-02-28-21-59-18-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

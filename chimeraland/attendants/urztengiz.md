@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: urztengiz stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-45-53-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urztengiz Screenshot_2023-02-22-08-45-53-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urztengiz</i>
               Screenshot_2023-02-22-08-45-53-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-45-56-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urztengiz Screenshot_2023-02-22-08-45-56-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urztengiz</i>
               Screenshot_2023-02-22-08-45-56-88_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-46-00-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urztengiz Screenshot_2023-02-22-08-46-00-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urztengiz</i>
               Screenshot_2023-02-22-08-46-00-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-46-07-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urztengiz Screenshot_2023-02-22-08-46-07-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urztengiz</i>
               Screenshot_2023-02-22-08-46-07-34_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-46-12-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urztengiz Screenshot_2023-02-22-08-46-12-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urztengiz</i>
               Screenshot_2023-02-22-08-46-12-45_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-46-16-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urztengiz Screenshot_2023-02-22-08-46-16-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urztengiz</i>
               Screenshot_2023-02-22-08-46-16-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-46-21-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urztengiz Screenshot_2023-02-22-08-46-21-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urztengiz</i>
               Screenshot_2023-02-22-08-46-21-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-46-26-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urztengiz Screenshot_2023-02-22-08-46-26-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urztengiz</i>
               Screenshot_2023-02-22-08-46-26-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

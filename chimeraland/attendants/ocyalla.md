@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: ocyalla stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocyalla/Screenshot_2023-01-31-22-25-59-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="ocyalla Screenshot_2023-01-31-22-25-59-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>ocyalla</i>
               Screenshot_2023-01-31-22-25-59-67_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocyalla/Screenshot_2023-01-31-22-26-08-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="ocyalla Screenshot_2023-01-31-22-26-08-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>ocyalla</i>
               Screenshot_2023-01-31-22-26-08-22_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocyalla/Screenshot_2023-01-31-22-26-14-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="ocyalla Screenshot_2023-01-31-22-26-14-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>ocyalla</i>
               Screenshot_2023-01-31-22-26-14-38_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocyalla/Screenshot_2023-01-31-22-26-20-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="ocyalla Screenshot_2023-01-31-22-26-20-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>ocyalla</i>
               Screenshot_2023-01-31-22-26-20-91_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocyalla/Screenshot_2023-01-31-22-26-31-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="ocyalla Screenshot_2023-01-31-22-26-31-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>ocyalla</i>
               Screenshot_2023-01-31-22-26-31-28_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocyalla/Screenshot_2023-01-31-22-26-38-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="ocyalla Screenshot_2023-01-31-22-26-38-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>ocyalla</i>
               Screenshot_2023-01-31-22-26-38-64_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

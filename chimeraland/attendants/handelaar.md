@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: handelaar stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-32-32-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="handelaar Screenshot_2023-05-21-23-32-32-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>handelaar</i>
               Screenshot_2023-05-21-23-32-32-12_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-32-36-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="handelaar Screenshot_2023-05-21-23-32-36-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>handelaar</i>
               Screenshot_2023-05-21-23-32-36-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-32-40-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="handelaar Screenshot_2023-05-21-23-32-40-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>handelaar</i>
               Screenshot_2023-05-21-23-32-40-79_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-32-45-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="handelaar Screenshot_2023-05-21-23-32-45-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>handelaar</i>
               Screenshot_2023-05-21-23-32-45-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-32-50-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="handelaar Screenshot_2023-05-21-23-32-50-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>handelaar</i>
               Screenshot_2023-05-21-23-32-50-04_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-32-56-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="handelaar Screenshot_2023-05-21-23-32-56-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>handelaar</i>
               Screenshot_2023-05-21-23-32-56-54_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-33-01-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="handelaar Screenshot_2023-05-21-23-33-01-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>handelaar</i>
               Screenshot_2023-05-21-23-33-01-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-33-05-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="handelaar Screenshot_2023-05-21-23-33-05-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>handelaar</i>
               Screenshot_2023-05-21-23-33-05-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -54,7 +54,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Stonebug stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -85,7 +85,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Stonebug undefined"
             />
-            <figcaption><i>Stonebug</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Stonebug</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

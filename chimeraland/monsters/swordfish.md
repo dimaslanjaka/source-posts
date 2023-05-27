@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: swordfish stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="swordfish undefined"
             />
-            <figcaption><i>swordfish</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>swordfish</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -99,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-38-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="swordfish Screenshot_2023-03-25-12-14-38-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>swordfish</i>
               Screenshot_2023-03-25-12-14-38-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-42-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="swordfish Screenshot_2023-03-25-12-14-42-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>swordfish</i>
               Screenshot_2023-03-25-12-14-42-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-46-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="swordfish Screenshot_2023-03-25-12-14-46-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>swordfish</i>
               Screenshot_2023-03-25-12-14-46-42_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-51-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="swordfish Screenshot_2023-03-25-12-14-51-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>swordfish</i>
               Screenshot_2023-03-25-12-14-51-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-56-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="swordfish Screenshot_2023-03-25-12-14-56-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>swordfish</i>
               Screenshot_2023-03-25-12-14-56-24_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -159,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-15-00-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="swordfish Screenshot_2023-03-25-12-15-00-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>swordfish</i>
               Screenshot_2023-03-25-12-15-00-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -171,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-15-04-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="swordfish Screenshot_2023-03-25-12-15-04-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>swordfish</i>
               Screenshot_2023-03-25-12-15-04-67_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant feroboar stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-03-39-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant feroboar Screenshot_2023-02-23-23-03-39-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant feroboar</i>
               Screenshot_2023-02-23-23-03-39-20_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-03-43-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant feroboar Screenshot_2023-02-23-23-03-43-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant feroboar</i>
               Screenshot_2023-02-23-23-03-43-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-03-49-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant feroboar Screenshot_2023-02-23-23-03-49-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant feroboar</i>
               Screenshot_2023-02-23-23-03-49-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-03-53-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant feroboar Screenshot_2023-02-23-23-03-53-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant feroboar</i>
               Screenshot_2023-02-23-23-03-53-90_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-03-58-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant feroboar Screenshot_2023-02-23-23-03-58-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant feroboar</i>
               Screenshot_2023-02-23-23-03-58-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-04-03-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant feroboar Screenshot_2023-02-23-23-04-03-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant feroboar</i>
               Screenshot_2023-02-23-23-04-03-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-04-10-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant feroboar Screenshot_2023-02-23-23-04-10-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant feroboar</i>
               Screenshot_2023-02-23-23-04-10-23_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-04-14-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant feroboar Screenshot_2023-02-23-23-04-14-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant feroboar</i>
               Screenshot_2023-02-23-23-04-14-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

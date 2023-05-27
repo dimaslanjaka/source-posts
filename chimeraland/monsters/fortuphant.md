@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Fortuphant stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Fortuphant undefined"
             />
-            <figcaption><i>Fortuphant</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Fortuphant</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -99,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fortuphant/Screenshot_2023-02-16-02-59-59-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fortuphant Screenshot_2023-02-16-02-59-59-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fortuphant</i>
               Screenshot_2023-02-16-02-59-59-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fortuphant/Screenshot_2023-02-16-03-00-04-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fortuphant Screenshot_2023-02-16-03-00-04-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fortuphant</i>
               Screenshot_2023-02-16-03-00-04-46_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fortuphant/Screenshot_2023-02-16-03-00-09-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fortuphant Screenshot_2023-02-16-03-00-09-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fortuphant</i>
               Screenshot_2023-02-16-03-00-09-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fortuphant/Screenshot_2023-02-16-03-00-13-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fortuphant Screenshot_2023-02-16-03-00-13-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fortuphant</i>
               Screenshot_2023-02-16-03-00-13-61_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fortuphant/Screenshot_2023-02-16-03-00-19-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fortuphant Screenshot_2023-02-16-03-00-19-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fortuphant</i>
               Screenshot_2023-02-16-03-00-19-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -159,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fortuphant/Screenshot_2023-02-16-03-00-24-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fortuphant Screenshot_2023-02-16-03-00-24-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fortuphant</i>
               Screenshot_2023-02-16-03-00-24-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -171,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fortuphant/Screenshot_2023-02-16-03-00-29-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fortuphant Screenshot_2023-02-16-03-00-29-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fortuphant</i>
               Screenshot_2023-02-16-03-00-29-45_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

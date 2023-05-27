@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: spike stoneppo stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="spike stoneppo undefined"
             />
-            <figcaption><i>spike stoneppo</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>spike stoneppo</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -99,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-16-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="spike stoneppo Screenshot_2023-01-29-01-29-16-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>spike stoneppo</i>
               Screenshot_2023-01-29-01-29-16-12_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-24-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="spike stoneppo Screenshot_2023-01-29-01-29-24-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>spike stoneppo</i>
               Screenshot_2023-01-29-01-29-24-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-30-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="spike stoneppo Screenshot_2023-01-29-01-29-30-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>spike stoneppo</i>
               Screenshot_2023-01-29-01-29-30-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-36-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="spike stoneppo Screenshot_2023-01-29-01-29-36-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>spike stoneppo</i>
               Screenshot_2023-01-29-01-29-36-85_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-42-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="spike stoneppo Screenshot_2023-01-29-01-29-42-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>spike stoneppo</i>
               Screenshot_2023-01-29-01-29-42-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -159,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-48-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="spike stoneppo Screenshot_2023-01-29-01-29-48-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>spike stoneppo</i>
               Screenshot_2023-01-29-01-29-48-97_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -171,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-53-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="spike stoneppo Screenshot_2023-01-29-01-29-53-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>spike stoneppo</i>
               Screenshot_2023-01-29-01-29-53-73_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: rosary seraphin stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-10-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary seraphin Screenshot_2022-11-15-11-22-10-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary seraphin</i>
               Screenshot_2022-11-15-11-22-10-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-16-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary seraphin Screenshot_2022-11-15-11-22-16-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary seraphin</i>
               Screenshot_2022-11-15-11-22-16-61_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-24-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary seraphin Screenshot_2022-11-15-11-22-24-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary seraphin</i>
               Screenshot_2022-11-15-11-22-24-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-30-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary seraphin Screenshot_2022-11-15-11-22-30-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary seraphin</i>
               Screenshot_2022-11-15-11-22-30-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-34-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary seraphin Screenshot_2022-11-15-11-22-34-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary seraphin</i>
               Screenshot_2022-11-15-11-22-34-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-38-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary seraphin Screenshot_2022-11-15-11-22-38-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary seraphin</i>
               Screenshot_2022-11-15-11-22-38-90_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-45-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary seraphin Screenshot_2022-11-15-11-22-45-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary seraphin</i>
               Screenshot_2022-11-15-11-22-45-30_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

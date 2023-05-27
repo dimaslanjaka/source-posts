@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: buccitrog stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/buccitrog/Screenshot_2022-11-15-23-45-51-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="buccitrog Screenshot_2022-11-15-23-45-51-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>buccitrog</i>
               Screenshot_2022-11-15-23-45-51-31_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/buccitrog/Screenshot_2022-11-15-23-45-54-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="buccitrog Screenshot_2022-11-15-23-45-54-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>buccitrog</i>
               Screenshot_2022-11-15-23-45-54-16_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/buccitrog/Screenshot_2022-11-15-23-45-57-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="buccitrog Screenshot_2022-11-15-23-45-57-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>buccitrog</i>
               Screenshot_2022-11-15-23-45-57-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/buccitrog/Screenshot_2022-11-15-23-46-00-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="buccitrog Screenshot_2022-11-15-23-46-00-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>buccitrog</i>
               Screenshot_2022-11-15-23-46-00-46_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/buccitrog/Screenshot_2022-11-15-23-46-05-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="buccitrog Screenshot_2022-11-15-23-46-05-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>buccitrog</i>
               Screenshot_2022-11-15-23-46-05-55_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/buccitrog/Screenshot_2022-11-15-23-46-08-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="buccitrog Screenshot_2022-11-15-23-46-08-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>buccitrog</i>
               Screenshot_2022-11-15-23-46-08-46_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/buccitrog/Screenshot_2022-11-15-23-46-11-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="buccitrog Screenshot_2022-11-15-23-46-11-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>buccitrog</i>
               Screenshot_2022-11-15-23-46-11-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

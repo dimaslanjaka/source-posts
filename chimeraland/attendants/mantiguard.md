@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Mantiguard stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/mantiguard/Screenshot_2022-07-17-22-28-18-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mantiguard Screenshot_2022-07-17-22-28-18-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mantiguard</i>
               Screenshot_2022-07-17-22-28-18-61_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/mantiguard/Screenshot_2022-07-17-22-28-22-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mantiguard Screenshot_2022-07-17-22-28-22-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mantiguard</i>
               Screenshot_2022-07-17-22-28-22-85_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/mantiguard/Screenshot_2022-07-17-22-28-27-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mantiguard Screenshot_2022-07-17-22-28-27-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mantiguard</i>
               Screenshot_2022-07-17-22-28-27-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/mantiguard/Screenshot_2022-07-17-22-28-31-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mantiguard Screenshot_2022-07-17-22-28-31-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mantiguard</i>
               Screenshot_2022-07-17-22-28-31-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/mantiguard/Screenshot_2022-07-17-22-28-36-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mantiguard Screenshot_2022-07-17-22-28-36-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mantiguard</i>
               Screenshot_2022-07-17-22-28-36-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/mantiguard/Screenshot_2022-07-17-22-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mantiguard Screenshot_2022-07-17-22-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mantiguard</i>
               Screenshot_2022-07-17-22-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -62,7 +62,7 @@ description: monster Ashfoot Gripine default quality GRADE C ATK 63 HP 64 DEF 70
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Ashfoot Gripine stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -127,7 +127,9 @@ description: monster Ashfoot Gripine default quality GRADE C ATK 63 HP 64 DEF 70
               src="https://www.webmanajemen.com/undefined"
               alt="Ashfoot Gripine undefined"
             />
-            <figcaption><i>Ashfoot Gripine</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Ashfoot Gripine</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -136,7 +138,7 @@ description: monster Ashfoot Gripine default quality GRADE C ATK 63 HP 64 DEF 70
               src="https://www.webmanajemen.com/chimeraland/monsters/ashfoot-gripine/Screenshot_2022-07-16-18-59-34-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ashfoot Gripine Screenshot_2022-07-16-18-59-34-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ashfoot Gripine</i>
               Screenshot_2022-07-16-18-59-34-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +150,7 @@ description: monster Ashfoot Gripine default quality GRADE C ATK 63 HP 64 DEF 70
               src="https://www.webmanajemen.com/chimeraland/monsters/ashfoot-gripine/Screenshot_2022-07-16-18-59-39-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ashfoot Gripine Screenshot_2022-07-16-18-59-39-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ashfoot Gripine</i>
               Screenshot_2022-07-16-18-59-39-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +162,7 @@ description: monster Ashfoot Gripine default quality GRADE C ATK 63 HP 64 DEF 70
               src="https://www.webmanajemen.com/chimeraland/monsters/ashfoot-gripine/Screenshot_2022-07-16-18-59-44-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ashfoot Gripine Screenshot_2022-07-16-18-59-44-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ashfoot Gripine</i>
               Screenshot_2022-07-16-18-59-44-36_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -172,7 +174,7 @@ description: monster Ashfoot Gripine default quality GRADE C ATK 63 HP 64 DEF 70
               src="https://www.webmanajemen.com/chimeraland/monsters/ashfoot-gripine/Screenshot_2022-07-16-18-59-49-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ashfoot Gripine Screenshot_2022-07-16-18-59-49-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ashfoot Gripine</i>
               Screenshot_2022-07-16-18-59-49-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -184,7 +186,7 @@ description: monster Ashfoot Gripine default quality GRADE C ATK 63 HP 64 DEF 70
               src="https://www.webmanajemen.com/chimeraland/monsters/ashfoot-gripine/Screenshot_2022-07-16-18-59-54-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ashfoot Gripine Screenshot_2022-07-16-18-59-54-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ashfoot Gripine</i>
               Screenshot_2022-07-16-18-59-54-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -196,7 +198,7 @@ description: monster Ashfoot Gripine default quality GRADE C ATK 63 HP 64 DEF 70
               src="https://www.webmanajemen.com/chimeraland/monsters/ashfoot-gripine/Screenshot_2022-07-16-19-00-05-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ashfoot Gripine Screenshot_2022-07-16-19-00-05-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ashfoot Gripine</i>
               Screenshot_2022-07-16-19-00-05-73_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -64,7 +64,7 @@ description: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Specklehorn stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -129,7 +129,9 @@ description: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/undefined"
               alt="Specklehorn undefined"
             />
-            <figcaption><i>Specklehorn</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Specklehorn</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -138,7 +140,7 @@ description: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-02-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Specklehorn Screenshot_2022-08-16-09-08-02-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Specklehorn</i>
               Screenshot_2022-08-16-09-08-02-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +152,7 @@ description: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-06-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Specklehorn Screenshot_2022-08-16-09-08-06-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Specklehorn</i>
               Screenshot_2022-08-16-09-08-06-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +164,7 @@ description: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-09-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Specklehorn Screenshot_2022-08-16-09-08-09-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Specklehorn</i>
               Screenshot_2022-08-16-09-08-09-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +176,7 @@ description: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-20-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Specklehorn Screenshot_2022-08-16-09-08-20-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Specklehorn</i>
               Screenshot_2022-08-16-09-08-20-31_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -186,7 +188,7 @@ description: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-08-16-09-08-24-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Specklehorn Screenshot_2022-08-16-09-08-24-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Specklehorn</i>
               Screenshot_2022-08-16-09-08-24-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -198,7 +200,7 @@ description: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-11-14-11-09-08-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Specklehorn Screenshot_2022-11-14-11-09-08-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Specklehorn</i>
               Screenshot_2022-11-14-11-09-08-93_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -210,7 +212,7 @@ description: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-11-14-11-09-14-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Specklehorn Screenshot_2022-11-14-11-09-14-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Specklehorn</i>
               Screenshot_2022-11-14-11-09-14-80_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -222,7 +224,7 @@ description: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/specklehorn/Screenshot_2022-11-14-11-09-24-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Specklehorn Screenshot_2022-11-14-11-09-24-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Specklehorn</i>
               Screenshot_2022-11-14-11-09-24-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

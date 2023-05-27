@@ -60,7 +60,7 @@ description: attendant Crosoo default quality GRADE C ATK 53 HP 54 DEF 43 Attack
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Crosoo stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -125,7 +125,7 @@ description: attendant Crosoo default quality GRADE C ATK 53 HP 54 DEF 43 Attack
               src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Crosoo Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Crosoo</i>
               Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ description: attendant Crosoo default quality GRADE C ATK 53 HP 54 DEF 43 Attack
               src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-28-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Crosoo Screenshot_2022-07-15-19-44-28-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Crosoo</i>
               Screenshot_2022-07-15-19-44-28-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ description: attendant Crosoo default quality GRADE C ATK 53 HP 54 DEF 43 Attack
               src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-34-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Crosoo Screenshot_2022-07-15-19-44-34-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Crosoo</i>
               Screenshot_2022-07-15-19-44-34-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ description: attendant Crosoo default quality GRADE C ATK 53 HP 54 DEF 43 Attack
               src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-40-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Crosoo Screenshot_2022-07-15-19-44-40-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Crosoo</i>
               Screenshot_2022-07-15-19-44-40-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ description: attendant Crosoo default quality GRADE C ATK 53 HP 54 DEF 43 Attack
               src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-46-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Crosoo Screenshot_2022-07-15-19-44-46-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Crosoo</i>
               Screenshot_2022-07-15-19-44-46-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -185,7 +185,7 @@ description: attendant Crosoo default quality GRADE C ATK 53 HP 54 DEF 43 Attack
               src="https://www.webmanajemen.com/chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-51-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Crosoo Screenshot_2022-07-15-19-44-51-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Crosoo</i>
               Screenshot_2022-07-15-19-44-51-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

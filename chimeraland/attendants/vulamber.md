@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Vulamber stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulamber/Screenshot_2022-07-14-00-55-12-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vulamber Screenshot_2022-07-14-00-55-12-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vulamber</i>
               Screenshot_2022-07-14-00-55-12-41_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulamber/Screenshot_2022-07-14-00-55-19-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vulamber Screenshot_2022-07-14-00-55-19-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vulamber</i>
               Screenshot_2022-07-14-00-55-19-17_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulamber/Screenshot_2022-07-14-00-55-29-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vulamber Screenshot_2022-07-14-00-55-29-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vulamber</i>
               Screenshot_2022-07-14-00-55-29-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulamber/Screenshot_2022-07-14-22-52-41-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vulamber Screenshot_2022-07-14-22-52-41-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vulamber</i>
               Screenshot_2022-07-14-22-52-41-31_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulamber/Screenshot_2022-07-14-22-52-51-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vulamber Screenshot_2022-07-14-22-52-51-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vulamber</i>
               Screenshot_2022-07-14-22-52-51-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulamber/Screenshot_2022-07-14-22-52-56-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vulamber Screenshot_2022-07-14-22-52-56-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vulamber</i>
               Screenshot_2022-07-14-22-52-56-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulamber/Screenshot_2022-07-14-22-53-01-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vulamber Screenshot_2022-07-14-22-53-01-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vulamber</i>
               Screenshot_2022-07-14-22-53-01-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulamber/Screenshot_2022-07-14-22-53-06-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vulamber Screenshot_2022-07-14-22-53-06-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vulamber</i>
               Screenshot_2022-07-14-22-53-06-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

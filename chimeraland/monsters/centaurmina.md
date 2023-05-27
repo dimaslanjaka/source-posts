@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: centaurmina stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/centaurmina/Screenshot_2023-02-22-14-57-44-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="centaurmina Screenshot_2023-02-22-14-57-44-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>centaurmina</i>
               Screenshot_2023-02-22-14-57-44-90_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/centaurmina/Screenshot_2023-02-22-14-57-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="centaurmina Screenshot_2023-02-22-14-57-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>centaurmina</i>
               Screenshot_2023-02-22-14-57-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/centaurmina/Screenshot_2023-02-22-14-57-52-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="centaurmina Screenshot_2023-02-22-14-57-52-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>centaurmina</i>
               Screenshot_2023-02-22-14-57-52-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/centaurmina/Screenshot_2023-02-22-14-57-56-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="centaurmina Screenshot_2023-02-22-14-57-56-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>centaurmina</i>
               Screenshot_2023-02-22-14-57-56-61_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/centaurmina/Screenshot_2023-02-22-14-58-02-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="centaurmina Screenshot_2023-02-22-14-58-02-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>centaurmina</i>
               Screenshot_2023-02-22-14-58-02-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/centaurmina/Screenshot_2023-02-22-14-58-06-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="centaurmina Screenshot_2023-02-22-14-58-06-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>centaurmina</i>
               Screenshot_2023-02-22-14-58-06-62_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/centaurmina/Screenshot_2023-02-22-14-58-11-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="centaurmina Screenshot_2023-02-22-14-58-11-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>centaurmina</i>
               Screenshot_2023-02-22-14-58-11-45_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

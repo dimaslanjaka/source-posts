@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Rosary Fortuna stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-16-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rosary Fortuna Screenshot_2022-07-29-21-52-16-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rosary Fortuna</i>
               Screenshot_2022-07-29-21-52-16-73_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-22-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rosary Fortuna Screenshot_2022-07-29-21-52-22-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rosary Fortuna</i>
               Screenshot_2022-07-29-21-52-22-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-27-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rosary Fortuna Screenshot_2022-07-29-21-52-27-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rosary Fortuna</i>
               Screenshot_2022-07-29-21-52-27-12_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-30-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rosary Fortuna Screenshot_2022-07-29-21-52-30-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rosary Fortuna</i>
               Screenshot_2022-07-29-21-52-30-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-34-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rosary Fortuna Screenshot_2022-07-29-21-52-34-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rosary Fortuna</i>
               Screenshot_2022-07-29-21-52-34-58_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-38-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rosary Fortuna Screenshot_2022-07-29-21-52-38-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rosary Fortuna</i>
               Screenshot_2022-07-29-21-52-38-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

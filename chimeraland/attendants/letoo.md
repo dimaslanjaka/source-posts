@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Letoo stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-40-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Letoo Screenshot_2022-07-24-12-17-40-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Letoo</i>
               Screenshot_2022-07-24-12-17-40-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-43-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Letoo Screenshot_2022-07-24-12-17-43-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Letoo</i>
               Screenshot_2022-07-24-12-17-43-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-46-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Letoo Screenshot_2022-07-24-12-17-46-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Letoo</i>
               Screenshot_2022-07-24-12-17-46-21_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-48-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Letoo Screenshot_2022-07-24-12-17-48-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Letoo</i>
               Screenshot_2022-07-24-12-17-48-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-53-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Letoo Screenshot_2022-07-24-12-17-53-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Letoo</i>
               Screenshot_2022-07-24-12-17-53-24_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/letoo/Screenshot_2022-07-24-12-18-03-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Letoo Screenshot_2022-07-24-12-18-03-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Letoo</i>
               Screenshot_2022-07-24-12-18-03-51_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

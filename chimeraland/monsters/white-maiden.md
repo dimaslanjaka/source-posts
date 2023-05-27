@@ -74,7 +74,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: White Maiden stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -139,7 +139,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-35-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-42-35-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-42-35-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -151,7 +151,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-39-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-42-39-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-42-39-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -163,7 +163,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-42-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-42-42-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-42-42-85_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -175,7 +175,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-46-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-42-46-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-42-46-51_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -187,7 +187,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-51-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-42-51-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-42-51-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -199,7 +199,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-57-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-42-57-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-42-57-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -211,7 +211,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-04-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-43-04-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-43-04-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -223,7 +223,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-13-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-43-13-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-43-13-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -235,7 +235,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-43-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-43-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -247,7 +247,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-25-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-43-25-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-43-25-62_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -259,7 +259,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-31-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-43-31-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-43-31-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -271,7 +271,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-43-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-43-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -283,7 +283,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-42-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-43-42-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-43-42-30_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -295,7 +295,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-48-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-43-48-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-43-48-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -307,7 +307,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-59-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="White Maiden Screenshot_2022-08-19-20-43-59-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-43-59-62_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -319,7 +319,7 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
               src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp"
               alt="White Maiden chimeraland-white-snake-evolve-featured.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>White Maiden</i> chimeraland-white-snake-evolve-featured.webp.
             </figcaption>
           </figure>

@@ -60,7 +60,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: haporse stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -91,7 +91,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="haporse undefined"
             />
-            <figcaption><i>haporse</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>haporse</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -100,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-48-49-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="haporse Screenshot_2023-03-01-12-48-49-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>haporse</i>
               Screenshot_2023-03-01-12-48-49-80_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-48-53-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="haporse Screenshot_2023-03-01-12-48-53-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>haporse</i>
               Screenshot_2023-03-01-12-48-53-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-48-57-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="haporse Screenshot_2023-03-01-12-48-57-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>haporse</i>
               Screenshot_2023-03-01-12-48-57-15_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-02-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="haporse Screenshot_2023-03-01-12-49-02-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>haporse</i>
               Screenshot_2023-03-01-12-49-02-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-06-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="haporse Screenshot_2023-03-01-12-49-06-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>haporse</i>
               Screenshot_2023-03-01-12-49-06-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-10-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="haporse Screenshot_2023-03-01-12-49-10-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>haporse</i>
               Screenshot_2023-03-01-12-49-10-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -172,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-14-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="haporse Screenshot_2023-03-01-12-49-14-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>haporse</i>
               Screenshot_2023-03-01-12-49-14-69_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -184,7 +186,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="haporse Screenshot_2023-03-01-12-49-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>haporse</i>
               Screenshot_2023-03-01-12-49-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

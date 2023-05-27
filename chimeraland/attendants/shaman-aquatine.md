@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: shaman aquatine stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-09-47-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman aquatine Screenshot_2022-11-11-13-09-47-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman aquatine</i>
               Screenshot_2022-11-11-13-09-47-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-09-52-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman aquatine Screenshot_2022-11-11-13-09-52-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman aquatine</i>
               Screenshot_2022-11-11-13-09-52-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-09-57-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman aquatine Screenshot_2022-11-11-13-09-57-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman aquatine</i>
               Screenshot_2022-11-11-13-09-57-88_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-10-24-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman aquatine Screenshot_2022-11-11-13-10-24-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman aquatine</i>
               Screenshot_2022-11-11-13-10-24-12_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-10-31-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman aquatine Screenshot_2022-11-11-13-10-31-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman aquatine</i>
               Screenshot_2022-11-11-13-10-31-69_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-10-37-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman aquatine Screenshot_2022-11-11-13-10-37-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman aquatine</i>
               Screenshot_2022-11-11-13-10-37-30_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-10-41-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman aquatine Screenshot_2022-11-11-13-10-41-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman aquatine</i>
               Screenshot_2022-11-11-13-10-41-88_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

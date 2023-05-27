@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: vulanin stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-22-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulanin Screenshot_2022-11-21-14-10-22-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulanin</i>
               Screenshot_2022-11-21-14-10-22-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-27-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulanin Screenshot_2022-11-21-14-10-27-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulanin</i>
               Screenshot_2022-11-21-14-10-27-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-42-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulanin Screenshot_2022-11-21-14-10-42-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulanin</i>
               Screenshot_2022-11-21-14-10-42-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-46-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulanin Screenshot_2022-11-21-14-10-46-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulanin</i>
               Screenshot_2022-11-21-14-10-46-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-51-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulanin Screenshot_2022-11-21-14-10-51-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulanin</i>
               Screenshot_2022-11-21-14-10-51-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-57-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulanin Screenshot_2022-11-21-14-10-57-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulanin</i>
               Screenshot_2022-11-21-14-10-57-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-11-01-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulanin Screenshot_2022-11-21-14-11-01-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulanin</i>
               Screenshot_2022-11-21-14-11-01-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

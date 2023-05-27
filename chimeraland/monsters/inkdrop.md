@@ -60,7 +60,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Inkdrop stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -91,7 +91,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Inkdrop undefined"
             />
-            <figcaption><i>Inkdrop</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Inkdrop</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -100,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20191911.webp"
               alt="Inkdrop Screenshot 2022-08-09 191911.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Inkdrop</i> Screenshot 2022-08-09 191911.webp.
             </figcaption>
           </figure>
@@ -111,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20191953.webp"
               alt="Inkdrop Screenshot 2022-08-09 191953.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Inkdrop</i> Screenshot 2022-08-09 191953.webp.
             </figcaption>
           </figure>
@@ -122,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192014.webp"
               alt="Inkdrop Screenshot 2022-08-09 192014.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Inkdrop</i> Screenshot 2022-08-09 192014.webp.
             </figcaption>
           </figure>
@@ -133,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192033.webp"
               alt="Inkdrop Screenshot 2022-08-09 192033.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Inkdrop</i> Screenshot 2022-08-09 192033.webp.
             </figcaption>
           </figure>
@@ -144,7 +146,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192050.webp"
               alt="Inkdrop Screenshot 2022-08-09 192050.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Inkdrop</i> Screenshot 2022-08-09 192050.webp.
             </figcaption>
           </figure>
@@ -155,7 +157,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192107.webp"
               alt="Inkdrop Screenshot 2022-08-09 192107.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Inkdrop</i> Screenshot 2022-08-09 192107.webp.
             </figcaption>
           </figure>
@@ -166,7 +168,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192128.webp"
               alt="Inkdrop Screenshot 2022-08-09 192128.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Inkdrop</i> Screenshot 2022-08-09 192128.webp.
             </figcaption>
           </figure>
@@ -177,7 +179,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/inkdrop/Screenshot%202022-08-09%20192145.webp"
               alt="Inkdrop Screenshot 2022-08-09 192145.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Inkdrop</i> Screenshot 2022-08-09 192145.webp.
             </figcaption>
           </figure>

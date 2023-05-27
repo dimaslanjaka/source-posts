@@ -56,7 +56,7 @@ description: "monster Frostwolf default quality GRADE B ATK 61 HP 57 DEF 63
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Frostwolf stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -121,7 +121,9 @@ description: "monster Frostwolf default quality GRADE B ATK 61 HP 57 DEF 63
               src="https://www.webmanajemen.com/undefined"
               alt="Frostwolf undefined"
             />
-            <figcaption><i>Frostwolf</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Frostwolf</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

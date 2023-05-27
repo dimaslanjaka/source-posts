@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: grand giant whitefox stat will increase based on their
       <b>grade</b> and <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/grand-giant-whitefox/Screenshot_2023-03-01-14-24-53-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="grand giant whitefox Screenshot_2023-03-01-14-24-53-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>grand giant whitefox</i>
               Screenshot_2023-03-01-14-24-53-22_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/grand-giant-whitefox/Screenshot_2023-03-01-14-24-56-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="grand giant whitefox Screenshot_2023-03-01-14-24-56-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>grand giant whitefox</i>
               Screenshot_2023-03-01-14-24-56-69_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/grand-giant-whitefox/Screenshot_2023-03-01-14-24-59-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="grand giant whitefox Screenshot_2023-03-01-14-24-59-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>grand giant whitefox</i>
               Screenshot_2023-03-01-14-24-59-91_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/grand-giant-whitefox/Screenshot_2023-03-01-14-25-03-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="grand giant whitefox Screenshot_2023-03-01-14-25-03-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>grand giant whitefox</i>
               Screenshot_2023-03-01-14-25-03-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/grand-giant-whitefox/Screenshot_2023-03-01-14-25-14-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="grand giant whitefox Screenshot_2023-03-01-14-25-14-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>grand giant whitefox</i>
               Screenshot_2023-03-01-14-25-14-82_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/grand-giant-whitefox/Screenshot_2023-03-01-14-25-18-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="grand giant whitefox Screenshot_2023-03-01-14-25-18-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>grand giant whitefox</i>
               Screenshot_2023-03-01-14-25-18-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

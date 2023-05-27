@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant chimpanimbus stat will increase based on their
       <b>grade</b> and <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-chimpanimbus/Screenshot_2023-02-24-13-39-08-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant chimpanimbus Screenshot_2023-02-24-13-39-08-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant chimpanimbus</i>
               Screenshot_2023-02-24-13-39-08-20_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-chimpanimbus/Screenshot_2023-02-24-13-39-12-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant chimpanimbus Screenshot_2023-02-24-13-39-12-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant chimpanimbus</i>
               Screenshot_2023-02-24-13-39-12-60_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-chimpanimbus/Screenshot_2023-02-24-13-39-16-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant chimpanimbus Screenshot_2023-02-24-13-39-16-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant chimpanimbus</i>
               Screenshot_2023-02-24-13-39-16-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-chimpanimbus/Screenshot_2023-02-24-13-39-21-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant chimpanimbus Screenshot_2023-02-24-13-39-21-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant chimpanimbus</i>
               Screenshot_2023-02-24-13-39-21-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-chimpanimbus/Screenshot_2023-02-24-13-39-27-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant chimpanimbus Screenshot_2023-02-24-13-39-27-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant chimpanimbus</i>
               Screenshot_2023-02-24-13-39-27-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-chimpanimbus/Screenshot_2023-02-24-13-39-42-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant chimpanimbus Screenshot_2023-02-24-13-39-42-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant chimpanimbus</i>
               Screenshot_2023-02-24-13-39-42-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-chimpanimbus/Screenshot_2023-02-24-13-39-47-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant chimpanimbus Screenshot_2023-02-24-13-39-47-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant chimpanimbus</i>
               Screenshot_2023-02-24-13-39-47-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

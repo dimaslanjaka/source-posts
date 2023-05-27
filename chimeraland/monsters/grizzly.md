@@ -62,7 +62,7 @@ description: monster Grizzly default quality GRADE C ATK 50 HP 60 DEF 60
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Grizzly stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -127,7 +127,9 @@ description: monster Grizzly default quality GRADE C ATK 50 HP 60 DEF 60
               src="https://www.webmanajemen.com/undefined"
               alt="Grizzly undefined"
             />
-            <figcaption><i>Grizzly</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Grizzly</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -136,7 +138,7 @@ description: monster Grizzly default quality GRADE C ATK 50 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-32-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Grizzly Screenshot_2022-07-16-18-47-32-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Grizzly</i>
               Screenshot_2022-07-16-18-47-32-16_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +150,7 @@ description: monster Grizzly default quality GRADE C ATK 50 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Grizzly Screenshot_2022-07-16-18-47-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Grizzly</i>
               Screenshot_2022-07-16-18-47-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +162,7 @@ description: monster Grizzly default quality GRADE C ATK 50 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-40-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Grizzly Screenshot_2022-07-16-18-47-40-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Grizzly</i>
               Screenshot_2022-07-16-18-47-40-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -172,7 +174,7 @@ description: monster Grizzly default quality GRADE C ATK 50 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-44-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Grizzly Screenshot_2022-07-16-18-47-44-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Grizzly</i>
               Screenshot_2022-07-16-18-47-44-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -184,7 +186,7 @@ description: monster Grizzly default quality GRADE C ATK 50 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-49-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Grizzly Screenshot_2022-07-16-18-47-49-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Grizzly</i>
               Screenshot_2022-07-16-18-47-49-61_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -196,7 +198,7 @@ description: monster Grizzly default quality GRADE C ATK 50 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-54-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Grizzly Screenshot_2022-07-16-18-47-54-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Grizzly</i>
               Screenshot_2022-07-16-18-47-54-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -60,7 +60,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Stoneppo stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -91,7 +91,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Stoneppo undefined"
             />
-            <figcaption><i>Stoneppo</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Stoneppo</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -100,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stoneppo Screenshot_2023-03-24-14-30-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stoneppo</i>
               Screenshot_2023-03-24-14-30-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-20-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stoneppo Screenshot_2023-03-24-14-30-20-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stoneppo</i>
               Screenshot_2023-03-24-14-30-20-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-24-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stoneppo Screenshot_2023-03-24-14-30-24-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stoneppo</i>
               Screenshot_2023-03-24-14-30-24-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stoneppo Screenshot_2023-03-24-14-30-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stoneppo</i>
               Screenshot_2023-03-24-14-30-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stoneppo Screenshot_2023-03-24-14-30-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stoneppo</i>
               Screenshot_2023-03-24-14-30-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-49-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stoneppo Screenshot_2023-03-24-14-30-49-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stoneppo</i>
               Screenshot_2023-03-24-14-30-49-22_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -172,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-53-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stoneppo Screenshot_2023-03-24-14-30-53-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stoneppo</i>
               Screenshot_2023-03-24-14-30-53-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -184,7 +186,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-58-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stoneppo Screenshot_2023-03-24-14-30-58-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stoneppo</i>
               Screenshot_2023-03-24-14-30-58-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

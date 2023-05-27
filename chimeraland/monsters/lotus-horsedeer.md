@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Lotus Horsedeer stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Lotus Horsedeer undefined"
             />
-            <figcaption><i>Lotus Horsedeer</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Lotus Horsedeer</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -99,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lotus-horsedeer/Screenshot_2023-03-08-23-07-49-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lotus Horsedeer Screenshot_2023-03-08-23-07-49-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lotus Horsedeer</i>
               Screenshot_2023-03-08-23-07-49-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lotus-horsedeer/Screenshot_2023-03-08-23-07-52-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lotus Horsedeer Screenshot_2023-03-08-23-07-52-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lotus Horsedeer</i>
               Screenshot_2023-03-08-23-07-52-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lotus-horsedeer/Screenshot_2023-03-08-23-07-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lotus Horsedeer Screenshot_2023-03-08-23-07-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lotus Horsedeer</i>
               Screenshot_2023-03-08-23-07-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lotus-horsedeer/Screenshot_2023-03-08-23-07-59-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lotus Horsedeer Screenshot_2023-03-08-23-07-59-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lotus Horsedeer</i>
               Screenshot_2023-03-08-23-07-59-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lotus-horsedeer/Screenshot_2023-03-08-23-08-03-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lotus Horsedeer Screenshot_2023-03-08-23-08-03-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lotus Horsedeer</i>
               Screenshot_2023-03-08-23-08-03-10_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -159,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lotus-horsedeer/Screenshot_2023-03-08-23-08-07-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lotus Horsedeer Screenshot_2023-03-08-23-08-07-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lotus Horsedeer</i>
               Screenshot_2023-03-08-23-08-07-23_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -171,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lotus-horsedeer/Screenshot_2023-03-08-23-08-11-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lotus Horsedeer Screenshot_2023-03-08-23-08-11-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lotus Horsedeer</i>
               Screenshot_2023-03-08-23-08-11-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

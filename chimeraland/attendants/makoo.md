@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Makoo stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-18-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Makoo Screenshot_2022-07-24-12-18-18-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Makoo</i>
               Screenshot_2022-07-24-12-18-18-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-23-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Makoo Screenshot_2022-07-24-12-18-23-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Makoo</i>
               Screenshot_2022-07-24-12-18-23-04_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-29-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Makoo Screenshot_2022-07-24-12-18-29-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Makoo</i>
               Screenshot_2022-07-24-12-18-29-10_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-33-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Makoo Screenshot_2022-07-24-12-18-33-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Makoo</i>
               Screenshot_2022-07-24-12-18-33-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-40-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Makoo Screenshot_2022-07-24-12-18-40-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Makoo</i>
               Screenshot_2022-07-24-12-18-40-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-47-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Makoo Screenshot_2022-07-24-12-18-47-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Makoo</i>
               Screenshot_2022-07-24-12-18-47-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

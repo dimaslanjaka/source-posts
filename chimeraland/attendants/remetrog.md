@@ -60,7 +60,7 @@ description: attendant Remetrog default quality GRADE C ATK 51 HP 52 DEF 47
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Remetrog stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -125,7 +125,7 @@ description: attendant Remetrog default quality GRADE C ATK 51 HP 52 DEF 47
               src="https://www.webmanajemen.com/chimeraland/attendants/remetrog/Screenshot_2022-07-25-17-34-56-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Remetrog Screenshot_2022-07-25-17-34-56-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Remetrog</i>
               Screenshot_2022-07-25-17-34-56-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ description: attendant Remetrog default quality GRADE C ATK 51 HP 52 DEF 47
               src="https://www.webmanajemen.com/chimeraland/attendants/remetrog/Screenshot_2022-07-25-17-35-02-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Remetrog Screenshot_2022-07-25-17-35-02-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Remetrog</i>
               Screenshot_2022-07-25-17-35-02-14_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ description: attendant Remetrog default quality GRADE C ATK 51 HP 52 DEF 47
               src="https://www.webmanajemen.com/chimeraland/attendants/remetrog/Screenshot_2022-07-25-17-35-07-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Remetrog Screenshot_2022-07-25-17-35-07-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Remetrog</i>
               Screenshot_2022-07-25-17-35-07-28_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ description: attendant Remetrog default quality GRADE C ATK 51 HP 52 DEF 47
               src="https://www.webmanajemen.com/chimeraland/attendants/remetrog/Screenshot_2022-07-25-17-35-11-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Remetrog Screenshot_2022-07-25-17-35-11-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Remetrog</i>
               Screenshot_2022-07-25-17-35-11-85_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ description: attendant Remetrog default quality GRADE C ATK 51 HP 52 DEF 47
               src="https://www.webmanajemen.com/chimeraland/attendants/remetrog/Screenshot_2022-07-25-17-35-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Remetrog Screenshot_2022-07-25-17-35-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Remetrog</i>
               Screenshot_2022-07-25-17-35-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -185,7 +185,7 @@ description: attendant Remetrog default quality GRADE C ATK 51 HP 52 DEF 47
               src="https://www.webmanajemen.com/chimeraland/attendants/remetrog/Screenshot_2022-07-25-17-35-20-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Remetrog Screenshot_2022-07-25-17-35-20-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Remetrog</i>
               Screenshot_2022-07-25-17-35-20-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

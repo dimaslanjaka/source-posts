@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Cloud Drune stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/cloud-drune/Screenshot_2023-02-22-11-57-08-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Cloud Drune Screenshot_2023-02-22-11-57-08-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Cloud Drune</i>
               Screenshot_2023-02-22-11-57-08-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/cloud-drune/Screenshot_2023-02-22-11-57-12-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Cloud Drune Screenshot_2023-02-22-11-57-12-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Cloud Drune</i>
               Screenshot_2023-02-22-11-57-12-14_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/cloud-drune/Screenshot_2023-02-22-11-57-16-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Cloud Drune Screenshot_2023-02-22-11-57-16-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Cloud Drune</i>
               Screenshot_2023-02-22-11-57-16-06_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/cloud-drune/Screenshot_2023-02-22-11-57-20-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Cloud Drune Screenshot_2023-02-22-11-57-20-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Cloud Drune</i>
               Screenshot_2023-02-22-11-57-20-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/cloud-drune/Screenshot_2023-02-22-11-57-24-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Cloud Drune Screenshot_2023-02-22-11-57-24-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Cloud Drune</i>
               Screenshot_2023-02-22-11-57-24-26_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/cloud-drune/Screenshot_2023-02-22-11-57-33-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Cloud Drune Screenshot_2023-02-22-11-57-33-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Cloud Drune</i>
               Screenshot_2023-02-22-11-57-33-46_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

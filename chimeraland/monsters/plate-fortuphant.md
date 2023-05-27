@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Plate Fortuphant stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Plate Fortuphant undefined"
             />
-            <figcaption><i>Plate Fortuphant</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Plate Fortuphant</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -99,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-24-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Plate Fortuphant Screenshot_2023-02-25-16-33-24-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Plate Fortuphant</i>
               Screenshot_2023-02-25-16-33-24-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-27-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Plate Fortuphant Screenshot_2023-02-25-16-33-27-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Plate Fortuphant</i>
               Screenshot_2023-02-25-16-33-27-91_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-32-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Plate Fortuphant Screenshot_2023-02-25-16-33-32-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Plate Fortuphant</i>
               Screenshot_2023-02-25-16-33-32-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-35-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Plate Fortuphant Screenshot_2023-02-25-16-33-35-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Plate Fortuphant</i>
               Screenshot_2023-02-25-16-33-35-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-41-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Plate Fortuphant Screenshot_2023-02-25-16-33-41-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Plate Fortuphant</i>
               Screenshot_2023-02-25-16-33-41-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -159,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-45-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Plate Fortuphant Screenshot_2023-02-25-16-33-45-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Plate Fortuphant</i>
               Screenshot_2023-02-25-16-33-45-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -171,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-51-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Plate Fortuphant Screenshot_2023-02-25-16-33-51-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Plate Fortuphant</i>
               Screenshot_2023-02-25-16-33-51-06_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

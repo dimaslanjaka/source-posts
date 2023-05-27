@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: medakat stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/medakat/Screenshot_2022-11-15-23-45-17-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="medakat Screenshot_2022-11-15-23-45-17-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>medakat</i>
               Screenshot_2022-11-15-23-45-17-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/medakat/Screenshot_2022-11-15-23-45-21-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="medakat Screenshot_2022-11-15-23-45-21-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>medakat</i>
               Screenshot_2022-11-15-23-45-21-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/medakat/Screenshot_2022-11-15-23-45-24-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="medakat Screenshot_2022-11-15-23-45-24-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>medakat</i>
               Screenshot_2022-11-15-23-45-24-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/medakat/Screenshot_2022-11-15-23-45-27-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="medakat Screenshot_2022-11-15-23-45-27-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>medakat</i>
               Screenshot_2022-11-15-23-45-27-93_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/medakat/Screenshot_2022-11-15-23-45-32-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="medakat Screenshot_2022-11-15-23-45-32-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>medakat</i>
               Screenshot_2022-11-15-23-45-32-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/medakat/Screenshot_2022-11-15-23-45-36-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="medakat Screenshot_2022-11-15-23-45-36-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>medakat</i>
               Screenshot_2022-11-15-23-45-36-85_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/medakat/Screenshot_2022-11-15-23-45-40-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="medakat Screenshot_2022-11-15-23-45-40-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>medakat</i>
               Screenshot_2022-11-15-23-45-40-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: rhizang stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhizang/Screenshot_2022-11-19-02-58-06-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhizang Screenshot_2022-11-19-02-58-06-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhizang</i>
               Screenshot_2022-11-19-02-58-06-15_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhizang/Screenshot_2022-11-19-02-58-13-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhizang Screenshot_2022-11-19-02-58-13-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhizang</i>
               Screenshot_2022-11-19-02-58-13-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhizang/Screenshot_2022-11-19-02-58-19-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhizang Screenshot_2022-11-19-02-58-19-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhizang</i>
               Screenshot_2022-11-19-02-58-19-22_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhizang/Screenshot_2022-11-19-02-58-24-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhizang Screenshot_2022-11-19-02-58-24-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhizang</i>
               Screenshot_2022-11-19-02-58-24-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhizang/Screenshot_2022-11-19-02-58-32-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhizang Screenshot_2022-11-19-02-58-32-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhizang</i>
               Screenshot_2022-11-19-02-58-32-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhizang/Screenshot_2022-11-19-02-58-37-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhizang Screenshot_2022-11-19-02-58-37-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhizang</i>
               Screenshot_2022-11-19-02-58-37-64_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhizang/Screenshot_2022-11-19-02-58-42-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rhizang Screenshot_2022-11-19-02-58-42-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rhizang</i>
               Screenshot_2022-11-19-02-58-42-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

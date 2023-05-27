@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant kuntur stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-17-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant kuntur Screenshot_2023-03-01-13-25-17-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant kuntur</i>
               Screenshot_2023-03-01-13-25-17-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-23-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant kuntur Screenshot_2023-03-01-13-25-23-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant kuntur</i>
               Screenshot_2023-03-01-13-25-23-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-27-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant kuntur Screenshot_2023-03-01-13-25-27-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant kuntur</i>
               Screenshot_2023-03-01-13-25-27-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-31-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant kuntur Screenshot_2023-03-01-13-25-31-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant kuntur</i>
               Screenshot_2023-03-01-13-25-31-22_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-35-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant kuntur Screenshot_2023-03-01-13-25-35-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant kuntur</i>
               Screenshot_2023-03-01-13-25-35-54_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-39-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant kuntur Screenshot_2023-03-01-13-25-39-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant kuntur</i>
               Screenshot_2023-03-01-13-25-39-58_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-43-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant kuntur Screenshot_2023-03-01-13-25-43-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant kuntur</i>
               Screenshot_2023-03-01-13-25-43-99_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-48-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant kuntur Screenshot_2023-03-01-13-25-48-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant kuntur</i>
               Screenshot_2023-03-01-13-25-48-34_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

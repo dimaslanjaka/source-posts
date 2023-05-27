@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant nian stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-nian/Screenshot_2023-02-22-14-21-08-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant nian Screenshot_2023-02-22-14-21-08-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant nian</i>
               Screenshot_2023-02-22-14-21-08-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-nian/Screenshot_2023-02-22-14-21-13-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant nian Screenshot_2023-02-22-14-21-13-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant nian</i>
               Screenshot_2023-02-22-14-21-13-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-nian/Screenshot_2023-02-22-14-21-17-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant nian Screenshot_2023-02-22-14-21-17-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant nian</i>
               Screenshot_2023-02-22-14-21-17-24_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-nian/Screenshot_2023-02-22-14-21-21-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant nian Screenshot_2023-02-22-14-21-21-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant nian</i>
               Screenshot_2023-02-22-14-21-21-41_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-nian/Screenshot_2023-02-22-14-21-25-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant nian Screenshot_2023-02-22-14-21-25-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant nian</i>
               Screenshot_2023-02-22-14-21-25-82_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-nian/Screenshot_2023-02-22-14-21-30-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant nian Screenshot_2023-02-22-14-21-30-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant nian</i>
               Screenshot_2023-02-22-14-21-30-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-nian/Screenshot_2023-02-22-14-21-35-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant nian Screenshot_2023-02-22-14-21-35-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant nian</i>
               Screenshot_2023-02-22-14-21-35-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

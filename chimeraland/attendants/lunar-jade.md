@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: lunar jade stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-28-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar jade Screenshot_2022-11-15-23-46-28-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar jade</i>
               Screenshot_2022-11-15-23-46-28-45_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-31-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar jade Screenshot_2022-11-15-23-46-31-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar jade</i>
               Screenshot_2022-11-15-23-46-31-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-34-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar jade Screenshot_2022-11-15-23-46-34-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar jade</i>
               Screenshot_2022-11-15-23-46-34-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-38-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar jade Screenshot_2022-11-15-23-46-38-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar jade</i>
               Screenshot_2022-11-15-23-46-38-21_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-41-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar jade Screenshot_2022-11-15-23-46-41-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar jade</i>
               Screenshot_2022-11-15-23-46-41-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-44-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar jade Screenshot_2022-11-15-23-46-44-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar jade</i>
               Screenshot_2022-11-15-23-46-44-24_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-47-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar jade Screenshot_2022-11-15-23-46-47-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar jade</i>
               Screenshot_2022-11-15-23-46-47-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

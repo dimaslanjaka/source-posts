@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Mountspider stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Mountspider undefined"
             />
-            <figcaption><i>Mountspider</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Mountspider</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -99,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mountspider/Screenshot_2023-02-24-22-41-31-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mountspider Screenshot_2023-02-24-22-41-31-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mountspider</i>
               Screenshot_2023-02-24-22-41-31-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mountspider/Screenshot_2023-02-24-22-41-35-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mountspider Screenshot_2023-02-24-22-41-35-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mountspider</i>
               Screenshot_2023-02-24-22-41-35-54_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mountspider/Screenshot_2023-02-24-22-41-39-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mountspider Screenshot_2023-02-24-22-41-39-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mountspider</i>
               Screenshot_2023-02-24-22-41-39-31_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mountspider/Screenshot_2023-02-24-22-41-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mountspider Screenshot_2023-02-24-22-41-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mountspider</i>
               Screenshot_2023-02-24-22-41-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mountspider/Screenshot_2023-02-24-22-42-14-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mountspider Screenshot_2023-02-24-22-42-14-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mountspider</i>
               Screenshot_2023-02-24-22-42-14-42_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -159,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mountspider/Screenshot_2023-02-24-22-42-19-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mountspider Screenshot_2023-02-24-22-42-19-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mountspider</i>
               Screenshot_2023-02-24-22-42-19-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -171,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mountspider/Screenshot_2023-02-24-22-42-24-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Mountspider Screenshot_2023-02-24-22-42-24-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Mountspider</i>
               Screenshot_2023-02-24-22-42-24-30_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

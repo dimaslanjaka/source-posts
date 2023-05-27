@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: halekat stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/halekat/Screenshot_2023-02-18-01-20-44-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="halekat Screenshot_2023-02-18-01-20-44-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>halekat</i>
               Screenshot_2023-02-18-01-20-44-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/halekat/Screenshot_2023-02-18-01-20-47-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="halekat Screenshot_2023-02-18-01-20-47-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>halekat</i>
               Screenshot_2023-02-18-01-20-47-91_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/halekat/Screenshot_2023-02-18-01-20-51-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="halekat Screenshot_2023-02-18-01-20-51-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>halekat</i>
               Screenshot_2023-02-18-01-20-51-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/halekat/Screenshot_2023-02-18-01-20-55-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="halekat Screenshot_2023-02-18-01-20-55-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>halekat</i>
               Screenshot_2023-02-18-01-20-55-68_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/halekat/Screenshot_2023-02-18-01-20-59-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="halekat Screenshot_2023-02-18-01-20-59-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>halekat</i>
               Screenshot_2023-02-18-01-20-59-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/halekat/Screenshot_2023-02-18-01-21-04-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="halekat Screenshot_2023-02-18-01-21-04-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>halekat</i>
               Screenshot_2023-02-18-01-21-04-61_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/halekat/Screenshot_2023-02-18-01-21-09-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="halekat Screenshot_2023-02-18-01-21-09-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>halekat</i>
               Screenshot_2023-02-18-01-21-09-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/halekat/Screenshot_2023-02-18-01-21-13-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="halekat Screenshot_2023-02-18-01-21-13-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>halekat</i>
               Screenshot_2023-02-18-01-21-13-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

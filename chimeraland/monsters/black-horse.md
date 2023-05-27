@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Black Horse stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-08-56-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Black Horse Screenshot_2023-02-25-16-08-56-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Black Horse</i>
               Screenshot_2023-02-25-16-08-56-70_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-09-00-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Black Horse Screenshot_2023-02-25-16-09-00-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Black Horse</i>
               Screenshot_2023-02-25-16-09-00-38_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-09-05-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Black Horse Screenshot_2023-02-25-16-09-05-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Black Horse</i>
               Screenshot_2023-02-25-16-09-05-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-09-11-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Black Horse Screenshot_2023-02-25-16-09-11-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Black Horse</i>
               Screenshot_2023-02-25-16-09-11-23_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-09-15-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Black Horse Screenshot_2023-02-25-16-09-15-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Black Horse</i>
               Screenshot_2023-02-25-16-09-15-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-09-19-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Black Horse Screenshot_2023-02-25-16-09-19-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Black Horse</i>
               Screenshot_2023-02-25-16-09-19-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-09-24-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Black Horse Screenshot_2023-02-25-16-09-24-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Black Horse</i>
               Screenshot_2023-02-25-16-09-24-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

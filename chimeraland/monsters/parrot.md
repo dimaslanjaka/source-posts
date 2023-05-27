@@ -63,7 +63,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Parrot stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -94,7 +94,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Parrot undefined"
             />
-            <figcaption><i>Parrot</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Parrot</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -103,7 +105,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-17-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Parrot Screenshot_2023-03-02-05-24-17-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Parrot</i>
               Screenshot_2023-03-02-05-24-17-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -115,7 +117,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-21-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Parrot Screenshot_2023-03-02-05-24-21-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Parrot</i>
               Screenshot_2023-03-02-05-24-21-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -127,7 +129,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-25-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Parrot Screenshot_2023-03-02-05-24-25-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Parrot</i>
               Screenshot_2023-03-02-05-24-25-64_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -139,7 +141,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-30-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Parrot Screenshot_2023-03-02-05-24-30-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Parrot</i>
               Screenshot_2023-03-02-05-24-30-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -151,7 +153,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-35-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Parrot Screenshot_2023-03-02-05-24-35-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Parrot</i>
               Screenshot_2023-03-02-05-24-35-36_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -163,7 +165,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-39-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Parrot Screenshot_2023-03-02-05-24-39-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Parrot</i>
               Screenshot_2023-03-02-05-24-39-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -175,7 +177,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Parrot Screenshot_2023-03-02-05-24-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Parrot</i>
               Screenshot_2023-03-02-05-24-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -187,7 +189,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-47-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Parrot Screenshot_2023-03-02-05-24-47-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Parrot</i>
               Screenshot_2023-03-02-05-24-47-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -199,7 +201,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-17-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Parrot Screenshot_2023-03-02-05-25-17-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Parrot</i>
               Screenshot_2023-03-02-05-25-17-46_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -211,7 +213,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-22-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Parrot Screenshot_2023-03-02-05-25-22-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Parrot</i>
               Screenshot_2023-03-02-05-25-22-90_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -223,7 +225,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-29-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Parrot Screenshot_2023-03-02-05-25-29-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Parrot</i>
               Screenshot_2023-03-02-05-25-29-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

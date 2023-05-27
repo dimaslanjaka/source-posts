@@ -53,7 +53,7 @@ description: attendant Lunar Regni default quality GRADE B ATK 70 HP 70 DEF 70
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Lunar Regni stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>

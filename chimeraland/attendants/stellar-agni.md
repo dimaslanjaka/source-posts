@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: stellar agni stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/stellar-agni/Screenshot_2023-03-09-23-11-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="stellar agni Screenshot_2023-03-09-23-11-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>stellar agni</i>
               Screenshot_2023-03-09-23-11-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/stellar-agni/Screenshot_2023-03-09-23-11-20-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="stellar agni Screenshot_2023-03-09-23-11-20-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>stellar agni</i>
               Screenshot_2023-03-09-23-11-20-70_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/stellar-agni/Screenshot_2023-03-09-23-11-24-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="stellar agni Screenshot_2023-03-09-23-11-24-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>stellar agni</i>
               Screenshot_2023-03-09-23-11-24-90_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/stellar-agni/Screenshot_2023-03-09-23-11-29-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="stellar agni Screenshot_2023-03-09-23-11-29-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>stellar agni</i>
               Screenshot_2023-03-09-23-11-29-28_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/stellar-agni/Screenshot_2023-03-09-23-11-33-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="stellar agni Screenshot_2023-03-09-23-11-33-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>stellar agni</i>
               Screenshot_2023-03-09-23-11-33-73_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/stellar-agni/Screenshot_2023-03-09-23-11-47-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="stellar agni Screenshot_2023-03-09-23-11-47-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>stellar agni</i>
               Screenshot_2023-03-09-23-11-47-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/stellar-agni/Screenshot_2023-03-09-23-11-51-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="stellar agni Screenshot_2023-03-09-23-11-51-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>stellar agni</i>
               Screenshot_2023-03-09-23-11-51-82_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/stellar-agni/Screenshot_2023-03-09-23-11-56-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="stellar agni Screenshot_2023-03-09-23-11-56-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>stellar agni</i>
               Screenshot_2023-03-09-23-11-56-24_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

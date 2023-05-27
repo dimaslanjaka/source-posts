@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant stonebug stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-00-50-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stonebug Screenshot_2023-02-16-03-00-50-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stonebug</i>
               Screenshot_2023-02-16-03-00-50-41_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-00-56-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stonebug Screenshot_2023-02-16-03-00-56-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stonebug</i>
               Screenshot_2023-02-16-03-00-56-69_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-01-02-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stonebug Screenshot_2023-02-16-03-01-02-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stonebug</i>
               Screenshot_2023-02-16-03-01-02-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-01-07-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stonebug Screenshot_2023-02-16-03-01-07-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stonebug</i>
               Screenshot_2023-02-16-03-01-07-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-01-11-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stonebug Screenshot_2023-02-16-03-01-11-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stonebug</i>
               Screenshot_2023-02-16-03-01-11-90_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-01-19-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stonebug Screenshot_2023-02-16-03-01-19-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stonebug</i>
               Screenshot_2023-02-16-03-01-19-24_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-01-27-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stonebug Screenshot_2023-02-16-03-01-27-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stonebug</i>
               Screenshot_2023-02-16-03-01-27-20_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-01-32-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stonebug Screenshot_2023-02-16-03-01-32-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stonebug</i>
               Screenshot_2023-02-16-03-01-32-36_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -60,7 +60,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: young macrophaorous bloom stat will increase based on their
       <b>grade</b> and <b>delicacies/tasty</b>.
     </blockquote>
@@ -91,7 +91,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-macrophaorous-bloom/Screenshot_2023-02-24-22-42-58-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young macrophaorous bloom Screenshot_2023-02-24-22-42-58-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young macrophaorous bloom</i>
               Screenshot_2023-02-24-22-42-58-12_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -103,7 +103,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-macrophaorous-bloom/Screenshot_2023-02-24-22-43-02-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young macrophaorous bloom Screenshot_2023-02-24-22-43-02-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young macrophaorous bloom</i>
               Screenshot_2023-02-24-22-43-02-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -115,7 +115,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-macrophaorous-bloom/Screenshot_2023-02-24-22-43-06-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young macrophaorous bloom Screenshot_2023-02-24-22-43-06-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young macrophaorous bloom</i>
               Screenshot_2023-02-24-22-43-06-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -127,7 +127,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-macrophaorous-bloom/Screenshot_2023-02-24-22-43-11-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young macrophaorous bloom Screenshot_2023-02-24-22-43-11-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young macrophaorous bloom</i>
               Screenshot_2023-02-24-22-43-11-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -139,7 +139,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-macrophaorous-bloom/Screenshot_2023-02-24-22-43-15-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young macrophaorous bloom Screenshot_2023-02-24-22-43-15-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young macrophaorous bloom</i>
               Screenshot_2023-02-24-22-43-15-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -151,7 +151,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-macrophaorous-bloom/Screenshot_2023-02-24-22-43-19-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young macrophaorous bloom Screenshot_2023-02-24-22-43-19-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young macrophaorous bloom</i>
               Screenshot_2023-02-24-22-43-19-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -163,7 +163,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-macrophaorous-bloom/Screenshot_2023-02-24-22-43-24-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young macrophaorous bloom Screenshot_2023-02-24-22-43-24-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young macrophaorous bloom</i>
               Screenshot_2023-02-24-22-43-24-41_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

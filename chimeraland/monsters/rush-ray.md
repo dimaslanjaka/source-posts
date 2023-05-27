@@ -52,7 +52,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Rush Ray stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -83,7 +83,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Rush Ray undefined"
             />
-            <figcaption><i>Rush Ray</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Rush Ray</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: lunar astra stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-06-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar astra Screenshot_2023-03-08-05-11-06-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar astra</i>
               Screenshot_2023-03-08-05-11-06-22_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-09-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar astra Screenshot_2023-03-08-05-11-09-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar astra</i>
               Screenshot_2023-03-08-05-11-09-45_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar astra Screenshot_2023-03-08-05-11-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar astra</i>
               Screenshot_2023-03-08-05-11-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-16-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar astra Screenshot_2023-03-08-05-11-16-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar astra</i>
               Screenshot_2023-03-08-05-11-16-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-20-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar astra Screenshot_2023-03-08-05-11-20-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar astra</i>
               Screenshot_2023-03-08-05-11-20-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-24-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar astra Screenshot_2023-03-08-05-11-24-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar astra</i>
               Screenshot_2023-03-08-05-11-24-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-30-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar astra Screenshot_2023-03-08-05-11-30-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar astra</i>
               Screenshot_2023-03-08-05-11-30-34_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-34-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lunar astra Screenshot_2023-03-08-05-11-34-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lunar astra</i>
               Screenshot_2023-03-08-05-11-34-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

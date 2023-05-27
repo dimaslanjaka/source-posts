@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant embergator stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-embergator/Screenshot_2023-02-25-00-52-27-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant embergator Screenshot_2023-02-25-00-52-27-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant embergator</i>
               Screenshot_2023-02-25-00-52-27-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-embergator/Screenshot_2023-02-25-00-52-32-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant embergator Screenshot_2023-02-25-00-52-32-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant embergator</i>
               Screenshot_2023-02-25-00-52-32-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-embergator/Screenshot_2023-02-25-00-52-36-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant embergator Screenshot_2023-02-25-00-52-36-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant embergator</i>
               Screenshot_2023-02-25-00-52-36-24_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-embergator/Screenshot_2023-02-25-00-52-39-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant embergator Screenshot_2023-02-25-00-52-39-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant embergator</i>
               Screenshot_2023-02-25-00-52-39-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-embergator/Screenshot_2023-02-25-00-52-43-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant embergator Screenshot_2023-02-25-00-52-43-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant embergator</i>
               Screenshot_2023-02-25-00-52-43-85_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-embergator/Screenshot_2023-02-25-00-52-48-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant embergator Screenshot_2023-02-25-00-52-48-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant embergator</i>
               Screenshot_2023-02-25-00-52-48-92_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-embergator/Screenshot_2023-02-25-00-52-55-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant embergator Screenshot_2023-02-25-00-52-55-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant embergator</i>
               Screenshot_2023-02-25-00-52-55-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

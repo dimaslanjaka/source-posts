@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: grand carnivore bloom stat will increase based on their
       <b>grade</b> and <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/grand-carnivore-bloom/Screenshot_2023-02-11-23-10-02-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="grand carnivore bloom Screenshot_2023-02-11-23-10-02-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>grand carnivore bloom</i>
               Screenshot_2023-02-11-23-10-02-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/grand-carnivore-bloom/Screenshot_2023-02-11-23-10-06-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="grand carnivore bloom Screenshot_2023-02-11-23-10-06-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>grand carnivore bloom</i>
               Screenshot_2023-02-11-23-10-06-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/grand-carnivore-bloom/Screenshot_2023-02-11-23-10-10-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="grand carnivore bloom Screenshot_2023-02-11-23-10-10-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>grand carnivore bloom</i>
               Screenshot_2023-02-11-23-10-10-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/grand-carnivore-bloom/Screenshot_2023-02-11-23-10-14-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="grand carnivore bloom Screenshot_2023-02-11-23-10-14-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>grand carnivore bloom</i>
               Screenshot_2023-02-11-23-10-14-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/grand-carnivore-bloom/Screenshot_2023-02-11-23-10-19-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="grand carnivore bloom Screenshot_2023-02-11-23-10-19-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>grand carnivore bloom</i>
               Screenshot_2023-02-11-23-10-19-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/grand-carnivore-bloom/Screenshot_2023-02-11-23-10-27-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="grand carnivore bloom Screenshot_2023-02-11-23-10-27-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>grand carnivore bloom</i>
               Screenshot_2023-02-11-23-10-27-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: atenkat stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/atenkat/Screenshot_2023-02-19-17-25-26-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="atenkat Screenshot_2023-02-19-17-25-26-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>atenkat</i>
               Screenshot_2023-02-19-17-25-26-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/atenkat/Screenshot_2023-02-19-17-25-32-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="atenkat Screenshot_2023-02-19-17-25-32-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>atenkat</i>
               Screenshot_2023-02-19-17-25-32-60_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/atenkat/Screenshot_2023-02-19-17-25-36-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="atenkat Screenshot_2023-02-19-17-25-36-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>atenkat</i>
               Screenshot_2023-02-19-17-25-36-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/atenkat/Screenshot_2023-02-19-17-25-40-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="atenkat Screenshot_2023-02-19-17-25-40-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>atenkat</i>
               Screenshot_2023-02-19-17-25-40-84_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/atenkat/Screenshot_2023-02-19-17-25-45-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="atenkat Screenshot_2023-02-19-17-25-45-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>atenkat</i>
               Screenshot_2023-02-19-17-25-45-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/atenkat/Screenshot_2023-02-19-17-25-50-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="atenkat Screenshot_2023-02-19-17-25-50-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>atenkat</i>
               Screenshot_2023-02-19-17-25-50-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/atenkat/Screenshot_2023-02-19-17-25-54-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="atenkat Screenshot_2023-02-19-17-25-54-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>atenkat</i>
               Screenshot_2023-02-19-17-25-54-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

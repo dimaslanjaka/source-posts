@@ -52,7 +52,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Murkrider stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -83,7 +83,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Murkrider undefined"
             />
-            <figcaption><i>Murkrider</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Murkrider</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

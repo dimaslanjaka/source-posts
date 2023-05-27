@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant sparromu stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-sparromu/Screenshot_2023-02-23-12-40-44-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant sparromu Screenshot_2023-02-23-12-40-44-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant sparromu</i>
               Screenshot_2023-02-23-12-40-44-45_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-sparromu/Screenshot_2023-02-23-12-40-48-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant sparromu Screenshot_2023-02-23-12-40-48-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant sparromu</i>
               Screenshot_2023-02-23-12-40-48-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-sparromu/Screenshot_2023-02-23-12-40-54-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant sparromu Screenshot_2023-02-23-12-40-54-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant sparromu</i>
               Screenshot_2023-02-23-12-40-54-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-sparromu/Screenshot_2023-02-23-12-41-00-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant sparromu Screenshot_2023-02-23-12-41-00-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant sparromu</i>
               Screenshot_2023-02-23-12-41-00-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-sparromu/Screenshot_2023-02-23-12-41-06-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant sparromu Screenshot_2023-02-23-12-41-06-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant sparromu</i>
               Screenshot_2023-02-23-12-41-06-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-sparromu/Screenshot_2023-02-23-12-41-13-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant sparromu Screenshot_2023-02-23-12-41-13-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant sparromu</i>
               Screenshot_2023-02-23-12-41-13-30_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-sparromu/Screenshot_2023-02-23-12-41-18-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant sparromu Screenshot_2023-02-23-12-41-18-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant sparromu</i>
               Screenshot_2023-02-23-12-41-18-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-sparromu/Screenshot_2023-02-23-12-41-24-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant sparromu Screenshot_2023-02-23-12-41-24-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant sparromu</i>
               Screenshot_2023-02-23-12-41-24-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

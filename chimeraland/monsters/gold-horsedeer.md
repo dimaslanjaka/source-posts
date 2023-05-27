@@ -63,7 +63,7 @@ description: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Gold Horsedeer stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -128,7 +128,9 @@ description: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
               src="https://www.webmanajemen.com/undefined"
               alt="Gold Horsedeer undefined"
             />
-            <figcaption><i>Gold Horsedeer</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Gold Horsedeer</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -137,7 +139,7 @@ description: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
               src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-10-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Gold Horsedeer Screenshot_2022-07-29-00-20-10-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Gold Horsedeer</i>
               Screenshot_2022-07-29-00-20-10-68_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +151,7 @@ description: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
               src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-16-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Gold Horsedeer Screenshot_2022-07-29-00-20-16-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Gold Horsedeer</i>
               Screenshot_2022-07-29-00-20-16-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +163,7 @@ description: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
               src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-21-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Gold Horsedeer Screenshot_2022-07-29-00-20-21-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Gold Horsedeer</i>
               Screenshot_2022-07-29-00-20-21-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +175,7 @@ description: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
               src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-24-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Gold Horsedeer Screenshot_2022-07-29-00-20-24-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Gold Horsedeer</i>
               Screenshot_2022-07-29-00-20-24-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -185,7 +187,7 @@ description: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
               src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-27-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Gold Horsedeer Screenshot_2022-07-29-00-20-27-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Gold Horsedeer</i>
               Screenshot_2022-07-29-00-20-27-84_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -197,7 +199,7 @@ description: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
               src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Gold Horsedeer Screenshot_2022-07-29-00-20-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Gold Horsedeer</i>
               Screenshot_2022-07-29-00-20-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -209,7 +211,7 @@ description: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
               src="https://www.webmanajemen.com/chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-37-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Gold Horsedeer Screenshot_2022-07-29-00-20-37-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Gold Horsedeer</i>
               Screenshot_2022-07-29-00-20-37-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

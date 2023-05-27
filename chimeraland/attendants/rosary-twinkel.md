@@ -53,7 +53,7 @@ description: attendant Rosary Twinkel default quality GRADE C ATK 50 HP 50 DEF
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Rosary Twinkel stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>

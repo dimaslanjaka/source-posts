@@ -60,7 +60,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: plate stoneppo stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -91,7 +91,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="plate stoneppo undefined"
             />
-            <figcaption><i>plate stoneppo</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>plate stoneppo</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -100,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-11-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="plate stoneppo Screenshot_2023-03-08-22-09-11-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>plate stoneppo</i>
               Screenshot_2023-03-08-22-09-11-24_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-15-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="plate stoneppo Screenshot_2023-03-08-22-09-15-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>plate stoneppo</i>
               Screenshot_2023-03-08-22-09-15-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-19-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="plate stoneppo Screenshot_2023-03-08-22-09-19-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>plate stoneppo</i>
               Screenshot_2023-03-08-22-09-19-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-24-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="plate stoneppo Screenshot_2023-03-08-22-09-24-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>plate stoneppo</i>
               Screenshot_2023-03-08-22-09-24-17_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-29-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="plate stoneppo Screenshot_2023-03-08-22-09-29-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>plate stoneppo</i>
               Screenshot_2023-03-08-22-09-29-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-38-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="plate stoneppo Screenshot_2023-03-08-22-09-38-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>plate stoneppo</i>
               Screenshot_2023-03-08-22-09-38-42_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -172,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-42-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="plate stoneppo Screenshot_2023-03-08-22-09-42-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>plate stoneppo</i>
               Screenshot_2023-03-08-22-09-42-88_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -184,7 +186,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-47-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="plate stoneppo Screenshot_2023-03-08-22-09-47-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>plate stoneppo</i>
               Screenshot_2023-03-08-22-09-47-51_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

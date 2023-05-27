@@ -62,7 +62,7 @@ description: monster Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Brownfoot Gripine stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -127,7 +127,9 @@ description: monster Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF
               src="https://www.webmanajemen.com/undefined"
               alt="Brownfoot Gripine undefined"
             />
-            <figcaption><i>Brownfoot Gripine</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Brownfoot Gripine</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -136,7 +138,7 @@ description: monster Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF
               src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-17-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-17-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Brownfoot Gripine</i>
               Screenshot_2022-07-16-18-48-17-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +150,7 @@ description: monster Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF
               src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-22-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-22-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Brownfoot Gripine</i>
               Screenshot_2022-07-16-18-48-22-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +162,7 @@ description: monster Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF
               src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-27-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-27-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Brownfoot Gripine</i>
               Screenshot_2022-07-16-18-48-27-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -172,7 +174,7 @@ description: monster Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF
               src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-32-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-32-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Brownfoot Gripine</i>
               Screenshot_2022-07-16-18-48-32-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -184,7 +186,7 @@ description: monster Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF
               src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Brownfoot Gripine</i>
               Screenshot_2022-07-16-18-48-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -196,7 +198,7 @@ description: monster Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF
               src="https://www.webmanajemen.com/chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-44-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Brownfoot Gripine Screenshot_2022-07-16-18-48-44-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Brownfoot Gripine</i>
               Screenshot_2022-07-16-18-48-44-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

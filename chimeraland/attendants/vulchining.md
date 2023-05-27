@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: vulchining stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-54-45-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulchining Screenshot_2023-03-04-20-54-45-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulchining</i>
               Screenshot_2023-03-04-20-54-45-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-54-49-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulchining Screenshot_2023-03-04-20-54-49-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulchining</i>
               Screenshot_2023-03-04-20-54-49-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-54-53-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulchining Screenshot_2023-03-04-20-54-53-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulchining</i>
               Screenshot_2023-03-04-20-54-53-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-54-57-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulchining Screenshot_2023-03-04-20-54-57-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulchining</i>
               Screenshot_2023-03-04-20-54-57-21_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-55-07-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulchining Screenshot_2023-03-04-20-55-07-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulchining</i>
               Screenshot_2023-03-04-20-55-07-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-55-12-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulchining Screenshot_2023-03-04-20-55-12-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulchining</i>
               Screenshot_2023-03-04-20-55-12-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-55-17-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulchining Screenshot_2023-03-04-20-55-17-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulchining</i>
               Screenshot_2023-03-04-20-55-17-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-55-22-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulchining Screenshot_2023-03-04-20-55-22-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulchining</i>
               Screenshot_2023-03-04-20-55-22-79_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -186,7 +186,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-55-26-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vulchining Screenshot_2023-03-04-20-55-26-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vulchining</i>
               Screenshot_2023-03-04-20-55-26-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

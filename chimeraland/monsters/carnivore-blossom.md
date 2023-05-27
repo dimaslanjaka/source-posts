@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: carnivore blossom stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-56-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="carnivore blossom Screenshot_2023-02-16-02-56-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>carnivore blossom</i>
               Screenshot_2023-02-16-02-56-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-56-50-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="carnivore blossom Screenshot_2023-02-16-02-56-50-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>carnivore blossom</i>
               Screenshot_2023-02-16-02-56-50-17_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-56-55-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="carnivore blossom Screenshot_2023-02-16-02-56-55-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>carnivore blossom</i>
               Screenshot_2023-02-16-02-56-55-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-57-01-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="carnivore blossom Screenshot_2023-02-16-02-57-01-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>carnivore blossom</i>
               Screenshot_2023-02-16-02-57-01-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-57-09-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="carnivore blossom Screenshot_2023-02-16-02-57-09-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>carnivore blossom</i>
               Screenshot_2023-02-16-02-57-09-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-57-13-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="carnivore blossom Screenshot_2023-02-16-02-57-13-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>carnivore blossom</i>
               Screenshot_2023-02-16-02-57-13-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-57-19-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="carnivore blossom Screenshot_2023-02-16-02-57-19-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>carnivore blossom</i>
               Screenshot_2023-02-16-02-57-19-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

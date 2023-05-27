@@ -52,7 +52,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Silkhopper stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -83,7 +83,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Silkhopper undefined"
             />
-            <figcaption><i>Silkhopper</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Silkhopper</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

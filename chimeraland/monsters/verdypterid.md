@@ -63,7 +63,7 @@ description: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Verdypterid stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -128,7 +128,9 @@ description: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/undefined"
               alt="Verdypterid undefined"
             />
-            <figcaption><i>Verdypterid</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Verdypterid</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -137,7 +139,7 @@ description: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-34-53-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Verdypterid Screenshot_2022-08-12-23-34-53-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Verdypterid</i>
               Screenshot_2022-08-12-23-34-53-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +151,7 @@ description: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-34-59-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Verdypterid Screenshot_2022-08-12-23-34-59-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Verdypterid</i>
               Screenshot_2022-08-12-23-34-59-10_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +163,7 @@ description: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-35-04-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Verdypterid Screenshot_2022-08-12-23-35-04-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Verdypterid</i>
               Screenshot_2022-08-12-23-35-04-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +175,7 @@ description: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-35-08-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Verdypterid Screenshot_2022-08-12-23-35-08-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Verdypterid</i>
               Screenshot_2022-08-12-23-35-08-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -185,7 +187,7 @@ description: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-35-14-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Verdypterid Screenshot_2022-08-12-23-35-14-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Verdypterid</i>
               Screenshot_2022-08-12-23-35-14-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -197,7 +199,7 @@ description: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-35-22-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Verdypterid Screenshot_2022-08-12-23-35-22-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Verdypterid</i>
               Screenshot_2022-08-12-23-35-22-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -209,7 +211,7 @@ description: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-35-29-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Verdypterid Screenshot_2022-08-12-23-35-29-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Verdypterid</i>
               Screenshot_2022-08-12-23-35-29-92_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

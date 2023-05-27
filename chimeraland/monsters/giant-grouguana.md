@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant grouguana stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-grouguana/Screenshot_2023-02-26-12-30-12-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant grouguana Screenshot_2023-02-26-12-30-12-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant grouguana</i>
               Screenshot_2023-02-26-12-30-12-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-grouguana/Screenshot_2023-02-26-12-30-17-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant grouguana Screenshot_2023-02-26-12-30-17-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant grouguana</i>
               Screenshot_2023-02-26-12-30-17-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-grouguana/Screenshot_2023-02-26-12-30-22-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant grouguana Screenshot_2023-02-26-12-30-22-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant grouguana</i>
               Screenshot_2023-02-26-12-30-22-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-grouguana/Screenshot_2023-02-26-12-30-26-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant grouguana Screenshot_2023-02-26-12-30-26-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant grouguana</i>
               Screenshot_2023-02-26-12-30-26-36_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-grouguana/Screenshot_2023-02-26-12-30-30-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant grouguana Screenshot_2023-02-26-12-30-30-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant grouguana</i>
               Screenshot_2023-02-26-12-30-30-34_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-grouguana/Screenshot_2023-02-26-12-30-34-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant grouguana Screenshot_2023-02-26-12-30-34-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant grouguana</i>
               Screenshot_2023-02-26-12-30-34-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-grouguana/Screenshot_2023-02-26-12-30-39-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant grouguana Screenshot_2023-02-26-12-30-39-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant grouguana</i>
               Screenshot_2023-02-26-12-30-39-22_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

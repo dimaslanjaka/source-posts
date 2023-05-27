@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: shakuna stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-18-43-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shakuna Screenshot_2023-02-07-13-18-43-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shakuna</i>
               Screenshot_2023-02-07-13-18-43-45_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-18-48-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shakuna Screenshot_2023-02-07-13-18-48-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shakuna</i>
               Screenshot_2023-02-07-13-18-48-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-18-54-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shakuna Screenshot_2023-02-07-13-18-54-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shakuna</i>
               Screenshot_2023-02-07-13-18-54-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-19-00-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shakuna Screenshot_2023-02-07-13-19-00-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shakuna</i>
               Screenshot_2023-02-07-13-19-00-92_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-19-06-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shakuna Screenshot_2023-02-07-13-19-06-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shakuna</i>
               Screenshot_2023-02-07-13-19-06-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-19-10-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shakuna Screenshot_2023-02-07-13-19-10-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shakuna</i>
               Screenshot_2023-02-07-13-19-10-41_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

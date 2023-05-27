@@ -60,7 +60,7 @@ description: attendant Lok-Aqui default quality GRADE C ATK 47 HP 55 DEF 48
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Lok-Aqui stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -125,7 +125,7 @@ description: attendant Lok-Aqui default quality GRADE C ATK 47 HP 55 DEF 48
               src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lok-Aqui Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lok-Aqui</i>
               Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ description: attendant Lok-Aqui default quality GRADE C ATK 47 HP 55 DEF 48
               src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-41-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lok-Aqui Screenshot_2022-07-17-22-34-41-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lok-Aqui</i>
               Screenshot_2022-07-17-22-34-41-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ description: attendant Lok-Aqui default quality GRADE C ATK 47 HP 55 DEF 48
               src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-48-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lok-Aqui Screenshot_2022-07-17-22-34-48-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lok-Aqui</i>
               Screenshot_2022-07-17-22-34-48-68_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ description: attendant Lok-Aqui default quality GRADE C ATK 47 HP 55 DEF 48
               src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-53-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lok-Aqui Screenshot_2022-07-17-22-34-53-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lok-Aqui</i>
               Screenshot_2022-07-17-22-34-53-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ description: attendant Lok-Aqui default quality GRADE C ATK 47 HP 55 DEF 48
               src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lok-Aqui Screenshot_2022-07-17-22-34-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lok-Aqui</i>
               Screenshot_2022-07-17-22-34-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -185,7 +185,7 @@ description: attendant Lok-Aqui default quality GRADE C ATK 47 HP 55 DEF 48
               src="https://www.webmanajemen.com/chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-35-01-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lok-Aqui Screenshot_2022-07-17-22-35-01-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lok-Aqui</i>
               Screenshot_2022-07-17-22-35-01-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

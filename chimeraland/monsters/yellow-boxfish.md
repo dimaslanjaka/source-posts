@@ -52,7 +52,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Yellow Boxfish stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -83,7 +83,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Yellow Boxfish undefined"
             />
-            <figcaption><i>Yellow Boxfish</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Yellow Boxfish</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

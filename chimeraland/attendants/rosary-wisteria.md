@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: rosary wisteria stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-29-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary wisteria Screenshot_2022-11-15-23-44-29-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary wisteria</i>
               Screenshot_2022-11-15-23-44-29-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-33-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary wisteria Screenshot_2022-11-15-23-44-33-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary wisteria</i>
               Screenshot_2022-11-15-23-44-33-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-36-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary wisteria Screenshot_2022-11-15-23-44-36-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary wisteria</i>
               Screenshot_2022-11-15-23-44-36-93_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-40-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary wisteria Screenshot_2022-11-15-23-44-40-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary wisteria</i>
               Screenshot_2022-11-15-23-44-40-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-43-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary wisteria Screenshot_2022-11-15-23-44-43-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary wisteria</i>
               Screenshot_2022-11-15-23-44-43-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary wisteria Screenshot_2022-11-15-23-44-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary wisteria</i>
               Screenshot_2022-11-15-23-44-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-49-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary wisteria Screenshot_2022-11-15-23-44-49-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary wisteria</i>
               Screenshot_2022-11-15-23-44-49-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

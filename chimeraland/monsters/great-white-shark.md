@@ -52,7 +52,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Great White Shark stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -83,7 +83,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Great White Shark undefined"
             />
-            <figcaption><i>Great White Shark</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Great White Shark</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

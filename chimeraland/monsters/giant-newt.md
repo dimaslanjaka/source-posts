@@ -64,7 +64,7 @@ description: "monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Giant Newt stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -129,7 +129,9 @@ description: "monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
               src="https://www.webmanajemen.com/undefined"
               alt="Giant Newt undefined"
             />
-            <figcaption><i>Giant Newt</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Giant Newt</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -138,7 +140,7 @@ description: "monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-26-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Giant Newt Screenshot_2022-08-15-18-34-26-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Giant Newt</i>
               Screenshot_2022-08-15-18-34-26-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +152,7 @@ description: "monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-30-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Giant Newt Screenshot_2022-08-15-18-34-30-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Giant Newt</i>
               Screenshot_2022-08-15-18-34-30-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +164,7 @@ description: "monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Giant Newt Screenshot_2022-08-15-18-34-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Giant Newt</i>
               Screenshot_2022-08-15-18-34-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +176,7 @@ description: "monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-37-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Giant Newt Screenshot_2022-08-15-18-34-37-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Giant Newt</i>
               Screenshot_2022-08-15-18-34-37-58_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -186,7 +188,7 @@ description: "monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-42-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Giant Newt Screenshot_2022-08-15-18-34-42-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Giant Newt</i>
               Screenshot_2022-08-15-18-34-42-69_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -198,7 +200,7 @@ description: "monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-46-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Giant Newt Screenshot_2022-08-15-18-34-46-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Giant Newt</i>
               Screenshot_2022-08-15-18-34-46-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -210,7 +212,7 @@ description: "monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-52-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Giant Newt Screenshot_2022-08-15-18-34-52-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Giant Newt</i>
               Screenshot_2022-08-15-18-34-52-23_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -222,7 +224,7 @@ description: "monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Giant Newt Screenshot_2022-08-15-18-34-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Giant Newt</i>
               Screenshot_2022-08-15-18-34-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

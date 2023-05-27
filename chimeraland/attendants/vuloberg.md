@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: vuloberg stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-29-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vuloberg Screenshot_2023-02-13-16-34-29-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vuloberg</i>
               Screenshot_2023-02-13-16-34-29-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-32-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vuloberg Screenshot_2023-02-13-16-34-32-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vuloberg</i>
               Screenshot_2023-02-13-16-34-32-60_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-36-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vuloberg Screenshot_2023-02-13-16-34-36-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vuloberg</i>
               Screenshot_2023-02-13-16-34-36-54_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-40-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vuloberg Screenshot_2023-02-13-16-34-40-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vuloberg</i>
               Screenshot_2023-02-13-16-34-40-20_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vuloberg Screenshot_2023-02-13-16-34-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vuloberg</i>
               Screenshot_2023-02-13-16-34-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-53-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vuloberg Screenshot_2023-02-13-16-34-53-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vuloberg</i>
               Screenshot_2023-02-13-16-34-53-14_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-59-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="vuloberg Screenshot_2023-02-13-16-34-59-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>vuloberg</i>
               Screenshot_2023-02-13-16-34-59-22_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: mamba stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-34-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mamba Screenshot_2023-04-01-01-32-34-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mamba</i>
               Screenshot_2023-04-01-01-32-34-17_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-38-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mamba Screenshot_2023-04-01-01-32-38-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mamba</i>
               Screenshot_2023-04-01-01-32-38-91_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-44-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mamba Screenshot_2023-04-01-01-32-44-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mamba</i>
               Screenshot_2023-04-01-01-32-44-28_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-48-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mamba Screenshot_2023-04-01-01-32-48-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mamba</i>
               Screenshot_2023-04-01-01-32-48-30_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-53-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mamba Screenshot_2023-04-01-01-32-53-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mamba</i>
               Screenshot_2023-04-01-01-32-53-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-58-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mamba Screenshot_2023-04-01-01-32-58-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mamba</i>
               Screenshot_2023-04-01-01-32-58-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-33-02-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mamba Screenshot_2023-04-01-01-33-02-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mamba</i>
               Screenshot_2023-04-01-01-33-02-42_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/mamba/Screenshot_2023-04-01-01-33-07-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="mamba Screenshot_2023-04-01-01-33-07-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>mamba</i>
               Screenshot_2023-04-01-01-33-07-34_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

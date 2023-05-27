@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: abyssal siren stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-30-58-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal siren Screenshot_2023-05-21-23-30-58-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal siren</i>
               Screenshot_2023-05-21-23-30-58-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-31-02-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal siren Screenshot_2023-05-21-23-31-02-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal siren</i>
               Screenshot_2023-05-21-23-31-02-91_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-31-06-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal siren Screenshot_2023-05-21-23-31-06-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal siren</i>
               Screenshot_2023-05-21-23-31-06-88_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-31-10-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal siren Screenshot_2023-05-21-23-31-10-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal siren</i>
               Screenshot_2023-05-21-23-31-10-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-31-16-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal siren Screenshot_2023-05-21-23-31-16-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal siren</i>
               Screenshot_2023-05-21-23-31-16-46_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-31-21-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal siren Screenshot_2023-05-21-23-31-21-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal siren</i>
               Screenshot_2023-05-21-23-31-21-62_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-31-26-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal siren Screenshot_2023-05-21-23-31-26-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal siren</i>
               Screenshot_2023-05-21-23-31-26-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-31-30-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal siren Screenshot_2023-05-21-23-31-30-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal siren</i>
               Screenshot_2023-05-21-23-31-30-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

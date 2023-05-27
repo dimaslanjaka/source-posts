@@ -64,7 +64,7 @@ description: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Coracrab stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -129,7 +129,9 @@ description: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/undefined"
               alt="Coracrab undefined"
             />
-            <figcaption><i>Coracrab</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Coracrab</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -138,7 +140,7 @@ description: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-34-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Coracrab Screenshot_2022-07-29-00-34-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Coracrab</i>
               Screenshot_2022-07-29-00-34-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +152,7 @@ description: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-34-53-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Coracrab Screenshot_2022-07-29-00-34-53-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Coracrab</i>
               Screenshot_2022-07-29-00-34-53-88_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +164,7 @@ description: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-34-59-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Coracrab Screenshot_2022-07-29-00-34-59-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Coracrab</i>
               Screenshot_2022-07-29-00-34-59-51_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +176,7 @@ description: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-03-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Coracrab Screenshot_2022-07-29-00-35-03-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Coracrab</i>
               Screenshot_2022-07-29-00-35-03-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -186,7 +188,7 @@ description: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-08-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Coracrab Screenshot_2022-07-29-00-35-08-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Coracrab</i>
               Screenshot_2022-07-29-00-35-08-10_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -198,7 +200,7 @@ description: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-11-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Coracrab Screenshot_2022-07-29-00-35-11-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Coracrab</i>
               Screenshot_2022-07-29-00-35-11-97_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -210,7 +212,7 @@ description: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-18-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Coracrab Screenshot_2022-07-29-00-35-18-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Coracrab</i>
               Screenshot_2022-07-29-00-35-18-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -222,7 +224,7 @@ description: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-22-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Coracrab Screenshot_2022-07-29-00-35-22-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Coracrab</i>
               Screenshot_2022-07-29-00-35-22-55_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

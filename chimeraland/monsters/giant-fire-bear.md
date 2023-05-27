@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant fire bear stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-fire-bear/Screenshot_2023-02-22-13-38-33-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant fire bear Screenshot_2023-02-22-13-38-33-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant fire bear</i>
               Screenshot_2023-02-22-13-38-33-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-fire-bear/Screenshot_2023-02-22-13-38-37-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant fire bear Screenshot_2023-02-22-13-38-37-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant fire bear</i>
               Screenshot_2023-02-22-13-38-37-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-fire-bear/Screenshot_2023-02-22-13-38-40-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant fire bear Screenshot_2023-02-22-13-38-40-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant fire bear</i>
               Screenshot_2023-02-22-13-38-40-91_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-fire-bear/Screenshot_2023-02-22-13-38-44-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant fire bear Screenshot_2023-02-22-13-38-44-80_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant fire bear</i>
               Screenshot_2023-02-22-13-38-44-80_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-fire-bear/Screenshot_2023-02-22-13-38-50-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant fire bear Screenshot_2023-02-22-13-38-50-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant fire bear</i>
               Screenshot_2023-02-22-13-38-50-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-fire-bear/Screenshot_2023-02-22-13-38-57-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant fire bear Screenshot_2023-02-22-13-38-57-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant fire bear</i>
               Screenshot_2023-02-22-13-38-57-68_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-fire-bear/Screenshot_2023-02-22-13-39-02-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant fire bear Screenshot_2023-02-22-13-39-02-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant fire bear</i>
               Screenshot_2023-02-22-13-39-02-15_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: abyssal wisteria stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-12-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal wisteria Screenshot_2023-05-21-23-28-12-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal wisteria</i>
               Screenshot_2023-05-21-23-28-12-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-17-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal wisteria Screenshot_2023-05-21-23-28-17-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal wisteria</i>
               Screenshot_2023-05-21-23-28-17-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-21-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal wisteria Screenshot_2023-05-21-23-28-21-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal wisteria</i>
               Screenshot_2023-05-21-23-28-21-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-26-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal wisteria Screenshot_2023-05-21-23-28-26-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal wisteria</i>
               Screenshot_2023-05-21-23-28-26-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-32-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal wisteria Screenshot_2023-05-21-23-28-32-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal wisteria</i>
               Screenshot_2023-05-21-23-28-32-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal wisteria Screenshot_2023-05-21-23-28-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal wisteria</i>
               Screenshot_2023-05-21-23-28-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal wisteria Screenshot_2023-05-21-23-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal wisteria</i>
               Screenshot_2023-05-21-23-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-54-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="abyssal wisteria Screenshot_2023-05-21-23-28-54-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>abyssal wisteria</i>
               Screenshot_2023-05-21-23-28-54-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

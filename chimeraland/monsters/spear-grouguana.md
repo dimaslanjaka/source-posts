@@ -50,7 +50,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Spear Grouguana stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>

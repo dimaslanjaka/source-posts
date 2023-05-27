@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: jichotrog stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-09-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jichotrog Screenshot_2023-03-03-23-55-09-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jichotrog</i>
               Screenshot_2023-03-03-23-55-09-54_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-12-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jichotrog Screenshot_2023-03-03-23-55-12-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jichotrog</i>
               Screenshot_2023-03-03-23-55-12-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-15-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jichotrog Screenshot_2023-03-03-23-55-15-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jichotrog</i>
               Screenshot_2023-03-03-23-55-15-89_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-19-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jichotrog Screenshot_2023-03-03-23-55-19-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jichotrog</i>
               Screenshot_2023-03-03-23-55-19-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-25-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jichotrog Screenshot_2023-03-03-23-55-25-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jichotrog</i>
               Screenshot_2023-03-03-23-55-25-04_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-28-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jichotrog Screenshot_2023-03-03-23-55-28-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jichotrog</i>
               Screenshot_2023-03-03-23-55-28-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jichotrog Screenshot_2023-03-03-23-55-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jichotrog</i>
               Screenshot_2023-03-03-23-55-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-36-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jichotrog Screenshot_2023-03-03-23-55-36-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jichotrog</i>
               Screenshot_2023-03-03-23-55-36-92_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

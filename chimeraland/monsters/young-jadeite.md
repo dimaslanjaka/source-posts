@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: young jadeite stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-25-40-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young jadeite Screenshot_2023-02-25-22-25-40-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young jadeite</i>
               Screenshot_2023-02-25-22-25-40-52_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-25-45-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young jadeite Screenshot_2023-02-25-22-25-45-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young jadeite</i>
               Screenshot_2023-02-25-22-25-45-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-25-49-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young jadeite Screenshot_2023-02-25-22-25-49-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young jadeite</i>
               Screenshot_2023-02-25-22-25-49-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-25-53-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young jadeite Screenshot_2023-02-25-22-25-53-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young jadeite</i>
               Screenshot_2023-02-25-22-25-53-26_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-25-57-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young jadeite Screenshot_2023-02-25-22-25-57-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young jadeite</i>
               Screenshot_2023-02-25-22-25-57-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-26-02-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young jadeite Screenshot_2023-02-25-22-26-02-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young jadeite</i>
               Screenshot_2023-02-25-22-26-02-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-26-06-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young jadeite Screenshot_2023-02-25-22-26-06-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young jadeite</i>
               Screenshot_2023-02-25-22-26-06-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-26-12-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="young jadeite Screenshot_2023-02-25-22-26-12-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>young jadeite</i>
               Screenshot_2023-02-25-22-26-12-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

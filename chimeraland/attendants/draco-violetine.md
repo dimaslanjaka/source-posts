@@ -53,7 +53,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Draco Violetine stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -84,7 +84,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2022-08-31-21-04-41-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Draco Violetine Screenshot_2022-08-31-21-04-41-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Draco Violetine</i>
               Screenshot_2022-08-31-21-04-41-30_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -96,7 +96,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2022-08-31-21-04-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Draco Violetine Screenshot_2022-08-31-21-04-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Draco Violetine</i>
               Screenshot_2022-08-31-21-04-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -108,7 +108,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2022-08-31-21-04-59-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Draco Violetine Screenshot_2022-08-31-21-04-59-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Draco Violetine</i>
               Screenshot_2022-08-31-21-04-59-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

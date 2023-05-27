@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: draverse stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-19-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="draverse Screenshot_2023-03-09-10-45-19-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>draverse</i>
               Screenshot_2023-03-09-10-45-19-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-24-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="draverse Screenshot_2023-03-09-10-45-24-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>draverse</i>
               Screenshot_2023-03-09-10-45-24-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-28-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="draverse Screenshot_2023-03-09-10-45-28-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>draverse</i>
               Screenshot_2023-03-09-10-45-28-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-32-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="draverse Screenshot_2023-03-09-10-45-32-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>draverse</i>
               Screenshot_2023-03-09-10-45-32-79_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-37-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="draverse Screenshot_2023-03-09-10-45-37-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>draverse</i>
               Screenshot_2023-03-09-10-45-37-17_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-41-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="draverse Screenshot_2023-03-09-10-45-41-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>draverse</i>
               Screenshot_2023-03-09-10-45-41-31_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-45-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="draverse Screenshot_2023-03-09-10-45-45-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>draverse</i>
               Screenshot_2023-03-09-10-45-45-55_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-49-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="draverse Screenshot_2023-03-09-10-45-49-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>draverse</i>
               Screenshot_2023-03-09-10-45-49-97_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

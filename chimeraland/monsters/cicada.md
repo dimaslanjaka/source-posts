@@ -60,7 +60,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: cicada stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -91,7 +91,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="cicada undefined"
             />
-            <figcaption><i>cicada</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>cicada</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -100,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/cicada/Screenshot_2023-02-16-23-18-56-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="cicada Screenshot_2023-02-16-23-18-56-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>cicada</i>
               Screenshot_2023-02-16-23-18-56-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="cicada Screenshot_2023-02-16-23-19-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>cicada</i>
               Screenshot_2023-02-16-23-19-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-06-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="cicada Screenshot_2023-02-16-23-19-06-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>cicada</i>
               Screenshot_2023-02-16-23-19-06-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-10-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="cicada Screenshot_2023-02-16-23-19-10-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>cicada</i>
               Screenshot_2023-02-16-23-19-10-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-16-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="cicada Screenshot_2023-02-16-23-19-16-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>cicada</i>
               Screenshot_2023-02-16-23-19-16-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-20-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="cicada Screenshot_2023-02-16-23-19-20-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>cicada</i>
               Screenshot_2023-02-16-23-19-20-88_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -172,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-27-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="cicada Screenshot_2023-02-16-23-19-27-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>cicada</i>
               Screenshot_2023-02-16-23-19-27-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -184,7 +186,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-33-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="cicada Screenshot_2023-02-16-23-19-33-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>cicada</i>
               Screenshot_2023-02-16-23-19-33-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -63,7 +63,7 @@ description: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Newt stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -128,7 +128,7 @@ description: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
               src="https://www.webmanajemen.com/undefined"
               alt="Newt undefined"
             />
-            <figcaption><i>Newt</i> .</figcaption>
+            <figcaption style="word-wrap: break-word"><i>Newt</i> .</figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -137,7 +137,7 @@ description: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
               src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-20-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Newt Screenshot_2022-07-30-16-35-20-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Newt</i>
               Screenshot_2022-07-30-16-35-20-26_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ description: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
               src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-23-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Newt Screenshot_2022-07-30-16-35-23-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Newt</i>
               Screenshot_2022-07-30-16-35-23-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ description: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
               src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-27-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Newt Screenshot_2022-07-30-16-35-27-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Newt</i>
               Screenshot_2022-07-30-16-35-27-60_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ description: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
               src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-30-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Newt Screenshot_2022-07-30-16-35-30-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Newt</i>
               Screenshot_2022-07-30-16-35-30-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -185,7 +185,7 @@ description: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
               src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-41-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Newt Screenshot_2022-07-30-16-35-41-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Newt</i>
               Screenshot_2022-07-30-16-35-41-21_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -197,7 +197,7 @@ description: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
               src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-46-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Newt Screenshot_2022-07-30-16-35-46-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Newt</i>
               Screenshot_2022-07-30-16-35-46-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -209,7 +209,7 @@ description: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
               src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-51-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Newt Screenshot_2022-07-30-16-35-51-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Newt</i>
               Screenshot_2022-07-30-16-35-51-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -221,7 +221,7 @@ description: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
               src="https://www.webmanajemen.com/chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Newt Screenshot_2022-07-30-16-35-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Newt</i>
               Screenshot_2022-07-30-16-35-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

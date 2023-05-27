@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Platyzard stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Platyzard undefined"
             />
-            <figcaption><i>Platyzard</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Platyzard</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -98,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-55-53-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Platyzard Screenshot_2022-07-16-18-55-53-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Platyzard</i>
               Screenshot_2022-07-16-18-55-53-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -110,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-55-59-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Platyzard Screenshot_2022-07-16-18-55-59-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Platyzard</i>
               Screenshot_2022-07-16-18-55-59-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -122,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-56-03-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Platyzard Screenshot_2022-07-16-18-56-03-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Platyzard</i>
               Screenshot_2022-07-16-18-56-03-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -134,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-56-07-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Platyzard Screenshot_2022-07-16-18-56-07-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Platyzard</i>
               Screenshot_2022-07-16-18-56-07-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -146,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-56-12-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Platyzard Screenshot_2022-07-16-18-56-12-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Platyzard</i>
               Screenshot_2022-07-16-18-56-12-06_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -158,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-56-17-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Platyzard Screenshot_2022-07-16-18-56-17-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Platyzard</i>
               Screenshot_2022-07-16-18-56-17-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

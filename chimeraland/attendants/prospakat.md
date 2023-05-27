@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: prospakat stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-04-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="prospakat Screenshot_2023-02-14-01-05-04-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>prospakat</i>
               Screenshot_2023-02-14-01-05-04-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-08-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="prospakat Screenshot_2023-02-14-01-05-08-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>prospakat</i>
               Screenshot_2023-02-14-01-05-08-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-14-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="prospakat Screenshot_2023-02-14-01-05-14-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>prospakat</i>
               Screenshot_2023-02-14-01-05-14-52_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-21-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="prospakat Screenshot_2023-02-14-01-05-21-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>prospakat</i>
               Screenshot_2023-02-14-01-05-21-97_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-30-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="prospakat Screenshot_2023-02-14-01-05-30-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>prospakat</i>
               Screenshot_2023-02-14-01-05-30-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-35-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="prospakat Screenshot_2023-02-14-01-05-35-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>prospakat</i>
               Screenshot_2023-02-14-01-05-35-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-42-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="prospakat Screenshot_2023-02-14-01-05-42-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>prospakat</i>
               Screenshot_2023-02-14-01-05-42-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

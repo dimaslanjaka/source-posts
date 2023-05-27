@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant fire rhino stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-fire-rhino/Screenshot_2023-02-18-23-38-24-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant fire rhino Screenshot_2023-02-18-23-38-24-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant fire rhino</i>
               Screenshot_2023-02-18-23-38-24-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-fire-rhino/Screenshot_2023-02-18-23-38-28-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant fire rhino Screenshot_2023-02-18-23-38-28-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant fire rhino</i>
               Screenshot_2023-02-18-23-38-28-31_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-fire-rhino/Screenshot_2023-02-18-23-38-33-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant fire rhino Screenshot_2023-02-18-23-38-33-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant fire rhino</i>
               Screenshot_2023-02-18-23-38-33-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-fire-rhino/Screenshot_2023-02-18-23-38-38-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant fire rhino Screenshot_2023-02-18-23-38-38-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant fire rhino</i>
               Screenshot_2023-02-18-23-38-38-28_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-fire-rhino/Screenshot_2023-02-18-23-38-42-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant fire rhino Screenshot_2023-02-18-23-38-42-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant fire rhino</i>
               Screenshot_2023-02-18-23-38-42-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-fire-rhino/Screenshot_2023-02-18-23-38-48-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant fire rhino Screenshot_2023-02-18-23-38-48-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant fire rhino</i>
               Screenshot_2023-02-18-23-38-48-62_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-fire-rhino/Screenshot_2023-02-18-23-38-54-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant fire rhino Screenshot_2023-02-18-23-38-54-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant fire rhino</i>
               Screenshot_2023-02-18-23-38-54-20_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

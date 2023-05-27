@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant stampdragon stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stampdragon/Screenshot_2023-02-23-18-41-58-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stampdragon Screenshot_2023-02-23-18-41-58-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stampdragon</i>
               Screenshot_2023-02-23-18-41-58-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stampdragon/Screenshot_2023-02-23-18-42-02-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stampdragon Screenshot_2023-02-23-18-42-02-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stampdragon</i>
               Screenshot_2023-02-23-18-42-02-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stampdragon/Screenshot_2023-02-23-18-42-07-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stampdragon Screenshot_2023-02-23-18-42-07-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stampdragon</i>
               Screenshot_2023-02-23-18-42-07-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stampdragon/Screenshot_2023-02-23-18-42-10-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stampdragon Screenshot_2023-02-23-18-42-10-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stampdragon</i>
               Screenshot_2023-02-23-18-42-10-54_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stampdragon/Screenshot_2023-02-23-18-42-14-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stampdragon Screenshot_2023-02-23-18-42-14-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stampdragon</i>
               Screenshot_2023-02-23-18-42-14-62_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stampdragon/Screenshot_2023-02-23-18-42-30-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stampdragon Screenshot_2023-02-23-18-42-30-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stampdragon</i>
               Screenshot_2023-02-23-18-42-30-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stampdragon/Screenshot_2023-02-23-18-42-35-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stampdragon Screenshot_2023-02-23-18-42-35-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stampdragon</i>
               Screenshot_2023-02-23-18-42-35-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-stampdragon/Screenshot_2023-02-23-18-42-40-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant stampdragon Screenshot_2023-02-23-18-42-40-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant stampdragon</i>
               Screenshot_2023-02-23-18-42-40-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Wolfspider stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Wolfspider undefined"
             />
-            <figcaption><i>Wolfspider</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Wolfspider</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -99,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-29-33-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Wolfspider Screenshot_2023-02-26-12-29-33-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Wolfspider</i>
               Screenshot_2023-02-26-12-29-33-23_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-29-37-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Wolfspider Screenshot_2023-02-26-12-29-37-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Wolfspider</i>
               Screenshot_2023-02-26-12-29-37-12_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-29-41-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Wolfspider Screenshot_2023-02-26-12-29-41-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Wolfspider</i>
               Screenshot_2023-02-26-12-29-41-28_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-29-46-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Wolfspider Screenshot_2023-02-26-12-29-46-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Wolfspider</i>
               Screenshot_2023-02-26-12-29-46-58_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-29-50-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Wolfspider Screenshot_2023-02-26-12-29-50-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Wolfspider</i>
               Screenshot_2023-02-26-12-29-50-79_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -159,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-29-55-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Wolfspider Screenshot_2023-02-26-12-29-55-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Wolfspider</i>
               Screenshot_2023-02-26-12-29-55-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -171,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-30-00-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Wolfspider Screenshot_2023-02-26-12-30-00-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Wolfspider</i>
               Screenshot_2023-02-26-12-30-00-26_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

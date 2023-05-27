@@ -62,7 +62,7 @@ description: attendant Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Shaman Twinkle stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -127,7 +127,7 @@ description: attendant Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-41-44-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shaman Twinkle Screenshot_2023-02-27-17-41-44-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shaman Twinkle</i>
               Screenshot_2023-02-27-17-41-44-20_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -139,7 +139,7 @@ description: attendant Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-41-48-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shaman Twinkle Screenshot_2023-02-27-17-41-48-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shaman Twinkle</i>
               Screenshot_2023-02-27-17-41-48-36_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -151,7 +151,7 @@ description: attendant Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-41-54-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shaman Twinkle Screenshot_2023-02-27-17-41-54-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shaman Twinkle</i>
               Screenshot_2023-02-27-17-41-54-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -163,7 +163,7 @@ description: attendant Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-41-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shaman Twinkle Screenshot_2023-02-27-17-41-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shaman Twinkle</i>
               Screenshot_2023-02-27-17-41-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -175,7 +175,7 @@ description: attendant Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-42-02-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shaman Twinkle Screenshot_2023-02-27-17-42-02-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shaman Twinkle</i>
               Screenshot_2023-02-27-17-42-02-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -187,7 +187,7 @@ description: attendant Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-42-07-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shaman Twinkle Screenshot_2023-02-27-17-42-07-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shaman Twinkle</i>
               Screenshot_2023-02-27-17-42-07-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -199,7 +199,7 @@ description: attendant Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-42-13-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shaman Twinkle Screenshot_2023-02-27-17-42-13-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shaman Twinkle</i>
               Screenshot_2023-02-27-17-42-13-51_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -211,7 +211,7 @@ description: attendant Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-42-18-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shaman Twinkle Screenshot_2023-02-27-17-42-18-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shaman Twinkle</i>
               Screenshot_2023-02-27-17-42-18-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

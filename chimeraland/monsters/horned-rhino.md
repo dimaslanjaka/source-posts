@@ -63,7 +63,7 @@ description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Horned Rhino stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -128,7 +128,9 @@ description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
               src="https://www.webmanajemen.com/undefined"
               alt="Horned Rhino undefined"
             />
-            <figcaption><i>Horned Rhino</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Horned Rhino</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -137,7 +139,7 @@ description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Rhino Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Rhino</i>
               Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +151,7 @@ description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Rhino Screenshot_2022-07-26-00-29-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Rhino</i>
               Screenshot_2022-07-26-00-29-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +163,7 @@ description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-05-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Rhino Screenshot_2022-07-26-00-29-05-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Rhino</i>
               Screenshot_2022-07-26-00-29-05-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +175,7 @@ description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-11-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Rhino Screenshot_2022-07-26-00-29-11-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Rhino</i>
               Screenshot_2022-07-26-00-29-11-59_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -185,7 +187,7 @@ description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-16-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Rhino Screenshot_2022-07-26-00-29-16-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Rhino</i>
               Screenshot_2022-07-26-00-29-16-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -197,7 +199,7 @@ description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Rhino Screenshot_2022-07-26-00-29-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Rhino</i>
               Screenshot_2022-07-26-00-29-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -209,7 +211,7 @@ description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-rhino/Screenshot_2022-07-30-16-33-39-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Rhino Screenshot_2022-07-30-16-33-39-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Rhino</i>
               Screenshot_2022-07-30-16-33-39-42_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

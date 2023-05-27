@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Rhijin stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-16-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rhijin Screenshot_2022-07-29-21-50-16-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rhijin</i>
               Screenshot_2022-07-29-21-50-16-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-20-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rhijin Screenshot_2022-07-29-21-50-20-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rhijin</i>
               Screenshot_2022-07-29-21-50-20-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-25-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rhijin Screenshot_2022-07-29-21-50-25-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rhijin</i>
               Screenshot_2022-07-29-21-50-25-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rhijin Screenshot_2022-07-29-21-50-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rhijin</i>
               Screenshot_2022-07-29-21-50-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-32-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rhijin Screenshot_2022-07-29-21-50-32-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rhijin</i>
               Screenshot_2022-07-29-21-50-32-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rhijin/Screenshot_2022-07-29-21-50-37-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rhijin Screenshot_2022-07-29-21-50-37-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rhijin</i>
               Screenshot_2022-07-29-21-50-37-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Horsedeer stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Horsedeer undefined"
             />
-            <figcaption><i>Horsedeer</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Horsedeer</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -99,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horsedeer Screenshot_2022-07-15-17-10-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horsedeer</i>
               Screenshot_2022-07-15-17-10-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-20-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horsedeer Screenshot_2022-07-15-17-10-20-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horsedeer</i>
               Screenshot_2022-07-15-17-10-20-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-24-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horsedeer Screenshot_2022-07-15-17-10-24-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horsedeer</i>
               Screenshot_2022-07-15-17-10-24-85_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-29-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horsedeer Screenshot_2022-07-15-17-10-29-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horsedeer</i>
               Screenshot_2022-07-15-17-10-29-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-34-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horsedeer Screenshot_2022-07-15-17-10-34-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horsedeer</i>
               Screenshot_2022-07-15-17-10-34-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -159,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-40-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horsedeer Screenshot_2022-07-15-17-10-40-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horsedeer</i>
               Screenshot_2022-07-15-17-10-40-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -171,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/horsedeer/Screenshot_2023-03-06-13-30-57-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horsedeer Screenshot_2023-03-06-13-30-57-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horsedeer</i>
               Screenshot_2023-03-06-13-30-57-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

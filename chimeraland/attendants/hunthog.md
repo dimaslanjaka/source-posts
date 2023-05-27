@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: hunthog stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/hunthog/Screenshot_2023-02-05-00-40-12-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="hunthog Screenshot_2023-02-05-00-40-12-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>hunthog</i>
               Screenshot_2023-02-05-00-40-12-06_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/hunthog/Screenshot_2023-02-05-00-40-17-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="hunthog Screenshot_2023-02-05-00-40-17-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>hunthog</i>
               Screenshot_2023-02-05-00-40-17-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/hunthog/Screenshot_2023-02-05-00-40-25-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="hunthog Screenshot_2023-02-05-00-40-25-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>hunthog</i>
               Screenshot_2023-02-05-00-40-25-17_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/hunthog/Screenshot_2023-02-05-00-40-34-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="hunthog Screenshot_2023-02-05-00-40-34-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>hunthog</i>
               Screenshot_2023-02-05-00-40-34-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/hunthog/Screenshot_2023-02-05-00-40-39-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="hunthog Screenshot_2023-02-05-00-40-39-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>hunthog</i>
               Screenshot_2023-02-05-00-40-39-30_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/hunthog/Screenshot_2023-02-05-00-40-43-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="hunthog Screenshot_2023-02-05-00-40-43-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>hunthog</i>
               Screenshot_2023-02-05-00-40-43-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

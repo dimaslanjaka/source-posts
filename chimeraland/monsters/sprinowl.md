@@ -52,7 +52,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Sprinowl stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -83,7 +83,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Sprinowl undefined"
             />
-            <figcaption><i>Sprinowl</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Sprinowl</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

@@ -60,7 +60,7 @@ description: monster Palomino Horse default quality Need admin to write (auto
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Palomino Horse stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -125,7 +125,7 @@ description: monster Palomino Horse default quality Need admin to write (auto
               src="https://www.webmanajemen.com/chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-32-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Palomino Horse Screenshot_2022-07-15-11-57-32-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Palomino Horse</i>
               Screenshot_2022-07-15-11-57-32-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ description: monster Palomino Horse default quality Need admin to write (auto
               src="https://www.webmanajemen.com/chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-37-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Palomino Horse Screenshot_2022-07-15-11-57-37-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Palomino Horse</i>
               Screenshot_2022-07-15-11-57-37-84_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ description: monster Palomino Horse default quality Need admin to write (auto
               src="https://www.webmanajemen.com/chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-42-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Palomino Horse Screenshot_2022-07-15-11-57-42-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Palomino Horse</i>
               Screenshot_2022-07-15-11-57-42-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ description: monster Palomino Horse default quality Need admin to write (auto
               src="https://www.webmanajemen.com/chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-47-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Palomino Horse Screenshot_2022-07-15-11-57-47-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Palomino Horse</i>
               Screenshot_2022-07-15-11-57-47-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ description: monster Palomino Horse default quality Need admin to write (auto
               src="https://www.webmanajemen.com/chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-52-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Palomino Horse Screenshot_2022-07-15-11-57-52-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Palomino Horse</i>
               Screenshot_2022-07-15-11-57-52-42_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -185,7 +185,7 @@ description: monster Palomino Horse default quality Need admin to write (auto
               src="https://www.webmanajemen.com/chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-57-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Palomino Horse Screenshot_2022-07-15-11-57-57-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Palomino Horse</i>
               Screenshot_2022-07-15-11-57-57-68_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant ice whale stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-ice-whale/Screenshot_2023-02-16-02-54-17-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant ice whale Screenshot_2023-02-16-02-54-17-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant ice whale</i>
               Screenshot_2023-02-16-02-54-17-22_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-ice-whale/Screenshot_2023-02-16-02-54-25-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant ice whale Screenshot_2023-02-16-02-54-25-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant ice whale</i>
               Screenshot_2023-02-16-02-54-25-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-ice-whale/Screenshot_2023-02-16-02-54-30-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant ice whale Screenshot_2023-02-16-02-54-30-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant ice whale</i>
               Screenshot_2023-02-16-02-54-30-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-ice-whale/Screenshot_2023-02-16-02-54-33-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant ice whale Screenshot_2023-02-16-02-54-33-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant ice whale</i>
               Screenshot_2023-02-16-02-54-33-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-ice-whale/Screenshot_2023-02-16-02-54-42-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant ice whale Screenshot_2023-02-16-02-54-42-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant ice whale</i>
               Screenshot_2023-02-16-02-54-42-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-ice-whale/Screenshot_2023-02-16-02-54-46-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant ice whale Screenshot_2023-02-16-02-54-46-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant ice whale</i>
               Screenshot_2023-02-16-02-54-46-20_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-ice-whale/Screenshot_2023-02-16-02-54-52-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant ice whale Screenshot_2023-02-16-02-54-52-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant ice whale</i>
               Screenshot_2023-02-16-02-54-52-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

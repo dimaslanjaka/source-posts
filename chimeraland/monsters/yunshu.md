@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: yunshu stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/yunshu/Screenshot_2023-02-25-22-05-20-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="yunshu Screenshot_2023-02-25-22-05-20-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>yunshu</i>
               Screenshot_2023-02-25-22-05-20-52_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/yunshu/Screenshot_2023-02-25-22-05-27-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="yunshu Screenshot_2023-02-25-22-05-27-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>yunshu</i>
               Screenshot_2023-02-25-22-05-27-17_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/yunshu/Screenshot_2023-02-25-22-05-33-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="yunshu Screenshot_2023-02-25-22-05-33-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>yunshu</i>
               Screenshot_2023-02-25-22-05-33-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/yunshu/Screenshot_2023-02-25-22-05-37-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="yunshu Screenshot_2023-02-25-22-05-37-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>yunshu</i>
               Screenshot_2023-02-25-22-05-37-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/yunshu/Screenshot_2023-02-25-22-05-44-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="yunshu Screenshot_2023-02-25-22-05-44-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>yunshu</i>
               Screenshot_2023-02-25-22-05-44-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/yunshu/Screenshot_2023-02-25-22-05-50-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="yunshu Screenshot_2023-02-25-22-05-50-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>yunshu</i>
               Screenshot_2023-02-25-22-05-50-34_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/yunshu/Screenshot_2023-02-25-22-05-55-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="yunshu Screenshot_2023-02-25-22-05-55-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>yunshu</i>
               Screenshot_2023-02-25-22-05-55-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/yunshu/Screenshot_2023-02-25-22-06-00-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="yunshu Screenshot_2023-02-25-22-06-00-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>yunshu</i>
               Screenshot_2023-02-25-22-06-00-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

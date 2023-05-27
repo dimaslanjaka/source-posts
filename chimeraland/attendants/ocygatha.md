@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Ocygatha stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-24-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ocygatha Screenshot_2022-07-30-14-35-24-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ocygatha</i>
               Screenshot_2022-07-30-14-35-24-99_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-29-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ocygatha Screenshot_2022-07-30-14-35-29-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ocygatha</i>
               Screenshot_2022-07-30-14-35-29-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ocygatha Screenshot_2022-07-30-14-35-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ocygatha</i>
               Screenshot_2022-07-30-14-35-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-41-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ocygatha Screenshot_2022-07-30-14-35-41-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ocygatha</i>
               Screenshot_2022-07-30-14-35-41-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-45-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ocygatha Screenshot_2022-07-30-14-35-45-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ocygatha</i>
               Screenshot_2022-07-30-14-35-45-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocygatha/Screenshot_2022-07-30-14-35-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ocygatha Screenshot_2022-07-30-14-35-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ocygatha</i>
               Screenshot_2022-07-30-14-35-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -64,7 +64,7 @@ description: "monster Stappo default quality GRADE B ATK 60 HP 64 DEF 56 PvP
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Stappo stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -129,7 +129,9 @@ description: "monster Stappo default quality GRADE B ATK 60 HP 64 DEF 56 PvP
               src="https://www.webmanajemen.com/undefined"
               alt="Stappo undefined"
             />
-            <figcaption><i>Stappo</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Stappo</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -138,7 +140,7 @@ description: "monster Stappo default quality GRADE B ATK 60 HP 64 DEF 56 PvP
               src="https://www.webmanajemen.com/chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-13-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stappo Screenshot_2022-08-18-02-51-13-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stappo</i>
               Screenshot_2022-08-18-02-51-13-46_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +152,7 @@ description: "monster Stappo default quality GRADE B ATK 60 HP 64 DEF 56 PvP
               src="https://www.webmanajemen.com/chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-17-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stappo Screenshot_2022-08-18-02-51-17-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stappo</i>
               Screenshot_2022-08-18-02-51-17-73_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +164,7 @@ description: "monster Stappo default quality GRADE B ATK 60 HP 64 DEF 56 PvP
               src="https://www.webmanajemen.com/chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-21-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stappo Screenshot_2022-08-18-02-51-21-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stappo</i>
               Screenshot_2022-08-18-02-51-21-38_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +176,7 @@ description: "monster Stappo default quality GRADE B ATK 60 HP 64 DEF 56 PvP
               src="https://www.webmanajemen.com/chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-25-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stappo Screenshot_2022-08-18-02-51-25-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stappo</i>
               Screenshot_2022-08-18-02-51-25-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -186,7 +188,7 @@ description: "monster Stappo default quality GRADE B ATK 60 HP 64 DEF 56 PvP
               src="https://www.webmanajemen.com/chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-30-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stappo Screenshot_2022-08-18-02-51-30-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stappo</i>
               Screenshot_2022-08-18-02-51-30-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -198,7 +200,7 @@ description: "monster Stappo default quality GRADE B ATK 60 HP 64 DEF 56 PvP
               src="https://www.webmanajemen.com/chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-33-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stappo Screenshot_2022-08-18-02-51-33-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stappo</i>
               Screenshot_2022-08-18-02-51-33-97_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -210,7 +212,7 @@ description: "monster Stappo default quality GRADE B ATK 60 HP 64 DEF 56 PvP
               src="https://www.webmanajemen.com/chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-39-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stappo Screenshot_2022-08-18-02-51-39-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stappo</i>
               Screenshot_2022-08-18-02-51-39-56_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -222,7 +224,7 @@ description: "monster Stappo default quality GRADE B ATK 60 HP 64 DEF 56 PvP
               src="https://www.webmanajemen.com/chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Stappo Screenshot_2022-08-18-02-51-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Stappo</i>
               Screenshot_2022-08-18-02-51-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

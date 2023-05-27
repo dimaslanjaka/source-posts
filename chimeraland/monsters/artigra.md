@@ -140,7 +140,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: artigra stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -227,7 +227,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-16-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-16-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -239,7 +239,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-40-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-16-40-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-16-40-41_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -251,7 +251,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-46-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-16-46-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-16-46-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -263,7 +263,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-50-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-16-50-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-16-50-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -275,7 +275,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-54-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-16-54-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-16-54-92_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -287,7 +287,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-59-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-16-59-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-16-59-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -299,7 +299,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-17-09-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-17-09-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-17-09-42_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -311,7 +311,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-17-15-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-17-15-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-17-15-51_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -323,7 +323,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-17-23-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-17-23-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-17-23-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -335,7 +335,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-17-46-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-17-46-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-17-46-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -347,7 +347,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-00-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-18-00-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-18-00-14_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -359,7 +359,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-06-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-18-06-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-18-06-62_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -371,7 +371,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-17-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-18-17-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-18-17-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -383,7 +383,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-22-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-18-22-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-18-22-91_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -395,7 +395,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-38-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-18-38-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-18-38-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -407,7 +407,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-46-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-18-46-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-18-46-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -419,7 +419,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-51-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-18-51-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-18-51-23_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -431,7 +431,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-18-57-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-18-57-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-18-57-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -443,7 +443,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-07-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-19-07-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-19-07-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -455,7 +455,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-13-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-19-13-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-19-13-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -467,7 +467,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-21-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-19-21-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-19-21-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -479,7 +479,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-29-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-19-29-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-19-29-16_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -491,7 +491,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-43-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-19-43-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-19-43-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -503,7 +503,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-47-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-19-47-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-19-47-23_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -515,7 +515,7 @@ description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
               src="https://www.webmanajemen.com/chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-51-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="artigra Screenshot_2023-03-14-17-19-51-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>artigra</i>
               Screenshot_2023-03-14-17-19-51-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

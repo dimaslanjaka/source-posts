@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: bloodskapper stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-39-43-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bloodskapper Screenshot_2023-03-03-22-39-43-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bloodskapper</i>
               Screenshot_2023-03-03-22-39-43-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-39-47-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bloodskapper Screenshot_2023-03-03-22-39-47-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bloodskapper</i>
               Screenshot_2023-03-03-22-39-47-69_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-39-51-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bloodskapper Screenshot_2023-03-03-22-39-51-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bloodskapper</i>
               Screenshot_2023-03-03-22-39-51-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-39-55-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bloodskapper Screenshot_2023-03-03-22-39-55-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bloodskapper</i>
               Screenshot_2023-03-03-22-39-55-06_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-39-59-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bloodskapper Screenshot_2023-03-03-22-39-59-27_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bloodskapper</i>
               Screenshot_2023-03-03-22-39-59-27_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-40-03-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bloodskapper Screenshot_2023-03-03-22-40-03-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bloodskapper</i>
               Screenshot_2023-03-03-22-40-03-45_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-40-07-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bloodskapper Screenshot_2023-03-03-22-40-07-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bloodskapper</i>
               Screenshot_2023-03-03-22-40-07-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-40-11-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bloodskapper Screenshot_2023-03-03-22-40-11-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bloodskapper</i>
               Screenshot_2023-03-03-22-40-11-64_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

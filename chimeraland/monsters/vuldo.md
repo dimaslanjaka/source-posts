@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Vuldo stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Vuldo undefined"
             />
-            <figcaption><i>Vuldo</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Vuldo</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -99,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-33-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vuldo Screenshot_2022-07-18-01-10-33-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vuldo</i>
               Screenshot_2022-07-18-01-10-33-55_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-37-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vuldo Screenshot_2022-07-18-01-10-37-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vuldo</i>
               Screenshot_2022-07-18-01-10-37-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-41-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vuldo Screenshot_2022-07-18-01-10-41-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vuldo</i>
               Screenshot_2022-07-18-01-10-41-17_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-44-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vuldo Screenshot_2022-07-18-01-10-44-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vuldo</i>
               Screenshot_2022-07-18-01-10-44-64_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vuldo Screenshot_2022-07-18-01-10-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vuldo</i>
               Screenshot_2022-07-18-01-10-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -159,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-52-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vuldo Screenshot_2022-07-18-01-10-52-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vuldo</i>
               Screenshot_2022-07-18-01-10-52-61_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -171,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/vuldo/Screenshot_2022-07-29-00-21-28-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vuldo Screenshot_2022-07-29-00-21-28-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vuldo</i>
               Screenshot_2022-07-29-00-21-28-82_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

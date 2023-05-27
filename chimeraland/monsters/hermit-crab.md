@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: hermit crab stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-14-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="hermit crab Screenshot_2022-11-14-11-17-14-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>hermit crab</i>
               Screenshot_2022-11-14-11-17-14-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-19-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="hermit crab Screenshot_2022-11-14-11-17-19-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>hermit crab</i>
               Screenshot_2022-11-14-11-17-19-90_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-24-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="hermit crab Screenshot_2022-11-14-11-17-24-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>hermit crab</i>
               Screenshot_2022-11-14-11-17-24-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-31-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="hermit crab Screenshot_2022-11-14-11-17-31-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>hermit crab</i>
               Screenshot_2022-11-14-11-17-31-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-37-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="hermit crab Screenshot_2022-11-14-11-17-37-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>hermit crab</i>
               Screenshot_2022-11-14-11-17-37-46_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-42-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="hermit crab Screenshot_2022-11-14-11-17-42-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>hermit crab</i>
               Screenshot_2022-11-14-11-17-42-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-53-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="hermit crab Screenshot_2022-11-14-11-17-53-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>hermit crab</i>
               Screenshot_2022-11-14-11-17-53-46_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-57-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="hermit crab Screenshot_2022-11-14-11-17-57-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>hermit crab</i>
               Screenshot_2022-11-14-11-17-57-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -53,7 +53,7 @@ description: attendant Shaman Regni default quality GRADE C ATK 60 HP 60 DEF 60
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Shaman Regni stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>

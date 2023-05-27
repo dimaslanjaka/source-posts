@@ -54,7 +54,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Noble Serpent stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -85,7 +85,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/noble-serpent/chimeraland-noble-serpent-evolve-featured.webp"
               alt="Noble Serpent chimeraland-noble-serpent-evolve-featured.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Noble Serpent</i>
               chimeraland-noble-serpent-evolve-featured.webp.
             </figcaption>

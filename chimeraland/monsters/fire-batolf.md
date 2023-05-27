@@ -62,7 +62,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Fire Batolf stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -93,7 +93,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Fire Batolf undefined"
             />
-            <figcaption><i>Fire Batolf</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Fire Batolf</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -102,7 +104,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-37-52-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fire Batolf Screenshot_2022-08-12-23-37-52-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fire Batolf</i>
               Screenshot_2022-08-12-23-37-52-41_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +116,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-37-57-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fire Batolf Screenshot_2022-08-12-23-37-57-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fire Batolf</i>
               Screenshot_2022-08-12-23-37-57-17_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +128,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-02-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fire Batolf Screenshot_2022-08-12-23-38-02-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fire Batolf</i>
               Screenshot_2022-08-12-23-38-02-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +140,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-07-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fire Batolf Screenshot_2022-08-12-23-38-07-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fire Batolf</i>
               Screenshot_2022-08-12-23-38-07-10_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +152,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-11-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fire Batolf Screenshot_2022-08-12-23-38-11-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fire Batolf</i>
               Screenshot_2022-08-12-23-38-11-97_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +164,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-16-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fire Batolf Screenshot_2022-08-12-23-38-16-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fire Batolf</i>
               Screenshot_2022-08-12-23-38-16-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +176,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fire Batolf Screenshot_2022-08-12-23-38-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fire Batolf</i>
               Screenshot_2022-08-12-23-38-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -186,7 +188,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-27-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Fire Batolf Screenshot_2022-08-12-23-38-27-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Fire Batolf</i>
               Screenshot_2022-08-12-23-38-27-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

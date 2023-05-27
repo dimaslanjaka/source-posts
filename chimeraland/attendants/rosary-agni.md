@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: rosary agni stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-35-55-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary agni Screenshot_2023-02-15-01-35-55-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary agni</i>
               Screenshot_2023-02-15-01-35-55-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-36-00-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary agni Screenshot_2023-02-15-01-36-00-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary agni</i>
               Screenshot_2023-02-15-01-36-00-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-36-04-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary agni Screenshot_2023-02-15-01-36-04-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary agni</i>
               Screenshot_2023-02-15-01-36-04-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-36-08-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary agni Screenshot_2023-02-15-01-36-08-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary agni</i>
               Screenshot_2023-02-15-01-36-08-69_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-36-13-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary agni Screenshot_2023-02-15-01-36-13-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary agni</i>
               Screenshot_2023-02-15-01-36-13-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-36-18-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary agni Screenshot_2023-02-15-01-36-18-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary agni</i>
               Screenshot_2023-02-15-01-36-18-60_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-36-23-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary agni Screenshot_2023-02-15-01-36-23-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary agni</i>
               Screenshot_2023-02-15-01-36-23-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: afslaer stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-12-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="afslaer Screenshot_2023-03-04-01-58-12-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>afslaer</i>
               Screenshot_2023-03-04-01-58-12-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-15-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="afslaer Screenshot_2023-03-04-01-58-15-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>afslaer</i>
               Screenshot_2023-03-04-01-58-15-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-18-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="afslaer Screenshot_2023-03-04-01-58-18-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>afslaer</i>
               Screenshot_2023-03-04-01-58-18-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-22-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="afslaer Screenshot_2023-03-04-01-58-22-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>afslaer</i>
               Screenshot_2023-03-04-01-58-22-36_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-26-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="afslaer Screenshot_2023-03-04-01-58-26-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>afslaer</i>
               Screenshot_2023-03-04-01-58-26-34_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-32-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="afslaer Screenshot_2023-03-04-01-58-32-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>afslaer</i>
               Screenshot_2023-03-04-01-58-32-56_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="afslaer Screenshot_2023-03-04-01-58-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>afslaer</i>
               Screenshot_2023-03-04-01-58-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-54-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="afslaer Screenshot_2023-03-04-01-58-54-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>afslaer</i>
               Screenshot_2023-03-04-01-58-54-60_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

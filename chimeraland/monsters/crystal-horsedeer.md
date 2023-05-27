@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: crystal horsedeer stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-06-31-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="crystal horsedeer Screenshot_2023-02-23-17-06-31-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>crystal horsedeer</i>
               Screenshot_2023-02-23-17-06-31-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-06-35-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="crystal horsedeer Screenshot_2023-02-23-17-06-35-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>crystal horsedeer</i>
               Screenshot_2023-02-23-17-06-35-21_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-06-38-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="crystal horsedeer Screenshot_2023-02-23-17-06-38-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>crystal horsedeer</i>
               Screenshot_2023-02-23-17-06-38-82_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-06-43-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="crystal horsedeer Screenshot_2023-02-23-17-06-43-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>crystal horsedeer</i>
               Screenshot_2023-02-23-17-06-43-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-06-47-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="crystal horsedeer Screenshot_2023-02-23-17-06-47-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>crystal horsedeer</i>
               Screenshot_2023-02-23-17-06-47-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-06-54-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="crystal horsedeer Screenshot_2023-02-23-17-06-54-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>crystal horsedeer</i>
               Screenshot_2023-02-23-17-06-54-15_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-07-10-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="crystal horsedeer Screenshot_2023-02-23-17-07-10-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>crystal horsedeer</i>
               Screenshot_2023-02-23-17-07-10-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

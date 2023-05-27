@@ -63,7 +63,7 @@ description: "monster Pinchpion default quality GRADE B ATK 63 HP 66 DEF 54
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Pinchpion stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -128,7 +128,9 @@ description: "monster Pinchpion default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/undefined"
               alt="Pinchpion undefined"
             />
-            <figcaption><i>Pinchpion</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Pinchpion</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -137,7 +139,7 @@ description: "monster Pinchpion default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191501.webp"
               alt="Pinchpion Screenshot 2022-08-09 191501.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Pinchpion</i> Screenshot 2022-08-09 191501.webp.
             </figcaption>
           </figure>
@@ -148,7 +150,7 @@ description: "monster Pinchpion default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191639.webp"
               alt="Pinchpion Screenshot 2022-08-09 191639.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Pinchpion</i> Screenshot 2022-08-09 191639.webp.
             </figcaption>
           </figure>
@@ -159,7 +161,7 @@ description: "monster Pinchpion default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191659.webp"
               alt="Pinchpion Screenshot 2022-08-09 191659.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Pinchpion</i> Screenshot 2022-08-09 191659.webp.
             </figcaption>
           </figure>
@@ -170,7 +172,7 @@ description: "monster Pinchpion default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191724.webp"
               alt="Pinchpion Screenshot 2022-08-09 191724.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Pinchpion</i> Screenshot 2022-08-09 191724.webp.
             </figcaption>
           </figure>
@@ -181,7 +183,7 @@ description: "monster Pinchpion default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191741.webp"
               alt="Pinchpion Screenshot 2022-08-09 191741.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Pinchpion</i> Screenshot 2022-08-09 191741.webp.
             </figcaption>
           </figure>
@@ -192,7 +194,7 @@ description: "monster Pinchpion default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191802.webp"
               alt="Pinchpion Screenshot 2022-08-09 191802.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Pinchpion</i> Screenshot 2022-08-09 191802.webp.
             </figcaption>
           </figure>
@@ -203,7 +205,7 @@ description: "monster Pinchpion default quality GRADE B ATK 63 HP 66 DEF 54
               src="https://www.webmanajemen.com/chimeraland/monsters/pinchpion/Screenshot%202022-08-09%20191821.webp"
               alt="Pinchpion Screenshot 2022-08-09 191821.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Pinchpion</i> Screenshot 2022-08-09 191821.webp.
             </figcaption>
           </figure>

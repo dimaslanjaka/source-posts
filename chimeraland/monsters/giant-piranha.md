@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant piranha stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-34-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant piranha Screenshot_2023-03-20-20-43-34-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant piranha</i>
               Screenshot_2023-03-20-20-43-34-20_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-37-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant piranha Screenshot_2023-03-20-20-43-37-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant piranha</i>
               Screenshot_2023-03-20-20-43-37-73_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-41-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant piranha Screenshot_2023-03-20-20-43-41-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant piranha</i>
               Screenshot_2023-03-20-20-43-41-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-45-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant piranha Screenshot_2023-03-20-20-43-45-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant piranha</i>
               Screenshot_2023-03-20-20-43-45-34_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-50-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant piranha Screenshot_2023-03-20-20-43-50-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant piranha</i>
               Screenshot_2023-03-20-20-43-50-62_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-55-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant piranha Screenshot_2023-03-20-20-43-55-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant piranha</i>
               Screenshot_2023-03-20-20-43-55-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-44-01-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant piranha Screenshot_2023-03-20-20-44-01-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant piranha</i>
               Screenshot_2023-03-20-20-44-01-04_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

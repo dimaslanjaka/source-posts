@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: ocywalka stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="ocywalka Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>ocywalka</i>
               Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-20-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="ocywalka Screenshot_2023-02-28-19-41-20-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>ocywalka</i>
               Screenshot_2023-02-28-19-41-20-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-26-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="ocywalka Screenshot_2023-02-28-19-41-26-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>ocywalka</i>
               Screenshot_2023-02-28-19-41-26-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-32-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="ocywalka Screenshot_2023-02-28-19-41-32-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>ocywalka</i>
               Screenshot_2023-02-28-19-41-32-59_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-36-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="ocywalka Screenshot_2023-02-28-19-41-36-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>ocywalka</i>
               Screenshot_2023-02-28-19-41-36-79_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-41-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="ocywalka Screenshot_2023-02-28-19-41-41-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>ocywalka</i>
               Screenshot_2023-02-28-19-41-41-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="ocywalka Screenshot_2023-02-28-19-41-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>ocywalka</i>
               Screenshot_2023-02-28-19-41-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="ocywalka Screenshot_2023-02-28-19-41-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>ocywalka</i>
               Screenshot_2023-02-28-19-41-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

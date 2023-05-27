@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: portotrog stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-19-56-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="portotrog Screenshot_2023-02-18-01-19-56-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>portotrog</i>
               Screenshot_2023-02-18-01-19-56-20_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-19-59-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="portotrog Screenshot_2023-02-18-01-19-59-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>portotrog</i>
               Screenshot_2023-02-18-01-19-59-97_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-20-05-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="portotrog Screenshot_2023-02-18-01-20-05-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>portotrog</i>
               Screenshot_2023-02-18-01-20-05-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-20-08-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="portotrog Screenshot_2023-02-18-01-20-08-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>portotrog</i>
               Screenshot_2023-02-18-01-20-08-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-20-13-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="portotrog Screenshot_2023-02-18-01-20-13-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>portotrog</i>
               Screenshot_2023-02-18-01-20-13-12_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-20-17-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="portotrog Screenshot_2023-02-18-01-20-17-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>portotrog</i>
               Screenshot_2023-02-18-01-20-17-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-20-23-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="portotrog Screenshot_2023-02-18-01-20-23-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>portotrog</i>
               Screenshot_2023-02-18-01-20-23-28_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-20-27-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="portotrog Screenshot_2023-02-18-01-20-27-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>portotrog</i>
               Screenshot_2023-02-18-01-20-27-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

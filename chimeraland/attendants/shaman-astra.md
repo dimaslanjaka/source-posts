@@ -60,7 +60,7 @@ description: attendant Shaman Astra default quality GRADE C ATK 60 HP 60 DEF 60
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Shaman Astra stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -125,7 +125,7 @@ description: attendant Shaman Astra default quality GRADE C ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-40-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shaman Astra Screenshot_2022-07-17-22-36-40-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shaman Astra</i>
               Screenshot_2022-07-17-22-36-40-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ description: attendant Shaman Astra default quality GRADE C ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-44-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shaman Astra Screenshot_2022-07-17-22-36-44-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shaman Astra</i>
               Screenshot_2022-07-17-22-36-44-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ description: attendant Shaman Astra default quality GRADE C ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-48-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shaman Astra Screenshot_2022-07-17-22-36-48-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shaman Astra</i>
               Screenshot_2022-07-17-22-36-48-85_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ description: attendant Shaman Astra default quality GRADE C ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-52-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shaman Astra Screenshot_2022-07-17-22-36-52-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shaman Astra</i>
               Screenshot_2022-07-17-22-36-52-69_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ description: attendant Shaman Astra default quality GRADE C ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shaman Astra Screenshot_2022-07-17-22-36-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shaman Astra</i>
               Screenshot_2022-07-17-22-36-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -185,7 +185,7 @@ description: attendant Shaman Astra default quality GRADE C ATK 60 HP 60 DEF 60
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-37-00-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shaman Astra Screenshot_2022-07-17-22-37-00-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shaman Astra</i>
               Screenshot_2022-07-17-22-37-00-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

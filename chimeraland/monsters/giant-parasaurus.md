@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant parasaurus stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-parasaurus/Screenshot_2023-02-18-16-33-14-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant parasaurus Screenshot_2023-02-18-16-33-14-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant parasaurus</i>
               Screenshot_2023-02-18-16-33-14-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-parasaurus/Screenshot_2023-02-18-16-33-19-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant parasaurus Screenshot_2023-02-18-16-33-19-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant parasaurus</i>
               Screenshot_2023-02-18-16-33-19-82_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-parasaurus/Screenshot_2023-02-18-16-33-24-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant parasaurus Screenshot_2023-02-18-16-33-24-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant parasaurus</i>
               Screenshot_2023-02-18-16-33-24-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-parasaurus/Screenshot_2023-02-18-16-33-27-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant parasaurus Screenshot_2023-02-18-16-33-27-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant parasaurus</i>
               Screenshot_2023-02-18-16-33-27-97_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-parasaurus/Screenshot_2023-02-18-16-33-33-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant parasaurus Screenshot_2023-02-18-16-33-33-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant parasaurus</i>
               Screenshot_2023-02-18-16-33-33-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-parasaurus/Screenshot_2023-02-18-16-33-37-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant parasaurus Screenshot_2023-02-18-16-33-37-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant parasaurus</i>
               Screenshot_2023-02-18-16-33-37-69_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-parasaurus/Screenshot_2023-02-18-16-33-42-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant parasaurus Screenshot_2023-02-18-16-33-42-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant parasaurus</i>
               Screenshot_2023-02-18-16-33-42-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

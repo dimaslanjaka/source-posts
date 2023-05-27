@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Rosary Aquatine stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-49-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rosary Aquatine Screenshot_2022-07-29-21-52-49-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rosary Aquatine</i>
               Screenshot_2022-07-29-21-52-49-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-52-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rosary Aquatine Screenshot_2022-07-29-21-52-52-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rosary Aquatine</i>
               Screenshot_2022-07-29-21-52-52-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-58-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rosary Aquatine Screenshot_2022-07-29-21-52-58-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rosary Aquatine</i>
               Screenshot_2022-07-29-21-52-58-46_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-53-01-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rosary Aquatine Screenshot_2022-07-29-21-53-01-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rosary Aquatine</i>
               Screenshot_2022-07-29-21-53-01-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-53-04-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rosary Aquatine Screenshot_2022-07-29-21-53-04-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rosary Aquatine</i>
               Screenshot_2022-07-29-21-53-04-68_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-53-08-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Rosary Aquatine Screenshot_2022-07-29-21-53-08-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Rosary Aquatine</i>
               Screenshot_2022-07-29-21-53-08-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

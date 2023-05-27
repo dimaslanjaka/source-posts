@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: aa-aqui stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-07-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="aa-aqui Screenshot_2022-11-25-05-07-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>aa-aqui</i>
               Screenshot_2022-11-25-05-07-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-07-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="aa-aqui Screenshot_2022-11-25-05-07-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>aa-aqui</i>
               Screenshot_2022-11-25-05-07-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-07-57-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="aa-aqui Screenshot_2022-11-25-05-07-57-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>aa-aqui</i>
               Screenshot_2022-11-25-05-07-57-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-08-02-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="aa-aqui Screenshot_2022-11-25-05-08-02-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>aa-aqui</i>
               Screenshot_2022-11-25-05-08-02-26_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-08-11-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="aa-aqui Screenshot_2022-11-25-05-08-11-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>aa-aqui</i>
               Screenshot_2022-11-25-05-08-11-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-08-17-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="aa-aqui Screenshot_2022-11-25-05-08-17-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>aa-aqui</i>
               Screenshot_2022-11-25-05-08-17-58_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/aa-aqui/Screenshot_2022-11-25-05-08-22-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="aa-aqui Screenshot_2022-11-25-05-08-22-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>aa-aqui</i>
               Screenshot_2022-11-25-05-08-22-64_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

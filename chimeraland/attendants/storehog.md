@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: storehog stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/storehog/Screenshot_2023-02-05-12-50-53-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="storehog Screenshot_2023-02-05-12-50-53-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>storehog</i>
               Screenshot_2023-02-05-12-50-53-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/storehog/Screenshot_2023-02-05-12-50-58-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="storehog Screenshot_2023-02-05-12-50-58-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>storehog</i>
               Screenshot_2023-02-05-12-50-58-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/storehog/Screenshot_2023-02-05-12-51-02-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="storehog Screenshot_2023-02-05-12-51-02-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>storehog</i>
               Screenshot_2023-02-05-12-51-02-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/storehog/Screenshot_2023-02-05-12-51-06-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="storehog Screenshot_2023-02-05-12-51-06-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>storehog</i>
               Screenshot_2023-02-05-12-51-06-89_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/storehog/Screenshot_2023-02-05-12-51-10-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="storehog Screenshot_2023-02-05-12-51-10-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>storehog</i>
               Screenshot_2023-02-05-12-51-10-91_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/storehog/Screenshot_2023-02-05-12-51-14-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="storehog Screenshot_2023-02-05-12-51-14-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>storehog</i>
               Screenshot_2023-02-05-12-51-14-60_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

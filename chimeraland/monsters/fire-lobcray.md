@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: fire lobcray stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-13-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="fire lobcray Screenshot_2023-04-02-10-27-13-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>fire lobcray</i>
               Screenshot_2023-04-02-10-27-13-73_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-17-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="fire lobcray Screenshot_2023-04-02-10-27-17-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>fire lobcray</i>
               Screenshot_2023-04-02-10-27-17-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-25-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="fire lobcray Screenshot_2023-04-02-10-27-25-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>fire lobcray</i>
               Screenshot_2023-04-02-10-27-25-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-29-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="fire lobcray Screenshot_2023-04-02-10-27-29-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>fire lobcray</i>
               Screenshot_2023-04-02-10-27-29-67_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-35-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="fire lobcray Screenshot_2023-04-02-10-27-35-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>fire lobcray</i>
               Screenshot_2023-04-02-10-27-35-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-40-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="fire lobcray Screenshot_2023-04-02-10-27-40-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>fire lobcray</i>
               Screenshot_2023-04-02-10-27-40-14_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-44-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="fire lobcray Screenshot_2023-04-02-10-27-44-63_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>fire lobcray</i>
               Screenshot_2023-04-02-10-27-44-63_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

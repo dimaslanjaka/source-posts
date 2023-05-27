@@ -60,7 +60,7 @@ description: attendant Shahoragai default quality GRADE C ATK 58 HP 63 DEF 59
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Shahoragai stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -125,7 +125,7 @@ description: attendant Shahoragai default quality GRADE C ATK 58 HP 63 DEF 59
               src="https://www.webmanajemen.com/chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-20-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shahoragai Screenshot_2022-07-17-22-35-20-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shahoragai</i>
               Screenshot_2022-07-17-22-35-20-42_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ description: attendant Shahoragai default quality GRADE C ATK 58 HP 63 DEF 59
               src="https://www.webmanajemen.com/chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-23-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shahoragai Screenshot_2022-07-17-22-35-23-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shahoragai</i>
               Screenshot_2022-07-17-22-35-23-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ description: attendant Shahoragai default quality GRADE C ATK 58 HP 63 DEF 59
               src="https://www.webmanajemen.com/chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-27-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shahoragai Screenshot_2022-07-17-22-35-27-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shahoragai</i>
               Screenshot_2022-07-17-22-35-27-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ description: attendant Shahoragai default quality GRADE C ATK 58 HP 63 DEF 59
               src="https://www.webmanajemen.com/chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-31-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shahoragai Screenshot_2022-07-17-22-35-31-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shahoragai</i>
               Screenshot_2022-07-17-22-35-31-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ description: attendant Shahoragai default quality GRADE C ATK 58 HP 63 DEF 59
               src="https://www.webmanajemen.com/chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-35-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shahoragai Screenshot_2022-07-17-22-35-35-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shahoragai</i>
               Screenshot_2022-07-17-22-35-35-28_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -185,7 +185,7 @@ description: attendant Shahoragai default quality GRADE C ATK 58 HP 63 DEF 59
               src="https://www.webmanajemen.com/chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-40-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Shahoragai Screenshot_2022-07-17-22-35-40-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Shahoragai</i>
               Screenshot_2022-07-17-22-35-40-68_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

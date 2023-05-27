@@ -52,7 +52,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Frost Litiger stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -83,7 +83,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Frost Litiger undefined"
             />
-            <figcaption><i>Frost Litiger</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Frost Litiger</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

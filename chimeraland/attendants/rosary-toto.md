@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: rosary toto stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-toto/Screenshot_2022-11-11-10-18-27-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary toto Screenshot_2022-11-11-10-18-27-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary toto</i>
               Screenshot_2022-11-11-10-18-27-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-toto/Screenshot_2022-11-11-10-18-31-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary toto Screenshot_2022-11-11-10-18-31-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary toto</i>
               Screenshot_2022-11-11-10-18-31-28_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-toto/Screenshot_2022-11-11-10-18-39-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary toto Screenshot_2022-11-11-10-18-39-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary toto</i>
               Screenshot_2022-11-11-10-18-39-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-toto/Screenshot_2022-11-11-10-18-45-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary toto Screenshot_2022-11-11-10-18-45-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary toto</i>
               Screenshot_2022-11-11-10-18-45-42_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-toto/Screenshot_2022-11-11-10-18-50-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary toto Screenshot_2022-11-11-10-18-50-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary toto</i>
               Screenshot_2022-11-11-10-18-50-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/rosary-toto/Screenshot_2022-11-11-10-18-56-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="rosary toto Screenshot_2022-11-11-10-18-56-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>rosary toto</i>
               Screenshot_2022-11-11-10-18-56-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

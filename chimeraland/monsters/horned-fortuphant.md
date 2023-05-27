@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Horned Fortuphant stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Horned Fortuphant undefined"
             />
-            <figcaption><i>Horned Fortuphant</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Horned Fortuphant</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -99,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-fortuphant/Screenshot_2023-02-16-01-40-48-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Fortuphant Screenshot_2023-02-16-01-40-48-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Fortuphant</i>
               Screenshot_2023-02-16-01-40-48-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-fortuphant/Screenshot_2023-02-16-01-40-52-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Fortuphant Screenshot_2023-02-16-01-40-52-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Fortuphant</i>
               Screenshot_2023-02-16-01-40-52-16_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-fortuphant/Screenshot_2023-02-16-01-40-56-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Fortuphant Screenshot_2023-02-16-01-40-56-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Fortuphant</i>
               Screenshot_2023-02-16-01-40-56-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-fortuphant/Screenshot_2023-02-16-01-40-59-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Fortuphant Screenshot_2023-02-16-01-40-59-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Fortuphant</i>
               Screenshot_2023-02-16-01-40-59-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-fortuphant/Screenshot_2023-02-16-01-41-04-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Fortuphant Screenshot_2023-02-16-01-41-04-82_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Fortuphant</i>
               Screenshot_2023-02-16-01-41-04-82_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -159,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-fortuphant/Screenshot_2023-02-16-01-41-09-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Fortuphant Screenshot_2023-02-16-01-41-09-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Fortuphant</i>
               Screenshot_2023-02-16-01-41-09-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -171,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-fortuphant/Screenshot_2023-02-16-01-41-13-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Fortuphant Screenshot_2023-02-16-01-41-13-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Fortuphant</i>
               Screenshot_2023-02-16-01-41-13-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

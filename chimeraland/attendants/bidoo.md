@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: bidoo stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-26-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bidoo Screenshot_2023-02-25-13-34-26-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bidoo</i>
               Screenshot_2023-02-25-13-34-26-26_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-30-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bidoo Screenshot_2023-02-25-13-34-30-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bidoo</i>
               Screenshot_2023-02-25-13-34-30-45_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-34-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bidoo Screenshot_2023-02-25-13-34-34-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bidoo</i>
               Screenshot_2023-02-25-13-34-34-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-38-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bidoo Screenshot_2023-02-25-13-34-38-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bidoo</i>
               Screenshot_2023-02-25-13-34-38-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-43-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bidoo Screenshot_2023-02-25-13-34-43-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bidoo</i>
               Screenshot_2023-02-25-13-34-43-16_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-49-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bidoo Screenshot_2023-02-25-13-34-49-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bidoo</i>
               Screenshot_2023-02-25-13-34-49-34_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-53-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bidoo Screenshot_2023-02-25-13-34-53-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bidoo</i>
               Screenshot_2023-02-25-13-34-53-68_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-57-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bidoo Screenshot_2023-02-25-13-34-57-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bidoo</i>
               Screenshot_2023-02-25-13-34-57-70_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

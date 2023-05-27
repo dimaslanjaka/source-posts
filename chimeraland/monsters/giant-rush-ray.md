@@ -61,7 +61,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant rush ray stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -92,7 +92,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-02-29-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant rush ray Screenshot_2023-02-23-11-02-29-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant rush ray</i>
               Screenshot_2023-02-23-11-02-29-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -104,7 +104,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-02-33-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant rush ray Screenshot_2023-02-23-11-02-33-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant rush ray</i>
               Screenshot_2023-02-23-11-02-33-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -116,7 +116,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-02-37-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant rush ray Screenshot_2023-02-23-11-02-37-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant rush ray</i>
               Screenshot_2023-02-23-11-02-37-60_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -128,7 +128,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-02-41-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant rush ray Screenshot_2023-02-23-11-02-41-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant rush ray</i>
               Screenshot_2023-02-23-11-02-41-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -140,7 +140,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-02-46-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant rush ray Screenshot_2023-02-23-11-02-46-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant rush ray</i>
               Screenshot_2023-02-23-11-02-46-22_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -152,7 +152,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-02-50-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant rush ray Screenshot_2023-02-23-11-02-50-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant rush ray</i>
               Screenshot_2023-02-23-11-02-50-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -164,7 +164,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-02-54-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant rush ray Screenshot_2023-02-23-11-02-54-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant rush ray</i>
               Screenshot_2023-02-23-11-02-54-92_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -176,7 +176,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-03-02-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant rush ray Screenshot_2023-02-23-11-03-02-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant rush ray</i>
               Screenshot_2023-02-23-11-03-02-62_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -188,7 +188,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-03-08-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant rush ray Screenshot_2023-02-23-11-03-08-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant rush ray</i>
               Screenshot_2023-02-23-11-03-08-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -200,7 +200,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-03-13-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant rush ray Screenshot_2023-02-23-11-03-13-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant rush ray</i>
               Screenshot_2023-02-23-11-03-13-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

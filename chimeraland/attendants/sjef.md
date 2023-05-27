@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: sjef stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/sjef/Screenshot_2023-02-10-02-42-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="sjef Screenshot_2023-02-10-02-42-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>sjef</i>
               Screenshot_2023-02-10-02-42-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/sjef/Screenshot_2023-02-10-02-42-20-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="sjef Screenshot_2023-02-10-02-42-20-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>sjef</i>
               Screenshot_2023-02-10-02-42-20-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/sjef/Screenshot_2023-02-10-02-42-23-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="sjef Screenshot_2023-02-10-02-42-23-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>sjef</i>
               Screenshot_2023-02-10-02-42-23-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/sjef/Screenshot_2023-02-10-02-42-28-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="sjef Screenshot_2023-02-10-02-42-28-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>sjef</i>
               Screenshot_2023-02-10-02-42-28-12_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/sjef/Screenshot_2023-02-10-02-42-32-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="sjef Screenshot_2023-02-10-02-42-32-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>sjef</i>
               Screenshot_2023-02-10-02-42-32-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/sjef/Screenshot_2023-02-10-02-42-38-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="sjef Screenshot_2023-02-10-02-42-38-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>sjef</i>
               Screenshot_2023-02-10-02-42-38-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

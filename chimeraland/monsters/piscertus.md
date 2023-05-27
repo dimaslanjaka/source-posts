@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Piscertus stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Piscertus undefined"
             />
-            <figcaption><i>Piscertus</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Piscertus</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -98,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-18-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Piscertus Screenshot_2022-07-15-16-59-18-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Piscertus</i>
               Screenshot_2022-07-15-16-59-18-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -110,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-24-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Piscertus Screenshot_2022-07-15-16-59-24-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Piscertus</i>
               Screenshot_2022-07-15-16-59-24-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -122,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-28-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Piscertus Screenshot_2022-07-15-16-59-28-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Piscertus</i>
               Screenshot_2022-07-15-16-59-28-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -134,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-36-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Piscertus Screenshot_2022-07-15-16-59-36-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Piscertus</i>
               Screenshot_2022-07-15-16-59-36-16_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -146,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-41-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Piscertus Screenshot_2022-07-15-16-59-41-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Piscertus</i>
               Screenshot_2022-07-15-16-59-41-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -158,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Piscertus Screenshot_2022-07-15-16-59-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Piscertus</i>
               Screenshot_2022-07-15-16-59-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

@@ -62,7 +62,7 @@ description: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Yungang Dragon stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -127,7 +127,7 @@ description: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
               src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Yungang Dragon Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Yungang Dragon</i>
               Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -139,7 +139,7 @@ description: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
               src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-06-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Yungang Dragon Screenshot_2022-07-29-00-22-06-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Yungang Dragon</i>
               Screenshot_2022-07-29-00-22-06-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -151,7 +151,7 @@ description: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
               src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-09-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Yungang Dragon Screenshot_2022-07-29-00-22-09-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Yungang Dragon</i>
               Screenshot_2022-07-29-00-22-09-79_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -163,7 +163,7 @@ description: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
               src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-13-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Yungang Dragon Screenshot_2022-07-29-00-22-13-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Yungang Dragon</i>
               Screenshot_2022-07-29-00-22-13-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -175,7 +175,7 @@ description: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
               src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Yungang Dragon Screenshot_2022-07-29-00-22-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Yungang Dragon</i>
               Screenshot_2022-07-29-00-22-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -187,7 +187,7 @@ description: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
               src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-20-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Yungang Dragon Screenshot_2022-07-29-00-22-20-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Yungang Dragon</i>
               Screenshot_2022-07-29-00-22-20-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -199,7 +199,7 @@ description: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
               src="https://www.webmanajemen.com/chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-29-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Yungang Dragon Screenshot_2022-07-29-00-22-29-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Yungang Dragon</i>
               Screenshot_2022-07-29-00-22-29-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

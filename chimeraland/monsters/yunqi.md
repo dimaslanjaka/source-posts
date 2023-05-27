@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: yunqi stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-15-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="yunqi Screenshot_2023-02-11-03-29-15-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>yunqi</i>
               Screenshot_2023-02-11-03-29-15-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-19-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="yunqi Screenshot_2023-02-11-03-29-19-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>yunqi</i>
               Screenshot_2023-02-11-03-29-19-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-25-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="yunqi Screenshot_2023-02-11-03-29-25-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>yunqi</i>
               Screenshot_2023-02-11-03-29-25-38_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="yunqi Screenshot_2023-02-11-03-29-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>yunqi</i>
               Screenshot_2023-02-11-03-29-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="yunqi Screenshot_2023-02-11-03-29-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>yunqi</i>
               Screenshot_2023-02-11-03-29-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-42-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="yunqi Screenshot_2023-02-11-03-29-42-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>yunqi</i>
               Screenshot_2023-02-11-03-29-42-04_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

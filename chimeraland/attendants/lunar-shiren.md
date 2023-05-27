@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Lunar Shiren stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-shiren/IMG_20230330_005130.webp"
               alt="Lunar Shiren IMG_20230330_005130.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lunar Shiren</i> IMG_20230330_005130.webp.
             </figcaption>
           </figure>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-35-55-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lunar Shiren Screenshot_2022-07-17-22-35-55-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lunar Shiren</i>
               Screenshot_2022-07-17-22-35-55-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-35-58-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lunar Shiren Screenshot_2022-07-17-22-35-58-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lunar Shiren</i>
               Screenshot_2022-07-17-22-35-58-61_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-36-02-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lunar Shiren Screenshot_2022-07-17-22-36-02-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lunar Shiren</i>
               Screenshot_2022-07-17-22-36-02-58_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-36-07-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lunar Shiren Screenshot_2022-07-17-22-36-07-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lunar Shiren</i>
               Screenshot_2022-07-17-22-36-07-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-36-12-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lunar Shiren Screenshot_2022-07-17-22-36-12-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lunar Shiren</i>
               Screenshot_2022-07-17-22-36-12-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -159,7 +159,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-36-19-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Lunar Shiren Screenshot_2022-07-17-22-36-19-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Lunar Shiren</i>
               Screenshot_2022-07-17-22-36-19-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

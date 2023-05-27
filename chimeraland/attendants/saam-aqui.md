@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: saam-aqui stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-52-42-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="saam-aqui Screenshot_2023-03-04-20-52-42-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>saam-aqui</i>
               Screenshot_2023-03-04-20-52-42-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-52-46-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="saam-aqui Screenshot_2023-03-04-20-52-46-03_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>saam-aqui</i>
               Screenshot_2023-03-04-20-52-46-03_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-52-49-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="saam-aqui Screenshot_2023-03-04-20-52-49-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>saam-aqui</i>
               Screenshot_2023-03-04-20-52-49-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-52-53-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="saam-aqui Screenshot_2023-03-04-20-52-53-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>saam-aqui</i>
               Screenshot_2023-03-04-20-52-53-64_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-53-51-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="saam-aqui Screenshot_2023-03-04-20-53-51-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>saam-aqui</i>
               Screenshot_2023-03-04-20-53-51-99_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-54-01-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="saam-aqui Screenshot_2023-03-04-20-54-01-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>saam-aqui</i>
               Screenshot_2023-03-04-20-54-01-85_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-54-05-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="saam-aqui Screenshot_2023-03-04-20-54-05-85_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>saam-aqui</i>
               Screenshot_2023-03-04-20-54-05-85_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-54-10-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="saam-aqui Screenshot_2023-03-04-20-54-10-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>saam-aqui</i>
               Screenshot_2023-03-04-20-54-10-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -186,7 +186,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-54-29-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="saam-aqui Screenshot_2023-03-04-20-54-29-66_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>saam-aqui</i>
               Screenshot_2023-03-04-20-54-29-66_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

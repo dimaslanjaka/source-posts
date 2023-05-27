@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: black-baked snail stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/black-baked-snail/Screenshot_2023-02-25-22-06-20-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="black-baked snail Screenshot_2023-02-25-22-06-20-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>black-baked snail</i>
               Screenshot_2023-02-25-22-06-20-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/black-baked-snail/Screenshot_2023-02-25-22-06-25-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="black-baked snail Screenshot_2023-02-25-22-06-25-17_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>black-baked snail</i>
               Screenshot_2023-02-25-22-06-25-17_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/black-baked-snail/Screenshot_2023-02-25-22-06-29-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="black-baked snail Screenshot_2023-02-25-22-06-29-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>black-baked snail</i>
               Screenshot_2023-02-25-22-06-29-31_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/black-baked-snail/Screenshot_2023-02-25-22-06-33-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="black-baked snail Screenshot_2023-02-25-22-06-33-70_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>black-baked snail</i>
               Screenshot_2023-02-25-22-06-33-70_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/black-baked-snail/Screenshot_2023-02-25-22-06-38-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="black-baked snail Screenshot_2023-02-25-22-06-38-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>black-baked snail</i>
               Screenshot_2023-02-25-22-06-38-15_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/black-baked-snail/Screenshot_2023-02-25-22-06-43-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="black-baked snail Screenshot_2023-02-25-22-06-43-91_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>black-baked snail</i>
               Screenshot_2023-02-25-22-06-43-91_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/black-baked-snail/Screenshot_2023-02-25-22-06-49-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="black-baked snail Screenshot_2023-02-25-22-06-49-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>black-baked snail</i>
               Screenshot_2023-02-25-22-06-49-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

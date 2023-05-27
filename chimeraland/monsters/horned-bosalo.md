@@ -62,7 +62,7 @@ description: monster Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Horned Bosalo stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -127,7 +127,9 @@ description: monster Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
               src="https://www.webmanajemen.com/undefined"
               alt="Horned Bosalo undefined"
             />
-            <figcaption><i>Horned Bosalo</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Horned Bosalo</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -136,7 +138,7 @@ description: monster Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-24-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Bosalo Screenshot_2022-07-15-17-00-24-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Bosalo</i>
               Screenshot_2022-07-15-17-00-24-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +150,7 @@ description: monster Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Bosalo Screenshot_2022-07-15-17-00-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Bosalo</i>
               Screenshot_2022-07-15-17-00-29-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +162,7 @@ description: monster Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-36-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Bosalo Screenshot_2022-07-15-17-00-36-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Bosalo</i>
               Screenshot_2022-07-15-17-00-36-99_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -172,7 +174,7 @@ description: monster Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-41-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Bosalo Screenshot_2022-07-15-17-00-41-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Bosalo</i>
               Screenshot_2022-07-15-17-00-41-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -184,7 +186,7 @@ description: monster Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-45-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Bosalo Screenshot_2022-07-15-17-00-45-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Bosalo</i>
               Screenshot_2022-07-15-17-00-45-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -196,7 +198,7 @@ description: monster Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Bosalo Screenshot_2022-07-15-17-00-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Bosalo</i>
               Screenshot_2022-07-15-17-00-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

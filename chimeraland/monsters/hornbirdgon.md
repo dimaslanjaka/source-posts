@@ -65,7 +65,7 @@ description: "monster Hornbirdgon default quality GRADE A ATK 72 HP 67 DEF 73
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Hornbirdgon stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -130,7 +130,9 @@ description: "monster Hornbirdgon default quality GRADE A ATK 72 HP 67 DEF 73
               src="https://www.webmanajemen.com/undefined"
               alt="Hornbirdgon undefined"
             />
-            <figcaption><i>Hornbirdgon</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Hornbirdgon</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -139,7 +141,7 @@ description: "monster Hornbirdgon default quality GRADE A ATK 72 HP 67 DEF 73
               src="https://www.webmanajemen.com/chimeraland/monsters/hornbirdgon/Screenshot_2022-07-16-07-20-44-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Hornbirdgon Screenshot_2022-07-16-07-20-44-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Hornbirdgon</i>
               Screenshot_2022-07-16-07-20-44-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -151,7 +153,7 @@ description: "monster Hornbirdgon default quality GRADE A ATK 72 HP 67 DEF 73
               src="https://www.webmanajemen.com/chimeraland/monsters/hornbirdgon/Screenshot_2022-07-16-07-20-50-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Hornbirdgon Screenshot_2022-07-16-07-20-50-41_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Hornbirdgon</i>
               Screenshot_2022-07-16-07-20-50-41_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -163,7 +165,7 @@ description: "monster Hornbirdgon default quality GRADE A ATK 72 HP 67 DEF 73
               src="https://www.webmanajemen.com/chimeraland/monsters/hornbirdgon/Screenshot_2022-07-16-07-20-54-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Hornbirdgon Screenshot_2022-07-16-07-20-54-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Hornbirdgon</i>
               Screenshot_2022-07-16-07-20-54-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -175,7 +177,7 @@ description: "monster Hornbirdgon default quality GRADE A ATK 72 HP 67 DEF 73
               src="https://www.webmanajemen.com/chimeraland/monsters/hornbirdgon/Screenshot_2022-07-16-07-20-58-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Hornbirdgon Screenshot_2022-07-16-07-20-58-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Hornbirdgon</i>
               Screenshot_2022-07-16-07-20-58-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -187,7 +189,7 @@ description: "monster Hornbirdgon default quality GRADE A ATK 72 HP 67 DEF 73
               src="https://www.webmanajemen.com/chimeraland/monsters/hornbirdgon/Screenshot_2022-07-16-07-21-03-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Hornbirdgon Screenshot_2022-07-16-07-21-03-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Hornbirdgon</i>
               Screenshot_2022-07-16-07-21-03-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -199,7 +201,7 @@ description: "monster Hornbirdgon default quality GRADE A ATK 72 HP 67 DEF 73
               src="https://www.webmanajemen.com/chimeraland/monsters/hornbirdgon/Screenshot_2022-07-16-07-21-10-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Hornbirdgon Screenshot_2022-07-16-07-21-10-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Hornbirdgon</i>
               Screenshot_2022-07-16-07-21-10-93_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

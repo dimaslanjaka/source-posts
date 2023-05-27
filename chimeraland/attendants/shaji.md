@@ -52,7 +52,7 @@ description: attendant Shaji default quality GRADE C ATK 53 HP 51 DEF 46 Attack
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Shaji stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>

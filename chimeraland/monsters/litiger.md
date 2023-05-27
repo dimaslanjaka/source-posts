@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Litiger stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Litiger undefined"
             />
-            <figcaption><i>Litiger</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Litiger</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -99,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-58-49-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Litiger Screenshot_2023-03-22-16-58-49-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Litiger</i>
               Screenshot_2023-03-22-16-58-49-15_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-58-53-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Litiger Screenshot_2023-03-22-16-58-53-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Litiger</i>
               Screenshot_2023-03-22-16-58-53-30_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-58-59-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Litiger Screenshot_2023-03-22-16-58-59-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Litiger</i>
               Screenshot_2023-03-22-16-58-59-42_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-59-05-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Litiger Screenshot_2023-03-22-16-59-05-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Litiger</i>
               Screenshot_2023-03-22-16-59-05-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/litiger/Screenshot_2023-03-22-16-59-09-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Litiger Screenshot_2023-03-22-16-59-09-64_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Litiger</i>
               Screenshot_2023-03-22-16-59-09-64_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -159,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/litiger/Screenshot_2023-03-22-17-00-00-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Litiger Screenshot_2023-03-22-17-00-00-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Litiger</i>
               Screenshot_2023-03-22-17-00-00-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -171,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/litiger/Screenshot_2023-03-22-17-00-05-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Litiger Screenshot_2023-03-22-17-00-05-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Litiger</i>
               Screenshot_2023-03-22-17-00-05-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

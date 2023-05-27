@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant caeloptera stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-caeloptera/Screenshot_2023-02-23-13-17-57-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant caeloptera Screenshot_2023-02-23-13-17-57-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant caeloptera</i>
               Screenshot_2023-02-23-13-17-57-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-caeloptera/Screenshot_2023-02-23-13-18-01-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant caeloptera Screenshot_2023-02-23-13-18-01-68_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant caeloptera</i>
               Screenshot_2023-02-23-13-18-01-68_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-caeloptera/Screenshot_2023-02-23-13-18-08-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant caeloptera Screenshot_2023-02-23-13-18-08-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant caeloptera</i>
               Screenshot_2023-02-23-13-18-08-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-caeloptera/Screenshot_2023-02-23-13-18-12-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant caeloptera Screenshot_2023-02-23-13-18-12-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant caeloptera</i>
               Screenshot_2023-02-23-13-18-12-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-caeloptera/Screenshot_2023-02-23-13-18-17-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant caeloptera Screenshot_2023-02-23-13-18-17-60_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant caeloptera</i>
               Screenshot_2023-02-23-13-18-17-60_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-caeloptera/Screenshot_2023-02-23-13-18-32-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant caeloptera Screenshot_2023-02-23-13-18-32-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant caeloptera</i>
               Screenshot_2023-02-23-13-18-32-56_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-caeloptera/Screenshot_2023-02-23-13-18-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant caeloptera Screenshot_2023-02-23-13-18-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant caeloptera</i>
               Screenshot_2023-02-23-13-18-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-caeloptera/Screenshot_2023-02-23-13-18-41-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant caeloptera Screenshot_2023-02-23-13-18-41-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant caeloptera</i>
               Screenshot_2023-02-23-13-18-41-93_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

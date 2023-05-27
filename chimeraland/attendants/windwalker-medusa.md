@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: windwalker medusa stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-32-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="windwalker medusa Screenshot_2023-02-10-04-41-32-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>windwalker medusa</i>
               Screenshot_2023-02-10-04-41-32-06_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-35-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="windwalker medusa Screenshot_2023-02-10-04-41-35-50_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>windwalker medusa</i>
               Screenshot_2023-02-10-04-41-35-50_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-40-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="windwalker medusa Screenshot_2023-02-10-04-41-40-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>windwalker medusa</i>
               Screenshot_2023-02-10-04-41-40-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-44-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="windwalker medusa Screenshot_2023-02-10-04-41-44-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>windwalker medusa</i>
               Screenshot_2023-02-10-04-41-44-55_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-48-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="windwalker medusa Screenshot_2023-02-10-04-41-48-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>windwalker medusa</i>
               Screenshot_2023-02-10-04-41-48-88_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-54-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="windwalker medusa Screenshot_2023-02-10-04-41-54-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>windwalker medusa</i>
               Screenshot_2023-02-10-04-41-54-16_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

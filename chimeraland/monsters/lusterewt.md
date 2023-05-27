@@ -60,7 +60,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: lusterewt stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -91,7 +91,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="lusterewt undefined"
             />
-            <figcaption><i>lusterewt</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>lusterewt</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -100,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lusterewt Screenshot_2022-11-14-11-07-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lusterewt</i>
               Screenshot_2022-11-14-11-07-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-42-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lusterewt Screenshot_2022-11-14-11-07-42-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lusterewt</i>
               Screenshot_2022-11-14-11-07-42-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-49-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lusterewt Screenshot_2022-11-14-11-07-49-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lusterewt</i>
               Screenshot_2022-11-14-11-07-49-56_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-54-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lusterewt Screenshot_2022-11-14-11-07-54-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lusterewt</i>
               Screenshot_2022-11-14-11-07-54-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-59-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lusterewt Screenshot_2022-11-14-11-07-59-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lusterewt</i>
               Screenshot_2022-11-14-11-07-59-99_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-03-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lusterewt Screenshot_2022-11-14-11-08-03-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lusterewt</i>
               Screenshot_2022-11-14-11-08-03-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -172,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-10-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lusterewt Screenshot_2022-11-14-11-08-10-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lusterewt</i>
               Screenshot_2022-11-14-11-08-10-89_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -184,7 +186,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="lusterewt Screenshot_2022-11-14-11-08-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>lusterewt</i>
               Screenshot_2022-11-14-11-08-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

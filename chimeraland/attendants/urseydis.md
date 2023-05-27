@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: urseydis stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-56-59-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urseydis Screenshot_2023-02-28-21-56-59-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urseydis</i>
               Screenshot_2023-02-28-21-56-59-52_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-57-03-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urseydis Screenshot_2023-02-28-21-57-03-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urseydis</i>
               Screenshot_2023-02-28-21-57-03-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-57-08-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urseydis Screenshot_2023-02-28-21-57-08-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urseydis</i>
               Screenshot_2023-02-28-21-57-08-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-57-12-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urseydis Screenshot_2023-02-28-21-57-12-00_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urseydis</i>
               Screenshot_2023-02-28-21-57-12-00_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-57-21-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urseydis Screenshot_2023-02-28-21-57-21-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urseydis</i>
               Screenshot_2023-02-28-21-57-21-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-57-26-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urseydis Screenshot_2023-02-28-21-57-26-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urseydis</i>
               Screenshot_2023-02-28-21-57-26-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-57-32-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urseydis Screenshot_2023-02-28-21-57-32-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urseydis</i>
               Screenshot_2023-02-28-21-57-32-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-57-36-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urseydis Screenshot_2023-02-28-21-57-36-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urseydis</i>
               Screenshot_2023-02-28-21-57-36-61_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

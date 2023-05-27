@@ -64,7 +64,7 @@ description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Banshee stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -129,7 +129,9 @@ description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/undefined"
               alt="Banshee undefined"
             />
-            <figcaption><i>Banshee</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Banshee</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -138,7 +140,7 @@ description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-34-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Banshee Screenshot_2022-08-19-20-41-34-96_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Banshee</i>
               Screenshot_2022-08-19-20-41-34-96_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +152,7 @@ description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-39-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Banshee Screenshot_2022-08-19-20-41-39-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Banshee</i>
               Screenshot_2022-08-19-20-41-39-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +164,7 @@ description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-43-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Banshee Screenshot_2022-08-19-20-41-43-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Banshee</i>
               Screenshot_2022-08-19-20-41-43-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +176,7 @@ description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Banshee Screenshot_2022-08-19-20-41-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Banshee</i>
               Screenshot_2022-08-19-20-41-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -186,7 +188,7 @@ description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-53-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Banshee Screenshot_2022-08-19-20-41-53-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Banshee</i>
               Screenshot_2022-08-19-20-41-53-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -198,7 +200,7 @@ description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Banshee Screenshot_2022-08-19-20-42-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Banshee</i>
               Screenshot_2022-08-19-20-42-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -210,7 +212,7 @@ description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-06-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Banshee Screenshot_2022-08-19-20-42-06-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Banshee</i>
               Screenshot_2022-08-19-20-42-06-24_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -222,7 +224,7 @@ description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
               src="https://www.webmanajemen.com/chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-12-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Banshee Screenshot_2022-08-19-20-42-12-59_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Banshee</i>
               Screenshot_2022-08-19-20-42-12-59_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

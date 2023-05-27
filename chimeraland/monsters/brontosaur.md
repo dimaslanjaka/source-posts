@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: brontosaur stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/brontosaur/Screenshot_2023-02-22-22-10-05-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="brontosaur Screenshot_2023-02-22-22-10-05-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>brontosaur</i>
               Screenshot_2023-02-22-22-10-05-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/brontosaur/Screenshot_2023-02-22-22-10-12-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="brontosaur Screenshot_2023-02-22-22-10-12-14_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>brontosaur</i>
               Screenshot_2023-02-22-22-10-12-14_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/brontosaur/Screenshot_2023-02-22-22-10-17-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="brontosaur Screenshot_2023-02-22-22-10-17-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>brontosaur</i>
               Screenshot_2023-02-22-22-10-17-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/brontosaur/Screenshot_2023-02-22-22-10-23-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="brontosaur Screenshot_2023-02-22-22-10-23-62_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>brontosaur</i>
               Screenshot_2023-02-22-22-10-23-62_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/brontosaur/Screenshot_2023-02-22-22-10-29-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="brontosaur Screenshot_2023-02-22-22-10-29-48_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>brontosaur</i>
               Screenshot_2023-02-22-22-10-29-48_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/brontosaur/Screenshot_2023-02-22-22-10-38-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="brontosaur Screenshot_2023-02-22-22-10-38-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>brontosaur</i>
               Screenshot_2023-02-22-22-10-38-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/brontosaur/Screenshot_2023-02-22-22-10-46-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="brontosaur Screenshot_2023-02-22-22-10-46-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>brontosaur</i>
               Screenshot_2023-02-22-22-10-46-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/brontosaur/Screenshot_2023-02-22-22-10-51-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="brontosaur Screenshot_2023-02-22-22-10-51-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>brontosaur</i>
               Screenshot_2023-02-22-22-10-51-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

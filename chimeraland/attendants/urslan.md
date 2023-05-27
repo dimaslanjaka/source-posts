@@ -57,7 +57,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: urslan stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -88,7 +88,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urslan/Screenshot_2022-11-15-23-43-38-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urslan Screenshot_2022-11-15-23-43-38-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urslan</i>
               Screenshot_2022-11-15-23-43-38-55_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -100,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urslan/Screenshot_2022-11-15-23-43-42-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urslan Screenshot_2022-11-15-23-43-42-40_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urslan</i>
               Screenshot_2022-11-15-23-43-42-40_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -112,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urslan/Screenshot_2022-11-15-23-43-47-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urslan Screenshot_2022-11-15-23-43-47-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urslan</i>
               Screenshot_2022-11-15-23-43-47-56_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -124,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urslan/Screenshot_2022-11-15-23-43-51-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urslan Screenshot_2022-11-15-23-43-51-18_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urslan</i>
               Screenshot_2022-11-15-23-43-51-18_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -136,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urslan/Screenshot_2022-11-15-23-43-58-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urslan Screenshot_2022-11-15-23-43-58-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urslan</i>
               Screenshot_2022-11-15-23-43-58-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -148,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urslan/Screenshot_2022-11-15-23-44-01-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urslan Screenshot_2022-11-15-23-44-01-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urslan</i>
               Screenshot_2022-11-15-23-44-01-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -160,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/urslan/Screenshot_2022-11-15-23-44-04-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="urslan Screenshot_2022-11-15-23-44-04-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>urslan</i>
               Screenshot_2022-11-15-23-44-04-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

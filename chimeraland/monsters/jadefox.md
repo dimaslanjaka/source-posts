@@ -52,7 +52,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Jadefox stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -83,7 +83,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Jadefox undefined"
             />
-            <figcaption><i>Jadefox</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Jadefox</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

@@ -52,7 +52,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Spike Alligon stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -83,7 +83,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Spike Alligon undefined"
             />
-            <figcaption><i>Spike Alligon</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Spike Alligon</i> .
+            </figcaption>
           </figure>
         </div>
       </div>

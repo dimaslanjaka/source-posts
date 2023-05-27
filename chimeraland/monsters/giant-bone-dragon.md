@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: giant bone dragon stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-23-36-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant bone dragon Screenshot_2023-02-24-00-23-36-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant bone dragon</i>
               Screenshot_2023-02-24-00-23-36-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-23-40-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant bone dragon Screenshot_2023-02-24-00-23-40-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant bone dragon</i>
               Screenshot_2023-02-24-00-23-40-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-23-44-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant bone dragon Screenshot_2023-02-24-00-23-44-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant bone dragon</i>
               Screenshot_2023-02-24-00-23-44-67_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-23-48-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant bone dragon Screenshot_2023-02-24-00-23-48-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant bone dragon</i>
               Screenshot_2023-02-24-00-23-48-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-23-53-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant bone dragon Screenshot_2023-02-24-00-23-53-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant bone dragon</i>
               Screenshot_2023-02-24-00-23-53-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-24-01-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant bone dragon Screenshot_2023-02-24-00-24-01-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant bone dragon</i>
               Screenshot_2023-02-24-00-24-01-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-24-06-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant bone dragon Screenshot_2023-02-24-00-24-06-39_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant bone dragon</i>
               Screenshot_2023-02-24-00-24-06-39_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-24-11-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="giant bone dragon Screenshot_2023-02-24-00-24-11-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>giant bone dragon</i>
               Screenshot_2023-02-24-00-24-11-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

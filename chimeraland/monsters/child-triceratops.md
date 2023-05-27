@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: child triceratops stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-28-39-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child triceratops Screenshot_2023-02-26-10-28-39-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child triceratops</i>
               Screenshot_2023-02-26-10-28-39-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-28-43-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child triceratops Screenshot_2023-02-26-10-28-43-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child triceratops</i>
               Screenshot_2023-02-26-10-28-43-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-28-49-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child triceratops Screenshot_2023-02-26-10-28-49-93_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child triceratops</i>
               Screenshot_2023-02-26-10-28-49-93_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-28-53-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child triceratops Screenshot_2023-02-26-10-28-53-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child triceratops</i>
               Screenshot_2023-02-26-10-28-53-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-28-57-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child triceratops Screenshot_2023-02-26-10-28-57-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child triceratops</i>
               Screenshot_2023-02-26-10-28-57-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-29-02-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child triceratops Screenshot_2023-02-26-10-29-02-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child triceratops</i>
               Screenshot_2023-02-26-10-29-02-67_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-29-06-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child triceratops Screenshot_2023-02-26-10-29-06-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child triceratops</i>
               Screenshot_2023-02-26-10-29-06-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

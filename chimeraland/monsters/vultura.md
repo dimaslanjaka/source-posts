@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Vultura stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Vultura undefined"
             />
-            <figcaption><i>Vultura</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Vultura</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -98,7 +100,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/vultura/Screenshot_2022-07-15-11-58-33-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vultura Screenshot_2022-07-15-11-58-33-16_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vultura</i>
               Screenshot_2022-07-15-11-58-33-16_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -110,7 +112,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/vultura/Screenshot_2022-07-15-11-58-45-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vultura Screenshot_2022-07-15-11-58-45-88_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vultura</i>
               Screenshot_2022-07-15-11-58-45-88_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -122,7 +124,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/vultura/Screenshot_2022-07-15-11-58-54-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vultura Screenshot_2022-07-15-11-58-54-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vultura</i>
               Screenshot_2022-07-15-11-58-54-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -134,7 +136,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/vultura/Screenshot_2022-07-15-11-58-59-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vultura Screenshot_2022-07-15-11-58-59-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vultura</i>
               Screenshot_2022-07-15-11-58-59-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -146,7 +148,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/vultura/Screenshot_2022-07-15-11-59-04-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vultura Screenshot_2022-07-15-11-59-04-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vultura</i>
               Screenshot_2022-07-15-11-59-04-97_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -158,7 +160,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/vultura/Screenshot_2022-07-15-11-59-10-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vultura Screenshot_2022-07-15-11-59-10-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vultura</i>
               Screenshot_2022-07-15-11-59-10-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

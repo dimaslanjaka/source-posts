@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: child crowned quetzal stat will increase based on their
       <b>grade</b> and <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-crowned-quetzal/Screenshot_2023-02-25-22-26-42-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child crowned quetzal Screenshot_2023-02-25-22-26-42-46_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child crowned quetzal</i>
               Screenshot_2023-02-25-22-26-42-46_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-crowned-quetzal/Screenshot_2023-02-25-22-26-46-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child crowned quetzal Screenshot_2023-02-25-22-26-46-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child crowned quetzal</i>
               Screenshot_2023-02-25-22-26-46-22_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-crowned-quetzal/Screenshot_2023-02-25-22-26-50-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child crowned quetzal Screenshot_2023-02-25-22-26-50-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child crowned quetzal</i>
               Screenshot_2023-02-25-22-26-50-23_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-crowned-quetzal/Screenshot_2023-02-25-22-26-54-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child crowned quetzal Screenshot_2023-02-25-22-26-54-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child crowned quetzal</i>
               Screenshot_2023-02-25-22-26-54-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-crowned-quetzal/Screenshot_2023-02-25-22-27-14-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child crowned quetzal Screenshot_2023-02-25-22-27-14-77_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child crowned quetzal</i>
               Screenshot_2023-02-25-22-27-14-77_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/child-crowned-quetzal/Screenshot_2023-02-25-22-27-20-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="child crowned quetzal Screenshot_2023-02-25-22-27-20-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>child crowned quetzal</i>
               Screenshot_2023-02-25-22-27-20-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

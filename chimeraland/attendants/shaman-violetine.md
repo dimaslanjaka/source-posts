@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: shaman violetine stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman violetine Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman violetine</i>
               Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman violetine Screenshot_2023-03-12-23-43-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman violetine</i>
               Screenshot_2023-03-12-23-43-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-52-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman violetine Screenshot_2023-03-12-23-43-52-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman violetine</i>
               Screenshot_2023-03-12-23-43-52-90_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-56-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman violetine Screenshot_2023-03-12-23-43-56-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman violetine</i>
               Screenshot_2023-03-12-23-43-56-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-01-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman violetine Screenshot_2023-03-12-23-44-01-07_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman violetine</i>
               Screenshot_2023-03-12-23-44-01-07_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-09-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman violetine Screenshot_2023-03-12-23-44-09-89_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman violetine</i>
               Screenshot_2023-03-12-23-44-09-89_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-14-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman violetine Screenshot_2023-03-12-23-44-14-09_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman violetine</i>
               Screenshot_2023-03-12-23-44-14-09_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-18-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman violetine Screenshot_2023-03-12-23-44-18-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman violetine</i>
               Screenshot_2023-03-12-23-44-18-38_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

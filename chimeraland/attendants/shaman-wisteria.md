@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: shaman wisteria stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-18-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman wisteria Screenshot_2022-11-13-08-58-18-95_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman wisteria</i>
               Screenshot_2022-11-13-08-58-18-95_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-24-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman wisteria Screenshot_2022-11-13-08-58-24-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman wisteria</i>
               Screenshot_2022-11-13-08-58-24-23_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-29-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman wisteria Screenshot_2022-11-13-08-58-29-57_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman wisteria</i>
               Screenshot_2022-11-13-08-58-29-57_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-34-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman wisteria Screenshot_2022-11-13-08-58-34-52_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman wisteria</i>
               Screenshot_2022-11-13-08-58-34-52_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-39-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman wisteria Screenshot_2022-11-13-08-58-39-73_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman wisteria</i>
               Screenshot_2022-11-13-08-58-39-73_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-44-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman wisteria Screenshot_2022-11-13-08-58-44-69_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman wisteria</i>
               Screenshot_2022-11-13-08-58-44-69_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-50-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman wisteria Screenshot_2022-11-13-08-58-50-53_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman wisteria</i>
               Screenshot_2022-11-13-08-58-50-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/shaman-wisteria/Screenshot_2023-02-28-22-02-22-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="shaman wisteria Screenshot_2023-02-28-22-02-22-58_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>shaman wisteria</i>
               Screenshot_2023-02-28-22-02-22-58_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

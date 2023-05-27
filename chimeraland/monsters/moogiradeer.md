@@ -63,7 +63,7 @@ description: "monster Moogiradeer default quality GRADE C ATK 53 HP 63 DEF 63
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Moogiradeer stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -128,7 +128,9 @@ description: "monster Moogiradeer default quality GRADE C ATK 53 HP 63 DEF 63
               src="https://www.webmanajemen.com/undefined"
               alt="Moogiradeer undefined"
             />
-            <figcaption><i>Moogiradeer</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Moogiradeer</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -137,7 +139,7 @@ description: "monster Moogiradeer default quality GRADE C ATK 53 HP 63 DEF 63
               src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Moogiradeer Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Moogiradeer</i>
               Screenshot_2022-07-28-01-02-45-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +151,7 @@ description: "monster Moogiradeer default quality GRADE C ATK 53 HP 63 DEF 63
               src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-49-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Moogiradeer Screenshot_2022-07-28-01-02-49-49_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Moogiradeer</i>
               Screenshot_2022-07-28-01-02-49-49_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +163,7 @@ description: "monster Moogiradeer default quality GRADE C ATK 53 HP 63 DEF 63
               src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-54-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Moogiradeer Screenshot_2022-07-28-01-02-54-10_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Moogiradeer</i>
               Screenshot_2022-07-28-01-02-54-10_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +175,7 @@ description: "monster Moogiradeer default quality GRADE C ATK 53 HP 63 DEF 63
               src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-02-58-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Moogiradeer Screenshot_2022-07-28-01-02-58-65_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Moogiradeer</i>
               Screenshot_2022-07-28-01-02-58-65_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -185,7 +187,7 @@ description: "monster Moogiradeer default quality GRADE C ATK 53 HP 63 DEF 63
               src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-03-02-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Moogiradeer Screenshot_2022-07-28-01-03-02-90_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Moogiradeer</i>
               Screenshot_2022-07-28-01-03-02-90_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -197,7 +199,7 @@ description: "monster Moogiradeer default quality GRADE C ATK 53 HP 63 DEF 63
               src="https://www.webmanajemen.com/chimeraland/monsters/moogiradeer/Screenshot_2022-07-28-01-03-07-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Moogiradeer Screenshot_2022-07-28-01-03-07-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Moogiradeer</i>
               Screenshot_2022-07-28-01-03-07-55_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

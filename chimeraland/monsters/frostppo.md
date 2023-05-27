@@ -66,7 +66,7 @@ description: "monster Frostppo default quality GRADE A ATK 71 HP 72 DEF 68
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Frostppo stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -131,7 +131,9 @@ description: "monster Frostppo default quality GRADE A ATK 71 HP 72 DEF 68
               src="https://www.webmanajemen.com/undefined"
               alt="Frostppo undefined"
             />
-            <figcaption><i>Frostppo</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Frostppo</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -140,7 +142,7 @@ description: "monster Frostppo default quality GRADE A ATK 71 HP 72 DEF 68
               src="https://www.webmanajemen.com/chimeraland/monsters/frostppo/Screenshot_2022-11-01-12-43-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Frostppo Screenshot_2022-11-01-12-43-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Frostppo</i>
               Screenshot_2022-11-01-12-43-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -152,7 +154,7 @@ description: "monster Frostppo default quality GRADE A ATK 71 HP 72 DEF 68
               src="https://www.webmanajemen.com/chimeraland/monsters/frostppo/Screenshot_2022-11-01-12-43-42-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Frostppo Screenshot_2022-11-01-12-43-42-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Frostppo</i>
               Screenshot_2022-11-01-12-43-42-92_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -164,7 +166,7 @@ description: "monster Frostppo default quality GRADE A ATK 71 HP 72 DEF 68
               src="https://www.webmanajemen.com/chimeraland/monsters/frostppo/Screenshot_2022-11-01-12-43-49-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Frostppo Screenshot_2022-11-01-12-43-49-06_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Frostppo</i>
               Screenshot_2022-11-01-12-43-49-06_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -176,7 +178,7 @@ description: "monster Frostppo default quality GRADE A ATK 71 HP 72 DEF 68
               src="https://www.webmanajemen.com/chimeraland/monsters/frostppo/Screenshot_2022-11-01-12-43-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Frostppo Screenshot_2022-11-01-12-43-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Frostppo</i>
               Screenshot_2022-11-01-12-43-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -188,7 +190,7 @@ description: "monster Frostppo default quality GRADE A ATK 71 HP 72 DEF 68
               src="https://www.webmanajemen.com/chimeraland/monsters/frostppo/Screenshot_2022-11-01-12-44-04-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Frostppo Screenshot_2022-11-01-12-44-04-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Frostppo</i>
               Screenshot_2022-11-01-12-44-04-92_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -200,7 +202,7 @@ description: "monster Frostppo default quality GRADE A ATK 71 HP 72 DEF 68
               src="https://www.webmanajemen.com/chimeraland/monsters/frostppo/Screenshot_2022-11-01-12-44-11-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Frostppo Screenshot_2022-11-01-12-44-11-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Frostppo</i>
               Screenshot_2022-11-01-12-44-11-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -212,7 +214,7 @@ description: "monster Frostppo default quality GRADE A ATK 71 HP 72 DEF 68
               src="https://www.webmanajemen.com/chimeraland/monsters/frostppo/Screenshot_2022-11-01-12-44-15-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Frostppo Screenshot_2022-11-01-12-44-15-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Frostppo</i>
               Screenshot_2022-11-01-12-44-15-92_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -224,7 +226,7 @@ description: "monster Frostppo default quality GRADE A ATK 71 HP 72 DEF 68
               src="https://www.webmanajemen.com/chimeraland/monsters/frostppo/Screenshot_2022-11-01-12-44-20-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Frostppo Screenshot_2022-11-01-12-44-20-38_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Frostppo</i>
               Screenshot_2022-11-01-12-44-20-38_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

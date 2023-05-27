@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: bloodhog stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bloodhog/Screenshot_2023-02-06-11-52-16-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bloodhog Screenshot_2023-02-06-11-52-16-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bloodhog</i>
               Screenshot_2023-02-06-11-52-16-79_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bloodhog/Screenshot_2023-02-06-11-52-20-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bloodhog Screenshot_2023-02-06-11-52-20-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bloodhog</i>
               Screenshot_2023-02-06-11-52-20-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bloodhog/Screenshot_2023-02-06-11-52-25-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bloodhog Screenshot_2023-02-06-11-52-25-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bloodhog</i>
               Screenshot_2023-02-06-11-52-25-20_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bloodhog/Screenshot_2023-02-06-11-52-29-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bloodhog Screenshot_2023-02-06-11-52-29-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bloodhog</i>
               Screenshot_2023-02-06-11-52-29-61_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bloodhog/Screenshot_2023-02-06-11-52-36-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bloodhog Screenshot_2023-02-06-11-52-36-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bloodhog</i>
               Screenshot_2023-02-06-11-52-36-24_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/bloodhog/Screenshot_2023-02-06-11-52-41-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="bloodhog Screenshot_2023-02-06-11-52-41-23_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>bloodhog</i>
               Screenshot_2023-02-06-11-52-41-23_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

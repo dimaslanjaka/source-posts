@@ -55,7 +55,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: dealhog stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -86,7 +86,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/dealhog/Screenshot_2023-02-06-08-58-02-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="dealhog Screenshot_2023-02-06-08-58-02-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>dealhog</i>
               Screenshot_2023-02-06-08-58-02-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -98,7 +98,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/dealhog/Screenshot_2023-02-06-08-58-06-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="dealhog Screenshot_2023-02-06-08-58-06-75_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>dealhog</i>
               Screenshot_2023-02-06-08-58-06-75_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -110,7 +110,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/dealhog/Screenshot_2023-02-06-08-58-13-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="dealhog Screenshot_2023-02-06-08-58-13-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>dealhog</i>
               Screenshot_2023-02-06-08-58-13-55_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -122,7 +122,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/dealhog/Screenshot_2023-02-06-08-58-21-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="dealhog Screenshot_2023-02-06-08-58-21-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>dealhog</i>
               Screenshot_2023-02-06-08-58-21-31_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -134,7 +134,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/dealhog/Screenshot_2023-02-06-08-58-26-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="dealhog Screenshot_2023-02-06-08-58-26-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>dealhog</i>
               Screenshot_2023-02-06-08-58-26-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

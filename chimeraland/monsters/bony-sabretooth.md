@@ -52,7 +52,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Bony Sabretooth stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -83,7 +83,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/bony-sabretooth/chimeraland-bony-stretooth-evolve-featured.webp"
               alt="Bony Sabretooth chimeraland-bony-stretooth-evolve-featured.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Bony Sabretooth</i>
               chimeraland-bony-stretooth-evolve-featured.webp.
             </figcaption>

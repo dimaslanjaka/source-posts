@@ -56,7 +56,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Vuloneer stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -87,7 +87,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-34-42-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vuloneer Screenshot_2022-07-30-14-34-42-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vuloneer</i>
               Screenshot_2022-07-30-14-34-42-15_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -99,7 +99,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-34-46-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vuloneer Screenshot_2022-07-30-14-34-46-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vuloneer</i>
               Screenshot_2022-07-30-14-34-46-67_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +111,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-34-50-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vuloneer Screenshot_2022-07-30-14-34-50-44_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vuloneer</i>
               Screenshot_2022-07-30-14-34-50-44_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +123,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-34-55-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vuloneer Screenshot_2022-07-30-14-34-55-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vuloneer</i>
               Screenshot_2022-07-30-14-34-55-54_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +135,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-35-01-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vuloneer Screenshot_2022-07-30-14-35-01-42_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vuloneer</i>
               Screenshot_2022-07-30-14-35-01-42_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +147,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-35-06-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Vuloneer Screenshot_2022-07-30-14-35-06-92_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Vuloneer</i>
               Screenshot_2022-07-30-14-35-06-92_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

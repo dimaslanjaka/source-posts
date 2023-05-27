@@ -58,7 +58,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: jindipelta stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -89,7 +89,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/jindipelta/Screenshot_2023-02-24-00-24-37-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jindipelta Screenshot_2023-02-24-00-24-37-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jindipelta</i>
               Screenshot_2023-02-24-00-24-37-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -101,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/jindipelta/Screenshot_2023-02-24-00-24-41-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jindipelta Screenshot_2023-02-24-00-24-41-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jindipelta</i>
               Screenshot_2023-02-24-00-24-41-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -113,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/jindipelta/Screenshot_2023-02-24-00-24-45-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jindipelta Screenshot_2023-02-24-00-24-45-55_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jindipelta</i>
               Screenshot_2023-02-24-00-24-45-55_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -125,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/jindipelta/Screenshot_2023-02-24-00-24-49-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jindipelta Screenshot_2023-02-24-00-24-49-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jindipelta</i>
               Screenshot_2023-02-24-00-24-49-61_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -137,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/jindipelta/Screenshot_2023-02-24-00-24-53-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jindipelta Screenshot_2023-02-24-00-24-53-84_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jindipelta</i>
               Screenshot_2023-02-24-00-24-53-84_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/jindipelta/Screenshot_2023-02-24-00-24-58-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jindipelta Screenshot_2023-02-24-00-24-58-43_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jindipelta</i>
               Screenshot_2023-02-24-00-24-58-43_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/jindipelta/Screenshot_2023-02-24-00-25-02-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="jindipelta Screenshot_2023-02-24-00-25-02-83_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>jindipelta</i>
               Screenshot_2023-02-24-00-25-02-83_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

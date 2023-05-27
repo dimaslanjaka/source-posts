@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: graythistle stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-14-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="graythistle Screenshot_2023-02-25-17-11-14-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>graythistle</i>
               Screenshot_2023-02-25-17-11-14-54_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -102,7 +102,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-18-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="graythistle Screenshot_2023-02-25-17-11-18-33_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>graythistle</i>
               Screenshot_2023-02-25-17-11-18-33_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -114,7 +114,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-23-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="graythistle Screenshot_2023-02-25-17-11-23-45_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>graythistle</i>
               Screenshot_2023-02-25-17-11-23-45_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -126,7 +126,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-27-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="graythistle Screenshot_2023-02-25-17-11-27-34_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>graythistle</i>
               Screenshot_2023-02-25-17-11-27-34_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -138,7 +138,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-31-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="graythistle Screenshot_2023-02-25-17-11-31-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>graythistle</i>
               Screenshot_2023-02-25-17-11-31-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -150,7 +150,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-48-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="graythistle Screenshot_2023-02-25-17-11-48-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>graythistle</i>
               Screenshot_2023-02-25-17-11-48-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -162,7 +162,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-53-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="graythistle Screenshot_2023-02-25-17-11-53-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>graythistle</i>
               Screenshot_2023-02-25-17-11-53-21_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -174,7 +174,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-57-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="graythistle Screenshot_2023-02-25-17-11-57-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>graythistle</i>
               Screenshot_2023-02-25-17-11-57-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

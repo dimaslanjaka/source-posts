@@ -63,7 +63,7 @@ description: monster Horned Denglong default quality GRADE A ATK 71 HP 73 DEF 67
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Horned Denglong stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -128,7 +128,7 @@ description: monster Horned Denglong default quality GRADE A ATK 71 HP 73 DEF 67
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-denglong/Screenshot_2022-07-14-22-21-04-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Denglong Screenshot_2022-07-14-22-21-04-22_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Denglong</i>
               Screenshot_2022-07-14-22-21-04-22_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -140,7 +140,7 @@ description: monster Horned Denglong default quality GRADE A ATK 71 HP 73 DEF 67
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-denglong/Screenshot_2022-07-14-22-21-13-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Denglong Screenshot_2022-07-14-22-21-13-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Denglong</i>
               Screenshot_2022-07-14-22-21-13-21_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -152,7 +152,7 @@ description: monster Horned Denglong default quality GRADE A ATK 71 HP 73 DEF 67
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-denglong/Screenshot_2022-07-14-22-21-19-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Denglong Screenshot_2022-07-14-22-21-19-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Denglong</i>
               Screenshot_2022-07-14-22-21-19-67_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -164,7 +164,7 @@ description: monster Horned Denglong default quality GRADE A ATK 71 HP 73 DEF 67
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-denglong/Screenshot_2022-07-14-22-21-24-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Denglong Screenshot_2022-07-14-22-21-24-13_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Denglong</i>
               Screenshot_2022-07-14-22-21-24-13_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -176,7 +176,7 @@ description: monster Horned Denglong default quality GRADE A ATK 71 HP 73 DEF 67
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-denglong/Screenshot_2022-07-14-22-21-29-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Denglong Screenshot_2022-07-14-22-21-29-97_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Denglong</i>
               Screenshot_2022-07-14-22-21-29-97_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -188,7 +188,7 @@ description: monster Horned Denglong default quality GRADE A ATK 71 HP 73 DEF 67
               src="https://www.webmanajemen.com/chimeraland/monsters/horned-denglong/Screenshot_2022-07-14-22-21-35-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Horned Denglong Screenshot_2022-07-14-22-21-35-71_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Horned Denglong</i>
               Screenshot_2022-07-14-22-21-35-71_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

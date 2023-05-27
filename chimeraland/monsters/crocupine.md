@@ -59,7 +59,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Crocupine stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -90,7 +90,9 @@ categories:
               src="https://www.webmanajemen.com/undefined"
               alt="Crocupine undefined"
             />
-            <figcaption><i>Crocupine</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Crocupine</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -99,7 +101,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/crocupine/Screenshot_2022-08-12-23-36-53-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Crocupine Screenshot_2022-08-12-23-36-53-61_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Crocupine</i>
               Screenshot_2022-08-12-23-36-53-61_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -111,7 +113,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/crocupine/Screenshot_2022-08-12-23-36-58-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Crocupine Screenshot_2022-08-12-23-36-58-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Crocupine</i>
               Screenshot_2022-08-12-23-36-58-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -123,7 +125,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/crocupine/Screenshot_2022-08-12-23-37-04-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Crocupine Screenshot_2022-08-12-23-37-04-24_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Crocupine</i>
               Screenshot_2022-08-12-23-37-04-24_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -135,7 +137,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/crocupine/Screenshot_2022-08-12-23-37-09-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Crocupine Screenshot_2022-08-12-23-37-09-28_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Crocupine</i>
               Screenshot_2022-08-12-23-37-09-28_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -147,7 +149,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/crocupine/Screenshot_2022-08-12-23-37-15-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Crocupine Screenshot_2022-08-12-23-37-15-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Crocupine</i>
               Screenshot_2022-08-12-23-37-15-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -159,7 +161,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/crocupine/Screenshot_2022-08-12-23-37-22-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Crocupine Screenshot_2022-08-12-23-37-22-19_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Crocupine</i>
               Screenshot_2022-08-12-23-37-22-19_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -171,7 +173,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/crocupine/Screenshot_2022-08-12-23-37-34-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Crocupine Screenshot_2022-08-12-23-37-34-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Crocupine</i>
               Screenshot_2022-08-12-23-37-34-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

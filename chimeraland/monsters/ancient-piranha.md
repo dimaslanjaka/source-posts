@@ -63,7 +63,7 @@ description: "monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Ancient Piranha stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -128,7 +128,9 @@ description: "monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF
               src="https://www.webmanajemen.com/undefined"
               alt="Ancient Piranha undefined"
             />
-            <figcaption><i>Ancient Piranha</i> .</figcaption>
+            <figcaption style="word-wrap: break-word">
+              <i>Ancient Piranha</i> .
+            </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
@@ -137,7 +139,7 @@ description: "monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF
               src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ancient Piranha Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ancient Piranha</i>
               Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -149,7 +151,7 @@ description: "monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF
               src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-22-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ancient Piranha Screenshot_2022-07-29-00-31-22-78_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ancient Piranha</i>
               Screenshot_2022-07-29-00-31-22-78_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -161,7 +163,7 @@ description: "monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF
               src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-26-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ancient Piranha Screenshot_2022-07-29-00-31-26-31_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ancient Piranha</i>
               Screenshot_2022-07-29-00-31-26-31_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -173,7 +175,7 @@ description: "monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF
               src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-29-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ancient Piranha Screenshot_2022-07-29-00-31-29-86_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ancient Piranha</i>
               Screenshot_2022-07-29-00-31-29-86_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -185,7 +187,7 @@ description: "monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF
               src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-34-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ancient Piranha Screenshot_2022-07-29-00-31-34-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ancient Piranha</i>
               Screenshot_2022-07-29-00-31-34-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -197,7 +199,7 @@ description: "monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF
               src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-39-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ancient Piranha Screenshot_2022-07-29-00-31-39-21_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ancient Piranha</i>
               Screenshot_2022-07-29-00-31-39-21_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
@@ -209,7 +211,7 @@ description: "monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF
               src="https://www.webmanajemen.com/chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-49-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
               alt="Ancient Piranha Screenshot_2022-07-29-00-31-49-12_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Ancient Piranha</i>
               Screenshot_2022-07-29-00-31-49-12_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>

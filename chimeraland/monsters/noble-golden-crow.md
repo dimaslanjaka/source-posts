@@ -54,7 +54,7 @@ categories:
         </div>
       </div>
     </div>
-    <blockquote>
+    <blockquote class="bd-callout bd-callout-warning">
       Note: Noble Golden Crow stat will increase based on their <b>grade</b> and
       <b>delicacies/tasty</b>.
     </blockquote>
@@ -85,7 +85,7 @@ categories:
               src="https://www.webmanajemen.com/chimeraland/monsters/noble-golden-crow/noble-golden-crow.webp"
               alt="Noble Golden Crow noble-golden-crow.webp"
             />
-            <figcaption>
+            <figcaption style="word-wrap: break-word">
               <i>Noble Golden Crow</i> noble-golden-crow.webp.
             </figcaption>
           </figure>
