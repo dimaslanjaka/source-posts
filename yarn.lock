@@ -551,14 +551,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/gulp@npm:^4.0.10":
-  version: 4.0.10
-  resolution: "@types/gulp@npm:4.0.10"
+"@types/gulp@npm:^4.0.11":
+  version: 4.0.11
+  resolution: "@types/gulp@npm:4.0.11"
   dependencies:
     "@types/undertaker": ">=1.2.6"
     "@types/vinyl-fs": "*"
     chokidar: ^3.3.1
-  checksum: ac85fc1ad53bf3e093b72e88700db61b10997e9facf82fe6dc0dd50fcd89af39ef1342baaaf34609174601e84066607e29598d0b99fe9e75e1f197097cba0308
+  checksum: 55b84c83bcbc55b20d3d4018dd229f46fbfa05d2b8852477bd88c3ae4ac2ee9a28c8767484bd052ecadbbb73007848655015006f9a4277d00b881f4d273670ed
   languageName: node
   linkType: hard
 
@@ -8004,7 +8004,7 @@ __metadata:
     "@octokit/types": ^9.2.3
     "@types/express": ^4
     "@types/fs-extra": ^11.0.1
-    "@types/gulp": ^4.0.10
+    "@types/gulp": ^4.0.11
     "@types/jsdom": ^21
     "@types/node": ^20.2.3
     "@types/nunjucks": ^3
