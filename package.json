@@ -63,7 +63,7 @@
     "jsdom": "^21.1.1",
     "moment-timezone": "^0.5.43",
     "nunjucks": "^3.2.4",
-    "puppeteer": "^20.3.0",
+    "puppeteer": "^20.4.0",
     "sbg-utility": "^1.1.0",
     "upath": "^2.0.1"
   },
