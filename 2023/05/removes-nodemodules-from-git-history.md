@@ -1,9 +1,10 @@
 ---
 title: removes node_modules from git history
 date: 2023-05-16T05:35:19+07:00
-updated: 2023-05-23T10:30:04+07:00
+updated: 2023-05-30T21:25:51+07:00
 category: [programming, bash, github]
 tags: [bash, snippet, script, github]
+thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82
 ---
 
 <!-- https://stackoverflow.com/questions/10067848/remove-folder-and-its-contents-from-git-githubs-history/61544937#61544937 -->
@@ -43,7 +44,7 @@ tags: [bash, snippet, script, github]
   The rest of the commands are relatively straightforward.
 </details>
 
-## [André Anjos' answer](https://stackoverflow.com/posts/61544937/timeline)
+## [André Anjos' answer](https://stackoverflow.com/posts/61544937/timeline) using `git-filter-repo`
 
 > required [git-filter-repo](https://www.webmanajemen.com/2023/03/install-git-filter-repo.html)
 
@@ -53,7 +54,18 @@ Most of the multi-line scripts above to remove `dir` from the history could be r
 
 ```bash
 git-filter-repo --path node_modules --invert-paths --refs BRANCH_NAME
+git remote add origin https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME
+git push --force-with-lease -u origin BRANCH_NAME
+```
+
+To remove recursively within all subfolders:
+
+```bash
+git-filter-repo --invert-paths --path-glob "**/node_modules" --refs BRANCH_NAME
+git remote add origin https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME
 git push --force-with-lease -u origin BRANCH_NAME
 ```
 
 The tool is more powerful than just that, apparently. You can apply filters by author, email, refname and more ([full manpage here](https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html)). Furthermore, it is **fast**. Installation is easy - it is [distributed in a variety of formats](https://github.com/newren/git-filter-repo/blob/master/INSTALL.md).
+
+![thumbnail](https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82)
