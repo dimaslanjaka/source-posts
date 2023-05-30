@@ -50,7 +50,7 @@ thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736
 
 It appears that the up-to-date answer to this is to **not** use `filter-branch` directly (at least git itself does not recommend it anymore), and defer that work to an external tool. In particular, [git-filter-repo](https://github.com/newren/git-filter-repo/) is currently recommended. The author of that tool [provides arguments](https://github.com/newren/git-filter-repo/#filter-branch) on why using `filter-branch` directly can lead to issues.
 
-Most of the multi-line scripts above to remove `dir` from the history could be re-written as:
+Most of the multi-line scripts above to remove `node_modules` from the history could be re-written as:
 
 ```bash
 git-filter-repo --path node_modules --invert-paths --refs BRANCH_NAME
@@ -58,7 +58,7 @@ git remote add origin https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NA
 git push --force-with-lease -u origin BRANCH_NAME
 ```
 
-To remove recursively within all subfolders:
+To remove `node_modules` recursively within all subfolders:
 
 ```bash
 git-filter-repo --invert-paths --path-glob "**/node_modules" --refs BRANCH_NAME
