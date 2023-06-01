@@ -1,7 +1,7 @@
 ---
 title: removes node_modules from git history
 date: 2023-05-16T05:35:19+07:00
-updated: 2023-06-01T09:02:07+07:00
+updated: 2023-06-01T09:12:13+07:00
 category: [programming, bash, github]
 tags: [bash, snippet, script, github]
 thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82
@@ -10,7 +10,7 @@ thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736
 <!-- https://stackoverflow.com/questions/10067848/remove-folder-and-its-contents-from-git-githubs-history/61544937#61544937 -->
 
 <details>
-  <summary>Deprecated Method</summary>
+  <summary>Deprecated method to delete node_modules from github repository commit history</summary>
   
   **WARNING**: git filter-branch is [no longer officially recommended](https://git-scm.com/docs/git-filter-branch#_warning). 
 
@@ -69,5 +69,10 @@ git push --force-with-lease -u origin BRANCH_NAME
 ```
 
 The tool is more powerful than just that, apparently. You can apply filters by author, email, refname and more ([full manpage here](https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html)). Furthermore, it is **fast**. Installation is easy - it is [distributed in a variety of formats](https://github.com/newren/git-filter-repo/blob/master/INSTALL.md).
+
+article incoming terms:
+
+- git-filter-repo delete node_modules recursively
+- reduce size github repository by deleting node_modules in whole repo
 
 ![thumbnail](https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82)
