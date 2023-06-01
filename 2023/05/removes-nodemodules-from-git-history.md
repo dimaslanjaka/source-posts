@@ -1,7 +1,7 @@
 ---
 title: removes node_modules from git history
 date: 2023-05-16T05:35:19+07:00
-updated: 2023-05-30T21:25:51+07:00
+updated: 2023-06-01T08:55:50+07:00
 category: [programming, bash, github]
 tags: [bash, snippet, script, github]
 thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82
@@ -55,6 +55,7 @@ Most of the multi-line scripts above to remove `node_modules` from the history c
 ```bash
 git-filter-repo --path node_modules --invert-paths --refs BRANCH_NAME
 git remote add origin https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME
+git fetch --all --prune
 git push --force-with-lease -u origin BRANCH_NAME
 ```
 
@@ -63,6 +64,7 @@ To remove `node_modules` recursively within all subfolders:
 ```bash
 git-filter-repo --invert-paths --path-glob "**/node_modules" --refs BRANCH_NAME
 git remote add origin https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME
+git fetch --all --prune
 git push --force-with-lease -u origin BRANCH_NAME
 ```
 
