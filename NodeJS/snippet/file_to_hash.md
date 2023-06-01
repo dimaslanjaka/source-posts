@@ -3,10 +3,9 @@ title: File to Hash
 description: get hashes checksum from file using NodeJS
 webtitle: NodeJS Snippet
 date: 2022-12-30T14:14:39+07:00
-updated: 2022-12-30T14:14:39+07:00
+updated: 2023-06-01T10:59:00+07:00
 tags: ['snippet', 'javascript', 'typescript', 'file']
 categories: ['JS', 'TS']
-layout: snippet
 type: post
 thumbnail: /NodeJS/assets/pngwing.com.png
 ---
