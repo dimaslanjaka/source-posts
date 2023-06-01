@@ -1,7 +1,7 @@
 ---
 title: removes node_modules from git history
 date: 2023-05-16T05:35:19+07:00
-updated: 2023-06-01T08:55:50+07:00
+updated: 2023-06-01T09:02:07+07:00
 category: [programming, bash, github]
 tags: [bash, snippet, script, github]
 thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82
@@ -12,7 +12,7 @@ thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736
 <details>
   <summary>Deprecated Method</summary>
   
-  ***WARNING**: git filter-branch is [no longer officially recommended](https://git-scm.com/docs/git-filter-branch#_warning). 
+  **WARNING**: git filter-branch is [no longer officially recommended](https://git-scm.com/docs/git-filter-branch#_warning). 
 
   The official recommendation is to use [git-filter-repo](https://github.com/newren/git-filter-repo/).
 
