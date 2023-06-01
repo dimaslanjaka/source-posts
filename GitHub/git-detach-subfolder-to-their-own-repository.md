@@ -1,9 +1,10 @@
 ---
 title: git detach subfolder to their own repository
 date: 2023-05-30T01:02:45+07:00
-updated: 2023-05-30T01:09:55+07:00
+updated: 2023-06-01T11:05:05+07:00
 tags: [github, bash]
 category: [programming, bash]
+thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/aba30e58-526f-48c3-a2c5-fe7df582b8b2
 ---
 
 If you create a new clone of a repository, you can split the folder into another repository without losing your Git history or changes.
@@ -68,3 +69,5 @@ Now the repository will only contain the files that were in the subfolders.
     ```
     git push -u origin BRANCH-NAME
     ```
+
+![thumbnail](https://github.com/dimaslanjaka/source-posts/assets/12471057/aba30e58-526f-48c3-a2c5-fe7df582b8b2)
