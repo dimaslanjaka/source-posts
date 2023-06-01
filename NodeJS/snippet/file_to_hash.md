@@ -3,7 +3,7 @@ title: File to Hash
 description: get hashes checksum from file using NodeJS
 webtitle: NodeJS Snippet
 date: 2022-12-30T14:14:39+07:00
-updated: 2023-06-01T10:59:00+07:00
+updated: 2023-06-01T11:51:00+07:00
 tags: ['snippet', 'javascript', 'typescript', 'file']
 categories: ['JS', 'TS']
 type: post
@@ -38,3 +38,5 @@ function file_to_hash(alogarithm = 'sha1', path, encoding = 'hex') {
 ```js
 file_to_hash('sha512', 'D:/Repositories/release/file.tgz').then(console.log);
 ```
+
+![thumbnail](https://github.com/dimaslanjaka/source-posts/assets/12471057/e295efe9-e194-4bf2-a6ea-d385f6686e7b)
