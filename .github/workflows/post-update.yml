@@ -1,4 +1,5 @@
 name: Post Update
+run-name: Reusable Build Site CI
 
 on:
   schedule:
