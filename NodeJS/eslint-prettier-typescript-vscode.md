@@ -5,6 +5,8 @@ author:
   image: https://i.pinimg.com/564x/32/bc/65/32bc65e19220728fb290249059a7242a.jpg
 category:
   - Programming
+  - Javascript
+  - Typescript
 comments: true
 cover: https://i.ytimg.com/vi/lHAeK8t94as/maxresdefault.jpg
 date: 2021-11-28T07:00:00+07:00
@@ -13,8 +15,6 @@ keywords:
   - eslint
   - prettier
   - vscode
-  - auto
-  - format
   - lint
 lang: en
 location: Indonesia
@@ -29,7 +29,7 @@ title: Eslint Prettier In Typescript Project Using Vscode
 type: post
 uuid: 3f6ada3c-0ed8-4888-87c8-3371f8927a2c
 webtitle: NodeJS
-updated: 2023-05-02T18:48:39+07:00
+updated: 2023-06-05T20:42:21+07:00
 ---
 
 ## Auto Lint And Format Typescript Using VSCode With Eslint And Prettier
