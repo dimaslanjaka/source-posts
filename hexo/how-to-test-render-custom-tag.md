@@ -1,8 +1,8 @@
 ---
 title: How to test render custom tag on HexoJS ?
 date: 2023-05-19T15:31:45+07:00
-updated: 2023-05-19T15:31:45+07:00
-tags: [hexo, snippet]
+updated: 2023-06-13T01:19:01+07:00
+tags: [hexo, snippet, script, javascript]
 categories: [programming, javascript, typescript]
 ---
 
