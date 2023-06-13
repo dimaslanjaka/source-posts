@@ -23,13 +23,13 @@ All in one recipes
 
 ![Script auto fishing Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Script+auto+fishing+Chimeraland)
 
-## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
-
-![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
-
 ## [Pet and attendant delicacies tasty informations Chimeraland](/chimeraland/pet-attendant-delicacies.html)
 
 ![Pet and attendant delicacies tasty informations Chimeraland](https://i.ytimg.com/vi/cTViqpwvxqU/maxresdefault.jpg)
+
+## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
+
+![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
 
 ## [Apa itu NSC di chimeraland?](/chimeraland/nsc.html)
 
@@ -43,13 +43,13 @@ All in one recipes
 
 ![Mengatasi lag chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Mengatasi+lag+chimeraland)
 
-## [Material Location In Chimeraland](/chimeraland/material-location.html)
-
-![Material Location In Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Material+Location+In+Chimeraland)
-
 ## [Index Chimeraland](/chimeraland/index2.html)
 
 ![Index Chimeraland](https://i.ytimg.com/vi/K3Ns77dNuoA/maxresdefault.jpg)
+
+## [Material Location In Chimeraland](/chimeraland/material-location.html)
+
+![Material Location In Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Material+Location+In+Chimeraland)
 
 ## [Chimeraland Unofficial Wikipedia](/chimeraland/index.html)
 
