@@ -306,10 +306,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@octokit/openapi-types@npm:^17.2.0":
-  version: 17.2.0
-  resolution: "@octokit/openapi-types@npm:17.2.0"
-  checksum: 29995e34f98d9d64ba234d64a7ae9486c66d2bb6ac0d30d9a42decdbb4b03b13e811769b1e1505a1748ff20c22d35724985e6c128cd11a3f14f8322201520093
+"@octokit/openapi-types@npm:^18.0.0":
+  version: 18.0.0
+  resolution: "@octokit/openapi-types@npm:18.0.0"
+  checksum: d487d6c6c1965e583eee417d567e4fe3357a98953fc49bce1a88487e7908e9b5dbb3e98f60dfa340e23b1792725fbc006295aea071c5667a813b9c098185b56f
   languageName: node
   linkType: hard
 
@@ -352,21 +352,21 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@octokit/types@npm:^10.0.0":
+  version: 10.0.0
+  resolution: "@octokit/types@npm:10.0.0"
+  dependencies:
+    "@octokit/openapi-types": ^18.0.0
+  checksum: 8aafba2ff0cd2435fb70c291bf75ed071c0fa8a865cf6169648732068a35dec7b85a345851f18920ec5f3e94ee0e954988485caac0da09ec3f6781cc44fe153a
+  languageName: node
+  linkType: hard
+
 "@octokit/types@npm:^9.0.0":
   version: 9.1.2
   resolution: "@octokit/types@npm:9.1.2"
   dependencies:
     "@octokit/openapi-types": ^17.0.0
   checksum: 64bf6ae1769c5b6c78ff4213500dcecdc1c026ac889d884b7d7d986b8820555c0fba91cac91b7df1daa488dcde418859226feace2032a4fd25eb1ff210533cae
-  languageName: node
-  linkType: hard
-
-"@octokit/types@npm:^9.2.3":
-  version: 9.2.3
-  resolution: "@octokit/types@npm:9.2.3"
-  dependencies:
-    "@octokit/openapi-types": ^17.2.0
-  checksum: 6806413089f20a8302237ef85aa2e83bace7499e95fdc3db2d304f9e6dc6e87fb6766452f92e08ddf475046b69753e11beabaeff6733c38bdaf3e21dfd7d3341
   languageName: node
   linkType: hard
 
@@ -7943,7 +7943,7 @@ __metadata:
     "@octokit/core": ^4.2.4
     "@octokit/graphql": ^5.0.6
     "@octokit/request": ^6.2.8
-    "@octokit/types": ^9.2.3
+    "@octokit/types": ^10.0.0
     "@types/express": ^4
     "@types/fs-extra": ^11.0.1
     "@types/gulp": ^4.0.10
