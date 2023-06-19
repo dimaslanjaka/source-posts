@@ -15,10 +15,6 @@ All in one recipes
 
 ![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
 
-## [Senjo craft lists](/chimeraland/senjo.html)
-
-![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
-
 ## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
 
 ![Script auto fishing Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Script+auto+fishing+Chimeraland)
@@ -94,6 +90,10 @@ All in one recipes
 ## [Cooking Recipes Chimeraland](/chimeraland/Recipes-list.html)
 
 ![Cooking Recipes Chimeraland](https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg)
+
+## [Senjo craft lists](/chimeraland/senjo.html)
+
+![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
 
 ## [Chimeraland Pets Attribute Stats Information](/chimeraland/Pets.html)
 
