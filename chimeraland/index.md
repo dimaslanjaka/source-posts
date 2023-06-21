@@ -39,10 +39,6 @@ All in one recipes
 
 ![New Map Northmount on Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=New+Map+Northmount+on+Chimeraland)
 
-## [Mengatasi lag chimeraland](/chimeraland/network-troubleshooting.html)
-
-![Mengatasi lag chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Mengatasi+lag+chimeraland)
-
 ## [Material Location In Chimeraland](/chimeraland/material-location.html)
 
 ![Material Location In Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Material+Location+In+Chimeraland)
@@ -98,6 +94,10 @@ All in one recipes
 ## [Chimeraland Pets Attribute Stats Information](/chimeraland/Pets.html)
 
 ![Chimeraland Pets Attribute Stats Information](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Chimeraland+Pets+Attribute+Stats+Information)
+
+## [Mengatasi lag chimeraland](/chimeraland/network-troubleshooting.html)
+
+![Mengatasi lag chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Mengatasi+lag+chimeraland)
 
 ## [Bug Report Chimeraland v2.0.2.117](/chimeraland/report/bug-report-v202117.html)
 
