@@ -229,12 +229,8 @@ function jQueryMethod() {
   });
 
   const jqInput = jQuery(inputSearch);
-  // on input typed
-  jqInput.on('keyup', function () {
-    searchLi(jQuery(this).val());
-  });
-  // on input changed
-  jqInput.on('change', function () {
+  // on input typed and changed https://stackoverflow.com/a/7757327/6404439
+  jqInput.on('keyup change', function () {
     searchLi(jQuery(this).val());
   });
 
