@@ -19,13 +19,13 @@ All in one recipes
 
 ![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
 
-## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
-
-![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
-
 ## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
 
 ![Script auto fishing Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Script+auto+fishing+Chimeraland)
+
+## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
+
+![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
 
 ## [Pet and attendant delicacies tasty informations Chimeraland](/chimeraland/pet-attendant-delicacies.html)
 
@@ -83,17 +83,17 @@ All in one recipes
 
 ![Chimeraland attendant skill book list](https://img.youtube.com/vi/kV6vGNhwyRA/mqdefault.jpg)
 
-## [Cooking Recipes Chimeraland](/chimeraland/Recipes-list.html)
+## [Chimeraland Attendant List](/chimeraland/attendant-list.html)
 
-![Cooking Recipes Chimeraland](https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg)
+![Chimeraland Attendant List](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Chimeraland+Attendant+List)
 
 ## [Taming Pets Chimeraland](/chimeraland/Taming.html)
 
 ![Taming Pets Chimeraland](https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg)
 
-## [Chimeraland Attendant List](/chimeraland/attendant-list.html)
+## [Cooking Recipes Chimeraland](/chimeraland/Recipes-list.html)
 
-![Chimeraland Attendant List](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Chimeraland+Attendant+List)
+![Cooking Recipes Chimeraland](https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg)
 
 ## [Chimeraland Pets Attribute Stats Information](/chimeraland/Pets.html)
 
