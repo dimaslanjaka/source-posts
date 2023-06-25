@@ -90,68 +90,47 @@ let quizUrls = [
 let quizSrc = [];
 
 function jQueryMethod() {
-  // input search
+  // ul questions
+  //let questions = document.getElementById('questions');
   let inputSearch = document.getElementById('search-questions');
-  // process indicator
-  let restartSearch = false;
-  let searchRunning = false;
+  //let O_only = document.getElementById('O_only');
 
   // searcher
-  const searchLi = function (filter) {
-    // set indicator running to true
-    searchRunning = true;
-    return new Promise(function (resolvePromise) {
-      if (!filter) {
-        console.log('input empty');
-        return;
+  let searchLi = function (filter) {
+    if (!filter) {
+      console.log('input empty');
+      return;
+    }
+    let listQuiz = jQuery("ul[id*='questions'] li");
+    listQuiz.each(function (_index) {
+      // search from first characters
+      let searchFirst =
+        jQuery(this)
+          .text()
+          .search(new RegExp('^' + escapeRegExp(filter), 'gmi')) < 0;
+      if (searchFirst) {
+        jQuery(this).hide();
+      } else {
+        jQuery(this).show();
+        // move to first position
+        jQuery(this).prependTo(jQuery("ul[id*='questions']"));
       }
-      let listQuiz = jQuery("ul[id*='questions'] li");
-      listQuiz.each(function (index, data) {
-        if (restartSearch) {
-          // skip process when restartSearch is true
-          return;
-        }
-        const isLastElement = index == data.length - 1;
-        // search from first characters
-        let searchFirst =
-          jQuery(this)
-            .text()
-            .search(new RegExp('^' + escapeRegExp(filter), 'gmi')) < 0;
-        if (searchFirst) {
-          jQuery(this).hide();
-        } else {
-          jQuery(this).show();
-          // move to first position
-          jQuery(this).prependTo(jQuery("ul[id*='questions']"));
-        }
 
-        // search wildcards
-        let searchWild =
-          jQuery(this)
-            .text()
-            .search(new RegExp(escapeRegExp(filter), 'gmi')) < 0;
-        if (searchWild) {
-          jQuery(this).hide();
-        } else {
-          jQuery(this).show();
-        }
-
-        if (isLastElement) {
-          // release restart indicator
-          if (restartSearch) {
-            restartSearch = false;
-          }
-          // release running indicator
-          searchRunning = false;
-          // resolve
-          resolvePromise(null);
-        }
-      });
+      // search wildcards
+      let searchWild =
+        jQuery(this)
+          .text()
+          .search(new RegExp(escapeRegExp(filter), 'gmi')) < 0;
+      if (searchWild) {
+        jQuery(this).hide();
+      } else {
+        jQuery(this).show();
+      }
     });
   };
 
   // transform array to li
-  const transformArray2Li = function () {
+  let transformArray2Li = function () {
     // clean orphan text
     $('#questions').text('');
     // remove existing li's
@@ -168,31 +147,6 @@ function jQueryMethod() {
         li.setAttribute('class', 'isFalse');
       }
       document.getElementById('questions').appendChild(li);
-    }
-  };
-
-  const processResponse = function (data) {
-    if (typeof data === 'string') {
-      // split newLine from retrieved text into array
-      let split = data.split('\n');
-      // trim
-      quizSrc = quizSrc.map(function (str) {
-        return str.trim();
-      });
-      // merge and remove duplicates
-      quizSrc = uniqArr(
-        // merge
-        quizSrc
-          .concat(split)
-          // trim
-          .map(function (str) {
-            return str.trim();
-          })
-      )
-        // remove empties
-        .filter((str) => str.trim().length > 0);
-      // transform
-      transformArray2Li();
     }
   };
 
@@ -221,26 +175,41 @@ function jQueryMethod() {
       });
   });
 
+  function processResponse(data) {
+    if (typeof data === 'string') {
+      // split newLine from retrieved text into array
+      let split = data.split('\n');
+      // trim
+      quizSrc = quizSrc.map(function (str) {
+        return str.trim();
+      });
+      // merge and remove duplicates
+      quizSrc = uniqArr(
+        // merge
+        quizSrc
+          .concat(split)
+          // trim
+          .map(function (str) {
+            return str.trim();
+          })
+      )
+        // remove empties
+        .filter((str) => str.trim().length > 0);
+      // transform
+      transformArray2Li();
+    }
+  }
+
   /**
    * start searching
    */
   function doSearch() {
-    if (searchRunning) {
-      // tells the currently running function to stop
-      restartSearch = true;
-      while (searchRunning) {
-        // waiting until search running indicator to false
-      }
-      // do search then
+    if (
+      inputSearch &&
+      inputSearch.value &&
+      inputSearch.value.trim().length > 0
+    ) {
       searchLi(inputSearch.value);
-    } else {
-      if (
-        inputSearch &&
-        inputSearch.value &&
-        inputSearch.value.trim().length > 0
-      ) {
-        searchLi(inputSearch.value);
-      }
     }
   }
 
@@ -261,9 +230,13 @@ function jQueryMethod() {
 
   const jqInput = jQuery(inputSearch);
   // on input typed
-  jqInput.on('keyup', doSearch);
+  jqInput.on('keyup', function () {
+    searchLi(jQuery(this).val());
+  });
   // on input changed
-  jqInput.on('change', doSearch);
+  jqInput.on('change', function () {
+    searchLi(jQuery(this).val());
+  });
 
   // form add quiz
   /*
