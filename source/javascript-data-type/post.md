@@ -20,6 +20,23 @@ permalink: javascript/data-types.html
 7. Symbol ( `let sym1 = Symbol()` )
 8. Objects ( `{a: 123}, [1]` )
 
-##
+## {{ __('2head') }}
+{{ __('2desc') }}
 
-![js-datatypes](https://tutorial.techaltum.com/images/js-datatypes.jpg)
+### {{ __('3shead') }}
+1. String
+2. Number
+3. Boolean
+4. Undefined
+5. Null
+6. BigInt
+7. Symbol
+
+### {{ __('4shead') }}
+1. Array
+2. Object
+3. Function/Class
+4. Map
+5. Set
+
+![js-datatypes source techaltum.com](https://tutorial.techaltum.com/images/js-datatypes.jpg)

@@ -1,3 +1,7 @@
 title: Apa saja macam-macam tipe data yang ada dalam javascript?
 1head: Tipe Data Umum
 1desc: Berikut ini adalah tipe data yang umum digunakan dalam JavaScript
+2head: Kelompok Tipe Data Umum
+2desc: Tipe data umum juga dikelompokkan berdasarkan kategori dan kegunaannya
+3shead: Tipe Primitif
+4shead: Tipe Referensi

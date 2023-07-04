@@ -1,4 +1,9 @@
 title: What are the different data types present in javascript?
 1head: Common Data Type
 1desc: The following are data types commonly used in JavaScript
-"Hello %s, how are you today?": Hello %s, how are you today?
+2head: Group of Common Data Types
+2desc: Common data types are also grouped by category and use
+3shead: Primitive Type
+4shead: Reference Type
+
+
