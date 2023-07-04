@@ -1,5 +1,5 @@
 ---
-title: {{ title }}
+title: {{ __('title') }}
 date: 2023-07-04T15:42:48+07:00
 updated: 2023-07-04T15:42:48+07:00
 tags: ['javascript']
@@ -8,8 +8,8 @@ cover: https://www.javascripttutorial.net/wp-content/uploads/2022/01/JavaScript-
 permalink: javascript/data-types.html
 ---
 
-## {{ 1head }}
-{{ 1desc }}
+## {{ __('1head') }}
+{{ __('1desc') }}
 
 1. Boolean ( `true, false` )
 2. Null ( `null` )
