@@ -6,3 +6,5 @@ exclude:
 skip_render:
   - '**/readme.md'
 post_dir: posts
+url: https://www.webmanajemen.com
+root: /
