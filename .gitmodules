@@ -9,3 +9,4 @@
 [submodule "packages/translator"]
 	path = packages/translator
 	url = https://github.com/dimaslanjaka/puppeteer-google-translate.git
+	branch = main
