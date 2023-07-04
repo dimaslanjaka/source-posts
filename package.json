@@ -78,19 +78,19 @@
   "resolutions": {
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/tarball/private",
     "safelinkify": "https://github.com/dimaslanjaka/safelink/raw/monorepo/release/safelinkify.tgz",
-    "sbg-api": "https://github.com/dimaslanjaka/static-blog-generator/raw/3d352a6c2fa9217d57b8e049c40563c0a2ab41de/packages/sbg-api/release/sbg-api.tgz",
-    "sbg-cli": "https://github.com/dimaslanjaka/static-blog-generator/raw/3d352a6c2fa9217d57b8e049c40563c0a2ab41de/packages/sbg-cli/release/sbg-cli.tgz",
-    "sbg-server": "https://github.com/dimaslanjaka/static-blog-generator/raw/3d352a6c2fa9217d57b8e049c40563c0a2ab41de/packages/sbg-server/release/sbg-server.tgz",
-    "sbg-utility": "https://github.com/dimaslanjaka/static-blog-generator/raw/7b456ddfec3be6bed5db137782c0947e863e9cd3/packages/sbg-utility/release/sbg-utility.tgz",
-    "sitemap-crawler": "https://github.com/dimaslanjaka/static-blog-generator/raw/3d352a6c2fa9217d57b8e049c40563c0a2ab41de/packages/sitemap-crawler/release/sitemap-crawler.tgz",
-    "static-blog-generator": "https://github.com/dimaslanjaka/static-blog-generator/raw/3d352a6c2fa9217d57b8e049c40563c0a2ab41de/packages/static-blog-generator/release/static-blog-generator.tgz",
+    "sbg-api": "https://github.com/dimaslanjaka/static-blog-generator/raw/5d7fa3b/packages/sbg-api/release/sbg-api.tgz",
+    "sbg-cli": "https://github.com/dimaslanjaka/static-blog-generator/raw/5d7fa3b/packages/sbg-cli/release/sbg-cli.tgz",
+    "sbg-server": "https://github.com/dimaslanjaka/static-blog-generator/raw/5d7fa3b/packages/sbg-server/release/sbg-server.tgz",
+    "sbg-utility": "https://github.com/dimaslanjaka/static-blog-generator/raw/5d7fa3b/packages/sbg-utility/release/sbg-utility.tgz",
+    "sitemap-crawler": "https://github.com/dimaslanjaka/static-blog-generator/raw/5d7fa3b/packages/sitemap-crawler/release/sitemap-crawler.tgz",
+    "static-blog-generator": "https://github.com/dimaslanjaka/static-blog-generator/raw/5d7fa3b/packages/static-blog-generator/release/static-blog-generator.tgz",
     "hexo-blogger-xml": "https://github.com/dimaslanjaka/hexo-blogger-xml/raw/monorepo/release/hexo-blogger-xml.tgz",
     "hexo-asset-link": "https://github.com/dimaslanjaka/hexo/raw/7c3a93f/releases/hexo-asset-link.tgz",
     "hexo-front-matter": "https://github.com/dimaslanjaka/hexo/raw/7c3a93f/releases/hexo-front-matter.tgz",
     "hexo": "https://github.com/dimaslanjaka/hexo/raw/7c3a93f/releases/hexo.tgz",
     "warehouse": "https://github.com/dimaslanjaka/hexo/raw/7c3a93f/releases/warehouse.tgz",
     "git-command-helper": "https://github.com/dimaslanjaka/git-command-helper/raw/68dfda255a3122686a1008ddb1c35f34cdfb3cfc/release/git-command-helper.tgz",
-    "instant-indexing": "https://github.com/dimaslanjaka/static-blog-generator/raw/3d352a6c2fa9217d57b8e049c40563c0a2ab41de/packages/instant-indexing/release/instant-indexing.tgz"
+    "instant-indexing": "https://github.com/dimaslanjaka/static-blog-generator/raw/5d7fa3b/packages/instant-indexing/release/instant-indexing.tgz"
   },
   "engines": {
     "node": ">=14",

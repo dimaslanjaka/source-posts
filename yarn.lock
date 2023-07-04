@@ -12399,9 +12399,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sbg-utility@https://github.com/dimaslanjaka/static-blog-generator/raw/7b456ddfec3be6bed5db137782c0947e863e9cd3/packages/sbg-utility/release/sbg-utility.tgz":
+"sbg-utility@https://github.com/dimaslanjaka/static-blog-generator/raw/5d7fa3b/packages/sbg-utility/release/sbg-utility.tgz":
   version: 1.1.2
-  resolution: "sbg-utility@https://github.com/dimaslanjaka/static-blog-generator/raw/7b456ddfec3be6bed5db137782c0947e863e9cd3/packages/sbg-utility/release/sbg-utility.tgz"
+  resolution: "sbg-utility@https://github.com/dimaslanjaka/static-blog-generator/raw/5d7fa3b/packages/sbg-utility/release/sbg-utility.tgz"
   dependencies:
     ansi-colors: ^4.1.3
     async: ^3.2.4
@@ -12431,7 +12431,7 @@ __metadata:
     tslib: ^2.5.2
     upath: ^2.0.1
     yaml: ^2.3.1
-  checksum: 8caaf88066eccd434e631a42b541eb6794b678a8b5f308f2564bb46479a7dee1fb6a29d25270b0448fe941141c13db586234afb42bbbe160172fb81cc8dff98a
+  checksum: 87bdc8ac0347be976ed87152a3f2b53668b71bf7734f579d1a47cb33ed9c7b555e700b56effb05c098d05c2df5ac6767ce361dd43b2c7696ef0954b692c806a3
   languageName: node
   linkType: hard
 
