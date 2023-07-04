@@ -17,7 +17,8 @@
     "update:ncu": "npx npm-check-updates --enginesNode -u -x jsdom,chalk,deepmerge-ts",
     "update": "run-s update:**",
     "postupdate": "npm install",
-    "fix:puppeteer": "node node_modules/puppeteer/install.js"
+    "fix:puppeteer": "node node_modules/puppeteer/install.js",
+    "build": "ts-node -r dotenv/config src/i18n/iterate-posts.ts"
   },
   "keywords": [],
   "author": "",
