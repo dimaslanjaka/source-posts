@@ -5,7 +5,7 @@
 [submodule "packages/hexo-post-parser"]
 	path = packages/hexo-post-parser
 	url = https://github.com/dimaslanjaka/hexo-post-parser.git
-	branch = monorepo
+	branch = pre-release
 [submodule "packages/translator"]
 	path = packages/translator
 	url = https://github.com/dimaslanjaka/puppeteer-google-translate.git
