@@ -19,13 +19,13 @@ All in one recipes
 
 ![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
 
-## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
-
-![Script auto fishing Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Script+auto+fishing+Chimeraland)
-
 ## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
 
 ![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
+
+## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
+
+![Script auto fishing Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Script+auto+fishing+Chimeraland)
 
 ## [Pet and attendant delicacies tasty informations Chimeraland](/chimeraland/pet-attendant-delicacies.html)
 
