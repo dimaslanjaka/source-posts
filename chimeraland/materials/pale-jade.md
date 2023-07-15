@@ -5,9 +5,8 @@ updated: 2022-09-29T03:26:37+07:00
 author: L3n4r0x
 permalink: /chimeraland/materials/pale-jade.html
 photos:
-  - /chimeraland/materials/pale-jade/pale-jade.webp
   - /chimeraland/materials/pale-jade/eastmount.webp
-thumbnail: /chimeraland/materials/pale-jade/pale-jade.webp
+thumbnail: /chimeraland/materials/pale-jade/eastmount.webp
 tags:
   - chimeraland
   - material
@@ -42,7 +41,7 @@ categories:
       </div>
       <div class="col-auto d-none d-md-block d-lg-block">
         <img
-          src="https://www.webmanajemen.com/chimeraland/materials/pale-jade/pale-jade.webp"
+          src="https://www.webmanajemen.com/chimeraland/materials/pale-jade/eastmount.webp"
           alt="Pale Jade"
         />
       </div>
@@ -82,16 +81,7 @@ categories:
       </div>
       <div class="col-12 mb-2">
         <h2>Pale Jade Spawn Locations</h2>
-        <div></div>
-        <div class="p-4">
-          <h5>Eastmount</h5>
-          <img
-            src="https://www.webmanajemen.com/chimeraland/materials/pale-jade/eastmount.webp"
-            alt="Pale Jade"
-            data-fancybox="true"
-            width="100%"
-          />
-        </div>
+        <p>Pale Jade is randomly spawned</p>
       </div>
     </div>
   </div>

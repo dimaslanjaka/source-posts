@@ -2,19 +2,19 @@
   "editor.tabCompletion": "on",
   "emmet.excludeLanguages": [],
   "emmet.includeLanguages": {
-    "markdown": "html"
+	"markdown": "html"
   },
   "[markdown]": {
-    "editor.wordWrap": "on",
-    "editor.quickSuggestions": {
-      "other": "on",
-      "comments": "off",
-      "strings": "off"
-    }
+	"editor.wordWrap": "on",
+	"editor.quickSuggestions": {
+	  "other": "on",
+	  "comments": "off",
+	  "strings": "off"
+	}
   },
   "emmet.showSuggestionsAsSnippets": true,
   "emmet.extensionsPath": [
-    "D:\\Repositories\\gh-pages\\src-posts\\The Legend Of Neverland\\.vscode"
+	"D:\\Repositories\\gh-pages\\src-posts\\The Legend Of Neverland\\.vscode"
   ],
   "code-runner.clearPreviousOutput": true,
   "code-runner.saveAllFilesBeforeRun": true

@@ -1,7 +1,7 @@
 {
   "html": {
-    "snippets": {
-      "vcdd": "details[open=true]>summary"
-    }
+	"snippets": {
+	  "vcdd": "details[open=true]>summary"
+	}
   }
 }

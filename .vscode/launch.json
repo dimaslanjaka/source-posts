@@ -1,32 +1,32 @@
 {
   "configurations": [
-    {
-      "command": "cd ../ && npx gulp article:copy",
-      "name": "Copy article",
-      "request": "launch",
-      "type": "node-terminal"
-    },
-    {
-      "command": "cd ../ && npx gulp article:copy && npx hexo server",
-      "name": "Hexo Server",
-      "request": "launch",
-      "type": "node-terminal",
-      "env": {
-        "NODE_ENV": "development",
-        "NODE_OPTIONS": "--max_old_space_size=2096"
-      }
-    },
-    {
-      "command": "cd ../ && npm run copy && npx hexo clean && npx hexo server",
-      "name": "Hexo Clean Server",
-      "request": "launch",
-      "type": "node-terminal"
-    },
-    {
-      "command": "cd ../ && npx gulp watch-post",
-      "name": "Watch Post",
-      "request": "launch",
-      "type": "node-terminal"
-    }
+	{
+	  "command": "cd ../ && npx gulp article:copy",
+	  "name": "Copy article",
+	  "request": "launch",
+	  "type": "node-terminal"
+	},
+	{
+	  "command": "cd ../ && npx gulp article:copy && npx hexo server",
+	  "name": "Hexo Server",
+	  "request": "launch",
+	  "type": "node-terminal",
+	  "env": {
+		"NODE_ENV": "development",
+		"NODE_OPTIONS": "--max_old_space_size=2096"
+	  }
+	},
+	{
+	  "command": "cd ../ && npm run copy && npx hexo clean && npx hexo server",
+	  "name": "Hexo Clean Server",
+	  "request": "launch",
+	  "type": "node-terminal"
+	},
+	{
+	  "command": "cd ../ && npx gulp watch-post",
+	  "name": "Watch Post",
+	  "request": "launch",
+	  "type": "node-terminal"
+	}
   ]
 }

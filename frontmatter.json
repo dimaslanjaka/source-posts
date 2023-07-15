@@ -3,123 +3,123 @@
   "frontMatter.content.autoUpdateDate": false,
   "frontMatter.preview.host": "http://localhost:4000",
   "frontMatter.taxonomy.contentTypes": [
-    {
-      "name": "default",
-      "pageBundle": false,
-      "fields": [
-        {
-          "title": "Title",
-          "name": "title",
-          "type": "string"
-        },
-        {
-          "title": "Description",
-          "name": "description",
-          "type": "string"
-        },
-        {
-          "title": "Publishing date",
-          "name": "date",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isPublishDate": true
-        },
-        {
-          "title": "Thumbnail",
-          "name": "thumbnail",
-          "type": "image"
-        },
-        {
-          "title": "Is in draft",
-          "name": "draft",
-          "type": "boolean"
-        },
-        {
-          "title": "Tags",
-          "name": "tags",
-          "type": "tags"
-        },
-        {
-          "title": "Categories",
-          "name": "categories",
-          "type": "categories"
-        },
-        {
-          "title": "updated",
-          "name": "updated",
-          "type": "datetime",
-          "default": "{{now}}",
-          "isModifiedDate": true
-        },
-        {
-          "title": "uuid",
-          "name": "uuid",
-          "type": "string",
-          "editable": false
-        },
-        {
-          "name": "permalink",
-          "editable": true,
-          "type": "slug"
-        },
-        {
-          "title": "Author",
-          "name": "author",
-          "type": "divider"
-        },
-        {
-          "name": "slug",
-          "required": false
-        }
-      ]
-    }
+	{
+	  "name": "default",
+	  "pageBundle": false,
+	  "fields": [
+		{
+		  "title": "Title",
+		  "name": "title",
+		  "type": "string"
+		},
+		{
+		  "title": "Description",
+		  "name": "description",
+		  "type": "string"
+		},
+		{
+		  "title": "Publishing date",
+		  "name": "date",
+		  "type": "datetime",
+		  "default": "{{now}}",
+		  "isPublishDate": true
+		},
+		{
+		  "title": "Thumbnail",
+		  "name": "thumbnail",
+		  "type": "image"
+		},
+		{
+		  "title": "Is in draft",
+		  "name": "draft",
+		  "type": "boolean"
+		},
+		{
+		  "title": "Tags",
+		  "name": "tags",
+		  "type": "tags"
+		},
+		{
+		  "title": "Categories",
+		  "name": "categories",
+		  "type": "categories"
+		},
+		{
+		  "title": "updated",
+		  "name": "updated",
+		  "type": "datetime",
+		  "default": "{{now}}",
+		  "isModifiedDate": true
+		},
+		{
+		  "title": "uuid",
+		  "name": "uuid",
+		  "type": "string",
+		  "editable": false
+		},
+		{
+		  "name": "permalink",
+		  "editable": true,
+		  "type": "slug"
+		},
+		{
+		  "title": "Author",
+		  "name": "author",
+		  "type": "divider"
+		},
+		{
+		  "name": "slug",
+		  "required": false
+		}
+	  ]
+	}
   ],
   "frontMatter.framework.id": "hexo",
   "frontMatter.content.publicFolder": "source/images",
   "frontMatter.content.pageFolders": [
-    {
-      "title": "2023/03",
-      "path": "[[workspace]]/2023/03"
-    },
-    {
-      "title": "2023/04",
-      "path": "[[workspace]]/2023/04"
-    }
+	{
+	  "title": "2023/03",
+	  "path": "[[workspace]]/2023/03"
+	},
+	{
+	  "title": "2023/04",
+	  "path": "[[workspace]]/2023/04"
+	}
   ],
   "frontMatter.taxonomy.tags": [
-    "Adsense",
-    "Android",
-    "Blogger",
-    "Blogging",
-    "CSS",
-    "Durango",
-    "Facebook",
-    "Games",
-    "HTML",
-    "JS",
-    "Miscellaneous",
-    "PHP",
-    "SEO",
-    "Social Media",
-    "Tips & Tricks",
-    "Tools",
-    "VainGlory",
-    "Wordpress",
-    "bash",
-    "batch",
-    "cmd",
-    "github",
-    "guide",
-    "powershell",
-    "script",
-    "vscode"
+	"Adsense",
+	"Android",
+	"Blogger",
+	"Blogging",
+	"CSS",
+	"Durango",
+	"Facebook",
+	"Games",
+	"HTML",
+	"JS",
+	"Miscellaneous",
+	"PHP",
+	"SEO",
+	"Social Media",
+	"Tips & Tricks",
+	"Tools",
+	"VainGlory",
+	"Wordpress",
+	"bash",
+	"batch",
+	"cmd",
+	"github",
+	"guide",
+	"powershell",
+	"script",
+	"vscode"
   ],
   "frontMatter.taxonomy.categories": [
-    "bash",
-    "cmd",
-    "github",
-    "programming",
-    "shell"
+	"bash",
+	"cmd",
+	"github",
+	"programming",
+	"shell"
   ],
   "frontMatter.site.baseURL": "https://www.webmanajemen.com/"
 }

@@ -5,14 +5,13 @@ updated: 2022-09-29T02:26:37+07:00
 author: L3n4r0x
 permalink: /chimeraland/materials/precious-jade.html
 photos:
-  - /chimeraland/materials/precious-jade/precious-jade.webp
   - /chimeraland/materials/precious-jade/eastmount-3.webp
   - /chimeraland/materials/precious-jade/eastmount.webp
   - /chimeraland/materials/precious-jade/southmount.webp
   - /chimeraland/materials/precious-jade/westmount-2.webp
   - /chimeraland/materials/precious-jade/westmount-3.webp
   - /chimeraland/materials/precious-jade/westmount.webp
-thumbnail: /chimeraland/materials/precious-jade/precious-jade.webp
+thumbnail: /chimeraland/materials/precious-jade/eastmount-3.webp
 tags:
   - chimeraland
   - material
@@ -47,7 +46,7 @@ categories:
       </div>
       <div class="col-auto d-none d-md-block d-lg-block">
         <img
-          src="https://www.webmanajemen.com/chimeraland/materials/precious-jade/precious-jade.webp"
+          src="https://www.webmanajemen.com/chimeraland/materials/precious-jade/eastmount-3.webp"
           alt="Precious Jade"
         />
       </div>
@@ -86,7 +85,6 @@ categories:
       </div>
       <div class="col-12 mb-2">
         <h2>Precious Jade Spawn Locations</h2>
-        <div></div>
         <div class="p-4">
           <h5>Eastmount 3</h5>
           <img
