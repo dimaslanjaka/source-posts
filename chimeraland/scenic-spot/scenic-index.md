@@ -1,5 +1,5 @@
 ---
-  title: Scenic Spot Locations
+title: Scenic Spot Locations
 webtitle: chimeraland
 permalink: /chimeraland/scenic-spots/
 tags:
@@ -18,9 +18,9 @@ author:
   email: dimaslanjaka@gmail.com
   name: Dimas Lanjaka
   image: https://avatars.githubusercontent.com/u/12471057?v=4
-  ---
+---
 
-  <section id="bootstrap-wrapper">
+<section id="bootstrap-wrapper">
   <link
     rel="stylesheet"
     href="https://rawcdn.githack.com/dimaslanjaka/Web-Manajemen/870a349/css/bootstrap-5-3-0-alpha3-wrapper.css"
