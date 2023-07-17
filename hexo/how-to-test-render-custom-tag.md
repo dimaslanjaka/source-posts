@@ -1,12 +1,14 @@
 ---
-title: How to test render custom tag on HexoJS ?
+title: How to test render custom tag on single post HexoJS ?
 date: 2023-05-19T15:31:45+07:00
-updated: 2023-06-13T01:19:01+07:00
+updated: 2023-07-17T17:10:47+07:00
 tags: [hexo, snippet, script, javascript]
 categories: [programming, javascript, typescript]
 ---
 
 ## QA
+> How to test render custom tag on single post HexoJS ?
+> 
 > original disscussion at https://github.com/orgs/hexojs/discussions/5203
 
 I was created my plugin custom shortcode.
