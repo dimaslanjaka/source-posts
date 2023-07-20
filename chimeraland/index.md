@@ -11,6 +11,10 @@ thumbnail: https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_
 ## [Cooking Recipes](/chimeraland/recipes.html)
 All in one recipes
 
+## [All about totem in chimeraland](/chimeraland/totem.html)
+
+![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
+
 ## [Senjo craft lists](/chimeraland/senjo.html)
 
 ![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
@@ -26,10 +30,6 @@ All in one recipes
 ## [Pet and attendant delicacies tasty informations Chimeraland](/chimeraland/pet-attendant-delicacies.html)
 
 ![Pet and attendant delicacies tasty informations Chimeraland](https://i.ytimg.com/vi/cTViqpwvxqU/maxresdefault.jpg)
-
-## [All about totem in chimeraland](/chimeraland/totem.html)
-
-![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
 
 ## [Apa itu NSC di chimeraland?](/chimeraland/nsc.html)
 
