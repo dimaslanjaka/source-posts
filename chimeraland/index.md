@@ -11,10 +11,6 @@ thumbnail: https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_
 ## [Cooking Recipes](/chimeraland/recipes.html)
 All in one recipes
 
-## [All about totem in chimeraland](/chimeraland/totem.html)
-
-![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
-
 ## [Senjo craft lists](/chimeraland/senjo.html)
 
 ![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
@@ -70,6 +66,10 @@ All in one recipes
 ## [cara reclaim draka gift Chimeraland](/chimeraland/cara-reclaim-draka-gift.html)
 
 ![cara reclaim draka gift Chimeraland](https://user-images.githubusercontent.com/12471057/172972505-68674e18-9ef3-411b-b6ea-9149e32c6456.png)
+
+## [All about totem in chimeraland](/chimeraland/totem.html)
+
+![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
 
 ## [Cara grinding skill pet dengan cepat](/chimeraland/cara-grinding-skill-pet-dengan-cepat.html)
 
