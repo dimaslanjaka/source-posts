@@ -11,21 +11,9 @@ thumbnail: https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_
 ## [Cooking Recipes](/chimeraland/recipes.html)
 All in one recipes
 
-## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
-
-![Script auto fishing Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Script+auto+fishing+Chimeraland)
-
 ## [Senjo craft lists](/chimeraland/senjo.html)
 
 ![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
-
-## [All about totem in chimeraland](/chimeraland/totem.html)
-
-![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
-
-## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
-
-![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
 
 ## [Pet mutations chimeraland](/chimeraland/pet-mutations.html)
 
@@ -94,6 +82,18 @@ All in one recipes
 ## [Taming Pets Chimeraland](/chimeraland/Taming.html)
 
 ![Taming Pets Chimeraland](https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg)
+
+## [All about totem in chimeraland](/chimeraland/totem.html)
+
+![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
+
+## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
+
+![Script auto fishing Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Script+auto+fishing+Chimeraland)
+
+## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
+
+![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
 
 ## [Cooking Recipes Chimeraland](/chimeraland/Recipes-list.html)
 
