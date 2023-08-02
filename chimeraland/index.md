@@ -51,6 +51,14 @@ All in one recipes
 
 ![Material Location In Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Material+Location+In+Chimeraland)
 
+## [Index Chimeraland](/chimeraland/index2.html)
+
+![Index Chimeraland](https://i.ytimg.com/vi/K3Ns77dNuoA/maxresdefault.jpg)
+
+## [Chimeraland Unofficial Wikipedia](/chimeraland/index.html)
+
+![Chimeraland Unofficial Wikipedia](https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_1.jpg)
+
 ## [Lokasi Spawn Bunga Di Chimeraland](/chimeraland/flower-locations.html)
 
 ![Lokasi Spawn Bunga Di Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Lokasi+Spawn+Bunga+Di+Chimeraland)
@@ -94,14 +102,6 @@ All in one recipes
 ## [Chimeraland Pets Attribute Stats Information](/chimeraland/Pets.html)
 
 ![Chimeraland Pets Attribute Stats Information](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Chimeraland+Pets+Attribute+Stats+Information)
-
-## [Index Chimeraland](/chimeraland/index2.html)
-
-![Index Chimeraland](https://i.ytimg.com/vi/K3Ns77dNuoA/maxresdefault.jpg)
-
-## [Chimeraland Unofficial Wikipedia](/chimeraland/index.html)
-
-![Chimeraland Unofficial Wikipedia](https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_1.jpg)
 
 ## [Bug Report Chimeraland v2.0.2.117](/chimeraland/report/bug-report-v202117.html)
 
