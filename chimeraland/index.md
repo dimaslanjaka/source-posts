@@ -15,17 +15,13 @@ All in one recipes
 
 ![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
 
-## [All about totem in chimeraland](/chimeraland/totem.html)
-
-![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
-
 ## [Script auto fishing Chimeraland](/chimeraland/script-auto-fishing.html)
 
 ![Script auto fishing Chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Script+auto+fishing+Chimeraland)
 
-## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
+## [All about totem in chimeraland](/chimeraland/totem.html)
 
-![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
+![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
 
 ## [Pet mutations chimeraland](/chimeraland/pet-mutations.html)
 
@@ -90,6 +86,10 @@ All in one recipes
 ## [Chimeraland Attendant List](/chimeraland/attendant-list.html)
 
 ![Chimeraland Attendant List](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Chimeraland+Attendant+List)
+
+## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
+
+![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
 
 ## [Taming Pets Chimeraland](/chimeraland/Taming.html)
 
