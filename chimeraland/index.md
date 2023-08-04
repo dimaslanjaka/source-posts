@@ -23,6 +23,10 @@ All in one recipes
 
 ![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
 
+## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
+
+![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
+
 ## [Pet mutations chimeraland](/chimeraland/pet-mutations.html)
 
 ![Pet mutations chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Pet+mutations+chimeraland)
@@ -86,10 +90,6 @@ All in one recipes
 ## [Chimeraland Attendant List](/chimeraland/attendant-list.html)
 
 ![Chimeraland Attendant List](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Chimeraland+Attendant+List)
-
-## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
-
-![Redeem Code Chimeraland September 2022 (Updated)](https://i.ytimg.com/vi/XNoP-KAxXyE/maxresdefault.jpg)
 
 ## [Taming Pets Chimeraland](/chimeraland/Taming.html)
 
