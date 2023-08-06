@@ -7,6 +7,11 @@ date: 2023-05-25T00:40:10+07:00
 permalink: /chimeraland/monsters/strallow.html
 photos:
   - null
+  - /chimeraland/monsters/strallow/Screenshot 2023-06-14 014717.webp
+  - /chimeraland/monsters/strallow/Screenshot 2023-06-14 014801.webp
+  - /chimeraland/monsters/strallow/Screenshot 2023-06-14 014819.webp
+  - /chimeraland/monsters/strallow/Screenshot 2023-06-14 014835.webp
+  - /chimeraland/monsters/strallow/Screenshot 2023-06-14 014852.webp
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Strallow
 tags:
   - chimeraland
@@ -85,6 +90,61 @@ categories:
             />
             <figcaption style="word-wrap: break-word">
               <i>Strallow</i> .
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/strallow/Screenshot%202023-06-14%20014717.webp"
+              alt="Strallow Screenshot 2023-06-14 014717.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Strallow</i> Screenshot 2023-06-14 014717.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/strallow/Screenshot%202023-06-14%20014801.webp"
+              alt="Strallow Screenshot 2023-06-14 014801.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Strallow</i> Screenshot 2023-06-14 014801.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/strallow/Screenshot%202023-06-14%20014819.webp"
+              alt="Strallow Screenshot 2023-06-14 014819.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Strallow</i> Screenshot 2023-06-14 014819.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/strallow/Screenshot%202023-06-14%20014835.webp"
+              alt="Strallow Screenshot 2023-06-14 014835.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Strallow</i> Screenshot 2023-06-14 014835.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/strallow/Screenshot%202023-06-14%20014852.webp"
+              alt="Strallow Screenshot 2023-06-14 014852.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Strallow</i> Screenshot 2023-06-14 014852.webp.
             </figcaption>
           </figure>
         </div>

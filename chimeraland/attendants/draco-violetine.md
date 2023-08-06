@@ -6,10 +6,16 @@ updated: 2022-09-29T06:26:37+07:00
 date: 2022-01-07T06:56:03+07:00
 permalink: /chimeraland/attendants/draco-violetine.html
 photos:
-  - /chimeraland/attendants/draco-violetine/Screenshot_2022-08-31-21-04-41-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /chimeraland/attendants/draco-violetine/Screenshot_2022-08-31-21-04-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - /chimeraland/attendants/draco-violetine/Screenshot_2022-08-31-21-04-59-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/draco-violetine/Screenshot_2022-08-31-21-04-41-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-21-58-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-09-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-14-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-19-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-24-47_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-28-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-33-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-43-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-47-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
+thumbnail: /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-21-58-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
@@ -81,36 +87,108 @@ categories:
         <div class="col-lg-6 col-12">
           <figure>
             <img
-              src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2022-08-31-21-04-41-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-              alt="Draco Violetine Screenshot_2022-08-31-21-04-41-30_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-21-58-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Draco Violetine Screenshot_2023-06-06-21-21-58-15_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
             <figcaption style="word-wrap: break-word">
               <i>Draco Violetine</i>
-              Screenshot_2022-08-31-21-04-41-30_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+              Screenshot_2023-06-06-21-21-58-15_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
           <figure>
             <img
-              src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2022-08-31-21-04-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-              alt="Draco Violetine Screenshot_2022-08-31-21-04-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-09-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Draco Violetine Screenshot_2023-06-06-21-23-09-20_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
             <figcaption style="word-wrap: break-word">
               <i>Draco Violetine</i>
-              Screenshot_2022-08-31-21-04-48-51_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+              Screenshot_2023-06-06-21-23-09-20_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-12">
           <figure>
             <img
-              src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2022-08-31-21-04-59-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
-              alt="Draco Violetine Screenshot_2022-08-31-21-04-59-08_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-14-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Draco Violetine Screenshot_2023-06-06-21-23-14-99_f4fc9fb10454fc3a3dacb99dff89b568.webp"
             />
             <figcaption style="word-wrap: break-word">
               <i>Draco Violetine</i>
-              Screenshot_2022-08-31-21-04-59-08_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+              Screenshot_2023-06-06-21-23-14-99_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-19-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Draco Violetine Screenshot_2023-06-06-21-23-19-37_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Draco Violetine</i>
+              Screenshot_2023-06-06-21-23-19-37_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-24-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Draco Violetine Screenshot_2023-06-06-21-23-24-47_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Draco Violetine</i>
+              Screenshot_2023-06-06-21-23-24-47_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-28-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Draco Violetine Screenshot_2023-06-06-21-23-28-67_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Draco Violetine</i>
+              Screenshot_2023-06-06-21-23-28-67_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-33-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Draco Violetine Screenshot_2023-06-06-21-23-33-54_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Draco Violetine</i>
+              Screenshot_2023-06-06-21-23-33-54_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-43-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Draco Violetine Screenshot_2023-06-06-21-23-43-04_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Draco Violetine</i>
+              Screenshot_2023-06-06-21-23-43-04_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-47-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Draco Violetine Screenshot_2023-06-06-21-23-47-25_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Draco Violetine</i>
+              Screenshot_2023-06-06-21-23-47-25_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
           </figure>
         </div>
