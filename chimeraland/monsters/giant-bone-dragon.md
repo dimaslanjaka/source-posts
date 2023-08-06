@@ -14,6 +14,7 @@ photos:
   - /chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-24-01-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-24-06-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-24-11-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/giant-bone-dragon/Screenshot_2023-08-07-01-03-32-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: /chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-23-36-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
@@ -177,6 +178,18 @@ categories:
             <figcaption style="word-wrap: break-word">
               <i>giant bone dragon</i>
               Screenshot_2023-02-24-00-24-11-53_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/giant-bone-dragon/Screenshot_2023-08-07-01-03-32-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="giant bone dragon Screenshot_2023-08-07-01-03-32-26_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>giant bone dragon</i>
+              Screenshot_2023-08-07-01-03-32-26_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
           </figure>
         </div>

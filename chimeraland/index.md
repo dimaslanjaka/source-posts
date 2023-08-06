@@ -31,13 +31,13 @@ All in one recipes
 
 ![Chimeraland Unofficial Wikipedia](https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_1.jpg)
 
-## [Taming Pets Chimeraland](/chimeraland/Taming.html)
-
-![Taming Pets Chimeraland](https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg)
-
 ## [Index Chimeraland](/chimeraland/index2.html)
 
 ![Index Chimeraland](https://i.ytimg.com/vi/K3Ns77dNuoA/maxresdefault.jpg)
+
+## [Taming Pets Chimeraland](/chimeraland/Taming.html)
+
+![Taming Pets Chimeraland](https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg)
 
 ## [Redeem Code Chimeraland September 2022 (Updated)](/chimeraland/redeem-code.html)
 
