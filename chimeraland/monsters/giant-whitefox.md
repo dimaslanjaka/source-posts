@@ -2,8 +2,8 @@
 title: Monster giant whitefox
 webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-08-07T02:12:47+07:00
-date: 2023-08-07T02:01:47+07:00
+updated: 2023-08-07T04:11:28+07:00
+date: 2023-08-07T04:00:28+07:00
 permalink: /chimeraland/monsters/giant-whitefox.html
 photos:
   - /chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-19-07-08_f4fc9fb10454fc3a3dacb99dff89b568.webp

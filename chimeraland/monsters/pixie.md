@@ -7,6 +7,16 @@ date: 2023-05-25T02:21:12+07:00
 permalink: /chimeraland/monsters/pixie.html
 photos:
   - null
+  - /chimeraland/monsters/pixie/Screenshot_2023-08-06-23-32-52-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/pixie/Screenshot_2023-08-06-23-32-56-56_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-00-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-04-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-12-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-18-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-23-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-32-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-49-79_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-56-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pixie
 tags:
   - chimeraland
@@ -85,6 +95,126 @@ categories:
             />
             <figcaption style="word-wrap: break-word">
               <i>Pixie</i> .
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-32-52-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Pixie Screenshot_2023-08-06-23-32-52-81_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Pixie</i>
+              Screenshot_2023-08-06-23-32-52-81_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-32-56-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Pixie Screenshot_2023-08-06-23-32-56-56_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Pixie</i>
+              Screenshot_2023-08-06-23-32-56-56_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-00-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Pixie Screenshot_2023-08-06-23-33-00-35_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Pixie</i>
+              Screenshot_2023-08-06-23-33-00-35_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-04-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Pixie Screenshot_2023-08-06-23-33-04-32_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Pixie</i>
+              Screenshot_2023-08-06-23-33-04-32_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-12-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Pixie Screenshot_2023-08-06-23-33-12-11_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Pixie</i>
+              Screenshot_2023-08-06-23-33-12-11_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-18-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Pixie Screenshot_2023-08-06-23-33-18-05_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Pixie</i>
+              Screenshot_2023-08-06-23-33-18-05_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-23-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Pixie Screenshot_2023-08-06-23-33-23-76_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Pixie</i>
+              Screenshot_2023-08-06-23-33-23-76_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-32-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Pixie Screenshot_2023-08-06-23-33-32-98_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Pixie</i>
+              Screenshot_2023-08-06-23-33-32-98_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-49-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Pixie Screenshot_2023-08-06-23-33-49-79_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Pixie</i>
+              Screenshot_2023-08-06-23-33-49-79_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-56-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+              alt="Pixie Screenshot_2023-08-06-23-33-56-02_f4fc9fb10454fc3a3dacb99dff89b568.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>Pixie</i>
+              Screenshot_2023-08-06-23-33-56-02_f4fc9fb10454fc3a3dacb99dff89b568.webp.
             </figcaption>
           </figure>
         </div>

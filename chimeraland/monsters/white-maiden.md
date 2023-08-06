@@ -6,7 +6,6 @@ updated: 2022-10-03T12:18:27+07:00
 date: 2022-01-10T17:56:03+07:00
 permalink: /chimeraland/monsters/white-maiden.html
 photos:
-  - /chimeraland/monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp
   - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-35-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-39-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-42-85_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -22,6 +21,7 @@ photos:
   - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-42-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-48-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-59-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
+  - /chimeraland/monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp
 thumbnail: /chimeraland/monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp
 tags:
   - chimeraland
@@ -133,17 +133,6 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
     <div id="gallery">
       <h2>Galleries for White Maiden</h2>
       <div class="row">
-        <div class="col-lg-6 col-12">
-          <figure>
-            <img
-              src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp"
-              alt="White Maiden chimeraland-white-snake-evolve-featured.webp"
-            />
-            <figcaption style="word-wrap: break-word">
-              <i>White Maiden</i> chimeraland-white-snake-evolve-featured.webp.
-            </figcaption>
-          </figure>
-        </div>
         <div class="col-lg-6 col-12">
           <figure>
             <img
@@ -321,6 +310,17 @@ description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
             <figcaption style="word-wrap: break-word">
               <i>White Maiden</i>
               Screenshot_2022-08-19-20-43-59-62_f4fc9fb10454fc3a3dacb99dff89b568.webp.
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-lg-6 col-12">
+          <figure>
+            <img
+              src="https://www.webmanajemen.com/chimeraland/monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp"
+              alt="White Maiden chimeraland-white-snake-evolve-featured.webp"
+            />
+            <figcaption style="word-wrap: break-word">
+              <i>White Maiden</i> chimeraland-white-snake-evolve-featured.webp.
             </figcaption>
           </figure>
         </div>
