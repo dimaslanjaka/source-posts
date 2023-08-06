@@ -3,8 +3,8 @@ run-name: Reusable Build Site CI
 
 on:
   schedule:
-    # https://crontab.guru/#0_8_*_*_*
-    - cron:  '0 8 * * *'
+    # https://crontab.guru/#0_0_*_*_0
+    - cron:  '0 0 * * 0'
   push:
     branches:
       - posts
