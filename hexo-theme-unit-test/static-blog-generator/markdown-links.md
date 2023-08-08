@@ -1,9 +1,30 @@
 ---
-title: fix shortcodes markdown with links .md
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 date: 2022-04-04
-updated: 2022-04-04
+description: fix shortcodes markdown with links .md included testincluded
+  testincluded testincluded testincluded testincluded testincluded testincluded
+  testincluded testincluded testincluded testgoogle included test included test
+  included test included test google
+excerpt: fix shortcodes markdown with links .md included testincluded
+  testincluded testincluded testincluded testincluded testincluded testincluded
+  testincluded testincluded testincluded testgoogle included test included test
+  included test included test google
+id: 2f48db92-cc92-4888-8977-330cd94e2d1c
+lang: en
 noindex: true
+photos: []
+subtitle: fix shortcodes markdown with links .md included testincluded
+  testincluded testincluded testincluded testincluded testincluded testincluded
+  testincluded testincluded testincluded testgoogle included test included test
+  included test included test google
+tags: []
+title: fix shortcodes markdown with links .md
 type: page
+updated: 2023-08-08T14:44:22+07:00
+wordcount: 56
 ---
 
 - [included test](included.md)

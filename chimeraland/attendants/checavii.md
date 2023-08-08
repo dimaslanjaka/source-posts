@@ -1,9 +1,18 @@
 ---
-title: Attendant checavii
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-16T20:53:20+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/checavii/Screenshot_2023-02-14-01-05-56-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-16T20:42:20+07:00
+description: "Attendant checavii checavii Information from Chimeraland checavii
+  default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Attendant checavii checavii Information from Chimeraland checavii
+  default maximum attribute GRADE N/A N/A Attack N/A "
+id: 4e131bc1-672b-4888-87a8-bde8f1416e24
+lang: en
 permalink: /chimeraland/attendants/checavii.html
 photos:
   - /chimeraland/attendants/checavii/Screenshot_2023-02-14-01-05-56-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,14 +21,17 @@ photos:
   - /chimeraland/attendants/checavii/Screenshot_2023-02-14-01-06-10-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/checavii/Screenshot_2023-02-14-01-06-16-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/checavii/Screenshot_2023-02-14-01-06-22-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/checavii/Screenshot_2023-02-14-01-05-56-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant checavii checavii Information from Chimeraland checavii
+  default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/checavii/Screenshot_2023-02-14-01-05-56-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant checavii
+type: post
+updated: 2023-08-08T14:45:07+07:00
+webtitle: chimeraland
+wordcount: 988
 ---
 
 <link

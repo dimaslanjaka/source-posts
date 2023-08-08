@@ -1,12 +1,24 @@
 ---
-title: Monster Horned Rhino
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T06:21:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Horned Rhino
 date: 2022-01-08T14:56:03+07:00
+description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
+  Attributes Conversion Rate 4.0,Resilience 257 delicacies/tasty Aromatic
+  Litiger Ball,Moddly Wings Topped Rice,Bear Ball Pot Games,chimeraland,monsters
+  chimeraland,monster,pet
+excerpt: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
+  Attributes Conversion Rate 4.0,Resilience 257 delicacies/tasty Aromatic
+  Litiger Ball,Moddly Wings Topped Rice,Bear Ball Pot Games,chimeraland,monsters
+  chimeraland,monster,pet
+id: 2ba5c6ba-1c2e-4888-8eda-0c742e8ca779
+lang: en
 permalink: /chimeraland/monsters/horned-rhino.html
 photos:
-  - null
   - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-28-56-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-05-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,19 +26,21 @@ photos:
   - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-16-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-30-16-33-39-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Horned Rhino
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Horned Rhino
+subtitle: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
+  Attributes Conversion Rate 4.0,Resilience 257 delicacies/tasty Aromatic
+  Litiger Ball,Moddly Wings Topped Rice,Bear Ball Pot Games,chimeraland,monsters
+  chimeraland,monster,pet
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
-description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
-  Attributes Conversion Rate 4.0%,Resilience 257 delicacies/tasty Aromatic
-  Litiger Ball,Moddly Wings Topped Rice,Bear Ball Pot Games,chimeraland,monsters
-  chimeraland,monster,pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Horned Rhino
+title: Monster Horned Rhino
+type: post
+updated: 2023-08-08T14:44:39+07:00
+webtitle: chimeraland
+wordcount: 1633
 ---
 
 <link

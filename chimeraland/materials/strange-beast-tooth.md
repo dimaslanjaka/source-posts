@@ -1,19 +1,34 @@
 ---
-title: Material Strange Beast Tooth Chimeraland
-date: 2022-01-09T07:56:03+07:00
-updated: 2022-10-01T07:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/strange-beast-tooth/strange-beast-tooth.webp
+date: 2022-01-09T07:56:03+07:00
+description: "Material Strange Beast Tooth Chimeraland materials Strange Beast
+  Tooth October 1, 2022 7:26 AM Continue reading Strange Beast Tooth What is the
+  use of the Strange Beast Tooth "
+excerpt: "Material Strange Beast Tooth Chimeraland materials Strange Beast Tooth
+  October 1, 2022 7:26 AM Continue reading Strange Beast Tooth What is the use
+  of the Strange Beast Tooth "
+id: 2aea30c6-f978-4888-808f-e701fac6ffcc
+lang: en
 permalink: /chimeraland/materials/strange-beast-tooth.html
 photos:
   - /chimeraland/materials/strange-beast-tooth/strange-beast-tooth.webp
-thumbnail: /chimeraland/materials/strange-beast-tooth/strange-beast-tooth.webp
+subtitle: "Material Strange Beast Tooth Chimeraland materials Strange Beast
+  Tooth October 1, 2022 7:26 AM Continue reading Strange Beast Tooth What is the
+  use of the Strange Beast Tooth "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/strange-beast-tooth/strange-beast-tooth.webp
+title: Material Strange Beast Tooth Chimeraland
+type: post
+updated: 2023-08-08T14:44:49+07:00
+wordcount: 1129
 ---
 
 <link

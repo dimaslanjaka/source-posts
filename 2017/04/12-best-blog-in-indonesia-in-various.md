@@ -3,27 +3,30 @@ author:
   nick: Unknown
   link: ""
   email: noreply@blogger.com
-category: []
+categories:
+  - uncategorized
 comments: true
 cover: http://sugeng.id/blog/wp-content/uploads/2015/06/Blog-Raditya-Dika-800x392.png
 date: 2017-04-13T12:31:00.000+07:00
+description: 2 Best Blog in Indonesia in Various TopicsA few days ago I idly
+  googling the keywordsBest Blog in IndonesiaAfter I check one by one from
+excerpt: 2 Best Blog in Indonesia in Various TopicsA few days ago I idly
+  googling the keywordsBest Blog in IndonesiaAfter I check one by one from
+id: 73c33797-31c2-4888-8f59-c1c9b0b35ca3
 lang: en
-location: ""
-modified: 2017-04-13T12:31:00.159+07:00
+photos:
+  - http://sugeng.id/blog/wp-content/uploads/2015/06/Blog-Raditya-Dika-800x392.png
 subtitle: 2 Best Blog in Indonesia in Various TopicsA few days ago I idly
   googling the keywordsBest Blog in IndonesiaAfter I check one by one from
 tags:
-  - Popular
-  - Blogging
+  - popular
+  - blogging
+thumbnail: http://sugeng.id/blog/wp-content/uploads/2015/06/Blog-Raditya-Dika-800x392.png
 title: 12 Best Blog in Indonesia in Various Topics
 type: post
+updated: 2023-08-08T14:46:02+07:00
 uuid: 395ddaab-54e7-4888-8565-05fc53204bca
-updated: 2017-04-13T12:31:00+07:00
-thumbnail: http://sugeng.id/blog/wp-content/uploads/2015/06/Blog-Raditya-Dika-800x392.png
-photos:
-  - http://sugeng.id/blog/wp-content/uploads/2015/06/Blog-Raditya-Dika-800x392.png
-description: 2 Best Blog in Indonesia in Various TopicsA few days ago I idly
-  googling the keywordsBest Blog in IndonesiaAfter I check one by one from
+wordcount: 4457
 ---
 
 <div dir="ltr">

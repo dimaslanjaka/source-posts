@@ -1,21 +1,33 @@
 ---
-title: Monster Pirarucu
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T04:48:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pirarucu
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Pirarucu Pirarucu Information from Chimeraland Pirarucu
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Pirarucu Pirarucu Information from Chimeraland Pirarucu
+  default maximum attribute GRADE Attack "
+id: cf7ee74c-9ccb-4888-8d1b-8ddc6ad5e0ef
+lang: en
 permalink: /chimeraland/monsters/pirarucu.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pirarucu
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pirarucu
+subtitle: "Monster Pirarucu Pirarucu Information from Chimeraland Pirarucu
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pirarucu
+title: Monster Pirarucu
+type: post
+updated: 2023-08-08T14:44:36+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

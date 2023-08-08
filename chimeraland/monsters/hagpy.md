@@ -1,12 +1,24 @@
 ---
-title: Monster Hagpy
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T07:34:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hagpy
 date: 2022-01-08T16:56:03+07:00
+description: "monster Hagpy default quality GRADE A ATK 70 HP 72 DEF 68
+  Attributes Conversion Rate 4.0,Armor Pierce 188,Essence Aspect: Aspect:Rainbow
+  Feather delicacies/tasty Dry Fried Vuldo Wings,Moddly Wings Topped Rice,Dragon
+  Serpent Combo Games,chimeraland,monsters chimeraland,monster,pet"
+excerpt: "monster Hagpy default quality GRADE A ATK 70 HP 72 DEF 68 Attributes
+  Conversion Rate 4.0,Armor Pierce 188,Essence Aspect: Aspect:Rainbow Feather
+  delicacies/tasty Dry Fried Vuldo Wings,Moddly Wings Topped Rice,Dragon Serpent
+  Combo Games,chimeraland,monsters chimeraland,monster,pet"
+id: caa3c110-c817-4888-8037-7b2a08c6d6b4
+lang: en
 permalink: /chimeraland/monsters/hagpy.html
 photos:
-  - null
   - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-42-52-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-42-56-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-01-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,20 +27,21 @@ photos:
   - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-12-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-18-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-24-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hagpy
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hagpy
+subtitle: "monster Hagpy default quality GRADE A ATK 70 HP 72 DEF 68 Attributes
+  Conversion Rate 4.0,Armor Pierce 188,Essence Aspect: Aspect:Rainbow Feather
+  delicacies/tasty Dry Fried Vuldo Wings,Moddly Wings Topped Rice,Dragon Serpent
+  Combo Games,chimeraland,monsters chimeraland,monster,pet"
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
-description: "monster Hagpy default quality GRADE A ATK 70 HP 72 DEF 68
-  Attributes Conversion Rate 4.0%,Armor Pierce 188,Essence Aspect:
-  Aspect: Rainbow Feather delicacies/tasty Dry Fried Vuldo Wings,Moddly Wings
-  Topped Rice,Dragon Serpent Combo Games,chimeraland,monsters
-  chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hagpy
+title: Monster Hagpy
+type: post
+updated: 2023-08-08T14:44:39+07:00
+webtitle: chimeraland
+wordcount: 1671
 ---
 
 <link

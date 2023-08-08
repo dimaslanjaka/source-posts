@@ -1,19 +1,31 @@
 ---
-title: Material Gourami Chimeraland
-date: 2022-01-15T19:56:03+07:00
-updated: 2022-10-07T19:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/gourami/gourami.webp
+date: 2022-01-15T19:56:03+07:00
+description: "Material Gourami Chimeraland materials Gourami October 7, 2022
+  7:26 PM Continue reading Gourami What is the use of the Gourami "
+excerpt: "Material Gourami Chimeraland materials Gourami October 7, 2022 7:26 PM
+  Continue reading Gourami What is the use of the Gourami "
+id: 112818ba-2aa9-4888-89dd-7bf7d4e6ef42
+lang: en
 permalink: /chimeraland/materials/gourami.html
 photos:
   - /chimeraland/materials/gourami/gourami.webp
-thumbnail: /chimeraland/materials/gourami/gourami.webp
+subtitle: "Material Gourami Chimeraland materials Gourami October 7, 2022 7:26
+  PM Continue reading Gourami What is the use of the Gourami "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/gourami/gourami.webp
+title: Material Gourami Chimeraland
+type: post
+updated: 2023-08-08T14:44:56+07:00
+wordcount: 621
 ---
 
 <link

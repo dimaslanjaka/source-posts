@@ -1,23 +1,34 @@
 ---
-title: Recipe Spicy Smoked Meat Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T19:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat.webp
 date: 2022-01-12T11:56:03+07:00
+description: "Recipe Spicy Smoked Meat Chimeraland Spicy Smoked Meat Cooking
+  Recipe Buff Spicy Smoked Meat 420 Fullness 60 CRIT recipe "
+excerpt: "Recipe Spicy Smoked Meat Chimeraland Spicy Smoked Meat Cooking Recipe
+  Buff Spicy Smoked Meat 420 Fullness 60 CRIT recipe "
+id: 379e7be4-6c18-4888-876c-c2a8573f86f3
+lang: en
 permalink: /chimeraland/recipes/spicy-smoked-meat.html
 photos:
   - /chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat.webp
   - /chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat-name.webp
   - /chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat-icon.webp
   - /chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat-material.webp
-thumbnail: /chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat.webp
+subtitle: "Recipe Spicy Smoked Meat Chimeraland Spicy Smoked Meat Cooking Recipe
+  Buff Spicy Smoked Meat 420 Fullness 60 CRIT recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat.webp
+title: Recipe Spicy Smoked Meat Chimeraland
+type: post
+updated: 2023-08-08T14:44:24+07:00
+wordcount: 702
 ---
 
 <link

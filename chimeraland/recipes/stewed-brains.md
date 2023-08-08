@@ -1,23 +1,34 @@
 ---
-title: Recipe Stewed Brains Chimeraland
 author: L3n4r0x
-updated: 2022-10-07T02:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/stewed-brains/stewed-brains.webp
 date: 2022-01-12T06:56:03+07:00
+description: Recipe Stewed Brains Chimeraland Stewed Brains Cooking Recipe Buff
+  Stewed Brains 420 Fullness 60 Crit recipe webmana
+excerpt: Recipe Stewed Brains Chimeraland Stewed Brains Cooking Recipe Buff
+  Stewed Brains 420 Fullness 60 Crit recipe webmana
+id: 00feb57b-d17b-4888-8dfa-4b5c5dbfe586
+lang: en
 permalink: /chimeraland/recipes/stewed-brains.html
 photos:
   - /chimeraland/recipes/stewed-brains/stewed-brains.webp
   - /chimeraland/recipes/stewed-brains/stewed-brains-name.webp
   - /chimeraland/recipes/stewed-brains/stewed-brains-icon.webp
   - /chimeraland/recipes/stewed-brains/stewed-brains-material.webp
-thumbnail: /chimeraland/recipes/stewed-brains/stewed-brains.webp
+subtitle: Recipe Stewed Brains Chimeraland Stewed Brains Cooking Recipe Buff
+  Stewed Brains 420 Fullness 60 Crit recipe webmana
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/stewed-brains/stewed-brains.webp
+title: Recipe Stewed Brains Chimeraland
+type: post
+updated: 2023-08-08T14:44:24+07:00
+wordcount: 842
 ---
 
 <link

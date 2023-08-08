@@ -1,9 +1,18 @@
 ---
-title: Attendant atenkat
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-24T19:55:41+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/atenkat/Screenshot_2023-02-19-17-25-26-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-24T19:44:41+07:00
+description: "Attendant atenkat atenkat Information from Chimeraland atenkat
+  default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Attendant atenkat atenkat Information from Chimeraland atenkat default
+  maximum attribute GRADE N/A N/A Attack N/A "
+id: 19b92ee2-cccf-4888-890e-e48968cd6855
+lang: en
 permalink: /chimeraland/attendants/atenkat.html
 photos:
   - /chimeraland/attendants/atenkat/Screenshot_2023-02-19-17-25-26-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,14 +22,17 @@ photos:
   - /chimeraland/attendants/atenkat/Screenshot_2023-02-19-17-25-45-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/atenkat/Screenshot_2023-02-19-17-25-50-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/atenkat/Screenshot_2023-02-19-17-25-54-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/atenkat/Screenshot_2023-02-19-17-25-26-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant atenkat atenkat Information from Chimeraland atenkat
+  default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/atenkat/Screenshot_2023-02-19-17-25-26-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant atenkat
+type: post
+updated: 2023-08-08T14:45:07+07:00
+webtitle: chimeraland
+wordcount: 1059
 ---
 
 <link

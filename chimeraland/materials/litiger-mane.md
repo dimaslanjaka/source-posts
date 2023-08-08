@@ -1,19 +1,34 @@
 ---
-title: Material Litiger Mane Chimeraland
-date: 2022-01-09T17:56:03+07:00
-updated: 2022-10-01T17:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/litiger-mane/litiger-mane.webp
+date: 2022-01-09T17:56:03+07:00
+description: Material Litiger Mane Chimeraland materials Litiger Mane October 1,
+  2022 5:26 PM Litiger mane, born from the water, so it resists water. Continue
+  reading Litiger Mane Wh
+excerpt: Material Litiger Mane Chimeraland materials Litiger Mane October 1,
+  2022 5:26 PM Litiger mane, born from the water, so it resists water. Continue
+  reading Litiger Mane Wh
+id: 556dbbd5-b55f-4888-8287-c5cf027b8503
+lang: en
 permalink: /chimeraland/materials/litiger-mane.html
 photos:
   - /chimeraland/materials/litiger-mane/litiger-mane.webp
-thumbnail: /chimeraland/materials/litiger-mane/litiger-mane.webp
+subtitle: Material Litiger Mane Chimeraland materials Litiger Mane October 1,
+  2022 5:26 PM Litiger mane, born from the water, so it resists water. Continue
+  reading Litiger Mane Wh
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/litiger-mane/litiger-mane.webp
+title: Material Litiger Mane Chimeraland
+type: post
+updated: 2023-08-08T14:44:54+07:00
+wordcount: 1103
 ---
 
 <link

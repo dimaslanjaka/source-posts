@@ -1,9 +1,19 @@
 ---
-title: Monster giant starefish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-11T07:30:18+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/giant-starefish/Screenshot_2023-03-02-05-14-12-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-03-11T08:19:18+07:00
+description: "Monster giant starefish giant starefish Information from
+  Chimeraland giant starefish default maximum attribute GRADE N/A N/A Attack N/A
+  "
+excerpt: "Monster giant starefish giant starefish Information from Chimeraland
+  giant starefish default maximum attribute GRADE N/A N/A Attack N/A "
+id: d1e95fd0-d570-4888-81e5-9cc892705f98
+lang: en
 permalink: /chimeraland/monsters/giant-starefish.html
 photos:
   - /chimeraland/monsters/giant-starefish/Screenshot_2023-03-02-05-14-12-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +23,18 @@ photos:
   - /chimeraland/monsters/giant-starefish/Screenshot_2023-03-02-05-14-34-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-starefish/Screenshot_2023-03-02-05-14-38-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-starefish/Screenshot_2023-03-02-05-14-43-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-starefish/Screenshot_2023-03-02-05-14-12-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant starefish giant starefish Information from Chimeraland
+  giant starefish default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-starefish/Screenshot_2023-03-02-05-14-12-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant starefish
+type: post
+updated: 2023-08-08T14:44:41+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

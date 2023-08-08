@@ -1,21 +1,33 @@
 ---
-title: Monster Sprinowl
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T14:09:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sprinowl
 date: 2022-01-10T16:56:03+07:00
+description: "Monster Sprinowl Sprinowl Information from Chimeraland Sprinowl
+  default maximum attribute GRADE B GRAND - EPIC Attack 62 "
+excerpt: "Monster Sprinowl Sprinowl Information from Chimeraland Sprinowl
+  default maximum attribute GRADE B GRAND - EPIC Attack 62 "
+id: 14162fbd-de67-4888-8080-301c3e6b8606
+lang: en
 permalink: /chimeraland/monsters/sprinowl.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sprinowl
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sprinowl
+subtitle: "Monster Sprinowl Sprinowl Information from Chimeraland Sprinowl
+  default maximum attribute GRADE B GRAND - EPIC Attack 62 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sprinowl
+title: Monster Sprinowl
+type: post
+updated: 2023-08-08T14:44:33+07:00
+webtitle: chimeraland
+wordcount: 659
 ---
 
 <link

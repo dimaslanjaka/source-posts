@@ -1,7 +1,20 @@
 ---
-title: Post Data
-description: Current Post Variables
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 date: 2021-12-23T17:00:26+0000
-updated: 2021-12-23T17:00:26+0000
+description: Current Post Variables
+excerpt: Current Post Variables
+id: d729a853-cdf5-4888-8e49-104716df5fe9
+lang: en
+photos: []
+subtitle: Current Post Variables
+tags: []
+title: Post Data
+type: post
+updated: 2023-08-08T14:44:17+07:00
+wordcount: 10
 ---
 
+no content Post Data

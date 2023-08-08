@@ -1,9 +1,18 @@
 ---
-title: Attendant jagter
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-16T21:53:20+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/jagter/Screenshot_2023-02-16-01-46-05-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-16T21:42:20+07:00
+description: "Attendant jagter jagter Information from Chimeraland jagter
+  default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Attendant jagter jagter Information from Chimeraland jagter default
+  maximum attribute GRADE N/A N/A Attack N/A "
+id: 671978cc-09dc-4888-8794-8fac840f7b12
+lang: en
 permalink: /chimeraland/attendants/jagter.html
 photos:
   - /chimeraland/attendants/jagter/Screenshot_2023-02-16-01-46-05-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,14 +22,17 @@ photos:
   - /chimeraland/attendants/jagter/Screenshot_2023-02-16-01-46-23-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/jagter/Screenshot_2023-02-16-01-46-32-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/jagter/Screenshot_2023-02-16-01-46-35-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/jagter/Screenshot_2023-02-16-01-46-05-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant jagter jagter Information from Chimeraland jagter default
+  maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/jagter/Screenshot_2023-02-16-01-46-05-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant jagter
+type: post
+updated: 2023-08-08T14:45:06+07:00
+webtitle: chimeraland
+wordcount: 1059
 ---
 
 <link

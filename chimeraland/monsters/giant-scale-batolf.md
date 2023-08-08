@@ -1,9 +1,20 @@
 ---
-title: Monster giant scale batolf
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-17T00:53:22+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/giant-scale-batolf/Screenshot_2023-02-15-00-45-38-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-17T00:42:22+07:00
+description: Monster giant scale batolf giant scale batolf Information from
+  Chimeraland giant scale batolf default maximum attribute GRADE N/A N/A Attack
+  N
+excerpt: Monster giant scale batolf giant scale batolf Information from
+  Chimeraland giant scale batolf default maximum attribute GRADE N/A N/A Attack
+  N
+id: bef776d3-4cfb-4888-8669-30694ab776cb
+lang: en
 permalink: /chimeraland/monsters/giant-scale-batolf.html
 photos:
   - /chimeraland/monsters/giant-scale-batolf/Screenshot_2023-02-15-00-45-38-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +24,19 @@ photos:
   - /chimeraland/monsters/giant-scale-batolf/Screenshot_2023-02-15-00-46-00-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-scale-batolf/Screenshot_2023-02-15-00-46-06-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-scale-batolf/Screenshot_2023-02-15-00-46-11-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-scale-batolf/Screenshot_2023-02-15-00-45-38-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: Monster giant scale batolf giant scale batolf Information from
+  Chimeraland giant scale batolf default maximum attribute GRADE N/A N/A Attack
+  N
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-scale-batolf/Screenshot_2023-02-15-00-45-38-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant scale batolf
+type: post
+updated: 2023-08-08T14:44:41+07:00
+webtitle: chimeraland
+wordcount: 1253
 ---
 
 <link

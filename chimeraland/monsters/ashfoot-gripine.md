@@ -1,31 +1,45 @@
 ---
-title: Monster Ashfoot Gripine
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T07:16:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ashfoot Gripine
 date: 2022-01-07T03:56:03+07:00
+description: monster Ashfoot Gripine default quality GRADE C ATK 63 HP 64 DEF 70
+  Attributes Conversion Rate 4.0,Ranged DMG Reduction 4.8 delicacies/tasty
+  Woodsmoked Gator Meat,Moddly Wings Topped Rice,Hot Stone Icefox Meat
+  Games,chimeraland,monsters chimeraland,monster,pet
+excerpt: monster Ashfoot Gripine default quality GRADE C ATK 63 HP 64 DEF 70
+  Attributes Conversion Rate 4.0,Ranged DMG Reduction 4.8 delicacies/tasty
+  Woodsmoked Gator Meat,Moddly Wings Topped Rice,Hot Stone Icefox Meat
+  Games,chimeraland,monsters chimeraland,monster,pet
+id: 4967f2d7-165c-4888-8e8b-8a57b0520269
+lang: en
 permalink: /chimeraland/monsters/ashfoot-gripine.html
 photos:
-  - null
   - /chimeraland/monsters/ashfoot-gripine/Screenshot_2022-07-16-18-59-34-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/ashfoot-gripine/Screenshot_2022-07-16-18-59-39-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/ashfoot-gripine/Screenshot_2022-07-16-18-59-44-36_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/ashfoot-gripine/Screenshot_2022-07-16-18-59-49-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/ashfoot-gripine/Screenshot_2022-07-16-18-59-54-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/ashfoot-gripine/Screenshot_2022-07-16-19-00-05-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ashfoot Gripine
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ashfoot Gripine
+subtitle: monster Ashfoot Gripine default quality GRADE C ATK 63 HP 64 DEF 70
+  Attributes Conversion Rate 4.0,Ranged DMG Reduction 4.8 delicacies/tasty
+  Woodsmoked Gator Meat,Moddly Wings Topped Rice,Hot Stone Icefox Meat
+  Games,chimeraland,monsters chimeraland,monster,pet
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
-description: monster Ashfoot Gripine default quality GRADE C ATK 63 HP 64 DEF 70
-  Attributes Conversion Rate 4.0%,Ranged DMG Reduction 4.8% delicacies/tasty
-  Woodsmoked Gator Meat,Moddly Wings Topped Rice,Hot Stone Icefox Meat
-  Games,chimeraland,monsters chimeraland,monster,pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ashfoot Gripine
+title: Monster Ashfoot Gripine
+type: post
+updated: 2023-08-08T14:44:47+07:00
+webtitle: chimeraland
+wordcount: 1576
 ---
 
 <link

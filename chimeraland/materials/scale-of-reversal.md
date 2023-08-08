@@ -1,19 +1,34 @@
 ---
-title: Material Scale of Reversal Chimeraland
-date: 2022-01-11T17:56:03+07:00
-updated: 2022-10-03T17:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/scale-of-reversal/scale-of-reversal.webp
+date: 2022-01-11T17:56:03+07:00
+description: "Material Scale of Reversal Chimeraland materials Scale of Reversal
+  October 3, 2022 5:26 PM Death Scale. A death scale from the Miragons throat,
+  and it hunts those with an infant. Continue reading Scale of Reversal "
+excerpt: "Material Scale of Reversal Chimeraland materials Scale of Reversal
+  October 3, 2022 5:26 PM Death Scale. A death scale from the Miragons throat,
+  and it hunts those with an infant. Continue reading Scale of Reversal "
+id: d0453b49-9780-4888-8d42-a0b7264bbe04
+lang: en
 permalink: /chimeraland/materials/scale-of-reversal.html
 photos:
   - /chimeraland/materials/scale-of-reversal/scale-of-reversal.webp
-thumbnail: /chimeraland/materials/scale-of-reversal/scale-of-reversal.webp
+subtitle: "Material Scale of Reversal Chimeraland materials Scale of Reversal
+  October 3, 2022 5:26 PM Death Scale. A death scale from the Miragons throat,
+  and it hunts those with an infant. Continue reading Scale of Reversal "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/scale-of-reversal/scale-of-reversal.webp
+title: Material Scale of Reversal Chimeraland
+type: post
+updated: 2023-08-08T14:44:50+07:00
+wordcount: 941
 ---
 
 <link

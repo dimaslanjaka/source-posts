@@ -1,23 +1,34 @@
 ---
-title: Recipe Steamed Paw Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T23:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/steamed-paw/steamed-paw.webp
 date: 2022-01-12T01:56:03+07:00
+description: Recipe Steamed Paw Chimeraland Steamed Paw Cooking Recipe Buff
+  Steamed Paw 540 fullness 200 atk recipe webmanajemen
+excerpt: Recipe Steamed Paw Chimeraland Steamed Paw Cooking Recipe Buff Steamed
+  Paw 540 fullness 200 atk recipe webmanajemen
+id: 04433c96-fbbf-4888-8c3f-48fc5c267407
+lang: en
 permalink: /chimeraland/recipes/steamed-paw.html
 photos:
   - /chimeraland/recipes/steamed-paw/steamed-paw.webp
   - /chimeraland/recipes/steamed-paw/steamed-paw-name.webp
   - /chimeraland/recipes/steamed-paw/steamed-paw-icon.webp
   - /chimeraland/recipes/steamed-paw/steamed-paw-material.webp
-thumbnail: /chimeraland/recipes/steamed-paw/steamed-paw.webp
+subtitle: Recipe Steamed Paw Chimeraland Steamed Paw Cooking Recipe Buff Steamed
+  Paw 540 fullness 200 atk recipe webmanajemen
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/steamed-paw/steamed-paw.webp
+title: Recipe Steamed Paw Chimeraland
+type: post
+updated: 2023-08-08T14:44:24+07:00
+wordcount: 1115
 ---
 
 <link

@@ -1,21 +1,33 @@
 ---
-title: Monster Tang
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T17:05:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tang
 date: 2022-01-10T07:56:03+07:00
+description: "Monster Tang Tang Information from Chimeraland Tang default
+  maximum attribute GRADE C RARE Attack 45 "
+excerpt: "Monster Tang Tang Information from Chimeraland Tang default maximum
+  attribute GRADE C RARE Attack 45 "
+id: a8e736d2-7d3d-4888-80f9-e2350390da09
+lang: en
 permalink: /chimeraland/monsters/tang.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tang
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tang
+subtitle: "Monster Tang Tang Information from Chimeraland Tang default maximum
+  attribute GRADE C RARE Attack 45 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tang
+title: Monster Tang
+type: post
+updated: 2023-08-08T14:44:32+07:00
+webtitle: chimeraland
+wordcount: 615
 ---
 
 <link

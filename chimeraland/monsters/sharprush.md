@@ -1,27 +1,39 @@
 ---
-title: Monster Sharprush
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T09:30:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sharprush
 date: 2022-01-10T06:56:03+07:00
+description: "Monster Sharprush Sharprush Information from Chimeraland Sharprush
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Sharprush Sharprush Information from Chimeraland Sharprush
+  default maximum attribute GRADE Attack "
+id: 3aa675b3-3bf1-4888-8524-8fb9cedd80f9
+lang: en
 permalink: /chimeraland/monsters/sharprush.html
 photos:
-  - null
   - /chimeraland/monsters/sharprush/Screenshot_2022-07-24-13-48-26-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/sharprush/Screenshot_2022-07-24-13-48-31-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/sharprush/Screenshot_2022-07-24-13-48-35-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/sharprush/Screenshot_2022-07-24-13-48-41-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/sharprush/Screenshot_2022-07-24-13-48-46-38_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/sharprush/Screenshot_2022-07-24-13-48-52-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sharprush
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sharprush
+subtitle: "Monster Sharprush Sharprush Information from Chimeraland Sharprush
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sharprush
+title: Monster Sharprush
+type: post
+updated: 2023-08-08T14:44:34+07:00
+webtitle: chimeraland
+wordcount: 1047
 ---
 
 <link

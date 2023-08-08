@@ -1,19 +1,34 @@
 ---
-title: Material Copper Chimeraland
-date: 2022-01-07T08:56:03+07:00
-updated: 2022-09-29T08:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/copper/copper.webp
+date: 2022-01-07T08:56:03+07:00
+description: "Material Copper Chimeraland materials Copper September 29, 2022
+  8:26 AM Red-orange when pure, imperfections are often greenish, pliable yet
+  tough. Continue reading Copper "
+excerpt: "Material Copper Chimeraland materials Copper September 29, 2022 8:26
+  AM Red-orange when pure, imperfections are often greenish, pliable yet tough.
+  Continue reading Copper "
+id: 991f1469-7d29-4888-84d4-c340eda2a1b0
+lang: en
 permalink: /chimeraland/materials/copper.html
 photos:
   - /chimeraland/materials/copper/copper.webp
-thumbnail: /chimeraland/materials/copper/copper.webp
+subtitle: "Material Copper Chimeraland materials Copper September 29, 2022 8:26
+  AM Red-orange when pure, imperfections are often greenish, pliable yet tough.
+  Continue reading Copper "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/copper/copper.webp
+title: Material Copper Chimeraland
+type: post
+updated: 2023-08-08T14:44:58+07:00
+wordcount: 1103
 ---
 
 <link

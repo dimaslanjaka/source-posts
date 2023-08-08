@@ -1,23 +1,34 @@
 ---
-title: Recipe Tomahawk Steak Chimeraland
 author: L3n4r0x
-updated: 2022-10-07T04:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/tomahawk-steak/tomahawk-steak.webp
 date: 2022-01-13T00:56:03+07:00
+description: Recipe Tomahawk Steak Chimeraland Tomahawk Steak Cooking Recipe
+  Buff Tomahawk Steak 420 Fullness 35 Res recipe webma
+excerpt: Recipe Tomahawk Steak Chimeraland Tomahawk Steak Cooking Recipe Buff
+  Tomahawk Steak 420 Fullness 35 Res recipe webma
+id: 728a4032-d15c-4888-8a09-b81b2b12c158
+lang: en
 permalink: /chimeraland/recipes/tomahawk-steak.html
 photos:
   - /chimeraland/recipes/tomahawk-steak/tomahawk-steak.webp
   - /chimeraland/recipes/tomahawk-steak/tomahawk-steak-name.webp
   - /chimeraland/recipes/tomahawk-steak/tomahawk-steak-icon.webp
   - /chimeraland/recipes/tomahawk-steak/tomahawk-steak-material.webp
-thumbnail: /chimeraland/recipes/tomahawk-steak/tomahawk-steak.webp
+subtitle: Recipe Tomahawk Steak Chimeraland Tomahawk Steak Cooking Recipe Buff
+  Tomahawk Steak 420 Fullness 35 Res recipe webma
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/tomahawk-steak/tomahawk-steak.webp
+title: Recipe Tomahawk Steak Chimeraland
+type: post
+updated: 2023-08-08T14:44:23+07:00
+wordcount: 749
 ---
 
 <link

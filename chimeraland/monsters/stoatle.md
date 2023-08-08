@@ -1,21 +1,33 @@
 ---
-title: Monster Stoatle
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T09:22:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stoatle
 date: 2022-01-10T23:56:03+07:00
+description: "Monster Stoatle Stoatle Information from Chimeraland Stoatle
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Stoatle Stoatle Information from Chimeraland Stoatle default
+  maximum attribute GRADE Attack "
+id: 9b23002f-8d08-4888-8220-6a03167e5da3
+lang: en
 permalink: /chimeraland/monsters/stoatle.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stoatle
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stoatle
+subtitle: "Monster Stoatle Stoatle Information from Chimeraland Stoatle default
+  maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stoatle
+title: Monster Stoatle
+type: post
+updated: 2023-08-08T14:44:32+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

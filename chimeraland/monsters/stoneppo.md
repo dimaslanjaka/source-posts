@@ -1,12 +1,20 @@
 ---
-title: Monster Stoneppo
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T06:27:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stoneppo
 date: 2022-01-10T18:56:03+07:00
+description: "Monster Stoneppo Stoneppo Information from Chimeraland Stoneppo
+  default maximum attribute GRADE C RARE Attack 51 "
+excerpt: "Monster Stoneppo Stoneppo Information from Chimeraland Stoneppo
+  default maximum attribute GRADE C RARE Attack 51 "
+id: 43d328d6-d00f-4888-8708-fc77a9d9ed71
+lang: en
 permalink: /chimeraland/monsters/stoneppo.html
 photos:
-  - null
   - /chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-20-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-24-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,15 +23,19 @@ photos:
   - /chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-49-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-53-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/stoneppo/Screenshot_2023-03-24-14-30-58-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stoneppo
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stoneppo
+subtitle: "Monster Stoneppo Stoneppo Information from Chimeraland Stoneppo
+  default maximum attribute GRADE C RARE Attack 51 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stoneppo
+title: Monster Stoneppo
+type: post
+updated: 2023-08-08T14:44:32+07:00
+webtitle: chimeraland
+wordcount: 1201
 ---
 
 <link

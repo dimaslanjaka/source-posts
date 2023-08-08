@@ -1,19 +1,31 @@
 ---
-title: Material Crystal Chimeraland
-date: 2022-01-07T10:56:03+07:00
-updated: 2022-09-29T10:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/crystal/crystal.webp
+date: 2022-01-07T10:56:03+07:00
+description: Material Crystal Chimeraland materials Crystal September 29, 2022
+  10:26 AM Continue reading Crystal What is the use of the Crystal Fou
+excerpt: Material Crystal Chimeraland materials Crystal September 29, 2022 10:26
+  AM Continue reading Crystal What is the use of the Crystal Fou
+id: 17b1a545-4733-4888-8095-7481c5f9bc93
+lang: en
 permalink: /chimeraland/materials/crystal.html
 photos:
   - /chimeraland/materials/crystal/crystal.webp
-thumbnail: /chimeraland/materials/crystal/crystal.webp
+subtitle: Material Crystal Chimeraland materials Crystal September 29, 2022
+  10:26 AM Continue reading Crystal What is the use of the Crystal Fou
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/crystal/crystal.webp
+title: Material Crystal Chimeraland
+type: post
+updated: 2023-08-08T14:44:58+07:00
+wordcount: 790
 ---
 
 <link

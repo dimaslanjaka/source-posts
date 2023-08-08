@@ -1,19 +1,31 @@
 ---
-title: Material Dew Chimeraland
-date: 2022-01-17T10:56:03+07:00
-updated: 2022-10-09T10:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/dew/dew.webp
+date: 2022-01-17T10:56:03+07:00
+description: Material Dew Chimeraland materials Dew October 9, 2022 10:26 AM
+  Continue reading Dew What is the use of the Dew Consume to gain 20 Ful
+excerpt: Material Dew Chimeraland materials Dew October 9, 2022 10:26 AM
+  Continue reading Dew What is the use of the Dew Consume to gain 20 Ful
+id: 6319ee13-b6ad-4888-89c7-0bab9d72c356
+lang: en
 permalink: /chimeraland/materials/dew.html
 photos:
   - /chimeraland/materials/dew/dew.webp
-thumbnail: /chimeraland/materials/dew/dew.webp
+subtitle: Material Dew Chimeraland materials Dew October 9, 2022 10:26 AM
+  Continue reading Dew What is the use of the Dew Consume to gain 20 Ful
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/dew/dew.webp
+title: Material Dew Chimeraland
+type: post
+updated: 2023-08-08T14:44:58+07:00
+wordcount: 23420
 ---
 
 <link

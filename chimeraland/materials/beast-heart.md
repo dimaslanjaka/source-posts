@@ -1,19 +1,34 @@
 ---
-title: Material Beast Heart Chimeraland
-date: 2022-01-08T23:56:03+07:00
-updated: 2022-09-30T23:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/beast-heart/beast-heart.webp
+date: 2022-01-08T23:56:03+07:00
+description: "Material Beast Heart Chimeraland materials Beast Heart September
+  30, 2022 11:26 PM Continue reading Beast Heart What is the use of the Beast
+  Heart "
+excerpt: "Material Beast Heart Chimeraland materials Beast Heart September 30,
+  2022 11:26 PM Continue reading Beast Heart What is the use of the Beast Heart
+  "
+id: 1344e40e-f062-4888-89aa-c619247b9946
+lang: en
 permalink: /chimeraland/materials/beast-heart.html
 photos:
   - /chimeraland/materials/beast-heart/beast-heart.webp
-thumbnail: /chimeraland/materials/beast-heart/beast-heart.webp
+subtitle: "Material Beast Heart Chimeraland materials Beast Heart September 30,
+  2022 11:26 PM Continue reading Beast Heart What is the use of the Beast Heart
+  "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/beast-heart/beast-heart.webp
+title: Material Beast Heart Chimeraland
+type: post
+updated: 2023-08-08T14:45:01+07:00
+wordcount: 6522
 ---
 
 <link

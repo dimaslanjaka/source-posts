@@ -1,19 +1,34 @@
 ---
-title: Material Rhododendron Chimeraland
-date: 2022-01-13T03:56:03+07:00
-updated: 2022-10-05T03:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/rhododendron/rhododendron.webp
+date: 2022-01-13T03:56:03+07:00
+description: "Material Rhododendron Chimeraland materials Rhododendron October
+  5, 2022 3:26 AM Continue reading Rhododendron What is the use of the
+  Rhododendron "
+excerpt: "Material Rhododendron Chimeraland materials Rhododendron October 5,
+  2022 3:26 AM Continue reading Rhododendron What is the use of the Rhododendron
+  "
+id: f85530d3-7028-4888-88ad-f69e60957b1b
+lang: en
 permalink: /chimeraland/materials/rhododendron.html
 photos:
   - /chimeraland/materials/rhododendron/rhododendron.webp
-thumbnail: /chimeraland/materials/rhododendron/rhododendron.webp
+subtitle: "Material Rhododendron Chimeraland materials Rhododendron October 5,
+  2022 3:26 AM Continue reading Rhododendron What is the use of the Rhododendron
+  "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/rhododendron/rhododendron.webp
+title: Material Rhododendron Chimeraland
+type: post
+updated: 2023-08-08T14:44:51+07:00
+wordcount: 468
 ---
 
 <link

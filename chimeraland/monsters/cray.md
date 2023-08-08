@@ -1,21 +1,33 @@
 ---
-title: Monster Cray
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T16:00:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cray
 date: 2023-05-25T02:21:12+07:00
+description: Monster Cray Cray Information from Chimeraland Cray default maximum
+  attribute GRADE Attack Hea
+excerpt: Monster Cray Cray Information from Chimeraland Cray default maximum
+  attribute GRADE Attack Hea
+id: 0b380253-509a-4888-862f-1aa6fd45f7f6
+lang: en
 permalink: /chimeraland/monsters/cray.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cray
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cray
+subtitle: Monster Cray Cray Information from Chimeraland Cray default maximum
+  attribute GRADE Attack Hea
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cray
+title: Monster Cray
+type: post
+updated: 2023-08-08T14:44:45+07:00
+webtitle: chimeraland
+wordcount: 603
 ---
 
 <link

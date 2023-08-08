@@ -3,31 +3,31 @@ author:
   nick: Dimas Lanjaka
   link: https://www.blogger.com/profile/07981649157148639830
   email: noreply@blogger.com
-category:
-  - Programming
+categories:
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/blog/wp-content/uploads/2018/11/Configuraci%C3%B3n-httpd-en-termux-Android.jpg
 date: 2021-06-02T20:52:00.004+07:00
+description: php apache setup on android with Termux without root Download
+  Termux allow installation from unknwon sources and
+excerpt: php apache setup on android with Termux without root Download Termux
+  allow installation from unknwon sources and
+id: 6562ae3a-7688-4888-845f-0976d3040e1d
 lang: en
-location: ""
-modified: 2021-06-02T21:48:37.630+07:00
-subtitle: php apache setup on android with Termux without
-  root) 											Download Termux 						(allow installation from unknwon
-  sources and
-tags:
-  - PHP
-  - Android
-  - Tips & Tricks
-title: Install XAMPP/LAMPP On Android (Non-Root)
-type: post
-uuid: fe9bd82e-f555-4888-8952-a281475f8148
-updated: 2021-06-02T21:48:37+07:00
-thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/blog/wp-content/uploads/2018/11/Configuraci%C3%B3n-httpd-en-termux-Android.jpg
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/blog/wp-content/uploads/2018/11/Configuraci%C3%B3n-httpd-en-termux-Android.jpg
-description: php apache setup on android with Termux without
-  root) 											Download Termux 						(allow installation from unknwon
-  sources and
+subtitle: php apache setup on android with Termux without root Download Termux
+  allow installation from unknwon sources and
+tags:
+  - php
+  - android
+  - tips & tricks
+thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/blog/wp-content/uploads/2018/11/Configuraci%C3%B3n-httpd-en-termux-Android.jpg
+title: Install XAMPP/LAMPP On Android Non-Root
+type: post
+updated: 2023-08-08T14:45:10+07:00
+uuid: fe9bd82e-f555-4888-8952-a281475f8148
+wordcount: 1969
 ---
 
 <div id="bootstrap-wrapper">

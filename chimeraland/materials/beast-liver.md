@@ -1,19 +1,34 @@
 ---
-title: Material Beast Liver Chimeraland
-date: 2022-01-08T22:56:03+07:00
-updated: 2022-09-30T22:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/beast-liver/beast-liver.webp
+date: 2022-01-08T22:56:03+07:00
+description: "Material Beast Liver Chimeraland materials Beast Liver September
+  30, 2022 10:26 PM Continue reading Beast Liver What is the use of the Beast
+  Liver "
+excerpt: "Material Beast Liver Chimeraland materials Beast Liver September 30,
+  2022 10:26 PM Continue reading Beast Liver What is the use of the Beast Liver
+  "
+id: 88b46319-4e56-4888-865f-25c04d770cdb
+lang: en
 permalink: /chimeraland/materials/beast-liver.html
 photos:
   - /chimeraland/materials/beast-liver/beast-liver.webp
-thumbnail: /chimeraland/materials/beast-liver/beast-liver.webp
+subtitle: "Material Beast Liver Chimeraland materials Beast Liver September 30,
+  2022 10:26 PM Continue reading Beast Liver What is the use of the Beast Liver
+  "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/beast-liver/beast-liver.webp
+title: Material Beast Liver Chimeraland
+type: post
+updated: 2023-08-08T14:45:00+07:00
+wordcount: 6889
 ---
 
 <link

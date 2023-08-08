@@ -1,13 +1,29 @@
 ---
-title: File to Hash
-description: get hashes checksum from file using NodeJS
-webtitle: NodeJS Snippet
+author: Dimas Lanjaka
+categories:
+  - js
+  - ts
+comments: true
+cover: /NodeJS/assets/pngwing.com.png
 date: 2022-12-30T14:14:39+07:00
-updated: 2023-06-01T11:51:00+07:00
-tags: ['snippet', 'javascript', 'typescript', 'file']
-categories: ['JS', 'TS']
-type: post
+description: get hashes checksum from file using NodeJS
+excerpt: get hashes checksum from file using NodeJS
+id: 949e2037-8a1e-4888-8c66-3e18f0a3eac1
+lang: en
+photos:
+  - /NodeJS/assets/pngwing.com.png
+subtitle: get hashes checksum from file using NodeJS
+tags:
+  - snippet
+  - javascript
+  - typescript
+  - file
 thumbnail: /NodeJS/assets/pngwing.com.png
+title: File to Hash
+type: post
+updated: 2023-08-08T14:44:21+07:00
+webtitle: NodeJS Snippet
+wordcount: 280
 ---
 
 ## get checksum from file

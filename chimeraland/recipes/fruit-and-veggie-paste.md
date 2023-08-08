@@ -1,23 +1,34 @@
 ---
-title: Recipe Fruit & Veggie Paste Chimeraland
 author: L3n4r0x
-updated: 2022-09-29T01:26:37+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fruit & Veggie Paste
 date: 2022-01-08T20:56:03+07:00
+description: "Recipe Fruit Veggie Paste Chimeraland Fruit Veggie Paste Cooking
+  Recipe Buff Fruit Veggie Paste Buff Fruit Veggie Paste not yet written recipe
+  "
+excerpt: "Recipe Fruit Veggie Paste Chimeraland Fruit Veggie Paste Cooking
+  Recipe Buff Fruit Veggie Paste Buff Fruit Veggie Paste not yet written recipe
+  "
+id: 959af7a2-5a6f-4888-890e-a00014a2482b
+lang: en
 permalink: /chimeraland/recipes/fruit-and-veggie-paste.html
 photos:
-  - null
-  - null
-  - null
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fruit & Veggie Paste
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fruit & Veggie Paste
+subtitle: "Recipe Fruit Veggie Paste Chimeraland Fruit Veggie Paste Cooking
+  Recipe Buff Fruit Veggie Paste Buff Fruit Veggie Paste not yet written recipe
+  "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fruit & Veggie Paste
+title: Recipe Fruit  Veggie Paste Chimeraland
+type: post
+updated: 2023-08-08T14:44:28+07:00
+wordcount: 951
 ---
 
 <link

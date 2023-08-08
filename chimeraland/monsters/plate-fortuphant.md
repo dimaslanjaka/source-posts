@@ -1,12 +1,21 @@
 ---
-title: Monster Plate Fortuphant
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T06:19:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Plate Fortuphant
 date: 2022-01-09T10:56:03+07:00
+description: "Monster Plate Fortuphant Plate Fortuphant Information from
+  Chimeraland Plate Fortuphant default maximum attribute GRADE C RARE Attack 55
+  "
+excerpt: "Monster Plate Fortuphant Plate Fortuphant Information from Chimeraland
+  Plate Fortuphant default maximum attribute GRADE C RARE Attack 55 "
+id: 4c2733e6-0e44-4888-8c18-8109e5dbbbbf
+lang: en
 permalink: /chimeraland/monsters/plate-fortuphant.html
 photos:
-  - null
   - /chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-24-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-27-91_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-32-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +23,20 @@ photos:
   - /chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-41-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-45-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-51-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Plate Fortuphant
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Plate Fortuphant
+subtitle: "Monster Plate Fortuphant Plate Fortuphant Information from
+  Chimeraland Plate Fortuphant default maximum attribute GRADE C RARE Attack 55
+  "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Plate Fortuphant
+title: Monster Plate Fortuphant
+type: post
+updated: 2023-08-08T14:44:35+07:00
+webtitle: chimeraland
+wordcount: 1237
 ---
 
 <link

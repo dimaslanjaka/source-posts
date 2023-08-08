@@ -1,19 +1,37 @@
 ---
-title: Material Titan Triggerfish Chimeraland
-date: 2022-01-15T18:56:03+07:00
-updated: 2022-10-07T18:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/titan-triggerfish/titan-triggerfish.webp
+date: 2022-01-15T18:56:03+07:00
+description: "Material Titan Triggerfish Chimeraland materials Titan Triggerfish
+  October 7, 2022 6:26 PM A marine fish with flattened body and small mouth. It
+  has rough skin and non-overlapping prickly scale. Centralmount Sea is where it
+  may be found. "
+excerpt: "Material Titan Triggerfish Chimeraland materials Titan Triggerfish
+  October 7, 2022 6:26 PM A marine fish with flattened body and small mouth. It
+  has rough skin and non-overlapping prickly scale. Centralmount Sea is where it
+  may be found. "
+id: 34174ab8-ad59-4888-897e-b9cdc6356f7e
+lang: en
 permalink: /chimeraland/materials/titan-triggerfish.html
 photos:
   - /chimeraland/materials/titan-triggerfish/titan-triggerfish.webp
-thumbnail: /chimeraland/materials/titan-triggerfish/titan-triggerfish.webp
+subtitle: "Material Titan Triggerfish Chimeraland materials Titan Triggerfish
+  October 7, 2022 6:26 PM A marine fish with flattened body and small mouth. It
+  has rough skin and non-overlapping prickly scale. Centralmount Sea is where it
+  may be found. "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/titan-triggerfish/titan-triggerfish.webp
+title: Material Titan Triggerfish Chimeraland
+type: post
+updated: 2023-08-08T14:44:49+07:00
+wordcount: 855
 ---
 
 <link

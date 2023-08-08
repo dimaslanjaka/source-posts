@@ -1,19 +1,37 @@
 ---
-title: Material Shark Chimeraland
-date: 2022-01-16T22:56:03+07:00
-updated: 2022-10-08T22:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/shark/shark.webp
+date: 2022-01-16T22:56:03+07:00
+description: "Material Shark Chimeraland materials Shark October 8, 2022 10:26
+  PM A marine fish with hard skin, strong tail, sharp teeth, and a spindle-like
+  body. It has no swim bladder and has to keep swimming to avoid sinking to the
+  bottom. "
+excerpt: "Material Shark Chimeraland materials Shark October 8, 2022 10:26 PM A
+  marine fish with hard skin, strong tail, sharp teeth, and a spindle-like body.
+  It has no swim bladder and has to keep swimming to avoid sinking to the
+  bottom. "
+id: 61b4b9e8-9d19-4888-8244-c6f4424b58bf
+lang: en
 permalink: /chimeraland/materials/shark.html
 photos:
   - /chimeraland/materials/shark/shark.webp
-thumbnail: /chimeraland/materials/shark/shark.webp
+subtitle: "Material Shark Chimeraland materials Shark October 8, 2022 10:26 PM A
+  marine fish with hard skin, strong tail, sharp teeth, and a spindle-like body.
+  It has no swim bladder and has to keep swimming to avoid sinking to the
+  bottom. "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/shark/shark.webp
+title: Material Shark Chimeraland
+type: post
+updated: 2023-08-08T14:44:50+07:00
+wordcount: 844
 ---
 
 <link

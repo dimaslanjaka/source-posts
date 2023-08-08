@@ -1,21 +1,33 @@
 ---
-title: Monster Smobirdgon
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T17:16:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Smobirdgon
 date: 2022-01-10T03:56:03+07:00
+description: "Monster Smobirdgon Smobirdgon Information from Chimeraland
+  Smobirdgon default maximum attribute GRADE Attack "
+excerpt: "Monster Smobirdgon Smobirdgon Information from Chimeraland Smobirdgon
+  default maximum attribute GRADE Attack "
+id: e02b3d9d-a564-4888-8e75-ed6e55b463e7
+lang: en
 permalink: /chimeraland/monsters/smobirdgon.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Smobirdgon
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Smobirdgon
+subtitle: "Monster Smobirdgon Smobirdgon Information from Chimeraland Smobirdgon
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Smobirdgon
+title: Monster Smobirdgon
+type: post
+updated: 2023-08-08T14:44:34+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

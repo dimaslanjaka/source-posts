@@ -1,19 +1,31 @@
 ---
-title: Material Bok Choy Chimeraland
-date: 2022-01-12T00:56:03+07:00
-updated: 2022-10-04T00:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/bok-choy/bok-choy.webp
+date: 2022-01-12T00:56:03+07:00
+description: "Material Bok Choy Chimeraland materials Bok Choy October 4, 2022
+  12:26 AM Continue reading Bok Choy What is the use of the Bok Choy "
+excerpt: "Material Bok Choy Chimeraland materials Bok Choy October 4, 2022 12:26
+  AM Continue reading Bok Choy What is the use of the Bok Choy "
+id: b247e197-ecc4-4888-8bda-e4254e957ba9
+lang: en
 permalink: /chimeraland/materials/bok-choy.html
 photos:
   - /chimeraland/materials/bok-choy/bok-choy.webp
-thumbnail: /chimeraland/materials/bok-choy/bok-choy.webp
+subtitle: "Material Bok Choy Chimeraland materials Bok Choy October 4, 2022
+  12:26 AM Continue reading Bok Choy What is the use of the Bok Choy "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/bok-choy/bok-choy.webp
+title: Material Bok Choy Chimeraland
+type: post
+updated: 2023-08-08T14:44:59+07:00
+wordcount: 993
 ---
 
 <link

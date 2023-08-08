@@ -1,19 +1,34 @@
 ---
-title: Material Primal Bones Chimeraland
-date: 2022-01-10T22:56:03+07:00
-updated: 2022-10-02T22:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/primal-bones/primal-bones.webp
+date: 2022-01-10T22:56:03+07:00
+description: "Material Primal Bones Chimeraland materials Primal Bones October
+  2, 2022 10:26 PM Continue reading Primal Bones What is the use of the Primal
+  Bones "
+excerpt: "Material Primal Bones Chimeraland materials Primal Bones October 2,
+  2022 10:26 PM Continue reading Primal Bones What is the use of the Primal
+  Bones "
+id: 3a336387-cf72-4888-8778-26e023bbbd7e
+lang: en
 permalink: /chimeraland/materials/primal-bones.html
 photos:
   - /chimeraland/materials/primal-bones/primal-bones.webp
-thumbnail: /chimeraland/materials/primal-bones/primal-bones.webp
+subtitle: "Material Primal Bones Chimeraland materials Primal Bones October 2,
+  2022 10:26 PM Continue reading Primal Bones What is the use of the Primal
+  Bones "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/primal-bones/primal-bones.webp
+title: Material Primal Bones Chimeraland
+type: post
+updated: 2023-08-08T14:44:51+07:00
+wordcount: 804
 ---
 
 <link

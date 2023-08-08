@@ -1,23 +1,34 @@
 ---
-title: Recipe Fruity Fried Mackerel Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T14:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fruity Fried Mackerel
 date: 2022-01-09T07:56:03+07:00
+description: "Recipe Fruity Fried Mackerel Chimeraland Fruity Fried Mackerel
+  Cooking Recipe Buff Fruity Fried Mackerel Buff Fruity Fried Mackerel not yet
+  written recipe "
+excerpt: "Recipe Fruity Fried Mackerel Chimeraland Fruity Fried Mackerel Cooking
+  Recipe Buff Fruity Fried Mackerel Buff Fruity Fried Mackerel not yet written
+  recipe "
+id: 98fe5106-d729-4888-8de8-ca2ebf83ff88
+lang: en
 permalink: /chimeraland/recipes/fruity-fried-mackerel.html
 photos:
-  - null
-  - null
-  - null
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fruity Fried Mackerel
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fruity Fried Mackerel
+subtitle: "Recipe Fruity Fried Mackerel Chimeraland Fruity Fried Mackerel
+  Cooking Recipe Buff Fruity Fried Mackerel Buff Fruity Fried Mackerel not yet
+  written recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fruity Fried Mackerel
+title: Recipe Fruity Fried Mackerel Chimeraland
+type: post
+updated: 2023-08-08T14:44:28+07:00
+wordcount: 884
 ---
 
 <link

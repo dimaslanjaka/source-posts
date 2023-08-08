@@ -1,23 +1,37 @@
 ---
-title: Recipe Chargrilled Pumpkin And Iguana Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T13:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana.webp
 date: 2022-01-07T01:56:03+07:00
+description: Recipe Chargrilled Pumpkin And Iguana Chimeraland Chargrilled
+  Pumpkin And Iguana Cooking Recipe Buff Chargrilled Pumpkin And Iguana 420
+  Fullness 25 Armor
+excerpt: Recipe Chargrilled Pumpkin And Iguana Chimeraland Chargrilled Pumpkin
+  And Iguana Cooking Recipe Buff Chargrilled Pumpkin And Iguana 420 Fullness 25
+  Armor
+id: 9eacfc6b-d9c8-4888-8d13-bfe15b97a4e4
+lang: en
 permalink: /chimeraland/recipes/chargrilled-pumpkin-and-iguana.html
 photos:
   - /chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana.webp
   - /chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana-name.webp
   - /chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana-icon.webp
   - /chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana-material.webp
-thumbnail: /chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana.webp
+subtitle: Recipe Chargrilled Pumpkin And Iguana Chimeraland Chargrilled Pumpkin
+  And Iguana Cooking Recipe Buff Chargrilled Pumpkin And Iguana 420 Fullness 25
+  Armor
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/chargrilled-pumpkin-and-iguana/chargrilled-pumpkin-and-iguana.webp
+title: Recipe Chargrilled Pumpkin And Iguana Chimeraland
+type: post
+updated: 2023-08-08T14:44:29+07:00
+wordcount: 889
 ---
 
 <link

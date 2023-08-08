@@ -1,19 +1,34 @@
 ---
-title: Material Beetlefly Stinger Chimeraland
-date: 2022-01-11T06:56:03+07:00
-updated: 2022-10-03T06:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/beetlefly-stinger/beetlefly-stinger.webp
+date: 2022-01-11T06:56:03+07:00
+description: "Material Beetlefly Stinger Chimeraland materials Beetlefly Stinger
+  October 3, 2022 6:26 AM Contains a poison that kills plants and animals.
+  Continue reading Beetlefly Stinger "
+excerpt: "Material Beetlefly Stinger Chimeraland materials Beetlefly Stinger
+  October 3, 2022 6:26 AM Contains a poison that kills plants and animals.
+  Continue reading Beetlefly Stinger "
+id: a60a097c-d892-4888-831c-2ad73d65cb32
+lang: en
 permalink: /chimeraland/materials/beetlefly-stinger.html
 photos:
   - /chimeraland/materials/beetlefly-stinger/beetlefly-stinger.webp
-thumbnail: /chimeraland/materials/beetlefly-stinger/beetlefly-stinger.webp
+subtitle: "Material Beetlefly Stinger Chimeraland materials Beetlefly Stinger
+  October 3, 2022 6:26 AM Contains a poison that kills plants and animals.
+  Continue reading Beetlefly Stinger "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/beetlefly-stinger/beetlefly-stinger.webp
+title: Material Beetlefly Stinger Chimeraland
+type: post
+updated: 2023-08-08T14:45:00+07:00
+wordcount: 948
 ---
 
 <link

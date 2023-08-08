@@ -1,9 +1,20 @@
 ---
-title: Monster carnivore blossom
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-16T20:53:22+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-56-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-16T20:42:22+07:00
+description: Monster carnivore blossom carnivore blossom Information from
+  Chimeraland carnivore blossom default maximum attribute GRADE N/A N/A Attack
+  N/A
+excerpt: Monster carnivore blossom carnivore blossom Information from
+  Chimeraland carnivore blossom default maximum attribute GRADE N/A N/A Attack
+  N/A
+id: 76618d7b-e2e3-4888-8438-a05b313b6895
+lang: en
 permalink: /chimeraland/monsters/carnivore-blossom.html
 photos:
   - /chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-56-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +24,19 @@ photos:
   - /chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-57-09-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-57-13-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-57-19-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-56-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: Monster carnivore blossom carnivore blossom Information from
+  Chimeraland carnivore blossom default maximum attribute GRADE N/A N/A Attack
+  N/A
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-56-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster carnivore blossom
+type: post
+updated: 2023-08-08T14:44:46+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

@@ -1,23 +1,34 @@
 ---
-title: Recipe Bak Kut Teh Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T12:46:53+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/bak-kut-teh/bak-kut-teh.webp
 date: 2022-01-07T04:56:03+07:00
+description: Recipe Bak Kut Teh Chimeraland Bak Kut Teh Cooking Recipe Buff Bak
+  Kut Teh 540 Fullness 200 ATK recipe webmanajemen.
+excerpt: Recipe Bak Kut Teh Chimeraland Bak Kut Teh Cooking Recipe Buff Bak Kut
+  Teh 540 Fullness 200 ATK recipe webmanajemen.
+id: 0cfc81f2-ee60-4888-8eaa-c35d32b13663
+lang: en
 permalink: /chimeraland/recipes/bak-kut-teh.html
 photos:
   - /chimeraland/recipes/bak-kut-teh/bak-kut-teh.webp
   - /chimeraland/recipes/bak-kut-teh/bak-kut-teh-name.webp
   - /chimeraland/recipes/bak-kut-teh/bak-kut-teh-icon.webp
   - /chimeraland/recipes/bak-kut-teh/bak-kut-teh-material.webp
-thumbnail: /chimeraland/recipes/bak-kut-teh/bak-kut-teh.webp
+subtitle: Recipe Bak Kut Teh Chimeraland Bak Kut Teh Cooking Recipe Buff Bak Kut
+  Teh 540 Fullness 200 ATK recipe webmanajemen.
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/bak-kut-teh/bak-kut-teh.webp
+title: Recipe Bak Kut Teh Chimeraland
+type: post
+updated: 2023-08-08T14:44:30+07:00
+wordcount: 830
 ---
 
 <link

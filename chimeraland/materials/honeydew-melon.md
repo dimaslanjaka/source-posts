@@ -1,19 +1,34 @@
 ---
-title: Material Honeydew Melon Chimeraland
-date: 2022-01-12T15:56:03+07:00
-updated: 2022-10-04T15:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/honeydew-melon/honeydew-melon.webp
+date: 2022-01-12T15:56:03+07:00
+description: "Material Honeydew Melon Chimeraland materials Honeydew Melon
+  October 4, 2022 3:26 PM Continue reading Honeydew Melon What is the use of the
+  Honeydew Melon "
+excerpt: "Material Honeydew Melon Chimeraland materials Honeydew Melon October
+  4, 2022 3:26 PM Continue reading Honeydew Melon What is the use of the
+  Honeydew Melon "
+id: 4fb7ebfc-a81a-4888-8e78-347e67e88178
+lang: en
 permalink: /chimeraland/materials/honeydew-melon.html
 photos:
   - /chimeraland/materials/honeydew-melon/honeydew-melon.webp
-thumbnail: /chimeraland/materials/honeydew-melon/honeydew-melon.webp
+subtitle: "Material Honeydew Melon Chimeraland materials Honeydew Melon October
+  4, 2022 3:26 PM Continue reading Honeydew Melon What is the use of the
+  Honeydew Melon "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/honeydew-melon/honeydew-melon.webp
+title: Material Honeydew Melon Chimeraland
+type: post
+updated: 2023-08-08T14:44:55+07:00
+wordcount: 935
 ---
 
 <link

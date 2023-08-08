@@ -1,21 +1,33 @@
 ---
-title: Monster Giant Alligon
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T04:24:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Giant Alligon
 date: 2022-01-06T20:56:03+07:00
+description: "Monster Giant Alligon Giant Alligon Information from Chimeraland
+  Giant Alligon default maximum attribute GRADE B GRAND - EPIC Attack 61 "
+excerpt: "Monster Giant Alligon Giant Alligon Information from Chimeraland Giant
+  Alligon default maximum attribute GRADE B GRAND - EPIC Attack 61 "
+id: 5f7cc78e-1e18-4888-8dfc-f63529d35cd7
+lang: en
 permalink: /chimeraland/monsters/giant-alligon.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Giant Alligon
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Giant Alligon
+subtitle: "Monster Giant Alligon Giant Alligon Information from Chimeraland
+  Giant Alligon default maximum attribute GRADE B GRAND - EPIC Attack 61 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Giant Alligon
+title: Monster Giant Alligon
+type: post
+updated: 2023-08-08T14:44:43+07:00
+webtitle: chimeraland
+wordcount: 696
 ---
 
 <link

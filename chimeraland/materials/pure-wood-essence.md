@@ -1,19 +1,34 @@
 ---
-title: Material Pure Wood Essence Chimeraland
-date: 2022-01-12T12:56:03+07:00
-updated: 2022-10-04T12:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/pure-wood-essence/pure-wood-essence.webp
+date: 2022-01-12T12:56:03+07:00
+description: "Material Pure Wood Essence Chimeraland materials Pure Wood Essence
+  October 4, 2022 12:26 PM Continue reading Pure Wood Essence What is the use of
+  the Pure Wood Essence "
+excerpt: "Material Pure Wood Essence Chimeraland materials Pure Wood Essence
+  October 4, 2022 12:26 PM Continue reading Pure Wood Essence What is the use of
+  the Pure Wood Essence "
+id: 4bf35af1-6766-4888-8ae0-341f89cad7a0
+lang: en
 permalink: /chimeraland/materials/pure-wood-essence.html
 photos:
   - /chimeraland/materials/pure-wood-essence/pure-wood-essence.webp
-thumbnail: /chimeraland/materials/pure-wood-essence/pure-wood-essence.webp
+subtitle: "Material Pure Wood Essence Chimeraland materials Pure Wood Essence
+  October 4, 2022 12:26 PM Continue reading Pure Wood Essence What is the use of
+  the Pure Wood Essence "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/pure-wood-essence/pure-wood-essence.webp
+title: Material Pure Wood Essence Chimeraland
+type: post
+updated: 2023-08-08T14:44:51+07:00
+wordcount: 636
 ---
 
 <link

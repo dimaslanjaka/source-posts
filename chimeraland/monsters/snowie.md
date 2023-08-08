@@ -1,21 +1,33 @@
 ---
-title: Monster Snowie
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T11:38:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Snowie
 date: 2022-01-09T22:56:03+07:00
+description: "Monster Snowie Snowie Information from Chimeraland Snowie default
+  maximum attribute GRADE B GRAND - EPIC Attack 58 "
+excerpt: "Monster Snowie Snowie Information from Chimeraland Snowie default
+  maximum attribute GRADE B GRAND - EPIC Attack 58 "
+id: eec52d50-a316-4888-8cd1-cd7feec2b0fa
+lang: en
 permalink: /chimeraland/monsters/snowie.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Snowie
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Snowie
+subtitle: "Monster Snowie Snowie Information from Chimeraland Snowie default
+  maximum attribute GRADE B GRAND - EPIC Attack 58 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Snowie
+title: Monster Snowie
+type: post
+updated: 2023-08-08T14:44:33+07:00
+webtitle: chimeraland
+wordcount: 659
 ---
 
 <link

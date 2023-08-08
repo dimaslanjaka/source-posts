@@ -1,23 +1,34 @@
 ---
-title: Recipe Braised Bear Meat Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T17:46:53+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/braised-bear-meat/braised-bear-meat.webp
 date: 2022-01-06T22:56:03+07:00
+description: "Recipe Braised Bear Meat Chimeraland Braised Bear Meat Cooking
+  Recipe Buff Braised Bear Meat 420 Fullness 150 ATK recipe "
+excerpt: "Recipe Braised Bear Meat Chimeraland Braised Bear Meat Cooking Recipe
+  Buff Braised Bear Meat 420 Fullness 150 ATK recipe "
+id: cedfb79b-7619-4888-8e3a-5faf96409a96
+lang: en
 permalink: /chimeraland/recipes/braised-bear-meat.html
 photos:
   - /chimeraland/recipes/braised-bear-meat/braised-bear-meat.webp
   - /chimeraland/recipes/braised-bear-meat/braised-bear-meat-name.webp
   - /chimeraland/recipes/braised-bear-meat/braised-bear-meat-icon.webp
   - /chimeraland/recipes/braised-bear-meat/braised-bear-meat-material.webp
-thumbnail: /chimeraland/recipes/braised-bear-meat/braised-bear-meat.webp
+subtitle: "Recipe Braised Bear Meat Chimeraland Braised Bear Meat Cooking Recipe
+  Buff Braised Bear Meat 420 Fullness 150 ATK recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/braised-bear-meat/braised-bear-meat.webp
+title: Recipe Braised Bear Meat Chimeraland
+type: post
+updated: 2023-08-08T14:44:30+07:00
+wordcount: 760
 ---
 
 <link

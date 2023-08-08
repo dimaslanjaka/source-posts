@@ -1,19 +1,37 @@
 ---
-title: Material Pomfret Chimeraland
-date: 2022-01-15T00:56:03+07:00
-updated: 2022-10-07T00:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/pomfret/pomfret.webp
+date: 2022-01-15T00:56:03+07:00
+description: Material Pomfret Chimeraland materials Pomfret October 7, 2022
+  12:26 AM A marine fish with a short yet tall body. It is very flat and
+  slightly diamond-shaped. It has a fairly small head, round snout, small mouth,
+  and fine teeth, Southmount sea i
+excerpt: Material Pomfret Chimeraland materials Pomfret October 7, 2022 12:26 AM
+  A marine fish with a short yet tall body. It is very flat and slightly
+  diamond-shaped. It has a fairly small head, round snout, small mouth, and fine
+  teeth, Southmount sea i
+id: b2f349b6-18ae-4888-8780-ef78a55f022d
+lang: en
 permalink: /chimeraland/materials/pomfret.html
 photos:
   - /chimeraland/materials/pomfret/pomfret.webp
-thumbnail: /chimeraland/materials/pomfret/pomfret.webp
+subtitle: Material Pomfret Chimeraland materials Pomfret October 7, 2022 12:26
+  AM A marine fish with a short yet tall body. It is very flat and slightly
+  diamond-shaped. It has a fairly small head, round snout, small mouth, and fine
+  teeth, Southmount sea i
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/pomfret/pomfret.webp
+title: Material Pomfret Chimeraland
+type: post
+updated: 2023-08-08T14:44:52+07:00
+wordcount: 882
 ---
 
 <link

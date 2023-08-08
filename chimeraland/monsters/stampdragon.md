@@ -1,21 +1,33 @@
 ---
-title: Monster Stampdragon
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T14:03:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stampdragon
 date: 2022-01-10T20:56:03+07:00
+description: "Monster Stampdragon Stampdragon Information from Chimeraland
+  Stampdragon default maximum attribute GRADE B GRAND - EPIC Attack 60 "
+excerpt: "Monster Stampdragon Stampdragon Information from Chimeraland
+  Stampdragon default maximum attribute GRADE B GRAND - EPIC Attack 60 "
+id: b9ed8920-fd6e-4888-88ce-b4270e990ef6
+lang: en
 permalink: /chimeraland/monsters/stampdragon.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stampdragon
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stampdragon
+subtitle: "Monster Stampdragon Stampdragon Information from Chimeraland
+  Stampdragon default maximum attribute GRADE B GRAND - EPIC Attack 60 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stampdragon
+title: Monster Stampdragon
+type: post
+updated: 2023-08-08T14:44:32+07:00
+webtitle: chimeraland
+wordcount: 659
 ---
 
 <link

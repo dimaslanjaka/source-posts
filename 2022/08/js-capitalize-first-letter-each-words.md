@@ -1,16 +1,30 @@
 ---
-title: JS Capitalize First Letter of Each Words Which Mixed With Symbols
-date: 2022-08-26T08:44:00+0700
-updated: 2023-08-08T14:07:42+07:00
-thumbnail: /2022/08/js-capitalize-first-letter-each-words/cover.png
-description: how to capitalize the first letter of any word mixed with symbols or non-alphabetic chars in JavaScript
+author: Dimas Lanjaka
 categories:
-  - Programming
-  - JS
+  - programming
+  - js
+comments: true
+cover: /2022/08/js-capitalize-first-letter-each-words/cover.png
+date: 2022-08-26T08:44:00+0700
+description: how to capitalize the first letter of any word mixed with symbols
+  or non-alphabetic chars in JavaScript
+excerpt: how to capitalize the first letter of any word mixed with symbols or
+  non-alphabetic chars in JavaScript
+id: bf5b0866-2335-4888-8779-cb1be42d85b4
+lang: en
+photos:
+  - /2022/08/js-capitalize-first-letter-each-words/cover.png
+subtitle: how to capitalize the first letter of any word mixed with symbols or
+  non-alphabetic chars in JavaScript
 tags:
-  - Scripts
-  - Snippets
-  - JS
+  - scripts
+  - snippets
+  - js
+thumbnail: /2022/08/js-capitalize-first-letter-each-words/cover.png
+title: JS Capitalize First Letter of Each Words Which Mixed With Symbols
+type: post
+updated: 2023-08-08T14:45:09+07:00
+wordcount: 634
 ---
 
 ## How to Capitalize the First Letter of Each Word in JavaScript – a JS Capitalize Tutorial

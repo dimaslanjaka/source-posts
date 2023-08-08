@@ -1,19 +1,34 @@
 ---
-title: Material Wolfspider Carapace Chimeraland
-date: 2022-01-09T23:56:03+07:00
-updated: 2022-10-01T23:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/wolfspider-carapace/wolfspider-carapace.webp
+date: 2022-01-09T23:56:03+07:00
+description: Material Wolfspider Carapace Chimeraland materials Wolfspider
+  Carapace October 1, 2022 11:26 PM Wolfspider shell, worn to repel bugs.
+  Continue reading Wolfspider Carapace Wha
+excerpt: Material Wolfspider Carapace Chimeraland materials Wolfspider Carapace
+  October 1, 2022 11:26 PM Wolfspider shell, worn to repel bugs. Continue
+  reading Wolfspider Carapace Wha
+id: 6847bc19-0b01-4888-8699-6c9c65a9f790
+lang: en
 permalink: /chimeraland/materials/wolfspider-carapace.html
 photos:
   - /chimeraland/materials/wolfspider-carapace/wolfspider-carapace.webp
-thumbnail: /chimeraland/materials/wolfspider-carapace/wolfspider-carapace.webp
+subtitle: Material Wolfspider Carapace Chimeraland materials Wolfspider Carapace
+  October 1, 2022 11:26 PM Wolfspider shell, worn to repel bugs. Continue
+  reading Wolfspider Carapace Wha
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/wolfspider-carapace/wolfspider-carapace.webp
+title: Material Wolfspider Carapace Chimeraland
+type: post
+updated: 2023-08-08T14:44:48+07:00
+wordcount: 938
 ---
 
 <link

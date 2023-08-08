@@ -1,23 +1,34 @@
 ---
-title: Recipe Grilled Kidneys Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T17:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/grilled-kidneys/grilled-kidneys.webp
 date: 2022-01-09T16:56:03+07:00
+description: Recipe Grilled Kidneys Chimeraland Grilled Kidneys Cooking Recipe
+  Buff Grilled Kidneys 300 Fullness 15 RES recipe web
+excerpt: Recipe Grilled Kidneys Chimeraland Grilled Kidneys Cooking Recipe Buff
+  Grilled Kidneys 300 Fullness 15 RES recipe web
+id: 251bb2c7-1175-4888-8d3a-b75dd3b38d82
+lang: en
 permalink: /chimeraland/recipes/grilled-kidneys.html
 photos:
   - /chimeraland/recipes/grilled-kidneys/grilled-kidneys.webp
   - /chimeraland/recipes/grilled-kidneys/grilled-kidneys-name.webp
   - /chimeraland/recipes/grilled-kidneys/grilled-kidneys-icon.webp
   - /chimeraland/recipes/grilled-kidneys/grilled-kidneys-material.webp
-thumbnail: /chimeraland/recipes/grilled-kidneys/grilled-kidneys.webp
+subtitle: Recipe Grilled Kidneys Chimeraland Grilled Kidneys Cooking Recipe Buff
+  Grilled Kidneys 300 Fullness 15 RES recipe web
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/grilled-kidneys/grilled-kidneys.webp
+title: Recipe Grilled Kidneys Chimeraland
+type: post
+updated: 2023-08-08T14:44:27+07:00
+wordcount: 600
 ---
 
 <link

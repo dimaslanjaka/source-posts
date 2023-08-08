@@ -1,15 +1,15 @@
 ---
-title: "rel attribute explanations in anchor html element"
-description: "explanations, sample, and functions of rel attribute values such as nofollow noreferer dofollow noopener etc."
-lang: en
+author: Dimas Lanjaka
+categories:
+  - programming
+  - seo
+comments: true
 date: 2022-10-10T23:09:00+0700
-updated: 2022-10-10T23:09:00+0700
-tags:
-  - SEO
-  - Hyperlink
-category:
-  - Programming
-  - SEO
+description: explanations, sample, and functions of rel attribute values such as
+  nofollow noreferer dofollow noopener etc.
+excerpt: explanations, sample, and functions of rel attribute values such as
+  nofollow noreferer dofollow noopener etc.
+id: e1d24556-98bd-4888-83d5-f6c8577cb67b
 keywords:
   - hypelink
   - rel
@@ -19,6 +19,17 @@ keywords:
   - dofollow
   - follow
   - bookmark
+lang: en
+photos: []
+subtitle: explanations, sample, and functions of rel attribute values such as
+  nofollow noreferer dofollow noopener etc.
+tags:
+  - seo
+  - hyperlink
+title: rel attribute explanations in anchor html element
+type: post
+updated: 2023-08-08T14:45:08+07:00
+wordcount: 2348
 ---
 
 Definition and Usage of REL attribute on anchor/hyperlink

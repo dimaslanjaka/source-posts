@@ -1,24 +1,37 @@
 ---
-title: Recipe Spicy Red Goodfruit Broth Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T11:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spicy Red
+  Goodfruit Broth
 date: 2022-01-12T03:56:03+07:00
+description: Recipe Spicy Red Goodfruit Broth Chimeraland Spicy Red Goodfruit
+  Broth Cooking Recipe Buff Spicy Red Goodfruit Broth 300 Fullness Cold
+  Resistance 15 recipe
+excerpt: Recipe Spicy Red Goodfruit Broth Chimeraland Spicy Red Goodfruit Broth
+  Cooking Recipe Buff Spicy Red Goodfruit Broth 300 Fullness Cold Resistance 15
+  recipe
+id: 620b73dd-abaa-4888-8cf5-53c7e5164d83
+lang: en
 permalink: /chimeraland/recipes/spicy-red-goodfruit-broth.html
 photos:
-  - null
-  - null
-  - null
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spicy Red
-  Goodfruit Broth
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spicy Red Goodfruit
+    Broth
+subtitle: Recipe Spicy Red Goodfruit Broth Chimeraland Spicy Red Goodfruit Broth
+  Cooking Recipe Buff Spicy Red Goodfruit Broth 300 Fullness Cold Resistance 15
+  recipe
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spicy Red
+  Goodfruit Broth
+title: Recipe Spicy Red Goodfruit Broth Chimeraland
+type: post
+updated: 2023-08-08T14:44:24+07:00
+wordcount: 812
 ---
 
 <link

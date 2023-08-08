@@ -1,23 +1,34 @@
 ---
-title: Recipe Hot Water Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T18:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/hot-water/hot-water.webp
 date: 2022-01-10T02:56:03+07:00
+description: Recipe Hot Water Chimeraland Hot Water Cooking Recipe Buff Hot
+  Water 60 Fullness Cold Resistance 5 recipe webmanajem
+excerpt: Recipe Hot Water Chimeraland Hot Water Cooking Recipe Buff Hot Water 60
+  Fullness Cold Resistance 5 recipe webmanajem
+id: f70cbca4-1c11-4888-88fd-ec4f794bf188
+lang: en
 permalink: /chimeraland/recipes/hot-water.html
 photos:
   - /chimeraland/recipes/hot-water/hot-water.webp
   - /chimeraland/recipes/hot-water/hot-water-name.webp
   - /chimeraland/recipes/hot-water/hot-water-icon.webp
   - /chimeraland/recipes/hot-water/hot-water-material.webp
-thumbnail: /chimeraland/recipes/hot-water/hot-water.webp
+subtitle: Recipe Hot Water Chimeraland Hot Water Cooking Recipe Buff Hot Water
+  60 Fullness Cold Resistance 5 recipe webmanajem
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/hot-water/hot-water.webp
+title: Recipe Hot Water Chimeraland
+type: post
+updated: 2023-08-08T14:44:26+07:00
+wordcount: 790
 ---
 
 <link

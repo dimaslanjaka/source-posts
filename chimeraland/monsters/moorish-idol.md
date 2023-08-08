@@ -1,21 +1,33 @@
 ---
-title: Monster Moorish Idol
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T07:31:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Moorish Idol
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Moorish Idol Moorish Idol Information from Chimeraland
+  Moorish Idol default maximum attribute GRADE Attack "
+excerpt: "Monster Moorish Idol Moorish Idol Information from Chimeraland Moorish
+  Idol default maximum attribute GRADE Attack "
+id: 36a8be9e-07ba-4888-8ff5-ebb7a55531fa
+lang: en
 permalink: /chimeraland/monsters/moorish-idol.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Moorish Idol
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Moorish Idol
+subtitle: "Monster Moorish Idol Moorish Idol Information from Chimeraland
+  Moorish Idol default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Moorish Idol
+title: Monster Moorish Idol
+type: post
+updated: 2023-08-08T14:44:37+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

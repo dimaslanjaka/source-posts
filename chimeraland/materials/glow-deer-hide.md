@@ -1,19 +1,34 @@
 ---
-title: Material Glow Deer Hide Chimeraland
-date: 2022-01-09T09:56:03+07:00
-updated: 2022-10-01T09:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/glow-deer-hide/glow-deer-hide.webp
+date: 2022-01-09T09:56:03+07:00
+description: "Material Glow Deer Hide Chimeraland materials Glow Deer Hide
+  October 1, 2022 9:26 AM Continue reading Glow Deer Hide What is the use of the
+  Glow Deer Hide "
+excerpt: "Material Glow Deer Hide Chimeraland materials Glow Deer Hide October
+  1, 2022 9:26 AM Continue reading Glow Deer Hide What is the use of the Glow
+  Deer Hide "
+id: 081ea5ed-baa4-4888-8115-b67315b84ebc
+lang: en
 permalink: /chimeraland/materials/glow-deer-hide.html
 photos:
   - /chimeraland/materials/glow-deer-hide/glow-deer-hide.webp
-thumbnail: /chimeraland/materials/glow-deer-hide/glow-deer-hide.webp
+subtitle: "Material Glow Deer Hide Chimeraland materials Glow Deer Hide October
+  1, 2022 9:26 AM Continue reading Glow Deer Hide What is the use of the Glow
+  Deer Hide "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/glow-deer-hide/glow-deer-hide.webp
+title: Material Glow Deer Hide Chimeraland
+type: post
+updated: 2023-08-08T14:44:56+07:00
+wordcount: 1088
 ---
 
 <link

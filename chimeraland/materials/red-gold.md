@@ -1,19 +1,34 @@
 ---
-title: Material Red Gold Chimeraland
-date: 2022-01-07T11:56:03+07:00
-updated: 2022-09-29T11:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/red-gold/red-gold.webp
+date: 2022-01-07T11:56:03+07:00
+description: "Material Red Gold Chimeraland materials Red Gold September 29,
+  2022 11:26 AM Gold thats been mixed with reddish minerals. Less pure than lux
+  gold, its soft and malleable. Continue reading Red Gold "
+excerpt: "Material Red Gold Chimeraland materials Red Gold September 29, 2022
+  11:26 AM Gold thats been mixed with reddish minerals. Less pure than lux gold,
+  its soft and malleable. Continue reading Red Gold "
+id: 049af10d-0354-4888-8e9c-258aa71a6048
+lang: en
 permalink: /chimeraland/materials/red-gold.html
 photos:
   - /chimeraland/materials/red-gold/red-gold.webp
-thumbnail: /chimeraland/materials/red-gold/red-gold.webp
+subtitle: "Material Red Gold Chimeraland materials Red Gold September 29, 2022
+  11:26 AM Gold thats been mixed with reddish minerals. Less pure than lux gold,
+  its soft and malleable. Continue reading Red Gold "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/red-gold/red-gold.webp
+title: Material Red Gold Chimeraland
+type: post
+updated: 2023-08-08T14:44:51+07:00
+wordcount: 1092
 ---
 
 <link

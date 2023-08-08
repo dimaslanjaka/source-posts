@@ -1,19 +1,37 @@
 ---
-title: Material Swallowfish Chimeraland
-date: 2022-01-16T21:56:03+07:00
-updated: 2022-10-08T21:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/swallowfish/swallowfish.webp
+date: 2022-01-16T21:56:03+07:00
+description: Material Swallowfish Chimeraland materials Swallowfish October 8,
+  2022 9:26 PM A marine fish that is diamond-shaped, with a very flat body, and
+  very flat tail fin edge. It has dorsal and rear fin which extended backwards
+  symmertrically, above an
+excerpt: Material Swallowfish Chimeraland materials Swallowfish October 8, 2022
+  9:26 PM A marine fish that is diamond-shaped, with a very flat body, and very
+  flat tail fin edge. It has dorsal and rear fin which extended backwards
+  symmertrically, above an
+id: 2acc3c0f-0179-4888-8710-8a61c1c3e6ee
+lang: en
 permalink: /chimeraland/materials/swallowfish.html
 photos:
   - /chimeraland/materials/swallowfish/swallowfish.webp
-thumbnail: /chimeraland/materials/swallowfish/swallowfish.webp
+subtitle: Material Swallowfish Chimeraland materials Swallowfish October 8, 2022
+  9:26 PM A marine fish that is diamond-shaped, with a very flat body, and very
+  flat tail fin edge. It has dorsal and rear fin which extended backwards
+  symmertrically, above an
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/swallowfish/swallowfish.webp
+title: Material Swallowfish Chimeraland
+type: post
+updated: 2023-08-08T14:44:49+07:00
+wordcount: 822
 ---
 
 <link

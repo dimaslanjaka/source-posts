@@ -1,23 +1,34 @@
 ---
-title: Recipe Stir Fried Vegetables Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:53+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables.webp
 date: 2022-01-06T20:56:03+07:00
+description: "Recipe Stir Fried Vegetables Chimeraland Stir Fried Vegetables
+  Cooking Recipe Buff Stir Fried Vegetables 10 Crit DMG Great Focus recipe "
+excerpt: "Recipe Stir Fried Vegetables Chimeraland Stir Fried Vegetables Cooking
+  Recipe Buff Stir Fried Vegetables 10 Crit DMG Great Focus recipe "
+id: 18fb0524-8cb8-4888-8fd2-f6d53117f71f
+lang: en
 permalink: /chimeraland/recipes/stir-fried-vegetables.html
 photos:
   - /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables.webp
   - /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables-name.webp
   - /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables-icon.webp
   - /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables-material.webp
-thumbnail: /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables.webp
+subtitle: "Recipe Stir Fried Vegetables Chimeraland Stir Fried Vegetables
+  Cooking Recipe Buff Stir Fried Vegetables 10 Crit DMG Great Focus recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/stir-fried-vegetables/stir-fried-vegetables.webp
+title: Recipe Stir Fried Vegetables Chimeraland
+type: post
+updated: 2023-08-08T14:44:24+07:00
+wordcount: 782
 ---
 
 <link

@@ -1,9 +1,18 @@
 ---
-title: Attendant lunar twinkle
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-11T02:30:17+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/lunar-twinkle/Screenshot_2023-03-02-04-22-54-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-03-11T02:19:17+07:00
+description: "Attendant lunar twinkle lunar twinkle Information from Chimeraland
+  lunar twinkle default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Attendant lunar twinkle lunar twinkle Information from Chimeraland
+  lunar twinkle default maximum attribute GRADE N/A N/A Attack N/A "
+id: c2fb7303-4aec-4888-8c49-955a68bc4428
+lang: en
 permalink: /chimeraland/attendants/lunar-twinkle.html
 photos:
   - /chimeraland/attendants/lunar-twinkle/Screenshot_2023-03-02-04-22-54-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,14 +23,17 @@ photos:
   - /chimeraland/attendants/lunar-twinkle/Screenshot_2023-03-02-04-23-15-69_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/lunar-twinkle/Screenshot_2023-03-02-04-23-20-21_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/lunar-twinkle/Screenshot_2023-03-02-04-23-24-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/lunar-twinkle/Screenshot_2023-03-02-04-22-54-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant lunar twinkle lunar twinkle Information from Chimeraland
+  lunar twinkle default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/lunar-twinkle/Screenshot_2023-03-02-04-22-54-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant lunar twinkle
+type: post
+updated: 2023-08-08T14:45:05+07:00
+webtitle: chimeraland
+wordcount: 1237
 ---
 
 <link

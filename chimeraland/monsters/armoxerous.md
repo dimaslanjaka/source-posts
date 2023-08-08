@@ -1,21 +1,33 @@
 ---
-title: Monster Armoxerous
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T06:29:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Armoxerous
 date: 2023-05-25T02:21:12+07:00
+description: "Monster Armoxerous Armoxerous Information from Chimeraland
+  Armoxerous default maximum attribute GRADE Attack "
+excerpt: "Monster Armoxerous Armoxerous Information from Chimeraland Armoxerous
+  default maximum attribute GRADE Attack "
+id: 007659b6-4a0a-4888-8a44-b7ce20c89c5c
+lang: en
 permalink: /chimeraland/monsters/armoxerous.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Armoxerous
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Armoxerous
+subtitle: "Monster Armoxerous Armoxerous Information from Chimeraland Armoxerous
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Armoxerous
+title: Monster Armoxerous
+type: post
+updated: 2023-08-08T14:44:47+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

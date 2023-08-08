@@ -1,31 +1,45 @@
 ---
-title: Monster Camel
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T06:07:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Camel
 date: 2022-01-07T07:56:03+07:00
+description: monster Camel default quality GRADE C ATK 30 HP 50 DEF 60
+  Attributes Conversion Rate 4.0,Attack 60 delicacies/tasty Savory Wolf
+  Meat,Pepper Salt Scorpion Pincer,Stir-Fried Browtelope
+  Games,chimeraland,monsters chimeraland,monster,pet
+excerpt: monster Camel default quality GRADE C ATK 30 HP 50 DEF 60 Attributes
+  Conversion Rate 4.0,Attack 60 delicacies/tasty Savory Wolf Meat,Pepper Salt
+  Scorpion Pincer,Stir-Fried Browtelope Games,chimeraland,monsters
+  chimeraland,monster,pet
+id: 94c2e554-7d3d-4888-8ce5-da36f6742919
+lang: en
 permalink: /chimeraland/monsters/camel.html
 photos:
-  - null
   - /chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-53-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/camel/Screenshot_2022-07-29-02-14-58-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-01-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-05-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-09-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/camel/Screenshot_2022-07-29-02-15-14-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Camel
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Camel
+subtitle: monster Camel default quality GRADE C ATK 30 HP 50 DEF 60 Attributes
+  Conversion Rate 4.0,Attack 60 delicacies/tasty Savory Wolf Meat,Pepper Salt
+  Scorpion Pincer,Stir-Fried Browtelope Games,chimeraland,monsters
+  chimeraland,monster,pet
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
-description: monster Camel default quality GRADE C ATK 30 HP 50 DEF 60
-  Attributes Conversion Rate 4.0%,Attack 60 delicacies/tasty Savory Wolf
-  Meat,Pepper Salt Scorpion Pincer,Stir-Fried Browtelope
-  Games,chimeraland,monsters chimeraland,monster,pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Camel
+title: Monster Camel
+type: post
+updated: 2023-08-08T14:44:46+07:00
+webtitle: chimeraland
+wordcount: 1431
 ---
 
 <link

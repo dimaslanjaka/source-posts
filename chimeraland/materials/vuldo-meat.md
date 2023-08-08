@@ -1,19 +1,31 @@
 ---
-title: Material Vuldo Meat Chimeraland
-date: 2022-01-08T07:56:03+07:00
-updated: 2022-09-30T07:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/vuldo-meat/vuldo-meat.webp
+date: 2022-01-08T07:56:03+07:00
+description: "Material Vuldo Meat Chimeraland materials Vuldo Meat September 30,
+  2022 7:26 AM Continue reading Vuldo Meat What is the use of the Vuldo Meat "
+excerpt: "Material Vuldo Meat Chimeraland materials Vuldo Meat September 30,
+  2022 7:26 AM Continue reading Vuldo Meat What is the use of the Vuldo Meat "
+id: 11419bb1-7c9b-4888-83e4-072253e47bdb
+lang: en
 permalink: /chimeraland/materials/vuldo-meat.html
 photos:
   - /chimeraland/materials/vuldo-meat/vuldo-meat.webp
-thumbnail: /chimeraland/materials/vuldo-meat/vuldo-meat.webp
+subtitle: "Material Vuldo Meat Chimeraland materials Vuldo Meat September 30,
+  2022 7:26 AM Continue reading Vuldo Meat What is the use of the Vuldo Meat "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/vuldo-meat/vuldo-meat.webp
+title: Material Vuldo Meat Chimeraland
+type: post
+updated: 2023-08-08T14:44:48+07:00
+wordcount: 2952
 ---
 
 <link

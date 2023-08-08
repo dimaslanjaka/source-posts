@@ -2,31 +2,37 @@
 author:
   nick: Dimas Lanjaka
   link: https://github.com/dimaslanjaka
-tags:
-  - github-workflows
-  - snippet
-  - yaml
-  - github-actions
-  - github
 categories:
   - programming
   - bash
 comments: true
 cover: /GitHub/workflows/cover.png
 date: 2021-11-23T02:00:00+07:00
-updated: 2023-05-04T16:55:50+07:00
+description: Macam-macam kondisional pada github workflows
+excerpt: Macam-macam kondisional pada github workflows
+id: fcc6281e-9767-4888-8f03-58cae94e2365
 keywords:
   - GitHub
   - workflows
   - yaml
 lang: id
 location: Indonesia
+photos:
+  - /GitHub/workflows/cover.png
+subtitle: Macam-macam kondisional pada github workflows
+tags:
+  - github-workflows
+  - snippet
+  - yaml
+  - github-actions
+  - github
+thumbnail: /GitHub/workflows/cover.png
 title: Macam-macam kondisional pada github workflows
 type: post
+updated: 2023-08-08T14:44:18+07:00
 uuid: f4c6a18d-2377-4888-8330-9223d5f34263
 webtitle: WMI GitHub
-thumbnail: /GitHub/workflows/cover.png
-description: Macam-macam kondisional pada github workflows
+wordcount: 1496
 ---
 
 ## Kondisional pada GitHub Workflow

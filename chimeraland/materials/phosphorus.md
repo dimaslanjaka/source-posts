@@ -1,19 +1,31 @@
 ---
-title: Material Phosphorus Chimeraland
-date: 2022-01-13T15:56:03+07:00
-updated: 2022-10-05T15:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/phosphorus/phosphorus.webp
+date: 2022-01-13T15:56:03+07:00
+description: "Material Phosphorus Chimeraland materials Phosphorus October 5,
+  2022 3:26 PM Continue reading Phosphorus What is the use of the Phosphorus "
+excerpt: "Material Phosphorus Chimeraland materials Phosphorus October 5, 2022
+  3:26 PM Continue reading Phosphorus What is the use of the Phosphorus "
+id: 1cf9a170-0469-4888-8c1a-b53c96d2ce77
+lang: en
 permalink: /chimeraland/materials/phosphorus.html
 photos:
   - /chimeraland/materials/phosphorus/phosphorus.webp
-thumbnail: /chimeraland/materials/phosphorus/phosphorus.webp
+subtitle: "Material Phosphorus Chimeraland materials Phosphorus October 5, 2022
+  3:26 PM Continue reading Phosphorus What is the use of the Phosphorus "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/phosphorus/phosphorus.webp
+title: Material Phosphorus Chimeraland
+type: post
+updated: 2023-08-08T14:44:52+07:00
+wordcount: 811
 ---
 
 <link

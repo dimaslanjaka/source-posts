@@ -1,21 +1,33 @@
 ---
-title: Monster Fiendfish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T19:08:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fiendfish
 date: 2023-05-25T02:21:12+07:00
+description: "Monster Fiendfish Fiendfish Information from Chimeraland Fiendfish
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Fiendfish Fiendfish Information from Chimeraland Fiendfish
+  default maximum attribute GRADE Attack "
+id: f89ccd49-c740-4888-831c-9c3f24e36d59
+lang: en
 permalink: /chimeraland/monsters/fiendfish.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fiendfish
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fiendfish
+subtitle: "Monster Fiendfish Fiendfish Information from Chimeraland Fiendfish
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fiendfish
+title: Monster Fiendfish
+type: post
+updated: 2023-08-08T14:44:44+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

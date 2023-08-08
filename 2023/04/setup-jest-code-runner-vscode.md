@@ -1,9 +1,39 @@
 ---
-title: How to setup jest typescript and code runner in vscode
+author: Dimas Lanjaka
+categories:
+  - programming
+  - javascript
+  - typescript
+comments: true
 date: 2023-04-19T13:41:48+07:00
-updated: 2023-05-19T22:21:18+07:00
-categories: [programming, javascript, typescript]
-tags: [vscode, typescript, jest, test, coverage]
+description: How to setup jest typescript and code runner in vscode How to setup
+  jest typescript with code runner in vscode with this technique you can
+  directly run test single file in vscode without typings manually in terminal,
+  see below screenshot Requirements install vscode code-runneroptional install
+  vsco
+excerpt: How to setup jest typescript and code runner in vscode How to setup
+  jest typescript with code runner in vscode with this technique you can
+  directly run test single file in vscode without typings manually in terminal,
+  see below screenshot Requirements install vscode code-runneroptional install
+  vsco
+id: a40dc803-9a6d-4888-8243-66a59a2a3122
+lang: en
+photos: []
+subtitle: How to setup jest typescript and code runner in vscode How to setup
+  jest typescript with code runner in vscode with this technique you can
+  directly run test single file in vscode without typings manually in terminal,
+  see below screenshot Requirements install vscode code-runneroptional install
+  vsco
+tags:
+  - vscode
+  - typescript
+  - jest
+  - test
+  - coverage
+title: How to setup jest typescript and code runner in vscode
+type: post
+updated: 2023-08-08T14:45:08+07:00
+wordcount: 3173
 ---
 
 ![thumbnail](https://user-images.githubusercontent.com/12471057/236297105-21e4c9ef-ea6d-407f-8603-76990ee80977.png)

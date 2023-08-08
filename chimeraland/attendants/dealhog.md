@@ -1,9 +1,18 @@
 ---
-title: Attendant dealhog
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-09T00:16:58+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/dealhog/Screenshot_2023-02-06-08-58-02-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-09T00:05:58+07:00
+description: "Attendant dealhog dealhog Information from Chimeraland dealhog
+  default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Attendant dealhog dealhog Information from Chimeraland dealhog default
+  maximum attribute GRADE N/A N/A Attack N/A "
+id: b693b13b-7352-4888-8e39-8e92a338d74c
+lang: en
 permalink: /chimeraland/attendants/dealhog.html
 photos:
   - /chimeraland/attendants/dealhog/Screenshot_2023-02-06-08-58-02-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -11,14 +20,17 @@ photos:
   - /chimeraland/attendants/dealhog/Screenshot_2023-02-06-08-58-13-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/dealhog/Screenshot_2023-02-06-08-58-21-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/dealhog/Screenshot_2023-02-06-08-58-26-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/dealhog/Screenshot_2023-02-06-08-58-02-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant dealhog dealhog Information from Chimeraland dealhog
+  default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/dealhog/Screenshot_2023-02-06-08-58-02-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant dealhog
+type: post
+updated: 2023-08-08T14:45:07+07:00
+webtitle: chimeraland
+wordcount: 917
 ---
 
 <link

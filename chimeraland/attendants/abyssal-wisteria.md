@@ -1,9 +1,20 @@
 ---
-title: Attendant abyssal wisteria
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-23T11:14:26+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-12-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-05-23T11:03:26+07:00
+description: "Attendant abyssal wisteria abyssal wisteria Information from
+  Chimeraland abyssal wisteria default maximum attribute GRADE N/A N/A Attack
+  N/A "
+excerpt: "Attendant abyssal wisteria abyssal wisteria Information from
+  Chimeraland abyssal wisteria default maximum attribute GRADE N/A N/A Attack
+  N/A "
+id: 66b3b614-b2b7-4888-890d-a6dc07879110
+lang: en
 permalink: /chimeraland/attendants/abyssal-wisteria.html
 photos:
   - /chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-12-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,14 +25,18 @@ photos:
   - /chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-40-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-54-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-12-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant abyssal wisteria abyssal wisteria Information from
+  Chimeraland abyssal wisteria default maximum attribute GRADE N/A N/A Attack
+  N/A "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/abyssal-wisteria/Screenshot_2023-05-21-23-28-12-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant abyssal wisteria
+type: post
+updated: 2023-08-08T14:45:07+07:00
+webtitle: chimeraland
+wordcount: 1237
 ---
 
 <link

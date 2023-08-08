@@ -1,21 +1,33 @@
 ---
-title: Monster Leatis
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T18:51:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Leatis
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Leatis Leatis Information from Chimeraland Leatis default
+  maximum attribute GRADE Attack "
+excerpt: "Monster Leatis Leatis Information from Chimeraland Leatis default
+  maximum attribute GRADE Attack "
+id: a900e832-aea0-4888-84d4-7ad0ce7e5b32
+lang: en
 permalink: /chimeraland/monsters/leatis.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Leatis
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Leatis
+subtitle: "Monster Leatis Leatis Information from Chimeraland Leatis default
+  maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Leatis
+title: Monster Leatis
+type: post
+updated: 2023-08-08T14:44:38+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

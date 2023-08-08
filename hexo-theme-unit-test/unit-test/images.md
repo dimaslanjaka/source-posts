@@ -1,9 +1,22 @@
-title: Images
+---
+author: Dimas Lanjaka
+categories:
+  - hexo
+comments: true
 date: 2013-12-26 22:46:49
-updated: 2022-10-13T12:28:35+07:00
+description: "Images This is a image test post. "
+excerpt: "Images This is a image test post. "
+id: fff0d600-8a0b-4888-8e19-88bfb821dd11
+lang: en
+photos: []
 robots: no-index
-tags: ['hexo']
-category: ['hexo']
+subtitle: "Images This is a image test post. "
+tags:
+  - hexo
+title: Images
+type: post
+updated: 2023-08-08T14:44:22+07:00
+wordcount: 16
 ---
 
 This is a image test post.

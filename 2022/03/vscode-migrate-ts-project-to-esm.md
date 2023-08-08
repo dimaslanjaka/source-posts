@@ -1,8 +1,32 @@
 ---
-title: VSCode Migrate Typescript CommonJS to ESM
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 cover: https://res.cloudinary.com/practicaldev/image/fetch/https://opengraph.githubassets.com/51ab140e160882668aa0f466b095b5bb634739d04b8095f768d1741def9280f2/inmanta/vscode-inmanta/issues/314
-date: 2022-03-30T06:57:37+0000 
-updated: 2022-03-30T06:57:37+0000 
+date: 2022-03-30T06:57:37+0000
+description: "VSCode Migrate Typescript CommonJS to ESM How to migrate
+  typescript commonjs to esm with vscode package.json add following key to
+  package.json type: module, main: ./dist/src/main.js, exports: .:
+  ./dist/src/main.js , typesVersions: : main.d.ts: ["
+excerpt: "VSCode Migrate Typescript CommonJS to ESM How to migrate typescript
+  commonjs to esm with vscode package.json add following key to package.json
+  type: module, main: ./dist/src/main.js, exports: .: ./dist/src/main.js ,
+  typesVersions: : main.d.ts: ["
+id: 0d62f3d2-19c9-4888-8674-ddff779112e4
+lang: en
+photos:
+  - https://res.cloudinary.com/practicaldev/image/fetch/https://opengraph.githubassets.com/51ab140e160882668aa0f466b095b5bb634739d04b8095f768d1741def9280f2/inmanta/vscode-inmanta/issues/314
+subtitle: "VSCode Migrate Typescript CommonJS to ESM How to migrate typescript
+  commonjs to esm with vscode package.json add following key to package.json
+  type: module, main: ./dist/src/main.js, exports: .: ./dist/src/main.js ,
+  typesVersions: : main.d.ts: ["
+tags: []
+thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/https://opengraph.githubassets.com/51ab140e160882668aa0f466b095b5bb634739d04b8095f768d1741def9280f2/inmanta/vscode-inmanta/issues/314
+title: VSCode Migrate Typescript CommonJS to ESM
+type: post
+updated: 2023-08-08T14:45:09+07:00
+wordcount: 1063
 ---
 
 ## How to migrate typescript commonjs to esm with vscode

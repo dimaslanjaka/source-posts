@@ -1,19 +1,34 @@
 ---
-title: Material Tree Bark Chimeraland
-date: 2022-01-14T04:56:03+07:00
-updated: 2022-10-06T04:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/tree-bark/tree-bark.webp
+date: 2022-01-14T04:56:03+07:00
+description: "Material Tree Bark Chimeraland materials Tree Bark October 6, 2022
+  4:26 AM Daimyo oak bark. Ash gray, split into layers, eaten to relieve pain.
+  Continue reading Tree Bark "
+excerpt: "Material Tree Bark Chimeraland materials Tree Bark October 6, 2022
+  4:26 AM Daimyo oak bark. Ash gray, split into layers, eaten to relieve pain.
+  Continue reading Tree Bark "
+id: 33f1daf7-4ac2-4888-8b40-9ef17b99b454
+lang: en
 permalink: /chimeraland/materials/tree-bark.html
 photos:
   - /chimeraland/materials/tree-bark/tree-bark.webp
-thumbnail: /chimeraland/materials/tree-bark/tree-bark.webp
+subtitle: "Material Tree Bark Chimeraland materials Tree Bark October 6, 2022
+  4:26 AM Daimyo oak bark. Ash gray, split into layers, eaten to relieve pain.
+  Continue reading Tree Bark "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/tree-bark/tree-bark.webp
+title: Material Tree Bark Chimeraland
+type: post
+updated: 2023-08-08T14:44:49+07:00
+wordcount: 1097
 ---
 
 <link

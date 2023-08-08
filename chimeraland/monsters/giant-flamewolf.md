@@ -1,9 +1,19 @@
 ---
-title: Monster giant flamewolf
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-25T10:55:43+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/giant-flamewolf/Screenshot_2023-02-24-01-00-28-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-25T10:44:43+07:00
+description: "Monster giant flamewolf giant flamewolf Information from
+  Chimeraland giant flamewolf default maximum attribute GRADE N/A N/A Attack N/A
+  "
+excerpt: "Monster giant flamewolf giant flamewolf Information from Chimeraland
+  giant flamewolf default maximum attribute GRADE N/A N/A Attack N/A "
+id: 8fb04145-0e17-4888-8694-a4daf1d34867
+lang: en
 permalink: /chimeraland/monsters/giant-flamewolf.html
 photos:
   - /chimeraland/monsters/giant-flamewolf/Screenshot_2023-02-24-01-00-28-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +23,18 @@ photos:
   - /chimeraland/monsters/giant-flamewolf/Screenshot_2023-02-24-01-00-54-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-flamewolf/Screenshot_2023-02-24-01-00-59-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-flamewolf/Screenshot_2023-02-24-01-01-11-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-flamewolf/Screenshot_2023-02-24-01-00-28-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant flamewolf giant flamewolf Information from Chimeraland
+  giant flamewolf default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-flamewolf/Screenshot_2023-02-24-01-00-28-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant flamewolf
+type: post
+updated: 2023-08-08T14:44:42+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

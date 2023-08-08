@@ -1,19 +1,30 @@
 ---
-title: Monster Dragon Horse
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-29T17:18:27+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-06T22:56:03+07:00
+description: "Monster Dragon Horse Dragon Horse Information from Chimeraland
+  Dragon Horse default maximum attribute GRADE Attack "
+excerpt: "Monster Dragon Horse Dragon Horse Information from Chimeraland Dragon
+  Horse default maximum attribute GRADE Attack "
+id: 600b962d-3c9c-4888-8c14-2d42de25d8b9
+lang: en
 permalink: /chimeraland/monsters/dragon-horse.html
 photos: []
+subtitle: "Monster Dragon Horse Dragon Horse Information from Chimeraland Dragon
+  Horse default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+title: Monster Dragon Horse
+type: post
+updated: 2023-08-08T14:44:45+07:00
+webtitle: chimeraland
+wordcount: 534
 ---
 
 <link

@@ -1,19 +1,37 @@
 ---
-title: Material Catfish Chimeraland
-date: 2022-01-15T13:56:03+07:00
-updated: 2022-10-07T13:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/catfish/catfish.webp
+date: 2022-01-15T13:56:03+07:00
+description: "Material Catfish Chimeraland materials Catfish October 7, 2022
+  1:26 PM A freshwater fish with an elongated body, flattened head and tail. The
+  mouth is located on the lower part of its head and is small, with the corners
+  reaching below the front "
+excerpt: "Material Catfish Chimeraland materials Catfish October 7, 2022 1:26 PM
+  A freshwater fish with an elongated body, flattened head and tail. The mouth
+  is located on the lower part of its head and is small, with the corners
+  reaching below the front "
+id: 7cfcb82b-9fd3-4888-8269-c681f8633cda
+lang: en
 permalink: /chimeraland/materials/catfish.html
 photos:
   - /chimeraland/materials/catfish/catfish.webp
-thumbnail: /chimeraland/materials/catfish/catfish.webp
+subtitle: "Material Catfish Chimeraland materials Catfish October 7, 2022 1:26
+  PM A freshwater fish with an elongated body, flattened head and tail. The
+  mouth is located on the lower part of its head and is small, with the corners
+  reaching below the front "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/catfish/catfish.webp
+title: Material Catfish Chimeraland
+type: post
+updated: 2023-08-08T14:44:59+07:00
+wordcount: 917
 ---
 
 <link

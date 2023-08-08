@@ -1,21 +1,33 @@
 ---
-title: Monster Lupine
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T06:02:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Lupine
 date: 2022-01-09T03:56:03+07:00
+description: "Monster Lupine Lupine Information from Chimeraland Lupine default
+  maximum attribute GRADE C RARE Attack 57 "
+excerpt: "Monster Lupine Lupine Information from Chimeraland Lupine default
+  maximum attribute GRADE C RARE Attack 57 "
+id: d4ecb0cc-888b-4888-8d23-d560c829e56c
+lang: en
 permalink: /chimeraland/monsters/lupine.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Lupine
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Lupine
+subtitle: "Monster Lupine Lupine Information from Chimeraland Lupine default
+  maximum attribute GRADE C RARE Attack 57 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Lupine
+title: Monster Lupine
+type: post
+updated: 2023-08-08T14:44:37+07:00
+webtitle: chimeraland
+wordcount: 633
 ---
 
 <link

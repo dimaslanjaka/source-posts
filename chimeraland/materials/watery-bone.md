@@ -1,19 +1,34 @@
 ---
-title: Material Watery Bone Chimeraland
-date: 2022-01-09T21:56:03+07:00
-updated: 2022-10-01T21:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/watery-bone/watery-bone.webp
+date: 2022-01-09T21:56:03+07:00
+description: Material Watery Bone Chimeraland materials Watery Bone October 1,
+  2022 9:26 PM Stoneppo bone, worn for excellent swimming. Continue reading
+  Watery Bone What is the use o
+excerpt: Material Watery Bone Chimeraland materials Watery Bone October 1, 2022
+  9:26 PM Stoneppo bone, worn for excellent swimming. Continue reading Watery
+  Bone What is the use o
+id: 3766c2b3-39c2-4888-8a65-09b0aa90b16b
+lang: en
 permalink: /chimeraland/materials/watery-bone.html
 photos:
   - /chimeraland/materials/watery-bone/watery-bone.webp
-thumbnail: /chimeraland/materials/watery-bone/watery-bone.webp
+subtitle: Material Watery Bone Chimeraland materials Watery Bone October 1, 2022
+  9:26 PM Stoneppo bone, worn for excellent swimming. Continue reading Watery
+  Bone What is the use o
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/watery-bone/watery-bone.webp
+title: Material Watery Bone Chimeraland
+type: post
+updated: 2023-08-08T14:44:48+07:00
+wordcount: 1097
 ---
 
 <link

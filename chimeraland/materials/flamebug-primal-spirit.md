@@ -1,19 +1,34 @@
 ---
-title: Material Flamebug Primal Spirit Chimeraland
-date: 2022-01-11T21:56:03+07:00
-updated: 2022-10-03T21:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/flamebug-primal-spirit/flamebug-primal-spirit.webp
+date: 2022-01-11T21:56:03+07:00
+description: Material Flamebug Primal Spirit Chimeraland materials Flamebug
+  Primal Spirit October 3, 2022 9:26 PM Continue reading Flamebug Primal Spirit
+  What is the use of the Flamebug Primal Sp
+excerpt: Material Flamebug Primal Spirit Chimeraland materials Flamebug Primal
+  Spirit October 3, 2022 9:26 PM Continue reading Flamebug Primal Spirit What is
+  the use of the Flamebug Primal Sp
+id: 7149403e-4586-4888-85c2-1caab791fae1
+lang: en
 permalink: /chimeraland/materials/flamebug-primal-spirit.html
 photos:
   - /chimeraland/materials/flamebug-primal-spirit/flamebug-primal-spirit.webp
-thumbnail: /chimeraland/materials/flamebug-primal-spirit/flamebug-primal-spirit.webp
+subtitle: Material Flamebug Primal Spirit Chimeraland materials Flamebug Primal
+  Spirit October 3, 2022 9:26 PM Continue reading Flamebug Primal Spirit What is
+  the use of the Flamebug Primal Sp
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/flamebug-primal-spirit/flamebug-primal-spirit.webp
+title: Material Flamebug Primal Spirit Chimeraland
+type: post
+updated: 2023-08-08T14:44:57+07:00
+wordcount: 1833
 ---
 
 <link

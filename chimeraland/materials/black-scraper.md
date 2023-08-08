@@ -1,19 +1,37 @@
 ---
-title: Material Black Scraper Chimeraland
-date: 2022-01-15T09:56:03+07:00
-updated: 2022-10-07T09:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/black-scraper/black-scraper.webp
+date: 2022-01-15T09:56:03+07:00
+description: "Material Black Scraper Chimeraland materials Black Scraper October
+  7, 2022 9:26 AM A marine fish with a long oval body and tall sides. Its skin
+  is rough and thick. Often found nearby the Westmount Sea. Continue reading
+  Black Scraper "
+excerpt: "Material Black Scraper Chimeraland materials Black Scraper October 7,
+  2022 9:26 AM A marine fish with a long oval body and tall sides. Its skin is
+  rough and thick. Often found nearby the Westmount Sea. Continue reading Black
+  Scraper "
+id: eb7d38e2-dc48-4888-87f5-95c540d40b84
+lang: en
 permalink: /chimeraland/materials/black-scraper.html
 photos:
   - /chimeraland/materials/black-scraper/black-scraper.webp
-thumbnail: /chimeraland/materials/black-scraper/black-scraper.webp
+subtitle: "Material Black Scraper Chimeraland materials Black Scraper October 7,
+  2022 9:26 AM A marine fish with a long oval body and tall sides. Its skin is
+  rough and thick. Often found nearby the Westmount Sea. Continue reading Black
+  Scraper "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/black-scraper/black-scraper.webp
+title: Material Black Scraper Chimeraland
+type: post
+updated: 2023-08-08T14:45:00+07:00
+wordcount: 830
 ---
 
 <link

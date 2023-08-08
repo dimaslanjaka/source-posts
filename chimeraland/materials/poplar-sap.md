@@ -1,19 +1,34 @@
 ---
-title: Material Poplar Sap Chimeraland
-date: 2022-01-14T06:56:03+07:00
-updated: 2022-10-06T06:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/poplar-sap/poplar-sap.webp
+date: 2022-01-14T06:56:03+07:00
+description: "Material Poplar Sap Chimeraland materials Poplar Sap October 6,
+  2022 6:26 AM Poplar trees essence. Resemble water, transparent, eaten to
+  relieve exhaustion. Continue reading Poplar Sap "
+excerpt: "Material Poplar Sap Chimeraland materials Poplar Sap October 6, 2022
+  6:26 AM Poplar trees essence. Resemble water, transparent, eaten to relieve
+  exhaustion. Continue reading Poplar Sap "
+id: 5dc29cff-1722-4888-8f33-c409d25b445f
+lang: en
 permalink: /chimeraland/materials/poplar-sap.html
 photos:
   - /chimeraland/materials/poplar-sap/poplar-sap.webp
-thumbnail: /chimeraland/materials/poplar-sap/poplar-sap.webp
+subtitle: "Material Poplar Sap Chimeraland materials Poplar Sap October 6, 2022
+  6:26 AM Poplar trees essence. Resemble water, transparent, eaten to relieve
+  exhaustion. Continue reading Poplar Sap "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/poplar-sap/poplar-sap.webp
+title: Material Poplar Sap Chimeraland
+type: post
+updated: 2023-08-08T14:44:52+07:00
+wordcount: 1083
 ---
 
 <link

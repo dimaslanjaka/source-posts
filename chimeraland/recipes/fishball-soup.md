@@ -1,23 +1,37 @@
 ---
-title: Recipe Fishball Soup Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T21:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/fishball-soup/fishball-soup.webp
 date: 2022-01-08T10:56:03+07:00
+description: "Recipe Fishball Soup Chimeraland Fishball Soup Cooking Recipe Buff
+  Fishball Soup 300 Fullness -50 Humidity decreased over time decreased over
+  time "
+excerpt: "Recipe Fishball Soup Chimeraland Fishball Soup Cooking Recipe Buff
+  Fishball Soup 300 Fullness -50 Humidity decreased over time decreased over
+  time "
+id: 4dcabfd1-39c9-4888-88cc-f734848d2957
+lang: en
 permalink: /chimeraland/recipes/fishball-soup.html
 photos:
   - /chimeraland/recipes/fishball-soup/fishball-soup.webp
   - /chimeraland/recipes/fishball-soup/fishball-soup-name.webp
   - /chimeraland/recipes/fishball-soup/fishball-soup-icon.webp
   - /chimeraland/recipes/fishball-soup/fishball-soup-material.webp
-thumbnail: /chimeraland/recipes/fishball-soup/fishball-soup.webp
+subtitle: "Recipe Fishball Soup Chimeraland Fishball Soup Cooking Recipe Buff
+  Fishball Soup 300 Fullness -50 Humidity decreased over time decreased over
+  time "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/fishball-soup/fishball-soup.webp
+title: Recipe Fishball Soup Chimeraland
+type: post
+updated: 2023-08-08T14:44:28+07:00
+wordcount: 1219
 ---
 
 <link

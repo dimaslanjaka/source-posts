@@ -1,19 +1,34 @@
 ---
-title: Material Yurlungg's Fang Chimeraland
-date: 2022-01-11T07:56:03+07:00
-updated: 2022-10-03T07:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/yurlungg's-fang/yurlunggurs-fang.webp
+date: 2022-01-11T07:56:03+07:00
+description: "Material Yurlunggs Fang Chimeraland materials Yurlunggs Fang
+  October 3, 2022 7:26 AM A giant snakes fang. Its sure to give you fever.
+  Continue reading Yurlunggs Fang "
+excerpt: "Material Yurlunggs Fang Chimeraland materials Yurlunggs Fang October
+  3, 2022 7:26 AM A giant snakes fang. Its sure to give you fever. Continue
+  reading Yurlunggs Fang "
+id: 3ff087d8-11f5-4888-8ec6-d867c7a5b5a7
+lang: en
 permalink: /chimeraland/materials/yurlungg's-fang.html
 photos:
   - /chimeraland/materials/yurlungg's-fang/yurlunggurs-fang.webp
-thumbnail: /chimeraland/materials/yurlungg's-fang/yurlunggurs-fang.webp
+subtitle: "Material Yurlunggs Fang Chimeraland materials Yurlunggs Fang October
+  3, 2022 7:26 AM A giant snakes fang. Its sure to give you fever. Continue
+  reading Yurlunggs Fang "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/yurlungg's-fang/yurlunggurs-fang.webp
+title: Material Yurlunggs Fang Chimeraland
+type: post
+updated: 2023-08-08T14:44:47+07:00
+wordcount: 882
 ---
 
 <link

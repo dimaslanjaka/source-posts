@@ -1,21 +1,33 @@
 ---
-title: Monster Whitefox
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T07:02:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Whitefox
 date: 2023-05-25T02:21:12+07:00
+description: "Monster Whitefox Whitefox Information from Chimeraland Whitefox
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Whitefox Whitefox Information from Chimeraland Whitefox
+  default maximum attribute GRADE Attack "
+id: 2db76411-638b-4888-89a6-ea2f3bf2df27
+lang: en
 permalink: /chimeraland/monsters/whitefox.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Whitefox
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Whitefox
+subtitle: "Monster Whitefox Whitefox Information from Chimeraland Whitefox
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Whitefox
+title: Monster Whitefox
+type: post
+updated: 2023-08-08T14:44:31+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

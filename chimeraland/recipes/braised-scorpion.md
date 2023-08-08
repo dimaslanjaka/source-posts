@@ -1,23 +1,34 @@
 ---
-title: Recipe Braised Scorpion Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T09:46:53+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/braised-scorpion/braised-scorpion.webp
 date: 2022-01-07T08:56:03+07:00
+description: "Recipe Braised Scorpion Chimeraland Braised Scorpion Cooking
+  Recipe Buff Braised Scorpion 540 Fullness 100 ATK recipe "
+excerpt: "Recipe Braised Scorpion Chimeraland Braised Scorpion Cooking Recipe
+  Buff Braised Scorpion 540 Fullness 100 ATK recipe "
+id: 4fba9291-eb07-4888-8a62-282945f1dfac
+lang: en
 permalink: /chimeraland/recipes/braised-scorpion.html
 photos:
   - /chimeraland/recipes/braised-scorpion/braised-scorpion.webp
   - /chimeraland/recipes/braised-scorpion/braised-scorpion-name.webp
   - /chimeraland/recipes/braised-scorpion/braised-scorpion-icon.webp
   - /chimeraland/recipes/braised-scorpion/braised-scorpion-material.webp
-thumbnail: /chimeraland/recipes/braised-scorpion/braised-scorpion.webp
+subtitle: "Recipe Braised Scorpion Chimeraland Braised Scorpion Cooking Recipe
+  Buff Braised Scorpion 540 Fullness 100 ATK recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/braised-scorpion/braised-scorpion.webp
+title: Recipe Braised Scorpion Chimeraland
+type: post
+updated: 2023-08-08T14:44:30+07:00
+wordcount: 726
 ---
 
 <link

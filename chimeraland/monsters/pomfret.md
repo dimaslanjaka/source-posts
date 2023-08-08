@@ -1,21 +1,33 @@
 ---
-title: Monster Pomfret
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T18:53:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pomfret
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Pomfret Pomfret Information from Chimeraland Pomfret
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Pomfret Pomfret Information from Chimeraland Pomfret default
+  maximum attribute GRADE Attack "
+id: 96ec89a1-d3c3-4888-87f2-52922f6f3b83
+lang: en
 permalink: /chimeraland/monsters/pomfret.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pomfret
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pomfret
+subtitle: "Monster Pomfret Pomfret Information from Chimeraland Pomfret default
+  maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pomfret
+title: Monster Pomfret
+type: post
+updated: 2023-08-08T14:44:35+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

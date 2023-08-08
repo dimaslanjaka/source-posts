@@ -1,19 +1,34 @@
 ---
-title: Material Ironwood Stem Chimeraland
-date: 2022-01-14T02:56:03+07:00
-updated: 2022-10-06T02:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/ironwood-stem/ironwood-stem.webp
+date: 2022-01-14T02:56:03+07:00
+description: "Material Ironwood Stem Chimeraland materials Ironwood Stem October
+  6, 2022 2:26 AM Ironwood Stalk. Cylindrical, unbranched, thick as well as
+  firm. Continue reading Ironwood Stem "
+excerpt: "Material Ironwood Stem Chimeraland materials Ironwood Stem October 6,
+  2022 2:26 AM Ironwood Stalk. Cylindrical, unbranched, thick as well as firm.
+  Continue reading Ironwood Stem "
+id: 2484b2bc-b52b-4888-89d7-6d6e5e0f24a0
+lang: en
 permalink: /chimeraland/materials/ironwood-stem.html
 photos:
   - /chimeraland/materials/ironwood-stem/ironwood-stem.webp
-thumbnail: /chimeraland/materials/ironwood-stem/ironwood-stem.webp
+subtitle: "Material Ironwood Stem Chimeraland materials Ironwood Stem October 6,
+  2022 2:26 AM Ironwood Stalk. Cylindrical, unbranched, thick as well as firm.
+  Continue reading Ironwood Stem "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/ironwood-stem/ironwood-stem.webp
+title: Material Ironwood Stem Chimeraland
+type: post
+updated: 2023-08-08T14:44:54+07:00
+wordcount: 1054
 ---
 
 <link

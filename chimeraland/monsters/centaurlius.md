@@ -1,9 +1,18 @@
 ---
-title: Monster centaurlius
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-24T21:55:43+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/centaurlius/Screenshot_2023-02-23-17-23-48-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-24T21:44:43+07:00
+description: "Monster centaurlius centaurlius Information from Chimeraland
+  centaurlius default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Monster centaurlius centaurlius Information from Chimeraland
+  centaurlius default maximum attribute GRADE N/A N/A Attack N/A "
+id: 68149b96-3b43-4888-8a90-2c4c9419b87c
+lang: en
 permalink: /chimeraland/monsters/centaurlius.html
 photos:
   - /chimeraland/monsters/centaurlius/Screenshot_2023-02-23-17-23-48-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +22,18 @@ photos:
   - /chimeraland/monsters/centaurlius/Screenshot_2023-02-23-17-24-14-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/centaurlius/Screenshot_2023-02-23-17-24-19-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/centaurlius/Screenshot_2023-02-23-17-24-25-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/centaurlius/Screenshot_2023-02-23-17-23-48-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster centaurlius centaurlius Information from Chimeraland
+  centaurlius default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/centaurlius/Screenshot_2023-02-23-17-23-48-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster centaurlius
+type: post
+updated: 2023-08-08T14:44:46+07:00
+webtitle: chimeraland
+wordcount: 1059
 ---
 
 <link

@@ -1,9 +1,18 @@
 ---
-title: Monster young jadeite
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-11T16:30:18+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-25-40-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-03-11T17:19:18+07:00
+description: "Monster young jadeite young jadeite Information from Chimeraland
+  young jadeite default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Monster young jadeite young jadeite Information from Chimeraland young
+  jadeite default maximum attribute GRADE N/A N/A Attack N/A "
+id: e6c53062-7d2a-4888-89c8-c91ae1d3f4b2
+lang: en
 permalink: /chimeraland/monsters/young-jadeite.html
 photos:
   - /chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-25-40-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +23,18 @@ photos:
   - /chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-26-02-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-26-06-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-26-12-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-25-40-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster young jadeite young jadeite Information from Chimeraland
+  young jadeite default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/young-jadeite/Screenshot_2023-02-25-22-25-40-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster young jadeite
+type: post
+updated: 2023-08-08T14:44:30+07:00
+webtitle: chimeraland
+wordcount: 1237
 ---
 
 <link

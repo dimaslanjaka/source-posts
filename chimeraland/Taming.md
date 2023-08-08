@@ -1,19 +1,29 @@
 ---
-title: Taming Pets Chimeraland
-date: 2022-03-16T14:41:00+0700
-updated: 2022-11-03T05:00:28+07:00
-excerpt: Taming pity in chimeraland
-toc: true
+author: Dimas Lanjaka
+categories:
+  - games
+  - chimeraland
 comments: true
-thumbnail: https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg
+cover: https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg
+date: 2022-03-16T14:41:00+0700
+description: Taming pity in chimeraland
+excerpt: Taming pity in chimeraland
+id: af9c9643-f2d3-4888-86e0-f1666c7d45eb
+lang: en
+photos:
+  - https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg
+subtitle: Taming pity in chimeraland
 tags:
-  - Chimeraland
-  - Tame
-  - Temp
-  - Taming
-category:
-  - Games
-  - Chimeraland
+  - chimeraland
+  - tame
+  - temp
+  - taming
+thumbnail: https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg
+title: Taming Pets Chimeraland
+toc: true
+type: post
+updated: 2023-08-08T14:44:19+07:00
+wordcount: 1204
 ---
 
 ## Deskripsi pemahaman tentang pity taming pet

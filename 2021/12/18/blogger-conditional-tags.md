@@ -1,21 +1,44 @@
 ---
+author: Dimas Lanjaka
+canonical: /2021/12/blogger-conditional-tags.html
+categories:
+  - programming
+  - blogger
+comments: true
 cover: https://res.cloudinary.com/practicaldev/image/fetch/s--73FnDTzR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-2x-KTSHQ7Sk/V3fogcBcWjI/AAAAAAAAASk/JIZkwUf6r5QLH3soYaG0q0LeLxp2xjhOACLcB/w1200-h630-p-k-no-nu/blogger-conditioanl-tags-ultimate-blogger-guide.jpg
 date: 2021-12-08T19:48:00+07:00
+description: Blogger Conditional Tags Basic Basic blogger conditional tags
+  Homepage Blogger Conditional Tag for determine current page is homepage <b:if
+  cond=data:blog.url == data:blog.homepageUrl></b:if> or <b:if
+  cond=data:view.isHomepage></b:if> Post Blogger Conditional Tag for determine
+  current page is po
+excerpt: Blogger Conditional Tags Basic Basic blogger conditional tags Homepage
+  Blogger Conditional Tag for determine current page is homepage <b:if
+  cond=data:blog.url == data:blog.homepageUrl></b:if> or <b:if
+  cond=data:view.isHomepage></b:if> Post Blogger Conditional Tag for determine
+  current page is po
+id: 4c76e216-be50-4888-8c35-ac201cfdcb7e
 lang: en
-category:
-  - Programming
-  - Blogger
+photos:
+  - https://res.cloudinary.com/practicaldev/image/fetch/s--73FnDTzR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-2x-KTSHQ7Sk/V3fogcBcWjI/AAAAAAAAASk/JIZkwUf6r5QLH3soYaG0q0LeLxp2xjhOACLcB/w1200-h630-p-k-no-nu/blogger-conditioanl-tags-ultimate-blogger-guide.jpg
+redirect: /2021/12/blogger-conditional-tags.html
+subtitle: Blogger Conditional Tags Basic Basic blogger conditional tags Homepage
+  Blogger Conditional Tag for determine current page is homepage <b:if
+  cond=data:blog.url == data:blog.homepageUrl></b:if> or <b:if
+  cond=data:view.isHomepage></b:if> Post Blogger Conditional Tag for determine
+  current page is po
 tags:
-  - Blogger
-  - XML
-  - Templates
-  - Themes
+  - blogger
+  - xml
+  - templates
+  - themes
+thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/s--73FnDTzR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-2x-KTSHQ7Sk/V3fogcBcWjI/AAAAAAAAASk/JIZkwUf6r5QLH3soYaG0q0LeLxp2xjhOACLcB/w1200-h630-p-k-no-nu/blogger-conditioanl-tags-ultimate-blogger-guide.jpg
 title: Blogger Conditional Tags
 toc: true
+type: post
+updated: 2023-08-08T14:46:03+07:00
 uuid: ae9c4084-655b-4888-8bf2-1f716589ab5d
-updated: 2022-03-20T20:57:28+07:00
-redirect: /2021/12/blogger-conditional-tags.html
-canonical: /2021/12/blogger-conditional-tags.html
+wordcount: 1871
 ---
 
 <script>

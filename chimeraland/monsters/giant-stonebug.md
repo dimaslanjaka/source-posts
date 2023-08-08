@@ -1,9 +1,18 @@
 ---
-title: Monster giant stonebug
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-17T01:53:22+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-00-50-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-17T01:42:22+07:00
+description: "Monster giant stonebug giant stonebug Information from Chimeraland
+  giant stonebug default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Monster giant stonebug giant stonebug Information from Chimeraland
+  giant stonebug default maximum attribute GRADE N/A N/A Attack N/A "
+id: 50124584-e279-4888-84d4-61f809e70692
+lang: en
 permalink: /chimeraland/monsters/giant-stonebug.html
 photos:
   - /chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-00-50-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +23,18 @@ photos:
   - /chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-01-19-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-01-27-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-01-32-36_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-00-50-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant stonebug giant stonebug Information from Chimeraland
+  giant stonebug default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-stonebug/Screenshot_2023-02-16-03-00-50-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant stonebug
+type: post
+updated: 2023-08-08T14:44:41+07:00
+webtitle: chimeraland
+wordcount: 1237
 ---
 
 <link

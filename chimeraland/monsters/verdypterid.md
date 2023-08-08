@@ -1,12 +1,24 @@
 ---
-title: Monster Verdypterid
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T15:22:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Verdypterid
 date: 2022-01-11T01:56:03+07:00
+description: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0,Defense 44,Essence Aspect: Drought Armor
+  delicacies/tasty Aromatic Litiger Ball,Sparrow Beak,Bear Ball Pot
+  Games,chimeraland,monsters chimeraland,monster,pet"
+excerpt: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0,Defense 44,Essence Aspect: Drought Armor
+  delicacies/tasty Aromatic Litiger Ball,Sparrow Beak,Bear Ball Pot
+  Games,chimeraland,monsters chimeraland,monster,pet"
+id: 416e6b7e-13c5-4888-8387-ed696e3745c6
+lang: en
 permalink: /chimeraland/monsters/verdypterid.html
 photos:
-  - null
   - /chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-34-53-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-34-59-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-35-04-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,19 +26,21 @@ photos:
   - /chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-35-14-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-35-22-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-35-29-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Verdypterid
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Verdypterid
+subtitle: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0,Defense 44,Essence Aspect: Drought Armor
+  delicacies/tasty Aromatic Litiger Ball,Sparrow Beak,Bear Ball Pot
+  Games,chimeraland,monsters chimeraland,monster,pet"
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
-description: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
-  Attributes Conversion Rate 4.0%,Defense 44,Essence Aspect: Drought Armor
-  delicacies/tasty Aromatic Litiger Ball,Sparrow Beak,Bear Ball Pot
-  Games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Verdypterid
+title: Monster Verdypterid
+type: post
+updated: 2023-08-08T14:44:31+07:00
+webtitle: chimeraland
+wordcount: 1504
 ---
 
 <link

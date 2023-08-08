@@ -1,19 +1,31 @@
 ---
-title: Material Dark Jade Chimeraland
-date: 2022-01-07T14:56:03+07:00
-updated: 2022-09-29T14:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/dark-jade/dark-jade.webp
+date: 2022-01-07T14:56:03+07:00
+description: "Material Dark Jade Chimeraland materials Dark Jade September 29,
+  2022 2:26 PM Continue reading Dark Jade What is the use of the Dark Jade "
+excerpt: "Material Dark Jade Chimeraland materials Dark Jade September 29, 2022
+  2:26 PM Continue reading Dark Jade What is the use of the Dark Jade "
+id: ae120b64-b4e1-4888-81e2-ef91f726a122
+lang: en
 permalink: /chimeraland/materials/dark-jade.html
 photos:
   - /chimeraland/materials/dark-jade/dark-jade.webp
-thumbnail: /chimeraland/materials/dark-jade/dark-jade.webp
+subtitle: "Material Dark Jade Chimeraland materials Dark Jade September 29, 2022
+  2:26 PM Continue reading Dark Jade What is the use of the Dark Jade "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/dark-jade/dark-jade.webp
+title: Material Dark Jade Chimeraland
+type: post
+updated: 2023-08-08T14:44:58+07:00
+wordcount: 999
 ---
 
 <link

@@ -1,7 +1,31 @@
-title: Elements
+---
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 date: 2013-12-24 23:29:08
+description: Elements The purpose of this post is to help you make sure all of
+  HTML elements can display properly. If you use CSS reset, dont forget to
+  redefine the style by yourself. Heading 1 Heading 2 Heading 3 Heading 4
+  Heading 5 Heading 6 Paragraph Lorem ipsum dolor sit amet, test link
+  consectetur adipisc
+excerpt: Elements The purpose of this post is to help you make sure all of HTML
+  elements can display properly. If you use CSS reset, dont forget to redefine
+  the style by yourself. Heading 1 Heading 2 Heading 3 Heading 4 Heading 5
+  Heading 6 Paragraph Lorem ipsum dolor sit amet, test link consectetur adipisc
+id: aa56a2e6-d810-4888-8aef-c61e4f6bf94f
+lang: en
+photos: []
 robots: no-index
-tags:
+subtitle: Elements The purpose of this post is to help you make sure all of HTML
+  elements can display properly. If you use CSS reset, dont forget to redefine
+  the style by yourself. Heading 1 Heading 2 Heading 3 Heading 4 Heading 5
+  Heading 6 Paragraph Lorem ipsum dolor sit amet, test link consectetur adipisc
+tags: []
+title: Elements
+type: post
+updated: 2023-08-08T14:44:22+07:00
+wordcount: 1395
 ---
 
 The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don't forget to redefine the style by yourself.

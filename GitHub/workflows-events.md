@@ -2,25 +2,36 @@
 author:
   nick: Dimas Lanjaka
   link: https://github.com/dimaslanjaka
-tags: ['github-workflows', 'snippet', 'yaml', 'github-actions']
-categories: ['programming', 'github']
+categories:
+  - programming
+  - github
 comments: true
 cover: /GitHub/workflows/events.png
 date: 2021-11-21T23:00:00+07:00
+description: Macam-macam events pada GitHub Workflows
+excerpt: Macam-macam events pada GitHub Workflows
+id: e94a4f00-6a10-4888-8fca-dfc8fe6e687f
 keywords:
   - GitHub
   - workflows
   - yml
 lang: id
 location: Indonesia
+photos:
+  - /GitHub/workflows/events.png
 subtitle: Macam-macam events pada GitHub Workflows
+tags:
+  - github-workflows
+  - snippet
+  - yaml
+  - github-actions
+thumbnail: /GitHub/workflows/events.png
 title: GitHub Workflow Events
 type: post
+updated: 2023-08-08T14:44:18+07:00
 uuid: e94a4f00-6a10-4888-8fca-dfc8fe6e687f
 webtitle: WMI GitHub
-updated: 2023-01-03T01:03:19+07:00
-thumbnail: /GitHub/workflows/events.png
-description: Macam-macam events pada GitHub Workflows
+wordcount: 1013
 ---
 
 # Events yang memicu Github Workflow

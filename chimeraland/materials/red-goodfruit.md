@@ -1,19 +1,34 @@
 ---
-title: Material Red Goodfruit Chimeraland
-date: 2022-01-18T02:56:03+07:00
-updated: 2022-10-10T02:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/red-goodfruit/red-goodfruit.webp
+date: 2022-01-18T02:56:03+07:00
+description: "Material Red Goodfruit Chimeraland materials Red Goodfruit October
+  10, 2022 2:26 AM Like a sun-kissed mango responding to a flock of birds, this
+  rare wild fruit is found only at Snowy Peak. Continue reading Red Goodfruit "
+excerpt: "Material Red Goodfruit Chimeraland materials Red Goodfruit October 10,
+  2022 2:26 AM Like a sun-kissed mango responding to a flock of birds, this rare
+  wild fruit is found only at Snowy Peak. Continue reading Red Goodfruit "
+id: d1a9cc4d-b131-4888-8f41-8eaa1f8cf900
+lang: en
 permalink: /chimeraland/materials/red-goodfruit.html
 photos:
   - /chimeraland/materials/red-goodfruit/red-goodfruit.webp
-thumbnail: /chimeraland/materials/red-goodfruit/red-goodfruit.webp
+subtitle: "Material Red Goodfruit Chimeraland materials Red Goodfruit October
+  10, 2022 2:26 AM Like a sun-kissed mango responding to a flock of birds, this
+  rare wild fruit is found only at Snowy Peak. Continue reading Red Goodfruit "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/red-goodfruit/red-goodfruit.webp
+title: Material Red Goodfruit Chimeraland
+type: post
+updated: 2023-08-08T14:44:51+07:00
+wordcount: 2431
 ---
 
 <link

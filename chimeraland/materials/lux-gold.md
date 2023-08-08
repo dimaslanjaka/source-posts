@@ -1,19 +1,34 @@
 ---
-title: Material Lux Gold Chimeraland
-date: 2022-01-07T15:56:03+07:00
-updated: 2022-09-29T15:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/lux-gold/lux-gold.webp
+date: 2022-01-07T15:56:03+07:00
+description: "Material Lux Gold Chimeraland materials Lux Gold September 29,
+  2022 3:26 PM Gold thats been mixed with white minerals, higher purity than red
+  gold but less than gold, soft and malleable. Continue reading Lux Gold "
+excerpt: "Material Lux Gold Chimeraland materials Lux Gold September 29, 2022
+  3:26 PM Gold thats been mixed with white minerals, higher purity than red gold
+  but less than gold, soft and malleable. Continue reading Lux Gold "
+id: 8ad79abf-ce6e-4888-844e-e54fbfde4ad9
+lang: en
 permalink: /chimeraland/materials/lux-gold.html
 photos:
   - /chimeraland/materials/lux-gold/lux-gold.webp
-thumbnail: /chimeraland/materials/lux-gold/lux-gold.webp
+subtitle: "Material Lux Gold Chimeraland materials Lux Gold September 29, 2022
+  3:26 PM Gold thats been mixed with white minerals, higher purity than red gold
+  but less than gold, soft and malleable. Continue reading Lux Gold "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/lux-gold/lux-gold.webp
+title: Material Lux Gold Chimeraland
+type: post
+updated: 2023-08-08T14:44:53+07:00
+wordcount: 1147
 ---
 
 <link

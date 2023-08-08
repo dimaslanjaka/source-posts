@@ -1,21 +1,33 @@
 ---
-title: Monster Flame Rhino
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T06:40:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flame Rhino
 date: 2023-05-25T02:21:12+07:00
+description: "Monster Flame Rhino Flame Rhino Information from Chimeraland Flame
+  Rhino default maximum attribute GRADE Attack "
+excerpt: "Monster Flame Rhino Flame Rhino Information from Chimeraland Flame
+  Rhino default maximum attribute GRADE Attack "
+id: 3209fbe9-3e58-4888-8108-672f9cd4e98a
+lang: en
 permalink: /chimeraland/monsters/flame-rhino.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flame Rhino
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flame Rhino
+subtitle: "Monster Flame Rhino Flame Rhino Information from Chimeraland Flame
+  Rhino default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flame Rhino
+title: Monster Flame Rhino
+type: post
+updated: 2023-08-08T14:44:44+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

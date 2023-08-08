@@ -1,19 +1,34 @@
 ---
-title: Material Bodhi Fruit Chimeraland
-date: 2022-01-18T01:56:03+07:00
-updated: 2022-10-10T01:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/bodhi-fruit/bodhi-fruit.webp
+date: 2022-01-18T01:56:03+07:00
+description: "Material Bodhi Fruit Chimeraland materials Bodhi Fruit October 10,
+  2022 1:26 AM Like a jade ship endowed with mountain mist, this rare wild fruit
+  is found in the desert. Continue reading Bodhi Fruit "
+excerpt: "Material Bodhi Fruit Chimeraland materials Bodhi Fruit October 10,
+  2022 1:26 AM Like a jade ship endowed with mountain mist, this rare wild fruit
+  is found in the desert. Continue reading Bodhi Fruit "
+id: 30d1ef67-b72e-4888-8e36-d8258cba9ed7
+lang: en
 permalink: /chimeraland/materials/bodhi-fruit.html
 photos:
   - /chimeraland/materials/bodhi-fruit/bodhi-fruit.webp
-thumbnail: /chimeraland/materials/bodhi-fruit/bodhi-fruit.webp
+subtitle: "Material Bodhi Fruit Chimeraland materials Bodhi Fruit October 10,
+  2022 1:26 AM Like a jade ship endowed with mountain mist, this rare wild fruit
+  is found in the desert. Continue reading Bodhi Fruit "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/bodhi-fruit/bodhi-fruit.webp
+title: Material Bodhi Fruit Chimeraland
+type: post
+updated: 2023-08-08T14:45:00+07:00
+wordcount: 2401
 ---
 
 <link

@@ -1,21 +1,33 @@
 ---
-title: Monster Dragonwhale
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T12:46:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Dragonwhale
 date: 2023-05-25T02:21:12+07:00
+description: "Monster Dragonwhale Dragonwhale Information from Chimeraland
+  Dragonwhale default maximum attribute GRADE Attack "
+excerpt: "Monster Dragonwhale Dragonwhale Information from Chimeraland
+  Dragonwhale default maximum attribute GRADE Attack "
+id: 307a9db0-fcf1-4888-8536-5e261e9860d1
+lang: en
 permalink: /chimeraland/monsters/dragonwhale.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Dragonwhale
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Dragonwhale
+subtitle: "Monster Dragonwhale Dragonwhale Information from Chimeraland
+  Dragonwhale default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Dragonwhale
+title: Monster Dragonwhale
+type: post
+updated: 2023-08-08T14:44:44+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

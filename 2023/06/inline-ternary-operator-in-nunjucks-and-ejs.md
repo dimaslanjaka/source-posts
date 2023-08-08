@@ -1,11 +1,27 @@
 ---
-title: Inline Ternary Operator In Nunjucks And EJS
-description: How to implement Inline Ternary Operator In Nunjucks And EJS
-date: 2023-06-08T11:03:53+07:00
-updated: 2023-06-08T11:07:46+07:00
-tags: [ejs, nunjucks, javascript]
-categories: [programming, javascript]
+author: Dimas Lanjaka
+categories:
+  - programming
+  - javascript
+comments: true
 cover: https://res.cloudinary.com/practicaldev/image/fetch/s--6KFkGVIh--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rn8ecbvghqyulclj0m42.png
+date: 2023-06-08T11:03:53+07:00
+description: How to implement Inline Ternary Operator In Nunjucks And EJS
+excerpt: How to implement Inline Ternary Operator In Nunjucks And EJS
+id: ea8cf874-d75a-4888-8fe4-feaa02de9568
+lang: en
+photos:
+  - https://res.cloudinary.com/practicaldev/image/fetch/s--6KFkGVIh--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rn8ecbvghqyulclj0m42.png
+subtitle: How to implement Inline Ternary Operator In Nunjucks And EJS
+tags:
+  - ejs
+  - nunjucks
+  - javascript
+thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/s--6KFkGVIh--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rn8ecbvghqyulclj0m42.png
+title: Inline Ternary Operator In Nunjucks And EJS
+type: post
+updated: 2023-08-08T14:45:07+07:00
+wordcount: 454
 ---
 
 ## Nunjucks

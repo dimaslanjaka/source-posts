@@ -1,10 +1,36 @@
 ---
-title: Gulp execute commands without plugin
-lang: en
+author: Dimas Lanjaka
+categories:
+  - programming
+  - js
+comments: true
 date: 2022-10-17T08:40:46+07:00
-updated: 2022-10-17T08:51:29+07:00
-tags: ['JS', 'gulp', 'exec']
-categories: ['Programming', 'JS']
+description: "Gulp execute commands without plugin solution for executing shell
+  commands within gulp in NodeJS. Using child_process.exec in gulp with
+  gulp.watch Using exec child_process. exec takes one string that will be parsed
+  by the shell, and it silences output by default. exec child_process exec Below
+  codes "
+excerpt: "Gulp execute commands without plugin solution for executing shell
+  commands within gulp in NodeJS. Using child_process.exec in gulp with
+  gulp.watch Using exec child_process. exec takes one string that will be parsed
+  by the shell, and it silences output by default. exec child_process exec Below
+  codes "
+id: 01899a38-2bf7-4888-8647-9caacf882b39
+lang: en
+photos: []
+subtitle: "Gulp execute commands without plugin solution for executing shell
+  commands within gulp in NodeJS. Using child_process.exec in gulp with
+  gulp.watch Using exec child_process. exec takes one string that will be parsed
+  by the shell, and it silences output by default. exec child_process exec Below
+  codes "
+tags:
+  - js
+  - gulp
+  - exec
+title: Gulp execute commands without plugin
+type: post
+updated: 2023-08-08T14:44:15+07:00
+wordcount: 442
 ---
 
 solution for executing shell commands within gulp in NodeJS.

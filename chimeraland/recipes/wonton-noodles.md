@@ -1,23 +1,34 @@
 ---
-title: Recipe Wonton Noodles Chimeraland
 author: L3n4r0x
-updated: 2022-10-07T01:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/wonton-noodles/wonton-noodles.webp
 date: 2022-01-13T15:56:03+07:00
+description: "Recipe Wonton Noodles Chimeraland Wonton Noodles Cooking Recipe
+  Buff Wonton Noodles 660 Fullness 10 CRIT DMG recipe "
+excerpt: "Recipe Wonton Noodles Chimeraland Wonton Noodles Cooking Recipe Buff
+  Wonton Noodles 660 Fullness 10 CRIT DMG recipe "
+id: 40c3b08b-8929-4888-80e0-953bd6af1957
+lang: en
 permalink: /chimeraland/recipes/wonton-noodles.html
 photos:
   - /chimeraland/recipes/wonton-noodles/wonton-noodles.webp
   - /chimeraland/recipes/wonton-noodles/wonton-noodles-name.webp
   - /chimeraland/recipes/wonton-noodles/wonton-noodles-icon.webp
   - /chimeraland/recipes/wonton-noodles/wonton-noodles-material.webp
-thumbnail: /chimeraland/recipes/wonton-noodles/wonton-noodles.webp
+subtitle: "Recipe Wonton Noodles Chimeraland Wonton Noodles Cooking Recipe Buff
+  Wonton Noodles 660 Fullness 10 CRIT DMG recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/wonton-noodles/wonton-noodles.webp
+title: Recipe Wonton Noodles Chimeraland
+type: post
+updated: 2023-08-08T14:44:23+07:00
+wordcount: 797
 ---
 
 <link

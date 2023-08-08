@@ -1,19 +1,34 @@
 ---
-title: Material Flying Wolf Hide Chimeraland
-date: 2022-01-09T18:56:03+07:00
-updated: 2022-10-01T18:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/flying-wolf-hide/flying-wolf-hide.webp
+date: 2022-01-09T18:56:03+07:00
+description: "Material Flying Wolf Hide Chimeraland materials Flying Wolf Hide
+  October 1, 2022 6:26 PM Continue reading Flying Wolf Hide What is the use of
+  the Flying Wolf Hide "
+excerpt: "Material Flying Wolf Hide Chimeraland materials Flying Wolf Hide
+  October 1, 2022 6:26 PM Continue reading Flying Wolf Hide What is the use of
+  the Flying Wolf Hide "
+id: cb7c1887-10c8-4888-8373-da9b7642e731
+lang: en
 permalink: /chimeraland/materials/flying-wolf-hide.html
 photos:
   - /chimeraland/materials/flying-wolf-hide/flying-wolf-hide.webp
-thumbnail: /chimeraland/materials/flying-wolf-hide/flying-wolf-hide.webp
+subtitle: "Material Flying Wolf Hide Chimeraland materials Flying Wolf Hide
+  October 1, 2022 6:26 PM Continue reading Flying Wolf Hide What is the use of
+  the Flying Wolf Hide "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/flying-wolf-hide/flying-wolf-hide.webp
+title: Material Flying Wolf Hide Chimeraland
+type: post
+updated: 2023-08-08T14:44:56+07:00
+wordcount: 1088
 ---
 
 <link

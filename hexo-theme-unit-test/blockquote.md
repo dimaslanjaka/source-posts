@@ -1,10 +1,32 @@
 ---
-title: Blockquote Shortcode
+author: Dimas Lanjaka
+categories:
+  - hexo
+comments: true
+date: 2023-08-08T14:44:18+07:00
+description: Blockquote Shortcode Blockquote shortcode hexo print blockquote
+  with official hexo shortcode Using Shortcode blockquote Lorem ipsum dolor sit
+  amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus
+  iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam
+  eg
+excerpt: Blockquote Shortcode Blockquote shortcode hexo print blockquote with
+  official hexo shortcode Using Shortcode blockquote Lorem ipsum dolor sit amet,
+  consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis
+  feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eg
+id: 7ff8b736-eeaa-4888-830d-7e76226f8422
+lang: en
+photos: []
+subtitle: Blockquote Shortcode Blockquote shortcode hexo print blockquote with
+  official hexo shortcode Using Shortcode blockquote Lorem ipsum dolor sit amet,
+  consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis
+  feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eg
 tags:
   - blockquote
   - shortcode
-category:
-  - hexo
+title: Blockquote Shortcode
+type: post
+updated: 2023-08-08T14:44:18+07:00
+wordcount: 439
 ---
 
 # Blockquote shortcode hexo

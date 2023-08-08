@@ -1,9 +1,18 @@
 ---
-title: Attendant saam-aqui
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-11T07:30:17+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-52-42-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-03-11T07:19:17+07:00
+description: "Attendant saam-aqui saam-aqui Information from Chimeraland
+  saam-aqui default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Attendant saam-aqui saam-aqui Information from Chimeraland saam-aqui
+  default maximum attribute GRADE N/A N/A Attack N/A "
+id: e7797e84-38c8-4888-8bec-612356fa8b7d
+lang: en
 permalink: /chimeraland/attendants/saam-aqui.html
 photos:
   - /chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-52-42-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,14 +24,17 @@ photos:
   - /chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-54-05-85_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-54-10-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-54-29-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-52-42-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant saam-aqui saam-aqui Information from Chimeraland saam-aqui
+  default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/saam-aqui/Screenshot_2023-03-04-20-52-42-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant saam-aqui
+type: post
+updated: 2023-08-08T14:45:03+07:00
+webtitle: chimeraland
+wordcount: 1201
 ---
 
 <link

@@ -1,9 +1,19 @@
 ---
-title: Monster lichen bufonidae
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-08-07T04:11:28+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-05-33-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-08-07T04:00:28+07:00
+description: "Monster lichen bufonidae lichen bufonidae Information from
+  Chimeraland lichen bufonidae default maximum attribute GRADE N/A N/A Attack
+  N/A "
+excerpt: "Monster lichen bufonidae lichen bufonidae Information from Chimeraland
+  lichen bufonidae default maximum attribute GRADE N/A N/A Attack N/A "
+id: 85f38b79-9307-4888-8190-a4c220e9fa2a
+lang: en
 permalink: /chimeraland/monsters/lichen-bufonidae.html
 photos:
   - /chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-05-33-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,15 +25,19 @@ photos:
   - /chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-06-02-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-06-06-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-06-17-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-05-33-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster lichen bufonidae lichen bufonidae Information from
+  Chimeraland lichen bufonidae default maximum attribute GRADE N/A N/A Attack
+  N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-05-33-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster lichen bufonidae
+type: post
+updated: 2023-08-08T14:44:37+07:00
+webtitle: chimeraland
+wordcount: 1318
 ---
 
 <link

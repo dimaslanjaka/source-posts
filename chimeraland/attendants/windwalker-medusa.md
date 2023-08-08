@@ -1,9 +1,20 @@
 ---
-title: Attendant windwalker medusa
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-13T13:42:21+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-32-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-13T13:31:21+07:00
+description: Attendant windwalker medusa windwalker medusa Information from
+  Chimeraland windwalker medusa default maximum attribute GRADE N/A N/A Attack
+  N/
+excerpt: Attendant windwalker medusa windwalker medusa Information from
+  Chimeraland windwalker medusa default maximum attribute GRADE N/A N/A Attack
+  N/
+id: 9583957f-abe4-4888-8a8f-a864d251bffc
+lang: en
 permalink: /chimeraland/attendants/windwalker-medusa.html
 photos:
   - /chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-32-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,14 +23,18 @@ photos:
   - /chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-44-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-48-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-54-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-32-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: Attendant windwalker medusa windwalker medusa Information from
+  Chimeraland windwalker medusa default maximum attribute GRADE N/A N/A Attack
+  N/
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-32-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant windwalker medusa
+type: post
+updated: 2023-08-08T14:45:01+07:00
+webtitle: chimeraland
+wordcount: 1075
 ---
 
 <link

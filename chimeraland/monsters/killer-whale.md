@@ -1,21 +1,33 @@
 ---
-title: Monster Killer Whale
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T12:19:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Killer Whale
 date: 2023-05-25T02:21:12+07:00
+description: "Monster Killer Whale Killer Whale Information from Chimeraland
+  Killer Whale default maximum attribute GRADE Attack "
+excerpt: "Monster Killer Whale Killer Whale Information from Chimeraland Killer
+  Whale default maximum attribute GRADE Attack "
+id: 66119f15-94ae-4888-8a5b-44f2c43cf70f
+lang: en
 permalink: /chimeraland/monsters/killer-whale.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Killer Whale
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Killer Whale
+subtitle: "Monster Killer Whale Killer Whale Information from Chimeraland Killer
+  Whale default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Killer Whale
+title: Monster Killer Whale
+type: post
+updated: 2023-08-08T14:44:38+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

@@ -1,21 +1,33 @@
 ---
-title: Monster Silkhopper
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T13:32:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Silkhopper
 date: 2022-01-10T14:56:03+07:00
+description: "Monster Silkhopper Silkhopper Information from Chimeraland
+  Silkhopper default maximum attribute GRADE B GRAND - EPIC Attack 63 "
+excerpt: "Monster Silkhopper Silkhopper Information from Chimeraland Silkhopper
+  default maximum attribute GRADE B GRAND - EPIC Attack 63 "
+id: 0e526224-3a88-4888-82f4-2c0490099f08
+lang: en
 permalink: /chimeraland/monsters/silkhopper.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Silkhopper
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Silkhopper
+subtitle: "Monster Silkhopper Silkhopper Information from Chimeraland Silkhopper
+  default maximum attribute GRADE B GRAND - EPIC Attack 63 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Silkhopper
+title: Monster Silkhopper
+type: post
+updated: 2023-08-08T14:44:34+07:00
+webtitle: chimeraland
+wordcount: 659
 ---
 
 <link

@@ -1,19 +1,37 @@
 ---
-title: Material Nibea Chimeraland
-date: 2022-01-14T20:56:03+07:00
-updated: 2022-10-06T20:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/nibea/nibea.webp
+date: 2022-01-14T20:56:03+07:00
+description: "Material Nibea Chimeraland materials Nibea October 6, 2022 8:26 PM
+  A marine fish with an extended, flattened body and slightly raised back. The
+  snout protrudes a little. It has a large maw tilted upwards. Centralmount sea
+  areas are where it can "
+excerpt: "Material Nibea Chimeraland materials Nibea October 6, 2022 8:26 PM A
+  marine fish with an extended, flattened body and slightly raised back. The
+  snout protrudes a little. It has a large maw tilted upwards. Centralmount sea
+  areas are where it can "
+id: ca1cb05d-bce7-4888-86bd-5ce9d94ceb43
+lang: en
 permalink: /chimeraland/materials/nibea.html
 photos:
   - /chimeraland/materials/nibea/nibea.webp
-thumbnail: /chimeraland/materials/nibea/nibea.webp
+subtitle: "Material Nibea Chimeraland materials Nibea October 6, 2022 8:26 PM A
+  marine fish with an extended, flattened body and slightly raised back. The
+  snout protrudes a little. It has a large maw tilted upwards. Centralmount sea
+  areas are where it can "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/nibea/nibea.webp
+title: Material Nibea Chimeraland
+type: post
+updated: 2023-08-08T14:44:53+07:00
+wordcount: 865
 ---
 
 <link

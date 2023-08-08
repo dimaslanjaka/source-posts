@@ -1,9 +1,34 @@
 ---
-title: Asynchronous serial iteration over an array collection
+author: Dimas Lanjaka
+categories:
+  - programming
+  - javascript
+  - typescript
+comments: true
 date: 2023-05-24T05:16:52+07:00
-updated: 2023-05-24T05:35:31+07:00
-categories: [programming, javascript, typescript]
-tags: [script, snippet]
+description: Asynchronous serial iteration over an array collection Node.js
+  design patterns:Asynchronous serial iteration over a collection using
+  callbacks. This is an example of a very common Node.js design pattern.Serial
+  asynchronous iteration over collections arrays using callbacks. If you want to
+  learn m
+excerpt: Asynchronous serial iteration over an array collection Node.js design
+  patterns:Asynchronous serial iteration over a collection using callbacks. This
+  is an example of a very common Node.js design pattern.Serial asynchronous
+  iteration over collections arrays using callbacks. If you want to learn m
+id: 684ca8ce-1dc5-4888-8b4d-80f2f659b2f2
+lang: en
+photos: []
+subtitle: Asynchronous serial iteration over an array collection Node.js design
+  patterns:Asynchronous serial iteration over a collection using callbacks. This
+  is an example of a very common Node.js design pattern.Serial asynchronous
+  iteration over collections arrays using callbacks. If you want to learn m
+tags:
+  - script
+  - snippet
+title: Asynchronous serial iteration over an array collection
+type: post
+updated: 2023-08-08T14:45:08+07:00
+wordcount: 3906
 ---
 
 Node.js design patterns:

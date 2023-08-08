@@ -1,19 +1,31 @@
 ---
-title: Material Kidney Chimeraland
-date: 2022-01-08T19:56:03+07:00
-updated: 2022-09-30T19:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/kidney/kidney.webp
+date: 2022-01-08T19:56:03+07:00
+description: "Material Kidney Chimeraland materials Kidney September 30, 2022
+  7:26 PM Continue reading Kidney What is the use of the Kidney "
+excerpt: "Material Kidney Chimeraland materials Kidney September 30, 2022 7:26
+  PM Continue reading Kidney What is the use of the Kidney "
+id: 098044ea-5e9c-4888-8a8a-08d4c307d1e3
+lang: en
 permalink: /chimeraland/materials/kidney.html
 photos:
   - /chimeraland/materials/kidney/kidney.webp
-thumbnail: /chimeraland/materials/kidney/kidney.webp
+subtitle: "Material Kidney Chimeraland materials Kidney September 30, 2022 7:26
+  PM Continue reading Kidney What is the use of the Kidney "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/kidney/kidney.webp
+title: Material Kidney Chimeraland
+type: post
+updated: 2023-08-08T14:44:54+07:00
+wordcount: 7418
 ---
 
 <link

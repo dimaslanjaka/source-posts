@@ -1,9 +1,24 @@
 ---
-title: Script auto fishing Chimeraland
+author: Dimas Lanjaka
+categories:
+  - games
+  - chimeraland
+comments: true
 date: 2022-12-12
-updated: 2023-03-05T06:29:01+07:00
-tags: ['chimeraland', 'fishing', 'script']
-categories: ['Games', 'chimeraland']
+description: "Script auto fishing Chimeraland "
+excerpt: "Script auto fishing Chimeraland "
+id: 5c872d25-7b28-4888-8c16-99a5a9a0bc98
+lang: en
+photos: []
+subtitle: "Script auto fishing Chimeraland "
+tags:
+  - chimeraland
+  - fishing
+  - script
+title: Script auto fishing Chimeraland
+type: post
+updated: 2023-08-08T14:44:19+07:00
+wordcount: 255
 ---
 
 <!-- source https://codepen.io/dimaslanjaka/pen/JjZqyRZ -->

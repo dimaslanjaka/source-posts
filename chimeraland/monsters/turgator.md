@@ -1,21 +1,33 @@
 ---
-title: Monster Turgator
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T14:14:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Turgator
 date: 2022-01-11T02:56:03+07:00
+description: "Monster Turgator Turgator Information from Chimeraland Turgator
+  default maximum attribute GRADE B GRAND - EPIC Attack 60 "
+excerpt: "Monster Turgator Turgator Information from Chimeraland Turgator
+  default maximum attribute GRADE B GRAND - EPIC Attack 60 "
+id: 7d66dee8-72b3-4888-82a4-35afd8cfb4e8
+lang: en
 permalink: /chimeraland/monsters/turgator.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Turgator
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Turgator
+subtitle: "Monster Turgator Turgator Information from Chimeraland Turgator
+  default maximum attribute GRADE B GRAND - EPIC Attack 60 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Turgator
+title: Monster Turgator
+type: post
+updated: 2023-08-08T14:44:31+07:00
+webtitle: chimeraland
+wordcount: 659
 ---
 
 <link

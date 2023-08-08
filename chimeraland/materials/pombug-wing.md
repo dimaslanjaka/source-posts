@@ -1,19 +1,34 @@
 ---
-title: Material Pombug Wing Chimeraland
-date: 2022-01-11T09:56:03+07:00
-updated: 2022-10-03T09:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/pombug-wing/pombug-wing.webp
+date: 2022-01-11T09:56:03+07:00
+description: "Material Pombug Wing Chimeraland materials Pombug Wing October 3,
+  2022 9:26 AM Pombug wings are thin but windproof. Continue reading Pombug Wing
+  What is the use of the Pombug Wing "
+excerpt: "Material Pombug Wing Chimeraland materials Pombug Wing October 3, 2022
+  9:26 AM Pombug wings are thin but windproof. Continue reading Pombug Wing What
+  is the use of the Pombug Wing "
+id: 125b386e-c853-4888-8596-3050875ba35b
+lang: en
 permalink: /chimeraland/materials/pombug-wing.html
 photos:
   - /chimeraland/materials/pombug-wing/pombug-wing.webp
-thumbnail: /chimeraland/materials/pombug-wing/pombug-wing.webp
+subtitle: "Material Pombug Wing Chimeraland materials Pombug Wing October 3,
+  2022 9:26 AM Pombug wings are thin but windproof. Continue reading Pombug Wing
+  What is the use of the Pombug Wing "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/pombug-wing/pombug-wing.webp
+title: Material Pombug Wing Chimeraland
+type: post
+updated: 2023-08-08T14:44:52+07:00
+wordcount: 822
 ---
 
 <link

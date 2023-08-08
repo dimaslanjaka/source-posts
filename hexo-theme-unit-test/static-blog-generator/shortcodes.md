@@ -1,9 +1,33 @@
 ---
-title: Parse Shortcodes
-noindex: true
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 date: 2022-05-17
-updated: 2022-05-17
+description: Parse Shortcodes Shortcode CSS From Local Directory <-- css
+  shortcodes/include.css --> From Root/cwd Directory <-- css
+  /src-posts/Tests/shortcodes/include.css --> Shortcode JS <-- script
+  shortcodes/include.js --> <-- script /src-posts/Tests/shortcodes/include.js
+  --> Shortcode Include <-- includ
+excerpt: Parse Shortcodes Shortcode CSS From Local Directory <-- css
+  shortcodes/include.css --> From Root/cwd Directory <-- css
+  /src-posts/Tests/shortcodes/include.css --> Shortcode JS <-- script
+  shortcodes/include.js --> <-- script /src-posts/Tests/shortcodes/include.js
+  --> Shortcode Include <-- includ
+id: 19cd8465-198b-4888-87fd-81972ebaceb1
+lang: en
+noindex: true
+photos: []
+subtitle: Parse Shortcodes Shortcode CSS From Local Directory <-- css
+  shortcodes/include.css --> From Root/cwd Directory <-- css
+  /src-posts/Tests/shortcodes/include.css --> Shortcode JS <-- script
+  shortcodes/include.js --> <-- script /src-posts/Tests/shortcodes/include.js
+  --> Shortcode Include <-- includ
+tags: []
+title: Parse Shortcodes
 type: page
+updated: 2023-08-08T14:44:22+07:00
+wordcount: 257
 ---
 
 ## Shortcode CSS

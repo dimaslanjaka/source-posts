@@ -1,21 +1,33 @@
 ---
-title: Monster Murkrider
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T07:26:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Murkrider
 date: 2023-05-25T02:21:12+07:00
+description: "Monster Murkrider Murkrider Information from Chimeraland Murkrider
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Murkrider Murkrider Information from Chimeraland Murkrider
+  default maximum attribute GRADE Attack "
+id: 4c12cd9a-4172-4888-8253-9657e55f8c94
+lang: en
 permalink: /chimeraland/monsters/murkrider.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Murkrider
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Murkrider
+subtitle: "Monster Murkrider Murkrider Information from Chimeraland Murkrider
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Murkrider
+title: Monster Murkrider
+type: post
+updated: 2023-08-08T14:44:36+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

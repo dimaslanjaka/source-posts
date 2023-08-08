@@ -1,23 +1,37 @@
 ---
-title: Recipe Fish And Vegetable Stew Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T14:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew.webp
 date: 2022-01-08T05:56:03+07:00
+description: "Recipe Fish And Vegetable Stew Chimeraland Fish And Vegetable Stew
+  Cooking Recipe Buff Fish And Vegetable Stew 660 Fullness 80 Armor Pierce
+  recipe "
+excerpt: "Recipe Fish And Vegetable Stew Chimeraland Fish And Vegetable Stew
+  Cooking Recipe Buff Fish And Vegetable Stew 660 Fullness 80 Armor Pierce
+  recipe "
+id: 073ffd58-e58f-4888-826d-f29c314e8b6b
+lang: en
 permalink: /chimeraland/recipes/fish-and-vegetable-stew.html
 photos:
   - /chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew.webp
   - /chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew-name.webp
   - /chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew-icon.webp
   - /chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew-material.webp
-thumbnail: /chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew.webp
+subtitle: "Recipe Fish And Vegetable Stew Chimeraland Fish And Vegetable Stew
+  Cooking Recipe Buff Fish And Vegetable Stew 660 Fullness 80 Armor Pierce
+  recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew.webp
+title: Recipe Fish And Vegetable Stew Chimeraland
+type: post
+updated: 2023-08-08T14:44:29+07:00
+wordcount: 887
 ---
 
 <link

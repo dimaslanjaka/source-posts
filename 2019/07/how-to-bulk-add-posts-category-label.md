@@ -3,21 +3,31 @@ author:
   nick: Dimas Lanjaka Kumala Indra
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
-category: []
+categories:
+  - uncategorized
 comments: true
 cover: https://3.bp.blogspot.com/-xr13nwoay60/XTTB3CWtC1I/AAAAAAAAAcE/nrHcc8rWjm8kit-VSE7gcqimjMOreeUHgCLcBGAs/s1600/Screenshot_2.png
 date: 2019-07-22T03:01:00.001+07:00
+description: At this time I will share, How to move the blogger categoryExample
+  Well move all post label Javascript to JS Filter and Choose the label
+excerpt: At this time I will share, How to move the blogger categoryExample Well
+  move all post label Javascript to JS Filter and Choose the label
+id: 83a33ec2-e552-4888-8392-412562498067
 lang: en
+photos:
+  - https://3.bp.blogspot.com/-xr13nwoay60/XTTB3CWtC1I/AAAAAAAAAcE/nrHcc8rWjm8kit-VSE7gcqimjMOreeUHgCLcBGAs/s1600/Screenshot_2.png
 subtitle: At this time I will share, How to move the blogger categoryExample
   Well move all post label Javascript to JS Filter and Choose the label
 tags:
-  - Blogger
-  - Tips & Tricks
+  - blogger
+  - tips & tricks
+thumbnail: https://3.bp.blogspot.com/-xr13nwoay60/XTTB3CWtC1I/AAAAAAAAAcE/nrHcc8rWjm8kit-VSE7gcqimjMOreeUHgCLcBGAs/s1600/Screenshot_2.png
 title: How to bulk add category label to blogger posts
 type: post
+updated: 2023-08-08T14:45:30+07:00
 uuid: c30aa17b-a017-4888-8e53-8e89093179ac
 webtitle: Blogger
-updated: 2022-04-18T07:28:00+0700
+wordcount: 246
 ---
 
 At this time I will share, **How to move the blogger category**  

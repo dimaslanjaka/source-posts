@@ -1,10 +1,23 @@
 ---
-title: How to remove thousands old unneeded commits
-description: Removing old unneeded commits - saving disk space and making git clones faster 
+author: Dimas Lanjaka
+categories:
+  - programming
+  - bash
+  - github
+comments: true
 date: 2023-06-01T11:47:07+07:00
-updated: 2023-06-01T11:47:07+07:00
-tags: [github]
-categories: [programming, bash, github]
+description: Removing old unneeded commits - saving disk space and making git clones faster
+excerpt: Removing old unneeded commits - saving disk space and making git clones faster
+id: 1fc670aa-28de-4888-8e1a-6bc396e584a5
+lang: en
+photos: []
+subtitle: Removing old unneeded commits - saving disk space and making git clones faster
+tags:
+  - github
+title: How to remove thousands old unneeded commits
+type: post
+updated: 2023-08-08T14:44:19+07:00
+wordcount: 1457
 ---
 
 ## Say my git repo has 5,000 commits, how can I remove the first 4,000 commits that are quite old and no longer needed, in order to save disk space?

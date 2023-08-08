@@ -1,19 +1,37 @@
 ---
-title: Material Hilsa Herring Chimeraland
-date: 2022-01-16T13:56:03+07:00
-updated: 2022-10-08T13:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/hilsa-herring/hilsa-herring.webp
+date: 2022-01-16T13:56:03+07:00
+description: Material Hilsa Herring Chimeraland materials Hilsa Herring October
+  8, 2022 1:26 PM A marine fish with green black. Its sides and belly are
+  slivery-white. The back of its snout is pale gray, fins are yellowish, and
+  dorsal and tail fin edge grayis
+excerpt: Material Hilsa Herring Chimeraland materials Hilsa Herring October 8,
+  2022 1:26 PM A marine fish with green black. Its sides and belly are
+  slivery-white. The back of its snout is pale gray, fins are yellowish, and
+  dorsal and tail fin edge grayis
+id: 6b8ef38a-9bc1-4888-810e-801fc47c6088
+lang: en
 permalink: /chimeraland/materials/hilsa-herring.html
 photos:
   - /chimeraland/materials/hilsa-herring/hilsa-herring.webp
-thumbnail: /chimeraland/materials/hilsa-herring/hilsa-herring.webp
+subtitle: Material Hilsa Herring Chimeraland materials Hilsa Herring October 8,
+  2022 1:26 PM A marine fish with green black. Its sides and belly are
+  slivery-white. The back of its snout is pale gray, fins are yellowish, and
+  dorsal and tail fin edge grayis
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/hilsa-herring/hilsa-herring.webp
+title: Material Hilsa Herring Chimeraland
+type: post
+updated: 2023-08-08T14:44:55+07:00
+wordcount: 901
 ---
 
 <link

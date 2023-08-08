@@ -1,21 +1,33 @@
 ---
-title: Monster Nian
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T07:00:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Nian
 date: 2023-05-25T02:21:12+07:00
+description: Monster Nian Nian Information from Chimeraland Nian default maximum
+  attribute GRADE Attack Hea
+excerpt: Monster Nian Nian Information from Chimeraland Nian default maximum
+  attribute GRADE Attack Hea
+id: d5ddc3c1-6cfc-4888-8cb3-0ebf1f88d1c5
+lang: en
 permalink: /chimeraland/monsters/nian.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Nian
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Nian
+subtitle: Monster Nian Nian Information from Chimeraland Nian default maximum
+  attribute GRADE Attack Hea
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Nian
+title: Monster Nian
+type: post
+updated: 2023-08-08T14:44:36+07:00
+webtitle: chimeraland
+wordcount: 603
 ---
 
 <link

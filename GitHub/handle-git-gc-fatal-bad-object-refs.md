@@ -1,15 +1,29 @@
 ---
-title: How to handle git gc fatal bad object refs/remotes/origin/HEAD error?
-description: Git GC fatal bad object refs/remotes/origin/HEAD error simple fix
-webtitle: GitHub
+author: Dimas Lanjaka
+categories:
+  - github
+comments: true
+cover: https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab90ae870152b_github
+  4.png
 date: 2022-06-07
-updated: 2022-07-07T09:39:00+0700
-thumbnail: https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab90ae870152b_github%204.png
-category:
-  - GitHub
+description: Git GC fatal bad object refs/remotes/origin/HEAD error simple fix
+excerpt: Git GC fatal bad object refs/remotes/origin/HEAD error simple fix
+id: 53be295e-d42c-4888-869f-3dc36ffd789c
+lang: en
+photos:
+  - https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab90ae870152b_github
+    4.png
+subtitle: Git GC fatal bad object refs/remotes/origin/HEAD error simple fix
 tags:
   - cmd
   - git
+thumbnail: https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab90ae870152b_github
+  4.png
+title: How to handle git gc fatal bad object refs/remotes/origin/HEAD error?
+type: post
+updated: 2023-08-08T14:44:18+07:00
+webtitle: GitHub
+wordcount: 205
 ---
 
 ## Example fix from `master` as old branch to `main` as new branch

@@ -1,23 +1,35 @@
 ---
-title: Recipe Job's Tears Broth Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T20:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth.webp
 date: 2022-01-10T04:56:03+07:00
+description: "Recipe Jobs Tears Broth Chimeraland Jobs Tears Broth Cooking
+  Recipe Buff Jobs Tears Broth 300 Fullness -50 Humidity decreased over time
+  recipe "
+excerpt: "Recipe Jobs Tears Broth Chimeraland Jobs Tears Broth Cooking Recipe
+  Buff Jobs Tears Broth 300 Fullness -50 Humidity decreased over time recipe "
+id: f2f1f558-0ea7-4888-80b5-7ff760915d81
+lang: en
 permalink: /chimeraland/recipes/jobs-tears-broth.html
 photos:
   - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth.webp
   - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-name.webp
   - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-icon.webp
   - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-material.webp
-thumbnail: /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth.webp
+subtitle: "Recipe Jobs Tears Broth Chimeraland Jobs Tears Broth Cooking Recipe
+  Buff Jobs Tears Broth 300 Fullness -50 Humidity decreased over time recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth.webp
+title: Recipe Jobs Tears Broth Chimeraland
+type: post
+updated: 2023-08-08T14:44:26+07:00
+wordcount: 764
 ---
 
 <link

@@ -1,9 +1,18 @@
 ---
-title: Attendant generocavii
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-13T12:32:50+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/generocavii/Screenshot_2023-02-10-04-35-15-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-13T12:21:50+07:00
+description: "Attendant generocavii generocavii Information from Chimeraland
+  generocavii default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Attendant generocavii generocavii Information from Chimeraland
+  generocavii default maximum attribute GRADE N/A N/A Attack N/A "
+id: bca32cfd-260b-4888-8a99-4af02fb55863
+lang: en
 permalink: /chimeraland/attendants/generocavii.html
 photos:
   - /chimeraland/attendants/generocavii/Screenshot_2023-02-10-04-35-15-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,14 +21,17 @@ photos:
   - /chimeraland/attendants/generocavii/Screenshot_2023-02-10-04-35-29-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/generocavii/Screenshot_2023-02-10-04-35-33-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/generocavii/Screenshot_2023-02-10-04-35-37-36_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/generocavii/Screenshot_2023-02-10-04-35-15-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant generocavii generocavii Information from Chimeraland
+  generocavii default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/generocavii/Screenshot_2023-02-10-04-35-15-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant generocavii
+type: post
+updated: 2023-08-08T14:45:06+07:00
+webtitle: chimeraland
+wordcount: 988
 ---
 
 <link

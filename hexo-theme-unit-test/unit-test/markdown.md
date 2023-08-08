@@ -1,9 +1,32 @@
-title: Markdown Style test
+---
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 date: 2018-7-24 23:31:06
+description: Markdown Style test This post is originated from here and is used
+  for testing markdown style. This post contains nearly every markdown usage.
+  Make sure all the markdown elements below show up correctly. here Headers H1
+  H2 H3 H4 H5 H6Alternatively, for H1 and H2, an unde
+excerpt: Markdown Style test This post is originated from here and is used for
+  testing markdown style. This post contains nearly every markdown usage. Make
+  sure all the markdown elements below show up correctly. here Headers H1 H2 H3
+  H4 H5 H6Alternatively, for H1 and H2, an unde
+id: b4d2a928-9f84-4888-8392-bc957ecf6f09
+lang: en
+photos: []
 robots: no-index
+subtitle: Markdown Style test This post is originated from here and is used for
+  testing markdown style. This post contains nearly every markdown usage. Make
+  sure all the markdown elements below show up correctly. here Headers H1 H2 H3
+  H4 H5 H6Alternatively, for H1 and H2, an unde
 tags:
-  - Foo
-  - Bar
+  - foo
+  - bar
+title: Markdown Style test
+type: post
+updated: 2023-08-08T14:44:21+07:00
+wordcount: 3374
 ---
 
 This post is originated from [here](https://gist.github.com/apackeer/4159268) and is used for testing markdown style. This post contains nearly every markdown usage. Make sure all the markdown elements below show up correctly.

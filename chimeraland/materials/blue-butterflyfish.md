@@ -1,19 +1,34 @@
 ---
-title: Material Blue Butterflyfish Chimeraland
-date: 2022-01-15T15:56:03+07:00
-updated: 2022-10-07T15:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/blue-butterflyfish/blue-butterflyfish.webp
+date: 2022-01-15T15:56:03+07:00
+description: "Material Blue Butterflyfish Chimeraland materials Blue
+  Butterflyfish October 7, 2022 3:26 PM Continue reading Blue Butterflyfish What
+  is the use of the Blue Butterflyfish "
+excerpt: "Material Blue Butterflyfish Chimeraland materials Blue Butterflyfish
+  October 7, 2022 3:26 PM Continue reading Blue Butterflyfish What is the use of
+  the Blue Butterflyfish "
+id: 615e8851-db0c-4888-8180-ba62037b9084
+lang: en
 permalink: /chimeraland/materials/blue-butterflyfish.html
 photos:
   - /chimeraland/materials/blue-butterflyfish/blue-butterflyfish.webp
-thumbnail: /chimeraland/materials/blue-butterflyfish/blue-butterflyfish.webp
+subtitle: "Material Blue Butterflyfish Chimeraland materials Blue Butterflyfish
+  October 7, 2022 3:26 PM Continue reading Blue Butterflyfish What is the use of
+  the Blue Butterflyfish "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/blue-butterflyfish/blue-butterflyfish.webp
+title: Material Blue Butterflyfish Chimeraland
+type: post
+updated: 2023-08-08T14:45:00+07:00
+wordcount: 641
 ---
 
 <link

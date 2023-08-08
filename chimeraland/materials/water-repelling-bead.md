@@ -1,19 +1,34 @@
 ---
-title: Material Water Repelling Bead Chimeraland
-date: 2022-01-10T12:56:03+07:00
-updated: 2022-10-02T12:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/water-repelling-bead/water-repelling-bead.webp
+date: 2022-01-10T12:56:03+07:00
+description: "Material Water Repelling Bead Chimeraland materials Water
+  Repelling Bead October 2, 2022 12:26 PM Continue reading Water Repelling Bead
+  What is the use of the Water Repelling Bead "
+excerpt: "Material Water Repelling Bead Chimeraland materials Water Repelling
+  Bead October 2, 2022 12:26 PM Continue reading Water Repelling Bead What is
+  the use of the Water Repelling Bead "
+id: 4a50984d-f84a-4888-812a-142de25f64e7
+lang: en
 permalink: /chimeraland/materials/water-repelling-bead.html
 photos:
   - /chimeraland/materials/water-repelling-bead/water-repelling-bead.webp
-thumbnail: /chimeraland/materials/water-repelling-bead/water-repelling-bead.webp
+subtitle: "Material Water Repelling Bead Chimeraland materials Water Repelling
+  Bead October 2, 2022 12:26 PM Continue reading Water Repelling Bead What is
+  the use of the Water Repelling Bead "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/water-repelling-bead/water-repelling-bead.webp
+title: Material Water Repelling Bead Chimeraland
+type: post
+updated: 2023-08-08T14:44:48+07:00
+wordcount: 867
 ---
 
 <link

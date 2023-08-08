@@ -1,31 +1,45 @@
 ---
-title: Monster Venus Flytrap
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T18:18:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Venus Flytrap
 date: 2022-01-11T06:56:03+07:00
+description: "monster Venus Flytrap default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0,HP 339,Essence Aspect: Fermount
+  delicacies/tasty Tasty Crispy Spider,Soy Braised Dragon Bone,Bear Ball Pot
+  Games,chimeraland,monsters chimeraland,monster,pet"
+excerpt: "monster Venus Flytrap default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0,HP 339,Essence Aspect: Fermount
+  delicacies/tasty Tasty Crispy Spider,Soy Braised Dragon Bone,Bear Ball Pot
+  Games,chimeraland,monsters chimeraland,monster,pet"
+id: e21201fd-88bd-4888-8987-cdc7f1b03c9c
+lang: en
 permalink: /chimeraland/monsters/venus-flytrap.html
 photos:
-  - null
   - /chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-29-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-36-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-43-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-48-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-53-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/venus-flytrap/Screenshot_2022-07-15-16-58-58-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Venus Flytrap
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Venus Flytrap
+subtitle: "monster Venus Flytrap default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0,HP 339,Essence Aspect: Fermount
+  delicacies/tasty Tasty Crispy Spider,Soy Braised Dragon Bone,Bear Ball Pot
+  Games,chimeraland,monsters chimeraland,monster,pet"
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
-description: "monster Venus Flytrap default quality GRADE B ATK 60 HP 60 DEF 60
-  Attributes Conversion Rate 4.0%,HP 339,Essence Aspect: Fermount
-  delicacies/tasty Tasty Crispy Spider,Soy Braised Dragon Bone,Bear Ball Pot
-  Games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Venus Flytrap
+title: Monster Venus Flytrap
+type: post
+updated: 2023-08-08T14:44:31+07:00
+webtitle: chimeraland
+wordcount: 1578
 ---
 
 <link

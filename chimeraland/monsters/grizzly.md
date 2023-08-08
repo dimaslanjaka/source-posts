@@ -1,31 +1,45 @@
 ---
-title: Monster Grizzly
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T18:41:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grizzly
 date: 2022-01-08T05:56:03+07:00
+description: monster Grizzly default quality GRADE C ATK 50 HP 60 DEF 60
+  Attributes Conversion Rate 4.0,Melee DMG Reduction 4.8 delicacies/tasty Hot
+  Stone Ox Marrow,Hot n Sour Jelly,Steamed Sweet Sour Icebug
+  Games,chimeraland,monsters chimeraland,monster,pet
+excerpt: monster Grizzly default quality GRADE C ATK 50 HP 60 DEF 60 Attributes
+  Conversion Rate 4.0,Melee DMG Reduction 4.8 delicacies/tasty Hot Stone Ox
+  Marrow,Hot n Sour Jelly,Steamed Sweet Sour Icebug Games,chimeraland,monsters
+  chimeraland,monster,pet
+id: 8837c818-e674-4888-8c11-5e85f8cf39fa
+lang: en
 permalink: /chimeraland/monsters/grizzly.html
 photos:
-  - null
   - /chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-32-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-40-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-44-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-49-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/grizzly/Screenshot_2022-07-16-18-47-54-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grizzly
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grizzly
+subtitle: monster Grizzly default quality GRADE C ATK 50 HP 60 DEF 60 Attributes
+  Conversion Rate 4.0,Melee DMG Reduction 4.8 delicacies/tasty Hot Stone Ox
+  Marrow,Hot n Sour Jelly,Steamed Sweet Sour Icebug Games,chimeraland,monsters
+  chimeraland,monster,pet
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
-description: monster Grizzly default quality GRADE C ATK 50 HP 60 DEF 60
-  Attributes Conversion Rate 4.0%,Melee DMG Reduction 4.8% delicacies/tasty Hot
-  Stone Ox Marrow,Hot 'n Sour Jelly,Steamed Sweet & Sour Icebug
-  Games,chimeraland,monsters chimeraland,monster,pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grizzly
+title: Monster Grizzly
+type: post
+updated: 2023-08-08T14:44:39+07:00
+webtitle: chimeraland
+wordcount: 1527
 ---
 
 <link

@@ -1,19 +1,34 @@
 ---
-title: Material Mulberry Root Chimeraland
-date: 2022-01-14T00:56:03+07:00
-updated: 2022-10-06T00:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/mulberry-root/mulberry-root.webp
+date: 2022-01-14T00:56:03+07:00
+description: "Material Mulberry Root Chimeraland materials Mulberry Root October
+  6, 2022 12:26 AM Mulberry root. Curved, grayish-brown tendrils, eat to relieve
+  pain. Continue reading Mulberry Root "
+excerpt: "Material Mulberry Root Chimeraland materials Mulberry Root October 6,
+  2022 12:26 AM Mulberry root. Curved, grayish-brown tendrils, eat to relieve
+  pain. Continue reading Mulberry Root "
+id: 622016a5-fb1f-4888-8531-811f79d942ec
+lang: en
 permalink: /chimeraland/materials/mulberry-root.html
 photos:
   - /chimeraland/materials/mulberry-root/mulberry-root.webp
-thumbnail: /chimeraland/materials/mulberry-root/mulberry-root.webp
+subtitle: "Material Mulberry Root Chimeraland materials Mulberry Root October 6,
+  2022 12:26 AM Mulberry root. Curved, grayish-brown tendrils, eat to relieve
+  pain. Continue reading Mulberry Root "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/mulberry-root/mulberry-root.webp
+title: Material Mulberry Root Chimeraland
+type: post
+updated: 2023-08-08T14:44:53+07:00
+wordcount: 1076
 ---
 
 <link

@@ -1,23 +1,34 @@
 ---
-title: Recipe Broiled Meat Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T15:46:53+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/broiled-meat/broiled-meat.webp
 date: 2022-01-07T07:56:03+07:00
+description: "Recipe Broiled Meat Chimeraland Broiled Meat Cooking Recipe Buff
+  Broiled Meat 300 Fullness Strengthen Underwater Effect recipe "
+excerpt: "Recipe Broiled Meat Chimeraland Broiled Meat Cooking Recipe Buff
+  Broiled Meat 300 Fullness Strengthen Underwater Effect recipe "
+id: 87b52b97-0e33-4888-89de-9c29131cfaf3
+lang: en
 permalink: /chimeraland/recipes/broiled-meat.html
 photos:
   - /chimeraland/recipes/broiled-meat/broiled-meat.webp
   - /chimeraland/recipes/broiled-meat/broiled-meat-name.webp
   - /chimeraland/recipes/broiled-meat/broiled-meat-icon.webp
   - /chimeraland/recipes/broiled-meat/broiled-meat-material.webp
-thumbnail: /chimeraland/recipes/broiled-meat/broiled-meat.webp
+subtitle: "Recipe Broiled Meat Chimeraland Broiled Meat Cooking Recipe Buff
+  Broiled Meat 300 Fullness Strengthen Underwater Effect recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/broiled-meat/broiled-meat.webp
+title: Recipe Broiled Meat Chimeraland
+type: post
+updated: 2023-08-08T14:44:29+07:00
+wordcount: 821
 ---
 
 <link

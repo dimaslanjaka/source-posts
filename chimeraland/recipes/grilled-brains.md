@@ -1,23 +1,34 @@
 ---
-title: Recipe Grilled Brains Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T10:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/grilled-brains/grilled-brains.webp
 date: 2022-01-09T10:56:03+07:00
+description: Recipe Grilled Brains Chimeraland Grilled Brains Cooking Recipe
+  Buff Grilled Brains Buff Grilled Brains not yet written recipe webmanaj
+excerpt: Recipe Grilled Brains Chimeraland Grilled Brains Cooking Recipe Buff
+  Grilled Brains Buff Grilled Brains not yet written recipe webmanaj
+id: 55bedd31-5144-4888-8001-3c45220aa223
+lang: en
 permalink: /chimeraland/recipes/grilled-brains.html
 photos:
   - /chimeraland/recipes/grilled-brains/grilled-brains.webp
   - /chimeraland/recipes/grilled-brains/grilled-brains-name.webp
   - /chimeraland/recipes/grilled-brains/grilled-brains-icon.webp
   - /chimeraland/recipes/grilled-brains/grilled-brains-material.webp
-thumbnail: /chimeraland/recipes/grilled-brains/grilled-brains.webp
+subtitle: Recipe Grilled Brains Chimeraland Grilled Brains Cooking Recipe Buff
+  Grilled Brains Buff Grilled Brains not yet written recipe webmanaj
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/grilled-brains/grilled-brains.webp
+title: Recipe Grilled Brains Chimeraland
+type: post
+updated: 2023-08-08T14:44:27+07:00
+wordcount: 644
 ---
 
 <link

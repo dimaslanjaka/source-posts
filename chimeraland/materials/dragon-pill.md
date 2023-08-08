@@ -1,19 +1,34 @@
 ---
-title: Material Dragon Pill Chimeraland
-date: 2022-01-18T07:56:03+07:00
-updated: 2022-10-10T07:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/dragon-pill/dragon-pill.webp
+date: 2022-01-18T07:56:03+07:00
+description: "Material Dragon Pill Chimeraland materials Dragon Pill October 10,
+  2022 7:26 AM Continue reading Dragon Pill What is the use of the Dragon Pill
+  Used for "
+excerpt: "Material Dragon Pill Chimeraland materials Dragon Pill October 10,
+  2022 7:26 AM Continue reading Dragon Pill What is the use of the Dragon Pill
+  Used for "
+id: 8051708a-2fde-4888-83c3-222eb0d55c40
+lang: en
 permalink: /chimeraland/materials/dragon-pill.html
 photos:
   - /chimeraland/materials/dragon-pill/dragon-pill.webp
-thumbnail: /chimeraland/materials/dragon-pill/dragon-pill.webp
+subtitle: "Material Dragon Pill Chimeraland materials Dragon Pill October 10,
+  2022 7:26 AM Continue reading Dragon Pill What is the use of the Dragon Pill
+  Used for "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/dragon-pill/dragon-pill.webp
+title: Material Dragon Pill Chimeraland
+type: post
+updated: 2023-08-08T14:44:57+07:00
+wordcount: 706
 ---
 
 <link

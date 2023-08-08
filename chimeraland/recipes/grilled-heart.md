@@ -1,23 +1,34 @@
 ---
-title: Recipe Grilled Heart Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T12:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/grilled-heart/grilled-heart.webp
 date: 2022-01-09T05:56:03+07:00
+description: Recipe Grilled Heart Chimeraland Grilled Heart Cooking Recipe Buff
+  Grilled Heart 300 Fullness 100 ATK recipe webmanaj
+excerpt: Recipe Grilled Heart Chimeraland Grilled Heart Cooking Recipe Buff
+  Grilled Heart 300 Fullness 100 ATK recipe webmanaj
+id: f3620aa2-41f0-4888-8a94-fb05a89098c8
+lang: en
 permalink: /chimeraland/recipes/grilled-heart.html
 photos:
   - /chimeraland/recipes/grilled-heart/grilled-heart.webp
   - /chimeraland/recipes/grilled-heart/grilled-heart-name.webp
   - /chimeraland/recipes/grilled-heart/grilled-heart-icon.webp
   - /chimeraland/recipes/grilled-heart/grilled-heart-material.webp
-thumbnail: /chimeraland/recipes/grilled-heart/grilled-heart.webp
+subtitle: Recipe Grilled Heart Chimeraland Grilled Heart Cooking Recipe Buff
+  Grilled Heart 300 Fullness 100 ATK recipe webmanaj
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/grilled-heart/grilled-heart.webp
+title: Recipe Grilled Heart Chimeraland
+type: post
+updated: 2023-08-08T14:44:27+07:00
+wordcount: 624
 ---
 
 <link

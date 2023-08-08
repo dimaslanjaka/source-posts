@@ -1,21 +1,33 @@
 ---
-title: Monster Craoot
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T03:29:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Craoot
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Craoot Craoot Information from Chimeraland Craoot default
+  maximum attribute GRADE Attack "
+excerpt: "Monster Craoot Craoot Information from Chimeraland Craoot default
+  maximum attribute GRADE Attack "
+id: 7d039623-45b1-4888-8e24-2e5e0473943d
+lang: en
 permalink: /chimeraland/monsters/craoot.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Craoot
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Craoot
+subtitle: "Monster Craoot Craoot Information from Chimeraland Craoot default
+  maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Craoot
+title: Monster Craoot
+type: post
+updated: 2023-08-08T14:44:45+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

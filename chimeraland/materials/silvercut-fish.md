@@ -1,19 +1,37 @@
 ---
-title: Material Silvercut Fish Chimeraland
-date: 2022-01-15T05:56:03+07:00
-updated: 2022-10-07T05:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/silvercut-fish/silvercut-fish.webp
+date: 2022-01-15T05:56:03+07:00
+description: "Material Silvercut Fish Chimeraland materials Silvercut Fish
+  October 7, 2022 5:26 AM A marine fish, slim, slivery, with a singular short
+  dorsal fin. No lateral line, no scales on the head. Westmount Sea is where it
+  may be found. "
+excerpt: "Material Silvercut Fish Chimeraland materials Silvercut Fish October
+  7, 2022 5:26 AM A marine fish, slim, slivery, with a singular short dorsal
+  fin. No lateral line, no scales on the head. Westmount Sea is where it may be
+  found. "
+id: d1aa5eab-0082-4888-8aed-b289249a00ba
+lang: en
 permalink: /chimeraland/materials/silvercut-fish.html
 photos:
   - /chimeraland/materials/silvercut-fish/silvercut-fish.webp
-thumbnail: /chimeraland/materials/silvercut-fish/silvercut-fish.webp
+subtitle: "Material Silvercut Fish Chimeraland materials Silvercut Fish October
+  7, 2022 5:26 AM A marine fish, slim, slivery, with a singular short dorsal
+  fin. No lateral line, no scales on the head. Westmount Sea is where it may be
+  found. "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/silvercut-fish/silvercut-fish.webp
+title: Material Silvercut Fish Chimeraland
+type: post
+updated: 2023-08-08T14:44:50+07:00
+wordcount: 869
 ---
 
 <link

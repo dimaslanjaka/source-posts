@@ -1,12 +1,20 @@
 ---
-title: Monster Parrot
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T12:22:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Parrot
 date: 2022-01-09T16:56:03+07:00
+description: "Monster Parrot Parrot Information from Chimeraland Parrot default
+  maximum attribute GRADE B GRAND - EPIC Attack 63 "
+excerpt: "Monster Parrot Parrot Information from Chimeraland Parrot default
+  maximum attribute GRADE B GRAND - EPIC Attack 63 "
+id: 8b95fb64-a194-4888-8981-e79276d58eb8
+lang: en
 permalink: /chimeraland/monsters/parrot.html
 photos:
-  - null
   - /chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-17-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-21-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/parrot/Screenshot_2023-03-02-05-24-25-64_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -18,15 +26,19 @@ photos:
   - /chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-17-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-22-90_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-29-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Parrot
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Parrot
+subtitle: "Monster Parrot Parrot Information from Chimeraland Parrot default
+  maximum attribute GRADE B GRAND - EPIC Attack 63 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Parrot
+title: Monster Parrot
+type: post
+updated: 2023-08-08T14:44:36+07:00
+webtitle: chimeraland
+wordcount: 1440
 ---
 
 <link

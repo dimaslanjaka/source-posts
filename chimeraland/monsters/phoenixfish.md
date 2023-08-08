@@ -1,21 +1,33 @@
 ---
-title: Monster Phoenixfish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T18:58:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Phoenixfish
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Phoenixfish Phoenixfish Information from Chimeraland
+  Phoenixfish default maximum attribute GRADE Attack "
+excerpt: "Monster Phoenixfish Phoenixfish Information from Chimeraland
+  Phoenixfish default maximum attribute GRADE Attack "
+id: c699c0c5-e893-4888-8ac0-b9dc5544e514
+lang: en
 permalink: /chimeraland/monsters/phoenixfish.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Phoenixfish
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Phoenixfish
+subtitle: "Monster Phoenixfish Phoenixfish Information from Chimeraland
+  Phoenixfish default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Phoenixfish
+title: Monster Phoenixfish
+type: post
+updated: 2023-08-08T14:44:36+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

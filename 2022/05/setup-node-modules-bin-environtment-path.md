@@ -1,13 +1,26 @@
 ---
-title: Setup node_modules bin on global environtment path
-description: How to setup node_modules/.bin on global environtment path
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
+cover: https://user-images.githubusercontent.com/12471057/167742331-5e5ea481-cbfc-4a9a-87fd-7b404b16a4dc.png
 date: 2022-05-10T12:13:21+0000
-updated: 2022-05-10T23:45:40+0000
-thumbnail: https://user-images.githubusercontent.com/12471057/167742331-5e5ea481-cbfc-4a9a-87fd-7b404b16a4dc.png
+description: How to setup node_modules/.bin on global environtment path
+excerpt: How to setup node_modules/.bin on global environtment path
+id: fdf69c77-ff5f-4888-8fb5-6ef7691cc600
+lang: en
+photos:
+  - https://user-images.githubusercontent.com/12471057/167742331-5e5ea481-cbfc-4a9a-87fd-7b404b16a4dc.png
+subtitle: How to setup node_modules/.bin on global environtment path
 tags:
-  - NodeJS
-  - Bash
-  - CMD
+  - nodejs
+  - bash
+  - cmd
+thumbnail: https://user-images.githubusercontent.com/12471057/167742331-5e5ea481-cbfc-4a9a-87fd-7b404b16a4dc.png
+title: Setup node_modules bin on global environtment path
+type: post
+updated: 2023-08-08T14:45:09+07:00
+wordcount: 98
 ---
 
 ## Setup Windows

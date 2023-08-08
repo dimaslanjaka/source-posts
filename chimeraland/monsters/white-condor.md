@@ -1,21 +1,33 @@
 ---
-title: Monster White Condor
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T14:15:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=White Condor
 date: 2022-01-11T10:56:03+07:00
+description: "Monster White Condor White Condor Information from Chimeraland
+  White Condor default maximum attribute GRADE C RARE Attack 67 "
+excerpt: "Monster White Condor White Condor Information from Chimeraland White
+  Condor default maximum attribute GRADE C RARE Attack 67 "
+id: 33d04d83-027f-4888-86f6-b7a659e52a51
+lang: en
 permalink: /chimeraland/monsters/white-condor.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=White Condor
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=White Condor
+subtitle: "Monster White Condor White Condor Information from Chimeraland White
+  Condor default maximum attribute GRADE C RARE Attack 67 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=White Condor
+title: Monster White Condor
+type: post
+updated: 2023-08-08T14:44:31+07:00
+webtitle: chimeraland
+wordcount: 670
 ---
 
 <link

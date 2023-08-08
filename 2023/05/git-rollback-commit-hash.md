@@ -1,9 +1,34 @@
 ---
-title: rollback commit github
-category: [programming, bash]
-tags: [github, script, snippet]
+author: Dimas Lanjaka
+categories:
+  - programming
+  - bash
+comments: true
 date: 2023-05-17T20:45:00+07:00
-updated: 2023-05-17T20:45:00+07:00
+description: rollback commit github Rogue Coder? Working alone and just want to
+  do well? Follow the steps below. These steps have worked reliably for me and
+  many others over the years. Collaborate with others? Git is complicated.
+  Please read the comments below this answer, consider other answers, and
+  discuss wit
+excerpt: rollback commit github Rogue Coder? Working alone and just want to do
+  well? Follow the steps below. These steps have worked reliably for me and many
+  others over the years. Collaborate with others? Git is complicated. Please
+  read the comments below this answer, consider other answers, and discuss wit
+id: 9aaaee5c-c034-4888-80a3-be9781a76677
+lang: en
+photos: []
+subtitle: rollback commit github Rogue Coder? Working alone and just want to do
+  well? Follow the steps below. These steps have worked reliably for me and many
+  others over the years. Collaborate with others? Git is complicated. Please
+  read the comments below this answer, consider other answers, and discuss wit
+tags:
+  - github
+  - script
+  - snippet
+title: rollback commit github
+type: post
+updated: 2023-08-08T14:45:08+07:00
+wordcount: 543
 ---
 
 Rogue Coder?

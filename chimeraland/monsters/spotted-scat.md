@@ -1,21 +1,33 @@
 ---
-title: Monster Spotted Scat
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T02:46:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spotted Scat
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Spotted Scat Spotted Scat Information from Chimeraland
+  Spotted Scat default maximum attribute GRADE Attack "
+excerpt: "Monster Spotted Scat Spotted Scat Information from Chimeraland Spotted
+  Scat default maximum attribute GRADE Attack "
+id: 829f714f-d6e8-4888-8e78-3e93e0c721e0
+lang: en
 permalink: /chimeraland/monsters/spotted-scat.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spotted Scat
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spotted Scat
+subtitle: "Monster Spotted Scat Spotted Scat Information from Chimeraland
+  Spotted Scat default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spotted Scat
+title: Monster Spotted Scat
+type: post
+updated: 2023-08-08T14:44:33+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

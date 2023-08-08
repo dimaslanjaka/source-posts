@@ -1,23 +1,34 @@
 ---
-title: Recipe Vegetable Patty Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T11:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/vegetable-patty/vegetable-patty.webp
 date: 2022-01-12T21:56:03+07:00
+description: "Recipe Vegetable Patty Chimeraland Vegetable Patty Cooking Recipe
+  Buff Vegetable Patty 540 Fullness 100 CRIT Great Focus recipe "
+excerpt: "Recipe Vegetable Patty Chimeraland Vegetable Patty Cooking Recipe Buff
+  Vegetable Patty 540 Fullness 100 CRIT Great Focus recipe "
+id: 8280e7d2-f3ff-4888-8937-b0bcac5fd455
+lang: en
 permalink: /chimeraland/recipes/vegetable-patty.html
 photos:
   - /chimeraland/recipes/vegetable-patty/vegetable-patty.webp
   - /chimeraland/recipes/vegetable-patty/vegetable-patty-name.webp
   - /chimeraland/recipes/vegetable-patty/vegetable-patty-icon.webp
   - /chimeraland/recipes/vegetable-patty/vegetable-patty-material.webp
-thumbnail: /chimeraland/recipes/vegetable-patty/vegetable-patty.webp
+subtitle: "Recipe Vegetable Patty Chimeraland Vegetable Patty Cooking Recipe
+  Buff Vegetable Patty 540 Fullness 100 CRIT Great Focus recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/vegetable-patty/vegetable-patty.webp
+title: Recipe Vegetable Patty Chimeraland
+type: post
+updated: 2023-08-08T14:44:23+07:00
+wordcount: 829
 ---
 
 <link

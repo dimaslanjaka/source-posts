@@ -1,23 +1,34 @@
 ---
-title: Recipe Fried Vegetarian Balls Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T11:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls.webp
 date: 2022-01-08T22:56:03+07:00
+description: "Recipe Fried Vegetarian Balls Chimeraland Fried Vegetarian Balls
+  Cooking Recipe Buff Fried Vegetarian Balls 300 Fullness 30 CRIT recipe "
+excerpt: "Recipe Fried Vegetarian Balls Chimeraland Fried Vegetarian Balls
+  Cooking Recipe Buff Fried Vegetarian Balls 300 Fullness 30 CRIT recipe "
+id: c225dcf5-5c22-4888-8873-14706d2dcee8
+lang: en
 permalink: /chimeraland/recipes/fried-vegetarian-balls.html
 photos:
   - /chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls.webp
   - /chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls-name.webp
   - /chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls-icon.webp
   - /chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls-material.webp
-thumbnail: /chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls.webp
+subtitle: "Recipe Fried Vegetarian Balls Chimeraland Fried Vegetarian Balls
+  Cooking Recipe Buff Fried Vegetarian Balls 300 Fullness 30 CRIT recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls.webp
+title: Recipe Fried Vegetarian Balls Chimeraland
+type: post
+updated: 2023-08-08T14:44:28+07:00
+wordcount: 827
 ---
 
 <link

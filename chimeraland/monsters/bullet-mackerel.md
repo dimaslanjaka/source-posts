@@ -1,21 +1,33 @@
 ---
-title: Monster Bullet Mackerel
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T11:46:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bullet Mackerel
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Bullet Mackerel Bullet Mackerel Information from
+  Chimeraland Bullet Mackerel default maximum attribute GRADE Attack "
+excerpt: "Monster Bullet Mackerel Bullet Mackerel Information from Chimeraland
+  Bullet Mackerel default maximum attribute GRADE Attack "
+id: 721ffb2d-22ae-4888-8765-dac61cd5b866
+lang: en
 permalink: /chimeraland/monsters/bullet-mackerel.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bullet Mackerel
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bullet Mackerel
+subtitle: "Monster Bullet Mackerel Bullet Mackerel Information from Chimeraland
+  Bullet Mackerel default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bullet Mackerel
+title: Monster Bullet Mackerel
+type: post
+updated: 2023-08-08T14:44:46+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

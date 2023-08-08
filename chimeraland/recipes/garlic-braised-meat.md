@@ -1,23 +1,34 @@
 ---
-title: Recipe Garlic Braised Meat Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T01:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat.webp
 date: 2022-01-09T03:56:03+07:00
+description: "Recipe Garlic Braised Meat Chimeraland Garlic Braised Meat Cooking
+  Recipe Buff Garlic Braised Meat 300 Fullness 100 ATK recipe "
+excerpt: "Recipe Garlic Braised Meat Chimeraland Garlic Braised Meat Cooking
+  Recipe Buff Garlic Braised Meat 300 Fullness 100 ATK recipe "
+id: 3b5ac4bf-865a-4888-8b54-f3cac27842f0
+lang: en
 permalink: /chimeraland/recipes/garlic-braised-meat.html
 photos:
   - /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat.webp
   - /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat-name.webp
   - /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat-icon.webp
   - /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat-material.webp
-thumbnail: /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat.webp
+subtitle: "Recipe Garlic Braised Meat Chimeraland Garlic Braised Meat Cooking
+  Recipe Buff Garlic Braised Meat 300 Fullness 100 ATK recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat.webp
+title: Recipe Garlic Braised Meat Chimeraland
+type: post
+updated: 2023-08-08T14:44:28+07:00
+wordcount: 1547
 ---
 
 <link

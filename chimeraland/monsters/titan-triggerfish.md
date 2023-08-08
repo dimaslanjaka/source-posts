@@ -1,21 +1,33 @@
 ---
-title: Monster Titan Triggerfish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T16:11:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Titan Triggerfish
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Titan Triggerfish Titan Triggerfish Information from
+  Chimeraland Titan Triggerfish default maximum attribute GRADE Attack "
+excerpt: "Monster Titan Triggerfish Titan Triggerfish Information from
+  Chimeraland Titan Triggerfish default maximum attribute GRADE Attack "
+id: 54a45ee2-91bf-4888-843e-06a6637f1614
+lang: en
 permalink: /chimeraland/monsters/titan-triggerfish.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Titan Triggerfish
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Titan Triggerfish
+subtitle: "Monster Titan Triggerfish Titan Triggerfish Information from
+  Chimeraland Titan Triggerfish default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Titan Triggerfish
+title: Monster Titan Triggerfish
+type: post
+updated: 2023-08-08T14:44:31+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

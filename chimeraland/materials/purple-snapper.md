@@ -1,19 +1,37 @@
 ---
-title: Material Purple Snapper Chimeraland
-date: 2022-01-14T21:56:03+07:00
-updated: 2022-10-06T21:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/purple-snapper/purple-snapper.webp
+date: 2022-01-14T21:56:03+07:00
+description: Material Purple Snapper Chimeraland materials Purple Snapper
+  October 6, 2022 9:26 PM A marine fish with a long and oval body. It has
+  rounded back and belly, and its dorsal fin curves slightly in an arc. Both
+  eyes are evenly spaced. Southmount Se
+excerpt: Material Purple Snapper Chimeraland materials Purple Snapper October 6,
+  2022 9:26 PM A marine fish with a long and oval body. It has rounded back and
+  belly, and its dorsal fin curves slightly in an arc. Both eyes are evenly
+  spaced. Southmount Se
+id: bc9a573e-6c21-4888-8948-a70c8e6ac61c
+lang: en
 permalink: /chimeraland/materials/purple-snapper.html
 photos:
   - /chimeraland/materials/purple-snapper/purple-snapper.webp
-thumbnail: /chimeraland/materials/purple-snapper/purple-snapper.webp
+subtitle: Material Purple Snapper Chimeraland materials Purple Snapper October
+  6, 2022 9:26 PM A marine fish with a long and oval body. It has rounded back
+  and belly, and its dorsal fin curves slightly in an arc. Both eyes are evenly
+  spaced. Southmount Se
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/purple-snapper/purple-snapper.webp
+title: Material Purple Snapper Chimeraland
+type: post
+updated: 2023-08-08T14:44:51+07:00
+wordcount: 939
 ---
 
 <link

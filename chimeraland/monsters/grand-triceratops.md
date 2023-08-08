@@ -1,9 +1,20 @@
 ---
-title: Monster grand triceratops
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-11T10:30:18+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/grand-triceratops/Screenshot_2023-03-02-05-14-55-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-03-11T11:19:18+07:00
+description: Monster grand triceratops grand triceratops Information from
+  Chimeraland grand triceratops default maximum attribute GRADE N/A N/A Attack
+  N/A
+excerpt: Monster grand triceratops grand triceratops Information from
+  Chimeraland grand triceratops default maximum attribute GRADE N/A N/A Attack
+  N/A
+id: 60872eab-0f95-4888-8f47-fb1f861ad7fb
+lang: en
 permalink: /chimeraland/monsters/grand-triceratops.html
 photos:
   - /chimeraland/monsters/grand-triceratops/Screenshot_2023-03-02-05-14-55-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +24,19 @@ photos:
   - /chimeraland/monsters/grand-triceratops/Screenshot_2023-03-02-05-15-11-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/grand-triceratops/Screenshot_2023-03-02-05-15-16-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/grand-triceratops/Screenshot_2023-03-02-05-15-20-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/grand-triceratops/Screenshot_2023-03-02-05-14-55-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: Monster grand triceratops grand triceratops Information from
+  Chimeraland grand triceratops default maximum attribute GRADE N/A N/A Attack
+  N/A
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/grand-triceratops/Screenshot_2023-03-02-05-14-55-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster grand triceratops
+type: post
+updated: 2023-08-08T14:44:40+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

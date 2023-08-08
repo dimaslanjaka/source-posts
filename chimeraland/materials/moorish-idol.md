@@ -1,19 +1,37 @@
 ---
-title: Material Moorish Idol Chimeraland
-date: 2022-01-15T17:56:03+07:00
-updated: 2022-10-07T17:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/moorish-idol/moorish-idol.webp
+date: 2022-01-15T17:56:03+07:00
+description: Material Moorish Idol Chimeraland materials Moorish Idol October 7,
+  2022 5:26 PM A marine fish with a disc-shape body, triangular head, pointed
+  mouth, and eyes near the top of the head. It has a slivery-white and pale
+  yellow body, and golden yel
+excerpt: Material Moorish Idol Chimeraland materials Moorish Idol October 7,
+  2022 5:26 PM A marine fish with a disc-shape body, triangular head, pointed
+  mouth, and eyes near the top of the head. It has a slivery-white and pale
+  yellow body, and golden yel
+id: 3a491ea5-a0d3-4888-8b40-a81fcad73a1b
+lang: en
 permalink: /chimeraland/materials/moorish-idol.html
 photos:
   - /chimeraland/materials/moorish-idol/moorish-idol.webp
-thumbnail: /chimeraland/materials/moorish-idol/moorish-idol.webp
+subtitle: Material Moorish Idol Chimeraland materials Moorish Idol October 7,
+  2022 5:26 PM A marine fish with a disc-shape body, triangular head, pointed
+  mouth, and eyes near the top of the head. It has a slivery-white and pale
+  yellow body, and golden yel
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/moorish-idol/moorish-idol.webp
+title: Material Moorish Idol Chimeraland
+type: post
+updated: 2023-08-08T14:44:53+07:00
+wordcount: 981
 ---
 
 <link

@@ -1,23 +1,34 @@
 ---
-title: Recipe Grilled Wolf Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T16:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/grilled-wolf/grilled-wolf.webp
 date: 2022-01-09T15:56:03+07:00
+description: "Recipe Grilled Wolf Chimeraland Grilled Wolf Cooking Recipe Buff
+  Grilled Wolf 420 Fullness 60Crit Medium Focus recipe "
+excerpt: "Recipe Grilled Wolf Chimeraland Grilled Wolf Cooking Recipe Buff
+  Grilled Wolf 420 Fullness 60Crit Medium Focus recipe "
+id: 683a8828-50fe-4888-8a6f-3366f2715f4b
+lang: en
 permalink: /chimeraland/recipes/grilled-wolf.html
 photos:
   - /chimeraland/recipes/grilled-wolf/grilled-wolf.webp
   - /chimeraland/recipes/grilled-wolf/grilled-wolf-name.webp
   - /chimeraland/recipes/grilled-wolf/grilled-wolf-icon.webp
   - /chimeraland/recipes/grilled-wolf/grilled-wolf-material.webp
-thumbnail: /chimeraland/recipes/grilled-wolf/grilled-wolf.webp
+subtitle: "Recipe Grilled Wolf Chimeraland Grilled Wolf Cooking Recipe Buff
+  Grilled Wolf 420 Fullness 60Crit Medium Focus recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/grilled-wolf/grilled-wolf.webp
+title: Recipe Grilled Wolf Chimeraland
+type: post
+updated: 2023-08-08T14:44:27+07:00
+wordcount: 705
 ---
 
 <link

@@ -1,12 +1,20 @@
 ---
-title: Monster Fortuphant
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T03:43:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fortuphant
 date: 2022-01-08T04:56:03+07:00
+description: "Monster Fortuphant Fortuphant Information from Chimeraland
+  Fortuphant default maximum attribute GRADE C RARE Attack 50 "
+excerpt: "Monster Fortuphant Fortuphant Information from Chimeraland Fortuphant
+  default maximum attribute GRADE C RARE Attack 50 "
+id: 93439dd4-31c6-4888-8260-223379d75535
+lang: en
 permalink: /chimeraland/monsters/fortuphant.html
 photos:
-  - null
   - /chimeraland/monsters/fortuphant/Screenshot_2023-02-16-02-59-59-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/fortuphant/Screenshot_2023-02-16-03-00-04-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/fortuphant/Screenshot_2023-02-16-03-00-09-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +22,19 @@ photos:
   - /chimeraland/monsters/fortuphant/Screenshot_2023-02-16-03-00-19-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/fortuphant/Screenshot_2023-02-16-03-00-24-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/fortuphant/Screenshot_2023-02-16-03-00-29-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fortuphant
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fortuphant
+subtitle: "Monster Fortuphant Fortuphant Information from Chimeraland Fortuphant
+  default maximum attribute GRADE C RARE Attack 50 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fortuphant
+title: Monster Fortuphant
+type: post
+updated: 2023-08-08T14:44:43+07:00
+webtitle: chimeraland
+wordcount: 1130
 ---
 
 <link

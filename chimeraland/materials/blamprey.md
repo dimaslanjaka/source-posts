@@ -1,19 +1,31 @@
 ---
-title: Material Blamprey Chimeraland
-date: 2022-01-16T12:56:03+07:00
-updated: 2022-10-08T12:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/blamprey/blamprey.webp
+date: 2022-01-16T12:56:03+07:00
+description: "Material Blamprey Chimeraland materials Blamprey October 8, 2022
+  12:26 PM Continue reading Blamprey What is the use of the Blamprey "
+excerpt: "Material Blamprey Chimeraland materials Blamprey October 8, 2022 12:26
+  PM Continue reading Blamprey What is the use of the Blamprey "
+id: fc424a9f-c837-4888-8487-beab0c0642f0
+lang: en
 permalink: /chimeraland/materials/blamprey.html
 photos:
   - /chimeraland/materials/blamprey/blamprey.webp
-thumbnail: /chimeraland/materials/blamprey/blamprey.webp
+subtitle: "Material Blamprey Chimeraland materials Blamprey October 8, 2022
+  12:26 PM Continue reading Blamprey What is the use of the Blamprey "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/blamprey/blamprey.webp
+title: Material Blamprey Chimeraland
+type: post
+updated: 2023-08-08T14:45:00+07:00
+wordcount: 654
 ---
 
 <link

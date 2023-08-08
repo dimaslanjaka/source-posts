@@ -1,21 +1,33 @@
 ---
-title: Monster Gos-Sparromu
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T14:26:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gos-Sparromu
 date: 2023-05-25T02:21:12+07:00
+description: "Monster Gos-Sparromu Gos-Sparromu Information from Chimeraland
+  Gos-Sparromu default maximum attribute GRADE Attack "
+excerpt: "Monster Gos-Sparromu Gos-Sparromu Information from Chimeraland
+  Gos-Sparromu default maximum attribute GRADE Attack "
+id: ea6216cf-8154-4888-8ee2-670720fcbe01
+lang: en
 permalink: /chimeraland/monsters/gos-sparromu.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gos-Sparromu
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gos-Sparromu
+subtitle: "Monster Gos-Sparromu Gos-Sparromu Information from Chimeraland
+  Gos-Sparromu default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gos-Sparromu
+title: Monster Gos-Sparromu
+type: post
+updated: 2023-08-08T14:44:40+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

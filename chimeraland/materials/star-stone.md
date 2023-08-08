@@ -1,19 +1,31 @@
 ---
-title: Material Star Stone Chimeraland
-date: 2022-01-07T17:56:03+07:00
-updated: 2022-09-29T17:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/star-stone/star-stone.webp
+date: 2022-01-07T17:56:03+07:00
+description: "Material Star Stone Chimeraland materials Star Stone September 29,
+  2022 5:26 PM Continue reading Star Stone What is the use of the Star Stone "
+excerpt: "Material Star Stone Chimeraland materials Star Stone September 29,
+  2022 5:26 PM Continue reading Star Stone What is the use of the Star Stone "
+id: e204cf7b-506d-4888-88b4-cc9557c32257
+lang: en
 permalink: /chimeraland/materials/star-stone.html
 photos:
   - /chimeraland/materials/star-stone/star-stone.webp
-thumbnail: /chimeraland/materials/star-stone/star-stone.webp
+subtitle: "Material Star Stone Chimeraland materials Star Stone September 29,
+  2022 5:26 PM Continue reading Star Stone What is the use of the Star Stone "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/star-stone/star-stone.webp
+title: Material Star Stone Chimeraland
+type: post
+updated: 2023-08-08T14:44:49+07:00
+wordcount: 759
 ---
 
 <link

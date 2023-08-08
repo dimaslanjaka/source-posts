@@ -1,9 +1,19 @@
 ---
-title: Attendant shaman aquatine
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-11-26T07:35:17+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-09-47-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2022-11-26T07:24:17+07:00
+description: "Attendant shaman aquatine shaman aquatine Information from
+  Chimeraland shaman aquatine default maximum attribute GRADE N/A N/A Attack N/A
+  "
+excerpt: "Attendant shaman aquatine shaman aquatine Information from Chimeraland
+  shaman aquatine default maximum attribute GRADE N/A N/A Attack N/A "
+id: e400ed93-1cf6-4888-8e0e-199e145ca186
+lang: en
 permalink: /chimeraland/attendants/shaman-aquatine.html
 photos:
   - /chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-09-47-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,14 +23,18 @@ photos:
   - /chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-10-31-69_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-10-37-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-10-41-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-09-47-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant shaman aquatine shaman aquatine Information from
+  Chimeraland shaman aquatine default maximum attribute GRADE N/A N/A Attack N/A
+  "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-09-47-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant shaman aquatine
+type: post
+updated: 2023-08-08T14:45:03+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

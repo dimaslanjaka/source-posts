@@ -1,19 +1,34 @@
 ---
-title: Material Litiger Meat Chimeraland
-date: 2022-01-08T04:56:03+07:00
-updated: 2022-09-30T04:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/litiger-meat/litiger-meat.webp
+date: 2022-01-08T04:56:03+07:00
+description: "Material Litiger Meat Chimeraland materials Litiger Meat September
+  30, 2022 4:26 AM Continue reading Litiger Meat What is the use of the Litiger
+  Meat "
+excerpt: "Material Litiger Meat Chimeraland materials Litiger Meat September 30,
+  2022 4:26 AM Continue reading Litiger Meat What is the use of the Litiger Meat
+  "
+id: ee40df0d-92ae-4888-83cc-f24f3e6f10fb
+lang: en
 permalink: /chimeraland/materials/litiger-meat.html
 photos:
   - /chimeraland/materials/litiger-meat/litiger-meat.webp
-thumbnail: /chimeraland/materials/litiger-meat/litiger-meat.webp
+subtitle: "Material Litiger Meat Chimeraland materials Litiger Meat September
+  30, 2022 4:26 AM Continue reading Litiger Meat What is the use of the Litiger
+  Meat "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/litiger-meat/litiger-meat.webp
+title: Material Litiger Meat Chimeraland
+type: post
+updated: 2023-08-08T14:44:54+07:00
+wordcount: 633
 ---
 
 <link

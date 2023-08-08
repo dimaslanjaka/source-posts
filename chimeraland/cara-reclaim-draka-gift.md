@@ -1,11 +1,26 @@
 ---
-title: cara reclaim draka gift Chimeraland
-description: cara reclaim draka gift di game chimeraland
-thumbnail: https://user-images.githubusercontent.com/12471057/172972505-68674e18-9ef3-411b-b6ea-9149e32c6456.png
+author: Dimas Lanjaka
+categories:
+  - games
+  - chimeraland
+comments: true
+cover: https://user-images.githubusercontent.com/12471057/172972505-68674e18-9ef3-411b-b6ea-9149e32c6456.png
 date: 2022-06-10
-updated: 2023-03-06T16:20:40+07:00
-category: ['games', 'chimeraland']
-tags: ['chimeraland', 'Tips & Tricks']
+description: cara reclaim draka gift di game chimeraland
+excerpt: cara reclaim draka gift di game chimeraland
+id: 4fc9617f-9fb3-4888-8001-c56b61e61c39
+lang: en
+photos:
+  - https://user-images.githubusercontent.com/12471057/172972505-68674e18-9ef3-411b-b6ea-9149e32c6456.png
+subtitle: cara reclaim draka gift di game chimeraland
+tags:
+  - chimeraland
+  - tips & tricks
+thumbnail: https://user-images.githubusercontent.com/12471057/172972505-68674e18-9ef3-411b-b6ea-9149e32c6456.png
+title: cara reclaim draka gift Chimeraland
+type: post
+updated: 2023-08-08T14:44:20+07:00
+wordcount: 113
 ---
 
 ![image](https://user-images.githubusercontent.com/12471057/172972505-68674e18-9ef3-411b-b6ea-9149e32c6456.png)

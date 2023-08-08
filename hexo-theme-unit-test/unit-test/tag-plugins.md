@@ -1,7 +1,30 @@
-title: Tag Plugins
+---
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 date: 2013-12-25 00:14:39
+description: Tag Plugins This post is used for testing tag plugins. See docs for
+  more info. docs Block Quote Normal blockquote Praesent diam elit, interdum ut
+  pulvinar placerat, imperdiet at magna. Quote from a book blockquote David
+  Levithan, Wide Awake Do not just seek happiness for yourself. Seek happine
+excerpt: Tag Plugins This post is used for testing tag plugins. See docs for
+  more info. docs Block Quote Normal blockquote Praesent diam elit, interdum ut
+  pulvinar placerat, imperdiet at magna. Quote from a book blockquote David
+  Levithan, Wide Awake Do not just seek happiness for yourself. Seek happine
+id: 334f44c5-5397-4888-8e57-b1923da4a2ce
+lang: en
+photos: []
 robots: no-index
-tags:
+subtitle: Tag Plugins This post is used for testing tag plugins. See docs for
+  more info. docs Block Quote Normal blockquote Praesent diam elit, interdum ut
+  pulvinar placerat, imperdiet at magna. Quote from a book blockquote David
+  Levithan, Wide Awake Do not just seek happiness for yourself. Seek happine
+tags: []
+title: Tag Plugins
+type: post
+updated: 2023-08-08T14:44:21+07:00
+wordcount: 1386
 ---
 
 This post is used for testing tag plugins. See [docs](http://zespia.tw/hexo/docs/tag-plugins.html) for more info.

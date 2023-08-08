@@ -1,19 +1,34 @@
 ---
-title: Material Warcrab Meat Chimeraland
-date: 2022-01-08T00:56:03+07:00
-updated: 2022-09-30T00:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/warcrab-meat/warcrab-meat.webp
+date: 2022-01-08T00:56:03+07:00
+description: "Material Warcrab Meat Chimeraland materials Warcrab Meat September
+  30, 2022 12:26 AM Continue reading Warcrab Meat What is the use of the Warcrab
+  Meat "
+excerpt: "Material Warcrab Meat Chimeraland materials Warcrab Meat September 30,
+  2022 12:26 AM Continue reading Warcrab Meat What is the use of the Warcrab
+  Meat "
+id: cd78b5f4-0bb7-4888-8418-b5e863d14b02
+lang: en
 permalink: /chimeraland/materials/warcrab-meat.html
 photos:
   - /chimeraland/materials/warcrab-meat/warcrab-meat.webp
-thumbnail: /chimeraland/materials/warcrab-meat/warcrab-meat.webp
+subtitle: "Material Warcrab Meat Chimeraland materials Warcrab Meat September
+  30, 2022 12:26 AM Continue reading Warcrab Meat What is the use of the Warcrab
+  Meat "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/warcrab-meat/warcrab-meat.webp
+title: Material Warcrab Meat Chimeraland
+type: post
+updated: 2023-08-08T14:44:48+07:00
+wordcount: 633
 ---
 
 <link

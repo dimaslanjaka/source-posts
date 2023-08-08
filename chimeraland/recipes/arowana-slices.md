@@ -1,23 +1,34 @@
 ---
-title: Recipe Arowana Slices Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/arowana-slices/arowana-slices.webp
 date: 2022-01-06T21:56:03+07:00
+description: "Recipe Arowana Slices Chimeraland Arowana Slices Cooking Recipe
+  Buff Arowana Slices 540 Fullness Protect from Drowning recipe "
+excerpt: "Recipe Arowana Slices Chimeraland Arowana Slices Cooking Recipe Buff
+  Arowana Slices 540 Fullness Protect from Drowning recipe "
+id: 180560ac-a415-4888-85ab-33eadb08c84d
+lang: en
 permalink: /chimeraland/recipes/arowana-slices.html
 photos:
   - /chimeraland/recipes/arowana-slices/arowana-slices.webp
   - /chimeraland/recipes/arowana-slices/arowana-slices-name.webp
   - /chimeraland/recipes/arowana-slices/arowana-slices-icon.webp
   - /chimeraland/recipes/arowana-slices/arowana-slices-material.webp
-thumbnail: /chimeraland/recipes/arowana-slices/arowana-slices.webp
+subtitle: "Recipe Arowana Slices Chimeraland Arowana Slices Cooking Recipe Buff
+  Arowana Slices 540 Fullness Protect from Drowning recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/arowana-slices/arowana-slices.webp
+title: Recipe Arowana Slices Chimeraland
+type: post
+updated: 2023-08-08T14:44:30+07:00
+wordcount: 682
 ---
 
 <link

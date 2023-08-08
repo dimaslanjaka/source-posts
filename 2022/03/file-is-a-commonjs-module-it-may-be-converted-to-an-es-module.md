@@ -1,13 +1,30 @@
 ---
-title: disable vscode alert File is a CommonJS module; it may be converted to an ES module
-subtitle: disable vscode alert File is a CommonJS module; it may be converted to an ES module
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 cover: https://i.stack.imgur.com/Xo2sA.png
 date: 2022-03-26T04:27:16+0000
-updated: 2022-03-26T04:27:16+0000
+description: disable vscode alert File is a CommonJS module; it may be converted
+  to an ES module
+excerpt: disable vscode alert File is a CommonJS module; it may be converted to
+  an ES module
+id: 1d699a76-b023-4888-85f3-bd25b793aa3d
+lang: en
+photos:
+  - https://i.stack.imgur.com/Xo2sA.png
+subtitle: disable vscode alert File is a CommonJS module; it may be converted to
+  an ES module
 tags:
-  - TS
-  - JS
-  - IDE
+  - ts
+  - js
+  - ide
+thumbnail: https://i.stack.imgur.com/Xo2sA.png
+title: disable vscode alert File is a CommonJS module; it may be converted to an
+  ES module
+type: post
+updated: 2023-08-08T14:45:10+07:00
+wordcount: 348
 ---
 
 # File is a CommonJS module; it may be converted to an ES module

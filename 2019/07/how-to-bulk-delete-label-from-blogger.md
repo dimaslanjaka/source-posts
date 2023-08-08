@@ -3,21 +3,31 @@ author:
   nick: Dimas Lanjaka Kumala Indra
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
-category: []
+categories:
+  - uncategorized
 comments: true
 cover: https://3.bp.blogspot.com/-W6MUKBQWsys/XTTHZu4jWCI/AAAAAAAAAdI/kShJnPPkBgIWriKW2AAXvnH41q4-R2DhQCLcBGAs/s1600/Screenshot_4.png
 date: 2019-07-22T03:19:00.002+07:00
+description: Previous How to bulk add category label to blogger postsFilter and
+  Select category label you want to remove Select the post that will be
+excerpt: Previous How to bulk add category label to blogger postsFilter and
+  Select category label you want to remove Select the post that will be
+id: 4be0721c-7635-4888-8785-60b8a10c9021
 lang: en
+photos:
+  - https://3.bp.blogspot.com/-W6MUKBQWsys/XTTHZu4jWCI/AAAAAAAAAdI/kShJnPPkBgIWriKW2AAXvnH41q4-R2DhQCLcBGAs/s1600/Screenshot_4.png
 subtitle: Previous How to bulk add category label to blogger postsFilter and
   Select category label you want to remove Select the post that will be
 tags:
-  - Blogger
-  - Tips & Tricks
+  - blogger
+  - tips & tricks
+thumbnail: https://3.bp.blogspot.com/-W6MUKBQWsys/XTTHZu4jWCI/AAAAAAAAAdI/kShJnPPkBgIWriKW2AAXvnH41q4-R2DhQCLcBGAs/s1600/Screenshot_4.png
 title: How to bulk delete category label from blogger posts
 type: post
+updated: 2023-08-08T14:45:30+07:00
 uuid: 119c768f-b569-4888-847d-fa774501bbfb
 webtitle: Blogger
-updated: 2022-04-18T07:28:00+0700
+wordcount: 319
 ---
 
 _Previous: [How to bulk add category label to blogger posts](../../2019/07/how-to-bulk-add-posts-category-label.md)_

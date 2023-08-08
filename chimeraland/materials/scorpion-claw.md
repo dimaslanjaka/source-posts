@@ -1,19 +1,34 @@
 ---
-title: Material Scorpion Claw Chimeraland
-date: 2022-01-11T08:56:03+07:00
-updated: 2022-10-03T08:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/scorpion-claw/scorpion-claw.webp
+date: 2022-01-11T08:56:03+07:00
+description: Material Scorpion Claw Chimeraland materials Scorpion Claw October
+  3, 2022 8:26 AM Scorab pincer, serrated, firm and sharp. Continue reading
+  Scorpion Claw What is the us
+excerpt: Material Scorpion Claw Chimeraland materials Scorpion Claw October 3,
+  2022 8:26 AM Scorab pincer, serrated, firm and sharp. Continue reading
+  Scorpion Claw What is the us
+id: 67bfb16d-32ac-4888-83a0-28fd027979b9
+lang: en
 permalink: /chimeraland/materials/scorpion-claw.html
 photos:
   - /chimeraland/materials/scorpion-claw/scorpion-claw.webp
-thumbnail: /chimeraland/materials/scorpion-claw/scorpion-claw.webp
+subtitle: Material Scorpion Claw Chimeraland materials Scorpion Claw October 3,
+  2022 8:26 AM Scorab pincer, serrated, firm and sharp. Continue reading
+  Scorpion Claw What is the us
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/scorpion-claw/scorpion-claw.webp
+title: Material Scorpion Claw Chimeraland
+type: post
+updated: 2023-08-08T14:44:50+07:00
+wordcount: 967
 ---
 
 <link

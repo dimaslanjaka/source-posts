@@ -1,11 +1,38 @@
 ---
-title: HexoJS get posts by tags or categories
+author: Dimas Lanjaka
+categories:
+  - programming
+  - javascript
+comments: true
+cover: /NodeJS/assets/pngwing.com.png
 date: 2023-01-01T23:05:15+07:00
-updated: 2023-01-03T00:52:22+07:00
-tags: ['snippet','hexo']
-categories: ['programming', 'javascript']
-type: post
+description: HexoJS get posts by tags or categories @types/hexo required for
+  typescript users @types/hexo default @types/hexo not giving complete types, so
+  I made my custom definition file for hexo. You can install with below command
+  npm i -D https://github.com/dimaslanjaka/nodejs-package-types/tarball/hexo
+  Snip
+excerpt: HexoJS get posts by tags or categories @types/hexo required for
+  typescript users @types/hexo default @types/hexo not giving complete types, so
+  I made my custom definition file for hexo. You can install with below command
+  npm i -D https://github.com/dimaslanjaka/nodejs-package-types/tarball/hexo
+  Snip
+id: d540b2ea-1ef1-4888-8fe3-5a6b1808c34e
+lang: en
+photos:
+  - /NodeJS/assets/pngwing.com.png
+subtitle: HexoJS get posts by tags or categories @types/hexo required for
+  typescript users @types/hexo default @types/hexo not giving complete types, so
+  I made my custom definition file for hexo. You can install with below command
+  npm i -D https://github.com/dimaslanjaka/nodejs-package-types/tarball/hexo
+  Snip
+tags:
+  - snippet
+  - hexo
 thumbnail: /NodeJS/assets/pngwing.com.png
+title: HexoJS get posts by tags or categories
+type: post
+updated: 2023-08-08T14:44:21+07:00
+wordcount: 817
 ---
 
 ## `@types/hexo` required for typescript users

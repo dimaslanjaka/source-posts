@@ -1,10 +1,25 @@
 ---
-title: TypeScript equivalent .NET's System.Random
-description: A TypeScript port of .NET's System.Random
+author: Dimas Lanjaka
+categories:
+  - programming
+  - typescript
+  - net
+comments: true
 date: 2023-05-20T13:15:14+07:00
-updated: 2023-05-20T13:16:36+07:00
-tags: [random, snippet, script]
-category: [programming, typescript, NET]
+description: A TypeScript port of .NETs System.Random
+excerpt: A TypeScript port of .NETs System.Random
+id: 0de74f67-8545-4888-83f5-d603cbd8ac8d
+lang: en
+photos: []
+subtitle: A TypeScript port of .NETs System.Random
+tags:
+  - random
+  - snippet
+  - script
+title: TypeScript equivalent .NETs System.Random
+type: post
+updated: 2023-08-08T14:45:07+07:00
+wordcount: 1419
 ---
 
 ```ts

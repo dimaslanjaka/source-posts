@@ -1,9 +1,19 @@
 ---
-title: Attendant lunar immortia
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-23T11:14:26+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-10-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-05-23T11:03:26+07:00
+description: "Attendant lunar immortia lunar immortia Information from
+  Chimeraland lunar immortia default maximum attribute GRADE N/A N/A Attack N/A
+  "
+excerpt: "Attendant lunar immortia lunar immortia Information from Chimeraland
+  lunar immortia default maximum attribute GRADE N/A N/A Attack N/A "
+id: ee7b2fcc-6ac4-4888-86fe-e8eceabf4d2c
+lang: en
 permalink: /chimeraland/attendants/lunar-immortia.html
 photos:
   - /chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-10-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,14 +25,17 @@ photos:
   - /chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-37-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-50-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-10-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant lunar immortia lunar immortia Information from Chimeraland
+  lunar immortia default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/lunar-immortia/Screenshot_2023-05-21-23-29-10-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant lunar immortia
+type: post
+updated: 2023-08-08T14:45:06+07:00
+webtitle: chimeraland
+wordcount: 1318
 ---
 
 <link

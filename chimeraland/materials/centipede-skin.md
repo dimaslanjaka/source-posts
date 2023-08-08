@@ -1,19 +1,34 @@
 ---
-title: Material Centipede Skin Chimeraland
-date: 2022-01-10T06:56:03+07:00
-updated: 2022-10-02T06:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/centipede-skin/centipede-skin.webp
+date: 2022-01-10T06:56:03+07:00
+description: "Material Centipede Skin Chimeraland materials Centipede Skin
+  October 2, 2022 6:26 AM Continue reading Centipede Skin What is the use of the
+  Centipede Skin "
+excerpt: "Material Centipede Skin Chimeraland materials Centipede Skin October
+  2, 2022 6:26 AM Continue reading Centipede Skin What is the use of the
+  Centipede Skin "
+id: 5da34284-e804-4888-8461-e42e9e25f20a
+lang: en
 permalink: /chimeraland/materials/centipede-skin.html
 photos:
   - /chimeraland/materials/centipede-skin/centipede-skin.webp
-thumbnail: /chimeraland/materials/centipede-skin/centipede-skin.webp
+subtitle: "Material Centipede Skin Chimeraland materials Centipede Skin October
+  2, 2022 6:26 AM Continue reading Centipede Skin What is the use of the
+  Centipede Skin "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/centipede-skin/centipede-skin.webp
+title: Material Centipede Skin Chimeraland
+type: post
+updated: 2023-08-08T14:44:59+07:00
+wordcount: 1009
 ---
 
 <link

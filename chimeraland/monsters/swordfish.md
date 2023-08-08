@@ -1,12 +1,20 @@
 ---
-title: Monster swordfish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T09:16:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=swordfish
 date: 2023-03-28T11:59:08+07:00
+description: "Monster swordfish swordfish Information from Chimeraland swordfish
+  default maximum attribute GRADE Attack "
+excerpt: "Monster swordfish swordfish Information from Chimeraland swordfish
+  default maximum attribute GRADE Attack "
+id: 6b6b29ce-5cef-4888-8952-610cfd3a2228
+lang: en
 permalink: /chimeraland/monsters/swordfish.html
 photos:
-  - null
   - /chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-38-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-42-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-46-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +22,19 @@ photos:
   - /chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-14-56-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-15-00-47_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/swordfish/Screenshot_2023-03-25-12-15-04-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=swordfish
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=swordfish
+subtitle: "Monster swordfish swordfish Information from Chimeraland swordfish
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=swordfish
+title: Monster swordfish
+type: post
+updated: 2023-08-08T14:44:32+07:00
+webtitle: chimeraland
+wordcount: 1118
 ---
 
 <link

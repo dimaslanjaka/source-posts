@@ -1,21 +1,33 @@
 ---
-title: Monster Blueswirl Fish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T12:12:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Blueswirl Fish
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Blueswirl Fish Blueswirl Fish Information from Chimeraland
+  Blueswirl Fish default maximum attribute GRADE Attack "
+excerpt: "Monster Blueswirl Fish Blueswirl Fish Information from Chimeraland
+  Blueswirl Fish default maximum attribute GRADE Attack "
+id: 01b8f582-a099-4888-8134-366336bb64eb
+lang: en
 permalink: /chimeraland/monsters/blueswirl-fish.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Blueswirl Fish
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Blueswirl Fish
+subtitle: "Monster Blueswirl Fish Blueswirl Fish Information from Chimeraland
+  Blueswirl Fish default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Blueswirl Fish
+title: Monster Blueswirl Fish
+type: post
+updated: 2023-08-08T14:44:46+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

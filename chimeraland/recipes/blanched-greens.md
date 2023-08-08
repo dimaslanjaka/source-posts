@@ -1,23 +1,34 @@
 ---
-title: Recipe Blanched Greens Chimeraland
 author: L3n4r0x
-updated: 2022-09-29T03:26:37+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/blanched-greens/blanched-greens.webp
 date: 2022-01-07T11:56:03+07:00
+description: "Recipe Blanched Greens Chimeraland Blanched Greens Cooking Recipe
+  Buff Blanched Greens 660 Fullness 80 Armor Pierce recipe "
+excerpt: "Recipe Blanched Greens Chimeraland Blanched Greens Cooking Recipe Buff
+  Blanched Greens 660 Fullness 80 Armor Pierce recipe "
+id: 863512a8-779f-4888-888d-78741f5434f2
+lang: en
 permalink: /chimeraland/recipes/blanched-greens.html
 photos:
   - /chimeraland/recipes/blanched-greens/blanched-greens.webp
   - /chimeraland/recipes/blanched-greens/blanched-greens-name.webp
   - /chimeraland/recipes/blanched-greens/blanched-greens-icon.webp
   - /chimeraland/recipes/blanched-greens/blanched-greens-material.webp
-thumbnail: /chimeraland/recipes/blanched-greens/blanched-greens.webp
+subtitle: "Recipe Blanched Greens Chimeraland Blanched Greens Cooking Recipe
+  Buff Blanched Greens 660 Fullness 80 Armor Pierce recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/blanched-greens/blanched-greens.webp
+title: Recipe Blanched Greens Chimeraland
+type: post
+updated: 2023-08-08T14:44:30+07:00
+wordcount: 969
 ---
 
 <link

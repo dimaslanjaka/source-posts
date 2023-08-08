@@ -1,19 +1,34 @@
 ---
-title: Material Fortuphant Primal Spirit Chimeraland
-date: 2022-01-11T15:56:03+07:00
-updated: 2022-10-03T15:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/fortuphant-primal-spirit/fortuphant-primal-spirit.webp
+date: 2022-01-11T15:56:03+07:00
+description: Material Fortuphant Primal Spirit Chimeraland materials Fortuphant
+  Primal Spirit October 3, 2022 3:26 PM Continue reading Fortuphant Primal
+  Spirit What is the use of the Fortuphant P
+excerpt: Material Fortuphant Primal Spirit Chimeraland materials Fortuphant
+  Primal Spirit October 3, 2022 3:26 PM Continue reading Fortuphant Primal
+  Spirit What is the use of the Fortuphant P
+id: 53fea4fc-1c03-4888-8c83-e17a9c4df7ea
+lang: en
 permalink: /chimeraland/materials/fortuphant-primal-spirit.html
 photos:
   - /chimeraland/materials/fortuphant-primal-spirit/fortuphant-primal-spirit.webp
-thumbnail: /chimeraland/materials/fortuphant-primal-spirit/fortuphant-primal-spirit.webp
+subtitle: Material Fortuphant Primal Spirit Chimeraland materials Fortuphant
+  Primal Spirit October 3, 2022 3:26 PM Continue reading Fortuphant Primal
+  Spirit What is the use of the Fortuphant P
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/fortuphant-primal-spirit/fortuphant-primal-spirit.webp
+title: Material Fortuphant Primal Spirit Chimeraland
+type: post
+updated: 2023-08-08T14:44:56+07:00
+wordcount: 1461
 ---
 
 <link

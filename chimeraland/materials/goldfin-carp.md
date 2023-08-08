@@ -1,19 +1,37 @@
 ---
-title: Material Goldfin Carp Chimeraland
-date: 2022-01-16T06:56:03+07:00
-updated: 2022-10-08T06:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/goldfin-carp/goldfin-carp.webp
+date: 2022-01-16T06:56:03+07:00
+description: Material Goldfin Carp Chimeraland materials Goldfin Carp October 8,
+  2022 6:26 AM A freshwater fish with flattened body and rounded abdomen. It has
+  horseshoe-shaped mouth and two pair of feelers. The dorsal mouth and back fins
+  have tough serrated
+excerpt: Material Goldfin Carp Chimeraland materials Goldfin Carp October 8,
+  2022 6:26 AM A freshwater fish with flattened body and rounded abdomen. It has
+  horseshoe-shaped mouth and two pair of feelers. The dorsal mouth and back fins
+  have tough serrated
+id: 0bc771b1-2061-4888-8775-1f5f2b24022a
+lang: en
 permalink: /chimeraland/materials/goldfin-carp.html
 photos:
   - /chimeraland/materials/goldfin-carp/goldfin-carp.webp
-thumbnail: /chimeraland/materials/goldfin-carp/goldfin-carp.webp
+subtitle: Material Goldfin Carp Chimeraland materials Goldfin Carp October 8,
+  2022 6:26 AM A freshwater fish with flattened body and rounded abdomen. It has
+  horseshoe-shaped mouth and two pair of feelers. The dorsal mouth and back fins
+  have tough serrated
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/goldfin-carp/goldfin-carp.webp
+title: Material Goldfin Carp Chimeraland
+type: post
+updated: 2023-08-08T14:44:56+07:00
+wordcount: 954
 ---
 
 <link

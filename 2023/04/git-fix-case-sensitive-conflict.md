@@ -1,11 +1,27 @@
 ---
-title: git fix case-sensitive conflict
-description: How do I commit case-sensitive only filename changes in Git?
+author: Dimas Lanjaka
+categories:
+  - programming
+  - github
+  - bash
+comments: true
+cover: https://1.bp.blogspot.com/-qPtq_n0ithw/YPbCOjZsFyI/AAAAAAAAAhM/JfQ6R2yIcgYMlTZ9GhPaOgFEZ1rm0O0lACLcBGAsYHQ/s600/git-cli-commands.jpg
 date: 2023-04-07T18:53:16+07:00
-updated: 2023-04-07T18:57:25+07:00
-categories: [programming, github, bash]
-tags: [github, script]
+description: How do I commit case-sensitive only filename changes in Git?
+excerpt: How do I commit case-sensitive only filename changes in Git?
+id: 0a0e1f59-7e67-4888-8860-2b769218e52f
+lang: en
+photos:
+  - https://1.bp.blogspot.com/-qPtq_n0ithw/YPbCOjZsFyI/AAAAAAAAAhM/JfQ6R2yIcgYMlTZ9GhPaOgFEZ1rm0O0lACLcBGAsYHQ/s600/git-cli-commands.jpg
+subtitle: How do I commit case-sensitive only filename changes in Git?
+tags:
+  - github
+  - script
 thumbnail: https://1.bp.blogspot.com/-qPtq_n0ithw/YPbCOjZsFyI/AAAAAAAAAhM/JfQ6R2yIcgYMlTZ9GhPaOgFEZ1rm0O0lACLcBGAsYHQ/s600/git-cli-commands.jpg
+title: git fix case-sensitive conflict
+type: post
+updated: 2023-08-08T14:45:08+07:00
+wordcount: 427
 ---
 
 ## How do I commit case-sensitive filename changes in Git?

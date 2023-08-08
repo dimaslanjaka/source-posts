@@ -1,23 +1,34 @@
 ---
-title: Recipe Stuffed Eggs Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T16:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/stuffed-eggs/stuffed-eggs.webp
 date: 2022-01-12T16:56:03+07:00
+description: Recipe Stuffed Eggs Chimeraland Stuffed Eggs Cooking Recipe Buff
+  Stuffed Eggs 300 Fullness 30 CRIT recipe webmanajem
+excerpt: Recipe Stuffed Eggs Chimeraland Stuffed Eggs Cooking Recipe Buff
+  Stuffed Eggs 300 Fullness 30 CRIT recipe webmanajem
+id: 90897ccd-56f5-4888-877f-2850054930a5
+lang: en
 permalink: /chimeraland/recipes/stuffed-eggs.html
 photos:
   - /chimeraland/recipes/stuffed-eggs/stuffed-eggs.webp
   - /chimeraland/recipes/stuffed-eggs/stuffed-eggs-name.webp
   - /chimeraland/recipes/stuffed-eggs/stuffed-eggs-icon.webp
   - /chimeraland/recipes/stuffed-eggs/stuffed-eggs-material.webp
-thumbnail: /chimeraland/recipes/stuffed-eggs/stuffed-eggs.webp
+subtitle: Recipe Stuffed Eggs Chimeraland Stuffed Eggs Cooking Recipe Buff
+  Stuffed Eggs 300 Fullness 30 CRIT recipe webmanajem
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/stuffed-eggs/stuffed-eggs.webp
+title: Recipe Stuffed Eggs Chimeraland
+type: post
+updated: 2023-08-08T14:44:24+07:00
+wordcount: 682
 ---
 
 <link

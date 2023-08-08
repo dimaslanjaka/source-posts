@@ -1,9 +1,18 @@
 ---
-title: Attendant vuloberg
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-17T01:53:20+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-29-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-17T01:42:20+07:00
+description: "Attendant vuloberg vuloberg Information from Chimeraland vuloberg
+  default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Attendant vuloberg vuloberg Information from Chimeraland vuloberg
+  default maximum attribute GRADE N/A N/A Attack N/A "
+id: 2d3be689-0999-4888-8410-bea411d20c33
+lang: en
 permalink: /chimeraland/attendants/vuloberg.html
 photos:
   - /chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-29-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,14 +22,17 @@ photos:
   - /chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-53-14_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-59-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-29-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant vuloberg vuloberg Information from Chimeraland vuloberg
+  default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-29-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant vuloberg
+type: post
+updated: 2023-08-08T14:45:01+07:00
+webtitle: chimeraland
+wordcount: 1059
 ---
 
 <link

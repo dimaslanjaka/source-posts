@@ -1,19 +1,34 @@
 ---
-title: Material Beetlefly Wing Chimeraland
-date: 2022-01-10T20:56:03+07:00
-updated: 2022-10-02T20:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/beetlefly-wing/beetlefly-wing.webp
+date: 2022-01-10T20:56:03+07:00
+description: "Material Beetlefly Wing Chimeraland materials Beetlefly Wing
+  October 2, 2022 8:26 PM Beetlefly wing, hold to see far. Continue reading
+  Beetlefly Wing What is the use of the Beetlefly Wing "
+excerpt: "Material Beetlefly Wing Chimeraland materials Beetlefly Wing October
+  2, 2022 8:26 PM Beetlefly wing, hold to see far. Continue reading Beetlefly
+  Wing What is the use of the Beetlefly Wing "
+id: f419b3ef-8053-4888-8c27-2649e8abfb6d
+lang: en
 permalink: /chimeraland/materials/beetlefly-wing.html
 photos:
   - /chimeraland/materials/beetlefly-wing/beetlefly-wing.webp
-thumbnail: /chimeraland/materials/beetlefly-wing/beetlefly-wing.webp
+subtitle: "Material Beetlefly Wing Chimeraland materials Beetlefly Wing October
+  2, 2022 8:26 PM Beetlefly wing, hold to see far. Continue reading Beetlefly
+  Wing What is the use of the Beetlefly Wing "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/beetlefly-wing/beetlefly-wing.webp
+title: Material Beetlefly Wing Chimeraland
+type: post
+updated: 2023-08-08T14:45:00+07:00
+wordcount: 909
 ---
 
 <link

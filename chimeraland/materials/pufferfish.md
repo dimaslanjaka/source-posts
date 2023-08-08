@@ -1,19 +1,37 @@
 ---
-title: Material Pufferfish Chimeraland
-date: 2022-01-14T16:56:03+07:00
-updated: 2022-10-06T16:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/pufferfish/pufferfish.webp
+date: 2022-01-14T16:56:03+07:00
+description: Material Pufferfish Chimeraland materials Pufferfish October 6,
+  2022 4:26 PM A marine fish with a round body, flat head, and tapered tail. It
+  has a pale black back with thick black markings, and a white belly with no
+  scales. Often found nearby E
+excerpt: Material Pufferfish Chimeraland materials Pufferfish October 6, 2022
+  4:26 PM A marine fish with a round body, flat head, and tapered tail. It has a
+  pale black back with thick black markings, and a white belly with no scales.
+  Often found nearby E
+id: 84d1f7c0-3181-4888-8e49-ead6d9cd1588
+lang: en
 permalink: /chimeraland/materials/pufferfish.html
 photos:
   - /chimeraland/materials/pufferfish/pufferfish.webp
-thumbnail: /chimeraland/materials/pufferfish/pufferfish.webp
+subtitle: Material Pufferfish Chimeraland materials Pufferfish October 6, 2022
+  4:26 PM A marine fish with a round body, flat head, and tapered tail. It has a
+  pale black back with thick black markings, and a white belly with no scales.
+  Often found nearby E
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/pufferfish/pufferfish.webp
+title: Material Pufferfish Chimeraland
+type: post
+updated: 2023-08-08T14:44:51+07:00
+wordcount: 872
 ---
 
 <link

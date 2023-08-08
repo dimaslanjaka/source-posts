@@ -1,10 +1,36 @@
 ---
-title: get list of files from npm pack
+author: Dimas Lanjaka
+categories:
+  - programming
+  - javascript
+comments: true
+cover: /NodeJS/assets/pngwing.com.png
 date: 2023-01-10T23:27:03+07:00
-updated: 2023-01-10T23:27:03+07:00
-tags: ['snippet', 'javascript', 'npm']
-categories: ['programming', 'javascript']
+description: get list of files from npm pack npm i git-command-helper //const
+  writeFileSync = requirefs;const spawnAsync =
+  requiregit-command-helper/dist/spawn;//const join = requirepath;spawnAsyncnpm,
+  [pack, --json, --dry-run].thenresult => const parse = JSON.parser
+excerpt: get list of files from npm pack npm i git-command-helper //const
+  writeFileSync = requirefs;const spawnAsync =
+  requiregit-command-helper/dist/spawn;//const join = requirepath;spawnAsyncnpm,
+  [pack, --json, --dry-run].thenresult => const parse = JSON.parser
+id: fe7fc946-6cab-4888-83b7-83578167a442
+lang: en
+photos:
+  - /NodeJS/assets/pngwing.com.png
+subtitle: get list of files from npm pack npm i git-command-helper //const
+  writeFileSync = requirefs;const spawnAsync =
+  requiregit-command-helper/dist/spawn;//const join = requirepath;spawnAsyncnpm,
+  [pack, --json, --dry-run].thenresult => const parse = JSON.parser
+tags:
+  - snippet
+  - javascript
+  - npm
 thumbnail: /NodeJS/assets/pngwing.com.png
+title: get list of files from npm pack
+type: post
+updated: 2023-08-08T14:44:21+07:00
+wordcount: 204
 ---
 
 ```bash

@@ -1,19 +1,37 @@
 ---
-title: Material Viperfish Chimeraland
-date: 2022-01-17T08:56:03+07:00
-updated: 2022-10-09T08:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/viperfish/viperfish.webp
+date: 2022-01-17T08:56:03+07:00
+description: Material Viperfish Chimeraland materials Viperfish October 9, 2022
+  8:26 AM A deep-sea fish, small, with luminous parts. It has large and
+  prominent teeth like a python and is ugly. Sealand Sea area is where it may be
+  found. Conti
+excerpt: Material Viperfish Chimeraland materials Viperfish October 9, 2022 8:26
+  AM A deep-sea fish, small, with luminous parts. It has large and prominent
+  teeth like a python and is ugly. Sealand Sea area is where it may be found.
+  Conti
+id: 2938fa49-90de-4888-83c1-be03ad5b5384
+lang: en
 permalink: /chimeraland/materials/viperfish.html
 photos:
   - /chimeraland/materials/viperfish/viperfish.webp
-thumbnail: /chimeraland/materials/viperfish/viperfish.webp
+subtitle: Material Viperfish Chimeraland materials Viperfish October 9, 2022
+  8:26 AM A deep-sea fish, small, with luminous parts. It has large and
+  prominent teeth like a python and is ugly. Sealand Sea area is where it may be
+  found. Conti
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/viperfish/viperfish.webp
+title: Material Viperfish Chimeraland
+type: post
+updated: 2023-08-08T14:44:48+07:00
+wordcount: 1167
 ---
 
 <link
