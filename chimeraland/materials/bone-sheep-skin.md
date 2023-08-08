@@ -1,19 +1,34 @@
 ---
-title: Material Bone Sheep Skin Chimeraland
-date: 2022-01-09T16:56:03+07:00
-updated: 2022-10-01T16:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/bone-sheep-skin/bone-sheep-skin.webp
+date: 2022-01-09T16:56:03+07:00
+description: "Material Bone Sheep Skin Chimeraland materials Bone Sheep Skin
+  October 1, 2022 4:26 PM Continue reading Bone Sheep Skin What is the use of
+  the Bone Sheep Skin "
+excerpt: "Material Bone Sheep Skin Chimeraland materials Bone Sheep Skin October
+  1, 2022 4:26 PM Continue reading Bone Sheep Skin What is the use of the Bone
+  Sheep Skin "
+id: 91ce1203-90a9-4888-8d9e-17ab4a8d3cd5
+lang: en
 permalink: /chimeraland/materials/bone-sheep-skin.html
 photos:
   - /chimeraland/materials/bone-sheep-skin/bone-sheep-skin.webp
-thumbnail: /chimeraland/materials/bone-sheep-skin/bone-sheep-skin.webp
+subtitle: "Material Bone Sheep Skin Chimeraland materials Bone Sheep Skin
+  October 1, 2022 4:26 PM Continue reading Bone Sheep Skin What is the use of
+  the Bone Sheep Skin "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/bone-sheep-skin/bone-sheep-skin.webp
+title: Material Bone Sheep Skin Chimeraland
+type: post
+updated: 2022-10-01T16:26:37+07:00
+wordcount: 1088
 ---
 
 <link

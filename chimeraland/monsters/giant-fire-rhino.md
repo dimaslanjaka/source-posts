@@ -1,9 +1,19 @@
 ---
-title: Monster giant fire rhino
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-25T07:55:43+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/giant-fire-rhino/Screenshot_2023-02-18-23-38-24-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-25T07:44:43+07:00
+description: "Monster giant fire rhino giant fire rhino Information from
+  Chimeraland giant fire rhino default maximum attribute GRADE N/A N/A Attack
+  N/A "
+excerpt: "Monster giant fire rhino giant fire rhino Information from Chimeraland
+  giant fire rhino default maximum attribute GRADE N/A N/A Attack N/A "
+id: 2174f078-3896-4888-8b60-2e952675d3ef
+lang: en
 permalink: /chimeraland/monsters/giant-fire-rhino.html
 photos:
   - /chimeraland/monsters/giant-fire-rhino/Screenshot_2023-02-18-23-38-24-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +23,19 @@ photos:
   - /chimeraland/monsters/giant-fire-rhino/Screenshot_2023-02-18-23-38-42-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-fire-rhino/Screenshot_2023-02-18-23-38-48-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-fire-rhino/Screenshot_2023-02-18-23-38-54-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-fire-rhino/Screenshot_2023-02-18-23-38-24-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant fire rhino giant fire rhino Information from
+  Chimeraland giant fire rhino default maximum attribute GRADE N/A N/A Attack
+  N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-fire-rhino/Screenshot_2023-02-18-23-38-24-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant fire rhino
+type: post
+updated: 2023-02-25T07:55:43+07:00
+webtitle: chimeraland
+wordcount: 1253
 ---
 
 <link

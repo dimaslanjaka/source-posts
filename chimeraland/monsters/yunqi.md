@@ -1,9 +1,18 @@
 ---
-title: Monster yunqi
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-13T13:42:22+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-15-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-13T13:31:22+07:00
+description: "Monster yunqi yunqi Information from Chimeraland yunqi default
+  maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Monster yunqi yunqi Information from Chimeraland yunqi default maximum
+  attribute GRADE N/A N/A Attack N/A "
+id: 815bd4a0-f4e1-4888-8a2b-c973aad518b6
+lang: en
 permalink: /chimeraland/monsters/yunqi.html
 photos:
   - /chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-15-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,15 +21,18 @@ photos:
   - /chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-29-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-42-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-15-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster yunqi yunqi Information from Chimeraland yunqi default
+  maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-15-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster yunqi
+type: post
+updated: 2023-02-13T13:42:22+07:00
+webtitle: chimeraland
+wordcount: 988
 ---
 
 <link

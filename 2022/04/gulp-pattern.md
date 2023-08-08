@@ -1,9 +1,21 @@
 ---
-title: gulp src pattern
-webtitle: NodeJS
-subtitle: macam-macam source pattern pada gulp
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 date: 2022-04-01T17:34:31+0000
+description: macam-macam source pattern pada gulp
+excerpt: macam-macam source pattern pada gulp
+id: 32de1d5f-52a5-4888-88e6-0ef31c247e82
+lang: en
+photos: []
+subtitle: macam-macam source pattern pada gulp
+tags: []
+title: gulp src pattern
+type: post
 updated: 2022-04-01T17:34:31+0000
+webtitle: NodeJS
+wordcount: 238
 ---
 
 <!--https://www.google.com/search?client=firefox-b-d&q=gulp+pattern+exclude+all+in+subfolder-->

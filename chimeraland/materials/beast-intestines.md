@@ -1,19 +1,34 @@
 ---
-title: Material Beast Intestines Chimeraland
-date: 2022-01-08T20:56:03+07:00
-updated: 2022-09-30T20:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/beast-intestines/beast-intestines.webp
+date: 2022-01-08T20:56:03+07:00
+description: "Material Beast Intestines Chimeraland materials Beast Intestines
+  September 30, 2022 8:26 PM Continue reading Beast Intestines What is the use
+  of the Beast Intestines "
+excerpt: "Material Beast Intestines Chimeraland materials Beast Intestines
+  September 30, 2022 8:26 PM Continue reading Beast Intestines What is the use
+  of the Beast Intestines "
+id: aa9e0aa5-f3e7-4888-8917-e25939f27391
+lang: en
 permalink: /chimeraland/materials/beast-intestines.html
 photos:
   - /chimeraland/materials/beast-intestines/beast-intestines.webp
-thumbnail: /chimeraland/materials/beast-intestines/beast-intestines.webp
+subtitle: "Material Beast Intestines Chimeraland materials Beast Intestines
+  September 30, 2022 8:26 PM Continue reading Beast Intestines What is the use
+  of the Beast Intestines "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/beast-intestines/beast-intestines.webp
+title: Material Beast Intestines Chimeraland
+type: post
+updated: 2022-09-30T20:26:37+07:00
+wordcount: 1909
 ---
 
 <link

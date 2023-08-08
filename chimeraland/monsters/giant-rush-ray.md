@@ -1,9 +1,18 @@
 ---
-title: Monster giant rush ray
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-25T14:55:43+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-02-29-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-25T14:44:43+07:00
+description: "Monster giant rush ray giant rush ray Information from Chimeraland
+  giant rush ray default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Monster giant rush ray giant rush ray Information from Chimeraland
+  giant rush ray default maximum attribute GRADE N/A N/A Attack N/A "
+id: 587e5928-b989-4888-8d90-fab54352baef
+lang: en
 permalink: /chimeraland/monsters/giant-rush-ray.html
 photos:
   - /chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-02-29-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -16,15 +25,18 @@ photos:
   - /chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-03-02-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-03-08-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-03-13-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-02-29-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant rush ray giant rush ray Information from Chimeraland
+  giant rush ray default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-rush-ray/Screenshot_2023-02-23-11-02-29-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant rush ray
+type: post
+updated: 2023-02-25T14:55:43+07:00
+webtitle: chimeraland
+wordcount: 1526
 ---
 
 <link

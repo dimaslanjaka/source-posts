@@ -1,19 +1,31 @@
 ---
-title: Material Turnip Chimeraland
-date: 2022-01-12T21:56:03+07:00
-updated: 2022-10-04T21:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/turnip/turnip.webp
+date: 2022-01-12T21:56:03+07:00
+description: "Material Turnip Chimeraland materials Turnip October 4, 2022 9:26
+  PM Continue reading Turnip What is the use of the Turnip "
+excerpt: "Material Turnip Chimeraland materials Turnip October 4, 2022 9:26 PM
+  Continue reading Turnip What is the use of the Turnip "
+id: 7f4f4d2b-a021-4888-8ac5-959392b0b64e
+lang: en
 permalink: /chimeraland/materials/turnip.html
 photos:
   - /chimeraland/materials/turnip/turnip.webp
-thumbnail: /chimeraland/materials/turnip/turnip.webp
+subtitle: "Material Turnip Chimeraland materials Turnip October 4, 2022 9:26 PM
+  Continue reading Turnip What is the use of the Turnip "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/turnip/turnip.webp
+title: Material Turnip Chimeraland
+type: post
+updated: 2022-10-04T21:26:37+07:00
+wordcount: 511
 ---
 
 <link

@@ -1,19 +1,37 @@
 ---
-title: Material Frost Silver Carp Chimeraland
-date: 2022-01-15T10:56:03+07:00
-updated: 2022-10-07T10:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/frost-silver-carp/frost-silver-carp.webp
+date: 2022-01-15T10:56:03+07:00
+description: Material Frost Silver Carp Chimeraland materials Frost Silver Carp
+  October 7, 2022 10:26 AM A freshwater fish with a tall and flat body, small in
+  size. It has a dull-colored black and ligh-colored, almost white belly. Often
+  seen around Eastmount
+excerpt: Material Frost Silver Carp Chimeraland materials Frost Silver Carp
+  October 7, 2022 10:26 AM A freshwater fish with a tall and flat body, small in
+  size. It has a dull-colored black and ligh-colored, almost white belly. Often
+  seen around Eastmount
+id: 5740e732-c023-4888-8043-dddfb0036c3e
+lang: en
 permalink: /chimeraland/materials/frost-silver-carp.html
 photos:
   - /chimeraland/materials/frost-silver-carp/frost-silver-carp.webp
-thumbnail: /chimeraland/materials/frost-silver-carp/frost-silver-carp.webp
+subtitle: Material Frost Silver Carp Chimeraland materials Frost Silver Carp
+  October 7, 2022 10:26 AM A freshwater fish with a tall and flat body, small in
+  size. It has a dull-colored black and ligh-colored, almost white belly. Often
+  seen around Eastmount
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/frost-silver-carp/frost-silver-carp.webp
+title: Material Frost Silver Carp Chimeraland
+type: post
+updated: 2022-10-07T10:26:37+07:00
+wordcount: 926
 ---
 
 <link

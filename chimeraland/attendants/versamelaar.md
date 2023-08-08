@@ -1,9 +1,18 @@
 ---
-title: Attendant Versamelaar
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-29T17:26:37+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/versamelaar/Screenshot_2022-07-17-22-37-52-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2022-01-07T22:56:03+07:00
+description: "Attendant Versamelaar Versamelaar Information from Chimeraland
+  Versamelaar default maximum attribute GRADE Attack "
+excerpt: "Attendant Versamelaar Versamelaar Information from Chimeraland
+  Versamelaar default maximum attribute GRADE Attack "
+id: 14edd2d8-c247-4888-8ec9-fcb949be0c5d
+lang: en
 permalink: /chimeraland/attendants/versamelaar.html
 photos:
   - /chimeraland/attendants/versamelaar/Screenshot_2022-07-17-22-37-52-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,14 +21,17 @@ photos:
   - /chimeraland/attendants/versamelaar/Screenshot_2022-07-17-22-38-03-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/versamelaar/Screenshot_2022-07-17-22-38-07-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/versamelaar/Screenshot_2022-07-17-22-38-12-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/versamelaar/Screenshot_2022-07-17-22-37-52-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant Versamelaar Versamelaar Information from Chimeraland
+  Versamelaar default maximum attribute GRADE Attack "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/versamelaar/Screenshot_2022-07-17-22-37-52-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant Versamelaar
+type: post
+updated: 2022-09-29T17:26:37+07:00
+webtitle: chimeraland
+wordcount: 976
 ---
 
 <link

@@ -1,19 +1,34 @@
 ---
-title: Material 30 Catties of Logs Chimeraland
-date: 2022-01-14T09:56:03+07:00
-updated: 2022-10-06T09:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/30-catties-of-logs/30-catties-of-logs.webp
+date: 2022-01-14T09:56:03+07:00
+description: "Material 30 Catties of Logs Chimeraland materials 30 Catties of
+  Logs October 6, 2022 9:26 AM Just a small chunk of this divine trees wood can
+  weigh over 30 pounds. Continue reading 30 Catties of Logs "
+excerpt: "Material 30 Catties of Logs Chimeraland materials 30 Catties of Logs
+  October 6, 2022 9:26 AM Just a small chunk of this divine trees wood can weigh
+  over 30 pounds. Continue reading 30 Catties of Logs "
+id: c1564b0a-6afb-4888-87b0-fa8abbe9dd3b
+lang: en
 permalink: /chimeraland/materials/30-catties-of-logs.html
 photos:
   - /chimeraland/materials/30-catties-of-logs/30-catties-of-logs.webp
-thumbnail: /chimeraland/materials/30-catties-of-logs/30-catties-of-logs.webp
+subtitle: "Material 30 Catties of Logs Chimeraland materials 30 Catties of Logs
+  October 6, 2022 9:26 AM Just a small chunk of this divine trees wood can weigh
+  over 30 pounds. Continue reading 30 Catties of Logs "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/30-catties-of-logs/30-catties-of-logs.webp
+title: Material 30 Catties of Logs Chimeraland
+type: post
+updated: 2022-10-06T09:26:37+07:00
+wordcount: 1079
 ---
 
 <link

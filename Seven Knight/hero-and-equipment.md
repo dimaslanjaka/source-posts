@@ -2,12 +2,15 @@
 author:
   nick: Dimas Lanjaka
   link: https://github.com/dimaslanjaka
-category:
-  - Games
-  - Seven Knight
+categories:
+  - games
+  - seven knight
 comments: true
 cover: https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021111001_cover.jpg
 date: 2021-12-03T18:00:00+07:00
+description: Seven Knights 2 Hero Usage and Equipment Guide
+excerpt: Seven Knights 2 Hero Usage and Equipment Guide
+id: c49cfc4a-d91b-4888-8c78-1f1f111e778c
 keywords:
   - Seven Knight
   - Guide
@@ -15,18 +18,18 @@ keywords:
   - Equipment
 lang: en
 location: Indonesia
-subtitle: Seven Knights 2 Hero Usage and Equipment Guide
-tags:
-  - Games
-title: Hero Usage and Equipment Guide
-type: post
-uuid: c49cfc4a-d91b-4888-8c78-1f1f111e778c
-webtitle: Seven Knights 2
-updated: 2021-12-03T19:06:19+07:00
-thumbnail: https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021111001_cover.jpg
 photos:
   - https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021111001_cover.jpg
-description: Seven Knights 2 Hero Usage and Equipment Guide
+subtitle: Seven Knights 2 Hero Usage and Equipment Guide
+tags:
+  - games
+thumbnail: https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021111001_cover.jpg
+title: Hero Usage and Equipment Guide
+type: post
+updated: 2021-12-03T19:06:19+07:00
+uuid: c49cfc4a-d91b-4888-8c78-1f1f111e778c
+webtitle: Seven Knights 2
+wordcount: 4915
 ---
 
 <p>

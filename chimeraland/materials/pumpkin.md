@@ -1,19 +1,31 @@
 ---
-title: Material Pumpkin Chimeraland
-date: 2022-01-12T08:56:03+07:00
-updated: 2022-10-04T08:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/pumpkin/pumpkin.webp
+date: 2022-01-12T08:56:03+07:00
+description: "Material Pumpkin Chimeraland materials Pumpkin October 4, 2022
+  8:26 AM Continue reading Pumpkin What is the use of the Pumpkin "
+excerpt: "Material Pumpkin Chimeraland materials Pumpkin October 4, 2022 8:26 AM
+  Continue reading Pumpkin What is the use of the Pumpkin "
+id: 9749a089-26ea-4888-8479-23de85ea0cba
+lang: en
 permalink: /chimeraland/materials/pumpkin.html
 photos:
   - /chimeraland/materials/pumpkin/pumpkin.webp
-thumbnail: /chimeraland/materials/pumpkin/pumpkin.webp
+subtitle: "Material Pumpkin Chimeraland materials Pumpkin October 4, 2022 8:26
+  AM Continue reading Pumpkin What is the use of the Pumpkin "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/pumpkin/pumpkin.webp
+title: Material Pumpkin Chimeraland
+type: post
+updated: 2022-10-04T08:26:37+07:00
+wordcount: 2338
 ---
 
 <link

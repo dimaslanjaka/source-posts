@@ -1,23 +1,34 @@
 ---
-title: Recipe Stir-Fried Browtelope Chimeraland
 author: L3n4r0x
-updated: 2022-09-30T07:26:37+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stir-Fried Browtelope
 date: 2022-01-13T19:56:03+07:00
+description: "Recipe Stir-Fried Browtelope Chimeraland Stir-Fried Browtelope
+  Cooking Recipe Buff Stir-Fried Browtelope Buff Stir-Fried Browtelope not yet
+  written recipe "
+excerpt: "Recipe Stir-Fried Browtelope Chimeraland Stir-Fried Browtelope Cooking
+  Recipe Buff Stir-Fried Browtelope Buff Stir-Fried Browtelope not yet written
+  recipe "
+id: ce5594ad-0e75-4888-82a0-d12b6b7dba6a
+lang: en
 permalink: /chimeraland/recipes/stir-fried-browtelope.html
 photos:
-  - null
-  - null
-  - null
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stir-Fried Browtelope
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stir-Fried Browtelope
+subtitle: "Recipe Stir-Fried Browtelope Chimeraland Stir-Fried Browtelope
+  Cooking Recipe Buff Stir-Fried Browtelope Buff Stir-Fried Browtelope not yet
+  written recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stir-Fried Browtelope
+title: Recipe Stir-Fried Browtelope Chimeraland
+type: post
+updated: 2022-09-30T07:26:37+07:00
+wordcount: 896
 ---
 
 <link

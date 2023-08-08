@@ -1,19 +1,37 @@
 ---
-title: Material Muddled Catfish Chimeraland
-date: 2022-01-17T03:56:03+07:00
-updated: 2022-10-09T03:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/muddled-catfish/muddled-catfish.webp
+date: 2022-01-17T03:56:03+07:00
+description: "Material Muddled Catfish Chimeraland materials Muddled Catfish
+  October 9, 2022 3:26 AM A freshwater fish with a brownish body. It Swims with
+  its belly facing up. The upper part of its body lighter than its lower part so
+  that it can hide easily. "
+excerpt: "Material Muddled Catfish Chimeraland materials Muddled Catfish October
+  9, 2022 3:26 AM A freshwater fish with a brownish body. It Swims with its
+  belly facing up. The upper part of its body lighter than its lower part so
+  that it can hide easily. "
+id: e3e4532a-067f-4888-8cc1-a194e936fd3e
+lang: en
 permalink: /chimeraland/materials/muddled-catfish.html
 photos:
   - /chimeraland/materials/muddled-catfish/muddled-catfish.webp
-thumbnail: /chimeraland/materials/muddled-catfish/muddled-catfish.webp
+subtitle: "Material Muddled Catfish Chimeraland materials Muddled Catfish
+  October 9, 2022 3:26 AM A freshwater fish with a brownish body. It Swims with
+  its belly facing up. The upper part of its body lighter than its lower part so
+  that it can hide easily. "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/muddled-catfish/muddled-catfish.webp
+title: Material Muddled Catfish Chimeraland
+type: post
+updated: 2022-10-09T03:26:37+07:00
+wordcount: 1070
 ---
 
 <link

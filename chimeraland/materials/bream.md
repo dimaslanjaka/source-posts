@@ -1,19 +1,34 @@
 ---
-title: Material Bream Chimeraland
-date: 2022-01-17T04:56:03+07:00
-updated: 2022-10-09T04:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/bream/bream.webp
+date: 2022-01-17T04:56:03+07:00
+description: "Material Bream Chimeraland materials Bream October 9, 2022 4:26 AM
+  A freshwater fish that is small, with a blue body and fierce temperament. It
+  feeds on shellfish and has astonishing bite power. Continue reading Bream "
+excerpt: "Material Bream Chimeraland materials Bream October 9, 2022 4:26 AM A
+  freshwater fish that is small, with a blue body and fierce temperament. It
+  feeds on shellfish and has astonishing bite power. Continue reading Bream "
+id: 647ecfc0-6064-4888-8289-ecd632914297
+lang: en
 permalink: /chimeraland/materials/bream.html
 photos:
   - /chimeraland/materials/bream/bream.webp
-thumbnail: /chimeraland/materials/bream/bream.webp
+subtitle: "Material Bream Chimeraland materials Bream October 9, 2022 4:26 AM A
+  freshwater fish that is small, with a blue body and fierce temperament. It
+  feeds on shellfish and has astonishing bite power. Continue reading Bream "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/bream/bream.webp
+title: Material Bream Chimeraland
+type: post
+updated: 2022-10-09T04:26:37+07:00
+wordcount: 810
 ---
 
 <link

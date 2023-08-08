@@ -1,21 +1,33 @@
 ---
-title: Monster Jird
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T16:20:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Jird
 date: 2023-05-25T00:40:10+07:00
+description: Monster Jird Jird Information from Chimeraland Jird default maximum
+  attribute GRADE Attack Hea
+excerpt: Monster Jird Jird Information from Chimeraland Jird default maximum
+  attribute GRADE Attack Hea
+id: 08a1eedc-00a6-4888-8450-e54f1954d10d
+lang: en
 permalink: /chimeraland/monsters/jird.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Jird
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Jird
+subtitle: Monster Jird Jird Information from Chimeraland Jird default maximum
+  attribute GRADE Attack Hea
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Jird
+title: Monster Jird
+type: post
+updated: 2023-05-25T16:20:12+07:00
+webtitle: chimeraland
+wordcount: 603
 ---
 
 <link

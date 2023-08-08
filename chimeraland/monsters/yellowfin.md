@@ -1,21 +1,33 @@
 ---
-title: Monster Yellowfin
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T15:08:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Yellowfin
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Yellowfin Yellowfin Information from Chimeraland Yellowfin
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Yellowfin Yellowfin Information from Chimeraland Yellowfin
+  default maximum attribute GRADE Attack "
+id: 00e41d8a-8dcd-4888-83b6-0ae24901718e
+lang: en
 permalink: /chimeraland/monsters/yellowfin.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Yellowfin
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Yellowfin
+subtitle: "Monster Yellowfin Yellowfin Information from Chimeraland Yellowfin
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Yellowfin
+title: Monster Yellowfin
+type: post
+updated: 2023-05-25T15:08:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

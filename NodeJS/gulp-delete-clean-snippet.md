@@ -1,15 +1,40 @@
 ---
-title: How to delete files with gulp without any plugin
+author: Dimas Lanjaka
+categories:
+  - programming
+  - js
+comments: true
+cover: https://opengraph.githubassets.com/d5c0c03975090ca4fdc9426231dd22310716b7d817cb6de10306acc7399a583c/sindresorhus/del/issues/42
 date: 2022-10-15T14:00:08+07:00
-updated: 2022-10-15T16:40:13+07:00
-thumbnail: https://opengraph.githubassets.com/d5c0c03975090ca4fdc9426231dd22310716b7d817cb6de10306acc7399a583c/sindresorhus/del/issues/42
-tags: ['snippets', 'JS']
-category: ['Programming','JS']
+description: How to delete files with gulp without any plugin del is now only
+  used for ESM del Issues about del and gulp Issue42 Issue42 Variables fs-extra
+  better than fs for supressing useless errors fs-extra fs const rmSync,
+  rmdirSync, existsSync = requirefsconst join = requirepathconst gul
+excerpt: How to delete files with gulp without any plugin del is now only used
+  for ESM del Issues about del and gulp Issue42 Issue42 Variables fs-extra
+  better than fs for supressing useless errors fs-extra fs const rmSync,
+  rmdirSync, existsSync = requirefsconst join = requirepathconst gul
+id: 494c1fee-8454-4888-86c0-cfa4a28de392
 keywords:
   - delete files with gulp
   - gulp delete files
   - gulp.src delete files
   - gulp delete all files except some files
+lang: en
+photos:
+  - https://opengraph.githubassets.com/d5c0c03975090ca4fdc9426231dd22310716b7d817cb6de10306acc7399a583c/sindresorhus/del/issues/42
+subtitle: How to delete files with gulp without any plugin del is now only used
+  for ESM del Issues about del and gulp Issue42 Issue42 Variables fs-extra
+  better than fs for supressing useless errors fs-extra fs const rmSync,
+  rmdirSync, existsSync = requirefsconst join = requirepathconst gul
+tags:
+  - snippets
+  - js
+thumbnail: https://opengraph.githubassets.com/d5c0c03975090ca4fdc9426231dd22310716b7d817cb6de10306acc7399a583c/sindresorhus/del/issues/42
+title: How to delete files with gulp without any plugin
+type: post
+updated: 2022-10-15T16:40:13+07:00
+wordcount: 1113
 ---
 
 `del` is now only used for ESM

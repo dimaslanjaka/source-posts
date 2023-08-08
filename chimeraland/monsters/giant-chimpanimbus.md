@@ -1,9 +1,20 @@
 ---
-title: Monster giant chimpanimbus
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-10T23:30:18+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/giant-chimpanimbus/Screenshot_2023-02-24-13-39-08-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-03-11T00:19:18+07:00
+description: Monster giant chimpanimbus giant chimpanimbus Information from
+  Chimeraland giant chimpanimbus default maximum attribute GRADE N/A N/A Attack
+  N
+excerpt: Monster giant chimpanimbus giant chimpanimbus Information from
+  Chimeraland giant chimpanimbus default maximum attribute GRADE N/A N/A Attack
+  N
+id: e66e50f1-7e6a-4888-82c2-939108a64322
+lang: en
 permalink: /chimeraland/monsters/giant-chimpanimbus.html
 photos:
   - /chimeraland/monsters/giant-chimpanimbus/Screenshot_2023-02-24-13-39-08-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +24,19 @@ photos:
   - /chimeraland/monsters/giant-chimpanimbus/Screenshot_2023-02-24-13-39-27-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-chimpanimbus/Screenshot_2023-02-24-13-39-42-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-chimpanimbus/Screenshot_2023-02-24-13-39-47-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-chimpanimbus/Screenshot_2023-02-24-13-39-08-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: Monster giant chimpanimbus giant chimpanimbus Information from
+  Chimeraland giant chimpanimbus default maximum attribute GRADE N/A N/A Attack
+  N
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-chimpanimbus/Screenshot_2023-02-24-13-39-08-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant chimpanimbus
+type: post
+updated: 2023-03-10T23:30:18+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

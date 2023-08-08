@@ -1,19 +1,37 @@
 ---
-title: Material Greensuit Fish Chimeraland
-date: 2022-01-14T14:56:03+07:00
-updated: 2022-10-06T14:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/greensuit-fish/greensuit-fish.webp
+date: 2022-01-14T14:56:03+07:00
+description: "Material Greensuit Fish Chimeraland materials Greensuit Fish
+  October 6, 2022 2:26 PM A marine fish, tiny in size and green all over with a
+  white abdomen and large eyes. Commonly found in Westmount Sea. Continue
+  reading Greensuit Fish "
+excerpt: "Material Greensuit Fish Chimeraland materials Greensuit Fish October
+  6, 2022 2:26 PM A marine fish, tiny in size and green all over with a white
+  abdomen and large eyes. Commonly found in Westmount Sea. Continue reading
+  Greensuit Fish "
+id: e94bb919-24d2-4888-87ca-7cb846960eef
+lang: en
 permalink: /chimeraland/materials/greensuit-fish.html
 photos:
   - /chimeraland/materials/greensuit-fish/greensuit-fish.webp
-thumbnail: /chimeraland/materials/greensuit-fish/greensuit-fish.webp
+subtitle: "Material Greensuit Fish Chimeraland materials Greensuit Fish October
+  6, 2022 2:26 PM A marine fish, tiny in size and green all over with a white
+  abdomen and large eyes. Commonly found in Westmount Sea. Continue reading
+  Greensuit Fish "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/greensuit-fish/greensuit-fish.webp
+title: Material Greensuit Fish Chimeraland
+type: post
+updated: 2022-10-06T14:26:37+07:00
+wordcount: 834
 ---
 
 <link

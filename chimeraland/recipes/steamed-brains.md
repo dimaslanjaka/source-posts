@@ -1,23 +1,34 @@
 ---
-title: Recipe Steamed Brains Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T18:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/steamed-brains/steamed-brains.webp
 date: 2022-01-12T08:56:03+07:00
+description: Recipe Steamed Brains Chimeraland Steamed Brains Cooking Recipe
+  Buff Steamed Brains 540 fullness 120 def recipe web
+excerpt: Recipe Steamed Brains Chimeraland Steamed Brains Cooking Recipe Buff
+  Steamed Brains 540 fullness 120 def recipe web
+id: ef6267d8-20e8-4888-8fbb-bee10a272964
+lang: en
 permalink: /chimeraland/recipes/steamed-brains.html
 photos:
   - /chimeraland/recipes/steamed-brains/steamed-brains.webp
   - /chimeraland/recipes/steamed-brains/steamed-brains-name.webp
   - /chimeraland/recipes/steamed-brains/steamed-brains-icon.webp
   - /chimeraland/recipes/steamed-brains/steamed-brains-material.webp
-thumbnail: /chimeraland/recipes/steamed-brains/steamed-brains.webp
+subtitle: Recipe Steamed Brains Chimeraland Steamed Brains Cooking Recipe Buff
+  Steamed Brains 540 fullness 120 def recipe web
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/steamed-brains/steamed-brains.webp
+title: Recipe Steamed Brains Chimeraland
+type: post
+updated: 2022-10-06T18:46:55+07:00
+wordcount: 1126
 ---
 
 <link

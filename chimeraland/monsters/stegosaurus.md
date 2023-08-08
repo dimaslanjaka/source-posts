@@ -1,9 +1,18 @@
 ---
-title: Monster stegosaurus
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-25T21:55:43+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/stegosaurus/Screenshot_2023-02-23-21-51-09-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-25T21:44:43+07:00
+description: "Monster stegosaurus stegosaurus Information from Chimeraland
+  stegosaurus default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Monster stegosaurus stegosaurus Information from Chimeraland
+  stegosaurus default maximum attribute GRADE N/A N/A Attack N/A "
+id: b59b8a6d-5c65-4888-83f9-d5e0c67c1c21
+lang: en
 permalink: /chimeraland/monsters/stegosaurus.html
 photos:
   - /chimeraland/monsters/stegosaurus/Screenshot_2023-02-23-21-51-09-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +23,18 @@ photos:
   - /chimeraland/monsters/stegosaurus/Screenshot_2023-02-23-21-52-05-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/stegosaurus/Screenshot_2023-02-23-21-52-12-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/stegosaurus/Screenshot_2023-02-23-21-52-17-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/stegosaurus/Screenshot_2023-02-23-21-51-09-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster stegosaurus stegosaurus Information from Chimeraland
+  stegosaurus default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/stegosaurus/Screenshot_2023-02-23-21-51-09-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster stegosaurus
+type: post
+updated: 2023-02-25T21:55:43+07:00
+webtitle: chimeraland
+wordcount: 1130
 ---
 
 <link

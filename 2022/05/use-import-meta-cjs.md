@@ -1,16 +1,25 @@
 ---
-title: How to use import.meta on typescript hybrid compiler
-description: How to implement import.meta on typescript hybrid esm and commonjs compiler
+author: Dimas Lanjaka
+categories:
+  - programming
+comments: true
 date: 2022-05-02T06:01:50+0000
-updated: 2022-10-10T03:20:00+0700
+description: How to implement import.meta on typescript hybrid esm and commonjs compiler
+excerpt: How to implement import.meta on typescript hybrid esm and commonjs compiler
+id: ae5eb584-1ec0-4888-8dc8-ce73a1091bb0
+lang: en
+photos: []
+subtitle: How to implement import.meta on typescript hybrid esm and commonjs compiler
 tags:
-  - NodeJS
-  - ESM
-  - TS
-  - JS
-  - CommonJS
-category:
-  - Programming
+  - nodejs
+  - esm
+  - ts
+  - js
+  - commonjs
+title: How to use import.meta on typescript hybrid compiler
+type: post
+updated: 2022-10-10T03:20:00+0700
+wordcount: 3831
 ---
 
 ## explanation

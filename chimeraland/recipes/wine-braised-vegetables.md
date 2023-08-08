@@ -1,23 +1,37 @@
 ---
-title: Recipe Wine-Braised Vegetables Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T17:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables.webp
 date: 2022-01-13T05:56:03+07:00
+description: "Recipe Wine-Braised Vegetables Chimeraland Wine-Braised Vegetables
+  Cooking Recipe Buff Wine-Braised Vegetables Buff Wine-Braised Vegetables not
+  yet written recipe "
+excerpt: "Recipe Wine-Braised Vegetables Chimeraland Wine-Braised Vegetables
+  Cooking Recipe Buff Wine-Braised Vegetables Buff Wine-Braised Vegetables not
+  yet written recipe "
+id: b1ddca03-0377-4888-860c-bdac7b173b11
+lang: en
 permalink: /chimeraland/recipes/wine-braised-vegetables.html
 photos:
   - /chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables.webp
   - /chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables-name.webp
   - /chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables-icon.webp
   - /chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables-material.webp
-thumbnail: /chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables.webp
+subtitle: "Recipe Wine-Braised Vegetables Chimeraland Wine-Braised Vegetables
+  Cooking Recipe Buff Wine-Braised Vegetables Buff Wine-Braised Vegetables not
+  yet written recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables.webp
+title: Recipe Wine-Braised Vegetables Chimeraland
+type: post
+updated: 2022-10-06T17:46:56+07:00
+wordcount: 855
 ---
 
 <link

@@ -1,23 +1,35 @@
 ---
-title: Recipe Steamed Vegetarian Patty Chimeraland
 author: L3n4r0x
-updated: 2022-09-28T22:26:37+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Steamed Vegetarian Patty
 date: 2022-01-12T12:56:03+07:00
+description: "Recipe Steamed Vegetarian Patty Chimeraland Steamed Vegetarian
+  Patty Cooking Recipe Buff Steamed Vegetarian Patty 420 Fullness 25 Armor
+  Pierce recipe "
+excerpt: "Recipe Steamed Vegetarian Patty Chimeraland Steamed Vegetarian Patty
+  Cooking Recipe Buff Steamed Vegetarian Patty 420 Fullness 25 Armor Pierce
+  recipe "
+id: 441f1cea-f601-4888-86fd-9ada65672224
+lang: en
 permalink: /chimeraland/recipes/steamed-vegetarian-patty.html
 photos:
-  - null
-  - null
-  - null
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Steamed Vegetarian Patty
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Steamed Vegetarian
+    Patty
+subtitle: "Recipe Steamed Vegetarian Patty Chimeraland Steamed Vegetarian Patty
+  Cooking Recipe Buff Steamed Vegetarian Patty 420 Fullness 25 Armor Pierce
+  recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Steamed Vegetarian Patty
+title: Recipe Steamed Vegetarian Patty Chimeraland
+type: post
+updated: 2022-09-28T22:26:37+07:00
+wordcount: 995
 ---
 
 <link

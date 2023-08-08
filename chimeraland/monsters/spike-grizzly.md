@@ -1,12 +1,24 @@
 ---
-title: Monster Spike Grizzly
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T14:43:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spike Grizzly
 date: 2022-01-10T10:56:03+07:00
+description: monster Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
+  Attributes Conversion Rate 4.0,HP 339 delicacies/tasty Stewed Snow Goose
+  Feet,Hot n Sour Jelly,Dragon Serpent Combo Games,chimeraland,monsters
+  chimeraland,monster,pet
+excerpt: monster Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
+  Attributes Conversion Rate 4.0,HP 339 delicacies/tasty Stewed Snow Goose
+  Feet,Hot n Sour Jelly,Dragon Serpent Combo Games,chimeraland,monsters
+  chimeraland,monster,pet
+id: 1d3d4f17-a8ed-4888-80a3-a078c9249249
+lang: en
 permalink: /chimeraland/monsters/spike-grizzly.html
 photos:
-  - null
   - /chimeraland/monsters/spike-grizzly/IMG_20230224_004153.webp
   - /chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-34-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-39-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,19 +26,21 @@ photos:
   - /chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-47-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-29-51-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/spike-grizzly/Screenshot_2022-07-26-00-30-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spike Grizzly
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spike Grizzly
+subtitle: monster Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
+  Attributes Conversion Rate 4.0,HP 339 delicacies/tasty Stewed Snow Goose
+  Feet,Hot n Sour Jelly,Dragon Serpent Combo Games,chimeraland,monsters
+  chimeraland,monster,pet
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
-description: monster Spike Grizzly default quality GRADE C ATK 55 HP 65 DEF 65
-  Attributes Conversion Rate 4.0%,HP 339 delicacies/tasty Stewed Snow Goose
-  Feet,Hot 'n Sour Jelly,Dragon Serpent Combo Games,chimeraland,monsters
-  chimeraland,monster,pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spike Grizzly
+title: Monster Spike Grizzly
+type: post
+updated: 2023-05-25T14:43:12+07:00
+webtitle: chimeraland
+wordcount: 1657
 ---
 
 <link

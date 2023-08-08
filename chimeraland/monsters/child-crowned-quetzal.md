@@ -1,9 +1,19 @@
 ---
-title: Monster child crowned quetzal
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-10T20:30:18+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/child-crowned-quetzal/Screenshot_2023-02-25-22-26-42-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-03-10T20:19:18+07:00
+description: Monster child crowned quetzal child crowned quetzal Information
+  from Chimeraland child crowned quetzal default maximum attribute GRADE N/A N/A
+  Att
+excerpt: Monster child crowned quetzal child crowned quetzal Information from
+  Chimeraland child crowned quetzal default maximum attribute GRADE N/A N/A Att
+id: aeddbb00-0916-4888-843a-e6ced62a3499
+lang: en
 permalink: /chimeraland/monsters/child-crowned-quetzal.html
 photos:
   - /chimeraland/monsters/child-crowned-quetzal/Screenshot_2023-02-25-22-26-42-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,15 +22,18 @@ photos:
   - /chimeraland/monsters/child-crowned-quetzal/Screenshot_2023-02-25-22-26-54-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/child-crowned-quetzal/Screenshot_2023-02-25-22-27-14-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/child-crowned-quetzal/Screenshot_2023-02-25-22-27-20-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/child-crowned-quetzal/Screenshot_2023-02-25-22-26-42-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: Monster child crowned quetzal child crowned quetzal Information from
+  Chimeraland child crowned quetzal default maximum attribute GRADE N/A N/A Att
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/child-crowned-quetzal/Screenshot_2023-02-25-22-26-42-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster child crowned quetzal
+type: post
+updated: 2023-03-10T20:30:18+07:00
+webtitle: chimeraland
+wordcount: 1172
 ---
 
 <link

@@ -1,9 +1,18 @@
 ---
-title: Monster mamba
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-04-14T15:57:10+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-34-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-04-14T15:46:10+07:00
+description: "Monster mamba mamba Information from Chimeraland mamba default
+  maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Monster mamba mamba Information from Chimeraland mamba default maximum
+  attribute GRADE N/A N/A Attack N/A "
+id: 2cd9dc55-9a4b-4888-8cd2-5ba2544c5a29
+lang: en
 permalink: /chimeraland/monsters/mamba.html
 photos:
   - /chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-34-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +23,18 @@ photos:
   - /chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-58-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mamba/Screenshot_2023-04-01-01-33-02-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mamba/Screenshot_2023-04-01-01-33-07-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-34-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster mamba mamba Information from Chimeraland mamba default
+  maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-34-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster mamba
+type: post
+updated: 2023-04-14T15:57:10+07:00
+webtitle: chimeraland
+wordcount: 1130
 ---
 
 <link

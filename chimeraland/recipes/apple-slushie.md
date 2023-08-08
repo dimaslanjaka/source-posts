@@ -1,23 +1,34 @@
 ---
-title: Recipe Apple Slushie Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T16:46:53+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/apple-slushie/apple-slushie.webp
 date: 2022-01-07T14:56:03+07:00
+description: "Recipe Apple Slushie Chimeraland Apple Slushie Cooking Recipe Buff
+  Apple Slushie 180 Fullness Heat Resistance 10 recipe "
+excerpt: "Recipe Apple Slushie Chimeraland Apple Slushie Cooking Recipe Buff
+  Apple Slushie 180 Fullness Heat Resistance 10 recipe "
+id: 9d3984eb-0d4b-4888-8216-5bca7551183c
+lang: en
 permalink: /chimeraland/recipes/apple-slushie.html
 photos:
   - /chimeraland/recipes/apple-slushie/apple-slushie.webp
   - /chimeraland/recipes/apple-slushie/apple-slushie-name.webp
   - /chimeraland/recipes/apple-slushie/apple-slushie-icon.webp
   - /chimeraland/recipes/apple-slushie/apple-slushie-material.webp
-thumbnail: /chimeraland/recipes/apple-slushie/apple-slushie.webp
+subtitle: "Recipe Apple Slushie Chimeraland Apple Slushie Cooking Recipe Buff
+  Apple Slushie 180 Fullness Heat Resistance 10 recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/apple-slushie/apple-slushie.webp
+title: Recipe Apple Slushie Chimeraland
+type: post
+updated: 2022-10-05T16:46:53+07:00
+wordcount: 624
 ---
 
 <link

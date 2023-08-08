@@ -1,21 +1,33 @@
 ---
-title: Monster Noble Serpent
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-10-03T04:18:27+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/noble-serpent/chimeraland-noble-serpent-evolve-featured.webp
 date: 2022-01-11T20:56:03+07:00
+description: "Monster Noble Serpent Noble Serpent Information from Chimeraland
+  Noble Serpent default maximum attribute GRADE A NOBLE - LEGENDARY "
+excerpt: "Monster Noble Serpent Noble Serpent Information from Chimeraland Noble
+  Serpent default maximum attribute GRADE A NOBLE - LEGENDARY "
+id: 1ac0185a-461e-4888-8d23-857c26e0dcbe
+lang: en
 permalink: /chimeraland/monsters/noble-serpent.html
 photos:
   - /chimeraland/monsters/noble-serpent/chimeraland-noble-serpent-evolve-featured.webp
-thumbnail: /chimeraland/monsters/noble-serpent/chimeraland-noble-serpent-evolve-featured.webp
+subtitle: "Monster Noble Serpent Noble Serpent Information from Chimeraland
+  Noble Serpent default maximum attribute GRADE A NOBLE - LEGENDARY "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/noble-serpent/chimeraland-noble-serpent-evolve-featured.webp
+title: Monster Noble Serpent
+type: post
+updated: 2022-10-03T04:18:27+07:00
+webtitle: chimeraland
+wordcount: 720
 ---
 
 <link

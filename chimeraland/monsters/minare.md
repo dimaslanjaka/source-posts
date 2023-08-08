@@ -1,21 +1,33 @@
 ---
-title: Monster Minare
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T17:26:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Minare
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Minare Minare Information from Chimeraland Minare default
+  maximum attribute GRADE Attack "
+excerpt: "Monster Minare Minare Information from Chimeraland Minare default
+  maximum attribute GRADE Attack "
+id: e0dda8b9-8cd1-4888-8224-42340290661b
+lang: en
 permalink: /chimeraland/monsters/minare.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Minare
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Minare
+subtitle: "Monster Minare Minare Information from Chimeraland Minare default
+  maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Minare
+title: Monster Minare
+type: post
+updated: 2023-05-25T17:26:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

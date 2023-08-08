@@ -1,21 +1,33 @@
 ---
-title: Monster Great Litiger
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T15:13:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Great Litiger
 date: 2023-05-25T02:02:42+07:00
+description: "Monster Great Litiger Great Litiger Information from Chimeraland
+  Great Litiger default maximum attribute GRADE Attack "
+excerpt: "Monster Great Litiger Great Litiger Information from Chimeraland Great
+  Litiger default maximum attribute GRADE Attack "
+id: dfe21992-d4f8-4888-8d8a-6c8c0a5745ed
+lang: en
 permalink: /chimeraland/monsters/great-litiger.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Great Litiger
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Great Litiger
+subtitle: "Monster Great Litiger Great Litiger Information from Chimeraland
+  Great Litiger default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Great Litiger
+title: Monster Great Litiger
+type: post
+updated: 2023-05-25T15:13:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

@@ -2,26 +2,30 @@
 author:
   nick: Dimas Lanjaka
   link: https://github.com/dimaslanjaka
-category:
-  - Games
-  - Genshin Impact
+categories:
+  - games
+  - genshin impact
+comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://uploadstatic-sea.mihoyo.com/contentweb/20210201/2021020109195088725.jpg
 date: 2021-08-16T00:00:00+07:00
+description: Update Genshin Impact 1.6.1 - 2.0.0 Manual
+excerpt: Update Genshin Impact 1.6.1 - 2.0.0 Manual
+id: 7125eaea-4d55-4888-8a73-74ec14b3e76a
 lang: en
 location: Indonesia
-subtitle: Update Genshin Impact 1.6.1 - 2.0.0 Manual
-tags:
-  - Games
-  - Genshin Impact
-title: Update Genshin Impact 2.0.0 Manual
-type: post
-uuid: 7125eaea-4d55-4888-8a73-74ec14b3e76a
-webtitle: WMI Genshin Impact
-updated: 2021-12-19T06:33:51+07:00
-thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://uploadstatic-sea.mihoyo.com/contentweb/20210201/2021020109195088725.jpg
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://uploadstatic-sea.mihoyo.com/contentweb/20210201/2021020109195088725.jpg
-description: Update Genshin Impact 1.6.1 - 2.0.0 Manual
+subtitle: Update Genshin Impact 1.6.1 - 2.0.0 Manual
+tags:
+  - games
+  - genshin impact
+thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://uploadstatic-sea.mihoyo.com/contentweb/20210201/2021020109195088725.jpg
+title: Update Genshin Impact 2.0.0 Manual
+type: post
+updated: 2021-12-19T06:33:51+07:00
+uuid: 7125eaea-4d55-4888-8a73-74ec14b3e76a
+webtitle: WMI Genshin Impact
+wordcount: 238
 ---
 
 Update genshin impact `2.0.0` manual via download manager (IDM).

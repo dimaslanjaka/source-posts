@@ -1,12 +1,20 @@
 ---
-title: Monster gripine
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T14:31:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=gripine
 date: 2023-03-11T13:19:18+07:00
+description: "Monster gripine gripine Information from Chimeraland gripine
+  default maximum attribute GRADE Attack "
+excerpt: "Monster gripine gripine Information from Chimeraland gripine default
+  maximum attribute GRADE Attack "
+id: 745f670a-e1d7-4888-81d3-2dc5c138f429
+lang: en
 permalink: /chimeraland/monsters/gripine.html
 photos:
-  - null
   - /chimeraland/monsters/gripine/Screenshot_2023-02-24-22-52-46-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/gripine/Screenshot_2023-02-24-22-52-49-82_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/gripine/Screenshot_2023-02-24-22-52-54-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,15 +23,19 @@ photos:
   - /chimeraland/monsters/gripine/Screenshot_2023-02-24-22-53-07-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/gripine/Screenshot_2023-02-24-22-53-12-21_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/gripine/Screenshot_2023-03-26-11-06-10-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=gripine
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=gripine
+subtitle: "Monster gripine gripine Information from Chimeraland gripine default
+  maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=gripine
+title: Monster gripine
+type: post
+updated: 2023-05-25T14:31:12+07:00
+webtitle: chimeraland
+wordcount: 1189
 ---
 
 <link

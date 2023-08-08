@@ -1,9 +1,18 @@
 ---
-title: Attendant bloodhog
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-08T21:16:58+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/bloodhog/Screenshot_2023-02-06-11-52-16-79_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-08T21:05:58+07:00
+description: "Attendant bloodhog bloodhog Information from Chimeraland bloodhog
+  default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Attendant bloodhog bloodhog Information from Chimeraland bloodhog
+  default maximum attribute GRADE N/A N/A Attack N/A "
+id: 548d944f-79d6-4888-8294-d788c87a5c57
+lang: en
 permalink: /chimeraland/attendants/bloodhog.html
 photos:
   - /chimeraland/attendants/bloodhog/Screenshot_2023-02-06-11-52-16-79_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,14 +21,17 @@ photos:
   - /chimeraland/attendants/bloodhog/Screenshot_2023-02-06-11-52-29-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/bloodhog/Screenshot_2023-02-06-11-52-36-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/bloodhog/Screenshot_2023-02-06-11-52-41-23_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/bloodhog/Screenshot_2023-02-06-11-52-16-79_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant bloodhog bloodhog Information from Chimeraland bloodhog
+  default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/bloodhog/Screenshot_2023-02-06-11-52-16-79_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant bloodhog
+type: post
+updated: 2023-02-08T21:16:58+07:00
+webtitle: chimeraland
+wordcount: 988
 ---
 
 <link

@@ -16,6 +16,7 @@ excerpt: What are the different data types present in javascript? Common Data
   9007199254740991n String Hello, World, Uzbekistan S
 id: 80a301a9-b855-4888-8d45-8cd882b4678e
 lang: en
+language: en
 permalink: en/javascript/data-types.html
 photos:
   - https://www.javascripttutorial.net/wp-content/uploads/2022/01/JavaScript-data-types.svg
@@ -30,7 +31,6 @@ title: What are the different data types present in javascript?
 type: page
 updated: 2023-07-04T15:42:48+07:00
 wordcount: 199
-language: en
 ---
 
 ## Common Data Type

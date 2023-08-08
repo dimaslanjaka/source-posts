@@ -1,9 +1,30 @@
 ---
-title: Cara menghapus direktori path panjang di terminal
+author: Dimas Lanjaka
+categories:
+  - programming
+comments: true
 date: 2022-09-01
+description: "Cara menghapus direktori path panjang di terminal Bagaimana cara
+  mempersingkat jalur direktori saat ini yang ditampilkan di terminal? Pergi ke
+  Home direktori atau Edit .bashrcchange lowercase \\w to uppercase \\W.See
+  below image: Pergi ke Home direktori atau Home Edit .bashrc .bashrc change lo"
+excerpt: "Cara menghapus direktori path panjang di terminal Bagaimana cara
+  mempersingkat jalur direktori saat ini yang ditampilkan di terminal? Pergi ke
+  Home direktori atau Edit .bashrcchange lowercase \\w to uppercase \\W.See
+  below image: Pergi ke Home direktori atau Home Edit .bashrc .bashrc change lo"
+id: 27d84f95-5d90-4888-8021-a6c0fb20d7f0
+lang: en
+photos: []
+subtitle: "Cara menghapus direktori path panjang di terminal Bagaimana cara
+  mempersingkat jalur direktori saat ini yang ditampilkan di terminal? Pergi ke
+  Home direktori atau Edit .bashrcchange lowercase \\w to uppercase \\W.See
+  below image: Pergi ke Home direktori atau Home Edit .bashrc .bashrc change lo"
+tags:
+  - bash
+title: Cara menghapus direktori path panjang di terminal
+type: post
 updated: 2022-10-21T09:49:57+07:00
-tags: ['bash']
-categories: ['Programming']
+wordcount: 156
 ---
 
 Bagaimana cara mempersingkat jalur direktori saat ini yang ditampilkan di terminal? 

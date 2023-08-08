@@ -1,21 +1,33 @@
 ---
-title: Monster Moonfish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T18:21:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Moonfish
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Moonfish Moonfish Information from Chimeraland Moonfish
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Moonfish Moonfish Information from Chimeraland Moonfish
+  default maximum attribute GRADE Attack "
+id: e40a91eb-e780-4888-8be1-e11d00981bab
+lang: en
 permalink: /chimeraland/monsters/moonfish.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Moonfish
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Moonfish
+subtitle: "Monster Moonfish Moonfish Information from Chimeraland Moonfish
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Moonfish
+title: Monster Moonfish
+type: post
+updated: 2023-05-25T18:21:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

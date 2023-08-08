@@ -1,19 +1,32 @@
 ---
-title: Material Bosalo Meat Chimeraland
-date: 2022-01-08T14:56:03+07:00
-updated: 2022-09-30T14:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/bosalo-meat/bosalo-meat.webp
+date: 2022-01-08T14:56:03+07:00
+description: "Material Bosalo Meat Chimeraland materials Bosalo Meat September
+  30, 2022 2:26 PM Continue reading Bosalo Meat What is the use of the Bosalo
+  Meat "
+excerpt: "Material Bosalo Meat Chimeraland materials Bosalo Meat September 30,
+  2022 2:26 PM Continue reading Bosalo Meat What is the use of the Bosalo Meat "
+id: 52e19d04-f325-4888-8c10-0ebc67c8a623
+lang: en
 permalink: /chimeraland/materials/bosalo-meat.html
 photos:
   - /chimeraland/materials/bosalo-meat/bosalo-meat.webp
-thumbnail: /chimeraland/materials/bosalo-meat/bosalo-meat.webp
+subtitle: "Material Bosalo Meat Chimeraland materials Bosalo Meat September 30,
+  2022 2:26 PM Continue reading Bosalo Meat What is the use of the Bosalo Meat "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/bosalo-meat/bosalo-meat.webp
+title: Material Bosalo Meat Chimeraland
+type: post
+updated: 2022-09-30T14:26:37+07:00
+wordcount: 989
 ---
 
 <link

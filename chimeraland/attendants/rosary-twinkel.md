@@ -1,22 +1,35 @@
 ---
-title: Attendant Rosary Twinkel
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-29T03:26:37+07:00
-date: 2022-01-07T01:56:03+07:00
-permalink: /chimeraland/attendants/rosary-twinkel.html
-photos: []
-tags:
-  - chimeraland
-  - Attendant
 categories:
-  - Games
+  - games
   - chimeraland
   - attendants
+comments: true
+date: 2022-01-07T01:56:03+07:00
 description: attendant Rosary Twinkel default quality GRADE C ATK 50 HP 50 DEF
-  50 Attack 20,HP 200,Monster EXP Bonus 40% delicacies/tasty Aromatic Litiger
-  Ball,Hot 'n Sour Jelly,Stir-Fried Browtelope Games,chimeraland,attendants
+  50 Attack 20,HP 200,Monster EXP Bonus 40 delicacies/tasty Aromatic Litiger
+  Ball,Hot n Sour Jelly,Stir-Fried Browtelope Games,chimeraland,attendants
   chimeraland,Attendant
+excerpt: attendant Rosary Twinkel default quality GRADE C ATK 50 HP 50 DEF 50
+  Attack 20,HP 200,Monster EXP Bonus 40 delicacies/tasty Aromatic Litiger
+  Ball,Hot n Sour Jelly,Stir-Fried Browtelope Games,chimeraland,attendants
+  chimeraland,Attendant
+id: f9422e45-ca1a-4888-88a4-f8036d1a58c0
+lang: en
+permalink: /chimeraland/attendants/rosary-twinkel.html
+photos: []
+subtitle: attendant Rosary Twinkel default quality GRADE C ATK 50 HP 50 DEF 50
+  Attack 20,HP 200,Monster EXP Bonus 40 delicacies/tasty Aromatic Litiger
+  Ball,Hot n Sour Jelly,Stir-Fried Browtelope Games,chimeraland,attendants
+  chimeraland,Attendant
+tags:
+  - chimeraland
+  - attendant
+title: Attendant Rosary Twinkel
+type: post
+updated: 2022-09-29T03:26:37+07:00
+webtitle: chimeraland
+wordcount: 918
 ---
 
 <link

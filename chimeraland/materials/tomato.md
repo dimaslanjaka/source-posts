@@ -1,19 +1,31 @@
 ---
-title: Material Tomato Chimeraland
-date: 2022-01-12T22:56:03+07:00
-updated: 2022-10-04T22:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/tomato/tomato.webp
+date: 2022-01-12T22:56:03+07:00
+description: "Material Tomato Chimeraland materials Tomato October 4, 2022 10:26
+  PM Continue reading Tomato What is the use of the Tomato "
+excerpt: "Material Tomato Chimeraland materials Tomato October 4, 2022 10:26 PM
+  Continue reading Tomato What is the use of the Tomato "
+id: 30e6bc93-662e-4888-8da6-4dc14050263c
+lang: en
 permalink: /chimeraland/materials/tomato.html
 photos:
   - /chimeraland/materials/tomato/tomato.webp
-thumbnail: /chimeraland/materials/tomato/tomato.webp
+subtitle: "Material Tomato Chimeraland materials Tomato October 4, 2022 10:26 PM
+  Continue reading Tomato What is the use of the Tomato "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/tomato/tomato.webp
+title: Material Tomato Chimeraland
+type: post
+updated: 2022-10-04T22:26:37+07:00
+wordcount: 1370
 ---
 
 <link

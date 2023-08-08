@@ -1,15 +1,24 @@
 ---
-title: Conventional Commit Messages
-date: 2023-04-24T23:19:05+07:00
-updated: 2023-04-27T08:47:14.264Z
-tags:
-  - github
+author: Dimas Lanjaka
 categories:
   - programming
   - shell
   - bash
   - cmd
+comments: true
+date: 2023-04-24T23:19:05+07:00
 description: Github Conventional Commit Messages
+excerpt: Github Conventional Commit Messages
+id: f140aca9-35e8-4888-82f2-a04ea3aee719
+lang: en
+photos: []
+subtitle: Github Conventional Commit Messages
+tags:
+  - github
+title: Conventional Commit Messages
+type: post
+updated: 2023-04-27T08:47:14.264Z
+wordcount: 2590
 ---
 
 # Conventional Commit Messages

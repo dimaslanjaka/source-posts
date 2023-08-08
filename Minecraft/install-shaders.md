@@ -1,26 +1,34 @@
 ---
+author: Dimas Lanjaka
+categories:
+  - games
+  - minecraft
+comments: true
 cover: /Minecraft/install-shaders/cover.jpg
 date: 2021-12-16T22:57:00+07:00
+description: Belajar Memasang Shader di Minecraft 1.18.1 dalam tutorial
+  terperinci ini dengan screenshot
+excerpt: Belajar Memasang Shader di Minecraft 1.18.1 dalam tutorial terperinci
+  ini dengan screenshot
+id: 9c4dd0da-b700-4888-8ecc-3cdc3654907b
 keywords:
   - shaders
   - tutorial
   - minecraft
 lang: id
-subtitle: Belajar Memasang Shader di Minecraft 1.18.1 dalam tutorial terperinci
-  ini dengan screenshot
-category:
-  - Games
-  - Minecraft
-title: Bagaimana cara install shaders minecraft
-toc: true
-uuid: 9c4dd0da-b700-4888-8ecc-3cdc3654907b
-webtitle: Minecraft
-updated: 2022-03-20T20:57:28+07:00
-thumbnail: /Minecraft/install-shaders/cover.jpg
 photos:
   - /Minecraft/install-shaders/cover.jpg
-description: Belajar Memasang Shader di Minecraft 1.18.1 dalam tutorial
-  terperinci ini dengan screenshot
+subtitle: Belajar Memasang Shader di Minecraft 1.18.1 dalam tutorial terperinci
+  ini dengan screenshot
+tags: []
+thumbnail: /Minecraft/install-shaders/cover.jpg
+title: Bagaimana cara install shaders minecraft
+toc: true
+type: post
+updated: 2022-03-20T20:57:28+07:00
+uuid: 9c4dd0da-b700-4888-8ecc-3cdc3654907b
+webtitle: Minecraft
+wordcount: 1337
 ---
 
 # Shaders

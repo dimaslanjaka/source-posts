@@ -1,19 +1,34 @@
 ---
-title: Material Coiled Snake Scale Chimeraland
-date: 2022-01-09T10:56:03+07:00
-updated: 2022-10-01T10:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/coiled-snake-scale/coiled-snake-scale.webp
+date: 2022-01-09T10:56:03+07:00
+description: "Material Coiled Snake Scale Chimeraland materials Coiled Snake
+  Scale October 1, 2022 10:26 AM A giant Snakes skin. Its simply fascinating.
+  Continue reading Coiled Snake Scale "
+excerpt: "Material Coiled Snake Scale Chimeraland materials Coiled Snake Scale
+  October 1, 2022 10:26 AM A giant Snakes skin. Its simply fascinating. Continue
+  reading Coiled Snake Scale "
+id: 53187e48-f01f-4888-8b66-194c4f4b1d7e
+lang: en
 permalink: /chimeraland/materials/coiled-snake-scale.html
 photos:
   - /chimeraland/materials/coiled-snake-scale/coiled-snake-scale.webp
-thumbnail: /chimeraland/materials/coiled-snake-scale/coiled-snake-scale.webp
+subtitle: "Material Coiled Snake Scale Chimeraland materials Coiled Snake Scale
+  October 1, 2022 10:26 AM A giant Snakes skin. Its simply fascinating. Continue
+  reading Coiled Snake Scale "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/coiled-snake-scale/coiled-snake-scale.webp
+title: Material Coiled Snake Scale Chimeraland
+type: post
+updated: 2022-10-01T10:26:37+07:00
+wordcount: 863
 ---
 
 <link

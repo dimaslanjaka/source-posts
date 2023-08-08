@@ -1,21 +1,33 @@
 ---
-title: Monster Sparrodact
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T16:09:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sparrodact
 date: 2023-05-25T02:21:12+07:00
+description: "Monster Sparrodact Sparrodact Information from Chimeraland
+  Sparrodact default maximum attribute GRADE Attack "
+excerpt: "Monster Sparrodact Sparrodact Information from Chimeraland Sparrodact
+  default maximum attribute GRADE Attack "
+id: 679d9a6d-7200-4888-84eb-924af859db56
+lang: en
 permalink: /chimeraland/monsters/sparrodact.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sparrodact
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sparrodact
+subtitle: "Monster Sparrodact Sparrodact Information from Chimeraland Sparrodact
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sparrodact
+title: Monster Sparrodact
+type: post
+updated: 2023-05-25T16:09:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

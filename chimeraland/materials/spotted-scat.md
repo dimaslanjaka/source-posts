@@ -1,19 +1,37 @@
 ---
-title: Material Spotted Scat Chimeraland
-date: 2022-01-15T11:56:03+07:00
-updated: 2022-10-07T11:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/spotted-scat/spotted-scat.webp
+date: 2022-01-15T11:56:03+07:00
+description: Material Spotted Scat Chimeraland materials Spotted Scat October 7,
+  2022 11:26 AM A freshwater fish with a slightly oval body, flat and tall. It
+  has deep notching between the hard spine and soft lines of its dorsal fin.
+  Continue reading S
+excerpt: Material Spotted Scat Chimeraland materials Spotted Scat October 7,
+  2022 11:26 AM A freshwater fish with a slightly oval body, flat and tall. It
+  has deep notching between the hard spine and soft lines of its dorsal fin.
+  Continue reading S
+id: ca5e9da2-56ea-4888-8fb1-8c21c00ef216
+lang: en
 permalink: /chimeraland/materials/spotted-scat.html
 photos:
   - /chimeraland/materials/spotted-scat/spotted-scat.webp
-thumbnail: /chimeraland/materials/spotted-scat/spotted-scat.webp
+subtitle: Material Spotted Scat Chimeraland materials Spotted Scat October 7,
+  2022 11:26 AM A freshwater fish with a slightly oval body, flat and tall. It
+  has deep notching between the hard spine and soft lines of its dorsal fin.
+  Continue reading S
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/spotted-scat/spotted-scat.webp
+title: Material Spotted Scat Chimeraland
+type: post
+updated: 2022-10-07T11:26:37+07:00
+wordcount: 851
 ---
 
 <link

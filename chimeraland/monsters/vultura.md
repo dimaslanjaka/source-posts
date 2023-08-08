@@ -1,27 +1,39 @@
 ---
-title: Monster Vultura
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T05:59:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Vultura
 date: 2022-01-10T15:56:03+07:00
+description: "Monster Vultura Vultura Information from Chimeraland Vultura
+  default maximum attribute GRADE C RARE Attack 55 "
+excerpt: "Monster Vultura Vultura Information from Chimeraland Vultura default
+  maximum attribute GRADE C RARE Attack 55 "
+id: 7b58c719-721c-4888-8244-1ae98f55957e
+lang: en
 permalink: /chimeraland/monsters/vultura.html
 photos:
-  - null
   - /chimeraland/monsters/vultura/Screenshot_2022-07-15-11-58-33-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/vultura/Screenshot_2022-07-15-11-58-45-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/vultura/Screenshot_2022-07-15-11-58-54-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/vultura/Screenshot_2022-07-15-11-58-59-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/vultura/Screenshot_2022-07-15-11-59-04-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/vultura/Screenshot_2022-07-15-11-59-10-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Vultura
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Vultura
+subtitle: "Monster Vultura Vultura Information from Chimeraland Vultura default
+  maximum attribute GRADE C RARE Attack 55 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Vultura
+title: Monster Vultura
+type: post
+updated: 2023-05-25T05:59:12+07:00
+webtitle: chimeraland
+wordcount: 1059
 ---
 
 <link

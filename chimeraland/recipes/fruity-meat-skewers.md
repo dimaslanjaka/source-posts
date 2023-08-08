@@ -1,23 +1,34 @@
 ---
-title: Recipe Fruity Meat Skewers Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T21:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers.webp
 date: 2022-01-08T03:56:03+07:00
+description: Recipe Fruity Meat Skewers Chimeraland Fruity Meat Skewers Cooking
+  Recipe Buff Fruity Meat Skewers 240 Fullness recipe webmanajemen.com
+excerpt: Recipe Fruity Meat Skewers Chimeraland Fruity Meat Skewers Cooking
+  Recipe Buff Fruity Meat Skewers 240 Fullness recipe webmanajemen.com
+id: 7a49f462-e441-4888-8e12-583c78630c55
+lang: en
 permalink: /chimeraland/recipes/fruity-meat-skewers.html
 photos:
   - /chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers.webp
   - /chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers-name.webp
   - /chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers-icon.webp
   - /chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers-material.webp
-thumbnail: /chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers.webp
+subtitle: Recipe Fruity Meat Skewers Chimeraland Fruity Meat Skewers Cooking
+  Recipe Buff Fruity Meat Skewers 240 Fullness recipe webmanajemen.com
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/fruity-meat-skewers/fruity-meat-skewers.webp
+title: Recipe Fruity Meat Skewers Chimeraland
+type: post
+updated: 2022-10-05T21:46:54+07:00
+wordcount: 1365
 ---
 
 <link

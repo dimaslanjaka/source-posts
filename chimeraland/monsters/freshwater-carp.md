@@ -1,21 +1,33 @@
 ---
-title: Monster Freshwater Carp
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T09:41:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Freshwater Carp
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Freshwater Carp Freshwater Carp Information from
+  Chimeraland Freshwater Carp default maximum attribute GRADE Attack "
+excerpt: "Monster Freshwater Carp Freshwater Carp Information from Chimeraland
+  Freshwater Carp default maximum attribute GRADE Attack "
+id: 8d9dcaa8-e15f-4888-8941-0404ecd6dd87
+lang: en
 permalink: /chimeraland/monsters/freshwater-carp.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Freshwater Carp
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Freshwater Carp
+subtitle: "Monster Freshwater Carp Freshwater Carp Information from Chimeraland
+  Freshwater Carp default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Freshwater Carp
+title: Monster Freshwater Carp
+type: post
+updated: 2023-05-25T09:41:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

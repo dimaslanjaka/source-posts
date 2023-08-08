@@ -1,21 +1,33 @@
 ---
-title: Monster Butterflyfish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T12:49:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Butterflyfish
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Butterflyfish Butterflyfish Information from Chimeraland
+  Butterflyfish default maximum attribute GRADE Attack "
+excerpt: "Monster Butterflyfish Butterflyfish Information from Chimeraland
+  Butterflyfish default maximum attribute GRADE Attack "
+id: 0527687b-71e9-4888-8e51-74e0e4f745c5
+lang: en
 permalink: /chimeraland/monsters/butterflyfish.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Butterflyfish
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Butterflyfish
+subtitle: "Monster Butterflyfish Butterflyfish Information from Chimeraland
+  Butterflyfish default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Butterflyfish
+title: Monster Butterflyfish
+type: post
+updated: 2023-05-25T12:49:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

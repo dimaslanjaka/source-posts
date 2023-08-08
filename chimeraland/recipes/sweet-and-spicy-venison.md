@@ -1,23 +1,34 @@
 ---
-title: Recipe Sweet And Spicy Venison Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T04:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison.webp
 date: 2022-01-12T19:56:03+07:00
+description: "Recipe Sweet And Spicy Venison Chimeraland Sweet And Spicy Venison
+  Cooking Recipe Buff Sweet And Spicy Venison 420 Fullness 80 DEF recipe "
+excerpt: "Recipe Sweet And Spicy Venison Chimeraland Sweet And Spicy Venison
+  Cooking Recipe Buff Sweet And Spicy Venison 420 Fullness 80 DEF recipe "
+id: 413b106b-57c9-4888-87a2-e56e876e80b3
+lang: en
 permalink: /chimeraland/recipes/sweet-and-spicy-venison.html
 photos:
   - /chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison.webp
   - /chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison-name.webp
   - /chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison-icon.webp
   - /chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison-material.webp
-thumbnail: /chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison.webp
+subtitle: "Recipe Sweet And Spicy Venison Chimeraland Sweet And Spicy Venison
+  Cooking Recipe Buff Sweet And Spicy Venison 420 Fullness 80 DEF recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison.webp
+title: Recipe Sweet And Spicy Venison Chimeraland
+type: post
+updated: 2022-10-06T04:46:56+07:00
+wordcount: 840
 ---
 
 <link

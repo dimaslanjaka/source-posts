@@ -1,21 +1,33 @@
 ---
-title: Monster Tigerfish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T09:44:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tigerfish
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Tigerfish Tigerfish Information from Chimeraland Tigerfish
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Tigerfish Tigerfish Information from Chimeraland Tigerfish
+  default maximum attribute GRADE Attack "
+id: 09603072-b582-4888-8035-4309afb5e777
+lang: en
 permalink: /chimeraland/monsters/tigerfish.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tigerfish
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tigerfish
+subtitle: "Monster Tigerfish Tigerfish Information from Chimeraland Tigerfish
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tigerfish
+title: Monster Tigerfish
+type: post
+updated: 2023-05-25T09:44:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

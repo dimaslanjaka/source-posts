@@ -1,21 +1,33 @@
 ---
-title: Monster Leopardfish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T07:41:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Leopardfish
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Leopardfish Leopardfish Information from Chimeraland
+  Leopardfish default maximum attribute GRADE Attack "
+excerpt: "Monster Leopardfish Leopardfish Information from Chimeraland
+  Leopardfish default maximum attribute GRADE Attack "
+id: 6d8bd72f-02ec-4888-866b-cd0d5457397a
+lang: en
 permalink: /chimeraland/monsters/leopardfish.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Leopardfish
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Leopardfish
+subtitle: "Monster Leopardfish Leopardfish Information from Chimeraland
+  Leopardfish default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Leopardfish
+title: Monster Leopardfish
+type: post
+updated: 2023-05-25T07:41:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

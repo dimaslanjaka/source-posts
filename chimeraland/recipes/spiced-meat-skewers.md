@@ -1,23 +1,34 @@
 ---
-title: Recipe Spiced Meat Skewers Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T15:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers.webp
 date: 2022-01-11T07:56:03+07:00
+description: "Recipe Spiced Meat Skewers Chimeraland Spiced Meat Skewers Cooking
+  Recipe Buff Spiced Meat Skewers 420 Fullness 80 DEF recipe "
+excerpt: "Recipe Spiced Meat Skewers Chimeraland Spiced Meat Skewers Cooking
+  Recipe Buff Spiced Meat Skewers 420 Fullness 80 DEF recipe "
+id: 8d7a46d4-22d2-4888-8fd2-6331490c2195
+lang: en
 permalink: /chimeraland/recipes/spiced-meat-skewers.html
 photos:
   - /chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers.webp
   - /chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers-name.webp
   - /chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers-icon.webp
   - /chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers-material.webp
-thumbnail: /chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers.webp
+subtitle: "Recipe Spiced Meat Skewers Chimeraland Spiced Meat Skewers Cooking
+  Recipe Buff Spiced Meat Skewers 420 Fullness 80 DEF recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/spiced-meat-skewers/spiced-meat-skewers.webp
+title: Recipe Spiced Meat Skewers Chimeraland
+type: post
+updated: 2022-10-06T15:46:55+07:00
+wordcount: 713
 ---
 
 <link

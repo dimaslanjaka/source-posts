@@ -1,16 +1,40 @@
 ---
-title: Snippet Convert Bytes To Human Readable
+author: Dimas Lanjaka
+categories:
+  - programming
+  - js
+comments: true
 date: 2022-10-12T09:02:28+07:00
-updated: 2022-10-12T09:02:28+07:00
-keywords: ['bytes','human readable','typescript','javascript','function']
+description: Snippet Convert Bytes To Human Readable Script function JS for
+  Converting file size in bytes to human-readable string / Format bytes as
+  human-readable text. @param bytes Number of bytes. @param si True to use
+  metric SI units, aka powers of 1000. False to use binary IEC
+excerpt: Snippet Convert Bytes To Human Readable Script function JS for
+  Converting file size in bytes to human-readable string / Format bytes as
+  human-readable text. @param bytes Number of bytes. @param si True to use
+  metric SI units, aka powers of 1000. False to use binary IEC
+id: d9a6a0ae-f108-4888-812b-377cf49856f8
+keywords:
+  - bytes
+  - human readable
+  - typescript
+  - javascript
+  - function
+lang: en
+photos: []
+subtitle: Snippet Convert Bytes To Human Readable Script function JS for
+  Converting file size in bytes to human-readable string / Format bytes as
+  human-readable text. @param bytes Number of bytes. @param si True to use
+  metric SI units, aka powers of 1000. False to use binary IEC
 tags:
   - file
   - size
   - node
-  - JS
-category:
-  - Programming
-  - JS
+  - js
+title: Snippet Convert Bytes To Human Readable
+type: post
+updated: 2022-10-12T09:02:28+07:00
+wordcount: 621
 ---
 
 Script function JS for Converting file size in bytes to human-readable string

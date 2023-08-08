@@ -1,9 +1,18 @@
 ---
-title: Attendant vulanin
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-11-26T11:35:17+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-22-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2022-11-26T11:24:17+07:00
+description: "Attendant vulanin vulanin Information from Chimeraland vulanin
+  default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Attendant vulanin vulanin Information from Chimeraland vulanin default
+  maximum attribute GRADE N/A N/A Attack N/A "
+id: b2bc38ab-0779-4888-8223-fdfccacd4fca
+lang: en
 permalink: /chimeraland/attendants/vulanin.html
 photos:
   - /chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-22-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,14 +22,17 @@ photos:
   - /chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-51-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-57-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-11-01-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-22-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant vulanin vulanin Information from Chimeraland vulanin
+  default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-22-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant vulanin
+type: post
+updated: 2022-11-26T11:35:17+07:00
+webtitle: chimeraland
+wordcount: 1059
 ---
 
 <link

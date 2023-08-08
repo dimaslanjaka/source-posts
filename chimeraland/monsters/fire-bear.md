@@ -1,21 +1,33 @@
 ---
-title: Monster Fire Bear
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T08:38:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Bear
 date: 2023-05-25T02:21:12+07:00
+description: "Monster Fire Bear Fire Bear Information from Chimeraland Fire Bear
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Fire Bear Fire Bear Information from Chimeraland Fire Bear
+  default maximum attribute GRADE Attack "
+id: 4faf27d0-42b9-4888-8e0c-fbede258bc6e
+lang: en
 permalink: /chimeraland/monsters/fire-bear.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Bear
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Bear
+subtitle: "Monster Fire Bear Fire Bear Information from Chimeraland Fire Bear
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Bear
+title: Monster Fire Bear
+type: post
+updated: 2023-05-25T08:38:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

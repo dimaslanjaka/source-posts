@@ -1,7 +1,33 @@
-title: Excerpts
+---
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 date: 2013-12-25 00:23:23
+description: "Excerpts The following contents should be invisible in
+  home/archive page. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus.
+  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
+  ridiculus mus. Sed "
+excerpt: "Excerpts The following contents should be invisible in home/archive
+  page. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna
+  vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis
+  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed
+  "
+id: 973191d5-6de3-4888-8ebf-36d6c0451b73
+lang: en
+photos: []
 robots: no-index
-tags:
+subtitle: "Excerpts The following contents should be invisible in home/archive
+  page. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna
+  vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis
+  natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed
+  "
+tags: []
+title: Excerpts
+type: post
+updated: 2013-12-25T00:23:23+07:00
+wordcount: 544
 ---
 
 The following contents should be invisible in home/archive page.

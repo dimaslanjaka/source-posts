@@ -1,19 +1,36 @@
 ---
-title: Material Ancient Coconut Chimeraland
-date: 2022-01-14T05:56:03+07:00
-updated: 2022-10-06T05:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/ancient-coconut/ancient-coconut.webp
+date: 2022-01-14T05:56:03+07:00
+description: "Material Ancient Coconut Chimeraland materials Ancient Coconut
+  October 6, 2022 5:26 AM Old coconut tree fruit. Juicy on the inside with a
+  clear and sweet texture, eaten to quench thirst. Continue reading Ancient
+  Coconut "
+excerpt: "Material Ancient Coconut Chimeraland materials Ancient Coconut October
+  6, 2022 5:26 AM Old coconut tree fruit. Juicy on the inside with a clear and
+  sweet texture, eaten to quench thirst. Continue reading Ancient Coconut "
+id: 709e7917-76e3-4888-8c48-02d9af8f9398
+lang: en
 permalink: /chimeraland/materials/ancient-coconut.html
 photos:
   - /chimeraland/materials/ancient-coconut/ancient-coconut.webp
-thumbnail: /chimeraland/materials/ancient-coconut/ancient-coconut.webp
+subtitle: "Material Ancient Coconut Chimeraland materials Ancient Coconut
+  October 6, 2022 5:26 AM Old coconut tree fruit. Juicy on the inside with a
+  clear and sweet texture, eaten to quench thirst. Continue reading Ancient
+  Coconut "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/ancient-coconut/ancient-coconut.webp
+title: Material Ancient Coconut Chimeraland
+type: post
+updated: 2022-10-06T05:26:37+07:00
+wordcount: 1150
 ---
 
 <link

@@ -1,21 +1,33 @@
 ---
-title: Monster Archerfish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T03:50:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Archerfish
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Archerfish Archerfish Information from Chimeraland
+  Archerfish default maximum attribute GRADE Attack "
+excerpt: "Monster Archerfish Archerfish Information from Chimeraland Archerfish
+  default maximum attribute GRADE Attack "
+id: f610e54d-d112-4888-89c1-f524a3eb2487
+lang: en
 permalink: /chimeraland/monsters/archerfish.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Archerfish
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Archerfish
+subtitle: "Monster Archerfish Archerfish Information from Chimeraland Archerfish
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Archerfish
+title: Monster Archerfish
+type: post
+updated: 2023-05-25T03:50:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

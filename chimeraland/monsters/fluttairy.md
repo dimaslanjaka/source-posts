@@ -1,21 +1,33 @@
 ---
-title: Monster Fluttairy
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T17:03:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fluttairy
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Fluttairy Fluttairy Information from Chimeraland Fluttairy
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Fluttairy Fluttairy Information from Chimeraland Fluttairy
+  default maximum attribute GRADE Attack "
+id: 072e489b-b01d-4888-8111-cb5931d6642e
+lang: en
 permalink: /chimeraland/monsters/fluttairy.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fluttairy
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fluttairy
+subtitle: "Monster Fluttairy Fluttairy Information from Chimeraland Fluttairy
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fluttairy
+title: Monster Fluttairy
+type: post
+updated: 2023-05-25T17:03:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

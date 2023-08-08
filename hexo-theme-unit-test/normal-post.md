@@ -1,7 +1,20 @@
 ---
-title: Normal post
-description: Description normal post
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 date: 2022-11-11
+description: Description normal post
+excerpt: Description normal post
+id: 3e0661fc-e949-4888-86a6-0cd9a2792b2b
+lang: en
+photos: []
+subtitle: Description normal post
+tags: []
+title: Normal post
+type: post
+updated: 2022-11-11T07:00:00+07:00
+wordcount: 7
 ---
 
 Normal post body

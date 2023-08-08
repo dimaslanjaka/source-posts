@@ -1,23 +1,34 @@
 ---
-title: Recipe Refreshing Pill Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T01:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/refreshing-pill/refreshing-pill.webp
 date: 2022-01-11T13:56:03+07:00
+description: "Recipe Refreshing Pill Chimeraland Refreshing Pill Cooking Recipe
+  Buff Refreshing Pill 180 fullness -40 toxins/s recipe "
+excerpt: "Recipe Refreshing Pill Chimeraland Refreshing Pill Cooking Recipe Buff
+  Refreshing Pill 180 fullness -40 toxins/s recipe "
+id: c60b7ca8-fdfc-4888-8ee6-33e0da4b355b
+lang: en
 permalink: /chimeraland/recipes/refreshing-pill.html
 photos:
   - /chimeraland/recipes/refreshing-pill/refreshing-pill.webp
   - /chimeraland/recipes/refreshing-pill/refreshing-pill-name.webp
   - /chimeraland/recipes/refreshing-pill/refreshing-pill-icon.webp
   - /chimeraland/recipes/refreshing-pill/refreshing-pill-material.webp
-thumbnail: /chimeraland/recipes/refreshing-pill/refreshing-pill.webp
+subtitle: "Recipe Refreshing Pill Chimeraland Refreshing Pill Cooking Recipe
+  Buff Refreshing Pill 180 fullness -40 toxins/s recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/refreshing-pill/refreshing-pill.webp
+title: Recipe Refreshing Pill Chimeraland
+type: post
+updated: 2022-10-06T01:46:56+07:00
+wordcount: 881
 ---
 
 <link

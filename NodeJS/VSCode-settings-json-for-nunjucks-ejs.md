@@ -1,11 +1,37 @@
 ---
-title: VSCode settings JSON for nunjucks and EJS
-tags: ['VSCode']
-category: ['Programming']
+author: Dimas Lanjaka
+categories:
+  - programming
+comments: true
+cover: https://miro.medium.com/max/1400/1*Q1xstpngN6E4H-WHLySJvg.png
 date: 2022-11-10T07:45:00+07:00
-updated: 2022-11-10T08:00:33+07:00
+description: "VSCode settings JSON for nunjucks and EJS Download VSCode Nunjucks
+  Plugin
+  ResourceLinkMarketplacehttps://marketplace.visualstudio.com/items?itemName=gi\
+  nfuru.better-nunjucksRepositoryhttps://github.com/edheltzel/nunjucks-for-visu\
+  al-studio-code ResourceLink Resource Link Marketplacehttps:"
+excerpt: "VSCode settings JSON for nunjucks and EJS Download VSCode Nunjucks
+  Plugin
+  ResourceLinkMarketplacehttps://marketplace.visualstudio.com/items?itemName=gi\
+  nfuru.better-nunjucksRepositoryhttps://github.com/edheltzel/nunjucks-for-visu\
+  al-studio-code ResourceLink Resource Link Marketplacehttps:"
+id: 7f0e0bba-f210-4888-8632-2eab48bbf9f5
+lang: en
 permalink: /2022/10/vscode-settings-json-for-nunjucks-ejs.html
+photos:
+  - https://miro.medium.com/max/1400/1*Q1xstpngN6E4H-WHLySJvg.png
+subtitle: "VSCode settings JSON for nunjucks and EJS Download VSCode Nunjucks
+  Plugin
+  ResourceLinkMarketplacehttps://marketplace.visualstudio.com/items?itemName=gi\
+  nfuru.better-nunjucksRepositoryhttps://github.com/edheltzel/nunjucks-for-visu\
+  al-studio-code ResourceLink Resource Link Marketplacehttps:"
+tags:
+  - vscode
 thumbnail: https://miro.medium.com/max/1400/1*Q1xstpngN6E4H-WHLySJvg.png
+title: VSCode settings JSON for nunjucks and EJS
+type: post
+updated: 2022-11-10T08:00:33+07:00
+wordcount: 1316
 ---
 
 ## Download VSCode Nunjucks Plugin

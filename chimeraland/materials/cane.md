@@ -1,19 +1,31 @@
 ---
-title: Material Cane Chimeraland
-date: 2022-01-13T18:56:03+07:00
-updated: 2022-10-05T18:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/cane/cane.webp
+date: 2022-01-13T18:56:03+07:00
+description: Material Cane Chimeraland materials Cane October 5, 2022 6:26 PM
+  Continue reading Cane What is the use of the Cane Can be used for Cre
+excerpt: Material Cane Chimeraland materials Cane October 5, 2022 6:26 PM
+  Continue reading Cane What is the use of the Cane Can be used for Cre
+id: 59ae7e7d-9723-4888-83fa-cf64ae63a6d0
+lang: en
 permalink: /chimeraland/materials/cane.html
 photos:
   - /chimeraland/materials/cane/cane.webp
-thumbnail: /chimeraland/materials/cane/cane.webp
+subtitle: Material Cane Chimeraland materials Cane October 5, 2022 6:26 PM
+  Continue reading Cane What is the use of the Cane Can be used for Cre
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/cane/cane.webp
+title: Material Cane Chimeraland
+type: post
+updated: 2022-10-05T18:26:37+07:00
+wordcount: 1119
 ---
 
 <link

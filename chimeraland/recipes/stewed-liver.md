@@ -1,23 +1,34 @@
 ---
-title: Recipe Stewed Liver Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T08:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/stewed-liver/stewed-liver.webp
 date: 2022-01-12T10:56:03+07:00
+description: Recipe Stewed Liver Chimeraland Stewed Liver Cooking Recipe Buff
+  Stewed Liver 540 fullness 50 Armor Pierce recipe w
+excerpt: Recipe Stewed Liver Chimeraland Stewed Liver Cooking Recipe Buff Stewed
+  Liver 540 fullness 50 Armor Pierce recipe w
+id: 3537f5d2-cc9f-4888-8a27-9632b32bfbd7
+lang: en
 permalink: /chimeraland/recipes/stewed-liver.html
 photos:
   - /chimeraland/recipes/stewed-liver/stewed-liver.webp
   - /chimeraland/recipes/stewed-liver/stewed-liver-name.webp
   - /chimeraland/recipes/stewed-liver/stewed-liver-icon.webp
   - /chimeraland/recipes/stewed-liver/stewed-liver-material.webp
-thumbnail: /chimeraland/recipes/stewed-liver/stewed-liver.webp
+subtitle: Recipe Stewed Liver Chimeraland Stewed Liver Cooking Recipe Buff
+  Stewed Liver 540 fullness 50 Armor Pierce recipe w
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/stewed-liver/stewed-liver.webp
+title: Recipe Stewed Liver Chimeraland
+type: post
+updated: 2022-10-06T08:46:56+07:00
+wordcount: 1752
 ---
 
 <link

@@ -3,18 +3,36 @@ author:
   nick: Kuswati
   link: https://www.blogger.com/profile/09256263851708439294
   email: noreply@blogger.com
-category: ['programming', 'kotlin']
+categories:
+  - programming
+  - kotlin
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2020-10-24T09:19:00.000+07:00
-lang: en 
+description: Example getting properties value from settings.gradle.kts
+  pluginManagement resolutionStrategy eachPlugin // Work around
+  https://github.com/gradle/gradle/issues/1697. if requested.version == null def
+  pluginName = requested.id.name.split-
+excerpt: Example getting properties value from settings.gradle.kts
+  pluginManagement resolutionStrategy eachPlugin // Work around
+  https://github.com/gradle/gradle/issues/1697. if requested.version == null def
+  pluginName = requested.id.name.split-
+id: ae22a991-faa5-4888-8e98-80e28ad9835d
+lang: en
+photos:
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
+subtitle: Example getting properties value from settings.gradle.kts
+  pluginManagement resolutionStrategy eachPlugin // Work around
+  https://github.com/gradle/gradle/issues/1697. if requested.version == null def
+  pluginName = requested.id.name.split-
 tags:
-  - Kotlin
+  - kotlin
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Example getting properties value from settings.gradle.kts
 type: post
-uuid: 27d03306-0c58-4888-8a64-b45d83662e64
 updated: 2023-03-27T16:54:13+07:00
-thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
+uuid: 27d03306-0c58-4888-8a64-b45d83662e64
+wordcount: 292
 ---
 
 ```kotlin

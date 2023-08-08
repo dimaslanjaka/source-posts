@@ -1,21 +1,33 @@
 ---
-title: Monster Purple Snapper
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T09:02:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Purple Snapper
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Purple Snapper Purple Snapper Information from Chimeraland
+  Purple Snapper default maximum attribute GRADE Attack "
+excerpt: "Monster Purple Snapper Purple Snapper Information from Chimeraland
+  Purple Snapper default maximum attribute GRADE Attack "
+id: f64822b5-75db-4888-85f8-56f508181641
+lang: en
 permalink: /chimeraland/monsters/purple-snapper.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Purple Snapper
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Purple Snapper
+subtitle: "Monster Purple Snapper Purple Snapper Information from Chimeraland
+  Purple Snapper default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Purple Snapper
+title: Monster Purple Snapper
+type: post
+updated: 2023-05-25T09:02:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

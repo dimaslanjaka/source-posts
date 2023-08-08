@@ -11,6 +11,7 @@ lang: en
 permalink: 2023/01/04/posts/hexo-theme-unit-test/post-watcher/
 photos: []
 slug: 2023/01/04/posts/hexo-theme-unit-test/post-watcher/
+subtitle: watching post watch post body
 tags: []
 title: watching post
 type: page

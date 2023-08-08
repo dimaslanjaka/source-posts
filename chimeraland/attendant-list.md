@@ -1,11 +1,35 @@
-
 ---
-title: Chimeraland Attendant List
+author: Dimas Lanjaka
+categories:
+  - games
+  - chimeraland
+comments: true
 date: 2023-04-12T13:38:00+0700
-updated: 2023-08-06T22:00:21+07:00
-categories: ['games', 'chimeraland']
-tags: ['attendant']
+description: Chimeraland Attendant List List attendant chimeraland game Lunar
+  AquatineShaman RegniRosary TwinkelLunar RegniShajiShahoragaiShaman
+  TwinkleShaman AstraRemetrogCrosooLok-AquiDraco VioletineLetooLunar
+  ShirenMakooMantiguardMantitrackOcygathaReisigerRhijinRosary AquatineRosary
+  Fortu
+excerpt: Chimeraland Attendant List List attendant chimeraland game Lunar
+  AquatineShaman RegniRosary TwinkelLunar RegniShajiShahoragaiShaman
+  TwinkleShaman AstraRemetrogCrosooLok-AquiDraco VioletineLetooLunar
+  ShirenMakooMantiguardMantitrackOcygathaReisigerRhijinRosary AquatineRosary
+  Fortu
+id: ecd1cefb-2d73-4888-892e-b7e1cdab1be9
+lang: en
 permalink: /chimeraland/attendant-list.html
+photos: []
+subtitle: Chimeraland Attendant List List attendant chimeraland game Lunar
+  AquatineShaman RegniRosary TwinkelLunar RegniShajiShahoragaiShaman
+  TwinkleShaman AstraRemetrogCrosooLok-AquiDraco VioletineLetooLunar
+  ShirenMakooMantiguardMantitrackOcygathaReisigerRhijinRosary AquatineRosary
+  Fortu
+tags:
+  - attendant
+title: Chimeraland Attendant List
+type: post
+updated: 2023-08-06T22:00:21+07:00
+wordcount: 173
 ---
 
 ## List attendant chimeraland game

@@ -1,23 +1,34 @@
 ---
-title: Recipe Ultimate Meat Dish Chimeraland
 author: L3n4r0x
-updated: 2022-10-07T10:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish.webp
 date: 2022-01-12T14:56:03+07:00
+description: "Recipe Ultimate Meat Dish Chimeraland Ultimate Meat Dish Cooking
+  Recipe Buff Ultimate Meat Dish 420 Fullness 80 Def recipe "
+excerpt: "Recipe Ultimate Meat Dish Chimeraland Ultimate Meat Dish Cooking
+  Recipe Buff Ultimate Meat Dish 420 Fullness 80 Def recipe "
+id: 9cfd34af-bd57-4888-86ed-2cff73df09b0
+lang: en
 permalink: /chimeraland/recipes/ultimate-meat-dish.html
 photos:
   - /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish.webp
   - /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish-name.webp
   - /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish-icon.webp
   - /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish-material.webp
-thumbnail: /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish.webp
+subtitle: "Recipe Ultimate Meat Dish Chimeraland Ultimate Meat Dish Cooking
+  Recipe Buff Ultimate Meat Dish 420 Fullness 80 Def recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish.webp
+title: Recipe Ultimate Meat Dish Chimeraland
+type: post
+updated: 2022-10-07T10:46:55+07:00
+wordcount: 806
 ---
 
 <link

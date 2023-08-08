@@ -1,13 +1,24 @@
 ---
-title: Cannot run php on powershell
-subtitle: fix php environtment path for powershell
-date: 2022-03-27T01:30:00+0700
-updated: 2022-03-27T01:30:00+0700
-cover: https://res.cloudinary.com/practicaldev/image/fetch/https://windowstect.com/wp-content/uploads/2021/05/image-80.png
-tags:
-  - Powershell
+author: Dimas Lanjaka
 categories:
-  - Programming
+  - programming
+comments: true
+cover: https://res.cloudinary.com/practicaldev/image/fetch/https://windowstect.com/wp-content/uploads/2021/05/image-80.png
+date: 2022-03-27T01:30:00+0700
+description: fix php environtment path for powershell
+excerpt: fix php environtment path for powershell
+id: f1fe35f4-632d-4888-8be4-d86b8a41eb8f
+lang: en
+photos:
+  - https://res.cloudinary.com/practicaldev/image/fetch/https://windowstect.com/wp-content/uploads/2021/05/image-80.png
+subtitle: fix php environtment path for powershell
+tags:
+  - powershell
+thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/https://windowstect.com/wp-content/uploads/2021/05/image-80.png
+title: Cannot run php on powershell
+type: post
+updated: 2022-03-27T01:30:00+0700
+wordcount: 1033
 ---
 
 ## Powershell

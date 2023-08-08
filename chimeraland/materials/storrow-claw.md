@@ -1,19 +1,34 @@
 ---
-title: Material Storrow Claw Chimeraland
-date: 2022-01-10T14:56:03+07:00
-updated: 2022-10-02T14:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/storrow-claw/storrow-claw.webp
+date: 2022-01-10T14:56:03+07:00
+description: "Material Storrow Claw Chimeraland materials Storrow Claw October
+  2, 2022 2:26 PM Its claws are long and short and its feet are webbed. It can
+  stand and crouch and is and excellent fighter. Continue reading Storrow Claw "
+excerpt: "Material Storrow Claw Chimeraland materials Storrow Claw October 2,
+  2022 2:26 PM Its claws are long and short and its feet are webbed. It can
+  stand and crouch and is and excellent fighter. Continue reading Storrow Claw "
+id: 4667bfd6-e99d-4888-8bb6-78e3fbe751dd
+lang: en
 permalink: /chimeraland/materials/storrow-claw.html
 photos:
   - /chimeraland/materials/storrow-claw/storrow-claw.webp
-thumbnail: /chimeraland/materials/storrow-claw/storrow-claw.webp
+subtitle: "Material Storrow Claw Chimeraland materials Storrow Claw October 2,
+  2022 2:26 PM Its claws are long and short and its feet are webbed. It can
+  stand and crouch and is and excellent fighter. Continue reading Storrow Claw "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/storrow-claw/storrow-claw.webp
+title: Material Storrow Claw Chimeraland
+type: post
+updated: 2022-10-02T14:26:37+07:00
+wordcount: 1061
 ---
 
 <link

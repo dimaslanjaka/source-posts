@@ -1,19 +1,31 @@
 ---
-title: Material Scallion Chimeraland
-date: 2022-01-12T04:56:03+07:00
-updated: 2022-10-04T04:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/scallion/scallion.webp
+date: 2022-01-12T04:56:03+07:00
+description: "Material Scallion Chimeraland materials Scallion October 4, 2022
+  4:26 AM Continue reading Scallion What is the use of the Scallion "
+excerpt: "Material Scallion Chimeraland materials Scallion October 4, 2022 4:26
+  AM Continue reading Scallion What is the use of the Scallion "
+id: 3513992c-5d6d-4888-84a7-a815090783ad
+lang: en
 permalink: /chimeraland/materials/scallion.html
 photos:
   - /chimeraland/materials/scallion/scallion.webp
-thumbnail: /chimeraland/materials/scallion/scallion.webp
+subtitle: "Material Scallion Chimeraland materials Scallion October 4, 2022 4:26
+  AM Continue reading Scallion What is the use of the Scallion "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/scallion/scallion.webp
+title: Material Scallion Chimeraland
+type: post
+updated: 2022-10-04T04:26:37+07:00
+wordcount: 1553
 ---
 
 <link

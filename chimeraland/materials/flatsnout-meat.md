@@ -1,19 +1,34 @@
 ---
-title: Material Flatsnout Meat Chimeraland
-date: 2022-01-07T21:56:03+07:00
-updated: 2022-09-29T21:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/flatsnout-meat/flatsnout-meat.webp
+date: 2022-01-07T21:56:03+07:00
+description: "Material Flatsnout Meat Chimeraland materials Flatsnout Meat
+  September 29, 2022 9:26 PM Continue reading Flatsnout Meat What is the use of
+  the Flatsnout Meat "
+excerpt: "Material Flatsnout Meat Chimeraland materials Flatsnout Meat September
+  29, 2022 9:26 PM Continue reading Flatsnout Meat What is the use of the
+  Flatsnout Meat "
+id: 78bca82e-bb66-4888-8ee6-6b7600c2f6df
+lang: en
 permalink: /chimeraland/materials/flatsnout-meat.html
 photos:
   - /chimeraland/materials/flatsnout-meat/flatsnout-meat.webp
-thumbnail: /chimeraland/materials/flatsnout-meat/flatsnout-meat.webp
+subtitle: "Material Flatsnout Meat Chimeraland materials Flatsnout Meat
+  September 29, 2022 9:26 PM Continue reading Flatsnout Meat What is the use of
+  the Flatsnout Meat "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/flatsnout-meat/flatsnout-meat.webp
+title: Material Flatsnout Meat Chimeraland
+type: post
+updated: 2022-09-29T21:26:37+07:00
+wordcount: 633
 ---
 
 <link

@@ -1,12 +1,31 @@
 ---
-title: New Map Northmount on Chimeraland
+author: Dimas Lanjaka
+categories:
+  - games
+  - chimeraland
+comments: true
 date: 2022-10-27T20:59:32+07:00
-updated: 2022-10-31T03:24:34+07:00
-category:
-  - Games
-  - Chimeraland
+description: "New Map Northmount on Chimeraland Chimeraland: NorthmountNew map
+  is available The beauty of Northmount is revealedFloating Island, Aurora,
+  Deepsea, Hafslanges Palaceand many more exciting new locations Come and
+  discover all the beauty the Northmount has to offer New versions of Strategie"
+excerpt: "New Map Northmount on Chimeraland Chimeraland: NorthmountNew map is
+  available The beauty of Northmount is revealedFloating Island, Aurora,
+  Deepsea, Hafslanges Palaceand many more exciting new locations Come and
+  discover all the beauty the Northmount has to offer New versions of Strategie"
+id: 692976ae-de36-4888-89b3-a7cd30bd29db
+lang: en
+photos: []
+subtitle: "New Map Northmount on Chimeraland Chimeraland: NorthmountNew map is
+  available The beauty of Northmount is revealedFloating Island, Aurora,
+  Deepsea, Hafslanges Palaceand many more exciting new locations Come and
+  discover all the beauty the Northmount has to offer New versions of Strategie"
 tags:
   - news
+title: New Map Northmount on Chimeraland
+type: post
+updated: 2022-10-31T03:24:34+07:00
+wordcount: 5321
 ---
 
 【Chimeraland: Northmount】New map is available!

@@ -1,19 +1,31 @@
 ---
-title: Material Broccoli Chimeraland
-date: 2022-01-12T05:56:03+07:00
-updated: 2022-10-04T05:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/broccoli/broccoli.webp
+date: 2022-01-12T05:56:03+07:00
+description: "Material Broccoli Chimeraland materials Broccoli October 4, 2022
+  5:26 AM Continue reading Broccoli What is the use of the Broccoli "
+excerpt: "Material Broccoli Chimeraland materials Broccoli October 4, 2022 5:26
+  AM Continue reading Broccoli What is the use of the Broccoli "
+id: 93c194f3-db32-4888-89a5-7695768e3b7a
+lang: en
 permalink: /chimeraland/materials/broccoli.html
 photos:
   - /chimeraland/materials/broccoli/broccoli.webp
-thumbnail: /chimeraland/materials/broccoli/broccoli.webp
+subtitle: "Material Broccoli Chimeraland materials Broccoli October 4, 2022 5:26
+  AM Continue reading Broccoli What is the use of the Broccoli "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/broccoli/broccoli.webp
+title: Material Broccoli Chimeraland
+type: post
+updated: 2022-10-04T05:26:37+07:00
+wordcount: 511
 ---
 
 <link

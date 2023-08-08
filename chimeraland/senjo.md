@@ -1,14 +1,23 @@
 ---
-title: Senjo craft lists
-description: Senjo item crafting lists
+author: Dimas Lanjaka
+categories:
+  - games
+  - chimeraland
+comments: true
 date: 2022-06-17
-updated: 2022-07-07T09:39:00+0700
-category:
-  - Games
-  - Chimeraland
+description: Senjo item crafting lists
+excerpt: Senjo item crafting lists
+id: ce946e9e-81cf-4888-899a-3a12c22703ce
+lang: en
+photos: []
+subtitle: Senjo item crafting lists
 tags:
-  - Chimeraland
-  - Craft
+  - chimeraland
+  - craft
+title: Senjo craft lists
+type: post
+updated: 2022-07-07T09:39:00+0700
+wordcount: 301
 ---
 
 <!-- include index2/update.html -->

@@ -1,19 +1,34 @@
 ---
-title: Material Red Apricot Wood Chimeraland
-date: 2022-01-13T22:56:03+07:00
-updated: 2022-10-05T22:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/red-apricot-wood/red-apricot-wood.webp
+date: 2022-01-13T22:56:03+07:00
+description: "Material Red Apricot Wood Chimeraland materials Red Apricot Wood
+  October 5, 2022 10:26 PM Cherry tree core. Formed over many years, can be used
+  for vehicles. Continue reading Red Apricot Wood "
+excerpt: "Material Red Apricot Wood Chimeraland materials Red Apricot Wood
+  October 5, 2022 10:26 PM Cherry tree core. Formed over many years, can be used
+  for vehicles. Continue reading Red Apricot Wood "
+id: 3c5ac2e7-6ba1-4888-8ed0-e9ca1ce19c37
+lang: en
 permalink: /chimeraland/materials/red-apricot-wood.html
 photos:
   - /chimeraland/materials/red-apricot-wood/red-apricot-wood.webp
-thumbnail: /chimeraland/materials/red-apricot-wood/red-apricot-wood.webp
+subtitle: "Material Red Apricot Wood Chimeraland materials Red Apricot Wood
+  October 5, 2022 10:26 PM Cherry tree core. Formed over many years, can be used
+  for vehicles. Continue reading Red Apricot Wood "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/red-apricot-wood/red-apricot-wood.webp
+title: Material Red Apricot Wood Chimeraland
+type: post
+updated: 2022-10-05T22:26:37+07:00
+wordcount: 1165
 ---
 
 <link

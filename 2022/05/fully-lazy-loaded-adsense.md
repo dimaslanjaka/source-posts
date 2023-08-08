@@ -1,17 +1,28 @@
 ---
-title: Lazy Load Adsense Full Support 2022 Adsense API
-description: Snippet lazy load adsense full support for blogger, wordpress, etc
-date: 2022-05-10T23:20:16+0000
-updated: 2022-05-11T08:52:06+0000
+author: Dimas Lanjaka
+categories:
+  - adsense
+  - programming
+comments: true
 cover: https://1.bp.blogspot.com/-JB0hsyji7wo/XR0Sq_evvpI/AAAAAAAATlo/afDSTs1Y-HcrcDANMV9fGrGwZUU37o31wCLcBGAs/w600/Cara-Memasang-Lazy-Load-Iklan-Adsense.png
-category:
-  - Adsense
-  - Programming
+date: 2022-05-10T23:20:16+0000
+description: Snippet lazy load adsense full support for blogger, wordpress, etc
+excerpt: Snippet lazy load adsense full support for blogger, wordpress, etc
+id: 98cf9b80-d883-4888-8f78-ed14287482e8
+lang: en
+photos:
+  - https://1.bp.blogspot.com/-JB0hsyji7wo/XR0Sq_evvpI/AAAAAAAATlo/afDSTs1Y-HcrcDANMV9fGrGwZUU37o31wCLcBGAs/w600/Cara-Memasang-Lazy-Load-Iklan-Adsense.png
+subtitle: Snippet lazy load adsense full support for blogger, wordpress, etc
 tags:
-  - JS
-  - HTML
-  - Blogger
-  - Wordpress
+  - js
+  - html
+  - blogger
+  - wordpress
+thumbnail: https://1.bp.blogspot.com/-JB0hsyji7wo/XR0Sq_evvpI/AAAAAAAATlo/afDSTs1Y-HcrcDANMV9fGrGwZUU37o31wCLcBGAs/w600/Cara-Memasang-Lazy-Load-Iklan-Adsense.png
+title: Lazy Load Adsense Full Support 2022 Adsense API
+type: post
+updated: 2022-05-11T08:52:06+0000
+wordcount: 586
 ---
 
 change `ca-pub-1165447249910969` with your own adsense pub

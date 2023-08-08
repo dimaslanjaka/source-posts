@@ -1,10 +1,38 @@
 ---
-title: removes node_modules from git history
+author: Dimas Lanjaka
+categories:
+  - programming
+  - bash
+  - github
+comments: true
+cover: https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82
 date: 2023-05-16T05:35:19+07:00
-updated: 2023-06-01T09:12:13+07:00
-category: [programming, bash, github]
-tags: [bash, snippet, script, github]
+description: "removes node_modules from git history Deprecated method to delete
+  node_modules from github repository commit historyWARNING: git filter-branch
+  is no longer officially recommended.The official recommendation is to use
+  git-filter-repo.see Andr Anjos answer for detailsIf you are here to copy-pas"
+excerpt: "removes node_modules from git history Deprecated method to delete
+  node_modules from github repository commit historyWARNING: git filter-branch
+  is no longer officially recommended.The official recommendation is to use
+  git-filter-repo.see Andr Anjos answer for detailsIf you are here to copy-pas"
+id: 494dd05b-d717-4888-8d46-2da678f2c958
+lang: en
+photos:
+  - https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82
+subtitle: "removes node_modules from git history Deprecated method to delete
+  node_modules from github repository commit historyWARNING: git filter-branch
+  is no longer officially recommended.The official recommendation is to use
+  git-filter-repo.see Andr Anjos answer for detailsIf you are here to copy-pas"
+tags:
+  - bash
+  - snippet
+  - script
+  - github
 thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82
+title: removes node_modules from git history
+type: post
+updated: 2023-06-01T09:12:13+07:00
+wordcount: 1182
 ---
 
 <!-- https://stackoverflow.com/questions/10067848/remove-folder-and-its-contents-from-git-githubs-history/61544937#61544937 -->

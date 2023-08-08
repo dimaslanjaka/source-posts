@@ -1,19 +1,34 @@
 ---
-title: Material Magma Armor Chimeraland
-date: 2022-01-11T14:56:03+07:00
-updated: 2022-10-03T14:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/magma-armor/magma-armor.webp
+date: 2022-01-11T14:56:03+07:00
+description: "Material Magma Armor Chimeraland materials Magma Armor October 3,
+  2022 2:26 PM The armor of a Magma Beast shines like a blazing day and is
+  indestructible. Continue reading Magma Armor "
+excerpt: "Material Magma Armor Chimeraland materials Magma Armor October 3, 2022
+  2:26 PM The armor of a Magma Beast shines like a blazing day and is
+  indestructible. Continue reading Magma Armor "
+id: 3818cd98-c344-4888-8b7c-d892f00b4213
+lang: en
 permalink: /chimeraland/materials/magma-armor.html
 photos:
   - /chimeraland/materials/magma-armor/magma-armor.webp
-thumbnail: /chimeraland/materials/magma-armor/magma-armor.webp
+subtitle: "Material Magma Armor Chimeraland materials Magma Armor October 3,
+  2022 2:26 PM The armor of a Magma Beast shines like a blazing day and is
+  indestructible. Continue reading Magma Armor "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/magma-armor/magma-armor.webp
+title: Material Magma Armor Chimeraland
+type: post
+updated: 2022-10-03T14:26:37+07:00
+wordcount: 903
 ---
 
 <link

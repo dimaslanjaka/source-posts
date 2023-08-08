@@ -1,23 +1,35 @@
 ---
-title: Recipe Poached Meat Fillets Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T09:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets.webp
 date: 2022-01-11T05:56:03+07:00
+description: "Recipe Poached Meat Fillets Chimeraland Poached Meat Fillets
+  Cooking Recipe Buff Poached Meat Fillets 540 Fullness 50 Armor Pierce Great
+  Focus "
+excerpt: "Recipe Poached Meat Fillets Chimeraland Poached Meat Fillets Cooking
+  Recipe Buff Poached Meat Fillets 540 Fullness 50 Armor Pierce Great Focus "
+id: 0ec21931-fbe7-4888-8321-bd637481e0e5
+lang: en
 permalink: /chimeraland/recipes/poached-meat-fillets.html
 photos:
   - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets.webp
   - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-name.webp
   - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-icon.webp
   - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-material.webp
-thumbnail: /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets.webp
+subtitle: "Recipe Poached Meat Fillets Chimeraland Poached Meat Fillets Cooking
+  Recipe Buff Poached Meat Fillets 540 Fullness 50 Armor Pierce Great Focus "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets.webp
+title: Recipe Poached Meat Fillets Chimeraland
+type: post
+updated: 2022-10-06T09:46:55+07:00
+wordcount: 936
 ---
 
 <link

@@ -1,19 +1,31 @@
 ---
-title: Material Palm Leaf Chimeraland
-date: 2022-01-14T08:56:03+07:00
-updated: 2022-10-06T08:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/palm-leaf/palm-leaf.webp
+date: 2022-01-14T08:56:03+07:00
+description: "Material Palm Leaf Chimeraland materials Palm Leaf October 6, 2022
+  8:26 AM Continue reading Palm Leaf What is the use of the Palm Leaf "
+excerpt: "Material Palm Leaf Chimeraland materials Palm Leaf October 6, 2022
+  8:26 AM Continue reading Palm Leaf What is the use of the Palm Leaf "
+id: 34b4a706-aa5f-4888-8faa-c003a959ab22
+lang: en
 permalink: /chimeraland/materials/palm-leaf.html
 photos:
   - /chimeraland/materials/palm-leaf/palm-leaf.webp
-thumbnail: /chimeraland/materials/palm-leaf/palm-leaf.webp
+subtitle: "Material Palm Leaf Chimeraland materials Palm Leaf October 6, 2022
+  8:26 AM Continue reading Palm Leaf What is the use of the Palm Leaf "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/palm-leaf/palm-leaf.webp
+title: Material Palm Leaf Chimeraland
+type: post
+updated: 2022-10-06T08:26:37+07:00
+wordcount: 1000
 ---
 
 <link

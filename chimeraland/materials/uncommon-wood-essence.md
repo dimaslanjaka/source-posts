@@ -1,19 +1,34 @@
 ---
-title: Material Uncommon Wood Essence Chimeraland
-date: 2022-01-12T13:56:03+07:00
-updated: 2022-10-04T13:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/uncommon-wood-essence/uncommon-wood-essence.webp
+date: 2022-01-12T13:56:03+07:00
+description: Material Uncommon Wood Essence Chimeraland materials Uncommon Wood
+  Essence October 4, 2022 1:26 PM Continue reading Uncommon Wood Essence What is
+  the use of the Uncommon Wood Essence
+excerpt: Material Uncommon Wood Essence Chimeraland materials Uncommon Wood
+  Essence October 4, 2022 1:26 PM Continue reading Uncommon Wood Essence What is
+  the use of the Uncommon Wood Essence
+id: 184fc56e-738c-4888-8104-fb3f0465675e
+lang: en
 permalink: /chimeraland/materials/uncommon-wood-essence.html
 photos:
   - /chimeraland/materials/uncommon-wood-essence/uncommon-wood-essence.webp
-thumbnail: /chimeraland/materials/uncommon-wood-essence/uncommon-wood-essence.webp
+subtitle: Material Uncommon Wood Essence Chimeraland materials Uncommon Wood
+  Essence October 4, 2022 1:26 PM Continue reading Uncommon Wood Essence What is
+  the use of the Uncommon Wood Essence
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/uncommon-wood-essence/uncommon-wood-essence.webp
+title: Material Uncommon Wood Essence Chimeraland
+type: post
+updated: 2022-10-04T13:26:37+07:00
+wordcount: 654
 ---
 
 <link

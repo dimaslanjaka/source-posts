@@ -1,21 +1,33 @@
 ---
-title: Monster Beetlefly
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T18:59:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Beetlefly
 date: 2022-01-07T04:56:03+07:00
+description: "Monster Beetlefly Beetlefly Information from Chimeraland Beetlefly
+  default maximum attribute GRADE C RARE Attack 35 "
+excerpt: "Monster Beetlefly Beetlefly Information from Chimeraland Beetlefly
+  default maximum attribute GRADE C RARE Attack 35 "
+id: 4357e8f8-0c8c-4888-87a1-a5f0f226c24e
+lang: en
 permalink: /chimeraland/monsters/beetlefly.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Beetlefly
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Beetlefly
+subtitle: "Monster Beetlefly Beetlefly Information from Chimeraland Beetlefly
+  default maximum attribute GRADE C RARE Attack 35 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Beetlefly
+title: Monster Beetlefly
+type: post
+updated: 2023-05-25T18:59:12+07:00
+webtitle: chimeraland
+wordcount: 633
 ---
 
 <link

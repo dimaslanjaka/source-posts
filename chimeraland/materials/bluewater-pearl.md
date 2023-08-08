@@ -1,19 +1,34 @@
 ---
-title: Material Bluewater Pearl Chimeraland
-date: 2022-01-13T16:56:03+07:00
-updated: 2022-10-05T16:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/bluewater-pearl/bluewater-pearl.webp
+date: 2022-01-13T16:56:03+07:00
+description: "Material Bluewater Pearl Chimeraland materials Bluewater Pearl
+  October 5, 2022 4:26 PM Continue reading Bluewater Pearl What is the use of
+  the Bluewater Pearl "
+excerpt: "Material Bluewater Pearl Chimeraland materials Bluewater Pearl October
+  5, 2022 4:26 PM Continue reading Bluewater Pearl What is the use of the
+  Bluewater Pearl "
+id: e19defde-2af6-4888-80bf-8e9a00b8350f
+lang: en
 permalink: /chimeraland/materials/bluewater-pearl.html
 photos:
   - /chimeraland/materials/bluewater-pearl/bluewater-pearl.webp
-thumbnail: /chimeraland/materials/bluewater-pearl/bluewater-pearl.webp
+subtitle: "Material Bluewater Pearl Chimeraland materials Bluewater Pearl
+  October 5, 2022 4:26 PM Continue reading Bluewater Pearl What is the use of
+  the Bluewater Pearl "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/bluewater-pearl/bluewater-pearl.webp
+title: Material Bluewater Pearl Chimeraland
+type: post
+updated: 2022-10-05T16:26:37+07:00
+wordcount: 902
 ---
 
 <link

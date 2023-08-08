@@ -1,23 +1,34 @@
 ---
-title: Recipe One-Pot Stew Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T11:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/one-pot-stew/one-pot-stew.webp
 date: 2022-01-10T14:56:03+07:00
+description: Recipe One-Pot Stew Chimeraland One-Pot Stew Cooking Recipe Buff
+  One-Pot Stew 660 Fullness 80 Armor Pierce recipe we
+excerpt: Recipe One-Pot Stew Chimeraland One-Pot Stew Cooking Recipe Buff
+  One-Pot Stew 660 Fullness 80 Armor Pierce recipe we
+id: 713a772e-f476-4888-8316-9211d9f58376
+lang: en
 permalink: /chimeraland/recipes/one-pot-stew.html
 photos:
   - /chimeraland/recipes/one-pot-stew/one-pot-stew.webp
   - /chimeraland/recipes/one-pot-stew/one-pot-stew-name.webp
   - /chimeraland/recipes/one-pot-stew/one-pot-stew-icon.webp
   - /chimeraland/recipes/one-pot-stew/one-pot-stew-material.webp
-thumbnail: /chimeraland/recipes/one-pot-stew/one-pot-stew.webp
+subtitle: Recipe One-Pot Stew Chimeraland One-Pot Stew Cooking Recipe Buff
+  One-Pot Stew 660 Fullness 80 Armor Pierce recipe we
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/one-pot-stew/one-pot-stew.webp
+title: Recipe One-Pot Stew Chimeraland
+type: post
+updated: 2022-10-05T11:46:55+07:00
+wordcount: 818
 ---
 
 <link

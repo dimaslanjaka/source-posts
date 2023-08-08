@@ -1,19 +1,34 @@
 ---
-title: Material Mist Wings Chimeraland
-date: 2022-01-10T09:56:03+07:00
-updated: 2022-10-02T09:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/mist-wings/mist-wings.webp
+date: 2022-01-10T09:56:03+07:00
+description: "Material Mist Wings Chimeraland materials Mist Wings October 2,
+  2022 9:26 AM It has wings like a cicada, appears with the night mist, and is
+  found in bushes. Continue reading Mist Wings "
+excerpt: "Material Mist Wings Chimeraland materials Mist Wings October 2, 2022
+  9:26 AM It has wings like a cicada, appears with the night mist, and is found
+  in bushes. Continue reading Mist Wings "
+id: 9618d280-f208-4888-8036-f1d86fa65dbf
+lang: en
 permalink: /chimeraland/materials/mist-wings.html
 photos:
   - /chimeraland/materials/mist-wings/mist-wings.webp
-thumbnail: /chimeraland/materials/mist-wings/mist-wings.webp
+subtitle: "Material Mist Wings Chimeraland materials Mist Wings October 2, 2022
+  9:26 AM It has wings like a cicada, appears with the night mist, and is found
+  in bushes. Continue reading Mist Wings "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/mist-wings/mist-wings.webp
+title: Material Mist Wings Chimeraland
+type: post
+updated: 2022-10-02T09:26:37+07:00
+wordcount: 1004
 ---
 
 <link

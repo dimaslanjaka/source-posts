@@ -1,21 +1,33 @@
 ---
-title: Monster Frontosa
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T13:25:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frontosa
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Frontosa Frontosa Information from Chimeraland Frontosa
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Frontosa Frontosa Information from Chimeraland Frontosa
+  default maximum attribute GRADE Attack "
+id: 33addf5a-c8da-4888-851b-ebf68df3b1c9
+lang: en
 permalink: /chimeraland/monsters/frontosa.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frontosa
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frontosa
+subtitle: "Monster Frontosa Frontosa Information from Chimeraland Frontosa
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frontosa
+title: Monster Frontosa
+type: post
+updated: 2023-05-25T13:25:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

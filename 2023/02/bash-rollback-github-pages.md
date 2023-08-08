@@ -1,9 +1,34 @@
 ---
-title: bash script to rollback github pages
+author: Dimas Lanjaka
+categories:
+  - programming
+  - bash
+  - github
+comments: true
 date: 2023-02-28T08:47:15+07:00
+description: bash script to rollback github pages Bash script github pages
+  rollback /usr/bin/env bashecho Insert commit hash read commitHashbranch=git
+  branch --show-currentbranchpatch=patchif [ -z commitHash ]; then echo No
+  commit hash supplied exitfigit checkout branchgit reset --hard
+excerpt: bash script to rollback github pages Bash script github pages rollback
+  /usr/bin/env bashecho Insert commit hash read commitHashbranch=git branch
+  --show-currentbranchpatch=patchif [ -z commitHash ]; then echo No commit hash
+  supplied exitfigit checkout branchgit reset --hard
+id: 5c8f5c5f-eaf3-4888-8186-609e5b9efd35
+lang: en
+photos: []
+subtitle: bash script to rollback github pages Bash script github pages rollback
+  /usr/bin/env bashecho Insert commit hash read commitHashbranch=git branch
+  --show-currentbranchpatch=patchif [ -z commitHash ]; then echo No commit hash
+  supplied exitfigit checkout branchgit reset --hard
+tags:
+  - bash
+  - github
+  - rollback
+title: bash script to rollback github pages
+type: post
 updated: 2023-02-28T09:47:15+07:00
-tags: ['bash', 'github', 'rollback']
-categories: ['programming', 'bash', 'github']
+wordcount: 280
 ---
 
 ## Bash script github pages rollback

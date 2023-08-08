@@ -3,22 +3,30 @@ author:
   nick: Kuswati
   link: https://www.blogger.com/profile/09256263851708439294
   email: noreply@blogger.com
-category: ["Programming", "PHP"]
+categories:
+  - programming
+  - php
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2020-10-17T04:26:00.004+07:00
+description: PHP Snippet get real visitor/user ip support localhost XAMPP
+excerpt: PHP Snippet get real visitor/user ip support localhost XAMPP
+id: 7f3691ba-3295-4888-8e28-4096e2f43fc5
 lang: en
+photos:
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
+subtitle: PHP Snippet get real visitor/user ip support localhost XAMPP
 tags:
-  - Script
-  - PHP
-  - Tips & Tricks
-  - IP
-title: "[PHP] Detect User Client IP (XAMPP or Localhost Machine Supported)"
-type: post
-uuid: 34312352-b8b1-4888-8e50-1c29c99b2e5d
-updated: 2022-12-20T08:02:56+07:00
+  - script
+  - php
+  - tips & tricks
+  - ip
 thumbnail: https://i.ytimg.com/vi/amIclgSsi7Y/maxresdefault.jpg
-description: PHP Snippet get real visitor/user ip (support localhost XAMPP)
+title: "[PHP] Detect User Client IP XAMPP or Localhost Machine Supported"
+type: post
+updated: 2022-12-20T08:02:56+07:00
+uuid: 34312352-b8b1-4888-8e50-1c29c99b2e5d
+wordcount: 638
 ---
 
 ## Snippet get real visitor/user ip (support localhost XAMPP)

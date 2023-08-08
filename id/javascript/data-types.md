@@ -16,6 +16,7 @@ excerpt: Apa saja macam-macam tipe data yang ada dalam javascript? Tipe Data
   BigInt 9007199254740991n String Hello, World, Uzbekis
 id: debd2dac-adda-4888-8dec-fd28c1680721
 lang: id
+language: id
 permalink: id/javascript/data-types.html
 photos:
   - https://www.javascripttutorial.net/wp-content/uploads/2022/01/JavaScript-data-types.svg
@@ -30,7 +31,6 @@ title: Apa saja macam-macam tipe data yang ada dalam javascript?
 type: page
 updated: 2023-07-04T15:42:48+07:00
 wordcount: 202
-language: id
 ---
 
 ## Tipe Data Umum

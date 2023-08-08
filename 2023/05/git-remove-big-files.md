@@ -1,9 +1,36 @@
 ---
-title: remove files from git history for specific size
+author: Dimas Lanjaka
+categories:
+  - programming
+  - bash
+comments: true
 date: 2023-05-16T20:58:48+07:00
+description: remove files from git history for specific size delete big files
+  from git history example deleting files more than 100Mb cd
+  folder/your/repositorybfg --strip-blobs-bigger-than 100M . clean old logs
+  before push git reflog expire --expire=now --all git gc --prune=now
+  --aggressive push git push
+excerpt: remove files from git history for specific size delete big files from
+  git history example deleting files more than 100Mb cd
+  folder/your/repositorybfg --strip-blobs-bigger-than 100M . clean old logs
+  before push git reflog expire --expire=now --all git gc --prune=now
+  --aggressive push git push
+id: 849a8c80-1fce-4888-88e4-91f08ce6538d
+lang: en
+photos: []
+subtitle: remove files from git history for specific size delete big files from
+  git history example deleting files more than 100Mb cd
+  folder/your/repositorybfg --strip-blobs-bigger-than 100M . clean old logs
+  before push git reflog expire --expire=now --all git gc --prune=now
+  --aggressive push git push
+tags:
+  - github
+  - bash
+  - snippet
+title: remove files from git history for specific size
+type: post
 updated: 2023-06-01T02:40:16+07:00
-tags: [github, bash, snippet]
-category: [programming, bash]
+wordcount: 108
 ---
 
 ## delete big files from git history

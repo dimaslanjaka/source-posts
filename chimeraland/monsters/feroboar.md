@@ -1,21 +1,33 @@
 ---
-title: Monster Feroboar
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T16:51:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Feroboar
 date: 2023-05-25T02:02:42+07:00
+description: "Monster Feroboar Feroboar Information from Chimeraland Feroboar
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Feroboar Feroboar Information from Chimeraland Feroboar
+  default maximum attribute GRADE Attack "
+id: 37aec690-838b-4888-8215-2cdf9e639774
+lang: en
 permalink: /chimeraland/monsters/feroboar.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Feroboar
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Feroboar
+subtitle: "Monster Feroboar Feroboar Information from Chimeraland Feroboar
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Feroboar
+title: Monster Feroboar
+type: post
+updated: 2023-05-25T16:51:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

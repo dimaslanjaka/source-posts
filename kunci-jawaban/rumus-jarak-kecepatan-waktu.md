@@ -1,23 +1,33 @@
 ---
-title: Rumus Jarak, Kecepatan, Waktu, Dan Rata-rata
-description: Memahami rumus jarak, kecepatan, waktu, rata-rata dalam matematika
-date: 2022-10-16T02:42:33+07:00
-updated: 2022-10-16T07:35:43+07:00
-lang: id
-thumbnail: https://imgix2.ruangguru.com/assets/miscellaneous/png_yr7v2m_1615.png
-tags:
-  - distance
-  - time
-  - average
-  - speed
+author: Dimas Lanjaka
 categories:
-  - Education
-  - Math
+  - education
+  - math
+comments: true
+cover: https://imgix2.ruangguru.com/assets/miscellaneous/png_yr7v2m_1615.png
+date: 2022-10-16T02:42:33+07:00
+description: Memahami rumus jarak, kecepatan, waktu, rata-rata dalam matematika
+excerpt: Memahami rumus jarak, kecepatan, waktu, rata-rata dalam matematika
+id: c205fe07-68b3-4888-82a1-bb0eca959ed5
 keywords:
   - rumus jarak
   - rumus kecepatan
   - rumus waktu
   - rumus rata-rata
+lang: id
+photos:
+  - https://imgix2.ruangguru.com/assets/miscellaneous/png_yr7v2m_1615.png
+subtitle: Memahami rumus jarak, kecepatan, waktu, rata-rata dalam matematika
+tags:
+  - distance
+  - time
+  - average
+  - speed
+thumbnail: https://imgix2.ruangguru.com/assets/miscellaneous/png_yr7v2m_1615.png
+title: Rumus Jarak, Kecepatan, Waktu, Dan Rata-rata
+type: post
+updated: 2022-10-16T07:35:43+07:00
+wordcount: 1731
 ---
 
 ## Singkatan jarak, kecepatan, waktu

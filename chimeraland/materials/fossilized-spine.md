@@ -1,19 +1,34 @@
 ---
-title: Material Fossilized Spine Chimeraland
-date: 2022-01-13T14:56:03+07:00
-updated: 2022-10-05T14:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/fossilized-spine/fossilized-spine.webp
+date: 2022-01-13T14:56:03+07:00
+description: "Material Fossilized Spine Chimeraland materials Fossilized Spine
+  October 5, 2022 2:26 PM Continue reading Fossilized Spine What is the use of
+  the Fossilized Spine "
+excerpt: "Material Fossilized Spine Chimeraland materials Fossilized Spine
+  October 5, 2022 2:26 PM Continue reading Fossilized Spine What is the use of
+  the Fossilized Spine "
+id: 842db9d4-10be-4888-8ff8-a0af72005b06
+lang: en
 permalink: /chimeraland/materials/fossilized-spine.html
 photos:
   - /chimeraland/materials/fossilized-spine/fossilized-spine.webp
-thumbnail: /chimeraland/materials/fossilized-spine/fossilized-spine.webp
+subtitle: "Material Fossilized Spine Chimeraland materials Fossilized Spine
+  October 5, 2022 2:26 PM Continue reading Fossilized Spine What is the use of
+  the Fossilized Spine "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/fossilized-spine/fossilized-spine.webp
+title: Material Fossilized Spine Chimeraland
+type: post
+updated: 2022-10-05T14:26:37+07:00
+wordcount: 759
 ---
 
 <link

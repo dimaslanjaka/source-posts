@@ -1,22 +1,35 @@
 ---
-title: Attendant Lunar Regni
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-28T22:26:37+07:00
-date: 2022-01-07T02:56:03+07:00
-permalink: /chimeraland/attendants/lunar-regni.html
-photos: []
-tags:
-  - chimeraland
-  - Attendant
 categories:
-  - Games
+  - games
   - chimeraland
   - attendants
+comments: true
+date: 2022-01-07T02:56:03+07:00
 description: attendant Lunar Regni default quality GRADE B ATK 70 HP 70 DEF 70
-  Attack 40,HP 400,Monster EXP Bonus 40.0% delicacies/tasty Rustic Preserved
-  Deer Roll,Exotic Herbal Jelly,Hot Stone Icefox Meat
-  Games,chimeraland,attendants chimeraland,Attendant
+  Attack 40,HP 400,Monster EXP Bonus 40.0 delicacies/tasty Rustic Preserved Deer
+  Roll,Exotic Herbal Jelly,Hot Stone Icefox Meat Games,chimeraland,attendants
+  chimeraland,Attendant
+excerpt: attendant Lunar Regni default quality GRADE B ATK 70 HP 70 DEF 70
+  Attack 40,HP 400,Monster EXP Bonus 40.0 delicacies/tasty Rustic Preserved Deer
+  Roll,Exotic Herbal Jelly,Hot Stone Icefox Meat Games,chimeraland,attendants
+  chimeraland,Attendant
+id: cfceab3f-41ec-4888-8ab6-df42197cfa19
+lang: en
+permalink: /chimeraland/attendants/lunar-regni.html
+photos: []
+subtitle: attendant Lunar Regni default quality GRADE B ATK 70 HP 70 DEF 70
+  Attack 40,HP 400,Monster EXP Bonus 40.0 delicacies/tasty Rustic Preserved Deer
+  Roll,Exotic Herbal Jelly,Hot Stone Icefox Meat Games,chimeraland,attendants
+  chimeraland,Attendant
+tags:
+  - chimeraland
+  - attendant
+title: Attendant Lunar Regni
+type: post
+updated: 2022-09-28T22:26:37+07:00
+webtitle: chimeraland
+wordcount: 992
 ---
 
 <link

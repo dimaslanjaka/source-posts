@@ -1,17 +1,31 @@
 ---
-title: Material Duahawk Evol Pill Chimeraland
-date: 2022-01-06T20:56:03+07:00
-updated: 2022-09-28T20:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+date: 2022-01-06T20:56:03+07:00
+description: "Material Duahawk Evol Pill Chimeraland materials Duahawk Evol Pill
+  September 28, 2022 8:26 PM Continue reading Duahawk Evol Pill What is the use
+  of the Duahawk Evol Pill "
+excerpt: "Material Duahawk Evol Pill Chimeraland materials Duahawk Evol Pill
+  September 28, 2022 8:26 PM Continue reading Duahawk Evol Pill What is the use
+  of the Duahawk Evol Pill "
+id: 798e5ef3-f5a8-4888-8a5b-e4f51ecd5b0f
+lang: en
 permalink: /chimeraland/materials/duahawk-evol-pill.html
 photos: []
+subtitle: "Material Duahawk Evol Pill Chimeraland materials Duahawk Evol Pill
+  September 28, 2022 8:26 PM Continue reading Duahawk Evol Pill What is the use
+  of the Duahawk Evol Pill "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+title: Material Duahawk Evol Pill Chimeraland
+type: post
+updated: 2022-09-28T20:26:37+07:00
+wordcount: 361
 ---
 
 <link

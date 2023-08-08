@@ -1,21 +1,33 @@
 ---
-title: Monster Grooveswine
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T13:25:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grooveswine
 date: 2022-01-07T23:56:03+07:00
+description: "Monster Grooveswine Grooveswine Information from Chimeraland
+  Grooveswine default maximum attribute GRADE B GRAND - EPIC Attack 60 "
+excerpt: "Monster Grooveswine Grooveswine Information from Chimeraland
+  Grooveswine default maximum attribute GRADE B GRAND - EPIC Attack 60 "
+id: 923c5b33-e052-4888-888a-66926a4ef7b5
+lang: en
 permalink: /chimeraland/monsters/grooveswine.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grooveswine
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grooveswine
+subtitle: "Monster Grooveswine Grooveswine Information from Chimeraland
+  Grooveswine default maximum attribute GRADE B GRAND - EPIC Attack 60 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grooveswine
+title: Monster Grooveswine
+type: post
+updated: 2023-05-25T13:25:12+07:00
+webtitle: chimeraland
+wordcount: 659
 ---
 
 <link

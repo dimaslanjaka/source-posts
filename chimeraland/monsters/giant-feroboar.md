@@ -1,9 +1,18 @@
 ---
-title: Monster giant feroboar
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-25T04:55:43+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-03-39-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-25T04:44:43+07:00
+description: "Monster giant feroboar giant feroboar Information from Chimeraland
+  giant feroboar default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Monster giant feroboar giant feroboar Information from Chimeraland
+  giant feroboar default maximum attribute GRADE N/A N/A Attack N/A "
+id: 67f85b29-7317-4888-88a3-80c15721b507
+lang: en
 permalink: /chimeraland/monsters/giant-feroboar.html
 photos:
   - /chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-03-39-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +23,18 @@ photos:
   - /chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-04-03-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-04-10-23_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-04-14-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-03-39-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant feroboar giant feroboar Information from Chimeraland
+  giant feroboar default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-feroboar/Screenshot_2023-02-23-23-03-39-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant feroboar
+type: post
+updated: 2023-02-25T04:55:43+07:00
+webtitle: chimeraland
+wordcount: 1237
 ---
 
 <link

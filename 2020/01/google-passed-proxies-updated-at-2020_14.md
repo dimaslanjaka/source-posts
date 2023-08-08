@@ -3,24 +3,26 @@ author:
   nick: Dimas Lanjaka Kumala Indra
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
-category: []
+categories:
+  - uncategorized
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets.materialup.com/uploads/82eae29e-33b7-4ff7-be10-df432402b2b6/preview
 date: 2020-01-14T00:10:00.001+07:00
+description: Fresh proxy oogle passedGoogle passed proxies,
+excerpt: Fresh proxy oogle passedGoogle passed proxies,
+id: 8f12d600-d936-4888-80dd-366319c0739e
 lang: en
-location: ""
-modified: 2020-01-14T00:10:18.973+07:00
-subtitle: Fresh proxy oogle passedGoogle passed proxies,
-tags:
-  - Proxy
-title: Google passed proxies, updated at 2020-01-13
-type: post
-uuid: dfe171c4-73ef-4888-82f4-08b964ca4e16
-updated: 2020-01-14T00:10:18+07:00
-thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets.materialup.com/uploads/82eae29e-33b7-4ff7-be10-df432402b2b6/preview
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets.materialup.com/uploads/82eae29e-33b7-4ff7-be10-df432402b2b6/preview
-description: Fresh proxy oogle passedGoogle passed proxies,
+subtitle: Fresh proxy oogle passedGoogle passed proxies,
+tags:
+  - proxy
+thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets.materialup.com/uploads/82eae29e-33b7-4ff7-be10-df432402b2b6/preview
+title: Google passed proxies, updated at 2020-01-13
+type: post
+updated: 2020-01-14T00:10:18+07:00
+uuid: dfe171c4-73ef-4888-82f4-08b964ca4e16
+wordcount: 1195
 ---
 
 <div id="proxy_result_wrapper">

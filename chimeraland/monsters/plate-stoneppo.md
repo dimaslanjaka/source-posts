@@ -1,12 +1,20 @@
 ---
-title: Monster plate stoneppo
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T07:20:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=plate stoneppo
 date: 2023-03-11T16:19:18+07:00
+description: "Monster plate stoneppo plate stoneppo Information from Chimeraland
+  plate stoneppo default maximum attribute GRADE Attack "
+excerpt: "Monster plate stoneppo plate stoneppo Information from Chimeraland
+  plate stoneppo default maximum attribute GRADE Attack "
+id: dfc0c407-910a-4888-87ea-52544928b34c
+lang: en
 permalink: /chimeraland/monsters/plate-stoneppo.html
 photos:
-  - null
   - /chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-11-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-15-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-19-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,15 +23,19 @@ photos:
   - /chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-38-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-42-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-47-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=plate stoneppo
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=plate stoneppo
+subtitle: "Monster plate stoneppo plate stoneppo Information from Chimeraland
+  plate stoneppo default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=plate stoneppo
+title: Monster plate stoneppo
+type: post
+updated: 2023-05-25T07:20:12+07:00
+webtitle: chimeraland
+wordcount: 1306
 ---
 
 <link

@@ -1,19 +1,34 @@
 ---
-title: Material Pining Feather Chimeraland
-date: 2022-01-06T21:56:03+07:00
-updated: 2022-09-28T21:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/pining-feather/pining-feather.webp
+date: 2022-01-06T21:56:03+07:00
+description: "Material Pining Feather Chimeraland materials Pining Feather
+  September 28, 2022 9:26 PM Continue reading Pining Feather What is the use of
+  the Pining Feather "
+excerpt: "Material Pining Feather Chimeraland materials Pining Feather September
+  28, 2022 9:26 PM Continue reading Pining Feather What is the use of the Pining
+  Feather "
+id: 9bf4e945-a8a3-4888-834a-545a179c4721
+lang: en
 permalink: /chimeraland/materials/pining-feather.html
 photos:
   - /chimeraland/materials/pining-feather/pining-feather.webp
-thumbnail: /chimeraland/materials/pining-feather/pining-feather.webp
+subtitle: "Material Pining Feather Chimeraland materials Pining Feather
+  September 28, 2022 9:26 PM Continue reading Pining Feather What is the use of
+  the Pining Feather "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/pining-feather/pining-feather.webp
+title: Material Pining Feather Chimeraland
+type: post
+updated: 2022-09-28T21:26:37+07:00
+wordcount: 651
 ---
 
 <link

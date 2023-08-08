@@ -1,19 +1,37 @@
 ---
-title: Material Shovefish Chimeraland
-date: 2022-01-16T20:56:03+07:00
-updated: 2022-10-08T20:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/shovefish/shovefish.webp
+date: 2022-01-16T20:56:03+07:00
+description: "Material Shovefish Chimeraland materials Shovefish October 8, 2022
+  8:26 PM A freshwater fish with a long and slightly flattened body, and the
+  snout is long and flattened resembling a duckbill. Continue reading Shovefish
+  "
+excerpt: "Material Shovefish Chimeraland materials Shovefish October 8, 2022
+  8:26 PM A freshwater fish with a long and slightly flattened body, and the
+  snout is long and flattened resembling a duckbill. Continue reading Shovefish
+  "
+id: 08ec1af0-55cc-4888-8169-bfb277ccce56
+lang: en
 permalink: /chimeraland/materials/shovefish.html
 photos:
   - /chimeraland/materials/shovefish/shovefish.webp
-thumbnail: /chimeraland/materials/shovefish/shovefish.webp
+subtitle: "Material Shovefish Chimeraland materials Shovefish October 8, 2022
+  8:26 PM A freshwater fish with a long and slightly flattened body, and the
+  snout is long and flattened resembling a duckbill. Continue reading Shovefish
+  "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/shovefish/shovefish.webp
+title: Material Shovefish Chimeraland
+type: post
+updated: 2022-10-08T20:26:37+07:00
+wordcount: 774
 ---
 
 <link

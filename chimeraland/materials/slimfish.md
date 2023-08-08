@@ -1,19 +1,31 @@
 ---
-title: Material Slimfish Chimeraland
-date: 2022-01-15T04:56:03+07:00
-updated: 2022-10-07T04:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/slimfish/slimfish.webp
+date: 2022-01-15T04:56:03+07:00
+description: "Material Slimfish Chimeraland materials Slimfish October 7, 2022
+  4:26 AM Continue reading Slimfish What is the use of the Slimfish "
+excerpt: "Material Slimfish Chimeraland materials Slimfish October 7, 2022 4:26
+  AM Continue reading Slimfish What is the use of the Slimfish "
+id: 5f5c44cd-38a1-4888-8d42-cdb4c18239a7
+lang: en
 permalink: /chimeraland/materials/slimfish.html
 photos:
   - /chimeraland/materials/slimfish/slimfish.webp
-thumbnail: /chimeraland/materials/slimfish/slimfish.webp
+subtitle: "Material Slimfish Chimeraland materials Slimfish October 7, 2022 4:26
+  AM Continue reading Slimfish What is the use of the Slimfish "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/slimfish/slimfish.webp
+title: Material Slimfish Chimeraland
+type: post
+updated: 2022-10-07T04:26:37+07:00
+wordcount: 610
 ---
 
 <link

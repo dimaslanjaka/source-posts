@@ -1,19 +1,37 @@
 ---
-title: Material Yellow Grass Chimeraland
-date: 2022-01-18T04:56:03+07:00
-updated: 2022-10-10T04:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/yellow-grass/yellow-grass.webp
+date: 2022-01-18T04:56:03+07:00
+description: "Material Yellow Grass Chimeraland materials Yellow Grass October
+  10, 2022 4:26 AM A somewhat rare herb with a straight stalk and yellow fruit
+  similar to an apricot, sweet tasting as well as nutritious, found only on the
+  Deserted Mountain. "
+excerpt: "Material Yellow Grass Chimeraland materials Yellow Grass October 10,
+  2022 4:26 AM A somewhat rare herb with a straight stalk and yellow fruit
+  similar to an apricot, sweet tasting as well as nutritious, found only on the
+  Deserted Mountain. "
+id: 45d2099e-f2c3-4888-80f6-fbbeb8cb8ec2
+lang: en
 permalink: /chimeraland/materials/yellow-grass.html
 photos:
   - /chimeraland/materials/yellow-grass/yellow-grass.webp
-thumbnail: /chimeraland/materials/yellow-grass/yellow-grass.webp
+subtitle: "Material Yellow Grass Chimeraland materials Yellow Grass October 10,
+  2022 4:26 AM A somewhat rare herb with a straight stalk and yellow fruit
+  similar to an apricot, sweet tasting as well as nutritious, found only on the
+  Deserted Mountain. "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/yellow-grass/yellow-grass.webp
+title: Material Yellow Grass Chimeraland
+type: post
+updated: 2022-10-10T04:26:37+07:00
+wordcount: 1191
 ---
 
 <link

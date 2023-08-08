@@ -1,10 +1,25 @@
 ---
-title: Default username and email for github workflow actions
-description: what is default username and email for github workflow actions?
+author: Dimas Lanjaka
+categories:
+  - programming
+  - github
+comments: true
 date: 2022-12-09T00:43:17+07:00
+description: what is default username and email for github workflow actions?
+excerpt: what is default username and email for github workflow actions?
+id: c08c3490-bc91-4888-8fcb-d15a24c4e4aa
+lang: en
+photos: []
+subtitle: what is default username and email for github workflow actions?
+tags:
+  - github-workflows
+  - snippet
+  - yaml
+  - github-actions
+title: Default username and email for github workflow actions
+type: post
 updated: 2023-01-03T01:02:36+07:00
-tags: ['github-workflows', 'snippet', 'yaml', 'github-actions']
-categories: ['programming', 'github']
+wordcount: 934
 ---
 
 I think this would be a nice feature. It would also lead to a more consistent appearance of commits created by *GitHub Actions*. I'm currently wondering which email address and username I should use for the time being.

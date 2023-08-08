@@ -1,19 +1,37 @@
 ---
-title: Material Bluewirl Fish Chimeraland
-date: 2022-01-16T11:56:03+07:00
-updated: 2022-10-08T11:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/bluewirl-fish/bluewirl-fish.webp
+date: 2022-01-16T11:56:03+07:00
+description: "Material Bluewirl Fish Chimeraland materials Bluewirl Fish October
+  8, 2022 11:26 AM A marine fish that is diamond shaped, with a very flat body
+  and blue parttern. The edge of its trailing caudal fins is flat, and the
+  dorsal and rear fins extend "
+excerpt: "Material Bluewirl Fish Chimeraland materials Bluewirl Fish October 8,
+  2022 11:26 AM A marine fish that is diamond shaped, with a very flat body and
+  blue parttern. The edge of its trailing caudal fins is flat, and the dorsal
+  and rear fins extend "
+id: 2eabd104-97a5-4888-84c8-03d34eb6b6b7
+lang: en
 permalink: /chimeraland/materials/bluewirl-fish.html
 photos:
   - /chimeraland/materials/bluewirl-fish/bluewirl-fish.webp
-thumbnail: /chimeraland/materials/bluewirl-fish/bluewirl-fish.webp
+subtitle: "Material Bluewirl Fish Chimeraland materials Bluewirl Fish October 8,
+  2022 11:26 AM A marine fish that is diamond shaped, with a very flat body and
+  blue parttern. The edge of its trailing caudal fins is flat, and the dorsal
+  and rear fins extend "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/bluewirl-fish/bluewirl-fish.webp
+title: Material Bluewirl Fish Chimeraland
+type: post
+updated: 2022-10-08T11:26:37+07:00
+wordcount: 904
 ---
 
 <link

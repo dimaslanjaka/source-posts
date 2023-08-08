@@ -1,21 +1,33 @@
 ---
-title: Monster Rush Ray
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T11:51:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rush Ray
 date: 2023-05-25T02:02:42+07:00
+description: "Monster Rush Ray Rush Ray Information from Chimeraland Rush Ray
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Rush Ray Rush Ray Information from Chimeraland Rush Ray
+  default maximum attribute GRADE Attack "
+id: a25298b3-a9fb-4888-81e7-71110ec042c8
+lang: en
 permalink: /chimeraland/monsters/rush-ray.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rush Ray
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rush Ray
+subtitle: "Monster Rush Ray Rush Ray Information from Chimeraland Rush Ray
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rush Ray
+title: Monster Rush Ray
+type: post
+updated: 2023-05-25T11:51:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

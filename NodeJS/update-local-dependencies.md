@@ -1,11 +1,28 @@
 ---
-title: Auto update NPM local and monorepo dependencies
-description: How to always update local and monorepo dependencies automatically
+author: Dimas Lanjaka
+categories:
+  - programming
+  - nodejs
+comments: true
+cover: /NodeJS/update-local-dependencies/logo.png
 date: 2022-11-22T21:00:09+07:00
-updated: 2022-12-20T19:20:11+07:00
-category: ['Programming', 'NodeJS']
-tags: ['npm', 'auto', 'update', 'snippet']
+description: How to always update local and monorepo dependencies automatically
+excerpt: How to always update local and monorepo dependencies automatically
+id: b13c685c-079f-4888-82e8-ed17cc928599
+lang: en
+photos:
+  - /NodeJS/update-local-dependencies/logo.png
+subtitle: How to always update local and monorepo dependencies automatically
+tags:
+  - npm
+  - auto
+  - update
+  - snippet
 thumbnail: /NodeJS/update-local-dependencies/logo.png
+title: Auto update NPM local and monorepo dependencies
+type: post
+updated: 2022-12-20T19:20:11+07:00
+wordcount: 2937
 ---
 
 ## install package

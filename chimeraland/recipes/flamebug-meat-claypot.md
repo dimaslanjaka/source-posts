@@ -1,23 +1,34 @@
 ---
-title: Recipe Flamebug Meat Claypot Chimeraland
 author: L3n4r0x
-updated: 2022-09-29T22:26:37+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamebug Meat Claypot
 date: 2022-01-14T03:56:03+07:00
+description: "Recipe Flamebug Meat Claypot Chimeraland Flamebug Meat Claypot
+  Cooking Recipe Buff Flamebug Meat Claypot Buff Flamebug Meat Claypot not yet
+  written recipe "
+excerpt: "Recipe Flamebug Meat Claypot Chimeraland Flamebug Meat Claypot Cooking
+  Recipe Buff Flamebug Meat Claypot Buff Flamebug Meat Claypot not yet written
+  recipe "
+id: af456d80-850b-4888-8324-250784201d68
+lang: en
 permalink: /chimeraland/recipes/flamebug-meat-claypot.html
 photos:
-  - null
-  - null
-  - null
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamebug Meat Claypot
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamebug Meat Claypot
+subtitle: "Recipe Flamebug Meat Claypot Chimeraland Flamebug Meat Claypot
+  Cooking Recipe Buff Flamebug Meat Claypot Buff Flamebug Meat Claypot not yet
+  written recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamebug Meat Claypot
+title: Recipe Flamebug Meat Claypot Chimeraland
+type: post
+updated: 2022-09-29T22:26:37+07:00
+wordcount: 917
 ---
 
 <link

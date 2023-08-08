@@ -1,19 +1,30 @@
 ---
-title: Monster Roarbor
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-10-02T00:18:27+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-10T00:56:03+07:00
+description: "Monster Roarbor Roarbor Information from Chimeraland Roarbor
+  default maximum attribute GRADE B GRAND - EPIC Attack 60 "
+excerpt: "Monster Roarbor Roarbor Information from Chimeraland Roarbor default
+  maximum attribute GRADE B GRAND - EPIC Attack 60 "
+id: 1b535e00-9ad6-4888-8636-3febdf5e8343
+lang: en
 permalink: /chimeraland/monsters/roarbor.html
 photos: []
+subtitle: "Monster Roarbor Roarbor Information from Chimeraland Roarbor default
+  maximum attribute GRADE B GRAND - EPIC Attack 60 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+title: Monster Roarbor
+type: post
+updated: 2022-10-02T00:18:27+07:00
+webtitle: chimeraland
+wordcount: 551
 ---
 
 <link

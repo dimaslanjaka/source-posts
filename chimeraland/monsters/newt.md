@@ -1,12 +1,22 @@
 ---
-title: Monster Newt
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T11:16:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Newt
 date: 2022-01-09T11:56:03+07:00
+description: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
+  Conversion Rate 4.0 delicacies/tasty Spiced Alligon,Exotic Herbal
+  Jelly,Stir-Fried Browtelope Games,chimeraland,monsters chimeraland,monster,pet
+excerpt: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
+  Conversion Rate 4.0 delicacies/tasty Spiced Alligon,Exotic Herbal
+  Jelly,Stir-Fried Browtelope Games,chimeraland,monsters chimeraland,monster,pet
+id: 64b8768e-5f84-4888-808f-1ef41d459eaa
+lang: en
 permalink: /chimeraland/monsters/newt.html
 photos:
-  - null
   - /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-20-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-23-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-27-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,18 +25,20 @@ photos:
   - /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-46-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-51-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/newt/Screenshot_2022-07-30-16-35-56-36_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Newt
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Newt
+subtitle: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
+  Conversion Rate 4.0 delicacies/tasty Spiced Alligon,Exotic Herbal
+  Jelly,Stir-Fried Browtelope Games,chimeraland,monsters chimeraland,monster,pet
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
-description: monster Newt default quality GRADE C ATK 49 HP 58 DEF 62 Attributes
-  Conversion Rate 4.0% delicacies/tasty Spiced Alligon,Exotic Herbal
-  Jelly,Stir-Fried Browtelope Games,chimeraland,monsters chimeraland,monster,pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Newt
+title: Monster Newt
+type: post
+updated: 2023-05-25T11:16:12+07:00
+webtitle: chimeraland
+wordcount: 1507
 ---
 
 <link

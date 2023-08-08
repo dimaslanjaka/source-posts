@@ -1,18 +1,29 @@
 ---
-title: Cara mengecualikan kalimat dalam beberapa elemen dari serp
-description: cara menghilangkan beberapa kalimat dari artikel
-date: 2022-10-12T10:38:30+07:00
-updated: 2022-10-12T10:38:30+07:00
-thumbnail: /2022/10/cara-mengecualikan-kalimat-dalam-beberapa-elemen-dari-serp/cover.png
-tags:
+author: Dimas Lanjaka
+categories:
+  - programming
   - seo
-  - HTML
-category:
-  - Programming
-  - SEO
-  - HTML
+  - html
+comments: true
+cover: /2022/10/cara-mengecualikan-kalimat-dalam-beberapa-elemen-dari-serp/cover.png
+date: 2022-10-12T10:38:30+07:00
+description: cara menghilangkan beberapa kalimat dari artikel
+excerpt: cara menghilangkan beberapa kalimat dari artikel
+id: d60adf45-0559-4888-8803-203fbb98eaa5
 keywords:
   - menghilangkan kalimat artikel dari SERP
+lang: en
+photos:
+  - /2022/10/cara-mengecualikan-kalimat-dalam-beberapa-elemen-dari-serp/cover.png
+subtitle: cara menghilangkan beberapa kalimat dari artikel
+tags:
+  - seo
+  - html
+thumbnail: /2022/10/cara-mengecualikan-kalimat-dalam-beberapa-elemen-dari-serp/cover.png
+title: Cara mengecualikan kalimat dalam beberapa elemen dari serp
+type: post
+updated: 2022-10-12T10:38:30+07:00
+wordcount: 283
 ---
 
 ## Menggunakan atribut HTML data-nosnippet

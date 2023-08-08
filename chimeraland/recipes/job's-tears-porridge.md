@@ -1,23 +1,37 @@
 ---
-title: Recipe Job's Tears Porridge Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T19:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/jobs-tears-porridge/jobs-tears-porridge.webp
 date: 2022-01-10T00:56:03+07:00
+description: Recipe Jobs Tears Porridge Chimeraland Jobs Tears Porridge Cooking
+  Recipe Buff Jobs Tears Porridge 180 Fullness -40 Humidity decreased over time
+  recipe
+excerpt: Recipe Jobs Tears Porridge Chimeraland Jobs Tears Porridge Cooking
+  Recipe Buff Jobs Tears Porridge 180 Fullness -40 Humidity decreased over time
+  recipe
+id: 2f919549-a4bb-4888-81d8-a4113f9910f9
+lang: en
 permalink: /chimeraland/recipes/jobs-tears-porridge.html
 photos:
   - /chimeraland/recipes/jobs-tears-porridge/jobs-tears-porridge.webp
   - /chimeraland/recipes/jobs-tears-porridge/jobs-tears-porridge-name.webp
   - /chimeraland/recipes/jobs-tears-porridge/jobs-tears-porridge-icon.webp
   - /chimeraland/recipes/jobs-tears-porridge/jobs-tears-porridge-material.webp
-thumbnail: /chimeraland/recipes/jobs-tears-porridge/jobs-tears-porridge.webp
+subtitle: Recipe Jobs Tears Porridge Chimeraland Jobs Tears Porridge Cooking
+  Recipe Buff Jobs Tears Porridge 180 Fullness -40 Humidity decreased over time
+  recipe
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/jobs-tears-porridge/jobs-tears-porridge.webp
+title: Recipe Jobs Tears Porridge Chimeraland
+type: post
+updated: 2022-10-05T19:46:55+07:00
+wordcount: 729
 ---
 
 <link

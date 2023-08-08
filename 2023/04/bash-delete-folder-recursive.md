@@ -1,9 +1,32 @@
 ---
-title: bash script delete folder recursively
+author: Dimas Lanjaka
+categories:
+  - programming
+  - bash
+comments: true
 date: 2023-04-13T16:17:00+07:00
+description: bash script delete folder recursively script bash to recursive
+  delete folder /usr/bin/env bash make cygwin bin as priorityexport
+  PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:PATH;set -o
+  igncr 2>/dev/null set -o igncr; cygwin encoding fixbasedir=dirname 0
+excerpt: bash script delete folder recursively script bash to recursive delete
+  folder /usr/bin/env bash make cygwin bin as priorityexport
+  PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:PATH;set -o
+  igncr 2>/dev/null set -o igncr; cygwin encoding fixbasedir=dirname 0
+id: dbdd2514-dfe9-4888-8823-88eaeee52b77
+lang: en
+photos: []
+subtitle: bash script delete folder recursively script bash to recursive delete
+  folder /usr/bin/env bash make cygwin bin as priorityexport
+  PATH=/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:PATH;set -o
+  igncr 2>/dev/null set -o igncr; cygwin encoding fixbasedir=dirname 0
+tags:
+  - bash
+  - script
+title: bash script delete folder recursively
+type: post
 updated: 2023-04-13T16:17:00+07:00
-tags: [bash, script]
-categories: [programming, bash]
+wordcount: 416
 ---
 
 ## script bash to recursive delete folder

@@ -1,19 +1,31 @@
 ---
-title: Material Dung Chimeraland
-date: 2022-01-13T08:56:03+07:00
-updated: 2022-10-05T08:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/dung/dung.webp
+date: 2022-01-13T08:56:03+07:00
+description: Material Dung Chimeraland materials Dung October 5, 2022 8:26 AM
+  Continue reading Dung What is the use of the Dung A beast dung that i
+excerpt: Material Dung Chimeraland materials Dung October 5, 2022 8:26 AM
+  Continue reading Dung What is the use of the Dung A beast dung that i
+id: e49c863f-a49f-4888-822e-7a8c0c3afed2
+lang: en
 permalink: /chimeraland/materials/dung.html
 photos:
   - /chimeraland/materials/dung/dung.webp
-thumbnail: /chimeraland/materials/dung/dung.webp
+subtitle: Material Dung Chimeraland materials Dung October 5, 2022 8:26 AM
+  Continue reading Dung What is the use of the Dung A beast dung that i
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/dung/dung.webp
+title: Material Dung Chimeraland
+type: post
+updated: 2022-10-05T08:26:37+07:00
+wordcount: 3213
 ---
 
 <link

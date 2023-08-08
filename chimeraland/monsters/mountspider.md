@@ -1,12 +1,20 @@
 ---
-title: Monster Mountspider
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T04:04:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mountspider
 date: 2022-01-09T08:56:03+07:00
+description: "Monster Mountspider Mountspider Information from Chimeraland
+  Mountspider default maximum attribute GRADE B GRAND - EPIC Attack 62 "
+excerpt: "Monster Mountspider Mountspider Information from Chimeraland
+  Mountspider default maximum attribute GRADE B GRAND - EPIC Attack 62 "
+id: 477c6d82-161b-4888-83e2-66994e35e661
+lang: en
 permalink: /chimeraland/monsters/mountspider.html
 photos:
-  - null
   - /chimeraland/monsters/mountspider/Screenshot_2023-02-24-22-41-31-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mountspider/Screenshot_2023-02-24-22-41-35-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mountspider/Screenshot_2023-02-24-22-41-39-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +22,19 @@ photos:
   - /chimeraland/monsters/mountspider/Screenshot_2023-02-24-22-42-14-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mountspider/Screenshot_2023-02-24-22-42-19-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mountspider/Screenshot_2023-02-24-22-42-24-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mountspider
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mountspider
+subtitle: "Monster Mountspider Mountspider Information from Chimeraland
+  Mountspider default maximum attribute GRADE B GRAND - EPIC Attack 62 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mountspider
+title: Monster Mountspider
+type: post
+updated: 2023-05-25T04:04:12+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

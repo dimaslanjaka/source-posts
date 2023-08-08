@@ -1,21 +1,33 @@
 ---
-title: Monster Piranha
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T15:47:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Piranha
 date: 2023-05-25T02:02:42+07:00
+description: "Monster Piranha Piranha Information from Chimeraland Piranha
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Piranha Piranha Information from Chimeraland Piranha default
+  maximum attribute GRADE Attack "
+id: 54b9b286-013a-4888-8857-e48ebb66e69a
+lang: en
 permalink: /chimeraland/monsters/piranha.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Piranha
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Piranha
+subtitle: "Monster Piranha Piranha Information from Chimeraland Piranha default
+  maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Piranha
+title: Monster Piranha
+type: post
+updated: 2023-05-25T15:47:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

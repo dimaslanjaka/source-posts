@@ -2,27 +2,32 @@
 author:
   nick: Dimas Lanjaka
   link: https://github.com/dimaslanjaka
-category:
-  - Programming
+categories:
+  - programming
 comments: true
 cover: https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
 date: 2021-11-17T16:00:00+07:00
+description: Usage, explanations of node options for nodejs
+excerpt: Usage, explanations of node options for nodejs
+id: 79954f62-6b7c-4888-80fb-2e9ba0e55f59
 keywords:
   - nodejs
   - arguments
   - cli
 lang: en
 location: Indonesia
+photos:
+  - https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
 subtitle: Usage, explanations of node options for nodejs
 tags:
-  - JS
-  - NodeJS
+  - js
+  - nodejs
+thumbnail: https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
 title: All About NodeJS Configurations
 type: post
-uuid: 586f70e0-6dec-4888-8cac-99671aad2296
 updated: 2022-12-29T14:25:47+07:00
-thumbnail: https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
-description: Usage, explanations of node options for nodejs
+uuid: 586f70e0-6dec-4888-8cac-99671aad2296
+wordcount: 721
 ---
 
 # NODEJS OPTIONS [ NODE_OPTIONS ]

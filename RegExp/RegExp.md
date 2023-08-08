@@ -3,26 +3,29 @@ ads: false
 author:
   nick: Dimas Lanjaka
   link: https://github.com/dimaslanjaka
-category:
-  - Programming
-  - Regular Expression
+categories:
+  - programming
+  - regular expression
 comments: false
 cover: https://www.w3programmers.com/wp-content/uploads/2012/07/regex.jpg
 date: 2021-09-22T00:00:00+07:00
+description: Regular Expression is a
+excerpt: Regular Expression is a
+id: 4cd70405-503d-4888-85a2-55b39642d633
 lang: en
 location: Indonesia
-subtitle: Regular Expression is a
-tags:
-  - RegExp
-title: What is RegExp
-type: post
-uuid: 4cd70405-503d-4888-85a2-55b39642d633
-webtitle: RegExp
-updated: 2021-12-19T06:34:45+07:00
-thumbnail: https://www.w3programmers.com/wp-content/uploads/2012/07/regex.jpg
 photos:
   - https://www.w3programmers.com/wp-content/uploads/2012/07/regex.jpg
-description: Regular Expression is a
+subtitle: Regular Expression is a
+tags:
+  - regexp
+thumbnail: https://www.w3programmers.com/wp-content/uploads/2012/07/regex.jpg
+title: What is RegExp
+type: post
+updated: 2021-12-19T06:34:45+07:00
+uuid: 4cd70405-503d-4888-85a2-55b39642d633
+webtitle: RegExp
+wordcount: 1628
 ---
 
 <!--https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285-->

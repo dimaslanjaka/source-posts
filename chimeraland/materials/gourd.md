@@ -1,19 +1,31 @@
 ---
-title: Material Gourd Chimeraland
-date: 2022-01-12T01:56:03+07:00
-updated: 2022-10-04T01:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/gourd/gourd.webp
+date: 2022-01-12T01:56:03+07:00
+description: "Material Gourd Chimeraland materials Gourd October 4, 2022 1:26 AM
+  Continue reading Gourd What is the use of the Gourd "
+excerpt: "Material Gourd Chimeraland materials Gourd October 4, 2022 1:26 AM
+  Continue reading Gourd What is the use of the Gourd "
+id: 67efa3e5-bafd-4888-81fd-ee37d68c71c7
+lang: en
 permalink: /chimeraland/materials/gourd.html
 photos:
   - /chimeraland/materials/gourd/gourd.webp
-thumbnail: /chimeraland/materials/gourd/gourd.webp
+subtitle: "Material Gourd Chimeraland materials Gourd October 4, 2022 1:26 AM
+  Continue reading Gourd What is the use of the Gourd "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/gourd/gourd.webp
+title: Material Gourd Chimeraland
+type: post
+updated: 2022-10-04T01:26:37+07:00
+wordcount: 1925
 ---
 
 <link

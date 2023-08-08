@@ -1,23 +1,34 @@
 ---
-title: Recipe Herb Grilled Crab Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T17:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/herb-grilled-crab/herb-grilled-crab.webp
 date: 2022-01-09T11:56:03+07:00
+description: "Recipe Herb Grilled Crab Chimeraland Herb Grilled Crab Cooking
+  Recipe Buff Herb Grilled Crab 420 Fullness 150 ATK recipe "
+excerpt: "Recipe Herb Grilled Crab Chimeraland Herb Grilled Crab Cooking Recipe
+  Buff Herb Grilled Crab 420 Fullness 150 ATK recipe "
+id: 8023c6ac-7304-4888-8672-43cf88339724
+lang: en
 permalink: /chimeraland/recipes/herb-grilled-crab.html
 photos:
   - /chimeraland/recipes/herb-grilled-crab/herb-grilled-crab.webp
   - /chimeraland/recipes/herb-grilled-crab/herb-grilled-crab-name.webp
   - /chimeraland/recipes/herb-grilled-crab/herb-grilled-crab-icon.webp
   - /chimeraland/recipes/herb-grilled-crab/herb-grilled-crab-material.webp
-thumbnail: /chimeraland/recipes/herb-grilled-crab/herb-grilled-crab.webp
+subtitle: "Recipe Herb Grilled Crab Chimeraland Herb Grilled Crab Cooking Recipe
+  Buff Herb Grilled Crab 420 Fullness 150 ATK recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/herb-grilled-crab/herb-grilled-crab.webp
+title: Recipe Herb Grilled Crab Chimeraland
+type: post
+updated: 2022-10-05T17:46:54+07:00
+wordcount: 739
 ---
 
 <link

@@ -1,19 +1,30 @@
 ---
-title: Monster Minkrat
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-10-01T03:18:27+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-08T22:56:03+07:00
+description: "Monster Minkrat Minkrat Information from Chimeraland Minkrat
+  default maximum attribute GRADE B GRAND - EPIC Attack 60 "
+excerpt: "Monster Minkrat Minkrat Information from Chimeraland Minkrat default
+  maximum attribute GRADE B GRAND - EPIC Attack 60 "
+id: cfe4ee36-048a-4888-856c-24c62b02fae4
+lang: en
 permalink: /chimeraland/monsters/minkrat.html
 photos: []
+subtitle: "Monster Minkrat Minkrat Information from Chimeraland Minkrat default
+  maximum attribute GRADE B GRAND - EPIC Attack 60 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+title: Monster Minkrat
+type: post
+updated: 2022-10-01T03:18:27+07:00
+webtitle: chimeraland
+wordcount: 551
 ---
 
 <link

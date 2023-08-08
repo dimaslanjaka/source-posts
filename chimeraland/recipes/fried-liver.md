@@ -1,23 +1,34 @@
 ---
-title: Recipe Fried Liver Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T09:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/fried-liver/fried-liver.webp
 date: 2022-01-08T21:56:03+07:00
+description: Recipe Fried Liver Chimeraland Fried Liver Cooking Recipe Buff
+  Fried Liver 300 Fullness 50 DEF recipe webmanajemen.co
+excerpt: Recipe Fried Liver Chimeraland Fried Liver Cooking Recipe Buff Fried
+  Liver 300 Fullness 50 DEF recipe webmanajemen.co
+id: 1eb21d5f-1890-4888-89bd-4439f3398e74
+lang: en
 permalink: /chimeraland/recipes/fried-liver.html
 photos:
   - /chimeraland/recipes/fried-liver/fried-liver.webp
   - /chimeraland/recipes/fried-liver/fried-liver-name.webp
   - /chimeraland/recipes/fried-liver/fried-liver-icon.webp
   - /chimeraland/recipes/fried-liver/fried-liver-material.webp
-thumbnail: /chimeraland/recipes/fried-liver/fried-liver.webp
+subtitle: Recipe Fried Liver Chimeraland Fried Liver Cooking Recipe Buff Fried
+  Liver 300 Fullness 50 DEF recipe webmanajemen.co
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/fried-liver/fried-liver.webp
+title: Recipe Fried Liver Chimeraland
+type: post
+updated: 2022-10-05T09:46:55+07:00
+wordcount: 624
 ---
 
 <link

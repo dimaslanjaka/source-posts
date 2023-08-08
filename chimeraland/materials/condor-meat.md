@@ -1,19 +1,32 @@
 ---
-title: Material Condor Meat Chimeraland
-date: 2022-01-08T03:56:03+07:00
-updated: 2022-09-30T03:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/condor-meat/condor-meat.webp
+date: 2022-01-08T03:56:03+07:00
+description: "Material Condor Meat Chimeraland materials Condor Meat September
+  30, 2022 3:26 AM Continue reading Condor Meat What is the use of the Condor
+  Meat "
+excerpt: "Material Condor Meat Chimeraland materials Condor Meat September 30,
+  2022 3:26 AM Continue reading Condor Meat What is the use of the Condor Meat "
+id: 67408ffe-3793-4888-810b-bc4d50a0f8dd
+lang: en
 permalink: /chimeraland/materials/condor-meat.html
 photos:
   - /chimeraland/materials/condor-meat/condor-meat.webp
-thumbnail: /chimeraland/materials/condor-meat/condor-meat.webp
+subtitle: "Material Condor Meat Chimeraland materials Condor Meat September 30,
+  2022 3:26 AM Continue reading Condor Meat What is the use of the Condor Meat "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/condor-meat/condor-meat.webp
+title: Material Condor Meat Chimeraland
+type: post
+updated: 2022-09-30T03:26:37+07:00
+wordcount: 1665
 ---
 
 <link

@@ -1,23 +1,34 @@
 ---
-title: Recipe Cherry-Braised Meat Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T01:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat.webp
 date: 2022-01-07T23:56:03+07:00
+description: "Recipe Cherry-Braised Meat Chimeraland Cherry-Braised Meat Cooking
+  Recipe Buff Cherry-Braised Meat 660 Fullness 250 ATK recipe "
+excerpt: "Recipe Cherry-Braised Meat Chimeraland Cherry-Braised Meat Cooking
+  Recipe Buff Cherry-Braised Meat 660 Fullness 250 ATK recipe "
+id: 34b9f29e-6d12-4888-8b98-1483fbf5a6d7
+lang: en
 permalink: /chimeraland/recipes/cherry-braised-meat.html
 photos:
   - /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat.webp
   - /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat-name.webp
   - /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat-icon.webp
   - /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat-material.webp
-thumbnail: /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat.webp
+subtitle: "Recipe Cherry-Braised Meat Chimeraland Cherry-Braised Meat Cooking
+  Recipe Buff Cherry-Braised Meat 660 Fullness 250 ATK recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat.webp
+title: Recipe Cherry-Braised Meat Chimeraland
+type: post
+updated: 2022-10-06T01:46:55+07:00
+wordcount: 771
 ---
 
 <link

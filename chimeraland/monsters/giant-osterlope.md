@@ -1,9 +1,19 @@
 ---
-title: Monster giant osterlope
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-11T04:30:18+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-25-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-03-11T05:19:18+07:00
+description: "Monster giant osterlope giant osterlope Information from
+  Chimeraland giant osterlope default maximum attribute GRADE N/A N/A Attack N/A
+  "
+excerpt: "Monster giant osterlope giant osterlope Information from Chimeraland
+  giant osterlope default maximum attribute GRADE N/A N/A Attack N/A "
+id: 3d74857c-104c-4888-82d7-07331449c8b5
+lang: en
 permalink: /chimeraland/monsters/giant-osterlope.html
 photos:
   - /chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-25-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +23,18 @@ photos:
   - /chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-43-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-47-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-51-82_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-25-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant osterlope giant osterlope Information from Chimeraland
+  giant osterlope default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-25-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant osterlope
+type: post
+updated: 2023-03-11T04:30:18+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

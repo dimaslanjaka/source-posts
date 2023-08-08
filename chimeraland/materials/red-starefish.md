@@ -1,19 +1,37 @@
 ---
-title: Material Red Starefish Chimeraland
-date: 2022-01-14T11:56:03+07:00
-updated: 2022-10-06T11:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/red-starefish/red-starefish.webp
+date: 2022-01-14T11:56:03+07:00
+description: Material Red Starefish Chimeraland materials Red Starefish October
+  6, 2022 11:26 AM A marine fish with a body like a tadpole. It is red with an
+  ugly, twisted face and lacks fat. The Eastmount Sea is where it may be found.
+  Contin
+excerpt: Material Red Starefish Chimeraland materials Red Starefish October 6,
+  2022 11:26 AM A marine fish with a body like a tadpole. It is red with an
+  ugly, twisted face and lacks fat. The Eastmount Sea is where it may be found.
+  Contin
+id: bee867a4-508a-4888-85f1-e5064edf2b8a
+lang: en
 permalink: /chimeraland/materials/red-starefish.html
 photos:
   - /chimeraland/materials/red-starefish/red-starefish.webp
-thumbnail: /chimeraland/materials/red-starefish/red-starefish.webp
+subtitle: Material Red Starefish Chimeraland materials Red Starefish October 6,
+  2022 11:26 AM A marine fish with a body like a tadpole. It is red with an
+  ugly, twisted face and lacks fat. The Eastmount Sea is where it may be found.
+  Contin
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/red-starefish/red-starefish.webp
+title: Material Red Starefish Chimeraland
+type: post
+updated: 2022-10-06T11:26:37+07:00
+wordcount: 850
 ---
 
 <link

@@ -3,22 +3,17 @@ author:
   nick: Dimas Lanjaka
   link: ""
   email: noreply@blogger.com
-category:
-  - Programming
-  - HTML
+categories:
+  - programming
+  - html
+comments: true
+cover: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0Jbr1UikPXCMcKYhYI8In9l8ajc_-DJiJInkoPOmc0t4Vi3zz
 date: 2017-04-30T01:34:00+07:00
-lang: id
-tags:
-  - Blogger
-  - HTML
-  - AMP
-title: Cara Mempercepat Blogger Dengan dns-prefetch metatag
-type: post
-uuid: 5289e74a-6ef9-4888-8f2e-f29add41b8b5
-updated: 2023-04-18T08:41:35+07:00
-thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0Jbr1UikPXCMcKYhYI8In9l8ajc_-DJiJInkoPOmc0t4Vi3zz
 description: Bagaimana Cara mempercepat loading blogger AMP maupun NON AMP.
   Langkah awal mempercepat loading <b>AMP Blogger</b> maupun
+excerpt: Bagaimana Cara mempercepat loading blogger AMP maupun NON AMP. Langkah
+  awal mempercepat loading <b>AMP Blogger</b> maupun
+id: 7ed1ab62-10b0-4888-8bc6-db0775bdb10a
 keywords:
   - Mempercepat loading blog dengan dns-prefetch
   - prefetching external script dan css
@@ -27,6 +22,21 @@ keywords:
   - link rel="dns-prefetch" blogger
   - Bagaimana cara mempercepat loading blog dengan link metatag
   - Bagaimana cara mempercepat loading blogger AMP maupun NON AMP
+lang: id
+photos:
+  - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0Jbr1UikPXCMcKYhYI8In9l8ajc_-DJiJInkoPOmc0t4Vi3zz
+subtitle: Bagaimana Cara mempercepat loading blogger AMP maupun NON AMP. Langkah
+  awal mempercepat loading <b>AMP Blogger</b> maupun
+tags:
+  - blogger
+  - html
+  - amp
+thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0Jbr1UikPXCMcKYhYI8In9l8ajc_-DJiJInkoPOmc0t4Vi3zz
+title: Cara Mempercepat Blogger Dengan dns-prefetch metatag
+type: post
+updated: 2023-04-18T08:41:35+07:00
+uuid: 5289e74a-6ef9-4888-8f2e-f29add41b8b5
+wordcount: 581
 ---
 
 <b>Bagaimana Cara mempercepat loading blogger AMP maupun NON AMP.</b>

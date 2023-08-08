@@ -1,21 +1,33 @@
 ---
-title: Monster Goldfish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T09:23:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Goldfish
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Goldfish Goldfish Information from Chimeraland Goldfish
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Goldfish Goldfish Information from Chimeraland Goldfish
+  default maximum attribute GRADE Attack "
+id: d925ecd3-9349-4888-8241-f46539b305a3
+lang: en
 permalink: /chimeraland/monsters/goldfish.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Goldfish
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Goldfish
+subtitle: "Monster Goldfish Goldfish Information from Chimeraland Goldfish
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Goldfish
+title: Monster Goldfish
+type: post
+updated: 2023-05-25T09:23:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

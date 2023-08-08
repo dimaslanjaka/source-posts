@@ -1,12 +1,20 @@
 ---
-title: Monster Crocupine
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T02:55:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Crocupine
 date: 2022-01-07T16:56:03+07:00
+description: "Monster Crocupine Crocupine Information from Chimeraland Crocupine
+  default maximum attribute GRADE B GRAND - EPIC Attack 60 "
+excerpt: "Monster Crocupine Crocupine Information from Chimeraland Crocupine
+  default maximum attribute GRADE B GRAND - EPIC Attack 60 "
+id: 17cc3505-b6f8-4888-8866-fd1287aa02d0
+lang: en
 permalink: /chimeraland/monsters/crocupine.html
 photos:
-  - null
   - /chimeraland/monsters/crocupine/Screenshot_2022-08-12-23-36-53-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/crocupine/Screenshot_2022-08-12-23-36-58-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/crocupine/Screenshot_2022-08-12-23-37-04-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +22,19 @@ photos:
   - /chimeraland/monsters/crocupine/Screenshot_2022-08-12-23-37-15-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/crocupine/Screenshot_2022-08-12-23-37-22-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/crocupine/Screenshot_2022-08-12-23-37-34-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Crocupine
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Crocupine
+subtitle: "Monster Crocupine Crocupine Information from Chimeraland Crocupine
+  default maximum attribute GRADE B GRAND - EPIC Attack 60 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Crocupine
+title: Monster Crocupine
+type: post
+updated: 2023-05-25T02:55:12+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

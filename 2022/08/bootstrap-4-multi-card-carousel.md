@@ -1,17 +1,26 @@
 ---
-title: Bootstrap 4 Multi Card Carousel Without Any Plugin
-description: How to create bootstrap 4 multiple cards carousel without any plugin
-date: 2022-08-28T22:11:00+0700
-updated: 2022-08-28T22:11:00+0700
+author: Dimas Lanjaka
 categories:
-  - Programming
-  - JS
-  - CSS
+  - programming
+  - js
+  - css
+comments: true
+date: 2022-08-28T22:11:00+0700
+description: How to create bootstrap 4 multiple cards carousel without any plugin
+excerpt: How to create bootstrap 4 multiple cards carousel without any plugin
+id: 94e7d573-3135-4888-891a-b794d1f10a88
+lang: en
+photos: []
+subtitle: How to create bootstrap 4 multiple cards carousel without any plugin
 tags:
-  - Script
-  - JS
-  - CSS
-  - HTML
+  - script
+  - js
+  - css
+  - html
+title: Bootstrap 4 Multi Card Carousel Without Any Plugin
+type: post
+updated: 2022-08-28T22:11:00+0700
+wordcount: 175
 ---
 
 ## Bootstrap 4 Multi-Card Carousel Without Plugin

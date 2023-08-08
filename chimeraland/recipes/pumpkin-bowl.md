@@ -1,23 +1,34 @@
 ---
-title: Recipe Pumpkin Bowl Chimeraland
 author: L3n4r0x
-updated: 2022-10-07T02:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl.webp
 date: 2022-01-10T06:56:03+07:00
+description: "Recipe Pumpkin Bowl Chimeraland Pumpkin Bowl Cooking Recipe Buff
+  Pumpkin Bowl 660 Fullness 10 CRIT DMG Great Focus recipe "
+excerpt: "Recipe Pumpkin Bowl Chimeraland Pumpkin Bowl Cooking Recipe Buff
+  Pumpkin Bowl 660 Fullness 10 CRIT DMG Great Focus recipe "
+id: 55d66357-2870-4888-8c13-2c0e47b997a5
+lang: en
 permalink: /chimeraland/recipes/pumpkin-bowl.html
 photos:
   - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl.webp
   - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-name.webp
   - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-icon.webp
   - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-material.webp
-thumbnail: /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl.webp
+subtitle: "Recipe Pumpkin Bowl Chimeraland Pumpkin Bowl Cooking Recipe Buff
+  Pumpkin Bowl 660 Fullness 10 CRIT DMG Great Focus recipe "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl.webp
+title: Recipe Pumpkin Bowl Chimeraland
+type: post
+updated: 2022-10-07T02:46:54+07:00
+wordcount: 911
 ---
 
 <link

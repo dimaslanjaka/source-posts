@@ -1,18 +1,31 @@
 ---
-title: How to fix github detached HEAD
-description: Now it turns out that the head is cut off/detached. i don't know what it is. How do I get it back?
-lang: en
+author: Dimas Lanjaka
+categories:
+  - programming
+comments: true
+cover: https://production-cci-com.imgix.net/blog/media/2021-10-22-git-detached-head-3.png
 date: 2022-10-10T22:56:00+0700
-updated: 2022-10-10T22:56:00+0700
-thumbnail: https://production-cci-com.imgix.net/blog/media/2021-10-22-git-detached-head-3.png
-category:
-  - Programming
-tags:
-  - GitHub
+description: Now it turns out that the head is cut off/detached. i dont know
+  what it is. How do I get it back?
+excerpt: Now it turns out that the head is cut off/detached. i dont know what it
+  is. How do I get it back?
+id: 00b09b34-060f-4888-81d0-2f0a5ec8ab54
 keywords:
   - github
   - fix
   - detached head
+lang: en
+photos:
+  - https://production-cci-com.imgix.net/blog/media/2021-10-22-git-detached-head-3.png
+subtitle: Now it turns out that the head is cut off/detached. i dont know what
+  it is. How do I get it back?
+tags:
+  - github
+thumbnail: https://production-cci-com.imgix.net/blog/media/2021-10-22-git-detached-head-3.png
+title: How to fix github detached HEAD
+type: post
+updated: 2022-10-10T22:56:00+0700
+wordcount: 517
 ---
 
 Detached head means You are no longer at branch. Checked out a single commit in history (in this case, the commit before HEAD, i.e. HEAD).

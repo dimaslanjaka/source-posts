@@ -1,9 +1,18 @@
 ---
-title: Monster giant batnix
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-25T00:55:43+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-56-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-25T00:44:43+07:00
+description: "Monster giant batnix giant batnix Information from Chimeraland
+  giant batnix default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Monster giant batnix giant batnix Information from Chimeraland giant
+  batnix default maximum attribute GRADE N/A N/A Attack N/A "
+id: b2d14076-a9ea-4888-88be-56ce65983e6b
+lang: en
 permalink: /chimeraland/monsters/giant-batnix.html
 photos:
   - /chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-56-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,15 +24,18 @@ photos:
   - /chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-57-20-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-57-24-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-57-30-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-56-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant batnix giant batnix Information from Chimeraland giant
+  batnix default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-56-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant batnix
+type: post
+updated: 2023-02-25T00:55:43+07:00
+webtitle: chimeraland
+wordcount: 1318
 ---
 
 <link

@@ -1,21 +1,33 @@
 ---
-title: Monster Barbled Dragonfish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T16:59:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Barbled Dragonfish
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Barbled Dragonfish Barbled Dragonfish Information from
+  Chimeraland Barbled Dragonfish default maximum attribute GRADE Attack "
+excerpt: "Monster Barbled Dragonfish Barbled Dragonfish Information from
+  Chimeraland Barbled Dragonfish default maximum attribute GRADE Attack "
+id: 20111dee-26f1-4888-8045-96617ad3d2e7
+lang: en
 permalink: /chimeraland/monsters/barbled-dragonfish.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Barbled Dragonfish
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Barbled Dragonfish
+subtitle: "Monster Barbled Dragonfish Barbled Dragonfish Information from
+  Chimeraland Barbled Dragonfish default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Barbled Dragonfish
+title: Monster Barbled Dragonfish
+type: post
+updated: 2023-05-25T16:59:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

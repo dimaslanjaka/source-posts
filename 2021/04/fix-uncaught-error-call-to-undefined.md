@@ -3,23 +3,28 @@ author:
   nick: Dimas Lanjaka
   link: https://www.blogger.com/profile/07981649157148639830
   email: noreply@blogger.com
-category: []
+categories:
+  - uncategorized
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://kuliahitblog.files.wordpress.com/2019/08/1dbdb-fatal2berror2buncaught2berror2bcall2bto2bundefined2bfunction2bmysql_connect25282529.png
 date: 2021-04-27T19:26:00.002+07:00
+description: "Uncaught Error: Call to undefined function str_starts_with Fix Solutions"
+excerpt: "Uncaught Error: Call to undefined function str_starts_with Fix Solutions"
+id: a71c99ec-1b31-4888-8231-97b43323571a
 lang: en
-location: ""
-modified: 2022-03-23T13:42:23+0000
-subtitle: "Uncaught Error: Call to undefined function str_starts_with() Fix
-  Solutions"
+photos:
+  - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://kuliahitblog.files.wordpress.com/2019/08/1dbdb-fatal2berror2buncaught2berror2bcall2bto2bundefined2bfunction2bmysql_connect25282529.png
+subtitle: "Uncaught Error: Call to undefined function str_starts_with Fix Solutions"
 tags:
-  - Script
-  - PHP
+  - script
+  - php
+thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://kuliahitblog.files.wordpress.com/2019/08/1dbdb-fatal2berror2buncaught2berror2bcall2bto2bundefined2bfunction2bmysql_connect25282529.png
 title: Fix Uncaught Error Call to undefined function str_starts_with and str_ends_with
-webtitle: PHP
 type: post
-uuid: 0879db41-1cc7-4888-88b3-d7f0056a20b8
 updated: 2022-03-23T13:42:23+0000
+uuid: 0879db41-1cc7-4888-88b3-d7f0056a20b8
+webtitle: PHP
+wordcount: 722
 ---
 
 ## Uncaught Error: Call to undefined function str_starts_with() Fix Solutions

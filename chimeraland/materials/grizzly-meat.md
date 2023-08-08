@@ -1,19 +1,34 @@
 ---
-title: Material Grizzly Meat Chimeraland
-date: 2022-01-08T06:56:03+07:00
-updated: 2022-09-30T06:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/grizzly-meat/grizzly-meat.webp
+date: 2022-01-08T06:56:03+07:00
+description: "Material Grizzly Meat Chimeraland materials Grizzly Meat September
+  30, 2022 6:26 AM Continue reading Grizzly Meat What is the use of the Grizzly
+  Meat "
+excerpt: "Material Grizzly Meat Chimeraland materials Grizzly Meat September 30,
+  2022 6:26 AM Continue reading Grizzly Meat What is the use of the Grizzly Meat
+  "
+id: febfc0df-fd24-4888-8c8b-de1fe458fd0a
+lang: en
 permalink: /chimeraland/materials/grizzly-meat.html
 photos:
   - /chimeraland/materials/grizzly-meat/grizzly-meat.webp
-thumbnail: /chimeraland/materials/grizzly-meat/grizzly-meat.webp
+subtitle: "Material Grizzly Meat Chimeraland materials Grizzly Meat September
+  30, 2022 6:26 AM Continue reading Grizzly Meat What is the use of the Grizzly
+  Meat "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/grizzly-meat/grizzly-meat.webp
+title: Material Grizzly Meat Chimeraland
+type: post
+updated: 2022-09-30T06:26:37+07:00
+wordcount: 1034
 ---
 
 <link

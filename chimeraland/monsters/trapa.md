@@ -1,21 +1,33 @@
 ---
-title: Monster Trapa
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T12:54:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Trapa
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Trapa Trapa Information from Chimeraland Trapa default
+  maximum attribute GRADE Attack "
+excerpt: "Monster Trapa Trapa Information from Chimeraland Trapa default maximum
+  attribute GRADE Attack "
+id: 4d353585-2dfc-4888-8275-d06b10f9981f
+lang: en
 permalink: /chimeraland/monsters/trapa.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Trapa
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Trapa
+subtitle: "Monster Trapa Trapa Information from Chimeraland Trapa default
+  maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Trapa
+title: Monster Trapa
+type: post
+updated: 2023-05-25T12:54:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

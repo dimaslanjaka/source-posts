@@ -1,9 +1,18 @@
 ---
-title: Attendant Lunar Shiren
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-29T09:26:37+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/lunar-shiren/IMG_20230330_005130.webp
 date: 2022-01-07T10:56:03+07:00
+description: "Attendant Lunar Shiren Lunar Shiren Information from Chimeraland
+  Lunar Shiren default maximum attribute GRADE Attack "
+excerpt: "Attendant Lunar Shiren Lunar Shiren Information from Chimeraland Lunar
+  Shiren default maximum attribute GRADE Attack "
+id: 997a8ac0-db27-4888-8389-37e4705a1eb2
+lang: en
 permalink: /chimeraland/attendants/lunar-shiren.html
 photos:
   - /chimeraland/attendants/lunar-shiren/IMG_20230330_005130.webp
@@ -13,14 +22,17 @@ photos:
   - /chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-36-07-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-36-12-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/lunar-shiren/Screenshot_2022-07-17-22-36-19-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/lunar-shiren/IMG_20230330_005130.webp
+subtitle: "Attendant Lunar Shiren Lunar Shiren Information from Chimeraland
+  Lunar Shiren default maximum attribute GRADE Attack "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/lunar-shiren/IMG_20230330_005130.webp
+title: Attendant Lunar Shiren
+type: post
+updated: 2022-09-29T09:26:37+07:00
+webtitle: chimeraland
+wordcount: 1144
 ---
 
 <link

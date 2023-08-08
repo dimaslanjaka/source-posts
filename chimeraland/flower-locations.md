@@ -1,16 +1,24 @@
 ---
-title: Lokasi Spawn Bunga Di Chimeraland
-lang: id
-category:
-  - Games
-  - Chimeraland
-tags:
-  - Chimeraland
-  - Location
-subtitle: Spawn locations of flowers
-toc: true
+author: Dimas Lanjaka
+categories:
+  - games
+  - chimeraland
+comments: true
 date: 2022-03-21
+description: Spawn locations of flowers
+excerpt: Spawn locations of flowers
+id: 026e6232-2de1-4888-8a72-39c86532e9fe
+lang: id
+photos: []
+subtitle: Spawn locations of flowers
+tags:
+  - chimeraland
+  - location
+title: Lokasi Spawn Bunga Di Chimeraland
+toc: true
+type: post
 updated: 2023-03-04T19:40:52+07:00
+wordcount: 569
 ---
 
 <!-- include index2/update.html -->

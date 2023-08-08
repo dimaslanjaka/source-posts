@@ -1,21 +1,33 @@
 ---
-title: Monster Spike Alligon
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T17:57:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spike Alligon
 date: 2022-01-10T11:56:03+07:00
+description: "Monster Spike Alligon Spike Alligon Information from Chimeraland
+  Spike Alligon default maximum attribute GRADE C RARE Attack 55 "
+excerpt: "Monster Spike Alligon Spike Alligon Information from Chimeraland Spike
+  Alligon default maximum attribute GRADE C RARE Attack 55 "
+id: 554d4131-04de-4888-8b60-1c0f44dc82d5
+lang: en
 permalink: /chimeraland/monsters/spike-alligon.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spike Alligon
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spike Alligon
+subtitle: "Monster Spike Alligon Spike Alligon Information from Chimeraland
+  Spike Alligon default maximum attribute GRADE C RARE Attack 55 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spike Alligon
+title: Monster Spike Alligon
+type: post
+updated: 2023-05-25T17:57:12+07:00
+webtitle: chimeraland
+wordcount: 670
 ---
 
 <link

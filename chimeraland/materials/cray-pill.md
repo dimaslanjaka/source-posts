@@ -1,19 +1,34 @@
 ---
-title: Material Cray Pill Chimeraland
-date: 2022-01-18T09:56:03+07:00
-updated: 2022-10-10T09:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/cray-pill/cray-pill.webp
+date: 2022-01-18T09:56:03+07:00
+description: Material Cray Pill Chimeraland materials Cray Pill October 10, 2022
+  9:26 AM Continue reading Cray Pill What is the use of the Cray Pill Used for
+  Evolve N
+excerpt: Material Cray Pill Chimeraland materials Cray Pill October 10, 2022
+  9:26 AM Continue reading Cray Pill What is the use of the Cray Pill Used for
+  Evolve N
+id: 7aec90c9-97e7-4888-86be-60298220b1c6
+lang: en
 permalink: /chimeraland/materials/cray-pill.html
 photos:
   - /chimeraland/materials/cray-pill/cray-pill.webp
-thumbnail: /chimeraland/materials/cray-pill/cray-pill.webp
+subtitle: Material Cray Pill Chimeraland materials Cray Pill October 10, 2022
+  9:26 AM Continue reading Cray Pill What is the use of the Cray Pill Used for
+  Evolve N
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/cray-pill/cray-pill.webp
+title: Material Cray Pill Chimeraland
+type: post
+updated: 2022-10-10T09:26:37+07:00
+wordcount: 728
 ---
 
 <link

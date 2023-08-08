@@ -1,19 +1,34 @@
 ---
-title: Material Fossilized Skull Chimeraland
-date: 2022-01-13T09:56:03+07:00
-updated: 2022-10-05T09:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/fossilized-skull/fossilized-skull.webp
+date: 2022-01-13T09:56:03+07:00
+description: "Material Fossilized Skull Chimeraland materials Fossilized Skull
+  October 5, 2022 9:26 AM Continue reading Fossilized Skull What is the use of
+  the Fossilized Skull "
+excerpt: "Material Fossilized Skull Chimeraland materials Fossilized Skull
+  October 5, 2022 9:26 AM Continue reading Fossilized Skull What is the use of
+  the Fossilized Skull "
+id: de604326-3f93-4888-84c6-bab59a91403e
+lang: en
 permalink: /chimeraland/materials/fossilized-skull.html
 photos:
   - /chimeraland/materials/fossilized-skull/fossilized-skull.webp
-thumbnail: /chimeraland/materials/fossilized-skull/fossilized-skull.webp
+subtitle: "Material Fossilized Skull Chimeraland materials Fossilized Skull
+  October 5, 2022 9:26 AM Continue reading Fossilized Skull What is the use of
+  the Fossilized Skull "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/fossilized-skull/fossilized-skull.webp
+title: Material Fossilized Skull Chimeraland
+type: post
+updated: 2022-10-05T09:26:37+07:00
+wordcount: 759
 ---
 
 <link

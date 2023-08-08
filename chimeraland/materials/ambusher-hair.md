@@ -1,19 +1,34 @@
 ---
-title: Material Ambusher Hair Chimeraland
-date: 2022-01-09T12:56:03+07:00
-updated: 2022-10-01T12:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/ambusher-hair/ambusher-hair.webp
+date: 2022-01-09T12:56:03+07:00
+description: "Material Ambusher Hair Chimeraland materials Ambusher Hair October
+  1, 2022 12:26 PM Direwolf fur, provides camouflage. Continue reading Ambusher
+  Hair What is the use of the Ambusher Hair "
+excerpt: "Material Ambusher Hair Chimeraland materials Ambusher Hair October 1,
+  2022 12:26 PM Direwolf fur, provides camouflage. Continue reading Ambusher
+  Hair What is the use of the Ambusher Hair "
+id: a2da3c97-3605-4888-8d92-40244c5b0c1f
+lang: en
 permalink: /chimeraland/materials/ambusher-hair.html
 photos:
   - /chimeraland/materials/ambusher-hair/ambusher-hair.webp
-thumbnail: /chimeraland/materials/ambusher-hair/ambusher-hair.webp
+subtitle: "Material Ambusher Hair Chimeraland materials Ambusher Hair October 1,
+  2022 12:26 PM Direwolf fur, provides camouflage. Continue reading Ambusher
+  Hair What is the use of the Ambusher Hair "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/ambusher-hair/ambusher-hair.webp
+title: Material Ambusher Hair Chimeraland
+type: post
+updated: 2022-10-01T12:26:37+07:00
+wordcount: 1047
 ---
 
 <link

@@ -1,23 +1,34 @@
 ---
-title: Recipe Meat And Vegetable Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T00:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable.webp
 date: 2022-01-10T16:56:03+07:00
+description: "Recipe Meat And Vegetable Chimeraland Meat And Vegetable Cooking
+  Recipe Buff Meat And Vegetable 420 Fullness Medium Focus 25 Armor Pierce "
+excerpt: "Recipe Meat And Vegetable Chimeraland Meat And Vegetable Cooking
+  Recipe Buff Meat And Vegetable 420 Fullness Medium Focus 25 Armor Pierce "
+id: a8f424e9-2553-4888-864b-04235a94a608
+lang: en
 permalink: /chimeraland/recipes/meat-and-vegetable.html
 photos:
   - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable.webp
   - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-name.webp
   - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-icon.webp
   - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-material.webp
-thumbnail: /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable.webp
+subtitle: "Recipe Meat And Vegetable Chimeraland Meat And Vegetable Cooking
+  Recipe Buff Meat And Vegetable 420 Fullness Medium Focus 25 Armor Pierce "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable.webp
+title: Recipe Meat And Vegetable Chimeraland
+type: post
+updated: 2022-10-06T00:46:55+07:00
+wordcount: 1901
 ---
 
 <link

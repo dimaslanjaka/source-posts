@@ -1,9 +1,18 @@
 ---
-title: Attendant Rosary Aquatine
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-30T04:26:37+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-49-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2022-01-07T21:56:03+07:00
+description: "Attendant Rosary Aquatine Rosary Aquatine Information from
+  Chimeraland Rosary Aquatine default maximum attribute GRADE Attack "
+excerpt: "Attendant Rosary Aquatine Rosary Aquatine Information from Chimeraland
+  Rosary Aquatine default maximum attribute GRADE Attack "
+id: f822ff01-d467-4888-84d3-99a0aca1f38b
+lang: en
 permalink: /chimeraland/attendants/rosary-aquatine.html
 photos:
   - /chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-49-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,14 +21,17 @@ photos:
   - /chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-53-01-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-53-04-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-53-08-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-49-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant Rosary Aquatine Rosary Aquatine Information from
+  Chimeraland Rosary Aquatine default maximum attribute GRADE Attack "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/rosary-aquatine/Screenshot_2022-07-29-21-52-49-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant Rosary Aquatine
+type: post
+updated: 2022-09-30T04:26:37+07:00
+webtitle: chimeraland
+wordcount: 1063
 ---
 
 <link

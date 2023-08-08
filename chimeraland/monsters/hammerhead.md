@@ -1,21 +1,33 @@
 ---
-title: Monster Hammerhead
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T16:14:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hammerhead
 date: 2023-05-25T02:02:42+07:00
+description: "Monster Hammerhead Hammerhead Information from Chimeraland
+  Hammerhead default maximum attribute GRADE Attack "
+excerpt: "Monster Hammerhead Hammerhead Information from Chimeraland Hammerhead
+  default maximum attribute GRADE Attack "
+id: c77fd85d-f8b7-4888-8c42-c6cfb5b0f3c3
+lang: en
 permalink: /chimeraland/monsters/hammerhead.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hammerhead
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hammerhead
+subtitle: "Monster Hammerhead Hammerhead Information from Chimeraland Hammerhead
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hammerhead
+title: Monster Hammerhead
+type: post
+updated: 2023-05-25T16:14:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

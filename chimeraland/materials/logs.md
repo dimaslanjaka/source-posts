@@ -1,19 +1,34 @@
 ---
-title: Material Logs Chimeraland
-date: 2022-01-13T17:56:03+07:00
-updated: 2022-10-05T17:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/logs/logs.webp
+date: 2022-01-13T17:56:03+07:00
+description: "Material Logs Chimeraland materials Logs October 5, 2022 5:26 PM
+  Wood on the edge of the trunk. Its sow texture makes it vulnerable to rot.
+  Continue reading Logs "
+excerpt: "Material Logs Chimeraland materials Logs October 5, 2022 5:26 PM Wood
+  on the edge of the trunk. Its sow texture makes it vulnerable to rot. Continue
+  reading Logs "
+id: 28a27a79-b2b1-4888-83bd-bc0cc630ee75
+lang: en
 permalink: /chimeraland/materials/logs.html
 photos:
   - /chimeraland/materials/logs/logs.webp
-thumbnail: /chimeraland/materials/logs/logs.webp
+subtitle: "Material Logs Chimeraland materials Logs October 5, 2022 5:26 PM Wood
+  on the edge of the trunk. Its sow texture makes it vulnerable to rot. Continue
+  reading Logs "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/logs/logs.webp
+title: Material Logs Chimeraland
+type: post
+updated: 2022-10-05T17:26:37+07:00
+wordcount: 874
 ---
 
 <link

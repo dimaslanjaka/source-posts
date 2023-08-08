@@ -1,23 +1,34 @@
 ---
-title: Recipe Vegetable Dumplings Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T15:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings.webp
 date: 2022-01-12T09:56:03+07:00
+description: "Recipe Vegetable Dumplings Chimeraland Vegetable Dumplings Cooking
+  Recipe Buff Vegetable Dumplings 660 Fullness 100 nbsp;RES Great Focus "
+excerpt: "Recipe Vegetable Dumplings Chimeraland Vegetable Dumplings Cooking
+  Recipe Buff Vegetable Dumplings 660 Fullness 100 nbsp;RES Great Focus "
+id: 151a4050-366d-4888-8f94-6348e72763d9
+lang: en
 permalink: /chimeraland/recipes/vegetable-dumplings.html
 photos:
   - /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings.webp
   - /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings-name.webp
   - /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings-icon.webp
   - /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings-material.webp
-thumbnail: /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings.webp
+subtitle: "Recipe Vegetable Dumplings Chimeraland Vegetable Dumplings Cooking
+  Recipe Buff Vegetable Dumplings 660 Fullness 100 nbsp;RES Great Focus "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/vegetable-dumplings/vegetable-dumplings.webp
+title: Recipe Vegetable Dumplings Chimeraland
+type: post
+updated: 2022-10-06T15:46:56+07:00
+wordcount: 761
 ---
 
 <link

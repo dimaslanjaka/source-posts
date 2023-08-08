@@ -1,23 +1,34 @@
 ---
-title: Recipe Cantaloupe Claypot Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T20:46:53+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot.webp
 date: 2022-01-07T10:56:03+07:00
+description: Recipe Cantaloupe Claypot Chimeraland Cantaloupe Claypot Cooking
+  Recipe Buff Cantaloupe Claypot 660 Fullness 80 Armor Pierce Great Focus re
+excerpt: Recipe Cantaloupe Claypot Chimeraland Cantaloupe Claypot Cooking Recipe
+  Buff Cantaloupe Claypot 660 Fullness 80 Armor Pierce Great Focus re
+id: ae13e38c-4886-4888-8688-e5573a644115
+lang: en
 permalink: /chimeraland/recipes/cantaloupe-claypot.html
 photos:
   - /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot.webp
   - /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot-name.webp
   - /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot-icon.webp
   - /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot-material.webp
-thumbnail: /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot.webp
+subtitle: Recipe Cantaloupe Claypot Chimeraland Cantaloupe Claypot Cooking
+  Recipe Buff Cantaloupe Claypot 660 Fullness 80 Armor Pierce Great Focus re
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot.webp
+title: Recipe Cantaloupe Claypot Chimeraland
+type: post
+updated: 2022-10-05T20:46:53+07:00
+wordcount: 776
 ---
 
 <link

@@ -3,23 +3,31 @@ author:
   nick: Dimas Lanjaka
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
-category:
-  - Programming
-  - JS
+categories:
+  - programming
+  - js
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://thumbs.dreamstime.com/z/javascript-flat-illustration-abstract-design-development-concepts-elements-mobile-web-applications-50893845.jpg
 date: 2017-12-27T05:39:00.000+07:00
-lang: en
-tags:
-  - JS
-  - HTML
-title: (JS) Javascript Function Remove Slash From String
-type: post
-uuid: 8477ce0f-070e-4888-8dea-7874e23542cc
-updated: 2022-08-18T00:31:00+0700
-thumbnail: js-javascript-function-remove-slash/cover.jpg
 description: All I needed was to expel every single forward slice in a string
   utilizing Javascript.
+excerpt: All I needed was to expel every single forward slice in a string
+  utilizing Javascript.
+id: 963eb735-dbde-4888-8b35-51b36e3847c2
+lang: en
+photos:
+  - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://thumbs.dreamstime.com/z/javascript-flat-illustration-abstract-design-development-concepts-elements-mobile-web-applications-50893845.jpg
+subtitle: All I needed was to expel every single forward slice in a string
+  utilizing Javascript.
+tags:
+  - js
+  - html
+thumbnail: /2017/12/js-javascript-function-remove-slash/cover.jpg
+title: JS Javascript Function Remove Slash From String
+type: post
+updated: 2022-08-18T00:31:00+0700
+uuid: 8477ce0f-070e-4888-8dea-7874e23542cc
+wordcount: 900
 ---
 
 All I needed was to expel every single forward and backward slashes slice in a string utilizing Javascript.

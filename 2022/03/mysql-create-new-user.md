@@ -1,13 +1,34 @@
 ---
-title: MySQL Command to create new database user
-updated: 2022-03-26
+author: Dimas Lanjaka
+categories:
+  - programming
+  - mysql
+comments: true
+cover: /2022/03/mysql-create-new-user/phpmyadmin-changepw.png
 date: 2022-04-11
-cover: mysql-create-new-user/phpmyadmin-changepw.png
+description: MySQL Command to create new database user First, you need to open
+  the database manager such as phpMyAdmin application to querying MySQL
+  commands. Create New User CREATE USER dimaslanjaka@ IDENTIFIED VIA
+  mysql_native_password USING ; GRANT ALL PRIVILEGESON . TO dimaslanjaka@ RE
+excerpt: MySQL Command to create new database user First, you need to open the
+  database manager such as phpMyAdmin application to querying MySQL commands.
+  Create New User CREATE USER dimaslanjaka@ IDENTIFIED VIA mysql_native_password
+  USING ; GRANT ALL PRIVILEGESON . TO dimaslanjaka@ RE
+id: abcdca48-acd1-4888-8a33-cdcdb7b877dc
+lang: en
+photos:
+  - /2022/03/mysql-create-new-user/phpmyadmin-changepw.png
+subtitle: MySQL Command to create new database user First, you need to open the
+  database manager such as phpMyAdmin application to querying MySQL commands.
+  Create New User CREATE USER dimaslanjaka@ IDENTIFIED VIA mysql_native_password
+  USING ; GRANT ALL PRIVILEGESON . TO dimaslanjaka@ RE
 tags:
-  - MySQL
-category:
-  - Programming
-  - MySQL
+  - mysql
+thumbnail: /2022/03/mysql-create-new-user/phpmyadmin-changepw.png
+title: MySQL Command to create new database user
+type: post
+updated: 2022-03-26
+wordcount: 595
 ---
 
 First, you  need to open the database manager such as phpMyAdmin application to querying MySQL commands.

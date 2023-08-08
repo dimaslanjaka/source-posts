@@ -1,19 +1,34 @@
 ---
-title: Material Parasitic Grass Chimeraland
-date: 2022-01-17T15:56:03+07:00
-updated: 2022-10-09T15:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/parasitic-grass/parasitic-grass.webp
+date: 2022-01-17T15:56:03+07:00
+description: "Material Parasitic Grass Chimeraland materials Parasitic Grass
+  October 9, 2022 3:26 PM Continue reading Parasitic Grass What is the use of
+  the Parasitic Grass "
+excerpt: "Material Parasitic Grass Chimeraland materials Parasitic Grass October
+  9, 2022 3:26 PM Continue reading Parasitic Grass What is the use of the
+  Parasitic Grass "
+id: d38fb804-814e-4888-85c8-53b5e899eb55
+lang: en
 permalink: /chimeraland/materials/parasitic-grass.html
 photos:
   - /chimeraland/materials/parasitic-grass/parasitic-grass.webp
-thumbnail: /chimeraland/materials/parasitic-grass/parasitic-grass.webp
+subtitle: "Material Parasitic Grass Chimeraland materials Parasitic Grass
+  October 9, 2022 3:26 PM Continue reading Parasitic Grass What is the use of
+  the Parasitic Grass "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/parasitic-grass/parasitic-grass.webp
+title: Material Parasitic Grass Chimeraland
+type: post
+updated: 2022-10-09T15:26:37+07:00
+wordcount: 868
 ---
 
 <link

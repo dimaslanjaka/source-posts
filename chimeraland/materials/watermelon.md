@@ -1,19 +1,31 @@
 ---
-title: Material Watermelon Chimeraland
-date: 2022-01-12T18:56:03+07:00
-updated: 2022-10-04T18:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/watermelon/watermelon.webp
+date: 2022-01-12T18:56:03+07:00
+description: "Material Watermelon Chimeraland materials Watermelon October 4,
+  2022 6:26 PM Continue reading Watermelon What is the use of the Watermelon "
+excerpt: "Material Watermelon Chimeraland materials Watermelon October 4, 2022
+  6:26 PM Continue reading Watermelon What is the use of the Watermelon "
+id: 60dc154d-81cc-4888-8ae3-d5a01e2e99b1
+lang: en
 permalink: /chimeraland/materials/watermelon.html
 photos:
   - /chimeraland/materials/watermelon/watermelon.webp
-thumbnail: /chimeraland/materials/watermelon/watermelon.webp
+subtitle: "Material Watermelon Chimeraland materials Watermelon October 4, 2022
+  6:26 PM Continue reading Watermelon What is the use of the Watermelon "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/watermelon/watermelon.webp
+title: Material Watermelon Chimeraland
+type: post
+updated: 2022-10-04T18:26:37+07:00
+wordcount: 3182
 ---
 
 <link

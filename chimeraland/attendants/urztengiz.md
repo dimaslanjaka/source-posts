@@ -1,9 +1,18 @@
 ---
-title: Attendant urztengiz
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-24T21:55:41+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-45-53-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-02-24T21:44:41+07:00
+description: "Attendant urztengiz urztengiz Information from Chimeraland
+  urztengiz default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Attendant urztengiz urztengiz Information from Chimeraland urztengiz
+  default maximum attribute GRADE N/A N/A Attack N/A "
+id: 67144901-7e5b-4888-80dc-81d02d0bdd47
+lang: en
 permalink: /chimeraland/attendants/urztengiz.html
 photos:
   - /chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-45-53-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,14 +23,17 @@ photos:
   - /chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-46-16-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-46-21-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-46-26-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-45-53-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant urztengiz urztengiz Information from Chimeraland urztengiz
+  default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-45-53-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant urztengiz
+type: post
+updated: 2023-02-24T21:55:41+07:00
+webtitle: chimeraland
+wordcount: 1130
 ---
 
 <link

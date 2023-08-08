@@ -1,12 +1,24 @@
 ---
-title: Monster Banshee
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T11:35:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Banshee
 date: 2022-01-07T08:56:03+07:00
+description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
+  Attributes Conversion Rate 4.0,Melee DMG Increase 4.8,Essence Aspect: Broken
+  Fang delicacies/tasty Braised Tenderloin,Flame Roasted Horn,Stir-Fried
+  Browtelope Games,chimeraland,monsters chimeraland,monster,pet"
+excerpt: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62 Attributes
+  Conversion Rate 4.0,Melee DMG Increase 4.8,Essence Aspect: Broken Fang
+  delicacies/tasty Braised Tenderloin,Flame Roasted Horn,Stir-Fried Browtelope
+  Games,chimeraland,monsters chimeraland,monster,pet"
+id: 9a08298e-2742-4888-8479-127a6d8f15f0
+lang: en
 permalink: /chimeraland/monsters/banshee.html
 photos:
-  - null
   - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-34-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-39-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-41-43-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,19 +27,21 @@ photos:
   - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-06-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-12-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Banshee
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Banshee
+subtitle: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
+  Attributes Conversion Rate 4.0,Melee DMG Increase 4.8,Essence Aspect: Broken
+  Fang delicacies/tasty Braised Tenderloin,Flame Roasted Horn,Stir-Fried
+  Browtelope Games,chimeraland,monsters chimeraland,monster,pet"
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
-description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
-  Attributes Conversion Rate 4.0%,Melee DMG Increase 4.8%,Essence Aspect: Broken
-  Fang delicacies/tasty Braised Tenderloin,Flame Roasted Horn,Stir-Fried
-  Browtelope Games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Banshee
+title: Monster Banshee
+type: post
+updated: 2023-05-25T11:35:12+07:00
+webtitle: chimeraland
+wordcount: 1551
 ---
 
 <link

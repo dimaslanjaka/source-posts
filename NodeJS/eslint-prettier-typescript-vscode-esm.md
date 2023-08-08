@@ -1,17 +1,27 @@
 ---
-title: Auto format typescript with esm in vscode
-subtitle: Auto format typescript with esm using only eslint and prettier module
-date: 2022-04-17T17:01:31+07:00
-updated: 2022-10-16T08:52:12+07:00
+author: Dimas Lanjaka
+categories:
+  - programming
+comments: true
 cover: /NodeJS/eslint-prettier-typescript-vscode-esm/thumb.png
-type: post
-category:
-  - Programming
+date: 2022-04-17T17:01:31+07:00
+description: Auto format typescript with esm using only eslint and prettier module
+excerpt: Auto format typescript with esm using only eslint and prettier module
+id: 7fc9817d-e4da-4888-8b90-6d4d163e3a21
+lang: en
+photos:
+  - /NodeJS/eslint-prettier-typescript-vscode-esm/thumb.png
+subtitle: Auto format typescript with esm using only eslint and prettier module
 tags:
-  - NodeJS
-  - JS
-  - TS
-  - ESLint
+  - nodejs
+  - js
+  - ts
+  - eslint
+thumbnail: /NodeJS/eslint-prettier-typescript-vscode-esm/thumb.png
+title: Auto format typescript with esm in vscode
+type: post
+updated: 2022-10-16T08:52:12+07:00
+wordcount: 800
 ---
 
 ## CommonJS

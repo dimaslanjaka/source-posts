@@ -1,19 +1,34 @@
 ---
-title: Material Embergator Skin Chimeraland
-date: 2022-01-10T00:56:03+07:00
-updated: 2022-10-02T00:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/embergator-skin/embergator-skin.webp
+date: 2022-01-10T00:56:03+07:00
+description: "Material Embergator Skin Chimeraland materials Embergator Skin
+  October 2, 2022 12:26 AM Continue reading Embergator Skin What is the use of
+  the Embergator Skin "
+excerpt: "Material Embergator Skin Chimeraland materials Embergator Skin October
+  2, 2022 12:26 AM Continue reading Embergator Skin What is the use of the
+  Embergator Skin "
+id: cd592a13-c482-4888-88a1-6cece0ffabb5
+lang: en
 permalink: /chimeraland/materials/embergator-skin.html
 photos:
   - /chimeraland/materials/embergator-skin/embergator-skin.webp
-thumbnail: /chimeraland/materials/embergator-skin/embergator-skin.webp
+subtitle: "Material Embergator Skin Chimeraland materials Embergator Skin
+  October 2, 2022 12:26 AM Continue reading Embergator Skin What is the use of
+  the Embergator Skin "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/embergator-skin/embergator-skin.webp
+title: Material Embergator Skin Chimeraland
+type: post
+updated: 2022-10-02T00:26:37+07:00
+wordcount: 966
 ---
 
 <link

@@ -1,21 +1,33 @@
 ---
-title: Monster Winged Dragon
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T13:41:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Winged Dragon
 date: 2023-05-25T02:21:12+07:00
+description: "Monster Winged Dragon Winged Dragon Information from Chimeraland
+  Winged Dragon default maximum attribute GRADE Attack "
+excerpt: "Monster Winged Dragon Winged Dragon Information from Chimeraland
+  Winged Dragon default maximum attribute GRADE Attack "
+id: 3d6cc4ad-3cd5-4888-80a3-352a4e75d3f8
+lang: en
 permalink: /chimeraland/monsters/winged-dragon.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Winged Dragon
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Winged Dragon
+subtitle: "Monster Winged Dragon Winged Dragon Information from Chimeraland
+  Winged Dragon default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Winged Dragon
+title: Monster Winged Dragon
+type: post
+updated: 2023-05-25T13:41:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

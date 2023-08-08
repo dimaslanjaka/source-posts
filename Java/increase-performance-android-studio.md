@@ -3,21 +3,39 @@ author:
   nick: Kus Wati
   link: https://www.blogger.com/profile/06399286952380672824
   email: noreply@blogger.com
-category: ["Programming", "Java"]
+categories:
+  - programming
+  - java
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
 date: 2020-02-25T05:25:00.001+07:00
+description: "Increase Performance Android Studio Solver 1 You can speed up your
+  Eclipse or Android Studio work, you just follow these: Open your single
+  projectclean your project after running your app in emulator every timeuse
+  mobile/external device instead of emulatordont close emulator after using o"
+excerpt: "Increase Performance Android Studio Solver 1 You can speed up your
+  Eclipse or Android Studio work, you just follow these: Open your single
+  projectclean your project after running your app in emulator every timeuse
+  mobile/external device instead of emulatordont close emulator after using o"
+id: cc0bd265-9236-4888-8f21-e86e8522b5c5
 lang: en
+permalink: /2020/02/increase-performance-android-studio.html
+photos:
+  - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
+subtitle: "Increase Performance Android Studio Solver 1 You can speed up your
+  Eclipse or Android Studio work, you just follow these: Open your single
+  projectclean your project after running your app in emulator every timeuse
+  mobile/external device instead of emulatordont close emulator after using o"
 tags:
-  - Android
-  - Tips & Tricks
-  - Java
+  - android
+  - tips & tricks
+  - java
+thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
 title: Increase Performance Android Studio
 type: post
-uuid: 07fe6730-d4e9-4888-8069-db5d8c1f9297
 updated: 2022-11-17T05:10:04+07:00
-thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
-permalink: /2020/02/increase-performance-android-studio.html
+uuid: 07fe6730-d4e9-4888-8069-db5d8c1f9297
+wordcount: 3996
 ---
 
 ![Thumbnail](https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1)

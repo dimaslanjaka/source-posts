@@ -1,19 +1,34 @@
 ---
-title: Material Rare Wood Essence Chimeraland
-date: 2022-01-13T04:56:03+07:00
-updated: 2022-10-05T04:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/rare-wood-essence/rare-wood-essence.webp
+date: 2022-01-13T04:56:03+07:00
+description: "Material Rare Wood Essence Chimeraland materials Rare Wood Essence
+  October 5, 2022 4:26 AM Continue reading Rare Wood Essence What is the use of
+  the Rare Wood Essence "
+excerpt: "Material Rare Wood Essence Chimeraland materials Rare Wood Essence
+  October 5, 2022 4:26 AM Continue reading Rare Wood Essence What is the use of
+  the Rare Wood Essence "
+id: ea61545a-2661-4888-8c82-522ea53e7172
+lang: en
 permalink: /chimeraland/materials/rare-wood-essence.html
 photos:
   - /chimeraland/materials/rare-wood-essence/rare-wood-essence.webp
-thumbnail: /chimeraland/materials/rare-wood-essence/rare-wood-essence.webp
+subtitle: "Material Rare Wood Essence Chimeraland materials Rare Wood Essence
+  October 5, 2022 4:26 AM Continue reading Rare Wood Essence What is the use of
+  the Rare Wood Essence "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/rare-wood-essence/rare-wood-essence.webp
+title: Material Rare Wood Essence Chimeraland
+type: post
+updated: 2022-10-05T04:26:37+07:00
+wordcount: 636
 ---
 
 <link

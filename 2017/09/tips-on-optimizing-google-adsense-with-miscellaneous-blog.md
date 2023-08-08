@@ -3,26 +3,29 @@ author:
   nick: Unknown
   link: ""
   email: noreply@blogger.com
-category: []
+categories:
+  - uncategorized
 comments: true
 cover: http://juragancipir.com/wp-content/uploads/2013/12/Halo-adsense3-copy-300x254.jpg
 date: 2017-09-08T08:02:00.000+07:00
+description: Tips on Optimizing Google Adsense With Blog MiscellaneousBlog
+  hodgepodge is not always bad and niche blogs are not always good for
+excerpt: Tips on Optimizing Google Adsense With Blog MiscellaneousBlog
+  hodgepodge is not always bad and niche blogs are not always good for
+id: 4fd4b80d-4032-4888-83b4-fede21ae3584
 lang: en
-location: ""
-modified: 2017-09-08T08:02:00.190+07:00
+photos:
+  - http://juragancipir.com/wp-content/uploads/2013/12/Halo-adsense3-copy-300x254.jpg
 subtitle: Tips on Optimizing Google Adsense With Blog MiscellaneousBlog
   hodgepodge is not always bad and niche blogs are not always good for
 tags:
-  - Adsense
+  - adsense
+thumbnail: http://juragancipir.com/wp-content/uploads/2013/12/Halo-adsense3-copy-300x254.jpg
 title: Tips on Optimizing Google Adsense With Blog Miscellaneous
 type: post
-uuid: f2e542f7-06ff-4888-8753-8a86904e3b61
 updated: 2017-09-08T08:02:00+07:00
-thumbnail: http://juragancipir.com/wp-content/uploads/2013/12/Halo-adsense3-copy-300x254.jpg
-photos:
-  - http://juragancipir.com/wp-content/uploads/2013/12/Halo-adsense3-copy-300x254.jpg
-description: Tips on Optimizing Google Adsense With Blog MiscellaneousBlog
-  hodgepodge is not always bad and niche blogs are not always good for
+uuid: f2e542f7-06ff-4888-8753-8a86904e3b61
+wordcount: 6027
 ---
 
 <div dir="ltr">

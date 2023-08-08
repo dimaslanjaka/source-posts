@@ -1,19 +1,37 @@
 ---
-title: Material Mackerel Chimeraland
-date: 2022-01-15T07:56:03+07:00
-updated: 2022-10-07T07:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/mackerel/mackerel.webp
+date: 2022-01-15T07:56:03+07:00
+description: Material Mackerel Chimeraland materials Mackerel October 7, 2022
+  7:26 AM A marine fish with a smooth and delicate body. It is spindle-shaped,
+  has a blue-black back, is covered in blue sports, and has a slivery gray
+  abdomen. It is swift and fierc
+excerpt: Material Mackerel Chimeraland materials Mackerel October 7, 2022 7:26
+  AM A marine fish with a smooth and delicate body. It is spindle-shaped, has a
+  blue-black back, is covered in blue sports, and has a slivery gray abdomen. It
+  is swift and fierc
+id: 18c48628-f3f6-4888-803c-e7295bfd4a39
+lang: en
 permalink: /chimeraland/materials/mackerel.html
 photos:
   - /chimeraland/materials/mackerel/mackerel.webp
-thumbnail: /chimeraland/materials/mackerel/mackerel.webp
+subtitle: Material Mackerel Chimeraland materials Mackerel October 7, 2022 7:26
+  AM A marine fish with a smooth and delicate body. It is spindle-shaped, has a
+  blue-black back, is covered in blue sports, and has a slivery gray abdomen. It
+  is swift and fierc
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/mackerel/mackerel.webp
+title: Material Mackerel Chimeraland
+type: post
+updated: 2022-10-07T07:26:37+07:00
+wordcount: 866
 ---
 
 <link

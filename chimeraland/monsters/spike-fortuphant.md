@@ -1,21 +1,33 @@
 ---
-title: Monster Spike Fortuphant
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T06:15:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spike Fortuphant
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Spike Fortuphant Spike Fortuphant Information from
+  Chimeraland Spike Fortuphant default maximum attribute GRADE Attack "
+excerpt: "Monster Spike Fortuphant Spike Fortuphant Information from Chimeraland
+  Spike Fortuphant default maximum attribute GRADE Attack "
+id: 92dcdd54-fa8e-4888-8645-60186a3ba7d6
+lang: en
 permalink: /chimeraland/monsters/spike-fortuphant.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spike Fortuphant
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spike Fortuphant
+subtitle: "Monster Spike Fortuphant Spike Fortuphant Information from
+  Chimeraland Spike Fortuphant default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spike Fortuphant
+title: Monster Spike Fortuphant
+type: post
+updated: 2023-05-25T06:15:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

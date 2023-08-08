@@ -1,19 +1,37 @@
 ---
-title: Material Perciformes Chimeraland
-date: 2022-01-16T05:56:03+07:00
-updated: 2022-10-08T05:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/perciformes/perciformes.webp
+date: 2022-01-16T05:56:03+07:00
+description: "Material Perciformes Chimeraland materials Perciformes October 8,
+  2022 5:26 AM A freshwater fish that is ligh orange-red or orange-yellow from
+  head and throat at the abdomen. It is ligh green-gray on the back, with light
+  gray-back lines. "
+excerpt: "Material Perciformes Chimeraland materials Perciformes October 8, 2022
+  5:26 AM A freshwater fish that is ligh orange-red or orange-yellow from head
+  and throat at the abdomen. It is ligh green-gray on the back, with light
+  gray-back lines. "
+id: 4deadd98-d5a0-4888-8a91-f5e9fa2cfb9e
+lang: en
 permalink: /chimeraland/materials/perciformes.html
 photos:
   - /chimeraland/materials/perciformes/perciformes.webp
-thumbnail: /chimeraland/materials/perciformes/perciformes.webp
+subtitle: "Material Perciformes Chimeraland materials Perciformes October 8,
+  2022 5:26 AM A freshwater fish that is ligh orange-red or orange-yellow from
+  head and throat at the abdomen. It is ligh green-gray on the back, with light
+  gray-back lines. "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/perciformes/perciformes.webp
+title: Material Perciformes Chimeraland
+type: post
+updated: 2022-10-08T05:26:37+07:00
+wordcount: 856
 ---
 
 <link

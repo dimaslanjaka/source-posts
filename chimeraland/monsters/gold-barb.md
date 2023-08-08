@@ -1,21 +1,33 @@
 ---
-title: Monster Gold Barb
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T04:51:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gold Barb
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Gold Barb Gold Barb Information from Chimeraland Gold Barb
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Gold Barb Gold Barb Information from Chimeraland Gold Barb
+  default maximum attribute GRADE Attack "
+id: d2681688-8701-4888-8ac9-a65b2c880a1e
+lang: en
 permalink: /chimeraland/monsters/gold-barb.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gold Barb
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gold Barb
+subtitle: "Monster Gold Barb Gold Barb Information from Chimeraland Gold Barb
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gold Barb
+title: Monster Gold Barb
+type: post
+updated: 2023-05-25T04:51:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

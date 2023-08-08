@@ -1,21 +1,33 @@
 ---
-title: Monster Rockboar
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T06:35:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rockboar
 date: 2022-01-10T01:56:03+07:00
+description: "Monster Rockboar Rockboar Information from Chimeraland Rockboar
+  default maximum attribute GRADE C RARE Attack 50 "
+excerpt: "Monster Rockboar Rockboar Information from Chimeraland Rockboar
+  default maximum attribute GRADE C RARE Attack 50 "
+id: 2a9cd727-c4ed-4888-80ef-c3321aa337d7
+lang: en
 permalink: /chimeraland/monsters/rockboar.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rockboar
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rockboar
+subtitle: "Monster Rockboar Rockboar Information from Chimeraland Rockboar
+  default maximum attribute GRADE C RARE Attack 50 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rockboar
+title: Monster Rockboar
+type: post
+updated: 2023-05-25T06:35:12+07:00
+webtitle: chimeraland
+wordcount: 633
 ---
 
 <link

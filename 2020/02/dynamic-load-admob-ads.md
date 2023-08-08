@@ -3,16 +3,25 @@ author:
   nick: Dimas Lanjaka Kumala Indra
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
-category: []
+categories:
+  - uncategorized
 comments: true
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2020-02-14 22:49:00
-updated: 2022-06-28T05:28:00+0700
+description: android java load admob ads dynamically
+excerpt: android java load admob ads dynamically
+id: b5d9b75a-6526-4888-8049-fcb95a47b823
 lang: en
+photos:
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 subtitle: android java load admob ads dynamically
 tags:
-  - Android
-title: Dynamic load admob ads
+  - android
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
+title: Dynamic load admob ads
+type: post
+updated: 2022-06-28T05:28:00+0700
+wordcount: 202
 ---
 
 android java load admob ads dynamically

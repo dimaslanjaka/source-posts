@@ -3,23 +3,30 @@ author:
   nick: Unknown
   link: ""
   email: noreply@blogger.com
-category: []
+categories:
+  - uncategorized
 comments: true
 cover: https://1.bp.blogspot.com/-jpczn1kqplU/V4l0xj58D6I/AAAAAAAAnRU/GK2SYUZJ-4ERJuePuYYJlu4Ka-2PBLoYgCLcB/w1100/notifikasi-adblocker.jpg
 date: 2017-04-13T07:22:00.000+07:00
+description: Create Notifications For Adblocker Adsense Users
+excerpt: Create Notifications For Adblocker Adsense Users
+id: f189068b-00f0-4888-8f88-d22c98ac0bc8
 lang: en
-location: ""
+photos:
+  - https://1.bp.blogspot.com/-jpczn1kqplU/V4l0xj58D6I/AAAAAAAAnRU/GK2SYUZJ-4ERJuePuYYJlu4Ka-2PBLoYgCLcB/w1100/notifikasi-adblocker.jpg
+subtitle: Create Notifications For Adblocker Adsense Users
 tags:
-  - Adsense
-  - CSS
-  - Blogger
-  - HTML
-  - Blogging
+  - adsense
+  - css
+  - blogger
+  - html
+  - blogging
+thumbnail: https://1.bp.blogspot.com/-jpczn1kqplU/V4l0xj58D6I/AAAAAAAAnRU/GK2SYUZJ-4ERJuePuYYJlu4Ka-2PBLoYgCLcB/w1100/notifikasi-adblocker.jpg
 title: Create Notifications For Adblocker Adsense Users
 type: post
-uuid: aee210d8-b0e7-4888-891a-0ae9ca18716d
 updated: 2022-04-15T12:19:00+0700
-description: Create Notifications For Adblocker Adsense Users
+uuid: aee210d8-b0e7-4888-891a-0ae9ca18716d
+wordcount: 1619
 ---
 
 <div>

@@ -1,12 +1,20 @@
 ---
-title: Monster cicada
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T14:39:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=cicada
 date: 2023-02-18T13:58:02+07:00
+description: "Monster cicada cicada Information from Chimeraland cicada default
+  maximum attribute GRADE Attack "
+excerpt: "Monster cicada cicada Information from Chimeraland cicada default
+  maximum attribute GRADE Attack "
+id: 8babf362-bc6d-4888-8ddc-c4661ac59c47
+lang: en
 permalink: /chimeraland/monsters/cicada.html
 photos:
-  - null
   - /chimeraland/monsters/cicada/Screenshot_2023-02-16-23-18-56-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-01-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-06-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,15 +23,19 @@ photos:
   - /chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-20-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-27-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-33-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=cicada
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=cicada
+subtitle: "Monster cicada cicada Information from Chimeraland cicada default
+  maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=cicada
+title: Monster cicada
+type: post
+updated: 2023-05-25T14:39:12+07:00
+webtitle: chimeraland
+wordcount: 1189
 ---
 
 <link

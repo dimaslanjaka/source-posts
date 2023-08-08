@@ -1,19 +1,34 @@
 ---
-title: Material Crab Claw Meat Chimeraland
-date: 2022-01-09T02:56:03+07:00
-updated: 2022-10-01T02:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/crab-claw-meat/crab-claw-meat.webp
+date: 2022-01-09T02:56:03+07:00
+description: "Material Crab Claw Meat Chimeraland materials Crab Claw Meat
+  October 1, 2022 2:26 AM Continue reading Crab Claw Meat What is the use of the
+  Crab Claw Meat "
+excerpt: "Material Crab Claw Meat Chimeraland materials Crab Claw Meat October
+  1, 2022 2:26 AM Continue reading Crab Claw Meat What is the use of the Crab
+  Claw Meat "
+id: 010861ba-5c0c-4888-8c4a-19109eb8156c
+lang: en
 permalink: /chimeraland/materials/crab-claw-meat.html
 photos:
   - /chimeraland/materials/crab-claw-meat/crab-claw-meat.webp
-thumbnail: /chimeraland/materials/crab-claw-meat/crab-claw-meat.webp
+subtitle: "Material Crab Claw Meat Chimeraland materials Crab Claw Meat October
+  1, 2022 2:26 AM Continue reading Crab Claw Meat What is the use of the Crab
+  Claw Meat "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/crab-claw-meat/crab-claw-meat.webp
+title: Material Crab Claw Meat Chimeraland
+type: post
+updated: 2022-10-01T02:26:37+07:00
+wordcount: 4134
 ---
 
 <link

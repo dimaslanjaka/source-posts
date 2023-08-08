@@ -1,23 +1,34 @@
 ---
-title: Recipe Spiced Meat Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T16:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/spiced-meat/spiced-meat.webp
 date: 2022-01-11T16:56:03+07:00
+description: Recipe Spiced Meat Chimeraland Spiced Meat Cooking Recipe Buff
+  Spiced Meat 420 Fullness 150 ATK recipe webmanajemen.
+excerpt: Recipe Spiced Meat Chimeraland Spiced Meat Cooking Recipe Buff Spiced
+  Meat 420 Fullness 150 ATK recipe webmanajemen.
+id: b89ac921-31fa-4888-89f8-567b81d10b58
+lang: en
 permalink: /chimeraland/recipes/spiced-meat.html
 photos:
   - /chimeraland/recipes/spiced-meat/spiced-meat.webp
   - /chimeraland/recipes/spiced-meat/spiced-meat-name.webp
   - /chimeraland/recipes/spiced-meat/spiced-meat-icon.webp
   - /chimeraland/recipes/spiced-meat/spiced-meat-material.webp
-thumbnail: /chimeraland/recipes/spiced-meat/spiced-meat.webp
+subtitle: Recipe Spiced Meat Chimeraland Spiced Meat Cooking Recipe Buff Spiced
+  Meat 420 Fullness 150 ATK recipe webmanajemen.
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/spiced-meat/spiced-meat.webp
+title: Recipe Spiced Meat Chimeraland
+type: post
+updated: 2022-10-06T16:46:55+07:00
+wordcount: 657
 ---
 
 <link

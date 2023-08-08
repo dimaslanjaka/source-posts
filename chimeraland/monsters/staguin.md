@@ -1,21 +1,33 @@
 ---
-title: Monster Staguin
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T03:41:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Staguin
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Staguin Staguin Information from Chimeraland Staguin
+  default maximum attribute GRADE Attack "
+excerpt: "Monster Staguin Staguin Information from Chimeraland Staguin default
+  maximum attribute GRADE Attack "
+id: b6d42136-7125-4888-8503-6bbb915fe9fb
+lang: en
 permalink: /chimeraland/monsters/staguin.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Staguin
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Staguin
+subtitle: "Monster Staguin Staguin Information from Chimeraland Staguin default
+  maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Staguin
+title: Monster Staguin
+type: post
+updated: 2023-05-25T03:41:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

@@ -1,21 +1,33 @@
 ---
-title: Monster Snowbear
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T13:50:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Snowbear
 date: 2022-01-09T20:56:03+07:00
+description: "Monster Snowbear Snowbear Information from Chimeraland Snowbear
+  default maximum attribute GRADE C RARE Attack 65 "
+excerpt: "Monster Snowbear Snowbear Information from Chimeraland Snowbear
+  default maximum attribute GRADE C RARE Attack 65 "
+id: fee35d24-2fb7-4888-866e-1b09a4787694
+lang: en
 permalink: /chimeraland/monsters/snowbear.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Snowbear
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Snowbear
+subtitle: "Monster Snowbear Snowbear Information from Chimeraland Snowbear
+  default maximum attribute GRADE C RARE Attack 65 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Snowbear
+title: Monster Snowbear
+type: post
+updated: 2023-05-25T13:50:12+07:00
+webtitle: chimeraland
+wordcount: 633
 ---
 
 <link

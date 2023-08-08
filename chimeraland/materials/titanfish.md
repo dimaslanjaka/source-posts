@@ -1,19 +1,31 @@
 ---
-title: Material Titanfish Chimeraland
-date: 2022-01-16T10:56:03+07:00
-updated: 2022-10-08T10:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/titanfish/titanfish.webp
+date: 2022-01-16T10:56:03+07:00
+description: "Material Titanfish Chimeraland materials Titanfish October 8, 2022
+  10:26 AM Continue reading Titanfish What is the use of the Titanfish "
+excerpt: "Material Titanfish Chimeraland materials Titanfish October 8, 2022
+  10:26 AM Continue reading Titanfish What is the use of the Titanfish "
+id: 8e988922-ca96-4888-8748-116ae35be52d
+lang: en
 permalink: /chimeraland/materials/titanfish.html
 photos:
   - /chimeraland/materials/titanfish/titanfish.webp
-thumbnail: /chimeraland/materials/titanfish/titanfish.webp
+subtitle: "Material Titanfish Chimeraland materials Titanfish October 8, 2022
+  10:26 AM Continue reading Titanfish What is the use of the Titanfish "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/titanfish/titanfish.webp
+title: Material Titanfish Chimeraland
+type: post
+updated: 2022-10-08T10:26:37+07:00
+wordcount: 610
 ---
 
 <link

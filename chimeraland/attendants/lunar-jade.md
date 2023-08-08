@@ -1,9 +1,18 @@
 ---
-title: Attendant lunar jade
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-11-25T23:35:17+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-28-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2022-11-25T23:24:17+07:00
+description: "Attendant lunar jade lunar jade Information from Chimeraland lunar
+  jade default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Attendant lunar jade lunar jade Information from Chimeraland lunar
+  jade default maximum attribute GRADE N/A N/A Attack N/A "
+id: f5bad594-884e-4888-896e-47f997c1a0fe
+lang: en
 permalink: /chimeraland/attendants/lunar-jade.html
 photos:
   - /chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-28-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,14 +22,17 @@ photos:
   - /chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-41-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-44-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-47-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-28-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant lunar jade lunar jade Information from Chimeraland lunar
+  jade default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-28-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant lunar jade
+type: post
+updated: 2022-11-25T23:35:17+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

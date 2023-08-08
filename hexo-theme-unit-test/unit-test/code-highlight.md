@@ -1,8 +1,33 @@
 ---
-title: Code Highlight Style test
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 date: 2019-07-25 16:43:00
+description: Code Highlight Style test Make sure all the code blocks highlighted
+  correctly. All the code samples are come from the demo of
+  https://highlightjs.org Lorem Ipsum is simply dummy text of the printing and
+  typesetting industry. Lorem Ipsum has been the industrys standard dummy text
+  ever since the 1500
+excerpt: Code Highlight Style test Make sure all the code blocks highlighted
+  correctly. All the code samples are come from the demo of
+  https://highlightjs.org Lorem Ipsum is simply dummy text of the printing and
+  typesetting industry. Lorem Ipsum has been the industrys standard dummy text
+  ever since the 1500
+id: ff9d37b4-2f62-4888-80fb-300d28c442ec
+lang: en
+photos: []
 robots: no-index
-tags:
+subtitle: Code Highlight Style test Make sure all the code blocks highlighted
+  correctly. All the code samples are come from the demo of
+  https://highlightjs.org Lorem Ipsum is simply dummy text of the printing and
+  typesetting industry. Lorem Ipsum has been the industrys standard dummy text
+  ever since the 1500
+tags: []
+title: Code Highlight Style test
+type: post
+updated: 2019-07-25T16:43:00+07:00
+wordcount: 2042
 ---
 
 Make sure all the code blocks highlighted correctly. All the code samples are come from the demo of https://highlightjs.org

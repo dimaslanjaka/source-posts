@@ -1,21 +1,33 @@
 ---
-title: Monster Condor
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T12:36:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Condor
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Condor Condor Information from Chimeraland Condor default
+  maximum attribute GRADE Attack "
+excerpt: "Monster Condor Condor Information from Chimeraland Condor default
+  maximum attribute GRADE Attack "
+id: 01d94f90-a6c3-4888-8bd3-852cae2f1b87
+lang: en
 permalink: /chimeraland/monsters/condor.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Condor
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Condor
+subtitle: "Monster Condor Condor Information from Chimeraland Condor default
+  maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Condor
+title: Monster Condor
+type: post
+updated: 2023-05-25T12:36:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

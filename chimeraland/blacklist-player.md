@@ -1,27 +1,40 @@
 ---
-title: Chimeraland Scammer List Player
-description: Blacklist player chimeraland (scammer list meliputi ruby trader,
-  map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
-  chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
+author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+comments: true
+cover: https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png
 date: 2022-11-07T19:54:01+07:00
-updated: 2023-08-04T20:39:37+07:00
+description: Blacklist player chimeraland scammer list meliputi ruby trader, map
+  illustrious 16 party, roll drop item, dan lain-lain. daftar SCAMMER
+  chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
+excerpt: Blacklist player chimeraland scammer list meliputi ruby trader, map
+  illustrious 16 party, roll drop item, dan lain-lain. daftar SCAMMER
+  chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
+id: 51d7dccc-89b2-4888-8a2d-5635a09b148d
+keywords:
+  - scammer list chimeraland
+  - blacklist player chimeraland
 lang: id
-permalink: /chimeraland/blacklist-player.html
 multilang:
   id: /chimeraland/blacklist-player.html
   en: /chimeraland/en/blacklist-player.html
+permalink: /chimeraland/blacklist-player.html
+photos:
+  - https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png
+subtitle: Blacklist player chimeraland scammer list meliputi ruby trader, map
+  illustrious 16 party, roll drop item, dan lain-lain. daftar SCAMMER
+  chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 tags:
   - chimeraland
   - blacklist
   - guide
-categories:
-  - Games
-  - Chimeraland
-keywords:
-  - scammer list chimeraland
-  - blacklist player chimeraland
 thumbnail: https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png
-author: L3n4r0x
+title: Chimeraland Scammer List Player
+type: post
+updated: 2023-08-04T20:39:37+07:00
+wordcount: 5936
 ---
 
 <p><img src="https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png" alt="chimeraland scammer" title="scammer chimeraland thumbnail"></p>

@@ -1,21 +1,33 @@
 ---
-title: Monster Gratoise
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T18:45:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gratoise
 date: 2022-01-08T03:56:03+07:00
+description: "Monster Gratoise Gratoise Information from Chimeraland Gratoise
+  default maximum attribute GRADE C RARE Attack 40 "
+excerpt: "Monster Gratoise Gratoise Information from Chimeraland Gratoise
+  default maximum attribute GRADE C RARE Attack 40 "
+id: 98a7e5f7-9b86-4888-814c-928c88f4b91d
+lang: en
 permalink: /chimeraland/monsters/gratoise.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gratoise
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gratoise
+subtitle: "Monster Gratoise Gratoise Information from Chimeraland Gratoise
+  default maximum attribute GRADE C RARE Attack 40 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gratoise
+title: Monster Gratoise
+type: post
+updated: 2023-05-25T18:45:12+07:00
+webtitle: chimeraland
+wordcount: 633
 ---
 
 <link

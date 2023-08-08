@@ -1,14 +1,22 @@
 ---
-title: Kumpulan rumus satuan dalam matematika
-date: 2022-10-16T04:01:16+07:00
-updated: 2022-10-16T07:35:42+07:00
-description: Kumpulan rumus satuan dalam matematika
-lang: id
-tags:
-  - Unit
+author: Dimas Lanjaka
 categories:
-  - Math
-  - Education
+  - math
+  - education
+comments: true
+date: 2022-10-16T04:01:16+07:00
+description: Kumpulan rumus satuan dalam matematika
+excerpt: Kumpulan rumus satuan dalam matematika
+id: 4fd6d4d5-304d-4888-8292-09b33f25616e
+lang: id
+photos: []
+subtitle: Kumpulan rumus satuan dalam matematika
+tags:
+  - unit
+title: Kumpulan rumus satuan dalam matematika
+type: post
+updated: 2022-10-16T07:35:42+07:00
+wordcount: 157
 ---
 
 ## Rumus konversi meter per menit ke kilometer per detik

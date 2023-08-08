@@ -1,21 +1,33 @@
 ---
-title: Monster Roarclops
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T04:54:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Roarclops
 date: 2022-01-09T19:56:03+07:00
+description: "Monster Roarclops Roarclops Information from Chimeraland Roarclops
+  default maximum attribute GRADE B GRAND - EPIC Attack 62 "
+excerpt: "Monster Roarclops Roarclops Information from Chimeraland Roarclops
+  default maximum attribute GRADE B GRAND - EPIC Attack 62 "
+id: 8967e01a-df1c-4888-859c-17e974019ce8
+lang: en
 permalink: /chimeraland/monsters/roarclops.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Roarclops
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Roarclops
+subtitle: "Monster Roarclops Roarclops Information from Chimeraland Roarclops
+  default maximum attribute GRADE B GRAND - EPIC Attack 62 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Roarclops
+title: Monster Roarclops
+type: post
+updated: 2023-05-25T04:54:12+07:00
+webtitle: chimeraland
+wordcount: 659
 ---
 
 <link

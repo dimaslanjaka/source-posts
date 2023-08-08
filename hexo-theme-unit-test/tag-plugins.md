@@ -1,8 +1,31 @@
-title: Hexo Shortcodes Tag Plugins
+---
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 date: 2013-12-25 00:14:39
-updated: 2023-02-25T00:48:02+07:00
+description: Hexo Shortcodes Tag Plugins This post is used for testing tag
+  plugins. See docs for more info. docs Block Quote Normal blockquote Praesent
+  diam elit, interdum ut pulvinar placerat, imperdiet at magna. Quote from a
+  book blockquote David Levithan, Wide Awake Do not just seek happiness for
+  yourse
+excerpt: Hexo Shortcodes Tag Plugins This post is used for testing tag plugins.
+  See docs for more info. docs Block Quote Normal blockquote Praesent diam elit,
+  interdum ut pulvinar placerat, imperdiet at magna. Quote from a book
+  blockquote David Levithan, Wide Awake Do not just seek happiness for yourse
+id: 61ce6f59-4606-4888-855d-a67286ad0e8a
+lang: en
+photos: []
 robots: no-index
+subtitle: Hexo Shortcodes Tag Plugins This post is used for testing tag plugins.
+  See docs for more info. docs Block Quote Normal blockquote Praesent diam elit,
+  interdum ut pulvinar placerat, imperdiet at magna. Quote from a book
+  blockquote David Levithan, Wide Awake Do not just seek happiness for yourse
 tags: []
+title: Hexo Shortcodes Tag Plugins
+type: post
+updated: 2023-02-25T00:48:02+07:00
+wordcount: 1430
 ---
 
 This post is used for testing tag plugins. See [docs](http://zespia.tw/hexo/docs/tag-plugins.html) for more info.

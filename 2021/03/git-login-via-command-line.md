@@ -3,23 +3,32 @@ author:
   nick: Dimas Lanjaka
   link: https://www.blogger.com/profile/07981649157148639830
   email: noreply@blogger.com
-category: []
+categories:
+  - uncategorized
 comments: true
 cover: https://i.ytimg.com/vi/yDntCIs-IJM/hqdefault.jpg
 date: 2021-03-28T09:54:00.004+07:00
+description: "Git Login Via Command Line git config --global user.name
+  myusernamegit config --global user.email myemailgit config --global
+  github.user myusernamegit config --global github.token mytoken "
+excerpt: "Git Login Via Command Line git config --global user.name myusernamegit
+  config --global user.email myemailgit config --global github.user
+  myusernamegit config --global github.token mytoken "
+id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
-location: ""
-modified: 2021-03-29T07:50:58.964+07:00
-subtitle: ""
-tags:
-  - Tips & Tricks
-title: Git Login Via Command Line
-type: post
-uuid: 06997095-6d39-4888-8c9d-c0d516fcede7
-updated: 2021-03-29T07:50:58+07:00
-thumbnail: https://i.ytimg.com/vi/yDntCIs-IJM/hqdefault.jpg
 photos:
   - https://i.ytimg.com/vi/yDntCIs-IJM/hqdefault.jpg
+subtitle: "Git Login Via Command Line git config --global user.name
+  myusernamegit config --global user.email myemailgit config --global
+  github.user myusernamegit config --global github.token mytoken "
+tags:
+  - tips & tricks
+thumbnail: https://i.ytimg.com/vi/yDntCIs-IJM/hqdefault.jpg
+title: Git Login Via Command Line
+type: post
+updated: 2021-03-29T07:50:58+07:00
+uuid: 06997095-6d39-4888-8c9d-c0d516fcede7
+wordcount: 50
 ---
 
 <pre class="test"><br>git config --global user.name myusername

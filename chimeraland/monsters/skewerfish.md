@@ -1,21 +1,33 @@
 ---
-title: Monster Skewerfish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T10:06:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Skewerfish
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Skewerfish Skewerfish Information from Chimeraland
+  Skewerfish default maximum attribute GRADE Attack "
+excerpt: "Monster Skewerfish Skewerfish Information from Chimeraland Skewerfish
+  default maximum attribute GRADE Attack "
+id: 813a38fa-95fd-4888-84d2-fa83683bc834
+lang: en
 permalink: /chimeraland/monsters/skewerfish.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Skewerfish
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Skewerfish
+subtitle: "Monster Skewerfish Skewerfish Information from Chimeraland Skewerfish
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Skewerfish
+title: Monster Skewerfish
+type: post
+updated: 2023-05-25T10:06:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

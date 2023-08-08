@@ -1,8 +1,20 @@
 ---
-title: nodemon
-description: all about nodemon
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 date: 2022-04-24
+description: all about nodemon
+excerpt: all about nodemon
+id: 2af4c56c-76c3-4888-8738-6668c971200a
+lang: en
+photos: []
+subtitle: all about nodemon
+tags: []
+title: nodemon
+type: post
 updated: 2022-12-29T14:24:41+07:00
+wordcount: 122
 ---
 
 ## Basic nodemon.json configuration

@@ -1,19 +1,37 @@
 ---
-title: Material Frontosa Chimeraland
-date: 2022-01-15T12:56:03+07:00
-updated: 2022-10-07T12:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/frontosa/frontosa.webp
+date: 2022-01-15T12:56:03+07:00
+description: Material Frontosa Chimeraland materials Frontosa October 7, 2022
+  12:26 PM A freshwater fish with a high dorsal arc and a gentle ventral arc.
+  The dorsal fin is broad and the tail fin is forked. It is black and white. In
+  various freshwater areas t
+excerpt: Material Frontosa Chimeraland materials Frontosa October 7, 2022 12:26
+  PM A freshwater fish with a high dorsal arc and a gentle ventral arc. The
+  dorsal fin is broad and the tail fin is forked. It is black and white. In
+  various freshwater areas t
+id: 4fc5ab8b-fa17-4888-81e5-31ba1912ef0f
+lang: en
 permalink: /chimeraland/materials/frontosa.html
 photos:
   - /chimeraland/materials/frontosa/frontosa.webp
-thumbnail: /chimeraland/materials/frontosa/frontosa.webp
+subtitle: Material Frontosa Chimeraland materials Frontosa October 7, 2022 12:26
+  PM A freshwater fish with a high dorsal arc and a gentle ventral arc. The
+  dorsal fin is broad and the tail fin is forked. It is black and white. In
+  various freshwater areas t
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/frontosa/frontosa.webp
+title: Material Frontosa Chimeraland
+type: post
+updated: 2022-10-07T12:26:37+07:00
+wordcount: 885
 ---
 
 <link

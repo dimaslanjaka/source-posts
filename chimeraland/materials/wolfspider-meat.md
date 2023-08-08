@@ -1,19 +1,34 @@
 ---
-title: Material Wolfspider Meat Chimeraland
-date: 2022-01-08T17:56:03+07:00
-updated: 2022-09-30T17:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/wolfspider-meat/wolfspider-meat.webp
+date: 2022-01-08T17:56:03+07:00
+description: "Material Wolfspider Meat Chimeraland materials Wolfspider Meat
+  September 30, 2022 5:26 PM Continue reading Wolfspider Meat What is the use of
+  the Wolfspider Meat "
+excerpt: "Material Wolfspider Meat Chimeraland materials Wolfspider Meat
+  September 30, 2022 5:26 PM Continue reading Wolfspider Meat What is the use of
+  the Wolfspider Meat "
+id: 71693fe8-fa5a-4888-8615-c9bdd8f78129
+lang: en
 permalink: /chimeraland/materials/wolfspider-meat.html
 photos:
   - /chimeraland/materials/wolfspider-meat/wolfspider-meat.webp
-thumbnail: /chimeraland/materials/wolfspider-meat/wolfspider-meat.webp
+subtitle: "Material Wolfspider Meat Chimeraland materials Wolfspider Meat
+  September 30, 2022 5:26 PM Continue reading Wolfspider Meat What is the use of
+  the Wolfspider Meat "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/wolfspider-meat/wolfspider-meat.webp
+title: Material Wolfspider Meat Chimeraland
+type: post
+updated: 2022-09-30T17:26:37+07:00
+wordcount: 1903
 ---
 
 <link

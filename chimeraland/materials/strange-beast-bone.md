@@ -1,19 +1,34 @@
 ---
-title: Material Strange Beast Bone Chimeraland
-date: 2022-01-09T08:56:03+07:00
-updated: 2022-10-01T08:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/strange-beast-bone/strange-beast-bone.webp
+date: 2022-01-09T08:56:03+07:00
+description: "Material Strange Beast Bone Chimeraland materials Strange Beast
+  Bone October 1, 2022 8:26 AM Continue reading Strange Beast Bone What is the
+  use of the Strange Beast Bone "
+excerpt: "Material Strange Beast Bone Chimeraland materials Strange Beast Bone
+  October 1, 2022 8:26 AM Continue reading Strange Beast Bone What is the use of
+  the Strange Beast Bone "
+id: 2e711086-210c-4888-8289-4d8d2ab90388
+lang: en
 permalink: /chimeraland/materials/strange-beast-bone.html
 photos:
   - /chimeraland/materials/strange-beast-bone/strange-beast-bone.webp
-thumbnail: /chimeraland/materials/strange-beast-bone/strange-beast-bone.webp
+subtitle: "Material Strange Beast Bone Chimeraland materials Strange Beast Bone
+  October 1, 2022 8:26 AM Continue reading Strange Beast Bone What is the use of
+  the Strange Beast Bone "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/strange-beast-bone/strange-beast-bone.webp
+title: Material Strange Beast Bone Chimeraland
+type: post
+updated: 2022-10-01T08:26:37+07:00
+wordcount: 1129
 ---
 
 <link

@@ -1,9 +1,20 @@
 ---
-title: Monster giant tiger shark
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-28T11:10:08+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-13-37-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-03-28T10:59:08+07:00
+description: Monster giant tiger shark giant tiger shark Information from
+  Chimeraland giant tiger shark default maximum attribute GRADE N/A N/A Attack
+  N/A
+excerpt: Monster giant tiger shark giant tiger shark Information from
+  Chimeraland giant tiger shark default maximum attribute GRADE N/A N/A Attack
+  N/A
+id: 8d3535d3-b631-4888-82ba-43307eb93619
+lang: en
 permalink: /chimeraland/monsters/giant-tiger-shark.html
 photos:
   - /chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-13-37-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +24,19 @@ photos:
   - /chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-13-57-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-14-02-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-14-06-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-13-37-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: Monster giant tiger shark giant tiger shark Information from
+  Chimeraland giant tiger shark default maximum attribute GRADE N/A N/A Attack
+  N/A
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-13-37-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant tiger shark
+type: post
+updated: 2023-03-28T11:10:08+07:00
+webtitle: chimeraland
+wordcount: 1253
 ---
 
 <link

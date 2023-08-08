@@ -1,10 +1,37 @@
 ---
-title: Provide 'ApplicationEventPublisher' for Spring WebFlux
-permalink: /2020/10/provide-applicationeventpublisher-for-spring-webflux.html
+author: Dimas Lanjaka
+categories:
+  - programming
+  - java
+comments: true
 date: 2022-11-10T08:35:48+07:00
+description: Provide ApplicationEventPublisher for Spring WebFlux
+  ApplicationEventPublisher is provided in Spring for publishing events, which
+  is useful in some scenarios, for example, when I create an item, and another
+  service listens for item creation and creates inventory for it. So its very
+  practical in S
+excerpt: Provide ApplicationEventPublisher for Spring WebFlux
+  ApplicationEventPublisher is provided in Spring for publishing events, which
+  is useful in some scenarios, for example, when I create an item, and another
+  service listens for item creation and creates inventory for it. So its very
+  practical in S
+id: 0888d9ec-b4b9-4888-8675-21ccf5edb4ce
+lang: en
+permalink: /2020/10/provide-applicationeventpublisher-for-spring-webflux.html
+photos: []
+subtitle: Provide ApplicationEventPublisher for Spring WebFlux
+  ApplicationEventPublisher is provided in Spring for publishing events, which
+  is useful in some scenarios, for example, when I create an item, and another
+  service listens for item creation and creates inventory for it. So its very
+  practical in S
+tags:
+  - java
+  - springboot
+  - webflux
+title: Provide ApplicationEventPublisher for Spring WebFlux
+type: post
 updated: 2022-11-10T09:08:23+07:00
-category: ['Programming', 'Java']
-tags: ['Java', 'SpringBoot', 'WebFlux']
+wordcount: 2984
 ---
 
 ApplicationEventPublisher is provided in Spring for publishing events, which is useful in some scenarios, for example, when I create an item, and another service listens for item creation and creates inventory for it. So it's very practical in Spring MVC, and I often use it for decoupling, but when I switch to WebFlux, it's embarrassing. Because ApplicationEventPublisher is a synchronous operation, it does not support reactive, ie streaming operations.

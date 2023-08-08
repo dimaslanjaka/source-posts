@@ -1,23 +1,34 @@
 ---
-title: Recipe Flame Roasted Horn Chimeraland
 author: L3n4r0x
-updated: 2022-09-30T05:26:37+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flame Roasted Horn
 date: 2022-01-13T16:56:03+07:00
+description: "Recipe Flame Roasted Horn Chimeraland Flame Roasted Horn Cooking
+  Recipe Buff Flame Roasted Horn Buff Flame Roasted Horn not yet written recipe
+  "
+excerpt: "Recipe Flame Roasted Horn Chimeraland Flame Roasted Horn Cooking
+  Recipe Buff Flame Roasted Horn Buff Flame Roasted Horn not yet written recipe
+  "
+id: 4987ffaf-0f94-4888-8167-6d9dbca6da8b
+lang: en
 permalink: /chimeraland/recipes/flame-roasted-horn.html
 photos:
-  - null
-  - null
-  - null
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flame Roasted Horn
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flame Roasted Horn
+subtitle: "Recipe Flame Roasted Horn Chimeraland Flame Roasted Horn Cooking
+  Recipe Buff Flame Roasted Horn Buff Flame Roasted Horn not yet written recipe
+  "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flame Roasted Horn
+title: Recipe Flame Roasted Horn Chimeraland
+type: post
+updated: 2022-09-30T05:26:37+07:00
+wordcount: 917
 ---
 
 <link

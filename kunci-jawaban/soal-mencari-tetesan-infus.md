@@ -1,12 +1,31 @@
 ---
-title: Kumpulan soal cara mencari tetesan infus
-date: 2022-10-24T19:16:13+07:00
-updated: 2022-10-24T19:46:12+07:00
-tags:
-  - Drop Rate
+author: Dimas Lanjaka
 categories:
-  - Math
-  - Education
+  - math
+  - education
+comments: true
+date: 2022-10-24T19:16:13+07:00
+description: Kumpulan soal cara mencari tetesan infus Rumus mencari flow rate
+  dari infus \[ Flow\ Rate = Volume\ infus\ mL / Waktu\ jam \] Rumus mencari
+  tetesan per menit \[ TPM = Faktor\ tetes \times Volume\ infus / Waktu\ jam
+  \times 60 \] Rumus menghitung sisa waktu pemberian infus \[ Sisa\ Waktu = Si
+excerpt: Kumpulan soal cara mencari tetesan infus Rumus mencari flow rate dari
+  infus \[ Flow\ Rate = Volume\ infus\ mL / Waktu\ jam \] Rumus mencari tetesan
+  per menit \[ TPM = Faktor\ tetes \times Volume\ infus / Waktu\ jam \times 60
+  \] Rumus menghitung sisa waktu pemberian infus \[ Sisa\ Waktu = Si
+id: 12e93f24-57ca-4888-89f7-2b86f3e16767
+lang: en
+photos: []
+subtitle: Kumpulan soal cara mencari tetesan infus Rumus mencari flow rate dari
+  infus \[ Flow\ Rate = Volume\ infus\ mL / Waktu\ jam \] Rumus mencari tetesan
+  per menit \[ TPM = Faktor\ tetes \times Volume\ infus / Waktu\ jam \times 60
+  \] Rumus menghitung sisa waktu pemberian infus \[ Sisa\ Waktu = Si
+tags:
+  - drop rate
+title: Kumpulan soal cara mencari tetesan infus
+type: post
+updated: 2022-10-24T19:46:12+07:00
+wordcount: 643
 ---
 
 ## Rumus mencari flow rate dari infus

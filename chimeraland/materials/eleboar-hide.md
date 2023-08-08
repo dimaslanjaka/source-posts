@@ -1,19 +1,34 @@
 ---
-title: Material Eleboar Hide Chimeraland
-date: 2022-01-10T02:56:03+07:00
-updated: 2022-10-02T02:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/eleboar-hide/eleboar-hide.webp
+date: 2022-01-10T02:56:03+07:00
+description: "Material Eleboar Hide Chimeraland materials Eleboar Hide October
+  2, 2022 2:26 AM Continue reading Eleboar Hide What is the use of the Eleboar
+  Hide "
+excerpt: "Material Eleboar Hide Chimeraland materials Eleboar Hide October 2,
+  2022 2:26 AM Continue reading Eleboar Hide What is the use of the Eleboar Hide
+  "
+id: 00ec49f9-2f0e-4888-8dda-384368b238ba
+lang: en
 permalink: /chimeraland/materials/eleboar-hide.html
 photos:
   - /chimeraland/materials/eleboar-hide/eleboar-hide.webp
-thumbnail: /chimeraland/materials/eleboar-hide/eleboar-hide.webp
+subtitle: "Material Eleboar Hide Chimeraland materials Eleboar Hide October 2,
+  2022 2:26 AM Continue reading Eleboar Hide What is the use of the Eleboar Hide
+  "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/eleboar-hide/eleboar-hide.webp
+title: Material Eleboar Hide Chimeraland
+type: post
+updated: 2022-10-02T02:26:37+07:00
+wordcount: 987
 ---
 
 <link

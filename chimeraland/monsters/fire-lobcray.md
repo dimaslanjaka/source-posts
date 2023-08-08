@@ -1,9 +1,18 @@
 ---
-title: Monster fire lobcray
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-23T11:14:34+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-13-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-05-23T11:03:34+07:00
+description: "Monster fire lobcray fire lobcray Information from Chimeraland
+  fire lobcray default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Monster fire lobcray fire lobcray Information from Chimeraland fire
+  lobcray default maximum attribute GRADE N/A N/A Attack N/A "
+id: 842493d8-a48b-4888-8a98-bdc484d09dca
+lang: en
 permalink: /chimeraland/monsters/fire-lobcray.html
 photos:
   - /chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-13-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +22,18 @@ photos:
   - /chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-35-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-40-14_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-44-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-13-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster fire lobcray fire lobcray Information from Chimeraland fire
+  lobcray default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-13-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster fire lobcray
+type: post
+updated: 2023-05-23T11:14:34+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

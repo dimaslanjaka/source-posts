@@ -1,14 +1,25 @@
 ---
-title: XAMPP vhosts config full example and guide
-description: Sample configuration for xampp virtual hosts 100% work tested 2022
-date: 2022-05-15T02:40:27+0000
-updated: 2022-05-16T05:20:27+0000
+author: Dimas Lanjaka
+categories:
+  - programming
+comments: true
 cover: https://www.automationdojos.com/wp-content/uploads/2021/11/post-xampp-virtualhost-fimg.png
-category:
-  - Programming
+date: 2022-05-15T02:40:27+0000
+description: Sample configuration for xampp virtual hosts 100 work tested 2022
+excerpt: Sample configuration for xampp virtual hosts 100 work tested 2022
+id: 6c0d145b-04ab-4888-8b0d-133552ccf559
+lang: en
+photos:
+  - https://www.automationdojos.com/wp-content/uploads/2021/11/post-xampp-virtualhost-fimg.png
+subtitle: Sample configuration for xampp virtual hosts 100 work tested 2022
 tags:
   - xampp
   - apache
+thumbnail: https://www.automationdojos.com/wp-content/uploads/2021/11/post-xampp-virtualhost-fimg.png
+title: XAMPP vhosts config full example and guide
+type: post
+updated: 2022-05-16T05:20:27+0000
+wordcount: 1099
 ---
 
 ## Sample configuration for xampp virtual hosts 100% work tested 2022

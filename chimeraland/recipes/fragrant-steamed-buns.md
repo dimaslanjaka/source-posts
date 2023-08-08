@@ -1,23 +1,34 @@
 ---
-title: Recipe Fragrant Steamed Buns Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T12:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: /chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns.webp
 date: 2022-01-08T11:56:03+07:00
+description: "Recipe Fragrant Steamed Buns Chimeraland Fragrant Steamed Buns
+  Cooking Recipe Buff Fragrant Steamed Buns 660 Fullness 150 CRIT Great Focus "
+excerpt: "Recipe Fragrant Steamed Buns Chimeraland Fragrant Steamed Buns Cooking
+  Recipe Buff Fragrant Steamed Buns 660 Fullness 150 CRIT Great Focus "
+id: 359d87fc-e2d1-4888-887b-cbbde85adc92
+lang: en
 permalink: /chimeraland/recipes/fragrant-steamed-buns.html
 photos:
   - /chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns.webp
   - /chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns-name.webp
   - /chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns-icon.webp
   - /chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns-material.webp
-thumbnail: /chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns.webp
+subtitle: "Recipe Fragrant Steamed Buns Chimeraland Fragrant Steamed Buns
+  Cooking Recipe Buff Fragrant Steamed Buns 660 Fullness 150 CRIT Great Focus "
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/fragrant-steamed-buns/fragrant-steamed-buns.webp
+title: Recipe Fragrant Steamed Buns Chimeraland
+type: post
+updated: 2022-10-05T12:46:54+07:00
+wordcount: 817
 ---
 
 <link

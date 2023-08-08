@@ -1,10 +1,37 @@
 ---
-title: TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix
+author: Dimas Lanjaka
+categories:
+  - programming
+  - ts
+  - js
+comments: true
+cover: https://bobbyhadz.com/images/blog/node-type-error-err-import-assertion-type-missing/typeerror-err-import-assertion-type-missing.webp
 date: 2022-10-29T11:21:14+07:00
-updated: 2022-10-29T11:52:09+07:00
-categories: ['Programming', 'TS', 'JS']
-tags: ['typescript', 'typeerror']
+description: "TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix How to
+  fix TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module Example import
+  import countryTable from ./data/countries.json; Fix import by import
+  countryTable from ./data/countries.json assert type: json ; Proposed by
+  https://gith"
+excerpt: "TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix How to fix
+  TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module Example import import
+  countryTable from ./data/countries.json; Fix import by import countryTable
+  from ./data/countries.json assert type: json ; Proposed by https://gith"
+id: 41241144-1e6f-4888-8c7e-156537f14f54
+lang: en
+photos:
+  - https://bobbyhadz.com/images/blog/node-type-error-err-import-assertion-type-missing/typeerror-err-import-assertion-type-missing.webp
+subtitle: "TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix How to fix
+  TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module Example import import
+  countryTable from ./data/countries.json; Fix import by import countryTable
+  from ./data/countries.json assert type: json ; Proposed by https://gith"
+tags:
+  - typescript
+  - typeerror
 thumbnail: https://bobbyhadz.com/images/blog/node-type-error-err-import-assertion-type-missing/typeerror-err-import-assertion-type-missing.webp
+title: TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix
+type: post
+updated: 2022-10-29T11:52:09+07:00
+wordcount: 620
 ---
 
 # How to fix TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module...

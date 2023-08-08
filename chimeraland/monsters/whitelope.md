@@ -1,31 +1,45 @@
 ---
-title: Monster Whitelope
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T05:11:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Whitelope
 date: 2022-01-11T12:56:03+07:00
+description: "monster Whitelope default quality GRADE B ATK 60 HP 56 DEF 64
+  Attributes Conversion Rate 4.0,Essence Aspect: Green Silk delicacies/tasty Dry
+  Fried Vuldo Wing,Exotic Herbal Jelly,Steamed Sweet Sour Icebug
+  Games,chimeraland,monsters chimeraland,monster,pet"
+excerpt: "monster Whitelope default quality GRADE B ATK 60 HP 56 DEF 64
+  Attributes Conversion Rate 4.0,Essence Aspect: Green Silk delicacies/tasty Dry
+  Fried Vuldo Wing,Exotic Herbal Jelly,Steamed Sweet Sour Icebug
+  Games,chimeraland,monsters chimeraland,monster,pet"
+id: 3db2b51a-0fee-4888-8dff-ac04bbd738fa
+lang: en
 permalink: /chimeraland/monsters/whitelope.html
 photos:
-  - null
   - /chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-09-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-15-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-22-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-29-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-44-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/whitelope/Screenshot_2022-07-14-15-53-49-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Whitelope
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Whitelope
+subtitle: "monster Whitelope default quality GRADE B ATK 60 HP 56 DEF 64
+  Attributes Conversion Rate 4.0,Essence Aspect: Green Silk delicacies/tasty Dry
+  Fried Vuldo Wing,Exotic Herbal Jelly,Steamed Sweet Sour Icebug
+  Games,chimeraland,monsters chimeraland,monster,pet"
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
-description: "monster Whitelope default quality GRADE B ATK 60 HP 56 DEF 64
-  Attributes Conversion Rate 4.0%,Essence Aspect: Green Silk delicacies/tasty
-  Dry Fried Vuldo Wing,Exotic Herbal Jelly,Steamed Sweet & Sour Icebug
-  Games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Whitelope
+title: Monster Whitelope
+type: post
+updated: 2023-05-25T05:11:12+07:00
+webtitle: chimeraland
+wordcount: 1529
 ---
 
 <link

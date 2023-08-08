@@ -2,26 +2,32 @@
 author:
   nick: Maulinda Agustina
   link: https://github.com/dimaslanjaka
-category:
-  - Games
-  - The Legend Of Neverland
+categories:
+  - games
+  - the legend of neverland
 comments: true
 cover: https://i.ytimg.com/vi/lK7h30vvRuI/mqdefault.jpg
 date: 2021-08-21T00:00:00+07:00
-updated: 2023-02-24T00:13:33+07:00
+description: Midi collection for the legend of neverland perform music skill
+excerpt: Midi collection for the legend of neverland perform music skill
+id: 298c5a66-9cde-4888-8fe0-64cc3a39eabf
 lang: en
 location: Indonesia
+photos:
+  - https://i.ytimg.com/vi/lK7h30vvRuI/mqdefault.jpg
 related_posts:
   - /The%20Legend%20Of%20Neverland/Recipes.html
 subtitle: Midi collection for the legend of neverland perform music skill
 tags:
-  - Life Skill
-  - Midi
-  - TLON
+  - life skill
+  - midi
+  - tlon
+thumbnail: https://i.ytimg.com/vi/lK7h30vvRuI/mqdefault.jpg
 title: Midi The Legend Of Neverland
 type: post
+updated: 2023-02-24T00:13:33+07:00
 uuid: 3e0f4b91-4e04-4888-8198-1bc1dff09f97
-description: Midi collection for the legend of neverland perform music skill
+wordcount: 517
 ---
 
 ## NPC's favorite musical instrument

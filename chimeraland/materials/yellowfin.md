@@ -1,19 +1,31 @@
 ---
-title: Material Yellowfin Chimeraland
-date: 2022-01-15T21:56:03+07:00
-updated: 2022-10-07T21:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/yellowfin/yellowfin.webp
+date: 2022-01-15T21:56:03+07:00
+description: "Material Yellowfin Chimeraland materials Yellowfin October 7, 2022
+  9:26 PM Continue reading Yellowfin What is the use of the Yellowfin "
+excerpt: "Material Yellowfin Chimeraland materials Yellowfin October 7, 2022
+  9:26 PM Continue reading Yellowfin What is the use of the Yellowfin "
+id: c2e5b45b-33f5-4888-8173-10d7743dee98
+lang: en
 permalink: /chimeraland/materials/yellowfin.html
 photos:
   - /chimeraland/materials/yellowfin/yellowfin.webp
-thumbnail: /chimeraland/materials/yellowfin/yellowfin.webp
+subtitle: "Material Yellowfin Chimeraland materials Yellowfin October 7, 2022
+  9:26 PM Continue reading Yellowfin What is the use of the Yellowfin "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/yellowfin/yellowfin.webp
+title: Material Yellowfin Chimeraland
+type: post
+updated: 2022-10-07T21:26:37+07:00
+wordcount: 621
 ---
 
 <link

@@ -1,19 +1,31 @@
 ---
-title: Material Hoof Sinew Chimeraland
-date: 2022-01-07T06:56:03+07:00
-updated: 2022-09-29T06:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/hoof-sinew/hoof-sinew.webp
+date: 2022-01-07T06:56:03+07:00
+description: "Material Hoof Sinew Chimeraland materials Hoof Sinew September 29,
+  2022 6:26 AM Continue reading Hoof Sinew What is the use of the Hoof Sinew "
+excerpt: "Material Hoof Sinew Chimeraland materials Hoof Sinew September 29,
+  2022 6:26 AM Continue reading Hoof Sinew What is the use of the Hoof Sinew "
+id: 88dfe10c-5059-4888-8791-e9adc21b9a39
+lang: en
 permalink: /chimeraland/materials/hoof-sinew.html
 photos:
   - /chimeraland/materials/hoof-sinew/hoof-sinew.webp
-thumbnail: /chimeraland/materials/hoof-sinew/hoof-sinew.webp
+subtitle: "Material Hoof Sinew Chimeraland materials Hoof Sinew September 29,
+  2022 6:26 AM Continue reading Hoof Sinew What is the use of the Hoof Sinew "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/hoof-sinew/hoof-sinew.webp
+title: Material Hoof Sinew Chimeraland
+type: post
+updated: 2022-09-29T06:26:37+07:00
+wordcount: 7113
 ---
 
 <link

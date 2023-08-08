@@ -1,19 +1,34 @@
 ---
-title: Material Ancient Bone Chimeraland
-date: 2022-01-11T04:56:03+07:00
-updated: 2022-10-03T04:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/ancient-bone/ancient-bone.webp
+date: 2022-01-11T04:56:03+07:00
+description: "Material Ancient Bone Chimeraland materials Ancient Bone October
+  3, 2022 4:26 AM Continue reading Ancient Bone What is the use of the Ancient
+  Bone "
+excerpt: "Material Ancient Bone Chimeraland materials Ancient Bone October 3,
+  2022 4:26 AM Continue reading Ancient Bone What is the use of the Ancient Bone
+  "
+id: b1d3f38d-5a8c-4888-870d-5b4b89d9eeba
+lang: en
 permalink: /chimeraland/materials/ancient-bone.html
 photos:
   - /chimeraland/materials/ancient-bone/ancient-bone.webp
-thumbnail: /chimeraland/materials/ancient-bone/ancient-bone.webp
+subtitle: "Material Ancient Bone Chimeraland materials Ancient Bone October 3,
+  2022 4:26 AM Continue reading Ancient Bone What is the use of the Ancient Bone
+  "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/ancient-bone/ancient-bone.webp
+title: Material Ancient Bone Chimeraland
+type: post
+updated: 2022-10-03T04:26:37+07:00
+wordcount: 1447
 ---
 
 <link

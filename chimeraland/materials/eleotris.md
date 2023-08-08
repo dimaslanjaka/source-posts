@@ -1,19 +1,37 @@
 ---
-title: Material Eleotris Chimeraland
-date: 2022-01-16T09:56:03+07:00
-updated: 2022-10-08T09:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/eleotris/eleotris.webp
+date: 2022-01-16T09:56:03+07:00
+description: "Material Eleotris Chimeraland materials Eleotris October 8, 2022
+  9:26 AM A marine fish with a long flat body, It has small, flat head, and
+  short rounded snout. It has large eyes on the top of its head. Continue
+  reading Eleotris "
+excerpt: "Material Eleotris Chimeraland materials Eleotris October 8, 2022 9:26
+  AM A marine fish with a long flat body, It has small, flat head, and short
+  rounded snout. It has large eyes on the top of its head. Continue reading
+  Eleotris "
+id: cf22896d-8936-4888-8b4d-b647763bf7d2
+lang: en
 permalink: /chimeraland/materials/eleotris.html
 photos:
   - /chimeraland/materials/eleotris/eleotris.webp
-thumbnail: /chimeraland/materials/eleotris/eleotris.webp
+subtitle: "Material Eleotris Chimeraland materials Eleotris October 8, 2022 9:26
+  AM A marine fish with a long flat body, It has small, flat head, and short
+  rounded snout. It has large eyes on the top of its head. Continue reading
+  Eleotris "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/eleotris/eleotris.webp
+title: Material Eleotris Chimeraland
+type: post
+updated: 2022-10-08T09:26:37+07:00
+wordcount: 768
 ---
 
 <link

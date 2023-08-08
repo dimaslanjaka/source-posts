@@ -1,21 +1,33 @@
 ---
-title: Monster Luna Lionfish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T15:19:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Luna Lionfish
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Luna Lionfish Luna Lionfish Information from Chimeraland
+  Luna Lionfish default maximum attribute GRADE Attack "
+excerpt: "Monster Luna Lionfish Luna Lionfish Information from Chimeraland Luna
+  Lionfish default maximum attribute GRADE Attack "
+id: aee98b96-7e3f-4888-82dc-d25a9c9974db
+lang: en
 permalink: /chimeraland/monsters/luna-lionfish.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Luna Lionfish
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Luna Lionfish
+subtitle: "Monster Luna Lionfish Luna Lionfish Information from Chimeraland Luna
+  Lionfish default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Luna Lionfish
+title: Monster Luna Lionfish
+type: post
+updated: 2023-05-25T15:19:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

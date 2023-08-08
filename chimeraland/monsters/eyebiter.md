@@ -1,21 +1,33 @@
 ---
-title: Monster Eyebiter
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T08:18:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Eyebiter
 date: 2022-01-07T06:56:03+07:00
+description: "Monster Eyebiter Eyebiter Information from Chimeraland Eyebiter
+  default maximum attribute GRADE C RARE Attack 45 "
+excerpt: "Monster Eyebiter Eyebiter Information from Chimeraland Eyebiter
+  default maximum attribute GRADE C RARE Attack 45 "
+id: 75c63b1f-e5a8-4888-8a3a-e17fcae8f020
+lang: en
 permalink: /chimeraland/monsters/eyebiter.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Eyebiter
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Eyebiter
+subtitle: "Monster Eyebiter Eyebiter Information from Chimeraland Eyebiter
+  default maximum attribute GRADE C RARE Attack 45 "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Eyebiter
+title: Monster Eyebiter
+type: post
+updated: 2023-05-25T08:18:12+07:00
+webtitle: chimeraland
+wordcount: 633
 ---
 
 <link

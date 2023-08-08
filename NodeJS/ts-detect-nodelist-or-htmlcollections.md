@@ -3,28 +3,35 @@ author:
   nick: Dimas Lanjaka
   link: https://github.com/dimaslanjaka
   image: https://i.pinimg.com/564x/32/bc/65/32bc65e19220728fb290249059a7242a.jpg
-category:
-  - Programming
-  - Typescript
-  - Javascript
+categories:
+  - programming
+  - typescript
+  - javascript
 comments: true
 cover: https://i.ytimg.com/vi/ubNP6fbT2Ac/maxresdefault.jpg
 date: 2021-11-28T07:00:00+07:00
+description: How to detect HTMLCollection/NodeList in JavaScript/Typescript?
+excerpt: How to detect HTMLCollection/NodeList in JavaScript/Typescript?
+id: 2aa96bcf-7d7a-4888-875f-1cced5ac4938
 keywords:
   - typescript
   - NodeListOf
   - HTMLCollectionOf
 lang: en
 location: Indonesia
+photos:
+  - https://i.ytimg.com/vi/ubNP6fbT2Ac/maxresdefault.jpg
 subtitle: How to detect HTMLCollection/NodeList in JavaScript/Typescript?
 tags:
-  - Typescript
-  - Javascript
+  - typescript
+  - javascript
+thumbnail: https://i.ytimg.com/vi/ubNP6fbT2Ac/maxresdefault.jpg
 title: HTMLCollection/NodeList in JavaScript/Typescript?
 type: post
+updated: 2023-06-05T18:36:50+07:00
 uuid: 2aa96bcf-7d7a-4888-875f-1cced5ac4938
 webtitle: NodeJS
-updated: 2023-06-05T18:36:50+07:00
+wordcount: 508
 ---
 
 # How to detect HTMLCollection/NodeList in JavaScript/Typescript?

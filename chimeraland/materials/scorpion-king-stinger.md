@@ -1,19 +1,34 @@
 ---
-title: Material Scorpion King Stinger Chimeraland
-date: 2022-01-10T08:56:03+07:00
-updated: 2022-10-02T08:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/scorpion-king-stinger/scorpion-king-stinger.webp
+date: 2022-01-10T08:56:03+07:00
+description: "Material Scorpion King Stinger Chimeraland materials Scorpion King
+  Stinger October 2, 2022 8:26 AM Rigidm indestrucible, and filled with venom
+  that is difficult to cure. Continue reading Scorpion King Stinger "
+excerpt: "Material Scorpion King Stinger Chimeraland materials Scorpion King
+  Stinger October 2, 2022 8:26 AM Rigidm indestrucible, and filled with venom
+  that is difficult to cure. Continue reading Scorpion King Stinger "
+id: a9f48916-559b-4888-8641-7313d22c7168
+lang: en
 permalink: /chimeraland/materials/scorpion-king-stinger.html
 photos:
   - /chimeraland/materials/scorpion-king-stinger/scorpion-king-stinger.webp
-thumbnail: /chimeraland/materials/scorpion-king-stinger/scorpion-king-stinger.webp
+subtitle: "Material Scorpion King Stinger Chimeraland materials Scorpion King
+  Stinger October 2, 2022 8:26 AM Rigidm indestrucible, and filled with venom
+  that is difficult to cure. Continue reading Scorpion King Stinger "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/scorpion-king-stinger/scorpion-king-stinger.webp
+title: Material Scorpion King Stinger Chimeraland
+type: post
+updated: 2022-10-02T08:26:37+07:00
+wordcount: 1152
 ---
 
 <link

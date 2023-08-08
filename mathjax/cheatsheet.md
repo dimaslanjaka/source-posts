@@ -1,7 +1,26 @@
 ---
-title: MathJax Cheatsheet
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 date: 2022-10-12T18:46:14+07:00
+description: "MathJax Cheatsheet MathJax Basic Quick ReferencesPatterns Mathjax
+  MathJax Basic Quick References Patterns Mathjax Title Formula Markdown
+  Variables x_1, y_1, z_3,4 x_1, y_1, z_3,4 Square a^2, x^y, 2^n-1 "
+excerpt: "MathJax Cheatsheet MathJax Basic Quick ReferencesPatterns Mathjax
+  MathJax Basic Quick References Patterns Mathjax Title Formula Markdown
+  Variables x_1, y_1, z_3,4 x_1, y_1, z_3,4 Square a^2, x^y, 2^n-1 "
+id: 2c4b89e1-aaf9-4888-8605-6cd56dd88fe7
+lang: en
+photos: []
+subtitle: "MathJax Cheatsheet MathJax Basic Quick ReferencesPatterns Mathjax
+  MathJax Basic Quick References Patterns Mathjax Title Formula Markdown
+  Variables x_1, y_1, z_3,4 x_1, y_1, z_3,4 Square a^2, x^y, 2^n-1 "
+tags: []
+title: MathJax Cheatsheet
+type: post
 updated: 2022-10-12T18:46:14+07:00
+wordcount: 2490
 ---
 
 [MathJax Basic Quick References](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)

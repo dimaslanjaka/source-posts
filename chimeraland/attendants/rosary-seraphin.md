@@ -1,9 +1,19 @@
 ---
-title: Attendant rosary seraphin
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-11-26T03:35:17+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
+cover: /chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-10-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2022-11-26T03:24:17+07:00
+description: "Attendant rosary seraphin rosary seraphin Information from
+  Chimeraland rosary seraphin default maximum attribute GRADE N/A N/A Attack N/A
+  "
+excerpt: "Attendant rosary seraphin rosary seraphin Information from Chimeraland
+  rosary seraphin default maximum attribute GRADE N/A N/A Attack N/A "
+id: 7b151507-32b2-4888-824a-d2ea4bd59fff
+lang: en
 permalink: /chimeraland/attendants/rosary-seraphin.html
 photos:
   - /chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-10-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,14 +23,18 @@ photos:
   - /chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-34-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-38-90_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-45-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-10-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant rosary seraphin rosary seraphin Information from
+  Chimeraland rosary seraphin default maximum attribute GRADE N/A N/A Attack N/A
+  "
 tags:
   - chimeraland
-  - Attendant
-categories:
-  - Games
-  - chimeraland
-  - attendants
+  - attendant
+thumbnail: /chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-10-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant rosary seraphin
+type: post
+updated: 2022-11-26T03:35:17+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

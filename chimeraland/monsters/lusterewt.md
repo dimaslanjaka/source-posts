@@ -1,12 +1,20 @@
 ---
-title: Monster lusterewt
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T17:21:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=lusterewt
 date: 2022-11-25T21:17:54+07:00
+description: "Monster lusterewt lusterewt Information from Chimeraland lusterewt
+  default maximum attribute GRADE Attack "
+excerpt: "Monster lusterewt lusterewt Information from Chimeraland lusterewt
+  default maximum attribute GRADE Attack "
+id: 6643dcc9-b92b-4888-8c96-31ed8a797b97
+lang: en
 permalink: /chimeraland/monsters/lusterewt.html
 photos:
-  - null
   - /chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-36-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-42-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-07-49-56_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,15 +23,19 @@ photos:
   - /chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-03-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-10-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=lusterewt
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=lusterewt
+subtitle: "Monster lusterewt lusterewt Information from Chimeraland lusterewt
+  default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=lusterewt
+title: Monster lusterewt
+type: post
+updated: 2023-05-25T17:21:12+07:00
+webtitle: chimeraland
+wordcount: 1189
 ---
 
 <link

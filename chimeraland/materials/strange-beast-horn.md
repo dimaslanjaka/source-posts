@@ -1,19 +1,34 @@
 ---
-title: Material Strange Beast Horn Chimeraland
-date: 2022-01-09T06:56:03+07:00
-updated: 2022-10-01T06:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/strange-beast-horn/strange-beast-horn.webp
+date: 2022-01-09T06:56:03+07:00
+description: "Material Strange Beast Horn Chimeraland materials Strange Beast
+  Horn October 1, 2022 6:26 AM Continue reading Strange Beast Horn What is the
+  use of the Strange Beast Horn "
+excerpt: "Material Strange Beast Horn Chimeraland materials Strange Beast Horn
+  October 1, 2022 6:26 AM Continue reading Strange Beast Horn What is the use of
+  the Strange Beast Horn "
+id: a099e75b-8dcf-4888-8968-1b675fe45ad1
+lang: en
 permalink: /chimeraland/materials/strange-beast-horn.html
 photos:
   - /chimeraland/materials/strange-beast-horn/strange-beast-horn.webp
-thumbnail: /chimeraland/materials/strange-beast-horn/strange-beast-horn.webp
+subtitle: "Material Strange Beast Horn Chimeraland materials Strange Beast Horn
+  October 1, 2022 6:26 AM Continue reading Strange Beast Horn What is the use of
+  the Strange Beast Horn "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/strange-beast-horn/strange-beast-horn.webp
+title: Material Strange Beast Horn Chimeraland
+type: post
+updated: 2022-10-01T06:26:37+07:00
+wordcount: 1118
 ---
 
 <link

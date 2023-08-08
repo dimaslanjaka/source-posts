@@ -1,21 +1,33 @@
 ---
-title: Monster Frost Deerbull
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T13:57:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Deerbull
 date: 2023-05-25T02:02:42+07:00
+description: "Monster Frost Deerbull Frost Deerbull Information from Chimeraland
+  Frost Deerbull default maximum attribute GRADE Attack "
+excerpt: "Monster Frost Deerbull Frost Deerbull Information from Chimeraland
+  Frost Deerbull default maximum attribute GRADE Attack "
+id: 03db9a22-7807-4888-8093-3d137a24d8a2
+lang: en
 permalink: /chimeraland/monsters/frost-deerbull.html
 photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Deerbull
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Deerbull
+subtitle: "Monster Frost Deerbull Frost Deerbull Information from Chimeraland
+  Frost Deerbull default maximum attribute GRADE Attack "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Deerbull
+title: Monster Frost Deerbull
+type: post
+updated: 2023-05-25T13:57:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

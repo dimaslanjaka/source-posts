@@ -1,23 +1,32 @@
 ---
-category:
-  - Games
-  - Chimeraland
+author: Dimas Lanjaka
+categories:
+  - games
+  - chimeraland
 comments: true
-cover: Pets/cover.jpg
+cover: /chimeraland/Pets/cover.jpg
 date: 2022-02-18T10:37:00+07:00
-updated: 2022-08-26T05:30:00+0700
+description: Information about pets attributes chimeraland
+excerpt: Information about pets attributes chimeraland
+id: 5c4c8198-0df2-4888-8b34-fe78bebfdd51
 keywords:
   - pets informations
   - chimeraland
   - chimeraland pets
   - pet evolution
 lang: id
-description: Information about pets attributes chimeraland
+photos:
+  - /chimeraland/Pets/cover.jpg
+redirect: /chimeraland/monsters
+subtitle: Information about pets attributes chimeraland
 tags:
-  - Chimeraland
+  - chimeraland
+thumbnail: /chimeraland/Pets/cover.jpg
 title: Chimeraland Pets Attribute Stats Information
 toc: true
-redirect: /chimeraland/monsters
+type: post
+updated: 2022-08-26T05:30:00+0700
+wordcount: 1104
 ---
 
 <!-- include index2/update.html -->

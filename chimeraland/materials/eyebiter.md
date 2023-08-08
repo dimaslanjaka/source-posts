@@ -1,19 +1,31 @@
 ---
-title: Material Eyebiter Chimeraland
-date: 2022-01-16T01:56:03+07:00
-updated: 2022-10-08T01:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/eyebiter/eyebiter.webp
+date: 2022-01-16T01:56:03+07:00
+description: "Material Eyebiter Chimeraland materials Eyebiter October 8, 2022
+  1:26 AM Continue reading Eyebiter What is the use of the Eyebiter "
+excerpt: "Material Eyebiter Chimeraland materials Eyebiter October 8, 2022 1:26
+  AM Continue reading Eyebiter What is the use of the Eyebiter "
+id: 72dd9d7e-79c9-4888-8465-4c307aaef3d1
+lang: en
 permalink: /chimeraland/materials/eyebiter.html
 photos:
   - /chimeraland/materials/eyebiter/eyebiter.webp
-thumbnail: /chimeraland/materials/eyebiter/eyebiter.webp
+subtitle: "Material Eyebiter Chimeraland materials Eyebiter October 8, 2022 1:26
+  AM Continue reading Eyebiter What is the use of the Eyebiter "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/eyebiter/eyebiter.webp
+title: Material Eyebiter Chimeraland
+type: post
+updated: 2022-10-08T01:26:37+07:00
+wordcount: 621
 ---
 
 <link

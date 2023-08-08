@@ -3,26 +3,29 @@ author:
   nick: Dimas Lanjaka Kumala Indra
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
-category: []
+categories:
+  - uncategorized
 comments: true
 cover: https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ839NCU/s1600/Uninstall-Modern-UI-Apps.png
 date: 2017-10-17T00:47:00.000+07:00
+description: Ada pengaturan lain di GPE yang mencegah pencopotan pemasangan
+  aplikasi yang terpasang. Inilah cara mengaktifkannya .. br /><img
+excerpt: Ada pengaturan lain di GPE yang mencegah pencopotan pemasangan aplikasi
+  yang terpasang. Inilah cara mengaktifkannya .. br /><img
+id: c99a67c0-0d7c-4888-82cb-145f63c43480
 lang: en
-location: ""
-modified: 2017-10-17T00:47:03.001+07:00
+photos:
+  - https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ839NCU/s1600/Uninstall-Modern-UI-Apps.png
 subtitle: Ada pengaturan lain di GPE yang mencegah pencopotan pemasangan
   aplikasi yang terpasang. Inilah cara mengaktifkannya .. br /><img
 tags:
-  - Tips & Tricks
+  - tips & tricks
+thumbnail: https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ839NCU/s1600/Uninstall-Modern-UI-Apps.png
 title: Mencegah Pengguna Menghapus Aplikasi UI Modern di Windows 8
 type: post
-uuid: 34353b6e-da96-4888-8a69-a3c34c41a53e
 updated: 2017-10-17T00:47:03+07:00
-thumbnail: https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ839NCU/s1600/Uninstall-Modern-UI-Apps.png
-photos:
-  - https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ839NCU/s1600/Uninstall-Modern-UI-Apps.png
-description: Ada pengaturan lain di GPE yang mencegah pencopotan pemasangan
-  aplikasi yang terpasang. Inilah cara mengaktifkannya .. br /><img
+uuid: 34353b6e-da96-4888-8a69-a3c34c41a53e
+wordcount: 363
 ---
 
 Ada pengaturan lain di GPE yang mencegah pencopotan pemasangan aplikasi     yang terpasang. Inilah cara mengaktifkannya .. <br><img alt="Uninstall Modern UI Apps" height="249" src="https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ839NCU/s1600/Uninstall-Modern-UI-Apps.png" title="Copot pemasangan UI Modern Apps" width="700"><br><h3>    Mencegah Pencabutan Aplikasi UI Modern </h3><ol><li>        Mulai Group Policy Editor dengan mengetikkan <code>gpedit.msc</code> di         kotak Run, dan tekan Enter.     </li><li>        Navigasikan ke User Configuration&gt; Administrative Templates&gt;         Start Menu dan Taskbar.     </li><li>        Dalam daftar kebijakan di sisi kanan cari setting yang disebut "Cegah         pengguna menguninstall aplikasi dari Start", klik dua kali di dalamnya.     </li><li>        Dalam dialog properties, pilih tombol radio berlabel "Enabled", lalu         klik tombol OK.     </li></ol>Itu dia. Sekarang ketika Anda klik kanan pada ubin layar Start, opsi     uninstall tidak akan muncul lagi. <br><center>    <ins id="aswift_0_expand"><ins id="aswift_0_anchor"></ins></ins></center>Jika Anda tidak dapat segera melihat perubahannya, jalankan perintah     berikut di command prompt: <br><pre>  gpupdate / force </pre>

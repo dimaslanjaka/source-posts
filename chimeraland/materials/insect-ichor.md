@@ -1,19 +1,34 @@
 ---
-title: Material Insect Ichor Chimeraland
-date: 2022-01-09T00:56:03+07:00
-updated: 2022-10-01T00:26:37+07:00
 author: L3n4r0x
+categories:
+  - games
+  - chimeraland
+  - material
+comments: true
+cover: /chimeraland/materials/insect-ichor/insect-ichor.webp
+date: 2022-01-09T00:56:03+07:00
+description: "Material Insect Ichor Chimeraland materials Insect Ichor October
+  1, 2022 12:26 AM Bug Saliva, brown and murky, sticky, dissolves wood and
+  stone. Continue reading Insect Ichor "
+excerpt: "Material Insect Ichor Chimeraland materials Insect Ichor October 1,
+  2022 12:26 AM Bug Saliva, brown and murky, sticky, dissolves wood and stone.
+  Continue reading Insect Ichor "
+id: 8ecfbebe-6525-4888-8507-58a2f9020d97
+lang: en
 permalink: /chimeraland/materials/insect-ichor.html
 photos:
   - /chimeraland/materials/insect-ichor/insect-ichor.webp
-thumbnail: /chimeraland/materials/insect-ichor/insect-ichor.webp
+subtitle: "Material Insect Ichor Chimeraland materials Insect Ichor October 1,
+  2022 12:26 AM Bug Saliva, brown and murky, sticky, dissolves wood and stone.
+  Continue reading Insect Ichor "
 tags:
   - chimeraland
   - material
-categories:
-  - Games
-  - chimeraland
-  - material
+thumbnail: /chimeraland/materials/insect-ichor/insect-ichor.webp
+title: Material Insect Ichor Chimeraland
+type: post
+updated: 2022-10-01T00:26:37+07:00
+wordcount: 4973
 ---
 
 <link

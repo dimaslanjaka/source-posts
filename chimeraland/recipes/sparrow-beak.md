@@ -1,23 +1,31 @@
 ---
-title: Recipe Sparrow Beak Chimeraland
 author: L3n4r0x
-updated: 2022-09-29T19:26:37+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
+cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sparrow Beak
 date: 2022-01-13T21:56:03+07:00
+description: Recipe Sparrow Beak Chimeraland Sparrow Beak Cooking Recipe Buff
+  Sparrow Beak Buff Sparrow Beak not yet written recipe webmanajemen.com
+excerpt: Recipe Sparrow Beak Chimeraland Sparrow Beak Cooking Recipe Buff
+  Sparrow Beak Buff Sparrow Beak not yet written recipe webmanajemen.com
+id: 07afe9b4-a64d-4888-8310-86d5107c1978
+lang: en
 permalink: /chimeraland/recipes/sparrow-beak.html
 photos:
-  - null
-  - null
-  - null
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sparrow Beak
+  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sparrow Beak
+subtitle: Recipe Sparrow Beak Chimeraland Sparrow Beak Cooking Recipe Buff
+  Sparrow Beak Buff Sparrow Beak not yet written recipe webmanajemen.com
 tags:
   - chimeraland
   - recipe
-categories:
-  - Games
-  - chimeraland
-  - recipes
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sparrow Beak
+title: Recipe Sparrow Beak Chimeraland
+type: post
+updated: 2022-09-29T19:26:37+07:00
+wordcount: 834
 ---
 
 <link

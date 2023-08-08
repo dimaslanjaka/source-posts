@@ -1,9 +1,18 @@
 ---
-title: Monster graythistle
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-11T11:30:18+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
+cover: /chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-14-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
 date: 2023-03-11T12:19:18+07:00
+description: "Monster graythistle graythistle Information from Chimeraland
+  graythistle default maximum attribute GRADE N/A N/A Attack N/A "
+excerpt: "Monster graythistle graythistle Information from Chimeraland
+  graythistle default maximum attribute GRADE N/A N/A Attack N/A "
+id: f24c0f44-22c3-4888-8773-33af2f71eb98
+lang: en
 permalink: /chimeraland/monsters/graythistle.html
 photos:
   - /chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-14-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +23,18 @@ photos:
   - /chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-48-47_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-53-21_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-57-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-14-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster graythistle graythistle Information from Chimeraland
+  graythistle default maximum attribute GRADE N/A N/A Attack N/A "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - Games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-14-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster graythistle
+type: post
+updated: 2023-03-11T11:30:18+07:00
+webtitle: chimeraland
+wordcount: 1130
 ---
 
 <link
