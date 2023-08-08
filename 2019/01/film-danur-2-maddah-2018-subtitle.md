@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets-a1.kompasiana.com/items/album/2018/04/09/danur-2-maddah-tembus-1-juta-penonton-5acb7ff9cf01b401f923e9c2.jpg
 title: "Film Danur 2: Maddah 2018 Subtitle Indonesia Movie"
 type: post
-updated: 2019-07-22T03:36:05+07:00
+updated: 2023-08-08T14:45:33+07:00
 uuid: 476dfa12-9de1-4888-857d-7ec6f618e579
 wordcount: 986
 ---

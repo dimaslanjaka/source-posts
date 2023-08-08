@@ -25,7 +25,7 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://goo.gl/zY
 title: How to Apply for a Google Adsense Account In Disabled Because of Invalid
   Activity
 type: post
-updated: 2018-02-02T08:42:29+07:00
+updated: 2023-08-08T14:45:42+07:00
 uuid: 6ff538ab-5a29-4888-8685-8eb89bcf12fd
 wordcount: 3240
 ---

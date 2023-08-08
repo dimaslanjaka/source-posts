@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-stoatle/Screenshot_2023-02-23-11-31-00-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster giant stoatle
 type: post
-updated: 2023-02-25T18:55:43+07:00
+updated: 2023-08-08T14:44:41+07:00
 webtitle: chimeraland
 wordcount: 1237
 ---

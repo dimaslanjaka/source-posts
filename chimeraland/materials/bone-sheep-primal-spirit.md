@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/bone-sheep-primal-spirit/bone-sheep-primal-spirit.webp
 title: Material Bone Sheep Primal Spirit Chimeraland
 type: post
-updated: 2022-09-29T00:26:37+07:00
+updated: 2023-08-08T14:44:59+07:00
 wordcount: 1476
 ---
 

@@ -31,7 +31,7 @@ tags:
   - github-actions
 title: Github Workflow Filter Job Berdasarkan OS Yang Dijalankan
 type: post
-updated: 2023-01-03T01:03:01+07:00
+updated: 2023-08-08T14:44:18+07:00
 wordcount: 404
 ---
 

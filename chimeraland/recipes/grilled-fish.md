@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/grilled-fish/grilled-fish.webp
 title: Recipe Grilled Fish Chimeraland
 type: post
-updated: 2022-10-06T02:46:54+07:00
+updated: 2023-08-08T14:44:27+07:00
 wordcount: 737
 ---
 

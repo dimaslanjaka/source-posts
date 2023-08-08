@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/refreshing-soup/refreshing-soup.webp
 title: Recipe Refreshing Soup Chimeraland
 type: post
-updated: 2022-10-06T04:46:55+07:00
+updated: 2023-08-08T14:44:25+07:00
 wordcount: 695
 ---
 

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/blood-jade/blood-jade.webp
 title: Material Blood Jade Chimeraland
 type: post
-updated: 2022-10-01T13:26:37+07:00
+updated: 2023-08-08T14:45:00+07:00
 wordcount: 824
 ---
 

@@ -25,7 +25,7 @@ tags:
 thumbnail: https://imgdb.net/images/3205.png
 title: Schema Blogposting Untuk Blogger AMP
 type: post
-updated: 2017-10-23T18:34:03+07:00
+updated: 2023-08-08T14:45:43+07:00
 uuid: ac1809c4-69b8-4888-83ef-e9cb959e9bc3
 wordcount: 305
 ---

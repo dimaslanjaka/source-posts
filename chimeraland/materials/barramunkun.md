@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/barramunkun/barramunkun.webp
 title: Material Barramunkun Chimeraland
 type: post
-updated: 2022-10-08T23:26:37+07:00
+updated: 2023-08-08T14:45:01+07:00
 wordcount: 869
 ---
 

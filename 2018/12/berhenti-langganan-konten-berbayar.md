@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: berhenti langganan konten berbayar Indosat
 type: post
-updated: 2018-12-03T13:57:55+07:00
+updated: 2023-08-08T14:45:35+07:00
 uuid: 840c990b-dc16-4888-83e0-da1abab0263a
 wordcount: 1039
 ---

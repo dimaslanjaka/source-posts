@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/attendants/windwalker-medusa/Screenshot_2023-02-10-04-41-32-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant windwalker medusa
 type: post
-updated: 2023-02-13T13:42:21+07:00
+updated: 2023-08-08T14:45:01+07:00
 webtitle: chimeraland
 wordcount: 1075
 ---

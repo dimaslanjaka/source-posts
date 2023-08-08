@@ -25,7 +25,7 @@ tags:
 thumbnail: https://d1gug1ng40407.cloudfront.net/uploads/2017/03/allure-code-snippet.jpg
 title: Responsive Square Container Dengan Vertically Or Horizontally Ditengah Content
 type: post
-updated: 2019-07-22T03:23:18+07:00
+updated: 2023-08-08T14:45:58+07:00
 uuid: 6198d61d-06c5-4888-874d-5827b493a2f1
 wordcount: 730
 ---

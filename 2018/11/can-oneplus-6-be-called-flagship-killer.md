@@ -23,7 +23,7 @@ tags:
 thumbnail: https://www.digitalponsel.com/wp-content/uploads/2018/09/xOnePlus-6-1024x538.jpg.pagespeed.ic.zkfkebn_T3.jpg
 title: Can OnePlus 6 be called a Flagship Killer?
 type: post
-updated: 2018-11-30T18:06:04+07:00
+updated: 2023-08-08T14:45:39+07:00
 uuid: 3cf432a9-17d9-4888-8645-7b4263c4c12b
 wordcount: 10648
 ---

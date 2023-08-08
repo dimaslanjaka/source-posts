@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/monsters/stegosaurus/Screenshot_2023-02-23-21-51-09-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster stegosaurus
 type: post
-updated: 2023-02-25T21:55:43+07:00
+updated: 2023-08-08T14:44:32+07:00
 webtitle: chimeraland
 wordcount: 1130
 ---

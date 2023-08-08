@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets.jalantikus.com/assets/cache/0/0/apps/2018/08/29/simontok-a390b.png
 title: Download Simontok MOD [No Ads] Tanpa Iklan
 type: post
-updated: 2019-07-22T03:34:02+07:00
+updated: 2023-08-08T14:45:37+07:00
 uuid: 126bccfb-5306-4888-8116-203aaf90876a
 wordcount: 197
 ---

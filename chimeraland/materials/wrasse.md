@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/wrasse/wrasse.webp
 title: Material Wrasse Chimeraland
 type: post
-updated: 2022-10-08T18:26:37+07:00
+updated: 2023-08-08T14:44:48+07:00
 wordcount: 806
 ---
 

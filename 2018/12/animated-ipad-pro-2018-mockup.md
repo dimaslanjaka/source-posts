@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.uxfree.com/wp-content/uploads/2018/11/Animated-iPad-Pro-2018-Mockup-By-Anthony-Boyd-Graphics-768x576.gif
 title: Animated Ipad Pro 2018 Mockup
 type: post
-updated: 2018-12-06T03:47:14+07:00
+updated: 2023-08-08T14:45:36+07:00
 uuid: af2b2247-1f40-4888-8b02-1befc68e9957
 wordcount: 1440
 ---

@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/hot-pepper/hot-pepper.webp
 title: Material Hot Pepper Chimeraland
 type: post
-updated: 2022-10-09T23:26:37+07:00
+updated: 2023-08-08T14:44:55+07:00
 wordcount: 3327
 ---
 

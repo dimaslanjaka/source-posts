@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/sweet-potato/sweet-potato.webp
 title: Material Sweet Potato Chimeraland
 type: post
-updated: 2022-10-04T02:26:37+07:00
+updated: 2023-08-08T14:44:49+07:00
 wordcount: 568
 ---
 

@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/recipes/steamed-fish/steamed-fish.webp
 title: Recipe Steamed Fish Chimeraland
 type: post
-updated: 2022-10-07T01:46:55+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 906
 ---
 

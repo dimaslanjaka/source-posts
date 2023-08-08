@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/recipes/wine-braised-vegetables/wine-braised-vegetables.webp
 title: Recipe Wine-Braised Vegetables Chimeraland
 type: post
-updated: 2022-10-06T17:46:56+07:00
+updated: 2023-08-08T14:44:23+07:00
 wordcount: 855
 ---
 

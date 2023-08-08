@@ -19,7 +19,7 @@ tags:
   - chimeraland
 title: Mengatasi lag chimeraland
 type: post
-updated: 2022-07-07T09:39:00+0700
+updated: 2023-08-08T14:44:19+07:00
 wordcount: 35
 ---
 

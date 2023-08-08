@@ -25,7 +25,7 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: 5 Tips and Tutorials How to Overcome Lag or Broken Game Ark Survival
   Evolved Mobile on Android Smartphone
 type: post
-updated: 2018-07-28T12:41:15+07:00
+updated: 2023-08-08T14:45:40+07:00
 uuid: 8beb5d12-94eb-4888-8103-4f9a2a3a190c
 wordcount: 1431
 ---

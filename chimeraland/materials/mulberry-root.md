@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/mulberry-root/mulberry-root.webp
 title: Material Mulberry Root Chimeraland
 type: post
-updated: 2022-10-06T00:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 1076
 ---
 

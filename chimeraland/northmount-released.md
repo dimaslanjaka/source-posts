@@ -24,7 +24,7 @@ tags:
   - news
 title: New Map Northmount on Chimeraland
 type: post
-updated: 2022-10-31T03:24:34+07:00
+updated: 2023-08-08T14:44:19+07:00
 wordcount: 5321
 ---
 

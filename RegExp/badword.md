@@ -21,7 +21,7 @@ tags:
 thumbnail: /RegExp/RegExp/badwords.png
 title: Badword
 type: post
-updated: 2021-12-19T06:33:56+07:00
+updated: 2023-08-08T14:44:14+07:00
 uuid: e14cbf39-1ac8-4888-8b41-9b6d9b1ad4f4
 webtitle: RegExp
 wordcount: 13

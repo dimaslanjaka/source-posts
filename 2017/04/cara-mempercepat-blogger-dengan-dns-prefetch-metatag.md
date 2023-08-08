@@ -34,7 +34,7 @@ tags:
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0Jbr1UikPXCMcKYhYI8In9l8ajc_-DJiJInkoPOmc0t4Vi3zz
 title: Cara Mempercepat Blogger Dengan dns-prefetch metatag
 type: post
-updated: 2023-04-18T08:41:35+07:00
+updated: 2023-08-08T14:46:01+07:00
 uuid: 5289e74a-6ef9-4888-8f2e-f29add41b8b5
 wordcount: 581
 ---

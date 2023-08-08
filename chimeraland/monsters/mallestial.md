@@ -25,7 +25,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mallestial
 title: Monster Mallestial
 type: post
-updated: 2023-05-25T08:28:12+07:00
+updated: 2023-08-08T14:44:37+07:00
 webtitle: chimeraland
 wordcount: 633
 ---

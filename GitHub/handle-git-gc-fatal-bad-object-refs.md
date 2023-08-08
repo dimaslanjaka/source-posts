@@ -21,7 +21,7 @@ thumbnail: https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac704
   4.png
 title: How to handle git gc fatal bad object refs/remotes/origin/HEAD error?
 type: post
-updated: 2022-07-07T09:39:00+0700
+updated: 2023-08-08T14:44:18+07:00
 webtitle: GitHub
 wordcount: 205
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew.webp
 title: Recipe Dragon Meat Stew Chimeraland
 type: post
-updated: 2023-05-24T23:32:46+07:00
+updated: 2023-08-08T14:44:29+07:00
 wordcount: 785
 ---
 

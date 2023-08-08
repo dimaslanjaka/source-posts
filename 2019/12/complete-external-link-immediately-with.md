@@ -27,7 +27,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/514cc0b2c6a504375873f242e193fc29.jpeg
 title: Complete the External Link immediately with the Noopener Rail
 type: post
-updated: 2019-12-18T01:16:03+07:00
+updated: 2023-08-08T14:45:23+07:00
 uuid: 6e4eeda0-d61a-4888-8858-1f89365d2360
 wordcount: 957
 ---

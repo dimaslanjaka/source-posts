@@ -25,7 +25,7 @@ tags: []
 thumbnail: https://miro.medium.com/max/1400/1*HSXWWE7wkg9phEJ7ImhT2Q.jpeg
 title: Force Change ALl End Of Line VSCode To LF
 type: post
-updated: 2022-03-29T20:32:29+0000
+updated: 2023-08-08T14:45:09+07:00
 wordcount: 156
 ---
 

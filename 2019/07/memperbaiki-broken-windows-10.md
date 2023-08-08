@@ -23,7 +23,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-uIxGKxlwpuU/XTIpx8O5NDI/AAAAAAAAAbA/qVaaGh3genIYBE0rl0PDNTnt6RznLulJQCLcBGAs/s1600/2513807.jpg
 title: Memperbaiki Broken Windows 10 Installation
 type: post
-updated: 2019-07-20T04:30:07+07:00
+updated: 2023-08-08T14:45:30+07:00
 uuid: ba38e1a4-1f2c-4888-8289-3ccfcf4407ab
 wordcount: 2108
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat.webp
 title: Recipe Curry Grilled Meat Chimeraland
 type: post
-updated: 2022-10-05T07:46:54+07:00
+updated: 2023-08-08T14:44:29+07:00
 wordcount: 702
 ---
 

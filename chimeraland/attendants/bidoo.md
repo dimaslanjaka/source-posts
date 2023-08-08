@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-26-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant bidoo
 type: post
-updated: 2023-03-10T20:30:17+07:00
+updated: 2023-08-08T14:45:07+07:00
 webtitle: chimeraland
 wordcount: 1130
 ---

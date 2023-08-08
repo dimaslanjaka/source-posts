@@ -22,7 +22,7 @@ tags:
 thumbnail: http://botcrawl.com/wp-content/uploads/2012/04/toggle-arrow.png
 title: Cara Membuat Google AdSense Shortcodes Untuk WordPress
 type: post
-updated: 2017-10-11T19:49:03+07:00
+updated: 2023-08-08T14:45:44+07:00
 uuid: cb1f4d19-8d45-4888-8215-f851589c0972
 wordcount: 1244
 ---

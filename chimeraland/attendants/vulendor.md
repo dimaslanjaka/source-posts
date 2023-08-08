@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-29-91_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant vulendor
 type: post
-updated: 2023-02-09T08:16:58+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 1059
 ---

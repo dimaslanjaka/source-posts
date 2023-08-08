@@ -23,7 +23,7 @@ tags:
 thumbnail: /2021/05/mora-cost-weapon-genshin-impact/mora-cost-weapon.png
 title: Mora Cost Weapon
 type: post
-updated: 2022-10-22T11:33:23+07:00
+updated: 2023-08-08T14:45:10+07:00
 webtitle: Genshin Impact
 wordcount: 872
 ---

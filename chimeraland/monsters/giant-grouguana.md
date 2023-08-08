@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-grouguana/Screenshot_2023-02-26-12-30-12-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster giant grouguana
 type: post
-updated: 2023-03-11T02:30:18+07:00
+updated: 2023-08-08T14:44:42+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/yellow-boxfish/yellow-boxfish.webp
 title: Material Yellow Boxfish Chimeraland
 type: post
-updated: 2022-10-07T20:26:37+07:00
+updated: 2023-08-08T14:44:48+07:00
 wordcount: 830
 ---
 

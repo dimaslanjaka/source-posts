@@ -17,7 +17,7 @@ tags:
   - github
 title: Conventional Commit Messages
 type: post
-updated: 2023-04-27T08:47:14.264Z
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 2590
 ---
 

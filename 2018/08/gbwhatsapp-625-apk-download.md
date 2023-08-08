@@ -20,7 +20,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://image.rexdl.com/android/app/GBWhatsApp.jpg
 title: GBWhatsApp 6.25 Apk Download
 type: post
-updated: 2018-08-05T06:15:56+07:00
+updated: 2023-08-08T14:45:40+07:00
 uuid: a7279f4b-e57d-4888-8e2c-9ef17618e345
 wordcount: 376
 ---

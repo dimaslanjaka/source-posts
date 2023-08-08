@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/freshwater-carp/freshwater-carp.webp
 title: Material Freshwater Carp Chimeraland
 type: post
-updated: 2022-10-06T22:26:37+07:00
+updated: 2023-08-08T14:44:56+07:00
 wordcount: 1069
 ---
 

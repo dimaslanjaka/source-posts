@@ -28,7 +28,7 @@ tags:
   - hexo
 title: Get total words of hexo post
 type: post
-updated: 2023-07-15T18:09:58+07:00
+updated: 2023-08-08T14:44:18+07:00
 wordcount: 135
 ---
 

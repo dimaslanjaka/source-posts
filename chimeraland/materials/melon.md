@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/melon/melon.webp
 title: Material Melon Chimeraland
 type: post
-updated: 2022-10-09T16:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 3757
 ---
 

@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/slimfish/slimfish.webp
 title: Material Slimfish Chimeraland
 type: post
-updated: 2022-10-07T04:26:37+07:00
+updated: 2023-08-08T14:44:50+07:00
 wordcount: 610
 ---
 

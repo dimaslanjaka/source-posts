@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-54-45-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant vulchining
 type: post
-updated: 2023-03-11T09:30:17+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 1201
 ---

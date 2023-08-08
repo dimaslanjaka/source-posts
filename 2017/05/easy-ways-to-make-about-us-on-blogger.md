@@ -23,7 +23,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-ALUdm0qBrwA/VPlJ1M--s5I/AAAAAAAAADM/d0MRXUYlTxE/s1600/about-us.jpg
 title: Easy Ways to Make About Us On Blogger Widget
 type: post
-updated: 2017-05-09T05:49:01+07:00
+updated: 2023-08-08T14:45:57+07:00
 uuid: 0fb9be8e-d2b6-4888-891c-7078ba39442a
 wordcount: 949
 ---

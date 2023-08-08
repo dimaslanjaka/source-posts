@@ -24,7 +24,7 @@ thumbnail: https://www.dropbox.com/s/nmlirhi6f5ktcha/Screenshot_2017-07-25-10-07
 title: 5 Free File Hosting / Berbagi Situs Cloud Storage dengan Direct / Hot
   Link Support  CloudLinker v2.0 Direct Link Maker
 type: post
-updated: 2017-07-25T10:10:21+07:00
+updated: 2023-08-08T14:45:53+07:00
 uuid: 650ed8ff-ca94-4888-8cdd-20c9d7aa5a61
 wordcount: 2372
 ---

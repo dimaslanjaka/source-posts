@@ -33,7 +33,7 @@ tags:
 thumbnail: https://imgdb.net/images/3179.png
 title: Tutorial Cara symlink file di android
 type: post
-updated: 2017-09-03T15:36:41+07:00
+updated: 2023-08-08T14:45:45+07:00
 uuid: 536882f0-d4c4-4888-8905-de103bc1475e
 wordcount: 651
 ---

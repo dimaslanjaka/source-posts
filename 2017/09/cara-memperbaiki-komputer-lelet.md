@@ -32,7 +32,7 @@ tags:
 thumbnail: https://imgdb.net/images/3181.png
 title: Cara Memperbaiki komputer lelet
 type: post
-updated: 2017-09-19T16:11:05+07:00
+updated: 2023-08-08T14:45:48+07:00
 uuid: 1e8b4deb-db5b-4888-8312-9a8574d682d3
 wordcount: 3771
 ---

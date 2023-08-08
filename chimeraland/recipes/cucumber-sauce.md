@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/cucumber-sauce/cucumber-sauce.webp
 title: Recipe Cucumber Sauce Chimeraland
 type: post
-updated: 2022-09-29T04:26:37+07:00
+updated: 2023-08-08T14:44:29+07:00
 wordcount: 635
 ---
 

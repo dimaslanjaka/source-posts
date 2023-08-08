@@ -29,7 +29,7 @@ tags:
 thumbnail: /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie.webp
 title: Recipe Sea-Buckthorn Slushie Chimeraland
 type: post
-updated: 2022-10-06T14:46:55+07:00
+updated: 2023-08-08T14:44:25+07:00
 wordcount: 624
 ---
 

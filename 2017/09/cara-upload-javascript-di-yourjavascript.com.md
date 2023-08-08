@@ -30,7 +30,7 @@ tags:
 thumbnail: https://imgdb.net/images/3191.png
 title: Multilingual hreflang tag for blogger
 type: post
-updated: 2017-09-12T01:58:08+07:00
+updated: 2023-08-08T14:45:48+07:00
 uuid: 311f5e95-9357-4888-8e79-5aa7f73bd36c
 wordcount: 1962
 ---

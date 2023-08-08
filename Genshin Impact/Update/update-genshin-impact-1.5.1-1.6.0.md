@@ -22,7 +22,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://uploadstatic-sea.mihoyo.com/contentweb/20210201/2021020109195088725.jpg
 title: Update Genshin Impact 1.6.0 Manual
 type: post
-updated: 2021-12-19T06:36:10+07:00
+updated: 2023-08-08T14:44:23+07:00
 uuid: c076fb31-331d-4888-8b76-ab9762c009a4
 webtitle: WMI Genshin Impact
 wordcount: 226

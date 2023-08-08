@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/attendants/rhida/Screenshot_2023-02-25-13-33-38-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant rhida
 type: post
-updated: 2023-03-11T04:30:17+07:00
+updated: 2023-08-08T14:45:04+07:00
 webtitle: chimeraland
 wordcount: 1130
 ---

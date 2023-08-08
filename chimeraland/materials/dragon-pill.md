@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/dragon-pill/dragon-pill.webp
 title: Material Dragon Pill Chimeraland
 type: post
-updated: 2022-10-10T07:26:37+07:00
+updated: 2023-08-08T14:44:57+07:00
 wordcount: 706
 ---
 

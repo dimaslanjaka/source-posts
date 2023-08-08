@@ -25,7 +25,7 @@ tags:
   - bar
 title: Markdown Style test
 type: post
-updated: 2018-07-24T23:31:06+07:00
+updated: 2023-08-08T14:44:21+07:00
 wordcount: 3374
 ---
 

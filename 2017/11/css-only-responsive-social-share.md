@@ -33,7 +33,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot.com/-522nPhSnyvQ/WgODKCDGFjI/AAAAAAAAt2M/quoqrtMi1jcuXJOFDeBDUoaASkA_tD0jgCLcBGAs/w1100/Screenshot_87.jpg
 title: CSS Only Responsive Social Share Buttons For Blogger
 type: post
-updated: 2017-11-11T04:51:03+07:00
+updated: 2023-08-08T14:45:43+07:00
 uuid: ac0254d5-f896-4888-8776-87dd70140911
 wordcount: 4414
 ---

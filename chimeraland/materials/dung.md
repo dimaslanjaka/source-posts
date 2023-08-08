@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/dung/dung.webp
 title: Material Dung Chimeraland
 type: post
-updated: 2022-10-05T08:26:37+07:00
+updated: 2023-08-08T14:44:57+07:00
 wordcount: 3213
 ---
 

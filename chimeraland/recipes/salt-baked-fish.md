@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/recipes/salt-baked-fish/salt-baked-fish.webp
 title: Recipe Salt-Baked Fish Chimeraland
 type: post
-updated: 2022-10-06T06:46:55+07:00
+updated: 2023-08-08T14:44:25+07:00
 wordcount: 780
 ---
 

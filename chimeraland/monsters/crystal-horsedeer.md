@@ -34,7 +34,7 @@ tags:
 thumbnail: /chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-06-31-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster crystal horsedeer
 type: post
-updated: 2023-02-24T23:55:43+07:00
+updated: 2023-08-08T14:44:45+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

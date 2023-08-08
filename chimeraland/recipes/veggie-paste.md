@@ -29,7 +29,7 @@ tags:
 thumbnail: /chimeraland/recipes/veggie-paste/veggie-paste.webp
 title: Recipe Veggie Paste Chimeraland
 type: post
-updated: 2022-09-29T06:26:37+07:00
+updated: 2023-08-08T14:44:23+07:00
 wordcount: 499
 ---
 

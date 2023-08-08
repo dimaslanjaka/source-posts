@@ -32,7 +32,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4379.png
 title: "[JS] Get List Facebook Groups ID"
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:37+07:00
 uuid: f92ac380-6fbc-4888-805d-18d9e1067cd2
 wordcount: 3546
 ---

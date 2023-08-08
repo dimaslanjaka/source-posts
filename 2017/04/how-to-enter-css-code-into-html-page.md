@@ -24,7 +24,7 @@ tags:
 thumbnail: http://www.duniailkom.com/wp-content/uploads/2013/10/Cara-Menginput-CSS-Metode-Inline-Style.png
 title: How to enter CSS code into the HTML page
 type: post
-updated: 2017-04-28T11:12:07+07:00
+updated: 2023-08-08T14:46:00+07:00
 uuid: b8316f81-a3a5-4888-8c0d-8e375c3d9318
 wordcount: 4778
 ---

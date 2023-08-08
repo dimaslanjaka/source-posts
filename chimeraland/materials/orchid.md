@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/orchid/orchid.webp
 title: Material Orchid Chimeraland
 type: post
-updated: 2022-10-09T14:26:37+07:00
+updated: 2023-08-08T14:44:52+07:00
 wordcount: 2466
 ---
 

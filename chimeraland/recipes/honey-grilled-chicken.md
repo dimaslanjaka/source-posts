@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken.webp
 title: Recipe Honey Grilled Chicken Chimeraland
 type: post
-updated: 2022-10-05T10:46:55+07:00
+updated: 2023-08-08T14:44:27+07:00
 wordcount: 1396
 ---
 

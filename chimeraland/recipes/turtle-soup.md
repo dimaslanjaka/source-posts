@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/turtle-soup/turtle-soup.webp
 title: Recipe Turtle Soup Chimeraland
 type: post
-updated: 2022-10-06T13:46:56+07:00
+updated: 2023-08-08T14:44:23+07:00
 wordcount: 795
 ---
 

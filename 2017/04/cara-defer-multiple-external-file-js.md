@@ -32,7 +32,7 @@ tags:
 thumbnail: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD3Z65uK5mWj1kFiaYKxcVJ8w0XiysZTz3V3ak8FIwpkFiTpnc
 title: Cara defer multiple external file js
 type: post
-updated: 2019-07-22T03:23:18+07:00
+updated: 2023-08-08T14:46:01+07:00
 uuid: b6936b14-68e4-4888-8cf4-3aaee554136a
 wordcount: 558
 ---

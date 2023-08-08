@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-batolf/Screenshot_2023-02-15-02-43-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster giant batolf
 type: post
-updated: 2023-02-16T21:53:22+07:00
+updated: 2023-08-08T14:44:43+07:00
 webtitle: chimeraland
 wordcount: 1237
 ---

@@ -23,7 +23,7 @@ subtitle: Tag Plugins This post is used for testing tag plugins. See docs for
 tags: []
 title: Tag Plugins
 type: post
-updated: 2013-12-25T00:14:39+07:00
+updated: 2023-08-08T14:44:21+07:00
 wordcount: 1386
 ---
 

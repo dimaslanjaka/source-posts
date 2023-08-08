@@ -24,7 +24,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/blog/wp-content/uploads/2018/11/Configuraci%C3%B3n-httpd-en-termux-Android.jpg
 title: Fix apache wont run on android
 type: post
-updated: 2021-06-03T06:00:00+07:00
+updated: 2023-08-08T14:45:10+07:00
 uuid: 7923e4c5-8f45-4888-8354-c98606dbd5d0
 wordcount: 260
 ---

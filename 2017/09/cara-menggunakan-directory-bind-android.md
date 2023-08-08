@@ -31,7 +31,7 @@ tags:
 thumbnail: https://imgdb.net/images/3180.jpg
 title: Cara menggunakan Directory Bind Android
 type: post
-updated: 2017-09-05T12:52:12+07:00
+updated: 2023-08-08T14:45:48+07:00
 uuid: 4fa5f9f7-2c69-4888-8b43-773a77c8f574
 wordcount: 560
 ---

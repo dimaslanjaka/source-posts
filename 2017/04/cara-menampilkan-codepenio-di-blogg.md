@@ -32,7 +32,7 @@ tags:
 thumbnail: https://lh6.googleusercontent.com/proxy/4Jrx-c1qmdyJBBFWaTVYP6cr1OXxZADd8-8FRy0T0GJ041YEC_g6DBddYsU20X7p0UPshwbJY7vxAoJOqppV5HbWDVBpnr7lMTRrNw4bgI_0i2VHIhFR0Vc=w543-h271-nc
 title: Cara menampilkan codepen.io di blog
 type: post
-updated: 2017-04-21T00:45:13+07:00
+updated: 2023-08-08T14:46:01+07:00
 uuid: 640a3cdd-20c2-4888-8bbe-2b01a4d46270
 wordcount: 644
 ---

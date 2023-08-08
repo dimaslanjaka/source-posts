@@ -29,7 +29,7 @@ tags:
 thumbnail: https://fabianlee.org/wp-content/uploads/2021/12/vscode-logo.png
 title: Custom PATH VSCode Integrated Terminal Options
 type: post
-updated: 2022-04-04T18:26:00+0700
+updated: 2023-08-08T14:45:10+07:00
 webtitle: VSCode
 wordcount: 287
 ---

@@ -32,7 +32,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4380.png
 title: Youtube Vanced v.13.43.50 Premium Pro Mod Apk [NON-ROOT]
 type: post
-updated: 2018-11-27T21:25:36+07:00
+updated: 2023-08-08T14:45:36+07:00
 uuid: a3d30ecf-3dbe-4888-8752-6b82a710a1f6
 wordcount: 1144
 ---

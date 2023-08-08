@@ -29,7 +29,7 @@ tags:
 thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/aba30e58-526f-48c3-a2c5-fe7df582b8b2
 title: git detach subfolder to their own repository
 type: post
-updated: 2023-06-01T11:05:05+07:00
+updated: 2023-08-08T14:44:19+07:00
 wordcount: 959
 ---
 

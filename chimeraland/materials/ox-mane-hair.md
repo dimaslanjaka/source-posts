@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/ox-mane-hair/ox-mane-hair.webp
 title: Material Ox Mane Hair Chimeraland
 type: post
-updated: 2022-10-01T19:26:37+07:00
+updated: 2023-08-08T14:44:52+07:00
 wordcount: 1165
 ---
 

@@ -22,7 +22,7 @@ thumbnail: https://i.ytimg.com/vi/IhliPngCEbw/maxresdefault.jpg
 title: Taming Pets Chimeraland
 toc: true
 type: post
-updated: 2022-11-03T05:00:28+07:00
+updated: 2023-08-08T14:44:19+07:00
 wordcount: 1204
 ---
 

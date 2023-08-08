@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/meat-noodles/meat-noodles.webp
 title: Recipe Meat Noodles Chimeraland
 type: post
-updated: 2022-10-07T00:46:54+07:00
+updated: 2023-08-08T14:44:26+07:00
 wordcount: 1051
 ---
 

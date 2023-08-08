@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/snow-goose-claw/snow-goose-claw.webp
 title: Material Snow Goose Claw Chimeraland
 type: post
-updated: 2022-10-01T20:26:37+07:00
+updated: 2023-08-08T14:44:50+07:00
 wordcount: 1202
 ---
 

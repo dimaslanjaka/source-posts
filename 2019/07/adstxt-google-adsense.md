@@ -24,7 +24,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-v722QaGiMoM/XZMwlYanj-I/AAAAAAAASgk/e92el_z2sGsTfXw0kSOrO-eiq5HpDLZsgCLcBGAsYHQ/s640/cara%2Bmemperbaiki%2Bads%2Btxt.jpg
 title: Ads.txt Google Adsense
 type: post
-updated: 2022-10-09T14:43:00+0700
+updated: 2023-08-08T14:45:31+07:00
 uuid: b2e7e8bf-3209-4888-8c31-e0e9aa1ede0a
 wordcount: 229
 ---

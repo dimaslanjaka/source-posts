@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/vangard-bear-thorn/vangard-bear-thorn.webp
 title: Material Vangard Bear Thorn Chimeraland
 type: post
-updated: 2022-10-02T17:26:37+07:00
+updated: 2023-08-08T14:44:48+07:00
 wordcount: 1231
 ---
 

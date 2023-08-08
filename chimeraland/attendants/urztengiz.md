@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/attendants/urztengiz/Screenshot_2023-02-22-08-45-53-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant urztengiz
 type: post
-updated: 2023-02-24T21:55:41+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 1130
 ---

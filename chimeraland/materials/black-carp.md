@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/black-carp/black-carp.webp
 title: Material Black Carp Chimeraland
 type: post
-updated: 2022-10-06T13:26:37+07:00
+updated: 2023-08-08T14:45:00+07:00
 wordcount: 936
 ---
 

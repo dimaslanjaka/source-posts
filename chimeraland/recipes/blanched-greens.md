@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/blanched-greens/blanched-greens.webp
 title: Recipe Blanched Greens Chimeraland
 type: post
-updated: 2022-09-29T03:26:37+07:00
+updated: 2023-08-08T14:44:30+07:00
 wordcount: 969
 ---
 

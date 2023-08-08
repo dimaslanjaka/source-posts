@@ -30,7 +30,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot.com/-8_qQfeqjz3o/Wou11Ei7rNI/AAAAAAAABww/akGzXB7i6moUJchh3oKOBkmlblOyEor4ACLcBGAs/s400/Screenshot_Chrome_20180220-124435.png
 title: "[NEW] Script Terbaru auto Reaction Facebook dan auto refresh token"
 type: post
-updated: 2019-02-08T22:16:52+07:00
+updated: 2023-08-08T14:45:36+07:00
 uuid: 650f37b3-ad27-4888-8f14-585863191da0
 wordcount: 101
 ---

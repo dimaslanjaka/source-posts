@@ -24,7 +24,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/670f120afdd78209155b405b071116c2.png
 title: 8 Tips Rahasia Untuk Menggunakan Iklan Facebook Untuk E-commerce
 type: post
-updated: 2019-12-07T05:49:04+07:00
+updated: 2023-08-08T14:45:24+07:00
 uuid: ef516bd5-d54b-4888-8d57-04dcce120615
 wordcount: 12328
 ---

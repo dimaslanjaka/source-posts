@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/luna-lionfish/luna-lionfish.webp
 title: Material Luna Lionfish Chimeraland
 type: post
-updated: 2022-10-08T16:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 788
 ---
 

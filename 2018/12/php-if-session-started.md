@@ -20,7 +20,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://img.icons8.com/metro/1600/php.png
 title: PHP check session has started
 type: post
-updated: 2020-01-24T06:39:22+07:00
+updated: 2023-08-08T14:45:35+07:00
 uuid: 8b9c3c94-5fe5-4888-87f6-ace74d654923
 wordcount: 116
 ---

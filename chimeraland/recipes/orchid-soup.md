@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/orchid-soup/orchid-soup.webp
 title: Recipe Orchid Soup Chimeraland
 type: post
-updated: 2022-10-05T22:46:56+07:00
+updated: 2023-08-08T14:44:26+07:00
 wordcount: 730
 ---
 

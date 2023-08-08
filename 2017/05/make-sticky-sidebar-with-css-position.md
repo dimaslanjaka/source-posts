@@ -22,7 +22,7 @@ tags:
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCd4o3dXXEcogeof29yBdsbadza7SUSm7H0RJ8N4Q5rDBGWB2LVQ
 title: "Make Sticky Sidebar With CSS position: sticky"
 type: post
-updated: 2017-05-18T03:50:14+07:00
+updated: 2023-08-08T14:45:54+07:00
 uuid: 54c8b0e2-ffe7-4888-8b6f-c3205de29ab2
 wordcount: 785
 ---

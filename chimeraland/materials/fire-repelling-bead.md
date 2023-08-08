@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/fire-repelling-bead/fire-repelling-bead.webp
 title: Material Fire Repelling Bead Chimeraland
 type: post
-updated: 2022-10-02T11:26:37+07:00
+updated: 2023-08-08T14:44:57+07:00
 wordcount: 867
 ---
 

@@ -29,7 +29,7 @@ tags:
 thumbnail: /chimeraland/attendants/storehog/Screenshot_2023-02-05-12-50-53-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant storehog
 type: post
-updated: 2023-02-09T07:16:58+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 988
 ---

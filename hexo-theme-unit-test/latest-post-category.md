@@ -13,7 +13,7 @@ subtitle: Latest Post Category Latest Post In Category
 tags: []
 title: Latest Post Category
 type: post
-updated: 2021-12-22 00:00:00
+updated: 2023-08-08T14:44:17+07:00
 wordcount: 10
 ---
 

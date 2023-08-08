@@ -35,7 +35,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-fire-bosalo/Screenshot_2023-02-22-11-14-31-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster giant fire bosalo
 type: post
-updated: 2023-02-25T06:55:43+07:00
+updated: 2023-08-08T14:44:42+07:00
 webtitle: chimeraland
 wordcount: 1344
 ---

@@ -29,7 +29,7 @@ tags:
 thumbnail: https://www.vaingloryfire.com/images/heroes/potrait/ringo.png
 title: Ringo Step Shotter Tutorial CP WP
 type: post
-updated: 2017-07-07T17:10:01+07:00
+updated: 2023-08-08T14:45:51+07:00
 uuid: 3219ab07-317e-4888-8b29-8640b2b47be4
 wordcount: 12832
 ---

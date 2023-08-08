@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/crab-claw-meat/crab-claw-meat.webp
 title: Material Crab Claw Meat Chimeraland
 type: post
-updated: 2022-10-01T02:26:37+07:00
+updated: 2023-08-08T14:44:58+07:00
 wordcount: 4134
 ---
 

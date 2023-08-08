@@ -35,7 +35,7 @@ tags:
 thumbnail: /chimeraland/monsters/lichen-bufonidae/Screenshot_2023-08-07-01-05-33-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster lichen bufonidae
 type: post
-updated: 2023-08-07T04:11:28+07:00
+updated: 2023-08-08T14:44:37+07:00
 webtitle: chimeraland
 wordcount: 1318
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/octofish-tentacle/octofish-tentacle.webp
 title: Material Octofish Tentacle Chimeraland
 type: post
-updated: 2022-10-03T16:26:37+07:00
+updated: 2023-08-08T14:44:52+07:00
 wordcount: 846
 ---
 

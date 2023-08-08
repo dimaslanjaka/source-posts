@@ -32,7 +32,7 @@ tags:
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6A8Kv8hDwOaw1oyNv0g8JghoA700vJYvtBk-2E4NgQss7ztfOGGt37brH
 title: Fix Error The entity nbsp was referenced, but not declared
 type: post
-updated: 2017-05-26T03:53:02+07:00
+updated: 2023-08-08T14:45:57+07:00
 uuid: e4be987c-4501-4888-81fb-996ac9addddb
 wordcount: 602
 ---

@@ -25,7 +25,7 @@ tags:
 thumbnail: https://i.ibb.co/8mHZrW4/189511811-288027676360564-3911263534233651523-n.jpg
 title: Mimi Tomo Event Guide
 type: post
-updated: 2021-05-29T19:07:46+07:00
+updated: 2023-08-08T14:45:10+07:00
 uuid: 388b08c2-3bdd-4888-87bf-16cf9f01c3e9
 wordcount: 168
 ---

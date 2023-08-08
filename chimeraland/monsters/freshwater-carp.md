@@ -25,7 +25,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Freshwater Carp
 title: Monster Freshwater Carp
 type: post
-updated: 2023-05-25T09:41:12+07:00
+updated: 2023-08-08T14:44:43+07:00
 webtitle: chimeraland
 wordcount: 658
 ---

@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/bird-wing/bird-wing.webp
 title: Material Bird Wing Chimeraland
 type: post
-updated: 2022-10-01T04:26:37+07:00
+updated: 2023-08-08T14:45:00+07:00
 wordcount: 2071
 ---
 

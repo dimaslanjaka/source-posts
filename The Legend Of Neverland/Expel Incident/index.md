@@ -21,7 +21,7 @@ tags:
 thumbnail: https://i.ytimg.com/vi/2X152P2goVs/maxresdefault.jpg
 title: Expel Incident The Legend Of Neverland
 type: post
-updated: 2021-12-20T02:10:55+07:00
+updated: 2023-08-08T14:44:20+07:00
 wordcount: 52
 ---
 

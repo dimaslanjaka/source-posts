@@ -36,7 +36,7 @@ thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/s--73FnDTzR--/c_l
 title: Blogger Conditional Tags
 toc: true
 type: post
-updated: 2022-03-20T20:57:28+07:00
+updated: 2023-08-08T14:45:10+07:00
 wordcount: 1871
 ---
 

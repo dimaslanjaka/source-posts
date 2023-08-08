@@ -26,7 +26,7 @@ tags:
 thumbnail: https://imgdb.net/images/3863.png
 title: List of weapon buff materials, effects and how it can be durango wild lands
 type: post
-updated: 2018-08-05T06:18:13+07:00
+updated: 2023-08-08T14:45:40+07:00
 uuid: 0b5b2f48-b522-4888-8666-da05b1ce7a79
 wordcount: 4215
 ---

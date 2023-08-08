@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/red-cabbage-soup/red-cabbage-soup.webp
 title: Recipe Red Cabbage Soup Chimeraland
 type: post
-updated: 2022-10-06T00:46:56+07:00
+updated: 2023-08-08T14:44:25+07:00
 wordcount: 833
 ---
 

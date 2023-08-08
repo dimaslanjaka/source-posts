@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/swallowfish/swallowfish.webp
 title: Material Swallowfish Chimeraland
 type: post
-updated: 2022-10-08T21:26:37+07:00
+updated: 2023-08-08T14:44:49+07:00
 wordcount: 822
 ---
 

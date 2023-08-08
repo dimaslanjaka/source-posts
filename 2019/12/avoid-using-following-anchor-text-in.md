@@ -25,7 +25,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/ea0bf3421fc2572e64bac7d937113a5b.jpeg
 title: Avoid Using The Following Anchor Text In Making Links
 type: post
-updated: 2019-12-30T02:35:01+07:00
+updated: 2023-08-08T14:45:24+07:00
 uuid: 2071b668-3cb9-4888-8d81-1f415717b445
 wordcount: 3059
 ---

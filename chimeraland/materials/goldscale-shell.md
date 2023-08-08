@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/goldscale-shell/goldscale-shell.webp
 title: Material Goldscale Shell Chimeraland
 type: post
-updated: 2022-10-02T23:26:37+07:00
+updated: 2023-08-08T14:44:56+07:00
 wordcount: 824
 ---
 

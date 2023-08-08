@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/rhino-meat/rhino-meat.webp
 title: Material Rhino Meat Chimeraland
 type: post
-updated: 2022-09-30T08:26:37+07:00
+updated: 2023-08-08T14:44:51+07:00
 wordcount: 633
 ---
 

@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/attendants/astakat/Screenshot_2023-07-01-15-27-42-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant astakat
 type: post
-updated: 2023-08-06T22:00:21+07:00
+updated: 2023-08-08T14:45:07+07:00
 webtitle: chimeraland
 wordcount: 1201
 ---

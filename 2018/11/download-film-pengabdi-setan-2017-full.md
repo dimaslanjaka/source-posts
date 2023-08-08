@@ -31,7 +31,7 @@ tags:
 thumbnail: https://dimaslanjaka-storage.000webhostapp.com/img.php?type=jpeg&url=https://layarindo21.ws/wp-content/uploads/2017/04/Telaga_Angker_1984_obverse_wiki-150x150.jpg
 title: download film pengabdi setan 2017 full movie
 type: post
-updated: 2018-11-11T05:51:37+07:00
+updated: 2023-08-08T14:45:38+07:00
 uuid: 1651110a-a5f6-4888-8682-1342b030671f
 wordcount: 9924
 ---

@@ -19,7 +19,7 @@ subtitle: Categories This post contains 3 categories. Make sure your theme can
 tags: []
 title: Categories
 type: post
-updated: 2013-12-24T23:30:09+07:00
+updated: 2023-08-08T14:44:18+07:00
 wordcount: 43
 ---
 

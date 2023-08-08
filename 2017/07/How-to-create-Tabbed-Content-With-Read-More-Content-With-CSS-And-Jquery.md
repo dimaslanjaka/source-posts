@@ -24,7 +24,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Selected Substance With Read More Substance With CSS And Jquery
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:52+07:00
 uuid: b1114daa-b48d-4888-8cd2-7a947170c584
 wordcount: 1547
 ---

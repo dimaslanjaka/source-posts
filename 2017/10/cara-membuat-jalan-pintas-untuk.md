@@ -23,7 +23,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-7ZnAq5qCUqU/UnUovHpfPYI/AAAAAAAAaQE/Wn5m_IyQ7MA/s1600/Modern-Apps-Shortcut-1.png
 title: Cara Membuat Jalan pintas untuk Aplikasi UI Modern di Windows 8.1
 type: post
-updated: 2017-10-15T00:42:02+07:00
+updated: 2023-08-08T14:45:44+07:00
 uuid: 2ee19537-6cb3-4888-86ce-71f31331966c
 wordcount: 590
 ---

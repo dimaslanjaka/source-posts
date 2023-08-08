@@ -21,7 +21,7 @@ tags:
 thumbnail: /NodeJS/update-local-dependencies/logo.png
 title: Auto update NPM local and monorepo dependencies
 type: post
-updated: 2022-12-20T19:20:11+07:00
+updated: 2023-08-08T14:44:14+07:00
 wordcount: 2937
 ---
 

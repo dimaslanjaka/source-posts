@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/honeybee-jerky/honeybee-jerky.webp
 title: Recipe Honeybee Jerky Chimeraland
 type: post
-updated: 2022-10-06T08:46:54+07:00
+updated: 2023-08-08T14:44:27+07:00
 wordcount: 728
 ---
 

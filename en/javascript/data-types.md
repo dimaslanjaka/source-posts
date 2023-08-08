@@ -29,7 +29,7 @@ tags:
 thumbnail: https://www.javascripttutorial.net/wp-content/uploads/2022/01/JavaScript-data-types.svg
 title: What are the different data types present in javascript?
 type: page
-updated: 2023-07-04T15:42:48+07:00
+updated: 2023-08-08T14:44:23+07:00
 wordcount: 199
 ---
 

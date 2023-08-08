@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/monsters/child-crowned-quetzal/Screenshot_2023-02-25-22-26-42-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster child crowned quetzal
 type: post
-updated: 2023-03-10T20:30:18+07:00
+updated: 2023-08-08T14:44:45+07:00
 webtitle: chimeraland
 wordcount: 1172
 ---

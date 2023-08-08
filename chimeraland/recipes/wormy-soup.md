@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/wormy-soup/wormy-soup.webp
 title: Recipe Wormy Soup Chimeraland
 type: post
-updated: 2022-10-06T22:46:55+07:00
+updated: 2023-08-08T14:44:23+07:00
 wordcount: 625
 ---
 

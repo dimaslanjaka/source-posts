@@ -33,7 +33,7 @@ tags:
 thumbnail: /chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-18-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant shaman wisteria
 type: post
-updated: 2022-11-26T08:35:17+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 1237
 ---

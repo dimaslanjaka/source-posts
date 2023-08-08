@@ -32,7 +32,7 @@ tags:
   - coverage
 title: How to setup jest typescript and code runner in vscode
 type: post
-updated: 2023-05-19T22:21:18+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 3173
 ---
 

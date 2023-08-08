@@ -37,7 +37,7 @@ tags:
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjdpDoe7h7wNQx9CmRe46wN2Ta_p7TYUg_q9p0GUr6OM6Y1hml
 title: How to beautify html javascript and css using script on the fly
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:46:00+07:00
 uuid: e93db569-abba-4888-8153-92f5f4ba91c8
 wordcount: 237
 ---

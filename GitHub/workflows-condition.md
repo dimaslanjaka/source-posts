@@ -29,7 +29,7 @@ tags:
 thumbnail: /GitHub/workflows/cover.png
 title: Macam-macam kondisional pada github workflows
 type: post
-updated: 2023-05-04T16:55:50+07:00
+updated: 2023-08-08T14:44:18+07:00
 uuid: f4c6a18d-2377-4888-8330-9223d5f34263
 webtitle: WMI GitHub
 wordcount: 1496

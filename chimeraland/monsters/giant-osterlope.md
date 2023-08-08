@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-osterlope/Screenshot_2023-02-28-04-37-25-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster giant osterlope
 type: post
-updated: 2023-03-11T04:30:18+07:00
+updated: 2023-08-08T14:44:42+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

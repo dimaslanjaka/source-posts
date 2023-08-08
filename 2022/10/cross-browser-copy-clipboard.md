@@ -31,7 +31,7 @@ tags:
   - js
 title: Snippet JS copy to clipboard full support old browser and modern browser
 type: post
-updated: 2022-10-12T11:27:11+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 1368
 ---
 

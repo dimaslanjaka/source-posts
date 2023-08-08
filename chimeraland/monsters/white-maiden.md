@@ -49,7 +49,7 @@ tags:
 thumbnail: /chimeraland/monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp
 title: Monster White Maiden
 type: post
-updated: 2022-10-03T12:18:27+07:00
+updated: 2023-08-08T14:44:31+07:00
 webtitle: chimeraland
 wordcount: 2331
 ---

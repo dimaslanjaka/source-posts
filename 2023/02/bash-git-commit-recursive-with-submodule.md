@@ -16,7 +16,7 @@ tags:
   - script
 title: Script bash git commit recursive with submodules
 type: post
-updated: 2023-02-12T18:12:20+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 216
 ---
 

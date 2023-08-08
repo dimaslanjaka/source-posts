@@ -22,7 +22,7 @@ tags: []
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Tere Bina Original mp3
 type: post
-updated: 2017-09-21T21:44:25+07:00
+updated: 2023-08-08T14:45:45+07:00
 uuid: 2960d19e-ac10-4888-8e64-a5c6b9323953
 wordcount: 515
 ---

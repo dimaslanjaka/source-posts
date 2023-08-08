@@ -18,7 +18,7 @@ tags:
 thumbnail: https://www.automationdojos.com/wp-content/uploads/2021/11/post-xampp-virtualhost-fimg.png
 title: XAMPP vhosts config full example and guide
 type: post
-updated: 2022-05-16T05:20:27+0000
+updated: 2023-08-08T14:45:09+07:00
 wordcount: 1099
 ---
 

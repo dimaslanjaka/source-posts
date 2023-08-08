@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/scale-of-reversal/scale-of-reversal.webp
 title: Material Scale of Reversal Chimeraland
 type: post
-updated: 2022-10-03T17:26:37+07:00
+updated: 2023-08-08T14:44:50+07:00
 wordcount: 941
 ---
 

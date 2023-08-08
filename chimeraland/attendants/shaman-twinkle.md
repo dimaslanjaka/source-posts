@@ -37,7 +37,7 @@ tags:
 thumbnail: /chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-41-44-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant Shaman Twinkle
 type: post
-updated: 2022-09-29T05:26:37+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 1609
 ---

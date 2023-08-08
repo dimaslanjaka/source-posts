@@ -25,7 +25,7 @@ tags:
 thumbnail: https://www.webmanajemen.com/assets/img/javascript.png
 title: Bootstrap 4 Auto Progress Bar
 type: post
-updated: 2019-07-25T23:54:52+07:00
+updated: 2023-08-08T14:45:30+07:00
 uuid: e4a3479a-db0e-4888-88e0-d76a7f5bdb59
 wordcount: 632
 ---

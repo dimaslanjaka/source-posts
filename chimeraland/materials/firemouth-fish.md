@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/firemouth-fish/firemouth-fish.webp
 title: Material Firemouth Fish Chimeraland
 type: post
-updated: 2022-10-07T14:26:37+07:00
+updated: 2023-08-08T14:44:57+07:00
 wordcount: 841
 ---
 

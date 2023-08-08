@@ -25,7 +25,7 @@ tags:
 thumbnail: /2017/12/js-javascript-function-remove-slash/cover.jpg
 title: JS Javascript Function Remove Slash From String
 type: post
-updated: 2022-08-18T00:31:00+0700
+updated: 2023-08-08T14:45:42+07:00
 uuid: 8477ce0f-070e-4888-8dea-7874e23542cc
 wordcount: 900
 ---

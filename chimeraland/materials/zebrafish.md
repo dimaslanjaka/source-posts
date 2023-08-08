@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/zebrafish/zebrafish.webp
 title: Material Zebrafish Chimeraland
 type: post
-updated: 2022-10-06T18:26:37+07:00
+updated: 2023-08-08T14:44:47+07:00
 wordcount: 780
 ---
 

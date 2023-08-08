@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/stewed-brains/stewed-brains.webp
 title: Recipe Stewed Brains Chimeraland
 type: post
-updated: 2022-10-07T02:46:55+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 842
 ---
 

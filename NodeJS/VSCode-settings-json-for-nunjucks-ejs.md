@@ -30,7 +30,7 @@ tags:
 thumbnail: https://miro.medium.com/max/1400/1*Q1xstpngN6E4H-WHLySJvg.png
 title: VSCode settings JSON for nunjucks and EJS
 type: post
-updated: 2022-11-10T08:00:33+07:00
+updated: 2023-08-08T14:44:14+07:00
 wordcount: 1316
 ---
 

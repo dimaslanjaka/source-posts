@@ -20,7 +20,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Pug Preporcessor  SCSS border animation without svg
 type: post
-updated: 2017-11-17T11:46:04+07:00
+updated: 2023-08-08T14:45:43+07:00
 uuid: 43a883d6-5b11-4888-8da1-07e534f731be
 wordcount: 1200
 ---

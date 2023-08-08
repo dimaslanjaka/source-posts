@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup.webp
 title: Recipe Peanut Gourd Soup Chimeraland
 type: post
-updated: 2022-10-05T19:46:56+07:00
+updated: 2023-08-08T14:44:26+07:00
 wordcount: 1366
 ---
 

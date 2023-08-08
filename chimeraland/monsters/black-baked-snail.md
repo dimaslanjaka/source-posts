@@ -34,7 +34,7 @@ tags:
 thumbnail: /chimeraland/monsters/black-baked-snail/Screenshot_2023-02-25-22-06-20-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster black-baked snail
 type: post
-updated: 2023-03-10T19:30:18+07:00
+updated: 2023-08-08T14:44:47+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

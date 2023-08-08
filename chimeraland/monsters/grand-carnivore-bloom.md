@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/monsters/grand-carnivore-bloom/Screenshot_2023-02-11-23-10-02-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster grand carnivore bloom
 type: post
-updated: 2023-02-13T12:42:22+07:00
+updated: 2023-08-08T14:44:40+07:00
 webtitle: chimeraland
 wordcount: 1172
 ---

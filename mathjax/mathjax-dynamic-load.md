@@ -28,7 +28,7 @@ tags:
   - snippet
 title: MathJax Dynamic Customized Load
 type: post
-updated: 2022-10-16T02:52:26+07:00
+updated: 2023-08-08T14:44:16+07:00
 wordcount: 935
 ---
 

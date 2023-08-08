@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/ice-block/ice-block.webp
 title: Recipe Ice Block Chimeraland
 type: post
-updated: 2022-10-05T21:46:55+07:00
+updated: 2023-08-08T14:44:26+07:00
 wordcount: 869
 ---
 

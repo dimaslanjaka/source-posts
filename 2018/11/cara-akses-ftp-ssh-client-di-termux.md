@@ -30,7 +30,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://caninechronicle.com/wp-content/uploads/2012/09/FTP-icon.jpg
 title: Cara akses FTP SSH client di termux
 type: post
-updated: 2018-11-12T12:48:36+07:00
+updated: 2023-08-08T14:45:39+07:00
 uuid: 35dc714d-550d-4888-8144-b9302dc9bf7e
 wordcount: 2153
 ---

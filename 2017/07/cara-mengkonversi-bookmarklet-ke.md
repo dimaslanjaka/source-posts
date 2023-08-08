@@ -32,7 +32,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://i.imgur.com/QLNHFRe.png
 title: Cara Mengkonversi Bookmarklet ke Ekstensi Chrome
 type: post
-updated: 2017-07-13T07:34:15+07:00
+updated: 2023-08-08T14:45:53+07:00
 uuid: 1e810e0f-e81f-4888-8d6b-4e28c17de31b
 wordcount: 1296
 ---

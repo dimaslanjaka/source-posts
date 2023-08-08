@@ -30,7 +30,7 @@ tags:
 thumbnail: https://imgdb.net/images/3212.jpg
 title: how to fix  mdadm.conf defines no arrays on UBUNTU SERVER 16.04
 type: post
-updated: 2017-10-02T21:42:04+07:00
+updated: 2023-08-08T14:45:44+07:00
 uuid: 7f916828-d486-4888-8a96-f86034ba51db
 wordcount: 191
 ---

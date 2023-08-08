@@ -25,7 +25,7 @@ tags:
 thumbnail: https://imgdb.net/images/3200.jpg
 title: Access XAMPP Apache  MySQL via Android Smartphone
 type: post
-updated: 2017-10-06T01:07:05+07:00
+updated: 2023-08-08T14:45:45+07:00
 uuid: 8061a10d-0b6a-4888-8a42-139b67c9e1c9
 wordcount: 1406
 ---

@@ -25,7 +25,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/3970.jpg
 title: Buff Kayu Durango Wild Lands Woods Buffs
 type: post
-updated: 2018-08-12T00:04:39+07:00
+updated: 2023-08-08T14:45:40+07:00
 uuid: a7d3bbae-95ed-4888-86d5-aca8da44272c
 wordcount: 1648
 ---

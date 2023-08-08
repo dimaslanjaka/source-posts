@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/arowana-slices/arowana-slices.webp
 title: Recipe Arowana Slices Chimeraland
 type: post
-updated: 2022-10-05T07:46:55+07:00
+updated: 2023-08-08T14:44:30+07:00
 wordcount: 682
 ---
 

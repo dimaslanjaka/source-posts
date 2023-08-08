@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/beast-intestines/beast-intestines.webp
 title: Material Beast Intestines Chimeraland
 type: post
-updated: 2022-09-30T20:26:37+07:00
+updated: 2023-08-08T14:45:00+07:00
 wordcount: 1909
 ---
 

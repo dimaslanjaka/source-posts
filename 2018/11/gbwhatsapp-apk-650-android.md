@@ -24,7 +24,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2015/01/gbwhatsapp_1.jpg
 title: GBWhatsApp Apk 6.50 android
 type: post
-updated: 2018-11-12T12:26:37+07:00
+updated: 2023-08-08T14:45:37+07:00
 uuid: 7bcb99dd-b28a-4888-8a1f-9e0b62f7d244
 wordcount: 810
 ---

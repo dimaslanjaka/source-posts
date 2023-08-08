@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/grand-tree-soul/grand-tree-soul.webp
 title: Material Grand Tree Soul Chimeraland
 type: post
-updated: 2022-10-06T10:26:37+07:00
+updated: 2023-08-08T14:44:56+07:00
 wordcount: 741
 ---
 

@@ -23,7 +23,7 @@ tags:
 thumbnail: https://imgdb.net/images/3862.jpg
 title: 8 Tips Outsmart the Wifi Router to Speed Up Internet Connection
 type: post
-updated: 2018-07-05T22:43:43+07:00
+updated: 2023-08-08T14:45:40+07:00
 uuid: 2fcc6167-4f1c-4888-8b0a-d0adffa30fb9
 wordcount: 1929
 ---

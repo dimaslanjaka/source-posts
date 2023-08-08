@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/pure-wood-essence/pure-wood-essence.webp
 title: Material Pure Wood Essence Chimeraland
 type: post
-updated: 2022-10-04T12:26:37+07:00
+updated: 2023-08-08T14:44:51+07:00
 wordcount: 636
 ---
 

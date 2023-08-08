@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/beetlefly-meat/beetlefly-meat.webp
 title: Material Beetlefly Meat Chimeraland
 type: post
-updated: 2022-09-30T12:26:37+07:00
+updated: 2023-08-08T14:45:00+07:00
 wordcount: 2630
 ---
 

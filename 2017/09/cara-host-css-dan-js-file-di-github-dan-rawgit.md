@@ -24,7 +24,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-Bqv85t32yUc/Vo_fhhQ3jvI/AAAAAAAAEyU/tQUONmtG1tE/s640/why%2Byou%2Bshould%2BCDN%2Bfor%2Bblogger.png
 title: Cara Host CSS dan JavaScript file di Github dengan Rawgit
 type: post
-updated: 2017-09-05T01:42:00+07:00
+updated: 2023-08-08T14:45:48+07:00
 uuid: fb267490-78fe-4888-8b93-ae871cee96c1
 wordcount: 3329
 ---

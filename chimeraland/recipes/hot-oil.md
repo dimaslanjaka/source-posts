@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/hot-oil/hot-oil.webp
 title: Recipe Hot Oil Chimeraland
 type: post
-updated: 2022-10-06T12:46:54+07:00
+updated: 2023-08-08T14:44:26+07:00
 wordcount: 869
 ---
 

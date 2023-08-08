@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/monsters/cloud-drune/Screenshot_2023-02-22-11-57-08-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster Cloud Drune
 type: post
-updated: 2022-09-29T13:18:27+07:00
+updated: 2023-08-08T14:44:45+07:00
 webtitle: chimeraland
 wordcount: 1075
 ---

@@ -29,7 +29,7 @@ thumbnail: https://i.ytimg.com/vi/Py9zUa4MGgs/maxresdefault.jpg
 title: How to Overcome Automatic Scroll Up in Blogger XML Editor
 toc: true
 type: post
-updated: 2022-03-23T20:27:20+0000
+updated: 2023-08-08T14:45:10+07:00
 webtitle: Blogger
 wordcount: 1377
 ---

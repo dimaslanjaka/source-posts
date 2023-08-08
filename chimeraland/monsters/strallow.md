@@ -30,7 +30,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Strallow
 title: Monster Strallow
 type: post
-updated: 2023-05-25T06:57:12+07:00
+updated: 2023-08-08T14:44:32+07:00
 webtitle: chimeraland
 wordcount: 1066
 ---

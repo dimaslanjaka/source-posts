@@ -16,7 +16,7 @@ tags:
   - github
 title: How to remove thousands old unneeded commits
 type: post
-updated: 2023-06-01T11:47:07+07:00
+updated: 2023-08-08T14:44:19+07:00
 wordcount: 1457
 ---
 

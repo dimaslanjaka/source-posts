@@ -23,7 +23,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-Tos8rqKMyGA/XmNfZ846naI/AAAAAAAAAAM/PjoZBLK56IMCbfHmazdWHifnYzigxC7hgCLcBGAsYHQ/s320/gradle.png
 title: Build Gradle Component Definitions
 type: post
-updated: 2020-03-13T17:12:44+07:00
+updated: 2023-08-08T14:45:13+07:00
 uuid: 00aeca0f-7cf8-4888-81ea-5fd3dccd18cf
 wordcount: 718
 ---

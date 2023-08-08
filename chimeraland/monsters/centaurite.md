@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/monsters/centaurite/Screenshot_2023-02-22-15-41-06-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster centaurite
 type: post
-updated: 2023-02-24T20:55:43+07:00
+updated: 2023-08-08T14:44:46+07:00
 webtitle: chimeraland
 wordcount: 1059
 ---

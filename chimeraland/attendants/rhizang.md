@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/attendants/rhizang/Screenshot_2022-11-19-02-58-06-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant rhizang
 type: post
-updated: 2022-11-26T02:35:17+07:00
+updated: 2023-08-08T14:45:04+07:00
 webtitle: chimeraland
 wordcount: 1059
 ---

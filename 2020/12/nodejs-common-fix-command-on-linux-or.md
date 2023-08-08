@@ -34,7 +34,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: NodeJS Common Fix Command On Linux Or Windows
 type: post
-updated: 2020-12-31T15:11:37+07:00
+updated: 2023-08-08T14:45:11+07:00
 uuid: 3584efed-319f-4888-876a-74f129bb2333
 wordcount: 282
 ---

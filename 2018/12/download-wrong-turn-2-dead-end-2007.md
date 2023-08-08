@@ -27,7 +27,7 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s7.dunia21
 title: "Download Wrong Turn 2: Dead End 2007 Indonesian Subtitles Movie Free
   Movie Bluray"
 type: post
-updated: 2018-12-23T19:53:01+07:00
+updated: 2023-08-08T14:45:35+07:00
 uuid: 0bc400b8-98a1-4888-8cd6-362286f3159f
 wordcount: 3298
 ---

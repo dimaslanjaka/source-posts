@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/tomahawk-steak/tomahawk-steak.webp
 title: Recipe Tomahawk Steak Chimeraland
 type: post
-updated: 2022-10-07T04:46:54+07:00
+updated: 2023-08-08T14:44:23+07:00
 wordcount: 749
 ---
 

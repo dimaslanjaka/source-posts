@@ -25,7 +25,7 @@ tags:
 thumbnail: http://res.cloudinary.com/dimaslanjaka/image/fetch/https://anotherorion.com/wp-content/uploads/2015/05/SafeLinkConverter1.png
 title: Update Code Widget Dan Template Untuk Simple Safelink Converter
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:42+07:00
 uuid: b597d4bb-ca15-4888-8a63-75c03cb6ba8b
 wordcount: 311
 ---

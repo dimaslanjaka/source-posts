@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/scraps-claypot/scraps-claypot.webp
 title: Recipe Scraps Claypot Chimeraland
 type: post
-updated: 2022-10-06T12:46:55+07:00
+updated: 2023-08-08T14:44:25+07:00
 wordcount: 669
 ---
 

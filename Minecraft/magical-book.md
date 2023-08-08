@@ -22,7 +22,7 @@ thumbnail: /Minecraft/magical-book/minecraft-enchant-at-anvil-900x506.jpg
 title: Magical Books
 toc: true
 type: post
-updated: 2022-03-20T20:57:28+07:00
+updated: 2023-08-08T14:44:16+07:00
 uuid: 90a378ff-426f-4888-8b7c-a97e78646688
 webtitle: Minecraft
 wordcount: 2597

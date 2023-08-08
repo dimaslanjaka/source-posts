@@ -23,7 +23,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-wRS-Eyu86jI/V1EjfzBfDBI/AAAAAAAAH3g/6KiOnExqzUE_FGzf2zLefBXrt78IWbJ1gCLcB/s320/histats.jpg
 title: How to Sign Up and Install Histats Widget on Blogger
 type: post
-updated: 2017-07-30T03:00:13+07:00
+updated: 2023-08-08T14:45:52+07:00
 uuid: ebda9ee9-ad64-4888-8d13-f39d5c330334
 wordcount: 2499
 ---

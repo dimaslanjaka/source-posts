@@ -20,7 +20,7 @@ tags:
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcfBozE5M4AU-Bxl7z1Zwhuup0eSbwXVKtTS9N-rJ_je8jOuradHt8nVXX
 title: How to edit the template blogger or blogspot
 type: post
-updated: 2017-05-20T14:32:00+07:00
+updated: 2023-08-08T14:45:55+07:00
 uuid: feca69da-0deb-4888-8a1b-1be0b2091178
 wordcount: 1203
 ---

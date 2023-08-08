@@ -24,7 +24,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Verdura Slushie
 title: Recipe Verdura Slushie Chimeraland
 type: post
-updated: 2022-10-06T05:46:56+07:00
+updated: 2023-08-08T14:44:23+07:00
 wordcount: 635
 ---
 

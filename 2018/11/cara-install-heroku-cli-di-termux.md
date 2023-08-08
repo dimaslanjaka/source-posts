@@ -29,7 +29,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://camo.githubusercontent.com/30c7758f9ac63488d3c2814ed2dcd9dbb7e967f3/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6865726f6b752d312e737667
 title: Cara install heroku CLI di Termux
 type: post
-updated: 2019-07-22T03:23:18+07:00
+updated: 2023-08-08T14:45:39+07:00
 uuid: a48833a6-c005-4888-81b2-d030b4dc8f2a
 wordcount: 688
 ---

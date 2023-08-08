@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/cod/cod.webp
 title: Material Cod Chimeraland
 type: post
-updated: 2022-10-08T04:26:37+07:00
+updated: 2023-08-08T14:44:58+07:00
 wordcount: 588
 ---
 

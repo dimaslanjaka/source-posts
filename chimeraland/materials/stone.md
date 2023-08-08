@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/stone/stone.webp
 title: Material Stone Chimeraland
 type: post
-updated: 2022-09-29T05:26:37+07:00
+updated: 2023-08-08T14:44:49+07:00
 wordcount: 931
 ---
 

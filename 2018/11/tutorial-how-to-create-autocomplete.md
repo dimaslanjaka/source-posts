@@ -23,7 +23,7 @@ tags:
 thumbnail: http://www.tutorial-webdesign.com/wp-content/uploads/2015/05/autocomplete.png
 title: Tutorial How to Create Autocomplete with CodeIgniter
 type: post
-updated: 2018-11-27T20:05:35+07:00
+updated: 2023-08-08T14:45:36+07:00
 uuid: c45811ba-df2b-4888-8150-28f72c64ba82
 wordcount: 4335
 ---

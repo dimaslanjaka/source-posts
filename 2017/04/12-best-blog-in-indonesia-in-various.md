@@ -24,7 +24,7 @@ tags:
 thumbnail: http://sugeng.id/blog/wp-content/uploads/2015/06/Blog-Raditya-Dika-800x392.png
 title: 12 Best Blog in Indonesia in Various Topics
 type: post
-updated: 2017-04-13T12:31:00+07:00
+updated: 2023-08-08T14:46:02+07:00
 uuid: 395ddaab-54e7-4888-8565-05fc53204bca
 wordcount: 4457
 ---

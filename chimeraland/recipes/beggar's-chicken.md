@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/beggars-chicken/beggars-chicken.webp
 title: Recipe Beggars Chicken Chimeraland
 type: post
-updated: 2022-10-05T14:46:53+07:00
+updated: 2023-08-08T14:44:30+07:00
 wordcount: 636
 ---
 

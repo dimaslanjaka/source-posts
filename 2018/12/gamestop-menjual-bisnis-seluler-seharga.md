@@ -23,7 +23,7 @@ tags:
 thumbnail: https://cdn.staticaly.com/img/www.retaildive.com/user_media/cache/ca/af/caaf3c5c453af06608ab5eafbf455a0a.jpg
 title: Gamestop Menjual Bisnis Seluler seharga  700 juta
 type: post
-updated: 2018-12-07T03:45:07+07:00
+updated: 2023-08-08T14:45:35+07:00
 uuid: f0c259e4-fdc5-4888-8012-0d048d4e42f4
 wordcount: 4101
 ---

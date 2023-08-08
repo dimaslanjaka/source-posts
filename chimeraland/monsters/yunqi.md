@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/monsters/yunqi/Screenshot_2023-02-11-03-29-15-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster yunqi
 type: post
-updated: 2023-02-13T13:42:22+07:00
+updated: 2023-08-08T14:44:30+07:00
 webtitle: chimeraland
 wordcount: 988
 ---

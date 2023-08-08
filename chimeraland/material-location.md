@@ -31,7 +31,7 @@ tags:
   - guide
 title: Material Location In Chimeraland
 type: post
-updated: 2023-06-05T17:41:41+07:00
+updated: 2023-08-08T14:44:20+07:00
 wordcount: 134
 ---
 

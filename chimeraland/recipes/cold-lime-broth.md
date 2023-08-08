@@ -24,7 +24,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cold Lime Broth
 title: Recipe Cold Lime Broth Chimeraland
 type: post
-updated: 2022-10-05T19:46:53+07:00
+updated: 2023-08-08T14:44:29+07:00
 wordcount: 707
 ---
 

@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Schema Markup Untuk Homepage Blog
 type: post
-updated: 2017-09-09T13:00:09+07:00
+updated: 2023-08-08T14:45:46+07:00
 uuid: cb3980be-9fc4-4888-883f-e76ea72f2ba0
 wordcount: 2251
 ---

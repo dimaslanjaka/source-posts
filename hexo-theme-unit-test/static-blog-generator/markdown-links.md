@@ -23,7 +23,7 @@ subtitle: fix shortcodes markdown with links .md included testincluded
 tags: []
 title: fix shortcodes markdown with links .md
 type: page
-updated: 2022-04-04
+updated: 2023-08-08T14:44:22+07:00
 wordcount: 56
 ---
 

@@ -24,7 +24,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.tech-recipes.com/wp-content/uploads/2017/09/How-to-Unbind-an-App-Off-of-Facebook.png
 title: Cara Membatalkan Akun Facebook dari Aplikasi Apa Pun
 type: post
-updated: 2018-11-07T23:51:21+07:00
+updated: 2023-08-08T14:45:39+07:00
 uuid: fd22cfb9-612a-4888-853a-ad5136aff8b4
 wordcount: 2136
 ---

@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/attendants/lunar-jade/Screenshot_2022-11-15-23-46-28-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant lunar jade
 type: post
-updated: 2022-11-25T23:35:17+07:00
+updated: 2023-08-08T14:45:05+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

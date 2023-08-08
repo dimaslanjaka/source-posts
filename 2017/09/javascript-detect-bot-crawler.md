@@ -21,7 +21,7 @@ tags:
 thumbnail: https://imgdb.net/images/3206.png
 title: Javascript detect bot crawler
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:46+07:00
 uuid: 3711008f-a5fb-4888-8f3a-2e43ef289ed3
 wordcount: 118
 ---

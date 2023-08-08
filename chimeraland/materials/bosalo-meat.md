@@ -25,7 +25,7 @@ tags:
 thumbnail: /chimeraland/materials/bosalo-meat/bosalo-meat.webp
 title: Material Bosalo Meat Chimeraland
 type: post
-updated: 2022-09-30T14:26:37+07:00
+updated: 2023-08-08T14:44:59+07:00
 wordcount: 989
 ---
 

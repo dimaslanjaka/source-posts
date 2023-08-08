@@ -32,7 +32,7 @@ tags:
 thumbnail: https://cdn.icon-icons.com/icons2/1488/PNG/512/5347-github_102542.png
 title: Git CLI Delete History Commit
 type: post
-updated: 2020-03-08T14:10:38+07:00
+updated: 2023-08-08T14:45:13+07:00
 uuid: 881f2abd-ef90-4888-8532-888422e228ad
 wordcount: 159
 ---

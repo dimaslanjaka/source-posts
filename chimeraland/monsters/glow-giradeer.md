@@ -25,7 +25,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Glow Giradeer
 title: Monster Glow Giradeer
 type: post
-updated: 2023-05-25T18:10:12+07:00
+updated: 2023-08-08T14:44:41+07:00
 webtitle: chimeraland
 wordcount: 658
 ---

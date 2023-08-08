@@ -24,7 +24,7 @@ tags:
 thumbnail: https://cdn1.imggmi.com/uploads/2018/11/12/64a52e8966eaa055d3c4d714a994f2a6-full.png
 title: Manajemen file dan folder di Termux
 type: post
-updated: 2018-11-12T11:49:46+07:00
+updated: 2023-08-08T14:45:36+07:00
 uuid: 14f64b57-9b7f-4888-8e13-2a1697a64aa3
 wordcount: 4185
 ---

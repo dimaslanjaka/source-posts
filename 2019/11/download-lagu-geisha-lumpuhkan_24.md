@@ -23,7 +23,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/ab7316efd5cc0972dbd98960213b1809.jpeg
 title: Download lagu GEISHA - Lumpuhkan Ingatanku Mp3
 type: post
-updated: 2019-11-24T21:57:50+07:00
+updated: 2023-08-08T14:45:27+07:00
 uuid: 37917bb5-d1e0-4888-82fe-b34a77c110c0
 wordcount: 1861
 ---

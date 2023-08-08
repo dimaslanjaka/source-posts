@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/braised-tendons/braised-tendons.webp
 title: Recipe Braised Tendons Chimeraland
 type: post
-updated: 2022-10-05T15:46:56+07:00
+updated: 2023-08-08T14:44:30+07:00
 wordcount: 624
 ---
 

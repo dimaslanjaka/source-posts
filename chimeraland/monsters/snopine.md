@@ -25,7 +25,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Snopine
 title: Monster Snopine
 type: post
-updated: 2023-05-25T03:35:12+07:00
+updated: 2023-08-08T14:44:33+07:00
 webtitle: chimeraland
 wordcount: 633
 ---

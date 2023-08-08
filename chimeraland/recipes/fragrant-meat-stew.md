@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew.webp
 title: Recipe Fragrant Meat Stew Chimeraland
 type: post
-updated: 2022-10-05T20:46:56+07:00
+updated: 2023-08-08T14:44:28+07:00
 wordcount: 899
 ---
 

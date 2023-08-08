@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/large-fruit-stew/large-fruit-stew.webp
 title: Recipe Large Fruit Stew Chimeraland
 type: post
-updated: 2022-10-06T15:46:54+07:00
+updated: 2023-08-08T14:44:26+07:00
 wordcount: 1625
 ---
 

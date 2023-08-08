@@ -23,7 +23,7 @@ tags:
 thumbnail: /The Legend Of Neverland/Fishing/Studio_Project.jpeg
 title: Auto Fishing
 type: post
-updated: 2021-12-19T06:34:22+07:00
+updated: 2023-08-08T14:44:12+07:00
 uuid: c5c89bd2-ce95-4888-8453-3f658086d0b6
 wordcount: 754
 ---

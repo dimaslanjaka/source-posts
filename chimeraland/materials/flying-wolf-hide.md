@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/flying-wolf-hide/flying-wolf-hide.webp
 title: Material Flying Wolf Hide Chimeraland
 type: post
-updated: 2022-10-01T18:26:37+07:00
+updated: 2023-08-08T14:44:56+07:00
 wordcount: 1088
 ---
 

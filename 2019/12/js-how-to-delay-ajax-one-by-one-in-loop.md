@@ -31,7 +31,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://artandlogic.com/wp-content/uploads/2000px-AJAX_logo_by_gengns.svg_.png
 title: "[JS] How to delay ajax one by one in loop"
 type: post
-updated: 2020-01-07T13:18:21+07:00
+updated: 2023-08-08T14:45:16+07:00
 uuid: c78f5103-caec-4888-895e-2fd1cefce788
 wordcount: 1094
 ---

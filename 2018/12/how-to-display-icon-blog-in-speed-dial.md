@@ -30,7 +30,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4624.png
 title: How to Display Icon Blog In speed dial Browser
 type: post
-updated: 2018-12-25T14:03:38+07:00
+updated: 2023-08-08T14:45:35+07:00
 uuid: 4e577201-dab4-4888-8c7d-5a7ccee64efa
 wordcount: 70
 ---

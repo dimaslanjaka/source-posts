@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/bak-kut-teh/bak-kut-teh.webp
 title: Recipe Bak Kut Teh Chimeraland
 type: post
-updated: 2022-10-05T12:46:53+07:00
+updated: 2023-08-08T14:44:30+07:00
 wordcount: 830
 ---
 

@@ -23,7 +23,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/--negiLKKB7s/VHgEBpFr2kI/AAAAAAAABR4/F1OABPKFt4k/s320/shareing%2Bbuttons%2Bfor%2Bblogger.jpeg
 title: Several social bookmarking sites
 type: post
-updated: 2017-09-26T01:33:08+07:00
+updated: 2023-08-08T14:45:46+07:00
 uuid: a1ceef58-caf0-4888-822e-1f90f9b7d6fd
 wordcount: 623
 ---

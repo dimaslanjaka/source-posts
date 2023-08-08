@@ -35,7 +35,7 @@ tags:
 thumbnail: https://i.ytimg.com/vi/lHAeK8t94as/maxresdefault.jpg
 title: Eslint Prettier In Typescript Project Using Vscode
 type: post
-updated: 2023-06-05T20:42:21+07:00
+updated: 2023-08-08T14:44:15+07:00
 uuid: 3f6ada3c-0ed8-4888-87c8-3371f8927a2c
 webtitle: NodeJS
 wordcount: 2562

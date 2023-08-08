@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/centipede-skin/centipede-skin.webp
 title: Material Centipede Skin Chimeraland
 type: post
-updated: 2022-10-02T06:26:37+07:00
+updated: 2023-08-08T14:44:59+07:00
 wordcount: 1009
 ---
 

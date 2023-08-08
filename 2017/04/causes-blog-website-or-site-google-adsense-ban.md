@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://juragancipir.com/wp-content/uploads/2013/09/Adsense-banned-site-300x288.jpg
 title: Causes Blog / Website Or Site Google Adsense banned
 type: post
-updated: 2022-04-09T20:45:24+0000
+updated: 2023-08-08T14:46:01+07:00
 uuid: c8683d7a-4271-4888-8783-b5cf2d9e0340
 wordcount: 3030
 ---

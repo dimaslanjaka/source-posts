@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/magma-armor/magma-armor.webp
 title: Material Magma Armor Chimeraland
 type: post
-updated: 2022-10-03T14:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 903
 ---
 

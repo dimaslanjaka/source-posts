@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers.webp
 title: Recipe Spicy Meat Skewers Chimeraland
 type: post
-updated: 2022-10-06T02:46:55+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 726
 ---
 

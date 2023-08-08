@@ -28,7 +28,7 @@ tags:
 thumbnail: https://2.bp.blogspot.com/-UFidWzf_o3A/Xfp0n9U9c4I/AAAAAAAAAiI/Ve1ajQPHYdsVNKW9F8Rc8iPr0eLAYVeQgCLcBGAsYHQ/s1600/Screenshot_1.png
 title: Glowing Text Loading Animation
 type: post
-updated: 2019-12-31T01:50:05+07:00
+updated: 2023-08-08T14:45:16+07:00
 uuid: 862e19a4-fdf1-4888-8d3b-b2616fe48ad3
 wordcount: 406
 ---

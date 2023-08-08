@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/vegetable-patty/vegetable-patty.webp
 title: Recipe Vegetable Patty Chimeraland
 type: post
-updated: 2022-10-06T11:46:56+07:00
+updated: 2023-08-08T14:44:23+07:00
 wordcount: 829
 ---
 

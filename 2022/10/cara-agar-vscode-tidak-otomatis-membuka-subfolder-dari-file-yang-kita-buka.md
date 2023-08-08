@@ -25,7 +25,7 @@ tags:
   - ide
 title: Cara agar VSCode tidak otomatis membuka subfolder dari file yang kita buka
 type: post
-updated: 2022-10-21T02:54:40+07:00
+updated: 2023-08-08T14:45:09+07:00
 wordcount: 354
 ---
 

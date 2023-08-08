@@ -28,7 +28,7 @@ tags:
 thumbnail: /chimeraland/recipes/fried-tenderloin/fried-tenderloin.webp
 title: Recipe Fried Tenderloin Chimeraland
 type: post
-updated: 2022-10-06T09:46:56+07:00
+updated: 2023-08-08T14:44:28+07:00
 wordcount: 1085
 ---
 

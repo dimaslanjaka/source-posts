@@ -19,7 +19,7 @@ tags:
 thumbnail: /2022/10/fix-ts-node-typeerror-unknown-file-extension-ts/cover.png
 title: Fix ts-node TypeError ERR_UNKNOWN_FILE_EXTENSION Unknown file extension .ts
 type: post
-updated: 2023-08-08T14:07:42+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 381
 ---
 

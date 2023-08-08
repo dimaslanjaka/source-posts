@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/scallion/scallion.webp
 title: Material Scallion Chimeraland
 type: post
-updated: 2022-10-04T04:26:37+07:00
+updated: 2023-08-08T14:44:50+07:00
 wordcount: 1553
 ---
 

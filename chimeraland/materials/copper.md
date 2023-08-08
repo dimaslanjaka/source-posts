@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/copper/copper.webp
 title: Material Copper Chimeraland
 type: post
-updated: 2022-09-29T08:26:37+07:00
+updated: 2023-08-08T14:44:58+07:00
 wordcount: 1103
 ---
 

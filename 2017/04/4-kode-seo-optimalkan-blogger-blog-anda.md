@@ -25,7 +25,7 @@ tags:
 thumbnail: https://i2.wp.com/legeeks.org/wp-content/uploads/2013/12/1.jpg?resize=427%2C281
 title: 4 Kode SEO Optimalkan Blogger Blog Anda
 type: post
-updated: 2017-04-15T04:55:00+07:00
+updated: 2023-08-08T14:46:02+07:00
 uuid: dae4d2eb-cc40-4888-8a3c-0d92ae248799
 wordcount: 6821
 ---

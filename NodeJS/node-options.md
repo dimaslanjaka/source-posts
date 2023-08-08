@@ -25,7 +25,7 @@ tags:
 thumbnail: https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
 title: All About NodeJS Configurations
 type: post
-updated: 2022-12-29T14:25:47+07:00
+updated: 2023-08-08T14:44:15+07:00
 uuid: 586f70e0-6dec-4888-8cac-99671aad2296
 wordcount: 721
 ---

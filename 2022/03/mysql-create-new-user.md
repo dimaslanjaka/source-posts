@@ -27,7 +27,7 @@ tags:
 thumbnail: /2022/03/mysql-create-new-user/phpmyadmin-changepw.png
 title: MySQL Command to create new database user
 type: post
-updated: 2022-03-26
+updated: 2023-08-08T14:45:09+07:00
 wordcount: 595
 ---
 

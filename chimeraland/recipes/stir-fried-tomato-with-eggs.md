@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs.webp
 title: Recipe Stir-Fried Tomato With Eggs Chimeraland
 type: post
-updated: 2022-10-06T21:46:55+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 835
 ---
 

@@ -30,7 +30,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://topjavatutorial.com/wp-content/uploads/2016/08/consolelog.png
 title: "[JS] Print console log into div"
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:32+07:00
 uuid: e680a9ca-1abf-4888-8602-dea9131a390b
 wordcount: 244
 ---

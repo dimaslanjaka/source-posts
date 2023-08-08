@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/magnificent-horn/magnificent-horn.webp
 title: Material Magnificent Horn Chimeraland
 type: post
-updated: 2022-10-03T01:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 1478
 ---
 

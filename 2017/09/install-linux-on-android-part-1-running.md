@@ -24,7 +24,7 @@ tags:
 thumbnail: https://image.ibb.co/fFtDUF/unnamed_5.png
 title: Install Linux on the Android part 1-running Linux Ubuntu/Xenial on Android
 type: post
-updated: 2017-09-02T16:24:38+07:00
+updated: 2023-08-08T14:45:47+07:00
 uuid: 538f7e86-39b8-4888-86a9-a37c219c1c1c
 wordcount: 5363
 ---

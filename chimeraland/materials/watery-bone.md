@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/watery-bone/watery-bone.webp
 title: Material Watery Bone Chimeraland
 type: post
-updated: 2022-10-01T21:26:37+07:00
+updated: 2023-08-08T14:44:48+07:00
 wordcount: 1097
 ---
 

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/grilled-brains/grilled-brains.webp
 title: Recipe Grilled Brains Chimeraland
 type: post
-updated: 2022-10-05T10:46:54+07:00
+updated: 2023-08-08T14:44:27+07:00
 wordcount: 644
 ---
 

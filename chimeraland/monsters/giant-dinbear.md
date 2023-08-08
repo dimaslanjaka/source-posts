@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-dinbear/Screenshot_2023-08-06-23-36-52-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster giant dinbear
 type: post
-updated: 2023-08-07T04:11:28+07:00
+updated: 2023-08-08T14:44:42+07:00
 webtitle: chimeraland
 wordcount: 1237
 ---

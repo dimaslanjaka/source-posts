@@ -25,7 +25,7 @@ tags:
   - script
 title: What is /dev/null in shell command ?
 type: post
-updated: 2023-02-24T16:39:30+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 375
 ---
 

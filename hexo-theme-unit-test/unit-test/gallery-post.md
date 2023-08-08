@@ -28,7 +28,7 @@ tags: []
 thumbnail: /assets/wallpaper-2572384.jpg
 title: Gallery Post
 type: post
-updated: 2013-12-25T00:16:18+07:00
+updated: 2023-08-08T14:44:22+07:00
 wordcount: 52
 ---
 

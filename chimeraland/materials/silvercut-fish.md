@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/silvercut-fish/silvercut-fish.webp
 title: Material Silvercut Fish Chimeraland
 type: post
-updated: 2022-10-07T05:26:37+07:00
+updated: 2023-08-08T14:44:50+07:00
 wordcount: 869
 ---
 

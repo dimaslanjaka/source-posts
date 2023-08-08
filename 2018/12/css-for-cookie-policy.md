@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: CSS for a cookie policy
 type: post
-updated: 2018-12-17T02:59:14+07:00
+updated: 2023-08-08T14:45:35+07:00
 uuid: 56adff63-204d-4888-8b52-b688ca528cf8
 wordcount: 192
 ---

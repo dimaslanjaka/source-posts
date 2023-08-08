@@ -31,7 +31,7 @@ tags:
 thumbnail: https://imgdb.net/images/4271.png
 title: Install deb package via Termux
 type: post
-updated: 2018-11-12T12:47:16+07:00
+updated: 2023-08-08T14:45:39+07:00
 uuid: f13b28f1-d723-4888-8805-83771a68b9fc
 wordcount: 973
 ---

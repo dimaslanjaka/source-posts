@@ -23,7 +23,7 @@ tags: []
 title: MathJax Playground
 type: post
 update: 2022-10-12T14:01:11.000Z
-updated: 2022-10-16T02:52:43+07:00
+updated: 2023-08-08T14:44:16+07:00
 wordcount: 203
 ---
 

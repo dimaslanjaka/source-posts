@@ -25,7 +25,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: How to Play Durango Wild Lands on PC
 type: post
-updated: 2018-08-05T06:17:10+07:00
+updated: 2023-08-08T14:45:40+07:00
 uuid: 809c8265-5109-4888-8dac-17fc31be5b72
 wordcount: 1679
 ---

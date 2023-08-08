@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://sugeng.id/blog/wp-content/uploads/2015/02/SEO-400x386.png
 title: This is the Impact SEO For Your Site
 type: post
-updated: 2017-04-10T12:42:02+07:00
+updated: 2023-08-08T14:45:58+07:00
 uuid: df3891e7-44f9-4888-8c0e-8fea8473b5a2
 wordcount: 2277
 ---

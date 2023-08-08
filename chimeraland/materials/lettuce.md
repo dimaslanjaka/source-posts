@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/lettuce/lettuce.webp
 title: Material Lettuce Chimeraland
 type: post
-updated: 2022-10-04T23:26:37+07:00
+updated: 2023-08-08T14:44:54+07:00
 wordcount: 511
 ---
 

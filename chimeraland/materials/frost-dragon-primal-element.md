@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/frost-dragon-primal-element/frost-dragon-primal-element.webp
 title: Material Frost Dragon Primal Element Chimeraland
 type: post
-updated: 2022-10-10T10:26:37+07:00
+updated: 2023-08-08T14:44:56+07:00
 wordcount: 805
 ---
 

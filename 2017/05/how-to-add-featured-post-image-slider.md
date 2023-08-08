@@ -25,7 +25,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-vBmmKKOdix4/V510voCoYqI/AAAAAAAAPNk/gttSjmyHe3Q9trg2yO_FF8HnxFws0P7VgCLcB/s320/featured%2Bpost%2Bimage%2Bslider%2Botomatis%2Bblogger.JPG
 title: How to add Featured Post Image Slider Widget Blogger
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:57+07:00
 uuid: a26fc0cb-d479-4888-8820-491f84f7573e
 wordcount: 4302
 ---

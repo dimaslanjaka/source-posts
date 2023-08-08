@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/attendants/vulendel/Screenshot_2023-07-01-15-11-23-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant vulendel
 type: post
-updated: 2023-08-06T22:00:21+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 1201
 ---

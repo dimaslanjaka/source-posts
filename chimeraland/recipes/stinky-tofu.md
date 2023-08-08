@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/stinky-tofu/stinky-tofu.webp
 title: Recipe Stinky Tofu Chimeraland
 type: post
-updated: 2022-10-05T07:47:00+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 660
 ---
 

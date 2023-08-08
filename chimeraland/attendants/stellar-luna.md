@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/attendants/stellar-luna/Screenshot_2023-02-13-16-35-10-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant stellar luna
 type: post
-updated: 2023-02-17T00:53:20+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 670
 ---

@@ -25,7 +25,7 @@ tags:
 thumbnail: https://2.bp.blogspot.com/-vz_NgjmMup4/VR6qQOfliiI/AAAAAAAAA0g/ps8xLzLvGwM/s1600/advertise-here.jpg
 title: How To Add Ads On Blogger With Double Clicks Close
 type: post
-updated: 2017-04-11T06:14:45+07:00
+updated: 2023-08-08T14:46:00+07:00
 uuid: 87e5ba7e-dab9-4888-84e8-3d0244d1cfbe
 wordcount: 1167
 ---

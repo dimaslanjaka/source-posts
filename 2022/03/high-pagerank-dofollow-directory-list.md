@@ -18,7 +18,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.forbesindia.com/media/images/2020/Sep/img_143399_backlinks900x600.jpg
 title: High Pagerank Dofollow Directory List
 type: post
-updated: 2022-04-09T15:37:49+0000
+updated: 2023-08-08T14:45:10+07:00
 wordcount: 1497
 ---
 

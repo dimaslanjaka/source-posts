@@ -22,7 +22,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png/revision/latest
 title: Starconch Location
 type: post
-updated: 2021-12-19T06:32:29+07:00
+updated: 2023-08-08T14:44:23+07:00
 uuid: f300e9d4-361e-4888-80b7-8338c028d93a
 wordcount: 644
 ---

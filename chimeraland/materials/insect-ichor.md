@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/insect-ichor/insect-ichor.webp
 title: Material Insect Ichor Chimeraland
 type: post
-updated: 2022-10-01T00:26:37+07:00
+updated: 2023-08-08T14:44:54+07:00
 wordcount: 4973
 ---
 

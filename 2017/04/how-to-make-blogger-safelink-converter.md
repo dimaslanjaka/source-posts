@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.marwanto606.xyz/wp-content/uploads/2016/02/blogger-safelink.png
 title: How to Make Blogger Safelink Converter v3
 type: post
-updated: 2020-01-21T02:10:38+07:00
+updated: 2023-08-08T14:45:59+07:00
 uuid: 102470c4-cd9e-4888-8e1f-fb9c2d8d0255
 wordcount: 4309
 ---

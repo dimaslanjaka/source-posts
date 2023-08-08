@@ -22,7 +22,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Project lists for beginner
 type: post
-updated: 2020-03-17T17:13:59+07:00
+updated: 2023-08-08T14:45:13+07:00
 uuid: 670af53e-ad3c-4888-8ca9-2dbc0c85dd2e
 wordcount: 19
 ---

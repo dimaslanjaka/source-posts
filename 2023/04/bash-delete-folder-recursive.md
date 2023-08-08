@@ -25,7 +25,7 @@ tags:
   - script
 title: bash script delete folder recursively
 type: post
-updated: 2023-04-13T16:17:00+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 416
 ---
 

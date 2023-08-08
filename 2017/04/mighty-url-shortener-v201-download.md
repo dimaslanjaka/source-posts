@@ -24,7 +24,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.jojothemes.com/wp-content/uploads/2016/07/Mighty-URL-Shortener-v1.0.1-%E2%80%93-Short-URL-Script.jpg
 title: Mighty URL Shortener v2.0.1 Download
 type: post
-updated: 2017-04-10T07:45:16+07:00
+updated: 2023-08-08T14:45:58+07:00
 uuid: 5325f6b5-9bfc-4888-8ae1-8fd551f8ca97
 wordcount: 1062
 ---

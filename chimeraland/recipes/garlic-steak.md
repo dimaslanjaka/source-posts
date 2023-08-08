@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/garlic-steak/garlic-steak.webp
 title: Recipe Garlic Steak Chimeraland
 type: post
-updated: 2022-10-05T14:46:55+07:00
+updated: 2023-08-08T14:44:28+07:00
 wordcount: 669
 ---
 

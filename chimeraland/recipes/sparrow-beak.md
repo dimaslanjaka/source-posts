@@ -24,7 +24,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sparrow Beak
 title: Recipe Sparrow Beak Chimeraland
 type: post
-updated: 2022-09-29T19:26:37+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 834
 ---
 

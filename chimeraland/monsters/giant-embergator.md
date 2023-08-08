@@ -33,7 +33,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-embergator/Screenshot_2023-02-25-00-52-27-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster giant embergator
 type: post
-updated: 2023-03-11T00:30:18+07:00
+updated: 2023-08-08T14:44:42+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

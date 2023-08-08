@@ -27,7 +27,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Facebook auto like beranda 2018 work
 type: post
-updated: 2018-11-20T16:37:41+07:00
+updated: 2023-08-08T14:45:41+07:00
 uuid: 9a77a55f-7fe9-4888-8512-6dadfc96f324
 wordcount: 238
 ---

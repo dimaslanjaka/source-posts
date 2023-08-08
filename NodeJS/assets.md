@@ -16,7 +16,7 @@ subtitle: NodeJS assets just assets folder
 tags: []
 title: NodeJS assets
 type: page
-updated: 2017-01-11T12:37:27+07:00
+updated: 2023-08-08T14:44:15+07:00
 wordcount: 7
 ---
 

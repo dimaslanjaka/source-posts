@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat.webp
 title: Recipe Fruity Grilled Meat Chimeraland
 type: post
-updated: 2022-10-05T09:46:54+07:00
+updated: 2023-08-08T14:44:28+07:00
 wordcount: 759
 ---
 

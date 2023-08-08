@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Difficult Signal Film 2017 Subtitle Indonesia Movie
 type: post
-updated: 2019-01-31T00:49:01+07:00
+updated: 2023-08-08T14:45:34+07:00
 uuid: f3469b99-66f9-4888-8b1f-e0e63872bcab
 wordcount: 518
 ---

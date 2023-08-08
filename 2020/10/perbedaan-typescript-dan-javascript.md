@@ -25,7 +25,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://miro.medium.com/max/940/1*MfrpVoJuWJz8vyXVJDHUvA.png
 title: Perbedaan typescript dan javascript secara rinci
 type: post
-updated: 2021-05-14T04:54:22+07:00
+updated: 2023-08-08T14:45:11+07:00
 uuid: 357dabaa-3b5a-4888-8631-67cb73c97af5
 wordcount: 745
 ---

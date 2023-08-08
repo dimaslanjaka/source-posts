@@ -31,7 +31,7 @@ tags:
 thumbnail: /NodeJS/assets/pngwing.com.png
 title: HexoJS get posts by tags or categories
 type: post
-updated: 2023-01-03T00:52:22+07:00
+updated: 2023-08-08T14:44:21+07:00
 wordcount: 817
 ---
 

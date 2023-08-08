@@ -22,7 +22,7 @@ tags:
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8zV44YvCSI-H-ZORzXuVh4MXW0hDc7tECPrChm8Mtz_TyFDMofUn7uLIBQ
 title: Cara Menambahkan Google Translate Ke Halaman AMP
 type: post
-updated: 2020-01-09T03:13:31+07:00
+updated: 2023-08-08T14:46:01+07:00
 uuid: 140ba271-70c9-4888-8323-7992dcca3775
 wordcount: 483
 ---

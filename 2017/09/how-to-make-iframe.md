@@ -30,7 +30,7 @@ tags:
 thumbnail: https://imgdb.net/images/3196.jpg
 title: HOW TO MAKE IFRAME
 type: post
-updated: 2017-09-27T02:03:01+07:00
+updated: 2023-08-08T14:45:47+07:00
 uuid: 5dc6d6d0-6f25-4888-8fff-55dab64969dd
 wordcount: 534
 ---

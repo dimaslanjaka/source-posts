@@ -35,7 +35,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://cdn.woorkup.com/wp-content/uploads/2013/09/submit-website-to-bing-1024x513.png
 title: Cara Menggunakan Bing Webmaster Tools
 type: post
-updated: 2017-10-21T10:38:03+07:00
+updated: 2023-08-08T14:45:44+07:00
 uuid: 67859f94-1f65-4888-883b-6072b55a4f0d
 wordcount: 751
 ---

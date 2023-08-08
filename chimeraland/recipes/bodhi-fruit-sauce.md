@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce.webp
 title: Recipe Bodhi Fruit Sauce Chimeraland
 type: post
-updated: 2022-09-29T02:26:37+07:00
+updated: 2023-08-08T14:44:30+07:00
 wordcount: 691
 ---
 

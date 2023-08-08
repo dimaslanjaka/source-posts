@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/monsters/fire-lobcray/Screenshot_2023-04-02-10-27-13-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster fire lobcray
 type: post
-updated: 2023-05-23T11:14:34+07:00
+updated: 2023-08-08T14:44:44+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

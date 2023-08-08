@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/stonespot-fish/stonespot-fish.webp
 title: Material Stonespot Fish Chimeraland
 type: post
-updated: 2022-10-07T06:26:37+07:00
+updated: 2023-08-08T14:44:49+07:00
 wordcount: 928
 ---
 

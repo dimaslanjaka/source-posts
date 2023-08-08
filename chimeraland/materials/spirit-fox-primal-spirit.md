@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/spirit-fox-primal-spirit/spirit-fox-primal-spirit.webp
 title: Material Spirit Fox Primal Spirit Chimeraland
 type: post
-updated: 2022-10-03T18:26:37+07:00
+updated: 2023-08-08T14:44:49+07:00
 wordcount: 1809
 ---
 

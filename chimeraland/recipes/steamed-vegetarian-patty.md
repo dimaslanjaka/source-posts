@@ -28,7 +28,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Steamed Vegetarian Patty
 title: Recipe Steamed Vegetarian Patty Chimeraland
 type: post
-updated: 2022-09-28T22:26:37+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 995
 ---
 

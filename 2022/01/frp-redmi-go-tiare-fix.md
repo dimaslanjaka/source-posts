@@ -26,7 +26,7 @@ tags:
 thumbnail: /2022/01/04/frp-redmi-go-tiare-fix/cover.jpg
 title: Fix FRP Redmi GO Tiare Via MiFlash
 type: post
-updated: 2023-01-05T16:45:55+07:00
+updated: 2023-08-08T14:45:10+07:00
 wordcount: 315
 ---
 

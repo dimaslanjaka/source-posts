@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://drakorstation.com/wp-content/uploads/2018/08/Signal-Subtitle-Indonesia.png
 title: Download Drama Korea Signal Subtitle Indonesia 1 - 16end
 type: post
-updated: 2019-09-25T15:34:32+07:00
+updated: 2023-08-08T14:45:29+07:00
 uuid: 7545ffbe-17cc-4888-89ef-6d054f9e0258
 wordcount: 3707
 ---

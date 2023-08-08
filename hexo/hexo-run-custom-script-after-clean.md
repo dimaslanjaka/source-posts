@@ -30,7 +30,7 @@ tags:
   - javascript
 title: hexo run custom script after clean
 type: post
-updated: 2023-06-13T01:22:19+07:00
+updated: 2023-08-08T14:44:18+07:00
 wordcount: 185
 ---
 

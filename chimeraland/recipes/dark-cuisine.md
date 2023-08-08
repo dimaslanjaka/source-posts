@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/dark-cuisine/dark-cuisine.webp
 title: Recipe Dark Cuisine Chimeraland
 type: post
-updated: 2022-09-29T03:10:00+0700
+updated: 2023-08-08T14:44:29+07:00
 wordcount: 1740
 ---
 

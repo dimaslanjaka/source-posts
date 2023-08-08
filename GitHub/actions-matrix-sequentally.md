@@ -28,7 +28,7 @@ tags:
   - matrix
 title: Github Workflows Run Strategy Matrix Sequentally
 type: post
-updated: 2023-01-03T01:02:36+07:00
+updated: 2023-08-08T14:44:19+07:00
 wordcount: 349
 ---
 

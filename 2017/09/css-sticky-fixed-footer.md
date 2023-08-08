@@ -20,7 +20,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: CSS Sticky Fixed Footer
 type: post
-updated: 2017-09-06T16:43:20+07:00
+updated: 2023-08-08T14:45:47+07:00
 uuid: 09ccd22c-2402-4888-8b50-beca1a541934
 wordcount: 243
 ---

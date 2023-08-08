@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: css keren untuk blockquote tag
 type: post
-updated: 2017-04-11T15:56:03+07:00
+updated: 2023-08-08T14:46:01+07:00
 uuid: 8e1d8e9d-156d-4888-8c52-c89f5acc47b1
 wordcount: 1207
 ---

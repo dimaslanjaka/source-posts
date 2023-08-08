@@ -21,7 +21,7 @@ tags: []
 title: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo
   turpis, tincidunt ac convallis id.
 type: post
-updated: 2013-12-24T23:31:06+07:00
+updated: 2023-08-08T14:44:21+07:00
 wordcount: 34
 ---
 

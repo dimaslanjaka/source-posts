@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/attendants/lunar-twinkle/Screenshot_2023-03-02-04-22-54-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant lunar twinkle
 type: post
-updated: 2023-03-11T02:30:17+07:00
+updated: 2023-08-08T14:45:05+07:00
 webtitle: chimeraland
 wordcount: 1237
 ---

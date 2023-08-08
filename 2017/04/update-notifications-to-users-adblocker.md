@@ -24,7 +24,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-JkpTNtGOMaE/WJoMX1QnTmI/AAAAAAAAHBE/CPdxv-D-Xa0bdghE1HwdwkC1bHp9OA9EgCLcB/s640/How%2BTo%2BMake%2BAdsense%2BAdBlocker%2BNotifications.png
 title: Update Notifications To Users AdBlocker Adsense
 type: post
-updated: 2017-04-15T01:00:14+07:00
+updated: 2023-08-08T14:45:58+07:00
 uuid: 02365894-ddcd-4888-8ed6-4b95ea2ef5fb
 wordcount: 1938
 ---

@@ -36,7 +36,7 @@ tags:
 thumbnail: /chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster Mukrider
 type: post
-updated: 2022-10-01T19:18:27+07:00
+updated: 2023-08-08T14:44:36+07:00
 webtitle: chimeraland
 wordcount: 1410
 ---

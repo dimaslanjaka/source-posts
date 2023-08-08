@@ -32,7 +32,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-J1AEEzKm7nw/WPoyJbtEpbI/AAAAAAAAFKI/QAv38U0jjIstJfVpQtVyDX6lBpgs9WNbACLcB/s320/Screenshot_2017-04-21-23-23-36.jpg
 title: Stylish Full Sitemap Blogger
 type: post
-updated: 2019-07-25T23:57:42+07:00
+updated: 2023-08-08T14:45:34+07:00
 uuid: ba076905-bbac-4888-8b54-b6644506681b
 wordcount: 347
 ---

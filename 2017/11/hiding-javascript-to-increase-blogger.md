@@ -24,7 +24,7 @@ tags:
 thumbnail: https://lh5.googleusercontent.com/proxy/zOJPQmOxXy895GIkyGjPcsnz3xVCQZGUJhgMGWk2BJS4JNQcjbpMUA9IeG5TdHv9Yv0q5USG8ipopidYGRGZUZgo-yGy2zPcevf0iMrMACluVNuYUgrAOQ=w300-h300-nc
 title: Hiding javascript to increase blogger blog speed
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:43+07:00
 uuid: 03edbb56-cb36-4888-8644-056f684badbd
 wordcount: 1346
 ---

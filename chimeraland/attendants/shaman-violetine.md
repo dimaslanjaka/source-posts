@@ -34,7 +34,7 @@ tags:
 thumbnail: /chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant shaman violetine
 type: post
-updated: 2023-03-28T09:10:08+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 1237
 ---

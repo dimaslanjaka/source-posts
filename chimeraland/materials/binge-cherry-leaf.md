@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/binge-cherry-leaf/binge-cherry-leaf.webp
 title: Material Binge Cherry Leaf Chimeraland
 type: post
-updated: 2022-10-05T23:26:37+07:00
+updated: 2023-08-08T14:45:00+07:00
 wordcount: 1158
 ---
 

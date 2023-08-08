@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/5963.png
 title: Lazy load images blogger
 type: post
-updated: 2019-08-01T00:05:01+07:00
+updated: 2023-08-08T14:45:29+07:00
 uuid: 2314fa90-b3fc-4888-8acc-cc21e65058ad
 wordcount: 872
 ---

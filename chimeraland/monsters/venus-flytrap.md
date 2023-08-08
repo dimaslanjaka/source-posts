@@ -37,7 +37,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Venus Flytrap
 title: Monster Venus Flytrap
 type: post
-updated: 2023-05-25T18:18:12+07:00
+updated: 2023-08-08T14:44:31+07:00
 webtitle: chimeraland
 wordcount: 1578
 ---

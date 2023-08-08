@@ -25,7 +25,7 @@ tags:
 thumbnail: https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021111001_cover.jpg
 title: F2P Guide
 type: post
-updated: 2021-12-03T19:06:19+07:00
+updated: 2023-08-08T14:44:13+07:00
 uuid: d6337782-e225-4888-8fca-4207d72f764f
 webtitle: Seven Knights 2
 wordcount: 35228

@@ -26,7 +26,7 @@ subtitle: Code Highlight Style test Make sure all the code blocks highlighted
 tags: []
 title: Code Highlight Style test
 type: post
-updated: 2019-07-25T16:43:00+07:00
+updated: 2023-08-08T14:44:22+07:00
 wordcount: 2042
 ---
 

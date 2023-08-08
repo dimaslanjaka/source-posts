@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-34-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster giant piranha
 type: post
-updated: 2023-03-28T10:10:08+07:00
+updated: 2023-08-08T14:44:41+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

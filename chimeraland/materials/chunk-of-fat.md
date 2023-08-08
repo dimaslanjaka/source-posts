@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/chunk-of-fat/chunk-of-fat.webp
 title: Material Chunk of Fat Chimeraland
 type: post
-updated: 2022-09-29T19:26:37+07:00
+updated: 2023-08-08T14:44:59+07:00
 wordcount: 7214
 ---
 

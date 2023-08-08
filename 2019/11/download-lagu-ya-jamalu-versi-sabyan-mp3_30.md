@@ -23,7 +23,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/a11c430bcb15312e114ae421565c8300.jpeg
 title: Download lagu YA JAMALU Versi SABYAN Mp3
 type: post
-updated: 2019-11-30T17:58:37+07:00
+updated: 2023-08-08T14:45:25+07:00
 uuid: c2dc7c54-76eb-4888-8f7f-fcaf06ec7c51
 wordcount: 2528
 ---

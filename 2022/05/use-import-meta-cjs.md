@@ -18,7 +18,7 @@ tags:
   - commonjs
 title: How to use import.meta on typescript hybrid compiler
 type: post
-updated: 2022-10-10T03:20:00+0700
+updated: 2023-08-08T14:45:09+07:00
 wordcount: 3831
 ---
 

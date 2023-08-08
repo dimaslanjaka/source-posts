@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: HTML Select Complete Countries
 type: post
-updated: 2020-10-28T14:19:08+07:00
+updated: 2023-08-08T14:45:11+07:00
 uuid: 9dbda671-6a2c-4888-8f0a-43b0a9bd3163
 wordcount: 963
 ---

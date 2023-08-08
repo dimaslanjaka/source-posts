@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/moose-meat/moose-meat.webp
 title: Material Moose Meat Chimeraland
 type: post
-updated: 2022-09-29T23:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 1387
 ---
 

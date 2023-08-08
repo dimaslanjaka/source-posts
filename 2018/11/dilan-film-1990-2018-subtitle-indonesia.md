@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Dilan Film 1990 2018 Subtitle Indonesia Movie
 type: post
-updated: 2018-11-19T02:25:26+07:00
+updated: 2023-08-08T14:45:39+07:00
 uuid: d4a60931-1ae0-4888-89ed-72b59d8cada3
 wordcount: 854
 ---

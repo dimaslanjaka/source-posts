@@ -18,7 +18,7 @@ subtitle: Link Post This is a link post. Clicking on the link should open Google
 tags: []
 title: Link Post
 type: post
-updated: 2013-12-24T23:30:04+07:00
+updated: 2023-08-08T14:44:17+07:00
 wordcount: 52
 ---
 

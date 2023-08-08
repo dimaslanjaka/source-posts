@@ -28,7 +28,7 @@ tags:
 thumbnail: /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms.webp
 title: Recipe Spiced Mushrooms Chimeraland
 type: post
-updated: 2022-10-06T13:46:55+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 636
 ---
 

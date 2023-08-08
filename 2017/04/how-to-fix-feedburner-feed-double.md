@@ -25,7 +25,7 @@ tags:
 thumbnail: https://lh4.googleusercontent.com/proxy/OpPDt025N-7dF5nwAf8tkrBp0OX9NtsuZ7n-yatXnVPGYd4zDaTeUaUFavXyJVHQ7SbiPaDDZjg0ofk6nIcZZluTC6pVI3VDJgB6oW7oiu7OqdvER9xoLOfs57kodu4115sRRnrJGnOia-e_ugI_aUU
 title: How to fix Feedburner feed double titles issue
 type: post
-updated: 2017-04-22T23:30:11+07:00
+updated: 2023-08-08T14:46:00+07:00
 uuid: 1a0abc3e-65d6-4888-8542-07d2cbc02188
 wordcount: 2233
 ---

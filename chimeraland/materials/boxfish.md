@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/boxfish/boxfish.webp
 title: Material Boxfish Chimeraland
 type: post
-updated: 2022-10-08T07:26:37+07:00
+updated: 2023-08-08T14:44:59+07:00
 wordcount: 844
 ---
 

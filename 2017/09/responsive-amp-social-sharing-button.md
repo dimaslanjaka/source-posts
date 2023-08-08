@@ -33,7 +33,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-PfigKHqV7j0/WaRrYLCXHVI/AAAAAAAAACY/o3ygO6g556I05TKO6xT2Xahym5NTp-ArQCLcBGAs/s320/images%2B%252810%2529.jpg
 title: Responsive AMP Social Sharing Button
 type: post
-updated: 2017-09-16T02:15:12+07:00
+updated: 2023-08-08T14:45:46+07:00
 uuid: 5594609c-4b54-4888-892c-5cce2523369c
 wordcount: 1175
 ---

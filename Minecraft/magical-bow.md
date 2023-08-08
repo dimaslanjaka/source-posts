@@ -20,7 +20,7 @@ tags: []
 thumbnail: https://i.ytimg.com/vi/sSnrK7m2RFo/maxresdefault.jpg
 title: Magical Book For Bow
 type: post
-updated: 2022-03-20T20:57:28+07:00
+updated: 2023-08-08T14:44:15+07:00
 uuid: a4619a8b-d625-4888-8e18-5569e773bd85
 webtitle: Minecraft
 wordcount: 1013

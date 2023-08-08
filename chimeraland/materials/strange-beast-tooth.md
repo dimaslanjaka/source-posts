@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/strange-beast-tooth/strange-beast-tooth.webp
 title: Material Strange Beast Tooth Chimeraland
 type: post
-updated: 2022-10-01T07:26:37+07:00
+updated: 2023-08-08T14:44:49+07:00
 wordcount: 1129
 ---
 

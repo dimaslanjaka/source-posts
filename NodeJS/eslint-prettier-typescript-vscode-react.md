@@ -23,7 +23,7 @@ tags:
 thumbnail: https://miro.medium.com/max/1400/1*N9n5F63ne3HimpJ10d1HEw.jpeg
 title: Eslint Prettier Auto Format In Typescript React Project
 type: post
-updated: 2022-10-16T08:52:12+07:00
+updated: 2023-08-08T14:44:15+07:00
 wordcount: 1509
 ---
 

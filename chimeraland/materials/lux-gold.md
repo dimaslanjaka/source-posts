@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/lux-gold/lux-gold.webp
 title: Material Lux Gold Chimeraland
 type: post
-updated: 2022-09-29T15:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 1147
 ---
 

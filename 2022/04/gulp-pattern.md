@@ -13,7 +13,7 @@ subtitle: macam-macam source pattern pada gulp
 tags: []
 title: gulp src pattern
 type: post
-updated: 2022-04-01T17:34:31+0000
+updated: 2023-08-08T14:45:09+07:00
 webtitle: NodeJS
 wordcount: 238
 ---

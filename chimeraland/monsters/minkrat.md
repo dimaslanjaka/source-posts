@@ -22,7 +22,7 @@ tags:
   - pet
 title: Monster Minkrat
 type: post
-updated: 2022-10-01T03:18:27+07:00
+updated: 2023-08-08T14:44:37+07:00
 webtitle: chimeraland
 wordcount: 551
 ---

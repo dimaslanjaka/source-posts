@@ -23,7 +23,7 @@ tags:
 thumbnail: https://www.svgrepo.com/show/84714/php.svg
 title: "[PHP] Function get_meta_tags Helper"
 type: post
-updated: 2022-04-18
+updated: 2023-08-08T14:45:41+07:00
 uuid: a0392d1b-fa82-4888-812e-4f460e19dc81
 webtitle: PHP
 wordcount: 1600

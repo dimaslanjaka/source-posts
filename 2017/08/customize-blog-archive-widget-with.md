@@ -24,7 +24,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-GV7abCMrwuY/VFjH5bdO0II/AAAAAAAAHgI/zvsV7trZFXY/s1600/archive%2Bcopy.jpg
 title: Customize Blog Archive Widget With Scrollbar
 type: post
-updated: 2017-08-03T16:06:00+07:00
+updated: 2023-08-08T14:45:49+07:00
 uuid: 07b42ba8-12ac-4888-8539-1a68544878e7
 wordcount: 1040
 ---

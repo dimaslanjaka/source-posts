@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/stewed-liver/stewed-liver.webp
 title: Recipe Stewed Liver Chimeraland
 type: post
-updated: 2022-10-06T08:46:56+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 1752
 ---
 

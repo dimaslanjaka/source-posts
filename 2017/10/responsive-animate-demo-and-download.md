@@ -21,7 +21,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Responsive Animate Demo And Download Button
 type: post
-updated: 2017-10-08T21:54:06+07:00
+updated: 2023-08-08T14:45:44+07:00
 uuid: 10a61185-7361-4888-8d41-584f1fe465e8
 wordcount: 55
 ---

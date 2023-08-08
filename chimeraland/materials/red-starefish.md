@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/red-starefish/red-starefish.webp
 title: Material Red Starefish Chimeraland
 type: post
-updated: 2022-10-06T11:26:37+07:00
+updated: 2023-08-08T14:44:51+07:00
 wordcount: 850
 ---
 

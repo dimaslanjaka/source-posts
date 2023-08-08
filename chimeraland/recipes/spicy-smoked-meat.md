@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/spicy-smoked-meat/spicy-smoked-meat.webp
 title: Recipe Spicy Smoked Meat Chimeraland
 type: post
-updated: 2022-10-06T19:46:55+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 702
 ---
 

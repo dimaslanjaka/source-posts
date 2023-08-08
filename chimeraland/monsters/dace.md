@@ -25,7 +25,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Dace
 title: Monster Dace
 type: post
-updated: 2023-05-25T14:12:12+07:00
+updated: 2023-08-08T14:44:45+07:00
 webtitle: chimeraland
 wordcount: 603
 ---

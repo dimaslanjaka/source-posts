@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/garlic-braised-meat/garlic-braised-meat.webp
 title: Recipe Garlic Braised Meat Chimeraland
 type: post
-updated: 2022-10-06T01:46:54+07:00
+updated: 2023-08-08T14:44:28+07:00
 wordcount: 1547
 ---
 

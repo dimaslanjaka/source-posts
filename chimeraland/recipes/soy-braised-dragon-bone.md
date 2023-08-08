@@ -28,7 +28,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Soy Braised Dragon Bone
 title: Recipe Soy Braised Dragon Bone Chimeraland
 type: post
-updated: 2022-09-29T18:26:37+07:00
+updated: 2023-08-08T14:44:25+07:00
 wordcount: 935
 ---
 

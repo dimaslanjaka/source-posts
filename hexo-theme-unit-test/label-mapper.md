@@ -4,7 +4,7 @@ categories:
   - js
   - ts
 comments: true
-date: 2023-08-08T14:25:40+07:00
+date: 2023-08-08T14:44:17+07:00
 description: Label Mapper replace label JS to javascript JS javascript replace
   label TS to typescript TS typescript this post label should be [typescript,
   javascript] [typescript, javascript]
@@ -22,7 +22,7 @@ tags:
   - ts
 title: Label Mapper
 type: post
-updated: 2023-08-08T14:25:40+07:00
+updated: 2023-08-08T14:44:17+07:00
 wordcount: 44
 ---
 

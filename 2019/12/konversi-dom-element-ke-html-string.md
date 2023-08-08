@@ -24,7 +24,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Konversi DOM element ke HTML string
 type: post
-updated: 2019-12-28T11:57:05+07:00
+updated: 2023-08-08T14:45:16+07:00
 uuid: 686519e0-5fe3-4888-8d40-56b2cdf5ab57
 wordcount: 276
 ---

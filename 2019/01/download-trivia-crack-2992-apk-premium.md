@@ -22,7 +22,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2017/trivia-crack-1.png
 title: DOWNLOAD Trivia Crack 2.99.2 APK Premium  Mod Android download [Latest]
 type: post
-updated: 2019-01-15T11:50:01+07:00
+updated: 2023-08-08T14:45:33+07:00
 uuid: 3d3287c7-5871-4888-80b9-98abf5fe0dff
 wordcount: 2021
 ---

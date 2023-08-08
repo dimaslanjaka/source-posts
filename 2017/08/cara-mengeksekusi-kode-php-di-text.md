@@ -30,7 +30,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.wpstuffs.com/wp-content/uploads/2013/05/php-wordpress-300x197.jpg
 title: Cara mengeksekusi kode PHP di Text Widget tanpa menggunakan Plugin
 type: post
-updated: 2017-08-04T08:05:15+07:00
+updated: 2023-08-08T14:45:49+07:00
 uuid: a16325c4-c2d4-4888-8a05-4c7f0e2c5f0a
 wordcount: 328
 ---

@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/bear-paw/bear-paw.webp
 title: Material Bear Paw Chimeraland
 type: post
-updated: 2022-10-01T03:26:37+07:00
+updated: 2023-08-08T14:45:01+07:00
 wordcount: 2438
 ---
 

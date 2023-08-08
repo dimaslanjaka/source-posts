@@ -30,7 +30,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-bOCTNQhWzYA/WBmcYZFKW8I/AAAAAAAAAw0/V1juMdd-VWw8AUrPb8b7Wz8jDYdm1Vi0gCLcB/s400/HTTPS_for_custom_domains-min.png
 title: Activate HTTPS on Blogger third party Domain 100 Worked
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:57+07:00
 uuid: b62242c0-bf81-4888-87f9-1ef479200a4a
 wordcount: 9354
 ---

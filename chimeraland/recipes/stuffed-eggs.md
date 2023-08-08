@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/stuffed-eggs/stuffed-eggs.webp
 title: Recipe Stuffed Eggs Chimeraland
 type: post
-updated: 2022-10-05T16:46:56+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 682
 ---
 

@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: "[JS] Remove Object Keys"
 type: post
-updated: 2019-07-22T03:23:18+07:00
+updated: 2023-08-08T14:45:30+07:00
 uuid: ff3f29ce-21be-4888-8a47-11903673c0a9
 wordcount: 223
 ---

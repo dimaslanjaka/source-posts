@@ -17,7 +17,7 @@ tags:
   - script
 title: Script auto fishing Chimeraland
 type: post
-updated: 2023-03-05T06:29:01+07:00
+updated: 2023-08-08T14:44:19+07:00
 wordcount: 255
 ---
 

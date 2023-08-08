@@ -21,7 +21,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2016/mobile-legends-esports-moba-1.jpg
 title: "DOWNLOAD Mobile Legends: Bang Bang 1.3.31.3412 Apk  Mod Radar Hacked android"
 type: post
-updated: 2018-11-30T00:03:33+07:00
+updated: 2023-08-08T14:45:37+07:00
 uuid: 9007a7b5-2473-4888-8258-a4cfe67a0054
 wordcount: 3136
 ---

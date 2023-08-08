@@ -24,7 +24,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/312ac27e57227f85a47d1e4c5c00eed6.png
 title: 10 Strategi Pemasaran Situs Web Kreatif Untuk Pengusaha
 type: post
-updated: 2019-12-08T05:24:00+07:00
+updated: 2023-08-08T14:45:25+07:00
 uuid: 3a79e91b-4cbf-4888-8ba7-735113a688f1
 wordcount: 17208
 ---

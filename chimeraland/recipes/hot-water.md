@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/hot-water/hot-water.webp
 title: Recipe Hot Water Chimeraland
 type: post
-updated: 2022-10-05T18:46:55+07:00
+updated: 2023-08-08T14:44:26+07:00
 wordcount: 790
 ---
 

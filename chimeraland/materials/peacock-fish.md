@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/peacock-fish/peacock-fish.webp
 title: Material Peacock Fish Chimeraland
 type: post
-updated: 2022-10-06T17:26:37+07:00
+updated: 2023-08-08T14:44:52+07:00
 wordcount: 830
 ---
 

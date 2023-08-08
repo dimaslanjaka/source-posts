@@ -21,7 +21,7 @@ thumbnail: https://3.bp.blogspot.com/-JdPb9Jp1xSk/WODgW427ETI/AAAAAAAADb4/zLz2WL
 title: An alternative way to resolve the submit button is not working or return
   to home
 type: post
-updated: 2017-07-23T06:56:19+07:00
+updated: 2023-08-08T14:45:53+07:00
 uuid: 1183dfa0-4715-4888-81cf-0b937a3ca8dc
 wordcount: 878
 ---

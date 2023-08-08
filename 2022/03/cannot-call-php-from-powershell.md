@@ -17,7 +17,7 @@ tags:
 thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/https://windowstect.com/wp-content/uploads/2021/05/image-80.png
 title: Cannot run php on powershell
 type: post
-updated: 2022-03-27T01:30:00+0700
+updated: 2023-08-08T14:45:10+07:00
 wordcount: 1033
 ---
 

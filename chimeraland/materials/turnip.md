@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/turnip/turnip.webp
 title: Material Turnip Chimeraland
 type: post
-updated: 2022-10-04T21:26:37+07:00
+updated: 2023-08-08T14:44:48+07:00
 wordcount: 511
 ---
 

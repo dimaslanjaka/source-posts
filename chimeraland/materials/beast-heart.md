@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/beast-heart/beast-heart.webp
 title: Material Beast Heart Chimeraland
 type: post
-updated: 2022-09-30T23:26:37+07:00
+updated: 2023-08-08T14:45:01+07:00
 wordcount: 6522
 ---
 

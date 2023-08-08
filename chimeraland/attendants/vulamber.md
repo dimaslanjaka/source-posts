@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/attendants/vulamber/Screenshot_2022-07-14-00-55-12-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant Vulamber
 type: post
-updated: 2022-09-29T14:26:37+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 1118
 ---

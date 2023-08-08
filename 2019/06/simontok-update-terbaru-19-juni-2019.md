@@ -32,7 +32,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Simontok Update Terbaru 19 Juni 2019
 type: post
-updated: 2019-06-24T00:15:11+07:00
+updated: 2023-08-08T14:45:31+07:00
 uuid: 46f1ee18-107c-4888-8d96-d918a566365d
 wordcount: 136
 ---

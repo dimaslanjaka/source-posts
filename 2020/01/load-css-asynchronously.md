@@ -24,7 +24,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Load CSS Asynchronously
 type: post
-updated: 2020-01-21T00:40:28+07:00
+updated: 2023-08-08T14:45:14+07:00
 uuid: 528f01ae-7ae1-4888-8049-39b5dec543c8
 wordcount: 12
 ---

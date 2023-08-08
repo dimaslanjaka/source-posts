@@ -32,7 +32,7 @@ thumbnail: https://image.ibb.co/fFtDUF/unnamed_5.png
 title: Install Linux on the Android part 2-How to Install Apache2, PHP and MYSQL
   on Android
 type: post
-updated: 2017-09-02T23:46:07+07:00
+updated: 2023-08-08T14:45:46+07:00
 uuid: 93d9745f-e9ee-4888-8cf1-9379fe986077
 wordcount: 1361
 ---

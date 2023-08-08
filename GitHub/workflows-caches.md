@@ -30,7 +30,7 @@ tags:
 thumbnail: /GitHub/workflows/cover2.jpg
 title: Mempercepat GitHub Workflow Dengan Cache Strategy
 type: post
-updated: 2023-01-03T01:03:19+07:00
+updated: 2023-08-08T14:44:18+07:00
 uuid: 1525e23b-de51-4888-8aa7-b643034cdf7d
 webtitle: WMI GitHub
 wordcount: 997

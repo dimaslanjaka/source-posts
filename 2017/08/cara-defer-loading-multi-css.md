@@ -34,7 +34,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googleusercontent.com/proxy/osOBUo2W1kAeTZxgpk8ucxEhICG8CgcH-6-x1tgh_Lxix6DZhYKY3HTQlsK63ZE9LLsWprBq83sOK4iqA9g1N_QAe53OJE0CALp9aT3CA6MYQfh_w8fpZyb_J1k6mOcngON_epxQsKM_lRE=w384-h384-nc
 title: Cara defer loading multi css
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:49+07:00
 uuid: d64c1c5b-fa3f-4888-8393-6b54d3783cd5
 wordcount: 470
 ---

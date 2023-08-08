@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop.webp
 title: Recipe Fried Pork In Scoop Chimeraland
 type: post
-updated: 2022-10-05T08:46:54+07:00
+updated: 2023-08-08T14:44:28+07:00
 wordcount: 840
 ---
 

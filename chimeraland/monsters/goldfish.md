@@ -25,7 +25,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Goldfish
 title: Monster Goldfish
 type: post
-updated: 2023-05-25T09:23:12+07:00
+updated: 2023-08-08T14:44:40+07:00
 webtitle: chimeraland
 wordcount: 621
 ---

@@ -25,7 +25,7 @@ tags:
 thumbnail: https://lh3.googleusercontent.com/proxy/iXXMXlcltXb398p9VGuEZNu_q_9fOhWGI2a7MC0u0gxejcoAG9JwriwCAXcFnQzy04oNlHepGhjkRl5qZ5VnHRY4yte8q9STSCavvaAxYEXGBw6EnbpDem0nNPZPhkQ
 title: How to add caption to images or videos in wordpress and Blogger
 type: post
-updated: 2017-04-09T23:48:53+07:00
+updated: 2023-08-08T14:46:00+07:00
 uuid: 97da7e60-01ff-4888-86bb-456242b296c5
 wordcount: 3641
 ---

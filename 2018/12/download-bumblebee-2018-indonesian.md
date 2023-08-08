@@ -27,7 +27,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s6.dunia21.net/wp-content/uploads/2018/12/film-bumblebee-2018-lk21.jpg
 title: Download Bumblebee 2018 Indonesian Subtitle Movie Free Movie Bluray
 type: post
-updated: 2018-12-21T13:42:01+07:00
+updated: 2023-08-08T14:45:35+07:00
 uuid: 36b760f0-30c2-4888-8cec-7a36f6594407
 wordcount: 2383
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/deep-fried-meat/deep-fried-meat.webp
 title: Recipe Deep Fried Meat Chimeraland
 type: post
-updated: 2022-10-05T16:46:54+07:00
+updated: 2023-08-08T14:44:29+07:00
 wordcount: 714
 ---
 

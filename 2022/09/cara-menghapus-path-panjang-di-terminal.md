@@ -23,7 +23,7 @@ tags:
   - bash
 title: Cara menghapus direktori path panjang di terminal
 type: post
-updated: 2022-10-21T09:49:57+07:00
+updated: 2023-08-08T14:45:09+07:00
 wordcount: 156
 ---
 

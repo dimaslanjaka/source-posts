@@ -33,7 +33,7 @@ tags:
 thumbnail: https://cdn.woorkup.com/wp-content/uploads/2013/09/xml-sitemap-html.jpg
 title: Cara Membuat File Peta Situs untuk Situs Web HTML Anda
 type: post
-updated: 2017-10-19T11:00:17+07:00
+updated: 2023-08-08T14:45:45+07:00
 uuid: f161b1c6-b8a3-4888-8b5a-fff924eafce4
 wordcount: 777
 ---

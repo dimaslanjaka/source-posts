@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/fossilized-leg/fossilized-leg.webp
 title: Material Fossilized Leg Chimeraland
 type: post
-updated: 2022-10-05T12:26:37+07:00
+updated: 2023-08-08T14:44:56+07:00
 wordcount: 759
 ---
 

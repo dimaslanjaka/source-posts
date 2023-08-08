@@ -22,7 +22,7 @@ tags:
   - pet
 title: Monster White Fox
 type: post
-updated: 2022-10-03T00:18:27+07:00
+updated: 2023-08-08T14:44:31+07:00
 webtitle: chimeraland
 wordcount: 596
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/common-wood-essence/common-wood-essence.webp
 title: Material Common Wood Essence Chimeraland
 type: post
-updated: 2022-10-04T20:26:37+07:00
+updated: 2023-08-08T14:44:58+07:00
 wordcount: 654
 ---
 

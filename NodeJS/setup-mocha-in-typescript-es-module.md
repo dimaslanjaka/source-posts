@@ -29,7 +29,7 @@ tags:
 thumbnail: https://user-images.githubusercontent.com/17888086/62067383-2fe4af00-b1f9-11e9-88c4-4953bb090215.png
 title: How to setup mocha in typescript ES Module
 type: post
-updated: 2022-10-29T13:47:01+07:00
+updated: 2023-08-08T14:44:15+07:00
 wordcount: 330
 ---
 

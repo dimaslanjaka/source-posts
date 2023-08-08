@@ -21,7 +21,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://laraget.com/images/blog/1482184906-Select2.png
 title: "[JS] Check select2 jquery plugin loaded or not"
 type: post
-updated: 2020-01-20T04:37:48+07:00
+updated: 2023-08-08T14:45:31+07:00
 uuid: 41c07fdd-3aba-4888-8fef-f72db6aa6221
 wordcount: 187
 ---

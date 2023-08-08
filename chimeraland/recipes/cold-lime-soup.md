@@ -24,7 +24,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cold Lime Soup
 title: Recipe Cold Lime Soup Chimeraland
 type: post
-updated: 2022-10-05T13:46:57+07:00
+updated: 2023-08-08T14:44:29+07:00
 wordcount: 672
 ---
 

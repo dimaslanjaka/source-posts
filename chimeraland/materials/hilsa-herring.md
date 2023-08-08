@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/hilsa-herring/hilsa-herring.webp
 title: Material Hilsa Herring Chimeraland
 type: post
-updated: 2022-10-08T13:26:37+07:00
+updated: 2023-08-08T14:44:55+07:00
 wordcount: 901
 ---
 

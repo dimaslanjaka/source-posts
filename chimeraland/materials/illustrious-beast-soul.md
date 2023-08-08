@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/illustrious-beast-soul/illustrious-beast-soul.webp
 title: Material Illustrious Beast Soul Chimeraland
 type: post
-updated: 2022-10-03T20:26:37+07:00
+updated: 2023-08-08T14:44:54+07:00
 wordcount: 1379
 ---
 

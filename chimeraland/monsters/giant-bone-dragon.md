@@ -36,7 +36,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-23-36-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster giant bone dragon
 type: post
-updated: 2023-02-25T01:55:43+07:00
+updated: 2023-08-08T14:44:43+07:00
 webtitle: chimeraland
 wordcount: 1435
 ---

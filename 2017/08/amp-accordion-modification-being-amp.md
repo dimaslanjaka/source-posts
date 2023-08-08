@@ -21,7 +21,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot.com/-O64Ll2AclHg/WIkzI-RSWBI/AAAAAAAApSw/w4xT5nifRPg3eClN6qphPIe2cVc-o971QCLcB/w1100/amp-accordion.jpg
 title: AMP-Accordion Modification Being an AMP HTML Blog Spoiler
 type: post
-updated: 2017-08-30T04:51:07+07:00
+updated: 2023-08-08T14:45:49+07:00
 uuid: 95437db8-e3ba-4888-8584-a2d7cf332c5a
 wordcount: 1321
 ---

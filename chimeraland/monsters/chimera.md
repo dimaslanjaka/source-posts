@@ -22,7 +22,7 @@ tags:
   - pet
 title: Monster Chimera
 type: post
-updated: 2022-09-29T11:18:27+07:00
+updated: 2023-08-08T14:44:45+07:00
 webtitle: chimeraland
 wordcount: 575
 ---

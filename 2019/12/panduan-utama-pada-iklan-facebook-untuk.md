@@ -24,7 +24,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/a8da9fcee0cd12d606fe9ecaaedc0828.png
 title: Panduan Utama Pada Iklan Facebook Untuk Pengusaha
 type: post
-updated: 2019-12-13T10:19:05+07:00
+updated: 2023-08-08T14:45:15+07:00
 uuid: dbada89d-bc59-4888-80aa-0c9beccd38a6
 wordcount: 21195
 ---

@@ -24,7 +24,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-xr13nwoay60/XTTB3CWtC1I/AAAAAAAAAcE/nrHcc8rWjm8kit-VSE7gcqimjMOreeUHgCLcBGAs/s1600/Screenshot_2.png
 title: How to bulk add category label to blogger posts
 type: post
-updated: 2022-04-18T07:28:00+0700
+updated: 2023-08-08T14:45:30+07:00
 uuid: c30aa17b-a017-4888-8e53-8e89093179ac
 webtitle: Blogger
 wordcount: 246

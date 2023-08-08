@@ -22,7 +22,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-0ALg8SCnD24/VSsqzL7AxJI/AAAAAAAACOQ/4w_tFyoUEVo/s1600/Menerapkan%2BDaftar%2Bisi%2BMenurut%2BLabel.png
 title: How to create blogger sitemap per tables 100 Worked
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:43+07:00
 uuid: 23bc6fee-c977-4888-8e75-1cdba59c78e1
 wordcount: 572
 ---

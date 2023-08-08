@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/chives/chives.webp
 title: Material Chives Chimeraland
 type: post
-updated: 2022-10-04T09:26:37+07:00
+updated: 2023-08-08T14:44:59+07:00
 wordcount: 883
 ---
 

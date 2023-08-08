@@ -24,7 +24,7 @@ tags:
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPU5mp9B9Vq99lF8d8-apVN1I1DoiA9DcmpTwYsP1MY5hRB8oY
 title: Simple CSS for Styling pre html tag
 type: post
-updated: 2017-05-05T09:57:57+07:00
+updated: 2023-08-08T14:45:54+07:00
 uuid: 3fa28066-8726-4888-897a-41e981e9c37a
 wordcount: 912
 ---

@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://drakorstation.com/wp-content/uploads/2018/11/Sky-Castle-Subtitle-Indonesia.jpg
 title: Download Drama Korea Sky Castle Subtitle Indonesia Episode 5
 type: post
-updated: 2018-12-10T15:22:09+07:00
+updated: 2023-08-08T14:45:35+07:00
 uuid: af9d9658-e822-4888-8277-9100b4789130
 wordcount: 2037
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/fried-vegetarian-balls/fried-vegetarian-balls.webp
 title: Recipe Fried Vegetarian Balls Chimeraland
 type: post
-updated: 2022-10-05T11:46:56+07:00
+updated: 2023-08-08T14:44:28+07:00
 wordcount: 827
 ---
 

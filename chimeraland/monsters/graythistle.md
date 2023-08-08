@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/monsters/graythistle/Screenshot_2023-02-25-17-11-14-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster graythistle
 type: post
-updated: 2023-03-11T11:30:18+07:00
+updated: 2023-08-08T14:44:40+07:00
 webtitle: chimeraland
 wordcount: 1130
 ---

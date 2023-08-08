@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/monsters/mamba/Screenshot_2023-04-01-01-32-34-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster mamba
 type: post
-updated: 2023-04-14T15:57:10+07:00
+updated: 2023-08-08T14:44:37+07:00
 webtitle: chimeraland
 wordcount: 1130
 ---

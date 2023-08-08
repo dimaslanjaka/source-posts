@@ -24,7 +24,7 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blog
 title: TUTORIAL TO ENABLE BOT AUTO REACTION / BOT LIKE FACEBOOK HOME COMPLETE
   WITH IMAGE 2017
 type: post
-updated: 2017-11-10T22:43:46+07:00
+updated: 2023-08-08T14:45:42+07:00
 uuid: f2899371-4c8c-4888-8b64-7d41ec5b5137
 wordcount: 1983
 ---

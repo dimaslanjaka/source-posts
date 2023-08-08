@@ -24,7 +24,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googleusercontent.com/-bzDMCW2l14w/XuSyYUMCT-I/AAAAAAAAA_k/s6h8qlxl7joZyle2_ZVRQrN5tAQLu43JQCLcBGAsYHQ/s1600/1592046171170163-1.png
 title: Fix error retrieving pid file on termux apache
 type: post
-updated: 2021-06-04T01:00:00+07:00
+updated: 2023-08-08T14:45:10+07:00
 uuid: 95fc0792-3544-4888-8662-4579d3e71eeb
 wordcount: 971
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/yurlungg's-fang/yurlunggurs-fang.webp
 title: Material Yurlunggs Fang Chimeraland
 type: post
-updated: 2022-10-03T07:26:37+07:00
+updated: 2023-08-08T14:44:47+07:00
 wordcount: 882
 ---
 

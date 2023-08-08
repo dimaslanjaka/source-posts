@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Simple PrismJS
 type: post
-updated: 2020-01-20T11:22:00+07:00
+updated: 2023-08-08T14:45:14+07:00
 uuid: 4bf33ddf-e2b8-4888-8297-330cae7afbcc
 wordcount: 5470
 ---

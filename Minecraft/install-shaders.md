@@ -25,7 +25,7 @@ thumbnail: /Minecraft/install-shaders/cover.jpg
 title: Bagaimana cara install shaders minecraft
 toc: true
 type: post
-updated: 2022-03-20T20:57:28+07:00
+updated: 2023-08-08T14:44:16+07:00
 uuid: 9c4dd0da-b700-4888-8ecc-3cdc3654907b
 webtitle: Minecraft
 wordcount: 1337

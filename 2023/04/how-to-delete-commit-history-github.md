@@ -28,7 +28,7 @@ tags:
 thumbnail: https://www.techielass.com/content/images/2022/09/REWRITING-GIT-HISTORY.png
 title: How to delete commit history from github repository
 type: post
-updated: 2023-04-10T14:57:37+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 377
 ---
 

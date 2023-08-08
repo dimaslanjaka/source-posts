@@ -17,7 +17,7 @@ subtitle: Hello World Welcome to Hexo This is your very first post. Check
 tags: []
 title: Hello World
 type: post
-updated: 2013-12-24 17:49:32
+updated: 2023-08-08T14:44:22+07:00
 wordcount: 46
 ---
 

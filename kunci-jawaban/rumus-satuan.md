@@ -15,7 +15,7 @@ tags:
   - unit
 title: Kumpulan rumus satuan dalam matematika
 type: post
-updated: 2022-10-16T07:35:42+07:00
+updated: 2023-08-08T14:44:16+07:00
 wordcount: 157
 ---
 

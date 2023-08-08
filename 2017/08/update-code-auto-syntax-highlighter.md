@@ -27,7 +27,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot.com/-gUVjKXD8MMM/WWHz7oK-SxI/AAAAAAAACVc/3uL5_0HdMNkvWyjyIAUcSYpVJIQxmIvnQCLcBGAs/s400/syntax%2Bhighlighting%2Bcode%2Bformatting.png
 title: Update Code Auto Syntax Highlighter Prettyprint js
 type: post
-updated: 2021-05-25T22:47:46+07:00
+updated: 2023-08-08T14:45:48+07:00
 uuid: 24f3608e-6910-4888-8eda-7e438600e3a4
 wordcount: 443
 ---

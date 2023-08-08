@@ -24,7 +24,7 @@ tags:
   - chimeraland
 title: All about totem in chimeraland
 type: post
-updated: 2022-11-01T13:06:27+07:00
+updated: 2023-08-08T14:44:19+07:00
 wordcount: 103
 ---
 

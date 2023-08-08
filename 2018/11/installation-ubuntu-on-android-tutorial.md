@@ -25,7 +25,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh6.googleusercontent.com/-toLz3YUOMz8/T4N7B_ofSMI/AAAAAAAADa8/YIwsAh5MVtI/s800/shot_000003.png
 title: Installation Ubuntu On Android Tutorial
 type: post
-updated: 2018-11-13T03:33:28+07:00
+updated: 2023-08-08T14:45:37+07:00
 uuid: 3402c99d-aeef-4888-8696-cc1b3bbff706
 wordcount: 2498
 ---

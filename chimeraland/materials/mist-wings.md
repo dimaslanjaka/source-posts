@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/mist-wings/mist-wings.webp
 title: Material Mist Wings Chimeraland
 type: post
-updated: 2022-10-02T09:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 1004
 ---
 

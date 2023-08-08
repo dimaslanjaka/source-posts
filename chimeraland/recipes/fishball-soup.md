@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/recipes/fishball-soup/fishball-soup.webp
 title: Recipe Fishball Soup Chimeraland
 type: post
-updated: 2022-10-05T21:46:56+07:00
+updated: 2023-08-08T14:44:28+07:00
 wordcount: 1219
 ---
 

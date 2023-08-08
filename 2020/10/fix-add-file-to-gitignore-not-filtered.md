@@ -21,7 +21,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Fix add file to gitignore not filtered
 type: post
-updated: 2020-10-25T23:45:36.135+07:00
+updated: 2023-08-08T14:45:12+07:00
 uuid: d0ce851a-9de9-4888-87cd-931b67b961b3
 webtitle: CMD
 wordcount: 37

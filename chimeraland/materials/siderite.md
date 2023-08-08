@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/siderite/siderite.webp
 title: Material Siderite Chimeraland
 type: post
-updated: 2022-09-29T13:26:37+07:00
+updated: 2023-08-08T14:44:50+07:00
 wordcount: 702
 ---
 

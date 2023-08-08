@@ -23,7 +23,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/e4ea40dda4f7f8215448c9f9a95dcef1.jpeg
 title: Download lagu GIGI - Akhirnya Mp3
 type: post
-updated: 2019-12-19T22:22:58+07:00
+updated: 2023-08-08T14:45:19+07:00
 uuid: 94129911-e15b-4888-8bf9-45259822ed8c
 wordcount: 1485
 ---

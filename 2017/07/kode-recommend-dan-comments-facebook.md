@@ -25,7 +25,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Kode Recommend Dan Comments Facebook Based JavaScript
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:51+07:00
 uuid: a53d40c3-9daa-4888-8c41-8925a20e7e8c
 wordcount: 566
 ---

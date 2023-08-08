@@ -28,7 +28,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spicy Red Goodfruit Soup
 title: Recipe Spicy Red Goodfruit Soup Chimeraland
 type: post
-updated: 2022-10-06T20:46:55+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 741
 ---
 

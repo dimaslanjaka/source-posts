@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/steamed-paw/steamed-paw.webp
 title: Recipe Steamed Paw Chimeraland
 type: post
-updated: 2022-10-06T23:46:55+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 1115
 ---
 

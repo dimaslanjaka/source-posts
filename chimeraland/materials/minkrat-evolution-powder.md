@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/minkrat-evolution-powder/minkrat-evolution-powder.webp
 title: Material Minkrat Evolution Powder Chimeraland
 type: post
-updated: 2022-09-28T22:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 589
 ---
 

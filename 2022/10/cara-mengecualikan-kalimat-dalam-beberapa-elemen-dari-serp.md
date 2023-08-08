@@ -22,7 +22,7 @@ tags:
 thumbnail: /2022/10/cara-mengecualikan-kalimat-dalam-beberapa-elemen-dari-serp/cover.png
 title: Cara mengecualikan kalimat dalam beberapa elemen dari serp
 type: post
-updated: 2022-10-12T10:38:30+07:00
+updated: 2023-08-08T14:45:09+07:00
 wordcount: 283
 ---
 

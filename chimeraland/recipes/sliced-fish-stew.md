@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew.webp
 title: Recipe Sliced Fish Stew Chimeraland
 type: post
-updated: 2022-10-06T10:46:55+07:00
+updated: 2023-08-08T14:44:25+07:00
 wordcount: 1347
 ---
 

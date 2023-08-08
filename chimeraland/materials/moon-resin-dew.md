@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/moon-resin-dew/moon-resin-dew.webp
 title: Material Moon Resin Dew Chimeraland
 type: post
-updated: 2022-10-10T06:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 697
 ---
 

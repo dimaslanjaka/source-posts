@@ -29,7 +29,7 @@ tags:
   - snippet
 title: remove files from git history for specific size
 type: post
-updated: 2023-06-01T02:40:16+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 108
 ---
 

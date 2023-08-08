@@ -27,7 +27,7 @@ tags:
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0esfECcbfautWTR7oGMPXO6eLhiAOX03vpEXndHO2HQDPVIJC
 title: How to display only content posts or pages on blogger
 type: post
-updated: 2019-07-22T03:23:18+07:00
+updated: 2023-08-08T14:45:35+07:00
 uuid: f8b22dfb-deac-4888-87f5-a9df322b9759
 wordcount: 431
 ---

@@ -37,7 +37,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-JTaqhxiYd1E/WcU1hIQLgxI/AAAAAAAAAHk/sZcV1Nd5gf8nN_sb9B26g69ev9WkebldACLcBGAs/s320/Screenshot_2017-09-22-23-08-01-400_com.android.chrome.png
 title: FontAwesome CSS3 Text Animation
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:47+07:00
 uuid: 8cb1225b-2272-4888-8552-f5f0d260783d
 wordcount: 1452
 ---

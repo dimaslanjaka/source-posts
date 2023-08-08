@@ -30,7 +30,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-uaYqOPzmKIk/WPgRWL0wYyI/AAAAAAAAFJU/BSgqP9KOA4gg9ERDx3YEY_tg9r4KTY8LQCLcB/s320/Screenshot_2017-04-20-08-38-25.jpg
 title: Mouseover  Focus Selector CSS3 Transitions Code HTML and CSS3
 type: post
-updated: 2017-05-03T08:40:07+07:00
+updated: 2023-08-08T14:45:54+07:00
 uuid: c719eb89-a6ba-4888-838a-c8a3410fcaf0
 wordcount: 453
 ---

@@ -23,7 +23,7 @@ tags:
 thumbnail: http://juragancipir.com/wp-content/uploads/2014/02/Unit-iklan-khusus.png
 title: How to Determine Size Special Ad Adsense Most True
 type: post
-updated: 2022-04-12
+updated: 2023-08-08T14:46:00+07:00
 uuid: c04f2bcc-b3ba-4888-8a3a-076e0f7db67b
 webtitle: Adsense
 wordcount: 2052

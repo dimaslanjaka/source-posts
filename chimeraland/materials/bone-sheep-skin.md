@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/bone-sheep-skin/bone-sheep-skin.webp
 title: Material Bone Sheep Skin Chimeraland
 type: post
-updated: 2022-10-01T16:26:37+07:00
+updated: 2023-08-08T14:44:59+07:00
 wordcount: 1088
 ---
 

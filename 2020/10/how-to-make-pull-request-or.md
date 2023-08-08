@@ -26,7 +26,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: How to make pull request or contribution on github
 type: post
-updated: 2020-10-26T23:37:05+07:00
+updated: 2023-08-08T14:45:11+07:00
 uuid: 621dc505-222b-4888-8cf1-2856ec8104b6
 wordcount: 134
 ---

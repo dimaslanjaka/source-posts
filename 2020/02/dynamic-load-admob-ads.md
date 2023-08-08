@@ -20,7 +20,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Dynamic load admob ads
 type: post
-updated: 2022-06-28T05:28:00+0700
+updated: 2023-08-08T14:45:14+07:00
 wordcount: 202
 ---
 

@@ -31,7 +31,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://cdn.woorkup.com/wp-content/uploads/2013/09/submit-website-to-yandex-1024x513.png
 title: Cara Menggunakan Alat Webmaster Yandex
 type: post
-updated: 2017-10-22T10:30:15+07:00
+updated: 2023-08-08T14:45:44+07:00
 uuid: bbfe0a82-14db-4888-8c1d-ffd6d1698ee6
 wordcount: 880
 ---

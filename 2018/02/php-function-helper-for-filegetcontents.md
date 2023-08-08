@@ -23,7 +23,7 @@ tags:
 thumbnail: https://www.svgrepo.com/show/84714/php.svg
 title: "[PHP] Function Helper For file_get_contents"
 type: post
-updated: 2022-04-18
+updated: 2023-08-08T14:45:41+07:00
 uuid: 2c2fed27-5d55-4888-86ef-52ebb308a008
 webtitle: PHP
 wordcount: 2002

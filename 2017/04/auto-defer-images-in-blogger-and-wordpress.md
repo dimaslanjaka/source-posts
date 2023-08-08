@@ -26,7 +26,7 @@ tags:
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCQZ1lrGJs-Gmk6cKtdBHXyfgzRIAQYqScDZlU2o_MkjX0SylMtA
 title: Auto Defer Images in Blogger And Wordpress
 type: post
-updated: 2019-07-22T03:23:18+07:00
+updated: 2023-08-08T14:46:02+07:00
 uuid: c39ef55c-ef82-4888-8d60-d7ea81d98dd4
 wordcount: 2837
 ---

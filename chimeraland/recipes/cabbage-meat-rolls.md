@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls.webp
 title: Recipe Cabbage Meat Rolls Chimeraland
 type: post
-updated: 2022-10-05T12:46:55+07:00
+updated: 2023-08-08T14:44:29+07:00
 wordcount: 829
 ---
 

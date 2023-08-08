@@ -26,7 +26,7 @@ tags: []
 thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/https://images.ctfassets.net/f20lfrunubsq/3VjnlRLGZqdWhDPENCTGQl/ab3c078638607cf2a3d35f4b0cf10fa1/Screenshot_2019-11-03_at_16.57.11__2_.png
 title: RegExp Match Doesnt Contain Words
 type: post
-updated: 2022-03-30T06:43:38+0000
+updated: 2023-08-08T14:44:14+07:00
 wordcount: 1507
 ---
 

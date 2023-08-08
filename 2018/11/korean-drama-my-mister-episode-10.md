@@ -20,7 +20,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i0.wp.com/www.dramaencode.com/wp-content/uploads/2018/03/Download-Drama-Korea-My-Mister-Subtitle-Indonesia.jpg?resize=390%2C270&ssl=1
 title: Korean Drama My Mister Episode 10 Indonesian Subtitles
 type: post
-updated: 2019-01-07T01:44:04+07:00
+updated: 2023-08-08T14:45:37+07:00
 uuid: 5cfbb263-a446-4888-8162-8dbd6094413b
 wordcount: 5825
 ---

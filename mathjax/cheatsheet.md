@@ -19,7 +19,7 @@ subtitle: "MathJax Cheatsheet MathJax Basic Quick ReferencesPatterns Mathjax
 tags: []
 title: MathJax Cheatsheet
 type: post
-updated: 2022-10-12T18:46:14+07:00
+updated: 2023-08-08T14:44:16+07:00
 wordcount: 2490
 ---
 

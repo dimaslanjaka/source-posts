@@ -23,7 +23,7 @@ tags:
 thumbnail: http://i3.ytimg.com/vi/psOnlBSRBjA/maxresdefault.jpg
 title: Winged Hairband
 type: post
-updated: 2021-12-19T06:35:16+07:00
+updated: 2023-08-08T14:44:21+07:00
 uuid: 8d281b58-7835-4888-85cc-f2c12e1fc87f
 wordcount: 236
 ---

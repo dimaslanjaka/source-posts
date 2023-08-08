@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/meat-pie/meat-pie.webp
 title: Recipe Meat Pie Chimeraland
 type: post
-updated: 2022-10-05T23:46:55+07:00
+updated: 2023-08-08T14:44:26+07:00
 wordcount: 783
 ---
 

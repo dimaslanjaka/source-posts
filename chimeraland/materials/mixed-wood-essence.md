@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/mixed-wood-essence/mixed-wood-essence.webp
 title: Material Mixed Wood Essence Chimeraland
 type: post
-updated: 2022-10-04T11:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 654
 ---
 

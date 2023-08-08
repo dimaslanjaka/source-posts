@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/fortuphant-primal-spirit/fortuphant-primal-spirit.webp
 title: Material Fortuphant Primal Spirit Chimeraland
 type: post
-updated: 2022-10-03T15:26:37+07:00
+updated: 2023-08-08T14:44:56+07:00
 wordcount: 1461
 ---
 

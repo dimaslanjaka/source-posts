@@ -21,7 +21,7 @@ tags:
   - attendant
 title: Attendant Shaman Luna
 type: post
-updated: 2022-09-29T18:26:37+07:00
+updated: 2023-08-08T14:45:03+07:00
 webtitle: chimeraland
 wordcount: 534
 ---

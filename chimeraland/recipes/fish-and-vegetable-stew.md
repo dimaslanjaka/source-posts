@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/recipes/fish-and-vegetable-stew/fish-and-vegetable-stew.webp
 title: Recipe Fish And Vegetable Stew Chimeraland
 type: post
-updated: 2022-10-05T14:46:54+07:00
+updated: 2023-08-08T14:44:29+07:00
 wordcount: 887
 ---
 

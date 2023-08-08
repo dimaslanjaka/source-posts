@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/rhino-hide/rhino-hide.webp
 title: Material Rhino Hide Chimeraland
 type: post
-updated: 2022-10-02T16:26:37+07:00
+updated: 2023-08-08T14:44:51+07:00
 wordcount: 1042
 ---
 

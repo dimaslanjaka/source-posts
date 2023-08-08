@@ -20,7 +20,7 @@ tags:
 thumbnail: https://2.bp.blogspot.com/-q6ZKyisuRjs/VKp_mksoudI/AAAAAAAABqU/8VM-NTbbi64/s1600/short%2Blink%2Bgoogle.png
 title: Advantages Of Creating Short Links Goo.Gl
 type: post
-updated: 2017-05-16T07:37:13+07:00
+updated: 2023-08-08T14:45:57+07:00
 uuid: b1208090-5289-4888-84fa-6134ed16fe90
 wordcount: 1233
 ---

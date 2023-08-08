@@ -26,7 +26,7 @@ tags:
 thumbnail: https://imgix2.ruangguru.com/assets/miscellaneous/png_yr7v2m_1615.png
 title: Rumus Jarak, Kecepatan, Waktu, Dan Rata-rata
 type: post
-updated: 2022-10-16T07:35:43+07:00
+updated: 2023-08-08T14:44:16+07:00
 wordcount: 1731
 ---
 

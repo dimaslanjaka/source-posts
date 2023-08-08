@@ -27,7 +27,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hotstone Icefox Meat
 title: Recipe Hotstone Icefox Meat Chimeraland
 type: post
-updated: 2022-09-29T21:26:37+07:00
+updated: 2023-08-08T14:44:26+07:00
 wordcount: 1119
 ---
 

@@ -28,7 +28,7 @@ tags:
 thumbnail: /GitHub/workflows/cover.png
 title: GitHub Workflows
 type: post
-updated: 2023-01-03T01:03:19+07:00
+updated: 2023-08-08T14:44:18+07:00
 uuid: 741baa72-98c8-4888-8c0f-96eee0b56067
 webtitle: WMI GitHub
 wordcount: 1314

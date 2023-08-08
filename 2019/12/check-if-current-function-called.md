@@ -23,7 +23,7 @@ tags:
 thumbnail: https://i.ytimg.com/vi/ZFhadzpISPY/maxresdefault.jpg
 title: Check if current function called statically or not
 type: post
-updated: 2019-12-04T09:13:32+07:00
+updated: 2023-08-08T14:45:23+07:00
 uuid: d7a937ec-9c02-4888-846e-68077d4507d8
 wordcount: 251
 ---

@@ -24,7 +24,7 @@ tags:
 thumbnail: https://raw.githubusercontent.com/dimaslanjaka/dimaslanjaka.github.io/master/assets/img/phpjs.png
 title: "[PHP][JS] CryptoJS encrypt decrypt"
 type: post
-updated: 2022-04-18T07:28:00+0700
+updated: 2023-08-08T14:45:29+07:00
 uuid: 83ca465d-648e-4888-875f-4bb6f2810c96
 webtitle: PHP JS
 wordcount: 1176

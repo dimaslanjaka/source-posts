@@ -21,7 +21,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2015/01/Jetpack-Joyride-1.jpg
 title: DOWNLOAD Jetpack Joyride 1.12.11 Apk  Mod Unlimited Money android
 type: post
-updated: 2018-11-14T15:54:49+07:00
+updated: 2023-08-08T14:45:38+07:00
 uuid: 886e4e0f-1457-4888-8e04-4d2e4c649498
 wordcount: 3297
 ---

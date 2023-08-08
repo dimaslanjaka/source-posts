@@ -32,7 +32,7 @@ tags:
 thumbnail: http://i.imgur.com/4kHlYlw.png
 title: Kerangka dan Platform Mobile Terbaik untuk Aplikasi HTML5 Hybrid
 type: post
-updated: 2017-07-13T00:50:05+07:00
+updated: 2023-08-08T14:45:51+07:00
 uuid: 7c9ec1b6-56d0-4888-8d84-21ad9b9d0573
 wordcount: 4543
 ---

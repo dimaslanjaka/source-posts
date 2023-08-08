@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image3.mouthshut.com/images/imagesp/925039881s.png
 title: Cygwin In Context Menus
 type: post
-updated: 2019-06-25T14:51:28+07:00
+updated: 2023-08-08T14:45:31+07:00
 uuid: 68ca946d-b045-4888-8151-ea26e99578b6
 wordcount: 500
 ---

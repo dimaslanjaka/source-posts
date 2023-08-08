@@ -23,7 +23,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-X8tdy9N2l8w/UJT2gcqpvLI/AAAAAAAAWUk/VPPxUYEMDPs/s1600/Windows-Store-Disable.png
 title: Mencegah Pengguna Menginstal Aplikasi UI Modern
 type: post
-updated: 2017-10-18T00:51:17+07:00
+updated: 2023-08-08T14:45:44+07:00
 uuid: 5fc580eb-27e8-4888-85f1-43738818e6e4
 wordcount: 658
 ---

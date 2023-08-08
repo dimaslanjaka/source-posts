@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/30-catties-of-logs/30-catties-of-logs.webp
 title: Material 30 Catties of Logs Chimeraland
 type: post
-updated: 2022-10-06T09:26:37+07:00
+updated: 2023-08-08T14:45:01+07:00
 wordcount: 1079
 ---
 

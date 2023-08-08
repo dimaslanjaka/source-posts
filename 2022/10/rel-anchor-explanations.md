@@ -28,7 +28,7 @@ tags:
   - hyperlink
 title: rel attribute explanations in anchor html element
 type: post
-updated: 2022-10-10T23:09:00+0700
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 2348
 ---
 

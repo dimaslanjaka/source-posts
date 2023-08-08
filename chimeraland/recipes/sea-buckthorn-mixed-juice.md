@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice.webp
 title: Recipe Sea-Buckthorn Mixed Juice Chimeraland
 type: post
-updated: 2022-10-07T00:46:55+07:00
+updated: 2023-08-08T14:44:25+07:00
 wordcount: 657
 ---
 

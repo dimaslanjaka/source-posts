@@ -24,7 +24,7 @@ tags:
   - material
 title: Material Duahawk Evol Pill Chimeraland
 type: post
-updated: 2022-09-28T20:26:37+07:00
+updated: 2023-08-08T14:44:57+07:00
 wordcount: 361
 ---
 

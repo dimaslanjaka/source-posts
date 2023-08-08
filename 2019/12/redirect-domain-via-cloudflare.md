@@ -24,7 +24,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-vaafAtA7fJ0/XegbZIw3CYI/AAAAAAAAAgg/0S7WeEzqKLg1nPSyrd1zJ-ZaVjXVORKZgCLcBGAsYHQ/s640/Screenshot_1.png
 title: Cara redirect domain lama ke domain baru untuk SEO menggunakan Cloudflare
 type: post
-updated: 2022-04-18T07:28:00+0700
+updated: 2023-08-08T14:45:15+07:00
 uuid: be685d41-99b2-4888-8c9f-fa12844b8741
 wordcount: 379
 ---

@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/red-bellied-piranha/red-bellied-piranha.webp
 title: Material Red-bellied Piranha Chimeraland
 type: post
-updated: 2022-10-09T07:26:37+07:00
+updated: 2023-08-08T14:44:51+07:00
 wordcount: 901
 ---
 

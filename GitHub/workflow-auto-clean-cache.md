@@ -30,7 +30,7 @@ tags:
   - github-actions
 title: yaml github actions to clean all caches
 type: post
-updated: 2023-01-03T01:03:19+07:00
+updated: 2023-08-08T14:44:18+07:00
 wordcount: 593
 ---
 

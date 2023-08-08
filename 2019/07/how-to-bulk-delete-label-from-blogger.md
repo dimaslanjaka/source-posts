@@ -24,7 +24,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-W6MUKBQWsys/XTTHZu4jWCI/AAAAAAAAAdI/kShJnPPkBgIWriKW2AAXvnH41q4-R2DhQCLcBGAs/s1600/Screenshot_4.png
 title: How to bulk delete category label from blogger posts
 type: post
-updated: 2022-04-18T07:28:00+0700
+updated: 2023-08-08T14:45:30+07:00
 uuid: 119c768f-b569-4888-847d-fa774501bbfb
 webtitle: Blogger
 wordcount: 319

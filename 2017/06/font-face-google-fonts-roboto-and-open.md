@@ -20,7 +20,7 @@ tags:
 thumbnail: https://2.bp.blogspot.com/-E174-5esug8/WU5OdQLQfCI/AAAAAAAArrM/r-L-cAnkpgwYmTzu4t06BPIDaV3rbjdNwCLcBGAs/w1100/opengraph_color_1200dp.png
 title: "@ Font-face Google Fonts Roboto And Open Sans"
 type: post
-updated: 2017-06-24T20:49:58+07:00
+updated: 2023-08-08T14:45:54+07:00
 uuid: d1b9548b-a285-4888-8073-c104054fa476
 wordcount: 1894
 ---

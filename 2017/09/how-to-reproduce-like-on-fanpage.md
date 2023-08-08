@@ -20,7 +20,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-OCrG57WlTmc/Tx0SI0GJV-I/AAAAAAAAAX0/EXa3X81Jows/s280/fss.png
 title: How to reproduce like on fanpage facebook
 type: post
-updated: 2017-09-07T09:39:59+07:00
+updated: 2023-08-08T14:45:47+07:00
 uuid: 17cba081-b42c-4888-8216-921887a0d2e1
 wordcount: 1245
 ---

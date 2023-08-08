@@ -25,7 +25,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Yellow Lobcray
 title: Monster Yellow Lobcray
 type: post
-updated: 2023-05-25T15:05:12+07:00
+updated: 2023-08-08T14:44:30+07:00
 webtitle: chimeraland
 wordcount: 696
 ---

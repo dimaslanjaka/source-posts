@@ -27,7 +27,7 @@ tags:
   - attendant
 title: Attendant Lunar Regni
 type: post
-updated: 2022-09-28T22:26:37+07:00
+updated: 2023-08-08T14:45:05+07:00
 webtitle: chimeraland
 wordcount: 992
 ---

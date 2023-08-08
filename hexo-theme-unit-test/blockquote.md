@@ -3,7 +3,7 @@ author: Dimas Lanjaka
 categories:
   - hexo
 comments: true
-date: 2023-08-08T14:25:41+07:00
+date: 2023-08-08T14:44:18+07:00
 description: Blockquote Shortcode Blockquote shortcode hexo print blockquote
   with official hexo shortcode Using Shortcode blockquote Lorem ipsum dolor sit
   amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus
@@ -25,7 +25,7 @@ tags:
   - shortcode
 title: Blockquote Shortcode
 type: post
-updated: 2023-08-08T14:25:41+07:00
+updated: 2023-08-08T14:44:18+07:00
 wordcount: 439
 ---
 

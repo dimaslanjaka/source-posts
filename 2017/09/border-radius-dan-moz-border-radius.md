@@ -25,7 +25,7 @@ tags:
 thumbnail: http://cdn.the-art-of-web.com/images/moz-border-radius.gif
 title: border-radius dan -moz-border-radius
 type: post
-updated: 2017-09-30T02:24:05+07:00
+updated: 2023-08-08T14:45:48+07:00
 uuid: 7da55223-37de-4888-8008-c390984300da
 wordcount: 3867
 ---

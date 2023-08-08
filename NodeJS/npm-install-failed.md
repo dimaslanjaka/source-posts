@@ -16,7 +16,7 @@ tags:
   - npm
 title: npm upgrade failed err code EEXIST
 type: post
-updated: 2023-05-06T13:36:18+07:00
+updated: 2023-08-08T14:44:15+07:00
 wordcount: 782
 ---
 

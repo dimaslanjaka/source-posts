@@ -27,7 +27,7 @@ tags:
   - snippet
 title: Asynchronous serial iteration over an array collection
 type: post
-updated: 2023-05-24T05:35:31+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 3906
 ---
 

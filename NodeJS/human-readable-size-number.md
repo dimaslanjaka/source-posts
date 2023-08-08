@@ -33,7 +33,7 @@ tags:
   - js
 title: Snippet Convert Bytes To Human Readable
 type: post
-updated: 2022-10-12T09:02:28+07:00
+updated: 2023-08-08T14:44:15+07:00
 wordcount: 621
 ---
 

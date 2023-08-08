@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/black-kingfish/black-kingfish.webp
 title: Material Black Kingfish Chimeraland
 type: post
-updated: 2022-10-07T03:26:37+07:00
+updated: 2023-08-08T14:45:00+07:00
 wordcount: 981
 ---
 

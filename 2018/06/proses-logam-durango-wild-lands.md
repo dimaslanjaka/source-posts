@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png
 title: "Proses Logam : Durango Wild Lands"
 type: post
-updated: 2018-08-05T06:18:52+07:00
+updated: 2023-08-08T14:45:40+07:00
 uuid: a16b3c7d-1281-4888-86e6-66a9cde7055d
 wordcount: 351
 ---

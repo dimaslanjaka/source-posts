@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat.webp
 title: Recipe Fried Melon And Meat Chimeraland
 type: post
-updated: 2022-10-06T00:46:54+07:00
+updated: 2023-08-08T14:44:28+07:00
 wordcount: 827
 ---
 

@@ -34,7 +34,7 @@ tags:
 thumbnail: /chimeraland/monsters/carnivore-blossom/Screenshot_2023-02-16-02-56-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster carnivore blossom
 type: post
-updated: 2023-02-16T20:53:22+07:00
+updated: 2023-08-08T14:44:46+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

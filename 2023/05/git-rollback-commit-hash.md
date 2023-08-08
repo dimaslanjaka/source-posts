@@ -27,7 +27,7 @@ tags:
   - snippet
 title: rollback commit github
 type: post
-updated: 2023-05-17T20:45:00+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 543
 ---
 

@@ -23,7 +23,7 @@ thumbnail: https://i.stack.imgur.com/Xo2sA.png
 title: disable vscode alert File is a CommonJS module; it may be converted to an
   ES module
 type: post
-updated: 2022-03-26T04:27:16+0000
+updated: 2023-08-08T14:45:10+07:00
 wordcount: 348
 ---
 

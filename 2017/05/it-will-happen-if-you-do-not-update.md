@@ -23,7 +23,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-GUjQbrIh570/VW8CZgHV4WI/AAAAAAAABc0/sYLAihhUM8g/s320/Screenshot_2.jpg
 title: It Will Happen If You Do Not Update Blog More Than 1 Month
 type: post
-updated: 2017-05-08T23:18:18+07:00
+updated: 2023-08-08T14:45:55+07:00
 uuid: 30026cd3-780a-4888-8b3b-4fc375c03ff2
 wordcount: 2144
 ---

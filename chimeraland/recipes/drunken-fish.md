@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/drunken-fish/drunken-fish.webp
 title: Recipe Drunken Fish Chimeraland
 type: post
-updated: 2022-09-29T05:26:37+07:00
+updated: 2023-08-08T14:44:29+07:00
 wordcount: 679
 ---
 

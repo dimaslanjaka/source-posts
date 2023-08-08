@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/grilled-venison/grilled-venison.webp
 title: Recipe Grilled Venison Chimeraland
 type: post
-updated: 2022-10-06T14:46:54+07:00
+updated: 2023-08-08T14:44:27+07:00
 wordcount: 601
 ---
 

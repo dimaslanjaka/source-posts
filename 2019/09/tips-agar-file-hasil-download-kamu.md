@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.com/wp-content/uploads/2016/04/Corrupt.png
 title: Tips Agar File Hasil Download Kamu Tidak Corrupt
 type: post
-updated: 2019-09-29T17:56:03+07:00
+updated: 2023-08-08T14:45:28+07:00
 uuid: 68c72bf6-8dcf-4888-81bf-e028dc991e95
 wordcount: 3819
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers.webp
 title: Recipe Garlic Meat Skewers Chimeraland
 type: post
-updated: 2022-10-06T06:46:54+07:00
+updated: 2023-08-08T14:44:28+07:00
 wordcount: 645
 ---
 

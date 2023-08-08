@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/amaranth/amaranth.webp
 title: Material Amaranth Chimeraland
 type: post
-updated: 2022-10-04T06:26:37+07:00
+updated: 2023-08-08T14:45:01+07:00
 wordcount: 511
 ---
 

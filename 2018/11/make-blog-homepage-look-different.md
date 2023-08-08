@@ -25,7 +25,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://3.bp.blogspot.com/-kz6KVIcdKck/WPL9AYym7FI/AAAAAAAAqqI/lqIph6SjXNUJEm0vW6p6HHi0AhV2n1FNwCLcB/w1100/Untitled-1_1.jpg
 title: How To Modifying Post Views On Homepage To Be Different
 type: post
-updated: 2018-11-24T04:39:01+07:00
+updated: 2023-08-08T14:45:36+07:00
 uuid: 0f247fd0-08db-4888-8fb5-d20fae36cd7a
 wordcount: 969
 ---

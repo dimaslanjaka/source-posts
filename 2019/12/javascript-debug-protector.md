@@ -26,7 +26,7 @@ tags:
 thumbnail: https://i.ytimg.com/vi/8VyzRlxo2-k/maxresdefault.jpg
 title: Javascript Debug Protector
 type: post
-updated: 2020-01-07T13:17:28+07:00
+updated: 2023-08-08T14:45:16+07:00
 uuid: 5081493b-4b80-4888-890c-0c028fa074bc
 wordcount: 250
 ---

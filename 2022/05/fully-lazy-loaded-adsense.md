@@ -21,7 +21,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-JB0hsyji7wo/XR0Sq_evvpI/AAAAAAAATlo/afDSTs1Y-HcrcDANMV9fGrGwZUU37o31wCLcBGAs/w600/Cara-Memasang-Lazy-Load-Iklan-Adsense.png
 title: Lazy Load Adsense Full Support 2022 Adsense API
 type: post
-updated: 2022-05-11T08:52:06+0000
+updated: 2023-08-08T14:45:09+07:00
 wordcount: 586
 ---
 

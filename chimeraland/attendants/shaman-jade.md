@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/attendants/shaman-jade/Screenshot_2023-05-30-04-14-53-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant shaman jade
 type: post
-updated: 2023-08-06T22:00:21+07:00
+updated: 2023-08-08T14:45:03+07:00
 webtitle: chimeraland
 wordcount: 1318
 ---

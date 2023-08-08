@@ -34,7 +34,7 @@ tags:
 thumbnail: /chimeraland/attendants/rosary-violetine/Screenshot_2022-11-11-13-11-02-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant rosary violetine
 type: post
-updated: 2022-11-26T05:35:17+07:00
+updated: 2023-08-08T14:45:03+07:00
 webtitle: chimeraland
 wordcount: 1237
 ---

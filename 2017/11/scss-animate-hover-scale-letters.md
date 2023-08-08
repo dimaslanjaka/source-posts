@@ -25,7 +25,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: SCSS Animate Hover Scale Letters
 type: post
-updated: 2019-07-22T03:23:18+07:00
+updated: 2023-08-08T14:45:42+07:00
 uuid: b7d8930c-146d-4888-82b8-6ea697175194
 wordcount: 486
 ---

@@ -22,7 +22,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-ItMBdFpxYYE/V_H7ypdUiWI/AAAAAAAAESI/g1v0CDfhJR4-4PAqBUijaH0erCXuOmuNQCLcB/s550/Mengganti%2BWarna%2BAddress%2BBar%2BBrowser%2BHandphone%2BAgar%2BSesuai%2BLayout%2BBlog%2B01.jpg
 title: How to changing mobile browser address color bar to match layout blog
 type: post
-updated: 2017-08-20T11:00:43+07:00
+updated: 2023-08-08T14:45:56+07:00
 uuid: 46509329-d686-4888-89d5-8fd2f052ca75
 wordcount: 1322
 ---

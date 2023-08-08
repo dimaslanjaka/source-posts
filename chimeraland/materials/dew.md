@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/dew/dew.webp
 title: Material Dew Chimeraland
 type: post
-updated: 2022-10-09T10:26:37+07:00
+updated: 2023-08-08T14:44:58+07:00
 wordcount: 23420
 ---
 

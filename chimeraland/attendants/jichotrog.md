@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-09-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant jichotrog
 type: post
-updated: 2023-03-11T00:30:17+07:00
+updated: 2023-08-08T14:45:06+07:00
 webtitle: chimeraland
 wordcount: 1130
 ---

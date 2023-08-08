@@ -32,7 +32,7 @@ tags:
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU6daixUyrq6m3xUPsDdb4VZ4UR6ctElGQg4CeeBUJ39a-VCfX
 title: HTML5 Bootstrap For AMP
 type: post
-updated: 2022-11-20T16:35:45+07:00
+updated: 2023-08-08T14:45:59+07:00
 uuid: 50dc711f-b623-4888-8098-114c050515b9
 wordcount: 1300
 ---

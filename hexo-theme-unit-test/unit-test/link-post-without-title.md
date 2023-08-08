@@ -21,7 +21,7 @@ subtitle: " This is a link post without a title. The title should be the link
 tags: []
 title: link-post-without-title.md
 type: post
-updated: 2022-10-13T10:22:41+07:00
+updated: 2023-08-08T14:44:22+07:00
 wordcount: 91
 ---
 

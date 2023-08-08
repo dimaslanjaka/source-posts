@@ -27,7 +27,7 @@ tags:
   - rollback
 title: bash script to rollback github pages
 type: post
-updated: 2023-02-28T09:47:15+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 280
 ---
 

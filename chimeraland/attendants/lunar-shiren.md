@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/attendants/lunar-shiren/IMG_20230330_005130.webp
 title: Attendant Lunar Shiren
 type: post
-updated: 2022-09-29T09:26:37+07:00
+updated: 2023-08-08T14:45:05+07:00
 webtitle: chimeraland
 wordcount: 1144
 ---

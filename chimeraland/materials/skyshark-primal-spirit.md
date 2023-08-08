@@ -28,7 +28,7 @@ tags:
 thumbnail: /chimeraland/materials/skyshark-primal-spirit/skyshark-primal-spirit.webp
 title: Material Skyshark Primal Spirit Chimeraland
 type: post
-updated: 2022-10-03T05:26:37+07:00
+updated: 2023-08-08T14:44:50+07:00
 wordcount: 839
 ---
 

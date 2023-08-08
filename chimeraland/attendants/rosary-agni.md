@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-35-55-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant rosary agni
 type: post
-updated: 2023-02-16T23:53:20+07:00
+updated: 2023-08-08T14:45:04+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

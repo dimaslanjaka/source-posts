@@ -23,7 +23,7 @@ tags:
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa1lm1EI1a4kQStyHaoRq2LTQ3iHdj3CuE8YfEqS3-jKcycvJfOP44cSUy_A
 title: How To Solve Duplicate Content On Blog
 type: post
-updated: 2017-04-23T16:00:13+07:00
+updated: 2023-08-08T14:45:59+07:00
 uuid: 1174149a-9f43-4888-8a83-c0005fc2644c
 wordcount: 2751
 ---

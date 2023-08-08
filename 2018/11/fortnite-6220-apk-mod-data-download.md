@@ -22,7 +22,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2018/fortnite-1.jpg
 title: Fortnite 6.22.0 Apk  Mod  Data Download
 type: post
-updated: 2018-11-10T06:33:02+07:00
+updated: 2023-08-08T14:45:37+07:00
 uuid: 5ac25394-571f-4888-89eb-ffda0a919386
 wordcount: 1475
 ---

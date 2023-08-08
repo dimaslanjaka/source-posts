@@ -23,7 +23,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ839NCU/s1600/Uninstall-Modern-UI-Apps.png
 title: Mencegah Pengguna Menghapus Aplikasi UI Modern di Windows 8
 type: post
-updated: 2017-10-17T00:47:03+07:00
+updated: 2023-08-08T14:45:44+07:00
 uuid: 34353b6e-da96-4888-8a69-a3c34c41a53e
 wordcount: 363
 ---

@@ -23,7 +23,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/1514e477dae70eb7cf2ad5f8ad1d5a98.jpeg
 title: Download lagu GIGI - Kota Santri Mp3
 type: post
-updated: 2019-11-24T21:33:29+07:00
+updated: 2023-08-08T14:45:27+07:00
 uuid: 0e318dca-6edf-4888-88aa-562760d5141a
 wordcount: 1141
 ---

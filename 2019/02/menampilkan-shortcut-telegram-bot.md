@@ -24,7 +24,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.stack.imgur.com/PPlQ0.png
 title: Menampilkan Shortcut Telegram BOT
 type: post
-updated: 2019-02-09T19:58:48+07:00
+updated: 2023-08-08T14:45:31+07:00
 uuid: fd0c56c9-627c-4888-882f-e5c3355e3b2e
 wordcount: 653
 ---

@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/first-jade/first-jade.webp
 title: Material First Jade Chimeraland
 type: post
-updated: 2022-09-29T16:26:37+07:00
+updated: 2023-08-08T14:44:57+07:00
 wordcount: 1104
 ---
 

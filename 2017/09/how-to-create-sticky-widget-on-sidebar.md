@@ -22,7 +22,7 @@ tags:
 thumbnail: https://imgdb.net/images/3192.jpg
 title: How to create sticky widget on sidebar blogger
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:47+07:00
 uuid: bb943112-1738-4888-8824-d420c024992b
 wordcount: 983
 ---

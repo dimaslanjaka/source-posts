@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/watermelon/watermelon.webp
 title: Material Watermelon Chimeraland
 type: post
-updated: 2022-10-04T18:26:37+07:00
+updated: 2023-08-08T14:44:48+07:00
 wordcount: 3182
 ---
 

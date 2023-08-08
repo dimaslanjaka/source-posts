@@ -21,7 +21,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i0.wp.com/www.dramaencode.com/wp-content/uploads/2018/01/Download-Drama-Korea-Radio-Romance-Subtitle-Indonesia.jpg?resize=678%2C381&ssl=1
 title: Download Korean Drama Radio Romance Indonesian Subtitles
 type: post
-updated: 2018-11-18T21:01:02+07:00
+updated: 2023-08-08T14:45:38+07:00
 uuid: bb9cfa7d-48d7-4888-8da6-3a77ba5d5d63
 wordcount: 7566
 ---

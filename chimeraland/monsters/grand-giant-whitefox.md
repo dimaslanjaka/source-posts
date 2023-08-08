@@ -33,7 +33,7 @@ tags:
 thumbnail: /chimeraland/monsters/grand-giant-whitefox/Screenshot_2023-03-01-14-24-53-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster grand giant whitefox
 type: post
-updated: 2023-03-11T08:30:18+07:00
+updated: 2023-08-08T14:44:40+07:00
 webtitle: chimeraland
 wordcount: 1172
 ---

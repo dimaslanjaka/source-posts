@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/litiger-meat/litiger-meat.webp
 title: Material Litiger Meat Chimeraland
 type: post
-updated: 2022-09-30T04:26:37+07:00
+updated: 2023-08-08T14:44:54+07:00
 wordcount: 633
 ---
 

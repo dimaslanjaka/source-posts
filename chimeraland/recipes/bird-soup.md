@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/bird-soup/bird-soup.webp
 title: Recipe Bird Soup Chimeraland
 type: post
-updated: 2022-10-05T13:46:53+07:00
+updated: 2023-08-08T14:44:30+07:00
 wordcount: 1102
 ---
 

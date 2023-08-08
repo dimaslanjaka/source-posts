@@ -30,7 +30,7 @@ tags:
 thumbnail: https://bobbyhadz.com/images/blog/node-type-error-err-import-assertion-type-missing/typeerror-err-import-assertion-type-missing.webp
 title: TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix
 type: post
-updated: 2022-10-29T11:52:09+07:00
+updated: 2023-08-08T14:44:14+07:00
 wordcount: 620
 ---
 

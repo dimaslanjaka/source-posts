@@ -36,7 +36,7 @@ tags:
 thumbnail: https://goo.gl/ZDjCRk
 title: Create External Link Icons Using SVG without JavaScript In Blogger
 type: post
-updated: 2018-02-07T16:41:41+07:00
+updated: 2023-08-08T14:45:42+07:00
 uuid: f23ed2a9-8e62-4888-8613-6b657a3bef63
 wordcount: 265
 ---

@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.info/wp-content/uploads/2018/12/Google_Drive_logo.png
 title: How to Overcome Quota Limits on Google Drive
 type: post
-updated: 2019-09-29T06:00:50+07:00
+updated: 2023-08-08T14:45:29+07:00
 uuid: c3106ffe-a906-4888-885b-38e34eb8f77b
 wordcount: 2764
 ---

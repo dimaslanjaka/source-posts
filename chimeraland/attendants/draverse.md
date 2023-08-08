@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-19-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant draverse
 type: post
-updated: 2023-03-10T22:30:17+07:00
+updated: 2023-08-08T14:45:06+07:00
 webtitle: chimeraland
 wordcount: 1130
 ---

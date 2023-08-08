@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/tang/tang.webp
 title: Material Tang Chimeraland
 type: post
-updated: 2022-10-07T01:26:37+07:00
+updated: 2023-08-08T14:44:49+07:00
 wordcount: 852
 ---
 

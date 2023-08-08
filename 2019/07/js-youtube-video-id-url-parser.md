@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: "[JS] Youtube Video ID URL Parser"
 type: post
-updated: 2019-07-22T03:23:18+07:00
+updated: 2023-08-08T14:45:30+07:00
 uuid: fc26a82f-95a0-4888-8b4e-d28bbc248a4e
 wordcount: 340
 ---

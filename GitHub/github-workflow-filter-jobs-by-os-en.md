@@ -29,7 +29,7 @@ tags:
   - github-actions
 title: Github Workflow Filter Jobs By OS
 type: post
-updated: 2023-01-03T01:02:36+07:00
+updated: 2023-08-08T14:44:18+07:00
 wordcount: 428
 ---
 

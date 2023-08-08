@@ -26,7 +26,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png
 title: "Proses Kulit : Durango Wild Lands"
 type: post
-updated: 2018-08-05T06:18:29+07:00
+updated: 2023-08-08T14:45:40+07:00
 uuid: b8660c92-d4af-4888-8259-278b243627fb
 wordcount: 471
 ---

@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blogspot.com/-fuQY4ZIJfBw/WIfqL98biyI/AAAAAAAApSU/2Tw6yaOlGJ8GjyAXYt60X65XxNbn8kMIACLcB/w1100/spoiler-css-only.jpg
 title: CSS Spoiler Only With Label And Input
 type: post
-updated: 2018-02-24T03:44:35+07:00
+updated: 2023-08-08T14:45:44+07:00
 uuid: 71827b6b-9a66-4888-82e6-82083fe98b92
 wordcount: 1293
 ---

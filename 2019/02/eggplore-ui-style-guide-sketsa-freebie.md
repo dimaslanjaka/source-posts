@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.uxfree.com/wp-content/uploads/2019/01/eggplore-styleguide.png
 title: Eggplore Ui Style Guide Sketsa Freebie
 type: post
-updated: 2019-02-20T00:38:06+07:00
+updated: 2023-08-08T14:45:32+07:00
 uuid: c88b8b2e-cadf-4888-8176-a7a008410a28
 wordcount: 689
 ---

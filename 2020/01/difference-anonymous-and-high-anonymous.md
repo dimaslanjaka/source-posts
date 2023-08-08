@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Difference Anonymous And High Anonymous Proxy
 type: post
-updated: 2020-01-13T22:49:00+07:00
+updated: 2023-08-08T14:45:15+07:00
 uuid: 1fa80fc2-78cf-4888-8d17-613c72c46f90
 wordcount: 49
 ---

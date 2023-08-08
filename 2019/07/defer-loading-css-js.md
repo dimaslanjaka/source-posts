@@ -24,7 +24,7 @@ tags:
 thumbnail: https://media.geeksforgeeks.org/wp-content/uploads/20200318192511/Untitled-Diagram79.png
 title: Defer loading css js
 type: post
-updated: 2022-10-09T14:33:00+0700
+updated: 2023-08-08T14:45:30+07:00
 uuid: 86b04bd1-5bc5-4888-8ffa-cfcce4af9cc1
 wordcount: 1255
 ---

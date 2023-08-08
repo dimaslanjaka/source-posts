@@ -26,7 +26,7 @@ tags:
   - js
 title: debug memory leaks with jest
 type: post
-updated: 2023-05-27T17:23:34+07:00
+updated: 2023-08-08T14:44:15+07:00
 wordcount: 1183
 ---
 

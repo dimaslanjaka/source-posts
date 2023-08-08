@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/soy-braised-pork/soy-braised-pork.webp
 title: Recipe Soy-Braised Pork Chimeraland
 type: post
-updated: 2022-10-06T02:46:56+07:00
+updated: 2023-08-08T14:44:25+07:00
 wordcount: 703
 ---
 

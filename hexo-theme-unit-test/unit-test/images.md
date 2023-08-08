@@ -15,7 +15,7 @@ tags:
   - hexo
 title: Images
 type: post
-updated: 2022-10-13T12:28:35+07:00
+updated: 2023-08-08T14:44:22+07:00
 wordcount: 16
 ---
 

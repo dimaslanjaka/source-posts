@@ -20,7 +20,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets.materialup.com/uploads/82eae29e-33b7-4ff7-be10-df432402b2b6/preview
 title: Google passed proxies, updated at 2020-01-13
 type: post
-updated: 2020-01-14T00:10:18+07:00
+updated: 2023-08-08T14:45:14+07:00
 uuid: dfe171c4-73ef-4888-82f4-08b964ca4e16
 wordcount: 1195
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/litiger-mane/litiger-mane.webp
 title: Material Litiger Mane Chimeraland
 type: post
-updated: 2022-10-01T17:26:37+07:00
+updated: 2023-08-08T14:44:54+07:00
 wordcount: 1103
 ---
 

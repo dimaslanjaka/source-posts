@@ -24,7 +24,7 @@ tags:
 thumbnail: https://production-cci-com.imgix.net/blog/media/2021-10-22-git-detached-head-3.png
 title: How to fix github detached HEAD
 type: post
-updated: 2022-10-10T22:56:00+0700
+updated: 2023-08-08T14:44:19+07:00
 wordcount: 517
 ---
 

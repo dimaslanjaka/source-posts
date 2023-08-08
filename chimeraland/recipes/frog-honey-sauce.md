@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/frog-honey-sauce/frog-honey-sauce.webp
 title: Recipe Frog Honey Sauce Chimeraland
 type: post
-updated: 2022-10-06T03:46:54+07:00
+updated: 2023-08-08T14:44:28+07:00
 wordcount: 817
 ---
 

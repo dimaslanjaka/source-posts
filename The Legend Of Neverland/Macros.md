@@ -20,7 +20,7 @@ tags:
 thumbnail: https://cdn-www.bluestacks.com/bs-images/BlueStacks_Macros_Banner_EN.jpg
 title: Macros Auto Click Bluestacks
 type: post
-updated: 2023-04-14T15:39:53+07:00
+updated: 2023-08-08T14:44:12+07:00
 uuid: 4fc575e7-a1ab-4888-8279-4eed4d8c1d85
 wordcount: 733
 ---

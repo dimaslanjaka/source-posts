@@ -31,7 +31,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Platyzard
 title: Monster Platyzard
 type: post
-updated: 2023-05-25T15:27:12+07:00
+updated: 2023-08-08T14:44:35+07:00
 webtitle: chimeraland
 wordcount: 1059
 ---

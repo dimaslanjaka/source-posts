@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/sowthistle/sowthistle.webp
 title: Material Sowthistle Chimeraland
 type: post
-updated: 2022-10-04T03:26:37+07:00
+updated: 2023-08-08T14:44:50+07:00
 wordcount: 511
 ---
 

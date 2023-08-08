@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/cold-repelling-bead/cold-repelling-bead.webp
 title: Material Cold Repelling Bead Chimeraland
 type: post
-updated: 2022-10-02T13:26:37+07:00
+updated: 2023-08-08T14:44:58+07:00
 wordcount: 867
 ---
 

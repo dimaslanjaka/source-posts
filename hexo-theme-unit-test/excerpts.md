@@ -26,7 +26,7 @@ subtitle: "Excerpts The following contents should be invisible in home/archive
 tags: []
 title: Excerpts
 type: post
-updated: 2013-12-25T00:23:23+07:00
+updated: 2023-08-08T14:44:18+07:00
 wordcount: 544
 ---
 

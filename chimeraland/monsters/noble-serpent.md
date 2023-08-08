@@ -25,7 +25,7 @@ tags:
 thumbnail: /chimeraland/monsters/noble-serpent/chimeraland-noble-serpent-evolve-featured.webp
 title: Monster Noble Serpent
 type: post
-updated: 2022-10-03T04:18:27+07:00
+updated: 2023-08-08T14:44:36+07:00
 webtitle: chimeraland
 wordcount: 720
 ---

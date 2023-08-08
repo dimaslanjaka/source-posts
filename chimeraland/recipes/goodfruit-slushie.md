@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie.webp
 title: Recipe Goodfruit Slushie Chimeraland
 type: post
-updated: 2022-10-05T08:46:55+07:00
+updated: 2023-08-08T14:44:27+07:00
 wordcount: 636
 ---
 

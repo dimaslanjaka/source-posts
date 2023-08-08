@@ -33,7 +33,7 @@ tags:
 thumbnail: https://imgdb.net/images/3178.png
 title: Install perl on android 2017
 type: post
-updated: 2017-09-03T15:08:04+07:00
+updated: 2023-08-08T14:45:46+07:00
 uuid: 95238ea0-8128-4888-882c-295bcebb9381
 wordcount: 512
 ---

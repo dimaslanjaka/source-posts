@@ -22,7 +22,7 @@ tags:
 thumbnail: https://i.imgur.com/zHDw2i0.png
 title: Update Genshin Impact Patch v.1.5.1 - v.1.6.0 Via Download Manager
 type: post
-updated: 2021-06-07T11:55:21+07:00
+updated: 2023-08-08T14:45:10+07:00
 uuid: 419c2d50-0863-4888-8472-68be4e9cc5c1
 wordcount: 251
 ---

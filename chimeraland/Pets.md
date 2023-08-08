@@ -25,7 +25,7 @@ thumbnail: /chimeraland/Pets/cover.jpg
 title: Chimeraland Pets Attribute Stats Information
 toc: true
 type: post
-updated: 2022-08-26T05:30:00+0700
+updated: 2023-08-08T14:44:19+07:00
 wordcount: 1104
 ---
 

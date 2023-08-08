@@ -29,7 +29,7 @@ tags:
 thumbnail: /chimeraland/attendants/reisiger/Screenshot_2022-07-17-13-52-06-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant Reisiger
 type: post
-updated: 2022-09-29T13:26:37+07:00
+updated: 2023-08-08T14:45:05+07:00
 webtitle: chimeraland
 wordcount: 976
 ---

@@ -22,7 +22,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-9TgnNklt76g/WQFHOdxzpVI/AAAAAAAAq2s/wsRqKdRdwWg3gjEz1sC8512SVBmRNVwxwCLcB/s1600/Screenshot_8.png
 title: Memasang komentar facebook di Blogger AMP
 type: post
-updated: 2017-07-24T20:47:00+07:00
+updated: 2023-08-08T14:45:51+07:00
 uuid: 580f2618-b09c-4888-821d-11791192ff77
 wordcount: 2369
 ---

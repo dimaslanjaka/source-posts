@@ -19,7 +19,7 @@ tags: []
 thumbnail: https://4.bp.blogspot.com/-G8uvcGY1HKk/XRJ2h07bE2I/AAAAAAAAAZ4/xFxE1oVc6nctLlNdnpbGx-xvqOADFqcfQCLcBGAs/s1600/iconfinder_folder_black_PHP_51814.png
 title: Create Folder Recursive PHP
 type: post
-updated: 2019-06-26T02:36:59+07:00
+updated: 2023-08-08T14:45:31+07:00
 uuid: de885efa-8101-4888-85f5-befdd26e92be
 wordcount: 322
 ---

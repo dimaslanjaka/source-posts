@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/gourd-braised-meat/gourd-braised-meat.webp
 title: Recipe Gourd-Braised Meat Chimeraland
 type: post
-updated: 2022-10-06T13:46:54+07:00
+updated: 2023-08-08T14:44:27+07:00
 wordcount: 797
 ---
 

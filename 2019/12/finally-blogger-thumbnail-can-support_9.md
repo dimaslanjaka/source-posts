@@ -24,7 +24,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/8554a2b99506f0fdc49578e7bed10bb4.jpeg
 title: Finally the Blogger Thumbnail Can Support WEBP
 type: post
-updated: 2019-12-09T02:57:54+07:00
+updated: 2023-08-08T14:45:16+07:00
 uuid: 79969e71-fb68-4888-86fc-2b6bd37df609
 wordcount: 3569
 ---

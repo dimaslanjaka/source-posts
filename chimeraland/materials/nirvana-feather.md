@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/nirvana-feather/nirvana-feather.webp
 title: Material Nirvana Feather Chimeraland
 type: post
-updated: 2022-10-03T02:26:37+07:00
+updated: 2023-08-08T14:44:52+07:00
 wordcount: 1421
 ---
 

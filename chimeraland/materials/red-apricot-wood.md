@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/red-apricot-wood/red-apricot-wood.webp
 title: Material Red Apricot Wood Chimeraland
 type: post
-updated: 2022-10-05T22:26:37+07:00
+updated: 2023-08-08T14:44:51+07:00
 wordcount: 1165
 ---
 

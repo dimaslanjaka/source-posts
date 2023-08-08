@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/newt-fat/newt-fat.webp
 title: Material Newt Fat Chimeraland
 type: post
-updated: 2022-10-02T18:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 1042
 ---
 

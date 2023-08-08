@@ -26,7 +26,7 @@ tags:
 thumbnail: https://i2.wp.com/orbitingweb.com/wp-content/uploads/facebook-create-app-page.png?resize=641%2C174
 title: Cara Menambahkan Komentar Facebook Di Wordpress Tanpa Plugin
 type: post
-updated: 2017-04-14T01:53:09+07:00
+updated: 2023-08-08T14:46:01+07:00
 uuid: 52cd2952-606b-4888-89a9-8aca71ed8953
 wordcount: 4930
 ---

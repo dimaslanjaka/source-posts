@@ -35,7 +35,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Horned Fortuphant
 title: Monster Horned Fortuphant
 type: post
-updated: 2023-05-25T07:31:12+07:00
+updated: 2023-08-08T14:44:39+07:00
 webtitle: chimeraland
 wordcount: 1237
 ---

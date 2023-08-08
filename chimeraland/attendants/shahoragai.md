@@ -35,7 +35,7 @@ tags:
 thumbnail: /chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-20-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant Shahoragai
 type: post
-updated: 2022-09-29T10:26:37+07:00
+updated: 2023-08-08T14:45:03+07:00
 webtitle: chimeraland
 wordcount: 1360
 ---

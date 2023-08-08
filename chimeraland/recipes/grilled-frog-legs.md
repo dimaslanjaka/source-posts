@@ -28,7 +28,7 @@ tags:
 thumbnail: /chimeraland/recipes/grilled-frog-legs/grilled-frog-legs.webp
 title: Recipe Grilled Frog Legs Chimeraland
 type: post
-updated: 2022-10-06T05:46:54+07:00
+updated: 2023-08-08T14:44:27+07:00
 wordcount: 753
 ---
 

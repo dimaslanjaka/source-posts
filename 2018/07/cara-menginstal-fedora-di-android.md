@@ -26,7 +26,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googleusercontent.com/-r2rcHfz-Dto/WSb5DKBPBkI/AAAAAAAAB4I/H0a69gufG-UXKzPcAr2M-O9jhNZ_Nf5uACHM/%255BUNSET%255D
 title: Cara Install Fedora Di Android
 type: post
-updated: 2018-11-12T12:49:24+07:00
+updated: 2023-08-08T14:45:40+07:00
 uuid: a44a05d1-85d3-4888-89c4-f8e20104883a
 wordcount: 1124
 ---

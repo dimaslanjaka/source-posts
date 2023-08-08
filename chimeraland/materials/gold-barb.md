@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/gold-barb/gold-barb.webp
 title: Material Gold Barb Chimeraland
 type: post
-updated: 2022-10-08T00:26:37+07:00
+updated: 2023-08-08T14:44:56+07:00
 wordcount: 898
 ---
 

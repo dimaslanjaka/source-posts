@@ -20,7 +20,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-F-ocOo6kFI4/TZmheb35DxI/AAAAAAAAL0M/qYSBewm5xDY/s1600/Local-Player.png
 title: App Player Musik yang Luar Biasa untuk Google Chrome
 type: post
-updated: 2017-10-14T00:32:02+07:00
+updated: 2023-08-08T14:45:45+07:00
 uuid: 89b06ce1-da9a-4888-836a-a4e6c67c80c0
 wordcount: 293
 ---

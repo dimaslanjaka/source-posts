@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/cantaloupe-claypot/cantaloupe-claypot.webp
 title: Recipe Cantaloupe Claypot Chimeraland
 type: post
-updated: 2022-10-05T20:46:53+07:00
+updated: 2023-08-08T14:44:29+07:00
 wordcount: 776
 ---
 

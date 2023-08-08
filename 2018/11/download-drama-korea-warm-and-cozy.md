@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://drakorstation.com/wp-content/uploads/2018/11/Warm-and-Cozy-Subtitle-Indonesia.jpg
 title: Download Drama Korea Warm And Cozy Subtitle Indonesia 1 - 16end
 type: post
-updated: 2018-11-15T07:41:08+07:00
+updated: 2023-08-08T14:45:38+07:00
 uuid: 295c8419-749c-4888-8e21-b1dacab992c1
 wordcount: 3823
 ---

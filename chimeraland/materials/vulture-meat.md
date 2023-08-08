@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/vulture-meat/vulture-meat.webp
 title: Material Vulture Meat Chimeraland
 type: post
-updated: 2022-09-29T20:26:37+07:00
+updated: 2023-08-08T14:44:48+07:00
 wordcount: 1665
 ---
 

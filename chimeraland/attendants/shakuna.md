@@ -29,7 +29,7 @@ tags:
 thumbnail: /chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-18-43-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant shakuna
 type: post
-updated: 2023-02-13T14:32:50+07:00
+updated: 2023-08-08T14:45:03+07:00
 webtitle: chimeraland
 wordcount: 988
 ---

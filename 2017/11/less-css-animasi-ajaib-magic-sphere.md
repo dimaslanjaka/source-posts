@@ -30,7 +30,7 @@ tags:
 thumbnail: https://2.bp.blogspot.com/-5d_OvW33fDo/WhBervqePKI/AAAAAAAAAJQ/R6hFARO2rXspRWC5wdtu-_XHj1j-miz9ACLcBGAs/s400/Screenshot_2017-11-18-23-18-35-554_com.android.chrome.png
 title: LESS CSS Animasi Ajaib Magic Sphere
 type: post
-updated: 2017-11-20T23:35:07+07:00
+updated: 2023-08-08T14:45:43+07:00
 uuid: e1a80170-a27b-4888-82e7-92db9b98fc84
 wordcount: 4755
 ---

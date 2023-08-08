@@ -24,7 +24,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Get CPU usage / RAM usage [PHP]
 type: post
-updated: 2018-11-06T03:08:07+07:00
+updated: 2023-08-08T14:45:37+07:00
 uuid: 57598649-d08d-4888-8e8a-385c3470c327
 wordcount: 291
 ---

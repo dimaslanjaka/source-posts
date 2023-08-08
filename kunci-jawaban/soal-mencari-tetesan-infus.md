@@ -24,7 +24,7 @@ tags:
   - drop rate
 title: Kumpulan soal cara mencari tetesan infus
 type: post
-updated: 2022-10-24T19:46:12+07:00
+updated: 2023-08-08T14:44:16+07:00
 wordcount: 643
 ---
 

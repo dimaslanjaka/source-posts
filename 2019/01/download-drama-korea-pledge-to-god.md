@@ -24,7 +24,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://t7j2r8j8.stackpathcdn.com/wp-content/uploads/2018/11/Download-Drama-Korea-A-Pledge-to-God-Subtitle-Indonesia.jpg
 title: Download Drama Korea A Pledge To God Subtitle Indonesia
 type: post
-updated: 2019-01-07T01:43:05+07:00
+updated: 2023-08-08T14:45:34+07:00
 uuid: 6ca77bac-4cc2-4888-8918-d5853ed02c09
 wordcount: 5943
 ---

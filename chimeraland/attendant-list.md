@@ -28,7 +28,7 @@ tags:
   - attendant
 title: Chimeraland Attendant List
 type: post
-updated: 2023-08-06T22:00:21+07:00
+updated: 2023-08-08T14:44:20+07:00
 wordcount: 173
 ---
 

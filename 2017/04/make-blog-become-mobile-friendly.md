@@ -24,7 +24,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-WFX0GRHO_hU/VW1H7LU1faI/AAAAAAAABmU/hFAoVMjR--M/s1600/mengaktifkan%2Btampilan%2Bseluler%2Bpada%2Bblog.png
 title: Make Blog Become a Mobile-Friendly
 type: post
-updated: 2017-04-26T16:21:02+07:00
+updated: 2023-08-08T14:45:59+07:00
 uuid: 20a42013-5c7f-4888-880d-0cb410e8c30f
 wordcount: 7655
 ---

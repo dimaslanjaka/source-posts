@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/blamprey/blamprey.webp
 title: Material Blamprey Chimeraland
 type: post
-updated: 2022-10-08T12:26:37+07:00
+updated: 2023-08-08T14:45:00+07:00
 wordcount: 654
 ---
 

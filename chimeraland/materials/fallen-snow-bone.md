@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/fallen-snow-bone/fallen-snow-bone.webp
 title: Material Fallen Snow Bone Chimeraland
 type: post
-updated: 2022-10-10T11:26:37+07:00
+updated: 2023-08-08T14:44:57+07:00
 wordcount: 443
 ---
 

@@ -13,7 +13,7 @@ subtitle: Current Post Variables
 tags: []
 title: Post Data
 type: post
-updated: 2021-12-23T17:00:26+0000
+updated: 2023-08-08T14:44:17+07:00
 wordcount: 10
 ---
 

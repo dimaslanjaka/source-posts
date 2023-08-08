@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/coriander/coriander.webp
 title: Material Coriander Chimeraland
 type: post
-updated: 2022-10-04T17:26:37+07:00
+updated: 2023-08-08T14:44:58+07:00
 wordcount: 1584
 ---
 

@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/newt-meat/newt-meat.webp
 title: Material Newt Meat Chimeraland
 type: post
-updated: 2022-09-30T02:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 633
 ---
 

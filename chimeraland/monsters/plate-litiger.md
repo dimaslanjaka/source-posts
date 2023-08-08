@@ -25,7 +25,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Plate Litiger
 title: Monster Plate Litiger
 type: post
-updated: 2023-05-25T11:49:12+07:00
+updated: 2023-08-08T14:44:35+07:00
 webtitle: chimeraland
 wordcount: 658
 ---

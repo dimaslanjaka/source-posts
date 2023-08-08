@@ -13,7 +13,7 @@ subtitle: all about nodemon
 tags: []
 title: nodemon
 type: post
-updated: 2022-12-29T14:24:41+07:00
+updated: 2023-08-08T14:44:15+07:00
 wordcount: 122
 ---
 

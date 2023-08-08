@@ -31,7 +31,7 @@ tags:
 thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82
 title: removes node_modules from git history
 type: post
-updated: 2023-06-01T09:12:13+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 1182
 ---
 

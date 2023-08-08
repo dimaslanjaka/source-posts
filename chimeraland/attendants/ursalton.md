@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-09-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant ursalton
 type: post
-updated: 2022-11-26T09:35:17+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 1059
 ---

@@ -29,7 +29,7 @@ tags:
 thumbnail: https://i.stack.imgur.com/4TYxW.jpg
 title: XAMPP
 type: post
-updated: 2021-12-12T13:38:42+07:00
+updated: 2023-08-08T14:44:21+07:00
 uuid: 1bd42c10-7050-4888-887e-658da5efced0
 webtitle: Desktop Shortcut
 wordcount: 272

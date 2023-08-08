@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/fiber/fiber.webp
 title: Material Fiber Chimeraland
 type: post
-updated: 2022-10-09T18:26:37+07:00
+updated: 2023-08-08T14:44:57+07:00
 wordcount: 955
 ---
 

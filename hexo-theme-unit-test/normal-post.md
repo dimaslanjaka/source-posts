@@ -13,7 +13,7 @@ subtitle: Description normal post
 tags: []
 title: Normal post
 type: post
-updated: 2022-11-11T07:00:00+07:00
+updated: 2023-08-08T14:44:17+07:00
 wordcount: 7
 ---
 

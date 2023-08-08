@@ -25,7 +25,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-f-ct8DCNaLo/VSQIY4m9-iI/AAAAAAAAA-c/ZMxcl6H0S60/s1600/recent_posts.jpg
 title: Recent Widget Animation Effects On Blogger
 type: post
-updated: 2017-05-05T23:00:26+07:00
+updated: 2023-08-08T14:45:54+07:00
 uuid: 90ac57f2-8104-4888-8000-8cc0e203d812
 wordcount: 1865
 ---

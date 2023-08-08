@@ -32,7 +32,7 @@ tags:
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrPydJSDJ0qsdxmme5yXnxWiCKL71LNDgDbdXJxGC31KXn6aG-PyQdmuOFvQ
 title: Valid AMP Contact Form Html For AMP Page
 type: post
-updated: 2017-04-17T03:11:36+07:00
+updated: 2023-08-08T14:45:58+07:00
 uuid: b90c1009-1073-4888-8fc0-001b1346d007
 wordcount: 844
 ---

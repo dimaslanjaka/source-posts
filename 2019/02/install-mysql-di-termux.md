@@ -29,7 +29,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://netsolutions.net.au/wp-content/uploads/2015/07/mysql-mariadb-795x480.png
 title: Install MySQL di termux
 type: post
-updated: 2022-03-26T19:01:31+0700
+updated: 2023-08-08T14:45:32+07:00
 uuid: 88f4fad2-2966-4888-8741-45f35477c275
 wordcount: 347
 ---

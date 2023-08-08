@@ -37,7 +37,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ashfoot Gripine
 title: Monster Ashfoot Gripine
 type: post
-updated: 2023-05-25T07:16:12+07:00
+updated: 2023-08-08T14:44:47+07:00
 webtitle: chimeraland
 wordcount: 1576
 ---

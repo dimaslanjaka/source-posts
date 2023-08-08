@@ -21,7 +21,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2016/special-forces-group-2-1.png
 title: DOWNLOAD Special Forces Group 2 3.7 Apk  Mod Money  Data android
 type: post
-updated: 2019-01-11T10:19:05+07:00
+updated: 2023-08-08T14:45:33+07:00
 uuid: c34f93ef-7d5e-4888-8336-43b529f3eea6
 wordcount: 1253
 ---

@@ -34,7 +34,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-rlX3eX2Ncmc/WaZzcWKApYI/AAAAAAAAHVc/EtQrgEUUiyou54pxhpU0AfAW-ivce0fZgCLcBGAs/s320/images%2B%25281%2529.png
 title: Responsive RSS Search Form With Bootstraps 4.0.0-beta
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:48+07:00
 uuid: 787ad08a-0922-4888-8ec7-41c54743ed96
 wordcount: 2770
 ---

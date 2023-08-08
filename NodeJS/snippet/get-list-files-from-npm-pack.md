@@ -29,7 +29,7 @@ tags:
 thumbnail: /NodeJS/assets/pngwing.com.png
 title: get list of files from npm pack
 type: post
-updated: 2023-01-10T23:27:03+07:00
+updated: 2023-08-08T14:44:21+07:00
 wordcount: 204
 ---
 

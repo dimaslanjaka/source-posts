@@ -34,7 +34,7 @@ tags:
 thumbnail: /chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-28-39-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster child triceratops
 type: post
-updated: 2023-03-10T22:30:18+07:00
+updated: 2023-08-08T14:44:45+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

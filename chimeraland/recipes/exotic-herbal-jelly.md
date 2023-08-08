@@ -27,7 +27,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Exotic Herbal Jelly
 title: Recipe Exotic Herbal Jelly Chimeraland
 type: post
-updated: 2022-09-30T00:26:37+07:00
+updated: 2023-08-08T14:44:29+07:00
 wordcount: 868
 ---
 

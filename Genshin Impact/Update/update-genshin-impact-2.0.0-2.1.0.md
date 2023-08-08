@@ -22,7 +22,7 @@ tags:
 thumbnail: /Genshin Impact/Update/update-genshin-impact-1.5.1-1.6.0/cover.jpg
 title: Update Genshin Impact 2.1.0 Manual
 type: post
-updated: 2021-12-19T06:33:31+07:00
+updated: 2023-08-08T14:44:22+07:00
 uuid: def8063b-57c3-4888-8632-a5828699d996
 webtitle: WMI Genshin Impact
 wordcount: 250

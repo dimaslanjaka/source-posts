@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl.webp
 title: Recipe Pumpkin Bowl Chimeraland
 type: post
-updated: 2022-10-07T02:46:54+07:00
+updated: 2023-08-08T14:44:25+07:00
 wordcount: 911
 ---
 

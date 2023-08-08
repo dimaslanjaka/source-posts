@@ -24,7 +24,7 @@ tags:
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPiiyCAjSBQpwIQYKGS6wUqFGHQWSK9W7UhmZ5mu9eAPavFkA-
 title: Expandable Search Bar [CSS]
 type: post
-updated: 2017-04-21T00:40:51+07:00
+updated: 2023-08-08T14:46:01+07:00
 uuid: cdb40f39-2b7f-4888-8c74-8a36545b3924
 wordcount: 53
 ---

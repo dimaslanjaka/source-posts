@@ -23,7 +23,7 @@ thumbnail: https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac704
   4.png
 title: Force github follow symlinked folders
 type: post
-updated: 2022-10-10T22:56:00+0700
+updated: 2023-08-08T14:44:18+07:00
 wordcount: 718
 ---
 

@@ -24,7 +24,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Create Awesome Shadow Effect Using HAML and LESS CSS
 type: post
-updated: 2017-07-19T02:52:09+07:00
+updated: 2023-08-08T14:45:52+07:00
 uuid: 3cfdcf27-0abb-4888-8e70-3e5bb23b8404
 wordcount: 1220
 ---

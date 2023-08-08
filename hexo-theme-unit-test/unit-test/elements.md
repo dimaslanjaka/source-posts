@@ -24,7 +24,7 @@ subtitle: Elements The purpose of this post is to help you make sure all of HTML
 tags: []
 title: Elements
 type: post
-updated: 2013-12-24T23:29:08+07:00
+updated: 2023-08-08T14:44:22+07:00
 wordcount: 1395
 ---
 

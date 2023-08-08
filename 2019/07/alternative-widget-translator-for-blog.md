@@ -22,7 +22,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://tools.robingood.com/assets/393/1493297085-google-translate-2png.png
 title: Alternative Widget Translator for blog
 type: post
-updated: 2019-07-26T01:10:33+07:00
+updated: 2023-08-08T14:45:31+07:00
 uuid: addf0df2-5c9f-4888-87d4-e2c3f31e59bb
 wordcount: 1469
 ---

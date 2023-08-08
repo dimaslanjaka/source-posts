@@ -32,7 +32,7 @@ tags:
   - agent
 title: NPM Package Agent For Programmer In China
 type: post
-updated: 2022-11-10T09:29:49+07:00
+updated: 2023-08-08T14:44:15+07:00
 wordcount: 45
 ---
 

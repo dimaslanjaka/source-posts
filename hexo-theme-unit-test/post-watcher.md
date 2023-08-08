@@ -15,7 +15,7 @@ subtitle: watching post watch post body
 tags: []
 title: watching post
 type: page
-updated: 2023-01-04T09:18:05Z
+updated: 2023-08-08T14:44:17+07:00
 wordcount: 7
 ---
 

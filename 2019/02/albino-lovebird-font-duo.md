@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.uxfree.com/wp-content/uploads/2019/01/albino-lovebird-font-duo.jpg
 title: Albino Lovebird Font Duo
 type: post
-updated: 2019-02-21T00:38:03+07:00
+updated: 2023-08-08T14:45:32+07:00
 uuid: 58f50dc2-6002-4888-82aa-98d1f030ae5a
 wordcount: 330
 ---

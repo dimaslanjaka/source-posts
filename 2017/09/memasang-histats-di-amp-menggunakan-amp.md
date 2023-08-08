@@ -24,7 +24,7 @@ tags:
 thumbnail: https://2.bp.blogspot.com/-jSLiOZsuahQ/WaRcT-NMI4I/AAAAAAAAACI/vjuid9-u-hE4pT43zsx0XxoytpjWj5HdACLcBGAs/s320/histats-2.jpg
 title: Memasang Histats Di AMP Menggunakan amp-pixel
 type: post
-updated: 2017-09-14T01:20:01+07:00
+updated: 2023-08-08T14:45:46+07:00
 uuid: ba11674a-9d5b-4888-8e3a-e14f223a43a2
 wordcount: 675
 ---

@@ -29,7 +29,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: "Windows 8: Backup UI Modern Apps Data Offline,  Restore dengan mudah"
 type: post
-updated: 2017-10-16T00:45:05+07:00
+updated: 2023-08-08T14:45:43+07:00
 uuid: ad471b1e-7f06-4888-8368-a0ffb73d389a
 wordcount: 1074
 ---

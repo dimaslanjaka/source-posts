@@ -25,7 +25,7 @@ tags:
 thumbnail: https://miro.medium.com/max/2476/0*Mll3yo3DWALtRYPR.png
 title: Import composite build plugin as subtitue module dependency [Gradle]
 type: post
-updated: 2021-04-20T16:40:48+07:00
+updated: 2023-08-08T14:45:11+07:00
 uuid: a9027466-66dd-4888-8a50-f96f0c8f8ab0
 wordcount: 72
 ---

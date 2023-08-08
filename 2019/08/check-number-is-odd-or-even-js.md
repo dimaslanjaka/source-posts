@@ -29,7 +29,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/jFazrvLodrA/maxresdefault.jpg
 title: Check number is Odd or Even [JS]
 type: post
-updated: 2019-08-02T19:10:04+07:00
+updated: 2023-08-08T14:45:29+07:00
 uuid: d2b9bcf1-4eb6-4888-8a40-1a164fb36b67
 wordcount: 204
 ---

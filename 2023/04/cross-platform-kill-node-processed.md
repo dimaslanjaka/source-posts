@@ -27,7 +27,7 @@ tags:
   - cmd
 title: How to kill node processed for all operating system
 type: post
-updated: 2023-04-08T22:48:58+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 193
 ---
 

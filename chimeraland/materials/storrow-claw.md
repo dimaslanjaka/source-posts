@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/storrow-claw/storrow-claw.webp
 title: Material Storrow Claw Chimeraland
 type: post
-updated: 2022-10-02T14:26:37+07:00
+updated: 2023-08-08T14:44:49+07:00
 wordcount: 1061
 ---
 

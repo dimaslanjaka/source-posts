@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/poplar-sap/poplar-sap.webp
 title: Material Poplar Sap Chimeraland
 type: post
-updated: 2022-10-06T06:26:37+07:00
+updated: 2023-08-08T14:44:52+07:00
 wordcount: 1083
 ---
 

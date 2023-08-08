@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce.webp
 title: Recipe Goodfruit Sauce Chimeraland
 type: post
-updated: 2022-09-28T21:26:37+07:00
+updated: 2023-08-08T14:44:27+07:00
 wordcount: 646
 ---
 

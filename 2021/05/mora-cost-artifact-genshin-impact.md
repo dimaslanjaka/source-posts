@@ -23,7 +23,7 @@ tags:
 thumbnail: /2021/05/mora-cost-artifact-genshin-impact/thumbnail.png
 title: Mora Cost Artifact
 type: post
-updated: 2022-10-22T06:52:14+07:00
+updated: 2023-08-08T14:45:10+07:00
 uuid: 7c2644ae-b310-4888-8272-15eb1b3dc9bb
 webtitle: Genshin Impact
 wordcount: 37

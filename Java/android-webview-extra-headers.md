@@ -28,7 +28,7 @@ tags:
   - webview
 title: Android Webview With Extra Headers
 type: post
-updated: 2023-03-28T09:52:52+07:00
+updated: 2023-08-08T14:44:16+07:00
 wordcount: 73
 ---
 

@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-14-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster hermit crab
 type: post
-updated: 2022-11-25T20:28:54+07:00
+updated: 2023-08-08T14:44:39+07:00
 webtitle: chimeraland
 wordcount: 1237
 ---

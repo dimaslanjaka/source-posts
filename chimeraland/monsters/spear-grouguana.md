@@ -22,7 +22,7 @@ tags:
   - pet
 title: Monster Spear Grouguana
 type: post
-updated: 2022-10-02T03:18:27+07:00
+updated: 2023-08-08T14:44:33+07:00
 webtitle: chimeraland
 wordcount: 546
 ---

@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-roarbor/Screenshot_2023-02-24-13-37-43-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster giant roarbor
 type: post
-updated: 2023-03-11T05:30:18+07:00
+updated: 2023-08-08T14:44:41+07:00
 webtitle: chimeraland
 wordcount: 1237
 ---

@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/greensuit-fish/greensuit-fish.webp
 title: Material Greensuit Fish Chimeraland
 type: post
-updated: 2022-10-06T14:26:37+07:00
+updated: 2023-08-08T14:44:55+07:00
 wordcount: 834
 ---
 

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/braised-wings/braised-wings.webp
 title: Recipe Braised Wings Chimeraland
 type: post
-updated: 2022-10-05T07:46:57+07:00
+updated: 2023-08-08T14:44:29+07:00
 wordcount: 752
 ---
 

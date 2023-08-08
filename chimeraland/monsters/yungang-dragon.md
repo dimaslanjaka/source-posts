@@ -37,7 +37,7 @@ tags:
 thumbnail: /chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster Yungang Dragon
 type: post
-updated: 2022-10-03T06:18:27+07:00
+updated: 2023-08-08T14:44:30+07:00
 webtitle: chimeraland
 wordcount: 1578
 ---

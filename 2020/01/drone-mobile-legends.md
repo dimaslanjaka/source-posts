@@ -27,7 +27,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Drone Mobile Legends
 type: post
-updated: 2020-02-01T15:02:16+07:00
+updated: 2023-08-08T14:45:15+07:00
 uuid: 24bbe201-fc3c-4888-8398-6d868f69a012
 wordcount: 370
 ---

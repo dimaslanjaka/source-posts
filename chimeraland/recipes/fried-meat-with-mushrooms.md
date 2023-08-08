@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms.webp
 title: Recipe Fried Meat With Mushrooms Chimeraland
 type: post
-updated: 2022-10-05T13:46:56+07:00
+updated: 2023-08-08T14:44:28+07:00
 wordcount: 846
 ---
 

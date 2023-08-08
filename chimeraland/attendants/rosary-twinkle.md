@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/attendants/rosary-twinkle/Screenshot_2023-02-27-04-06-40-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant rosary twinkle
 type: post
-updated: 2023-03-11T05:30:17+07:00
+updated: 2023-08-08T14:45:03+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

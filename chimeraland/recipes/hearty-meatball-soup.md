@@ -27,7 +27,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hearty Meatball Soup
 title: Recipe Hearty Meatball Soup Chimeraland
 type: post
-updated: 2022-09-29T09:26:37+07:00
+updated: 2023-08-08T14:44:27+07:00
 wordcount: 866
 ---
 

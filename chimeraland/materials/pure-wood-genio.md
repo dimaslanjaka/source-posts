@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/pure-wood-genio/pure-wood-genio.webp
 title: Material Pure Wood Genio Chimeraland
 type: post
-updated: 2022-10-04T10:26:37+07:00
+updated: 2023-08-08T14:44:51+07:00
 wordcount: 636
 ---
 

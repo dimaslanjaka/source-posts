@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/icebug-primal-spirit/icebug-primal-spirit.webp
 title: Material Icebug Primal Spirit Chimeraland
 type: post
-updated: 2022-10-03T22:26:37+07:00
+updated: 2023-08-08T14:44:54+07:00
 wordcount: 1848
 ---
 

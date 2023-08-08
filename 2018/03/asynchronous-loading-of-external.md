@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Asynchronous Loading of External Javascript
 type: post
-updated: 2019-07-22T03:23:18+07:00
+updated: 2023-08-08T14:45:41+07:00
 uuid: fdb4c0db-0e4a-4888-8ac1-5ec390d0a800
 wordcount: 968
 ---

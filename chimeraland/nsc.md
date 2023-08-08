@@ -30,7 +30,7 @@ tags:
 thumbnail: https://i.ytimg.com/vi/KrUg7LrjBRs/maxresdefault.jpg
 title: Apa itu NSC di chimeraland?
 type: post
-updated: 2023-03-30T12:42:20+07:00
+updated: 2023-08-08T14:44:19+07:00
 wordcount: 227
 ---
 

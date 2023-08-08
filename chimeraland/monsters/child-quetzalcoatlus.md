@@ -42,7 +42,7 @@ tags:
 thumbnail: /chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-12-21-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster child quetzalcoatlus
 type: post
-updated: 2023-03-10T21:30:18+07:00
+updated: 2023-08-08T14:44:45+07:00
 webtitle: chimeraland
 wordcount: 1814
 ---

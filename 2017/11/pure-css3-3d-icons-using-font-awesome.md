@@ -21,7 +21,7 @@ tags:
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppA7rQroLKWdCMKXWTRh4ybyogf1cT_XQFnD95O0VCwVjKu_O
 title: Pure CSS3 3D Icons Using Font Awesome 4.7.0
 type: post
-updated: 2017-11-10T04:42:54+07:00
+updated: 2023-08-08T14:45:43+07:00
 uuid: ff3683ca-e40b-4888-8440-1a39a3266eaa
 wordcount: 1969
 ---

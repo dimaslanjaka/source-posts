@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/attendants/rosary-seraphin/Screenshot_2022-11-15-11-22-10-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant rosary seraphin
 type: post
-updated: 2022-11-26T03:35:17+07:00
+updated: 2023-08-08T14:45:04+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

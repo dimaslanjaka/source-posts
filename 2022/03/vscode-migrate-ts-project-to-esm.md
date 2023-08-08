@@ -25,7 +25,7 @@ tags: []
 thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/https://opengraph.githubassets.com/51ab140e160882668aa0f466b095b5bb634739d04b8095f768d1741def9280f2/inmanta/vscode-inmanta/issues/314
 title: VSCode Migrate Typescript CommonJS to ESM
 type: post
-updated: 2022-03-30T06:57:37+0000
+updated: 2023-08-08T14:45:09+07:00
 wordcount: 1063
 ---
 

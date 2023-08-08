@@ -22,7 +22,7 @@ tags:
 thumbnail: https://i.ibb.co/024Dzwh/Screenshot-1.png
 title: Compress ES6 In Intellij IDEA
 type: post
-updated: 2021-05-30T16:43:44+07:00
+updated: 2023-08-08T14:45:11+07:00
 uuid: 0ac49882-5f5b-4888-84cf-0a0541116745
 webtitle: Intellij IDEA
 wordcount: 366

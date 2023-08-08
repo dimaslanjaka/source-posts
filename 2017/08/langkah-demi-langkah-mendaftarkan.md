@@ -20,7 +20,7 @@ tags:
 thumbnail: https://www.abrightclearweb.com/wp-content/uploads/2015/02/domain-name-suffixes.jpeg
 title: Langkah demi langkah mendaftarkan domain di godaddy
 type: post
-updated: 2017-08-26T21:53:05+07:00
+updated: 2023-08-08T14:45:48+07:00
 uuid: 92cf0e8c-c1cb-4888-8163-5d0a3e54280c
 wordcount: 2032
 ---

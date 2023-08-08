@@ -25,7 +25,7 @@ tags:
 thumbnail: /chimeraland/monsters/bony-sabretooth/chimeraland-bony-stretooth-evolve-featured.webp
 title: Monster Bony Sabretooth
 type: post
-updated: 2022-10-03T10:18:27+07:00
+updated: 2023-08-08T14:44:46+07:00
 webtitle: chimeraland
 wordcount: 658
 ---

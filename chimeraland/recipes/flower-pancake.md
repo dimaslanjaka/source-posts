@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/flower-pancake/flower-pancake.webp
 title: Recipe Flower Pancake Chimeraland
 type: post
-updated: 2022-10-05T20:46:54+07:00
+updated: 2023-08-08T14:44:28+07:00
 wordcount: 702
 ---
 

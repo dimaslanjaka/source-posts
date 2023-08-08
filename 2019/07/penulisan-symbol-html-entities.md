@@ -20,7 +20,7 @@ tags:
 thumbnail: https://www.webmanajemen.com/assets/img/html.png
 title: Penulisan Symbol HTML Entities
 type: post
-updated: 2019-07-25T23:13:53+07:00
+updated: 2023-08-08T14:45:29+07:00
 uuid: 43e8b8ef-dfc2-4888-8095-4d0cef0b9b76
 wordcount: 1906
 ---

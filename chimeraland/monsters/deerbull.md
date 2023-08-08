@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/monsters/deerbull/Screenshot_2022-11-14-11-05-48-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster Deerbull
 type: post
-updated: 2022-09-29T18:18:27+07:00
+updated: 2023-08-08T14:44:45+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

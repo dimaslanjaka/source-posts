@@ -19,7 +19,7 @@ tags:
   - html
 title: Bootstrap 4 Multi Card Carousel Without Any Plugin
 type: post
-updated: 2022-08-28T22:11:00+0700
+updated: 2023-08-08T14:45:09+07:00
 wordcount: 175
 ---
 

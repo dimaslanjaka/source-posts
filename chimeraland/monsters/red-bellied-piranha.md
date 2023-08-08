@@ -25,7 +25,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Red-Bellied Piranha
 title: Monster Red-Bellied Piranha
 type: post
-updated: 2023-05-25T12:22:12+07:00
+updated: 2023-08-08T14:44:35+07:00
 webtitle: chimeraland
 wordcount: 658
 ---

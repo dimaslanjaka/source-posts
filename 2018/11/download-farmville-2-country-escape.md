@@ -21,7 +21,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2014/01/FarmVille-2-Country-Escape-1.jpg
 title: DOWNLOAD FarmVille 2 Country Escape 11.3.2931 Apk  Mod unlimited Keys,Gems
 type: post
-updated: 2018-11-30T00:03:52+07:00
+updated: 2023-08-08T14:45:38+07:00
 uuid: c23fb60f-b203-4888-8a1e-ba8e514343fa
 wordcount: 2405
 ---

@@ -22,7 +22,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techylist.com/wp-content/uploads/2017/12/image-result-for-lucky-patcher-images-3-1024x593.jpeg
 title: DOWNLOAD Lucky Patcher 7.5.0 Apk  Mod for android
 type: post
-updated: 2018-11-13T11:33:37+07:00
+updated: 2023-08-08T14:45:37+07:00
 uuid: bb46caa1-58ca-4888-88c5-5ae3f84dcb60
 wordcount: 709
 ---

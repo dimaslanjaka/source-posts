@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-06-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant lunar astra
 type: post
-updated: 2023-03-11T01:30:17+07:00
+updated: 2023-08-08T14:45:06+07:00
 webtitle: chimeraland
 wordcount: 1237
 ---

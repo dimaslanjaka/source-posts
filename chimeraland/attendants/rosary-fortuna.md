@@ -29,7 +29,7 @@ tags:
 thumbnail: /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-16-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant Rosary Fortuna
 type: post
-updated: 2022-09-29T15:26:37+07:00
+updated: 2023-08-08T14:45:04+07:00
 webtitle: chimeraland
 wordcount: 1063
 ---

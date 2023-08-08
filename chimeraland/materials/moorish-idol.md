@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/moorish-idol/moorish-idol.webp
 title: Material Moorish Idol Chimeraland
 type: post
-updated: 2022-10-07T17:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 981
 ---
 

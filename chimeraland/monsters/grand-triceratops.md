@@ -34,7 +34,7 @@ tags:
 thumbnail: /chimeraland/monsters/grand-triceratops/Screenshot_2023-03-02-05-14-55-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster grand triceratops
 type: post
-updated: 2023-03-11T10:30:18+07:00
+updated: 2023-08-08T14:44:40+07:00
 webtitle: chimeraland
 wordcount: 1156
 ---

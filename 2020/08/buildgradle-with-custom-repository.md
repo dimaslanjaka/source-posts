@@ -26,7 +26,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: build.gradle with custom repository
 type: post
-updated: 2020-08-10T20:47:57+07:00
+updated: 2023-08-08T14:45:13+07:00
 uuid: e536a08c-6257-4888-8667-4b39732b9374
 wordcount: 399
 ---

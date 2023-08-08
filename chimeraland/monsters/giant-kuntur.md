@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-17-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster giant kuntur
 type: post
-updated: 2023-03-11T03:30:18+07:00
+updated: 2023-08-08T14:44:42+07:00
 webtitle: chimeraland
 wordcount: 1237
 ---

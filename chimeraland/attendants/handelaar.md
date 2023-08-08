@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-32-32-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant handelaar
 type: post
-updated: 2023-05-23T11:14:26+07:00
+updated: 2023-08-08T14:45:06+07:00
 webtitle: chimeraland
 wordcount: 1130
 ---

@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/attendants/halekat/Screenshot_2023-02-18-01-20-44-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant halekat
 type: post
-updated: 2023-02-18T14:09:01+07:00
+updated: 2023-08-08T14:45:06+07:00
 webtitle: chimeraland
 wordcount: 1130
 ---

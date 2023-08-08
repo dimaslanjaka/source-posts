@@ -33,7 +33,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
 title: Increase Performance Android Studio
 type: post
-updated: 2022-11-17T05:10:04+07:00
+updated: 2023-08-08T14:44:16+07:00
 uuid: 07fe6730-d4e9-4888-8069-db5d8c1f9297
 wordcount: 3996
 ---

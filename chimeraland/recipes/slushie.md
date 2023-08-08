@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/slushie/slushie.webp
 title: Recipe Slushie Chimeraland
 type: post
-updated: 2022-10-06T07:46:55+07:00
+updated: 2023-08-08T14:44:25+07:00
 wordcount: 930
 ---
 

@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://drakorstation.com/wp-content/uploads/2018/12/Fates-and-Furies-Subtitle-Indonesia.jpg
 title: Download Drama Korea Fates And Furies Subtitle Indonesia Episode 15 - 16
 type: post
-updated: 2019-01-09T10:18:06+07:00
+updated: 2023-08-08T14:45:34+07:00
 uuid: b8d3e62e-8ee3-4888-8651-d06fbd14c354
 wordcount: 2703
 ---

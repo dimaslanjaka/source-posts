@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers.webp
 title: Recipe Strange Meat Skewers Chimeraland
 type: post
-updated: 2022-10-05T10:46:56+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 714
 ---
 

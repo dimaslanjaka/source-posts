@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-ice-whale/Screenshot_2023-02-16-02-54-17-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster giant ice whale
 type: post
-updated: 2023-02-16T23:53:22+07:00
+updated: 2023-08-08T14:44:42+07:00
 webtitle: chimeraland
 wordcount: 1253
 ---

@@ -36,7 +36,7 @@ tags:
 thumbnail: /chimeraland/monsters/horned-denglong/Screenshot_2022-07-14-22-21-04-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster Horned Denglong
 type: post
-updated: 2022-09-30T22:18:27+07:00
+updated: 2023-08-08T14:44:39+07:00
 webtitle: chimeraland
 wordcount: 1569
 ---

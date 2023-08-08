@@ -23,7 +23,7 @@ tags:
 thumbnail: /2022/08/js-capitalize-first-letter-each-words/cover.png
 title: JS Capitalize First Letter of Each Words Which Mixed With Symbols
 type: post
-updated: 2023-08-08T14:07:42+07:00
+updated: 2023-08-08T14:45:09+07:00
 wordcount: 634
 ---
 

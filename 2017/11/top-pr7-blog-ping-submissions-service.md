@@ -24,7 +24,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://cdn.johneengle.com/wp-content/uploads/2010/12/ping-blog.jpg
 title: Top PR7 blog ping submissions service Updated
 type: post
-updated: 2017-11-11T00:00:13+07:00
+updated: 2023-08-08T14:45:42+07:00
 uuid: a5880c4d-ec29-4888-838e-328f34d57118
 wordcount: 2219
 ---

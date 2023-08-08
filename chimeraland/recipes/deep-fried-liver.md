@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/deep-fried-liver/deep-fried-liver.webp
 title: Recipe Deep Fried Liver Chimeraland
 type: post
-updated: 2022-10-05T16:46:57+07:00
+updated: 2023-08-08T14:44:29+07:00
 wordcount: 777
 ---
 

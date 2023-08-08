@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/iron/iron.webp
 title: Material Iron Chimeraland
 type: post
-updated: 2022-09-29T09:26:37+07:00
+updated: 2023-08-08T14:44:54+07:00
 wordcount: 987
 ---
 

@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/ice-piece/ice-piece.webp
 title: Material Ice Piece Chimeraland
 type: post
-updated: 2022-10-09T11:26:37+07:00
+updated: 2023-08-08T14:44:55+07:00
 wordcount: 25670
 ---
 

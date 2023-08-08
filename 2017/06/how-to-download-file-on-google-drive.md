@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300
 title: How to Download a File on Google Drive that Limit Access
 type: post
-updated: 2017-06-25T20:59:18+07:00
+updated: 2023-08-08T14:45:54+07:00
 uuid: f62514e4-f12c-4888-8af0-d1d4a54942a8
 wordcount: 690
 ---

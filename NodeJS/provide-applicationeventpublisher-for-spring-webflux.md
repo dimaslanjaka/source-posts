@@ -30,7 +30,7 @@ tags:
   - webflux
 title: Provide ApplicationEventPublisher for Spring WebFlux
 type: post
-updated: 2022-11-10T09:08:23+07:00
+updated: 2023-08-08T14:44:15+07:00
 wordcount: 2984
 ---
 

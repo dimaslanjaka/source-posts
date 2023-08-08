@@ -30,7 +30,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Example getting properties value from settings.gradle.kts
 type: post
-updated: 2023-03-27T16:54:13+07:00
+updated: 2023-08-08T14:45:12+07:00
 uuid: 27d03306-0c58-4888-8a64-b45d83662e64
 wordcount: 292
 ---

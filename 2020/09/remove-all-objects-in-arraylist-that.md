@@ -24,7 +24,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Remove all objects in an arraylist that exist in another arraylist Java
 type: post
-updated: 2022-03-20T20:57:28+07:00
+updated: 2023-08-08T14:45:13+07:00
 uuid: 86dc6b3b-9670-4888-8e6a-bd91726de97c
 wordcount: 135
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/ultimate-meat-dish/ultimate-meat-dish.webp
 title: Recipe Ultimate Meat Dish Chimeraland
 type: post
-updated: 2022-10-07T10:46:55+07:00
+updated: 2023-08-08T14:44:23+07:00
 wordcount: 806
 ---
 

@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: PHP Amazon S3 File Upload Code AWS Signature Version 4
 type: post
-updated: 2017-07-24T07:44:02+07:00
+updated: 2023-08-08T14:45:51+07:00
 uuid: b44a833c-625f-4888-881b-88122d881b86
 wordcount: 842
 ---

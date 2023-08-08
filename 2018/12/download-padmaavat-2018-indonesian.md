@@ -27,7 +27,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s0.dunia21.net/wp-content/uploads/2018/04/film-padmaavat-2018.jpg
 title: Download Padmaavat 2018 Indonesian Subtitle Movie Free Movie Bluray
 type: post
-updated: 2018-12-12T07:38:00+07:00
+updated: 2023-08-08T14:45:35+07:00
 uuid: afe22559-2feb-4888-83a7-86312939d000
 wordcount: 2907
 ---

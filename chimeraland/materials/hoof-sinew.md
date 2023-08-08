@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/hoof-sinew/hoof-sinew.webp
 title: Material Hoof Sinew Chimeraland
 type: post
-updated: 2022-09-29T06:26:37+07:00
+updated: 2023-08-08T14:44:55+07:00
 wordcount: 7113
 ---
 

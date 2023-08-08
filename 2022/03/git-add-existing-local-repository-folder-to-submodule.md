@@ -14,7 +14,7 @@ tags:
   - github
 title: git add existing local repository folder to submodule
 type: post
-updated: 2022-03-31T16:51:59+0000
+updated: 2023-08-08T14:45:10+07:00
 wordcount: 709
 ---
 

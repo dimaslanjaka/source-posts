@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://pad2.whstatic.com/images/thumb/e/ee/Schedule-a-Post-on-Blogger-Step-1.jpg/v3-460px-Schedule-a-Post-on-Blogger-Step-1.jpg.webp
 title: Cara Jadwalkan Post pada Blogger
 type: post
-updated: 2017-04-10T10:58:00+07:00
+updated: 2023-08-08T14:46:01+07:00
 uuid: 6d9795a0-c187-4888-87e6-e00365d746bb
 wordcount: 1528
 ---

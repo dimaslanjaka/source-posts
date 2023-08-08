@@ -21,7 +21,7 @@ tags:
 thumbnail: https://en.miui.com/data/attachment/image/001/02/52/11_240_240.jpg
 title: Font Noteworthy MTZ file
 type: post
-updated: 2018-11-23T20:48:24+07:00
+updated: 2023-08-08T14:45:37+07:00
 uuid: 33068e9b-8f20-4888-8f7e-524d71795c7a
 wordcount: 59
 ---

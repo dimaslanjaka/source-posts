@@ -24,7 +24,7 @@ tags:
   - latest
 title: Latest Post
 type: post
-updated: 2021-12-25 00:00:00
+updated: 2023-08-08T14:44:17+07:00
 wordcount: 83
 ---
 

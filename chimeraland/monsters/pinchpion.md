@@ -38,7 +38,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pinchpion
 title: Monster Pinchpion
 type: post
-updated: 2023-05-25T12:21:12+07:00
+updated: 2023-08-08T14:44:36+07:00
 webtitle: chimeraland
 wordcount: 1654
 ---

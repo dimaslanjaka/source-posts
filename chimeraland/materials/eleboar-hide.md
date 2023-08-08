@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/eleboar-hide/eleboar-hide.webp
 title: Material Eleboar Hide Chimeraland
 type: post
-updated: 2022-10-02T02:26:37+07:00
+updated: 2023-08-08T14:44:57+07:00
 wordcount: 987
 ---
 

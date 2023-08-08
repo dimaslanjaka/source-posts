@@ -30,7 +30,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4579.jpg
 title: PUBGM v.0.10.0 APK DATA
 type: post
-updated: 2018-12-18T13:25:09+07:00
+updated: 2023-08-08T14:45:34+07:00
 uuid: 89643971-d972-4888-8a02-b853a906c09a
 wordcount: 462
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/viperfish-slices/viperfish-slices.webp
 title: Recipe Viperfish Slices Chimeraland
 type: post
-updated: 2022-10-06T06:46:56+07:00
+updated: 2023-08-08T14:44:23+07:00
 wordcount: 660
 ---
 

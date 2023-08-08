@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/bluewirl-fish/bluewirl-fish.webp
 title: Material Bluewirl Fish Chimeraland
 type: post
-updated: 2022-10-08T11:26:37+07:00
+updated: 2023-08-08T14:45:00+07:00
 wordcount: 904
 ---
 

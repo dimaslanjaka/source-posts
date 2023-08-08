@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png
 title: Type of Food Buff Durango wild lands
 type: post
-updated: 2018-08-05T06:17:46+07:00
+updated: 2023-08-08T14:45:40+07:00
 uuid: e2cf3850-10d7-4888-8fbb-e13fa2904d95
 wordcount: 3194
 ---

@@ -26,7 +26,7 @@ tags:
 thumbnail: https://pear.php.net/gifs/pearsmall.gif
 title: PHP Mailer work with AJAX
 type: post
-updated: 2020-03-30T21:48:16+07:00
+updated: 2023-08-08T14:45:14+07:00
 uuid: 74d8af4d-0475-4888-865d-5d0f79b9d322
 wordcount: 2557
 ---

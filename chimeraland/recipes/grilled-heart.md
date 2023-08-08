@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/grilled-heart/grilled-heart.webp
 title: Recipe Grilled Heart Chimeraland
 type: post
-updated: 2022-10-05T12:46:56+07:00
+updated: 2023-08-08T14:44:27+07:00
 wordcount: 624
 ---
 

@@ -22,7 +22,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2017/instagram-1.png
 title: DOWNLOAD Instagram 73.0.0.0.18  Instagram Plus OGInsta  Mod GB Insta Apk
 type: post
-updated: 2019-01-25T00:28:01+07:00
+updated: 2023-08-08T14:45:33+07:00
 uuid: 6b29e7cb-b9ca-4888-8f44-5ec5d846d51e
 wordcount: 631
 ---

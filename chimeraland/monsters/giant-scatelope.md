@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-scatelope/Screenshot 2023-06-15 093119.webp
 title: Monster giant scatelope
 type: post
-updated: 2023-08-06T22:01:21+07:00
+updated: 2023-08-08T14:44:41+07:00
 webtitle: chimeraland
 wordcount: 1282
 ---

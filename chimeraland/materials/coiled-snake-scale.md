@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/coiled-snake-scale/coiled-snake-scale.webp
 title: Material Coiled Snake Scale Chimeraland
 type: post
-updated: 2022-10-01T10:26:37+07:00
+updated: 2023-08-08T14:44:58+07:00
 wordcount: 863
 ---
 

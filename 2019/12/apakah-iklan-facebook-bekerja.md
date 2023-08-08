@@ -24,7 +24,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/05e2f3e53cdf0d723cb3791cafcb1e53.png
 title: Apakah Iklan Facebook Bekerja ?
 type: post
-updated: 2019-12-09T05:26:01+07:00
+updated: 2023-08-08T14:45:24+07:00
 uuid: 5326a877-0e0c-4888-8657-b041e3721bbc
 wordcount: 21309
 ---

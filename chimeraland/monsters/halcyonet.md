@@ -25,7 +25,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Halcyonet
 title: Monster Halcyonet
 type: post
-updated: 2023-05-25T11:47:12+07:00
+updated: 2023-08-08T14:44:39+07:00
 webtitle: chimeraland
 wordcount: 633
 ---

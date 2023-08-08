@@ -22,7 +22,7 @@ tags:
 thumbnail: https://www.w3programmers.com/wp-content/uploads/2012/07/regex.jpg
 title: What is RegExp
 type: post
-updated: 2021-12-19T06:34:45+07:00
+updated: 2023-08-08T14:44:14+07:00
 uuid: 4cd70405-503d-4888-85a2-55b39642d633
 webtitle: RegExp
 wordcount: 1628

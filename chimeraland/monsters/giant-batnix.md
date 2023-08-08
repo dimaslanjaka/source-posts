@@ -33,7 +33,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-batnix/Screenshot_2023-02-22-10-56-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster giant batnix
 type: post
-updated: 2023-02-25T00:55:43+07:00
+updated: 2023-08-08T14:44:43+07:00
 webtitle: chimeraland
 wordcount: 1318
 ---

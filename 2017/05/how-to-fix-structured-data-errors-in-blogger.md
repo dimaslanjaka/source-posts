@@ -25,7 +25,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-DhtbWc4gbkI/V-LrKhHdxvI/AAAAAAAAARI/u-a3KwShRlQHQX9NBHBUw6_hnniNCJYsACLcB/s320/fix-structured-data-errors.webp
 title: How to Fix Structured Data Errors in Blogger
 type: post
-updated: 2017-05-07T13:05:10+07:00
+updated: 2023-08-08T14:45:55+07:00
 uuid: 40d91754-4f66-4888-86cd-f6f2d72aa34a
 wordcount: 3327
 ---

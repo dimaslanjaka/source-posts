@@ -20,7 +20,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Git force redownload from remote repository
 type: post
-updated: 2020-10-26T23:39:05+07:00
+updated: 2023-08-08T14:45:11+07:00
 uuid: beb05131-0c41-4888-8b5e-d922308c54b5
 wordcount: 41
 ---

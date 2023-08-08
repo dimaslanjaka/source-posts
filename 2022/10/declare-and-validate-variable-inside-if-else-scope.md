@@ -23,7 +23,7 @@ tags:
 thumbnail: https://miro.medium.com/max/912/1*Gdlo9wVkOuzsA8iUqXoLEg.png
 title: How to declare a variable inside if else brackets
 type: post
-updated: 2023-08-08T14:07:42+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 1069
 ---
 

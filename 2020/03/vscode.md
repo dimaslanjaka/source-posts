@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: VSCode
 type: post
-updated: 2020-03-23T15:04:22+07:00
+updated: 2023-08-08T14:45:13+07:00
 uuid: 4d624922-6e19-4888-850c-8652041fa419
 wordcount: 55
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/red-goodfruit/red-goodfruit.webp
 title: Material Red Goodfruit Chimeraland
 type: post
-updated: 2022-10-10T02:26:37+07:00
+updated: 2023-08-08T14:44:51+07:00
 wordcount: 2431
 ---
 

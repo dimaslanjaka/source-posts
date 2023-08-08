@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/flat-cabbage/flat-cabbage.webp
 title: Material Flat Cabbage Chimeraland
 type: post
-updated: 2022-10-04T16:26:37+07:00
+updated: 2023-08-08T14:44:57+07:00
 wordcount: 2112
 ---
 

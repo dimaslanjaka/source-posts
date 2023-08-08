@@ -26,7 +26,7 @@ subtitle: Parse Shortcodes Shortcode CSS From Local Directory <-- css
 tags: []
 title: Parse Shortcodes
 type: page
-updated: 2022-05-17
+updated: 2023-08-08T14:44:22+07:00
 wordcount: 257
 ---
 

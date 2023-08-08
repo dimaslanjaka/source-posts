@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/sweet-and-spicy-venison/sweet-and-spicy-venison.webp
 title: Recipe Sweet And Spicy Venison Chimeraland
 type: post
-updated: 2022-10-06T04:46:56+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 840
 ---
 

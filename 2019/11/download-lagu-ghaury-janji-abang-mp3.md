@@ -23,7 +23,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/969af44ef2a017de5f4cd94ca2233cad.jpeg
 title: Download lagu Ghaury - Janji Abang Mp3
 type: post
-updated: 2019-11-24T23:34:27+07:00
+updated: 2023-08-08T14:45:27+07:00
 uuid: d526cfdd-8f92-4888-81a7-71f8039405a9
 wordcount: 2373
 ---

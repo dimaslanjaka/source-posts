@@ -23,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: "[JS] Set Timezone"
 type: post
-updated: 2019-07-22T03:23:18+07:00
+updated: 2023-08-08T14:45:30+07:00
 uuid: c3b80075-3eee-4888-8b07-fbc473d62555
 wordcount: 84
 ---

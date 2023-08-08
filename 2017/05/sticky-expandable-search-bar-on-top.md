@@ -25,7 +25,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Sticky expandable search bar on top right using classie.js
 type: post
-updated: 2019-07-22T03:23:18+07:00
+updated: 2023-08-08T14:45:54+07:00
 uuid: 3a6dc0d1-23db-4888-8600-f717117f7d58
 wordcount: 84
 ---

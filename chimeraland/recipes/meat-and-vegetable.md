@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable.webp
 title: Recipe Meat And Vegetable Chimeraland
 type: post
-updated: 2022-10-06T00:46:55+07:00
+updated: 2023-08-08T14:44:26+07:00
 wordcount: 1901
 ---
 

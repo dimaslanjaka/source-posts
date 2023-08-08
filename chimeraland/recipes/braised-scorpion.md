@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/braised-scorpion/braised-scorpion.webp
 title: Recipe Braised Scorpion Chimeraland
 type: post
-updated: 2022-10-05T09:46:53+07:00
+updated: 2023-08-08T14:44:30+07:00
 wordcount: 726
 ---
 

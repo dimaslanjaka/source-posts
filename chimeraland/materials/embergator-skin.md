@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/embergator-skin/embergator-skin.webp
 title: Material Embergator Skin Chimeraland
 type: post
-updated: 2022-10-02T00:26:37+07:00
+updated: 2023-08-08T14:44:57+07:00
 wordcount: 966
 ---
 

@@ -39,7 +39,7 @@ tags:
 thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Batolf
 title: Monster Frost Batolf
 type: post
-updated: 2023-05-25T16:41:12+07:00
+updated: 2023-08-08T14:44:43+07:00
 webtitle: chimeraland
 wordcount: 1860
 ---

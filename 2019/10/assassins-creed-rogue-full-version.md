@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.com/wp-content/uploads/2015/03/Untitled-2.png
 title: Assassins Creed Rogue Full Version
 type: post
-updated: 2019-10-26T17:42:07+07:00
+updated: 2023-08-08T14:45:28+07:00
 uuid: 5dbe678c-349f-4888-84ce-7f07c1107aec
 wordcount: 2056
 ---

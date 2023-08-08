@@ -18,7 +18,7 @@ tags:
 thumbnail: /chimeraland/cara-teleport-war-banner-chimeraland-2-0/teleport-war-banner-chimera-2-0.jpg
 title: Cara teleport ke war banner chimeraland 2.0
 type: post
-updated: 2023-02-18T02:15:39+07:00
+updated: 2023-08-08T14:44:20+07:00
 wordcount: 101
 ---
 

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/rice-patty/rice-patty.webp
 title: Recipe Rice Patty Chimeraland
 type: post
-updated: 2022-10-06T11:46:54+07:00
+updated: 2023-08-08T14:44:25+07:00
 wordcount: 715
 ---
 

@@ -21,7 +21,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i0.wp.com/www.dramaencode.com/wp-content/uploads/2018/02/Download-Drama-Korea-Laughter-in-Waikiki-Subtitle-Indonesia.jpg?resize=560%2C381&ssl=1
 title: Download Korean Drama Laughter in Waikiki Indonesian Subtitles
 type: post
-updated: 2018-11-21T21:15:00+07:00
+updated: 2023-08-08T14:45:38+07:00
 uuid: c6898641-fcda-4888-88ed-380d86ec1031
 wordcount: 8965
 ---

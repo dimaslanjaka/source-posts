@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/attendants/vulanin/Screenshot_2022-11-21-14-10-22-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant vulanin
 type: post
-updated: 2022-11-26T11:35:17+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 1059
 ---

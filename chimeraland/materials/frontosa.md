@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/frontosa/frontosa.webp
 title: Material Frontosa Chimeraland
 type: post
-updated: 2022-10-07T12:26:37+07:00
+updated: 2023-08-08T14:44:56+07:00
 wordcount: 885
 ---
 

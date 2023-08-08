@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/fleet-feather/fleet-feather.webp
 title: Material Fleet Feather Chimeraland
 type: post
-updated: 2022-10-03T00:26:37+07:00
+updated: 2023-08-08T14:44:56+07:00
 wordcount: 824
 ---
 

@@ -22,7 +22,7 @@ tags:
 thumbnail: https://www.wikihow.com/images/7/7f/Use-Cygwin-Step-13.jpg
 title: Make CYGWIN binary as priority in windows
 type: post
-updated: 2023-02-24T03:27:39+07:00
+updated: 2023-08-08T14:45:08+07:00
 wordcount: 121
 ---
 

@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot.com/-KpglWEBljLY/XMevpDPyhkI/AAAAAAAABZw/iCCyiwjIMOsP_geq81zpicf0nm_zceNdgCEwYBhgL/w585/simontok.jpg
 title: Si montok 15.0b Anti Block No Ads
 type: post
-updated: 2019-07-31T15:43:02+07:00
+updated: 2023-08-08T14:45:29+07:00
 uuid: 7dae2148-e93f-4888-801a-e55edb37070a
 wordcount: 100
 ---

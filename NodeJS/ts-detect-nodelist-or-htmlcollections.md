@@ -28,7 +28,7 @@ tags:
 thumbnail: https://i.ytimg.com/vi/ubNP6fbT2Ac/maxresdefault.jpg
 title: HTMLCollection/NodeList in JavaScript/Typescript?
 type: post
-updated: 2023-06-05T18:36:50+07:00
+updated: 2023-08-08T14:44:14+07:00
 uuid: 2aa96bcf-7d7a-4888-875f-1cced5ac4938
 webtitle: NodeJS
 wordcount: 508

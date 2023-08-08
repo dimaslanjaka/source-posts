@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/beast-vital-qi-pill/beast-vital-qi-pill.webp
 title: Material Beast Vital Qi Pill Chimeraland
 type: post
-updated: 2022-10-01T14:26:37+07:00
+updated: 2023-08-08T14:45:00+07:00
 wordcount: 978
 ---
 

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/trileaf-skin/trileaf-skin.webp
 title: Material Trileaf Skin Chimeraland
 type: post
-updated: 2022-10-01T11:26:37+07:00
+updated: 2023-08-08T14:44:49+07:00
 wordcount: 987
 ---
 

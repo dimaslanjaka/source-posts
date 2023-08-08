@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/chimeraland-beast-hide/chimeraland-beast-hide.webp
 title: Material Chimeraland Beast Hide Chimeraland
 type: post
-updated: 2022-09-29T01:26:37+07:00
+updated: 2023-08-08T14:44:59+07:00
 wordcount: 7723
 ---
 

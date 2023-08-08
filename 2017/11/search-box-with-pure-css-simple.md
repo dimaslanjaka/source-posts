@@ -24,7 +24,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Search Box With Pure CSS Simple
 type: post
-updated: 2017-11-12T23:29:07+07:00
+updated: 2023-08-08T14:45:42+07:00
 uuid: 4e3fa0bd-f438-4888-86cb-488e338cf731
 wordcount: 224
 ---

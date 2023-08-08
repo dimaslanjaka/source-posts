@@ -18,7 +18,7 @@ tags:
   - script
 title: TypeScript equivalent .NETs System.Random
 type: post
-updated: 2023-05-20T13:16:36+07:00
+updated: 2023-08-08T14:45:07+07:00
 wordcount: 1419
 ---
 

@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/spinach/spinach.webp
 title: Material Spinach Chimeraland
 type: post
-updated: 2022-10-05T00:26:37+07:00
+updated: 2023-08-08T14:44:50+07:00
 wordcount: 511
 ---
 

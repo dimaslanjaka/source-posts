@@ -21,7 +21,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-v8fRzugmiVw/VvD5ipgRbaI/AAAAAAAADeE/DJPMUJuCNNMi-j7QTh8V6RpfBNlvqf6zw/s600/Script%2BAuto%2BInvite%2BAll%2BFriends%2BTo%2BLike%2BFanpage.%2BTanpa%2BPlugin.png
 title: Script Auto Invite All Friends To Like Fanpage Without Plugin and Tool
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:46:02+07:00
 uuid: 5e21cecb-0f3b-4888-8b45-848677b3e7ea
 wordcount: 1503
 ---

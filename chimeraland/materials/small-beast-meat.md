@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/small-beast-meat/small-beast-meat.webp
 title: Material Small Beast Meat Chimeraland
 type: post
-updated: 2022-10-01T01:26:37+07:00
+updated: 2023-08-08T14:44:50+07:00
 wordcount: 1350
 ---
 

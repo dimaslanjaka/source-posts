@@ -29,7 +29,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://i.imgur.com/FFGsnXd.jpg?1
 title: Proxy Gambar dengan Google App Scripts
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:51+07:00
 uuid: 4337dbd3-7c5f-4888-86e8-31cdf523da2e
 wordcount: 1259
 ---

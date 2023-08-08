@@ -24,7 +24,7 @@ tags:
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpLEYpRfgPOwSkpUWGmr5SWmGGZoesHfcyD8FyIejZ_AZiE_lAsWcPdHuI
 title: Know Your Basic Types CSS Selector
 type: post
-updated: 2017-05-06T20:55:03+07:00
+updated: 2023-08-08T14:45:55+07:00
 uuid: 53d750fe-4766-4888-8ec9-b8cb78707f8d
 wordcount: 3949
 ---

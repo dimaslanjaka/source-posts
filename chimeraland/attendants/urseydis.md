@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-56-59-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant urseydis
 type: post
-updated: 2023-03-11T08:30:17+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 1130
 ---

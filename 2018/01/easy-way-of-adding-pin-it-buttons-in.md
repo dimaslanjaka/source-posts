@@ -33,7 +33,7 @@ tags:
 thumbnail: http://urlz.fr/6tog
 title: Easy Way of Adding Pin It Buttons in Images
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:42+07:00
 uuid: 9cab36b7-e362-4888-89d6-b37b56e165d8
 wordcount: 272
 ---

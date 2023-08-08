@@ -24,7 +24,7 @@ tags:
 thumbnail: https://i.stack.imgur.com/3pgKv.png
 title: Disable Mouse Dragging CSS JS
 type: post
-updated: 2019-09-22T10:13:14+07:00
+updated: 2023-08-08T14:45:29+07:00
 uuid: 27febd63-0795-4888-8df4-d10a18779fcd
 wordcount: 68
 ---

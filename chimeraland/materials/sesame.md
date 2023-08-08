@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/sesame/sesame.webp
 title: Material Sesame Chimeraland
 type: post
-updated: 2022-10-04T07:26:37+07:00
+updated: 2023-08-08T14:44:50+07:00
 wordcount: 973
 ---
 

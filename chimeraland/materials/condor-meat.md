@@ -25,7 +25,7 @@ tags:
 thumbnail: /chimeraland/materials/condor-meat/condor-meat.webp
 title: Material Condor Meat Chimeraland
 type: post
-updated: 2022-09-30T03:26:37+07:00
+updated: 2023-08-08T14:44:58+07:00
 wordcount: 1665
 ---
 

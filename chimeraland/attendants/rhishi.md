@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/attendants/rhishi/Screenshot_2023-02-17-00-41-57-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant rhishi
 type: post
-updated: 2023-02-18T16:09:01+07:00
+updated: 2023-08-08T14:45:04+07:00
 webtitle: chimeraland
 wordcount: 1059
 ---

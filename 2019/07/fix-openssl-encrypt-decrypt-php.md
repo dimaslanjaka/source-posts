@@ -23,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webmanajemen.com/assets/img/phpjs.svg?.png
 title: Fix openssl encrypt decrypt [PHP]
 type: post
-updated: 2022-04-17T00:53:39+0000
+updated: 2023-08-08T14:45:30+07:00
 uuid: 9251b369-4ea6-4888-8b29-44aa20aa58aa
 webtitle: PHP
 wordcount: 322

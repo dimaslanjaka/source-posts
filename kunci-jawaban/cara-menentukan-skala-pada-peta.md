@@ -23,7 +23,7 @@ tags:
   - map
 title: Cara menentukan skala pada peta
 type: post
-updated: 2022-10-16T07:35:43+07:00
+updated: 2023-08-08T14:44:16+07:00
 wordcount: 1805
 ---
 

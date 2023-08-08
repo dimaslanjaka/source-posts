@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/goldfin-carp/goldfin-carp.webp
 title: Material Goldfin Carp Chimeraland
 type: post
-updated: 2022-10-08T06:26:37+07:00
+updated: 2023-08-08T14:44:56+07:00
 wordcount: 954
 ---
 

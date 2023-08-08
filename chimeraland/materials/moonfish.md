@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/moonfish/moonfish.webp
 title: Material Moonfish Chimeraland
 type: post
-updated: 2022-10-06T15:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 825
 ---
 

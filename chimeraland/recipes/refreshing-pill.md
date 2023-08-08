@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/refreshing-pill/refreshing-pill.webp
 title: Recipe Refreshing Pill Chimeraland
 type: post
-updated: 2022-10-06T01:46:56+07:00
+updated: 2023-08-08T14:44:25+07:00
 wordcount: 881
 ---
 

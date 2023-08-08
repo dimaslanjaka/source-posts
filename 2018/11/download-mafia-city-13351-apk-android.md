@@ -21,7 +21,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2018/mafia-city-1.jpg
 title: DOWNLOAD Mafia City 1.3.351 Apk android
 type: post
-updated: 2018-11-30T00:04:12+07:00
+updated: 2023-08-08T14:45:37+07:00
 uuid: 39cb3c29-ee94-4888-80e0-74fe2c5ba57e
 wordcount: 2445
 ---

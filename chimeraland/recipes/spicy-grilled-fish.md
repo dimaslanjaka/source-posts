@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish.webp
 title: Recipe Spicy Grilled Fish Chimeraland
 type: post
-updated: 2022-10-05T23:46:56+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 862
 ---
 

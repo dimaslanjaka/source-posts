@@ -24,7 +24,7 @@ tags:
 thumbnail: https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2019/08/dewaweb-blog-panduan-dasar-cloudflare-revisi-696x411.png
 title: Cloudflare Basic Guide
 type: post
-updated: 2019-12-20T22:26:07+07:00
+updated: 2023-08-08T14:45:23+07:00
 uuid: c0afd841-fe63-4888-85d0-9b14119c19cd
 wordcount: 7474
 ---

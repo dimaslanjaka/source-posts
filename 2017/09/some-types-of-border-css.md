@@ -29,7 +29,7 @@ tags:
 thumbnail: https://imgdb.net/images/3197.jpg
 title: SOME TYPES OF BORDER CSS
 type: post
-updated: 2017-09-29T02:13:11+07:00
+updated: 2023-08-08T14:45:45+07:00
 uuid: f4fc9c13-c7f5-4888-8f93-f26428ba721a
 wordcount: 1493
 ---

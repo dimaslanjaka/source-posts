@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/spiced-meat/spiced-meat.webp
 title: Recipe Spiced Meat Chimeraland
 type: post
-updated: 2022-10-06T16:46:55+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 657
 ---
 

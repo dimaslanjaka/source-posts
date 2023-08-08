@@ -19,7 +19,7 @@ tags: []
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_GSwBHWgKexKRlrdNTFKAvtv827hyFeGx4dvA4ln2k8UDV1vT
 title: Post
 type: post
-updated: 2018-08-24T23:54:15+07:00
+updated: 2023-08-08T14:45:39+07:00
 uuid: c619d2cd-4970-4888-8d71-a2a463527347
 wordcount: 11242
 ---

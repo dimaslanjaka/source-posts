@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/ancient-bone/ancient-bone.webp
 title: Material Ancient Bone Chimeraland
 type: post
-updated: 2022-10-03T04:26:37+07:00
+updated: 2023-08-08T14:45:01+07:00
 wordcount: 1447
 ---
 

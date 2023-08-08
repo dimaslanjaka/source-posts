@@ -24,7 +24,7 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://sitelagump
 title: download lagu selama matahari terbit dari timur, cinta ku padamu takan
   pernah luntur.mp3
 type: post
-updated: 2018-11-08T05:08:03+07:00
+updated: 2023-08-08T14:45:37+07:00
 uuid: c7b54b2d-01f5-4888-8d62-074dc25127f6
 wordcount: 1060
 ---

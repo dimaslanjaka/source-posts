@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/apple-slushie/apple-slushie.webp
 title: Recipe Apple Slushie Chimeraland
 type: post
-updated: 2022-10-05T16:46:53+07:00
+updated: 2023-08-08T14:44:30+07:00
 wordcount: 624
 ---
 

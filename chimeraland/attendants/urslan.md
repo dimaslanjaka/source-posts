@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/attendants/urslan/Screenshot_2022-11-15-23-43-38-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant urslan
 type: post
-updated: 2022-11-26T10:35:17+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 1059
 ---

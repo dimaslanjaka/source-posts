@@ -3,7 +3,7 @@ author: Dimas Lanjaka
 categories:
   - hexo
 comments: true
-date: 2023-08-08T14:25:40+07:00
+date: 2023-08-08T14:44:17+07:00
 description: "PreText Code Blocks Code Block Shortcode Using code block
   shortcode from official hexo Plain code codeblock alertHello World; Specifying
   the language codeblock lang:objc [rectangle setX: 10 y: 10 width: 20 height:
@@ -24,7 +24,7 @@ tags:
   - shortcode
 title: PreText Code Blocks
 type: post
-updated: 2023-08-08T14:25:40+07:00
+updated: 2023-08-08T14:44:17+07:00
 wordcount: 162
 ---
 

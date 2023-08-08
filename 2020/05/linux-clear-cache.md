@@ -24,7 +24,7 @@ tags:
 thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/https://www.wissenschaft.com.ng/wp-content/uploads/2021/02/clear_ram_buffer_linux.jpg
 title: Linux Clear Cache
 type: post
-updated: 2022-03-26T05:37:59+0000
+updated: 2023-08-08T14:45:13+07:00
 uuid: db68c44f-5c4e-4888-824c-065ae21add60
 webtitle: Script
 wordcount: 343

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/stoatle-shell/stoatle-shell.webp
 title: Material Stoatle Shell Chimeraland
 type: post
-updated: 2022-10-03T03:26:37+07:00
+updated: 2023-08-08T14:44:49+07:00
 wordcount: 1446
 ---
 

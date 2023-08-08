@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/cane/cane.webp
 title: Material Cane Chimeraland
 type: post
-updated: 2022-10-05T18:26:37+07:00
+updated: 2023-08-08T14:44:59+07:00
 wordcount: 1119
 ---
 

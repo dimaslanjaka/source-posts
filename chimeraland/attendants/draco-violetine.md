@@ -32,7 +32,7 @@ tags:
 thumbnail: /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-21-58-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant Draco Violetine
 type: post
-updated: 2022-09-29T06:26:37+07:00
+updated: 2023-08-08T14:45:07+07:00
 webtitle: chimeraland
 wordcount: 1306
 ---

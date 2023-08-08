@@ -31,7 +31,7 @@ tags:
   - javascript
 title: How to test render custom tag on single post HexoJS ?
 type: post
-updated: 2023-07-17T17:10:47+07:00
+updated: 2023-08-08T14:44:18+07:00
 wordcount: 466
 ---
 

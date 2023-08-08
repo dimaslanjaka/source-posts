@@ -34,7 +34,7 @@ thumbnail: https://www.dropbox.com/s320/5w9n86434703syx/unnamed (4).png?dl=1
 title: Cara membuat link tertentu atau semua link menjadi adf.ly tanpa
   menggunakan full page script
 type: post
-updated: 2019-07-22T03:23:17+07:00
+updated: 2023-08-08T14:45:49+07:00
 uuid: 16df9ae4-135a-4888-8e82-af47b880aea1
 wordcount: 353
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/steamed-brains/steamed-brains.webp
 title: Recipe Steamed Brains Chimeraland
 type: post
-updated: 2022-10-06T18:46:55+07:00
+updated: 2023-08-08T14:44:24+07:00
 wordcount: 1126
 ---
 

@@ -28,7 +28,7 @@ tags:
 thumbnail: /GitHub/workflows/events.png
 title: GitHub Workflow Events
 type: post
-updated: 2023-01-03T01:03:19+07:00
+updated: 2023-08-08T14:44:18+07:00
 uuid: e94a4f00-6a10-4888-8fca-dfc8fe6e687f
 webtitle: WMI GitHub
 wordcount: 1013

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/cray-pill/cray-pill.webp
 title: Material Cray Pill Chimeraland
 type: post
-updated: 2022-10-10T09:26:37+07:00
+updated: 2023-08-08T14:44:58+07:00
 wordcount: 728
 ---
 

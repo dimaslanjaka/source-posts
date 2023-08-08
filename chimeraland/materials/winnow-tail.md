@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/winnow-tail/winnow-tail.webp
 title: Material Winnow Tail Chimeraland
 type: post
-updated: 2022-10-02T19:26:37+07:00
+updated: 2023-08-08T14:44:48+07:00
 wordcount: 1007
 ---
 

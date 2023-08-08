@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/garlic-sauce/garlic-sauce.webp
 title: Recipe Garlic Sauce Chimeraland
 type: post
-updated: 2022-09-29T08:26:37+07:00
+updated: 2023-08-08T14:44:28+07:00
 wordcount: 658
 ---
 

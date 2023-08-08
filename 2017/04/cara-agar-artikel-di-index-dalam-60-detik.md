@@ -25,7 +25,7 @@ tags:
 thumbnail: https://i1.wp.com/legeeks.org/wp-content/uploads/2013/12/Get-Your-New-Post-Indexed-In-Google-In-60-Seconds.jpg?resize=550%2C331
 title: Cara agar artikel di index dalam 60 detik
 type: post
-updated: 2017-04-16T07:06:09+07:00
+updated: 2023-08-08T14:46:02+07:00
 uuid: 9cd8905b-baee-4888-8ced-7df665a56b6c
 wordcount: 3888
 ---

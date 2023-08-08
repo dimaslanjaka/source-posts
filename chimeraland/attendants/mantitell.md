@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-46-53-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant mantitell
 type: post
-updated: 2023-02-24T20:55:41+07:00
+updated: 2023-08-08T14:45:05+07:00
 webtitle: chimeraland
 wordcount: 1130
 ---

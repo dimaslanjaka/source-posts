@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/monsters/centaurmina/Screenshot_2023-02-22-14-57-44-90_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster centaurmina
 type: post
-updated: 2023-02-24T22:55:43+07:00
+updated: 2023-08-08T14:44:46+07:00
 webtitle: chimeraland
 wordcount: 1059
 ---

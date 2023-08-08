@@ -30,7 +30,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-fCN06ibkF9s/WPgDaZnEMdI/AAAAAAAAFJE/gFcoSLZVZeQ2rpoUkl-KFH5E9004wBHmgCLcB/s320/Screenshot_2017-04-20-07-39-35.jpg
 title: Expandable Search Box
 type: post
-updated: 2017-04-23T16:10:41+07:00
+updated: 2023-08-08T14:46:00+07:00
 uuid: bfb7bbf0-42d5-4888-8b54-583cfa3b4b30
 wordcount: 631
 ---

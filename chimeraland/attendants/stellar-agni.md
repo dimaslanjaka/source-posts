@@ -31,7 +31,7 @@ tags:
 thumbnail: /chimeraland/attendants/stellar-agni/Screenshot_2023-03-09-23-11-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant stellar agni
 type: post
-updated: 2023-03-28T10:10:08+07:00
+updated: 2023-08-08T14:45:02+07:00
 webtitle: chimeraland
 wordcount: 1237
 ---

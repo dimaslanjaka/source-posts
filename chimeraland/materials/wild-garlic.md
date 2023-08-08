@@ -24,7 +24,7 @@ tags:
 thumbnail: /chimeraland/materials/wild-garlic/wild-garlic.webp
 title: Material Wild Garlic Chimeraland
 type: post
-updated: 2022-10-09T09:26:37+07:00
+updated: 2023-08-08T14:44:48+07:00
 wordcount: 3844
 ---
 

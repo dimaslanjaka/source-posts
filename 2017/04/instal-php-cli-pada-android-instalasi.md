@@ -25,7 +25,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blogspot.com/-3UATHL878wU/WKoXE11tarI/AAAAAAAAFAA/QhBnNJFo5QAiB4C04RKBG9zuFrP2Uhm4gCLcB/s1600/serverphp.jpg
 title: Install PHP for Android CLI or Web Server
 type: post
-updated: 2022-05-21T05:20:52+0000
+updated: 2023-08-08T14:45:59+07:00
 uuid: 14e9225b-f78d-4888-85cc-de9f5862689c
 webtitle: PHP Android
 wordcount: 2598

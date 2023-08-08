@@ -25,7 +25,7 @@ tags:
 thumbnail: https://2.bp.blogspot.com/-zFYfhcEw2zU/UWfLii_MNyI/AAAAAAAAYC0/8x-A-h5Gbsg/s640/share+this.jpg
 title: How to Create Social Share Buttons Without Javascript
 type: post
-updated: 2017-08-27T07:15:12+07:00
+updated: 2023-08-08T14:45:49+07:00
 uuid: cb4a3dd0-3336-4888-812c-3070394f4e79
 wordcount: 1405
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/strange-beast-bone/strange-beast-bone.webp
 title: Material Strange Beast Bone Chimeraland
 type: post
-updated: 2022-10-01T08:26:37+07:00
+updated: 2023-08-08T14:44:49+07:00
 wordcount: 1129
 ---
 

@@ -33,7 +33,7 @@ tags:
 thumbnail: /chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-32-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster Palomino Horse
 type: post
-updated: 2022-11-01T14:09:43+07:00
+updated: 2023-08-08T14:44:36+07:00
 webtitle: chimeraland
 wordcount: 1483
 ---

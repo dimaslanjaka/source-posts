@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/fossilized-skull/fossilized-skull.webp
 title: Material Fossilized Skull Chimeraland
 type: post
-updated: 2022-10-05T09:26:37+07:00
+updated: 2023-08-08T14:44:56+07:00
 wordcount: 759
 ---
 

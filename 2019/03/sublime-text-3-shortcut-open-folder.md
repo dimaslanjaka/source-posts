@@ -22,7 +22,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/en/9/97/Registry_Editor_icon.png
 title: Regedit Sublime Text 3 Shortcut Open Folder
 type: post
-updated: 2023-03-17T21:00:38+07:00
+updated: 2023-08-08T14:45:31+07:00
 uuid: 2382bf25-24b9-4888-839e-81f82f51c669
 wordcount: 22
 ---

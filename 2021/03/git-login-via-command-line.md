@@ -26,7 +26,7 @@ tags:
 thumbnail: https://i.ytimg.com/vi/yDntCIs-IJM/hqdefault.jpg
 title: Git Login Via Command Line
 type: post
-updated: 2021-03-29T07:50:58+07:00
+updated: 2023-08-08T14:45:11+07:00
 uuid: 06997095-6d39-4888-8c9d-c0d516fcede7
 wordcount: 50
 ---

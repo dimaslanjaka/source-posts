@@ -30,7 +30,7 @@ tags:
 thumbnail: /chimeraland/materials/muddled-catfish/muddled-catfish.webp
 title: Material Muddled Catfish Chimeraland
 type: post
-updated: 2022-10-09T03:26:37+07:00
+updated: 2023-08-08T14:44:53+07:00
 wordcount: 1070
 ---
 

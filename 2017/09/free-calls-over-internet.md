@@ -23,7 +23,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-hxvTzkWtBOs/TuW8orRN2kI/AAAAAAAAAcQ/GlQU_popqJM/s1600/skype.JPG
 title: free calls over the internet
 type: post
-updated: 2017-09-25T01:49:07+07:00
+updated: 2023-08-08T14:45:47+07:00
 uuid: f78cd312-fc72-4888-8c77-41f4ac8530d3
 wordcount: 748
 ---

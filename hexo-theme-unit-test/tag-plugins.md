@@ -24,7 +24,7 @@ subtitle: Hexo Shortcodes Tag Plugins This post is used for testing tag plugins.
 tags: []
 title: Hexo Shortcodes Tag Plugins
 type: post
-updated: 2023-02-25T00:48:02+07:00
+updated: 2023-08-08T14:44:17+07:00
 wordcount: 1430
 ---
 

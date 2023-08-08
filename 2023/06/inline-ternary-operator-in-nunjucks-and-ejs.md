@@ -20,7 +20,7 @@ tags:
 thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/s--6KFkGVIh--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rn8ecbvghqyulclj0m42.png
 title: Inline Ternary Operator In Nunjucks And EJS
 type: post
-updated: 2023-06-08T11:07:46+07:00
+updated: 2023-08-08T14:45:07+07:00
 wordcount: 454
 ---
 

@@ -29,7 +29,7 @@ tags:
 thumbnail: /chimeraland/attendants/chandacavii/Screenshot_2023-02-06-01-28-14-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant chandacavii
 type: post
-updated: 2023-02-08T23:16:58+07:00
+updated: 2023-08-08T14:45:07+07:00
 webtitle: chimeraland
 wordcount: 988
 ---

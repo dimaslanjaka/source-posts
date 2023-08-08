@@ -34,7 +34,7 @@ tags:
 thumbnail: /chimeraland/monsters/giant-tiger-shark/Screenshot_2023-03-25-12-13-37-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Monster giant tiger shark
 type: post
-updated: 2023-03-28T11:10:08+07:00
+updated: 2023-08-08T14:44:41+07:00
 webtitle: chimeraland
 wordcount: 1253
 ---

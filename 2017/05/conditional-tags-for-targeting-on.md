@@ -23,7 +23,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-SQp52Dfe-iM/VsEW5VlzHcI/AAAAAAAABxM/7bEQbN_owsk/s320/gambar-conditional-tag-blogger-min.jpg
 title: Conditional Tags For Targeting On Blogger Template Format
 type: post
-updated: 2017-05-19T13:39:02+07:00
+updated: 2023-08-08T14:45:57+07:00
 uuid: 6cf36b22-f184-4888-87bb-e2c0db711247
 wordcount: 2177
 ---

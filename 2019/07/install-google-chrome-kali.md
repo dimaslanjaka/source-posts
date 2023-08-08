@@ -26,7 +26,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.pngarts.com/files/3/Linux-PNG-Image-Background.png
 title: Install google chrome kali linux/debian/etc
 type: post
-updated: 2019-07-23T01:56:17+07:00
+updated: 2023-08-08T14:45:30+07:00
 uuid: c433be05-1697-4888-840c-8f01d72ecc47
 wordcount: 161
 ---

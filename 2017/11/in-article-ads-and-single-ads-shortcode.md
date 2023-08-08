@@ -26,7 +26,7 @@ tags:
 thumbnail: https://imgdb.net/images/3203.jpg
 title: In Article Ads And Single Ads Shortcode Wordpress With WP AMP NINJA Plugin
 type: post
-updated: 2017-11-11T23:34:02+07:00
+updated: 2023-08-08T14:45:43+07:00
 uuid: 59068f6c-11ed-4888-89bb-2e406d19c3e5
 wordcount: 715
 ---

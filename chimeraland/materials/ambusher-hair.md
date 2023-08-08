@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/materials/ambusher-hair/ambusher-hair.webp
 title: Material Ambusher Hair Chimeraland
 type: post
-updated: 2022-10-01T12:26:37+07:00
+updated: 2023-08-08T14:45:01+07:00
 wordcount: 1047
 ---
 

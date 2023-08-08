@@ -25,7 +25,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-4_aOS3F7Fg0/XlutU8-PrnI/AAAAAAAAAK0/7KvHUpX78WQw8a-2MYQjo-P1Oq9Mv1zTACLcBGAsYHQ/s1600/imgingest-2117968900021071073.png
 title: Tether VPN Android
 type: post
-updated: 2020-03-01T19:40:59+07:00
+updated: 2023-08-08T14:45:14+07:00
 uuid: 5936ea34-a22d-4888-8bfd-a55fa5998592
 wordcount: 534
 ---

@@ -27,7 +27,7 @@ tags:
 thumbnail: /chimeraland/recipes/grilled-offal/grilled-offal.webp
 title: Recipe Grilled Offal Chimeraland
 type: post
-updated: 2022-10-05T08:46:56+07:00
+updated: 2023-08-08T14:44:27+07:00
 wordcount: 624
 ---
 

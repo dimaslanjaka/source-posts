@@ -31,7 +31,7 @@ tags:
 thumbnail: https://imagizer.imageshack.com/v2/xq90/924/u7hBUr.png
 title: Update Genshin Impact Via Download Manager
 type: post
-updated: 2021-06-01T02:20:08+07:00
+updated: 2023-08-08T14:45:11+07:00
 uuid: 4e4d250c-a07f-4888-86e3-1bbc35d3f6d6
 wordcount: 167
 ---

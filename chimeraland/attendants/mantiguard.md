@@ -29,7 +29,7 @@ tags:
 thumbnail: /chimeraland/attendants/mantiguard/Screenshot_2022-07-17-22-28-18-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
 title: Attendant Mantiguard
 type: post
-updated: 2022-09-29T07:26:37+07:00
+updated: 2023-08-08T14:45:05+07:00
 webtitle: chimeraland
 wordcount: 976
 ---
