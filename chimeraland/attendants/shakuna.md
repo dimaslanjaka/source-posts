@@ -1,18 +1,9 @@
 ---
+title: Attendant shakuna
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-18-43-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-02-13T14:32:50+07:00
 date: 2023-02-13T14:21:50+07:00
-description: "Attendant shakuna shakuna Information from Chimeraland shakuna
-  default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant shakuna shakuna Information from Chimeraland shakuna default
-  maximum attribute GRADE N/A N/A Attack N/A "
-id: 9420ca5b-77cd-4888-832c-dd61ea92c691
-lang: en
 permalink: /chimeraland/attendants/shakuna.html
 photos:
   - /chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-18-43-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -21,17 +12,14 @@ photos:
   - /chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-19-00-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-19-06-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-19-10-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant shakuna shakuna Information from Chimeraland shakuna
-  default maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-18-43-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/shakuna/Screenshot_2023-02-07-13-18-43-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant shakuna
-type: post
-updated: 2023-08-08T14:45:03+07:00
-webtitle: chimeraland
-wordcount: 988
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

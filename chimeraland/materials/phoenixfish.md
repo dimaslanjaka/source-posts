@@ -1,36 +1,19 @@
 ---
+title: Material Phoenixfish Chimeraland
+date: 2022-01-17T06:56:03+07:00
+updated: 2022-10-09T06:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/phoenixfish.html
+photos:
+  - /chimeraland/materials/phoenixfish/phoenixfish.webp
+thumbnail: /chimeraland/materials/phoenixfish/phoenixfish.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/phoenixfish/phoenixfish.webp
-date: 2022-01-17T06:56:03+07:00
-description: "Material Phoenixfish Chimeraland materials Phoenixfish October 9,
-  2022 6:26 AM A marine fish with a spindle-shaped body, flat, with fan-shaped
-  caudal fins, not forked. Found in various sea areas. Continue reading
-  Phoenixfish "
-excerpt: "Material Phoenixfish Chimeraland materials Phoenixfish October 9, 2022
-  6:26 AM A marine fish with a spindle-shaped body, flat, with fan-shaped caudal
-  fins, not forked. Found in various sea areas. Continue reading Phoenixfish "
-id: 47be5c44-bceb-4888-8e9e-c6649c795602
-lang: en
-permalink: /chimeraland/materials/phoenixfish.html
-photos:
-  - /chimeraland/materials/phoenixfish/phoenixfish.webp
-subtitle: "Material Phoenixfish Chimeraland materials Phoenixfish October 9,
-  2022 6:26 AM A marine fish with a spindle-shaped body, flat, with fan-shaped
-  caudal fins, not forked. Found in various sea areas. Continue reading
-  Phoenixfish "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/phoenixfish/phoenixfish.webp
-title: Material Phoenixfish Chimeraland
-type: post
-updated: 2023-08-08T14:44:52+07:00
-wordcount: 701
 ---
 
 <link

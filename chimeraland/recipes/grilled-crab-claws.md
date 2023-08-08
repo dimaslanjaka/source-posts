@@ -1,31 +1,23 @@
 ---
+title: Recipe Grilled Crab Claws Chimeraland
 author: L3n4r0x
+updated: 2022-09-29T13:26:37+07:00
+lang: en
+date: 2022-01-09T17:56:03+07:00
+permalink: /chimeraland/recipes/grilled-crab-claws.html
+photos:
+  - null
+  - null
+  - null
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grilled Crab Claws
+tags:
+  - chimeraland
+  - recipe
 categories:
   - games
   - chimeraland
   - recipes
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grilled Crab Claws
-date: 2022-01-09T17:56:03+07:00
-description: "Recipe Grilled Crab Claws Chimeraland Grilled Crab Claws Cooking
-  Recipe Buff Grilled Crab Claws 420 Fullness 150 ATK recipe "
-excerpt: "Recipe Grilled Crab Claws Chimeraland Grilled Crab Claws Cooking
-  Recipe Buff Grilled Crab Claws 420 Fullness 150 ATK recipe "
-id: 73fc8ef5-007e-4888-861f-02f26437c235
-lang: en
-permalink: /chimeraland/recipes/grilled-crab-claws.html
-photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grilled Crab Claws
-subtitle: "Recipe Grilled Crab Claws Chimeraland Grilled Crab Claws Cooking
-  Recipe Buff Grilled Crab Claws 420 Fullness 150 ATK recipe "
-tags:
-  - chimeraland
-  - recipe
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grilled Crab Claws
-title: Recipe Grilled Crab Claws Chimeraland
-type: post
-updated: 2023-08-08T14:44:27+07:00
-wordcount: 763
 ---
 
 <link

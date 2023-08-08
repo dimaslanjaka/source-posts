@@ -1,33 +1,21 @@
 ---
+title: Monster Gourami
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gourami
+updated: 2023-05-25T18:15:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Gourami Gourami Information from Chimeraland Gourami
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Gourami Gourami Information from Chimeraland Gourami default
-  maximum attribute GRADE Attack "
-id: c359d968-7290-4888-8260-86a53a65e2f5
-lang: en
 permalink: /chimeraland/monsters/gourami.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gourami
-subtitle: "Monster Gourami Gourami Information from Chimeraland Gourami default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gourami
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gourami
-title: Monster Gourami
-type: post
-updated: 2023-08-08T14:44:40+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

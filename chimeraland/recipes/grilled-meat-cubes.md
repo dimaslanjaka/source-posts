@@ -1,34 +1,23 @@
 ---
+title: Recipe Grilled Meat Cubes Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes.webp
-date: 2022-01-10T01:56:03+07:00
-description: "Recipe Grilled Meat Cubes Chimeraland Grilled Meat Cubes Cooking
-  Recipe Buff Grilled Meat Cubes 180 Fullness recipe webmanajemen.com - "
-excerpt: "Recipe Grilled Meat Cubes Chimeraland Grilled Meat Cubes Cooking
-  Recipe Buff Grilled Meat Cubes 180 Fullness recipe webmanajemen.com - "
-id: a9e5b397-a736-4888-8e5e-af5aa817d073
+updated: 2022-10-06T07:46:54+07:00
 lang: en
+date: 2022-01-10T01:56:03+07:00
 permalink: /chimeraland/recipes/grilled-meat-cubes.html
 photos:
   - /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes.webp
   - /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes-name.webp
   - /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes-icon.webp
   - /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes-material.webp
-subtitle: "Recipe Grilled Meat Cubes Chimeraland Grilled Meat Cubes Cooking
-  Recipe Buff Grilled Meat Cubes 180 Fullness recipe webmanajemen.com - "
+thumbnail: /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/grilled-meat-cubes/grilled-meat-cubes.webp
-title: Recipe Grilled Meat Cubes Chimeraland
-type: post
-updated: 2023-08-08T14:44:27+07:00
-wordcount: 965
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

@@ -1,33 +1,21 @@
 ---
+title: Monster Fronder
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fronder
+updated: 2023-05-25T15:51:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Fronder Fronder Information from Chimeraland Fronder
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Fronder Fronder Information from Chimeraland Fronder default
-  maximum attribute GRADE Attack "
-id: 169f4ea6-eee8-4888-89dc-bb335b9986de
-lang: en
 permalink: /chimeraland/monsters/fronder.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fronder
-subtitle: "Monster Fronder Fronder Information from Chimeraland Fronder default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fronder
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fronder
-title: Monster Fronder
-type: post
-updated: 2023-08-08T14:44:43+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

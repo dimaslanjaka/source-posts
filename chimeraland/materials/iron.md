@@ -1,31 +1,19 @@
 ---
+title: Material Iron Chimeraland
+date: 2022-01-07T09:56:03+07:00
+updated: 2022-09-29T09:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/iron.html
+photos:
+  - /chimeraland/materials/iron/iron.webp
+thumbnail: /chimeraland/materials/iron/iron.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/iron/iron.webp
-date: 2022-01-07T09:56:03+07:00
-description: Material Iron Chimeraland materials Iron September 29, 2022 9:26 AM
-  Continue reading Iron What is the use of the Iron Southmount is ri
-excerpt: Material Iron Chimeraland materials Iron September 29, 2022 9:26 AM
-  Continue reading Iron What is the use of the Iron Southmount is ri
-id: 9632b472-74d4-4888-8455-7d955a8cf23f
-lang: en
-permalink: /chimeraland/materials/iron.html
-photos:
-  - /chimeraland/materials/iron/iron.webp
-subtitle: Material Iron Chimeraland materials Iron September 29, 2022 9:26 AM
-  Continue reading Iron What is the use of the Iron Southmount is ri
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/iron/iron.webp
-title: Material Iron Chimeraland
-type: post
-updated: 2023-08-08T14:44:54+07:00
-wordcount: 987
 ---
 
 <link

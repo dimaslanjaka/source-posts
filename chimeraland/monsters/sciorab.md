@@ -1,33 +1,21 @@
 ---
+title: Monster Sciorab
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sciorab
+updated: 2023-05-25T13:38:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Sciorab Sciorab Information from Chimeraland Sciorab
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Sciorab Sciorab Information from Chimeraland Sciorab default
-  maximum attribute GRADE Attack "
-id: 8e43a847-f2ad-4888-831f-ca98b542538c
-lang: en
 permalink: /chimeraland/monsters/sciorab.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sciorab
-subtitle: "Monster Sciorab Sciorab Information from Chimeraland Sciorab default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sciorab
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sciorab
-title: Monster Sciorab
-type: post
-updated: 2023-08-08T14:44:34+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

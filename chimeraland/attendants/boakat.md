@@ -1,18 +1,9 @@
 ---
+title: Attendant boakat
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/boakat/Screenshot_2022-11-27-08-47-32-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-02-08T22:16:58+07:00
 date: 2023-02-08T22:05:58+07:00
-description: "Attendant boakat boakat Information from Chimeraland boakat
-  default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant boakat boakat Information from Chimeraland boakat default
-  maximum attribute GRADE N/A N/A Attack N/A "
-id: 9802a28e-7f89-4888-8b1c-4dd0604b2f9e
-lang: en
 permalink: /chimeraland/attendants/boakat.html
 photos:
   - /chimeraland/attendants/boakat/Screenshot_2022-11-27-08-47-32-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -22,17 +13,14 @@ photos:
   - /chimeraland/attendants/boakat/Screenshot_2022-11-27-08-47-54-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/boakat/Screenshot_2022-11-27-08-48-01-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/boakat/Screenshot_2022-11-27-08-48-06-21_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant boakat boakat Information from Chimeraland boakat default
-  maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/boakat/Screenshot_2022-11-27-08-47-32-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/boakat/Screenshot_2022-11-27-08-47-32-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant boakat
-type: post
-updated: 2023-08-08T14:45:07+07:00
-webtitle: chimeraland
-wordcount: 1059
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

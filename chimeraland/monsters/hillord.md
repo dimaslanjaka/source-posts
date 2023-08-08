@@ -1,24 +1,12 @@
 ---
+title: Monster Hillord
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hillord
+updated: 2023-05-25T17:24:12+07:00
 date: 2022-01-08T01:56:03+07:00
-description: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
-  Attributes Conversion Rate 4.0,Crit 328,Essence Aspect: Broken Fang
-  delicacies/tasty Smoked Eleboar Meat,Crispy Fried Stinger,Flamebug Meat
-  Claypot Games,chimeraland,monsters chimeraland,monster,pet"
-excerpt: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60 Attributes
-  Conversion Rate 4.0,Crit 328,Essence Aspect: Broken Fang delicacies/tasty
-  Smoked Eleboar Meat,Crispy Fried Stinger,Flamebug Meat Claypot
-  Games,chimeraland,monsters chimeraland,monster,pet"
-id: ea46c24d-82c2-4888-859d-11fbb49e1251
-lang: en
 permalink: /chimeraland/monsters/hillord.html
 photos:
+  - null
   - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-43-52-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-43-57-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-04-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -26,21 +14,19 @@ photos:
   - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-16-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hillord
-subtitle: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
-  Attributes Conversion Rate 4.0,Crit 328,Essence Aspect: Broken Fang
-  delicacies/tasty Smoked Eleboar Meat,Crispy Fried Stinger,Flamebug Meat
-  Claypot Games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hillord
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hillord
-title: Monster Hillord
-type: post
-updated: 2023-08-08T14:44:39+07:00
-webtitle: chimeraland
-wordcount: 1528
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0%,Crit 328,Essence Aspect: Broken Fang
+  delicacies/tasty Smoked Eleboar Meat,Crispy Fried Stinger,Flamebug Meat
+  Claypot games,chimeraland,monsters chimeraland,monster,pet"
 ---
 
 <link

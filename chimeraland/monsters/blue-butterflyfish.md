@@ -1,33 +1,21 @@
 ---
+title: Monster Blue Butterflyfish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Blue Butterflyfish
+updated: 2023-05-25T08:08:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Blue Butterflyfish Blue Butterflyfish Information from
-  Chimeraland Blue Butterflyfish default maximum attribute GRADE Attack "
-excerpt: "Monster Blue Butterflyfish Blue Butterflyfish Information from
-  Chimeraland Blue Butterflyfish default maximum attribute GRADE Attack "
-id: 3890764e-a496-4888-869f-968ab6ba3aae
-lang: en
 permalink: /chimeraland/monsters/blue-butterflyfish.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Blue Butterflyfish
-subtitle: "Monster Blue Butterflyfish Blue Butterflyfish Information from
-  Chimeraland Blue Butterflyfish default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Blue Butterflyfish
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Blue Butterflyfish
-title: Monster Blue Butterflyfish
-type: post
-updated: 2023-08-08T14:44:46+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

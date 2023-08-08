@@ -1,33 +1,21 @@
 ---
+title: Monster Red Starefish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Red Starefish
+updated: 2023-05-25T08:43:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Red Starefish Red Starefish Information from Chimeraland
-  Red Starefish default maximum attribute GRADE Attack "
-excerpt: "Monster Red Starefish Red Starefish Information from Chimeraland Red
-  Starefish default maximum attribute GRADE Attack "
-id: 07c98c9c-6af8-4888-8f7f-529f473ecd39
-lang: en
 permalink: /chimeraland/monsters/red-starefish.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Red Starefish
-subtitle: "Monster Red Starefish Red Starefish Information from Chimeraland Red
-  Starefish default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Red Starefish
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Red Starefish
-title: Monster Red Starefish
-type: post
-updated: 2023-08-08T14:44:35+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

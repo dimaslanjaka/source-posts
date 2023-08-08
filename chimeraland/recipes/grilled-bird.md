@@ -1,34 +1,23 @@
 ---
+title: Recipe Grilled Bird Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/grilled-bird/grilled-bird.webp
-date: 2022-01-09T19:56:03+07:00
-description: "Recipe Grilled Bird Chimeraland Grilled Bird Cooking Recipe Buff
-  Grilled Bird 420 Fullness 60 CRIT Medium Focus recipe "
-excerpt: "Recipe Grilled Bird Chimeraland Grilled Bird Cooking Recipe Buff
-  Grilled Bird 420 Fullness 60 CRIT Medium Focus recipe "
-id: f5a88481-6132-4888-8708-2ff9da78638c
+updated: 2022-10-05T18:46:56+07:00
 lang: en
+date: 2022-01-09T19:56:03+07:00
 permalink: /chimeraland/recipes/grilled-bird.html
 photos:
   - /chimeraland/recipes/grilled-bird/grilled-bird.webp
   - /chimeraland/recipes/grilled-bird/grilled-bird-name.webp
   - /chimeraland/recipes/grilled-bird/grilled-bird-icon.webp
   - /chimeraland/recipes/grilled-bird/grilled-bird-material.webp
-subtitle: "Recipe Grilled Bird Chimeraland Grilled Bird Cooking Recipe Buff
-  Grilled Bird 420 Fullness 60 CRIT Medium Focus recipe "
+thumbnail: /chimeraland/recipes/grilled-bird/grilled-bird.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/grilled-bird/grilled-bird.webp
-title: Recipe Grilled Bird Chimeraland
-type: post
-updated: 2023-08-08T14:44:27+07:00
-wordcount: 703
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

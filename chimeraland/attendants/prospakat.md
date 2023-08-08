@@ -1,18 +1,9 @@
 ---
+title: Attendant prospakat
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-04-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-02-16T22:53:20+07:00
 date: 2023-02-16T22:42:20+07:00
-description: "Attendant prospakat prospakat Information from Chimeraland
-  prospakat default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant prospakat prospakat Information from Chimeraland prospakat
-  default maximum attribute GRADE N/A N/A Attack N/A "
-id: 6ee76998-fce3-4888-84dd-db03743e527e
-lang: en
 permalink: /chimeraland/attendants/prospakat.html
 photos:
   - /chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-04-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -22,17 +13,14 @@ photos:
   - /chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-30-47_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-35-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-42-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant prospakat prospakat Information from Chimeraland prospakat
-  default maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-04-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/prospakat/Screenshot_2023-02-14-01-05-04-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant prospakat
-type: post
-updated: 2023-08-08T14:45:05+07:00
-webtitle: chimeraland
-wordcount: 1059
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

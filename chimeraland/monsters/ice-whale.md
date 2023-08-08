@@ -1,33 +1,21 @@
 ---
+title: Monster Ice Whale
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ice Whale
+updated: 2023-05-25T16:08:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Ice Whale Ice Whale Information from Chimeraland Ice Whale
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Ice Whale Ice Whale Information from Chimeraland Ice Whale
-  default maximum attribute GRADE Attack "
-id: 27ce4c95-80c4-4888-8974-40bf8ac0951f
-lang: en
 permalink: /chimeraland/monsters/ice-whale.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ice Whale
-subtitle: "Monster Ice Whale Ice Whale Information from Chimeraland Ice Whale
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ice Whale
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ice Whale
-title: Monster Ice Whale
-type: post
-updated: 2023-08-08T14:44:39+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

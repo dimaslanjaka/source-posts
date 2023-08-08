@@ -1,31 +1,19 @@
 ---
+title: Material Coriander Chimeraland
+date: 2022-01-12T17:56:03+07:00
+updated: 2022-10-04T17:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/coriander.html
+photos:
+  - /chimeraland/materials/coriander/coriander.webp
+thumbnail: /chimeraland/materials/coriander/coriander.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/coriander/coriander.webp
-date: 2022-01-12T17:56:03+07:00
-description: "Material Coriander Chimeraland materials Coriander October 4, 2022
-  5:26 PM Continue reading Coriander What is the use of the Coriander "
-excerpt: "Material Coriander Chimeraland materials Coriander October 4, 2022
-  5:26 PM Continue reading Coriander What is the use of the Coriander "
-id: 81d015b8-bbd4-4888-8379-935dc5f08395
-lang: en
-permalink: /chimeraland/materials/coriander.html
-photos:
-  - /chimeraland/materials/coriander/coriander.webp
-subtitle: "Material Coriander Chimeraland materials Coriander October 4, 2022
-  5:26 PM Continue reading Coriander What is the use of the Coriander "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/coriander/coriander.webp
-title: Material Coriander Chimeraland
-type: post
-updated: 2023-08-08T14:44:58+07:00
-wordcount: 1584
 ---
 
 <link

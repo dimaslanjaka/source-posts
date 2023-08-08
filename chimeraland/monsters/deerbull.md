@@ -1,18 +1,9 @@
 ---
+title: Monster Deerbull
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: /chimeraland/monsters/deerbull/Screenshot_2022-11-14-11-05-48-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2022-09-29T18:18:27+07:00
 date: 2022-01-07T02:56:03+07:00
-description: "Monster Deerbull Deerbull Information from Chimeraland Deerbull
-  default maximum attribute GRADE B GRAND - EPIC Attack 61 "
-excerpt: "Monster Deerbull Deerbull Information from Chimeraland Deerbull
-  default maximum attribute GRADE B GRAND - EPIC Attack 61 "
-id: e638fda5-5a7e-4888-8100-36d8b4cdf99b
-lang: en
 permalink: /chimeraland/monsters/deerbull.html
 photos:
   - /chimeraland/monsters/deerbull/Screenshot_2022-11-14-11-05-48-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -23,18 +14,15 @@ photos:
   - /chimeraland/monsters/deerbull/Screenshot_2022-11-14-11-06-22-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/deerbull/Screenshot_2022-11-14-11-06-29-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/deerbull/Screenshot_2022-11-14-11-06-35-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster Deerbull Deerbull Information from Chimeraland Deerbull
-  default maximum attribute GRADE B GRAND - EPIC Attack 61 "
+thumbnail: /chimeraland/monsters/deerbull/Screenshot_2022-11-14-11-05-48-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/deerbull/Screenshot_2022-11-14-11-05-48-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster Deerbull
-type: post
-updated: 2023-08-08T14:44:45+07:00
-webtitle: chimeraland
-wordcount: 1156
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

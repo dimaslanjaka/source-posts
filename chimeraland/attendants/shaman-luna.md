@@ -1,29 +1,18 @@
 ---
+title: Attendant Shaman Luna
+webtitle: chimeraland
 author: L3n4r0x
+updated: 2022-09-29T18:26:37+07:00
+date: 2022-01-07T23:56:03+07:00
+permalink: /chimeraland/attendants/shaman-luna.html
+photos: []
+tags:
+  - chimeraland
+  - Attendant
 categories:
   - games
   - chimeraland
   - attendants
-comments: true
-date: 2022-01-07T23:56:03+07:00
-description: "Attendant Shaman Luna Shaman Luna Information from Chimeraland
-  Shaman Luna default maximum attribute GRADE Attack "
-excerpt: "Attendant Shaman Luna Shaman Luna Information from Chimeraland Shaman
-  Luna default maximum attribute GRADE Attack "
-id: e6693928-3ceb-4888-8b87-6e557864b775
-lang: en
-permalink: /chimeraland/attendants/shaman-luna.html
-photos: []
-subtitle: "Attendant Shaman Luna Shaman Luna Information from Chimeraland Shaman
-  Luna default maximum attribute GRADE Attack "
-tags:
-  - chimeraland
-  - attendant
-title: Attendant Shaman Luna
-type: post
-updated: 2023-08-08T14:45:03+07:00
-webtitle: chimeraland
-wordcount: 534
 ---
 
 <link

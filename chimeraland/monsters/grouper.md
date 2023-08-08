@@ -1,33 +1,21 @@
 ---
+title: Monster Grouper
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grouper
+updated: 2023-05-25T06:30:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Grouper Grouper Information from Chimeraland Grouper
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Grouper Grouper Information from Chimeraland Grouper default
-  maximum attribute GRADE Attack "
-id: 90b5f0f6-e0ab-4888-89bc-bde4a8eb1167
-lang: en
 permalink: /chimeraland/monsters/grouper.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grouper
-subtitle: "Monster Grouper Grouper Information from Chimeraland Grouper default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grouper
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grouper
-title: Monster Grouper
-type: post
-updated: 2023-08-08T14:44:39+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

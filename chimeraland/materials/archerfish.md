@@ -1,37 +1,19 @@
 ---
+title: Material Archerfish Chimeraland
+date: 2022-01-14T12:56:03+07:00
+updated: 2022-10-06T12:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/archerfish.html
+photos:
+  - /chimeraland/materials/archerfish/archerfish.webp
+thumbnail: /chimeraland/materials/archerfish/archerfish.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/archerfish/archerfish.webp
-date: 2022-01-14T12:56:03+07:00
-description: Material Archerfish Chimeraland materials Archerfish October 6,
-  2022 12:26 PM A marine fish with an almost egg-like body. It has a flat head
-  and pointed snout, flattened body, and big eyes. Found in various areas.
-  Continue reading Archerf
-excerpt: Material Archerfish Chimeraland materials Archerfish October 6, 2022
-  12:26 PM A marine fish with an almost egg-like body. It has a flat head and
-  pointed snout, flattened body, and big eyes. Found in various areas. Continue
-  reading Archerf
-id: 078a81cc-84d1-4888-879a-f5590fd486d5
-lang: en
-permalink: /chimeraland/materials/archerfish.html
-photos:
-  - /chimeraland/materials/archerfish/archerfish.webp
-subtitle: Material Archerfish Chimeraland materials Archerfish October 6, 2022
-  12:26 PM A marine fish with an almost egg-like body. It has a flat head and
-  pointed snout, flattened body, and big eyes. Found in various areas. Continue
-  reading Archerf
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/archerfish/archerfish.webp
-title: Material Archerfish Chimeraland
-type: post
-updated: 2023-08-08T14:45:01+07:00
-wordcount: 754
 ---
 
 <link

@@ -1,36 +1,23 @@
 ---
+title: Recipe Scallion Meat Skewers Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers.webp
-date: 2022-01-11T03:56:03+07:00
-description: "Recipe Scallion Meat Skewers Chimeraland Scallion Meat Skewers
-  Cooking Recipe Buff Scallion Meat Skewers 300 Fullness 12 Armor Pierce recipe
-  "
-excerpt: "Recipe Scallion Meat Skewers Chimeraland Scallion Meat Skewers Cooking
-  Recipe Buff Scallion Meat Skewers 300 Fullness 12 Armor Pierce recipe "
-id: 3904fbf3-a051-4888-8f47-ac47a3253628
+updated: 2022-10-06T08:46:55+07:00
 lang: en
+date: 2022-01-11T03:56:03+07:00
 permalink: /chimeraland/recipes/scallion-meat-skewers.html
 photos:
   - /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers.webp
   - /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers-name.webp
   - /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers-icon.webp
   - /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers-material.webp
-subtitle: "Recipe Scallion Meat Skewers Chimeraland Scallion Meat Skewers
-  Cooking Recipe Buff Scallion Meat Skewers 300 Fullness 12 Armor Pierce recipe
-  "
+thumbnail: /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/scallion-meat-skewers/scallion-meat-skewers.webp
-title: Recipe Scallion Meat Skewers Chimeraland
-type: post
-updated: 2023-08-08T14:44:25+07:00
-wordcount: 657
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

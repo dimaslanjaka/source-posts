@@ -1,32 +1,19 @@
 ---
+title: Material Beast Brain Chimeraland
+date: 2022-01-08T21:56:03+07:00
+updated: 2022-09-30T21:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/beast-brain.html
+photos:
+  - /chimeraland/materials/beast-brain/beast-brain.webp
+thumbnail: /chimeraland/materials/beast-brain/beast-brain.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/beast-brain/beast-brain.webp
-date: 2022-01-08T21:56:03+07:00
-description: "Material Beast Brain Chimeraland materials Beast Brain September
-  30, 2022 9:26 PM Continue reading Beast Brain What is the use of the Beast
-  Brain "
-excerpt: "Material Beast Brain Chimeraland materials Beast Brain September 30,
-  2022 9:26 PM Continue reading Beast Brain What is the use of the Beast Brain "
-id: ee627bbb-f11f-4888-8bdd-fb3e94637e76
-lang: en
-permalink: /chimeraland/materials/beast-brain.html
-photos:
-  - /chimeraland/materials/beast-brain/beast-brain.webp
-subtitle: "Material Beast Brain Chimeraland materials Beast Brain September 30,
-  2022 9:26 PM Continue reading Beast Brain What is the use of the Beast Brain "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/beast-brain/beast-brain.webp
-title: Material Beast Brain Chimeraland
-type: post
-updated: 2023-08-08T14:45:01+07:00
-wordcount: 7807
 ---
 
 <link

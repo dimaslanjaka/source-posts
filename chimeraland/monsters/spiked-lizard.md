@@ -1,33 +1,21 @@
 ---
+title: Monster Spiked Lizard
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spiked Lizard
+updated: 2023-05-25T11:46:12+07:00
 date: 2023-05-25T02:02:42+07:00
-description: "Monster Spiked Lizard Spiked Lizard Information from Chimeraland
-  Spiked Lizard default maximum attribute GRADE Attack "
-excerpt: "Monster Spiked Lizard Spiked Lizard Information from Chimeraland
-  Spiked Lizard default maximum attribute GRADE Attack "
-id: 231fbba1-c634-4888-8f66-545cbfb657ee
-lang: en
 permalink: /chimeraland/monsters/spiked-lizard.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spiked Lizard
-subtitle: "Monster Spiked Lizard Spiked Lizard Information from Chimeraland
-  Spiked Lizard default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spiked Lizard
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spiked Lizard
-title: Monster Spiked Lizard
-type: post
-updated: 2023-08-08T14:44:33+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

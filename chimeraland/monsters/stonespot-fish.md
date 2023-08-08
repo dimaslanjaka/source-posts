@@ -1,33 +1,21 @@
 ---
+title: Monster Stonespot Fish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stonespot Fish
+updated: 2023-05-25T18:31:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Stonespot Fish Stonespot Fish Information from Chimeraland
-  Stonespot Fish default maximum attribute GRADE Attack "
-excerpt: "Monster Stonespot Fish Stonespot Fish Information from Chimeraland
-  Stonespot Fish default maximum attribute GRADE Attack "
-id: ef8c7f90-f1f4-4888-8ef3-566994c77439
-lang: en
 permalink: /chimeraland/monsters/stonespot-fish.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stonespot Fish
-subtitle: "Monster Stonespot Fish Stonespot Fish Information from Chimeraland
-  Stonespot Fish default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stonespot Fish
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stonespot Fish
-title: Monster Stonespot Fish
-type: post
-updated: 2023-08-08T14:44:32+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

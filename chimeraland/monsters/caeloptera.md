@@ -1,33 +1,21 @@
 ---
+title: Monster Caeloptera
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Caeloptera
+updated: 2023-05-25T11:32:12+07:00
 date: 2022-01-07T00:56:03+07:00
-description: "Monster Caeloptera Caeloptera Information from Chimeraland
-  Caeloptera default maximum attribute GRADE B GRAND - EPIC Attack 60 "
-excerpt: "Monster Caeloptera Caeloptera Information from Chimeraland Caeloptera
-  default maximum attribute GRADE B GRAND - EPIC Attack 60 "
-id: c842d554-9389-4888-84c1-1b3e6a39f500
-lang: en
 permalink: /chimeraland/monsters/caeloptera.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Caeloptera
-subtitle: "Monster Caeloptera Caeloptera Information from Chimeraland Caeloptera
-  default maximum attribute GRADE B GRAND - EPIC Attack 60 "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Caeloptera
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Caeloptera
-title: Monster Caeloptera
-type: post
-updated: 2023-08-08T14:44:46+07:00
-webtitle: chimeraland
-wordcount: 659
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

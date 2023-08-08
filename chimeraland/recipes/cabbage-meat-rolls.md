@@ -1,34 +1,23 @@
 ---
+title: Recipe Cabbage Meat Rolls Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls.webp
-date: 2022-01-06T23:56:03+07:00
-description: "Recipe Cabbage Meat Rolls Chimeraland Cabbage Meat Rolls Cooking
-  Recipe Buff Cabbage Meat Rolls 660 Fullness 160 DEF Great Focus recipe "
-excerpt: "Recipe Cabbage Meat Rolls Chimeraland Cabbage Meat Rolls Cooking
-  Recipe Buff Cabbage Meat Rolls 660 Fullness 160 DEF Great Focus recipe "
-id: 19d6081b-a334-4888-867d-867f30d3d70e
+updated: 2022-10-05T12:46:55+07:00
 lang: en
+date: 2022-01-06T23:56:03+07:00
 permalink: /chimeraland/recipes/cabbage-meat-rolls.html
 photos:
   - /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls.webp
   - /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls-name.webp
   - /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls-icon.webp
   - /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls-material.webp
-subtitle: "Recipe Cabbage Meat Rolls Chimeraland Cabbage Meat Rolls Cooking
-  Recipe Buff Cabbage Meat Rolls 660 Fullness 160 DEF Great Focus recipe "
+thumbnail: /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/cabbage-meat-rolls/cabbage-meat-rolls.webp
-title: Recipe Cabbage Meat Rolls Chimeraland
-type: post
-updated: 2023-08-08T14:44:29+07:00
-wordcount: 829
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

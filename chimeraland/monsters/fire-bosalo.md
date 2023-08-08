@@ -1,33 +1,21 @@
 ---
+title: Monster Fire Bosalo
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Bosalo
+updated: 2023-05-25T17:06:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Fire Bosalo Fire Bosalo Information from Chimeraland Fire
-  Bosalo default maximum attribute GRADE Attack "
-excerpt: "Monster Fire Bosalo Fire Bosalo Information from Chimeraland Fire
-  Bosalo default maximum attribute GRADE Attack "
-id: 4392d4c9-c4a3-4888-8ec5-2e50337e437b
-lang: en
 permalink: /chimeraland/monsters/fire-bosalo.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Bosalo
-subtitle: "Monster Fire Bosalo Fire Bosalo Information from Chimeraland Fire
-  Bosalo default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Bosalo
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Bosalo
-title: Monster Fire Bosalo
-type: post
-updated: 2023-08-08T14:44:44+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

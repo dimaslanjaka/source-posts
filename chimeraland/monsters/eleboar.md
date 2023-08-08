@@ -1,33 +1,21 @@
 ---
+title: Monster Eleboar
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Eleboar
+updated: 2023-05-25T11:35:12+07:00
 date: 2022-01-08T00:56:03+07:00
-description: "Monster Eleboar Eleboar Information from Chimeraland Eleboar
-  default maximum attribute GRADE B GRAND - EPIC Attack 62 "
-excerpt: "Monster Eleboar Eleboar Information from Chimeraland Eleboar default
-  maximum attribute GRADE B GRAND - EPIC Attack 62 "
-id: f2f3e47d-4e00-4888-8f99-992a8fed8b9f
-lang: en
 permalink: /chimeraland/monsters/eleboar.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Eleboar
-subtitle: "Monster Eleboar Eleboar Information from Chimeraland Eleboar default
-  maximum attribute GRADE B GRAND - EPIC Attack 62 "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Eleboar
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Eleboar
-title: Monster Eleboar
-type: post
-updated: 2023-08-08T14:44:44+07:00
-webtitle: chimeraland
-wordcount: 659
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

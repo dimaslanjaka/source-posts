@@ -1,34 +1,19 @@
 ---
+title: Material Beetlefly Meat Chimeraland
+date: 2022-01-08T12:56:03+07:00
+updated: 2022-09-30T12:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/beetlefly-meat.html
+photos:
+  - /chimeraland/materials/beetlefly-meat/beetlefly-meat.webp
+thumbnail: /chimeraland/materials/beetlefly-meat/beetlefly-meat.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/beetlefly-meat/beetlefly-meat.webp
-date: 2022-01-08T12:56:03+07:00
-description: "Material Beetlefly Meat Chimeraland materials Beetlefly Meat
-  September 30, 2022 12:26 PM Continue reading Beetlefly Meat What is the use of
-  the Beetlefly Meat "
-excerpt: "Material Beetlefly Meat Chimeraland materials Beetlefly Meat September
-  30, 2022 12:26 PM Continue reading Beetlefly Meat What is the use of the
-  Beetlefly Meat "
-id: c8b92598-cf3e-4888-88ec-676d057ca632
-lang: en
-permalink: /chimeraland/materials/beetlefly-meat.html
-photos:
-  - /chimeraland/materials/beetlefly-meat/beetlefly-meat.webp
-subtitle: "Material Beetlefly Meat Chimeraland materials Beetlefly Meat
-  September 30, 2022 12:26 PM Continue reading Beetlefly Meat What is the use of
-  the Beetlefly Meat "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/beetlefly-meat/beetlefly-meat.webp
-title: Material Beetlefly Meat Chimeraland
-type: post
-updated: 2023-08-08T14:45:00+07:00
-wordcount: 2630
 ---
 
 <link

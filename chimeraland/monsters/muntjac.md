@@ -1,18 +1,9 @@
 ---
+title: Monster muntjac
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: /chimeraland/monsters/muntjac/Screenshot_2023-02-25-17-10-24-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-03-11T14:30:18+07:00
 date: 2023-03-11T15:19:18+07:00
-description: "Monster muntjac muntjac Information from Chimeraland muntjac
-  default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Monster muntjac muntjac Information from Chimeraland muntjac default
-  maximum attribute GRADE N/A N/A Attack N/A "
-id: b3b598af-0e78-4888-846c-79f0f296ab6c
-lang: en
 permalink: /chimeraland/monsters/muntjac.html
 photos:
   - /chimeraland/monsters/muntjac/Screenshot_2023-02-25-17-10-24-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -22,18 +13,15 @@ photos:
   - /chimeraland/monsters/muntjac/Screenshot_2023-02-25-17-10-48-69_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/muntjac/Screenshot_2023-02-25-17-10-55-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/muntjac/Screenshot_2023-02-25-17-10-59-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster muntjac muntjac Information from Chimeraland muntjac default
-  maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/monsters/muntjac/Screenshot_2023-02-25-17-10-24-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/muntjac/Screenshot_2023-02-25-17-10-24-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster muntjac
-type: post
-updated: 2023-08-08T14:44:36+07:00
-webtitle: chimeraland
-wordcount: 1059
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

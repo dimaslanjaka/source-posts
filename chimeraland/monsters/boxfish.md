@@ -1,33 +1,21 @@
 ---
+title: Monster Boxfish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Boxfish
+updated: 2023-05-25T18:08:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Boxfish Boxfish Information from Chimeraland Boxfish
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Boxfish Boxfish Information from Chimeraland Boxfish default
-  maximum attribute GRADE Attack "
-id: 35d2509f-752f-4888-8a27-76a89cdc13a7
-lang: en
 permalink: /chimeraland/monsters/boxfish.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Boxfish
-subtitle: "Monster Boxfish Boxfish Information from Chimeraland Boxfish default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Boxfish
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Boxfish
-title: Monster Boxfish
-type: post
-updated: 2023-08-08T14:44:46+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

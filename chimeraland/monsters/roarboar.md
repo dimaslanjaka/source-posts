@@ -1,33 +1,21 @@
 ---
+title: Monster Roarboar
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Roarboar
+updated: 2023-05-25T05:58:12+07:00
 date: 2023-05-25T02:02:42+07:00
-description: "Monster Roarboar Roarboar Information from Chimeraland Roarboar
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Roarboar Roarboar Information from Chimeraland Roarboar
-  default maximum attribute GRADE Attack "
-id: f5f6e8a0-f0d6-4888-8f30-4f54496e76ef
-lang: en
 permalink: /chimeraland/monsters/roarboar.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Roarboar
-subtitle: "Monster Roarboar Roarboar Information from Chimeraland Roarboar
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Roarboar
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Roarboar
-title: Monster Roarboar
-type: post
-updated: 2023-08-08T14:44:35+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

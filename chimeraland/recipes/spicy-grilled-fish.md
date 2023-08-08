@@ -1,34 +1,23 @@
 ---
+title: Recipe Spicy Grilled Fish Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish.webp
-date: 2022-01-11T18:56:03+07:00
-description: "Recipe Spicy Grilled Fish Chimeraland Spicy Grilled Fish Cooking
-  Recipe Buff Spicy Grilled Fish 420 Fullness 35 RES recipe "
-excerpt: "Recipe Spicy Grilled Fish Chimeraland Spicy Grilled Fish Cooking
-  Recipe Buff Spicy Grilled Fish 420 Fullness 35 RES recipe "
-id: 0ff1f637-2c65-4888-8b93-fb7e680ec7e3
+updated: 2022-10-05T23:46:56+07:00
 lang: en
+date: 2022-01-11T18:56:03+07:00
 permalink: /chimeraland/recipes/spicy-grilled-fish.html
 photos:
   - /chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish.webp
   - /chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish-name.webp
   - /chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish-icon.webp
   - /chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish-material.webp
-subtitle: "Recipe Spicy Grilled Fish Chimeraland Spicy Grilled Fish Cooking
-  Recipe Buff Spicy Grilled Fish 420 Fullness 35 RES recipe "
+thumbnail: /chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/spicy-grilled-fish/spicy-grilled-fish.webp
-title: Recipe Spicy Grilled Fish Chimeraland
-type: post
-updated: 2023-08-08T14:44:24+07:00
-wordcount: 862
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

@@ -1,33 +1,21 @@
 ---
+title: Monster Golquito
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Golquito
+updated: 2023-05-25T13:24:12+07:00
 date: 2022-01-08T08:56:03+07:00
-description: "Monster Golquito Golquito Information from Chimeraland Golquito
-  default maximum attribute GRADE C RARE Attack 49 "
-excerpt: "Monster Golquito Golquito Information from Chimeraland Golquito
-  default maximum attribute GRADE C RARE Attack 49 "
-id: 40ceee10-faa7-4888-8090-391cb336f779
-lang: en
 permalink: /chimeraland/monsters/golquito.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Golquito
-subtitle: "Monster Golquito Golquito Information from Chimeraland Golquito
-  default maximum attribute GRADE C RARE Attack 49 "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Golquito
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Golquito
-title: Monster Golquito
-type: post
-updated: 2023-08-08T14:44:40+07:00
-webtitle: chimeraland
-wordcount: 633
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

@@ -1,34 +1,19 @@
 ---
+title: Material Spirit Fox Fur Chimeraland
+date: 2022-01-11T12:56:03+07:00
+updated: 2022-10-03T12:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/spirit-fox-fur.html
+photos:
+  - /chimeraland/materials/spirit-fox-fur/spirit-fox-fur.webp
+thumbnail: /chimeraland/materials/spirit-fox-fur/spirit-fox-fur.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/spirit-fox-fur/spirit-fox-fur.webp
-date: 2022-01-11T12:56:03+07:00
-description: "Material Spirit Fox Fur Chimeraland materials Spirit Fox Fur
-  October 3, 2022 12:26 PM Continue reading Spirit Fox Fur What is the use of
-  the Spirit Fox Fur "
-excerpt: "Material Spirit Fox Fur Chimeraland materials Spirit Fox Fur October
-  3, 2022 12:26 PM Continue reading Spirit Fox Fur What is the use of the Spirit
-  Fox Fur "
-id: 9cb9ea79-4445-4888-856e-1f536345749a
-lang: en
-permalink: /chimeraland/materials/spirit-fox-fur.html
-photos:
-  - /chimeraland/materials/spirit-fox-fur/spirit-fox-fur.webp
-subtitle: "Material Spirit Fox Fur Chimeraland materials Spirit Fox Fur October
-  3, 2022 12:26 PM Continue reading Spirit Fox Fur What is the use of the Spirit
-  Fox Fur "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/spirit-fox-fur/spirit-fox-fur.webp
-title: Material Spirit Fox Fur Chimeraland
-type: post
-updated: 2023-08-08T14:44:49+07:00
-wordcount: 1481
 ---
 
 <link

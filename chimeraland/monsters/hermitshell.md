@@ -1,33 +1,21 @@
 ---
+title: Monster Hermitshell
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hermitshell
+updated: 2023-05-25T08:13:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Hermitshell Hermitshell Information from Chimeraland
-  Hermitshell default maximum attribute GRADE Attack "
-excerpt: "Monster Hermitshell Hermitshell Information from Chimeraland
-  Hermitshell default maximum attribute GRADE Attack "
-id: 650bb7ef-9680-4888-8cf0-fb46c0423944
-lang: en
 permalink: /chimeraland/monsters/hermitshell.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hermitshell
-subtitle: "Monster Hermitshell Hermitshell Information from Chimeraland
-  Hermitshell default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hermitshell
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hermitshell
-title: Monster Hermitshell
-type: post
-updated: 2023-08-08T14:44:39+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

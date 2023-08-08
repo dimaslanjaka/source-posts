@@ -1,34 +1,19 @@
 ---
+title: Material Moon Resin Dew Chimeraland
+date: 2022-01-18T06:56:03+07:00
+updated: 2022-10-10T06:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/moon-resin-dew.html
+photos:
+  - /chimeraland/materials/moon-resin-dew/moon-resin-dew.webp
+thumbnail: /chimeraland/materials/moon-resin-dew/moon-resin-dew.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/moon-resin-dew/moon-resin-dew.webp
-date: 2022-01-18T06:56:03+07:00
-description: "Material Moon Resin Dew Chimeraland materials Moon Resin Dew
-  October 10, 2022 6:26 AM Continue reading Moon Resin Dew What is the use of
-  the Moon Resin Dew "
-excerpt: "Material Moon Resin Dew Chimeraland materials Moon Resin Dew October
-  10, 2022 6:26 AM Continue reading Moon Resin Dew What is the use of the Moon
-  Resin Dew "
-id: 8c5d0d97-591c-4888-8a74-b6557d8fd884
-lang: en
-permalink: /chimeraland/materials/moon-resin-dew.html
-photos:
-  - /chimeraland/materials/moon-resin-dew/moon-resin-dew.webp
-subtitle: "Material Moon Resin Dew Chimeraland materials Moon Resin Dew October
-  10, 2022 6:26 AM Continue reading Moon Resin Dew What is the use of the Moon
-  Resin Dew "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/moon-resin-dew/moon-resin-dew.webp
-title: Material Moon Resin Dew Chimeraland
-type: post
-updated: 2023-08-08T14:44:53+07:00
-wordcount: 697
 ---
 
 <link

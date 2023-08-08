@@ -1,33 +1,21 @@
 ---
+title: Monster Scatelope
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Scatelope
+updated: 2023-05-25T11:14:12+07:00
 date: 2023-05-25T02:02:42+07:00
-description: "Monster Scatelope Scatelope Information from Chimeraland Scatelope
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Scatelope Scatelope Information from Chimeraland Scatelope
-  default maximum attribute GRADE Attack "
-id: 39846a53-20c9-4888-82b7-6b64ad6c8d65
-lang: en
 permalink: /chimeraland/monsters/scatelope.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Scatelope
-subtitle: "Monster Scatelope Scatelope Information from Chimeraland Scatelope
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Scatelope
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Scatelope
-title: Monster Scatelope
-type: post
-updated: 2023-08-08T14:44:34+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

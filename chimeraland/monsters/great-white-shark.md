@@ -1,36 +1,21 @@
 ---
+title: Monster Great White Shark
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Great White Shark
+updated: 2023-05-25T07:02:12+07:00
 date: 2022-01-08T13:56:03+07:00
-description: "Monster Great White Shark Great White Shark Information from
-  Chimeraland Great White Shark default maximum attribute GRADE C RARE Attack 45
-  "
-excerpt: "Monster Great White Shark Great White Shark Information from
-  Chimeraland Great White Shark default maximum attribute GRADE C RARE Attack 45
-  "
-id: e744621b-8693-4888-8b0c-4e5e2b65021d
-lang: en
 permalink: /chimeraland/monsters/great-white-shark.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Great White Shark
-subtitle: "Monster Great White Shark Great White Shark Information from
-  Chimeraland Great White Shark default maximum attribute GRADE C RARE Attack 45
-  "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Great White Shark
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Great White Shark
-title: Monster Great White Shark
-type: post
-updated: 2023-08-08T14:44:40+07:00
-webtitle: chimeraland
-wordcount: 707
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

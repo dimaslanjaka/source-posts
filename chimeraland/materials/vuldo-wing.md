@@ -1,34 +1,19 @@
 ---
+title: Material Vuldo Wing Chimeraland
+date: 2022-01-10T03:56:03+07:00
+updated: 2022-10-02T03:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/vuldo-wing.html
+photos:
+  - /chimeraland/materials/vuldo-wing/vuldo-wing.webp
+thumbnail: /chimeraland/materials/vuldo-wing/vuldo-wing.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/vuldo-wing/vuldo-wing.webp
-date: 2022-01-10T03:56:03+07:00
-description: Material Vuldo Wing Chimeraland materials Vuldo Wing October 2,
-  2022 3:26 AM Vuldo feather, strength may fall, but wear to not be slowed.
-  Continue reading Vuldo Wing Wha
-excerpt: Material Vuldo Wing Chimeraland materials Vuldo Wing October 2, 2022
-  3:26 AM Vuldo feather, strength may fall, but wear to not be slowed. Continue
-  reading Vuldo Wing Wha
-id: 298f4112-b837-4888-893e-45050e03fdba
-lang: en
-permalink: /chimeraland/materials/vuldo-wing.html
-photos:
-  - /chimeraland/materials/vuldo-wing/vuldo-wing.webp
-subtitle: Material Vuldo Wing Chimeraland materials Vuldo Wing October 2, 2022
-  3:26 AM Vuldo feather, strength may fall, but wear to not be slowed. Continue
-  reading Vuldo Wing Wha
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/vuldo-wing/vuldo-wing.webp
-title: Material Vuldo Wing Chimeraland
-type: post
-updated: 2023-08-08T14:44:48+07:00
-wordcount: 947
 ---
 
 <link

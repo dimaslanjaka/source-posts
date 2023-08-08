@@ -1,18 +1,9 @@
 ---
+title: Attendant ocyaska
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/ocyaska/Screenshot_2023-02-06-02-40-23-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-02-09T04:16:58+07:00
 date: 2023-02-09T04:05:58+07:00
-description: "Attendant ocyaska ocyaska Information from Chimeraland ocyaska
-  default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant ocyaska ocyaska Information from Chimeraland ocyaska default
-  maximum attribute GRADE N/A N/A Attack N/A "
-id: c20f80f6-1af2-4888-8b13-06e569c5f076
-lang: en
 permalink: /chimeraland/attendants/ocyaska.html
 photos:
   - /chimeraland/attendants/ocyaska/Screenshot_2023-02-06-02-40-23-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -22,17 +13,14 @@ photos:
   - /chimeraland/attendants/ocyaska/Screenshot_2023-02-06-02-40-42-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/ocyaska/Screenshot_2023-02-06-02-40-46-82_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/ocyaska/Screenshot_2023-02-06-08-58-31-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant ocyaska ocyaska Information from Chimeraland ocyaska
-  default maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/ocyaska/Screenshot_2023-02-06-02-40-23-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/ocyaska/Screenshot_2023-02-06-02-40-23-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant ocyaska
-type: post
-updated: 2023-08-08T14:45:05+07:00
-webtitle: chimeraland
-wordcount: 1059
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

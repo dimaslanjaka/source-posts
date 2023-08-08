@@ -1,35 +1,20 @@
 ---
-author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - material
-comments: true
-cover: /chimeraland/materials/leoparbeak-meat/leoparbeak-meat.webp
+title: Material Leoparbeak Meat Chimeraland
 date: 2022-01-08T05:56:03+07:00
-description: "Material Leoparbeak Meat Chimeraland materials Leoparbeak Meat
-  September 30, 2022 5:26 AM Continue reading Leoparbeak Meat What is the use of
-  the Leoparbeak Meat "
-excerpt: "Material Leoparbeak Meat Chimeraland materials Leoparbeak Meat
-  September 30, 2022 5:26 AM Continue reading Leoparbeak Meat What is the use of
-  the Leoparbeak Meat "
-id: 322ed5ce-ff53-4888-85a6-95ee4af35ecd
-lang: en
+updated: 2022-09-30T05:26:37+07:00
+author: L3n4r0x
 permalink: /chimeraland/materials/leoparbeak-meat.html
 photos:
   - /chimeraland/materials/leoparbeak-meat/leoparbeak-meat.webp
   - /chimeraland/materials/leoparbeak-meat/leaoparbeak-meat.webp
-subtitle: "Material Leoparbeak Meat Chimeraland materials Leoparbeak Meat
-  September 30, 2022 5:26 AM Continue reading Leoparbeak Meat What is the use of
-  the Leoparbeak Meat "
+thumbnail: /chimeraland/materials/leoparbeak-meat/leoparbeak-meat.webp
 tags:
   - chimeraland
   - material
-thumbnail: /chimeraland/materials/leoparbeak-meat/leoparbeak-meat.webp
-title: Material Leoparbeak Meat Chimeraland
-type: post
-updated: 2023-08-08T14:44:54+07:00
-wordcount: 611
+categories:
+  - games
+  - chimeraland
+  - material
 ---
 
 <link

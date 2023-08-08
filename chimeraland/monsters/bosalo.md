@@ -1,33 +1,21 @@
 ---
+title: Monster Bosalo
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bosalo
+updated: 2023-05-25T13:26:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Bosalo Bosalo Information from Chimeraland Bosalo default
-  maximum attribute GRADE Attack "
-excerpt: "Monster Bosalo Bosalo Information from Chimeraland Bosalo default
-  maximum attribute GRADE Attack "
-id: 4274dc60-4fcc-4888-808e-4a5e31819139
-lang: en
 permalink: /chimeraland/monsters/bosalo.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bosalo
-subtitle: "Monster Bosalo Bosalo Information from Chimeraland Bosalo default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bosalo
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bosalo
-title: Monster Bosalo
-type: post
-updated: 2023-08-08T14:44:46+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

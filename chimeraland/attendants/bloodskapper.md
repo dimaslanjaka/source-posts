@@ -1,18 +1,9 @@
 ---
+title: Attendant bloodskapper
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-39-43-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-03-10T21:30:17+07:00
 date: 2023-03-10T21:19:17+07:00
-description: "Attendant bloodskapper bloodskapper Information from Chimeraland
-  bloodskapper default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant bloodskapper bloodskapper Information from Chimeraland
-  bloodskapper default maximum attribute GRADE N/A N/A Attack N/A "
-id: db2482bf-c164-4888-82be-0712996ea88e
-lang: en
 permalink: /chimeraland/attendants/bloodskapper.html
 photos:
   - /chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-39-43-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -23,17 +14,14 @@ photos:
   - /chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-40-03-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-40-07-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-40-11-64_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant bloodskapper bloodskapper Information from Chimeraland
-  bloodskapper default maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-39-43-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/bloodskapper/Screenshot_2023-03-03-22-39-43-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant bloodskapper
-type: post
-updated: 2023-08-08T14:45:07+07:00
-webtitle: chimeraland
-wordcount: 1130
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

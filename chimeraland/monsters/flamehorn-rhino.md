@@ -1,33 +1,21 @@
 ---
+title: Monster Flamehorn Rhino
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamehorn Rhino
+updated: 2023-05-25T13:42:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Flamehorn Rhino Flamehorn Rhino Information from
-  Chimeraland Flamehorn Rhino default maximum attribute GRADE Attack "
-excerpt: "Monster Flamehorn Rhino Flamehorn Rhino Information from Chimeraland
-  Flamehorn Rhino default maximum attribute GRADE Attack "
-id: e49722b7-0931-4888-8897-d8a88f0bf921
-lang: en
 permalink: /chimeraland/monsters/flamehorn-rhino.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamehorn Rhino
-subtitle: "Monster Flamehorn Rhino Flamehorn Rhino Information from Chimeraland
-  Flamehorn Rhino default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamehorn Rhino
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamehorn Rhino
-title: Monster Flamehorn Rhino
-type: post
-updated: 2023-08-08T14:44:44+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

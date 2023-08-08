@@ -1,33 +1,21 @@
 ---
+title: Monster Squid
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Squid
+updated: 2023-05-25T14:33:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Squid Squid Information from Chimeraland Squid default
-  maximum attribute GRADE Attack "
-excerpt: "Monster Squid Squid Information from Chimeraland Squid default maximum
-  attribute GRADE Attack "
-id: eafa6a20-8d58-4888-8cca-051494eee7cc
-lang: en
 permalink: /chimeraland/monsters/squid.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Squid
-subtitle: "Monster Squid Squid Information from Chimeraland Squid default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Squid
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Squid
-title: Monster Squid
-type: post
-updated: 2023-08-08T14:44:32+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

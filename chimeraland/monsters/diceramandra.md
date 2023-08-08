@@ -1,33 +1,21 @@
 ---
+title: Monster Diceramandra
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Diceramandra
+updated: 2023-05-25T15:17:12+07:00
 date: 2022-01-07T18:56:03+07:00
-description: "Monster Diceramandra Diceramandra Information from Chimeraland
-  Diceramandra default maximum attribute GRADE B GRAND - EPIC Attack 60 "
-excerpt: "Monster Diceramandra Diceramandra Information from Chimeraland
-  Diceramandra default maximum attribute GRADE B GRAND - EPIC Attack 60 "
-id: 6343f5b5-7add-4888-83c0-e8e7f7d3e53b
-lang: en
 permalink: /chimeraland/monsters/diceramandra.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Diceramandra
-subtitle: "Monster Diceramandra Diceramandra Information from Chimeraland
-  Diceramandra default maximum attribute GRADE B GRAND - EPIC Attack 60 "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Diceramandra
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Diceramandra
-title: Monster Diceramandra
-type: post
-updated: 2023-08-08T14:44:45+07:00
-webtitle: chimeraland
-wordcount: 659
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

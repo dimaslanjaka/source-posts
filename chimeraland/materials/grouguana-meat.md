@@ -1,34 +1,19 @@
 ---
+title: Material Grouguana Meat Chimeraland
+date: 2022-01-08T16:56:03+07:00
+updated: 2022-09-30T16:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/grouguana-meat.html
+photos:
+  - /chimeraland/materials/grouguana-meat/grouguana-meat.webp
+thumbnail: /chimeraland/materials/grouguana-meat/grouguana-meat.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/grouguana-meat/grouguana-meat.webp
-date: 2022-01-08T16:56:03+07:00
-description: "Material Grouguana Meat Chimeraland materials Grouguana Meat
-  September 30, 2022 4:26 PM Continue reading Grouguana Meat What is the use of
-  the Grouguana Meat "
-excerpt: "Material Grouguana Meat Chimeraland materials Grouguana Meat September
-  30, 2022 4:26 PM Continue reading Grouguana Meat What is the use of the
-  Grouguana Meat "
-id: e1cee8f1-89c9-4888-8702-c7d10d91129d
-lang: en
-permalink: /chimeraland/materials/grouguana-meat.html
-photos:
-  - /chimeraland/materials/grouguana-meat/grouguana-meat.webp
-subtitle: "Material Grouguana Meat Chimeraland materials Grouguana Meat
-  September 30, 2022 4:26 PM Continue reading Grouguana Meat What is the use of
-  the Grouguana Meat "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/grouguana-meat/grouguana-meat.webp
-title: Material Grouguana Meat Chimeraland
-type: post
-updated: 2023-08-08T14:44:55+07:00
-wordcount: 1085
 ---
 
 <link

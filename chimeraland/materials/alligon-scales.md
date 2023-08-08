@@ -1,34 +1,19 @@
 ---
+title: Material Alligon Scales Chimeraland
+date: 2022-01-10T04:56:03+07:00
+updated: 2022-10-02T04:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/alligon-scales.html
+photos:
+  - /chimeraland/materials/alligon-scales/alligon-scales.webp
+thumbnail: /chimeraland/materials/alligon-scales/alligon-scales.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/alligon-scales/alligon-scales.webp
-date: 2022-01-10T04:56:03+07:00
-description: "Material Alligon Scales Chimeraland materials Alligon Scales
-  October 2, 2022 4:26 AM Alligon scale, resists weapons. Continue reading
-  Alligon Scales What is the use of the Alligon Scales "
-excerpt: "Material Alligon Scales Chimeraland materials Alligon Scales October
-  2, 2022 4:26 AM Alligon scale, resists weapons. Continue reading Alligon
-  Scales What is the use of the Alligon Scales "
-id: 778b8b57-599d-4888-8236-dbda600b11de
-lang: en
-permalink: /chimeraland/materials/alligon-scales.html
-photos:
-  - /chimeraland/materials/alligon-scales/alligon-scales.webp
-subtitle: "Material Alligon Scales Chimeraland materials Alligon Scales October
-  2, 2022 4:26 AM Alligon scale, resists weapons. Continue reading Alligon
-  Scales What is the use of the Alligon Scales "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/alligon-scales/alligon-scales.webp
-title: Material Alligon Scales Chimeraland
-type: post
-updated: 2023-08-08T14:45:01+07:00
-wordcount: 1014
 ---
 
 <link

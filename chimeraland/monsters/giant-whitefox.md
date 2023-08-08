@@ -1,18 +1,9 @@
 ---
+title: Monster giant whitefox
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: /chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-19-07-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-08-07T04:11:28+07:00
 date: 2023-08-07T04:00:28+07:00
-description: "Monster giant whitefox giant whitefox Information from Chimeraland
-  giant whitefox default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Monster giant whitefox giant whitefox Information from Chimeraland
-  giant whitefox default maximum attribute GRADE N/A N/A Attack N/A "
-id: f93aa49a-929a-4888-83ac-fd25d7c73785
-lang: en
 permalink: /chimeraland/monsters/giant-whitefox.html
 photos:
   - /chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-19-07-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -25,18 +16,15 @@ photos:
   - /chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-20-27-93_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-20-34-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-20-51-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster giant whitefox giant whitefox Information from Chimeraland
-  giant whitefox default maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-19-07-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/giant-whitefox/Screenshot_2023-08-06-23-19-07-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster giant whitefox
-type: post
-updated: 2023-08-08T14:44:41+07:00
-webtitle: chimeraland
-wordcount: 1399
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

@@ -1,18 +1,9 @@
 ---
+title: Attendant urseydis
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-56-59-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-03-11T08:30:17+07:00
 date: 2023-03-11T08:19:17+07:00
-description: "Attendant urseydis urseydis Information from Chimeraland urseydis
-  default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant urseydis urseydis Information from Chimeraland urseydis
-  default maximum attribute GRADE N/A N/A Attack N/A "
-id: da56b9b7-d1f8-4888-86a8-66c50e4464d3
-lang: en
 permalink: /chimeraland/attendants/urseydis.html
 photos:
   - /chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-56-59-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -23,17 +14,14 @@ photos:
   - /chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-57-26-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-57-32-47_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-57-36-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant urseydis urseydis Information from Chimeraland urseydis
-  default maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-56-59-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/urseydis/Screenshot_2023-02-28-21-56-59-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant urseydis
-type: post
-updated: 2023-08-08T14:45:02+07:00
-webtitle: chimeraland
-wordcount: 1130
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

@@ -1,37 +1,19 @@
 ---
+title: Material Pirarucu Chimeraland
+date: 2022-01-16T03:56:03+07:00
+updated: 2022-10-08T03:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/pirarucu.html
+photos:
+  - /chimeraland/materials/pirarucu/pirarucu.webp
+thumbnail: /chimeraland/materials/pirarucu/pirarucu.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/pirarucu/pirarucu.webp
-date: 2022-01-16T03:56:03+07:00
-description: Material Pirarucu Chimeraland materials Pirarucu October 8, 2022
-  3:26 AM A Freshwater fish with a well-developed teeth and tongue. It can bite
-  with the teeth that grow on its palate. It has a green body and reddish tail
-  fin. Con
-excerpt: Material Pirarucu Chimeraland materials Pirarucu October 8, 2022 3:26
-  AM A Freshwater fish with a well-developed teeth and tongue. It can bite with
-  the teeth that grow on its palate. It has a green body and reddish tail fin.
-  Con
-id: f6202272-24d2-4888-8211-29a40dc793fe
-lang: en
-permalink: /chimeraland/materials/pirarucu.html
-photos:
-  - /chimeraland/materials/pirarucu/pirarucu.webp
-subtitle: Material Pirarucu Chimeraland materials Pirarucu October 8, 2022 3:26
-  AM A Freshwater fish with a well-developed teeth and tongue. It can bite with
-  the teeth that grow on its palate. It has a green body and reddish tail fin.
-  Con
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/pirarucu/pirarucu.webp
-title: Material Pirarucu Chimeraland
-type: post
-updated: 2023-08-08T14:44:52+07:00
-wordcount: 815
 ---
 
 <link

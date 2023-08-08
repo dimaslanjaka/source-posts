@@ -1,20 +1,12 @@
 ---
+title: Monster Litiger
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Litiger
+updated: 2023-05-25T15:53:12+07:00
 date: 2022-01-09T04:56:03+07:00
-description: "Monster Litiger Litiger Information from Chimeraland Litiger
-  default maximum attribute GRADE B GRAND - EPIC Attack 62 "
-excerpt: "Monster Litiger Litiger Information from Chimeraland Litiger default
-  maximum attribute GRADE B GRAND - EPIC Attack 62 "
-id: 2085efc6-4600-4888-8378-31ba249b546d
-lang: en
 permalink: /chimeraland/monsters/litiger.html
 photos:
+  - null
   - /chimeraland/monsters/litiger/Screenshot_2023-03-22-16-58-49-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/litiger/Screenshot_2023-03-22-16-58-53-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/litiger/Screenshot_2023-03-22-16-58-59-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -22,19 +14,15 @@ photos:
   - /chimeraland/monsters/litiger/Screenshot_2023-03-22-16-59-09-64_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/litiger/Screenshot_2023-03-22-17-00-00-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/litiger/Screenshot_2023-03-22-17-00-05-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Litiger
-subtitle: "Monster Litiger Litiger Information from Chimeraland Litiger default
-  maximum attribute GRADE B GRAND - EPIC Attack 62 "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Litiger
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Litiger
-title: Monster Litiger
-type: post
-updated: 2023-08-08T14:44:37+07:00
-webtitle: chimeraland
-wordcount: 1156
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

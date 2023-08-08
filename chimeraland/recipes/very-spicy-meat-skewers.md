@@ -1,34 +1,23 @@
 ---
+title: Recipe Very Spicy Meat Skewers Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/very-spicy-meat-skewers/very-spicy-meat-skewers.webp
-date: 2022-01-13T03:56:03+07:00
-description: "Recipe Very Spicy Meat Skewers Chimeraland Very Spicy Meat Skewers
-  Cooking Recipe Buff Very Spicy Meat Skewers 300 Fullness 100 ATK recipe "
-excerpt: "Recipe Very Spicy Meat Skewers Chimeraland Very Spicy Meat Skewers
-  Cooking Recipe Buff Very Spicy Meat Skewers 300 Fullness 100 ATK recipe "
-id: 54476747-6991-4888-8fea-323d11347b51
+updated: 2022-10-07T08:46:55+07:00
 lang: en
+date: 2022-01-13T03:56:03+07:00
 permalink: /chimeraland/recipes/very-spicy-meat-skewers.html
 photos:
   - /chimeraland/recipes/very-spicy-meat-skewers/very-spicy-meat-skewers.webp
   - /chimeraland/recipes/very-spicy-meat-skewers/very-spicy-meat-skewers-name.webp
   - /chimeraland/recipes/very-spicy-meat-skewers/very-spicy-meat-skewers-icon.webp
   - /chimeraland/recipes/very-spicy-meat-skewers/very-spicy-meat-skewers-material.webp
-subtitle: "Recipe Very Spicy Meat Skewers Chimeraland Very Spicy Meat Skewers
-  Cooking Recipe Buff Very Spicy Meat Skewers 300 Fullness 100 ATK recipe "
+thumbnail: /chimeraland/recipes/very-spicy-meat-skewers/very-spicy-meat-skewers.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/very-spicy-meat-skewers/very-spicy-meat-skewers.webp
-title: Recipe Very Spicy Meat Skewers Chimeraland
-type: post
-updated: 2023-08-08T14:44:23+07:00
-wordcount: 690
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

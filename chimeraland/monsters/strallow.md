@@ -1,38 +1,26 @@
 ---
+title: Monster Strallow
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Strallow
+updated: 2023-05-25T06:57:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Strallow Strallow Information from Chimeraland Strallow
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Strallow Strallow Information from Chimeraland Strallow
-  default maximum attribute GRADE Attack "
-id: c1aea01d-2f6f-4888-84fb-44918a2e0af2
-lang: en
 permalink: /chimeraland/monsters/strallow.html
 photos:
+  - null
   - /chimeraland/monsters/strallow/Screenshot 2023-06-14 014717.webp
   - /chimeraland/monsters/strallow/Screenshot 2023-06-14 014801.webp
   - /chimeraland/monsters/strallow/Screenshot 2023-06-14 014819.webp
   - /chimeraland/monsters/strallow/Screenshot 2023-06-14 014835.webp
   - /chimeraland/monsters/strallow/Screenshot 2023-06-14 014852.webp
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Strallow
-subtitle: "Monster Strallow Strallow Information from Chimeraland Strallow
-  default maximum attribute GRADE Attack "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Strallow
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Strallow
-title: Monster Strallow
-type: post
-updated: 2023-08-08T14:44:32+07:00
-webtitle: chimeraland
-wordcount: 1066
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

@@ -1,33 +1,21 @@
 ---
+title: Monster Wrasse
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Wrasse
+updated: 2023-05-25T12:37:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Wrasse Wrasse Information from Chimeraland Wrasse default
-  maximum attribute GRADE Attack "
-excerpt: "Monster Wrasse Wrasse Information from Chimeraland Wrasse default
-  maximum attribute GRADE Attack "
-id: 07580368-d3d8-4888-89ed-454a10fea3ab
-lang: en
 permalink: /chimeraland/monsters/wrasse.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Wrasse
-subtitle: "Monster Wrasse Wrasse Information from Chimeraland Wrasse default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Wrasse
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Wrasse
-title: Monster Wrasse
-type: post
-updated: 2023-08-08T14:44:31+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

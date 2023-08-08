@@ -1,33 +1,21 @@
 ---
+title: Monster Shelleasel
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Shelleasel
+updated: 2023-05-25T10:06:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Shelleasel Shelleasel Information from Chimeraland
-  Shelleasel default maximum attribute GRADE Attack "
-excerpt: "Monster Shelleasel Shelleasel Information from Chimeraland Shelleasel
-  default maximum attribute GRADE Attack "
-id: c7175358-6145-4888-87b0-9c2098a7286e
-lang: en
 permalink: /chimeraland/monsters/shelleasel.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Shelleasel
-subtitle: "Monster Shelleasel Shelleasel Information from Chimeraland Shelleasel
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Shelleasel
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Shelleasel
-title: Monster Shelleasel
-type: post
-updated: 2023-08-08T14:44:34+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

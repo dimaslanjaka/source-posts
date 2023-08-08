@@ -1,33 +1,21 @@
 ---
+title: Monster Pelagia
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pelagia
+updated: 2023-05-25T02:55:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Pelagia Pelagia Information from Chimeraland Pelagia
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Pelagia Pelagia Information from Chimeraland Pelagia default
-  maximum attribute GRADE Attack "
-id: f1bf6a90-4cbb-4888-8b40-dca557a08e8b
-lang: en
 permalink: /chimeraland/monsters/pelagia.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pelagia
-subtitle: "Monster Pelagia Pelagia Information from Chimeraland Pelagia default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pelagia
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pelagia
-title: Monster Pelagia
-type: post
-updated: 2023-08-08T14:44:36+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

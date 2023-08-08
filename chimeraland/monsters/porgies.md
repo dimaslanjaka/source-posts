@@ -1,33 +1,21 @@
 ---
+title: Monster Porgies
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Porgies
+updated: 2023-05-25T12:34:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Porgies Porgies Information from Chimeraland Porgies
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Porgies Porgies Information from Chimeraland Porgies default
-  maximum attribute GRADE Attack "
-id: 4dab6b09-7e3d-4888-848b-4027c0c14cf0
-lang: en
 permalink: /chimeraland/monsters/porgies.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Porgies
-subtitle: "Monster Porgies Porgies Information from Chimeraland Porgies default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Porgies
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Porgies
-title: Monster Porgies
-type: post
-updated: 2023-08-08T14:44:35+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

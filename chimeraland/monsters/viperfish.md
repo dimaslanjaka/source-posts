@@ -1,33 +1,21 @@
 ---
+title: Monster Viperfish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Viperfish
+updated: 2023-05-25T10:33:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Viperfish Viperfish Information from Chimeraland Viperfish
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Viperfish Viperfish Information from Chimeraland Viperfish
-  default maximum attribute GRADE Attack "
-id: 8a90d7f3-2e9c-4888-8d77-17d413affef0
-lang: en
 permalink: /chimeraland/monsters/viperfish.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Viperfish
-subtitle: "Monster Viperfish Viperfish Information from Chimeraland Viperfish
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Viperfish
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Viperfish
-title: Monster Viperfish
-type: post
-updated: 2023-08-08T14:44:31+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

@@ -1,18 +1,9 @@
 ---
+title: Attendant lunar astra
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-06-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-03-11T01:30:17+07:00
 date: 2023-03-11T01:19:17+07:00
-description: "Attendant lunar astra lunar astra Information from Chimeraland
-  lunar astra default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant lunar astra lunar astra Information from Chimeraland lunar
-  astra default maximum attribute GRADE N/A N/A Attack N/A "
-id: 5c9ceada-1d62-4888-8f22-ccacfd7dd8fa
-lang: en
 permalink: /chimeraland/attendants/lunar-astra.html
 photos:
   - /chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-06-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -23,17 +14,14 @@ photos:
   - /chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-24-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-30-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-34-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant lunar astra lunar astra Information from Chimeraland lunar
-  astra default maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-06-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/lunar-astra/Screenshot_2023-03-08-05-11-06-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant lunar astra
-type: post
-updated: 2023-08-08T14:45:06+07:00
-webtitle: chimeraland
-wordcount: 1237
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

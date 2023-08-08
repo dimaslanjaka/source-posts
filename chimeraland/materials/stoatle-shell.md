@@ -1,34 +1,19 @@
 ---
+title: Material Stoatle Shell Chimeraland
+date: 2022-01-11T03:56:03+07:00
+updated: 2022-10-03T03:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/stoatle-shell.html
+photos:
+  - /chimeraland/materials/stoatle-shell/stoatle-shell.webp
+thumbnail: /chimeraland/materials/stoatle-shell/stoatle-shell.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/stoatle-shell/stoatle-shell.webp
-date: 2022-01-11T03:56:03+07:00
-description: "Material Stoatle Shell Chimeraland materials Stoatle Shell October
-  3, 2022 3:26 AM Continue reading Stoatle Shell What is the use of the Stoatle
-  Shell "
-excerpt: "Material Stoatle Shell Chimeraland materials Stoatle Shell October 3,
-  2022 3:26 AM Continue reading Stoatle Shell What is the use of the Stoatle
-  Shell "
-id: 38b434ae-b558-4888-8f7e-2da7423624d4
-lang: en
-permalink: /chimeraland/materials/stoatle-shell.html
-photos:
-  - /chimeraland/materials/stoatle-shell/stoatle-shell.webp
-subtitle: "Material Stoatle Shell Chimeraland materials Stoatle Shell October 3,
-  2022 3:26 AM Continue reading Stoatle Shell What is the use of the Stoatle
-  Shell "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/stoatle-shell/stoatle-shell.webp
-title: Material Stoatle Shell Chimeraland
-type: post
-updated: 2023-08-08T14:44:49+07:00
-wordcount: 1446
 ---
 
 <link

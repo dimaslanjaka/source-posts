@@ -1,34 +1,19 @@
 ---
+title: Material Rare Wood Genio Chimeraland
+date: 2022-01-13T05:56:03+07:00
+updated: 2022-10-05T05:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/rare-wood-genio.html
+photos:
+  - /chimeraland/materials/rare-wood-genio/rare-wood-genio.webp
+thumbnail: /chimeraland/materials/rare-wood-genio/rare-wood-genio.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/rare-wood-genio/rare-wood-genio.webp
-date: 2022-01-13T05:56:03+07:00
-description: "Material Rare Wood Genio Chimeraland materials Rare Wood Genio
-  October 5, 2022 5:26 AM Continue reading Rare Wood Genio What is the use of
-  the Rare Wood Genio "
-excerpt: "Material Rare Wood Genio Chimeraland materials Rare Wood Genio October
-  5, 2022 5:26 AM Continue reading Rare Wood Genio What is the use of the Rare
-  Wood Genio "
-id: 86d83b79-f6c2-4888-802b-a4eea2f28092
-lang: en
-permalink: /chimeraland/materials/rare-wood-genio.html
-photos:
-  - /chimeraland/materials/rare-wood-genio/rare-wood-genio.webp
-subtitle: "Material Rare Wood Genio Chimeraland materials Rare Wood Genio
-  October 5, 2022 5:26 AM Continue reading Rare Wood Genio What is the use of
-  the Rare Wood Genio "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/rare-wood-genio/rare-wood-genio.webp
-title: Material Rare Wood Genio Chimeraland
-type: post
-updated: 2023-08-08T14:44:51+07:00
-wordcount: 636
 ---
 
 <link

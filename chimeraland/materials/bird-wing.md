@@ -1,31 +1,19 @@
 ---
+title: Material Bird Wing Chimeraland
+date: 2022-01-09T04:56:03+07:00
+updated: 2022-10-01T04:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/bird-wing.html
+photos:
+  - /chimeraland/materials/bird-wing/bird-wing.webp
+thumbnail: /chimeraland/materials/bird-wing/bird-wing.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/bird-wing/bird-wing.webp
-date: 2022-01-09T04:56:03+07:00
-description: "Material Bird Wing Chimeraland materials Bird Wing October 1, 2022
-  4:26 AM Continue reading Bird Wing What is the use of the Bird Wing "
-excerpt: "Material Bird Wing Chimeraland materials Bird Wing October 1, 2022
-  4:26 AM Continue reading Bird Wing What is the use of the Bird Wing "
-id: c1c04ead-ad69-4888-8e22-5243d41e44f8
-lang: en
-permalink: /chimeraland/materials/bird-wing.html
-photos:
-  - /chimeraland/materials/bird-wing/bird-wing.webp
-subtitle: "Material Bird Wing Chimeraland materials Bird Wing October 1, 2022
-  4:26 AM Continue reading Bird Wing What is the use of the Bird Wing "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/bird-wing/bird-wing.webp
-title: Material Bird Wing Chimeraland
-type: post
-updated: 2023-08-08T14:45:00+07:00
-wordcount: 2071
 ---
 
 <link

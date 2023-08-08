@@ -1,20 +1,9 @@
 ---
+title: Attendant shaman violetine
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-03-28T09:10:08+07:00
 date: 2023-03-28T08:59:08+07:00
-description: "Attendant shaman violetine shaman violetine Information from
-  Chimeraland shaman violetine default maximum attribute GRADE N/A N/A Attack
-  N/A "
-excerpt: "Attendant shaman violetine shaman violetine Information from
-  Chimeraland shaman violetine default maximum attribute GRADE N/A N/A Attack
-  N/A "
-id: 52955c6e-c144-4888-840b-f7964a517dc6
-lang: en
 permalink: /chimeraland/attendants/shaman-violetine.html
 photos:
   - /chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -25,18 +14,14 @@ photos:
   - /chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-09-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-14-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-44-18-38_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant shaman violetine shaman violetine Information from
-  Chimeraland shaman violetine default maximum attribute GRADE N/A N/A Attack
-  N/A "
+thumbnail: /chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/shaman-violetine/Screenshot_2023-03-12-23-43-45-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant shaman violetine
-type: post
-updated: 2023-08-08T14:45:02+07:00
-webtitle: chimeraland
-wordcount: 1237
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

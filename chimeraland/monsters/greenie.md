@@ -1,33 +1,21 @@
 ---
+title: Monster Greenie
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Greenie
+updated: 2023-05-25T12:56:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Greenie Greenie Information from Chimeraland Greenie
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Greenie Greenie Information from Chimeraland Greenie default
-  maximum attribute GRADE Attack "
-id: 7bcb0bb8-9034-4888-83e0-abcbea35c63c
-lang: en
 permalink: /chimeraland/monsters/greenie.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Greenie
-subtitle: "Monster Greenie Greenie Information from Chimeraland Greenie default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Greenie
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Greenie
-title: Monster Greenie
-type: post
-updated: 2023-08-08T14:44:40+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

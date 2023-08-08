@@ -1,33 +1,21 @@
 ---
+title: Monster Fire Locray
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Locray
+updated: 2023-05-25T02:48:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Fire Locray Fire Locray Information from Chimeraland Fire
-  Locray default maximum attribute GRADE Attack "
-excerpt: "Monster Fire Locray Fire Locray Information from Chimeraland Fire
-  Locray default maximum attribute GRADE Attack "
-id: 9993c396-5811-4888-8ebd-74c9310cbedc
-lang: en
 permalink: /chimeraland/monsters/fire-locray.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Locray
-subtitle: "Monster Fire Locray Fire Locray Information from Chimeraland Fire
-  Locray default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Locray
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Locray
-title: Monster Fire Locray
-type: post
-updated: 2023-08-08T14:44:44+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

@@ -1,31 +1,19 @@
 ---
+title: Material Lettuce Chimeraland
+date: 2022-01-12T23:56:03+07:00
+updated: 2022-10-04T23:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/lettuce.html
+photos:
+  - /chimeraland/materials/lettuce/lettuce.webp
+thumbnail: /chimeraland/materials/lettuce/lettuce.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/lettuce/lettuce.webp
-date: 2022-01-12T23:56:03+07:00
-description: "Material Lettuce Chimeraland materials Lettuce October 4, 2022
-  11:26 PM Continue reading Lettuce What is the use of the Lettuce "
-excerpt: "Material Lettuce Chimeraland materials Lettuce October 4, 2022 11:26
-  PM Continue reading Lettuce What is the use of the Lettuce "
-id: d3feb8a8-3b2b-4888-8144-d2b818748ec6
-lang: en
-permalink: /chimeraland/materials/lettuce.html
-photos:
-  - /chimeraland/materials/lettuce/lettuce.webp
-subtitle: "Material Lettuce Chimeraland materials Lettuce October 4, 2022 11:26
-  PM Continue reading Lettuce What is the use of the Lettuce "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/lettuce/lettuce.webp
-title: Material Lettuce Chimeraland
-type: post
-updated: 2023-08-08T14:44:54+07:00
-wordcount: 511
 ---
 
 <link

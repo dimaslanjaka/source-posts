@@ -1,34 +1,23 @@
 ---
+title: Recipe Veggie Cake Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/veggie-cake/veggie-cake.webp
-date: 2022-01-13T08:56:03+07:00
-description: Recipe Veggie Cake Chimeraland Veggie Cake Cooking Recipe Buff
-  Veggie Cake Windoo Attendant Recruitment recipe webmanajemen.com - recip
-excerpt: Recipe Veggie Cake Chimeraland Veggie Cake Cooking Recipe Buff Veggie
-  Cake Windoo Attendant Recruitment recipe webmanajemen.com - recip
-id: 089071f1-4469-4888-8e03-6b67d9c587b5
+updated: 2022-10-06T03:46:56+07:00
 lang: en
+date: 2022-01-13T08:56:03+07:00
 permalink: /chimeraland/recipes/veggie-cake.html
 photos:
   - /chimeraland/recipes/veggie-cake/veggie-cake.webp
   - /chimeraland/recipes/veggie-cake/veggie-cake-name.webp
   - /chimeraland/recipes/veggie-cake/veggie-cake-icon.webp
   - /chimeraland/recipes/veggie-cake/veggie-cake-material.webp
-subtitle: Recipe Veggie Cake Chimeraland Veggie Cake Cooking Recipe Buff Veggie
-  Cake Windoo Attendant Recruitment recipe webmanajemen.com - recip
+thumbnail: /chimeraland/recipes/veggie-cake/veggie-cake.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/veggie-cake/veggie-cake.webp
-title: Recipe Veggie Cake Chimeraland
-type: post
-updated: 2023-08-08T14:44:23+07:00
-wordcount: 682
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

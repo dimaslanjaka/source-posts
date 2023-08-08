@@ -1,33 +1,21 @@
 ---
+title: Monster Rhinodile
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rhinodile
+updated: 2023-05-25T11:28:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Rhinodile Rhinodile Information from Chimeraland Rhinodile
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Rhinodile Rhinodile Information from Chimeraland Rhinodile
-  default maximum attribute GRADE Attack "
-id: 5aeed227-95bf-4888-8c5d-71c8ba31fa27
-lang: en
 permalink: /chimeraland/monsters/rhinodile.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rhinodile
-subtitle: "Monster Rhinodile Rhinodile Information from Chimeraland Rhinodile
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rhinodile
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rhinodile
-title: Monster Rhinodile
-type: post
-updated: 2023-08-08T14:44:35+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

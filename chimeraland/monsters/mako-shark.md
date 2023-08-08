@@ -1,33 +1,21 @@
 ---
+title: Monster Mako Shark
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mako Shark
+updated: 2023-05-25T18:24:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Mako Shark Mako Shark Information from Chimeraland Mako
-  Shark default maximum attribute GRADE Attack "
-excerpt: "Monster Mako Shark Mako Shark Information from Chimeraland Mako Shark
-  default maximum attribute GRADE Attack "
-id: edde65f7-0d10-4888-856c-4cbec1aaeae5
-lang: en
 permalink: /chimeraland/monsters/mako-shark.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mako Shark
-subtitle: "Monster Mako Shark Mako Shark Information from Chimeraland Mako Shark
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mako Shark
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mako Shark
-title: Monster Mako Shark
-type: post
-updated: 2023-08-08T14:44:37+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

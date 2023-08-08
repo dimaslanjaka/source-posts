@@ -1,20 +1,9 @@
 ---
+title: Monster giant fire bosalo
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: /chimeraland/monsters/giant-fire-bosalo/Screenshot_2023-02-22-11-14-31-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-02-25T06:55:43+07:00
 date: 2023-02-25T06:44:43+07:00
-description: Monster giant fire bosalo giant fire bosalo Information from
-  Chimeraland giant fire bosalo default maximum attribute GRADE N/A N/A Attack
-  N/A
-excerpt: Monster giant fire bosalo giant fire bosalo Information from
-  Chimeraland giant fire bosalo default maximum attribute GRADE N/A N/A Attack
-  N/A
-id: 755f752c-5c04-4888-8de8-f8c7e613ed44
-lang: en
 permalink: /chimeraland/monsters/giant-fire-bosalo.html
 photos:
   - /chimeraland/monsters/giant-fire-bosalo/Screenshot_2023-02-22-11-14-31-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -25,19 +14,15 @@ photos:
   - /chimeraland/monsters/giant-fire-bosalo/Screenshot_2023-02-22-11-14-57-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-fire-bosalo/Screenshot_2023-02-22-11-15-02-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-fire-bosalo/Screenshot_2023-02-22-11-15-07-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: Monster giant fire bosalo giant fire bosalo Information from
-  Chimeraland giant fire bosalo default maximum attribute GRADE N/A N/A Attack
-  N/A
+thumbnail: /chimeraland/monsters/giant-fire-bosalo/Screenshot_2023-02-22-11-14-31-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/giant-fire-bosalo/Screenshot_2023-02-22-11-14-31-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster giant fire bosalo
-type: post
-updated: 2023-08-08T14:44:42+07:00
-webtitle: chimeraland
-wordcount: 1344
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

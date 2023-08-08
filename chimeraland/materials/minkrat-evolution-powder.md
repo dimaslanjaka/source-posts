@@ -1,34 +1,19 @@
 ---
+title: Material Minkrat Evolution Powder Chimeraland
+date: 2022-01-06T22:56:03+07:00
+updated: 2022-09-28T22:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/minkrat-evolution-powder.html
+photos:
+  - /chimeraland/materials/minkrat-evolution-powder/minkrat-evolution-powder.webp
+thumbnail: /chimeraland/materials/minkrat-evolution-powder/minkrat-evolution-powder.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/minkrat-evolution-powder/minkrat-evolution-powder.webp
-date: 2022-01-06T22:56:03+07:00
-description: "Material Minkrat Evolution Powder Chimeraland materials Minkrat
-  Evolution Powder September 28, 2022 10:26 PM Continue reading Minkrat
-  Evolution Powder What is the use of the Minkrat "
-excerpt: "Material Minkrat Evolution Powder Chimeraland materials Minkrat
-  Evolution Powder September 28, 2022 10:26 PM Continue reading Minkrat
-  Evolution Powder What is the use of the Minkrat "
-id: adda3508-eb3d-4888-8eff-2c50ba693fda
-lang: en
-permalink: /chimeraland/materials/minkrat-evolution-powder.html
-photos:
-  - /chimeraland/materials/minkrat-evolution-powder/minkrat-evolution-powder.webp
-subtitle: "Material Minkrat Evolution Powder Chimeraland materials Minkrat
-  Evolution Powder September 28, 2022 10:26 PM Continue reading Minkrat
-  Evolution Powder What is the use of the Minkrat "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/minkrat-evolution-powder/minkrat-evolution-powder.webp
-title: Material Minkrat Evolution Powder Chimeraland
-type: post
-updated: 2023-08-08T14:44:53+07:00
-wordcount: 589
 ---
 
 <link

@@ -1,34 +1,23 @@
 ---
+title: Recipe Meat Pie Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/meat-pie/meat-pie.webp
-date: 2022-01-10T09:56:03+07:00
-description: "Recipe Meat Pie Chimeraland Meat Pie Cooking Recipe Buff Meat Pie
-  540 Fullness 60 RES Great Focus recipe "
-excerpt: "Recipe Meat Pie Chimeraland Meat Pie Cooking Recipe Buff Meat Pie 540
-  Fullness 60 RES Great Focus recipe "
-id: 535d2adc-2c03-4888-85d6-56cfd607afb1
+updated: 2022-10-05T23:46:55+07:00
 lang: en
+date: 2022-01-10T09:56:03+07:00
 permalink: /chimeraland/recipes/meat-pie.html
 photos:
   - /chimeraland/recipes/meat-pie/meat-pie.webp
   - /chimeraland/recipes/meat-pie/meat-pie-name.webp
   - /chimeraland/recipes/meat-pie/meat-pie-icon.webp
   - /chimeraland/recipes/meat-pie/meat-pie-material.webp
-subtitle: "Recipe Meat Pie Chimeraland Meat Pie Cooking Recipe Buff Meat Pie 540
-  Fullness 60 RES Great Focus recipe "
+thumbnail: /chimeraland/recipes/meat-pie/meat-pie.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/meat-pie/meat-pie.webp
-title: Recipe Meat Pie Chimeraland
-type: post
-updated: 2023-08-08T14:44:26+07:00
-wordcount: 783
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

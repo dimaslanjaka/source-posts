@@ -1,33 +1,21 @@
 ---
+title: Monster Flamefox
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamefox
+updated: 2023-05-25T18:09:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Flamefox Flamefox Information from Chimeraland Flamefox
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Flamefox Flamefox Information from Chimeraland Flamefox
-  default maximum attribute GRADE Attack "
-id: a1f9ea8e-72f4-4888-8de5-d55646fffbb2
-lang: en
 permalink: /chimeraland/monsters/flamefox.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamefox
-subtitle: "Monster Flamefox Flamefox Information from Chimeraland Flamefox
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamefox
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamefox
-title: Monster Flamefox
-type: post
-updated: 2023-08-08T14:44:44+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

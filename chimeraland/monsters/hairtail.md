@@ -1,33 +1,21 @@
 ---
+title: Monster Hairtail
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hairtail
+updated: 2023-05-25T14:41:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Hairtail Hairtail Information from Chimeraland Hairtail
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Hairtail Hairtail Information from Chimeraland Hairtail
-  default maximum attribute GRADE Attack "
-id: 2418fa5b-4dd9-4888-8477-57f4f01331bc
-lang: en
 permalink: /chimeraland/monsters/hairtail.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hairtail
-subtitle: "Monster Hairtail Hairtail Information from Chimeraland Hairtail
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hairtail
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hairtail
-title: Monster Hairtail
-type: post
-updated: 2023-08-08T14:44:39+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

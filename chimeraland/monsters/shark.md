@@ -1,33 +1,21 @@
 ---
+title: Monster Shark
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Shark
+updated: 2023-05-25T11:42:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Shark Shark Information from Chimeraland Shark default
-  maximum attribute GRADE Attack "
-excerpt: "Monster Shark Shark Information from Chimeraland Shark default maximum
-  attribute GRADE Attack "
-id: b08d0308-8479-4888-8fb2-e21219724274
-lang: en
 permalink: /chimeraland/monsters/shark.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Shark
-subtitle: "Monster Shark Shark Information from Chimeraland Shark default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Shark
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Shark
-title: Monster Shark
-type: post
-updated: 2023-08-08T14:44:34+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

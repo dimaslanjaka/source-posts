@@ -1,18 +1,9 @@
 ---
+title: Monster Cloud Drune
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: /chimeraland/monsters/cloud-drune/Screenshot_2023-02-22-11-57-08-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2022-09-29T13:18:27+07:00
 date: 2022-01-07T22:56:03+07:00
-description: "Monster Cloud Drune Cloud Drune Information from Chimeraland Cloud
-  Drune default maximum attribute GRADE C RARE Attack 45 "
-excerpt: "Monster Cloud Drune Cloud Drune Information from Chimeraland Cloud
-  Drune default maximum attribute GRADE C RARE Attack 45 "
-id: 57ffac0f-275c-4888-842a-40d8e49ce3e3
-lang: en
 permalink: /chimeraland/monsters/cloud-drune.html
 photos:
   - /chimeraland/monsters/cloud-drune/Screenshot_2023-02-22-11-57-08-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -21,18 +12,15 @@ photos:
   - /chimeraland/monsters/cloud-drune/Screenshot_2023-02-22-11-57-20-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/cloud-drune/Screenshot_2023-02-22-11-57-24-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/cloud-drune/Screenshot_2023-02-22-11-57-33-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster Cloud Drune Cloud Drune Information from Chimeraland Cloud
-  Drune default maximum attribute GRADE C RARE Attack 45 "
+thumbnail: /chimeraland/monsters/cloud-drune/Screenshot_2023-02-22-11-57-08-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/cloud-drune/Screenshot_2023-02-22-11-57-08-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster Cloud Drune
-type: post
-updated: 2023-08-08T14:44:45+07:00
-webtitle: chimeraland
-wordcount: 1075
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

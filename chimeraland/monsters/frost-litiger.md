@@ -1,33 +1,21 @@
 ---
+title: Monster Frost Litiger
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Litiger
+updated: 2023-05-25T09:53:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Frost Litiger Frost Litiger Information from Chimeraland
-  Frost Litiger default maximum attribute GRADE Attack "
-excerpt: "Monster Frost Litiger Frost Litiger Information from Chimeraland Frost
-  Litiger default maximum attribute GRADE Attack "
-id: f3b50d4a-37bf-4888-81de-f74ef75c495e
-lang: en
 permalink: /chimeraland/monsters/frost-litiger.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Litiger
-subtitle: "Monster Frost Litiger Frost Litiger Information from Chimeraland
-  Frost Litiger default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Litiger
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Litiger
-title: Monster Frost Litiger
-type: post
-updated: 2023-08-08T14:44:43+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

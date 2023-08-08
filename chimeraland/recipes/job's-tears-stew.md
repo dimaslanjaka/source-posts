@@ -1,34 +1,23 @@
 ---
+title: Recipe Job's Tears Stew Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/jobs-tears-stew/jobs-tears-stew.webp
-date: 2022-01-10T07:56:03+07:00
-description: Recipe Jobs Tears Stew Chimeraland Jobs Tears Stew Cooking Recipe
-  Buff Jobs Tears Stew 420 Fullness Medium Focus 25 Armor Pierce recipe
-excerpt: Recipe Jobs Tears Stew Chimeraland Jobs Tears Stew Cooking Recipe Buff
-  Jobs Tears Stew 420 Fullness Medium Focus 25 Armor Pierce recipe
-id: 27b64ce7-3207-4888-889c-e6f88755764e
+updated: 2022-10-06T05:46:55+07:00
 lang: en
+date: 2022-01-10T07:56:03+07:00
 permalink: /chimeraland/recipes/jobs-tears-stew.html
 photos:
   - /chimeraland/recipes/jobs-tears-stew/jobs-tears-stew.webp
   - /chimeraland/recipes/jobs-tears-stew/jobs-tears-stew-name.webp
   - /chimeraland/recipes/jobs-tears-stew/jobs-tears-stew-icon.webp
   - /chimeraland/recipes/jobs-tears-stew/jobs-tears-stew-material.webp
-subtitle: Recipe Jobs Tears Stew Chimeraland Jobs Tears Stew Cooking Recipe Buff
-  Jobs Tears Stew 420 Fullness Medium Focus 25 Armor Pierce recipe
+thumbnail: /chimeraland/recipes/jobs-tears-stew/jobs-tears-stew.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/jobs-tears-stew/jobs-tears-stew.webp
-title: Recipe Jobs Tears Stew Chimeraland
-type: post
-updated: 2023-08-08T14:44:26+07:00
-wordcount: 749
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

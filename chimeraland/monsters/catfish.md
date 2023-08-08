@@ -1,33 +1,21 @@
 ---
+title: Monster Catfish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Catfish
+updated: 2023-05-25T16:59:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Catfish Catfish Information from Chimeraland Catfish
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Catfish Catfish Information from Chimeraland Catfish default
-  maximum attribute GRADE Attack "
-id: b3ec4c5c-d75d-4888-898e-df0347abbd6f
-lang: en
 permalink: /chimeraland/monsters/catfish.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Catfish
-subtitle: "Monster Catfish Catfish Information from Chimeraland Catfish default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Catfish
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Catfish
-title: Monster Catfish
-type: post
-updated: 2023-08-08T14:44:46+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

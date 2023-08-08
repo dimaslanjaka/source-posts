@@ -1,33 +1,21 @@
 ---
+title: Monster Centiwurm
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Centiwurm
+updated: 2023-05-25T16:38:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Centiwurm Centiwurm Information from Chimeraland Centiwurm
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Centiwurm Centiwurm Information from Chimeraland Centiwurm
-  default maximum attribute GRADE Attack "
-id: d7158bb7-522a-4888-8ea2-71694ee8c912
-lang: en
 permalink: /chimeraland/monsters/centiwurm.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Centiwurm
-subtitle: "Monster Centiwurm Centiwurm Information from Chimeraland Centiwurm
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Centiwurm
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Centiwurm
-title: Monster Centiwurm
-type: post
-updated: 2023-08-08T14:44:45+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

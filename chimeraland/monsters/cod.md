@@ -1,33 +1,21 @@
 ---
+title: Monster Cod
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cod
+updated: 2023-05-25T08:34:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: Monster Cod Cod Information from Chimeraland Cod default maximum
-  attribute GRADE Attack Health
-excerpt: Monster Cod Cod Information from Chimeraland Cod default maximum
-  attribute GRADE Attack Health
-id: 3eaf7d98-70e5-4888-8c83-ac6ef329a085
-lang: en
 permalink: /chimeraland/monsters/cod.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cod
-subtitle: Monster Cod Cod Information from Chimeraland Cod default maximum
-  attribute GRADE Attack Health
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cod
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cod
-title: Monster Cod
-type: post
-updated: 2023-08-08T14:44:45+07:00
-webtitle: chimeraland
-wordcount: 603
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

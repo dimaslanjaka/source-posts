@@ -1,31 +1,19 @@
 ---
+title: Material Cauliflower Chimeraland
+date: 2022-01-17T13:56:03+07:00
+updated: 2022-10-09T13:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/cauliflower.html
+photos:
+  - /chimeraland/materials/cauliflower/cauliflower.webp
+thumbnail: /chimeraland/materials/cauliflower/cauliflower.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/cauliflower/cauliflower.webp
-date: 2022-01-17T13:56:03+07:00
-description: "Material Cauliflower Chimeraland materials Cauliflower October 9,
-  2022 1:26 PM Continue reading Cauliflower What is the use of the Cauliflower "
-excerpt: "Material Cauliflower Chimeraland materials Cauliflower October 9, 2022
-  1:26 PM Continue reading Cauliflower What is the use of the Cauliflower "
-id: 6bd094da-8691-4888-8a16-cc68c29f5fea
-lang: en
-permalink: /chimeraland/materials/cauliflower.html
-photos:
-  - /chimeraland/materials/cauliflower/cauliflower.webp
-subtitle: "Material Cauliflower Chimeraland materials Cauliflower October 9,
-  2022 1:26 PM Continue reading Cauliflower What is the use of the Cauliflower "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/cauliflower/cauliflower.webp
-title: Material Cauliflower Chimeraland
-type: post
-updated: 2023-08-08T14:44:59+07:00
-wordcount: 758
 ---
 
 <link

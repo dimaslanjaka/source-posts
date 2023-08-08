@@ -1,33 +1,21 @@
 ---
+title: Monster Bone Dragon
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bone Dragon
+updated: 2023-05-25T03:37:12+07:00
 date: 2022-01-07T11:56:03+07:00
-description: "Monster Bone Dragon Bone Dragon Information from Chimeraland Bone
-  Dragon default maximum attribute GRADE A NOBLE - LEGENDARY "
-excerpt: "Monster Bone Dragon Bone Dragon Information from Chimeraland Bone
-  Dragon default maximum attribute GRADE A NOBLE - LEGENDARY "
-id: a0bcd601-f9b0-4888-8df0-d57e71b7f9a9
-lang: en
 permalink: /chimeraland/monsters/bone-dragon.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bone Dragon
-subtitle: "Monster Bone Dragon Bone Dragon Information from Chimeraland Bone
-  Dragon default maximum attribute GRADE A NOBLE - LEGENDARY "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bone Dragon
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bone Dragon
-title: Monster Bone Dragon
-type: post
-updated: 2023-08-08T14:44:46+07:00
-webtitle: chimeraland
-wordcount: 720
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

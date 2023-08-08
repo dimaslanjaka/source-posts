@@ -1,32 +1,19 @@
 ---
+title: Material Scorab Meat Chimeraland
+date: 2022-01-08T13:56:03+07:00
+updated: 2022-09-30T13:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/scorab-meat.html
+photos:
+  - /chimeraland/materials/scorab-meat/scorab-meat.webp
+thumbnail: /chimeraland/materials/scorab-meat/scorab-meat.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/scorab-meat/scorab-meat.webp
-date: 2022-01-08T13:56:03+07:00
-description: "Material Scorab Meat Chimeraland materials Scorab Meat September
-  30, 2022 1:26 PM Continue reading Scorab Meat What is the use of the Scorab
-  Meat "
-excerpt: "Material Scorab Meat Chimeraland materials Scorab Meat September 30,
-  2022 1:26 PM Continue reading Scorab Meat What is the use of the Scorab Meat "
-id: d4f9e1bc-d08c-4888-8adb-74d8bde7bd79
-lang: en
-permalink: /chimeraland/materials/scorab-meat.html
-photos:
-  - /chimeraland/materials/scorab-meat/scorab-meat.webp
-subtitle: "Material Scorab Meat Chimeraland materials Scorab Meat September 30,
-  2022 1:26 PM Continue reading Scorab Meat What is the use of the Scorab Meat "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/scorab-meat/scorab-meat.webp
-title: Material Scorab Meat Chimeraland
-type: post
-updated: 2023-08-08T14:44:50+07:00
-wordcount: 2256
 ---
 
 <link

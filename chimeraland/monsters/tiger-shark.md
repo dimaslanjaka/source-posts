@@ -1,33 +1,21 @@
 ---
+title: Monster Tiger Shark
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tiger Shark
+updated: 2023-05-25T11:24:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Tiger Shark Tiger Shark Information from Chimeraland Tiger
-  Shark default maximum attribute GRADE Attack "
-excerpt: "Monster Tiger Shark Tiger Shark Information from Chimeraland Tiger
-  Shark default maximum attribute GRADE Attack "
-id: d5b077b2-a8d9-4888-8115-4f230f35b508
-lang: en
 permalink: /chimeraland/monsters/tiger-shark.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tiger Shark
-subtitle: "Monster Tiger Shark Tiger Shark Information from Chimeraland Tiger
-  Shark default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tiger Shark
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tiger Shark
-title: Monster Tiger Shark
-type: post
-updated: 2023-08-08T14:44:32+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

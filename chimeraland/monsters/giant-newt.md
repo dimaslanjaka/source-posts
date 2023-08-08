@@ -1,24 +1,12 @@
 ---
+title: Monster Giant Newt
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Giant Newt
+updated: 2023-05-25T05:32:12+07:00
 date: 2022-01-08T10:56:03+07:00
-description: "monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
-  Attributes Conversion Rate 4.0,HP 339,Essence Aspect: Aqua Armor
-  delicacies/tasty Spiced Alligon,Moddly Wings Topped Rice,Flamebug Meat Claypot
-  Games,chimeraland,monsters chimeraland,monster,pet"
-excerpt: "monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
-  Attributes Conversion Rate 4.0,HP 339,Essence Aspect: Aqua Armor
-  delicacies/tasty Spiced Alligon,Moddly Wings Topped Rice,Flamebug Meat Claypot
-  Games,chimeraland,monsters chimeraland,monster,pet"
-id: 6ef4fba0-2563-4888-84e2-0e98efcffdd9
-lang: en
 permalink: /chimeraland/monsters/giant-newt.html
 photos:
+  - null
   - /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-26-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-30-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-34-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -27,21 +15,19 @@ photos:
   - /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-46-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-52-23_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-newt/Screenshot_2022-08-15-18-34-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Giant Newt
-subtitle: "monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
-  Attributes Conversion Rate 4.0,HP 339,Essence Aspect: Aqua Armor
-  delicacies/tasty Spiced Alligon,Moddly Wings Topped Rice,Flamebug Meat Claypot
-  Games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Giant Newt
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Giant Newt
-title: Monster Giant Newt
-type: post
-updated: 2023-08-08T14:44:42+07:00
-webtitle: chimeraland
-wordcount: 1716
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: "monster Giant Newt default quality GRADE B ATK 63 HP 61 DEF 59
+  Attributes Conversion Rate 4.0%,HP 339,Essence Aspect: Aqua Armor
+  delicacies/tasty Spiced Alligon,Moddly Wings Topped Rice,Flamebug Meat Claypot
+  games,chimeraland,monsters chimeraland,monster,pet"
 ---
 
 <link

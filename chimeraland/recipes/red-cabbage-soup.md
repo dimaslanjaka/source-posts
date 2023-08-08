@@ -1,34 +1,23 @@
 ---
+title: Recipe Red Cabbage Soup Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/red-cabbage-soup/red-cabbage-soup.webp
-date: 2022-01-10T22:56:03+07:00
-description: "Recipe Red Cabbage Soup Chimeraland Red Cabbage Soup Cooking
-  Recipe Buff Red Cabbage Soup 660 Fullness 250 ATK recipe "
-excerpt: "Recipe Red Cabbage Soup Chimeraland Red Cabbage Soup Cooking Recipe
-  Buff Red Cabbage Soup 660 Fullness 250 ATK recipe "
-id: b54cf7a2-9ff4-4888-8a66-2ea2dd47e19a
+updated: 2022-10-06T00:46:56+07:00
 lang: en
+date: 2022-01-10T22:56:03+07:00
 permalink: /chimeraland/recipes/red-cabbage-soup.html
 photos:
   - /chimeraland/recipes/red-cabbage-soup/red-cabbage-soup.webp
   - /chimeraland/recipes/red-cabbage-soup/red-cabbage-soup-name.webp
   - /chimeraland/recipes/red-cabbage-soup/red-cabbage-soup-icon.webp
   - /chimeraland/recipes/red-cabbage-soup/red-cabbage-soup-material.webp
-subtitle: "Recipe Red Cabbage Soup Chimeraland Red Cabbage Soup Cooking Recipe
-  Buff Red Cabbage Soup 660 Fullness 250 ATK recipe "
+thumbnail: /chimeraland/recipes/red-cabbage-soup/red-cabbage-soup.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/red-cabbage-soup/red-cabbage-soup.webp
-title: Recipe Red Cabbage Soup Chimeraland
-type: post
-updated: 2023-08-08T14:44:25+07:00
-wordcount: 833
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

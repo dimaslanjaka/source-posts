@@ -1,35 +1,23 @@
 ---
+title: Recipe Grilled Frog Legs Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/grilled-frog-legs/grilled-frog-legs.webp
-date: 2022-01-10T03:56:03+07:00
-description: "Recipe Grilled Frog Legs Chimeraland Grilled Frog Legs Cooking
-  Recipe Buff Grilled Frog Legs 180 Fullness Strengthen Underwater Effect recipe
-  "
-excerpt: "Recipe Grilled Frog Legs Chimeraland Grilled Frog Legs Cooking Recipe
-  Buff Grilled Frog Legs 180 Fullness Strengthen Underwater Effect recipe "
-id: daa1c1c4-2773-4888-8d95-c5f1ff8ce20e
+updated: 2022-10-06T05:46:54+07:00
 lang: en
+date: 2022-01-10T03:56:03+07:00
 permalink: /chimeraland/recipes/grilled-frog-legs.html
 photos:
   - /chimeraland/recipes/grilled-frog-legs/grilled-frog-legs.webp
   - /chimeraland/recipes/grilled-frog-legs/grilled-frog-legs-name.webp
   - /chimeraland/recipes/grilled-frog-legs/grilled-frog-legs-icon.webp
   - /chimeraland/recipes/grilled-frog-legs/grilled-frog-legs-material.webp
-subtitle: "Recipe Grilled Frog Legs Chimeraland Grilled Frog Legs Cooking Recipe
-  Buff Grilled Frog Legs 180 Fullness Strengthen Underwater Effect recipe "
+thumbnail: /chimeraland/recipes/grilled-frog-legs/grilled-frog-legs.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/grilled-frog-legs/grilled-frog-legs.webp
-title: Recipe Grilled Frog Legs Chimeraland
-type: post
-updated: 2023-08-08T14:44:27+07:00
-wordcount: 753
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

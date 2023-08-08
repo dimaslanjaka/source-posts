@@ -1,34 +1,23 @@
 ---
+title: Recipe Hearty Meatball Soup Chimeraland
 author: L3n4r0x
+updated: 2022-09-29T09:26:37+07:00
+lang: en
+date: 2022-01-13T17:56:03+07:00
+permalink: /chimeraland/recipes/hearty-meatball-soup.html
+photos:
+  - null
+  - null
+  - null
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hearty Meatball Soup
+tags:
+  - chimeraland
+  - recipe
 categories:
   - games
   - chimeraland
   - recipes
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hearty Meatball Soup
-date: 2022-01-13T17:56:03+07:00
-description: "Recipe Hearty Meatball Soup Chimeraland Hearty Meatball Soup
-  Cooking Recipe Buff Hearty Meatball Soup Buff Hearty Meatball Soup not yet
-  written recipe "
-excerpt: "Recipe Hearty Meatball Soup Chimeraland Hearty Meatball Soup Cooking
-  Recipe Buff Hearty Meatball Soup Buff Hearty Meatball Soup not yet written
-  recipe "
-id: 3366a3c2-d69c-4888-8caf-ea4f639d69e8
-lang: en
-permalink: /chimeraland/recipes/hearty-meatball-soup.html
-photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hearty Meatball Soup
-subtitle: "Recipe Hearty Meatball Soup Chimeraland Hearty Meatball Soup Cooking
-  Recipe Buff Hearty Meatball Soup Buff Hearty Meatball Soup not yet written
-  recipe "
-tags:
-  - chimeraland
-  - recipe
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hearty Meatball Soup
-title: Recipe Hearty Meatball Soup Chimeraland
-type: post
-updated: 2023-08-08T14:44:27+07:00
-wordcount: 866
 ---
 
 <link

@@ -1,39 +1,27 @@
 ---
+title: Monster Piscertus
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Piscertus
+updated: 2023-05-25T16:32:12+07:00
 date: 2022-01-09T23:56:03+07:00
-description: "Monster Piscertus Piscertus Information from Chimeraland Piscertus
-  default maximum attribute GRADE B GRAND - EPIC Attack 61 "
-excerpt: "Monster Piscertus Piscertus Information from Chimeraland Piscertus
-  default maximum attribute GRADE B GRAND - EPIC Attack 61 "
-id: 6238aec5-4eb7-4888-8be2-49324168d22a
-lang: en
 permalink: /chimeraland/monsters/piscertus.html
 photos:
+  - null
   - /chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-18-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-24-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-28-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-36-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-41-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Piscertus
-subtitle: "Monster Piscertus Piscertus Information from Chimeraland Piscertus
-  default maximum attribute GRADE B GRAND - EPIC Attack 61 "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Piscertus
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Piscertus
-title: Monster Piscertus
-type: post
-updated: 2023-08-08T14:44:36+07:00
-webtitle: chimeraland
-wordcount: 1085
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

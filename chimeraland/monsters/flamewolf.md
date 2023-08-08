@@ -1,33 +1,21 @@
 ---
+title: Monster Flamewolf
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamewolf
+updated: 2023-05-25T11:20:12+07:00
 date: 2022-01-07T21:56:03+07:00
-description: "Monster Flamewolf Flamewolf Information from Chimeraland Flamewolf
-  default maximum attribute GRADE B GRAND - EPIC Attack 61 "
-excerpt: "Monster Flamewolf Flamewolf Information from Chimeraland Flamewolf
-  default maximum attribute GRADE B GRAND - EPIC Attack 61 "
-id: 79e72104-b519-4888-865e-451b798d95f0
-lang: en
 permalink: /chimeraland/monsters/flamewolf.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamewolf
-subtitle: "Monster Flamewolf Flamewolf Information from Chimeraland Flamewolf
-  default maximum attribute GRADE B GRAND - EPIC Attack 61 "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamewolf
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamewolf
-title: Monster Flamewolf
-type: post
-updated: 2023-08-08T14:44:44+07:00
-webtitle: chimeraland
-wordcount: 659
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

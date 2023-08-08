@@ -1,33 +1,21 @@
 ---
+title: Monster PufferFish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=PufferFish
+updated: 2023-05-25T10:17:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster PufferFish PufferFish Information from Chimeraland
-  PufferFish default maximum attribute GRADE Attack "
-excerpt: "Monster PufferFish PufferFish Information from Chimeraland PufferFish
-  default maximum attribute GRADE Attack "
-id: 518fa2c0-0f39-4888-81c0-964e4e938321
-lang: en
 permalink: /chimeraland/monsters/pufferfish.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=PufferFish
-subtitle: "Monster PufferFish PufferFish Information from Chimeraland PufferFish
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=PufferFish
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=PufferFish
-title: Monster PufferFish
-type: post
-updated: 2023-08-08T14:44:35+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

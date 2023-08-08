@@ -1,34 +1,19 @@
 ---
+title: Material Noble Beast Soul Chimeraland
+date: 2022-01-10T01:56:03+07:00
+updated: 2022-10-02T01:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/noble-beast-soul.html
+photos:
+  - /chimeraland/materials/noble-beast-soul/noble-beast-soul.webp
+thumbnail: /chimeraland/materials/noble-beast-soul/noble-beast-soul.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/noble-beast-soul/noble-beast-soul.webp
-date: 2022-01-10T01:56:03+07:00
-description: "Material Noble Beast Soul Chimeraland materials Noble Beast Soul
-  October 2, 2022 1:26 AM Continue reading Noble Beast Soul What is the use of
-  the Noble Beast Soul "
-excerpt: "Material Noble Beast Soul Chimeraland materials Noble Beast Soul
-  October 2, 2022 1:26 AM Continue reading Noble Beast Soul What is the use of
-  the Noble Beast Soul "
-id: 260b43e1-ed57-4888-883d-5953b65caf82
-lang: en
-permalink: /chimeraland/materials/noble-beast-soul.html
-photos:
-  - /chimeraland/materials/noble-beast-soul/noble-beast-soul.webp
-subtitle: "Material Noble Beast Soul Chimeraland materials Noble Beast Soul
-  October 2, 2022 1:26 AM Continue reading Noble Beast Soul What is the use of
-  the Noble Beast Soul "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/noble-beast-soul/noble-beast-soul.webp
-title: Material Noble Beast Soul Chimeraland
-type: post
-updated: 2023-08-08T14:44:52+07:00
-wordcount: 1012
 ---
 
 <link

@@ -1,36 +1,23 @@
 ---
+title: Recipe Sea-Buckthorn Slushie Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie.webp
-date: 2022-01-11T19:56:03+07:00
-description: "Recipe Sea-Buckthorn Slushie Chimeraland Sea-Buckthorn Slushie
-  Cooking Recipe Buff Sea-Buckthorn Slushie 180 Fullness Heat Resistance 10
-  recipe "
-excerpt: "Recipe Sea-Buckthorn Slushie Chimeraland Sea-Buckthorn Slushie Cooking
-  Recipe Buff Sea-Buckthorn Slushie 180 Fullness Heat Resistance 10 recipe "
-id: b734a123-46bf-4888-841c-d257814d7242
+updated: 2022-10-06T14:46:55+07:00
 lang: en
+date: 2022-01-11T19:56:03+07:00
 permalink: /chimeraland/recipes/sea-buckthorn-slushie.html
 photos:
   - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie.webp
   - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-name.webp
   - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-icon.webp
   - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-material.webp
-subtitle: "Recipe Sea-Buckthorn Slushie Chimeraland Sea-Buckthorn Slushie
-  Cooking Recipe Buff Sea-Buckthorn Slushie 180 Fullness Heat Resistance 10
-  recipe "
+thumbnail: /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie.webp
-title: Recipe Sea-Buckthorn Slushie Chimeraland
-type: post
-updated: 2023-08-08T14:44:25+07:00
-wordcount: 624
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

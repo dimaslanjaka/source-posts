@@ -1,34 +1,23 @@
 ---
+title: Recipe Peanut Ball Soup Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup.webp
-date: 2022-01-11T04:56:03+07:00
-description: "Recipe Peanut Ball Soup Chimeraland Peanut Ball Soup Cooking
-  Recipe Buff Peanut Ball Soup 420 Fullness 6 CRIT Damage Dealt recipe "
-excerpt: "Recipe Peanut Ball Soup Chimeraland Peanut Ball Soup Cooking Recipe
-  Buff Peanut Ball Soup 420 Fullness 6 CRIT Damage Dealt recipe "
-id: 510eb7b9-964f-4888-8c16-6eb55c2f05cc
+updated: 2022-10-05T15:46:55+07:00
 lang: en
+date: 2022-01-11T04:56:03+07:00
 permalink: /chimeraland/recipes/peanut-ball-soup.html
 photos:
   - /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup.webp
   - /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup-name.webp
   - /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup-icon.webp
   - /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup-material.webp
-subtitle: "Recipe Peanut Ball Soup Chimeraland Peanut Ball Soup Cooking Recipe
-  Buff Peanut Ball Soup 420 Fullness 6 CRIT Damage Dealt recipe "
+thumbnail: /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/peanut-ball-soup/peanut-ball-soup.webp
-title: Recipe Peanut Ball Soup Chimeraland
-type: post
-updated: 2023-08-08T14:44:26+07:00
-wordcount: 739
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

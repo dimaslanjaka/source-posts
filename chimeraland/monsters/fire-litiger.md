@@ -1,33 +1,21 @@
 ---
+title: Monster Fire Litiger
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Litiger
+updated: 2023-05-25T18:05:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Fire Litiger Fire Litiger Information from Chimeraland
-  Fire Litiger default maximum attribute GRADE Attack "
-excerpt: "Monster Fire Litiger Fire Litiger Information from Chimeraland Fire
-  Litiger default maximum attribute GRADE Attack "
-id: ede29230-715c-4888-8dea-97cb6589d850
-lang: en
 permalink: /chimeraland/monsters/fire-litiger.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Litiger
-subtitle: "Monster Fire Litiger Fire Litiger Information from Chimeraland Fire
-  Litiger default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Litiger
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Litiger
-title: Monster Fire Litiger
-type: post
-updated: 2023-08-08T14:44:44+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

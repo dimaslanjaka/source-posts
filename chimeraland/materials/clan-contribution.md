@@ -1,34 +1,19 @@
 ---
+title: Material Clan Contribution Chimeraland
+date: 2022-01-06T23:56:03+07:00
+updated: 2022-09-28T23:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/clan-contribution.html
+photos:
+  - /chimeraland/materials/clan-contribution/clan-contribution.webp
+thumbnail: /chimeraland/materials/clan-contribution/clan-contribution.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/clan-contribution/clan-contribution.webp
-date: 2022-01-06T23:56:03+07:00
-description: "Material Clan Contribution Chimeraland materials Clan Contribution
-  September 28, 2022 11:26 PM Continue reading Clan Contribution What is the use
-  of the Clan Contribution "
-excerpt: "Material Clan Contribution Chimeraland materials Clan Contribution
-  September 28, 2022 11:26 PM Continue reading Clan Contribution What is the use
-  of the Clan Contribution "
-id: 7640b02a-7c98-4888-880e-68f66f1fec45
-lang: en
-permalink: /chimeraland/materials/clan-contribution.html
-photos:
-  - /chimeraland/materials/clan-contribution/clan-contribution.webp
-subtitle: "Material Clan Contribution Chimeraland materials Clan Contribution
-  September 28, 2022 11:26 PM Continue reading Clan Contribution What is the use
-  of the Clan Contribution "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/clan-contribution/clan-contribution.webp
-title: Material Clan Contribution Chimeraland
-type: post
-updated: 2023-08-08T14:44:59+07:00
-wordcount: 580
 ---
 
 <link

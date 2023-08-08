@@ -1,37 +1,23 @@
 ---
+title: Recipe Fried Meat With Mushrooms Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms.webp
-date: 2022-01-08T15:56:03+07:00
-description: "Recipe Fried Meat With Mushrooms Chimeraland Fried Meat With
-  Mushrooms Cooking Recipe Buff Fried Meat With Mushrooms Buff Fried Meat With
-  Mushrooms not yet written recipe "
-excerpt: "Recipe Fried Meat With Mushrooms Chimeraland Fried Meat With Mushrooms
-  Cooking Recipe Buff Fried Meat With Mushrooms Buff Fried Meat With Mushrooms
-  not yet written recipe "
-id: 88b83632-2b54-4888-82cd-4fb17c064a39
+updated: 2022-10-05T13:46:56+07:00
 lang: en
+date: 2022-01-08T15:56:03+07:00
 permalink: /chimeraland/recipes/fried-meat-with-mushrooms.html
 photos:
   - /chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms.webp
   - /chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms-name.webp
   - /chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms-icon.webp
   - /chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms-material.webp
-subtitle: "Recipe Fried Meat With Mushrooms Chimeraland Fried Meat With
-  Mushrooms Cooking Recipe Buff Fried Meat With Mushrooms Buff Fried Meat With
-  Mushrooms not yet written recipe "
+thumbnail: /chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/fried-meat-with-mushrooms/fried-meat-with-mushrooms.webp
-title: Recipe Fried Meat With Mushrooms Chimeraland
-type: post
-updated: 2023-08-08T14:44:28+07:00
-wordcount: 846
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

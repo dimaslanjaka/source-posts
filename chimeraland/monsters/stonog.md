@@ -1,33 +1,21 @@
 ---
+title: Monster Stonog
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stonog
+updated: 2023-05-25T05:03:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Stonog Stonog Information from Chimeraland Stonog default
-  maximum attribute GRADE Attack "
-excerpt: "Monster Stonog Stonog Information from Chimeraland Stonog default
-  maximum attribute GRADE Attack "
-id: fbd78257-8a9f-4888-818c-a4bdfe60c0f0
-lang: en
 permalink: /chimeraland/monsters/stonog.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stonog
-subtitle: "Monster Stonog Stonog Information from Chimeraland Stonog default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stonog
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stonog
-title: Monster Stonog
-type: post
-updated: 2023-08-08T14:44:32+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

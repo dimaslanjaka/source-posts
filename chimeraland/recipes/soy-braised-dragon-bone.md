@@ -1,35 +1,23 @@
 ---
+title: Recipe Soy Braised Dragon Bone Chimeraland
 author: L3n4r0x
+updated: 2022-09-29T18:26:37+07:00
+lang: en
+date: 2022-01-13T14:56:03+07:00
+permalink: /chimeraland/recipes/soy-braised-dragon-bone.html
+photos:
+  - null
+  - null
+  - null
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Soy Braised Dragon Bone
+tags:
+  - chimeraland
+  - recipe
 categories:
   - games
   - chimeraland
   - recipes
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Soy Braised Dragon Bone
-date: 2022-01-13T14:56:03+07:00
-description: "Recipe Soy Braised Dragon Bone Chimeraland Soy Braised Dragon Bone
-  Cooking Recipe Buff Soy Braised Dragon Bone Buff Soy Braised Dragon Bone not
-  yet written recipe "
-excerpt: "Recipe Soy Braised Dragon Bone Chimeraland Soy Braised Dragon Bone
-  Cooking Recipe Buff Soy Braised Dragon Bone Buff Soy Braised Dragon Bone not
-  yet written recipe "
-id: e4ecaf95-1288-4888-8ee7-9b829b3e5e49
-lang: en
-permalink: /chimeraland/recipes/soy-braised-dragon-bone.html
-photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Soy Braised Dragon
-    Bone
-subtitle: "Recipe Soy Braised Dragon Bone Chimeraland Soy Braised Dragon Bone
-  Cooking Recipe Buff Soy Braised Dragon Bone Buff Soy Braised Dragon Bone not
-  yet written recipe "
-tags:
-  - chimeraland
-  - recipe
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Soy Braised Dragon Bone
-title: Recipe Soy Braised Dragon Bone Chimeraland
-type: post
-updated: 2023-08-08T14:44:25+07:00
-wordcount: 935
 ---
 
 <link

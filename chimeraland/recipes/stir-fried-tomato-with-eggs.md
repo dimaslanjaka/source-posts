@@ -1,37 +1,23 @@
 ---
+title: Recipe Stir-Fried Tomato With Eggs Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs.webp
-date: 2022-01-12T15:56:03+07:00
-description: "Recipe Stir-Fried Tomato With Eggs Chimeraland Stir-Fried Tomato
-  With Eggs Cooking Recipe Buff Stir-Fried Tomato With Eggs 420 Fullness 6 Crit
-  Damage Dealt "
-excerpt: "Recipe Stir-Fried Tomato With Eggs Chimeraland Stir-Fried Tomato With
-  Eggs Cooking Recipe Buff Stir-Fried Tomato With Eggs 420 Fullness 6 Crit
-  Damage Dealt "
-id: 15038121-0998-4888-8b1b-532dc439e67a
+updated: 2022-10-06T21:46:55+07:00
 lang: en
+date: 2022-01-12T15:56:03+07:00
 permalink: /chimeraland/recipes/stir-fried-tomato-with-eggs.html
 photos:
   - /chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs.webp
   - /chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-name.webp
   - /chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-icon.webp
   - /chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs-material.webp
-subtitle: "Recipe Stir-Fried Tomato With Eggs Chimeraland Stir-Fried Tomato With
-  Eggs Cooking Recipe Buff Stir-Fried Tomato With Eggs 420 Fullness 6 Crit
-  Damage Dealt "
+thumbnail: /chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/stir-fried-tomato-with-eggs/stir-fried-tomato-with-eggs.webp
-title: Recipe Stir-Fried Tomato With Eggs Chimeraland
-type: post
-updated: 2023-08-08T14:44:24+07:00
-wordcount: 835
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

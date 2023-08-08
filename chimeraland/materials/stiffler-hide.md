@@ -1,34 +1,19 @@
 ---
+title: Material Stiffler Hide Chimeraland
+date: 2022-01-10T05:56:03+07:00
+updated: 2022-10-02T05:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/stiffler-hide.html
+photos:
+  - /chimeraland/materials/stiffler-hide/stiffler-hide.webp
+thumbnail: /chimeraland/materials/stiffler-hide/stiffler-hide.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/stiffler-hide/stiffler-hide.webp
-date: 2022-01-10T05:56:03+07:00
-description: "Material Stiffler Hide Chimeraland materials Stiffler Hide October
-  2, 2022 5:26 AM Continue reading Stiffler Hide What is the use of the Stiffler
-  Hide "
-excerpt: "Material Stiffler Hide Chimeraland materials Stiffler Hide October 2,
-  2022 5:26 AM Continue reading Stiffler Hide What is the use of the Stiffler
-  Hide "
-id: 050ce6e5-9ada-4888-8ce4-427cd5ee8467
-lang: en
-permalink: /chimeraland/materials/stiffler-hide.html
-photos:
-  - /chimeraland/materials/stiffler-hide/stiffler-hide.webp
-subtitle: "Material Stiffler Hide Chimeraland materials Stiffler Hide October 2,
-  2022 5:26 AM Continue reading Stiffler Hide What is the use of the Stiffler
-  Hide "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/stiffler-hide/stiffler-hide.webp
-title: Material Stiffler Hide Chimeraland
-type: post
-updated: 2023-08-08T14:44:49+07:00
-wordcount: 1020
 ---
 
 <link

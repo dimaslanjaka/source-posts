@@ -1,33 +1,21 @@
 ---
+title: Monster Shallowfish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Shallowfish
+updated: 2023-05-25T02:45:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Shallowfish Shallowfish Information from Chimeraland
-  Shallowfish default maximum attribute GRADE Attack "
-excerpt: "Monster Shallowfish Shallowfish Information from Chimeraland
-  Shallowfish default maximum attribute GRADE Attack "
-id: 885c95a5-f2ab-4888-8463-f565e566ac41
-lang: en
 permalink: /chimeraland/monsters/shallowfish.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Shallowfish
-subtitle: "Monster Shallowfish Shallowfish Information from Chimeraland
-  Shallowfish default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Shallowfish
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Shallowfish
-title: Monster Shallowfish
-type: post
-updated: 2023-08-08T14:44:34+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

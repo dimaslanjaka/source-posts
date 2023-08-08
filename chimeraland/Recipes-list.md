@@ -3,37 +3,26 @@ author:
   nick: Dimas Lanjaka
   link: https://github.com/dimaslanjaka
   image: https://i.pinimg.com/564x/32/bc/65/32bc65e19220728fb290249059a7242a.jpg
-categories:
+category:
   - games
-  - chimeraland
+  - Chimeraland
 comments: true
 cover: https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg
 date: 2022-01-11T07:00:00+07:00
-description: Chimeraland cooking recipes and food functions such as buffs and
-  attendant preferences, Chimeraland resep masakan dan fungsi-fungsi makanan
-  seperti buff dan kesukaan attendant
-excerpt: Chimeraland cooking recipes and food functions such as buffs and
-  attendant preferences, Chimeraland resep masakan dan fungsi-fungsi makanan
-  seperti buff dan kesukaan attendant
-id: 0c8365e2-3206-4888-89f2-8f428f8f86ad
 keywords:
   - recipe
   - chimeraland
 lang: id
 location: Indonesia
-photos:
-  - https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg
 subtitle: Chimeraland cooking recipes and food functions such as buffs and
   attendant preferences, Chimeraland resep masakan dan fungsi-fungsi makanan
   seperti buff dan kesukaan attendant
 tags:
   - chimeraland
   - recipe
-thumbnail: https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg
 title: Cooking Recipes Chimeraland
-type: post
-updated: 2023-08-08T14:44:19+07:00
-wordcount: 880
+updated: 2023-04-05T10:19:50+07:00
+thumbnail: https://i.ytimg.com/vi/biI1_Y15RcQ/sddefault.jpg
 ---
 
 <!-- include index2/update.html -->

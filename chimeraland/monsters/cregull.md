@@ -1,33 +1,21 @@
 ---
+title: Monster Cregull
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cregull
+updated: 2023-05-25T06:36:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Cregull Cregull Information from Chimeraland Cregull
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Cregull Cregull Information from Chimeraland Cregull default
-  maximum attribute GRADE Attack "
-id: c4a44315-7257-4888-8d16-5ca58c34bc44
-lang: en
 permalink: /chimeraland/monsters/cregull.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cregull
-subtitle: "Monster Cregull Cregull Information from Chimeraland Cregull default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cregull
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cregull
-title: Monster Cregull
-type: post
-updated: 2023-08-08T14:44:45+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

@@ -1,18 +1,9 @@
 ---
+title: Attendant Mantitrack
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-18-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2022-09-29T20:26:37+07:00
 date: 2022-01-07T13:56:03+07:00
-description: "Attendant Mantitrack Mantitrack Information from Chimeraland
-  Mantitrack default maximum attribute GRADE Attack "
-excerpt: "Attendant Mantitrack Mantitrack Information from Chimeraland
-  Mantitrack default maximum attribute GRADE Attack "
-id: 0fe7902d-52ff-4888-8c2b-51f561148463
-lang: en
 permalink: /chimeraland/attendants/mantitrack.html
 photos:
   - /chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-18-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -21,17 +12,14 @@ photos:
   - /chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-29-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-33-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-38-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant Mantitrack Mantitrack Information from Chimeraland
-  Mantitrack default maximum attribute GRADE Attack "
+thumbnail: /chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-18-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/mantitrack/Screenshot_2022-07-17-22-37-18-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant Mantitrack
-type: post
-updated: 2023-08-08T14:45:05+07:00
-webtitle: chimeraland
-wordcount: 976
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

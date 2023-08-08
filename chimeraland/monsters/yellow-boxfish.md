@@ -1,33 +1,21 @@
 ---
+title: Monster Yellow Boxfish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Yellow Boxfish
+updated: 2023-05-25T09:56:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Yellow Boxfish Yellow Boxfish Information from Chimeraland
-  Yellow Boxfish default maximum attribute GRADE Attack "
-excerpt: "Monster Yellow Boxfish Yellow Boxfish Information from Chimeraland
-  Yellow Boxfish default maximum attribute GRADE Attack "
-id: 0897ecad-4235-4888-8c1b-7cde9ffd3958
-lang: en
 permalink: /chimeraland/monsters/yellow-boxfish.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Yellow Boxfish
-subtitle: "Monster Yellow Boxfish Yellow Boxfish Information from Chimeraland
-  Yellow Boxfish default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Yellow Boxfish
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Yellow Boxfish
-title: Monster Yellow Boxfish
-type: post
-updated: 2023-08-08T14:44:31+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

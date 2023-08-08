@@ -1,34 +1,23 @@
 ---
+title: Recipe Hot Oil Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/hot-oil/hot-oil.webp
-date: 2022-01-10T11:56:03+07:00
-description: Recipe Hot Oil Chimeraland Hot Oil Cooking Recipe Buff Hot Oil 240
-  Fullness Cold Resistance 10 recipe webmanajemen.c
-excerpt: Recipe Hot Oil Chimeraland Hot Oil Cooking Recipe Buff Hot Oil 240
-  Fullness Cold Resistance 10 recipe webmanajemen.c
-id: 1dcaa605-0146-4888-8bb2-af04069b6570
+updated: 2022-10-06T12:46:54+07:00
 lang: en
+date: 2022-01-10T11:56:03+07:00
 permalink: /chimeraland/recipes/hot-oil.html
 photos:
   - /chimeraland/recipes/hot-oil/hot-oil.webp
   - /chimeraland/recipes/hot-oil/hot-oil-name.webp
   - /chimeraland/recipes/hot-oil/hot-oil-icon.webp
   - /chimeraland/recipes/hot-oil/hot-oil-material.webp
-subtitle: Recipe Hot Oil Chimeraland Hot Oil Cooking Recipe Buff Hot Oil 240
-  Fullness Cold Resistance 10 recipe webmanajemen.c
+thumbnail: /chimeraland/recipes/hot-oil/hot-oil.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/hot-oil/hot-oil.webp
-title: Recipe Hot Oil Chimeraland
-type: post
-updated: 2023-08-08T14:44:26+07:00
-wordcount: 869
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

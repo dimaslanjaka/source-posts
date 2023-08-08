@@ -1,33 +1,21 @@
 ---
+title: Monster Mallard
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mallard
+updated: 2023-05-25T05:15:12+07:00
 date: 2022-01-09T05:56:03+07:00
-description: "Monster Mallard Mallard Information from Chimeraland Mallard
-  default maximum attribute GRADE B GRAND - EPIC Attack 62 "
-excerpt: "Monster Mallard Mallard Information from Chimeraland Mallard default
-  maximum attribute GRADE B GRAND - EPIC Attack 62 "
-id: c037aa5c-481a-4888-89e6-0645244b6324
-lang: en
 permalink: /chimeraland/monsters/mallard.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mallard
-subtitle: "Monster Mallard Mallard Information from Chimeraland Mallard default
-  maximum attribute GRADE B GRAND - EPIC Attack 62 "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mallard
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mallard
-title: Monster Mallard
-type: post
-updated: 2023-08-08T14:44:37+07:00
-webtitle: chimeraland
-wordcount: 659
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

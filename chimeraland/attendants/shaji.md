@@ -1,32 +1,21 @@
 ---
+title: Attendant Shaji
+webtitle: chimeraland
 author: L3n4r0x
+updated: 2022-09-29T12:26:37+07:00
+date: 2022-01-07T00:56:03+07:00
+permalink: /chimeraland/attendants/shaji.html
+photos: []
+tags:
+  - chimeraland
+  - Attendant
 categories:
   - games
   - chimeraland
   - attendants
-comments: true
-date: 2022-01-07T00:56:03+07:00
 description: attendant Shaji default quality GRADE C ATK 53 HP 51 DEF 46 Attack
-  20,HP 200,Monster EXP Bonus 40.0 delicacies/tasty Tasty Exotic Crab,Tasty Wing
-  Trip,Bear Ball Pot Games,chimeraland,attendants chimeraland,Attendant
-excerpt: attendant Shaji default quality GRADE C ATK 53 HP 51 DEF 46 Attack
-  20,HP 200,Monster EXP Bonus 40.0 delicacies/tasty Tasty Exotic Crab,Tasty Wing
-  Trip,Bear Ball Pot Games,chimeraland,attendants chimeraland,Attendant
-id: 6422ba6a-bb4c-4888-879b-f65cffc7c868
-lang: en
-permalink: /chimeraland/attendants/shaji.html
-photos: []
-subtitle: attendant Shaji default quality GRADE C ATK 53 HP 51 DEF 46 Attack
-  20,HP 200,Monster EXP Bonus 40.0 delicacies/tasty Tasty Exotic Crab,Tasty Wing
-  Trip,Bear Ball Pot Games,chimeraland,attendants chimeraland,Attendant
-tags:
-  - chimeraland
-  - attendant
-title: Attendant Shaji
-type: post
-updated: 2023-08-08T14:45:03+07:00
-webtitle: chimeraland
-wordcount: 897
+  20,HP 200,Monster EXP Bonus 40.0% delicacies/tasty Tasty Exotic Crab,Tasty
+  Wing Trip,Bear Ball Pot games,chimeraland,attendants chimeraland,Attendant
 ---
 
 <link

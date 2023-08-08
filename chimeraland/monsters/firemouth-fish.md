@@ -1,33 +1,21 @@
 ---
+title: Monster Firemouth Fish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Firemouth Fish
+updated: 2023-05-25T03:07:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Firemouth Fish Firemouth Fish Information from Chimeraland
-  Firemouth Fish default maximum attribute GRADE Attack "
-excerpt: "Monster Firemouth Fish Firemouth Fish Information from Chimeraland
-  Firemouth Fish default maximum attribute GRADE Attack "
-id: 34db27e8-7f4b-4888-8b05-cb8db2b7f5a2
-lang: en
 permalink: /chimeraland/monsters/firemouth-fish.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Firemouth Fish
-subtitle: "Monster Firemouth Fish Firemouth Fish Information from Chimeraland
-  Firemouth Fish default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Firemouth Fish
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Firemouth Fish
-title: Monster Firemouth Fish
-type: post
-updated: 2023-08-08T14:44:44+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

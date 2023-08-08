@@ -1,18 +1,9 @@
 ---
+title: Attendant vulchining
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-54-45-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-03-11T09:30:17+07:00
 date: 2023-03-11T09:19:17+07:00
-description: "Attendant vulchining vulchining Information from Chimeraland
-  vulchining default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant vulchining vulchining Information from Chimeraland
-  vulchining default maximum attribute GRADE N/A N/A Attack N/A "
-id: 4e67d094-5f92-4888-815a-4668636f6627
-lang: en
 permalink: /chimeraland/attendants/vulchining.html
 photos:
   - /chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-54-45-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -24,17 +15,14 @@ photos:
   - /chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-55-17-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-55-22-79_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-55-26-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant vulchining vulchining Information from Chimeraland
-  vulchining default maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-54-45-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/vulchining/Screenshot_2023-03-04-20-54-45-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant vulchining
-type: post
-updated: 2023-08-08T14:45:02+07:00
-webtitle: chimeraland
-wordcount: 1201
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

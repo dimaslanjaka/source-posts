@@ -1,34 +1,19 @@
 ---
+title: Material Fossilized Rib Chimeraland
+date: 2022-01-13T13:56:03+07:00
+updated: 2022-10-05T13:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/fossilized-rib.html
+photos:
+  - /chimeraland/materials/fossilized-rib/fossilized-rib.webp
+thumbnail: /chimeraland/materials/fossilized-rib/fossilized-rib.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/fossilized-rib/fossilized-rib.webp
-date: 2022-01-13T13:56:03+07:00
-description: "Material Fossilized Rib Chimeraland materials Fossilized Rib
-  October 5, 2022 1:26 PM Continue reading Fossilized Rib What is the use of the
-  Fossilized Rib "
-excerpt: "Material Fossilized Rib Chimeraland materials Fossilized Rib October
-  5, 2022 1:26 PM Continue reading Fossilized Rib What is the use of the
-  Fossilized Rib "
-id: d1b3441e-8673-4888-8d5a-ee64296da540
-lang: en
-permalink: /chimeraland/materials/fossilized-rib.html
-photos:
-  - /chimeraland/materials/fossilized-rib/fossilized-rib.webp
-subtitle: "Material Fossilized Rib Chimeraland materials Fossilized Rib October
-  5, 2022 1:26 PM Continue reading Fossilized Rib What is the use of the
-  Fossilized Rib "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/fossilized-rib/fossilized-rib.webp
-title: Material Fossilized Rib Chimeraland
-type: post
-updated: 2023-08-08T14:44:56+07:00
-wordcount: 759
 ---
 
 <link

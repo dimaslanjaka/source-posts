@@ -1,34 +1,19 @@
 ---
+title: Material Superb Wood Essence Chimeraland
+date: 2022-01-13T06:56:03+07:00
+updated: 2022-10-05T06:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/superb-wood-essence.html
+photos:
+  - /chimeraland/materials/superb-wood-essence/superb-wood-essence.webp
+thumbnail: /chimeraland/materials/superb-wood-essence/superb-wood-essence.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/superb-wood-essence/superb-wood-essence.webp
-date: 2022-01-13T06:56:03+07:00
-description: "Material Superb Wood Essence Chimeraland materials Superb Wood
-  Essence October 5, 2022 6:26 AM Continue reading Superb Wood Essence What is
-  the use of the Superb Wood Essence "
-excerpt: "Material Superb Wood Essence Chimeraland materials Superb Wood Essence
-  October 5, 2022 6:26 AM Continue reading Superb Wood Essence What is the use
-  of the Superb Wood Essence "
-id: 75c432b8-1600-4888-8af9-3b29172ea090
-lang: en
-permalink: /chimeraland/materials/superb-wood-essence.html
-photos:
-  - /chimeraland/materials/superb-wood-essence/superb-wood-essence.webp
-subtitle: "Material Superb Wood Essence Chimeraland materials Superb Wood
-  Essence October 5, 2022 6:26 AM Continue reading Superb Wood Essence What is
-  the use of the Superb Wood Essence "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/superb-wood-essence/superb-wood-essence.webp
-title: Material Superb Wood Essence Chimeraland
-type: post
-updated: 2023-08-08T14:44:49+07:00
-wordcount: 654
 ---
 
 <link

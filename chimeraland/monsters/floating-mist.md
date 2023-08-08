@@ -1,20 +1,12 @@
 ---
+title: Monster Floating Mist
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Floating Mist
+updated: 2023-05-25T15:00:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Floating Mist Floating Mist Information from Chimeraland
-  Floating Mist default maximum attribute GRADE Attack "
-excerpt: "Monster Floating Mist Floating Mist Information from Chimeraland
-  Floating Mist default maximum attribute GRADE Attack "
-id: 2e55c372-c2bf-4888-800f-b5cd0c7efa9d
-lang: en
 permalink: /chimeraland/monsters/floating-mist.html
 photos:
+  - null
   - /chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-00-27-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-00-31-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-00-36-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -26,19 +18,15 @@ photos:
   - /chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-01-06-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-01-11-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-01-18-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Floating Mist
-subtitle: "Monster Floating Mist Floating Mist Information from Chimeraland
-  Floating Mist default maximum attribute GRADE Attack "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Floating Mist
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Floating Mist
-title: Monster Floating Mist
-type: post
-updated: 2023-08-08T14:44:44+07:00
-webtitle: chimeraland
-wordcount: 1549
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

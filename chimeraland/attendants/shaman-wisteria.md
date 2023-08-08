@@ -1,19 +1,9 @@
 ---
+title: Attendant shaman wisteria
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-18-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2022-11-26T08:35:17+07:00
 date: 2022-11-26T08:24:17+07:00
-description: "Attendant shaman wisteria shaman wisteria Information from
-  Chimeraland shaman wisteria default maximum attribute GRADE N/A N/A Attack N/A
-  "
-excerpt: "Attendant shaman wisteria shaman wisteria Information from Chimeraland
-  shaman wisteria default maximum attribute GRADE N/A N/A Attack N/A "
-id: dd016c5b-658f-4888-848f-46abe235b01d
-lang: en
 permalink: /chimeraland/attendants/shaman-wisteria.html
 photos:
   - /chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-18-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -24,18 +14,14 @@ photos:
   - /chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-44-69_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-50-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-wisteria/Screenshot_2023-02-28-22-02-22-58_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant shaman wisteria shaman wisteria Information from
-  Chimeraland shaman wisteria default maximum attribute GRADE N/A N/A Attack N/A
-  "
+thumbnail: /chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-18-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-18-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant shaman wisteria
-type: post
-updated: 2023-08-08T14:45:02+07:00
-webtitle: chimeraland
-wordcount: 1237
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

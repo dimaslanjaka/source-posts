@@ -1,18 +1,9 @@
 ---
+title: Attendant rhishi
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/rhishi/Screenshot_2023-02-17-00-41-57-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-02-18T16:09:01+07:00
 date: 2023-02-18T15:58:01+07:00
-description: "Attendant rhishi rhishi Information from Chimeraland rhishi
-  default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant rhishi rhishi Information from Chimeraland rhishi default
-  maximum attribute GRADE N/A N/A Attack N/A "
-id: d519ce7e-ffce-4888-82d6-d5d8a9bcdb9c
-lang: en
 permalink: /chimeraland/attendants/rhishi.html
 photos:
   - /chimeraland/attendants/rhishi/Screenshot_2023-02-17-00-41-57-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -22,17 +13,14 @@ photos:
   - /chimeraland/attendants/rhishi/Screenshot_2023-02-17-00-42-17-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rhishi/Screenshot_2023-02-17-00-42-23-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rhishi/Screenshot_2023-02-17-00-42-28-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant rhishi rhishi Information from Chimeraland rhishi default
-  maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/rhishi/Screenshot_2023-02-17-00-41-57-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/rhishi/Screenshot_2023-02-17-00-41-57-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant rhishi
-type: post
-updated: 2023-08-08T14:45:04+07:00
-webtitle: chimeraland
-wordcount: 1059
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

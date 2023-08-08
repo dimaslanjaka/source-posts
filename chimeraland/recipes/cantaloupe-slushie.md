@@ -1,34 +1,23 @@
 ---
+title: Recipe Cantaloupe Slushie Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie.webp
-date: 2022-01-07T16:56:03+07:00
-description: "Recipe Cantaloupe Slushie Chimeraland Cantaloupe Slushie Cooking
-  Recipe Buff Cantaloupe Slushie 300 fullness Heat Resistance 15 recipe "
-excerpt: "Recipe Cantaloupe Slushie Chimeraland Cantaloupe Slushie Cooking
-  Recipe Buff Cantaloupe Slushie 300 fullness Heat Resistance 15 recipe "
-id: 5ab22c55-235a-4888-8874-9132310ad91d
+updated: 2022-10-05T22:46:53+07:00
 lang: en
+date: 2022-01-07T16:56:03+07:00
 permalink: /chimeraland/recipes/cantaloupe-slushie.html
 photos:
   - /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie.webp
   - /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie-name.webp
   - /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie-icon.webp
   - /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie-material.webp
-subtitle: "Recipe Cantaloupe Slushie Chimeraland Cantaloupe Slushie Cooking
-  Recipe Buff Cantaloupe Slushie 300 fullness Heat Resistance 15 recipe "
+thumbnail: /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/cantaloupe-slushie/cantaloupe-slushie.webp
-title: Recipe Cantaloupe Slushie Chimeraland
-type: post
-updated: 2023-08-08T14:44:29+07:00
-wordcount: 845
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

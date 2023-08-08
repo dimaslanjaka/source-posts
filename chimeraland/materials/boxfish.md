@@ -1,37 +1,19 @@
 ---
+title: Material Boxfish Chimeraland
+date: 2022-01-16T07:56:03+07:00
+updated: 2022-10-08T07:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/boxfish.html
+photos:
+  - /chimeraland/materials/boxfish/boxfish.webp
+thumbnail: /chimeraland/materials/boxfish/boxfish.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/boxfish/boxfish.webp
-date: 2022-01-16T07:56:03+07:00
-description: "Material Boxfish Chimeraland materials Boxfish October 8, 2022
-  7:26 AM A marine fish, the body is covered with plates, and the cross
-  selection is quadrangular. All fin have no spines. Westmount Blizzard Plains
-  Sea Area where it may be found. "
-excerpt: "Material Boxfish Chimeraland materials Boxfish October 8, 2022 7:26 AM
-  A marine fish, the body is covered with plates, and the cross selection is
-  quadrangular. All fin have no spines. Westmount Blizzard Plains Sea Area where
-  it may be found. "
-id: e4591951-edaa-4888-814c-a8d46403734a
-lang: en
-permalink: /chimeraland/materials/boxfish.html
-photos:
-  - /chimeraland/materials/boxfish/boxfish.webp
-subtitle: "Material Boxfish Chimeraland materials Boxfish October 8, 2022 7:26
-  AM A marine fish, the body is covered with plates, and the cross selection is
-  quadrangular. All fin have no spines. Westmount Blizzard Plains Sea Area where
-  it may be found. "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/boxfish/boxfish.webp
-title: Material Boxfish Chimeraland
-type: post
-updated: 2023-08-08T14:44:59+07:00
-wordcount: 844
 ---
 
 <link

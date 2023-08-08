@@ -1,24 +1,12 @@
 ---
+title: Monster Startlewing
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Startlewing
+updated: 2023-05-25T09:55:12+07:00
 date: 2022-01-10T13:56:03+07:00
-description: "monster Startlewing default quality GRADE A ATK 71 HP 70 DEF 70
-  Attributes Conversion Rate 4.0,Armor Pierce 188,Essence Aspect: Aspect:Rainbow
-  Feather delicacies/tasty Newt Meat Dry Pot,Pepper Salt Scorpion
-  Pincer,Overlord Hide Jelly Games,chimeraland,monsters chimeraland,monster,pet"
-excerpt: "monster Startlewing default quality GRADE A ATK 71 HP 70 DEF 70
-  Attributes Conversion Rate 4.0,Armor Pierce 188,Essence Aspect: Aspect:Rainbow
-  Feather delicacies/tasty Newt Meat Dry Pot,Pepper Salt Scorpion
-  Pincer,Overlord Hide Jelly Games,chimeraland,monsters chimeraland,monster,pet"
-id: 8b85b91b-d1ba-4888-88c7-36c5f1f62a0b
-lang: en
 permalink: /chimeraland/monsters/startlewing.html
 photos:
+  - null
   - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-42-38_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-49-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-38-53-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -27,21 +15,20 @@ photos:
   - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-08-91_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-18-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Startlewing
-subtitle: "monster Startlewing default quality GRADE A ATK 71 HP 70 DEF 70
-  Attributes Conversion Rate 4.0,Armor Pierce 188,Essence Aspect: Aspect:Rainbow
-  Feather delicacies/tasty Newt Meat Dry Pot,Pepper Salt Scorpion
-  Pincer,Overlord Hide Jelly Games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Startlewing
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Startlewing
-title: Monster Startlewing
-type: post
-updated: 2023-08-08T14:44:32+07:00
-webtitle: chimeraland
-wordcount: 1671
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: "monster Startlewing default quality GRADE A ATK 71 HP 70 DEF 70
+  Attributes Conversion Rate 4.0%,Armor Pierce 188,Essence Aspect:
+  Aspect: Rainbow Feather delicacies/tasty Newt Meat Dry Pot,Pepper Salt
+  Scorpion Pincer,Overlord Hide Jelly games,chimeraland,monsters
+  chimeraland,monster,pet"
 ---
 
 <link

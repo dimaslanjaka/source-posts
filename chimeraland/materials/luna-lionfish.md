@@ -1,34 +1,19 @@
 ---
+title: Material Luna Lionfish Chimeraland
+date: 2022-01-16T16:56:03+07:00
+updated: 2022-10-08T16:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/luna-lionfish.html
+photos:
+  - /chimeraland/materials/luna-lionfish/luna-lionfish.webp
+thumbnail: /chimeraland/materials/luna-lionfish/luna-lionfish.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/luna-lionfish/luna-lionfish.webp
-date: 2022-01-16T16:56:03+07:00
-description: "Material Luna Lionfish Chimeraland materials Luna Lionfish October
-  8, 2022 4:26 PM A marine fish that is small and light brown with bright
-  stripes. Its fin spines carry Venom. Continue reading Luna Lionfish "
-excerpt: "Material Luna Lionfish Chimeraland materials Luna Lionfish October 8,
-  2022 4:26 PM A marine fish that is small and light brown with bright stripes.
-  Its fin spines carry Venom. Continue reading Luna Lionfish "
-id: f1fa8ac7-92e0-4888-8f83-2ccc72b2c71a
-lang: en
-permalink: /chimeraland/materials/luna-lionfish.html
-photos:
-  - /chimeraland/materials/luna-lionfish/luna-lionfish.webp
-subtitle: "Material Luna Lionfish Chimeraland materials Luna Lionfish October 8,
-  2022 4:26 PM A marine fish that is small and light brown with bright stripes.
-  Its fin spines carry Venom. Continue reading Luna Lionfish "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/luna-lionfish/luna-lionfish.webp
-title: Material Luna Lionfish Chimeraland
-type: post
-updated: 2023-08-08T14:44:53+07:00
-wordcount: 788
 ---
 
 <link

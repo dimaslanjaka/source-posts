@@ -1,37 +1,19 @@
 ---
+title: Material Bluejade Fish Chimeraland
+date: 2022-01-17T02:56:03+07:00
+updated: 2022-10-09T02:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/bluejade-fish.html
+photos:
+  - /chimeraland/materials/bluejade-fish/bluejade-fish.webp
+thumbnail: /chimeraland/materials/bluejade-fish/bluejade-fish.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/bluejade-fish/bluejade-fish.webp
-date: 2022-01-17T02:56:03+07:00
-description: Material Bluejade Fish Chimeraland materials Bluejade Fish October
-  9, 2022 2:26 AM A freshwater fish with a flattened oval body, a triangular
-  head, and slightly thick snout. The dorsal fin is extended and a dozen hard
-  spines are in rows in front
-excerpt: Material Bluejade Fish Chimeraland materials Bluejade Fish October 9,
-  2022 2:26 AM A freshwater fish with a flattened oval body, a triangular head,
-  and slightly thick snout. The dorsal fin is extended and a dozen hard spines
-  are in rows in front
-id: b41066d7-92bd-4888-8f16-8e3b4b079bd6
-lang: en
-permalink: /chimeraland/materials/bluejade-fish.html
-photos:
-  - /chimeraland/materials/bluejade-fish/bluejade-fish.webp
-subtitle: Material Bluejade Fish Chimeraland materials Bluejade Fish October 9,
-  2022 2:26 AM A freshwater fish with a flattened oval body, a triangular head,
-  and slightly thick snout. The dorsal fin is extended and a dozen hard spines
-  are in rows in front
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/bluejade-fish/bluejade-fish.webp
-title: Material Bluejade Fish Chimeraland
-type: post
-updated: 2023-08-08T14:45:00+07:00
-wordcount: 934
 ---
 
 <link

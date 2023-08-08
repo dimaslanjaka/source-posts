@@ -1,34 +1,23 @@
 ---
+title: Recipe Soy-Braised Pork Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/soy-braised-pork/soy-braised-pork.webp
-date: 2022-01-11T21:56:03+07:00
-description: "Recipe Soy-Braised Pork Chimeraland Soy-Braised Pork Cooking
-  Recipe Buff Soy-Braised Pork 420 Fullness 35 RES recipe "
-excerpt: "Recipe Soy-Braised Pork Chimeraland Soy-Braised Pork Cooking Recipe
-  Buff Soy-Braised Pork 420 Fullness 35 RES recipe "
-id: 4bb4c5b5-2194-4888-80c5-57500c0f6fda
+updated: 2022-10-06T02:46:56+07:00
 lang: en
+date: 2022-01-11T21:56:03+07:00
 permalink: /chimeraland/recipes/soy-braised-pork.html
 photos:
   - /chimeraland/recipes/soy-braised-pork/soy-braised-pork.webp
   - /chimeraland/recipes/soy-braised-pork/soy-braised-pork-name.webp
   - /chimeraland/recipes/soy-braised-pork/soy-braised-pork-icon.webp
   - /chimeraland/recipes/soy-braised-pork/soy-braised-pork-material.webp
-subtitle: "Recipe Soy-Braised Pork Chimeraland Soy-Braised Pork Cooking Recipe
-  Buff Soy-Braised Pork 420 Fullness 35 RES recipe "
+thumbnail: /chimeraland/recipes/soy-braised-pork/soy-braised-pork.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/soy-braised-pork/soy-braised-pork.webp
-title: Recipe Soy-Braised Pork Chimeraland
-type: post
-updated: 2023-08-08T14:44:25+07:00
-wordcount: 703
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

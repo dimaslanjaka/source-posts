@@ -1,34 +1,19 @@
 ---
+title: Material Common Wood Essence Chimeraland
+date: 2022-01-12T20:56:03+07:00
+updated: 2022-10-04T20:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/common-wood-essence.html
+photos:
+  - /chimeraland/materials/common-wood-essence/common-wood-essence.webp
+thumbnail: /chimeraland/materials/common-wood-essence/common-wood-essence.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/common-wood-essence/common-wood-essence.webp
-date: 2022-01-12T20:56:03+07:00
-description: "Material Common Wood Essence Chimeraland materials Common Wood
-  Essence October 4, 2022 8:26 PM Continue reading Common Wood Essence What is
-  the use of the Common Wood Essence "
-excerpt: "Material Common Wood Essence Chimeraland materials Common Wood Essence
-  October 4, 2022 8:26 PM Continue reading Common Wood Essence What is the use
-  of the Common Wood Essence "
-id: 6677b974-81a6-4888-8e99-7371e2f93c5a
-lang: en
-permalink: /chimeraland/materials/common-wood-essence.html
-photos:
-  - /chimeraland/materials/common-wood-essence/common-wood-essence.webp
-subtitle: "Material Common Wood Essence Chimeraland materials Common Wood
-  Essence October 4, 2022 8:26 PM Continue reading Common Wood Essence What is
-  the use of the Common Wood Essence "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/common-wood-essence/common-wood-essence.webp
-title: Material Common Wood Essence Chimeraland
-type: post
-updated: 2023-08-08T14:44:58+07:00
-wordcount: 654
 ---
 
 <link

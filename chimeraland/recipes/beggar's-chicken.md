@@ -1,34 +1,23 @@
 ---
+title: Recipe Beggar's Chicken Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/beggars-chicken/beggars-chicken.webp
-date: 2022-01-07T02:56:03+07:00
-description: "Recipe Beggars Chicken Chimeraland Beggars Chicken Cooking Recipe
-  Buff Beggars Chicken 300 Fullness 4 Critical Damage Dealt recipe "
-excerpt: "Recipe Beggars Chicken Chimeraland Beggars Chicken Cooking Recipe Buff
-  Beggars Chicken 300 Fullness 4 Critical Damage Dealt recipe "
-id: cc5c8c35-8e29-4888-8482-2323a60129e0
+updated: 2022-10-05T14:46:53+07:00
 lang: en
+date: 2022-01-07T02:56:03+07:00
 permalink: /chimeraland/recipes/beggars-chicken.html
 photos:
   - /chimeraland/recipes/beggars-chicken/beggars-chicken.webp
   - /chimeraland/recipes/beggars-chicken/beggars-chicken-name.webp
   - /chimeraland/recipes/beggars-chicken/beggars-chicken-icon.webp
   - /chimeraland/recipes/beggars-chicken/beggars-chicken-material.webp
-subtitle: "Recipe Beggars Chicken Chimeraland Beggars Chicken Cooking Recipe
-  Buff Beggars Chicken 300 Fullness 4 Critical Damage Dealt recipe "
+thumbnail: /chimeraland/recipes/beggars-chicken/beggars-chicken.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/beggars-chicken/beggars-chicken.webp
-title: Recipe Beggars Chicken Chimeraland
-type: post
-updated: 2023-08-08T14:44:30+07:00
-wordcount: 636
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

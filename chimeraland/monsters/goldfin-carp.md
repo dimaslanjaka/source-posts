@@ -1,33 +1,21 @@
 ---
+title: Monster Goldfin Carp
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Goldfin Carp
+updated: 2023-05-25T15:48:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Goldfin Carp Goldfin Carp Information from Chimeraland
-  Goldfin Carp default maximum attribute GRADE Attack "
-excerpt: "Monster Goldfin Carp Goldfin Carp Information from Chimeraland Goldfin
-  Carp default maximum attribute GRADE Attack "
-id: 16927107-e606-4888-806d-ec8191fcd601
-lang: en
 permalink: /chimeraland/monsters/goldfin-carp.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Goldfin Carp
-subtitle: "Monster Goldfin Carp Goldfin Carp Information from Chimeraland
-  Goldfin Carp default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Goldfin Carp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Goldfin Carp
-title: Monster Goldfin Carp
-type: post
-updated: 2023-08-08T14:44:40+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

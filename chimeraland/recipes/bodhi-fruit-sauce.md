@@ -1,34 +1,23 @@
 ---
+title: Recipe Bodhi Fruit Sauce Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce.webp
-date: 2022-01-07T00:56:03+07:00
-description: "Recipe Bodhi Fruit Sauce Chimeraland Bodhi Fruit Sauce Cooking
-  Recipe Buff Bodhi Fruit Sauce 180 Fullness Heat Resistance 5 recipe "
-excerpt: "Recipe Bodhi Fruit Sauce Chimeraland Bodhi Fruit Sauce Cooking Recipe
-  Buff Bodhi Fruit Sauce 180 Fullness Heat Resistance 5 recipe "
-id: 09c420f7-58e0-4888-8b87-7230e67ea6f3
+updated: 2022-09-29T02:26:37+07:00
 lang: en
+date: 2022-01-07T00:56:03+07:00
 permalink: /chimeraland/recipes/bodhi-fruit-sauce.html
 photos:
   - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce.webp
   - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-name.webp
   - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-icon.webp
   - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-material.webp
-subtitle: "Recipe Bodhi Fruit Sauce Chimeraland Bodhi Fruit Sauce Cooking Recipe
-  Buff Bodhi Fruit Sauce 180 Fullness Heat Resistance 5 recipe "
+thumbnail: /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce.webp
-title: Recipe Bodhi Fruit Sauce Chimeraland
-type: post
-updated: 2023-08-08T14:44:30+07:00
-wordcount: 691
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

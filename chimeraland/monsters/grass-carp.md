@@ -1,33 +1,21 @@
 ---
+title: Monster Grass Carp
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grass Carp
+updated: 2023-05-25T10:51:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Grass Carp Grass Carp Information from Chimeraland Grass
-  Carp default maximum attribute GRADE Attack "
-excerpt: "Monster Grass Carp Grass Carp Information from Chimeraland Grass Carp
-  default maximum attribute GRADE Attack "
-id: 28dc7c2b-01d4-4888-840d-55c9e0b6a54a
-lang: en
 permalink: /chimeraland/monsters/grass-carp.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grass Carp
-subtitle: "Monster Grass Carp Grass Carp Information from Chimeraland Grass Carp
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grass Carp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grass Carp
-title: Monster Grass Carp
-type: post
-updated: 2023-08-08T14:44:40+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

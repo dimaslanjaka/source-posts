@@ -1,22 +1,9 @@
 ---
+title: Attendant Lok-Aqui
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2022-09-29T02:26:37+07:00
 date: 2022-01-07T12:56:03+07:00
-description: attendant Lok-Aqui default quality GRADE C ATK 47 HP 55 DEF 48
-  Attack 20,HP 200,Monster EXP Bonus 40.0 delicacies/tasty Braised Lobcray
-  Meat,Pepper Salt Scorpion Pincer,Dragon Serpent Combo
-  Games,chimeraland,attendants chimeraland,Attendant
-excerpt: attendant Lok-Aqui default quality GRADE C ATK 47 HP 55 DEF 48 Attack
-  20,HP 200,Monster EXP Bonus 40.0 delicacies/tasty Braised Lobcray Meat,Pepper
-  Salt Scorpion Pincer,Dragon Serpent Combo Games,chimeraland,attendants
-  chimeraland,Attendant
-id: a8c6f475-ea81-4888-875a-f678a0dec7f7
-lang: en
 permalink: /chimeraland/attendants/lok-aqui.html
 photos:
   - /chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -25,19 +12,18 @@ photos:
   - /chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-53-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-35-01-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: attendant Lok-Aqui default quality GRADE C ATK 47 HP 55 DEF 48 Attack
-  20,HP 200,Monster EXP Bonus 40.0 delicacies/tasty Braised Lobcray Meat,Pepper
-  Salt Scorpion Pincer,Dragon Serpent Combo Games,chimeraland,attendants
-  chimeraland,Attendant
+thumbnail: /chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/lok-aqui/Screenshot_2022-07-17-22-34-37-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant Lok-Aqui
-type: post
-updated: 2023-08-08T14:45:06+07:00
-webtitle: chimeraland
-wordcount: 1384
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
+description: attendant Lok-Aqui default quality GRADE C ATK 47 HP 55 DEF 48
+  Attack 20,HP 200,Monster EXP Bonus 40.0% delicacies/tasty Braised Lobcray
+  Meat,Pepper Salt Scorpion Pincer,Dragon Serpent Combo
+  games,chimeraland,attendants chimeraland,Attendant
 ---
 
 <link

@@ -1,33 +1,21 @@
 ---
+title: Monster Frosthorn Rhino
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frosthorn Rhino
+updated: 2023-05-25T11:12:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Frosthorn Rhino Frosthorn Rhino Information from
-  Chimeraland Frosthorn Rhino default maximum attribute GRADE Attack "
-excerpt: "Monster Frosthorn Rhino Frosthorn Rhino Information from Chimeraland
-  Frosthorn Rhino default maximum attribute GRADE Attack "
-id: e87f9ca0-5bdf-4888-8f7d-fd96c42d6aae
-lang: en
 permalink: /chimeraland/monsters/frosthorn-rhino.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frosthorn Rhino
-subtitle: "Monster Frosthorn Rhino Frosthorn Rhino Information from Chimeraland
-  Frosthorn Rhino default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frosthorn Rhino
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frosthorn Rhino
-title: Monster Frosthorn Rhino
-type: post
-updated: 2023-08-08T14:44:43+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

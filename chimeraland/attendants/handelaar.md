@@ -1,18 +1,9 @@
 ---
+title: Attendant handelaar
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-32-32-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-05-23T11:14:26+07:00
 date: 2023-05-23T11:03:26+07:00
-description: "Attendant handelaar handelaar Information from Chimeraland
-  handelaar default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant handelaar handelaar Information from Chimeraland handelaar
-  default maximum attribute GRADE N/A N/A Attack N/A "
-id: 6d0b35f7-7b47-4888-88db-42cf0d6ea791
-lang: en
 permalink: /chimeraland/attendants/handelaar.html
 photos:
   - /chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-32-32-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -23,17 +14,14 @@ photos:
   - /chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-32-56-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-33-01-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-33-05-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant handelaar handelaar Information from Chimeraland handelaar
-  default maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-32-32-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/handelaar/Screenshot_2023-05-21-23-32-32-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant handelaar
-type: post
-updated: 2023-08-08T14:45:06+07:00
-webtitle: chimeraland
-wordcount: 1130
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

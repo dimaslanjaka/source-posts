@@ -1,20 +1,12 @@
 ---
+title: Monster mulberry lady
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=mulberry lady
+updated: 2023-05-25T08:31:12+07:00
 date: 2023-02-17T02:42:22+07:00
-description: "Monster mulberry lady mulberry lady Information from Chimeraland
-  mulberry lady default maximum attribute GRADE Attack "
-excerpt: "Monster mulberry lady mulberry lady Information from Chimeraland
-  mulberry lady default maximum attribute GRADE Attack "
-id: ea3b05bb-965c-4888-83d2-700bdca0d9b9
-lang: en
 permalink: /chimeraland/monsters/mulberry-lady.html
 photos:
+  - null
   - /chimeraland/monsters/mulberry-lady/Screenshot_2023-02-16-03-09-58-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mulberry-lady/Screenshot_2023-02-16-03-10-04-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mulberry-lady/Screenshot_2023-02-16-03-10-11-56_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -24,19 +16,15 @@ photos:
   - /chimeraland/monsters/mulberry-lady/Screenshot_2023-02-16-03-10-39-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mulberry-lady/Screenshot_2023-02-16-03-10-43-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mulberry-lady/Screenshot_2023-02-16-03-10-49-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=mulberry lady
-subtitle: "Monster mulberry lady mulberry lady Information from Chimeraland
-  mulberry lady default maximum attribute GRADE Attack "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=mulberry lady
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=mulberry lady
-title: Monster mulberry lady
-type: post
-updated: 2023-08-08T14:44:36+07:00
-webtitle: chimeraland
-wordcount: 1387
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

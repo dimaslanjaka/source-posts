@@ -1,18 +1,9 @@
 ---
+title: Attendant windoo
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/windoo/Screenshot_2023-07-01-15-08-11-14_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-08-06T22:00:21+07:00
 date: 2023-08-06T21:49:21+07:00
-description: "Attendant windoo windoo Information from Chimeraland windoo
-  default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant windoo windoo Information from Chimeraland windoo default
-  maximum attribute GRADE N/A N/A Attack N/A "
-id: 5bb76b6e-c7f3-4888-8e13-5040d19051da
-lang: en
 permalink: /chimeraland/attendants/windoo.html
 photos:
   - /chimeraland/attendants/windoo/Screenshot_2023-07-01-15-08-11-14_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -24,17 +15,14 @@ photos:
   - /chimeraland/attendants/windoo/Screenshot_2023-07-01-15-08-42-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/windoo/Screenshot_2023-07-01-15-08-46-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/windoo/Screenshot_2023-07-01-15-08-53-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant windoo windoo Information from Chimeraland windoo default
-  maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/windoo/Screenshot_2023-07-01-15-08-11-14_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/windoo/Screenshot_2023-07-01-15-08-11-14_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant windoo
-type: post
-updated: 2023-08-08T14:45:01+07:00
-webtitle: chimeraland
-wordcount: 1201
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

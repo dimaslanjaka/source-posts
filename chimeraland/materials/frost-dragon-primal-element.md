@@ -1,34 +1,19 @@
 ---
+title: Material Frost Dragon Primal Element Chimeraland
+date: 2022-01-18T10:56:03+07:00
+updated: 2022-10-10T10:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/frost-dragon-primal-element.html
+photos:
+  - /chimeraland/materials/frost-dragon-primal-element/frost-dragon-primal-element.webp
+thumbnail: /chimeraland/materials/frost-dragon-primal-element/frost-dragon-primal-element.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/frost-dragon-primal-element/frost-dragon-primal-element.webp
-date: 2022-01-18T10:56:03+07:00
-description: Material Frost Dragon Primal Element Chimeraland materials Frost
-  Dragon Primal Element October 10, 2022 10:26 AM Continue reading Frost Dragon
-  Primal Element What is the use of the F
-excerpt: Material Frost Dragon Primal Element Chimeraland materials Frost Dragon
-  Primal Element October 10, 2022 10:26 AM Continue reading Frost Dragon Primal
-  Element What is the use of the F
-id: 0b8e7171-a233-4888-8d8b-8ea4d1875410
-lang: en
-permalink: /chimeraland/materials/frost-dragon-primal-element.html
-photos:
-  - /chimeraland/materials/frost-dragon-primal-element/frost-dragon-primal-element.webp
-subtitle: Material Frost Dragon Primal Element Chimeraland materials Frost
-  Dragon Primal Element October 10, 2022 10:26 AM Continue reading Frost Dragon
-  Primal Element What is the use of the F
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/frost-dragon-primal-element/frost-dragon-primal-element.webp
-title: Material Frost Dragon Primal Element Chimeraland
-type: post
-updated: 2023-08-08T14:44:56+07:00
-wordcount: 805
 ---
 
 <link

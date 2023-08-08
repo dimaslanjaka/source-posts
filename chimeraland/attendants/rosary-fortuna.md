@@ -1,18 +1,9 @@
 ---
+title: Attendant Rosary Fortuna
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-16-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2022-09-29T15:26:37+07:00
 date: 2022-01-08T03:56:03+07:00
-description: "Attendant Rosary Fortuna Rosary Fortuna Information from
-  Chimeraland Rosary Fortuna default maximum attribute GRADE Attack "
-excerpt: "Attendant Rosary Fortuna Rosary Fortuna Information from Chimeraland
-  Rosary Fortuna default maximum attribute GRADE Attack "
-id: 54dca4fe-6222-4888-8902-8a12be451ce6
-lang: en
 permalink: /chimeraland/attendants/rosary-fortuna.html
 photos:
   - /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-16-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -21,17 +12,14 @@ photos:
   - /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-30-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-34-58_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-38-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant Rosary Fortuna Rosary Fortuna Information from Chimeraland
-  Rosary Fortuna default maximum attribute GRADE Attack "
+thumbnail: /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-16-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/rosary-fortuna/Screenshot_2022-07-29-21-52-16-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant Rosary Fortuna
-type: post
-updated: 2023-08-08T14:45:04+07:00
-webtitle: chimeraland
-wordcount: 1063
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

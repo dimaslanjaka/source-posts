@@ -1,34 +1,23 @@
 ---
+title: Recipe Sliced Mushrooms Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms.webp
-date: 2022-01-11T10:56:03+07:00
-description: "Recipe Sliced Mushrooms Chimeraland Sliced Mushrooms Cooking
-  Recipe Buff Sliced Mushrooms 420 Fullness Cold Resistance 15 recipe "
-excerpt: "Recipe Sliced Mushrooms Chimeraland Sliced Mushrooms Cooking Recipe
-  Buff Sliced Mushrooms 420 Fullness Cold Resistance 15 recipe "
-id: bdf47530-fba6-4888-88a8-52f2f7f90607
+updated: 2022-10-05T11:46:57+07:00
 lang: en
+date: 2022-01-11T10:56:03+07:00
 permalink: /chimeraland/recipes/sliced-mushrooms.html
 photos:
   - /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms.webp
   - /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms-name.webp
   - /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms-icon.webp
   - /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms-material.webp
-subtitle: "Recipe Sliced Mushrooms Chimeraland Sliced Mushrooms Cooking Recipe
-  Buff Sliced Mushrooms 420 Fullness Cold Resistance 15 recipe "
+thumbnail: /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms.webp
-title: Recipe Sliced Mushrooms Chimeraland
-type: post
-updated: 2023-08-08T14:44:25+07:00
-wordcount: 740
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

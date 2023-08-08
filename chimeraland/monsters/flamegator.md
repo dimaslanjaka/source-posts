@@ -1,33 +1,21 @@
 ---
+title: Monster Flamegator
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamegator
+updated: 2023-05-25T06:27:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Flamegator Flamegator Information from Chimeraland
-  Flamegator default maximum attribute GRADE Attack "
-excerpt: "Monster Flamegator Flamegator Information from Chimeraland Flamegator
-  default maximum attribute GRADE Attack "
-id: d148e30d-e4ff-4888-890b-4d027b78957f
-lang: en
 permalink: /chimeraland/monsters/flamegator.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamegator
-subtitle: "Monster Flamegator Flamegator Information from Chimeraland Flamegator
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamegator
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamegator
-title: Monster Flamegator
-type: post
-updated: 2023-08-08T14:44:44+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

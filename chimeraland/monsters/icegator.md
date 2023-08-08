@@ -1,33 +1,21 @@
 ---
+title: Monster Icegator
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Icegator
+updated: 2023-05-25T10:23:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Icegator Icegator Information from Chimeraland Icegator
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Icegator Icegator Information from Chimeraland Icegator
-  default maximum attribute GRADE Attack "
-id: 9e793887-9c2d-4888-8593-1fb6531f2303
-lang: en
 permalink: /chimeraland/monsters/icegator.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Icegator
-subtitle: "Monster Icegator Icegator Information from Chimeraland Icegator
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Icegator
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Icegator
-title: Monster Icegator
-type: post
-updated: 2023-08-08T14:44:38+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

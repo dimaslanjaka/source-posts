@@ -1,20 +1,9 @@
 ---
+title: Monster giant bone dragon
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: /chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-23-36-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-02-25T01:55:43+07:00
 date: 2023-02-25T01:44:43+07:00
-description: Monster giant bone dragon giant bone dragon Information from
-  Chimeraland giant bone dragon default maximum attribute GRADE N/A N/A Attack
-  N/A
-excerpt: Monster giant bone dragon giant bone dragon Information from
-  Chimeraland giant bone dragon default maximum attribute GRADE N/A N/A Attack
-  N/A
-id: ccdcbe20-bdde-4888-8c3f-349cd43ad422
-lang: en
 permalink: /chimeraland/monsters/giant-bone-dragon.html
 photos:
   - /chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-23-36-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -26,19 +15,15 @@ photos:
   - /chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-24-06-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-24-11-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-bone-dragon/Screenshot_2023-08-07-01-03-32-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: Monster giant bone dragon giant bone dragon Information from
-  Chimeraland giant bone dragon default maximum attribute GRADE N/A N/A Attack
-  N/A
+thumbnail: /chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-23-36-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/giant-bone-dragon/Screenshot_2023-02-24-00-23-36-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster giant bone dragon
-type: post
-updated: 2023-08-08T14:44:43+07:00
-webtitle: chimeraland
-wordcount: 1435
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

@@ -1,33 +1,21 @@
 ---
+title: Monster Greuana
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Greuana
+updated: 2023-05-25T09:48:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Greuana Greuana Information from Chimeraland Greuana
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Greuana Greuana Information from Chimeraland Greuana default
-  maximum attribute GRADE Attack "
-id: f435ec20-6e43-4888-8228-178790bde96c
-lang: en
 permalink: /chimeraland/monsters/greuana.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Greuana
-subtitle: "Monster Greuana Greuana Information from Chimeraland Greuana default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Greuana
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Greuana
-title: Monster Greuana
-type: post
-updated: 2023-08-08T14:44:40+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

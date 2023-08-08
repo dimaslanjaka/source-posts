@@ -1,33 +1,21 @@
 ---
+title: Monster Eleotris
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Eleotris
+updated: 2023-05-25T13:35:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Eleotris Eleotris Information from Chimeraland Eleotris
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Eleotris Eleotris Information from Chimeraland Eleotris
-  default maximum attribute GRADE Attack "
-id: 7818d8b4-6150-4888-81de-ce17478017cf
-lang: en
 permalink: /chimeraland/monsters/eleotris.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Eleotris
-subtitle: "Monster Eleotris Eleotris Information from Chimeraland Eleotris
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Eleotris
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Eleotris
-title: Monster Eleotris
-type: post
-updated: 2023-08-08T14:44:44+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

@@ -1,20 +1,12 @@
 ---
+title: Monster Wolfspider
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Wolfspider
+updated: 2023-05-25T10:06:12+07:00
 date: 2022-01-11T00:56:03+07:00
-description: "Monster Wolfspider Wolfspider Information from Chimeraland
-  Wolfspider default maximum attribute GRADE C RARE Attack 59 "
-excerpt: "Monster Wolfspider Wolfspider Information from Chimeraland Wolfspider
-  default maximum attribute GRADE C RARE Attack 59 "
-id: 822eb42c-c3c3-4888-8173-f1c5b3d94a8d
-lang: en
 permalink: /chimeraland/monsters/wolfspider.html
 photos:
+  - null
   - /chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-29-33-23_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-29-37-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-29-41-28_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -22,19 +14,15 @@ photos:
   - /chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-29-50-79_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-29-55-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-30-00-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Wolfspider
-subtitle: "Monster Wolfspider Wolfspider Information from Chimeraland Wolfspider
-  default maximum attribute GRADE C RARE Attack 59 "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Wolfspider
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Wolfspider
-title: Monster Wolfspider
-type: post
-updated: 2023-08-08T14:44:31+07:00
-webtitle: chimeraland
-wordcount: 1130
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

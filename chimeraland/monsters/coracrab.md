@@ -1,24 +1,12 @@
 ---
+title: Monster Coracrab
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Coracrab
+updated: 2023-05-25T02:55:12+07:00
 date: 2022-01-07T14:56:03+07:00
-description: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
-  Attributes Conversion Rate 4.0,PvP DMG Bonus 4.8,Essence Aspect: Aqua Armor
-  delicacies/tasty Tasty Exotic Crab,Pepper Salt Scorpion Pincer,Hot Stone
-  Icefox Meat Games,chimeraland,monsters chimeraland,monster,pet"
-excerpt: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
-  Attributes Conversion Rate 4.0,PvP DMG Bonus 4.8,Essence Aspect: Aqua Armor
-  delicacies/tasty Tasty Exotic Crab,Pepper Salt Scorpion Pincer,Hot Stone
-  Icefox Meat Games,chimeraland,monsters chimeraland,monster,pet"
-id: deb8d8c7-91dc-4888-84a0-060977c6dc1c
-lang: en
 permalink: /chimeraland/monsters/coracrab.html
 photos:
+  - null
   - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-34-49-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-34-53-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-34-59-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -27,21 +15,19 @@ photos:
   - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-11-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-18-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-22-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Coracrab
-subtitle: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
-  Attributes Conversion Rate 4.0,PvP DMG Bonus 4.8,Essence Aspect: Aqua Armor
-  delicacies/tasty Tasty Exotic Crab,Pepper Salt Scorpion Pincer,Hot Stone
-  Icefox Meat Games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Coracrab
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Coracrab
-title: Monster Coracrab
-type: post
-updated: 2023-08-08T14:44:45+07:00
-webtitle: chimeraland
-wordcount: 1647
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
+  Attributes Conversion Rate 4.0%,PvP DMG Bonus +4.8%,Essence Aspect: Aqua Armor
+  delicacies/tasty Tasty Exotic Crab,Pepper Salt Scorpion Pincer,Hot Stone
+  Icefox Meat games,chimeraland,monsters chimeraland,monster,pet"
 ---
 
 <link

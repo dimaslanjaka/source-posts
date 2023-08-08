@@ -1,34 +1,23 @@
 ---
+title: Recipe Fried Intestines Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/fried-intestines/fried-intestines.webp
-date: 2022-01-08T16:56:03+07:00
-description: "Recipe Fried Intestines Chimeraland Fried Intestines Cooking
-  Recipe Buff Fried Intestines 420 Fullness 60 Crit recipe "
-excerpt: "Recipe Fried Intestines Chimeraland Fried Intestines Cooking Recipe
-  Buff Fried Intestines 420 Fullness 60 Crit recipe "
-id: b2ffea29-715a-4888-8e41-39481549757b
+updated: 2022-10-05T19:46:54+07:00
 lang: en
+date: 2022-01-08T16:56:03+07:00
 permalink: /chimeraland/recipes/fried-intestines.html
 photos:
   - /chimeraland/recipes/fried-intestines/fried-intestines.webp
   - /chimeraland/recipes/fried-intestines/fried-intestines-name.webp
   - /chimeraland/recipes/fried-intestines/fried-intestines-icon.webp
   - /chimeraland/recipes/fried-intestines/fried-intestines-material.webp
-subtitle: "Recipe Fried Intestines Chimeraland Fried Intestines Cooking Recipe
-  Buff Fried Intestines 420 Fullness 60 Crit recipe "
+thumbnail: /chimeraland/recipes/fried-intestines/fried-intestines.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/fried-intestines/fried-intestines.webp
-title: Recipe Fried Intestines Chimeraland
-type: post
-updated: 2023-08-08T14:44:28+07:00
-wordcount: 1281
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

@@ -1,34 +1,19 @@
 ---
+title: Material Nirvana Feather Chimeraland
+date: 2022-01-11T02:56:03+07:00
+updated: 2022-10-03T02:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/nirvana-feather.html
+photos:
+  - /chimeraland/materials/nirvana-feather/nirvana-feather.webp
+thumbnail: /chimeraland/materials/nirvana-feather/nirvana-feather.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/nirvana-feather/nirvana-feather.webp
-date: 2022-01-11T02:56:03+07:00
-description: "Material Nirvana Feather Chimeraland materials Nirvana Feather
-  October 3, 2022 2:26 AM Continue reading Nirvana Feather What is the use of
-  the Nirvana Feather "
-excerpt: "Material Nirvana Feather Chimeraland materials Nirvana Feather October
-  3, 2022 2:26 AM Continue reading Nirvana Feather What is the use of the
-  Nirvana Feather "
-id: f87714a0-6154-4888-80a0-461ee973a634
-lang: en
-permalink: /chimeraland/materials/nirvana-feather.html
-photos:
-  - /chimeraland/materials/nirvana-feather/nirvana-feather.webp
-subtitle: "Material Nirvana Feather Chimeraland materials Nirvana Feather
-  October 3, 2022 2:26 AM Continue reading Nirvana Feather What is the use of
-  the Nirvana Feather "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/nirvana-feather/nirvana-feather.webp
-title: Material Nirvana Feather Chimeraland
-type: post
-updated: 2023-08-08T14:44:52+07:00
-wordcount: 1421
 ---
 
 <link

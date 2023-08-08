@@ -1,37 +1,23 @@
 ---
+title: Recipe Honeydew Melon Slushie Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie.webp
-date: 2022-01-09T23:56:03+07:00
-description: "Recipe Honeydew Melon Slushie Chimeraland Honeydew Melon Slushie
-  Cooking Recipe Buff Honeydew Melon Slushie 540 fullness Heat Resistance 15
-  recipe "
-excerpt: "Recipe Honeydew Melon Slushie Chimeraland Honeydew Melon Slushie
-  Cooking Recipe Buff Honeydew Melon Slushie 540 fullness Heat Resistance 15
-  recipe "
-id: 03dac605-1db8-4888-8e89-3b8b8b68546a
+updated: 2022-10-05T17:46:55+07:00
 lang: en
+date: 2022-01-09T23:56:03+07:00
 permalink: /chimeraland/recipes/honeydew-melon-slushie.html
 photos:
   - /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie.webp
   - /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie-name.webp
   - /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie-icon.webp
   - /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie-material.webp
-subtitle: "Recipe Honeydew Melon Slushie Chimeraland Honeydew Melon Slushie
-  Cooking Recipe Buff Honeydew Melon Slushie 540 fullness Heat Resistance 15
-  recipe "
+thumbnail: /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/honeydew-melon-slushie/honeydew-melon-slushie.webp
-title: Recipe Honeydew Melon Slushie Chimeraland
-type: post
-updated: 2023-08-08T14:44:27+07:00
-wordcount: 717
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

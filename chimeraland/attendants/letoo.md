@@ -1,18 +1,9 @@
 ---
+title: Attendant Letoo
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-40-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2022-09-29T08:26:37+07:00
 date: 2022-01-07T09:56:03+07:00
-description: "Attendant Letoo Letoo Information from Chimeraland Letoo default
-  maximum attribute GRADE Attack "
-excerpt: "Attendant Letoo Letoo Information from Chimeraland Letoo default
-  maximum attribute GRADE Attack "
-id: a2fc2e50-ddf1-4888-815a-4f4226d9b308
-lang: en
 permalink: /chimeraland/attendants/letoo.html
 photos:
   - /chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-40-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -21,17 +12,14 @@ photos:
   - /chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-48-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-53-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/letoo/Screenshot_2022-07-24-12-18-03-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant Letoo Letoo Information from Chimeraland Letoo default
-  maximum attribute GRADE Attack "
+thumbnail: /chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-40-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/letoo/Screenshot_2022-07-24-12-17-40-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant Letoo
-type: post
-updated: 2023-08-08T14:45:06+07:00
-webtitle: chimeraland
-wordcount: 976
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

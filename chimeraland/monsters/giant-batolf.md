@@ -1,18 +1,9 @@
 ---
+title: Monster giant batolf
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: /chimeraland/monsters/giant-batolf/Screenshot_2023-02-15-02-43-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-02-16T21:53:22+07:00
 date: 2023-02-16T21:42:22+07:00
-description: "Monster giant batolf giant batolf Information from Chimeraland
-  giant batolf default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Monster giant batolf giant batolf Information from Chimeraland giant
-  batolf default maximum attribute GRADE N/A N/A Attack N/A "
-id: 844bf5df-8657-4888-879c-bc20f8981734
-lang: en
 permalink: /chimeraland/monsters/giant-batolf.html
 photos:
   - /chimeraland/monsters/giant-batolf/Screenshot_2023-02-15-02-43-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -23,18 +14,15 @@ photos:
   - /chimeraland/monsters/giant-batolf/Screenshot_2023-02-15-02-43-47-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-batolf/Screenshot_2023-02-15-02-43-52-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-batolf/Screenshot_2023-02-15-02-43-57-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster giant batolf giant batolf Information from Chimeraland giant
-  batolf default maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/monsters/giant-batolf/Screenshot_2023-02-15-02-43-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/giant-batolf/Screenshot_2023-02-15-02-43-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster giant batolf
-type: post
-updated: 2023-08-08T14:44:43+07:00
-webtitle: chimeraland
-wordcount: 1237
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

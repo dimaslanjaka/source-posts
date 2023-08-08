@@ -1,33 +1,21 @@
 ---
+title: Monster Mahi Mahi
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mahi Mahi
+updated: 2023-05-25T02:36:12+07:00
 date: 2023-05-25T02:02:42+07:00
-description: "Monster Mahi Mahi Mahi Mahi Information from Chimeraland Mahi Mahi
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Mahi Mahi Mahi Mahi Information from Chimeraland Mahi Mahi
-  default maximum attribute GRADE Attack "
-id: 2528235b-e023-4888-856d-b0ec2c07b7c1
-lang: en
 permalink: /chimeraland/monsters/mahi-mahi.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mahi Mahi
-subtitle: "Monster Mahi Mahi Mahi Mahi Information from Chimeraland Mahi Mahi
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mahi Mahi
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mahi Mahi
-title: Monster Mahi Mahi
-type: post
-updated: 2023-08-08T14:44:37+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

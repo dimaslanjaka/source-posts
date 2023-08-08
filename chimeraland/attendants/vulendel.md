@@ -1,18 +1,9 @@
 ---
+title: Attendant vulendel
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/vulendel/Screenshot_2023-07-01-15-11-23-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-08-06T22:00:21+07:00
 date: 2023-08-06T21:49:21+07:00
-description: "Attendant vulendel vulendel Information from Chimeraland vulendel
-  default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant vulendel vulendel Information from Chimeraland vulendel
-  default maximum attribute GRADE N/A N/A Attack N/A "
-id: 68caf41f-3563-4888-8144-e8502a41850b
-lang: en
 permalink: /chimeraland/attendants/vulendel.html
 photos:
   - /chimeraland/attendants/vulendel/Screenshot_2023-07-01-15-11-23-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -24,17 +15,14 @@ photos:
   - /chimeraland/attendants/vulendel/Screenshot_2023-07-01-15-11-51-28_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vulendel/Screenshot_2023-07-01-15-11-55-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vulendel/Screenshot_2023-07-01-15-11-59-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant vulendel vulendel Information from Chimeraland vulendel
-  default maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/vulendel/Screenshot_2023-07-01-15-11-23-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/vulendel/Screenshot_2023-07-01-15-11-23-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant vulendel
-type: post
-updated: 2023-08-08T14:45:02+07:00
-webtitle: chimeraland
-wordcount: 1201
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

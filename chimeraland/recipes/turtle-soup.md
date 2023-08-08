@@ -1,34 +1,23 @@
 ---
+title: Recipe Turtle Soup Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/turtle-soup/turtle-soup.webp
-date: 2022-01-12T13:56:03+07:00
-description: Recipe Turtle Soup Chimeraland Turtle Soup Cooking Recipe Buff
-  Turtle Soup Buff Turtle Soup not yet written recipe webmanajemen.com - r
-excerpt: Recipe Turtle Soup Chimeraland Turtle Soup Cooking Recipe Buff Turtle
-  Soup Buff Turtle Soup not yet written recipe webmanajemen.com - r
-id: a950be54-8c9c-4888-8592-3d6c5a1f0578
+updated: 2022-10-06T13:46:56+07:00
 lang: en
+date: 2022-01-12T13:56:03+07:00
 permalink: /chimeraland/recipes/turtle-soup.html
 photos:
   - /chimeraland/recipes/turtle-soup/turtle-soup.webp
   - /chimeraland/recipes/turtle-soup/turtle-soup-name.webp
   - /chimeraland/recipes/turtle-soup/turtle-soup-icon.webp
   - /chimeraland/recipes/turtle-soup/turtle-soup-material.webp
-subtitle: Recipe Turtle Soup Chimeraland Turtle Soup Cooking Recipe Buff Turtle
-  Soup Buff Turtle Soup not yet written recipe webmanajemen.com - r
+thumbnail: /chimeraland/recipes/turtle-soup/turtle-soup.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/turtle-soup/turtle-soup.webp
-title: Recipe Turtle Soup Chimeraland
-type: post
-updated: 2023-08-08T14:44:23+07:00
-wordcount: 795
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

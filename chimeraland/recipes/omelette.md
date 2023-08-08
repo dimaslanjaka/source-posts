@@ -1,34 +1,23 @@
 ---
+title: Recipe Omelette Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/omelette/omelette.webp
-date: 2022-01-10T20:56:03+07:00
-description: Recipe Omelette Chimeraland Omelette Cooking Recipe Buff Omelette
-  300 Fullness 15 RES recipe webmanajemen.com - reci
-excerpt: Recipe Omelette Chimeraland Omelette Cooking Recipe Buff Omelette 300
-  Fullness 15 RES recipe webmanajemen.com - reci
-id: 3bf3d855-4036-4888-8571-b53c547dc1cf
+updated: 2022-10-06T23:46:54+07:00
 lang: en
+date: 2022-01-10T20:56:03+07:00
 permalink: /chimeraland/recipes/omelette.html
 photos:
   - /chimeraland/recipes/omelette/omelette.webp
   - /chimeraland/recipes/omelette/omelette-name.webp
   - /chimeraland/recipes/omelette/omelette-icon.webp
   - /chimeraland/recipes/omelette/omelette-material.webp
-subtitle: Recipe Omelette Chimeraland Omelette Cooking Recipe Buff Omelette 300
-  Fullness 15 RES recipe webmanajemen.com - reci
+thumbnail: /chimeraland/recipes/omelette/omelette.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/omelette/omelette.webp
-title: Recipe Omelette Chimeraland
-type: post
-updated: 2023-08-08T14:44:26+07:00
-wordcount: 555
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

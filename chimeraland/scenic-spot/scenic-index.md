@@ -1,32 +1,23 @@
 ---
-author:
-  email: dimaslanjaka@gmail.com
-  name: Dimas Lanjaka
-  image: https://avatars.githubusercontent.com/u/12471057?v=4
+title: Scenic Spot Locations
+webtitle: chimeraland
+permalink: /chimeraland/scenic-spots/
+tags:
+  - chimeraland
+  - scenic-spot
 categories:
   - games
   - chimeraland
   - scenic-spot
-comments: true
-cover: https://i.ytimg.com/vi/vk8Nz2AiKe8/maxresdefault.jpg
 date: 2022-09-10T00:00:00+07:00
+updated: 2022-11-02T15:58:09+07:00
 description: Scenic Spot Locations - Chimeraland
-excerpt: Scenic Spot Locations - Chimeraland
-id: 2ff2548d-6fd6-4888-8813-db364f512fba
 language: en-US,id
-permalink: /chimeraland/scenic-spots/
-photos:
-  - https://i.ytimg.com/vi/vk8Nz2AiKe8/maxresdefault.jpg
-subtitle: Scenic Spot Locations - Chimeraland
-tags:
-  - chimeraland
-  - scenic-spot
 thumbnail: https://i.ytimg.com/vi/vk8Nz2AiKe8/maxresdefault.jpg
-title: Scenic Spot Locations
-type: post
-updated: 2023-08-08T14:44:23+07:00
-webtitle: chimeraland
-wordcount: 5606
+author:
+  email: dimaslanjaka@gmail.com
+  name: Dimas Lanjaka
+  image: https://avatars.githubusercontent.com/u/12471057?v=4
 ---
 
 <section id="bootstrap-wrapper">

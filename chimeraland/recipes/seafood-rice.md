@@ -1,34 +1,23 @@
 ---
+title: Recipe Seafood Rice Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/seafood-rice/seafood-rice.webp
-date: 2022-01-11T15:56:03+07:00
-description: "Recipe Seafood Rice Chimeraland Seafood Rice Cooking Recipe Buff
-  Seafood Rice 660 Fullness 150 CRIT Great Focus recipe "
-excerpt: "Recipe Seafood Rice Chimeraland Seafood Rice Cooking Recipe Buff
-  Seafood Rice 660 Fullness 150 CRIT Great Focus recipe "
-id: aec3e06d-7424-4888-8ca0-6491d82dae94
+updated: 2022-10-06T17:46:55+07:00
 lang: en
+date: 2022-01-11T15:56:03+07:00
 permalink: /chimeraland/recipes/seafood-rice.html
 photos:
   - /chimeraland/recipes/seafood-rice/seafood-rice.webp
   - /chimeraland/recipes/seafood-rice/seafood-rice-name.webp
   - /chimeraland/recipes/seafood-rice/seafood-rice-icon.webp
   - /chimeraland/recipes/seafood-rice/seafood-rice-material.webp
-subtitle: "Recipe Seafood Rice Chimeraland Seafood Rice Cooking Recipe Buff
-  Seafood Rice 660 Fullness 150 CRIT Great Focus recipe "
+thumbnail: /chimeraland/recipes/seafood-rice/seafood-rice.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/seafood-rice/seafood-rice.webp
-title: Recipe Seafood Rice Chimeraland
-type: post
-updated: 2023-08-08T14:44:25+07:00
-wordcount: 798
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

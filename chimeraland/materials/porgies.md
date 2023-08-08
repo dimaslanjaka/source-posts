@@ -1,37 +1,19 @@
 ---
+title: Material Porgies Chimeraland
+date: 2022-01-15T23:56:03+07:00
+updated: 2022-10-07T23:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/porgies.html
+photos:
+  - /chimeraland/materials/porgies/porgies.webp
+thumbnail: /chimeraland/materials/porgies/porgies.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/porgies/porgies.webp
-date: 2022-01-15T23:56:03+07:00
-description: "Material Porgies Chimeraland materials Porgies October 7, 2022
-  11:26 PM A marine fish with an oval shape-body, large head and small mouth. It
-  has continuous dorsal fin with no notches in the middle, and the rear and
-  dorsal fin are in parralled, "
-excerpt: "Material Porgies Chimeraland materials Porgies October 7, 2022 11:26
-  PM A marine fish with an oval shape-body, large head and small mouth. It has
-  continuous dorsal fin with no notches in the middle, and the rear and dorsal
-  fin are in parralled, "
-id: 42e42b8a-e6e3-4888-8d7f-781c044918ef
-lang: en
-permalink: /chimeraland/materials/porgies.html
-photos:
-  - /chimeraland/materials/porgies/porgies.webp
-subtitle: "Material Porgies Chimeraland materials Porgies October 7, 2022 11:26
-  PM A marine fish with an oval shape-body, large head and small mouth. It has
-  continuous dorsal fin with no notches in the middle, and the rear and dorsal
-  fin are in parralled, "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/porgies/porgies.webp
-title: Material Porgies Chimeraland
-type: post
-updated: 2023-08-08T14:44:51+07:00
-wordcount: 871
 ---
 
 <link

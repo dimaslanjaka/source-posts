@@ -1,30 +1,19 @@
 ---
+title: Monster White Fox
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2022-10-03T00:18:27+07:00
 date: 2022-01-11T03:56:03+07:00
-description: Monster White Fox White Fox Information from Chimeraland White Fox
-  default maximum attribute GRADE A NOBLE - LEGENDARY Att
-excerpt: Monster White Fox White Fox Information from Chimeraland White Fox
-  default maximum attribute GRADE A NOBLE - LEGENDARY Att
-id: eaa58385-93d1-4888-8540-ad0388a0a2f2
-lang: en
 permalink: /chimeraland/monsters/white-fox.html
 photos: []
-subtitle: Monster White Fox White Fox Information from Chimeraland White Fox
-  default maximum attribute GRADE A NOBLE - LEGENDARY Att
 tags:
   - chimeraland
   - monster
   - pet
-title: Monster White Fox
-type: post
-updated: 2023-08-08T14:44:31+07:00
-webtitle: chimeraland
-wordcount: 596
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

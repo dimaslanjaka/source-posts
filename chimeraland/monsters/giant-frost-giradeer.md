@@ -1,20 +1,9 @@
 ---
+title: Monster giant frost giradeer
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: /chimeraland/monsters/giant-frost-giradeer/Screenshot_2023-02-22-21-51-24-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-02-25T11:55:43+07:00
 date: 2023-02-25T11:44:43+07:00
-description: Monster giant frost giradeer giant frost giradeer Information from
-  Chimeraland giant frost giradeer default maximum attribute GRADE N/A N/A
-  Attack
-excerpt: Monster giant frost giradeer giant frost giradeer Information from
-  Chimeraland giant frost giradeer default maximum attribute GRADE N/A N/A
-  Attack
-id: 2f11c9de-5b07-4888-8b46-92180ef917b6
-lang: en
 permalink: /chimeraland/monsters/giant-frost-giradeer.html
 photos:
   - /chimeraland/monsters/giant-frost-giradeer/Screenshot_2023-02-22-21-51-24-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -24,19 +13,15 @@ photos:
   - /chimeraland/monsters/giant-frost-giradeer/Screenshot_2023-02-22-21-51-45-90_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-frost-giradeer/Screenshot_2023-02-22-21-51-52-58_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-frost-giradeer/Screenshot_2023-02-22-21-51-57-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: Monster giant frost giradeer giant frost giradeer Information from
-  Chimeraland giant frost giradeer default maximum attribute GRADE N/A N/A
-  Attack
+thumbnail: /chimeraland/monsters/giant-frost-giradeer/Screenshot_2023-02-22-21-51-24-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/giant-frost-giradeer/Screenshot_2023-02-22-21-51-24-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster giant frost giradeer
-type: post
-updated: 2023-08-08T14:44:42+07:00
-webtitle: chimeraland
-wordcount: 1263
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

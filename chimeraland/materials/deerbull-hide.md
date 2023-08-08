@@ -1,34 +1,19 @@
 ---
+title: Material Deerbull Hide Chimeraland
+date: 2022-01-10T07:56:03+07:00
+updated: 2022-10-02T07:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/deerbull-hide.html
+photos:
+  - /chimeraland/materials/deerbull-hide/deerbull-hide.webp
+thumbnail: /chimeraland/materials/deerbull-hide/deerbull-hide.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/deerbull-hide/deerbull-hide.webp
-date: 2022-01-10T07:56:03+07:00
-description: "Material Deerbull Hide Chimeraland materials Deerbull Hide October
-  2, 2022 7:26 AM Continue reading Deerbull Hide What is the use of the Deerbull
-  Hide "
-excerpt: "Material Deerbull Hide Chimeraland materials Deerbull Hide October 2,
-  2022 7:26 AM Continue reading Deerbull Hide What is the use of the Deerbull
-  Hide "
-id: 770a871b-8927-4888-811f-bd5d7b99f152
-lang: en
-permalink: /chimeraland/materials/deerbull-hide.html
-photos:
-  - /chimeraland/materials/deerbull-hide/deerbull-hide.webp
-subtitle: "Material Deerbull Hide Chimeraland materials Deerbull Hide October 2,
-  2022 7:26 AM Continue reading Deerbull Hide What is the use of the Deerbull
-  Hide "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/deerbull-hide/deerbull-hide.webp
-title: Material Deerbull Hide Chimeraland
-type: post
-updated: 2023-08-08T14:44:58+07:00
-wordcount: 1009
 ---
 
 <link

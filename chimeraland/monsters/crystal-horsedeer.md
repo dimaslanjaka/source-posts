@@ -1,20 +1,9 @@
 ---
+title: Monster crystal horsedeer
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: /chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-06-31-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-02-24T23:55:43+07:00
 date: 2023-02-24T23:44:43+07:00
-description: Monster crystal horsedeer crystal horsedeer Information from
-  Chimeraland crystal horsedeer default maximum attribute GRADE N/A N/A Attack
-  N/A
-excerpt: Monster crystal horsedeer crystal horsedeer Information from
-  Chimeraland crystal horsedeer default maximum attribute GRADE N/A N/A Attack
-  N/A
-id: 3c902c8c-0ea6-4888-8bf0-0c16924559ab
-lang: en
 permalink: /chimeraland/monsters/crystal-horsedeer.html
 photos:
   - /chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-06-31-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -24,19 +13,15 @@ photos:
   - /chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-06-47-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-06-54-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-07-10-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: Monster crystal horsedeer crystal horsedeer Information from
-  Chimeraland crystal horsedeer default maximum attribute GRADE N/A N/A Attack
-  N/A
+thumbnail: /chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-06-31-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/crystal-horsedeer/Screenshot_2023-02-23-17-06-31-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster crystal horsedeer
-type: post
-updated: 2023-08-08T14:44:45+07:00
-webtitle: chimeraland
-wordcount: 1156
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

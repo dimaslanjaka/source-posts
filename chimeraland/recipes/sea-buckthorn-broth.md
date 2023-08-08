@@ -1,37 +1,23 @@
 ---
+title: Recipe Sea-Buckthorn Broth Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth.webp
-date: 2022-01-11T08:56:03+07:00
-description: "Recipe Sea-Buckthorn Broth Chimeraland Sea-Buckthorn Broth Cooking
-  Recipe Buff Sea-Buckthorn Broth 300 Fullness Lv 3 Sandstorm Resistance recipe
-  "
-excerpt: "Recipe Sea-Buckthorn Broth Chimeraland Sea-Buckthorn Broth Cooking
-  Recipe Buff Sea-Buckthorn Broth 300 Fullness Lv 3 Sandstorm Resistance recipe
-  "
-id: 28f45c2f-856d-4888-8d0d-42ca6a2f2044
+updated: 2022-10-06T20:46:54+07:00
 lang: en
+date: 2022-01-11T08:56:03+07:00
 permalink: /chimeraland/recipes/sea-buckthorn-broth.html
 photos:
   - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth.webp
   - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-name.webp
   - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-icon.webp
   - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-material.webp
-subtitle: "Recipe Sea-Buckthorn Broth Chimeraland Sea-Buckthorn Broth Cooking
-  Recipe Buff Sea-Buckthorn Broth 300 Fullness Lv 3 Sandstorm Resistance recipe
-  "
+thumbnail: /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth.webp
-title: Recipe Sea-Buckthorn Broth Chimeraland
-type: post
-updated: 2023-08-08T14:44:25+07:00
-wordcount: 695
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

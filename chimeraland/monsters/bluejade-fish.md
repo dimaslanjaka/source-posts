@@ -1,33 +1,21 @@
 ---
+title: Monster BlueJade Fish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=BlueJade Fish
+updated: 2023-05-25T14:52:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster BlueJade Fish BlueJade Fish Information from Chimeraland
-  BlueJade Fish default maximum attribute GRADE Attack "
-excerpt: "Monster BlueJade Fish BlueJade Fish Information from Chimeraland
-  BlueJade Fish default maximum attribute GRADE Attack "
-id: 02602b3a-4cb4-4888-8a86-127ffbfccb39
-lang: en
 permalink: /chimeraland/monsters/bluejade-fish.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=BlueJade Fish
-subtitle: "Monster BlueJade Fish BlueJade Fish Information from Chimeraland
-  BlueJade Fish default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=BlueJade Fish
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=BlueJade Fish
-title: Monster BlueJade Fish
-type: post
-updated: 2023-08-08T14:44:46+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

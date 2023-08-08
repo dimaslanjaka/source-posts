@@ -1,33 +1,21 @@
 ---
+title: Monster Bufonidae
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bufonidae
+updated: 2023-05-25T18:31:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Bufonidae Bufonidae Information from Chimeraland Bufonidae
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Bufonidae Bufonidae Information from Chimeraland Bufonidae
-  default maximum attribute GRADE Attack "
-id: 491e4206-1212-4888-840b-26d9dbd5b431
-lang: en
 permalink: /chimeraland/monsters/bufonidae.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bufonidae
-subtitle: "Monster Bufonidae Bufonidae Information from Chimeraland Bufonidae
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bufonidae
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bufonidae
-title: Monster Bufonidae
-type: post
-updated: 2023-08-08T14:44:46+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

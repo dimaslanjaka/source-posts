@@ -1,24 +1,12 @@
 ---
+title: Monster Ancient Piranha
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ancient Piranha
+updated: 2023-05-25T08:11:12+07:00
 date: 2022-01-06T23:56:03+07:00
-description: "monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF
-  64 Attributes Conversion Rate 4.0,Crit 328,Essence Aspect: Aspect: Endless
-  Stream delicacies/tasty Aromatic Litiger Ball,Flame Roasted Horn,Overlord Hide
-  Jelly Games,chimeraland,monsters chimeraland,monster,pet"
-excerpt: "monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF 64
-  Attributes Conversion Rate 4.0,Crit 328,Essence Aspect: Aspect: Endless Stream
-  delicacies/tasty Aromatic Litiger Ball,Flame Roasted Horn,Overlord Hide Jelly
-  Games,chimeraland,monsters chimeraland,monster,pet"
-id: 9cf71586-cd5f-4888-83f2-442c1e47f3b3
-lang: en
 permalink: /chimeraland/monsters/ancient-piranha.html
 photos:
+  - null
   - /chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-17-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-22-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-26-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -26,21 +14,19 @@ photos:
   - /chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-34-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-39-21_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/ancient-piranha/Screenshot_2022-07-29-00-31-49-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ancient Piranha
-subtitle: "monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF 64
-  Attributes Conversion Rate 4.0,Crit 328,Essence Aspect: Aspect: Endless Stream
-  delicacies/tasty Aromatic Litiger Ball,Flame Roasted Horn,Overlord Hide Jelly
-  Games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ancient Piranha
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ancient Piranha
-title: Monster Ancient Piranha
-type: post
-updated: 2023-08-08T14:44:47+07:00
-webtitle: chimeraland
-wordcount: 1635
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: "monster Ancient Piranha default quality GRADE B ATK 65 HP 66 DEF
+  64 Attributes Conversion Rate 4.0%,Crit 328,Essence Aspect: Aspect: Endless
+  Stream delicacies/tasty Aromatic Litiger Ball,Flame Roasted Horn,Overlord Hide
+  Jelly games,chimeraland,monsters chimeraland,monster,pet"
 ---
 
 <link

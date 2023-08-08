@@ -1,18 +1,9 @@
 ---
+title: Attendant panthakat
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/panthakat/Screenshot_2023-02-04-02-09-04-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-02-09T05:16:58+07:00
 date: 2023-02-09T05:05:58+07:00
-description: "Attendant panthakat panthakat Information from Chimeraland
-  panthakat default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant panthakat panthakat Information from Chimeraland panthakat
-  default maximum attribute GRADE N/A N/A Attack N/A "
-id: 07d77e3c-1fe1-4888-85a5-69d2f4e8e0d1
-lang: en
 permalink: /chimeraland/attendants/panthakat.html
 photos:
   - /chimeraland/attendants/panthakat/Screenshot_2023-02-04-02-09-04-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -21,17 +12,14 @@ photos:
   - /chimeraland/attendants/panthakat/Screenshot_2023-02-04-02-09-33-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/panthakat/Screenshot_2023-02-04-02-09-41-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/panthakat/Screenshot_2023-02-04-02-09-48-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant panthakat panthakat Information from Chimeraland panthakat
-  default maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/panthakat/Screenshot_2023-02-04-02-09-04-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/panthakat/Screenshot_2023-02-04-02-09-04-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant panthakat
-type: post
-updated: 2023-08-08T14:45:05+07:00
-webtitle: chimeraland
-wordcount: 988
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

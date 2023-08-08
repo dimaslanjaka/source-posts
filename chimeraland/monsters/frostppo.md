@@ -1,24 +1,12 @@
 ---
+title: Monster Frostppo
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frostppo
+updated: 2023-05-25T16:34:12+07:00
 date: 2022-11-01T14:00:58+07:00
-description: "monster Frostppo default quality GRADE A ATK 71 HP 72 DEF 68
-  Attributes Conversion Rate 4.0,PvP Damage Reduction 4.8,Essence Aspect:
-  Aspect:Giant Spirit delicacies/tasty Braised Lobcray Meat,Sparrow
-  Beak,Overlord Hide Jelly Games,chimeraland,monsters chimeraland,monster,pet"
-excerpt: "monster Frostppo default quality GRADE A ATK 71 HP 72 DEF 68
-  Attributes Conversion Rate 4.0,PvP Damage Reduction 4.8,Essence Aspect:
-  Aspect:Giant Spirit delicacies/tasty Braised Lobcray Meat,Sparrow
-  Beak,Overlord Hide Jelly Games,chimeraland,monsters chimeraland,monster,pet"
-id: 050120f2-6efb-4888-86a7-a61a6b533fcf
-lang: en
 permalink: /chimeraland/monsters/frostppo.html
 photos:
+  - null
   - /chimeraland/monsters/frostppo/Screenshot_2022-11-01-12-43-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/frostppo/Screenshot_2022-11-01-12-43-42-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/frostppo/Screenshot_2022-11-01-12-43-49-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -27,21 +15,19 @@ photos:
   - /chimeraland/monsters/frostppo/Screenshot_2022-11-01-12-44-11-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/frostppo/Screenshot_2022-11-01-12-44-15-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/frostppo/Screenshot_2022-11-01-12-44-20-38_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frostppo
-subtitle: "monster Frostppo default quality GRADE A ATK 71 HP 72 DEF 68
-  Attributes Conversion Rate 4.0,PvP Damage Reduction 4.8,Essence Aspect:
-  Aspect:Giant Spirit delicacies/tasty Braised Lobcray Meat,Sparrow
-  Beak,Overlord Hide Jelly Games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frostppo
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frostppo
-title: Monster Frostppo
-type: post
-updated: 2023-08-08T14:44:43+07:00
-webtitle: chimeraland
-wordcount: 1599
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: "monster Frostppo default quality GRADE A ATK 71 HP 72 DEF 68
+  Attributes Conversion Rate 4.0%,PvP Damage Reduction 4.8%,Essence Aspect:
+  Aspect: Giant Spirit delicacies/tasty Braised Lobcray Meat,Sparrow
+  Beak,Overlord Hide Jelly games,chimeraland,monsters chimeraland,monster,pet"
 ---
 
 <link

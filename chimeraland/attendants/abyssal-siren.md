@@ -1,18 +1,9 @@
 ---
+title: Attendant abyssal siren
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-30-58-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-05-23T11:14:26+07:00
 date: 2023-05-23T11:03:26+07:00
-description: "Attendant abyssal siren abyssal siren Information from Chimeraland
-  abyssal siren default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant abyssal siren abyssal siren Information from Chimeraland
-  abyssal siren default maximum attribute GRADE N/A N/A Attack N/A "
-id: a0b57374-5736-4888-8196-2277d47f0dff
-lang: en
 permalink: /chimeraland/attendants/abyssal-siren.html
 photos:
   - /chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-30-58-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -23,17 +14,14 @@ photos:
   - /chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-31-21-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-31-26-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-31-30-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant abyssal siren abyssal siren Information from Chimeraland
-  abyssal siren default maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-30-58-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/abyssal-siren/Screenshot_2023-05-21-23-30-58-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant abyssal siren
-type: post
-updated: 2023-08-08T14:45:07+07:00
-webtitle: chimeraland
-wordcount: 1237
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

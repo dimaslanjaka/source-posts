@@ -1,33 +1,21 @@
 ---
+title: Monster Chimp
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Chimp
+updated: 2023-05-25T09:17:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Chimp Chimp Information from Chimeraland Chimp default
-  maximum attribute GRADE Attack "
-excerpt: "Monster Chimp Chimp Information from Chimeraland Chimp default maximum
-  attribute GRADE Attack "
-id: 3aaebb79-3098-4888-8bc2-83950966b9c7
-lang: en
 permalink: /chimeraland/monsters/chimp.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Chimp
-subtitle: "Monster Chimp Chimp Information from Chimeraland Chimp default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Chimp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Chimp
-title: Monster Chimp
-type: post
-updated: 2023-08-08T14:44:45+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

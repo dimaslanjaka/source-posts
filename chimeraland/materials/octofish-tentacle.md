@@ -1,34 +1,19 @@
 ---
+title: Material Octofish Tentacle Chimeraland
+date: 2022-01-11T16:56:03+07:00
+updated: 2022-10-03T16:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/octofish-tentacle.html
+photos:
+  - /chimeraland/materials/octofish-tentacle/octofish-tentacle.webp
+thumbnail: /chimeraland/materials/octofish-tentacle/octofish-tentacle.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/octofish-tentacle/octofish-tentacle.webp
-date: 2022-01-11T16:56:03+07:00
-description: "Material Octofish Tentacle Chimeraland materials Octofish Tentacle
-  October 3, 2022 4:26 PM The legs of the Octofish are flexible and strong.
-  Continue reading Octofish Tentacle "
-excerpt: "Material Octofish Tentacle Chimeraland materials Octofish Tentacle
-  October 3, 2022 4:26 PM The legs of the Octofish are flexible and strong.
-  Continue reading Octofish Tentacle "
-id: f372eeec-288c-4888-8529-c79d8e0108fd
-lang: en
-permalink: /chimeraland/materials/octofish-tentacle.html
-photos:
-  - /chimeraland/materials/octofish-tentacle/octofish-tentacle.webp
-subtitle: "Material Octofish Tentacle Chimeraland materials Octofish Tentacle
-  October 3, 2022 4:26 PM The legs of the Octofish are flexible and strong.
-  Continue reading Octofish Tentacle "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/octofish-tentacle/octofish-tentacle.webp
-title: Material Octofish Tentacle Chimeraland
-type: post
-updated: 2023-08-08T14:44:52+07:00
-wordcount: 846
 ---
 
 <link

@@ -1,34 +1,19 @@
 ---
+title: Material Strange Beast Tendon Chimeraland
+date: 2022-01-09T05:56:03+07:00
+updated: 2022-10-01T05:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/strange-beast-tendon.html
+photos:
+  - /chimeraland/materials/strange-beast-tendon/strange-beast-tendon.webp
+thumbnail: /chimeraland/materials/strange-beast-tendon/strange-beast-tendon.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/strange-beast-tendon/strange-beast-tendon.webp
-date: 2022-01-09T05:56:03+07:00
-description: "Material Strange Beast Tendon Chimeraland materials Strange Beast
-  Tendon October 1, 2022 5:26 AM Continue reading Strange Beast Tendon What is
-  the use of the Strange Beast Tendon "
-excerpt: "Material Strange Beast Tendon Chimeraland materials Strange Beast
-  Tendon October 1, 2022 5:26 AM Continue reading Strange Beast Tendon What is
-  the use of the Strange Beast Tendon "
-id: 89d210f6-f718-4888-8525-27be87883d37
-lang: en
-permalink: /chimeraland/materials/strange-beast-tendon.html
-photos:
-  - /chimeraland/materials/strange-beast-tendon/strange-beast-tendon.webp
-subtitle: "Material Strange Beast Tendon Chimeraland materials Strange Beast
-  Tendon October 1, 2022 5:26 AM Continue reading Strange Beast Tendon What is
-  the use of the Strange Beast Tendon "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/strange-beast-tendon/strange-beast-tendon.webp
-title: Material Strange Beast Tendon Chimeraland
-type: post
-updated: 2023-08-08T14:44:49+07:00
-wordcount: 1173
 ---
 
 <link

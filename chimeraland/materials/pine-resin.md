@@ -1,34 +1,19 @@
 ---
+title: Material Pine Resin Chimeraland
+date: 2022-01-14T07:56:03+07:00
+updated: 2022-10-06T07:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/pine-resin.html
+photos:
+  - /chimeraland/materials/pine-resin/pine-resin.webp
+thumbnail: /chimeraland/materials/pine-resin/pine-resin.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-cover: /chimeraland/materials/pine-resin/pine-resin.webp
-date: 2022-01-14T07:56:03+07:00
-description: "Material Pine Resin Chimeraland materials Pine Resin October 6,
-  2022 7:26 AM Tree secretion. Oozing, glistening, and rather pungent. Continue
-  reading Pine Resin What is "
-excerpt: "Material Pine Resin Chimeraland materials Pine Resin October 6, 2022
-  7:26 AM Tree secretion. Oozing, glistening, and rather pungent. Continue
-  reading Pine Resin What is "
-id: 2db4e1d6-9900-4888-8a0d-77ff3903db83
-lang: en
-permalink: /chimeraland/materials/pine-resin.html
-photos:
-  - /chimeraland/materials/pine-resin/pine-resin.webp
-subtitle: "Material Pine Resin Chimeraland materials Pine Resin October 6, 2022
-  7:26 AM Tree secretion. Oozing, glistening, and rather pungent. Continue
-  reading Pine Resin What is "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/pine-resin/pine-resin.webp
-title: Material Pine Resin Chimeraland
-type: post
-updated: 2023-08-08T14:44:52+07:00
-wordcount: 1062
 ---
 
 <link

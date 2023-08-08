@@ -1,34 +1,23 @@
 ---
+title: Recipe Grilled Fish Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/grilled-fish/grilled-fish.webp
-date: 2022-01-09T12:56:03+07:00
-description: "Recipe Grilled Fish Chimeraland Grilled Fish Cooking Recipe Buff
-  Grilled Fish 420 Fullness Strenghten Underwater Effect recipe "
-excerpt: "Recipe Grilled Fish Chimeraland Grilled Fish Cooking Recipe Buff
-  Grilled Fish 420 Fullness Strenghten Underwater Effect recipe "
-id: 21f1b125-225d-4888-8632-df9aca375430
+updated: 2022-10-06T02:46:54+07:00
 lang: en
+date: 2022-01-09T12:56:03+07:00
 permalink: /chimeraland/recipes/grilled-fish.html
 photos:
   - /chimeraland/recipes/grilled-fish/grilled-fish.webp
   - /chimeraland/recipes/grilled-fish/grilled-fish-name.webp
   - /chimeraland/recipes/grilled-fish/grilled-fish-icon.webp
   - /chimeraland/recipes/grilled-fish/grilled-fish-material.webp
-subtitle: "Recipe Grilled Fish Chimeraland Grilled Fish Cooking Recipe Buff
-  Grilled Fish 420 Fullness Strenghten Underwater Effect recipe "
+thumbnail: /chimeraland/recipes/grilled-fish/grilled-fish.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/grilled-fish/grilled-fish.webp
-title: Recipe Grilled Fish Chimeraland
-type: post
-updated: 2023-08-08T14:44:27+07:00
-wordcount: 737
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

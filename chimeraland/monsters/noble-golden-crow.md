@@ -1,36 +1,21 @@
 ---
+title: Monster Noble Golden Crow
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: /chimeraland/monsters/noble-golden-crow/noble-golden-crow.webp
+updated: 2022-10-03T11:18:27+07:00
 date: 2022-01-11T11:56:03+07:00
-description: "Monster Noble Golden Crow Noble Golden Crow Information from
-  Chimeraland Noble Golden Crow default maximum attribute GRADE A NOBLE -
-  LEGENDARY "
-excerpt: "Monster Noble Golden Crow Noble Golden Crow Information from
-  Chimeraland Noble Golden Crow default maximum attribute GRADE A NOBLE -
-  LEGENDARY "
-id: a5fcec67-91c9-4888-89a7-773de188e186
-lang: en
 permalink: /chimeraland/monsters/noble-golden-crow.html
 photos:
   - /chimeraland/monsters/noble-golden-crow/noble-golden-crow.webp
-subtitle: "Monster Noble Golden Crow Noble Golden Crow Information from
-  Chimeraland Noble Golden Crow default maximum attribute GRADE A NOBLE -
-  LEGENDARY "
+thumbnail: /chimeraland/monsters/noble-golden-crow/noble-golden-crow.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/noble-golden-crow/noble-golden-crow.webp
-title: Monster Noble Golden Crow
-type: post
-updated: 2023-08-08T14:44:36+07:00
-webtitle: chimeraland
-wordcount: 757
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

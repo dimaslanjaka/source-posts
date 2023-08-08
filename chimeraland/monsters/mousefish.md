@@ -1,33 +1,21 @@
 ---
+title: Monster Mousefish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mousefish
+updated: 2023-05-25T08:55:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Mousefish Mousefish Information from Chimeraland Mousefish
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Mousefish Mousefish Information from Chimeraland Mousefish
-  default maximum attribute GRADE Attack "
-id: 7c3a619a-8a2e-4888-8a37-145058d75ebf
-lang: en
 permalink: /chimeraland/monsters/mousefish.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mousefish
-subtitle: "Monster Mousefish Mousefish Information from Chimeraland Mousefish
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mousefish
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mousefish
-title: Monster Mousefish
-type: post
-updated: 2023-08-08T14:44:37+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

@@ -1,33 +1,21 @@
 ---
+title: Monster Parasaurus
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Parasaurus
+updated: 2023-05-25T17:12:12+07:00
 date: 2022-01-09T06:56:03+07:00
-description: "Monster Parasaurus Parasaurus Information from Chimeraland
-  Parasaurus default maximum attribute GRADE B GRAND - EPIC Attack 62 "
-excerpt: "Monster Parasaurus Parasaurus Information from Chimeraland Parasaurus
-  default maximum attribute GRADE B GRAND - EPIC Attack 62 "
-id: 3ac5253d-7710-4888-8ecc-f769921c8d7b
-lang: en
 permalink: /chimeraland/monsters/parasaurus.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Parasaurus
-subtitle: "Monster Parasaurus Parasaurus Information from Chimeraland Parasaurus
-  default maximum attribute GRADE B GRAND - EPIC Attack 62 "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Parasaurus
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Parasaurus
-title: Monster Parasaurus
-type: post
-updated: 2023-08-08T14:44:36+07:00
-webtitle: chimeraland
-wordcount: 659
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

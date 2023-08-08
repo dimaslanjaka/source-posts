@@ -1,33 +1,21 @@
 ---
+title: Monster Muddled Catfish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Muddled Catfish
+updated: 2023-05-25T04:27:12+07:00
 date: 2022-01-09T12:56:03+07:00
-description: "Monster Muddled Catfish Muddled Catfish Information from
-  Chimeraland Muddled Catfish default maximum attribute GRADE C RARE Attack 45 "
-excerpt: "Monster Muddled Catfish Muddled Catfish Information from Chimeraland
-  Muddled Catfish default maximum attribute GRADE C RARE Attack 45 "
-id: 05a9cd92-dca4-4888-8503-250a9abdbc17
-lang: en
 permalink: /chimeraland/monsters/muddled-catfish.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Muddled Catfish
-subtitle: "Monster Muddled Catfish Muddled Catfish Information from Chimeraland
-  Muddled Catfish default maximum attribute GRADE C RARE Attack 45 "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Muddled Catfish
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Muddled Catfish
-title: Monster Muddled Catfish
-type: post
-updated: 2023-08-08T14:44:37+07:00
-webtitle: chimeraland
-wordcount: 670
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

@@ -1,30 +1,19 @@
 ---
+title: Monster Chimera
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2022-09-29T11:18:27+07:00
 date: 2022-01-07T10:56:03+07:00
-description: "Monster Chimera Chimera Information from Chimeraland Chimera
-  default maximum attribute GRADE A NOBLE - LEGENDARY Attack "
-excerpt: "Monster Chimera Chimera Information from Chimeraland Chimera default
-  maximum attribute GRADE A NOBLE - LEGENDARY Attack "
-id: b7deaf4e-a58f-4888-8e2c-2cc7299a31e1
-lang: en
 permalink: /chimeraland/monsters/chimera.html
 photos: []
-subtitle: "Monster Chimera Chimera Information from Chimeraland Chimera default
-  maximum attribute GRADE A NOBLE - LEGENDARY Attack "
 tags:
   - chimeraland
   - monster
   - pet
-title: Monster Chimera
-type: post
-updated: 2023-08-08T14:44:45+07:00
-webtitle: chimeraland
-wordcount: 575
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

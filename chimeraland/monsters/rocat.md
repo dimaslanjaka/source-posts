@@ -1,33 +1,21 @@
 ---
+title: Monster Rocat
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rocat
+updated: 2023-05-25T05:00:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Rocat Rocat Information from Chimeraland Rocat default
-  maximum attribute GRADE Attack "
-excerpt: "Monster Rocat Rocat Information from Chimeraland Rocat default maximum
-  attribute GRADE Attack "
-id: 97054e72-faba-4888-8fc8-d3a06e608a05
-lang: en
 permalink: /chimeraland/monsters/rocat.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rocat
-subtitle: "Monster Rocat Rocat Information from Chimeraland Rocat default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rocat
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Rocat
-title: Monster Rocat
-type: post
-updated: 2023-08-08T14:44:35+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

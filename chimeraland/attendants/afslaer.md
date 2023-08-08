@@ -1,18 +1,9 @@
 ---
+title: Attendant afslaer
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-12-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2023-03-10T19:30:17+07:00
 date: 2023-03-10T19:19:17+07:00
-description: "Attendant afslaer afslaer Information from Chimeraland afslaer
-  default maximum attribute GRADE N/A N/A Attack N/A "
-excerpt: "Attendant afslaer afslaer Information from Chimeraland afslaer default
-  maximum attribute GRADE N/A N/A Attack N/A "
-id: 9c46010f-e6c4-4888-870f-d01a4a9a0e97
-lang: en
 permalink: /chimeraland/attendants/afslaer.html
 photos:
   - /chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-12-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -23,17 +14,14 @@ photos:
   - /chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-32-56_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-54-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant afslaer afslaer Information from Chimeraland afslaer
-  default maximum attribute GRADE N/A N/A Attack N/A "
+thumbnail: /chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-12-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-12-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant afslaer
-type: post
-updated: 2023-08-08T14:45:07+07:00
-webtitle: chimeraland
-wordcount: 1130
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

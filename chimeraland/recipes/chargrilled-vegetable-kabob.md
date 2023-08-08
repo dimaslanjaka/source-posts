@@ -1,35 +1,23 @@
 ---
+title: Recipe Chargrilled Vegetable Kabob Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob.webp
-date: 2022-01-07T19:56:03+07:00
-description: "Recipe Chargrilled Vegetable Kabob Chimeraland Chargrilled
-  Vegetable Kabob Cooking Recipe Buff Chargrilled Vegetable Kabob 180 Fullness
-  recipe "
-excerpt: "Recipe Chargrilled Vegetable Kabob Chimeraland Chargrilled Vegetable
-  Kabob Cooking Recipe Buff Chargrilled Vegetable Kabob 180 Fullness recipe "
-id: 71ba7408-a1c0-4888-89e0-6278845c65f9
+updated: 2022-10-06T00:46:53+07:00
 lang: en
+date: 2022-01-07T19:56:03+07:00
 permalink: /chimeraland/recipes/chargrilled-vegetable-kabob.html
 photos:
   - /chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob.webp
   - /chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob-name.webp
   - /chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob-icon.webp
   - /chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob-material.webp
-subtitle: "Recipe Chargrilled Vegetable Kabob Chimeraland Chargrilled Vegetable
-  Kabob Cooking Recipe Buff Chargrilled Vegetable Kabob 180 Fullness recipe "
+thumbnail: /chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/chargrilled-vegetable-kabob/chargrilled-vegetable-kabob.webp
-title: Recipe Chargrilled Vegetable Kabob Chimeraland
-type: post
-updated: 2023-08-08T14:44:29+07:00
-wordcount: 1406
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

@@ -1,33 +1,21 @@
 ---
+title: Monster Blushpuff
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Blushpuff
+updated: 2023-05-25T15:24:12+07:00
 date: 2022-01-07T01:56:03+07:00
-description: "Monster Blushpuff Blushpuff Information from Chimeraland Blushpuff
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Blushpuff Blushpuff Information from Chimeraland Blushpuff
-  default maximum attribute GRADE Attack "
-id: c1b2d732-75ae-4888-8e1c-7636302e155e
-lang: en
 permalink: /chimeraland/monsters/blushpuff.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Blushpuff
-subtitle: "Monster Blushpuff Blushpuff Information from Chimeraland Blushpuff
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Blushpuff
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Blushpuff
-title: Monster Blushpuff
-type: post
-updated: 2023-08-08T14:44:46+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

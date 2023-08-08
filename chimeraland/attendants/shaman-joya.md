@@ -1,18 +1,9 @@
 ---
+title: Attendant Shaman Joya
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
-cover: /chimeraland/attendants/shaman-joya/Screenshot_2022-07-26-01-05-16-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2022-09-29T01:26:37+07:00
 date: 2022-01-07T11:56:03+07:00
-description: "Attendant Shaman Joya Shaman Joya Information from Chimeraland
-  Shaman Joya default maximum attribute GRADE Attack "
-excerpt: "Attendant Shaman Joya Shaman Joya Information from Chimeraland Shaman
-  Joya default maximum attribute GRADE Attack "
-id: 167bae36-5f99-4888-8567-813ebc8b23e1
-lang: en
 permalink: /chimeraland/attendants/shaman-joya.html
 photos:
   - /chimeraland/attendants/shaman-joya/Screenshot_2022-07-26-01-05-16-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -21,17 +12,14 @@ photos:
   - /chimeraland/attendants/shaman-joya/Screenshot_2022-07-26-01-05-30-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-joya/Screenshot_2022-07-26-01-05-34-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-joya/Screenshot_2022-07-26-01-05-39-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant Shaman Joya Shaman Joya Information from Chimeraland Shaman
-  Joya default maximum attribute GRADE Attack "
+thumbnail: /chimeraland/attendants/shaman-joya/Screenshot_2022-07-26-01-05-16-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
-  - attendant
-thumbnail: /chimeraland/attendants/shaman-joya/Screenshot_2022-07-26-01-05-16-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant Shaman Joya
-type: post
-updated: 2023-08-08T14:45:03+07:00
-webtitle: chimeraland
-wordcount: 1063
+  - Attendant
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

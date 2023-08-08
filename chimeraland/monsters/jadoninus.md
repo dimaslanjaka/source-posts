@@ -1,33 +1,21 @@
 ---
+title: Monster Jadoninus
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Jadoninus
+updated: 2023-05-25T07:42:12+07:00
 date: 2023-05-25T02:02:42+07:00
-description: "Monster Jadoninus Jadoninus Information from Chimeraland Jadoninus
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Jadoninus Jadoninus Information from Chimeraland Jadoninus
-  default maximum attribute GRADE Attack "
-id: 958b86f3-d8af-4888-85cf-4219b2d3dc7a
-lang: en
 permalink: /chimeraland/monsters/jadoninus.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Jadoninus
-subtitle: "Monster Jadoninus Jadoninus Information from Chimeraland Jadoninus
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Jadoninus
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Jadoninus
-title: Monster Jadoninus
-type: post
-updated: 2023-08-08T14:44:38+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

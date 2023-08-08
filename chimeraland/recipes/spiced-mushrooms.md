@@ -1,35 +1,23 @@
 ---
+title: Recipe Spiced Mushrooms Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms.webp
-date: 2022-01-11T22:56:03+07:00
-description: "Recipe Spiced Mushrooms Chimeraland Spiced Mushrooms Cooking
-  Recipe Buff Spiced Mushrooms 300 Fullness -50 Humidity decreased over time
-  recipe "
-excerpt: "Recipe Spiced Mushrooms Chimeraland Spiced Mushrooms Cooking Recipe
-  Buff Spiced Mushrooms 300 Fullness -50 Humidity decreased over time recipe "
-id: 2189aab4-916f-4888-8bce-439347ec3ea0
+updated: 2022-10-06T13:46:55+07:00
 lang: en
+date: 2022-01-11T22:56:03+07:00
 permalink: /chimeraland/recipes/spiced-mushrooms.html
 photos:
   - /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms.webp
   - /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms-name.webp
   - /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms-icon.webp
   - /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms-material.webp
-subtitle: "Recipe Spiced Mushrooms Chimeraland Spiced Mushrooms Cooking Recipe
-  Buff Spiced Mushrooms 300 Fullness -50 Humidity decreased over time recipe "
+thumbnail: /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms.webp
-title: Recipe Spiced Mushrooms Chimeraland
-type: post
-updated: 2023-08-08T14:44:24+07:00
-wordcount: 636
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

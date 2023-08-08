@@ -1,33 +1,21 @@
 ---
+title: Monster Stingray
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stingray
+updated: 2023-05-25T19:11:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Stingray Stingray Information from Chimeraland Stingray
-  default maximum attribute GRADE Attack "
-excerpt: "Monster Stingray Stingray Information from Chimeraland Stingray
-  default maximum attribute GRADE Attack "
-id: 536ba597-1ffd-4888-8006-5551217e740f
-lang: en
 permalink: /chimeraland/monsters/stingray.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stingray
-subtitle: "Monster Stingray Stingray Information from Chimeraland Stingray
-  default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stingray
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stingray
-title: Monster Stingray
-type: post
-updated: 2023-08-08T14:44:32+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

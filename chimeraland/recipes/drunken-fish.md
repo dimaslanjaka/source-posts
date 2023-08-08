@@ -1,34 +1,23 @@
 ---
+title: Recipe Drunken Fish Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/drunken-fish/drunken-fish.webp
-date: 2022-01-08T06:56:03+07:00
-description: Recipe Drunken Fish Chimeraland Drunken Fish Cooking Recipe Buff
-  Drunken Fish 300 Fullness 30 CRIT recipe webmanajem
-excerpt: Recipe Drunken Fish Chimeraland Drunken Fish Cooking Recipe Buff
-  Drunken Fish 300 Fullness 30 CRIT recipe webmanajem
-id: f7b28751-297e-4888-81b7-adecf8695f1b
+updated: 2022-09-29T05:26:37+07:00
 lang: en
+date: 2022-01-08T06:56:03+07:00
 permalink: /chimeraland/recipes/drunken-fish.html
 photos:
   - /chimeraland/recipes/drunken-fish/drunken-fish.webp
   - /chimeraland/recipes/drunken-fish/drunken-fish-name.webp
   - /chimeraland/recipes/drunken-fish/drunken-fish-icon.webp
   - /chimeraland/recipes/drunken-fish/drunken-fish-material.webp
-subtitle: Recipe Drunken Fish Chimeraland Drunken Fish Cooking Recipe Buff
-  Drunken Fish 300 Fullness 30 CRIT recipe webmanajem
+thumbnail: /chimeraland/recipes/drunken-fish/drunken-fish.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/drunken-fish/drunken-fish.webp
-title: Recipe Drunken Fish Chimeraland
-type: post
-updated: 2023-08-08T14:44:29+07:00
-wordcount: 679
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

@@ -1,33 +1,21 @@
 ---
+title: Monster Scale Batolf
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Scale Batolf
+updated: 2023-05-25T10:11:12+07:00
 date: 2023-05-25T02:02:42+07:00
-description: "Monster Scale Batolf Scale Batolf Information from Chimeraland
-  Scale Batolf default maximum attribute GRADE Attack "
-excerpt: "Monster Scale Batolf Scale Batolf Information from Chimeraland Scale
-  Batolf default maximum attribute GRADE Attack "
-id: c47b7cf3-370a-4888-8439-57a9b3e26c56
-lang: en
 permalink: /chimeraland/monsters/scale-batolf.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Scale Batolf
-subtitle: "Monster Scale Batolf Scale Batolf Information from Chimeraland Scale
-  Batolf default maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Scale Batolf
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Scale Batolf
-title: Monster Scale Batolf
-type: post
-updated: 2023-08-08T14:44:34+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

@@ -1,34 +1,23 @@
 ---
+title: Recipe Wormy Soup Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-cover: /chimeraland/recipes/wormy-soup/wormy-soup.webp
-date: 2022-01-13T12:56:03+07:00
-description: "Recipe Wormy Soup Chimeraland Wormy Soup Cooking Recipe Buff Wormy
-  Soup 240 Fullness recipe webmanajemen.com - recipe Wormy Soup "
-excerpt: "Recipe Wormy Soup Chimeraland Wormy Soup Cooking Recipe Buff Wormy
-  Soup 240 Fullness recipe webmanajemen.com - recipe Wormy Soup "
-id: b28d9cc2-c9c3-4888-8288-49419dd77f9d
+updated: 2022-10-06T22:46:55+07:00
 lang: en
+date: 2022-01-13T12:56:03+07:00
 permalink: /chimeraland/recipes/wormy-soup.html
 photos:
   - /chimeraland/recipes/wormy-soup/wormy-soup.webp
   - /chimeraland/recipes/wormy-soup/wormy-soup-name.webp
   - /chimeraland/recipes/wormy-soup/wormy-soup-icon.webp
   - /chimeraland/recipes/wormy-soup/wormy-soup-material.webp
-subtitle: "Recipe Wormy Soup Chimeraland Wormy Soup Cooking Recipe Buff Wormy
-  Soup 240 Fullness recipe webmanajemen.com - recipe Wormy Soup "
+thumbnail: /chimeraland/recipes/wormy-soup/wormy-soup.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/wormy-soup/wormy-soup.webp
-title: Recipe Wormy Soup Chimeraland
-type: post
-updated: 2023-08-08T14:44:23+07:00
-wordcount: 625
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

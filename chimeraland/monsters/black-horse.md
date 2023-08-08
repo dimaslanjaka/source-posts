@@ -1,18 +1,9 @@
 ---
+title: Monster Black Horse
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: /chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-08-56-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
+updated: 2022-09-29T12:18:27+07:00
 date: 2022-01-07T13:56:03+07:00
-description: "Monster Black Horse Black Horse Information from Chimeraland Black
-  Horse default maximum attribute GRADE C RARE Attack 50 "
-excerpt: "Monster Black Horse Black Horse Information from Chimeraland Black
-  Horse default maximum attribute GRADE C RARE Attack 50 "
-id: c15f47ba-3d67-4888-89c7-747772bd1191
-lang: en
 permalink: /chimeraland/monsters/black-horse.html
 photos:
   - /chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-08-56-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -22,18 +13,15 @@ photos:
   - /chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-09-15-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-09-19-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-09-24-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster Black Horse Black Horse Information from Chimeraland Black
-  Horse default maximum attribute GRADE C RARE Attack 50 "
+thumbnail: /chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-08-56-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-08-56-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster Black Horse
-type: post
-updated: 2023-08-08T14:44:47+07:00
-webtitle: chimeraland
-wordcount: 1156
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

@@ -1,33 +1,21 @@
 ---
+title: Monster Icebug
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Icebug
+updated: 2023-05-25T10:50:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Icebug Icebug Information from Chimeraland Icebug default
-  maximum attribute GRADE Attack "
-excerpt: "Monster Icebug Icebug Information from Chimeraland Icebug default
-  maximum attribute GRADE Attack "
-id: 1f982390-a82a-4888-820c-0c590f341bd1
-lang: en
 permalink: /chimeraland/monsters/icebug.html
 photos:
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Icebug
-subtitle: "Monster Icebug Icebug Information from Chimeraland Icebug default
-  maximum attribute GRADE Attack "
+  - null
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Icebug
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Icebug
-title: Monster Icebug
-type: post
-updated: 2023-08-08T14:44:38+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

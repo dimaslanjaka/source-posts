@@ -1,24 +1,12 @@
 ---
+title: Monster Frost Batolf
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
-cover: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Batolf
+updated: 2023-05-25T16:41:12+07:00
 date: 2022-01-08T09:56:03+07:00
-description: "monster Frost Batolf default quality GRADE A ATK 71 HP 72 DEF 68
-  Attributes Conversion Rate 4.0,Ranged Dmg 4.8,Essence Aspect: Aspect:Frostide
-  delicacies/tasty Spicy Fish Mutton Soup,Moddly Wings Topped Rice,Steamed Sweet
-  Sour Icebug Games,chimeraland,monsters chimeraland,monster,pet"
-excerpt: "monster Frost Batolf default quality GRADE A ATK 71 HP 72 DEF 68
-  Attributes Conversion Rate 4.0,Ranged Dmg 4.8,Essence Aspect: Aspect:Frostide
-  delicacies/tasty Spicy Fish Mutton Soup,Moddly Wings Topped Rice,Steamed Sweet
-  Sour Icebug Games,chimeraland,monsters chimeraland,monster,pet"
-id: 2b125d8e-6225-4888-8ed7-cac421871135
-lang: en
 permalink: /chimeraland/monsters/frost-batolf.html
 photos:
+  - null
   - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-37-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-42-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-17-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -27,21 +15,20 @@ photos:
   - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-02-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-06-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-10-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
-  - https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Batolf
-subtitle: "monster Frost Batolf default quality GRADE A ATK 71 HP 72 DEF 68
-  Attributes Conversion Rate 4.0,Ranged Dmg 4.8,Essence Aspect: Aspect:Frostide
-  delicacies/tasty Spicy Fish Mutton Soup,Moddly Wings Topped Rice,Steamed Sweet
-  Sour Icebug Games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Batolf
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Batolf
-title: Monster Frost Batolf
-type: post
-updated: 2023-08-08T14:44:43+07:00
-webtitle: chimeraland
-wordcount: 1860
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: "monster Frost Batolf default quality GRADE A ATK 71 HP 72 DEF 68
+  Attributes Conversion Rate 4.0%,Ranged Dmg +4.8%,Essence Aspect:
+  Aspect: Frostide delicacies/tasty Spicy Fish & Mutton Soup,Moddly Wings Topped
+  Rice,Steamed Sweet & Sour Icebug games,chimeraland,monsters
+  chimeraland,monster,pet"
 ---
 
 <link
