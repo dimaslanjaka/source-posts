@@ -1,7 +1,7 @@
 ---
 title: Scenic Spot Locations
 webtitle: chimeraland
-permalink: /chimeraland/scenic-spots/
+permalink: /chimeraland/scenic-spots/index.html
 tags:
   - chimeraland
   - scenic-spot
