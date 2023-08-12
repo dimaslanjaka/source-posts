@@ -23,13 +23,13 @@ All in one recipes
 
 ![All about totem in chimeraland](https://via.placeholder.com/700x500/FFFFFF/000000/?text=All+about+totem+in+chimeraland)
 
-## [Chimeraland Unofficial Wikipedia](/chimeraland/index.html)
-
-![Chimeraland Unofficial Wikipedia](https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_1.jpg)
-
 ## [Senjo craft lists](/chimeraland/senjo.html)
 
 ![Senjo craft lists](https://via.placeholder.com/700x500/FFFFFF/000000/?text=Senjo+craft+lists)
+
+## [Chimeraland Unofficial Wikipedia](/chimeraland/index.html)
+
+![Chimeraland Unofficial Wikipedia](https://www.levelinfinite.com/wp-content/uploads/2022/05/chimeraland_1.jpg)
 
 ## [Index Chimeraland](/chimeraland/index2.html)
 
