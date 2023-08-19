@@ -1,8 +1,9 @@
 ---
 author: Dimas Lanjaka
 categories:
-  - adsense
   - programming
+  - js
+  - html
 comments: true
 cover: https://1.bp.blogspot.com/-JB0hsyji7wo/XR0Sq_evvpI/AAAAAAAATlo/afDSTs1Y-HcrcDANMV9fGrGwZUU37o31wCLcBGAs/w600/Cara-Memasang-Lazy-Load-Iklan-Adsense.png
 date: 2022-05-10T23:20:16+0000
@@ -18,10 +19,11 @@ tags:
   - html
   - blogger
   - wordpress
+  - adsense
 thumbnail: https://1.bp.blogspot.com/-JB0hsyji7wo/XR0Sq_evvpI/AAAAAAAATlo/afDSTs1Y-HcrcDANMV9fGrGwZUU37o31wCLcBGAs/w600/Cara-Memasang-Lazy-Load-Iklan-Adsense.png
 title: Lazy Load Adsense Full Support 2022 Adsense API
 type: post
-updated: 2023-08-08T14:45:09+07:00
+updated: 2023-08-19T22:02:43+07:00
 wordcount: 586
 ---
 
@@ -71,10 +73,12 @@ var lazyloadads=!1;window.addEventListener("scroll",function(){var o=0!=document
 ```
 
 ## Usages
+
 just put `<ins/>` tag adsense
 ```html
 <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-1165447249910969" data-ad-slot="8307991972"></ins>
 ```
+
 full example
 ```html
 <section class="mb-5">
