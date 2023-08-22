@@ -33,34 +33,34 @@ I ended up using `git-filter-repo` . **WARNING: This approach is NOT able to upd
 
 1.  Install `git-filter-repo` .
     
-                    `brew install git-filter-repo`
+`brew install git-filter-repo`
     
 2.  Clone your desired repo, in mirror form.
     
-                    `git clone --mirror <my-repo-url>`
+`git clone --mirror <my-repo-url>`
     
 3.  Enter the repo directory.
     
-                    `cd <my-repo-name>`
+`cd <my-repo-name>`
     
 4.  Analyze the repo to identify all files that are in the history, but no longer exist.
     
-                    `git filter-repo --analyze`
+`git filter-repo --analyze`
     
 5.  In the `analysis` output directory, there will be a file named `path-deleted-sizes.txt` that contains a list all files that were committed at some point, and were later deleted, but still exist in the git history.
     
     Create a new file that lacks the headers and other columns.
     
-                    `tail +3 ./filter-repo/analysis/path-deleted-sizes.txt \     | tr -s ' ' \     | cut -d ' ' -f 5- \     > ./filter-repo/analysis/path-deleted.txt`
+`tail +3 ./filter-repo/analysis/path-deleted-sizes.txt | tr -s ' ' | cut -d ' ' -f 5- > ./filter-repo/analysis/path-deleted.txt`
     
 6.  Clean the git history of all files that no longer exist. This will also clean dirty commits, remove empty commits, and recompress everything for you.
     
-                    `git filter-repo --invert-paths --paths-from-file ./filter-repo/analysis/path-deleted.txt`
+`git filter-repo --invert-paths --paths-from-file ./filter-repo/analysis/path-deleted.txt`
     
 7.  Clean up the `./filter-repo` directory, or you won't be able to push your changes.
     
-                    `rm -rf ./filter-repo`
+`rm -rf ./filter-repo`
     
 8.  Force-push all refs to the origin. It will force-push, even though the command doesn't indicate it. Also, it will update _all_ branches on the remote, which is convenient. If you have branch protection enabled on some branches in GitHub/Bitbucket/etc., then you will need to allow force-pushes. You can always re-run this command if you find that some refs could not be force-pushed.
     
-                    `git push --force-with-lease`
+`git push --force-with-lease`
