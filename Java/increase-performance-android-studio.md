@@ -33,7 +33,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
 title: Increase Performance Android Studio
 type: post
-updated: 2023-08-08T14:44:16+07:00
+updated: 2023-08-23T18:33:23+07:00
 uuid: 07fe6730-d4e9-4888-8069-db5d8c1f9297
 wordcount: 3996
 ---
@@ -48,15 +48,13 @@ You can speed up your Eclipse or Android Studio work, you just follow these:
 *   clean your project after running your app in emulator every time
 *   use mobile/external device instead of emulator
 *   don't close emulator after using once, use same emulator for running app each time
-*   **Disable VCS by using File->Settings->Plugins and disable the following things :
+*   **Disable VCS** by using File->Settings->Plugins and disable the following things :
     
     1.  CVS Integration
     2.  Git Integration (Git & Github)
     3.  Google Cloud Tools for Android Studio
     4.  Subversion Integration
     5.  Firebase (Optional)
-    
-    **
 
 I am also using Android Studio with 4-GB installed main memory but following these statements really boost my Android Studio performance.
 
@@ -167,7 +165,32 @@ If you are running Android Studio on a machine with less than the recommended sp
 -XX:-HeapDumpOnOutOfMemoryError  
 -Dfile.encoding=UTF-8  
 ```
+
+when you caught error like below:
+![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/301a5028-ec04-4427-a448-850c94c5038f)
+You can find the file you're looking for under **C:\Users\YourUserName\AppData\Roaming\Google\AndroidStudio4.1**. Delete studios64.vmoptions and you should be able to launch Android Studio. If you're still trying to optimize your workspace you could try:
+
+```properties
+-Xms1024m
+-Xmx4096m
+-XX:MaxPermSize=1024m
+-XX:ReservedCodeCacheSize=256m
+-ea
+-Dsun.io.useCanonCaches=false
+-Djava.net.preferIPv4Stack=true
+-Djna.nosys=true
+-Djna.boot.library.path=
+
+-Djna.debug_load=true
+-Djna.debug_load.jna=true
+-Djsse.enableSNIExtension=false
+-XX:+UseCodeCacheFlushing
+-XX:+UseConcMarkSweepGC
+-XX:SoftRefLRUPolicyMSPerMB=50
+-Didea.platform.prefix=AndroidStudio
+-Didea.paths.selector=AndroidStudio
+```
+
 4.  Android studio 3.5 makes easier to change same of those values.
 
-  
 Preferences > Appearance & Behavior > System Settings > Memory Settings
