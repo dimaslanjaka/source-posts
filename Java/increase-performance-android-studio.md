@@ -33,7 +33,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
 title: Increase Performance Android Studio
 type: post
-updated: 2023-08-23T18:40:32+07:00
+updated: 2023-08-23T18:47:18+07:00
 wordcount: 3996
 ---
 
@@ -167,9 +167,13 @@ If you are running Android Studio on a machine with less than the recommended sp
 
 when you caught error like below:
 
-![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/301a5028-ec04-4427-a448-850c94c5038f)
+![sample error launching android st](https://github.com/dimaslanjaka/source-posts/assets/12471057/301a5028-ec04-4427-a448-850c94c5038f)
 
-You can find the file you're looking for under **C:\Users\YourUserName\AppData\Roaming\Google\AndroidStudio<version.code>**. _Delete or Modify_ **studios64.vmoptions** or **studios64.exe.vmoptions** and you should be able to launch Android Studio. If you're still trying to optimize your workspace you could try modify **vmoptions** file using **notepad**:
+You can find the file you're looking for under **C:\Users\<YourUserName>\AppData\Roaming\Google\AndroidStudio<version.code>**. 
+
+![sample user data file location](https://github.com/dimaslanjaka/source-posts/assets/12471057/e30ae0e5-3fc5-4172-9382-56a1f4425c73)
+
+_Delete or Modify_ **studios64.vmoptions** or **studios64.exe.vmoptions** and you should be able to launch Android Studio. If you're still trying to optimize your workspace you could try modify **vmoptions** file using **notepad**:
 
 ```properties
 -Xms1024m
