@@ -167,7 +167,9 @@ If you are running Android Studio on a machine with less than the recommended sp
 ```
 
 when you caught error like below:
+
 ![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/301a5028-ec04-4427-a448-850c94c5038f)
+
 You can find the file you're looking for under **C:\Users\YourUserName\AppData\Roaming\Google\AndroidStudio4.1**. Delete studios64.vmoptions and you should be able to launch Android Studio. If you're still trying to optimize your workspace you could try:
 
 ```properties
