@@ -1,12 +1,14 @@
 ---
 title: Script java killer
 date: 2023-08-23T20:32:38+07:00
-updated: 2023-08-23T20:32:38+07:00
+updated: 2023-08-23T20:39:35+07:00
 category: [programming]
 tags: [bash, cmd, java]
 ---
 
-## Windows
+## Windows CMD
+
+create script with name `killjava.cmd` or `killjava.bat`
 
 ```cmd
 @echo off
@@ -18,9 +20,16 @@ taskkill /f /im chromedriver.exe
 taskkill /f /im node.exe
 ```
 
+## Windows Powershell
+create script with name `killjava.ps1`
+
+```powershell
+cmd "/C TASKKILL /IM node.exe /F"
+```
+
 ## Bash
 
-create `kill-process` script
+create script with name `kill-process` 
 
 ```bash
 #!/usr/bin/env bash
@@ -44,7 +53,7 @@ esac
 ps -W | grep "$1" | awk '{print $1}' | xargs kill -f;
 ```
 
-create java killer script
+create java killer script with name `killjava`
 
 ```bash
 #!/usr/bin/env bash
@@ -75,3 +84,7 @@ else
   killall javaw
 fi
 ```
+
+## Usage
+- add parent folder these files into enviroment PATH
+- now you can type `killjava` at terminal to kill java processes
