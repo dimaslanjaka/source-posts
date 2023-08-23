@@ -33,7 +33,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
 title: Increase Performance Android Studio
 type: post
-updated: 2023-08-23T18:47:18+07:00
+updated: 2023-08-23T20:18:06+07:00
 wordcount: 3996
 ---
 
@@ -177,7 +177,7 @@ _Delete or Modify_ **studios64.vmoptions** or **studios64.exe.vmoptions** and yo
 
 ```properties
 -Xms1024m
--Xmx4096m
+-Xmx4096m # <------ increase this to most of your RAM 
 -XX:MaxPermSize=1024m
 -XX:ReservedCodeCacheSize=256m
 -ea
