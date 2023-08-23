@@ -191,6 +191,8 @@ You can find the file you're looking for under **C:\Users\YourUserName\AppData\R
 -Didea.paths.selector=AndroidStudio
 ```
 
+sources: https://developer.android.com/studio/intro/studio-config https://riptutorial.com/android-studio/example/11146/customize-the-vm-option
+
 4.  Android studio 3.5 makes easier to change same of those values.
 
 Preferences > Appearance & Behavior > System Settings > Memory Settings
