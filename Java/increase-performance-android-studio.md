@@ -33,8 +33,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
 title: Increase Performance Android Studio
 type: post
-updated: 2023-08-23T18:33:23+07:00
-uuid: 07fe6730-d4e9-4888-8069-db5d8c1f9297
+updated: 2023-08-23T18:40:32+07:00
 wordcount: 3996
 ---
 
@@ -170,7 +169,7 @@ when you caught error like below:
 
 ![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/301a5028-ec04-4427-a448-850c94c5038f)
 
-You can find the file you're looking for under **C:\Users\YourUserName\AppData\Roaming\Google\AndroidStudio<version.code>**. Delete studios64.vmoptions and you should be able to launch Android Studio. If you're still trying to optimize your workspace you could try:
+You can find the file you're looking for under **C:\Users\YourUserName\AppData\Roaming\Google\AndroidStudio<version.code>**. _Delete or Modify_ **studios64.vmoptions** or **studios64.exe.vmoptions** and you should be able to launch Android Studio. If you're still trying to optimize your workspace you could try modify **vmoptions** file using **notepad**:
 
 ```properties
 -Xms1024m
