@@ -3,7 +3,7 @@ title: Common Settings For .bashrc
 tags: [bash]
 category: [programming]
 date: 2023-08-24T07:00:51+07:00
-updated: 2023-08-24T07:06:17+07:00
+updated: 2023-08-24T07:35:21+07:00
 ---
 
 ```properties
@@ -35,6 +35,7 @@ export ANDROID_HOME="$HOME/Android/Sdk"
 export PATH="$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$PATH"
 # android, groovy, gradle development
 export GRADLE_HOME="$HOME/.gradle"
+export GRADLE_USER_HOME="$GRADLE_HOME"
 # python development
 export PYTHON="/usr/bin/python"
 # java, kotlin development
