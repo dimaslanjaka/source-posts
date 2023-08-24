@@ -1,19 +1,46 @@
 ---
-title: Material Royle's Spurge Chimeraland
-date: 2022-01-18T00:56:03+07:00
-updated: 2022-10-10T00:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/royle's-spurge.html
-photos:
-  - /chimeraland/materials/royle's-spurge/royles-spurge.webp
-thumbnail: /chimeraland/materials/royle's-spurge/royles-spurge.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-18T00:56:03+07:00
+description: |-
+  Material Royle's Spurge Chimeraland materials
+          Royle's Spurge
+          October 10, 2022 12:26 AM
+          
+            A somewhat rare herb, its creeping stem holds many branches and
+            matching leaves. Often taken to increase longevity. It can be found
+            growing on the scorchingly
+excerpt: |-
+  Material Royle's Spurge Chimeraland materials
+          Royle's Spurge
+          October 10, 2022 12:26 AM
+          
+            A somewhat rare herb, its creeping stem holds many branches and
+            matching leaves. Often taken to increase longevity. It can be found
+            growing on the scorchingly
+permalink: /chimeraland/materials/royle's-spurge.html
+photos:
+  - /chimeraland/materials/royle's-spurge/royles-spurge.webp
+subtitle: |-
+  Material Royle's Spurge Chimeraland materials
+          Royle's Spurge
+          October 10, 2022 12:26 AM
+          
+            A somewhat rare herb, its creeping stem holds many branches and
+            matching leaves. Often taken to increase longevity. It can be found
+            growing on the scorchingly
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/royle's-spurge/royles-spurge.webp
+title: Material Royle's Spurge Chimeraland
+type: post
+updated: 2022-10-10T00:26:37+07:00
+wordcount: 1168
 ---
 
 <link

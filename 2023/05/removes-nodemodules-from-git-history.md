@@ -15,7 +15,6 @@ excerpt: "removes node_modules from git history Deprecated method to delete
   node_modules from github repository commit historyWARNING: git filter-branch
   is no longer officially recommended.The official recommendation is to use
   git-filter-repo.see Andr Anjos answer for detailsIf you are here to copy-pas"
-id: 494dd05b-d717-4888-8d46-2da678f2c958
 lang: en
 photos:
   - https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82

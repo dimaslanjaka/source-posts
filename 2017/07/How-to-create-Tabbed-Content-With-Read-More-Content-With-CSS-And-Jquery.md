@@ -12,7 +12,6 @@ description: Sometimes we want to make the posting page become more simple in
   displaying the content.
 excerpt: Sometimes we want to make the posting page become more simple in
   displaying the content.
-id: d57e3d0f-63d3-4888-8edb-0c2b1a8bf4d4
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -25,7 +24,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Selected Substance With Read More Substance With CSS And Jquery
 type: post
 updated: 2023-08-08T14:45:52+07:00
-uuid: b1114daa-b48d-4888-8cd2-7a947170c584
 wordcount: 1547
 ---
 

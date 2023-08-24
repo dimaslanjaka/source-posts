@@ -1,9 +1,70 @@
 ---
-title: Attendant shaman wisteria
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-11-26T08:35:17+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2022-11-26T08:24:17+07:00
+description: "Attendant shaman wisteria shaman wisteria Information from
+  Chimeraland
+
+  \    shaman wisteria default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \    "
+excerpt: "Attendant shaman wisteria shaman wisteria Information from Chimeraland
+
+  \    shaman wisteria default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \    "
 permalink: /chimeraland/attendants/shaman-wisteria.html
 photos:
   - /chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-18-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,14 +75,45 @@ photos:
   - /chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-44-69_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-50-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-wisteria/Screenshot_2023-02-28-22-02-22-58_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-18-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant shaman wisteria shaman wisteria Information from
+  Chimeraland
+
+  \    shaman wisteria default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \    "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/shaman-wisteria/Screenshot_2022-11-13-08-58-18-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant shaman wisteria
+type: post
+updated: 2022-11-26T08:35:17+07:00
+webtitle: chimeraland
+wordcount: 1237
 ---
 
 <link

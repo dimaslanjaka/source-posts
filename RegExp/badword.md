@@ -10,7 +10,6 @@ cover: /RegExp/RegExp/badwords.png
 date: 2021-09-22T00:00:00+07:00
 description: Match string not containing string, exclude badwords
 excerpt: Match string not containing string, exclude badwords
-id: e14cbf39-1ac8-4888-8b41-9b6d9b1ad4f4
 lang: en
 location: Indonesia
 photos:
@@ -22,7 +21,6 @@ thumbnail: /RegExp/RegExp/badwords.png
 title: Badword
 type: post
 updated: 2023-08-08T14:44:14+07:00
-uuid: e14cbf39-1ac8-4888-8b41-9b6d9b1ad4f4
 webtitle: RegExp
 wordcount: 13
 ---

@@ -16,7 +16,6 @@ excerpt: "SOME TYPES OF BORDER CSS 1. none 2. dotted 3. dashed 4. solid 5.
   double 6. groove 7. ridge 8. inset 9. outset : Do not define the border line :
   Defines a dotted line border. : Defines a dotted line border. Defining a full
   line border. Defining a double line border. : Defines a 3D grooved border li"
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://imgdb.net/images/3197.jpg
@@ -30,7 +29,6 @@ thumbnail: https://imgdb.net/images/3197.jpg
 title: SOME TYPES OF BORDER CSS
 type: post
 updated: 2023-08-08T14:45:45+07:00
-uuid: f4fc9c13-c7f5-4888-8f93-f26428ba721a
 wordcount: 1493
 ---
 

@@ -1,19 +1,73 @@
 ---
-title: Material Bigeye Chimeraland
-date: 2022-01-16T02:56:03+07:00
-updated: 2022-10-08T02:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/bigeye.html
-photos:
-  - /chimeraland/materials/bigeye/bigeye.webp
-thumbnail: /chimeraland/materials/bigeye/bigeye.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-16T02:56:03+07:00
+description: "Material Bigeye Chimeraland materials
+
+  \        Bigeye
+
+  \        October 8, 2022 2:26 AM
+
+  \       \ 
+
+  \          A marine fish with a long flat body and short snout. It has big
+  eyes
+
+  \          on a mid-sized head, and a short, large upturned mouth. The
+  Eastmount
+
+  \          Sea is where it can be found.
+
+  \       "
+excerpt: "Material Bigeye Chimeraland materials
+
+  \        Bigeye
+
+  \        October 8, 2022 2:26 AM
+
+  \       \ 
+
+  \          A marine fish with a long flat body and short snout. It has big
+  eyes
+
+  \          on a mid-sized head, and a short, large upturned mouth. The
+  Eastmount
+
+  \          Sea is where it can be found.
+
+  \       "
+permalink: /chimeraland/materials/bigeye.html
+photos:
+  - /chimeraland/materials/bigeye/bigeye.webp
+subtitle: "Material Bigeye Chimeraland materials
+
+  \        Bigeye
+
+  \        October 8, 2022 2:26 AM
+
+  \       \ 
+
+  \          A marine fish with a long flat body and short snout. It has big
+  eyes
+
+  \          on a mid-sized head, and a short, large upturned mouth. The
+  Eastmount
+
+  \          Sea is where it can be found.
+
+  \       "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/bigeye/bigeye.webp
+title: Material Bigeye Chimeraland
+type: post
+updated: 2022-10-08T02:26:37+07:00
+wordcount: 861
 ---
 
 <link

@@ -1,19 +1,145 @@
 ---
-title: Material Amaranth Chimeraland
-date: 2022-01-12T06:56:03+07:00
-updated: 2022-10-04T06:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/amaranth.html
-photos:
-  - /chimeraland/materials/amaranth/amaranth.webp
-thumbnail: /chimeraland/materials/amaranth/amaranth.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-12T06:56:03+07:00
+description: "Material Amaranth Chimeraland materials
+
+  \        Amaranth
+
+  \        October 4, 2022 6:26 AM
+
+  \        Continue reading Amaranth
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Amaranth
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \          "
+excerpt: "Material Amaranth Chimeraland materials
+
+  \        Amaranth
+
+  \        October 4, 2022 6:26 AM
+
+  \        Continue reading Amaranth
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Amaranth
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \          "
+permalink: /chimeraland/materials/amaranth.html
+photos:
+  - /chimeraland/materials/amaranth/amaranth.webp
+subtitle: "Material Amaranth Chimeraland materials
+
+  \        Amaranth
+
+  \        October 4, 2022 6:26 AM
+
+  \        Continue reading Amaranth
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Amaranth
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \          "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/amaranth/amaranth.webp
+title: Material Amaranth Chimeraland
+type: post
+updated: 2022-10-04T06:26:37+07:00
+wordcount: 511
 ---
 
 <link

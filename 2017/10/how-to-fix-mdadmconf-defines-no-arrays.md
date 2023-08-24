@@ -16,7 +16,6 @@ excerpt: "how to fix mdadm.conf defines no arrays on UBUNTU SERVER 16.04 Setting
   up initramfs-tools 0.122ubuntu8.3 ...update-initramfs: deferring update
   trigger activatedProcessing triggers for initramfs-tools 0.122ubuntu8.3
   ...update-initramfs: Generating /boot/initrd.img-4.4.0-38-genericW: mdadm: /"
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://imgdb.net/images/3212.jpg
@@ -31,7 +30,6 @@ thumbnail: https://imgdb.net/images/3212.jpg
 title: how to fix  mdadm.conf defines no arrays on UBUNTU SERVER 16.04
 type: post
 updated: 2023-08-08T14:45:44+07:00
-uuid: 7f916828-d486-4888-8a96-f86034ba51db
 wordcount: 191
 ---
 

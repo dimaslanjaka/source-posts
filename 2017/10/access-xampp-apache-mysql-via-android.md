@@ -12,7 +12,6 @@ description: br /><br /><figure><img class=center w3-center
   src=https://imgdb.net/images/3200.jpg /><br /> <figcaption> XAMPP is a
 excerpt: br /><br /><figure><img class=center w3-center
   src=https://imgdb.net/images/3200.jpg /><br /> <figcaption> XAMPP is a
-id: 71a7a8fa-edd2-4888-87c4-e39a89d1165b
 lang: en
 photos:
   - https://imgdb.net/images/3200.jpg
@@ -26,7 +25,6 @@ thumbnail: https://imgdb.net/images/3200.jpg
 title: Access XAMPP Apache  MySQL via Android Smartphone
 type: post
 updated: 2023-08-08T14:45:45+07:00
-uuid: 8061a10d-0b6a-4888-8a42-139b67c9e1c9
 wordcount: 1406
 ---
 

@@ -1,23 +1,65 @@
 ---
-title: Recipe Tasty Wing Tip Chimeraland
 author: L3n4r0x
-updated: 2022-09-29T12:26:37+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-13T07:56:03+07:00
+description: |-
+  Recipe Tasty Wing Tip Chimeraland Tasty Wing Tip Cooking Recipe
+                
+                Buff Tasty Wing Tip
+                
+                  
+                    Buff Tasty Wing Tip not yet written
+                  
+                
+                recipe
+              
+              
+                webmanaj
+excerpt: |-
+  Recipe Tasty Wing Tip Chimeraland Tasty Wing Tip Cooking Recipe
+                
+                Buff Tasty Wing Tip
+                
+                  
+                    Buff Tasty Wing Tip not yet written
+                  
+                
+                recipe
+              
+              
+                webmanaj
+lang: en
 permalink: /chimeraland/recipes/tasty-wing-tip.html
 photos:
   - null
   - null
   - null
   - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tasty Wing Tip
+subtitle: |-
+  Recipe Tasty Wing Tip Chimeraland Tasty Wing Tip Cooking Recipe
+                
+                Buff Tasty Wing Tip
+                
+                  
+                    Buff Tasty Wing Tip not yet written
+                  
+                
+                recipe
+              
+              
+                webmanaj
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tasty Wing Tip
+title: Recipe Tasty Wing Tip Chimeraland
+type: post
+updated: 2022-09-29T12:26:37+07:00
+wordcount: 895
 ---
 
 <link

@@ -12,7 +12,6 @@ description: "Description Of getmeta_tags Source Description: PHP.NET PHP 4, PHP
   5, PHP 7 get_meta_tags "
 excerpt: "Description Of getmeta_tags Source Description: PHP.NET PHP 4, PHP 5,
   PHP 7 get_meta_tags "
-id: 15e34a5c-6966-4888-849f-8f4359319b9b
 lang: en
 photos:
   - https://www.svgrepo.com/show/84714/php.svg
@@ -24,7 +23,6 @@ thumbnail: https://www.svgrepo.com/show/84714/php.svg
 title: "[PHP] Function get_meta_tags Helper"
 type: post
 updated: 2023-08-08T14:45:41+07:00
-uuid: a0392d1b-fa82-4888-812e-4f460e19dc81
 webtitle: PHP
 wordcount: 1600
 ---

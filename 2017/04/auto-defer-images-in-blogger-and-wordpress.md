@@ -12,7 +12,6 @@ description: jQuery Functions To Async Or Defer Images On Wordpress CMS And
   Blogger Blogs. Understanding async
 excerpt: jQuery Functions To Async Or Defer Images On Wordpress CMS And Blogger
   Blogs. Understanding async
-id: f1c623a1-ab29-4888-8530-c83204e1f3af
 lang: en
 photos:
   - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCQZ1lrGJs-Gmk6cKtdBHXyfgzRIAQYqScDZlU2o_MkjX0SylMtA
@@ -27,7 +26,6 @@ thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCQZ1lrGJs-Gmk6
 title: Auto Defer Images in Blogger And Wordpress
 type: post
 updated: 2023-08-08T14:46:02+07:00
-uuid: c39ef55c-ef82-4888-8d60-d7ea81d98dd4
 wordcount: 2837
 ---
 

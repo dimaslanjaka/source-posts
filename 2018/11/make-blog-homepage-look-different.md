@@ -12,7 +12,6 @@ description: Sometimes we as the blog owner was bored to see the look of the
   blog, one of them post view on the homepage.
 excerpt: Sometimes we as the blog owner was bored to see the look of the blog,
   one of them post view on the homepage.
-id: 385fcf5b-3277-4888-828c-98b72ab752af
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://3.bp.blogspot.com/-kz6KVIcdKck/WPL9AYym7FI/AAAAAAAAqqI/lqIph6SjXNUJEm0vW6p6HHi0AhV2n1FNwCLcB/w1100/Untitled-1_1.jpg
@@ -26,7 +25,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://3.bp.blog
 title: How To Modifying Post Views On Homepage To Be Different
 type: post
 updated: 2023-08-08T14:45:36+07:00
-uuid: 0f247fd0-08db-4888-8fb5-d20fae36cd7a
 wordcount: 969
 ---
 

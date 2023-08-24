@@ -12,7 +12,6 @@ description: FeatureSupport unzip fileSupport edit file/script on different
   encodingsSupport upload,edit,open,delete,rename,and other.Support add
 excerpt: FeatureSupport unzip fileSupport edit file/script on different
   encodingsSupport upload,edit,open,delete,rename,and other.Support add
-id: 22b0f774-d1ae-4888-8035-782da3739aef
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.seoclerk.com/pics/want29446-1eGFdc1437614695.png
@@ -26,7 +25,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.seocl
 title: 00webhost file manager alternative
 type: post
 updated: 2023-08-08T14:45:41+07:00
-uuid: 6de7befd-bc1c-4888-8919-f36828840d7a
 wordcount: 22066
 ---
 

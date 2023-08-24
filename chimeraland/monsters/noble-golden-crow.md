@@ -1,21 +1,108 @@
 ---
-title: Monster Noble Golden Crow
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-10-03T11:18:27+07:00
-date: 2022-01-11T11:56:03+07:00
-permalink: /chimeraland/monsters/noble-golden-crow.html
-photos:
-  - /chimeraland/monsters/noble-golden-crow/noble-golden-crow.webp
-thumbnail: /chimeraland/monsters/noble-golden-crow/noble-golden-crow.webp
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2022-01-11T11:56:03+07:00
+description: "Monster Noble Golden Crow Noble Golden Crow Information from
+  Chimeraland
+
+  \    Noble Golden Crow default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \                  A NOBLE - LEGENDARY
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+excerpt: "Monster Noble Golden Crow Noble Golden Crow Information from
+  Chimeraland
+
+  \    Noble Golden Crow default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \                  A NOBLE - LEGENDARY
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+permalink: /chimeraland/monsters/noble-golden-crow.html
+photos:
+  - /chimeraland/monsters/noble-golden-crow/noble-golden-crow.webp
+subtitle: "Monster Noble Golden Crow Noble Golden Crow Information from
+  Chimeraland
+
+  \    Noble Golden Crow default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \                  A NOBLE - LEGENDARY
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: /chimeraland/monsters/noble-golden-crow/noble-golden-crow.webp
+title: Monster Noble Golden Crow
+type: post
+updated: 2022-10-03T11:18:27+07:00
+webtitle: chimeraland
+wordcount: 757
 ---
 
 <link

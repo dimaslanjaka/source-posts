@@ -15,7 +15,6 @@ excerpt: "VSCode settings JSON for nunjucks and EJS Download VSCode Nunjucks
   ResourceLinkMarketplacehttps://marketplace.visualstudio.com/items?itemName=gi\
   nfuru.better-nunjucksRepositoryhttps://github.com/edheltzel/nunjucks-for-visu\
   al-studio-code ResourceLink Resource Link Marketplacehttps:"
-id: 7f0e0bba-f210-4888-8632-2eab48bbf9f5
 lang: en
 permalink: /2022/10/vscode-settings-json-for-nunjucks-ejs.html
 photos:

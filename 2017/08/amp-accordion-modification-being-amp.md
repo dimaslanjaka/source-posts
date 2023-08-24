@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot
 date: 2017-08-30T04:51:00.000+07:00
 description: Problem U
 excerpt: Problem U
-id: fbb56ac4-f4c8-4888-80b1-ecf5218ada03
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot.com/-O64Ll2AclHg/WIkzI-RSWBI/AAAAAAAApSw/w4xT5nifRPg3eClN6qphPIe2cVc-o971QCLcB/w1100/amp-accordion.jpg
@@ -22,7 +21,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blog
 title: AMP-Accordion Modification Being an AMP HTML Blog Spoiler
 type: post
 updated: 2023-08-08T14:45:49+07:00
-uuid: 95437db8-e3ba-4888-8584-a2d7cf332c5a
 wordcount: 1321
 ---
 

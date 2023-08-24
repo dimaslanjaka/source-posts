@@ -10,7 +10,6 @@ cover: https://cdn.woorkup.com/wp-content/uploads/2013/09/wordpress-sitemap.png
 date: 2017-10-18T23:00:00.000+07:00
 description: Cara Membuat File Peta Situs untuk Situs Anda
 excerpt: Cara Membuat File Peta Situs untuk Situs Anda
-id: 01e16ba9-d7df-4888-8007-50e91fad60aa
 lang: en
 photos:
   - https://cdn.woorkup.com/wp-content/uploads/2013/09/wordpress-sitemap.png
@@ -23,7 +22,6 @@ thumbnail: https://cdn.woorkup.com/wp-content/uploads/2013/09/wordpress-sitemap.
 title: Cara Membuat File Peta Situs untuk Situs Anda
 type: post
 updated: 2023-08-08T14:45:45+07:00
-uuid: 24a2bd07-7b56-4888-8186-e1c2eb00a5f5
 wordcount: 2042
 ---
 

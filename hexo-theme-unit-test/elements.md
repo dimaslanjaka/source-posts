@@ -13,7 +13,6 @@ excerpt: Elements The purpose of this post is to help you make sure all of HTML
   elements can display properly. If you use CSS reset, dont forget to redefine
   the style by yourself. Heading 1 Heading 2 Heading 3 Heading 4 Heading 5
   Heading 6 Paragraph Lorem ipsum dolor sit amet, test link consectetur adipisc
-id: aa56a2e6-d810-4888-8aef-c61e4f6bf94f
 lang: en
 photos: []
 robots: no-index

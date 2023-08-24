@@ -1,9 +1,73 @@
 ---
-title: Monster Wolfspider
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T10:06:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-11T00:56:03+07:00
+description: "Monster Wolfspider Wolfspider Information from Chimeraland
+
+  \    Wolfspider default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                59
+
+  \             \ 
+
+  \        "
+excerpt: "Monster Wolfspider Wolfspider Information from Chimeraland
+
+  \    Wolfspider default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                59
+
+  \             \ 
+
+  \        "
 permalink: /chimeraland/monsters/wolfspider.html
 photos:
   - null
@@ -14,15 +78,47 @@ photos:
   - /chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-29-50-79_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-29-55-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/wolfspider/Screenshot_2023-02-26-12-30-00-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Wolfspider
+subtitle: "Monster Wolfspider Wolfspider Information from Chimeraland
+
+  \    Wolfspider default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                59
+
+  \             \ 
+
+  \        "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Wolfspider
+title: Monster Wolfspider
+type: post
+updated: 2023-05-25T10:06:12+07:00
+webtitle: chimeraland
+wordcount: 1130
 ---
 
 <link

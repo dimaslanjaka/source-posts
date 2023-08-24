@@ -12,7 +12,6 @@ description: When first mate to create a blog must have occurred in the mind of
   my friend, for what this blog will be created. Maybe at first just a
 excerpt: When first mate to create a blog must have occurred in the mind of my
   friend, for what this blog will be created. Maybe at first just a
-id: c3687e5e-1834-4888-8027-fd78a490663d
 lang: en
 photos:
   - https://imgdb.net/images/3195.png
@@ -24,7 +23,6 @@ thumbnail: https://imgdb.net/images/3195.png
 title: How TRAFFIC INCREASE BLOG
 type: post
 updated: 2023-08-08T14:45:47+07:00
-uuid: 2d173888-13c9-4888-8447-e1cd9300c3bf
 wordcount: 1312
 ---
 

@@ -10,7 +10,6 @@ cover: https://i.ytimg.com/vi/2X152P2goVs/maxresdefault.jpg
 date: 2021-08-17T00:00:00+07:00
 description: Expel Incident With The Highest Exp Character Rewards.
 excerpt: Expel Incident With The Highest Exp Character Rewards.
-id: df08f318-911d-4888-8e42-bcd62954e69c
 lang: en
 location: Indonesia
 photos:
@@ -22,7 +21,6 @@ thumbnail: https://i.ytimg.com/vi/2X152P2goVs/maxresdefault.jpg
 title: Highest Exp Character Expel Incident The Legend Of Neverland
 type: post
 updated: 2023-08-08T14:44:21+07:00
-uuid: bc381ceb-c8e3-4888-8896-25c3e1acba96
 wordcount: 467
 ---
 

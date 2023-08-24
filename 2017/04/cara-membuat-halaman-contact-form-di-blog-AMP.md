@@ -18,7 +18,6 @@ excerpt: "Cara membuat halaman contact form di blog AMP Cara membuat contact
   bagaimana cara membuat contact form di halaman blog AMP. Langkah 1:
   lt;--</body>--gt;lt;/bodygt; Bila tidak maka ubah kode </body> dengan kode
   diatas"
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -33,7 +32,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Cara membuat halaman contact form di blog AMP
 type: post
 updated: 2023-08-08T14:46:01+07:00
-uuid: a2ce0ff6-9096-4888-8013-bc4f81c1fb3f
 wordcount: 1458
 ---
 

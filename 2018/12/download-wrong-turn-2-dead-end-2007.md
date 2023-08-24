@@ -14,7 +14,6 @@ description: "import
 excerpt: "import
   urlhttps://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstr\
   ap.min.css; .content ,.keyword ,.keywords "
-id: a111050e-c4eb-4888-8014-73452524f93c
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s7.dunia21.net/wp-content/uploads/2015/12/film-wrong-turn-2-dead-end-2007.jpg
@@ -28,7 +27,6 @@ title: "Download Wrong Turn 2: Dead End 2007 Indonesian Subtitles Movie Free
   Movie Bluray"
 type: post
 updated: 2023-08-08T14:45:35+07:00
-uuid: 0bc400b8-98a1-4888-8cd6-362286f3159f
 wordcount: 3298
 ---
 

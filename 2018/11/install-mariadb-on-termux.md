@@ -12,7 +12,6 @@ description: Install MariaDB on Termux as in my previous article about termux,
   Termux, a Linux in Android . Termux is a Linux system that uses
 excerpt: Install MariaDB on Termux as in my previous article about termux,
   Termux, a Linux in Android . Termux is a Linux system that uses
-id: a8116933-ce26-4888-86bd-ac3e3505db9c
 lang: en
 photos:
   - https://images.weserv.nl/?url=https://lh3.googleusercontent.com/p162-Lwo8Fxms5LAJ8IpICqtsT-3ziYMoy-WdSM66_jCQboVvfB8qU9c0KU3gzg_yqLE1iQAMyhVe8eRzi8=w1080-h1920-rw-no
@@ -26,7 +25,6 @@ thumbnail: https://images.weserv.nl/?url=https://lh3.googleusercontent.com/p162-
 title: Install MariaDB on Termux
 type: post
 updated: 2023-08-08T14:45:37+07:00
-uuid: f3c1f223-5c79-4888-8a21-a220b2f06b46
 wordcount: 2447
 ---
 

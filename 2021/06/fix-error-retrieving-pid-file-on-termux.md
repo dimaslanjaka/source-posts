@@ -12,7 +12,6 @@ description: "Solution to error retrieving pid file Termux and apache Apache
   errors overview: 20014 Internal error specific"
 excerpt: "Solution to error retrieving pid file Termux and apache Apache errors
   overview: 20014 Internal error specific"
-id: 7554bcaa-0dda-4888-899d-94be491c0ead
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googleusercontent.com/-bzDMCW2l14w/XuSyYUMCT-I/AAAAAAAAA_k/s6h8qlxl7joZyle2_ZVRQrN5tAQLu43JQCLcBGAsYHQ/s1600/1592046171170163-1.png
@@ -25,7 +24,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googl
 title: Fix error retrieving pid file on termux apache
 type: post
 updated: 2023-08-08T14:45:10+07:00
-uuid: 95fc0792-3544-4888-8662-4579d3e71eeb
 wordcount: 971
 ---
 

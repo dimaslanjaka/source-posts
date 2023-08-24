@@ -15,7 +15,6 @@ excerpt: "Github Workflow Filter Job Berdasarkan OS Yang Dijalankan Condition
   ubuntu-latestif: matrix.os == windows-latestif: matrix.os == macOS-latest
   Condition Syntax Berdasarkan Konteks OS Yang Dijalankan Saat Ini if: runner.os
   == L"
-id: e900c8c1-b27f-4888-8141-e13bb7f82614
 lang: id
 permalink: /id/GitHub/github-workflow-filter-jobs-by-os.html
 photos: []

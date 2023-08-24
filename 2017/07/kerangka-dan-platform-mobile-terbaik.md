@@ -18,7 +18,6 @@ excerpt: Kerangka dan Platform Mobile Terbaik untuk Aplikasi HTML5 Hybrid
   menggunakan HTML5 dan PhoneGap.Ini adalah solusi bagus untuk membuat aplikasi
   untuk iOS dan Android saat mengkodekan dalam HTML, CSS, dan JavaScript.Hari
   ini, kita
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - http://i.imgur.com/4kHlYlw.png
@@ -33,7 +32,6 @@ thumbnail: http://i.imgur.com/4kHlYlw.png
 title: Kerangka dan Platform Mobile Terbaik untuk Aplikasi HTML5 Hybrid
 type: post
 updated: 2023-08-08T14:45:51+07:00
-uuid: 7c9ec1b6-56d0-4888-8d84-21ad9b9d0573
 wordcount: 4543
 ---
 

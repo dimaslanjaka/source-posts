@@ -12,7 +12,6 @@ description: Ada pengaturan lain di GPE yang mencegah pencopotan pemasangan
   aplikasi yang terpasang. Inilah cara mengaktifkannya .. br /><img
 excerpt: Ada pengaturan lain di GPE yang mencegah pencopotan pemasangan aplikasi
   yang terpasang. Inilah cara mengaktifkannya .. br /><img
-id: c99a67c0-0d7c-4888-82cb-145f63c43480
 lang: en
 photos:
   - https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ839NCU/s1600/Uninstall-Modern-UI-Apps.png
@@ -24,7 +23,6 @@ thumbnail: https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ8
 title: Mencegah Pengguna Menghapus Aplikasi UI Modern di Windows 8
 type: post
 updated: 2023-08-08T14:45:44+07:00
-uuid: 34353b6e-da96-4888-8a69-a3c34c41a53e
 wordcount: 363
 ---
 

@@ -10,7 +10,6 @@ cover: https://4.bp.blogspot.com/-F-ocOo6kFI4/TZmheb35DxI/AAAAAAAAL0M/qYSBewm5xD
 date: 2017-10-14T00:32:00.000+07:00
 description: Pemain Lokal
 excerpt: Pemain Lokal
-id: 625a00b9-cc4d-4888-8b5a-720c5ce61198
 lang: en
 photos:
   - https://4.bp.blogspot.com/-F-ocOo6kFI4/TZmheb35DxI/AAAAAAAAL0M/qYSBewm5xDY/s1600/Local-Player.png
@@ -21,7 +20,6 @@ thumbnail: https://4.bp.blogspot.com/-F-ocOo6kFI4/TZmheb35DxI/AAAAAAAAL0M/qYSBew
 title: App Player Musik yang Luar Biasa untuk Google Chrome
 type: post
 updated: 2023-08-08T14:45:45+07:00
-uuid: 89b06ce1-da9a-4888-836a-a4e6c67c80c0
 wordcount: 293
 ---
 

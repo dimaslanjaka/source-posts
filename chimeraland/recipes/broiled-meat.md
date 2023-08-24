@@ -1,23 +1,101 @@
 ---
-title: Recipe Broiled Meat Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T15:46:53+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-07T07:56:03+07:00
+description: "Recipe Broiled Meat Chimeraland Broiled Meat Cooking Recipe
+
+  \             \ 
+
+  \              Buff Broiled Meat
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  Strengthen Underwater Effect
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \    "
+excerpt: "Recipe Broiled Meat Chimeraland Broiled Meat Cooking Recipe
+
+  \             \ 
+
+  \              Buff Broiled Meat
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  Strengthen Underwater Effect
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \    "
+lang: en
 permalink: /chimeraland/recipes/broiled-meat.html
 photos:
   - /chimeraland/recipes/broiled-meat/broiled-meat.webp
   - /chimeraland/recipes/broiled-meat/broiled-meat-name.webp
   - /chimeraland/recipes/broiled-meat/broiled-meat-icon.webp
   - /chimeraland/recipes/broiled-meat/broiled-meat-material.webp
-thumbnail: /chimeraland/recipes/broiled-meat/broiled-meat.webp
+subtitle: "Recipe Broiled Meat Chimeraland Broiled Meat Cooking Recipe
+
+  \             \ 
+
+  \              Buff Broiled Meat
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  Strengthen Underwater Effect
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \    "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/broiled-meat/broiled-meat.webp
+title: Recipe Broiled Meat Chimeraland
+type: post
+updated: 2022-10-05T15:46:53+07:00
+wordcount: 821
 ---
 
 <link

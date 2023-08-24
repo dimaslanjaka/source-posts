@@ -10,7 +10,6 @@ cover: https://1.bp.blogspot.com/-v8fRzugmiVw/VvD5ipgRbaI/AAAAAAAADeE/DJPMUJuCNN
 date: 2017-04-16T23:38:00.000+07:00
 description: Script Auto Invite All Friends To Like Fanpage
 excerpt: Script Auto Invite All Friends To Like Fanpage
-id: 67aeb8ca-04bd-4888-869c-4a8addfae57d
 lang: en
 photos:
   - https://1.bp.blogspot.com/-v8fRzugmiVw/VvD5ipgRbaI/AAAAAAAADeE/DJPMUJuCNNMi-j7QTh8V6RpfBNlvqf6zw/s600/Script%2BAuto%2BInvite%2BAll%2BFriends%2BTo%2BLike%2BFanpage.%2BTanpa%2BPlugin.png
@@ -22,7 +21,6 @@ thumbnail: https://1.bp.blogspot.com/-v8fRzugmiVw/VvD5ipgRbaI/AAAAAAAADeE/DJPMUJ
 title: Script Auto Invite All Friends To Like Fanpage Without Plugin and Tool
 type: post
 updated: 2023-08-08T14:46:02+07:00
-uuid: 5e21cecb-0f3b-4888-8b45-848677b3e7ea
 wordcount: 1503
 ---
 

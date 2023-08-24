@@ -1,9 +1,73 @@
 ---
-title: Monster giant nian
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-25T12:55:43+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-02-25T12:44:43+07:00
+description: "Monster giant nian giant nian Information from Chimeraland
+
+  \    giant nian default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \      "
+excerpt: "Monster giant nian giant nian Information from Chimeraland
+
+  \    giant nian default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \      "
 permalink: /chimeraland/monsters/giant-nian.html
 photos:
   - /chimeraland/monsters/giant-nian/Screenshot_2023-02-22-14-21-08-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +77,47 @@ photos:
   - /chimeraland/monsters/giant-nian/Screenshot_2023-02-22-14-21-25-82_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-nian/Screenshot_2023-02-22-14-21-30-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-nian/Screenshot_2023-02-22-14-21-35-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-nian/Screenshot_2023-02-22-14-21-08-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant nian giant nian Information from Chimeraland
+
+  \    giant nian default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \      "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-nian/Screenshot_2023-02-22-14-21-08-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant nian
+type: post
+updated: 2023-02-25T12:55:43+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

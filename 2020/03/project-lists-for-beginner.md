@@ -10,7 +10,6 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2020-03-17T17:13:00.000+07:00
 description: Movies App Flutter Project
 excerpt: Movies App Flutter Project
-id: 2e41e0ac-7134-4888-8899-4065b725ad26
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -23,7 +22,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Project lists for beginner
 type: post
 updated: 2023-08-08T14:45:13+07:00
-uuid: 670af53e-ad3c-4888-8ca9-2dbc0c85dd2e
 wordcount: 19
 ---
 

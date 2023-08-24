@@ -1,19 +1,127 @@
 ---
-title: Material Hot Pepper Chimeraland
-date: 2022-01-17T23:56:03+07:00
-updated: 2022-10-09T23:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/hot-pepper.html
-photos:
-  - /chimeraland/materials/hot-pepper/hot-pepper.webp
-thumbnail: /chimeraland/materials/hot-pepper/hot-pepper.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-17T23:56:03+07:00
+description: "Material Hot Pepper Chimeraland materials
+
+  \        Hot Pepper
+
+  \        October 9, 2022 11:26 PM
+
+  \        Continue reading Hot Pepper
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Hot Pepper
+
+  \           \ 
+
+  \             \ 
+
+  \               \ 
+
+  \            "
+excerpt: "Material Hot Pepper Chimeraland materials
+
+  \        Hot Pepper
+
+  \        October 9, 2022 11:26 PM
+
+  \        Continue reading Hot Pepper
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Hot Pepper
+
+  \           \ 
+
+  \             \ 
+
+  \               \ 
+
+  \            "
+permalink: /chimeraland/materials/hot-pepper.html
+photos:
+  - /chimeraland/materials/hot-pepper/hot-pepper.webp
+subtitle: "Material Hot Pepper Chimeraland materials
+
+  \        Hot Pepper
+
+  \        October 9, 2022 11:26 PM
+
+  \        Continue reading Hot Pepper
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Hot Pepper
+
+  \           \ 
+
+  \             \ 
+
+  \               \ 
+
+  \            "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/hot-pepper/hot-pepper.webp
+title: Material Hot Pepper Chimeraland
+type: post
+updated: 2022-10-09T23:26:37+07:00
+wordcount: 3327
 ---
 
 <link

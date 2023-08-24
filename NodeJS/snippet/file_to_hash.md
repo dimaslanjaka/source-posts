@@ -8,7 +8,6 @@ cover: /NodeJS/assets/pngwing.com.png
 date: 2022-12-30T14:14:39+07:00
 description: get hashes checksum from file using NodeJS
 excerpt: get hashes checksum from file using NodeJS
-id: 949e2037-8a1e-4888-8c66-3e18f0a3eac1
 lang: en
 photos:
   - /NodeJS/assets/pngwing.com.png

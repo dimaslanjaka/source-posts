@@ -10,7 +10,6 @@ cover: https://2.bp.blogspot.com/-E174-5esug8/WU5OdQLQfCI/AAAAAAAArrM/r-L-cAnkpg
 date: 2017-06-24T20:49:00.004+07:00
 description: a
 excerpt: a
-id: 0cc175b9-0f1b-4888-8a83-c399e2697726
 lang: en
 photos:
   - https://2.bp.blogspot.com/-E174-5esug8/WU5OdQLQfCI/AAAAAAAArrM/r-L-cAnkpgwYmTzu4t06BPIDaV3rbjdNwCLcBGAs/w1100/opengraph_color_1200dp.png
@@ -21,7 +20,6 @@ thumbnail: https://2.bp.blogspot.com/-E174-5esug8/WU5OdQLQfCI/AAAAAAAArrM/r-L-cA
 title: "@ Font-face Google Fonts Roboto And Open Sans"
 type: post
 updated: 2023-08-08T14:45:54+07:00
-uuid: d1b9548b-a285-4888-8073-c104054fa476
 wordcount: 1894
 ---
 

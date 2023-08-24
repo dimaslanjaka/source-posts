@@ -16,7 +16,6 @@ excerpt: Update Genshin Impact Via Download Manager Patch Pre-Download v1.4.0 -
   v1.5.0
   game1.4.01.5.0diffH8LGSgKU.zipja-jp1.4.01.5.0diffhfBOW6ym.zipko-kr1.4.01.5.0diffNcX8UP1L.zipen-us1.4.01.5.0diffKdXT5Pi0.zipzh-cn1.4.01.5.0diffhvg2F3QM.zip
   game1.4.01.5.0diffH8LGSgKU.zip 1.4.0 diff ja-jp1.4.01.5.0diffhfBOW6
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://imagizer.imageshack.com/v2/xq90/924/u7hBUr.png
@@ -32,7 +31,6 @@ thumbnail: https://imagizer.imageshack.com/v2/xq90/924/u7hBUr.png
 title: Update Genshin Impact Via Download Manager
 type: post
 updated: 2023-08-08T14:45:11+07:00
-uuid: 4e4d250c-a07f-4888-86e3-1bbc35d3f6d6
 wordcount: 167
 ---
 

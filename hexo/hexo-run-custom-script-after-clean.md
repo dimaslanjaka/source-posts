@@ -15,7 +15,6 @@ excerpt: "hexo run custom script after clean Create custom script file create
   dir>/scripts/script-file-name.js. <your hexo project
   dir>/scripts/script-file-name.js <your hexo project dir> is your current site
   directory <your hexo project dir> fill below codes "
-id: 416503f2-2b2f-4888-8c47-7772d05a090a
 lang: en
 photos: []
 subtitle: "hexo run custom script after clean Create custom script file create

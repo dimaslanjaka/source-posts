@@ -1,27 +1,36 @@
 ---
-title: Chimeraland Scammer List Player
+author: L3n4r0x
+categories:
+  - games
+  - Chimeraland
+comments: true
+date: 2022-11-07T19:54:01+07:00
 description: Blacklist player chimeraland (scammer list meliputi ruby trader,
   map illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
   chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
-date: 2022-11-07T19:54:01+07:00
-updated: 2023-08-16T19:13:37+07:00
+excerpt: Blacklist player chimeraland (scammer list meliputi ruby trader, map
+  illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
+  chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
+keywords:
+  - scammer list chimeraland
+  - blacklist player chimeraland
 lang: id
-permalink: /chimeraland/blacklist-player.html
 multilang:
   id: /chimeraland/blacklist-player.html
   en: /chimeraland/en/blacklist-player.html
+permalink: /chimeraland/blacklist-player.html
+subtitle: Blacklist player chimeraland (scammer list meliputi ruby trader, map
+  illustrious 16 party, roll drop item, dan lain-lain). daftar SCAMMER
+  chimeraland MAP ILLUSTRIOUS 16. daftar SCAMMER chimeraland ruby.
 tags:
   - chimeraland
   - blacklist
   - guide
-categories:
-  - games
-  - Chimeraland
-keywords:
-  - scammer list chimeraland
-  - blacklist player chimeraland
 thumbnail: https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png
-author: L3n4r0x
+title: Chimeraland Scammer List Player
+type: post
+updated: 2023-08-16T19:13:37+07:00
+wordcount: 6251
 ---
 
 <p><img src="https://rawcdn.githack.com/dimaslanjaka/source-posts/d8f65abfe4e6d85cc18fd71cb1658227582bec67/chimeraland/blacklist-player/thumbnail.png" alt="chimeraland scammer" title="scammer chimeraland thumbnail"></p>

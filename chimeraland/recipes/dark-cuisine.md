@@ -1,23 +1,65 @@
 ---
-title: Recipe Dark Cuisine Chimeraland
 author: L3n4r0x
-updated: 2022-09-29T03:10:00+0700
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-07T22:56:03+07:00
+description: |-
+  Recipe Dark Cuisine Chimeraland Dark Cuisine Cooking Recipe
+                
+                Buff Dark Cuisine
+                
+                  
+                    Component for making fertilizer
+                  
+                
+                recipe
+              
+              
+                webmanajemen.com -
+excerpt: |-
+  Recipe Dark Cuisine Chimeraland Dark Cuisine Cooking Recipe
+                
+                Buff Dark Cuisine
+                
+                  
+                    Component for making fertilizer
+                  
+                
+                recipe
+              
+              
+                webmanajemen.com -
+lang: en
 permalink: /chimeraland/recipes/dark-cuisine.html
 photos:
   - /chimeraland/recipes/dark-cuisine/dark-cuisine.webp
   - /chimeraland/recipes/dark-cuisine/dark-cuisine-name.webp
   - /chimeraland/recipes/dark-cuisine/dark-cuisine-icon.webp
   - /chimeraland/recipes/dark-cuisine/dark-cuisine-material.webp
-thumbnail: /chimeraland/recipes/dark-cuisine/dark-cuisine.webp
+subtitle: |-
+  Recipe Dark Cuisine Chimeraland Dark Cuisine Cooking Recipe
+                
+                Buff Dark Cuisine
+                
+                  
+                    Component for making fertilizer
+                  
+                
+                recipe
+              
+              
+                webmanajemen.com -
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/dark-cuisine/dark-cuisine.webp
+title: Recipe Dark Cuisine Chimeraland
+type: post
+updated: 2022-09-29T03:10:00+0700
+wordcount: 1740
 ---
 
 <link

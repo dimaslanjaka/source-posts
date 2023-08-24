@@ -16,7 +16,6 @@ excerpt: "Valid AMP Contact Form Html For AMP Page Valid Contact Form For AMP
   Valid AMP contact form for blog This solved for contact form not working on
   blogger with amp feature. Now, i solved your problem with codes below: <form
   method=post name=contactform class=p2 action-xhr=https://source.l"
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrPydJSDJ0qsdxmme5yXnxWiCKL71LNDgDbdXJxGC31KXn6aG-PyQdmuOFvQ
@@ -33,7 +32,6 @@ thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrPydJSDJ0qsdxm
 title: Valid AMP Contact Form Html For AMP Page
 type: post
 updated: 2023-08-08T14:45:58+07:00
-uuid: b90c1009-1073-4888-8fc0-001b1346d007
 wordcount: 844
 ---
 

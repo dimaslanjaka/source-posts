@@ -1,19 +1,46 @@
 ---
-title: Material Dace Chimeraland
-date: 2022-01-14T23:56:03+07:00
-updated: 2022-10-06T23:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/dace.html
-photos:
-  - /chimeraland/materials/dace/dace.webp
-thumbnail: /chimeraland/materials/dace/dace.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-14T23:56:03+07:00
+description: >-
+  Material Dace Chimeraland materials
+          Dace
+          October 6, 2022 11:26 PM
+          
+            A freshwater fish that is spindle-Shaped and flattened. It has a short
+            head, rounded and blunt snout, and two pairs of whiskers. It has no
+            spines on its dorsal fin, and short ches
+excerpt: >-
+  Material Dace Chimeraland materials
+          Dace
+          October 6, 2022 11:26 PM
+          
+            A freshwater fish that is spindle-Shaped and flattened. It has a short
+            head, rounded and blunt snout, and two pairs of whiskers. It has no
+            spines on its dorsal fin, and short ches
+permalink: /chimeraland/materials/dace.html
+photos:
+  - /chimeraland/materials/dace/dace.webp
+subtitle: >-
+  Material Dace Chimeraland materials
+          Dace
+          October 6, 2022 11:26 PM
+          
+            A freshwater fish that is spindle-Shaped and flattened. It has a short
+            head, rounded and blunt snout, and two pairs of whiskers. It has no
+            spines on its dorsal fin, and short ches
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/dace/dace.webp
+title: Material Dace Chimeraland
+type: post
+updated: 2022-10-06T23:26:37+07:00
+wordcount: 963
 ---
 
 <link

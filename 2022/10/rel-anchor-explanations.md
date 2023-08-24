@@ -9,7 +9,6 @@ description: explanations, sample, and functions of rel attribute values such as
   nofollow noreferer dofollow noopener etc.
 excerpt: explanations, sample, and functions of rel attribute values such as
   nofollow noreferer dofollow noopener etc.
-id: e1d24556-98bd-4888-83d5-f6c8577cb67b
 keywords:
   - hypelink
   - rel

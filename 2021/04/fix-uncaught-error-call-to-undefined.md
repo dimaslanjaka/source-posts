@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://kuliahitblog.
 date: 2021-04-27T19:26:00.002+07:00
 description: "Uncaught Error: Call to undefined function str_starts_with Fix Solutions"
 excerpt: "Uncaught Error: Call to undefined function str_starts_with Fix Solutions"
-id: a71c99ec-1b31-4888-8231-97b43323571a
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://kuliahitblog.files.wordpress.com/2019/08/1dbdb-fatal2berror2buncaught2berror2bcall2bto2bundefined2bfunction2bmysql_connect25282529.png
@@ -22,7 +21,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://kuliahitb
 title: Fix Uncaught Error Call to undefined function str_starts_with and str_ends_with
 type: post
 updated: 2023-08-08T14:45:11+07:00
-uuid: 0879db41-1cc7-4888-88b3-d7f0056a20b8
 webtitle: PHP
 wordcount: 722
 ---

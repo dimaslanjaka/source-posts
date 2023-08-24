@@ -10,7 +10,6 @@ cover: https://3.bp.blogspot.com/-JdPb9Jp1xSk/WODgW427ETI/AAAAAAAADb4/zLz2WLm7lf
 date: 2017-07-23T06:56:00.000+07:00
 description: AdSense brings me back to the beginning every time I clickSubmit.
 excerpt: AdSense brings me back to the beginning every time I clickSubmit.
-id: 25bf6195-9c4e-4888-8bd1-6ed5b3281242
 lang: en
 photos:
   - https://3.bp.blogspot.com/-JdPb9Jp1xSk/WODgW427ETI/AAAAAAAADb4/zLz2WLm7lfs3S-7d2itu2hJ3-slbN6esACLcB/s1600/adsense-1.png
@@ -22,7 +21,6 @@ title: An alternative way to resolve the submit button is not working or return
   to home
 type: post
 updated: 2023-08-08T14:45:53+07:00
-uuid: 1183dfa0-4715-4888-81cf-0b937a3ca8dc
 wordcount: 878
 ---
 

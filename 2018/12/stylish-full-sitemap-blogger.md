@@ -16,7 +16,6 @@ excerpt: Stylish Full Sitemap Blogger How to Create Full Sitemap Blogger Pink
   Table Style Read How to async defer CSS JS perfectly How to async defer CSS JS
   perfectly Here the HTML<div id=wrapper><div id=bp_toc></div><script
   src=https://cdn.rawgit.com/Arlina-Design/redvision/master/sitemap-content.js
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://3.bp.blogspot.com/-J1AEEzKm7nw/WPoyJbtEpbI/AAAAAAAAFKI/QAv38U0jjIstJfVpQtVyDX6lBpgs9WNbACLcB/s320/Screenshot_2017-04-21-23-23-36.jpg
@@ -33,7 +32,6 @@ thumbnail: https://3.bp.blogspot.com/-J1AEEzKm7nw/WPoyJbtEpbI/AAAAAAAAFKI/QAv38U
 title: Stylish Full Sitemap Blogger
 type: post
 updated: 2023-08-08T14:45:34+07:00
-uuid: ba076905-bbac-4888-8b54-b6644506681b
 wordcount: 347
 ---
 

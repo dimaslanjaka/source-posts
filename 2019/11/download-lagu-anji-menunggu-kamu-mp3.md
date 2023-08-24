@@ -12,7 +12,6 @@ description: "Download lagu ANJI MENUNGGU KAMU Mp3 ANJI - WAIT FOR YOU Listen:
   56,760,386 Duration: 243 MP3 size: 3.8MB Download Links"
 excerpt: "Download lagu ANJI MENUNGGU KAMU Mp3 ANJI - WAIT FOR YOU Listen:
   56,760,386 Duration: 243 MP3 size: 3.8MB Download Links"
-id: 549a13cf-fc50-4888-8649-3a3ad21164bb
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/84bb7a960a2c7bf7eb19b171c35c9475.jpeg
@@ -24,7 +23,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/84bb7a960a2c7b
 title: Download lagu ANJI - MENUNGGU KAMU Mp3
 type: post
 updated: 2023-08-08T14:45:28+07:00
-uuid: 384aed04-ab2f-4888-8af0-69bc34b2288b
 wordcount: 1893
 ---
 

@@ -12,7 +12,6 @@ description: Disqus merupakan sebuah layanan komentar di dunia maya yang bisa di
   pakai dalam berbagai situs populer, seperti blog WordPress,
 excerpt: Disqus merupakan sebuah layanan komentar di dunia maya yang bisa di
   pakai dalam berbagai situs populer, seperti blog WordPress,
-id: 9064f555-5a29-4888-890b-8065e37ecd75
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://3.bp.blogspot.com/-F0nPVJldBjc/Wc5TIDQtjqI/AAAAAAAAFh0/WFawWHriTBwCX2_jw9jBn_F6jp0Bole4wCLcBGAs/s1600/Mengatasi+Tulisan+Link+yang+Otomatis+Menjadi+Link+Hidup.jpg
@@ -27,7 +26,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://3.bp.blog
 title: "[DISQUS] Mengatasi Plaintext URL Menjadi Link Hidup Otomatis"
 type: post
 updated: 2023-08-08T14:45:43+07:00
-uuid: b3b2b192-f9f0-4888-8fbd-b2aaa129a38d
 wordcount: 708
 ---
 

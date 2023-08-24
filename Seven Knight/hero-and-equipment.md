@@ -10,7 +10,6 @@ cover: https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021
 date: 2021-12-03T18:00:00+07:00
 description: Seven Knights 2 Hero Usage and Equipment Guide
 excerpt: Seven Knights 2 Hero Usage and Equipment Guide
-id: c49cfc4a-d91b-4888-8c78-1f1f111e778c
 keywords:
   - Seven Knight
   - Guide
@@ -27,7 +26,6 @@ thumbnail: https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_
 title: Hero Usage and Equipment Guide
 type: post
 updated: 2023-08-08T14:44:12+07:00
-uuid: c49cfc4a-d91b-4888-8c78-1f1f111e778c
 webtitle: Seven Knights 2
 wordcount: 4915
 ---

@@ -14,7 +14,6 @@ excerpt: bash script to rollback github pages Bash script github pages rollback
   /usr/bin/env bashecho Insert commit hash read commitHashbranch=git branch
   --show-currentbranchpatch=patchif [ -z commitHash ]; then echo No commit hash
   supplied exitfigit checkout branchgit reset --hard
-id: 5c8f5c5f-eaf3-4888-8186-609e5b9efd35
 lang: en
 photos: []
 subtitle: bash script to rollback github pages Bash script github pages rollback

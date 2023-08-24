@@ -1,23 +1,104 @@
 ---
-title: Recipe Sweet And Sour Fish Chimeraland
 author: L3n4r0x
-updated: 2022-10-07T03:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-12T22:56:03+07:00
+description: "Recipe Sweet And Sour Fish Chimeraland Sweet And Sour Fish Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Sweet And Sour Fish
+
+  \             \ 
+
+  \               \ 
+
+  \                  540 Fullness
+
+  \                  +60 RES
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \    "
+excerpt: "Recipe Sweet And Sour Fish Chimeraland Sweet And Sour Fish Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Sweet And Sour Fish
+
+  \             \ 
+
+  \               \ 
+
+  \                  540 Fullness
+
+  \                  +60 RES
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \    "
+lang: en
 permalink: /chimeraland/recipes/sweet-and-sour-fish.html
 photos:
   - /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish.webp
   - /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish-name.webp
   - /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish-icon.webp
   - /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish-material.webp
-thumbnail: /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish.webp
+subtitle: "Recipe Sweet And Sour Fish Chimeraland Sweet And Sour Fish Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Sweet And Sour Fish
+
+  \             \ 
+
+  \               \ 
+
+  \                  540 Fullness
+
+  \                  +60 RES
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \    "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish.webp
+title: Recipe Sweet And Sour Fish Chimeraland
+type: post
+updated: 2022-10-07T03:46:55+07:00
+wordcount: 875
 ---
 
 <link

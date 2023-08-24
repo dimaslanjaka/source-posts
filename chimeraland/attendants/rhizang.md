@@ -1,9 +1,73 @@
 ---
-title: Attendant rhizang
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-11-26T02:35:17+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2022-11-26T02:24:17+07:00
+description: "Attendant rhizang rhizang Information from Chimeraland
+
+  \    rhizang default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
+excerpt: "Attendant rhizang rhizang Information from Chimeraland
+
+  \    rhizang default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
 permalink: /chimeraland/attendants/rhizang.html
 photos:
   - /chimeraland/attendants/rhizang/Screenshot_2022-11-19-02-58-06-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,14 +77,46 @@ photos:
   - /chimeraland/attendants/rhizang/Screenshot_2022-11-19-02-58-32-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rhizang/Screenshot_2022-11-19-02-58-37-64_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rhizang/Screenshot_2022-11-19-02-58-42-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/rhizang/Screenshot_2022-11-19-02-58-06-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant rhizang rhizang Information from Chimeraland
+
+  \    rhizang default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/rhizang/Screenshot_2022-11-19-02-58-06-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant rhizang
+type: post
+updated: 2022-11-26T02:35:17+07:00
+webtitle: chimeraland
+wordcount: 1059
 ---
 
 <link

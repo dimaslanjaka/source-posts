@@ -12,7 +12,6 @@ description: You are a Linux lover, like to play with theLinux operating system
   , accustomed to using theLinux console . You are also an Android
 excerpt: You are a Linux lover, like to play with theLinux operating system ,
   accustomed to using theLinux console . You are also an Android
-id: 7db27687-98c1-4888-8c53-601e9a0d1664
 lang: en
 photos:
   - https://images.weserv.nl/?url=https://lh3.googleusercontent.com/p162-Lwo8Fxms5LAJ8IpICqtsT-3ziYMoy-WdSM66_jCQboVvfB8qU9c0KU3gzg_yqLE1iQAMyhVe8eRzi8=w1080-h1920-rw-no
@@ -26,7 +25,6 @@ thumbnail: https://images.weserv.nl/?url=https://lh3.googleusercontent.com/p162-
 title: Termux, a Linux in Android
 type: post
 updated: 2023-08-08T14:45:36+07:00
-uuid: 0ccfca9d-9805-4888-88ac-c8a3c42d0e38
 wordcount: 1669
 ---
 

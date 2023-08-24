@@ -1,19 +1,127 @@
 ---
-title: Material Wild Garlic Chimeraland
-date: 2022-01-17T09:56:03+07:00
-updated: 2022-10-09T09:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/wild-garlic.html
-photos:
-  - /chimeraland/materials/wild-garlic/wild-garlic.webp
-thumbnail: /chimeraland/materials/wild-garlic/wild-garlic.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-17T09:56:03+07:00
+description: "Material Wild Garlic Chimeraland materials
+
+  \        Wild Garlic
+
+  \        October 9, 2022 9:26 AM
+
+  \        Continue reading Wild Garlic
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Wild Garlic
+
+  \           \ 
+
+  \             \ 
+
+  \               \ 
+
+  \         "
+excerpt: "Material Wild Garlic Chimeraland materials
+
+  \        Wild Garlic
+
+  \        October 9, 2022 9:26 AM
+
+  \        Continue reading Wild Garlic
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Wild Garlic
+
+  \           \ 
+
+  \             \ 
+
+  \               \ 
+
+  \         "
+permalink: /chimeraland/materials/wild-garlic.html
+photos:
+  - /chimeraland/materials/wild-garlic/wild-garlic.webp
+subtitle: "Material Wild Garlic Chimeraland materials
+
+  \        Wild Garlic
+
+  \        October 9, 2022 9:26 AM
+
+  \        Continue reading Wild Garlic
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Wild Garlic
+
+  \           \ 
+
+  \             \ 
+
+  \               \ 
+
+  \         "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/wild-garlic/wild-garlic.webp
+title: Material Wild Garlic Chimeraland
+type: post
+updated: 2022-10-09T09:26:37+07:00
+wordcount: 3844
 ---
 
 <link

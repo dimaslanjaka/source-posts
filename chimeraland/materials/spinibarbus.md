@@ -1,19 +1,46 @@
 ---
-title: Material Spinibarbus Chimeraland
-date: 2022-01-16T19:56:03+07:00
-updated: 2022-10-08T19:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/spinibarbus.html
-photos:
-  - /chimeraland/materials/spinibarbus/spinibarbus.webp
-thumbnail: /chimeraland/materials/spinibarbus/spinibarbus.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-16T19:56:03+07:00
+description: >-
+  Material Spinibarbus Chimeraland materials
+          Spinibarbus
+          October 8, 2022 7:26 PM
+          
+            A freshwater fish with a slightly flattened body. It has a small and
+            slightly pointed head, and its mouth low on its head. It has two pairs
+            of whiskers, with the jaw 
+excerpt: >-
+  Material Spinibarbus Chimeraland materials
+          Spinibarbus
+          October 8, 2022 7:26 PM
+          
+            A freshwater fish with a slightly flattened body. It has a small and
+            slightly pointed head, and its mouth low on its head. It has two pairs
+            of whiskers, with the jaw 
+permalink: /chimeraland/materials/spinibarbus.html
+photos:
+  - /chimeraland/materials/spinibarbus/spinibarbus.webp
+subtitle: >-
+  Material Spinibarbus Chimeraland materials
+          Spinibarbus
+          October 8, 2022 7:26 PM
+          
+            A freshwater fish with a slightly flattened body. It has a small and
+            slightly pointed head, and its mouth low on its head. It has two pairs
+            of whiskers, with the jaw 
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/spinibarbus/spinibarbus.webp
+title: Material Spinibarbus Chimeraland
+type: post
+updated: 2022-10-08T19:26:37+07:00
+wordcount: 963
 ---
 
 <link

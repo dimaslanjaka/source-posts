@@ -1,19 +1,82 @@
 ---
-title: Material First Jade Chimeraland
-date: 2022-01-07T16:56:03+07:00
-updated: 2022-09-29T16:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/first-jade.html
-photos:
-  - /chimeraland/materials/first-jade/first-jade.webp
-thumbnail: /chimeraland/materials/first-jade/first-jade.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-07T16:56:03+07:00
+description: "Material First Jade Chimeraland materials
+
+  \        First Jade
+
+  \        September 29, 2022 4:26 PM
+
+  \       \ 
+
+  \          Glowing like a star, with crystals like dew on a leaf. It is the
+  color
+
+  \          of the sky and water, and has a mist-pattern.
+
+  \       \ 
+
+  \        Continue reading First Jade
+
+  \     \ 
+
+  \      "
+excerpt: "Material First Jade Chimeraland materials
+
+  \        First Jade
+
+  \        September 29, 2022 4:26 PM
+
+  \       \ 
+
+  \          Glowing like a star, with crystals like dew on a leaf. It is the
+  color
+
+  \          of the sky and water, and has a mist-pattern.
+
+  \       \ 
+
+  \        Continue reading First Jade
+
+  \     \ 
+
+  \      "
+permalink: /chimeraland/materials/first-jade.html
+photos:
+  - /chimeraland/materials/first-jade/first-jade.webp
+subtitle: "Material First Jade Chimeraland materials
+
+  \        First Jade
+
+  \        September 29, 2022 4:26 PM
+
+  \       \ 
+
+  \          Glowing like a star, with crystals like dew on a leaf. It is the
+  color
+
+  \          of the sky and water, and has a mist-pattern.
+
+  \       \ 
+
+  \        Continue reading First Jade
+
+  \     \ 
+
+  \      "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/first-jade/first-jade.webp
+title: Material First Jade Chimeraland
+type: post
+updated: 2022-09-29T16:26:37+07:00
+wordcount: 1104
 ---
 
 <link

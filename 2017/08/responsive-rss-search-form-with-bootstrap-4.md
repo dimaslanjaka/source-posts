@@ -18,7 +18,6 @@ excerpt: Responsive RSS Search Form With Bootstraps 4.0.0-beta Bootstraps 4,
   CDN <link rel=stylesheet
   href=https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css
   integrity=sha384-rwoIResjU2yc3z8GV/NPeZ
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://3.bp.blogspot.com/-rlX3eX2Ncmc/WaZzcWKApYI/AAAAAAAAHVc/EtQrgEUUiyou54pxhpU0AfAW-ivce0fZgCLcBGAs/s320/images%2B%25281%2529.png
@@ -35,7 +34,6 @@ thumbnail: https://3.bp.blogspot.com/-rlX3eX2Ncmc/WaZzcWKApYI/AAAAAAAAHVc/EtQrgE
 title: Responsive RSS Search Form With Bootstraps 4.0.0-beta
 type: post
 updated: 2023-08-08T14:45:48+07:00
-uuid: 787ad08a-0922-4888-8ec7-41c54743ed96
 wordcount: 2770
 ---
 

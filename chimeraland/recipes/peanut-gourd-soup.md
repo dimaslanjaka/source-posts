@@ -1,23 +1,90 @@
 ---
-title: Recipe Peanut Gourd Soup Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T19:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-10T17:56:03+07:00
+description: "Recipe Peanut Gourd Soup Chimeraland Peanut Gourd Soup Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Peanut Gourd Soup
+
+  \             \ 
+
+  \               \ 
+
+  \                  -540
+
+  \                  +8% Crit DMG
+
+  \                  Anotrog Attendant Recruitment.
+
+  \               \ 
+
+  \             \ 
+
+  \           "
+excerpt: "Recipe Peanut Gourd Soup Chimeraland Peanut Gourd Soup Cooking Recipe
+
+  \             \ 
+
+  \              Buff Peanut Gourd Soup
+
+  \             \ 
+
+  \               \ 
+
+  \                  -540
+
+  \                  +8% Crit DMG
+
+  \                  Anotrog Attendant Recruitment.
+
+  \               \ 
+
+  \             \ 
+
+  \           "
+lang: en
 permalink: /chimeraland/recipes/peanut-gourd-soup.html
 photos:
   - /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup.webp
   - /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup-name.webp
   - /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup-icon.webp
   - /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup-material.webp
-thumbnail: /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup.webp
+subtitle: "Recipe Peanut Gourd Soup Chimeraland Peanut Gourd Soup Cooking Recipe
+
+  \             \ 
+
+  \              Buff Peanut Gourd Soup
+
+  \             \ 
+
+  \               \ 
+
+  \                  -540
+
+  \                  +8% Crit DMG
+
+  \                  Anotrog Attendant Recruitment.
+
+  \               \ 
+
+  \             \ 
+
+  \           "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/peanut-gourd-soup/peanut-gourd-soup.webp
+title: Recipe Peanut Gourd Soup Chimeraland
+type: post
+updated: 2022-10-05T19:46:56+07:00
+wordcount: 1366
 ---
 
 <link

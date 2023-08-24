@@ -1,19 +1,55 @@
 ---
-title: Material Butterflyfish Chimeraland
-date: 2022-01-17T05:56:03+07:00
-updated: 2022-10-09T05:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/butterflyfish.html
-photos:
-  - /chimeraland/materials/butterflyfish/butterflyfish.webp
-thumbnail: /chimeraland/materials/butterflyfish/butterflyfish.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-17T05:56:03+07:00
+description: |+
+  Material Butterflyfish Chimeraland materials
+          Butterflyfish
+          October 9, 2022 5:26 AM
+          
+            A marine fish with a flattened body, prominent snout, and colorful,
+            elegant look. Found in various sea areas.
+          
+          Continue reading Butterflyfish
+        
+        
+excerpt: |+
+  Material Butterflyfish Chimeraland materials
+          Butterflyfish
+          October 9, 2022 5:26 AM
+          
+            A marine fish with a flattened body, prominent snout, and colorful,
+            elegant look. Found in various sea areas.
+          
+          Continue reading Butterflyfish
+        
+        
+permalink: /chimeraland/materials/butterflyfish.html
+photos:
+  - /chimeraland/materials/butterflyfish/butterflyfish.webp
+subtitle: |+
+  Material Butterflyfish Chimeraland materials
+          Butterflyfish
+          October 9, 2022 5:26 AM
+          
+            A marine fish with a flattened body, prominent snout, and colorful,
+            elegant look. Found in various sea areas.
+          
+          Continue reading Butterflyfish
+        
+        
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/butterflyfish/butterflyfish.webp
+title: Material Butterflyfish Chimeraland
+type: post
+updated: 2022-10-09T05:26:37+07:00
+wordcount: 694
 ---
 
 <link

@@ -8,7 +8,6 @@ description: Tags This post contains 3 tags. Make sure your theme can display
   all of the tags.
 excerpt: Tags This post contains 3 tags. Make sure your theme can display all of
   the tags.
-id: 189f63f2-7cd7-4888-8395-616517535630
 lang: en
 photos: []
 robots: no-index

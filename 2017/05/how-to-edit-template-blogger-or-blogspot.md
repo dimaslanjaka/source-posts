@@ -10,7 +10,6 @@ cover: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcfBozE5M4AU-Bxl7z1
 date: 2017-05-20T14:32:00.000+07:00
 description: How to edit the template blogger or blogspot
 excerpt: How to edit the template blogger or blogspot
-id: 872df988-f78c-4888-84c1-9734f4a93af3
 lang: en
 photos:
   - https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcfBozE5M4AU-Bxl7z1Zwhuup0eSbwXVKtTS9N-rJ_je8jOuradHt8nVXX
@@ -21,7 +20,6 @@ thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcfBozE5M4AU-Bx
 title: How to edit the template blogger or blogspot
 type: post
 updated: 2023-08-08T14:45:55+07:00
-uuid: feca69da-0deb-4888-8a1b-1be0b2091178
 wordcount: 1203
 ---
 

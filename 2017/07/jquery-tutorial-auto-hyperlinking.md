@@ -12,7 +12,6 @@ description: Links are found in nearly all web pages. Links allow users to click
   their way from page to page.
 excerpt: Links are found in nearly all web pages. Links allow users to click
   their way from page to page.
-id: 47aba79a-2ee9-4888-8055-bf50a06e6b38
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: JQuery Tutorial Auto Hyperlinking Plaintext URL
 type: post
 updated: 2023-08-08T14:45:51+07:00
-uuid: 77cdc717-8920-4888-8c55-55aeaf1201a9
 wordcount: 759
 ---
 

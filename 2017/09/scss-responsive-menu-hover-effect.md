@@ -12,7 +12,6 @@ description: b>Responsive Menu Hover Effect</b>:<br /><ol><li>Call jquery
   library -gt; <pre>lt;script
 excerpt: b>Responsive Menu Hover Effect</b>:<br /><ol><li>Call jquery library
   -gt; <pre>lt;script
-id: 0da22a7a-0e6a-4888-8c26-1a35599906af
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -26,7 +25,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: SCSS Responsive Menu Hover Effect
 type: post
 updated: 2023-08-08T14:45:46+07:00
-uuid: f8c9935c-3dd5-4888-8799-f73f58fab576
 wordcount: 2360
 ---
 

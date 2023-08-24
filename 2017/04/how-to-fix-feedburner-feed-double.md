@@ -12,7 +12,6 @@ description: How to fix Feedburner feed double titles issue Quick tip Most of
   the wordpress users syndicate their RSS feeds victimisation
 excerpt: How to fix Feedburner feed double titles issue Quick tip Most of the
   wordpress users syndicate their RSS feeds victimisation
-id: 8f50c8db-c374-4888-8bfb-1a8a013f0df8
 lang: en
 photos:
   - https://lh4.googleusercontent.com/proxy/OpPDt025N-7dF5nwAf8tkrBp0OX9NtsuZ7n-yatXnVPGYd4zDaTeUaUFavXyJVHQ7SbiPaDDZjg0ofk6nIcZZluTC6pVI3VDJgB6oW7oiu7OqdvER9xoLOfs57kodu4115sRRnrJGnOia-e_ugI_aUU
@@ -26,7 +25,6 @@ thumbnail: https://lh4.googleusercontent.com/proxy/OpPDt025N-7dF5nwAf8tkrBp0OX9N
 title: How to fix Feedburner feed double titles issue
 type: post
 updated: 2023-08-08T14:46:00+07:00
-uuid: 1a0abc3e-65d6-4888-8542-07d2cbc02188
 wordcount: 2233
 ---
 

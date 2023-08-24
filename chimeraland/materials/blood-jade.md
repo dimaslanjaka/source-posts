@@ -1,19 +1,76 @@
 ---
-title: Material Blood Jade Chimeraland
-date: 2022-01-09T13:56:03+07:00
-updated: 2022-10-01T13:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/blood-jade.html
-photos:
-  - /chimeraland/materials/blood-jade/blood-jade.webp
-thumbnail: /chimeraland/materials/blood-jade/blood-jade.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-09T13:56:03+07:00
+description: |-
+  Material Blood Jade Chimeraland materials
+          Blood Jade
+          October 1, 2022 1:26 PM
+          Continue reading Blood Jade
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Blood Jade
+              
+                
+                  A specialty of
+excerpt: |-
+  Material Blood Jade Chimeraland materials
+          Blood Jade
+          October 1, 2022 1:26 PM
+          Continue reading Blood Jade
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Blood Jade
+              
+                
+                  A specialty of
+permalink: /chimeraland/materials/blood-jade.html
+photos:
+  - /chimeraland/materials/blood-jade/blood-jade.webp
+subtitle: |-
+  Material Blood Jade Chimeraland materials
+          Blood Jade
+          October 1, 2022 1:26 PM
+          Continue reading Blood Jade
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Blood Jade
+              
+                
+                  A specialty of
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/blood-jade/blood-jade.webp
+title: Material Blood Jade Chimeraland
+type: post
+updated: 2022-10-01T13:26:37+07:00
+wordcount: 824
 ---
 
 <link

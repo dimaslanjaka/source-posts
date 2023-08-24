@@ -12,7 +12,6 @@ description: Previous Install XAMPP apache on android termux Fix error starting
   apache on android Open httpd.conf nano
 excerpt: Previous Install XAMPP apache on android termux Fix error starting
   apache on android Open httpd.conf nano
-id: 33fb25ae-2e6b-4888-80f8-d19a0d66520d
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/blog/wp-content/uploads/2018/11/Configuraci%C3%B3n-httpd-en-termux-Android.jpg
@@ -25,7 +24,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte
 title: Fix apache wont run on android
 type: post
 updated: 2023-08-08T14:45:10+07:00
-uuid: 7923e4c5-8f45-4888-8354-c98606dbd5d0
 wordcount: 260
 ---
 

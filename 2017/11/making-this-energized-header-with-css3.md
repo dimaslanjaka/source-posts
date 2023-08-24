@@ -16,7 +16,6 @@ excerpt: Making this energized header with CSS3 properties Patterns come and
   patterns go. The ones that stick around the longest do as such since they take
   care of a specific issue. A pattern that is well known right presently for
   that very reason, is sticky components; components that act typically until we
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://netdna-webdesignerdepot-com.cdn.ampproject.org/i/s/netdna.webdesignerdepot.com/uploads/2014/05/thumbnail8.jpg
@@ -30,7 +29,6 @@ thumbnail: https://netdna-webdesignerdepot-com.cdn.ampproject.org/i/s/netdna.web
 title: Making this energized header with CSS3 properties
 type: post
 updated: 2023-08-08T14:45:43+07:00
-uuid: 2d00c7aa-0dc4-4888-89ce-220967f64c96
 wordcount: 1490
 ---
 

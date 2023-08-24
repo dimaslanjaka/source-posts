@@ -1,9 +1,73 @@
 ---
-title: Attendant vuloberg
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-17T01:53:20+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2023-02-17T01:42:20+07:00
+description: "Attendant vuloberg vuloberg Information from Chimeraland
+
+  \    vuloberg default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
+excerpt: "Attendant vuloberg vuloberg Information from Chimeraland
+
+  \    vuloberg default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
 permalink: /chimeraland/attendants/vuloberg.html
 photos:
   - /chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-29-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,14 +77,46 @@ photos:
   - /chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-53-14_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-59-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-29-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant vuloberg vuloberg Information from Chimeraland
+
+  \    vuloberg default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/vuloberg/Screenshot_2023-02-13-16-34-29-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant vuloberg
+type: post
+updated: 2023-02-17T01:53:20+07:00
+webtitle: chimeraland
+wordcount: 1059
 ---
 
 <link

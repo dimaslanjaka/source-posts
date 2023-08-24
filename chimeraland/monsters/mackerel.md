@@ -1,21 +1,123 @@
 ---
-title: Monster Mackerel
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T09:15:12+07:00
-date: 2023-05-25T00:40:10+07:00
-permalink: /chimeraland/monsters/mackerel.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mackerel
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T00:40:10+07:00
+description: "Monster Mackerel Mackerel Information from Chimeraland
+
+  \    Mackerel default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \       "
+excerpt: "Monster Mackerel Mackerel Information from Chimeraland
+
+  \    Mackerel default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \       "
+permalink: /chimeraland/monsters/mackerel.html
+photos:
+  - null
+subtitle: "Monster Mackerel Mackerel Information from Chimeraland
+
+  \    Mackerel default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \       "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mackerel
+title: Monster Mackerel
+type: post
+updated: 2023-05-25T09:15:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

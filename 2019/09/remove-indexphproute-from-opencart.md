@@ -12,7 +12,6 @@ description: I Also have the same problem and any that I found not solved my
   problem. But I remember that I also working with Laravel and in
 excerpt: I Also have the same problem and any that I found not solved my
   problem. But I remember that I also working with Laravel and in
-id: 26c9bf20-643a-4888-83bb-f70c0c904fea
 lang: en
 photos:
   - https://i.pinimg.com/originals/6b/fd/9c/6bfd9ce3f5358772d835bc0f03fa26be.png
@@ -25,7 +24,6 @@ thumbnail: https://i.pinimg.com/originals/6b/fd/9c/6bfd9ce3f5358772d835bc0f03fa2
 title: Remove index.php?route= from opencart
 type: post
 updated: 2023-08-08T14:45:28+07:00
-uuid: 963cc71f-b97e-4888-86b0-b798fb762de3
 wordcount: 1371
 ---
 

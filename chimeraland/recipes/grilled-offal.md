@@ -1,23 +1,68 @@
 ---
-title: Recipe Grilled Offal Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T08:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-09T20:56:03+07:00
+description: |-
+  Recipe Grilled Offal Chimeraland Grilled Offal Cooking Recipe
+                
+                Buff Grilled Offal
+                
+                  
+                    300 Fullness
+                    30 Crit
+                  
+                
+                recipe
+              
+              
+                webmanaj
+excerpt: |-
+  Recipe Grilled Offal Chimeraland Grilled Offal Cooking Recipe
+                
+                Buff Grilled Offal
+                
+                  
+                    300 Fullness
+                    30 Crit
+                  
+                
+                recipe
+              
+              
+                webmanaj
+lang: en
 permalink: /chimeraland/recipes/grilled-offal.html
 photos:
   - /chimeraland/recipes/grilled-offal/grilled-offal.webp
   - /chimeraland/recipes/grilled-offal/grilled-offal-name.webp
   - /chimeraland/recipes/grilled-offal/grilled-offal-icon.webp
   - /chimeraland/recipes/grilled-offal/grilled-offal-material.webp
-thumbnail: /chimeraland/recipes/grilled-offal/grilled-offal.webp
+subtitle: |-
+  Recipe Grilled Offal Chimeraland Grilled Offal Cooking Recipe
+                
+                Buff Grilled Offal
+                
+                  
+                    300 Fullness
+                    30 Crit
+                  
+                
+                recipe
+              
+              
+                webmanaj
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/grilled-offal/grilled-offal.webp
+title: Recipe Grilled Offal Chimeraland
+type: post
+updated: 2022-10-05T08:46:56+07:00
+wordcount: 624
 ---
 
 <link

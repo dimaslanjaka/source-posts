@@ -12,7 +12,6 @@ description: If you add an external link in the template or in the post and use
   the target_blank attribute, then immediately complete the
 excerpt: If you add an external link in the template or in the post and use the
   target_blank attribute, then immediately complete the
-id: 47e3be7f-8a3b-4888-81c5-951e5745f2bc
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/514cc0b2c6a504375873f242e193fc29.jpeg
@@ -28,7 +27,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/514cc0b2c6a5
 title: Complete the External Link immediately with the Noopener Rail
 type: post
 updated: 2023-08-08T14:45:23+07:00
-uuid: 6e4eeda0-d61a-4888-8858-1f89365d2360
 wordcount: 957
 ---
 

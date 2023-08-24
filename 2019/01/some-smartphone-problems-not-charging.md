@@ -12,7 +12,6 @@ description: Some Smartphone Problems Not Charging And How To Overcome It
   Digital Mobile Phones As we know that life in this millennial era,
 excerpt: Some Smartphone Problems Not Charging And How To Overcome It Digital
   Mobile Phones As we know that life in this millennial era,
-id: 485c3e3c-b53e-4888-86b9-948c3059f20b
 lang: en
 photos:
   - https://www.digitalponsel.com/wp-content/uploads/2018/12/xCharging-Error-1024x576.jpg.pagespeed.ic.EnaRgqXG5M.jpg
@@ -25,7 +24,6 @@ thumbnail: https://www.digitalponsel.com/wp-content/uploads/2018/12/xCharging-Er
 title: Some Smartphone Problems Not Charging And How To Overcome It
 type: post
 updated: 2023-08-08T14:45:32+07:00
-uuid: b2fd8fb1-d496-4888-88a4-53a354894090
 wordcount: 10630
 ---
 

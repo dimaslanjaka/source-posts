@@ -1,23 +1,102 @@
 ---
-title: Recipe Fried Intestines Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T19:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-08T16:56:03+07:00
+description: "Recipe Fried Intestines Chimeraland Fried Intestines Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Fried Intestines
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +60 Crit
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \            "
+excerpt: "Recipe Fried Intestines Chimeraland Fried Intestines Cooking Recipe
+
+  \             \ 
+
+  \              Buff Fried Intestines
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +60 Crit
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \            "
+lang: en
 permalink: /chimeraland/recipes/fried-intestines.html
 photos:
   - /chimeraland/recipes/fried-intestines/fried-intestines.webp
   - /chimeraland/recipes/fried-intestines/fried-intestines-name.webp
   - /chimeraland/recipes/fried-intestines/fried-intestines-icon.webp
   - /chimeraland/recipes/fried-intestines/fried-intestines-material.webp
-thumbnail: /chimeraland/recipes/fried-intestines/fried-intestines.webp
+subtitle: "Recipe Fried Intestines Chimeraland Fried Intestines Cooking Recipe
+
+  \             \ 
+
+  \              Buff Fried Intestines
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +60 Crit
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \            "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/fried-intestines/fried-intestines.webp
+title: Recipe Fried Intestines Chimeraland
+type: post
+updated: 2022-10-05T19:46:54+07:00
+wordcount: 1281
 ---
 
 <link

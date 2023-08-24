@@ -10,7 +10,6 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2020-10-26T23:39:00.001+07:00
 description: Tutorial
 excerpt: Tutorial
-id: 368fe771-61fc-4888-818f-988833c9294a
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -21,7 +20,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Git force redownload from remote repository
 type: post
 updated: 2023-08-08T14:45:11+07:00
-uuid: beb05131-0c41-4888-8b5e-d922308c54b5
 wordcount: 41
 ---
 

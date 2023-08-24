@@ -9,7 +9,6 @@ cover: https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jp
 date: 2021-11-17T16:00:00+07:00
 description: Usage, explanations of node options for nodejs
 excerpt: Usage, explanations of node options for nodejs
-id: 79954f62-6b7c-4888-80fb-2e9ba0e55f59
 keywords:
   - nodejs
   - arguments
@@ -26,7 +25,6 @@ thumbnail: https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-heade
 title: All About NodeJS Configurations
 type: post
 updated: 2023-08-08T14:44:15+07:00
-uuid: 586f70e0-6dec-4888-8cac-99671aad2296
 wordcount: 721
 ---
 

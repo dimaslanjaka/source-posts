@@ -1,9 +1,73 @@
 ---
-title: Monster Floating Mist
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T15:00:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-05-25T02:21:12+07:00
+description: "Monster Floating Mist Floating Mist Information from Chimeraland
+
+  \    Floating Mist default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \       "
+excerpt: "Monster Floating Mist Floating Mist Information from Chimeraland
+
+  \    Floating Mist default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \       "
 permalink: /chimeraland/monsters/floating-mist.html
 photos:
   - null
@@ -18,15 +82,47 @@ photos:
   - /chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-01-06-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-01-11-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/floating-mist/Screenshot_2023-08-07-01-01-18-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Floating Mist
+subtitle: "Monster Floating Mist Floating Mist Information from Chimeraland
+
+  \    Floating Mist default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \       "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Floating Mist
+title: Monster Floating Mist
+type: post
+updated: 2023-05-25T15:00:12+07:00
+webtitle: chimeraland
+wordcount: 1549
 ---
 
 <link

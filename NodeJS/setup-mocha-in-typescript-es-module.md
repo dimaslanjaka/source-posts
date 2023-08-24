@@ -14,7 +14,6 @@ excerpt: "How to setup mocha in typescript ES Module Install dependencies npm
   npm install -D mocha chai ts-mocha typescript ts-node .mocharc.json for
   typescript ESM project extension: [ ts ], node-option: [
   experimental-specifier-resolution=node, loader=ts-node/esm.mjs ], sp"
-id: 056d373a-2557-4888-8a77-4af680213b47
 lang: en
 photos:
   - https://user-images.githubusercontent.com/17888086/62067383-2fe4af00-b1f9-11e9-88c4-4953bb090215.png

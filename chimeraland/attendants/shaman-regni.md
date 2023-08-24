@@ -1,22 +1,33 @@
 ---
-title: Attendant Shaman Regni
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-29T04:26:37+07:00
-date: 2022-01-07T05:56:03+07:00
-permalink: /chimeraland/attendants/shaman-regni.html
-photos: []
-tags:
-  - chimeraland
-  - Attendant
 categories:
   - games
   - chimeraland
   - attendants
+comments: true
+date: 2022-01-07T05:56:03+07:00
 description: attendant Shaman Regni default quality GRADE C ATK 60 HP 60 DEF 60
   Attack 30,HP 300,Monster EXP Bonus 40% delicacies/tasty Rustic Preserved Deer
   Roll,Exotic Herbal Jelly,Hot Stone Icefox Meat games,chimeraland,attendants
   chimeraland,Attendant
+excerpt: attendant Shaman Regni default quality GRADE C ATK 60 HP 60 DEF 60
+  Attack 30,HP 300,Monster EXP Bonus 40% delicacies/tasty Rustic Preserved Deer
+  Roll,Exotic Herbal Jelly,Hot Stone Icefox Meat games,chimeraland,attendants
+  chimeraland,Attendant
+permalink: /chimeraland/attendants/shaman-regni.html
+photos: []
+subtitle: attendant Shaman Regni default quality GRADE C ATK 60 HP 60 DEF 60
+  Attack 30,HP 300,Monster EXP Bonus 40% delicacies/tasty Rustic Preserved Deer
+  Roll,Exotic Herbal Jelly,Hot Stone Icefox Meat games,chimeraland,attendants
+  chimeraland,Attendant
+tags:
+  - chimeraland
+  - Attendant
+title: Attendant Shaman Regni
+type: post
+updated: 2022-09-29T04:26:37+07:00
+webtitle: chimeraland
+wordcount: 966
 ---
 
 <link

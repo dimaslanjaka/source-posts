@@ -1,23 +1,102 @@
 ---
-title: Recipe Sliced Mushrooms Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T11:46:57+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-11T10:56:03+07:00
+description: "Recipe Sliced Mushrooms Chimeraland Sliced Mushrooms Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Sliced Mushrooms
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  Cold Resistance +15
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \ "
+excerpt: "Recipe Sliced Mushrooms Chimeraland Sliced Mushrooms Cooking Recipe
+
+  \             \ 
+
+  \              Buff Sliced Mushrooms
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  Cold Resistance +15
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \ "
+lang: en
 permalink: /chimeraland/recipes/sliced-mushrooms.html
 photos:
   - /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms.webp
   - /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms-name.webp
   - /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms-icon.webp
   - /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms-material.webp
-thumbnail: /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms.webp
+subtitle: "Recipe Sliced Mushrooms Chimeraland Sliced Mushrooms Cooking Recipe
+
+  \             \ 
+
+  \              Buff Sliced Mushrooms
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  Cold Resistance +15
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \ "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/sliced-mushrooms/sliced-mushrooms.webp
+title: Recipe Sliced Mushrooms Chimeraland
+type: post
+updated: 2022-10-05T11:46:57+07:00
+wordcount: 740
 ---
 
 <link

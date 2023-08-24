@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh6.googleuse
 date: 2018-11-13T03:33:00.000+07:00
 description: after struggling finally
 excerpt: after struggling finally
-id: 2e782bba-8c9e-4888-8453-00fc446a0ac9
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh6.googleusercontent.com/-toLz3YUOMz8/T4N7B_ofSMI/AAAAAAAADa8/YIwsAh5MVtI/s800/shot_000003.png
@@ -26,7 +25,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh6.googl
 title: Installation Ubuntu On Android Tutorial
 type: post
 updated: 2023-08-08T14:45:37+07:00
-uuid: 3402c99d-aeef-4888-8696-cc1b3bbff706
 wordcount: 2498
 ---
 

@@ -14,7 +14,6 @@ excerpt: Code Highlight Style test Make sure all the code blocks highlighted
   https://highlightjs.org Lorem Ipsum is simply dummy text of the printing and
   typesetting industry. Lorem Ipsum has been the industrys standard dummy text
   ever since the 1500
-id: ff9d37b4-2f62-4888-80fb-300d28c442ec
 lang: en
 photos: []
 robots: no-index

@@ -1,9 +1,70 @@
 ---
-title: Monster giant fire bear
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-25T05:55:43+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-02-25T05:44:43+07:00
+description: "Monster giant fire bear giant fire bear Information from
+  Chimeraland
+
+  \    giant fire bear default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \      "
+excerpt: "Monster giant fire bear giant fire bear Information from Chimeraland
+
+  \    giant fire bear default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \      "
 permalink: /chimeraland/monsters/giant-fire-bear.html
 photos:
   - /chimeraland/monsters/giant-fire-bear/Screenshot_2023-02-22-13-38-33-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +74,45 @@ photos:
   - /chimeraland/monsters/giant-fire-bear/Screenshot_2023-02-22-13-38-50-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-fire-bear/Screenshot_2023-02-22-13-38-57-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-fire-bear/Screenshot_2023-02-22-13-39-02-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-fire-bear/Screenshot_2023-02-22-13-38-33-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant fire bear giant fire bear Information from Chimeraland
+
+  \    giant fire bear default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \      "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-fire-bear/Screenshot_2023-02-22-13-38-33-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant fire bear
+type: post
+updated: 2023-02-25T05:55:43+07:00
+webtitle: chimeraland
+wordcount: 1253
 ---
 
 <link

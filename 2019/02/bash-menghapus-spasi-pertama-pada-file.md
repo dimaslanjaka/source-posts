@@ -12,7 +12,6 @@ description: pre><br />IFS=\n<br /> for f in find . -type f -name <br /> do <br
   /> mv f f/\.\/ /\.\/<br /> done<br /></pre><div
 excerpt: pre><br />IFS=\n<br /> for f in find . -type f -name <br /> do <br />
   mv f f/\.\/ /\.\/<br /> done<br /></pre><div
-id: f9bda1c7-14e3-4888-8516-aefad99868ec
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: "[Bash] Menghapus spasi pertama pada file"
 type: post
 updated: 2023-08-08T14:45:32+07:00
-uuid: 1c0340ff-6c07-4888-8593-53271e92f1b0
 wordcount: 49
 ---
 

@@ -1,9 +1,19 @@
 ---
-title: Monster Azure Light
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T07:16:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-07T05:56:03+07:00
+description: "monster Azure Light default quality GRADE B ATK 60 HP 61 DEF 62
+  Attributes Conversion Rate 4.0%,PvP DMG Bonus 4.8%,Essence Aspect: Billowings
+  delicacies/tasty Tasty Exotic Crab,Hot 'n Sour Jelly,Flamebug Meat Claypot
+  games,chimeraland,monsters chimeraland,monster,pet"
+excerpt: "monster Azure Light default quality GRADE B ATK 60 HP 61 DEF 62
+  Attributes Conversion Rate 4.0%,PvP DMG Bonus 4.8%,Essence Aspect: Billowings
+  delicacies/tasty Tasty Exotic Crab,Hot 'n Sour Jelly,Flamebug Meat Claypot
+  games,chimeraland,monsters chimeraland,monster,pet"
 permalink: /chimeraland/monsters/azure-light.html
 photos:
   - null
@@ -13,19 +23,20 @@ photos:
   - /chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-04-04-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-04-09-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/azure-light/Screenshot_2022-07-15-17-04-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Azure Light
+subtitle: "monster Azure Light default quality GRADE B ATK 60 HP 61 DEF 62
+  Attributes Conversion Rate 4.0%,PvP DMG Bonus 4.8%,Essence Aspect: Billowings
+  delicacies/tasty Tasty Exotic Crab,Hot 'n Sour Jelly,Flamebug Meat Claypot
+  games,chimeraland,monsters chimeraland,monster,pet"
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
-description: "monster Azure Light default quality GRADE B ATK 60 HP 61 DEF 62
-  Attributes Conversion Rate 4.0%,PvP DMG Bonus 4.8%,Essence Aspect: Billowings
-  delicacies/tasty Tasty Exotic Crab,Hot 'n Sour Jelly,Flamebug Meat Claypot
-  games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Azure Light
+title: Monster Azure Light
+type: post
+updated: 2023-05-25T07:16:12+07:00
+webtitle: chimeraland
+wordcount: 1578
 ---
 
 <link

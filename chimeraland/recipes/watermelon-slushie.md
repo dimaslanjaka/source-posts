@@ -1,23 +1,98 @@
 ---
-title: Recipe Watermelon Slushie Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T19:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-13T02:56:03+07:00
+description: "Recipe Watermelon Slushie Chimeraland Watermelon Slushie Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Watermelon Slushie
+
+  \             \ 
+
+  \               \ 
+
+  \                  +420 fullness
+
+  \                  Heat Resistance +15
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \       "
+excerpt: "Recipe Watermelon Slushie Chimeraland Watermelon Slushie Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Watermelon Slushie
+
+  \             \ 
+
+  \               \ 
+
+  \                  +420 fullness
+
+  \                  Heat Resistance +15
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \       "
+lang: en
 permalink: /chimeraland/recipes/watermelon-slushie.html
 photos:
   - /chimeraland/recipes/watermelon-slushie/watermelon-slushie.webp
   - /chimeraland/recipes/watermelon-slushie/watermelon-slushie-name.webp
   - /chimeraland/recipes/watermelon-slushie/watermelon-slushie-icon.webp
   - /chimeraland/recipes/watermelon-slushie/watermelon-slushie-material.webp
-thumbnail: /chimeraland/recipes/watermelon-slushie/watermelon-slushie.webp
+subtitle: "Recipe Watermelon Slushie Chimeraland Watermelon Slushie Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Watermelon Slushie
+
+  \             \ 
+
+  \               \ 
+
+  \                  +420 fullness
+
+  \                  Heat Resistance +15
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \       "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/watermelon-slushie/watermelon-slushie.webp
+title: Recipe Watermelon Slushie Chimeraland
+type: post
+updated: 2022-10-06T19:46:56+07:00
+wordcount: 845
 ---
 
 <link

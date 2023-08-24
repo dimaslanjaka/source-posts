@@ -11,7 +11,6 @@ cover: https://i.imgur.com/zHDw2i0.png
 date: 2021-06-07T11:20:00.003+07:00
 description: Update genshin impact manual via download manager IDM.
 excerpt: Update genshin impact manual via download manager IDM.
-id: 9c9f0b3c-10fe-4888-89e7-dbcc506b591b
 lang: en
 photos:
   - https://i.imgur.com/zHDw2i0.png
@@ -23,7 +22,6 @@ thumbnail: https://i.imgur.com/zHDw2i0.png
 title: Update Genshin Impact Patch v.1.5.1 - v.1.6.0 Via Download Manager
 type: post
 updated: 2023-08-08T14:45:10+07:00
-uuid: 419c2d50-0863-4888-8472-68be4e9cc5c1
 wordcount: 251
 ---
 

@@ -1,23 +1,62 @@
 ---
-title: Recipe Fried Pork In Scoop Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T08:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-08T19:56:03+07:00
+description: |-
+  Recipe Fried Pork In Scoop Chimeraland Fried Pork In Scoop Cooking Recipe
+                
+                Buff Fried Pork In Scoop
+                
+                  
+                    660 Fullness
+                    +100 RES
+                    Great Focus
+                  
+                
+                recipe
+excerpt: |-
+  Recipe Fried Pork In Scoop Chimeraland Fried Pork In Scoop Cooking Recipe
+                
+                Buff Fried Pork In Scoop
+                
+                  
+                    660 Fullness
+                    +100 RES
+                    Great Focus
+                  
+                
+                recipe
+lang: en
 permalink: /chimeraland/recipes/fried-pork-in-scoop.html
 photos:
   - /chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop.webp
   - /chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop-name.webp
   - /chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop-icon.webp
   - /chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop-material.webp
-thumbnail: /chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop.webp
+subtitle: |-
+  Recipe Fried Pork In Scoop Chimeraland Fried Pork In Scoop Cooking Recipe
+                
+                Buff Fried Pork In Scoop
+                
+                  
+                    660 Fullness
+                    +100 RES
+                    Great Focus
+                  
+                
+                recipe
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/fried-pork-in-scoop/fried-pork-in-scoop.webp
+title: Recipe Fried Pork In Scoop Chimeraland
+type: post
+updated: 2022-10-05T08:46:54+07:00
+wordcount: 840
 ---
 
 <link

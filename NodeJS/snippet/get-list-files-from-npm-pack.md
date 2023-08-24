@@ -14,7 +14,6 @@ excerpt: get list of files from npm pack npm i git-command-helper //const
   writeFileSync = requirefs;const spawnAsync =
   requiregit-command-helper/dist/spawn;//const join = requirepath;spawnAsyncnpm,
   [pack, --json, --dry-run].thenresult => const parse = JSON.parser
-id: fe7fc946-6cab-4888-83b7-83578167a442
 lang: en
 photos:
   - /NodeJS/assets/pngwing.com.png

@@ -7,7 +7,6 @@ comments: true
 date: 2022-10-16T04:01:16+07:00
 description: Kumpulan rumus satuan dalam matematika
 excerpt: Kumpulan rumus satuan dalam matematika
-id: 4fd6d4d5-304d-4888-8292-09b33f25616e
 lang: id
 photos: []
 subtitle: Kumpulan rumus satuan dalam matematika

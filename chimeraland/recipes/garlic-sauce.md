@@ -1,23 +1,101 @@
 ---
-title: Recipe Garlic Sauce Chimeraland
 author: L3n4r0x
-updated: 2022-09-29T08:26:37+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-09T01:56:03+07:00
+description: "Recipe Garlic Sauce Chimeraland Garlic Sauce Cooking Recipe
+
+  \             \ 
+
+  \              Buff Garlic Sauce
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Reduces Toxins by 30
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \            "
+excerpt: "Recipe Garlic Sauce Chimeraland Garlic Sauce Cooking Recipe
+
+  \             \ 
+
+  \              Buff Garlic Sauce
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Reduces Toxins by 30
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \            "
+lang: en
 permalink: /chimeraland/recipes/garlic-sauce.html
 photos:
   - /chimeraland/recipes/garlic-sauce/garlic-sauce.webp
   - /chimeraland/recipes/garlic-sauce/garlic-sauce-name.webp
   - /chimeraland/recipes/garlic-sauce/garlic-sauce-icon.webp
   - /chimeraland/recipes/garlic-sauce/garlic-sauce-material.webp
-thumbnail: /chimeraland/recipes/garlic-sauce/garlic-sauce.webp
+subtitle: "Recipe Garlic Sauce Chimeraland Garlic Sauce Cooking Recipe
+
+  \             \ 
+
+  \              Buff Garlic Sauce
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Reduces Toxins by 30
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \            "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/garlic-sauce/garlic-sauce.webp
+title: Recipe Garlic Sauce Chimeraland
+type: post
+updated: 2022-09-29T08:26:37+07:00
+wordcount: 658
 ---
 
 <link

@@ -14,7 +14,6 @@ description: img
 excerpt: img
   src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4624.png
   title=speed dial icon alt=speed dial
-id: 946d6ec1-c423-4888-80b8-c966ba43e113
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4624.png
@@ -31,7 +30,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net
 title: How to Display Icon Blog In speed dial Browser
 type: post
 updated: 2023-08-08T14:45:35+07:00
-uuid: 4e577201-dab4-4888-8c7d-5a7ccee64efa
 wordcount: 70
 ---
 

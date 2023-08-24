@@ -1,19 +1,97 @@
 ---
-title: Material Thorny Pipfruit Chimeraland
-date: 2022-01-14T03:56:03+07:00
-updated: 2022-10-06T03:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/thorny-pipfruit.html
-photos:
-  - /chimeraland/materials/thorny-pipfruit/thorny-pipfruit.webp
-thumbnail: /chimeraland/materials/thorny-pipfruit/thorny-pipfruit.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-14T03:56:03+07:00
+description: "Material Thorny Pipfruit Chimeraland materials
+
+  \        Thorny Pipfruit
+
+  \        October 6, 2022 3:26 AM
+
+  \       \ 
+
+  \          Yellowthorn fruit. Many seeds and with a bitter taste, eaten to
+
+  \          relieve discomfort.
+
+  \       \ 
+
+  \        Continue reading Thorny Pipfruit
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \    "
+excerpt: "Material Thorny Pipfruit Chimeraland materials
+
+  \        Thorny Pipfruit
+
+  \        October 6, 2022 3:26 AM
+
+  \       \ 
+
+  \          Yellowthorn fruit. Many seeds and with a bitter taste, eaten to
+
+  \          relieve discomfort.
+
+  \       \ 
+
+  \        Continue reading Thorny Pipfruit
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \    "
+permalink: /chimeraland/materials/thorny-pipfruit.html
+photos:
+  - /chimeraland/materials/thorny-pipfruit/thorny-pipfruit.webp
+subtitle: "Material Thorny Pipfruit Chimeraland materials
+
+  \        Thorny Pipfruit
+
+  \        October 6, 2022 3:26 AM
+
+  \       \ 
+
+  \          Yellowthorn fruit. Many seeds and with a bitter taste, eaten to
+
+  \          relieve discomfort.
+
+  \       \ 
+
+  \        Continue reading Thorny Pipfruit
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \    "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/thorny-pipfruit/thorny-pipfruit.webp
+title: Material Thorny Pipfruit Chimeraland
+type: post
+updated: 2022-10-06T03:26:37+07:00
+wordcount: 1071
 ---
 
 <link

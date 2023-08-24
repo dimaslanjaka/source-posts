@@ -1,21 +1,117 @@
 ---
-title: Monster Moorish Idol
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T07:31:12+07:00
-date: 2023-05-25T00:40:10+07:00
-permalink: /chimeraland/monsters/moorish-idol.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Moorish Idol
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T00:40:10+07:00
+description: "Monster Moorish Idol Moorish Idol Information from Chimeraland
+
+  \    Moorish Idol default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+excerpt: "Monster Moorish Idol Moorish Idol Information from Chimeraland
+
+  \    Moorish Idol default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+permalink: /chimeraland/monsters/moorish-idol.html
+photos:
+  - null
+subtitle: "Monster Moorish Idol Moorish Idol Information from Chimeraland
+
+  \    Moorish Idol default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Moorish Idol
+title: Monster Moorish Idol
+type: post
+updated: 2023-05-25T07:31:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

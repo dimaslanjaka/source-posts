@@ -1,19 +1,115 @@
 ---
-title: Material Red and White Beak Chimeraland
-date: 2022-01-11T13:56:03+07:00
-updated: 2022-10-03T13:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/red-and-white-beak.html
-photos:
-  - /chimeraland/materials/red-and-white-beak/red-and-white-beak.webp
-thumbnail: /chimeraland/materials/red-and-white-beak/red-and-white-beak.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-11T13:56:03+07:00
+description: "Material Red and White Beak Chimeraland materials
+
+  \        Red and White Beak
+
+  \        October 3, 2022 1:26 PM
+
+  \        Continue reading Red and White Beak
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Red and White Beak
+
+  \           "
+excerpt: "Material Red and White Beak Chimeraland materials
+
+  \        Red and White Beak
+
+  \        October 3, 2022 1:26 PM
+
+  \        Continue reading Red and White Beak
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Red and White Beak
+
+  \           "
+permalink: /chimeraland/materials/red-and-white-beak.html
+photos:
+  - /chimeraland/materials/red-and-white-beak/red-and-white-beak.webp
+subtitle: "Material Red and White Beak Chimeraland materials
+
+  \        Red and White Beak
+
+  \        October 3, 2022 1:26 PM
+
+  \        Continue reading Red and White Beak
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Red and White Beak
+
+  \           "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/red-and-white-beak/red-and-white-beak.webp
+title: Material Red and White Beak Chimeraland
+type: post
+updated: 2022-10-03T13:26:37+07:00
+wordcount: 1519
 ---
 
 <link

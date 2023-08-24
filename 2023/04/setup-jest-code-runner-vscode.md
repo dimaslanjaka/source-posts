@@ -16,7 +16,6 @@ excerpt: How to setup jest typescript and code runner in vscode How to setup
   directly run test single file in vscode without typings manually in terminal,
   see below screenshot Requirements install vscode code-runneroptional install
   vsco
-id: a40dc803-9a6d-4888-8243-66a59a2a3122
 lang: en
 photos: []
 subtitle: How to setup jest typescript and code runner in vscode How to setup

@@ -1,23 +1,86 @@
 ---
-title: Recipe Chimeraland One Pot Dish Chimeraland
 author: L3n4r0x
-updated: 2022-09-29T00:26:37+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-13T06:56:03+07:00
+description: "Recipe Chimeraland One Pot Dish Chimeraland Chimeraland One Pot
+  Dish Cooking Recipe
+
+  \             \ 
+
+  \              Buff Chimeraland One Pot Dish
+
+  \             \ 
+
+  \               \ 
+
+  \                  This food can be given to all pets and attendants
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \    "
+excerpt: "Recipe Chimeraland One Pot Dish Chimeraland Chimeraland One Pot Dish
+  Cooking Recipe
+
+  \             \ 
+
+  \              Buff Chimeraland One Pot Dish
+
+  \             \ 
+
+  \               \ 
+
+  \                  This food can be given to all pets and attendants
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \    "
+lang: en
 permalink: /chimeraland/recipes/chimeraland-one-pot-dish.html
 photos:
   - null
   - null
   - null
   - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Chimeraland One Pot Dish
+subtitle: "Recipe Chimeraland One Pot Dish Chimeraland Chimeraland One Pot Dish
+  Cooking Recipe
+
+  \             \ 
+
+  \              Buff Chimeraland One Pot Dish
+
+  \             \ 
+
+  \               \ 
+
+  \                  This food can be given to all pets and attendants
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \    "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Chimeraland One Pot Dish
+title: Recipe Chimeraland One Pot Dish Chimeraland
+type: post
+updated: 2022-09-29T00:26:37+07:00
+wordcount: 754
 ---
 
 <link

@@ -1,19 +1,70 @@
 ---
-title: Material Illustrious Beast Soul Chimeraland
-date: 2022-01-11T20:56:03+07:00
-updated: 2022-10-03T20:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/illustrious-beast-soul.html
-photos:
-  - /chimeraland/materials/illustrious-beast-soul/illustrious-beast-soul.webp
-thumbnail: /chimeraland/materials/illustrious-beast-soul/illustrious-beast-soul.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-11T20:56:03+07:00
+description: |-
+  Material Illustrious Beast Soul Chimeraland materials
+          Illustrious Beast Soul
+          October 3, 2022 8:26 PM
+          Continue reading Illustrious Beast Soul
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              
+                What is the use of the Illustrious Beast 
+excerpt: |-
+  Material Illustrious Beast Soul Chimeraland materials
+          Illustrious Beast Soul
+          October 3, 2022 8:26 PM
+          Continue reading Illustrious Beast Soul
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              
+                What is the use of the Illustrious Beast 
+permalink: /chimeraland/materials/illustrious-beast-soul.html
+photos:
+  - /chimeraland/materials/illustrious-beast-soul/illustrious-beast-soul.webp
+subtitle: |-
+  Material Illustrious Beast Soul Chimeraland materials
+          Illustrious Beast Soul
+          October 3, 2022 8:26 PM
+          Continue reading Illustrious Beast Soul
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              
+                What is the use of the Illustrious Beast 
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/illustrious-beast-soul/illustrious-beast-soul.webp
+title: Material Illustrious Beast Soul Chimeraland
+type: post
+updated: 2022-10-03T20:26:37+07:00
+wordcount: 1379
 ---
 
 <link

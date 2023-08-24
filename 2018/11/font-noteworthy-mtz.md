@@ -10,7 +10,6 @@ cover: https://en.miui.com/data/attachment/image/001/02/52/11_240_240.jpg
 date: 2018-11-23T20:45:00.002+07:00
 description: Font Noteworthy terbaru yang mendukung Unicode dan simbol.
 excerpt: Font Noteworthy terbaru yang mendukung Unicode dan simbol.
-id: 33e728db-10c9-4888-850a-16ae3e33dc9b
 lang: en
 photos:
   - https://en.miui.com/data/attachment/image/001/02/52/11_240_240.jpg
@@ -22,7 +21,6 @@ thumbnail: https://en.miui.com/data/attachment/image/001/02/52/11_240_240.jpg
 title: Font Noteworthy MTZ file
 type: post
 updated: 2023-08-08T14:45:37+07:00
-uuid: 33068e9b-8f20-4888-8f7e-524d71795c7a
 wordcount: 59
 ---
 

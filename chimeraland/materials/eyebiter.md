@@ -1,19 +1,145 @@
 ---
-title: Material Eyebiter Chimeraland
-date: 2022-01-16T01:56:03+07:00
-updated: 2022-10-08T01:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/eyebiter.html
-photos:
-  - /chimeraland/materials/eyebiter/eyebiter.webp
-thumbnail: /chimeraland/materials/eyebiter/eyebiter.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-16T01:56:03+07:00
+description: "Material Eyebiter Chimeraland materials
+
+  \        Eyebiter
+
+  \        October 8, 2022 1:26 AM
+
+  \        Continue reading Eyebiter
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Eyebiter
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \          "
+excerpt: "Material Eyebiter Chimeraland materials
+
+  \        Eyebiter
+
+  \        October 8, 2022 1:26 AM
+
+  \        Continue reading Eyebiter
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Eyebiter
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \          "
+permalink: /chimeraland/materials/eyebiter.html
+photos:
+  - /chimeraland/materials/eyebiter/eyebiter.webp
+subtitle: "Material Eyebiter Chimeraland materials
+
+  \        Eyebiter
+
+  \        October 8, 2022 1:26 AM
+
+  \        Continue reading Eyebiter
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Eyebiter
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \          "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/eyebiter/eyebiter.webp
+title: Material Eyebiter Chimeraland
+type: post
+updated: 2022-10-08T01:26:37+07:00
+wordcount: 621
 ---
 
 <link

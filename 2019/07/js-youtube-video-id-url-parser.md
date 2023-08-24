@@ -12,7 +12,6 @@ description: Extract video id from youtube URL with javascript function function
   youtubeparserurl var regExp =
 excerpt: Extract video id from youtube URL with javascript function function
   youtubeparserurl var regExp =
-id: ffeeeff5-5ed1-4888-8094-c6270f53b1b8
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: "[JS] Youtube Video ID URL Parser"
 type: post
 updated: 2023-08-08T14:45:30+07:00
-uuid: fc26a82f-95a0-4888-8b4e-d28bbc248a4e
 wordcount: 340
 ---
 

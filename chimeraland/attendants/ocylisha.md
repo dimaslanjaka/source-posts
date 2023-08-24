@@ -1,9 +1,73 @@
 ---
-title: Attendant ocylisha
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-08-06T22:00:21+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2023-08-06T21:49:21+07:00
+description: "Attendant ocylisha ocylisha Information from Chimeraland
+
+  \    ocylisha default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
+excerpt: "Attendant ocylisha ocylisha Information from Chimeraland
+
+  \    ocylisha default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
 permalink: /chimeraland/attendants/ocylisha.html
 photos:
   - /chimeraland/attendants/ocylisha/Screenshot_2023-05-30-03-14-08-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,14 +79,46 @@ photos:
   - /chimeraland/attendants/ocylisha/Screenshot_2023-05-30-03-14-46-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/ocylisha/Screenshot_2023-05-30-03-14-53-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/ocylisha/Screenshot_2023-05-30-03-15-00-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/ocylisha/Screenshot_2023-05-30-03-14-08-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant ocylisha ocylisha Information from Chimeraland
+
+  \    ocylisha default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/ocylisha/Screenshot_2023-05-30-03-14-08-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant ocylisha
+type: post
+updated: 2023-08-06T22:00:21+07:00
+webtitle: chimeraland
+wordcount: 1201
 ---
 
 <link

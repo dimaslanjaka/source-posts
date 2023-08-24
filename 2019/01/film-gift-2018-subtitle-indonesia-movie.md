@@ -12,7 +12,6 @@ description: Watch Film Online The Gift 2018 Indonesian subtitles - When
   novelist Tiana falls in love with a visually impaired Harun on her 30th
 excerpt: Watch Film Online The Gift 2018 Indonesian subtitles - When novelist
   Tiana falls in love with a visually impaired Harun on her 30th
-id: c909013c-9fc9-4888-8605-d0a4d519625e
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Film The Gift 2018 Subtitle Indonesia Movie
 type: post
 updated: 2023-08-08T14:45:33+07:00
-uuid: 1545a2eb-b99d-4888-8083-7e5d77891b9a
 wordcount: 695
 ---
 

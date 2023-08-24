@@ -10,7 +10,6 @@ cover: https://4.bp.blogspot.com/-9TgnNklt76g/WQFHOdxzpVI/AAAAAAAAq2s/wsRqKdRdwW
 date: 2017-07-24T20:47:00.000+07:00
 description: Blogger AMP Tutorial PartsMemasang Komentar Facebook di blogger AMP
 excerpt: Blogger AMP Tutorial PartsMemasang Komentar Facebook di blogger AMP
-id: 174b1565-540f-4888-8d8c-2e2a5178d354
 lang: en
 photos:
   - https://4.bp.blogspot.com/-9TgnNklt76g/WQFHOdxzpVI/AAAAAAAAq2s/wsRqKdRdwWg3gjEz1sC8512SVBmRNVwxwCLcB/s1600/Screenshot_8.png
@@ -23,7 +22,6 @@ thumbnail: https://4.bp.blogspot.com/-9TgnNklt76g/WQFHOdxzpVI/AAAAAAAAq2s/wsRqKd
 title: Memasang komentar facebook di Blogger AMP
 type: post
 updated: 2023-08-08T14:45:51+07:00
-uuid: 580f2618-b09c-4888-821d-11791192ff77
 wordcount: 2369
 ---
 

@@ -1,23 +1,65 @@
 ---
-title: Recipe Scraps Claypot Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T12:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-11T06:56:03+07:00
+description: |-
+  Recipe Scraps Claypot Chimeraland Scraps Claypot Cooking Recipe
+                
+                Buff Scraps Claypot
+                
+                  
+                    180 Fullness
+                  
+                
+                recipe
+              
+              
+                webmanajemen.com - recipe Scrap
+excerpt: |-
+  Recipe Scraps Claypot Chimeraland Scraps Claypot Cooking Recipe
+                
+                Buff Scraps Claypot
+                
+                  
+                    180 Fullness
+                  
+                
+                recipe
+              
+              
+                webmanajemen.com - recipe Scrap
+lang: en
 permalink: /chimeraland/recipes/scraps-claypot.html
 photos:
   - /chimeraland/recipes/scraps-claypot/scraps-claypot.webp
   - /chimeraland/recipes/scraps-claypot/scraps-claypot-name.webp
   - /chimeraland/recipes/scraps-claypot/scraps-claypot-icon.webp
   - /chimeraland/recipes/scraps-claypot/scraps-claypot-material.webp
-thumbnail: /chimeraland/recipes/scraps-claypot/scraps-claypot.webp
+subtitle: |-
+  Recipe Scraps Claypot Chimeraland Scraps Claypot Cooking Recipe
+                
+                Buff Scraps Claypot
+                
+                  
+                    180 Fullness
+                  
+                
+                recipe
+              
+              
+                webmanajemen.com - recipe Scrap
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/scraps-claypot/scraps-claypot.webp
+title: Recipe Scraps Claypot Chimeraland
+type: post
+updated: 2022-10-06T12:46:55+07:00
+wordcount: 669
 ---
 
 <link

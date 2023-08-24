@@ -1,9 +1,43 @@
 ---
-title: Monster giant batolf
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-16T21:53:22+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-02-16T21:42:22+07:00
+description: |+
+  Monster giant batolf giant batolf Information from Chimeraland
+      giant batolf default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Attack
+                  N/A
+                
+excerpt: |+
+  Monster giant batolf giant batolf Information from Chimeraland
+      giant batolf default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Attack
+                  N/A
+                
 permalink: /chimeraland/monsters/giant-batolf.html
 photos:
   - /chimeraland/monsters/giant-batolf/Screenshot_2023-02-15-02-43-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +48,32 @@ photos:
   - /chimeraland/monsters/giant-batolf/Screenshot_2023-02-15-02-43-47-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-batolf/Screenshot_2023-02-15-02-43-52-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-batolf/Screenshot_2023-02-15-02-43-57-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-batolf/Screenshot_2023-02-15-02-43-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: |+
+  Monster giant batolf giant batolf Information from Chimeraland
+      giant batolf default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Attack
+                  N/A
+                
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-batolf/Screenshot_2023-02-15-02-43-21-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant batolf
+type: post
+updated: 2023-02-16T21:53:22+07:00
+webtitle: chimeraland
+wordcount: 1237
 ---
 
 <link

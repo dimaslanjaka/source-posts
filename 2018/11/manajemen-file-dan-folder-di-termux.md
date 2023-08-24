@@ -12,7 +12,6 @@ description: mkdir berguna untuk membuat folder.Misal anda ingin membuat folder
   di HOME termux
 excerpt: mkdir berguna untuk membuat folder.Misal anda ingin membuat folder di
   HOME termux
-id: d44efecf-d2b0-4888-8734-d462cbc4e174
 lang: en
 photos:
   - https://cdn1.imggmi.com/uploads/2018/11/12/64a52e8966eaa055d3c4d714a994f2a6-full.png
@@ -25,7 +24,6 @@ thumbnail: https://cdn1.imggmi.com/uploads/2018/11/12/64a52e8966eaa055d3c4d714a9
 title: Manajemen file dan folder di Termux
 type: post
 updated: 2023-08-08T14:45:36+07:00
-uuid: 14f64b57-9b7f-4888-8e13-2a1697a64aa3
 wordcount: 4185
 ---
 

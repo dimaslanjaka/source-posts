@@ -1,20 +1,92 @@
 ---
-title: Material Pale Jade Chimeraland
-date: 2022-01-07T03:56:03+07:00
-updated: 2022-09-29T03:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/pale-jade.html
-photos:
-  - /chimeraland/materials/pale-jade/pale-jade.webp
-  - /chimeraland/materials/pale-jade/eastmount.webp
-thumbnail: /chimeraland/materials/pale-jade/pale-jade.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-07T03:56:03+07:00
+description: "Material Pale Jade Chimeraland materials
+
+  \        Pale Jade
+
+  \        September 29, 2022 3:26 AM
+
+  \       \ 
+
+  \          The color of jade s pale such as water, cool to the touch such as
+
+  \          water, even its sound is alike to water.
+
+  \       \ 
+
+  \        Continue reading Pale Jade
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \   "
+excerpt: "Material Pale Jade Chimeraland materials
+
+  \        Pale Jade
+
+  \        September 29, 2022 3:26 AM
+
+  \       \ 
+
+  \          The color of jade s pale such as water, cool to the touch such as
+
+  \          water, even its sound is alike to water.
+
+  \       \ 
+
+  \        Continue reading Pale Jade
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \   "
+permalink: /chimeraland/materials/pale-jade.html
+photos:
+  - /chimeraland/materials/pale-jade/pale-jade.webp
+  - /chimeraland/materials/pale-jade/eastmount.webp
+subtitle: "Material Pale Jade Chimeraland materials
+
+  \        Pale Jade
+
+  \        September 29, 2022 3:26 AM
+
+  \       \ 
+
+  \          The color of jade s pale such as water, cool to the touch such as
+
+  \          water, even its sound is alike to water.
+
+  \       \ 
+
+  \        Continue reading Pale Jade
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \   "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/pale-jade/pale-jade.webp
+title: Material Pale Jade Chimeraland
+type: post
+updated: 2022-09-29T03:26:37+07:00
+wordcount: 1216
 ---
 
 <link

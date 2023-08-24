@@ -1,9 +1,77 @@
 ---
-title: Monster Strallow
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T06:57:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-05-25T00:40:10+07:00
+description: "Monster Strallow Strallow Information from Chimeraland
+
+  \    Strallow default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \       "
+excerpt: "Monster Strallow Strallow Information from Chimeraland
+
+  \    Strallow default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \       "
 permalink: /chimeraland/monsters/strallow.html
 photos:
   - null
@@ -12,15 +80,49 @@ photos:
   - /chimeraland/monsters/strallow/Screenshot 2023-06-14 014819.webp
   - /chimeraland/monsters/strallow/Screenshot 2023-06-14 014835.webp
   - /chimeraland/monsters/strallow/Screenshot 2023-06-14 014852.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Strallow
+subtitle: "Monster Strallow Strallow Information from Chimeraland
+
+  \    Strallow default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \       "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Strallow
+title: Monster Strallow
+type: post
+updated: 2023-05-25T06:57:12+07:00
+webtitle: chimeraland
+wordcount: 1066
 ---
 
 <link

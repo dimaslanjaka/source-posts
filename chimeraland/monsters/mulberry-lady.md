@@ -1,9 +1,73 @@
 ---
-title: Monster mulberry lady
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T08:31:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-02-17T02:42:22+07:00
+description: "Monster mulberry lady mulberry lady Information from Chimeraland
+
+  \    mulberry lady default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \       "
+excerpt: "Monster mulberry lady mulberry lady Information from Chimeraland
+
+  \    mulberry lady default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \       "
 permalink: /chimeraland/monsters/mulberry-lady.html
 photos:
   - null
@@ -16,15 +80,47 @@ photos:
   - /chimeraland/monsters/mulberry-lady/Screenshot_2023-02-16-03-10-39-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mulberry-lady/Screenshot_2023-02-16-03-10-43-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mulberry-lady/Screenshot_2023-02-16-03-10-49-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=mulberry lady
+subtitle: "Monster mulberry lady mulberry lady Information from Chimeraland
+
+  \    mulberry lady default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \       "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=mulberry lady
+title: Monster mulberry lady
+type: post
+updated: 2023-05-25T08:31:12+07:00
+webtitle: chimeraland
+wordcount: 1387
 ---
 
 <link

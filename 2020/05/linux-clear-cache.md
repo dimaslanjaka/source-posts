@@ -11,7 +11,6 @@ cover: https://res.cloudinary.com/practicaldev/image/fetch/https://www.wissensch
 date: 2020-05-30T00:03:00.002+07:00
 description: Script To Clear Cache Linux
 excerpt: Script To Clear Cache Linux
-id: 70a9cd6a-2cb6-4888-8dec-4994e563b878
 lang: en
 photos:
   - https://res.cloudinary.com/practicaldev/image/fetch/https://www.wissenschaft.com.ng/wp-content/uploads/2021/02/clear_ram_buffer_linux.jpg
@@ -25,7 +24,6 @@ thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/https://www.wisse
 title: Linux Clear Cache
 type: post
 updated: 2023-08-08T14:45:13+07:00
-uuid: db68c44f-5c4e-4888-824c-065ae21add60
 webtitle: Script
 wordcount: 343
 ---

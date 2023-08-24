@@ -10,7 +10,6 @@ cover: https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021
 date: 2021-11-30T20:00:00+07:00
 description: Guide SK2 for F2P
 excerpt: Guide SK2 for F2P
-id: d6337782-e225-4888-8fca-4207d72f764f
 keywords:
   - Seven Knight
   - Guide
@@ -26,7 +25,6 @@ thumbnail: https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_
 title: F2P Guide
 type: post
 updated: 2023-08-08T14:44:13+07:00
-uuid: d6337782-e225-4888-8fca-4207d72f764f
 webtitle: Seven Knights 2
 wordcount: 35228
 ---

@@ -18,7 +18,6 @@ excerpt: NodeJS Common Fix Command On Linux Or Windows Linux add new
   apt install libgtk-3-0 -ysudo apt install software-properties-common
   checkinstall -ysudo apt-get install libreadline-gplv2-dev libncursesw5-dev
   libssl-dev lib
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -35,7 +34,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: NodeJS Common Fix Command On Linux Or Windows
 type: post
 updated: 2023-08-08T14:45:11+07:00
-uuid: 3584efed-319f-4888-876a-74f129bb2333
 wordcount: 282
 ---
 

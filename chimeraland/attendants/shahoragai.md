@@ -1,9 +1,19 @@
 ---
-title: Attendant Shahoragai
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-29T10:26:37+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2022-01-07T04:56:03+07:00
+description: attendant Shahoragai default quality GRADE C ATK 58 HP 63 DEF 59
+  Attack 30,HP 300,Monster EXP Bonus 40% delicacies/tasty 3-Flavor Braised
+  Wing,Pepper Salt Scorpion Pincer,Stir-Fried Browtelope
+  games,chimeraland,attendants chimeraland,Attendant
+excerpt: attendant Shahoragai default quality GRADE C ATK 58 HP 63 DEF 59 Attack
+  30,HP 300,Monster EXP Bonus 40% delicacies/tasty 3-Flavor Braised Wing,Pepper
+  Salt Scorpion Pincer,Stir-Fried Browtelope games,chimeraland,attendants
+  chimeraland,Attendant
 permalink: /chimeraland/attendants/shahoragai.html
 photos:
   - /chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-20-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,18 +22,19 @@ photos:
   - /chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-31-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-35-28_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-40-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-20-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
-tags:
-  - chimeraland
-  - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
-description: attendant Shahoragai default quality GRADE C ATK 58 HP 63 DEF 59
+subtitle: attendant Shahoragai default quality GRADE C ATK 58 HP 63 DEF 59
   Attack 30,HP 300,Monster EXP Bonus 40% delicacies/tasty 3-Flavor Braised
   Wing,Pepper Salt Scorpion Pincer,Stir-Fried Browtelope
   games,chimeraland,attendants chimeraland,Attendant
+tags:
+  - chimeraland
+  - Attendant
+thumbnail: /chimeraland/attendants/shahoragai/Screenshot_2022-07-17-22-35-20-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant Shahoragai
+type: post
+updated: 2022-09-29T10:26:37+07:00
+webtitle: chimeraland
+wordcount: 1360
 ---
 
 <link

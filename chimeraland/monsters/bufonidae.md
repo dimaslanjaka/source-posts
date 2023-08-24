@@ -1,21 +1,123 @@
 ---
-title: Monster Bufonidae
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T18:31:12+07:00
-date: 2023-05-25T00:40:10+07:00
-permalink: /chimeraland/monsters/bufonidae.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bufonidae
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T00:40:10+07:00
+description: "Monster Bufonidae Bufonidae Information from Chimeraland
+
+  \    Bufonidae default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \    "
+excerpt: "Monster Bufonidae Bufonidae Information from Chimeraland
+
+  \    Bufonidae default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \    "
+permalink: /chimeraland/monsters/bufonidae.html
+photos:
+  - null
+subtitle: "Monster Bufonidae Bufonidae Information from Chimeraland
+
+  \    Bufonidae default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \    "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bufonidae
+title: Monster Bufonidae
+type: post
+updated: 2023-05-25T18:31:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

@@ -1,21 +1,117 @@
 ---
-title: Monster Gripperbird
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T14:27:12+07:00
-date: 2023-05-25T02:21:12+07:00
-permalink: /chimeraland/monsters/gripperbird.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gripperbird
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T02:21:12+07:00
+description: "Monster Gripperbird Gripperbird Information from Chimeraland
+
+  \    Gripperbird default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             "
+excerpt: "Monster Gripperbird Gripperbird Information from Chimeraland
+
+  \    Gripperbird default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             "
+permalink: /chimeraland/monsters/gripperbird.html
+photos:
+  - null
+subtitle: "Monster Gripperbird Gripperbird Information from Chimeraland
+
+  \    Gripperbird default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gripperbird
+title: Monster Gripperbird
+type: post
+updated: 2023-05-25T14:27:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

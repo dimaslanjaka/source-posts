@@ -12,7 +12,6 @@ description: Lag or Broken is one of the factors that make it uncomfortable when
   users play the game. Not only happens in notebooks or PCs, lag
 excerpt: Lag or Broken is one of the factors that make it uncomfortable when
   users play the game. Not only happens in notebooks or PCs, lag
-id: 608b578e-50d7-4888-8f56-330e01f47220
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -26,7 +25,6 @@ title: 5 Tips and Tutorials How to Overcome Lag or Broken Game Ark Survival
   Evolved Mobile on Android Smartphone
 type: post
 updated: 2023-08-08T14:45:40+07:00
-uuid: 8beb5d12-94eb-4888-8103-4f9a2a3a190c
 wordcount: 1431
 ---
 

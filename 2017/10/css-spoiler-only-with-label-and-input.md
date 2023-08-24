@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blogspot
 date: 2017-10-07T05:14:00.000+07:00
 description: unfortunately thedetailsandsummary tagsare not allowed in AMP HTML.
 excerpt: unfortunately thedetailsandsummary tagsare not allowed in AMP HTML.
-id: 3837ceb8-46e8-4888-8432-1acc2d06335b
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blogspot.com/-fuQY4ZIJfBw/WIfqL98biyI/AAAAAAAApSU/2Tw6yaOlGJ8GjyAXYt60X65XxNbn8kMIACLcB/w1100/spoiler-css-only.jpg
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blog
 title: CSS Spoiler Only With Label And Input
 type: post
 updated: 2023-08-08T14:45:44+07:00
-uuid: 71827b6b-9a66-4888-82e6-82083fe98b92
 wordcount: 1293
 ---
 

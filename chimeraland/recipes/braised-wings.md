@@ -1,23 +1,101 @@
 ---
-title: Recipe Braised Wings Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:46:57+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-07T12:56:03+07:00
+description: "Recipe Braised Wings Chimeraland Braised Wings Cooking Recipe
+
+  \             \ 
+
+  \              Buff Braised Wings
+
+  \             \ 
+
+  \               \ 
+
+  \                  540 Fullness
+
+  \                  8% CRIT damage deal
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \          "
+excerpt: "Recipe Braised Wings Chimeraland Braised Wings Cooking Recipe
+
+  \             \ 
+
+  \              Buff Braised Wings
+
+  \             \ 
+
+  \               \ 
+
+  \                  540 Fullness
+
+  \                  8% CRIT damage deal
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \          "
+lang: en
 permalink: /chimeraland/recipes/braised-wings.html
 photos:
   - /chimeraland/recipes/braised-wings/braised-wings.webp
   - /chimeraland/recipes/braised-wings/braised-wings-name.webp
   - /chimeraland/recipes/braised-wings/braised-wings-icon.webp
   - /chimeraland/recipes/braised-wings/braised-wings-material.webp
-thumbnail: /chimeraland/recipes/braised-wings/braised-wings.webp
+subtitle: "Recipe Braised Wings Chimeraland Braised Wings Cooking Recipe
+
+  \             \ 
+
+  \              Buff Braised Wings
+
+  \             \ 
+
+  \               \ 
+
+  \                  540 Fullness
+
+  \                  8% CRIT damage deal
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \          "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/braised-wings/braised-wings.webp
+title: Recipe Braised Wings Chimeraland
+type: post
+updated: 2022-10-05T07:46:57+07:00
+wordcount: 752
 ---
 
 <link

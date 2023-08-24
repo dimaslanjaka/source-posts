@@ -15,7 +15,6 @@ excerpt: yaml github actions to clean all caches add TOKEN to Github Actions
   add TOKEN to Github Actions Secrets Environtment TOKEN create
   .github/workflows/clean-caches.yml, put below codes
   .github/workflows/clean-caches.yml nam
-id: 36b22d1f-51ee-4888-8f7e-160a796fdccd
 lang: en
 photos: []
 subtitle: yaml github actions to clean all caches add TOKEN to Github Actions

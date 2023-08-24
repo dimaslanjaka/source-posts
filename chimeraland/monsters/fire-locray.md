@@ -1,21 +1,117 @@
 ---
-title: Monster Fire Locray
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T02:48:12+07:00
-date: 2023-05-25T02:21:12+07:00
-permalink: /chimeraland/monsters/fire-locray.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Locray
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T02:21:12+07:00
+description: "Monster Fire Locray Fire Locray Information from Chimeraland
+
+  \    Fire Locray default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             "
+excerpt: "Monster Fire Locray Fire Locray Information from Chimeraland
+
+  \    Fire Locray default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             "
+permalink: /chimeraland/monsters/fire-locray.html
+photos:
+  - null
+subtitle: "Monster Fire Locray Fire Locray Information from Chimeraland
+
+  \    Fire Locray default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Locray
+title: Monster Fire Locray
+type: post
+updated: 2023-05-25T02:48:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

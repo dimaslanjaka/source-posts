@@ -1,19 +1,115 @@
 ---
-title: Monster Dragon Horse
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-29T17:18:27+07:00
-date: 2022-01-06T22:56:03+07:00
-permalink: /chimeraland/monsters/dragon-horse.html
-photos: []
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2022-01-06T22:56:03+07:00
+description: "Monster Dragon Horse Dragon Horse Information from Chimeraland
+
+  \    Dragon Horse default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+excerpt: "Monster Dragon Horse Dragon Horse Information from Chimeraland
+
+  \    Dragon Horse default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+permalink: /chimeraland/monsters/dragon-horse.html
+photos: []
+subtitle: "Monster Dragon Horse Dragon Horse Information from Chimeraland
+
+  \    Dragon Horse default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+tags:
+  - chimeraland
+  - monster
+  - pet
+title: Monster Dragon Horse
+type: post
+updated: 2022-09-29T17:18:27+07:00
+webtitle: chimeraland
+wordcount: 534
 ---
 
 <link

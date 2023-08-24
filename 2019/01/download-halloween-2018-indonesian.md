@@ -15,7 +15,6 @@ description: "import
 excerpt: "import
   urlhttps://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstr\
   ap.min.css; .content ,.keyword ,.keywords "
-id: a111050e-c4eb-4888-8014-73452524f93c
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s3.dunia21.org/wp-content/uploads/2018/10/film-halloween2018-lk21.jpg
@@ -28,7 +27,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s3.dunia21
 title: Download Halloween 2018 Indonesian Subtitles Movie Free Movie Bluray
 type: post
 updated: 2023-08-08T14:45:33+07:00
-uuid: 1735d23e-d41b-4888-8b65-b876924f8245
 wordcount: 2643
 ---
 

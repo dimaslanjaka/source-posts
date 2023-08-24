@@ -10,7 +10,6 @@ cover: https://i.ibb.co/024Dzwh/Screenshot-1.png
 date: 2021-05-30T16:43:00.003+07:00
 description: compress es6, minify es6 in intellij idea automatically
 excerpt: compress es6, minify es6 in intellij idea automatically
-id: e874df15-9d7e-4888-8607-b669abcd7136
 lang: en
 photos:
   - https://i.ibb.co/024Dzwh/Screenshot-1.png
@@ -23,7 +22,6 @@ thumbnail: https://i.ibb.co/024Dzwh/Screenshot-1.png
 title: Compress ES6 In Intellij IDEA
 type: post
 updated: 2023-08-08T14:45:11+07:00
-uuid: 0ac49882-5f5b-4888-84cf-0a0541116745
 webtitle: Intellij IDEA
 wordcount: 366
 ---

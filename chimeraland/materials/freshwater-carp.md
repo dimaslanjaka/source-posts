@@ -1,19 +1,46 @@
 ---
-title: Material Freshwater Carp Chimeraland
-date: 2022-01-14T22:56:03+07:00
-updated: 2022-10-06T22:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/freshwater-carp.html
-photos:
-  - /chimeraland/materials/freshwater-carp/freshwater-carp.webp
-thumbnail: /chimeraland/materials/freshwater-carp/freshwater-carp.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-14T22:56:03+07:00
+description: >-
+  Material Freshwater Carp Chimeraland materials
+          Freshwater Carp
+          October 6, 2022 10:26 PM
+          
+            A freshwater fish with a slightly flattened body, a large head with a
+            pointed end, and a flat and wide back of the head, with a raised
+            dorsal posterior. The 
+excerpt: >-
+  Material Freshwater Carp Chimeraland materials
+          Freshwater Carp
+          October 6, 2022 10:26 PM
+          
+            A freshwater fish with a slightly flattened body, a large head with a
+            pointed end, and a flat and wide back of the head, with a raised
+            dorsal posterior. The 
+permalink: /chimeraland/materials/freshwater-carp.html
+photos:
+  - /chimeraland/materials/freshwater-carp/freshwater-carp.webp
+subtitle: >-
+  Material Freshwater Carp Chimeraland materials
+          Freshwater Carp
+          October 6, 2022 10:26 PM
+          
+            A freshwater fish with a slightly flattened body, a large head with a
+            pointed end, and a flat and wide back of the head, with a raised
+            dorsal posterior. The 
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/freshwater-carp/freshwater-carp.webp
+title: Material Freshwater Carp Chimeraland
+type: post
+updated: 2022-10-06T22:26:37+07:00
+wordcount: 1069
 ---
 
 <link

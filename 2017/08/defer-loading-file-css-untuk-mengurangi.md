@@ -16,7 +16,6 @@ excerpt: Defer Loading File CSS untuk Mengurangi Waktu Pemuatan Halaman CSS HTML
   menunda pemuatan tombol media sosial Taruh kode kode pilih salah satu diatas
   </body> tag </body> Async CSS Loading <script>//define function to load cssvar
   loadCss = function var cssLink = document.createElementlink
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkn6QekHv4y1EKpYAOy9FD3qAngAFoLYAB9faenCIkJi44YFLGAmFBWDa5
@@ -34,7 +33,6 @@ thumbnail: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkn6QekHv4y1EKp
 title: Defer Loading File CSS untuk Mengurangi Waktu Pemuatan Halaman
 type: post
 updated: 2023-08-08T14:45:49+07:00
-uuid: 7c12cdd4-eeee-4888-8529-a5ff0af2ed6e
 wordcount: 726
 ---
 

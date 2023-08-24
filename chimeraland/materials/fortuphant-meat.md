@@ -1,19 +1,127 @@
 ---
-title: Material Fortuphant Meat Chimeraland
-date: 2022-01-08T09:56:03+07:00
-updated: 2022-09-30T09:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/fortuphant-meat.html
-photos:
-  - /chimeraland/materials/fortuphant-meat/fortuphant-meat.webp
-thumbnail: /chimeraland/materials/fortuphant-meat/fortuphant-meat.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-08T09:56:03+07:00
+description: "Material Fortuphant Meat Chimeraland materials
+
+  \        Fortuphant Meat
+
+  \        September 30, 2022 9:26 AM
+
+  \        Continue reading Fortuphant Meat
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Fortuphant Meat
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \  "
+excerpt: "Material Fortuphant Meat Chimeraland materials
+
+  \        Fortuphant Meat
+
+  \        September 30, 2022 9:26 AM
+
+  \        Continue reading Fortuphant Meat
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Fortuphant Meat
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \  "
+permalink: /chimeraland/materials/fortuphant-meat.html
+photos:
+  - /chimeraland/materials/fortuphant-meat/fortuphant-meat.webp
+subtitle: "Material Fortuphant Meat Chimeraland materials
+
+  \        Fortuphant Meat
+
+  \        September 30, 2022 9:26 AM
+
+  \        Continue reading Fortuphant Meat
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Fortuphant Meat
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \  "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/fortuphant-meat/fortuphant-meat.webp
+title: Material Fortuphant Meat Chimeraland
+type: post
+updated: 2022-09-30T09:26:37+07:00
+wordcount: 633
 ---
 
 <link

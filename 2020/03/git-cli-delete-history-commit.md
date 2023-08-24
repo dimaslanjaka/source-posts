@@ -18,7 +18,6 @@ excerpt: Git CLI Delete History Commit Checkoutgit checkout --orphan
   commit messageDelete the branch git branch -D masterRename the current branch
   to master git branch -m masterFinally, force update your repositorygit push -f
   origin
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://cdn.icon-icons.com/icons2/1488/PNG/512/5347-github_102542.png
@@ -33,7 +32,6 @@ thumbnail: https://cdn.icon-icons.com/icons2/1488/PNG/512/5347-github_102542.png
 title: Git CLI Delete History Commit
 type: post
 updated: 2023-08-08T14:45:13+07:00
-uuid: 881f2abd-ef90-4888-8532-888422e228ad
 wordcount: 159
 ---
 

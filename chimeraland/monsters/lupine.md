@@ -1,21 +1,123 @@
 ---
-title: Monster Lupine
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T06:02:12+07:00
-date: 2022-01-09T03:56:03+07:00
-permalink: /chimeraland/monsters/lupine.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Lupine
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2022-01-09T03:56:03+07:00
+description: "Monster Lupine Lupine Information from Chimeraland
+
+  \    Lupine default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                57
+
+  \             \ 
+
+  \             \ 
+
+  \     "
+excerpt: "Monster Lupine Lupine Information from Chimeraland
+
+  \    Lupine default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                57
+
+  \             \ 
+
+  \             \ 
+
+  \     "
+permalink: /chimeraland/monsters/lupine.html
+photos:
+  - null
+subtitle: "Monster Lupine Lupine Information from Chimeraland
+
+  \    Lupine default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                57
+
+  \             \ 
+
+  \             \ 
+
+  \     "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Lupine
+title: Monster Lupine
+type: post
+updated: 2023-05-25T06:02:12+07:00
+webtitle: chimeraland
+wordcount: 633
 ---
 
 <link

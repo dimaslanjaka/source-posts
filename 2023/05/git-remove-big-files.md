@@ -15,7 +15,6 @@ excerpt: remove files from git history for specific size delete big files from
   folder/your/repositorybfg --strip-blobs-bigger-than 100M . clean old logs
   before push git reflog expire --expire=now --all git gc --prune=now
   --aggressive push git push
-id: 849a8c80-1fce-4888-88e4-91f08ce6538d
 lang: en
 photos: []
 subtitle: remove files from git history for specific size delete big files from

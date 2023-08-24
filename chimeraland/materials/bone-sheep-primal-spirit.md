@@ -1,19 +1,70 @@
 ---
-title: Material Bone Sheep Primal Spirit Chimeraland
-date: 2022-01-07T00:56:03+07:00
-updated: 2022-09-29T00:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/bone-sheep-primal-spirit.html
-photos:
-  - /chimeraland/materials/bone-sheep-primal-spirit/bone-sheep-primal-spirit.webp
-thumbnail: /chimeraland/materials/bone-sheep-primal-spirit/bone-sheep-primal-spirit.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-07T00:56:03+07:00
+description: |-
+  Material Bone Sheep Primal Spirit Chimeraland materials
+          Bone Sheep Primal Spirit
+          September 29, 2022 12:26 AM
+          Continue reading Bone Sheep Primal Spirit
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              
+                What is the use of the Bone She
+excerpt: |-
+  Material Bone Sheep Primal Spirit Chimeraland materials
+          Bone Sheep Primal Spirit
+          September 29, 2022 12:26 AM
+          Continue reading Bone Sheep Primal Spirit
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              
+                What is the use of the Bone She
+permalink: /chimeraland/materials/bone-sheep-primal-spirit.html
+photos:
+  - /chimeraland/materials/bone-sheep-primal-spirit/bone-sheep-primal-spirit.webp
+subtitle: |-
+  Material Bone Sheep Primal Spirit Chimeraland materials
+          Bone Sheep Primal Spirit
+          September 29, 2022 12:26 AM
+          Continue reading Bone Sheep Primal Spirit
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              
+                What is the use of the Bone She
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/bone-sheep-primal-spirit/bone-sheep-primal-spirit.webp
+title: Material Bone Sheep Primal Spirit Chimeraland
+type: post
+updated: 2022-09-29T00:26:37+07:00
+wordcount: 1476
 ---
 
 <link

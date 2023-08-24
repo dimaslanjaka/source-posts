@@ -9,7 +9,6 @@ cover: /2022/10/cara-mengecualikan-kalimat-dalam-beberapa-elemen-dari-serp/cover
 date: 2022-10-12T10:38:30+07:00
 description: cara menghilangkan beberapa kalimat dari artikel
 excerpt: cara menghilangkan beberapa kalimat dari artikel
-id: d60adf45-0559-4888-8803-203fbb98eaa5
 keywords:
   - menghilangkan kalimat artikel dari SERP
 lang: en

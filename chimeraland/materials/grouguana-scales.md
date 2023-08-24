@@ -1,19 +1,70 @@
 ---
-title: Material Grouguana Scales Chimeraland
-date: 2022-01-09T15:56:03+07:00
-updated: 2022-10-01T15:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/grouguana-scales.html
-photos:
-  - /chimeraland/materials/grouguana-scales/grouguana-scales.webp
-thumbnail: /chimeraland/materials/grouguana-scales/grouguana-scales.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-09T15:56:03+07:00
+description: |-
+  Material Grouguana Scales Chimeraland materials
+          Grouguana Scales
+          October 1, 2022 3:26 PM
+          Viper Scale, worn to not sink.
+          Continue reading Grouguana Scales
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Grouguana Sc
+excerpt: |-
+  Material Grouguana Scales Chimeraland materials
+          Grouguana Scales
+          October 1, 2022 3:26 PM
+          Viper Scale, worn to not sink.
+          Continue reading Grouguana Scales
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Grouguana Sc
+permalink: /chimeraland/materials/grouguana-scales.html
+photos:
+  - /chimeraland/materials/grouguana-scales/grouguana-scales.webp
+subtitle: |-
+  Material Grouguana Scales Chimeraland materials
+          Grouguana Scales
+          October 1, 2022 3:26 PM
+          Viper Scale, worn to not sink.
+          Continue reading Grouguana Scales
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Grouguana Sc
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/grouguana-scales/grouguana-scales.webp
+title: Material Grouguana Scales Chimeraland
+type: post
+updated: 2022-10-01T15:26:37+07:00
+wordcount: 1061
 ---
 
 <link

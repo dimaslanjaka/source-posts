@@ -14,7 +14,6 @@ description: img border=0
 excerpt: img border=0
   src=https://static.cdn-cdpl.com/700x350/5615bb41d81fad8fe992985aec0e5f29/js.jpg
   data-original-width=700
-id: 21b5764f-1a20-4888-83c4-aead1194edfc
 lang: en
 photos:
   - https://static.cdn-cdpl.com/700x350/5615bb41d81fad8fe992985aec0e5f29/js.jpg
@@ -28,7 +27,6 @@ thumbnail: https://static.cdn-cdpl.com/700x350/5615bb41d81fad8fe992985aec0e5f29/
 title: Membuat array javascript unik
 type: post
 updated: 2023-08-08T14:45:15+07:00
-uuid: 8c0ab152-ccfa-4888-84b0-6e9e8a76aa71
 wordcount: 127
 ---
 

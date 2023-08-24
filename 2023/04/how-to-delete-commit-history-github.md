@@ -14,7 +14,6 @@ excerpt: How to delete commit history from github repository How to delete
   commit history from github repository bash script to delete history of commits
   from github repository /usr/bin/env bash delete commit historybranch=git
   branch --show-currentgit checkout --orphan latest_branch Move to new
-id: 51a1b33d-405d-4888-8416-037bbe7e136e
 lang: en
 photos:
   - https://www.techielass.com/content/images/2022/09/REWRITING-GIT-HISTORY.png

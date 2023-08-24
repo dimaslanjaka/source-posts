@@ -12,7 +12,6 @@ description: AMP Social Share for Blogger Updated Twitter, Google, Facebook
   Whatsapp Social Media SEO
 excerpt: AMP Social Share for Blogger Updated Twitter, Google, Facebook Whatsapp
   Social Media SEO
-id: 114ed717-eb85-4888-81c5-2698c104e1fe
 lang: en
 photos:
   - https://2.bp.blogspot.com/-BArnZ4MFXXQ/WITkNuW5pUI/AAAAAAAAAfM/6gQsyQ9xXGAmyFtnQR2UzPn6Xm7BqXdVwCLcB/s320/amp-blogger-social-share.webp
@@ -29,7 +28,6 @@ thumbnail: https://2.bp.blogspot.com/-BArnZ4MFXXQ/WITkNuW5pUI/AAAAAAAAAfM/6gQsyQ
 title: AMP Social Share for Blogger
 type: post
 updated: 2023-08-08T14:45:57+07:00
-uuid: 988645b6-3568-4888-870f-76561e070e93
 wordcount: 2736
 ---
 

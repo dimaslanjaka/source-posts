@@ -8,7 +8,6 @@ comments: true
 date: 2022-08-28T22:11:00+0700
 description: How to create bootstrap 4 multiple cards carousel without any plugin
 excerpt: How to create bootstrap 4 multiple cards carousel without any plugin
-id: 94e7d573-3135-4888-891a-b794d1f10a88
 lang: en
 photos: []
 subtitle: How to create bootstrap 4 multiple cards carousel without any plugin

@@ -12,7 +12,6 @@ description: Ill explain a little what it is conditional tags. Conditional tags
   arebr />limiting a program command on certain conditions use a
 excerpt: Ill explain a little what it is conditional tags. Conditional tags
   arebr />limiting a program command on certain conditions use a
-id: d6a08f5e-b2ef-4888-896d-0f9ff500079c
 lang: en
 photos:
   - https://3.bp.blogspot.com/-SQp52Dfe-iM/VsEW5VlzHcI/AAAAAAAABxM/7bEQbN_owsk/s320/gambar-conditional-tag-blogger-min.jpg
@@ -24,7 +23,6 @@ thumbnail: https://3.bp.blogspot.com/-SQp52Dfe-iM/VsEW5VlzHcI/AAAAAAAABxM/7bEQbN
 title: Conditional Tags For Targeting On Blogger Template Format
 type: post
 updated: 2023-08-08T14:45:57+07:00
-uuid: 6cf36b22-f184-4888-87bb-e2c0db711247
 wordcount: 2177
 ---
 

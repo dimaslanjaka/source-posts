@@ -10,7 +10,6 @@ cover: https://www.abrightclearweb.com/wp-content/uploads/2015/02/domain-name-su
 date: 2017-08-26T21:53:00.000+07:00
 description: Senang dengan artikel ini Tolong bagikan ya
 excerpt: Senang dengan artikel ini Tolong bagikan ya
-id: d51b030e-a8a0-4888-8df1-63c9a0ea73a1
 lang: en
 photos:
   - https://www.abrightclearweb.com/wp-content/uploads/2015/02/domain-name-suffixes.jpeg
@@ -21,7 +20,6 @@ thumbnail: https://www.abrightclearweb.com/wp-content/uploads/2015/02/domain-nam
 title: Langkah demi langkah mendaftarkan domain di godaddy
 type: post
 updated: 2023-08-08T14:45:48+07:00
-uuid: 92cf0e8c-c1cb-4888-8163-5d0a3e54280c
 wordcount: 2032
 ---
 

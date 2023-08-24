@@ -15,7 +15,6 @@ excerpt: "TypeError Converting circular structure to JSON TypeError: Converting
   circular structure to JSON produce errors like below TypeError: Converting
   circular structure to JSON --> starting at object with constructor _Document
   property tags -> object with constructor _Query "
-id: 8a794c4d-2d84-4888-8dd7-1ff7e3eada3c
 lang: en
 photos:
   - https://i.stack.imgur.com/YFTWJ.png

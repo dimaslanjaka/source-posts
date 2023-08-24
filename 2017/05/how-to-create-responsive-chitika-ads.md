@@ -12,7 +12,6 @@ description: registers the default width and renders the advertisement that you
   will choosen. This may not generally be the most suitable approach since
 excerpt: registers the default width and renders the advertisement that you will
   choosen. This may not generally be the most suitable approach since
-id: 3325588b-faaa-4888-86d4-f748ead9751a
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.mygyanblog.com/wp-content/uploads/2017/01/chitika-se-kaise-paise-kamaye.jpg
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.mygyan
 title: How To Create Responsive Chitika Ads 100 Work
 type: post
 updated: 2023-08-08T14:45:56+07:00
-uuid: df46c755-03b8-4888-8253-70a4efb46a2e
 wordcount: 2703
 ---
 

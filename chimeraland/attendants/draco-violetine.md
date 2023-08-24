@@ -1,9 +1,70 @@
 ---
-title: Attendant Draco Violetine
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-29T06:26:37+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2022-01-07T06:56:03+07:00
+description: "Attendant Draco Violetine Draco Violetine Information from
+  Chimeraland
+
+  \    Draco Violetine default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \              "
+excerpt: "Attendant Draco Violetine Draco Violetine Information from Chimeraland
+
+  \    Draco Violetine default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \              "
 permalink: /chimeraland/attendants/draco-violetine.html
 photos:
   - /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-21-58-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,14 +76,45 @@ photos:
   - /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-33-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-43-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-23-47-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-21-58-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant Draco Violetine Draco Violetine Information from
+  Chimeraland
+
+  \    Draco Violetine default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \              "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/draco-violetine/Screenshot_2023-06-06-21-21-58-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant Draco Violetine
+type: post
+updated: 2022-09-29T06:26:37+07:00
+webtitle: chimeraland
+wordcount: 1306
 ---
 
 <link

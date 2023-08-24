@@ -12,7 +12,6 @@ description: For those of you who want to download files shared on kbd>Google
   Drive</kbd> may have experienced access limits from shared files, be they
 excerpt: For those of you who want to download files shared on kbd>Google
   Drive</kbd> may have experienced access limits from shared files, be they
-id: 729b7aeb-0682-4888-8c32-a89cb097b981
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh6.ggpht
 title: How to Download a File on Google Drive that Limit Access
 type: post
 updated: 2023-08-08T14:45:54+07:00
-uuid: f62514e4-f12c-4888-8af0-d1d4a54942a8
 wordcount: 690
 ---
 

@@ -12,7 +12,6 @@ description: img height=280
   src=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUtlynMMhFXVKgaLk8lcOo_X_6ZTtwmffeOl4rVh8h-EJtJejQ
 excerpt: img height=280
   src=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUtlynMMhFXVKgaLk8lcOo_X_6ZTtwmffeOl4rVh8h-EJtJejQ
-id: fa630c1f-1484-4888-8b9a-d8bd915523e7
 lang: en
 photos:
   - https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUtlynMMhFXVKgaLk8lcOo_X_6ZTtwmffeOl4rVh8h-EJtJejQ
@@ -24,7 +23,6 @@ thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUtlynMMhFXVKga
 title: 12 CSS3 Responsive Blockquote Styling
 type: post
 updated: 2023-08-08T14:46:02+07:00
-uuid: a4ec1529-dca6-4888-8cfe-87e5ebd28f80
 wordcount: 1039
 ---
 

@@ -12,7 +12,6 @@ description: In the era of the 000s, the PS2 console was known to bring a myriad
   of valuable experiences to its connoisseurs. But along with the
 excerpt: In the era of the 000s, the PS2 console was known to bring a myriad of
   valuable experiences to its connoisseurs. But along with the
-id: 0662d94a-94f8-4888-813b-677148c3a78c
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://api.duniagames.co.id/api/content/upload/file/14053741101592474239.jpg
@@ -25,7 +24,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://api.dunia
 title: How to Play PS2 Games on Low-End Laptops Easily and Without Lag
 type: post
 updated: 2023-08-08T14:45:10+07:00
-uuid: 779e4029-20c2-4888-8040-21c6e79c6cda
 wordcount: 3427
 ---
 

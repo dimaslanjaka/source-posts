@@ -15,7 +15,6 @@ excerpt: hexo run custom script after site generated Create custom script file
   dir>/scripts/script-file-name.js. <your hexo project
   dir>/scripts/script-file-name.js <your hexo project dir> is your current site
   directory <your hexo project dir> fill belo
-id: 19ad8b8b-07ff-4888-83f1-75a3bbac848a
 lang: en
 photos: []
 subtitle: hexo run custom script after site generated Create custom script file

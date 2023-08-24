@@ -15,7 +15,6 @@ excerpt: Android Webview With Extra Headers public void
   http://androidyue.github.io/;WebView webView = new
   WebViewgetActivity;Map<String,String> extraHeaders = new HashMap<String,
   String>;extraHeaders.putReferer, http://www.google.com;webVie
-id: b84881b3-91eb-4888-8f8e-09699590c913
 lang: en
 photos: []
 subtitle: Android Webview With Extra Headers public void

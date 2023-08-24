@@ -14,7 +14,6 @@ excerpt: "Github Workflow Filter Jobs By OS Condition Syntax Based on Current
   Running OS if: matrix.os == ubuntu-latestif: matrix.os == windows-latestif:
   matrix.os == macOS-latest Condition Syntax Based on the Context of the Current
   Running OS if: runner.os == Linuxif: runner.os == Windowsif"
-id: ef977031-f572-4888-8926-20ddde85d326
 lang: en
 permalink: /GitHub/github-workflow-filter-jobs-by-os.html
 photos: []

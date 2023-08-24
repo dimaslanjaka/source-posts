@@ -16,7 +16,6 @@ excerpt: Custom PATH VSCode Integrated Terminal Options Determining custom path
   on vscode IDE made easily development programs within multiple platforms.
   VSCode Environment workspaceFolderworkspace folder rootenv:PATHexisting vscode
   path mixed with system workspaceFolderworkspace folder roo
-id: 3b1b7031-6ca3-4888-8c93-4812c6cc40c2
 lang: en
 photos:
   - https://fabianlee.org/wp-content/uploads/2021/12/vscode-logo.png

@@ -1,9 +1,19 @@
 ---
-title: Attendant Shaman Astra
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-28T21:26:37+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2022-01-06T21:56:03+07:00
+description: attendant Shaman Astra default quality GRADE C ATK 60 HP 60 DEF 60
+  Attack 30,HP 300,Monster EXP Bonus 40.0% delicacies/tasty Horse Stew
+  Hotpot,Hot 'n Sour Jelly,Hot Stone Icefox Meat games,chimeraland,attendants
+  chimeraland,Attendant
+excerpt: attendant Shaman Astra default quality GRADE C ATK 60 HP 60 DEF 60
+  Attack 30,HP 300,Monster EXP Bonus 40.0% delicacies/tasty Horse Stew
+  Hotpot,Hot 'n Sour Jelly,Hot Stone Icefox Meat games,chimeraland,attendants
+  chimeraland,Attendant
 permalink: /chimeraland/attendants/shaman-astra.html
 photos:
   - /chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-40-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,18 +22,19 @@ photos:
   - /chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-52-69_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-57-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-37-00-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-40-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
-tags:
-  - chimeraland
-  - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
-description: attendant Shaman Astra default quality GRADE C ATK 60 HP 60 DEF 60
+subtitle: attendant Shaman Astra default quality GRADE C ATK 60 HP 60 DEF 60
   Attack 30,HP 300,Monster EXP Bonus 40.0% delicacies/tasty Horse Stew
   Hotpot,Hot 'n Sour Jelly,Hot Stone Icefox Meat games,chimeraland,attendants
   chimeraland,Attendant
+tags:
+  - chimeraland
+  - Attendant
+thumbnail: /chimeraland/attendants/shaman-astra/Screenshot_2022-07-17-22-36-40-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant Shaman Astra
+type: post
+updated: 2022-09-28T21:26:37+07:00
+webtitle: chimeraland
+wordcount: 1495
 ---
 
 <link

@@ -12,7 +12,6 @@ excerpt: Markdown Style test This post is originated from here and is used for
   testing markdown style. This post contains nearly every markdown usage. Make
   sure all the markdown elements below show up correctly. here Headers H1 H2 H3
   H4 H5 H6Alternatively, for H1 and H2, an unde
-id: b4d2a928-9f84-4888-8392-bc957ecf6f09
 lang: en
 photos: []
 robots: no-index

@@ -12,7 +12,6 @@ description: Structure BlogPosting pada AMP merupakan hal istimewa. Dijamin bila
   keyword density kata-kata/kalimat yang berhubungan dengan title/judul
 excerpt: Structure BlogPosting pada AMP merupakan hal istimewa. Dijamin bila
   keyword density kata-kata/kalimat yang berhubungan dengan title/judul
-id: 730cdd84-cabf-4888-831e-739481065a8f
 lang: en
 photos:
   - https://imgdb.net/images/3205.png
@@ -26,7 +25,6 @@ thumbnail: https://imgdb.net/images/3205.png
 title: Schema Blogposting Untuk Blogger AMP
 type: post
 updated: 2023-08-08T14:45:43+07:00
-uuid: ac1809c4-69b8-4888-83ef-e9cb959e9bc3
 wordcount: 305
 ---
 

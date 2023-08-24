@@ -1,9 +1,73 @@
 ---
-title: Monster giant squid
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-08-07T04:11:28+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-08-07T04:00:28+07:00
+description: "Monster giant squid giant squid Information from Chimeraland
+
+  \    giant squid default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \   "
+excerpt: "Monster giant squid giant squid Information from Chimeraland
+
+  \    giant squid default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \   "
 permalink: /chimeraland/monsters/giant-squid.html
 photos:
   - /chimeraland/monsters/giant-squid/Screenshot_2023-08-07-01-18-29-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +78,47 @@ photos:
   - /chimeraland/monsters/giant-squid/Screenshot_2023-08-07-01-18-59-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-squid/Screenshot_2023-08-07-01-19-04-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-squid/Screenshot_2023-08-07-01-19-11-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-squid/Screenshot_2023-08-07-01-18-29-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant squid giant squid Information from Chimeraland
+
+  \    giant squid default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \   "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-squid/Screenshot_2023-08-07-01-18-29-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant squid
+type: post
+updated: 2023-08-07T04:11:28+07:00
+webtitle: chimeraland
+wordcount: 1237
 ---
 
 <link

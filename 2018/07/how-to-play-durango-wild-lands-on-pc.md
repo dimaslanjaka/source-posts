@@ -12,7 +12,6 @@ description: Durango Wild Lands production from Nexon Company is one of the most
   anticipated games in 2018. Many clients have played this game during
 excerpt: Durango Wild Lands production from Nexon Company is one of the most
   anticipated games in 2018. Many clients have played this game during
-id: b77b1077-c9ec-4888-8ab7-13d071b86934
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -26,7 +25,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: How to Play Durango Wild Lands on PC
 type: post
 updated: 2023-08-08T14:45:40+07:00
-uuid: 809c8265-5109-4888-8dac-17fc31be5b72
 wordcount: 1679
 ---
 

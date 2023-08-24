@@ -1,9 +1,21 @@
 ---
-title: Monster White Maiden
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-10-03T12:18:27+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-10T17:56:03+07:00
+description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
+  Attributes Conversion Rate 5.0%,HP 12600,Ranged Dmg +4.8%,Resilience
+  35,Defense 315 delicacies/tasty Spicy Fish & Mutton Soup,Yurlunggur Mixed
+  Vegetables,Stir-Fried Browtelope games,chimeraland,monsters
+  chimeraland,monster,pet
+excerpt: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
+  Attributes Conversion Rate 5.0%,HP 12600,Ranged Dmg +4.8%,Resilience
+  35,Defense 315 delicacies/tasty Spicy Fish & Mutton Soup,Yurlunggur Mixed
+  Vegetables,Stir-Fried Browtelope games,chimeraland,monsters
+  chimeraland,monster,pet
 permalink: /chimeraland/monsters/white-maiden.html
 photos:
   - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-42-35-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -22,20 +34,21 @@ photos:
   - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-48-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/white-maiden/Screenshot_2022-08-19-20-43-59-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp
-thumbnail: /chimeraland/monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp
-tags:
-  - chimeraland
-  - monster
-  - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
-description: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
+subtitle: monster White Maiden default quality GRADE A ATK 83 HP 79 DEF 78
   Attributes Conversion Rate 5.0%,HP 12600,Ranged Dmg +4.8%,Resilience
   35,Defense 315 delicacies/tasty Spicy Fish & Mutton Soup,Yurlunggur Mixed
   Vegetables,Stir-Fried Browtelope games,chimeraland,monsters
   chimeraland,monster,pet
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: /chimeraland/monsters/white-maiden/chimeraland-white-snake-evolve-featured.webp
+title: Monster White Maiden
+type: post
+updated: 2022-10-03T12:18:27+07:00
+webtitle: chimeraland
+wordcount: 2331
 ---
 
 <link

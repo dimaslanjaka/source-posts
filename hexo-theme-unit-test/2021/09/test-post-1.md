@@ -10,7 +10,6 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2021-09-23T01:54:00+07:00
 description: test post content
 excerpt: test post content
-id: bd1f4ddf-e5d8-4888-87df-fba933b37faa
 lang: en
 permalink: 2021/09/test-post-1.html
 photos:

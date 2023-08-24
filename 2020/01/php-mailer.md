@@ -14,7 +14,6 @@ description: "Basic Mailer basic php mailer php
 excerpt: "Basic Mailer basic php mailer php
   ?phpheaderAccess-Control-Allow-Origin: ;headerContent-Type: application/json;/
   "
-id: a2e7e5f4-06aa-4888-8378-091d818a8f25
 lang: en
 photos:
   - https://pear.php.net/gifs/pearsmall.gif
@@ -27,7 +26,6 @@ thumbnail: https://pear.php.net/gifs/pearsmall.gif
 title: PHP Mailer work with AJAX
 type: post
 updated: 2023-08-08T14:45:14+07:00
-uuid: 74d8af4d-0475-4888-865d-5d0f79b9d322
 wordcount: 2557
 ---
 

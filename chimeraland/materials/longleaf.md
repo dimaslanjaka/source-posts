@@ -1,19 +1,76 @@
 ---
-title: Material Longleaf Chimeraland
-date: 2022-01-14T01:56:03+07:00
-updated: 2022-10-06T01:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/longleaf.html
-photos:
-  - /chimeraland/materials/longleaf/longleaf.webp
-thumbnail: /chimeraland/materials/longleaf/longleaf.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-14T01:56:03+07:00
+description: |-
+  Material Longleaf Chimeraland materials
+          Longleaf
+          October 6, 2022 1:26 AM
+          
+            Longleaf tree leaf. Multi-leaf pattern, eaten to relieve sores.
+          
+          Continue reading Longleaf
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What i
+excerpt: |-
+  Material Longleaf Chimeraland materials
+          Longleaf
+          October 6, 2022 1:26 AM
+          
+            Longleaf tree leaf. Multi-leaf pattern, eaten to relieve sores.
+          
+          Continue reading Longleaf
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What i
+permalink: /chimeraland/materials/longleaf.html
+photos:
+  - /chimeraland/materials/longleaf/longleaf.webp
+subtitle: |-
+  Material Longleaf Chimeraland materials
+          Longleaf
+          October 6, 2022 1:26 AM
+          
+            Longleaf tree leaf. Multi-leaf pattern, eaten to relieve sores.
+          
+          Continue reading Longleaf
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What i
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/longleaf/longleaf.webp
+title: Material Longleaf Chimeraland
+type: post
+updated: 2022-10-06T01:26:37+07:00
+wordcount: 1030
 ---
 
 <link

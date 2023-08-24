@@ -12,7 +12,6 @@ description: Jumpa lagi dengan topik JavaScript Dan jQuery. Sebelumnya saya
   sudah share Cara menambah syntax highlighter dengan prettyprint di
 excerpt: Jumpa lagi dengan topik JavaScript Dan jQuery. Sebelumnya saya sudah
   share Cara menambah syntax highlighter dengan prettyprint di
-id: 7c93f51c-9254-4888-8945-ae755213de0b
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot.com/-gUVjKXD8MMM/WWHz7oK-SxI/AAAAAAAACVc/3uL5_0HdMNkvWyjyIAUcSYpVJIQxmIvnQCLcBGAs/s400/syntax%2Bhighlighting%2Bcode%2Bformatting.png
@@ -28,7 +27,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blog
 title: Update Code Auto Syntax Highlighter Prettyprint js
 type: post
 updated: 2023-08-08T14:45:48+07:00
-uuid: 24f3608e-6910-4888-8eda-7e438600e3a4
 wordcount: 443
 ---
 

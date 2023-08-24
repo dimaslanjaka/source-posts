@@ -1,19 +1,76 @@
 ---
-title: Material Trileaf Skin Chimeraland
-date: 2022-01-09T11:56:03+07:00
-updated: 2022-10-01T11:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/trileaf-skin.html
-photos:
-  - /chimeraland/materials/trileaf-skin/trileaf-skin.webp
-thumbnail: /chimeraland/materials/trileaf-skin/trileaf-skin.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-09T11:56:03+07:00
+description: |-
+  Material Trileaf Skin Chimeraland materials
+          Trileaf Skin
+          October 1, 2022 11:26 AM
+          Continue reading Trileaf Skin
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Trileaf Skin
+              
+                
+                  An ex
+excerpt: |-
+  Material Trileaf Skin Chimeraland materials
+          Trileaf Skin
+          October 1, 2022 11:26 AM
+          Continue reading Trileaf Skin
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Trileaf Skin
+              
+                
+                  An ex
+permalink: /chimeraland/materials/trileaf-skin.html
+photos:
+  - /chimeraland/materials/trileaf-skin/trileaf-skin.webp
+subtitle: |-
+  Material Trileaf Skin Chimeraland materials
+          Trileaf Skin
+          October 1, 2022 11:26 AM
+          Continue reading Trileaf Skin
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Trileaf Skin
+              
+                
+                  An ex
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/trileaf-skin/trileaf-skin.webp
+title: Material Trileaf Skin Chimeraland
+type: post
+updated: 2022-10-01T11:26:37+07:00
+wordcount: 987
 ---
 
 <link

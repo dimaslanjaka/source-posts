@@ -12,7 +12,6 @@ description: pre><br />// change folder path inside bracket<br
   />includeBuildplugin <br /> dependencySubstitution <br /> // change your
 excerpt: pre><br />// change folder path inside bracket<br />includeBuildplugin
   <br /> dependencySubstitution <br /> // change your
-id: e44cf8cf-1902-4888-8aea-16ddc1614b35
 lang: en
 photos:
   - https://miro.medium.com/max/2476/0*Mll3yo3DWALtRYPR.png
@@ -26,7 +25,6 @@ thumbnail: https://miro.medium.com/max/2476/0*Mll3yo3DWALtRYPR.png
 title: Import composite build plugin as subtitue module dependency [Gradle]
 type: post
 updated: 2023-08-08T14:45:11+07:00
-uuid: a9027466-66dd-4888-8a50-f96f0c8f8ab0
 wordcount: 72
 ---
 

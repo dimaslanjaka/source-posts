@@ -10,7 +10,6 @@ cover: https://www.webmanajemen.com/assets/img/html.png
 date: 2019-07-23T07:24:00.000+07:00
 description: simbol matematika dan penulisan dalam html HTML.
 excerpt: simbol matematika dan penulisan dalam html HTML.
-id: 04b304fb-3021-4888-87fb-f1753bb64ac8
 lang: en
 photos:
   - https://www.webmanajemen.com/assets/img/html.png
@@ -21,7 +20,6 @@ thumbnail: https://www.webmanajemen.com/assets/img/html.png
 title: Symbol Matematika HTML format
 type: post
 updated: 2023-08-08T14:45:29+07:00
-uuid: 174e8b1f-2b63-4888-89c7-3f5c56773fb7
 wordcount: 2532
 ---
 

@@ -12,7 +12,6 @@ description: Fix missing dependencies from your gradle project android, maven,
   etc with this build.gradle. <br/>insert into
 excerpt: Fix missing dependencies from your gradle project android, maven, etc
   with this build.gradle. <br/>insert into
-id: 2b8cdab4-3773-4888-8603-9457c928aa5a
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -27,7 +26,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: build.gradle with custom repository
 type: post
 updated: 2023-08-08T14:45:13+07:00
-uuid: e536a08c-6257-4888-8667-4b39732b9374
 wordcount: 399
 ---
 

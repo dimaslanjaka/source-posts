@@ -12,7 +12,6 @@ description: Salah satu hal paling luar biasa tentang Visual Studio Code adalah
   kemampuan untuk meningkatkan kemampuannya dengan penambahan ekstensi
 excerpt: Salah satu hal paling luar biasa tentang Visual Studio Code adalah
   kemampuan untuk meningkatkan kemampuannya dengan penambahan ekstensi
-id: 87eca185-6cf6-4888-816d-4f91ceda1604
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/javascriptt-light_870x220.png?sfvrsn=f0bf46af_3
@@ -26,7 +25,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://d585tldpu
 title: 5 Ekstensi VSCode Teratas untuk Pengembangan JavaScript yang Efisien
 type: post
 updated: 2023-08-08T14:45:31+07:00
-uuid: d390ecda-c1cd-4888-8a7f-8bcad93666fa
 wordcount: 1383
 ---
 

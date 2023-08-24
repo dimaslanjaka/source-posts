@@ -1,9 +1,73 @@
 ---
-title: Attendant vuloreas
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-09T09:16:58+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2023-02-09T09:05:58+07:00
+description: "Attendant vuloreas vuloreas Information from Chimeraland
+
+  \    vuloreas default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
+excerpt: "Attendant vuloreas vuloreas Information from Chimeraland
+
+  \    vuloreas default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
 permalink: /chimeraland/attendants/vuloreas.html
 photos:
   - /chimeraland/attendants/vuloreas/Screenshot_2023-02-04-18-40-57-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,14 +76,46 @@ photos:
   - /chimeraland/attendants/vuloreas/Screenshot_2023-02-04-18-41-29-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vuloreas/Screenshot_2023-02-04-18-41-34-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vuloreas/Screenshot_2023-02-04-18-41-39-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/vuloreas/Screenshot_2023-02-04-18-40-57-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant vuloreas vuloreas Information from Chimeraland
+
+  \    vuloreas default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/vuloreas/Screenshot_2023-02-04-18-40-57-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant vuloreas
+type: post
+updated: 2023-02-09T09:16:58+07:00
+webtitle: chimeraland
+wordcount: 988
 ---
 
 <link

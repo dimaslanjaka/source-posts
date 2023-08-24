@@ -1,19 +1,76 @@
 ---
-title: Material Primal Fluid Chimeraland
-date: 2022-01-10T21:56:03+07:00
-updated: 2022-10-02T21:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/primal-fluid.html
-photos:
-  - /chimeraland/materials/primal-fluid/primal-fluid.webp
-thumbnail: /chimeraland/materials/primal-fluid/primal-fluid.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-10T21:56:03+07:00
+description: |-
+  Material Primal Fluid Chimeraland materials
+          Primal Fluid
+          October 2, 2022 9:26 PM
+          Continue reading Primal Fluid
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Primal Fluid
+              
+                
+                  Used f
+excerpt: |-
+  Material Primal Fluid Chimeraland materials
+          Primal Fluid
+          October 2, 2022 9:26 PM
+          Continue reading Primal Fluid
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Primal Fluid
+              
+                
+                  Used f
+permalink: /chimeraland/materials/primal-fluid.html
+photos:
+  - /chimeraland/materials/primal-fluid/primal-fluid.webp
+subtitle: |-
+  Material Primal Fluid Chimeraland materials
+          Primal Fluid
+          October 2, 2022 9:26 PM
+          Continue reading Primal Fluid
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Primal Fluid
+              
+                
+                  Used f
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/primal-fluid/primal-fluid.webp
+title: Material Primal Fluid Chimeraland
+type: post
+updated: 2022-10-02T21:26:37+07:00
+wordcount: 802
 ---
 
 <link

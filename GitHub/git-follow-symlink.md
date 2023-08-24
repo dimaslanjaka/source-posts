@@ -8,7 +8,6 @@ cover: https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab
 date: 2022-05-31
 description: follow symlink of local cloned repository folder
 excerpt: follow symlink of local cloned repository folder
-id: 9972b519-bb9e-4888-8a21-be4c69ab1083
 keywords:
   - github
   - symlink

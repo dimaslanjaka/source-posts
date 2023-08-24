@@ -1,19 +1,121 @@
 ---
-title: Material Goldscale Shell Chimeraland
-date: 2022-01-10T23:56:03+07:00
-updated: 2022-10-02T23:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/goldscale-shell.html
-photos:
-  - /chimeraland/materials/goldscale-shell/goldscale-shell.webp
-thumbnail: /chimeraland/materials/goldscale-shell/goldscale-shell.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-10T23:56:03+07:00
+description: "Material Goldscale Shell Chimeraland materials
+
+  \        Goldscale Shell
+
+  \        October 2, 2022 11:26 PM
+
+  \        Continue reading Goldscale Shell
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Goldscale Shell
+
+  \           \ 
+
+  \             \ 
+
+  \         "
+excerpt: "Material Goldscale Shell Chimeraland materials
+
+  \        Goldscale Shell
+
+  \        October 2, 2022 11:26 PM
+
+  \        Continue reading Goldscale Shell
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Goldscale Shell
+
+  \           \ 
+
+  \             \ 
+
+  \         "
+permalink: /chimeraland/materials/goldscale-shell.html
+photos:
+  - /chimeraland/materials/goldscale-shell/goldscale-shell.webp
+subtitle: "Material Goldscale Shell Chimeraland materials
+
+  \        Goldscale Shell
+
+  \        October 2, 2022 11:26 PM
+
+  \        Continue reading Goldscale Shell
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Goldscale Shell
+
+  \           \ 
+
+  \             \ 
+
+  \         "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/goldscale-shell/goldscale-shell.webp
+title: Material Goldscale Shell Chimeraland
+type: post
+updated: 2022-10-02T23:26:37+07:00
+wordcount: 824
 ---
 
 <link

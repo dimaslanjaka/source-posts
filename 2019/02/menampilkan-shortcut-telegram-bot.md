@@ -12,7 +12,6 @@ description: Saya ingin menulis bot telegram. Bagaimana cara menempatkan opsi
   yang memungkinkan di bot saya. Saya menyisipkan gambar bot sampel dengan
 excerpt: Saya ingin menulis bot telegram. Bagaimana cara menempatkan opsi yang
   memungkinkan di bot saya. Saya menyisipkan gambar bot sampel dengan
-id: 67aec235-5f37-4888-8502-15c96282ce3b
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.stack.imgur.com/PPlQ0.png
@@ -25,7 +24,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.stack.i
 title: Menampilkan Shortcut Telegram BOT
 type: post
 updated: 2023-08-08T14:45:31+07:00
-uuid: fd0c56c9-627c-4888-882f-e5c3355e3b2e
 wordcount: 653
 ---
 

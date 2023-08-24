@@ -10,7 +10,6 @@ description: " This is a link post without a title. The title should be the link
 excerpt: " This is a link post without a title. The title should be the link
   with or without protocol. Clicking on the link should open Google in a new tab
   or window. Google"
-id: 894ca484-7399-4888-86eb-44f54b185460
 lang: en
 link: http://www.google.com/
 photos: []

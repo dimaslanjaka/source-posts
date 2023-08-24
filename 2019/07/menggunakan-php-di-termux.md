@@ -12,7 +12,6 @@ description: Instalasipkg update ypkg upgrade -ypkg install php curl wget git
   -yContoh Penggunaan PHP CLI pada termuxbuat file
 excerpt: Instalasipkg update ypkg upgrade -ypkg install php curl wget git
   -yContoh Penggunaan PHP CLI pada termuxbuat file
-id: 1fc36acf-b47b-4888-8231-42661c73ca21
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Menggunakan PHP di termux
 type: post
 updated: 2023-08-08T14:45:30+07:00
-uuid: a4f02ff8-a09a-4888-8a03-b5e5921347e6
 wordcount: 138
 ---
 

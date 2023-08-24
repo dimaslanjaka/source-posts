@@ -12,7 +12,6 @@ description: "Cara membuat websocket dengan Javascript JS dan PHPUpdate: Simple
   WebsocketRequirements: PHP 5.6 minimumWebsocket merupakan standard"
 excerpt: "Cara membuat websocket dengan Javascript JS dan PHPUpdate: Simple
   WebsocketRequirements: PHP 5.6 minimumWebsocket merupakan standard"
-id: e8b48204-402e-4888-8362-7d8cd2ff2569
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.victim-site.com/img/snapshots/websocket.png
@@ -27,7 +26,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.victim
 title: "[JS][PHP] Membuat Websocket Javascript"
 type: post
 updated: 2023-08-08T14:45:30+07:00
-uuid: f549c4d8-78f3-4888-87a4-f7bf9d4df5fb
 wordcount: 1168
 ---
 

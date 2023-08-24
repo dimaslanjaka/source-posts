@@ -14,7 +14,6 @@ description: "Glowing Text Loading AnimationCSSbody
 excerpt: "Glowing Text Loading AnimationCSSbody
   margin:0px;padding:0px;background:262222;ULposition:
   absolute;top:50;left:50;display:"
-id: f98594ed-652a-4888-8486-2d545f9dd520
 lang: en
 photos:
   - https://2.bp.blogspot.com/-UFidWzf_o3A/Xfp0n9U9c4I/AAAAAAAAAiI/Ve1ajQPHYdsVNKW9F8Rc8iPr0eLAYVeQgCLcBGAsYHQ/s1600/Screenshot_1.png
@@ -29,7 +28,6 @@ thumbnail: https://2.bp.blogspot.com/-UFidWzf_o3A/Xfp0n9U9c4I/AAAAAAAAAiI/Ve1ajQ
 title: Glowing Text Loading Animation
 type: post
 updated: 2023-08-08T14:45:16+07:00
-uuid: 862e19a4-fdf1-4888-8d3b-b2616fe48ad3
 wordcount: 406
 ---
 

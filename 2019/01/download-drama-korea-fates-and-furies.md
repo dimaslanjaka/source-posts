@@ -12,7 +12,6 @@ description: Korean Drama Fates and Furies Indonesian Subtitles Synopsis of
   Fates and Furies The Korean drama Fates and Furies Sub Indo tells
 excerpt: Korean Drama Fates and Furies Indonesian Subtitles Synopsis of Fates
   and Furies The Korean drama Fates and Furies Sub Indo tells
-id: 69a076b0-5c82-4888-88eb-23c972dbf693
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://drakorstation.com/wp-content/uploads/2018/12/Fates-and-Furies-Subtitle-Indonesia.jpg
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://drakorsta
 title: Download Drama Korea Fates And Furies Subtitle Indonesia Episode 15 - 16
 type: post
 updated: 2023-08-08T14:45:34+07:00
-uuid: b8d3e62e-8ee3-4888-8651-d06fbd14c354
 wordcount: 2703
 ---
 

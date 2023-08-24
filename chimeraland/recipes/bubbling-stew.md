@@ -1,23 +1,68 @@
 ---
-title: Recipe Bubbling Stew Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T08:46:53+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-07T15:56:03+07:00
+description: |-
+  Recipe Bubbling Stew Chimeraland Bubbling Stew Cooking Recipe
+                
+                Buff Bubbling Stew
+                
+                  
+                    540 Fullness
+                    +200 ATK
+                  
+                
+                recipe
+              
+              
+                webmana
+excerpt: |-
+  Recipe Bubbling Stew Chimeraland Bubbling Stew Cooking Recipe
+                
+                Buff Bubbling Stew
+                
+                  
+                    540 Fullness
+                    +200 ATK
+                  
+                
+                recipe
+              
+              
+                webmana
+lang: en
 permalink: /chimeraland/recipes/bubbling-stew.html
 photos:
   - /chimeraland/recipes/bubbling-stew/bubbling-stew.webp
   - /chimeraland/recipes/bubbling-stew/bubbling-stew-name.webp
   - /chimeraland/recipes/bubbling-stew/bubbling-stew-icon.webp
   - /chimeraland/recipes/bubbling-stew/bubbling-stew-material.webp
-thumbnail: /chimeraland/recipes/bubbling-stew/bubbling-stew.webp
+subtitle: |-
+  Recipe Bubbling Stew Chimeraland Bubbling Stew Cooking Recipe
+                
+                Buff Bubbling Stew
+                
+                  
+                    540 Fullness
+                    +200 ATK
+                  
+                
+                recipe
+              
+              
+                webmana
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/bubbling-stew/bubbling-stew.webp
+title: Recipe Bubbling Stew Chimeraland
+type: post
+updated: 2022-10-05T08:46:53+07:00
+wordcount: 785
 ---
 
 <link

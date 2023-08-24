@@ -1,23 +1,92 @@
 ---
-title: Recipe Sea-Buckthorn Slushie Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T14:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-11T19:56:03+07:00
+description: "Recipe Sea-Buckthorn Slushie Chimeraland Sea-Buckthorn Slushie
+  Cooking Recipe
+
+  \             \ 
+
+  \              Buff Sea-Buckthorn Slushie
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Heat Resistance +10
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \            "
+excerpt: "Recipe Sea-Buckthorn Slushie Chimeraland Sea-Buckthorn Slushie Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Sea-Buckthorn Slushie
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Heat Resistance +10
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \            "
+lang: en
 permalink: /chimeraland/recipes/sea-buckthorn-slushie.html
 photos:
   - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie.webp
   - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-name.webp
   - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-icon.webp
   - /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie-material.webp
-thumbnail: /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie.webp
+subtitle: "Recipe Sea-Buckthorn Slushie Chimeraland Sea-Buckthorn Slushie
+  Cooking Recipe
+
+  \             \ 
+
+  \              Buff Sea-Buckthorn Slushie
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Heat Resistance +10
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \            "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/sea-buckthorn-slushie/sea-buckthorn-slushie.webp
+title: Recipe Sea-Buckthorn Slushie Chimeraland
+type: post
+updated: 2022-10-06T14:46:55+07:00
+wordcount: 624
 ---
 
 <link

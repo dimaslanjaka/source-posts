@@ -16,7 +16,6 @@ excerpt: Install Linux on the Android part 2-How to Install Apache2, PHP and
   MYSQL on Android Install Linux on the Android part 2-How to Install Apache2,
   PHP and MYSQL on Android There are a few applications to run the AMP Apache,
   Mysql, PHP on android smartphone, but the features are dim
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://image.ibb.co/fFtDUF/unnamed_5.png
@@ -33,7 +32,6 @@ title: Install Linux on the Android part 2-How to Install Apache2, PHP and MYSQL
   on Android
 type: post
 updated: 2023-08-08T14:45:46+07:00
-uuid: 93d9745f-e9ee-4888-8cf1-9379fe986077
 wordcount: 1361
 ---
 

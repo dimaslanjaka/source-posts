@@ -12,7 +12,6 @@ description: manipulating multidimensional array using arraymap/ Ilterate
   multidimensional array simplicity @desc modify and manipulate or populate
 excerpt: manipulating multidimensional array using arraymap/ Ilterate
   multidimensional array simplicity @desc modify and manipulate or populate
-id: 6997f740-9da2-4888-8850-ae07dc27823a
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -25,7 +24,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: PHP array magic trick and manipulations
 type: post
 updated: 2023-08-08T14:45:13+07:00
-uuid: 5922c5c8-86e4-4888-822c-2326c4a662b3
 wordcount: 274
 ---
 

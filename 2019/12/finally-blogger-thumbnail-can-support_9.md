@@ -12,7 +12,6 @@ description: Finally, the Blogger Thumbnail Can Support WEBP This is the result
   of my imprisonment that I have done for almost 4 weeks, hahaha ...
 excerpt: Finally, the Blogger Thumbnail Can Support WEBP This is the result of
   my imprisonment that I have done for almost 4 weeks, hahaha ...
-id: f52d61b0-bc41-4888-89bc-9890d188268d
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/8554a2b99506f0fdc49578e7bed10bb4.jpeg
@@ -25,7 +24,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/8554a2b99506
 title: Finally the Blogger Thumbnail Can Support WEBP
 type: post
 updated: 2023-08-08T14:45:16+07:00
-uuid: 79969e71-fb68-4888-86fc-2b6bd37df609
 wordcount: 3569
 ---
 

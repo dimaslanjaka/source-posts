@@ -1,19 +1,94 @@
 ---
-title: Material Vangard Bear Thorn Chimeraland
-date: 2022-01-10T17:56:03+07:00
-updated: 2022-10-02T17:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/vangard-bear-thorn.html
-photos:
-  - /chimeraland/materials/vangard-bear-thorn/vangard-bear-thorn.webp
-thumbnail: /chimeraland/materials/vangard-bear-thorn/vangard-bear-thorn.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-10T17:56:03+07:00
+description: "Material Vangard Bear Thorn Chimeraland materials
+
+  \        Vangard Bear Thorn
+
+  \        October 2, 2022 5:26 PM
+
+  \       \ 
+
+  \          Grizzly thorn, Wearer does not need to eat or drink and can rest
+  on
+
+  \          the ground.
+
+  \       \ 
+
+  \        Continue reading Vangard Bear Thorn
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \      "
+excerpt: "Material Vangard Bear Thorn Chimeraland materials
+
+  \        Vangard Bear Thorn
+
+  \        October 2, 2022 5:26 PM
+
+  \       \ 
+
+  \          Grizzly thorn, Wearer does not need to eat or drink and can rest
+  on
+
+  \          the ground.
+
+  \       \ 
+
+  \        Continue reading Vangard Bear Thorn
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \      "
+permalink: /chimeraland/materials/vangard-bear-thorn.html
+photos:
+  - /chimeraland/materials/vangard-bear-thorn/vangard-bear-thorn.webp
+subtitle: "Material Vangard Bear Thorn Chimeraland materials
+
+  \        Vangard Bear Thorn
+
+  \        October 2, 2022 5:26 PM
+
+  \       \ 
+
+  \          Grizzly thorn, Wearer does not need to eat or drink and can rest
+  on
+
+  \          the ground.
+
+  \       \ 
+
+  \        Continue reading Vangard Bear Thorn
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \      "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/vangard-bear-thorn/vangard-bear-thorn.webp
+title: Material Vangard Bear Thorn Chimeraland
+type: post
+updated: 2022-10-02T17:26:37+07:00
+wordcount: 1231
 ---
 
 <link

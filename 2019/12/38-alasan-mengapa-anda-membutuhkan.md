@@ -12,7 +12,6 @@ description: Selamat datang di abad ke21, di mana mobil self-driving tidak lagi
   menjadi fantasi sci-fi yang jauh, anak-anak memiliki smartphone di
 excerpt: Selamat datang di abad ke21, di mana mobil self-driving tidak lagi
   menjadi fantasi sci-fi yang jauh, anak-anak memiliki smartphone di
-id: 020c33ba-278c-4888-8db4-698cab2b00d0
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/380def9044953d917ff4a115d32bc760.png
@@ -26,7 +25,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/380def90
 title: 38 Alasan Mengapa Anda Membutuhkan Seorang Ahli Media Sosial Untuk Bisnis Anda
 type: post
 updated: 2023-08-08T14:45:25+07:00
-uuid: 8dbfe318-40b8-4888-85d6-77d1a75cf5ff
 wordcount: 15433
 ---
 

@@ -1,19 +1,82 @@
 ---
-title: Material Lingzhi Chimeraland
-date: 2022-01-18T05:56:03+07:00
-updated: 2022-10-10T05:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/lingzhi.html
-photos:
-  - /chimeraland/materials/lingzhi/lingzhi.webp
-thumbnail: /chimeraland/materials/lingzhi/lingzhi.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-18T05:56:03+07:00
+description: "Material Lingzhi Chimeraland materials
+
+  \        Lingzhi
+
+  \        October 10, 2022 5:26 AM
+
+  \       \ 
+
+  \          An extremely rare herb grown from dew. Its fruit resembles
+  Lingzhi
+
+  \          mushrooms. Taken to increase longevity. Found only on Snowy Peak.
+
+  \       \ 
+
+  \        Continue reading Lingzhi
+
+  \     \ 
+
+  \ "
+excerpt: "Material Lingzhi Chimeraland materials
+
+  \        Lingzhi
+
+  \        October 10, 2022 5:26 AM
+
+  \       \ 
+
+  \          An extremely rare herb grown from dew. Its fruit resembles
+  Lingzhi
+
+  \          mushrooms. Taken to increase longevity. Found only on Snowy Peak.
+
+  \       \ 
+
+  \        Continue reading Lingzhi
+
+  \     \ 
+
+  \ "
+permalink: /chimeraland/materials/lingzhi.html
+photos:
+  - /chimeraland/materials/lingzhi/lingzhi.webp
+subtitle: "Material Lingzhi Chimeraland materials
+
+  \        Lingzhi
+
+  \        October 10, 2022 5:26 AM
+
+  \       \ 
+
+  \          An extremely rare herb grown from dew. Its fruit resembles
+  Lingzhi
+
+  \          mushrooms. Taken to increase longevity. Found only on Snowy Peak.
+
+  \       \ 
+
+  \        Continue reading Lingzhi
+
+  \     \ 
+
+  \ "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/lingzhi/lingzhi.webp
+title: Material Lingzhi Chimeraland
+type: post
+updated: 2022-10-10T05:26:37+07:00
+wordcount: 1026
 ---
 
 <link

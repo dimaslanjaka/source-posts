@@ -1,21 +1,111 @@
 ---
-title: Monster Yellow Batolf
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T14:52:12+07:00
-date: 2022-01-11T18:56:03+07:00
-permalink: /chimeraland/monsters/yellow-batolf.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Yellow Batolf
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2022-01-11T18:56:03+07:00
+description: "Monster Yellow Batolf Yellow Batolf Information from Chimeraland
+
+  \    Yellow Batolf default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                63
+
+  \      "
+excerpt: "Monster Yellow Batolf Yellow Batolf Information from Chimeraland
+
+  \    Yellow Batolf default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                63
+
+  \      "
+permalink: /chimeraland/monsters/yellow-batolf.html
+photos:
+  - null
+subtitle: "Monster Yellow Batolf Yellow Batolf Information from Chimeraland
+
+  \    Yellow Batolf default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                63
+
+  \      "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Yellow Batolf
+title: Monster Yellow Batolf
+type: post
+updated: 2023-05-25T14:52:12+07:00
+webtitle: chimeraland
+wordcount: 696
 ---
 
 <link

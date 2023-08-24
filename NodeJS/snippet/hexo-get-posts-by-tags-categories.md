@@ -16,7 +16,6 @@ excerpt: HexoJS get posts by tags or categories @types/hexo required for
   I made my custom definition file for hexo. You can install with below command
   npm i -D https://github.com/dimaslanjaka/nodejs-package-types/tarball/hexo
   Snip
-id: d540b2ea-1ef1-4888-8fe3-5a6b1808c34e
 lang: en
 photos:
   - /NodeJS/assets/pngwing.com.png

@@ -1,23 +1,92 @@
 ---
-title: Recipe Spicy Red Goodfruit Soup Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T20:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-12T05:56:03+07:00
+description: "Recipe Spicy Red Goodfruit Soup Chimeraland Spicy Red Goodfruit
+  Soup Cooking Recipe
+
+  \             \ 
+
+  \              Buff Spicy Red Goodfruit Soup
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Cold Resistance +10
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \   "
+excerpt: "Recipe Spicy Red Goodfruit Soup Chimeraland Spicy Red Goodfruit Soup
+  Cooking Recipe
+
+  \             \ 
+
+  \              Buff Spicy Red Goodfruit Soup
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Cold Resistance +10
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \   "
+lang: en
 permalink: /chimeraland/recipes/spicy-red-goodfruit-soup.html
 photos:
   - null
   - null
   - null
   - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spicy Red Goodfruit Soup
+subtitle: "Recipe Spicy Red Goodfruit Soup Chimeraland Spicy Red Goodfruit Soup
+  Cooking Recipe
+
+  \             \ 
+
+  \              Buff Spicy Red Goodfruit Soup
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Cold Resistance +10
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \   "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spicy Red Goodfruit Soup
+title: Recipe Spicy Red Goodfruit Soup Chimeraland
+type: post
+updated: 2022-10-06T20:46:55+07:00
+wordcount: 741
 ---
 
 <link

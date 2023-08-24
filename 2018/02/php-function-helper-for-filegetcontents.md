@@ -12,7 +12,6 @@ description: "Description Of fileget_contents Source Description: PHP.NET PHP 4
   >= 4.3.0, PHP 5, PHP 7"
 excerpt: "Description Of fileget_contents Source Description: PHP.NET PHP 4 >=
   4.3.0, PHP 5, PHP 7"
-id: 42040c90-0bd5-4888-82ce-cb5a1462c90b
 lang: en
 photos:
   - https://www.svgrepo.com/show/84714/php.svg
@@ -24,7 +23,6 @@ thumbnail: https://www.svgrepo.com/show/84714/php.svg
 title: "[PHP] Function Helper For file_get_contents"
 type: post
 updated: 2023-08-08T14:45:41+07:00
-uuid: 2c2fed27-5d55-4888-86ef-52ebb308a008
 webtitle: PHP
 wordcount: 2002
 ---

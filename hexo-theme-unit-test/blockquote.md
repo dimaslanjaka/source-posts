@@ -13,7 +13,6 @@ excerpt: Blockquote Shortcode Blockquote shortcode hexo print blockquote with
   official hexo shortcode Using Shortcode blockquote Lorem ipsum dolor sit amet,
   consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis
   feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eg
-id: 7ff8b736-eeaa-4888-830d-7e76226f8422
 lang: en
 photos: []
 subtitle: Blockquote Shortcode Blockquote shortcode hexo print blockquote with

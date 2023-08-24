@@ -13,7 +13,6 @@ excerpt: "Force Change ALl End Of Line VSCode To LF Git change all crlf to lf
   for vscode git add -Agit commit -m Commit Message Before Changing End Of
   Linegit push begin changing end of line globallygit config core.autocrlf
   falsegit rm --cached -r .git reset --hard Change VSCode settings.json Option "
-id: 2f56d454-ee7d-4888-838d-8c92369290cb
 lang: en
 photos:
   - https://miro.medium.com/max/1400/1*HSXWWE7wkg9phEJ7ImhT2Q.jpeg

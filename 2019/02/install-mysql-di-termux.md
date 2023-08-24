@@ -14,7 +14,6 @@ description: Install dan buka termuxketik pkg install mariadbmkdir
 excerpt: Install dan buka termuxketik pkg install mariadbmkdir
   ..usr/etc/my.cnf.dmysql_install_dbmysqldBuka tab sesi baru, lalu ketik mysql
   -u root
-id: f5856908-5b57-4888-8130-f1ba9257bc64
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://netsolutions.net.au/wp-content/uploads/2015/07/mysql-mariadb-795x480.png
@@ -30,7 +29,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://netsoluti
 title: Install MySQL di termux
 type: post
 updated: 2023-08-08T14:45:32+07:00
-uuid: 88f4fad2-2966-4888-8741-45f35477c275
 wordcount: 347
 ---
 

@@ -1,9 +1,77 @@
 ---
-title: Monster Pixie
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T10:23:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-05-25T02:21:12+07:00
+description: "Monster Pixie Pixie Information from Chimeraland
+
+  \    Pixie default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                "
+excerpt: "Monster Pixie Pixie Information from Chimeraland
+
+  \    Pixie default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                "
 permalink: /chimeraland/monsters/pixie.html
 photos:
   - null
@@ -17,15 +85,49 @@ photos:
   - /chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-32-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-49-79_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/pixie/Screenshot_2023-08-06-23-33-56-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pixie
+subtitle: "Monster Pixie Pixie Information from Chimeraland
+
+  \    Pixie default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pixie
+title: Monster Pixie
+type: post
+updated: 2023-05-25T10:23:12+07:00
+webtitle: chimeraland
+wordcount: 1331
 ---
 
 <link

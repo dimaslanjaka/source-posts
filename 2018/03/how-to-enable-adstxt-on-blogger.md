@@ -12,7 +12,6 @@ description: After yesterday Google introduced theSearch Console Beta version,
   now Google addedAds.txt on Blogger.
 excerpt: After yesterday Google introduced theSearch Console Beta version, now
   Google addedAds.txt on Blogger.
-id: 38a5e123-8624-4888-818a-d4d66cd65ef3
 lang: en
 photos:
   - https://4.bp.blogspot.com/-dGUliWFLKSY/WnGd3G8SgyI/AAAAAAAAF90/QMALZVj1V_YrcGf6dhEoCPsfB0DR4DYsACLcBGAs/s1600/Cara%252BMengaktifkan%252BAds%252Btxt%252Bdi%252BBlogger.png
@@ -25,7 +24,6 @@ thumbnail: https://4.bp.blogspot.com/-dGUliWFLKSY/WnGd3G8SgyI/AAAAAAAAF90/QMALZV
 title: How to Enable Ads.txt on Blogger
 type: post
 updated: 2023-08-08T14:45:41+07:00
-uuid: 6108a20c-0bdd-4888-84a2-d70c8eb4bdad
 wordcount: 783
 ---
 

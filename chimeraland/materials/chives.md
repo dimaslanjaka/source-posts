@@ -1,19 +1,151 @@
 ---
-title: Material Chives Chimeraland
-date: 2022-01-12T09:56:03+07:00
-updated: 2022-10-04T09:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/chives.html
-photos:
-  - /chimeraland/materials/chives/chives.webp
-thumbnail: /chimeraland/materials/chives/chives.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-12T09:56:03+07:00
+description: "Material Chives Chimeraland materials
+
+  \        Chives
+
+  \        October 4, 2022 9:26 AM
+
+  \        Continue reading Chives
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Chives
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \       "
+excerpt: "Material Chives Chimeraland materials
+
+  \        Chives
+
+  \        October 4, 2022 9:26 AM
+
+  \        Continue reading Chives
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Chives
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \       "
+permalink: /chimeraland/materials/chives.html
+photos:
+  - /chimeraland/materials/chives/chives.webp
+subtitle: "Material Chives Chimeraland materials
+
+  \        Chives
+
+  \        October 4, 2022 9:26 AM
+
+  \        Continue reading Chives
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Chives
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \       "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/chives/chives.webp
+title: Material Chives Chimeraland
+type: post
+updated: 2022-10-04T09:26:37+07:00
+wordcount: 883
 ---
 
 <link

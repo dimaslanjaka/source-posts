@@ -1,20 +1,53 @@
 ---
-title: Material Hairtail Chimeraland
-date: 2022-01-14T19:56:03+07:00
-updated: 2022-10-06T19:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/hairtail.html
-photos:
-  - /chimeraland/materials/hairtail/hairtail.webp
-  - /chimeraland/materials/hairtail/barbled-dragonfish.webp
-thumbnail: /chimeraland/materials/hairtail/hairtail.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-14T19:56:03+07:00
+description: >-
+  Material Hairtail Chimeraland materials
+          Hairtail
+          October 6, 2022 7:26 PM
+          
+            A deep-sea fish that is small, with a large head, large number of long
+            fangs, and luminous part. It is fierce. Sealand Sea area is where it
+            may be found.
+          
+          C
+excerpt: >-
+  Material Hairtail Chimeraland materials
+          Hairtail
+          October 6, 2022 7:26 PM
+          
+            A deep-sea fish that is small, with a large head, large number of long
+            fangs, and luminous part. It is fierce. Sealand Sea area is where it
+            may be found.
+          
+          C
+permalink: /chimeraland/materials/hairtail.html
+photos:
+  - /chimeraland/materials/hairtail/hairtail.webp
+  - /chimeraland/materials/hairtail/barbled-dragonfish.webp
+subtitle: >-
+  Material Hairtail Chimeraland materials
+          Hairtail
+          October 6, 2022 7:26 PM
+          
+            A deep-sea fish that is small, with a large head, large number of long
+            fangs, and luminous part. It is fierce. Sealand Sea area is where it
+            may be found.
+          
+          C
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/hairtail/hairtail.webp
+title: Material Hairtail Chimeraland
+type: post
+updated: 2022-10-06T19:26:37+07:00
+wordcount: 982
 ---
 
 <link

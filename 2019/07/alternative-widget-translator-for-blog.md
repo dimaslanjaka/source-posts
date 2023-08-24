@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://tools.robingoo
 date: 2019-07-26T00:56:00.000+07:00
 description: English Indonesian Afrikaans Albanian Arabic Armenian Azerbaijani
 excerpt: English Indonesian Afrikaans Albanian Arabic Armenian Azerbaijani
-id: 4093c68e-dd3a-4888-859a-60b2a848b726
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://tools.robingood.com/assets/393/1493297085-google-translate-2png.png
@@ -23,7 +22,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://tools.robi
 title: Alternative Widget Translator for blog
 type: post
 updated: 2023-08-08T14:45:31+07:00
-uuid: addf0df2-5c9f-4888-87d4-e2c3f31e59bb
 wordcount: 1469
 ---
 

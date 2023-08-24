@@ -1,21 +1,123 @@
 ---
-title: Monster Icebug
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T10:50:12+07:00
-date: 2023-05-25T02:21:12+07:00
-permalink: /chimeraland/monsters/icebug.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Icebug
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T02:21:12+07:00
+description: "Monster Icebug Icebug Information from Chimeraland
+
+  \    Icebug default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \             "
+excerpt: "Monster Icebug Icebug Information from Chimeraland
+
+  \    Icebug default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \             "
+permalink: /chimeraland/monsters/icebug.html
+photos:
+  - null
+subtitle: "Monster Icebug Icebug Information from Chimeraland
+
+  \    Icebug default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \             "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Icebug
+title: Monster Icebug
+type: post
+updated: 2023-05-25T10:50:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

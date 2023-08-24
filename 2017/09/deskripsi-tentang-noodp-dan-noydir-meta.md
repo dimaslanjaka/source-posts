@@ -12,7 +12,6 @@ description: Untuk mencegah yahoo search engine menampilkan deskripsi dan title
   situs dari yahoo directory.
 excerpt: Untuk mencegah yahoo search engine menampilkan deskripsi dan title
   situs dari yahoo directory.
-id: b01b80ec-963d-4888-8a33-b116f06e0355
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh5.googleusercontent.com/proxy/0M7YVi9ALp2H_7yL8Qjxytyl1bR_a1wm5w9439itLQLMHsRgTo9wU-PwoO19di1vA4AtAt7zBE0ZcrqhoKcYDH6TKwZgVpu1C4Ba5KITbvPGYV8I2qLOHxtrSP68PrsWHYP3PHIOQtipt2cL8ARZOa9YNwjV16QhJWsZThVqKVQrPA=w507-h290-nc
@@ -26,7 +25,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh5.googl
 title: Deskripsi Tentang Noodp Dan Noydir Meta Tag
 type: post
 updated: 2023-08-08T14:45:47+07:00
-uuid: e5bcb6b3-fee2-4888-8a63-c403f1d52715
 wordcount: 3769
 ---
 

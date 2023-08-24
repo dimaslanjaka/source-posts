@@ -12,7 +12,6 @@ description: Web Development Indonesia Everyone certainly does not expect the
   downloaded file to be corrupt or corrupt. The downloaded file is
 excerpt: Web Development Indonesia Everyone certainly does not expect the
   downloaded file to be corrupt or corrupt. The downloaded file is
-id: 74614a63-4575-4888-8e7d-a42a5b4a460d
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.com/wp-content/uploads/2016/04/Corrupt.png
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas
 title: Tips Agar File Hasil Download Kamu Tidak Corrupt
 type: post
 updated: 2023-08-08T14:45:28+07:00
-uuid: 68c72bf6-8dcf-4888-81bf-e028dc991e95
 wordcount: 3819
 ---
 

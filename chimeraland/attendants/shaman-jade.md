@@ -1,9 +1,73 @@
 ---
-title: Attendant shaman jade
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-08-06T22:00:21+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2023-08-06T21:49:21+07:00
+description: "Attendant shaman jade shaman jade Information from Chimeraland
+
+  \    shaman jade default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \ "
+excerpt: "Attendant shaman jade shaman jade Information from Chimeraland
+
+  \    shaman jade default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \ "
 permalink: /chimeraland/attendants/shaman-jade.html
 photos:
   - /chimeraland/attendants/shaman-jade/Screenshot_2023-05-30-04-14-53-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -15,14 +79,46 @@ photos:
   - /chimeraland/attendants/shaman-jade/Screenshot_2023-05-30-04-15-17-94_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-jade/Screenshot_2023-05-30-04-15-22-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-jade/Screenshot_2023-05-30-04-15-26-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/shaman-jade/Screenshot_2023-05-30-04-14-53-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant shaman jade shaman jade Information from Chimeraland
+
+  \    shaman jade default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \ "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/shaman-jade/Screenshot_2023-05-30-04-14-53-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant shaman jade
+type: post
+updated: 2023-08-06T22:00:21+07:00
+webtitle: chimeraland
+wordcount: 1318
 ---
 
 <link

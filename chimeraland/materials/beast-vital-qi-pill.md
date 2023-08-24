@@ -1,19 +1,115 @@
 ---
-title: Material Beast Vital Qi Pill Chimeraland
-date: 2022-01-09T14:56:03+07:00
-updated: 2022-10-01T14:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/beast-vital-qi-pill.html
-photos:
-  - /chimeraland/materials/beast-vital-qi-pill/beast-vital-qi-pill.webp
-thumbnail: /chimeraland/materials/beast-vital-qi-pill/beast-vital-qi-pill.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-09T14:56:03+07:00
+description: "Material Beast Vital Qi Pill Chimeraland materials
+
+  \        Beast Vital Qi Pill
+
+  \        October 1, 2022 2:26 PM
+
+  \        Continue reading Beast Vital Qi Pill
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Beast Vital Qi Pill
+
+  \       "
+excerpt: "Material Beast Vital Qi Pill Chimeraland materials
+
+  \        Beast Vital Qi Pill
+
+  \        October 1, 2022 2:26 PM
+
+  \        Continue reading Beast Vital Qi Pill
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Beast Vital Qi Pill
+
+  \       "
+permalink: /chimeraland/materials/beast-vital-qi-pill.html
+photos:
+  - /chimeraland/materials/beast-vital-qi-pill/beast-vital-qi-pill.webp
+subtitle: "Material Beast Vital Qi Pill Chimeraland materials
+
+  \        Beast Vital Qi Pill
+
+  \        October 1, 2022 2:26 PM
+
+  \        Continue reading Beast Vital Qi Pill
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Beast Vital Qi Pill
+
+  \       "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/beast-vital-qi-pill/beast-vital-qi-pill.webp
+title: Material Beast Vital Qi Pill Chimeraland
+type: post
+updated: 2022-10-01T14:26:37+07:00
+wordcount: 978
 ---
 
 <link

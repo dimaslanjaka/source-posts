@@ -1,14 +1,19 @@
 ---
-title: Pet and attendant delicacies tasty informations Chimeraland
-description: Pet and attendant delicacies tasty informations in game chimeraland
-date: 2022-06-10
-updated: 2022-08-26T05:30:00+0700
-thumbnail: https://i.ytimg.com/vi/cTViqpwvxqU/maxresdefault.jpg
-category:
+categories:
   - games
   - Chimeraland
+comments: true
+date: 2022-06-10
+description: Pet and attendant delicacies tasty informations in game chimeraland
+excerpt: Pet and attendant delicacies tasty informations in game chimeraland
+subtitle: Pet and attendant delicacies tasty informations in game chimeraland
 tags:
   - Chimeraland
+thumbnail: https://i.ytimg.com/vi/cTViqpwvxqU/maxresdefault.jpg
+title: Pet and attendant delicacies tasty informations Chimeraland
+type: post
+updated: 2022-08-26T05:30:00+0700
+wordcount: 104
 ---
 
 <style>

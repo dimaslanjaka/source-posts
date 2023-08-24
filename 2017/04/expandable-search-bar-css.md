@@ -12,7 +12,6 @@ description: Expandable Search Bar [CSS] How to create expandable search bar
   using CSS Only. Here the demo. CSS HTML
 excerpt: Expandable Search Bar [CSS] How to create expandable search bar using
   CSS Only. Here the demo. CSS HTML
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPiiyCAjSBQpwIQYKGS6wUqFGHQWSK9W7UhmZ5mu9eAPavFkA-
@@ -25,7 +24,6 @@ thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPiiyCAjSBQpwIQ
 title: Expandable Search Bar [CSS]
 type: post
 updated: 2023-08-08T14:46:01+07:00
-uuid: cdb40f39-2b7f-4888-8c74-8a36545b3924
 wordcount: 53
 ---
 

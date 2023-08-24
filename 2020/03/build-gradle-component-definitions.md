@@ -12,7 +12,6 @@ description: "Build Gradle Component Definitions Common Gradle Command Prompt
   Command Description ./gradlew build "
 excerpt: "Build Gradle Component Definitions Common Gradle Command Prompt
   Command Description ./gradlew build "
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://1.bp.blogspot.com/-Tos8rqKMyGA/XmNfZ846naI/AAAAAAAAAAM/PjoZBLK56IMCbfHmazdWHifnYzigxC7hgCLcBGAsYHQ/s320/gradle.png
@@ -24,7 +23,6 @@ thumbnail: https://1.bp.blogspot.com/-Tos8rqKMyGA/XmNfZ846naI/AAAAAAAAAAM/PjoZBL
 title: Build Gradle Component Definitions
 type: post
 updated: 2023-08-08T14:45:13+07:00
-uuid: 00aeca0f-7cf8-4888-81ea-5fd3dccd18cf
 wordcount: 718
 ---
 

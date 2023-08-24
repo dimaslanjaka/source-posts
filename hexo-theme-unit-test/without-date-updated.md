@@ -8,7 +8,6 @@ description: post without date and updated this post should be have metadata
   date and updated by current date date updated
 excerpt: post without date and updated this post should be have metadata date
   and updated by current date date updated
-id: c11382c7-6e84-4888-8413-e25818540773
 lang: en
 photos: []
 subtitle: post without date and updated this post should be have metadata date

@@ -6,7 +6,6 @@ comments: true
 date: 2017-01-11T12:37:27+07:00
 description: NodeJS assets just assets folder
 excerpt: NodeJS assets just assets folder
-id: 9e01f21c-25ce-4888-8ff4-22b909386983
 index: false
 lang: en
 no-index: true

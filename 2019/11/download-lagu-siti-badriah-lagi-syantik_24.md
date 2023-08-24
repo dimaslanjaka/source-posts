@@ -12,7 +12,6 @@ description: "Download lagu Siti Badriah Lagi Syantik Mp3 Siti Badriah - More
   Syantik Listen: 510,901,455 Duration: 234 MP3 size: 3.66MB"
 excerpt: "Download lagu Siti Badriah Lagi Syantik Mp3 Siti Badriah - More
   Syantik Listen: 510,901,455 Duration: 234 MP3 size: 3.66MB"
-id: 532db158-ece1-4888-8d0a-0ffa0ca96ce4
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/bb201229d7c52251d81702bbe266757b.jpeg
@@ -24,7 +23,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/bb201229d7c522
 title: Download lagu Siti Badriah - Lagi Syantik Mp3
 type: post
 updated: 2023-08-08T14:45:26+07:00
-uuid: 28df715d-7465-4888-89d0-72192f96cf9b
 wordcount: 2131
 ---
 

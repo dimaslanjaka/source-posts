@@ -11,7 +11,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i2.wp.com/www
 date: 2018-11-17T05:22:00.000+07:00
 description: Download Korean Drama Player Episode 2 Indonesian Subtitles
 excerpt: Download Korean Drama Player Episode 2 Indonesian Subtitles
-id: f30163d7-a0a0-4888-80b4-f9afb32f6ccc
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i2.wp.com/www.dramaencode.com/wp-content/uploads/2018/09/Download-Drama-Korea-Player-Subtitle-Indonesia.jpg?resize=520%2C343&ssl=1
@@ -22,7 +21,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i2.wp.com
 title: Download Korean Drama Player Episode 12 Indonesian Subtitles
 type: post
 updated: 2023-08-08T14:45:38+07:00
-uuid: a13d6597-4077-4888-8099-a0dc8bf22661
 wordcount: 5056
 ---
 

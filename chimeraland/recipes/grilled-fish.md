@@ -1,23 +1,101 @@
 ---
-title: Recipe Grilled Fish Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T02:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-09T12:56:03+07:00
+description: "Recipe Grilled Fish Chimeraland Grilled Fish Cooking Recipe
+
+  \             \ 
+
+  \              Buff Grilled Fish
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  Strenghten Underwater Effect
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \    "
+excerpt: "Recipe Grilled Fish Chimeraland Grilled Fish Cooking Recipe
+
+  \             \ 
+
+  \              Buff Grilled Fish
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  Strenghten Underwater Effect
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \    "
+lang: en
 permalink: /chimeraland/recipes/grilled-fish.html
 photos:
   - /chimeraland/recipes/grilled-fish/grilled-fish.webp
   - /chimeraland/recipes/grilled-fish/grilled-fish-name.webp
   - /chimeraland/recipes/grilled-fish/grilled-fish-icon.webp
   - /chimeraland/recipes/grilled-fish/grilled-fish-material.webp
-thumbnail: /chimeraland/recipes/grilled-fish/grilled-fish.webp
+subtitle: "Recipe Grilled Fish Chimeraland Grilled Fish Cooking Recipe
+
+  \             \ 
+
+  \              Buff Grilled Fish
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  Strenghten Underwater Effect
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \    "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/grilled-fish/grilled-fish.webp
+title: Recipe Grilled Fish Chimeraland
+type: post
+updated: 2022-10-06T02:46:54+07:00
+wordcount: 737
 ---
 
 <link

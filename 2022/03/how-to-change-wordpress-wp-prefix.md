@@ -13,7 +13,6 @@ excerpt: "Change wordpress table prefix updated 2022 How to change wordpress
   table prefix NOTE: replace NEWPREFIX_ and OLDPREFIX_ with yours NEWPREFIX_
   OLDPREFIX_ Step 1 Change variable value of wp-config.php Login to your control
   panel or via FTP.Open File Manager under Files Security.Locate the file wp-"
-id: a69fa1b4-3f2c-4888-8757-27179d208826
 lang: en
 photos:
   - https://i3.ytimg.com/vi/FgG5nYW5EUA/maxresdefault.jpg

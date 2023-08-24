@@ -11,7 +11,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.c
 date: 2018-11-09T12:40:00.000+07:00
 description: Fortnite adalah Game Arcade untuk android Download versi terakhir dari
 excerpt: Fortnite adalah Game Arcade untuk android Download versi terakhir dari
-id: eb73078d-ce85-4888-8120-5747c10ccbcb
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2018/fortnite-1.jpg
@@ -23,7 +22,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.rev
 title: Fortnite 6.22.0 Apk  Mod  Data Download
 type: post
 updated: 2023-08-08T14:45:37+07:00
-uuid: 5ac25394-571f-4888-89eb-ffda0a919386
 wordcount: 1475
 ---
 

@@ -10,7 +10,6 @@ cover: /GitHub/workflows/events.png
 date: 2021-11-21T23:00:00+07:00
 description: Macam-macam events pada GitHub Workflows
 excerpt: Macam-macam events pada GitHub Workflows
-id: e94a4f00-6a10-4888-8fca-dfc8fe6e687f
 keywords:
   - GitHub
   - workflows
@@ -29,7 +28,6 @@ thumbnail: /GitHub/workflows/events.png
 title: GitHub Workflow Events
 type: post
 updated: 2023-08-08T14:44:18+07:00
-uuid: e94a4f00-6a10-4888-8fca-dfc8fe6e687f
 webtitle: WMI GitHub
 wordcount: 1013
 ---

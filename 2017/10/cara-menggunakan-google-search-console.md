@@ -17,7 +17,6 @@ excerpt: Cara Menggunakan Google Search Console Tutorial ini akan menunjukkan
   cara mengirimkan situs Anda ke Google Google search console, bersama dengan
   file sitemap Anda. Pertama Anda harus memiliki file sitemap yang dibuat. Jika
   Anda belum melakukan ini, silakan lihat artikel saya diCara Membu
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://cdn.woorkup.com/wp-content/uploads/2013/09/submit-website-to-google.png
@@ -34,7 +33,6 @@ thumbnail: https://cdn.woorkup.com/wp-content/uploads/2013/09/submit-website-to-
 title: Cara Menggunakan Google Search Console
 type: post
 updated: 2023-08-08T14:45:44+07:00
-uuid: 7ec7816a-48d8-4888-8014-ee4beb19129a
 wordcount: 1488
 ---
 

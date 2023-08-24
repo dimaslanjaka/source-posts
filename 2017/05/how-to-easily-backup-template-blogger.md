@@ -10,7 +10,6 @@ cover: https://2.bp.blogspot.com/-ckNqKjK4iac/WRb5CltPGFI/AAAAAAAAACE/KXjMhakpN2
 date: 2017-05-13T14:17:00.000+07:00
 description: How to easily backup template blogger or blogspot
 excerpt: How to easily backup template blogger or blogspot
-id: 2e7aa7a3-9f8e-4888-8399-51857db6c427
 lang: en
 photos:
   - https://2.bp.blogspot.com/-ckNqKjK4iac/WRb5CltPGFI/AAAAAAAAACE/KXjMhakpN2MA2CWE3T3_L_JD56H0MffQwCLcB/s1600/download.png
@@ -21,7 +20,6 @@ thumbnail: https://2.bp.blogspot.com/-ckNqKjK4iac/WRb5CltPGFI/AAAAAAAAACE/KXjMha
 title: How to easily backup template blogger or blogspot
 type: post
 updated: 2023-08-08T14:45:55+07:00
-uuid: 2dbc0f98-036e-4888-8d17-506916946998
 wordcount: 871
 ---
 

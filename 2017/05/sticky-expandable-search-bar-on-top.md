@@ -12,7 +12,6 @@ description: h2>How to create sticky search bar on top right pages using
   classie.js</h2><br />Today i will share implementation of codes from
 excerpt: h2>How to create sticky search bar on top right pages using
   classie.js</h2><br />Today i will share implementation of codes from
-id: ab1730db-e31c-4888-8dbc-fe0406797430
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -26,7 +25,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Sticky expandable search bar on top right using classie.js
 type: post
 updated: 2023-08-08T14:45:54+07:00
-uuid: 3a6dc0d1-23db-4888-8600-f717117f7d58
 wordcount: 84
 ---
 

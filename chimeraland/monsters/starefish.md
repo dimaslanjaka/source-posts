@@ -1,9 +1,19 @@
 ---
-title: Monster Starefish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T16:41:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-10T19:56:03+07:00
+description: "monster Starefish default quality GRADE B ATK 63 HP 66 DEF 54
+  Attributes Conversion Rate 4.0%,HP 339,Essence Aspect: Swimscale
+  delicacies/tasty Bear Meatball,Moddly Wings Topped Rice,Hot Stone Icefox Meat
+  games,chimeraland,monsters chimeraland,monster,pet"
+excerpt: "monster Starefish default quality GRADE B ATK 63 HP 66 DEF 54
+  Attributes Conversion Rate 4.0%,HP 339,Essence Aspect: Swimscale
+  delicacies/tasty Bear Meatball,Moddly Wings Topped Rice,Hot Stone Icefox Meat
+  games,chimeraland,monsters chimeraland,monster,pet"
 permalink: /chimeraland/monsters/starefish.html
 photos:
   - null
@@ -14,19 +24,20 @@ photos:
   - /chimeraland/monsters/starefish/Screenshot_2022-08-13-19-09-10-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/starefish/Screenshot_2022-08-13-19-09-16-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/starefish/Screenshot_2022-08-13-19-09-21-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Starefish
+subtitle: "monster Starefish default quality GRADE B ATK 63 HP 66 DEF 54
+  Attributes Conversion Rate 4.0%,HP 339,Essence Aspect: Swimscale
+  delicacies/tasty Bear Meatball,Moddly Wings Topped Rice,Hot Stone Icefox Meat
+  games,chimeraland,monsters chimeraland,monster,pet"
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
-description: "monster Starefish default quality GRADE B ATK 63 HP 66 DEF 54
-  Attributes Conversion Rate 4.0%,HP 339,Essence Aspect: Swimscale
-  delicacies/tasty Bear Meatball,Moddly Wings Topped Rice,Hot Stone Icefox Meat
-  games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Starefish
+title: Monster Starefish
+type: post
+updated: 2023-05-25T16:41:12+07:00
+webtitle: chimeraland
+wordcount: 1552
 ---
 
 <link

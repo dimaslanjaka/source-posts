@@ -1,19 +1,115 @@
 ---
-title: Material Fossilized Tailbone Chimeraland
-date: 2022-01-13T10:56:03+07:00
-updated: 2022-10-05T10:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/fossilized-tailbone.html
-photos:
-  - /chimeraland/materials/fossilized-tailbone/fossilized-tailbone.webp
-thumbnail: /chimeraland/materials/fossilized-tailbone/fossilized-tailbone.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-13T10:56:03+07:00
+description: "Material Fossilized Tailbone Chimeraland materials
+
+  \        Fossilized Tailbone
+
+  \        October 5, 2022 10:26 AM
+
+  \        Continue reading Fossilized Tailbone
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Fossilized Tailbone
+
+  \      "
+excerpt: "Material Fossilized Tailbone Chimeraland materials
+
+  \        Fossilized Tailbone
+
+  \        October 5, 2022 10:26 AM
+
+  \        Continue reading Fossilized Tailbone
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Fossilized Tailbone
+
+  \      "
+permalink: /chimeraland/materials/fossilized-tailbone.html
+photos:
+  - /chimeraland/materials/fossilized-tailbone/fossilized-tailbone.webp
+subtitle: "Material Fossilized Tailbone Chimeraland materials
+
+  \        Fossilized Tailbone
+
+  \        October 5, 2022 10:26 AM
+
+  \        Continue reading Fossilized Tailbone
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Fossilized Tailbone
+
+  \      "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/fossilized-tailbone/fossilized-tailbone.webp
+title: Material Fossilized Tailbone Chimeraland
+type: post
+updated: 2022-10-05T10:26:37+07:00
+wordcount: 777
 ---
 
 <link

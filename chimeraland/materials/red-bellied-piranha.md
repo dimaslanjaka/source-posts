@@ -1,19 +1,46 @@
 ---
-title: Material Red-bellied Piranha Chimeraland
-date: 2022-01-17T07:56:03+07:00
-updated: 2022-10-09T07:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/red-bellied-piranha.html
-photos:
-  - /chimeraland/materials/red-bellied-piranha/red-bellied-piranha.webp
-thumbnail: /chimeraland/materials/red-bellied-piranha/red-bellied-piranha.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-17T07:56:03+07:00
+description: >-
+  Material Red-bellied Piranha Chimeraland materials
+          Red-bellied Piranha
+          October 9, 2022 7:26 AM
+          
+            A freshwater fish that is oval, flat, and has a shaped tail fin. It
+            has sharp teeth and well-developed lower jaw with spines. It is known
+            for its fero
+excerpt: >-
+  Material Red-bellied Piranha Chimeraland materials
+          Red-bellied Piranha
+          October 9, 2022 7:26 AM
+          
+            A freshwater fish that is oval, flat, and has a shaped tail fin. It
+            has sharp teeth and well-developed lower jaw with spines. It is known
+            for its fero
+permalink: /chimeraland/materials/red-bellied-piranha.html
+photos:
+  - /chimeraland/materials/red-bellied-piranha/red-bellied-piranha.webp
+subtitle: >-
+  Material Red-bellied Piranha Chimeraland materials
+          Red-bellied Piranha
+          October 9, 2022 7:26 AM
+          
+            A freshwater fish that is oval, flat, and has a shaped tail fin. It
+            has sharp teeth and well-developed lower jaw with spines. It is known
+            for its fero
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/red-bellied-piranha/red-bellied-piranha.webp
+title: Material Red-bellied Piranha Chimeraland
+type: post
+updated: 2022-10-09T07:26:37+07:00
+wordcount: 901
 ---
 
 <link

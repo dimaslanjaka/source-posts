@@ -12,7 +12,6 @@ description: Apakah Anda siap untuk mengambil taktik pemasaran media sosial Anda
   ke tingkat berikutnya Media sosial dan bisnis tidak dapat
 excerpt: Apakah Anda siap untuk mengambil taktik pemasaran media sosial Anda ke
   tingkat berikutnya Media sosial dan bisnis tidak dapat
-id: a29975d8-9dd6-4888-8178-f17fc315c1c2
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/098d22e30eed32fa44e3d62fdff53333.png
@@ -26,7 +25,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/098d22e3
 title: "Taktik Pemasaran Media Sosial: 10 Gagasan Yang Sebenarnya Berhasil"
 type: post
 updated: 2023-08-08T14:45:15+07:00
-uuid: 6dcb377c-deb8-4888-8e63-93c29f68451f
 wordcount: 14326
 ---
 

@@ -12,7 +12,6 @@ description: h1 itemprop=headline name class=text-center>Load CSS
   Asynchronously</h1> <script
 excerpt: h1 itemprop=headline name class=text-center>Load CSS
   Asynchronously</h1> <script
-id: 41838b4e-61a8-4888-8709-5ad5696d90e1
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -25,7 +24,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Load CSS Asynchronously
 type: post
 updated: 2023-08-08T14:45:14+07:00
-uuid: 528f01ae-7ae1-4888-8049-39b5dec543c8
 wordcount: 12
 ---
 

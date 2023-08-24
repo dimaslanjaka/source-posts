@@ -12,7 +12,6 @@ description: "Download lagu Yura Yunita ft. Glenn Fredly Cinta dan Rahasia Mp3
   Yura Yunita ft. Glenn Fredly - Love and Secret Listen: 83,205,657"
 excerpt: "Download lagu Yura Yunita ft. Glenn Fredly Cinta dan Rahasia Mp3 Yura
   Yunita ft. Glenn Fredly - Love and Secret Listen: 83,205,657"
-id: 3fbb38ff-88d5-4888-87f0-8f63dd4a41ea
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/15f3cdabd1d97ccc9ea06cce95ff1e38.jpeg
@@ -24,7 +23,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/15f3cdabd1d97c
 title: Download lagu Yura Yunita ft. Glenn Fredly - Cinta dan Rahasia Mp3
 type: post
 updated: 2023-08-08T14:45:25+07:00
-uuid: d41b96af-067d-4888-82f9-a1bd0706e593
 wordcount: 2339
 ---
 

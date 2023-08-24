@@ -8,7 +8,6 @@ description: Link Post This is a link post. Clicking on the link should open
   Google in a new tab or window. Google
 excerpt: Link Post This is a link post. Clicking on the link should open Google
   in a new tab or window. Google
-id: 4a31187d-cd42-4888-819e-0db1757c5045
 lang: en
 link: http://www.google.com/
 photos: []

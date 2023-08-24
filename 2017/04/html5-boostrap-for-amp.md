@@ -16,7 +16,6 @@ excerpt: HTML5 Bootstrap For AMP Hello. I want to share a boostrap For AMP Blog.
   There one from my boostrap.
   .hljsdisplay:block;padding:0;color:333.hljs-comment,.hljs-quotecolor:998;font-style:italic.hljs-keyword,.hljs-selector-tag,.hljs-substcolor:333.hljs-literal,.hljs-number,.hljs-tag
   .hljs-att
-id: 2effefb7-ea97-4888-8bdb-f89fbb09fca2
 lang: en
 photos:
   - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU6daixUyrq6m3xUPsDdb4VZ4UR6ctElGQg4CeeBUJ39a-VCfX
@@ -33,7 +32,6 @@ thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU6daixUyrq6m3x
 title: HTML5 Bootstrap For AMP
 type: post
 updated: 2023-08-08T14:45:59+07:00
-uuid: 50dc711f-b623-4888-8098-114c050515b9
 wordcount: 1300
 ---
 

@@ -12,7 +12,6 @@ description: PHP CLI?phpif argv foreach argv as k=>v if k==0 continue; it =
   explode=,argv[i]; if
 excerpt: PHP CLI?phpif argv foreach argv as k=>v if k==0 continue; it =
   explode=,argv[i]; if
-id: d53a8f01-9a0f-4888-8b56-4da62489f102
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Put execution arg into _GET
 type: post
 updated: 2023-08-08T14:45:29+07:00
-uuid: b733e3ea-bbe3-4888-8d55-120995b0f672
 wordcount: 222
 ---
 

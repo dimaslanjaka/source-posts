@@ -1,9 +1,77 @@
 ---
-title: Attendant urslan
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-11-26T10:35:17+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2022-11-26T10:24:17+07:00
+description: "Attendant urslan urslan Information from Chimeraland
+
+  \    urslan default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             \ 
+
+  \ "
+excerpt: "Attendant urslan urslan Information from Chimeraland
+
+  \    urslan default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             \ 
+
+  \ "
 permalink: /chimeraland/attendants/urslan.html
 photos:
   - /chimeraland/attendants/urslan/Screenshot_2022-11-15-23-43-38-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,14 +81,48 @@ photos:
   - /chimeraland/attendants/urslan/Screenshot_2022-11-15-23-43-58-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/urslan/Screenshot_2022-11-15-23-44-01-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/urslan/Screenshot_2022-11-15-23-44-04-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/urslan/Screenshot_2022-11-15-23-43-38-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant urslan urslan Information from Chimeraland
+
+  \    urslan default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             \ 
+
+  \ "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/urslan/Screenshot_2022-11-15-23-43-38-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant urslan
+type: post
+updated: 2022-11-26T10:35:17+07:00
+webtitle: chimeraland
+wordcount: 1059
 ---
 
 <link

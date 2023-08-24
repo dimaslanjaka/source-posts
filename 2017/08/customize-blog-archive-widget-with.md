@@ -12,7 +12,6 @@ description: The Blog Document gadget is one of Bloggers legitimate gadgets. The
   main issue with the default Blog File gadget is that it will take up
 excerpt: The Blog Document gadget is one of Bloggers legitimate gadgets. The
   main issue with the default Blog File gadget is that it will take up
-id: db7428c5-2ea2-4888-8ba7-d13922543b56
 lang: en
 photos:
   - https://1.bp.blogspot.com/-GV7abCMrwuY/VFjH5bdO0II/AAAAAAAAHgI/zvsV7trZFXY/s1600/archive%2Bcopy.jpg
@@ -25,7 +24,6 @@ thumbnail: https://1.bp.blogspot.com/-GV7abCMrwuY/VFjH5bdO0II/AAAAAAAAHgI/zvsV7t
 title: Customize Blog Archive Widget With Scrollbar
 type: post
 updated: 2023-08-08T14:45:49+07:00
-uuid: 07b42ba8-12ac-4888-8539-1a68544878e7
 wordcount: 1040
 ---
 

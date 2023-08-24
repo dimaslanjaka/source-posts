@@ -10,7 +10,6 @@ cover: https://1.bp.blogspot.com/-OCrG57WlTmc/Tx0SI0GJV-I/AAAAAAAAAX0/EXa3X81Jow
 date: 2017-09-07T09:39:00.000+07:00
 description: How to reproduce like on fanpage facebook??
 excerpt: How to reproduce like on fanpage facebook??
-id: 0f3d303d-dfa1-4888-84b0-88a4fcab6e26
 lang: en
 photos:
   - https://1.bp.blogspot.com/-OCrG57WlTmc/Tx0SI0GJV-I/AAAAAAAAAX0/EXa3X81Jows/s280/fss.png
@@ -21,7 +20,6 @@ thumbnail: https://1.bp.blogspot.com/-OCrG57WlTmc/Tx0SI0GJV-I/AAAAAAAAAX0/EXa3X8
 title: How to reproduce like on fanpage facebook
 type: post
 updated: 2023-08-08T14:45:47+07:00
-uuid: 17cba081-b42c-4888-8216-921887a0d2e1
 wordcount: 1245
 ---
 

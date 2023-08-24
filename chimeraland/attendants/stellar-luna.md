@@ -1,20 +1,110 @@
 ---
-title: Attendant stellar luna
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-17T00:53:20+07:00
-date: 2023-02-17T00:42:20+07:00
-permalink: /chimeraland/attendants/stellar-luna.html
-photos:
-  - /chimeraland/attendants/stellar-luna/Screenshot_2023-02-13-16-35-10-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/stellar-luna/Screenshot_2023-02-13-16-35-10-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
-tags:
-  - chimeraland
-  - Attendant
 categories:
   - games
   - chimeraland
   - attendants
+comments: true
+date: 2023-02-17T00:42:20+07:00
+description: "Attendant stellar luna stellar luna Information from Chimeraland
+
+  \    stellar luna default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             "
+excerpt: "Attendant stellar luna stellar luna Information from Chimeraland
+
+  \    stellar luna default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             "
+permalink: /chimeraland/attendants/stellar-luna.html
+photos:
+  - /chimeraland/attendants/stellar-luna/Screenshot_2023-02-13-16-35-10-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant stellar luna stellar luna Information from Chimeraland
+
+  \    stellar luna default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             "
+tags:
+  - chimeraland
+  - Attendant
+thumbnail: /chimeraland/attendants/stellar-luna/Screenshot_2023-02-13-16-35-10-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant stellar luna
+type: post
+updated: 2023-02-17T00:53:20+07:00
+webtitle: chimeraland
+wordcount: 670
 ---
 
 <link

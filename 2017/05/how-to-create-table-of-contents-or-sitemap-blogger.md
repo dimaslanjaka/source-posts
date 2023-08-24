@@ -10,7 +10,6 @@ cover: https://2.bp.blogspot.com/-DIRhiZq0cPg/Vr5-ETcI9AI/AAAAAAAABvo/pwTQPnRlg6
 date: 2017-05-15T13:46:00.000+07:00
 description: How to create a table of contents or sitemap in blogger or blogspot
 excerpt: How to create a table of contents or sitemap in blogger or blogspot
-id: f0ffcf73-3a82-4888-8b83-56acc6351a5f
 lang: en
 photos:
   - https://2.bp.blogspot.com/-DIRhiZq0cPg/Vr5-ETcI9AI/AAAAAAAABvo/pwTQPnRlg60/s640/gambar-sitemap-blogger-min.jpg
@@ -24,7 +23,6 @@ thumbnail: https://2.bp.blogspot.com/-DIRhiZq0cPg/Vr5-ETcI9AI/AAAAAAAABvo/pwTQPn
 title: How to create a table of contents or sitemap in blogger or blogspot
 type: post
 updated: 2023-08-08T14:45:56+07:00
-uuid: 1e78f355-f172-4888-807e-c68e6e937a13
 wordcount: 1522
 ---
 

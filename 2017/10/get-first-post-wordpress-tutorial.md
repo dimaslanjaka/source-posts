@@ -12,7 +12,6 @@ description: Edit your functions.php of your themes. This also work on amp
   plugin wp AMP ninja -gt; Edit on functions.php too. <br /><h3>Codes
 excerpt: Edit your functions.php of your themes. This also work on amp plugin wp
   AMP ninja -gt; Edit on functions.php too. <br /><h3>Codes
-id: 3080e8d9-0870-4888-8483-f33a629bb646
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -25,7 +24,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Get first post WORDPRESS tutorial
 type: post
 updated: 2023-08-08T14:45:44+07:00
-uuid: 45f43922-4882-4888-8a2d-eb9133ac6054
 wordcount: 1526
 ---
 

@@ -9,7 +9,6 @@ cover: https://1.bp.blogspot.com/-JB0hsyji7wo/XR0Sq_evvpI/AAAAAAAATlo/afDSTs1Y-H
 date: 2022-05-10T23:20:16+0000
 description: Snippet lazy load adsense full support for blogger, wordpress, etc
 excerpt: Snippet lazy load adsense full support for blogger, wordpress, etc
-id: 98cf9b80-d883-4888-8f78-ed14287482e8
 lang: en
 photos:
   - https://1.bp.blogspot.com/-JB0hsyji7wo/XR0Sq_evvpI/AAAAAAAATlo/afDSTs1Y-HcrcDANMV9fGrGwZUU37o31wCLcBGAs/w600/Cara-Memasang-Lazy-Load-Iklan-Adsense.png
@@ -26,6 +25,7 @@ type: post
 updated: 2023-08-19T22:02:43+07:00
 wordcount: 586
 ---
+
 
 change `ca-pub-1165447249910969` with your own adsense pub
 ```html

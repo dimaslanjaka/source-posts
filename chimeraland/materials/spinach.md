@@ -1,19 +1,151 @@
 ---
-title: Material Spinach Chimeraland
-date: 2022-01-13T00:56:03+07:00
-updated: 2022-10-05T00:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/spinach.html
-photos:
-  - /chimeraland/materials/spinach/spinach.webp
-thumbnail: /chimeraland/materials/spinach/spinach.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-13T00:56:03+07:00
+description: "Material Spinach Chimeraland materials
+
+  \        Spinach
+
+  \        October 5, 2022 12:26 AM
+
+  \        Continue reading Spinach
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Spinach
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \  "
+excerpt: "Material Spinach Chimeraland materials
+
+  \        Spinach
+
+  \        October 5, 2022 12:26 AM
+
+  \        Continue reading Spinach
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Spinach
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \  "
+permalink: /chimeraland/materials/spinach.html
+photos:
+  - /chimeraland/materials/spinach/spinach.webp
+subtitle: "Material Spinach Chimeraland materials
+
+  \        Spinach
+
+  \        October 5, 2022 12:26 AM
+
+  \        Continue reading Spinach
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Spinach
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \  "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/spinach/spinach.webp
+title: Material Spinach Chimeraland
+type: post
+updated: 2022-10-05T00:26:37+07:00
+wordcount: 511
 ---
 
 <link

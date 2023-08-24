@@ -9,7 +9,6 @@ description: Using linux binary command instead windows binary command. Make
   cygwin downloaded package as priority.
 excerpt: Using linux binary command instead windows binary command. Make cygwin
   downloaded package as priority.
-id: 8f722d95-9e43-4888-80b3-2beef6c9ab34
 lang: en
 photos:
   - https://www.wikihow.com/images/7/7f/Use-Cygwin-Step-13.jpg

@@ -12,7 +12,6 @@ description: Untungnya Font CATATAN Font ini GRATIS 100 UNTUK PENGGUNAAN
   KOMERSIAL Tetapi setiap donasi sangat dihargai. Akun Paypal
 excerpt: Untungnya Font CATATAN Font ini GRATIS 100 UNTUK PENGGUNAAN KOMERSIAL
   Tetapi setiap donasi sangat dihargai. Akun Paypal
-id: 24362223-6523-4888-8fc8-95df3215c492
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.uxfree.com/wp-content/uploads/2019/01/543ca35a6b694410bbbbbdccb0d8b046.jpg
@@ -25,7 +24,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.uxfre
 title: Thankfully Font
 type: post
 updated: 2023-08-08T14:45:31+07:00
-uuid: a74c3b01-a0a1-4888-8bc5-9c171dcff6b3
 wordcount: 636
 ---
 

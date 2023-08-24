@@ -10,7 +10,6 @@ cover: /GitHub/workflows/cover.png
 date: 2021-11-18T22:00:00+07:00
 description: Semua yang kamu harus tau tentang GitHub Workflows
 excerpt: Semua yang kamu harus tau tentang GitHub Workflows
-id: 741baa72-98c8-4888-8c0f-96eee0b56067
 keywords:
   - GitHub
   - workflows
@@ -29,7 +28,6 @@ thumbnail: /GitHub/workflows/cover.png
 title: GitHub Workflows
 type: post
 updated: 2023-08-08T14:44:18+07:00
-uuid: 741baa72-98c8-4888-8c0f-96eee0b56067
 webtitle: WMI GitHub
 wordcount: 1314
 ---

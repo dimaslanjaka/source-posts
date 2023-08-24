@@ -12,7 +12,6 @@ description: Komponen amppixel berperilaku seperti img img gambar sederhana.
   Dibutuhkan satu URL saja, namun memberikan variabel yang bisa digantikan
 excerpt: Komponen amppixel berperilaku seperti img img gambar sederhana.
   Dibutuhkan satu URL saja, namun memberikan variabel yang bisa digantikan
-id: 2d040a63-f007-4888-83bb-89a9afcbeb08
 lang: en
 photos:
   - https://2.bp.blogspot.com/-jSLiOZsuahQ/WaRcT-NMI4I/AAAAAAAAACI/vjuid9-u-hE4pT43zsx0XxoytpjWj5HdACLcBGAs/s320/histats-2.jpg
@@ -25,7 +24,6 @@ thumbnail: https://2.bp.blogspot.com/-jSLiOZsuahQ/WaRcT-NMI4I/AAAAAAAAACI/vjuid9
 title: Memasang Histats Di AMP Menggunakan amp-pixel
 type: post
 updated: 2023-08-08T14:45:46+07:00
-uuid: ba11674a-9d5b-4888-8e3a-e14f223a43a2
 wordcount: 675
 ---
 

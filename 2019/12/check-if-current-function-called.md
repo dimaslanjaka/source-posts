@@ -12,7 +12,6 @@ description: pre><br />static = issetthis amp;amp; get_classthis ==
   __CLASS__;<br />if static <br /> return self;<br /> else <br />
 excerpt: pre><br />static = issetthis amp;amp; get_classthis == __CLASS__;<br
   />if static <br /> return self;<br /> else <br />
-id: 857fa9a0-84ba-4888-8b86-626dd466d6c4
 lang: en
 photos:
   - https://i.ytimg.com/vi/ZFhadzpISPY/maxresdefault.jpg
@@ -24,7 +23,6 @@ thumbnail: https://i.ytimg.com/vi/ZFhadzpISPY/maxresdefault.jpg
 title: Check if current function called statically or not
 type: post
 updated: 2023-08-08T14:45:23+07:00
-uuid: d7a937ec-9c02-4888-846e-68077d4507d8
 wordcount: 251
 ---
 

@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/w_300,h_300/https://i
 date: 2018-10-17T22:04:00.001+07:00
 description: Penjabaran dari WPS WPA WiFi Tester Tanpa Root
 excerpt: Penjabaran dari WPS WPA WiFi Tester Tanpa Root
-id: 7ecabd2f-2714-4888-8727-fb3b6af790fc
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/w_300,h_300/https://imgdb.net/images/4221.png
@@ -23,7 +22,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/w_300,h_300/https
 title: Cara Menggunakan Bruteforce WPS WiFi Di Android Tanpa Root
 type: post
 updated: 2023-08-08T14:45:39+07:00
-uuid: f726d62e-06a1-4888-8132-05b1b0b01498
 wordcount: 418
 ---
 

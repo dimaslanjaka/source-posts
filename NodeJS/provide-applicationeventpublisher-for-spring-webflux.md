@@ -15,7 +15,6 @@ excerpt: Provide ApplicationEventPublisher for Spring WebFlux
   is useful in some scenarios, for example, when I create an item, and another
   service listens for item creation and creates inventory for it. So its very
   practical in S
-id: 0888d9ec-b4b9-4888-8675-21ccf5edb4ce
 lang: en
 permalink: /2020/10/provide-applicationeventpublisher-for-spring-webflux.html
 photos: []

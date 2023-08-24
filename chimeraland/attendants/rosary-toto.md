@@ -1,9 +1,73 @@
 ---
-title: Attendant rosary toto
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-11-26T04:35:17+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2022-11-26T04:24:17+07:00
+description: "Attendant rosary toto rosary toto Information from Chimeraland
+
+  \    rosary toto default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \ "
+excerpt: "Attendant rosary toto rosary toto Information from Chimeraland
+
+  \    rosary toto default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \ "
 permalink: /chimeraland/attendants/rosary-toto.html
 photos:
   - /chimeraland/attendants/rosary-toto/Screenshot_2022-11-11-10-18-27-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,14 +76,46 @@ photos:
   - /chimeraland/attendants/rosary-toto/Screenshot_2022-11-11-10-18-45-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-toto/Screenshot_2022-11-11-10-18-50-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-toto/Screenshot_2022-11-11-10-18-56-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/rosary-toto/Screenshot_2022-11-11-10-18-27-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant rosary toto rosary toto Information from Chimeraland
+
+  \    rosary toto default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \ "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/rosary-toto/Screenshot_2022-11-11-10-18-27-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant rosary toto
+type: post
+updated: 2022-11-26T04:35:17+07:00
+webtitle: chimeraland
+wordcount: 1075
 ---
 
 <link

@@ -14,7 +14,6 @@ description: "blockquote>First post : <a
 excerpt: "blockquote>First post : <a
   href=http://webmanajemen.com/2017/09/cara-simple-membuat-blogger-safelink.html
   title=Cara Simple"
-id: 78a8f6c3-984f-4888-86c4-ac11cfa5c9ba
 lang: en
 photos:
   - https://cdn1.imggmi.com/uploads/2018/8/5/4f4281f038eb505c8f145d2c7f0b4f04-full.png
@@ -30,7 +29,6 @@ thumbnail: https://cdn1.imggmi.com/uploads/2018/8/5/4f4281f038eb505c8f145d2c7f0b
 title: Update code Simple SafeLink v3
 type: post
 updated: 2023-08-08T14:45:39+07:00
-uuid: 105dcfed-2d12-4888-8eb3-285b96243fe2
 wordcount: 240
 ---
 

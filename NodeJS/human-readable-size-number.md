@@ -13,7 +13,6 @@ excerpt: Snippet Convert Bytes To Human Readable Script function JS for
   Converting file size in bytes to human-readable string / Format bytes as
   human-readable text. @param bytes Number of bytes. @param si True to use
   metric SI units, aka powers of 1000. False to use binary IEC
-id: d9a6a0ae-f108-4888-812b-377cf49856f8
 keywords:
   - bytes
   - human readable

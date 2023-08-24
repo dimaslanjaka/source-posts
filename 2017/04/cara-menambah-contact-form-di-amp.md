@@ -17,7 +17,6 @@ excerpt: Cara Menambah Contact Form Di AMP Blogger Tanpa Menggunakan amp-iframe
   Cara Menambah Contact Form Di AMP Blogger Tanpa Menggunakan amp-iframe Valid
   Contact Form For AMP Valid AMP contact form for blog Banyak yang bertanya
   tanya kenapa saat memakai template amp di blogger widget mauput halaman c
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrPydJSDJ0qsdxmme5yXnxWiCKL71LNDgDbdXJxGC31KXn6aG-PyQdmuOFvQ
@@ -34,7 +33,6 @@ thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrPydJSDJ0qsdxm
 title: Cara Menambah Contact Form Di AMP Blogger Tanpa Menggunakan amp-iframe
 type: post
 updated: 2023-08-08T14:46:01+07:00
-uuid: 7e5d42f5-c6dc-4888-806e-39a5ef2899d2
 wordcount: 856
 ---
 

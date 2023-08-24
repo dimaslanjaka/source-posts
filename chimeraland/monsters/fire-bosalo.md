@@ -1,21 +1,117 @@
 ---
-title: Monster Fire Bosalo
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T17:06:12+07:00
-date: 2023-05-25T02:21:12+07:00
-permalink: /chimeraland/monsters/fire-bosalo.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Bosalo
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T02:21:12+07:00
+description: "Monster Fire Bosalo Fire Bosalo Information from Chimeraland
+
+  \    Fire Bosalo default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             "
+excerpt: "Monster Fire Bosalo Fire Bosalo Information from Chimeraland
+
+  \    Fire Bosalo default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             "
+permalink: /chimeraland/monsters/fire-bosalo.html
+photos:
+  - null
+subtitle: "Monster Fire Bosalo Fire Bosalo Information from Chimeraland
+
+  \    Fire Bosalo default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Bosalo
+title: Monster Fire Bosalo
+type: post
+updated: 2023-05-25T17:06:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

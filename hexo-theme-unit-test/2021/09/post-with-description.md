@@ -10,7 +10,6 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2021-09-25T00:13:00+07:00
 description: post content with custom description
 excerpt: post content with custom description
-id: a5702135-ad57-4888-86ec-834189b97add
 lang: en
 permalink: 2021/09/post-with-description.html
 photos:

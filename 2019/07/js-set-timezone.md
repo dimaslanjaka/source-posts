@@ -12,7 +12,6 @@ description: "Set timezone javascript without using any pluginsconst DATE new
   Date.toLocaleStringen-US, timeZone:"
 excerpt: "Set timezone javascript without using any pluginsconst DATE new
   Date.toLocaleStringen-US, timeZone:"
-id: 90199388-ba03-4888-8ae7-9d1943868bc1
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: "[JS] Set Timezone"
 type: post
 updated: 2023-08-08T14:45:30+07:00
-uuid: c3b80075-3eee-4888-8b07-fbc473d62555
 wordcount: 84
 ---
 

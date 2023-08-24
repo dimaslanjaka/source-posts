@@ -12,7 +12,6 @@ description: CryptoJS encrypt decrypt support PHP , PHP 7.x. See the Pen PHP
   CryptoJS Encrypt Decrypt by dimas
 excerpt: CryptoJS encrypt decrypt support PHP , PHP 7.x. See the Pen PHP
   CryptoJS Encrypt Decrypt by dimas
-id: e691c52c-7d47-4888-8b20-7b6ee191c6e6
 lang: en
 photos:
   - https://raw.githubusercontent.com/dimaslanjaka/dimaslanjaka.github.io/master/assets/img/phpjs.png
@@ -25,7 +24,6 @@ thumbnail: https://raw.githubusercontent.com/dimaslanjaka/dimaslanjaka.github.io
 title: "[PHP][JS] CryptoJS encrypt decrypt"
 type: post
 updated: 2023-08-08T14:45:29+07:00
-uuid: 83ca465d-648e-4888-875f-4bb6f2810c96
 webtitle: PHP JS
 wordcount: 1176
 ---

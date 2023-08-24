@@ -10,7 +10,6 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2017-09-06T13:47:00.000+07:00
 description: Header
 excerpt: Header
-id: bf50d5e6-1106-4888-80ab-925af3c2e6f7
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -21,7 +20,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: CSS Sticky Fixed Footer
 type: post
 updated: 2023-08-08T14:45:47+07:00
-uuid: 09ccd22c-2402-4888-8b50-beca1a541934
 wordcount: 243
 ---
 

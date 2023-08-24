@@ -1,9 +1,69 @@
 ---
-title: Monster giant roarbor
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-11T05:30:18+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-03-11T06:19:18+07:00
+description: "Monster giant roarbor giant roarbor Information from Chimeraland
+
+  \    giant roarbor default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \            "
+excerpt: "Monster giant roarbor giant roarbor Information from Chimeraland
+
+  \    giant roarbor default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \            "
 permalink: /chimeraland/monsters/giant-roarbor.html
 photos:
   - /chimeraland/monsters/giant-roarbor/Screenshot_2023-02-24-13-37-43-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +74,45 @@ photos:
   - /chimeraland/monsters/giant-roarbor/Screenshot_2023-02-24-13-38-05-82_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-roarbor/Screenshot_2023-02-24-13-38-10-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-roarbor/Screenshot_2023-02-24-13-38-17-23_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-roarbor/Screenshot_2023-02-24-13-37-43-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant roarbor giant roarbor Information from Chimeraland
+
+  \    giant roarbor default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \            "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-roarbor/Screenshot_2023-02-24-13-37-43-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant roarbor
+type: post
+updated: 2023-03-11T05:30:18+07:00
+webtitle: chimeraland
+wordcount: 1237
 ---
 
 <link

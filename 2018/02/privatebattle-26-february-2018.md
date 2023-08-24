@@ -12,7 +12,6 @@ description: VG Private Battle 20:00 Wib<br />Tim A<br />1. Mamskid<br />2.
   abdulajis<br />3. Hanif17roamer<br /><br />Tim B<br />1.Hadifadillah<br
 excerpt: VG Private Battle 20:00 Wib<br />Tim A<br />1. Mamskid<br />2.
   abdulajis<br />3. Hanif17roamer<br /><br />Tim B<br />1.Hadifadillah<br
-id: bc4580b6-3955-4888-8e57-747102d76303
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Privatebattle 26 February 2018
 type: post
 updated: 2023-08-08T14:45:41+07:00
-uuid: 5af49877-3ecb-4888-8d26-baa7d70a58da
 wordcount: 163
 ---
 

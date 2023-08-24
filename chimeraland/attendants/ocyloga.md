@@ -1,9 +1,73 @@
 ---
-title: Attendant ocyloga
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-11-26T01:35:17+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2022-11-26T01:24:17+07:00
+description: "Attendant ocyloga ocyloga Information from Chimeraland
+
+  \    ocyloga default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
+excerpt: "Attendant ocyloga ocyloga Information from Chimeraland
+
+  \    ocyloga default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
 permalink: /chimeraland/attendants/ocyloga.html
 photos:
   - /chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-29-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,14 +77,46 @@ photos:
   - /chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-49-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-54-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-58-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-29-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant ocyloga ocyloga Information from Chimeraland
+
+  \    ocyloga default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/ocyloga/Screenshot_2022-11-21-21-47-29-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant ocyloga
+type: post
+updated: 2022-11-26T01:35:17+07:00
+webtitle: chimeraland
+wordcount: 1059
 ---
 
 <link

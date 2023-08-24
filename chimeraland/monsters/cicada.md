@@ -1,9 +1,77 @@
 ---
-title: Monster cicada
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T14:39:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-02-18T13:58:02+07:00
+description: "Monster cicada cicada Information from Chimeraland
+
+  \    cicada default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \             "
+excerpt: "Monster cicada cicada Information from Chimeraland
+
+  \    cicada default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \             "
 permalink: /chimeraland/monsters/cicada.html
 photos:
   - null
@@ -15,15 +83,49 @@ photos:
   - /chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-20-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-27-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/cicada/Screenshot_2023-02-16-23-19-33-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=cicada
+subtitle: "Monster cicada cicada Information from Chimeraland
+
+  \    cicada default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \             "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=cicada
+title: Monster cicada
+type: post
+updated: 2023-05-25T14:39:12+07:00
+webtitle: chimeraland
+wordcount: 1189
 ---
 
 <link

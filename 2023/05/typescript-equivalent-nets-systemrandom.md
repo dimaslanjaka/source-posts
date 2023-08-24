@@ -8,7 +8,6 @@ comments: true
 date: 2023-05-20T13:15:14+07:00
 description: A TypeScript port of .NETs System.Random
 excerpt: A TypeScript port of .NETs System.Random
-id: 0de74f67-8545-4888-83f5-d603cbd8ac8d
 lang: en
 photos: []
 subtitle: A TypeScript port of .NETs System.Random

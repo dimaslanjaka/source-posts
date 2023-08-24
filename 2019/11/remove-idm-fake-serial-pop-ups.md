@@ -12,7 +12,6 @@ description: Web Development Indonesia If you are a pirated Internet Download
   Manager user, lately there must be something strange about your
 excerpt: Web Development Indonesia If you are a pirated Internet Download
   Manager user, lately there must be something strange about your
-id: b6ecbbf0-4820-4888-8562-224d5887257d
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.bagas31.com/09b291991e3c6af733a56a80694b83bc.png
@@ -26,7 +25,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/www.bagas31.com/09b291991e3c6a
 title: Remove IDM Fake Serial Pop-ups
 type: post
 updated: 2023-08-08T14:45:25+07:00
-uuid: 4e3d434f-3b10-4888-891e-9f8d16c88224
 wordcount: 2016
 ---
 

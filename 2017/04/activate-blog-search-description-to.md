@@ -12,7 +12,6 @@ description: Blog search description activate important to improve CTR, SEO and
   relevance of articlesYou probably already know the character of the
 excerpt: Blog search description activate important to improve CTR, SEO and
   relevance of articlesYou probably already know the character of the
-id: a17a4320-a6f1-4888-8acf-72b2a9fa3c0b
 lang: en
 photos:
   - https://1.bp.blogspot.com/-ci6cJ-WlLo8/WKQ4JcDQ4pI/AAAAAAAAF0I/Gp5LD-xDMgYr0It3EAZWWVkDlvSijot6QCLcB/s280/judul-dan-deskripsi-penelusuran-di-pencarian-google.jpg
@@ -27,7 +26,6 @@ thumbnail: https://1.bp.blogspot.com/-ci6cJ-WlLo8/WKQ4JcDQ4pI/AAAAAAAAF0I/Gp5LD-
 title: Activate Blog Search Description To Improve CTR, SEO and Relevance Of Articles
 type: post
 updated: 2023-08-08T14:46:02+07:00
-uuid: 1d2a49c3-208f-4888-8423-76d2a1fee15d
 wordcount: 6431
 ---
 

@@ -11,7 +11,6 @@ description: "Monster Transparay Transparay Information from Chimeraland
   Transparay default maximum attribute GRADE Attack "
 excerpt: "Monster Transparay Transparay Information from Chimeraland Transparay
   default maximum attribute GRADE Attack "
-id: 14a81695-4864-4888-8d29-9d90351a19e3
 lang: en
 permalink: /chimeraland/monsters/transparay.html
 photos:

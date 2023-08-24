@@ -12,7 +12,6 @@ description: Anda dapat menjalankan PHP dan membuatnya bekerja sebagai server
   Web yang menjalankan skrip PHP Anda di sisi direktori akar proyek Anda
 excerpt: Anda dapat menjalankan PHP dan membuatnya bekerja sebagai server Web
   yang menjalankan skrip PHP Anda di sisi direktori akar proyek Anda
-id: 738f0265-54db-4888-8818-fc4dc80d3d3a
 lang: en
 photos:
   - https://files.phpclasses.org/files/blog/package/10192/file/php-termux.png
@@ -27,7 +26,6 @@ title: Cara Menggunakan Termux Untuk Menjalankan PHP Web Server atau CLI dengan
   Aplikasi PHP Termux untuk Mengontrol Ponsel atau Tablet Android
 type: post
 updated: 2023-08-08T14:45:48+07:00
-uuid: 0ff7f115-cacc-4888-8bc8-627dde7896a6
 wordcount: 2270
 ---
 

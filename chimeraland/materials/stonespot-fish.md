@@ -1,19 +1,46 @@
 ---
-title: Material Stonespot Fish Chimeraland
-date: 2022-01-15T06:56:03+07:00
-updated: 2022-10-07T06:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/stonespot-fish.html
-photos:
-  - /chimeraland/materials/stonespot-fish/stonespot-fish.webp
-thumbnail: /chimeraland/materials/stonespot-fish/stonespot-fish.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-15T06:56:03+07:00
+description: |-
+  Material Stonespot Fish Chimeraland materials
+          Stonespot Fish
+          October 7, 2022 6:26 AM
+          
+            A marine fish with a generally oval or long oval flattened body. The
+            head is taller than the body, the dorsal fin is strong and connected
+            to the fin selections.
+excerpt: |-
+  Material Stonespot Fish Chimeraland materials
+          Stonespot Fish
+          October 7, 2022 6:26 AM
+          
+            A marine fish with a generally oval or long oval flattened body. The
+            head is taller than the body, the dorsal fin is strong and connected
+            to the fin selections.
+permalink: /chimeraland/materials/stonespot-fish.html
+photos:
+  - /chimeraland/materials/stonespot-fish/stonespot-fish.webp
+subtitle: |-
+  Material Stonespot Fish Chimeraland materials
+          Stonespot Fish
+          October 7, 2022 6:26 AM
+          
+            A marine fish with a generally oval or long oval flattened body. The
+            head is taller than the body, the dorsal fin is strong and connected
+            to the fin selections.
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/stonespot-fish/stonespot-fish.webp
+title: Material Stonespot Fish Chimeraland
+type: post
+updated: 2022-10-07T06:26:37+07:00
+wordcount: 928
 ---
 
 <link

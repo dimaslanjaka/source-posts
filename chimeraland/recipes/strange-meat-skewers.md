@@ -1,23 +1,98 @@
 ---
-title: Recipe Strange Meat Skewers Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T10:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-12T18:56:03+07:00
+description: "Recipe Strange Meat Skewers Chimeraland Strange Meat Skewers
+  Cooking Recipe
+
+  \             \ 
+
+  \              Buff Strange Meat Skewers
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  25 Armor Pierce
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \      "
+excerpt: "Recipe Strange Meat Skewers Chimeraland Strange Meat Skewers Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Strange Meat Skewers
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  25 Armor Pierce
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \      "
+lang: en
 permalink: /chimeraland/recipes/strange-meat-skewers.html
 photos:
   - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers.webp
   - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-name.webp
   - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-icon.webp
   - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-material.webp
-thumbnail: /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers.webp
+subtitle: "Recipe Strange Meat Skewers Chimeraland Strange Meat Skewers Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Strange Meat Skewers
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  25 Armor Pierce
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \      "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers.webp
+title: Recipe Strange Meat Skewers Chimeraland
+type: post
+updated: 2022-10-05T10:46:56+07:00
+wordcount: 714
 ---
 
 <link

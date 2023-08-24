@@ -14,7 +14,6 @@ excerpt: How to delete files with gulp without any plugin del is now only used
   for ESM del Issues about del and gulp Issue42 Issue42 Variables fs-extra
   better than fs for supressing useless errors fs-extra fs const rmSync,
   rmdirSync, existsSync = requirefsconst join = requirepathconst gul
-id: 494c1fee-8454-4888-86c0-cfa4a28de392
 keywords:
   - delete files with gulp
   - gulp delete files

@@ -1,9 +1,41 @@
 ---
-title: Monster child triceratops
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-10T22:30:18+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-03-10T22:19:18+07:00
+description: |
+  Monster child triceratops child triceratops Information from Chimeraland
+      child triceratops default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Attack
+                  N/A
+excerpt: |
+  Monster child triceratops child triceratops Information from Chimeraland
+      child triceratops default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Attack
+                  N/A
 permalink: /chimeraland/monsters/child-triceratops.html
 photos:
   - /chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-28-39-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +45,31 @@ photos:
   - /chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-28-57-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-29-02-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-29-06-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-28-39-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: |
+  Monster child triceratops child triceratops Information from Chimeraland
+      child triceratops default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Attack
+                  N/A
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/child-triceratops/Screenshot_2023-02-26-10-28-39-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster child triceratops
+type: post
+updated: 2023-03-10T22:30:18+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

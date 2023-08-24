@@ -1,21 +1,118 @@
 ---
-title: Monster Freshwater Carp
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T09:41:12+07:00
-date: 2023-05-25T00:40:10+07:00
-permalink: /chimeraland/monsters/freshwater-carp.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Freshwater Carp
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T00:40:10+07:00
+description: "Monster Freshwater Carp Freshwater Carp Information from
+  Chimeraland
+
+  \    Freshwater Carp default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \ "
+excerpt: "Monster Freshwater Carp Freshwater Carp Information from Chimeraland
+
+  \    Freshwater Carp default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \ "
+permalink: /chimeraland/monsters/freshwater-carp.html
+photos:
+  - null
+subtitle: "Monster Freshwater Carp Freshwater Carp Information from Chimeraland
+
+  \    Freshwater Carp default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \ "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Freshwater Carp
+title: Monster Freshwater Carp
+type: post
+updated: 2023-05-25T09:41:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

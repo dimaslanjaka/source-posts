@@ -18,7 +18,6 @@ excerpt: "Fix Error The entity nbsp was referenced, but not declared Mistake The
   utilizes HTML 5 and attempt to enter a space with the codesand nbsp; or a
   non-breaking space, it would get a mistake message that way,so it jumped out
   at "
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6A8Kv8hDwOaw1oyNv0g8JghoA700vJYvtBk-2E4NgQss7ztfOGGt37brH
@@ -33,7 +32,6 @@ thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6A8Kv8hDwOaw1o
 title: Fix Error The entity nbsp was referenced, but not declared
 type: post
 updated: 2023-08-08T14:45:57+07:00
-uuid: e4be987c-4501-4888-81fb-996ac9addddb
 wordcount: 602
 ---
 

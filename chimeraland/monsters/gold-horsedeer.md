@@ -1,9 +1,19 @@
 ---
-title: Monster Gold Horsedeer
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T03:30:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-08T07:56:03+07:00
+description: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
+  Attributes Conversion Rate 4.0%,PvP Damage Reduction 4.8% delicacies/tasty
+  Spiced Alligon,Exotic Herbal Jelly,Bear Ball Pot games,chimeraland,monsters
+  chimeraland,monster,pet
+excerpt: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
+  Attributes Conversion Rate 4.0%,PvP Damage Reduction 4.8% delicacies/tasty
+  Spiced Alligon,Exotic Herbal Jelly,Bear Ball Pot games,chimeraland,monsters
+  chimeraland,monster,pet
 permalink: /chimeraland/monsters/gold-horsedeer.html
 photos:
   - null
@@ -14,19 +24,20 @@ photos:
   - /chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-27-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/gold-horsedeer/Screenshot_2022-07-29-00-20-37-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gold Horsedeer
+subtitle: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
+  Attributes Conversion Rate 4.0%,PvP Damage Reduction 4.8% delicacies/tasty
+  Spiced Alligon,Exotic Herbal Jelly,Bear Ball Pot games,chimeraland,monsters
+  chimeraland,monster,pet
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
-description: monster Gold Horsedeer default quality GRADE C ATK 48 HP 60 DEF 56
-  Attributes Conversion Rate 4.0%,PvP Damage Reduction 4.8% delicacies/tasty
-  Spiced Alligon,Exotic Herbal Jelly,Bear Ball Pot games,chimeraland,monsters
-  chimeraland,monster,pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gold Horsedeer
+title: Monster Gold Horsedeer
+type: post
+updated: 2023-05-25T03:30:12+07:00
+webtitle: chimeraland
+wordcount: 1585
 ---
 
 <link

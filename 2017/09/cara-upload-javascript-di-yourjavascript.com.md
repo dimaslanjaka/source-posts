@@ -16,7 +16,6 @@ excerpt: Multilingual hreflang tag for blogger Hreflang Attribute The hreflang
   attribute also referred to as rel=alternate hreflang=xdiscloses to Google
   which dialect you are utilizing on a particular page, so the web index can
   serve that outcome to clients seeking in that dialect.Code Sa
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://imgdb.net/images/3191.png
@@ -31,7 +30,6 @@ thumbnail: https://imgdb.net/images/3191.png
 title: Multilingual hreflang tag for blogger
 type: post
 updated: 2023-08-08T14:45:48+07:00
-uuid: 311f5e95-9357-4888-8e79-5aa7f73bd36c
 wordcount: 1962
 ---
 

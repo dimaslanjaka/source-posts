@@ -12,7 +12,6 @@ description: Anda perlu menentukan nama dan ikon untuk pintasan aplikasi Modern
   karena nilai tersebut tidak diambil langsung dari folder
 excerpt: Anda perlu menentukan nama dan ikon untuk pintasan aplikasi Modern
   karena nilai tersebut tidak diambil langsung dari folder
-id: 7b2570eb-a37a-4888-8be9-72aa9e022245
 lang: en
 photos:
   - https://3.bp.blogspot.com/-7ZnAq5qCUqU/UnUovHpfPYI/AAAAAAAAaQE/Wn5m_IyQ7MA/s1600/Modern-Apps-Shortcut-1.png
@@ -24,7 +23,6 @@ thumbnail: https://3.bp.blogspot.com/-7ZnAq5qCUqU/UnUovHpfPYI/AAAAAAAAaQE/Wn5m_I
 title: Cara Membuat Jalan pintas untuk Aplikasi UI Modern di Windows 8.1
 type: post
 updated: 2023-08-08T14:45:44+07:00
-uuid: 2ee19537-6cb3-4888-86ce-71f31331966c
 wordcount: 590
 ---
 

@@ -18,7 +18,6 @@ excerpt: "How to beautify html javascript and css using script on the fly How to
   dinamically. Put code below before </head> on your website or blog. Normal
   version: Minify version Another required script: Conclusion: Using minify
   script: <"
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjdpDoe7h7wNQx9CmRe46wN2Ta_p7TYUg_q9p0GUr6OM6Y1hml
@@ -38,7 +37,6 @@ thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjdpDoe7h7wNQx9
 title: How to beautify html javascript and css using script on the fly
 type: post
 updated: 2023-08-08T14:46:00+07:00
-uuid: e93db569-abba-4888-8153-92f5f4ba91c8
 wordcount: 237
 ---
 

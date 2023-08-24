@@ -12,7 +12,6 @@ description: If you feel loading a blog a bit heavy or slow, one of the causes
   is the presence of javascript. Maybe one of them is
 excerpt: If you feel loading a blog a bit heavy or slow, one of the causes is
   the presence of javascript. Maybe one of them is
-id: 2ec226d1-3287-4888-88b8-07d3cd64454e
 lang: en
 photos:
   - https://2.bp.blogspot.com/-zFYfhcEw2zU/UWfLii_MNyI/AAAAAAAAYC0/8x-A-h5Gbsg/s640/share+this.jpg
@@ -26,7 +25,6 @@ thumbnail: https://2.bp.blogspot.com/-zFYfhcEw2zU/UWfLii_MNyI/AAAAAAAAYC0/8x-A-h
 title: How to Create Social Share Buttons Without Javascript
 type: post
 updated: 2023-08-08T14:45:49+07:00
-uuid: cb4a3dd0-3336-4888-812c-3070394f4e79
 wordcount: 1405
 ---
 

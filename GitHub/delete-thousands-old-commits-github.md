@@ -8,7 +8,6 @@ comments: true
 date: 2023-06-01T11:47:07+07:00
 description: Removing old unneeded commits - saving disk space and making git clones faster
 excerpt: Removing old unneeded commits - saving disk space and making git clones faster
-id: 1fc670aa-28de-4888-8e1a-6bc396e584a5
 lang: en
 photos: []
 subtitle: Removing old unneeded commits - saving disk space and making git clones faster

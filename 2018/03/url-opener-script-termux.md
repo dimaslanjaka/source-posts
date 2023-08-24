@@ -10,7 +10,6 @@ cover: https://4.bp.blogspot.com/-VzY5zqLgJmw/Wfhs0xihnNI/AAAAAAAAAJo/TguGeZ4QyG
 date: 2018-03-26T00:48:00.000+07:00
 description: img
 excerpt: img
-id: b798abe6-1b13-4888-88ee-6b0dcb3fb9e4
 lang: en
 photos:
   - https://4.bp.blogspot.com/-VzY5zqLgJmw/Wfhs0xihnNI/AAAAAAAAAJo/TguGeZ4QyGMbG2U0bUgZ79MnJxSLGM9QACEwYBhgL/s1600/images%25285%2529%255B1%255D.jpg
@@ -22,7 +21,6 @@ thumbnail: https://4.bp.blogspot.com/-VzY5zqLgJmw/Wfhs0xihnNI/AAAAAAAAAJo/TguGeZ
 title: Url Opener Script Termux
 type: post
 updated: 2023-08-08T14:45:41+07:00
-uuid: b6dca6b5-ab3f-4888-8ec0-d15adf3c7fc3
 wordcount: 413
 ---
 

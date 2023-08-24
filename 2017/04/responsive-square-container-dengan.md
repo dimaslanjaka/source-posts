@@ -12,7 +12,6 @@ description: Menggunakan vanili JavaScript dan CSS, saya akan menunjukkan cara
   untuk secara vertikal dan horizontal pusat dinamis konten berukuran dalam
 excerpt: Menggunakan vanili JavaScript dan CSS, saya akan menunjukkan cara untuk
   secara vertikal dan horizontal pusat dinamis konten berukuran dalam
-id: 94eddcd2-5e80-4888-8c3b-5444280d446a
 lang: en
 photos:
   - https://d1gug1ng40407.cloudfront.net/uploads/2017/03/allure-code-snippet.jpg
@@ -26,7 +25,6 @@ thumbnail: https://d1gug1ng40407.cloudfront.net/uploads/2017/03/allure-code-snip
 title: Responsive Square Container Dengan Vertically Or Horizontally Ditengah Content
 type: post
 updated: 2023-08-08T14:45:58+07:00
-uuid: 6198d61d-06c5-4888-874d-5827b493a2f1
 wordcount: 730
 ---
 

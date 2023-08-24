@@ -12,7 +12,6 @@ description: Extract HostnameDomainfrom URL stringfunction extractHostnameurl
   var hostname; //find remove protocol http, ftp, etc. and
 excerpt: Extract HostnameDomainfrom URL stringfunction extractHostnameurl var
   hostname; //find remove protocol http, ftp, etc. and
-id: 0a99ca9d-7880-4888-8825-5a62fa7171ab
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: "[JS] Extract Hostname From URL STRING"
 type: post
 updated: 2023-08-08T14:45:30+07:00
-uuid: 30bbdf65-965f-4888-8a25-5ab1a9e1f484
 wordcount: 225
 ---
 

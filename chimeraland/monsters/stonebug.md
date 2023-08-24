@@ -1,21 +1,72 @@
 ---
-title: Monster Stonebug
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T06:54:12+07:00
-date: 2022-01-11T08:56:03+07:00
-permalink: /chimeraland/monsters/stonebug.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stonebug
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2022-01-11T08:56:03+07:00
+description: |-
+  Monster Stonebug Stonebug Information from Chimeraland
+      Stonebug default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  
+                    A NOBLE - LEGENDARY
+                  
+                
+                
+                  Attack
+excerpt: |-
+  Monster Stonebug Stonebug Information from Chimeraland
+      Stonebug default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  
+                    A NOBLE - LEGENDARY
+                  
+                
+                
+                  Attack
+permalink: /chimeraland/monsters/stonebug.html
+photos:
+  - null
+subtitle: |-
+  Monster Stonebug Stonebug Information from Chimeraland
+      Stonebug default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  
+                    A NOBLE - LEGENDARY
+                  
+                
+                
+                  Attack
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stonebug
+title: Monster Stonebug
+type: post
+updated: 2023-05-25T06:54:12+07:00
+webtitle: chimeraland
+wordcount: 683
 ---
 
 <link

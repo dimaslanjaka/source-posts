@@ -1,23 +1,98 @@
 ---
-title: Recipe Gourd-Braised Meat Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T13:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-09T09:56:03+07:00
+description: "Recipe Gourd-Braised Meat Chimeraland Gourd-Braised Meat Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Gourd-Braised Meat
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +6% Crit Damage Dealt
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \      "
+excerpt: "Recipe Gourd-Braised Meat Chimeraland Gourd-Braised Meat Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Gourd-Braised Meat
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +6% Crit Damage Dealt
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \      "
+lang: en
 permalink: /chimeraland/recipes/gourd-braised-meat.html
 photos:
   - /chimeraland/recipes/gourd-braised-meat/gourd-braised-meat.webp
   - /chimeraland/recipes/gourd-braised-meat/gourd-braised-meat-name.webp
   - /chimeraland/recipes/gourd-braised-meat/gourd-braised-meat-icon.webp
   - /chimeraland/recipes/gourd-braised-meat/gourd-braised-meat-material.webp
-thumbnail: /chimeraland/recipes/gourd-braised-meat/gourd-braised-meat.webp
+subtitle: "Recipe Gourd-Braised Meat Chimeraland Gourd-Braised Meat Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Gourd-Braised Meat
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +6% Crit Damage Dealt
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \      "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/gourd-braised-meat/gourd-braised-meat.webp
+title: Recipe Gourd-Braised Meat Chimeraland
+type: post
+updated: 2022-10-06T13:46:54+07:00
+wordcount: 797
 ---
 
 <link

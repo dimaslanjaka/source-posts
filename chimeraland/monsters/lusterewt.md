@@ -1,9 +1,77 @@
 ---
-title: Monster lusterewt
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T17:21:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-11-25T21:17:54+07:00
+description: "Monster lusterewt lusterewt Information from Chimeraland
+
+  \    lusterewt default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \    "
+excerpt: "Monster lusterewt lusterewt Information from Chimeraland
+
+  \    lusterewt default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \    "
 permalink: /chimeraland/monsters/lusterewt.html
 photos:
   - null
@@ -15,15 +83,49 @@ photos:
   - /chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-03-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-10-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/lusterewt/Screenshot_2022-11-14-11-08-14-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=lusterewt
+subtitle: "Monster lusterewt lusterewt Information from Chimeraland
+
+  \    lusterewt default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \    "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=lusterewt
+title: Monster lusterewt
+type: post
+updated: 2023-05-25T17:21:12+07:00
+webtitle: chimeraland
+wordcount: 1189
 ---
 
 <link

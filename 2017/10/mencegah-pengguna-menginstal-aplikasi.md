@@ -12,7 +12,6 @@ description: Windows Store adalah tempat yang tepat untuk menemukan dan
   menginstal aplikasi, namun dalam situasi tertentu Anda sebagai orang tua
 excerpt: Windows Store adalah tempat yang tepat untuk menemukan dan menginstal
   aplikasi, namun dalam situasi tertentu Anda sebagai orang tua
-id: 7c466614-bc10-4888-8665-5b8d4e00bb09
 lang: en
 photos:
   - https://1.bp.blogspot.com/-X8tdy9N2l8w/UJT2gcqpvLI/AAAAAAAAWUk/VPPxUYEMDPs/s1600/Windows-Store-Disable.png
@@ -24,7 +23,6 @@ thumbnail: https://1.bp.blogspot.com/-X8tdy9N2l8w/UJT2gcqpvLI/AAAAAAAAWUk/VPPxUY
 title: Mencegah Pengguna Menginstal Aplikasi UI Modern
 type: post
 updated: 2023-08-08T14:45:44+07:00
-uuid: 5fc580eb-27e8-4888-85f1-43738818e6e4
 wordcount: 658
 ---
 

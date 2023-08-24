@@ -12,7 +12,6 @@ description: Another of the features of the android smartphone that we can take
   advantage of IE running OS Ubuntu Xenial at 6or more times Therein
 excerpt: Another of the features of the android smartphone that we can take
   advantage of IE running OS Ubuntu Xenial at 6or more times Therein
-id: 6301fd4b-e71c-4888-8895-2fb441919a23
 lang: en
 photos:
   - https://image.ibb.co/fFtDUF/unnamed_5.png
@@ -25,7 +24,6 @@ thumbnail: https://image.ibb.co/fFtDUF/unnamed_5.png
 title: Install Linux on the Android part 1-running Linux Ubuntu/Xenial on Android
 type: post
 updated: 2023-08-08T14:45:47+07:00
-uuid: 538f7e86-39b8-4888-86a9-a37c219c1c1c
 wordcount: 5363
 ---
 

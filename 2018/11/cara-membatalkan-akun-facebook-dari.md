@@ -12,7 +12,6 @@ description: Munculnya aplikasi telah mendorong pengembang untuk memastikan
   kesinambungan penggunaan aplikasi terlepas dari platform atau
 excerpt: Munculnya aplikasi telah mendorong pengembang untuk memastikan
   kesinambungan penggunaan aplikasi terlepas dari platform atau
-id: 02d9361e-bff9-4888-867b-ea02ecf7cf6d
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.tech-recipes.com/wp-content/uploads/2017/09/How-to-Unbind-an-App-Off-of-Facebook.png
@@ -25,7 +24,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.tech-
 title: Cara Membatalkan Akun Facebook dari Aplikasi Apa Pun
 type: post
 updated: 2023-08-08T14:45:39+07:00
-uuid: fd22cfb9-612a-4888-853a-ad5136aff8b4
 wordcount: 2136
 ---
 

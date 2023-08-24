@@ -1,23 +1,101 @@
 ---
-title: Recipe Slushie Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T07:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-11T12:56:03+07:00
+description: "Recipe Slushie Chimeraland Slushie Cooking Recipe
+
+  \             \ 
+
+  \              Buff Slushie
+
+  \             \ 
+
+  \               \ 
+
+  \                  Buff Slushie not yet written
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \              webmanajemen.com - recipe Slushie
+
+  \  "
+excerpt: "Recipe Slushie Chimeraland Slushie Cooking Recipe
+
+  \             \ 
+
+  \              Buff Slushie
+
+  \             \ 
+
+  \               \ 
+
+  \                  Buff Slushie not yet written
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \              webmanajemen.com - recipe Slushie
+
+  \  "
+lang: en
 permalink: /chimeraland/recipes/slushie.html
 photos:
   - /chimeraland/recipes/slushie/slushie.webp
   - /chimeraland/recipes/slushie/slushie-name.webp
   - /chimeraland/recipes/slushie/slushie-icon.webp
   - /chimeraland/recipes/slushie/slushie-material.webp
-thumbnail: /chimeraland/recipes/slushie/slushie.webp
+subtitle: "Recipe Slushie Chimeraland Slushie Cooking Recipe
+
+  \             \ 
+
+  \              Buff Slushie
+
+  \             \ 
+
+  \               \ 
+
+  \                  Buff Slushie not yet written
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \              webmanajemen.com - recipe Slushie
+
+  \  "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/slushie/slushie.webp
+title: Recipe Slushie Chimeraland
+type: post
+updated: 2022-10-06T07:46:55+07:00
+wordcount: 930
 ---
 
 <link

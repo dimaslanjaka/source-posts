@@ -16,7 +16,6 @@ excerpt: Cara simple memasang prismjs di blog 100 Work Cara simple memasang
   syntax highlighter dengan prismjs di blog 100 Work. <script>//<[CDATA[function
   loadCSSe, t, n use strict; var i = window.document.createElementlink; var o =
   t window.document.getElementsByTagNamescript[0]; i.re
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://crambler.com/wp-content/uploads/2014/07/PrismJS_Blog_NEW.jpg
@@ -31,7 +30,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://crambler.c
 title: Cara simple memasang prismjs di blog 100 Work
 type: post
 updated: 2023-08-08T14:45:52+07:00
-uuid: 88cbec25-9c30-4888-8f9a-1eeb0ddd65e4
 wordcount: 462
 ---
 

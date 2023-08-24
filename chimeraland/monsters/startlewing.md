@@ -1,9 +1,21 @@
 ---
-title: Monster Startlewing
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T09:55:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-10T13:56:03+07:00
+description: "monster Startlewing default quality GRADE A ATK 71 HP 70 DEF 70
+  Attributes Conversion Rate 4.0%,Armor Pierce 188,Essence Aspect:
+  Aspect: Rainbow Feather delicacies/tasty Newt Meat Dry Pot,Pepper Salt
+  Scorpion Pincer,Overlord Hide Jelly games,chimeraland,monsters
+  chimeraland,monster,pet"
+excerpt: "monster Startlewing default quality GRADE A ATK 71 HP 70 DEF 70
+  Attributes Conversion Rate 4.0%,Armor Pierce 188,Essence Aspect:
+  Aspect: Rainbow Feather delicacies/tasty Newt Meat Dry Pot,Pepper Salt
+  Scorpion Pincer,Overlord Hide Jelly games,chimeraland,monsters
+  chimeraland,monster,pet"
 permalink: /chimeraland/monsters/startlewing.html
 photos:
   - null
@@ -15,20 +27,21 @@ photos:
   - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-08-91_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-14-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/startlewing/Screenshot_2022-08-12-23-39-18-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Startlewing
-tags:
-  - chimeraland
-  - monster
-  - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
-description: "monster Startlewing default quality GRADE A ATK 71 HP 70 DEF 70
+subtitle: "monster Startlewing default quality GRADE A ATK 71 HP 70 DEF 70
   Attributes Conversion Rate 4.0%,Armor Pierce 188,Essence Aspect:
   Aspect: Rainbow Feather delicacies/tasty Newt Meat Dry Pot,Pepper Salt
   Scorpion Pincer,Overlord Hide Jelly games,chimeraland,monsters
   chimeraland,monster,pet"
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Startlewing
+title: Monster Startlewing
+type: post
+updated: 2023-05-25T09:55:12+07:00
+webtitle: chimeraland
+wordcount: 1671
 ---
 
 <link

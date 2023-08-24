@@ -1,9 +1,21 @@
 ---
-title: Monster Frost Batolf
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T16:41:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-08T09:56:03+07:00
+description: "monster Frost Batolf default quality GRADE A ATK 71 HP 72 DEF 68
+  Attributes Conversion Rate 4.0%,Ranged Dmg +4.8%,Essence Aspect:
+  Aspect: Frostide delicacies/tasty Spicy Fish & Mutton Soup,Moddly Wings Topped
+  Rice,Steamed Sweet & Sour Icebug games,chimeraland,monsters
+  chimeraland,monster,pet"
+excerpt: "monster Frost Batolf default quality GRADE A ATK 71 HP 72 DEF 68
+  Attributes Conversion Rate 4.0%,Ranged Dmg +4.8%,Essence Aspect:
+  Aspect: Frostide delicacies/tasty Spicy Fish & Mutton Soup,Moddly Wings Topped
+  Rice,Steamed Sweet & Sour Icebug games,chimeraland,monsters
+  chimeraland,monster,pet"
 permalink: /chimeraland/monsters/frost-batolf.html
 photos:
   - null
@@ -15,20 +27,21 @@ photos:
   - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-02-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-06-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/frost-batolf/Screenshot_2022-08-14-02-18-10-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Batolf
-tags:
-  - chimeraland
-  - monster
-  - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
-description: "monster Frost Batolf default quality GRADE A ATK 71 HP 72 DEF 68
+subtitle: "monster Frost Batolf default quality GRADE A ATK 71 HP 72 DEF 68
   Attributes Conversion Rate 4.0%,Ranged Dmg +4.8%,Essence Aspect:
   Aspect: Frostide delicacies/tasty Spicy Fish & Mutton Soup,Moddly Wings Topped
   Rice,Steamed Sweet & Sour Icebug games,chimeraland,monsters
   chimeraland,monster,pet"
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Batolf
+title: Monster Frost Batolf
+type: post
+updated: 2023-05-25T16:41:12+07:00
+webtitle: chimeraland
+wordcount: 1860
 ---
 
 <link

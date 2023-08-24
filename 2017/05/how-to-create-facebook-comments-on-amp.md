@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://4.bp.blogspot.
 date: 2017-05-04T21:01:00.001+07:00
 description: Finally Google choseFacebook comments pluginfirst supported by AMP HTML.
 excerpt: Finally Google choseFacebook comments pluginfirst supported by AMP HTML.
-id: df4cebdb-3e1e-4888-8208-cc885221dfd7
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://4.bp.blogspot.com/-9TgnNklt76g/WQFHOdxzpVI/AAAAAAAAq2s/wsRqKdRdwWg3gjEz1sC8512SVBmRNVwxwCLcB/s1600/Screenshot_8.png
@@ -23,7 +22,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://4.bp.blogs
 title: How to create facebook comments on AMP Blogger
 type: post
 updated: 2023-08-08T14:45:56+07:00
-uuid: 7cf55936-4dc6-4888-8910-545428872e42
 wordcount: 1226
 ---
 

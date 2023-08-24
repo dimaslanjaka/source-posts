@@ -20,7 +20,6 @@ excerpt: "FontAwesome CSS3 Text Animation Text Animation CSS and FontAwesome
   min.cssCSS: @import
   urlhttps://fonts.googleapis.com/css?family=AntonRoboto;.word font-family:
   Anton, sans-serif; "
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://1.bp.blogspot.com/-JTaqhxiYd1E/WcU1hIQLgxI/AAAAAAAAAHk/sZcV1Nd5gf8nN_sb9B26g69ev9WkebldACLcBGAs/s320/Screenshot_2017-09-22-23-08-01-400_com.android.chrome.png
@@ -38,7 +37,6 @@ thumbnail: https://1.bp.blogspot.com/-JTaqhxiYd1E/WcU1hIQLgxI/AAAAAAAAAHk/sZcV1N
 title: FontAwesome CSS3 Text Animation
 type: post
 updated: 2023-08-08T14:45:47+07:00
-uuid: 8cb1225b-2272-4888-8552-f5f0d260783d
 wordcount: 1452
 ---
 

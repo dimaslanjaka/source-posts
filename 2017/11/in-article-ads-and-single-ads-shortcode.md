@@ -12,7 +12,6 @@ description: center><h2>Adsense Shortcode Wordpress Compatible With WP AMP NINJA
   Plugin</h2></center><img src=https://imgdb.net/images/3203.jpg /><br
 excerpt: center><h2>Adsense Shortcode Wordpress Compatible With WP AMP NINJA
   Plugin</h2></center><img src=https://imgdb.net/images/3203.jpg /><br
-id: 01d389bc-3f4b-4888-8790-23d2f7ba52a6
 lang: en
 photos:
   - https://imgdb.net/images/3203.jpg
@@ -27,7 +26,6 @@ thumbnail: https://imgdb.net/images/3203.jpg
 title: In Article Ads And Single Ads Shortcode Wordpress With WP AMP NINJA Plugin
 type: post
 updated: 2023-08-08T14:45:43+07:00
-uuid: 59068f6c-11ed-4888-89bb-2e406d19c3e5
 wordcount: 715
 ---
 

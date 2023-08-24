@@ -12,7 +12,6 @@ description: "pre><br />var thisIsObject= <br /> apos;Cowapos; :
   apos;Mooapos;,<br /> apos;Catapos; : apos;Meowapos;,<br />"
 excerpt: "pre><br />var thisIsObject= <br /> apos;Cowapos; : apos;Mooapos;,<br
   /> apos;Catapos; : apos;Meowapos;,<br />"
-id: 62d5b20a-d689-4888-8940-7ed8ed1fb7ca
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: "[JS] Remove Object Keys"
 type: post
 updated: 2023-08-08T14:45:30+07:00
-uuid: ff3f29ce-21be-4888-8a47-11903673c0a9
 wordcount: 223
 ---
 

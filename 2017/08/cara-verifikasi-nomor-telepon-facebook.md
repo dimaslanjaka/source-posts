@@ -17,7 +17,6 @@ excerpt: Cara verifikasi nomor telepon facebook Menambahkan nomor hp ke facebook
   dapat kamu kerjakan untuk menyelamatkan akun facebook dan pun memverifikasi
   akun facebook dengan nomor telepon, jadi andai sewaktu masa-masa lupa password
   dapat menggunakan nomor ponsel ini sebagai sarana guna meminta ka
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://2.bp.blogspot.com/-_iPfvFT3nYw/WaJmqQ6ifoI/AAAAAAAAAAo/kmhDBlj0teEtqHC1OAmA2e3GrhCGxhaNACLcBGAs/s320/StockSnap_WBWKY1FQ2I.jpg
@@ -34,7 +33,6 @@ thumbnail: https://2.bp.blogspot.com/-_iPfvFT3nYw/WaJmqQ6ifoI/AAAAAAAAAAo/kmhDBl
 title: Cara verifikasi nomor telepon facebook
 type: post
 updated: 2023-08-08T14:45:49+07:00
-uuid: 0c6244bf-d7ae-4888-867b-1c75e58538e9
 wordcount: 586
 ---
 

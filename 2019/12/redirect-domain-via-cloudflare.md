@@ -12,7 +12,6 @@ description: Step .Migrasi domain host ke cloudflare dengan mengubah nameserver
   nyaBelum tahu caranya ? Klik tautanCara host domain ke
 excerpt: Step .Migrasi domain host ke cloudflare dengan mengubah nameserver
   nyaBelum tahu caranya ? Klik tautanCara host domain ke
-id: e13f5266-85b6-4888-832a-20a4252bf324
 lang: en
 photos:
   - https://1.bp.blogspot.com/-vaafAtA7fJ0/XegbZIw3CYI/AAAAAAAAAgg/0S7WeEzqKLg1nPSyrd1zJ-ZaVjXVORKZgCLcBGAsYHQ/s640/Screenshot_1.png
@@ -25,7 +24,6 @@ thumbnail: https://1.bp.blogspot.com/-vaafAtA7fJ0/XegbZIw3CYI/AAAAAAAAAgg/0S7WeE
 title: Cara redirect domain lama ke domain baru untuk SEO menggunakan Cloudflare
 type: post
 updated: 2023-08-08T14:45:15+07:00
-uuid: be685d41-99b2-4888-8c9f-fa12844b8741
 wordcount: 379
 ---
 

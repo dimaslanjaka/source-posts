@@ -16,7 +16,6 @@ excerpt: Simple Recent Posts Blogger Plus Thumbnails Installing a recent post
   widget is one way to minimize bounce rate blog by providing information for
   the latest posts on readers. With so readers will easily find the most warm
   posts on the blog. Demo </head> <style>/<[CDATA[/ulrecent-postswidth:100
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://4.bp.blogspot.com/-M7b7TGI5AZI/WaRRhUHpaMI/AAAAAAAAABs/6QHVYugtOzwTqYJqNN7FkWZM_MOl83csACLcBGAs/s320/Screenshot_2017-08-29-00-22-36-950_com.android.chrome.png
@@ -35,7 +34,6 @@ thumbnail: https://4.bp.blogspot.com/-M7b7TGI5AZI/WaRRhUHpaMI/AAAAAAAAABs/6QHVYu
 title: Simple Recent Posts Blogger Plus Thumbnails
 type: post
 updated: 2023-08-08T14:45:46+07:00
-uuid: 7c4871bb-f958-4888-8f73-1105aa764934
 wordcount: 509
 ---
 

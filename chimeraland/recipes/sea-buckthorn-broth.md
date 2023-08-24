@@ -1,23 +1,92 @@
 ---
-title: Recipe Sea-Buckthorn Broth Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T20:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-11T08:56:03+07:00
+description: "Recipe Sea-Buckthorn Broth Chimeraland Sea-Buckthorn Broth Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Sea-Buckthorn Broth
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  Lv 3 Sandstorm Resistance
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \            "
+excerpt: "Recipe Sea-Buckthorn Broth Chimeraland Sea-Buckthorn Broth Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Sea-Buckthorn Broth
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  Lv 3 Sandstorm Resistance
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \            "
+lang: en
 permalink: /chimeraland/recipes/sea-buckthorn-broth.html
 photos:
   - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth.webp
   - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-name.webp
   - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-icon.webp
   - /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth-material.webp
-thumbnail: /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth.webp
+subtitle: "Recipe Sea-Buckthorn Broth Chimeraland Sea-Buckthorn Broth Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Sea-Buckthorn Broth
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  Lv 3 Sandstorm Resistance
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \            "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/sea-buckthorn-broth/sea-buckthorn-broth.webp
+title: Recipe Sea-Buckthorn Broth Chimeraland
+type: post
+updated: 2022-10-06T20:46:54+07:00
+wordcount: 695
 ---
 
 <link

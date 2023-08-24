@@ -12,7 +12,6 @@ description: have long wanted to make a post about getting visitor data and
   widgets from histats for Blog.But only now can terlakasana and I
 excerpt: have long wanted to make a post about getting visitor data and widgets
   from histats for Blog.But only now can terlakasana and I
-id: fc3a076c-c9e8-4888-8819-0f9867f5dc70
 lang: en
 photos:
   - https://4.bp.blogspot.com/-wRS-Eyu86jI/V1EjfzBfDBI/AAAAAAAAH3g/6KiOnExqzUE_FGzf2zLefBXrt78IWbJ1gCLcB/s320/histats.jpg
@@ -24,7 +23,6 @@ thumbnail: https://4.bp.blogspot.com/-wRS-Eyu86jI/V1EjfzBfDBI/AAAAAAAAH3g/6KiOnE
 title: How to Sign Up and Install Histats Widget on Blogger
 type: post
 updated: 2023-08-08T14:45:52+07:00
-uuid: ebda9ee9-ad64-4888-8d13-f39d5c330334
 wordcount: 2499
 ---
 

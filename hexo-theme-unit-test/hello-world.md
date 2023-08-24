@@ -8,7 +8,6 @@ description: Hello World Welcome to Hexo This is your very first post. Check
   documentation to learn how to use. Hexo documentation
 excerpt: Hello World Welcome to Hexo This is your very first post. Check
   documentation to learn how to use. Hexo documentation
-id: b10a8db1-4e07-4888-8410-b7a99be72e3f
 lang: en
 photos: []
 robots: no-index

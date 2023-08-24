@@ -12,7 +12,6 @@ description: ":disabled, .disabled, [disabled] opacity: 0.5; color: 666666;
   cursor: not-allowed; pointer-events: none; :disabled,"
 excerpt: ":disabled, .disabled, [disabled] opacity: 0.5; color: 666666; cursor:
   not-allowed; pointer-events: none; :disabled,"
-id: e1f1018c-853a-4888-83a3-468a7d2048bc
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -26,7 +25,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: "[CSS] Disabled Element"
 type: post
 updated: 2023-08-08T14:45:30+07:00
-uuid: 3589ac05-f98c-4888-8775-aabbd5ef9074
 wordcount: 93
 ---
 

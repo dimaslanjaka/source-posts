@@ -1,9 +1,37 @@
 ---
-title: How to remove all files from the git history that are not currently present?
+categories:
+  - programming
+comments: true
 date: 2023-08-22T23:36:12+07:00
+description: >-
+  How to remove all files from the git history that are not currently present?
+  Summary
+
+  I’ve seen several articles and questions about how to remove a single file from all git history. Example: How to remove/delete a large file from commit history in Git repository?
+
+  What I’d like to do is remove all fi
+excerpt: >-
+  How to remove all files from the git history that are not currently present?
+  Summary
+
+  I’ve seen several articles and questions about how to remove a single file from all git history. Example: How to remove/delete a large file from commit history in Git repository?
+
+  What I’d like to do is remove all fi
+subtitle: >-
+  How to remove all files from the git history that are not currently present?
+  Summary
+
+  I’ve seen several articles and questions about how to remove a single file from all git history. Example: How to remove/delete a large file from commit history in Git repository?
+
+  What I’d like to do is remove all fi
+tags:
+  - github
+  - bash
+  - cmd
+title: How to remove all files from the git history that are not currently present?
+type: post
 updated: 2023-08-22T23:36:12+07:00
-tags: [github, bash, cmd]
-category: [programming]
+wordcount: 1892
 ---
 
 <details>

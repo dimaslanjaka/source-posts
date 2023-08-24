@@ -18,7 +18,6 @@ excerpt: Cara membuat link tertentu atau semua link menjadi adf.ly tanpa
   <script type=text/javascript
   src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js></script><script
   type=text/javascript>var adfly_id = 9
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://www.dropbox.com/s320/5w9n86434703syx/unnamed (4).png?dl=1
@@ -35,7 +34,6 @@ title: Cara membuat link tertentu atau semua link menjadi adf.ly tanpa
   menggunakan full page script
 type: post
 updated: 2023-08-08T14:45:49+07:00
-uuid: 16df9ae4-135a-4888-8e82-af47b880aea1
 wordcount: 353
 ---
 

@@ -1,9 +1,19 @@
 ---
-title: Monster Hillord
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T17:24:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-08T01:56:03+07:00
+description: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0%,Crit 328,Essence Aspect: Broken Fang
+  delicacies/tasty Smoked Eleboar Meat,Crispy Fried Stinger,Flamebug Meat
+  Claypot games,chimeraland,monsters chimeraland,monster,pet"
+excerpt: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60 Attributes
+  Conversion Rate 4.0%,Crit 328,Essence Aspect: Broken Fang delicacies/tasty
+  Smoked Eleboar Meat,Crispy Fried Stinger,Flamebug Meat Claypot
+  games,chimeraland,monsters chimeraland,monster,pet"
 permalink: /chimeraland/monsters/hillord.html
 photos:
   - null
@@ -14,19 +24,20 @@ photos:
   - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-12-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-16-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hillord/Screenshot_2022-07-29-00-44-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hillord
+subtitle: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0%,Crit 328,Essence Aspect: Broken Fang
+  delicacies/tasty Smoked Eleboar Meat,Crispy Fried Stinger,Flamebug Meat
+  Claypot games,chimeraland,monsters chimeraland,monster,pet"
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
-description: "monster Hillord default quality GRADE B ATK 60 HP 60 DEF 60
-  Attributes Conversion Rate 4.0%,Crit 328,Essence Aspect: Broken Fang
-  delicacies/tasty Smoked Eleboar Meat,Crispy Fried Stinger,Flamebug Meat
-  Claypot games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hillord
+title: Monster Hillord
+type: post
+updated: 2023-05-25T17:24:12+07:00
+webtitle: chimeraland
+wordcount: 1528
 ---
 
 <link

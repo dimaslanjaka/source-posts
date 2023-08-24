@@ -18,7 +18,6 @@ excerpt: "Update Genshin Impact Patch v.1.5.0 - v.1.5.1 Via Download Manager
   en-us1.5.01.5.1diffGg3Q5aOK.zipgame1.5.01.5.1diffMF8HJNzT.zipja-jp1.5.01.5.1d\
   iffP72LxVCa.zipko-kr1.5.01.5.1diff4wMycdN3.zipzh-cn1.5.01.5.1diff2heO3D7V.zip
   en-us1.5.01.5.1diffGg3Q5aOK.zip "
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://imagizer.imageshack.com/v2/xq90/924/u7hBUr.png
@@ -35,7 +34,6 @@ thumbnail: https://imagizer.imageshack.com/v2/xq90/924/u7hBUr.png
 title: Update Genshin Impact Patch v.1.5.0 - v.1.5.1 Via Download Manager
 type: post
 updated: 2023-08-08T14:45:10+07:00
-uuid: 5b042e10-3dea-4888-88c4-fa812f9e174a
 wordcount: 161
 ---
 

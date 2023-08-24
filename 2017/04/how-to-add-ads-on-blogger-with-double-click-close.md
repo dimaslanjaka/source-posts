@@ -12,7 +12,6 @@ description: On this occasion i will be able to share a way to a way to
   Advertise on journal shut two times, as I actually have
 excerpt: On this occasion i will be able to share a way to a way to Advertise on
   journal shut two times, as I actually have
-id: e29625bc-76ad-4888-8254-8c28c549b11b
 lang: en
 photos:
   - https://2.bp.blogspot.com/-vz_NgjmMup4/VR6qQOfliiI/AAAAAAAAA0g/ps8xLzLvGwM/s1600/advertise-here.jpg
@@ -26,7 +25,6 @@ thumbnail: https://2.bp.blogspot.com/-vz_NgjmMup4/VR6qQOfliiI/AAAAAAAAA0g/ps8xLz
 title: How To Add Ads On Blogger With Double Clicks Close
 type: post
 updated: 2023-08-08T14:46:00+07:00
-uuid: 87e5ba7e-dab9-4888-84e8-3d0244d1cfbe
 wordcount: 1167
 ---
 

@@ -1,19 +1,115 @@
 ---
-title: Material Icebug Primal Spirit Chimeraland
-date: 2022-01-11T22:56:03+07:00
-updated: 2022-10-03T22:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/icebug-primal-spirit.html
-photos:
-  - /chimeraland/materials/icebug-primal-spirit/icebug-primal-spirit.webp
-thumbnail: /chimeraland/materials/icebug-primal-spirit/icebug-primal-spirit.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-11T22:56:03+07:00
+description: "Material Icebug Primal Spirit Chimeraland materials
+
+  \        Icebug Primal Spirit
+
+  \        October 3, 2022 10:26 PM
+
+  \        Continue reading Icebug Primal Spirit
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Icebug Primal Spirit
+
+  \  "
+excerpt: "Material Icebug Primal Spirit Chimeraland materials
+
+  \        Icebug Primal Spirit
+
+  \        October 3, 2022 10:26 PM
+
+  \        Continue reading Icebug Primal Spirit
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Icebug Primal Spirit
+
+  \  "
+permalink: /chimeraland/materials/icebug-primal-spirit.html
+photos:
+  - /chimeraland/materials/icebug-primal-spirit/icebug-primal-spirit.webp
+subtitle: "Material Icebug Primal Spirit Chimeraland materials
+
+  \        Icebug Primal Spirit
+
+  \        October 3, 2022 10:26 PM
+
+  \        Continue reading Icebug Primal Spirit
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Icebug Primal Spirit
+
+  \  "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/icebug-primal-spirit/icebug-primal-spirit.webp
+title: Material Icebug Primal Spirit Chimeraland
+type: post
+updated: 2022-10-03T22:26:37+07:00
+wordcount: 1848
 ---
 
 <link

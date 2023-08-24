@@ -14,7 +14,6 @@ excerpt: rollback commit github Rogue Coder? Working alone and just want to do
   well? Follow the steps below. These steps have worked reliably for me and many
   others over the years. Collaborate with others? Git is complicated. Please
   read the comments below this answer, consider other answers, and discuss wit
-id: 9aaaee5c-c034-4888-80a3-be9781a76677
 lang: en
 photos: []
 subtitle: rollback commit github Rogue Coder? Working alone and just want to do

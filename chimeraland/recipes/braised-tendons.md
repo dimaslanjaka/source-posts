@@ -1,23 +1,68 @@
 ---
-title: Recipe Braised Tendons Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T15:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-07T09:56:03+07:00
+description: |-
+  Recipe Braised Tendons Chimeraland Braised Tendons Cooking Recipe
+                
+                Buff Braised Tendons
+                
+                  
+                    300 Fullness
+                    15 RES
+                  
+                
+                recipe
+              
+              
+                web
+excerpt: |-
+  Recipe Braised Tendons Chimeraland Braised Tendons Cooking Recipe
+                
+                Buff Braised Tendons
+                
+                  
+                    300 Fullness
+                    15 RES
+                  
+                
+                recipe
+              
+              
+                web
+lang: en
 permalink: /chimeraland/recipes/braised-tendons.html
 photos:
   - /chimeraland/recipes/braised-tendons/braised-tendons.webp
   - /chimeraland/recipes/braised-tendons/braised-tendons-name.webp
   - /chimeraland/recipes/braised-tendons/braised-tendons-icon.webp
   - /chimeraland/recipes/braised-tendons/braised-tendons-material.webp
-thumbnail: /chimeraland/recipes/braised-tendons/braised-tendons.webp
+subtitle: |-
+  Recipe Braised Tendons Chimeraland Braised Tendons Cooking Recipe
+                
+                Buff Braised Tendons
+                
+                  
+                    300 Fullness
+                    15 RES
+                  
+                
+                recipe
+              
+              
+                web
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/braised-tendons/braised-tendons.webp
+title: Recipe Braised Tendons Chimeraland
+type: post
+updated: 2022-10-05T15:46:56+07:00
+wordcount: 624
 ---
 
 <link

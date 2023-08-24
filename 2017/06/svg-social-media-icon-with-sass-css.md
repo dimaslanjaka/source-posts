@@ -12,7 +12,6 @@ description: "/ Thanks to codepen.io/alaingalvan for suggesting this color
   variable:background: hsl210, 45, 10//"
 excerpt: "/ Thanks to codepen.io/alaingalvan for suggesting this color
   variable:background: hsl210, 45, 10//"
-id: 8a410d1d-cb6f-4888-82d0-d57489fd736b
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -25,7 +24,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: SVG Social Media Icon With Sass CSS
 type: post
 updated: 2023-08-08T14:45:54+07:00
-uuid: b54a56b9-72e7-4888-8b31-8575f76d2e4b
 wordcount: 18044
 ---
 

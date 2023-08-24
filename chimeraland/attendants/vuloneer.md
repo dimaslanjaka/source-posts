@@ -1,9 +1,77 @@
 ---
-title: Attendant Vuloneer
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-30T07:26:37+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2022-01-08T01:56:03+07:00
+description: "Attendant Vuloneer Vuloneer Information from Chimeraland
+
+  \    Vuloneer default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \     "
+excerpt: "Attendant Vuloneer Vuloneer Information from Chimeraland
+
+  \    Vuloneer default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \     "
 permalink: /chimeraland/attendants/vuloneer.html
 photos:
   - /chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-34-42-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,14 +80,48 @@ photos:
   - /chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-34-55-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-35-01-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-35-06-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-34-42-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant Vuloneer Vuloneer Information from Chimeraland
+
+  \    Vuloneer default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \     "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/vuloneer/Screenshot_2022-07-30-14-34-42-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant Vuloneer
+type: post
+updated: 2022-09-30T07:26:37+07:00
+webtitle: chimeraland
+wordcount: 976
 ---
 
 <link

@@ -1,19 +1,76 @@
 ---
-title: Material Ox Mane Hair Chimeraland
-date: 2022-01-09T19:56:03+07:00
-updated: 2022-10-01T19:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/ox-mane-hair.html
-photos:
-  - /chimeraland/materials/ox-mane-hair/ox-mane-hair.webp
-thumbnail: /chimeraland/materials/ox-mane-hair/ox-mane-hair.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-09T19:56:03+07:00
+description: |-
+  Material Ox Mane Hair Chimeraland materials
+          Ox Mane Hair
+          October 1, 2022 7:26 PM
+          
+            Ox Mane, fortifies clothes against cold.
+          
+          Continue reading Ox Mane Hair
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use o
+excerpt: |-
+  Material Ox Mane Hair Chimeraland materials
+          Ox Mane Hair
+          October 1, 2022 7:26 PM
+          
+            Ox Mane, fortifies clothes against cold.
+          
+          Continue reading Ox Mane Hair
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use o
+permalink: /chimeraland/materials/ox-mane-hair.html
+photos:
+  - /chimeraland/materials/ox-mane-hair/ox-mane-hair.webp
+subtitle: |-
+  Material Ox Mane Hair Chimeraland materials
+          Ox Mane Hair
+          October 1, 2022 7:26 PM
+          
+            Ox Mane, fortifies clothes against cold.
+          
+          Continue reading Ox Mane Hair
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use o
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/ox-mane-hair/ox-mane-hair.webp
+title: Material Ox Mane Hair Chimeraland
+type: post
+updated: 2022-10-01T19:26:37+07:00
+wordcount: 1165
 ---
 
 <link

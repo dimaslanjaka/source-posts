@@ -12,7 +12,6 @@ description: This one is a famous request inBlogger Help Forum- instructions to
   shroud the sidebar on one of the static pages, and make the principle
 excerpt: This one is a famous request inBlogger Help Forum- instructions to
   shroud the sidebar on one of the static pages, and make the principle
-id: a3ebee1b-9539-4888-8565-3e6507f54b9b
 lang: en
 photos:
   - https://3.bp.blogspot.com/-q-AHZo_sm-c/Tbx33FuXgVI/AAAAAAAAC2I/h9SaOe4k_AE/s500/0.jpg
@@ -25,7 +24,6 @@ thumbnail: https://3.bp.blogspot.com/-q-AHZo_sm-c/Tbx33FuXgVI/AAAAAAAAC2I/h9SaOe
 title: How to Remove Blogger sidebar and make spesific pages at full width
 type: post
 updated: 2023-08-08T14:45:54+07:00
-uuid: f022bcf7-8090-4888-8d55-e5b51dcd10a1
 wordcount: 1350
 ---
 

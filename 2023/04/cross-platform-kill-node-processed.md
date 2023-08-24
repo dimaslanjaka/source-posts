@@ -13,7 +13,6 @@ excerpt: How to kill node processed for all operating system Bash bash script to
   kill all node processed in linux distro /usr/bin/env bashkill -9 ps aux grep
   \\snode\\s awk print 2killall node Batch batch script to kill all node
   processed in windows distro @echo offtaskkill /f /im node.ex
-id: c006c053-bdd9-4888-8e3f-e86a5be5d4d4
 lang: en
 photos: []
 subtitle: How to kill node processed for all operating system Bash bash script

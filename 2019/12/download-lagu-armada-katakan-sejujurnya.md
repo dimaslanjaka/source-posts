@@ -12,7 +12,6 @@ description: "Download lagu Armada Katakan Sejujurnya Mp3 Fleet - Tell the Truth
   Listen: 2,712,275 Duration: 237 MP3 size: 3.7MB Download"
 excerpt: "Download lagu Armada Katakan Sejujurnya Mp3 Fleet - Tell the Truth
   Listen: 2,712,275 Duration: 237 MP3 size: 3.7MB Download"
-id: 46515354-870b-4888-82ee-81a785bed420
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/be307b73b2a6079cf72b3b7b98d8fb59.jpeg
@@ -24,7 +23,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/be307b73b2a607
 title: Download lagu Armada - Katakan Sejujurnya Mp3
 type: post
 updated: 2023-08-08T14:45:21+07:00
-uuid: 3ef7b41a-19f3-4888-86cc-255334fe6191
 wordcount: 1792
 ---
 

@@ -18,7 +18,6 @@ excerpt: SEO Responsive Author Box Untuk Blog Apakabar semuaJumpa lagi dengan
   BOX untuk blog kalian nih. Ditambah Schema Structure
   Untuk:PersonsOrganizationOrganizationRoleResponsive:Author box ini fleksibel
   untuk semua macam
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://3.bp.blogspot.com/-2GV0ViBRH0Y/Wbf65awyH9I/AAAAAAAAAFY/03ly2YaDb94PqUXRdkwXbOVSMWfn1USCwCLcBGAs/s320/PicsArt_09-12-10.18.11.png
@@ -35,7 +34,6 @@ thumbnail: https://3.bp.blogspot.com/-2GV0ViBRH0Y/Wbf65awyH9I/AAAAAAAAAFY/03ly2Y
 title: SEO Responsive Author Box Untuk Blog
 type: post
 updated: 2023-08-08T14:45:46+07:00
-uuid: 93c7e8cf-e926-4888-8cf7-642a9fe9460c
 wordcount: 1003
 ---
 

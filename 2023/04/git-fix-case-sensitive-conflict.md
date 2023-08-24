@@ -9,7 +9,6 @@ cover: https://1.bp.blogspot.com/-qPtq_n0ithw/YPbCOjZsFyI/AAAAAAAAAhM/JfQ6R2yIcg
 date: 2023-04-07T18:53:16+07:00
 description: How do I commit case-sensitive only filename changes in Git?
 excerpt: How do I commit case-sensitive only filename changes in Git?
-id: 0a0e1f59-7e67-4888-8860-2b769218e52f
 lang: en
 photos:
   - https://1.bp.blogspot.com/-qPtq_n0ithw/YPbCOjZsFyI/AAAAAAAAAhM/JfQ6R2yIcgYMlTZ9GhPaOgFEZ1rm0O0lACLcBGAsYHQ/s600/git-cli-commands.jpg

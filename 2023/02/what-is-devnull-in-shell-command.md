@@ -13,7 +13,6 @@ excerpt: What is /dev/null in shell command ? various types of arguments
   /dev/null argumentargument description> /dev/nullthrow away stdout1>
   /dev/nullthrow away stdout2> /dev/nullthrow away stderr> /dev/nullthrow away
   both stdout and stderr argumentargument description argument argument
-id: 264697a5-846a-4888-8603-0df033dd7f89
 lang: en
 photos: []
 subtitle: What is /dev/null in shell command ? various types of arguments

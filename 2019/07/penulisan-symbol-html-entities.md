@@ -10,7 +10,6 @@ cover: https://www.webmanajemen.com/assets/img/html.png
 date: 2019-07-23T07:21:00.000+07:00
 description: h2>ASCII simbol</h2><table> <thead> <tr> <th nowrap=nowrap> Symbol </th> <th
 excerpt: h2>ASCII simbol</h2><table> <thead> <tr> <th nowrap=nowrap> Symbol </th> <th
-id: 7e9846da-6576-4888-8343-064d41ce0689
 lang: en
 photos:
   - https://www.webmanajemen.com/assets/img/html.png
@@ -21,7 +20,6 @@ thumbnail: https://www.webmanajemen.com/assets/img/html.png
 title: Penulisan Symbol HTML Entities
 type: post
 updated: 2023-08-08T14:45:29+07:00
-uuid: 43e8b8ef-dfc2-4888-8095-4d0cef0b9b76
 wordcount: 1906
 ---
 

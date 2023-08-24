@@ -12,7 +12,6 @@ description: "Download lagu SHANTY TINJU Mp3 SHANTY - REVIEWS Listen: 4,432
   Duration: 227 MP3 size: 3.55MB Download Links Download Mp3"
 excerpt: "Download lagu SHANTY TINJU Mp3 SHANTY - REVIEWS Listen: 4,432
   Duration: 227 MP3 size: 3.55MB Download Links Download Mp3"
-id: 145decb7-2dd1-4888-8f73-26b0bfcca15f
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/da724846cb23e7f1c01a0da3e1994b0e.jpeg
@@ -24,7 +23,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/da724846cb23e7
 title: Download lagu SHANTY - TINJU Mp3
 type: post
 updated: 2023-08-08T14:45:18+07:00
-uuid: fdd2ea06-b97d-4888-86ac-37f739ff3124
 wordcount: 1572
 ---
 

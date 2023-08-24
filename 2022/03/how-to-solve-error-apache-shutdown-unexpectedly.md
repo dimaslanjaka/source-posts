@@ -7,7 +7,6 @@ cover: https://i.ytimg.com/vi/alj5it9EwIM/maxresdefault.jpg
 date: 2022-03-26T23:46:00+0700
 description: Various step to fix xampp windows updated 2022
 excerpt: Various step to fix xampp windows updated 2022
-id: 60adad91-cafd-4888-8da8-a84bfff539a9
 lang: en
 photos:
   - https://i.ytimg.com/vi/alj5it9EwIM/maxresdefault.jpg

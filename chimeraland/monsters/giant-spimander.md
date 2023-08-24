@@ -1,9 +1,70 @@
 ---
-title: Monster giant spimander
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-25T16:55:43+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-02-25T16:44:43+07:00
+description: "Monster giant spimander giant spimander Information from
+  Chimeraland
+
+  \    giant spimander default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \      "
+excerpt: "Monster giant spimander giant spimander Information from Chimeraland
+
+  \    giant spimander default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \      "
 permalink: /chimeraland/monsters/giant-spimander.html
 photos:
   - /chimeraland/monsters/giant-spimander/Screenshot_2023-02-23-22-04-22-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +74,45 @@ photos:
   - /chimeraland/monsters/giant-spimander/Screenshot_2023-02-23-22-04-41-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-spimander/Screenshot_2023-02-23-22-04-45-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-spimander/Screenshot_2023-02-23-22-04-50-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-spimander/Screenshot_2023-02-23-22-04-22-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant spimander giant spimander Information from Chimeraland
+
+  \    giant spimander default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \      "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-spimander/Screenshot_2023-02-23-22-04-22-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant spimander
+type: post
+updated: 2023-02-25T16:55:43+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

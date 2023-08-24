@@ -12,7 +12,6 @@ excerpt: "Gallery Post This post contains 4 photos: Widescreen wallpaperPortrait
   photoDual widescreen wallpaperSmall photo Widescreen wallpaper Portrait photo
   Dual widescreen wallpaper Small photo All photos should be displayed properly.
   From Wallbase.cc Wallbase.cc"
-id: d1d6712b-3644-4888-8e47-c87100c6663f
 lang: en
 photos:
   - /assets/wallpaper-2572384.jpg

@@ -1,21 +1,123 @@
 ---
-title: Monster Jadgeon
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T11:29:12+07:00
-date: 2023-05-25T00:40:10+07:00
-permalink: /chimeraland/monsters/jadgeon.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Jadgeon
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T00:40:10+07:00
+description: "Monster Jadgeon Jadgeon Information from Chimeraland
+
+  \    Jadgeon default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \          "
+excerpt: "Monster Jadgeon Jadgeon Information from Chimeraland
+
+  \    Jadgeon default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \          "
+permalink: /chimeraland/monsters/jadgeon.html
+photos:
+  - null
+subtitle: "Monster Jadgeon Jadgeon Information from Chimeraland
+
+  \    Jadgeon default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \          "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Jadgeon
+title: Monster Jadgeon
+type: post
+updated: 2023-05-25T11:29:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

@@ -1,19 +1,121 @@
 ---
-title: Material Ironwood Stem Chimeraland
-date: 2022-01-14T02:56:03+07:00
-updated: 2022-10-06T02:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/ironwood-stem.html
-photos:
-  - /chimeraland/materials/ironwood-stem/ironwood-stem.webp
-thumbnail: /chimeraland/materials/ironwood-stem/ironwood-stem.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-14T02:56:03+07:00
+description: "Material Ironwood Stem Chimeraland materials
+
+  \        Ironwood Stem
+
+  \        October 6, 2022 2:26 AM
+
+  \       \ 
+
+  \          Ironwood Stalk. Cylindrical, unbranched, thick as well as firm.
+
+  \       \ 
+
+  \        Continue reading Ironwood Stem
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \   "
+excerpt: "Material Ironwood Stem Chimeraland materials
+
+  \        Ironwood Stem
+
+  \        October 6, 2022 2:26 AM
+
+  \       \ 
+
+  \          Ironwood Stalk. Cylindrical, unbranched, thick as well as firm.
+
+  \       \ 
+
+  \        Continue reading Ironwood Stem
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \   "
+permalink: /chimeraland/materials/ironwood-stem.html
+photos:
+  - /chimeraland/materials/ironwood-stem/ironwood-stem.webp
+subtitle: "Material Ironwood Stem Chimeraland materials
+
+  \        Ironwood Stem
+
+  \        October 6, 2022 2:26 AM
+
+  \       \ 
+
+  \          Ironwood Stalk. Cylindrical, unbranched, thick as well as firm.
+
+  \       \ 
+
+  \        Continue reading Ironwood Stem
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \   "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/ironwood-stem/ironwood-stem.webp
+title: Material Ironwood Stem Chimeraland
+type: post
+updated: 2022-10-06T02:26:37+07:00
+wordcount: 1054
 ---
 
 <link

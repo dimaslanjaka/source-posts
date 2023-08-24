@@ -12,7 +12,6 @@ description: h2>Contribution Tutorial</h2><ol> <li>Fork it git clone
   https://github.com/name/repo</li> <li>Create your feature branch git checkout
 excerpt: h2>Contribution Tutorial</h2><ol> <li>Fork it git clone
   https://github.com/name/repo</li> <li>Create your feature branch git checkout
-id: e748f4a2-166a-4888-824a-681a1b4aadbf
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -27,7 +26,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: How to make pull request or contribution on github
 type: post
 updated: 2023-08-08T14:45:11+07:00
-uuid: 621dc505-222b-4888-8cf1-2856ec8104b6
 wordcount: 134
 ---
 

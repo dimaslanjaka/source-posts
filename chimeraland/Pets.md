@@ -1,23 +1,27 @@
 ---
-category:
+categories:
   - games
   - Chimeraland
 comments: true
 cover: Pets/cover.jpg
 date: 2022-02-18T10:37:00+07:00
-updated: 2022-08-26T05:30:00+0700
+description: Information about pets attributes chimeraland
+excerpt: Information about pets attributes chimeraland
 keywords:
   - pets informations
   - chimeraland
   - chimeraland pets
   - pet evolution
 lang: id
-description: Information about pets attributes chimeraland
+redirect: /chimeraland/monsters
+subtitle: Information about pets attributes chimeraland
 tags:
   - Chimeraland
 title: Chimeraland Pets Attribute Stats Information
 toc: true
-redirect: /chimeraland/monsters
+type: post
+updated: 2022-08-26T05:30:00+0700
+wordcount: 1104
 ---
 
 <!-- include index2/update.html -->

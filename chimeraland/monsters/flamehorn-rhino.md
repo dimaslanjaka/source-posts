@@ -1,21 +1,118 @@
 ---
-title: Monster Flamehorn Rhino
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T13:42:12+07:00
-date: 2023-05-25T02:21:12+07:00
-permalink: /chimeraland/monsters/flamehorn-rhino.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamehorn Rhino
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T02:21:12+07:00
+description: "Monster Flamehorn Rhino Flamehorn Rhino Information from
+  Chimeraland
+
+  \    Flamehorn Rhino default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \ "
+excerpt: "Monster Flamehorn Rhino Flamehorn Rhino Information from Chimeraland
+
+  \    Flamehorn Rhino default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \ "
+permalink: /chimeraland/monsters/flamehorn-rhino.html
+photos:
+  - null
+subtitle: "Monster Flamehorn Rhino Flamehorn Rhino Information from Chimeraland
+
+  \    Flamehorn Rhino default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \ "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamehorn Rhino
+title: Monster Flamehorn Rhino
+type: post
+updated: 2023-05-25T13:42:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

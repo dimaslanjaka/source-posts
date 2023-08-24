@@ -15,7 +15,6 @@ excerpt: Asynchronous serial iteration over an array collection Node.js design
   patterns:Asynchronous serial iteration over a collection using callbacks. This
   is an example of a very common Node.js design pattern.Serial asynchronous
   iteration over collections arrays using callbacks. If you want to learn m
-id: 684ca8ce-1dc5-4888-8b4d-80f2f659b2f2
 lang: en
 photos: []
 subtitle: Asynchronous serial iteration over an array collection Node.js design

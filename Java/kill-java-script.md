@@ -1,9 +1,61 @@
 ---
-title: Script java killer
+categories:
+  - programming
+comments: true
 date: 2023-08-23T20:32:38+07:00
+description: >-
+  Script java killer Windows CMD create script with name killjava.cmd or
+  killjava.bat killjava.cmd killjava.bat @echo off
+
+  taskkill /f /im jqs.exe
+
+  taskkill /f /im javaw.exe
+
+  taskkill /f /im java.exe
+
+  taskkill /f /im geckodriver.exe
+
+  taskkill /f /im chromedriver.exe
+
+  taskkill /f /im node.exe Windows Powersh
+excerpt: >-
+  Script java killer Windows CMD create script with name killjava.cmd or
+  killjava.bat killjava.cmd killjava.bat @echo off
+
+  taskkill /f /im jqs.exe
+
+  taskkill /f /im javaw.exe
+
+  taskkill /f /im java.exe
+
+  taskkill /f /im geckodriver.exe
+
+  taskkill /f /im chromedriver.exe
+
+  taskkill /f /im node.exe Windows Powersh
+subtitle: >-
+  Script java killer Windows CMD create script with name killjava.cmd or
+  killjava.bat killjava.cmd killjava.bat @echo off
+
+  taskkill /f /im jqs.exe
+
+  taskkill /f /im javaw.exe
+
+  taskkill /f /im java.exe
+
+  taskkill /f /im geckodriver.exe
+
+  taskkill /f /im chromedriver.exe
+
+  taskkill /f /im node.exe Windows Powersh
+tags:
+  - bash
+  - cmd
+  - java
+title: Script java killer
+type: post
 updated: 2023-08-23T20:39:35+07:00
-category: [programming]
-tags: [bash, cmd, java]
+wordcount: 768
 ---
 
 ## Windows CMD

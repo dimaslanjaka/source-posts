@@ -14,7 +14,6 @@ description: Memperbaiki low wifi signal kali linux git clone
 excerpt: Memperbaiki low wifi signal kali linux git clone
   https://github.com/lwfinger/rtlwifi_new.gitcd rtlwifi_newsudo makesudo make
   installsudo
-id: 19699076-1ad9-4888-81ae-85c140413b8f
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -28,7 +27,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: FIX Low signal wifi kali linux
 type: post
 updated: 2023-08-08T14:45:30+07:00
-uuid: 33560b05-3628-4888-8d93-db07a3a1b9a5
 wordcount: 280
 ---
 

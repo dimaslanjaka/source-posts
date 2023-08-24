@@ -16,7 +16,6 @@ excerpt: Replacing the Label Widget Blogger Function to Be Dropdown Replacing
   the Label Widget Function to Be Dropdown <ul> <b:loop values=data:labels
   var=label> <li> <b:if cond=data:blog.url == data:label.url> <data:label.name/>
   <b:else/> <a expr:href=data:label.url>
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - data:image/webp;base64,UklGRngEAABXRUJQVlA4WAoAAAAQAAAAawEAwAAAQUxQSB4AAAABD9D/iAioCUAIIoH+ae3GeyP6PwHOFpH9/nv/1RRWUDggNAQAANAoAJ0BKmwBwQA+7Xa0VCmnpSMldhgZMB2JZ27hczcHgNvfpz6DiVs4WRY2E4VEDm/+EyGjyHdfaOrH2jqx9o6sfaOrH2jqx9o6sfGiebM+KmSyF8XKN9Da3saWtgl8w2wtb89cWld++LnyN70RBbnXzqVLjw/swKDBDutqzxaXMbzDc17W/dG27wygNInANYPyct99VJrT9eXp63b3dEnKgJZyhy322xKiKOl8uwa3ZtXHWbVx1rdpUHVj7R1Y0YzcwYNr5s/V3O7OqdtDp161GDchCYKDBDuvtCkrLAFbcoHkG+3PMHUxIqy1G6hfFO3h7s2rjagoi6S5g65eUdMAbAqYKDBDuvtDz6gUGCHdfaOrG3OCX5FYbeFPx6U5iC/3JRdm6DFbequRr7R1Y+0dWPtHVj7R1Y+0dWPtHVj7R1Y+0dWPtHVj7R1Y+0KAAP79YT/bJ3pf/qqnr8ICy4I7doAQtxDGM40E3WKwUPtPTn+e4rMRkxEOxeoI95CiyvutpaRuk7tyaXqM50r+vQ+bGk1RqcfOejjmxxkjMyzs8A1ERjTaN9AYnC4+XJ4wiBhAlMjvdORK3Iekgs7GTw6PPA5+PcYCDgiCzkD19AUG+JrqihRzSkWl9h8rw4PQX4uzxMNQ9/G9bon6GCmaiK3pjvy7JaUxBtoiIYMRsLkA4T7Y65AsVRNbHRit+or2d8jyPm2eP18Zb7EV+wpBdI8X/2bJ9QwQMvTYncs97fUYvPmBP5wWidhpeaa8wbqnlU1lHxfa5PfMUIeEIJDFC4CAotI86U427GGUZ73NYxy8KkmLILS/rXideB88D94qdPD8pf1Ai3XfGNbuWaJZIGjOLHcM0WFCfWVOj+b54B5IoLPJgeo/7Q+YqCl5o77je0xt7E2xcckobkMP2DI0xy4wDMOpuuYgcGmlHWlwjNCcN/Cli3SvbGikSvumFqHpsr3jGEMiNpFtWMeJqnRx7H8RTQJ0xlEzoLraDc5E44VVgqTzYIHsKA6Bs1eB0ZiIqQDXG2ivbeTwW/nnP5EJwMiTVWfX2vZ/jIAsOEF+cPZ/c1f4LItLx2f/x6ZI6kh+10iVQEkbEHm1/7uj0U6diWqIbQqo3T6h6ScSa+uO+yHixkpbuBwAqADfiCE44H8qX4FDEXyDl88LS1D8M6gn10Os7D0X0Tofjlwx1vfSdq1AAC5m+t273b9RHm8cKYxVjtVCMfm5+7K/5Rq6d22LrEMgeeJDio5yK9CH1OrRgPEQUQq8JpYIJDhUqzZMlEwvWhN5kzo9MqIBXTGjz1wRPYw3oH2DQabkw4cuxE86SilDBHj12YyGVpWj/80G5wQAEhDod11wJUdByM9/qFfGm8fQwQchc4kaL378veNH0x1Oc2XxpYIVuP+ok310GQa6m9DjlrrxU7S8vPyLm52AAAAAAAAA
@@ -32,7 +31,6 @@ thumbnail: data:image/webp;base64,UklGRngEAABXRUJQVlA4WAoAAAAQAAAAawEAwAAAQUxQSB
 title: Replacing the Label Widget Blogger Function to Be Dropdown
 type: post
 updated: 2023-08-08T14:45:43+07:00
-uuid: 0d4a547a-60b5-4888-8448-1d32f7c4a515
 wordcount: 597
 ---
 

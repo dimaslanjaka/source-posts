@@ -12,7 +12,6 @@ description: "CSSstyle> body -webkit-touch-callout: none; -webkit-user-select:
   none; -khtml-user-select: none;"
 excerpt: "CSSstyle> body -webkit-touch-callout: none; -webkit-user-select: none;
   -khtml-user-select: none;"
-id: f0f42414-d624-4888-85df-077fdfc6e209
 lang: en
 photos:
   - https://i.stack.imgur.com/3pgKv.png
@@ -25,7 +24,6 @@ thumbnail: https://i.stack.imgur.com/3pgKv.png
 title: Disable Mouse Dragging CSS JS
 type: post
 updated: 2023-08-08T14:45:29+07:00
-uuid: 27febd63-0795-4888-8df4-d10a18779fcd
 wordcount: 68
 ---
 

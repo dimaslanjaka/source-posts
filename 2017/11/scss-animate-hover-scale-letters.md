@@ -12,7 +12,6 @@ description: center><h2>Demo</h2></center><iframe
   src=//rawgit.com/dimaslanjaka/Web-Manajemen/master/HTML/Text-Animate/20Scale20LetterHovers.html
 excerpt: center><h2>Demo</h2></center><iframe
   src=//rawgit.com/dimaslanjaka/Web-Manajemen/master/HTML/Text-Animate/20Scale20LetterHovers.html
-id: 7471455f-db18-4888-87de-d794f38f0e68
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -26,7 +25,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: SCSS Animate Hover Scale Letters
 type: post
 updated: 2023-08-08T14:45:42+07:00
-uuid: b7d8930c-146d-4888-82b8-6ea697175194
 wordcount: 486
 ---
 

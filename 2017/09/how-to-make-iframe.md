@@ -16,7 +16,6 @@ excerpt: "HOW TO MAKE IFRAME If my friend had more than one blog and want to
   show the other blog to another blog can use this iframe. Due to the usefulness
   of this iframe is to show another blog to our blog. The code that we use are:
   <iframe> </ iframe> Medium astribut frequently used are: ALIGN = left / "
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://imgdb.net/images/3196.jpg
@@ -31,7 +30,6 @@ thumbnail: https://imgdb.net/images/3196.jpg
 title: HOW TO MAKE IFRAME
 type: post
 updated: 2023-08-08T14:45:47+07:00
-uuid: 5dc6d6d0-6f25-4888-8fff-55dab64969dd
 wordcount: 534
 ---
 

@@ -1,9 +1,73 @@
 ---
-title: Attendant vulendor
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-09T08:16:58+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2023-02-09T08:05:58+07:00
+description: "Attendant vulendor vulendor Information from Chimeraland
+
+  \    vulendor default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
+excerpt: "Attendant vulendor vulendor Information from Chimeraland
+
+  \    vulendor default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
 permalink: /chimeraland/attendants/vulendor.html
 photos:
   - /chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-29-91_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,14 +77,46 @@ photos:
   - /chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-56-47_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-35-02-23_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-35-08-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-29-91_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant vulendor vulendor Information from Chimeraland
+
+  \    vulendor default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/vulendor/Screenshot_2022-11-27-09-34-29-91_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant vulendor
+type: post
+updated: 2023-02-09T08:16:58+07:00
+webtitle: chimeraland
+wordcount: 1059
 ---
 
 <link

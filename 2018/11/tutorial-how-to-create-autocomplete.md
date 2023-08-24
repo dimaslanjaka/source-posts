@@ -12,7 +12,6 @@ description: In this tutorial we will discuss how to create autocompletewith
   codeigniter, in this discussion I assume all friends TWD already
 excerpt: In this tutorial we will discuss how to create autocompletewith
   codeigniter, in this discussion I assume all friends TWD already
-id: d542a407-8811-4888-8d6b-8478645e023d
 lang: en
 photos:
   - http://www.tutorial-webdesign.com/wp-content/uploads/2015/05/autocomplete.png
@@ -24,7 +23,6 @@ thumbnail: http://www.tutorial-webdesign.com/wp-content/uploads/2015/05/autocomp
 title: Tutorial How to Create Autocomplete with CodeIgniter
 type: post
 updated: 2023-08-08T14:45:36+07:00
-uuid: c45811ba-df2b-4888-8150-28f72c64ba82
 wordcount: 4335
 ---
 

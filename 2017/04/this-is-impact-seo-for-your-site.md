@@ -12,7 +12,6 @@ description: This is the Impact SEO For Your SiteImpact SEO Impact SEO For Your
   Site If my friend blogger already know dong
 excerpt: This is the Impact SEO For Your SiteImpact SEO Impact SEO For Your Site
   If my friend blogger already know dong
-id: 92cf2134-d630-4888-8659-444d0b96bc73
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://sugeng.id/blog/wp-content/uploads/2015/02/SEO-400x386.png
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://sugeng.id/
 title: This is the Impact SEO For Your Site
 type: post
 updated: 2023-08-08T14:45:58+07:00
-uuid: df3891e7-44f9-4888-8c0e-8fea8473b5a2
 wordcount: 2277
 ---
 

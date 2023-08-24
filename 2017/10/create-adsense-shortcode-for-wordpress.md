@@ -14,7 +14,6 @@ description: img class=center w3-center height=250
 excerpt: img class=center w3-center height=250
   src=https://imgdb.net/images/3202.jpg width=100 /><br /><ol><li>Go to Your
   Dashboard
-id: 2400ea8f-8808-4888-8018-e288bcd5dcf3
 lang: en
 photos:
   - https://imgdb.net/images/3202.jpg
@@ -29,7 +28,6 @@ thumbnail: https://imgdb.net/images/3202.jpg
 title: Create Adsense shortcode for WordPress
 type: post
 updated: 2023-08-08T14:45:44+07:00
-uuid: de960b3e-b799-4888-847a-210629943dee
 wordcount: 369
 ---
 

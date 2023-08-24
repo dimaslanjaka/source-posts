@@ -1,21 +1,123 @@
 ---
-title: Monster Tang
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T17:05:12+07:00
-date: 2022-01-10T07:56:03+07:00
-permalink: /chimeraland/monsters/tang.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tang
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2022-01-10T07:56:03+07:00
+description: "Monster Tang Tang Information from Chimeraland
+
+  \    Tang default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                45
+
+  \             \ 
+
+  \             \ 
+
+  \           "
+excerpt: "Monster Tang Tang Information from Chimeraland
+
+  \    Tang default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                45
+
+  \             \ 
+
+  \             \ 
+
+  \           "
+permalink: /chimeraland/monsters/tang.html
+photos:
+  - null
+subtitle: "Monster Tang Tang Information from Chimeraland
+
+  \    Tang default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                45
+
+  \             \ 
+
+  \             \ 
+
+  \           "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Tang
+title: Monster Tang
+type: post
+updated: 2023-05-25T17:05:12+07:00
+webtitle: chimeraland
+wordcount: 615
 ---
 
 <link

@@ -1,19 +1,121 @@
 ---
-title: Material Moddly Wings Chimeraland
-date: 2022-01-11T10:56:03+07:00
-updated: 2022-10-03T10:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/moddly-wings.html
-photos:
-  - /chimeraland/materials/moddly-wings/moddly-wings.webp
-thumbnail: /chimeraland/materials/moddly-wings/moddly-wings.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-11T10:56:03+07:00
+description: "Material Moddly Wings Chimeraland materials
+
+  \        Moddly Wings
+
+  \        October 3, 2022 10:26 AM
+
+  \       \ 
+
+  \          It likes to spread its green wings and glide with the wind.
+
+  \       \ 
+
+  \        Continue reading Moddly Wings
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \         "
+excerpt: "Material Moddly Wings Chimeraland materials
+
+  \        Moddly Wings
+
+  \        October 3, 2022 10:26 AM
+
+  \       \ 
+
+  \          It likes to spread its green wings and glide with the wind.
+
+  \       \ 
+
+  \        Continue reading Moddly Wings
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \         "
+permalink: /chimeraland/materials/moddly-wings.html
+photos:
+  - /chimeraland/materials/moddly-wings/moddly-wings.webp
+subtitle: "Material Moddly Wings Chimeraland materials
+
+  \        Moddly Wings
+
+  \        October 3, 2022 10:26 AM
+
+  \       \ 
+
+  \          It likes to spread its green wings and glide with the wind.
+
+  \       \ 
+
+  \        Continue reading Moddly Wings
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \         "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/moddly-wings/moddly-wings.webp
+title: Material Moddly Wings Chimeraland
+type: post
+updated: 2022-10-03T10:26:37+07:00
+wordcount: 1194
 ---
 
 <link

@@ -1,9 +1,19 @@
 ---
-title: Monster Horned Bosalo
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T10:25:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-08T15:56:03+07:00
+description: monster Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
+  Attributes Conversion Rate 4.0%,Hp 339 delicacies/tasty Five Venom Serpent
+  Soup,Moddly Wings Topped Rice,Dragon Serpent Combo games,chimeraland,monsters
+  chimeraland,monster,pet
+excerpt: monster Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
+  Attributes Conversion Rate 4.0%,Hp 339 delicacies/tasty Five Venom Serpent
+  Soup,Moddly Wings Topped Rice,Dragon Serpent Combo games,chimeraland,monsters
+  chimeraland,monster,pet
 permalink: /chimeraland/monsters/horned-bosalo.html
 photos:
   - null
@@ -13,19 +23,20 @@ photos:
   - /chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-41-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-45-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horned-bosalo/Screenshot_2022-07-15-17-00-49-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Horned Bosalo
+subtitle: monster Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
+  Attributes Conversion Rate 4.0%,Hp 339 delicacies/tasty Five Venom Serpent
+  Soup,Moddly Wings Topped Rice,Dragon Serpent Combo games,chimeraland,monsters
+  chimeraland,monster,pet
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
-description: monster Horned Bosalo default quality GRADE C ATK 52 HP 62 DEF 57
-  Attributes Conversion Rate 4.0%,Hp 339 delicacies/tasty Five Venom Serpent
-  Soup,Moddly Wings Topped Rice,Dragon Serpent Combo games,chimeraland,monsters
-  chimeraland,monster,pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Horned Bosalo
+title: Monster Horned Bosalo
+type: post
+updated: 2023-05-25T10:25:12+07:00
+webtitle: chimeraland
+wordcount: 1576
 ---
 
 <link

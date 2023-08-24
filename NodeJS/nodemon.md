@@ -6,7 +6,6 @@ comments: true
 date: 2022-04-24
 description: all about nodemon
 excerpt: all about nodemon
-id: 2af4c56c-76c3-4888-8738-6668c971200a
 lang: en
 photos: []
 subtitle: all about nodemon

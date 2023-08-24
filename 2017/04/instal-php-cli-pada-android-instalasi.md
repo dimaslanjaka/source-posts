@@ -13,7 +13,6 @@ description: Official php-cli installation on android by L3n4r0x php Running On
   Android Terminal -> How to install php5-cli in android <-
 excerpt: Official php-cli installation on android by L3n4r0x php Running On
   Android Terminal -> How to install php5-cli in android <-
-id: ed2be12c-5315-4888-8a61-51c0ce19b163
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blogspot.com/-3UATHL878wU/WKoXE11tarI/AAAAAAAAFAA/QhBnNJFo5QAiB4C04RKBG9zuFrP2Uhm4gCLcB/s1600/serverphp.jpg
@@ -26,7 +25,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blog
 title: Install PHP for Android CLI or Web Server
 type: post
 updated: 2023-08-08T14:45:59+07:00
-uuid: 14e9225b-f78d-4888-85cc-de9f5862689c
 webtitle: PHP Android
 wordcount: 2598
 ---

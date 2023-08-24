@@ -13,7 +13,6 @@ excerpt: "Snippet JS copy to clipboard full support old browser and modern
   browser Snippet fallback copy to clipboard for old browser function
   fallbackCopyTextToClipboardtext var textArea = document.createElementtextarea;
   textArea.value = text; // Avoid scrolling to bottom textArea.style.top "
-id: c10351f0-b0d6-4888-8b7c-9e187d829df7
 keywords:
   - browser
   - copy

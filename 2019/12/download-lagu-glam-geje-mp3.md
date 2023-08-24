@@ -12,7 +12,6 @@ description: "Download lagu Glam Geje Mp3 Glam - Geje Listen: 195,883 Duration:
   216 MP3 size: 3.38MB Download Links Download Mp3 Server 1"
 excerpt: "Download lagu Glam Geje Mp3 Glam - Geje Listen: 195,883 Duration: 216
   MP3 size: 3.38MB Download Links Download Mp3 Server 1"
-id: 35123ab0-d784-4888-8f06-0e38f71a0a26
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/d6afed38cd63e9c604301f932986f370.jpeg
@@ -24,7 +23,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/d6afed38cd63e9
 title: Download lagu Glam - Geje Mp3
 type: post
 updated: 2023-08-08T14:45:19+07:00
-uuid: a71938fa-801a-4888-8aad-275337d894be
 wordcount: 3192
 ---
 

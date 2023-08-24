@@ -12,7 +12,6 @@ description: "Here are Tips to Outsmart your Wifi router to get a faster and
   more stable Internet connection:"
 excerpt: "Here are Tips to Outsmart your Wifi router to get a faster and more
   stable Internet connection:"
-id: aed0ed9e-0327-4888-8235-99e046539aef
 lang: en
 photos:
   - https://imgdb.net/images/3862.jpg
@@ -24,7 +23,6 @@ thumbnail: https://imgdb.net/images/3862.jpg
 title: 8 Tips Outsmart the Wifi Router to Speed Up Internet Connection
 type: post
 updated: 2023-08-08T14:45:40+07:00
-uuid: 2fcc6167-4f1c-4888-8b0a-d0adffa30fb9
 wordcount: 1929
 ---
 

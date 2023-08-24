@@ -12,7 +12,6 @@ description: Halo semuanya, hanya ingin memberi Anda pembaruan cepat di Fedora
   dalam proyek chroot Android. Berikut tutorial cara menginstal fedora di
 excerpt: Halo semuanya, hanya ingin memberi Anda pembaruan cepat di Fedora dalam
   proyek chroot Android. Berikut tutorial cara menginstal fedora di
-id: f79371c8-5b84-4888-8013-1923ffb2bd40
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googleusercontent.com/-r2rcHfz-Dto/WSb5DKBPBkI/AAAAAAAAB4I/H0a69gufG-UXKzPcAr2M-O9jhNZ_Nf5uACHM/%255BUNSET%255D
@@ -27,7 +26,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googl
 title: Cara Install Fedora Di Android
 type: post
 updated: 2023-08-08T14:45:40+07:00
-uuid: a44a05d1-85d3-4888-89c4-f8e20104883a
 wordcount: 1124
 ---
 

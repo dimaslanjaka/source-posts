@@ -1,19 +1,49 @@
 ---
-title: Material Peacock Fish Chimeraland
-date: 2022-01-14T17:56:03+07:00
-updated: 2022-10-06T17:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/peacock-fish.html
-photos:
-  - /chimeraland/materials/peacock-fish/peacock-fish.webp
-thumbnail: /chimeraland/materials/peacock-fish/peacock-fish.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-14T17:56:03+07:00
+description: >-
+  Material Peacock Fish Chimeraland materials
+          Peacock Fish
+          October 6, 2022 5:26 PM
+          
+            Freshwater fish with a thin body, flamboyantly colorful and an elegant
+            body shape, In various freshwater areas traces of it may be found.
+          
+          Continue reading Pe
+excerpt: >-
+  Material Peacock Fish Chimeraland materials
+          Peacock Fish
+          October 6, 2022 5:26 PM
+          
+            Freshwater fish with a thin body, flamboyantly colorful and an elegant
+            body shape, In various freshwater areas traces of it may be found.
+          
+          Continue reading Pe
+permalink: /chimeraland/materials/peacock-fish.html
+photos:
+  - /chimeraland/materials/peacock-fish/peacock-fish.webp
+subtitle: >-
+  Material Peacock Fish Chimeraland materials
+          Peacock Fish
+          October 6, 2022 5:26 PM
+          
+            Freshwater fish with a thin body, flamboyantly colorful and an elegant
+            body shape, In various freshwater areas traces of it may be found.
+          
+          Continue reading Pe
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/peacock-fish/peacock-fish.webp
+title: Material Peacock Fish Chimeraland
+type: post
+updated: 2022-10-06T17:26:37+07:00
+wordcount: 830
 ---
 
 <link

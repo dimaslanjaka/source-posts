@@ -12,7 +12,6 @@ excerpt: MathJax Playground When \a \ne 0\, there are two solutions to \ax^2 bx
   c = 0\ and they are \[x = -b \pm \sqrtb^2-4ac \over 2a.\] \[ Text\ Spaces = \]
   \[ Keliling\ Persegi\ Panjang = 2p 2l \ atau\ 2 pl \] Online mathjax
   playground See the Pen MathJax Playground by
-id: 43d9c0c9-7858-4888-8414-ebb8abe5972f
 lang: en
 photos: []
 subtitle: MathJax Playground When \a \ne 0\, there are two solutions to \ax^2 bx

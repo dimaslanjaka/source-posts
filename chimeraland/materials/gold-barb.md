@@ -1,19 +1,46 @@
 ---
-title: Material Gold Barb Chimeraland
-date: 2022-01-16T00:56:03+07:00
-updated: 2022-10-08T00:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/gold-barb.html
-photos:
-  - /chimeraland/materials/gold-barb/gold-barb.webp
-thumbnail: /chimeraland/materials/gold-barb/gold-barb.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-16T00:56:03+07:00
+description: >-
+  Material Gold Barb Chimeraland materials
+          Gold Barb
+          October 8, 2022 12:26 AM
+          
+            A freshwater fish which is spindle-shaped, slightly flat and resembles
+            the common carp, but without the feelers at the mouth. Southmount is
+            where traces of it maybe foun
+excerpt: >-
+  Material Gold Barb Chimeraland materials
+          Gold Barb
+          October 8, 2022 12:26 AM
+          
+            A freshwater fish which is spindle-shaped, slightly flat and resembles
+            the common carp, but without the feelers at the mouth. Southmount is
+            where traces of it maybe foun
+permalink: /chimeraland/materials/gold-barb.html
+photos:
+  - /chimeraland/materials/gold-barb/gold-barb.webp
+subtitle: >-
+  Material Gold Barb Chimeraland materials
+          Gold Barb
+          October 8, 2022 12:26 AM
+          
+            A freshwater fish which is spindle-shaped, slightly flat and resembles
+            the common carp, but without the feelers at the mouth. Southmount is
+            where traces of it maybe foun
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/gold-barb/gold-barb.webp
+title: Material Gold Barb Chimeraland
+type: post
+updated: 2022-10-08T00:26:37+07:00
+wordcount: 898
 ---
 
 <link

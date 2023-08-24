@@ -12,7 +12,6 @@ description: Ada banyak layanan file hosting yang bisa Anda temukan di Internet
   dan beberapa yang terkenal adalah Dropbox, Google Drive, Microsoft
 excerpt: Ada banyak layanan file hosting yang bisa Anda temukan di Internet dan
   beberapa yang terkenal adalah Dropbox, Google Drive, Microsoft
-id: 3c5fe327-3763-4888-8fe9-5ffed026af62
 lang: en
 photos:
   - https://img.raymond.cc/blog/wp-content/uploads/2015/08/dropbox-error-429.png
@@ -24,7 +23,6 @@ thumbnail: https://img.raymond.cc/blog/wp-content/uploads/2015/08/dropbox-error-
 title: 5 File Hosting Website dengan Direct Download Links untuk Pengguna Gratis
 type: post
 updated: 2023-08-08T14:45:54+07:00
-uuid: 7c14a4e7-d73d-4888-87aa-be37cce47be9
 wordcount: 3311
 ---
 

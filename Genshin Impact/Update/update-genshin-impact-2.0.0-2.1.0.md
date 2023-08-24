@@ -10,7 +10,6 @@ cover: /Genshin Impact/Update/update-genshin-impact-1.5.1-1.6.0/cover.jpg
 date: 2021-09-04T00:00:00+07:00
 description: Update Genshin Impact 2.0.0 - 2.1.0 Manual
 excerpt: Update Genshin Impact 2.0.0 - 2.1.0 Manual
-id: def8063b-57c3-4888-8632-a5828699d996
 lang: en
 location: Indonesia
 photos:
@@ -23,7 +22,6 @@ thumbnail: /Genshin Impact/Update/update-genshin-impact-1.5.1-1.6.0/cover.jpg
 title: Update Genshin Impact 2.1.0 Manual
 type: post
 updated: 2023-08-08T14:44:22+07:00
-uuid: def8063b-57c3-4888-8632-a5828699d996
 webtitle: WMI Genshin Impact
 wordcount: 250
 ---

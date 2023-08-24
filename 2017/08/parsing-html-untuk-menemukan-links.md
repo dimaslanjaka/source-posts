@@ -14,7 +14,6 @@ description: search engine optimization SEO orang mencari script yang bisa
 excerpt: search engine optimization SEO orang mencari script yang bisa mengurai
   halaman web dan RSS feed dari situs-situs lain - untuk melihat kemana lalu
   lintasnya berasal dari antara lain
-id: 2c82e992-3ca5-4888-88c0-179ca36d2d58
 lang: id
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -27,7 +26,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Parsing HTML untuk menemukan Links
 type: post
 updated: 2023-08-08T14:45:48+07:00
-uuid: aba0e536-1908-4888-8a75-1bf11361dcf3
 wordcount: 3423
 ---
 

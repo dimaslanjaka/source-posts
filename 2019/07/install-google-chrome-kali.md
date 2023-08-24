@@ -14,7 +14,6 @@ description: open terminal, type64 bitwget
 excerpt: open terminal, type64 bitwget
   https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb32
   bit wget
-id: 4431b055-7658-4888-8d9e-ba86421f8f8f
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.pngarts.com/files/3/Linux-PNG-Image-Background.png
@@ -27,7 +26,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.pngar
 title: Install google chrome kali linux/debian/etc
 type: post
 updated: 2023-08-08T14:45:30+07:00
-uuid: c433be05-1697-4888-840c-8f01d72ecc47
 wordcount: 161
 ---
 

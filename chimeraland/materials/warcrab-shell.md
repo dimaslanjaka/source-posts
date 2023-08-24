@@ -1,19 +1,121 @@
 ---
-title: Material Warcrab Shell Chimeraland
-date: 2022-01-09T22:56:03+07:00
-updated: 2022-10-01T22:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/warcrab-shell.html
-photos:
-  - /chimeraland/materials/warcrab-shell/warcrab-shell.webp
-thumbnail: /chimeraland/materials/warcrab-shell/warcrab-shell.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-09T22:56:03+07:00
+description: "Material Warcrab Shell Chimeraland materials
+
+  \        Warcrab Shell
+
+  \        October 1, 2022 10:26 PM
+
+  \       \ 
+
+  \          Warcrab shell, resembles a fan or plate, can command soldiers.
+
+  \       \ 
+
+  \        Continue reading Warcrab Shell
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \   "
+excerpt: "Material Warcrab Shell Chimeraland materials
+
+  \        Warcrab Shell
+
+  \        October 1, 2022 10:26 PM
+
+  \       \ 
+
+  \          Warcrab shell, resembles a fan or plate, can command soldiers.
+
+  \       \ 
+
+  \        Continue reading Warcrab Shell
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \   "
+permalink: /chimeraland/materials/warcrab-shell.html
+photos:
+  - /chimeraland/materials/warcrab-shell/warcrab-shell.webp
+subtitle: "Material Warcrab Shell Chimeraland materials
+
+  \        Warcrab Shell
+
+  \        October 1, 2022 10:26 PM
+
+  \       \ 
+
+  \          Warcrab shell, resembles a fan or plate, can command soldiers.
+
+  \       \ 
+
+  \        Continue reading Warcrab Shell
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \   "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/warcrab-shell/warcrab-shell.webp
+title: Material Warcrab Shell Chimeraland
+type: post
+updated: 2022-10-01T22:26:37+07:00
+wordcount: 973
 ---
 
 <link

@@ -14,7 +14,6 @@ description: "Git Login Via Command Line git config --global user.name
 excerpt: "Git Login Via Command Line git config --global user.name myusernamegit
   config --global user.email myemailgit config --global github.user
   myusernamegit config --global github.token mytoken "
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://i.ytimg.com/vi/yDntCIs-IJM/hqdefault.jpg
@@ -27,7 +26,6 @@ thumbnail: https://i.ytimg.com/vi/yDntCIs-IJM/hqdefault.jpg
 title: Git Login Via Command Line
 type: post
 updated: 2023-08-08T14:45:11+07:00
-uuid: 06997095-6d39-4888-8c9d-c0d516fcede7
 wordcount: 50
 ---
 

@@ -1,19 +1,46 @@
 ---
-title: Material Great White Shark Chimeraland
-date: 2022-01-17T00:56:03+07:00
-updated: 2022-10-09T00:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/great-white-shark.html
-photos:
-  - /chimeraland/materials/great-white-shark/great-white-shark.webp
-thumbnail: /chimeraland/materials/great-white-shark/great-white-shark.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-17T00:56:03+07:00
+description: |-
+  Material Great White Shark Chimeraland materials
+          Great White Shark
+          October 9, 2022 12:26 AM
+          
+            A marine fish with a spindle-shaped body and stout torso. It head is
+            generally long. There are depressions on the top and bottom of its
+            tail base, which 
+excerpt: |-
+  Material Great White Shark Chimeraland materials
+          Great White Shark
+          October 9, 2022 12:26 AM
+          
+            A marine fish with a spindle-shaped body and stout torso. It head is
+            generally long. There are depressions on the top and bottom of its
+            tail base, which 
+permalink: /chimeraland/materials/great-white-shark.html
+photos:
+  - /chimeraland/materials/great-white-shark/great-white-shark.webp
+subtitle: |-
+  Material Great White Shark Chimeraland materials
+          Great White Shark
+          October 9, 2022 12:26 AM
+          
+            A marine fish with a spindle-shaped body and stout torso. It head is
+            generally long. There are depressions on the top and bottom of its
+            tail base, which 
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/great-white-shark/great-white-shark.webp
+title: Material Great White Shark Chimeraland
+type: post
+updated: 2022-10-09T00:26:37+07:00
+wordcount: 976
 ---
 
 <link

@@ -13,7 +13,6 @@ excerpt: "VSCode Migrate Typescript CommonJS to ESM How to migrate typescript
   commonjs to esm with vscode package.json add following key to package.json
   type: module, main: ./dist/src/main.js, exports: .: ./dist/src/main.js ,
   typesVersions: : main.d.ts: ["
-id: 0d62f3d2-19c9-4888-8674-ddff779112e4
 lang: en
 photos:
   - https://res.cloudinary.com/practicaldev/image/fetch/https://opengraph.githubassets.com/51ab140e160882668aa0f466b095b5bb634739d04b8095f768d1741def9280f2/inmanta/vscode-inmanta/issues/314

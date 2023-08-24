@@ -12,7 +12,6 @@ description: Korean Drama Sky Castle Indonesian Subtitles Sky Castle Synopsis
   Korean Drama Sky Castle Sub Indo tells about a group of
 excerpt: Korean Drama Sky Castle Indonesian Subtitles Sky Castle Synopsis Korean
   Drama Sky Castle Sub Indo tells about a group of
-id: 28e0bcef-2e8c-4888-82b4-e4f28b4436b9
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://drakorstation.com/wp-content/uploads/2018/11/Sky-Castle-Subtitle-Indonesia.jpg
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://drakorsta
 title: Download Drama Korea Sky Castle Subtitle Indonesia Episode 5
 type: post
 updated: 2023-08-08T14:45:35+07:00
-uuid: af9d9658-e822-4888-8277-9100b4789130
 wordcount: 2037
 ---
 

@@ -1,9 +1,77 @@
 ---
-title: Monster yunshu
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-11T18:30:18+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-03-11T19:19:18+07:00
+description: "Monster yunshu yunshu Information from Chimeraland
+
+  \    yunshu default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             \ 
+
+  \   "
+excerpt: "Monster yunshu yunshu Information from Chimeraland
+
+  \    yunshu default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             \ 
+
+  \   "
 permalink: /chimeraland/monsters/yunshu.html
 photos:
   - /chimeraland/monsters/yunshu/Screenshot_2023-02-25-22-05-20-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +82,49 @@ photos:
   - /chimeraland/monsters/yunshu/Screenshot_2023-02-25-22-05-50-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/yunshu/Screenshot_2023-02-25-22-05-55-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/yunshu/Screenshot_2023-02-25-22-06-00-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/yunshu/Screenshot_2023-02-25-22-05-20-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster yunshu yunshu Information from Chimeraland
+
+  \    yunshu default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             \ 
+
+  \   "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/yunshu/Screenshot_2023-02-25-22-05-20-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster yunshu
+type: post
+updated: 2023-03-11T18:30:18+07:00
+webtitle: chimeraland
+wordcount: 1130
 ---
 
 <link

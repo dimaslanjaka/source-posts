@@ -1,21 +1,117 @@
 ---
-title: Monster Fantafly
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T07:44:12+07:00
-date: 2022-01-07T15:56:03+07:00
-permalink: /chimeraland/monsters/fantafly.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fantafly
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2022-01-07T15:56:03+07:00
+description: "Monster Fantafly Fantafly Information from Chimeraland
+
+  \    Fantafly default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                62
+
+  \             \ 
+
+  \      "
+excerpt: "Monster Fantafly Fantafly Information from Chimeraland
+
+  \    Fantafly default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                62
+
+  \             \ 
+
+  \      "
+permalink: /chimeraland/monsters/fantafly.html
+photos:
+  - null
+subtitle: "Monster Fantafly Fantafly Information from Chimeraland
+
+  \    Fantafly default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                62
+
+  \             \ 
+
+  \      "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fantafly
+title: Monster Fantafly
+type: post
+updated: 2023-05-25T07:44:12+07:00
+webtitle: chimeraland
+wordcount: 659
 ---
 
 <link

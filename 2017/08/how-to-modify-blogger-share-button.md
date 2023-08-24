@@ -12,7 +12,6 @@ description: Actually Blogger has been updating its share button quite a bit by
   adding Pinterest button.But just now I am thinking of making it valid
 excerpt: Actually Blogger has been updating its share button quite a bit by
   adding Pinterest button.But just now I am thinking of making it valid
-id: 7f848a2c-496b-4888-8800-2d13712ed258
 lang: en
 photos:
   - https://2.bp.blogspot.com/-a0sq1Wumnlg/UzKddVU-T9I/AAAAAAAAbig/hsq3W86sRMM/w1100/Blogger-Share-Button-Hack.png
@@ -24,7 +23,6 @@ thumbnail: https://2.bp.blogspot.com/-a0sq1Wumnlg/UzKddVU-T9I/AAAAAAAAbig/hsq3W8
 title: How to Modify Blogger Share Button Tweak Valid HTML5 CSS3
 type: post
 updated: 2023-08-08T14:45:49+07:00
-uuid: 5bff3658-fdb3-4888-8564-5013357f8da9
 wordcount: 2410
 ---
 

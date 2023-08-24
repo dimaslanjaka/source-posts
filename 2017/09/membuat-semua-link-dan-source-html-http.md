@@ -12,7 +12,6 @@ description: Yo guys, kali ini akan saya share bagaimana cara mengubah semua
   source link atau iframe yang tidak menggunakan https.br />Mula mula anda
 excerpt: Yo guys, kali ini akan saya share bagaimana cara mengubah semua source
   link atau iframe yang tidak menggunakan https.br />Mula mula anda
-id: 2aacde34-be5e-4888-8484-cf06fddf569e
 lang: en
 photos:
   - https://www.bluecorona.com/wp-content/uploads/2017/02/https-cover-photo.png
@@ -26,7 +25,6 @@ thumbnail: https://www.bluecorona.com/wp-content/uploads/2017/02/https-cover-pho
 title: Membuat semua link dan source html http menjadi https
 type: post
 updated: 2023-08-08T14:45:46+07:00
-uuid: 4b6e1b22-9d3d-4888-818d-3b3c867fd46c
 wordcount: 879
 ---
 

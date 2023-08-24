@@ -1,21 +1,117 @@
 ---
-title: Monster Killer Whale
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T12:19:12+07:00
-date: 2023-05-25T02:21:12+07:00
-permalink: /chimeraland/monsters/killer-whale.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Killer Whale
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T02:21:12+07:00
+description: "Monster Killer Whale Killer Whale Information from Chimeraland
+
+  \    Killer Whale default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+excerpt: "Monster Killer Whale Killer Whale Information from Chimeraland
+
+  \    Killer Whale default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+permalink: /chimeraland/monsters/killer-whale.html
+photos:
+  - null
+subtitle: "Monster Killer Whale Killer Whale Information from Chimeraland
+
+  \    Killer Whale default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Killer Whale
+title: Monster Killer Whale
+type: post
+updated: 2023-05-25T12:19:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

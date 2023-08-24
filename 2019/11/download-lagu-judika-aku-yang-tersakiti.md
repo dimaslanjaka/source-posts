@@ -12,7 +12,6 @@ description: "Download lagu Judika Aku Yang Tersakiti Mp3 Judika - I Was Hurt
   Listen: 79,458,853 Duration: 252 MP3 size: 3.94MB Download Links"
 excerpt: "Download lagu Judika Aku Yang Tersakiti Mp3 Judika - I Was Hurt
   Listen: 79,458,853 Duration: 252 MP3 size: 3.94MB Download Links"
-id: d8373750-a27e-4888-8dea-f575ab4ce065
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/16664e09c4affbe50122b8e859f1ce82.jpeg
@@ -24,7 +23,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/16664e09c4affb
 title: Download lagu Judika - Aku Yang Tersakiti Mp3
 type: post
 updated: 2023-08-08T14:45:27+07:00
-uuid: 0fcd34b2-1e53-4888-8f0d-a1c26d84ecc2
 wordcount: 1955
 ---
 

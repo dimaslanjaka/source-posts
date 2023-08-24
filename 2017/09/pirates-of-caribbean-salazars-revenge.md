@@ -12,7 +12,6 @@ description: Short History Johnny Depp kembali sebagai Kapten Jack Sparrow dalam
   angsuran kelima kelima Dari seri swashbuckling Disney. Plotnya
 excerpt: Short History Johnny Depp kembali sebagai Kapten Jack Sparrow dalam
   angsuran kelima kelima Dari seri swashbuckling Disney. Plotnya
-id: 57866899-c50a-4888-869c-43175ec45a0d
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: "Pirates of the Caribbean: Salazars Revenge 2017"
 type: post
 updated: 2023-08-08T14:45:46+07:00
-uuid: 14fc62a9-b12a-4888-8cc4-9390970b01d2
 wordcount: 2233
 ---
 

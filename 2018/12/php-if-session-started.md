@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://img.icons8.co
 date: 2018-12-25T00:58:00.000+07:00
 description: PHP = 5.4.0 , PHP 7
 excerpt: PHP = 5.4.0 , PHP 7
-id: 8038e14e-cece-4888-879a-3ee37418006c
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://img.icons8.com/metro/1600/php.png
@@ -21,7 +20,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://img.icons
 title: PHP check session has started
 type: post
 updated: 2023-08-08T14:45:35+07:00
-uuid: 8b9c3c94-5fe5-4888-87f6-ace74d654923
 wordcount: 116
 ---
 

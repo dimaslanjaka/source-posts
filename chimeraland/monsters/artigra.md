@@ -1,9 +1,19 @@
 ---
-title: Monster artigra
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T14:52:05+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-03-28T08:59:08+07:00
+description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
+  A+ ATK 85 HP 81 DEF 74,GRADE S ATK 95 HP 91 DEF 84  delicacies/tasty Artigra
+  Feast,Scorpion King Broth,Tasty Crispy Spider,Flame Roasted Horn,Stir-Fried
+  Browtelope games,chimeraland,monsters chimeraland,monster,pet
+excerpt: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE A+
+  ATK 85 HP 81 DEF 74,GRADE S ATK 95 HP 91 DEF 84  delicacies/tasty Artigra
+  Feast,Scorpion King Broth,Tasty Crispy Spider,Flame Roasted Horn,Stir-Fried
+  Browtelope games,chimeraland,monsters chimeraland,monster,pet
 permalink: /chimeraland/monsters/artigra.html
 photos:
   - /chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -31,19 +41,20 @@ photos:
   - /chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-43-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-47-23_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/artigra/Screenshot_2023-03-14-17-19-51-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE A+
+  ATK 85 HP 81 DEF 74,GRADE S ATK 95 HP 91 DEF 84  delicacies/tasty Artigra
+  Feast,Scorpion King Broth,Tasty Crispy Spider,Flame Roasted Horn,Stir-Fried
+  Browtelope games,chimeraland,monsters chimeraland,monster,pet
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
-description: monster artigra default quality GRADE A ATK 75 HP 71 DEF 64,GRADE
-  A+ ATK 85 HP 81 DEF 74,GRADE S ATK 95 HP 91 DEF 84  delicacies/tasty Artigra
-  Feast,Scorpion King Broth,Tasty Crispy Spider,Flame Roasted Horn,Stir-Fried
-  Browtelope games,chimeraland,monsters chimeraland,monster,pet
+thumbnail: /chimeraland/monsters/artigra/Screenshot_2023-03-14-17-16-36-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster artigra
+type: post
+updated: 2023-05-25T14:52:05+07:00
+webtitle: chimeraland
+wordcount: 3617
 ---
 
 <link

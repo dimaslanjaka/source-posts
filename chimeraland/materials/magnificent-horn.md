@@ -1,19 +1,121 @@
 ---
-title: Material Magnificent Horn Chimeraland
-date: 2022-01-11T01:56:03+07:00
-updated: 2022-10-03T01:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/magnificent-horn.html
-photos:
-  - /chimeraland/materials/magnificent-horn/magnificent-horn.webp
-thumbnail: /chimeraland/materials/magnificent-horn/magnificent-horn.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-11T01:56:03+07:00
+description: "Material Magnificent Horn Chimeraland materials
+
+  \        Magnificent Horn
+
+  \        October 3, 2022 1:26 AM
+
+  \        Continue reading Magnificent Horn
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Magnificent Horn
+
+  \           \ 
+
+  \             \ 
+
+  \      "
+excerpt: "Material Magnificent Horn Chimeraland materials
+
+  \        Magnificent Horn
+
+  \        October 3, 2022 1:26 AM
+
+  \        Continue reading Magnificent Horn
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Magnificent Horn
+
+  \           \ 
+
+  \             \ 
+
+  \      "
+permalink: /chimeraland/materials/magnificent-horn.html
+photos:
+  - /chimeraland/materials/magnificent-horn/magnificent-horn.webp
+subtitle: "Material Magnificent Horn Chimeraland materials
+
+  \        Magnificent Horn
+
+  \        October 3, 2022 1:26 AM
+
+  \        Continue reading Magnificent Horn
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Magnificent Horn
+
+  \           \ 
+
+  \             \ 
+
+  \      "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/magnificent-horn/magnificent-horn.webp
+title: Material Magnificent Horn Chimeraland
+type: post
+updated: 2022-10-03T01:26:37+07:00
+wordcount: 1478
 ---
 
 <link

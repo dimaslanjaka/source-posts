@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp
 date: 2018-07-11T22:58:00.000+07:00
 description: buff str you can get from various types ofdino meat that you hunt.
 excerpt: buff str you can get from various types ofdino meat that you hunt.
-id: 0042b333-0251-4888-8741-554d06447b6e
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.co
 title: Type of Food Buff Durango wild lands
 type: post
 updated: 2023-08-08T14:45:40+07:00
-uuid: e2cf3850-10d7-4888-8fbb-e13fa2904d95
 wordcount: 3194
 ---
 

@@ -1,19 +1,115 @@
 ---
-title: Material Uncommon Wood Genio Chimeraland
-date: 2022-01-12T14:56:03+07:00
-updated: 2022-10-04T14:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/uncommon-wood-genio.html
-photos:
-  - /chimeraland/materials/uncommon-wood-genio/uncommon-wood-genio.webp
-thumbnail: /chimeraland/materials/uncommon-wood-genio/uncommon-wood-genio.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-12T14:56:03+07:00
+description: "Material Uncommon Wood Genio Chimeraland materials
+
+  \        Uncommon Wood Genio
+
+  \        October 4, 2022 2:26 PM
+
+  \        Continue reading Uncommon Wood Genio
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Uncommon Wood Genio
+
+  \       "
+excerpt: "Material Uncommon Wood Genio Chimeraland materials
+
+  \        Uncommon Wood Genio
+
+  \        October 4, 2022 2:26 PM
+
+  \        Continue reading Uncommon Wood Genio
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Uncommon Wood Genio
+
+  \       "
+permalink: /chimeraland/materials/uncommon-wood-genio.html
+photos:
+  - /chimeraland/materials/uncommon-wood-genio/uncommon-wood-genio.webp
+subtitle: "Material Uncommon Wood Genio Chimeraland materials
+
+  \        Uncommon Wood Genio
+
+  \        October 4, 2022 2:26 PM
+
+  \        Continue reading Uncommon Wood Genio
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \              What is the use of the Uncommon Wood Genio
+
+  \       "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/uncommon-wood-genio/uncommon-wood-genio.webp
+title: Material Uncommon Wood Genio Chimeraland
+type: post
+updated: 2022-10-04T14:26:37+07:00
+wordcount: 654
 ---
 
 <link

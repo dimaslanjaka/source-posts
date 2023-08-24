@@ -11,7 +11,6 @@ description: js validate and assign online inside if, js assign variable inside
   if bracket, How to declare a variable inside brackets
 excerpt: js validate and assign online inside if, js assign variable inside if
   bracket, How to declare a variable inside brackets
-id: c52a212f-977d-4888-817a-6d87e4bb5522
 lang: en
 photos:
   - https://miro.medium.com/max/912/1*Gdlo9wVkOuzsA8iUqXoLEg.png

@@ -1,23 +1,101 @@
 ---
-title: Recipe Refreshing Soup Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T04:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-10T23:56:03+07:00
+description: "Recipe Refreshing Soup Chimeraland Refreshing Soup Cooking Recipe
+
+  \             \ 
+
+  \              Buff Refreshing Soup
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  -40 Toxin Reduction
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \    "
+excerpt: "Recipe Refreshing Soup Chimeraland Refreshing Soup Cooking Recipe
+
+  \             \ 
+
+  \              Buff Refreshing Soup
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  -40 Toxin Reduction
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \    "
+lang: en
 permalink: /chimeraland/recipes/refreshing-soup.html
 photos:
   - /chimeraland/recipes/refreshing-soup/refreshing-soup.webp
   - /chimeraland/recipes/refreshing-soup/refreshing-soup-name.webp
   - /chimeraland/recipes/refreshing-soup/refreshing-soup-icon.webp
   - /chimeraland/recipes/refreshing-soup/refreshing-soup-material.webp
-thumbnail: /chimeraland/recipes/refreshing-soup/refreshing-soup.webp
+subtitle: "Recipe Refreshing Soup Chimeraland Refreshing Soup Cooking Recipe
+
+  \             \ 
+
+  \              Buff Refreshing Soup
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  -40 Toxin Reduction
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \    "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/refreshing-soup/refreshing-soup.webp
+title: Recipe Refreshing Soup Chimeraland
+type: post
+updated: 2022-10-06T04:46:55+07:00
+wordcount: 695
 ---
 
 <link

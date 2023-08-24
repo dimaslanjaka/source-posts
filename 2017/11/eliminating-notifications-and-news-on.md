@@ -16,7 +16,6 @@ excerpt: Eliminating Notifications and News on UCBROWSER Open UC Browser
   Settings Open UC Browser Settings Change Tab View to Lists Change Tab View to
   Lists Preload Page On All Pages Preload Page On All Pages Turn Off All
   Notification Turn Off All Notification COMPLETE
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://4.bp.blogspot.com/-_kPiHEMi_LM/WhKCYvQz_uI/AAAAAAAALBY/XQhQggOobwQe8koB_YqLft3FeLj9jp8xgCEwYBhgL/s320/Screenshot_2017-11-20-15-17-10-330_com.UCMobile.intl.png
@@ -30,7 +29,6 @@ thumbnail: https://4.bp.blogspot.com/-_kPiHEMi_LM/WhKCYvQz_uI/AAAAAAAALBY/XQhQgg
 title: Eliminating Notifications and News on UCBROWSER
 type: post
 updated: 2023-08-08T14:45:43+07:00
-uuid: 053e4385-eec6-4888-8b6e-09c96843d0f1
 wordcount: 222
 ---
 

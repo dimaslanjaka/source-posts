@@ -1,9 +1,73 @@
 ---
-title: Monster Inkdrop
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T14:15:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-08T18:56:03+07:00
+description: "Monster Inkdrop Inkdrop Information from Chimeraland
+
+  \    Inkdrop default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                62
+
+  \             \ 
+
+  \         "
+excerpt: "Monster Inkdrop Inkdrop Information from Chimeraland
+
+  \    Inkdrop default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                62
+
+  \             \ 
+
+  \         "
 permalink: /chimeraland/monsters/inkdrop.html
 photos:
   - null
@@ -15,15 +79,47 @@ photos:
   - /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 192107.webp
   - /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 192128.webp
   - /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 192145.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Inkdrop
+subtitle: "Monster Inkdrop Inkdrop Information from Chimeraland
+
+  \    Inkdrop default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                62
+
+  \             \ 
+
+  \         "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Inkdrop
+title: Monster Inkdrop
+type: post
+updated: 2023-05-25T14:15:12+07:00
+webtitle: chimeraland
+wordcount: 1371
 ---
 
 <link

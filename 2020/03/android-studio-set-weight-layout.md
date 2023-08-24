@@ -14,7 +14,6 @@ description: pre><br />LinearLayout.LayoutParams param = new
 excerpt: pre><br />LinearLayout.LayoutParams param = new
   LinearLayout.LayoutParams<br /> LayoutParams.MATCH_PARENT, //OR WRAP_CONTENT
   ->
-id: a9f473ff-7569-4888-8ad3-5efbaf0e8dc1
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
@@ -27,7 +26,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunc
 title: Android Studio Set Weight Layout Programatically
 type: post
 updated: 2023-08-08T14:45:13+07:00
-uuid: 377f0593-3583-4888-8eac-4270cb7d5d5f
 wordcount: 57
 ---
 

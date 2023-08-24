@@ -10,7 +10,6 @@ cover: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppA7rQroLKWdCMKXWT
 date: 2017-11-10T04:42:00.002+07:00
 description: img width=350 height=300 alt=CSS3 3D Transformation layout=responsive
 excerpt: img width=350 height=300 alt=CSS3 3D Transformation layout=responsive
-id: 27a7c289-beb1-4888-886f-e422a365798c
 lang: en
 photos:
   - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppA7rQroLKWdCMKXWTRh4ybyogf1cT_XQFnD95O0VCwVjKu_O
@@ -22,7 +21,6 @@ thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppA7rQroLKWdCM
 title: Pure CSS3 3D Icons Using Font Awesome 4.7.0
 type: post
 updated: 2023-08-08T14:45:43+07:00
-uuid: ff3683ca-e40b-4888-8440-1a39a3266eaa
 wordcount: 1969
 ---
 

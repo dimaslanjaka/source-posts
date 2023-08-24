@@ -12,7 +12,6 @@ description: Synopsis of Variety Show Knowing Brother Indonesian Subtitles
   Knowing Brother is a South Korean television entertainment program
 excerpt: Synopsis of Variety Show Knowing Brother Indonesian Subtitles Knowing
   Brother is a South Korean television entertainment program
-id: cf0fc213-9a4a-4888-8b42-36da134e92c1
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://t7j2r8j8.stackpathcdn.com/wp-content/uploads/2017/07/Knowing-Brother-Subtitle-Indonesia.jpg
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://t7j2r8j8.
 title: Knowing Brother Episode 160 Subtitle Indonesia
 type: post
 updated: 2023-08-08T14:45:33+07:00
-uuid: 803696b6-e713-4888-8e33-04db078e6c06
 wordcount: 11617
 ---
 

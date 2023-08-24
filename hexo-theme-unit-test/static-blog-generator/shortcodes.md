@@ -14,7 +14,6 @@ excerpt: Parse Shortcodes Shortcode CSS From Local Directory <-- css
   /src-posts/Tests/shortcodes/include.css --> Shortcode JS <-- script
   shortcodes/include.js --> <-- script /src-posts/Tests/shortcodes/include.js
   --> Shortcode Include <-- includ
-id: 19cd8465-198b-4888-87fd-81972ebaceb1
 lang: en
 noindex: true
 photos: []

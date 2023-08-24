@@ -1,19 +1,46 @@
 ---
-title: Material Orchid Chimeraland
-date: 2022-01-17T14:56:03+07:00
-updated: 2022-10-09T14:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/orchid.html
-photos:
-  - /chimeraland/materials/orchid/orchid.webp
-thumbnail: /chimeraland/materials/orchid/orchid.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-17T14:56:03+07:00
+description: |-
+  Material Orchid Chimeraland materials
+          Orchid
+          October 9, 2022 2:26 PM
+          
+            An common herb found anywhere. It's leaves are like an orchid,
+            it's stem like a bellflower. It flourishes in brilliant light.
+            Apply it to dispelhunger. it has a lavender glow a
+excerpt: |-
+  Material Orchid Chimeraland materials
+          Orchid
+          October 9, 2022 2:26 PM
+          
+            An common herb found anywhere. It's leaves are like an orchid,
+            it's stem like a bellflower. It flourishes in brilliant light.
+            Apply it to dispelhunger. it has a lavender glow a
+permalink: /chimeraland/materials/orchid.html
+photos:
+  - /chimeraland/materials/orchid/orchid.webp
+subtitle: |-
+  Material Orchid Chimeraland materials
+          Orchid
+          October 9, 2022 2:26 PM
+          
+            An common herb found anywhere. It's leaves are like an orchid,
+            it's stem like a bellflower. It flourishes in brilliant light.
+            Apply it to dispelhunger. it has a lavender glow a
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/orchid/orchid.webp
+title: Material Orchid Chimeraland
+type: post
+updated: 2022-10-09T14:26:37+07:00
+wordcount: 2466
 ---
 
 <link

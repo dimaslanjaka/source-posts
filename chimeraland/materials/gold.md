@@ -1,19 +1,121 @@
 ---
-title: Material Gold Chimeraland
-date: 2022-01-07T12:56:03+07:00
-updated: 2022-09-29T12:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/gold.html
-photos:
-  - /chimeraland/materials/gold/gold.webp
-thumbnail: /chimeraland/materials/gold/gold.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-07T12:56:03+07:00
+description: "Material Gold Chimeraland materials
+
+  \        Gold
+
+  \        September 29, 2022 12:26 PM
+
+  \       \ 
+
+  \          Nearly pure gold and more pure than red or lux gold. It's stable,
+
+  \          soft, and malleable.
+
+  \       \ 
+
+  \        Continue reading Gold
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \    "
+excerpt: "Material Gold Chimeraland materials
+
+  \        Gold
+
+  \        September 29, 2022 12:26 PM
+
+  \       \ 
+
+  \          Nearly pure gold and more pure than red or lux gold. It's stable,
+
+  \          soft, and malleable.
+
+  \       \ 
+
+  \        Continue reading Gold
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \    "
+permalink: /chimeraland/materials/gold.html
+photos:
+  - /chimeraland/materials/gold/gold.webp
+subtitle: "Material Gold Chimeraland materials
+
+  \        Gold
+
+  \        September 29, 2022 12:26 PM
+
+  \       \ 
+
+  \          Nearly pure gold and more pure than red or lux gold. It's stable,
+
+  \          soft, and malleable.
+
+  \       \ 
+
+  \        Continue reading Gold
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \    "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/gold/gold.webp
+title: Material Gold Chimeraland
+type: post
+updated: 2022-09-29T12:26:37+07:00
+wordcount: 1013
 ---
 
 <link

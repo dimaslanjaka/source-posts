@@ -12,7 +12,6 @@ description: In this tutorial, the author will provide a tutorial on the basic
   use of the php framework is CodeIgniter.The author uses CodeIgniter v
 excerpt: In this tutorial, the author will provide a tutorial on the basic use
   of the php framework is CodeIgniter.The author uses CodeIgniter v
-id: df93f9bd-b2fc-4888-8986-ceea1cbec158
 lang: en
 photos:
   - http://www.tutorial-webdesign.com/wp-content/uploads/2014/01/codeigniter.png
@@ -26,7 +25,6 @@ thumbnail: http://www.tutorial-webdesign.com/wp-content/uploads/2014/01/codeigni
 title: Basic CodeIgniter Usage Tutorial
 type: post
 updated: 2023-08-08T14:45:36+07:00
-uuid: 3aff139b-dc8d-4888-8374-3d89452f91a2
 wordcount: 3715
 ---
 

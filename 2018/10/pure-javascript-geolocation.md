@@ -14,7 +14,6 @@ description: img
 excerpt: img
   src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4291.jpg
   class=w3-image title=JS Geolocation
-id: 93725a40-e3f3-4888-8550-0ddeed62740f
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4291.jpg
@@ -28,7 +27,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net
 title: Pure Javascript Geolocation
 type: post
 updated: 2023-08-08T14:45:39+07:00
-uuid: fe4e8922-3832-4888-850d-cddf9ac71fb1
 wordcount: 236
 ---
 

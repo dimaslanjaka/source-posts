@@ -8,7 +8,6 @@ description: External Links Markdown links Internal Link webmanajemen.com
   External Link github.com HTML links External Link Without Alt Title
 excerpt: External Links Markdown links Internal Link webmanajemen.com External
   Link github.com HTML links External Link Without Alt Title
-id: 3a5d0079-f962-4888-87ae-c638f2d227f1
 lang: en
 photos: []
 subtitle: External Links Markdown links Internal Link webmanajemen.com External

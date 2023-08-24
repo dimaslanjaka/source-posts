@@ -1,19 +1,94 @@
 ---
-title: Material Snow Goose Claw Chimeraland
-date: 2022-01-09T20:56:03+07:00
-updated: 2022-10-01T20:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/snow-goose-claw.html
-photos:
-  - /chimeraland/materials/snow-goose-claw/snow-goose-claw.webp
-thumbnail: /chimeraland/materials/snow-goose-claw/snow-goose-claw.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-09T20:56:03+07:00
+description: "Material Snow Goose Claw Chimeraland materials
+
+  \        Snow Goose Claw
+
+  \        October 1, 2022 8:26 PM
+
+  \       \ 
+
+  \          Condor Claw, no trace in the snow, can overcome the strong stone,
+  wear
+
+  \          to be unblockable.
+
+  \       \ 
+
+  \        Continue reading Snow Goose Claw
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     "
+excerpt: "Material Snow Goose Claw Chimeraland materials
+
+  \        Snow Goose Claw
+
+  \        October 1, 2022 8:26 PM
+
+  \       \ 
+
+  \          Condor Claw, no trace in the snow, can overcome the strong stone,
+  wear
+
+  \          to be unblockable.
+
+  \       \ 
+
+  \        Continue reading Snow Goose Claw
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     "
+permalink: /chimeraland/materials/snow-goose-claw.html
+photos:
+  - /chimeraland/materials/snow-goose-claw/snow-goose-claw.webp
+subtitle: "Material Snow Goose Claw Chimeraland materials
+
+  \        Snow Goose Claw
+
+  \        October 1, 2022 8:26 PM
+
+  \       \ 
+
+  \          Condor Claw, no trace in the snow, can overcome the strong stone,
+  wear
+
+  \          to be unblockable.
+
+  \       \ 
+
+  \        Continue reading Snow Goose Claw
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/snow-goose-claw/snow-goose-claw.webp
+title: Material Snow Goose Claw Chimeraland
+type: post
+updated: 2022-10-01T20:26:37+07:00
+wordcount: 1202
 ---
 
 <link

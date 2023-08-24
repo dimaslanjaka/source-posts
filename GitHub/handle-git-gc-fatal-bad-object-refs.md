@@ -8,7 +8,6 @@ cover: https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab
 date: 2022-06-07
 description: Git GC fatal bad object refs/remotes/origin/HEAD error simple fix
 excerpt: Git GC fatal bad object refs/remotes/origin/HEAD error simple fix
-id: 53be295e-d42c-4888-869f-3dc36ffd789c
 lang: en
 photos:
   - https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab90ae870152b_github

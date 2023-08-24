@@ -1,23 +1,104 @@
 ---
-title: Recipe Garlic Meat Skewers Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T06:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-09T04:56:03+07:00
+description: "Recipe Garlic Meat Skewers Chimeraland Garlic Meat Skewers Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Garlic Meat Skewers
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  50 DEF
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \     "
+excerpt: "Recipe Garlic Meat Skewers Chimeraland Garlic Meat Skewers Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Garlic Meat Skewers
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  50 DEF
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \     "
+lang: en
 permalink: /chimeraland/recipes/garlic-meat-skewers.html
 photos:
   - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers.webp
   - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-name.webp
   - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-icon.webp
   - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-material.webp
-thumbnail: /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers.webp
+subtitle: "Recipe Garlic Meat Skewers Chimeraland Garlic Meat Skewers Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Garlic Meat Skewers
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  50 DEF
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \     "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers.webp
+title: Recipe Garlic Meat Skewers Chimeraland
+type: post
+updated: 2022-10-06T06:46:54+07:00
+wordcount: 645
 ---
 
 <link

@@ -1,23 +1,101 @@
 ---
-title: Recipe Goodfruit Sauce Chimeraland
 author: L3n4r0x
-updated: 2022-09-28T21:26:37+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-09T14:56:03+07:00
+description: "Recipe Goodfruit Sauce Chimeraland Goodfruit Sauce Cooking Recipe
+
+  \             \ 
+
+  \              Buff Goodfruit Sauce
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Cold Resistance +5
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \     "
+excerpt: "Recipe Goodfruit Sauce Chimeraland Goodfruit Sauce Cooking Recipe
+
+  \             \ 
+
+  \              Buff Goodfruit Sauce
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Cold Resistance +5
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \     "
+lang: en
 permalink: /chimeraland/recipes/goodfruit-sauce.html
 photos:
   - /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce.webp
   - /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce-name.webp
   - /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce-icon.webp
   - /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce-material.webp
-thumbnail: /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce.webp
+subtitle: "Recipe Goodfruit Sauce Chimeraland Goodfruit Sauce Cooking Recipe
+
+  \             \ 
+
+  \              Buff Goodfruit Sauce
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Cold Resistance +5
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \     "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/goodfruit-sauce/goodfruit-sauce.webp
+title: Recipe Goodfruit Sauce Chimeraland
+type: post
+updated: 2022-09-28T21:26:37+07:00
+wordcount: 646
 ---
 
 <link

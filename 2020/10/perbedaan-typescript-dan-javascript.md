@@ -12,7 +12,6 @@ description: Typescript lebih strict lebih detail dan harus mematuhi peraturan
   seperti typedata variable, class, interface, dll, hampir sama seperti
 excerpt: Typescript lebih strict lebih detail dan harus mematuhi peraturan
   seperti typedata variable, class, interface, dll, hampir sama seperti
-id: 06898457-6522-4888-8aa5-1cc0d3a346de
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://miro.medium.com/max/940/1*MfrpVoJuWJz8vyXVJDHUvA.png
@@ -26,7 +25,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://miro.medi
 title: Perbedaan typescript dan javascript secara rinci
 type: post
 updated: 2023-08-08T14:45:11+07:00
-uuid: 357dabaa-3b5a-4888-8631-67cb73c97af5
 wordcount: 745
 ---
 

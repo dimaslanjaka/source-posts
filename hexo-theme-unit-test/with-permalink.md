@@ -8,7 +8,6 @@ description: post with custom permalink this post metadata permalink should not
   modified permalink
 excerpt: post with custom permalink this post metadata permalink should not
   modified permalink
-id: 32b69a04-3b47-4888-842c-d4988e229885
 lang: en
 permalink: /2023/01/with-permalink.html
 photos: []

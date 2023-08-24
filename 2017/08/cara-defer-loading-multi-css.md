@@ -16,7 +16,6 @@ excerpt: "Cara defer loading multi css Definisi dan Penggunaan Catatan: Jika
   async hadir: Script dijalankan secara asynchronous dengan sisa halaman script
   akan dieksekusi saat halaman melanjutkan penguraian Jika async tidak hadir dan
   menunda hadir: Script dijalankan saat halaman selesai diurai Jika tida"
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googleusercontent.com/proxy/osOBUo2W1kAeTZxgpk8ucxEhICG8CgcH-6-x1tgh_Lxix6DZhYKY3HTQlsK63ZE9LLsWprBq83sOK4iqA9g1N_QAe53OJE0CALp9aT3CA6MYQfh_w8fpZyb_J1k6mOcngON_epxQsKM_lRE=w384-h384-nc
@@ -35,7 +34,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googl
 title: Cara defer loading multi css
 type: post
 updated: 2023-08-08T14:45:49+07:00
-uuid: d64c1c5b-fa3f-4888-8393-6b54d3783cd5
 wordcount: 470
 ---
 

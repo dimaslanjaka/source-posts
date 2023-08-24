@@ -18,7 +18,6 @@ excerpt: "Cara menambah social media box di blogger AMP Cara menambah tombol G,
   bagaimana cara menambah tombol suka social media di AMP Blogger.Berikut
   kodenya: <amp-iframe width=300 height=122 sandbox=allow-scripts
   allow-same-origin"
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://scontent.fsub2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/17796846_1773189839677671_6977008867135609966_n.png.jpg?efg=eyJpIjoidCJ9&oh=292c21d1c58e8e185a8d6c63dec60c5a&oe=5957C4B8
@@ -35,7 +34,6 @@ thumbnail: https://scontent.fsub2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/177968
 title: Cara menambah social media box di blogger AMP
 type: post
 updated: 2023-08-08T14:46:01+07:00
-uuid: c47ff08d-7907-4888-8914-b04d6b6c04d5
 wordcount: 321
 ---
 

@@ -12,7 +12,6 @@ description: Actually there are several free telephone facilities on the
   internet using VoIP, and Skype is one of them. To make calls for free users
 excerpt: Actually there are several free telephone facilities on the internet
   using VoIP, and Skype is one of them. To make calls for free users
-id: d6c848de-3c14-4888-8f6a-65ceafad1b19
 lang: en
 photos:
   - https://3.bp.blogspot.com/-hxvTzkWtBOs/TuW8orRN2kI/AAAAAAAAAcQ/GlQU_popqJM/s1600/skype.JPG
@@ -24,7 +23,6 @@ thumbnail: https://3.bp.blogspot.com/-hxvTzkWtBOs/TuW8orRN2kI/AAAAAAAAAcQ/GlQU_p
 title: free calls over the internet
 type: post
 updated: 2023-08-08T14:45:47+07:00
-uuid: f78cd312-fc72-4888-8c77-41f4ac8530d3
 wordcount: 748
 ---
 

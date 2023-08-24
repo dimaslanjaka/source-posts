@@ -12,7 +12,6 @@ description: Ultimate Guide On Facebook Ads For Entrepreneurs Iklan Facebook
   untuk wirausahawan mungkin menjadi solusi untuk masalah pemasaran bisnis
 excerpt: Ultimate Guide On Facebook Ads For Entrepreneurs Iklan Facebook untuk
   wirausahawan mungkin menjadi solusi untuk masalah pemasaran bisnis
-id: 8c35a33d-97b3-4888-8c08-bad4fc9515e7
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/a8da9fcee0cd12d606fe9ecaaedc0828.png
@@ -25,7 +24,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/a8da9fce
 title: Panduan Utama Pada Iklan Facebook Untuk Pengusaha
 type: post
 updated: 2023-08-08T14:45:15+07:00
-uuid: dbada89d-bc59-4888-80aa-0c9beccd38a6
 wordcount: 21195
 ---
 

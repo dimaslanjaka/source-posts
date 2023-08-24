@@ -1,9 +1,71 @@
 ---
-title: Monster giant crowned quentzal
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-25T03:55:43+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-02-25T03:44:43+07:00
+description: "Monster giant crowned quentzal giant crowned quentzal Information
+  from Chimeraland
+
+  \   \ 
+
+  \      giant crowned quentzal default maximum attribute
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                "
+excerpt: "Monster giant crowned quentzal giant crowned quentzal Information from
+  Chimeraland
+
+  \   \ 
+
+  \      giant crowned quentzal default maximum attribute
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                "
 permalink: /chimeraland/monsters/giant-crowned-quentzal.html
 photos:
   - /chimeraland/monsters/giant-crowned-quentzal/Screenshot_2023-02-23-18-35-29-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -21,15 +83,46 @@ photos:
   - /chimeraland/monsters/giant-crowned-quentzal/Screenshot_2023-02-23-18-36-56-19_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-crowned-quentzal/Screenshot_2023-02-23-18-37-00-36_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-crowned-quentzal/Screenshot_2023-02-23-18-37-08-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-crowned-quentzal/Screenshot_2023-02-23-18-35-29-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant crowned quentzal giant crowned quentzal Information
+  from Chimeraland
+
+  \   \ 
+
+  \      giant crowned quentzal default maximum attribute
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-crowned-quentzal/Screenshot_2023-02-23-18-35-29-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant crowned quentzal
+type: post
+updated: 2023-02-25T03:55:43+07:00
+webtitle: chimeraland
+wordcount: 1991
 ---
 
 <link

@@ -10,7 +10,6 @@ cover: https://imgdb.net/images/3192.jpg
 date: 2017-09-13T14:55:00.000+07:00
 description: How to Create a Sticky Widget in Blog Sidebar
 excerpt: How to Create a Sticky Widget in Blog Sidebar
-id: be9b402e-12e6-4888-8c16-b87a8d9b38d8
 lang: en
 photos:
   - https://imgdb.net/images/3192.jpg
@@ -23,7 +22,6 @@ thumbnail: https://imgdb.net/images/3192.jpg
 title: How to create sticky widget on sidebar blogger
 type: post
 updated: 2023-08-08T14:45:47+07:00
-uuid: bb943112-1738-4888-8824-d420c024992b
 wordcount: 983
 ---
 

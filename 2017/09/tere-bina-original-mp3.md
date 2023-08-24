@@ -12,7 +12,6 @@ description: Zinda rahe ke kya karu Tere bina.. Dhunde hai jawab wo Jo dil na de
   saka Jo bhi sapne dekhe thee aur likhe thee JIn
 excerpt: Zinda rahe ke kya karu Tere bina.. Dhunde hai jawab wo Jo dil na de
   saka Jo bhi sapne dekhe thee aur likhe thee JIn
-id: 4cee13d3-7c84-4888-86db-319ed50e873c
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -23,7 +22,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Tere Bina Original mp3
 type: post
 updated: 2023-08-08T14:45:45+07:00
-uuid: 2960d19e-ac10-4888-8e64-a5c6b9323953
 wordcount: 515
 ---
 

@@ -18,7 +18,6 @@ excerpt: How to Make Colored Recent Post Widget Blogger This widget supports
   Post Widget Color <link
   href=https://fonts.googleapis.com/icon?family=MaterialIcons rel=stylesheet
   type=text/css/> .gravityfeatureddisplay:flex;
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - data:image/webp;base64,UklGRr4CAABXRUJQVlA4ILICAABwHwCdASpsAbsAPu12uFQprT+kJBHYw/AdiWVu4XKRCBlf6XYA/PUTXZ/89i/1W8KdQB5/N8pCTBT2zAJJkgp7ZgEkyQU9swCSZIKe2YBJMkFPbMAkmSCntWm+23fbbvtkmGQhE/b+XIcygXdDtDFLVliPFLbllcZLNcz/RrZeclxmBShzXzWo2gFwVuL0oQpIASFC08qI3Hu6iKeNdvF9/6CcJB5ecetaE96ppf1JgN8aA5TkcWYNfBwOk/thIuLblKKy/D6LQU45AeUUGe5CeuSSYYsqAM1SZIKe2YBJMkFPbMAkmSCntmASTJBT2zAJJkgp7ZgEkyQU9swCSZIKe2XgAAD+/cUzgH0AAACC5zAwYpAmrQuknl/VFZgkQUMYcnqroF2uZBf5/L2eXHxhFXw4ClGJ9nTLPtfbnedyy1O2BCO5bl17mEwoIullp2iHwuR+qrXf5bjf35g1WT+/MGy49Pxv7NTdY6dgftM/o3fDqrhpXFg8r+19sZAa3KOh3cDEcEKHE6RgVZe+1Fww5Z2R1cHBkswXMRqyYl5j7FQQWLx/2KOF0qa3InBtfB7l1mUsJDtPxvn3EMWJcZveO53YtqW6JCWAtz0BolHgm4UE0SuyTbR4VjlRz88MwbwAMBP08jkJs5LnS08M1nH8paoVLYm3TledhjNuflug0JFYa0ClBjVvKMUseeX/tV9yc8i+1/pCh9tTV+d7D0UuWC5KFtvZgMftAgfPhSssoSEW6qtMFa48rSnx0ShCoMVguAk2PAYUVBsrqail5TRdrxttynmuByqopR0KZmm0uDpRw+0YyuuChZ6rM0C3FCwKq5EDdXOz1Fog+xpGBvjT2NStQB2d880f3+cv93HhCc7IU8E8Y5RmqWg3FuL/GKtzM8EuJTuLZamV+AAAAAAAAAA=
@@ -36,7 +35,6 @@ thumbnail: data:image/webp;base64,UklGRr4CAABXRUJQVlA4ILICAABwHwCdASpsAbsAPu12uF
 title: How to Make Colored Recent Post Widget Blogger
 type: post
 updated: 2023-08-08T14:45:49+07:00
-uuid: 9473cb43-6cd3-4888-80d6-aac02d0581c2
 wordcount: 776
 ---
 

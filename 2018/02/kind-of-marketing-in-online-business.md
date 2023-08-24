@@ -12,7 +12,6 @@ description: img border=0 src=https://imgdb.net/images/3610.jpg />The ultimate
   goal of all <b>Marketing</b> efforts is the creation of sales and
 excerpt: img border=0 src=https://imgdb.net/images/3610.jpg />The ultimate goal
   of all <b>Marketing</b> efforts is the creation of sales and
-id: 9953a670-e1b0-4888-8ded-1a476f95345d
 lang: en
 photos:
   - https://imgdb.net/images/3610.jpg
@@ -24,7 +23,6 @@ thumbnail: https://imgdb.net/images/3610.jpg
 title: Kind of marketing in online business
 type: post
 updated: 2023-08-08T14:45:41+07:00
-uuid: 3d34f9b8-ed29-4888-8885-bcf2a3df9a72
 wordcount: 2577
 ---
 

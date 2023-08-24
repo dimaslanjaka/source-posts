@@ -1,19 +1,151 @@
 ---
-title: Material Cyathea Chimeraland
-date: 2022-01-13T02:56:03+07:00
-updated: 2022-10-05T02:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/cyathea.html
-photos:
-  - /chimeraland/materials/cyathea/cyathea.webp
-thumbnail: /chimeraland/materials/cyathea/cyathea.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-13T02:56:03+07:00
+description: "Material Cyathea Chimeraland materials
+
+  \        Cyathea
+
+  \        October 5, 2022 2:26 AM
+
+  \        Continue reading Cyathea
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Cyathea
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \   "
+excerpt: "Material Cyathea Chimeraland materials
+
+  \        Cyathea
+
+  \        October 5, 2022 2:26 AM
+
+  \        Continue reading Cyathea
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Cyathea
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \   "
+permalink: /chimeraland/materials/cyathea.html
+photos:
+  - /chimeraland/materials/cyathea/cyathea.webp
+subtitle: "Material Cyathea Chimeraland materials
+
+  \        Cyathea
+
+  \        October 5, 2022 2:26 AM
+
+  \        Continue reading Cyathea
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Cyathea
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \   "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/cyathea/cyathea.webp
+title: Material Cyathea Chimeraland
+type: post
+updated: 2022-10-05T02:26:37+07:00
+wordcount: 468
 ---
 
 <link

@@ -1,11 +1,123 @@
 ---
-title: How to breeding mermaid in aquarium chimeraland
+categories:
+  - games
+  - chimeraland
+comments: true
 date: 2023-02-27T03:16:50+07:00
-updated: 2023-03-04T19:34:46+07:00
-category: ['games', 'chimeraland']
-tags: ['chimeraland', 'Tips & Tricks']
-thumbnail: /chimeraland/breeding-mermaid-in-aquarium/mermaid-package.jpg
+description: >-
+  How to breeding mermaid in aquarium chimeraland Food type to feeding mermaid
+  in chimeraland  Grade
+
+  Food ✗Total
+
+
+
+
+
+  first phase - Merling
+
+  Fish Level 2 ✗7
+
+
+
+  second phase - Ivory
+
+  Food level 3 ✗13
+
+
+
+  third phase - Esprit
+
+  Seaweed Feast ✗13
+
+
+
+  third phase - Corona
+
+  Pearly Feast ✗13
+
+
+
+  fourth phase - Drakewind
+excerpt: >-
+  How to breeding mermaid in aquarium chimeraland Food type to feeding mermaid
+  in chimeraland  Grade
+
+  Food ✗Total
+
+
+
+
+
+  first phase - Merling
+
+  Fish Level 2 ✗7
+
+
+
+  second phase - Ivory
+
+  Food level 3 ✗13
+
+
+
+  third phase - Esprit
+
+  Seaweed Feast ✗13
+
+
+
+  third phase - Corona
+
+  Pearly Feast ✗13
+
+
+
+  fourth phase - Drakewind
 lang: en
+subtitle: >-
+  How to breeding mermaid in aquarium chimeraland Food type to feeding mermaid
+  in chimeraland  Grade
+
+  Food ✗Total
+
+
+
+
+
+  first phase - Merling
+
+  Fish Level 2 ✗7
+
+
+
+  second phase - Ivory
+
+  Food level 3 ✗13
+
+
+
+  third phase - Esprit
+
+  Seaweed Feast ✗13
+
+
+
+  third phase - Corona
+
+  Pearly Feast ✗13
+
+
+
+  fourth phase - Drakewind
+tags:
+  - chimeraland
+  - Tips & Tricks
+thumbnail: /chimeraland/breeding-mermaid-in-aquarium/mermaid-package.jpg
+title: How to breeding mermaid in aquarium chimeraland
+type: post
+updated: 2023-03-04T19:34:46+07:00
+wordcount: 1865
 ---
 
 ## Food type to feeding mermaid in chimeraland

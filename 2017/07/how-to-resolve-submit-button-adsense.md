@@ -12,7 +12,6 @@ description: AdSense brings me back to the beginning every time I
   clickSubmit.The submit button for adsense is not working or it is home this is
 excerpt: AdSense brings me back to the beginning every time I clickSubmit.The
   submit button for adsense is not working or it is home this is
-id: a5e18e06-5e72-4888-89e7-a2e7b45dfa91
 lang: en
 photos:
   - https://3.bp.blogspot.com/-JdPb9Jp1xSk/WODgW427ETI/AAAAAAAADb4/zLz2WLm7lfs3S-7d2itu2hJ3-slbN6esACLcB/s1600/adsense-1.png
@@ -24,7 +23,6 @@ thumbnail: https://3.bp.blogspot.com/-JdPb9Jp1xSk/WODgW427ETI/AAAAAAAADb4/zLz2WL
 title: How to resolve the submit button adsense does not work or return to home
 type: post
 updated: 2023-08-08T14:45:52+07:00
-uuid: 69f5df51-a5d5-4888-8a5b-c573704b6f91
 wordcount: 1063
 ---
 

@@ -6,7 +6,6 @@ comments: true
 date: 2013-12-26 22:46:49
 description: "Images This is a image test post. "
 excerpt: "Images This is a image test post. "
-id: fff0d600-8a0b-4888-8e19-88bfb821dd11
 lang: en
 photos: []
 robots: no-index

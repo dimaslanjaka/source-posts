@@ -17,7 +17,6 @@ excerpt: Cara membuat pola kunci hp yang rumit Fitur 1.Kunci Layar Anda 2.Kunci
   Aplikasi Anda 3.Pengendali Jarak Jauh 4.Anti Jahil [ Temen Anda ] 5.Titik Bisa
   Diperbanyak 6.Salah Pola 5 Kali Otomatis Memfoto 7.Bisa Mengunci GANDA 8.Bisa
   Mengunci Wifi,Data,Hotspot Anda 9.Tema Titik Bisa Dipilih [ kitkat
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://image.ibb.co/eyVsN5/13438874_1966615786928595_9194443384423239792_n.jpg
@@ -31,7 +30,6 @@ thumbnail: https://image.ibb.co/eyVsN5/13438874_1966615786928595_919444338442323
 title: Cara membuat pola kunci hp yang rumit
 type: post
 updated: 2023-08-08T14:45:53+07:00
-uuid: a0c34a60-41c4-4888-8394-4ff085c5f525
 wordcount: 417
 ---
 

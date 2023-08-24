@@ -1,9 +1,73 @@
 ---
-title: Attendant halekat
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-18T14:09:01+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2023-02-18T13:58:01+07:00
+description: "Attendant halekat halekat Information from Chimeraland
+
+  \    halekat default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
+excerpt: "Attendant halekat halekat Information from Chimeraland
+
+  \    halekat default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
 permalink: /chimeraland/attendants/halekat.html
 photos:
   - /chimeraland/attendants/halekat/Screenshot_2023-02-18-01-20-44-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,14 +78,46 @@ photos:
   - /chimeraland/attendants/halekat/Screenshot_2023-02-18-01-21-04-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/halekat/Screenshot_2023-02-18-01-21-09-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/halekat/Screenshot_2023-02-18-01-21-13-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/halekat/Screenshot_2023-02-18-01-20-44-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant halekat halekat Information from Chimeraland
+
+  \    halekat default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/halekat/Screenshot_2023-02-18-01-20-44-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant halekat
+type: post
+updated: 2023-02-18T14:09:01+07:00
+webtitle: chimeraland
+wordcount: 1130
 ---
 
 <link

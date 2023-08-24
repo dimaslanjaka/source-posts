@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://image.rexdl.co
 date: 2018-08-01T02:33:00.000+07:00
 description: GBWhatsApp WhatsApp Mod [Dual WhatsApp dalam Satu Ponsel]
 excerpt: GBWhatsApp WhatsApp Mod [Dual WhatsApp dalam Satu Ponsel]
-id: 54c37afb-236a-4888-8448-c9b4c93c377b
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://image.rexdl.com/android/app/GBWhatsApp.jpg
@@ -21,7 +20,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://image.rexd
 title: GBWhatsApp 6.25 Apk Download
 type: post
 updated: 2023-08-08T14:45:40+07:00
-uuid: a7279f4b-e57d-4888-8e2c-9ef17618e345
 wordcount: 376
 ---
 

@@ -16,7 +16,6 @@ excerpt: Easy Way of Adding Pin It Buttons in Images Easy Way of Adding Pin It
   Buttons in Images </ body> </ head> Before adding this code make sure that in
   your blog template you have added jquery library link <script async=
   data-pin-color=white data-pin-hover=true src=//assets.pinterest.com/js/pin
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - http://urlz.fr/6tog
@@ -34,7 +33,6 @@ thumbnail: http://urlz.fr/6tog
 title: Easy Way of Adding Pin It Buttons in Images
 type: post
 updated: 2023-08-08T14:45:42+07:00
-uuid: 9cab36b7-e362-4888-89d6-b37b56e165d8
 wordcount: 272
 ---
 

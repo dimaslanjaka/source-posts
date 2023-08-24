@@ -1,19 +1,70 @@
 ---
-title: Material Wrasse Chimeraland
-date: 2022-01-16T18:56:03+07:00
-updated: 2022-10-08T18:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/wrasse.html
-photos:
-  - /chimeraland/materials/wrasse/wrasse.webp
-thumbnail: /chimeraland/materials/wrasse/wrasse.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-16T18:56:03+07:00
+description: "Material Wrasse Chimeraland materials
+
+  \        Wrasse
+
+  \        October 8, 2022 6:26 PM
+
+  \       \ 
+
+  \          A marine fish with a long and oval body. It has flat head from
+  the
+
+  \          back to the eye, ending in a protrusion. The adult fish has a
+
+  \          prominent forhead, and it is medium-large.
+
+  \    "
+excerpt: "Material Wrasse Chimeraland materials
+
+  \        Wrasse
+
+  \        October 8, 2022 6:26 PM
+
+  \       \ 
+
+  \          A marine fish with a long and oval body. It has flat head from
+  the
+
+  \          back to the eye, ending in a protrusion. The adult fish has a
+
+  \          prominent forhead, and it is medium-large.
+
+  \    "
+permalink: /chimeraland/materials/wrasse.html
+photos:
+  - /chimeraland/materials/wrasse/wrasse.webp
+subtitle: "Material Wrasse Chimeraland materials
+
+  \        Wrasse
+
+  \        October 8, 2022 6:26 PM
+
+  \       \ 
+
+  \          A marine fish with a long and oval body. It has flat head from
+  the
+
+  \          back to the eye, ending in a protrusion. The adult fish has a
+
+  \          prominent forhead, and it is medium-large.
+
+  \    "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/wrasse/wrasse.webp
+title: Material Wrasse Chimeraland
+type: post
+updated: 2022-10-08T18:26:37+07:00
+wordcount: 806
 ---
 
 <link

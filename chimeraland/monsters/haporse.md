@@ -1,9 +1,77 @@
 ---
-title: Monster haporse
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T16:38:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-03-11T14:19:18+07:00
+description: "Monster haporse haporse Information from Chimeraland
+
+  \    haporse default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \          "
+excerpt: "Monster haporse haporse Information from Chimeraland
+
+  \    haporse default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \          "
 permalink: /chimeraland/monsters/haporse.html
 photos:
   - null
@@ -15,15 +83,49 @@ photos:
   - /chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-10-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-14-69_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/haporse/Screenshot_2023-03-01-12-49-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=haporse
+subtitle: "Monster haporse haporse Information from Chimeraland
+
+  \    haporse default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \          "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=haporse
+title: Monster haporse
+type: post
+updated: 2023-05-25T16:38:12+07:00
+webtitle: chimeraland
+wordcount: 1189
 ---
 
 <link

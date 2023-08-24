@@ -1,19 +1,49 @@
 ---
-title: Material Yellow Boxfish Chimeraland
-date: 2022-01-15T20:56:03+07:00
-updated: 2022-10-07T20:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/yellow-boxfish.html
-photos:
-  - /chimeraland/materials/yellow-boxfish/yellow-boxfish.webp
-thumbnail: /chimeraland/materials/yellow-boxfish/yellow-boxfish.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-15T20:56:03+07:00
+description: |-
+  Material Yellow Boxfish Chimeraland materials
+          Yellow Boxfish
+          October 7, 2022 8:26 PM
+          
+            A marine fish with a yellow box-shape body with brown spots. The
+            yellow color turns brown when it be comes an adult fish.
+          
+          Continue reading Yellow Boxfish
+excerpt: |-
+  Material Yellow Boxfish Chimeraland materials
+          Yellow Boxfish
+          October 7, 2022 8:26 PM
+          
+            A marine fish with a yellow box-shape body with brown spots. The
+            yellow color turns brown when it be comes an adult fish.
+          
+          Continue reading Yellow Boxfish
+permalink: /chimeraland/materials/yellow-boxfish.html
+photos:
+  - /chimeraland/materials/yellow-boxfish/yellow-boxfish.webp
+subtitle: |-
+  Material Yellow Boxfish Chimeraland materials
+          Yellow Boxfish
+          October 7, 2022 8:26 PM
+          
+            A marine fish with a yellow box-shape body with brown spots. The
+            yellow color turns brown when it be comes an adult fish.
+          
+          Continue reading Yellow Boxfish
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/yellow-boxfish/yellow-boxfish.webp
+title: Material Yellow Boxfish Chimeraland
+type: post
+updated: 2022-10-07T20:26:37+07:00
+wordcount: 830
 ---
 
 <link

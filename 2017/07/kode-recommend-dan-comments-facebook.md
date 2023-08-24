@@ -12,7 +12,6 @@ description: Dengan plugin komentar, orang dapat mengomentari konten di situs
   web Anda menggunakan akun Facebook mereka. Orangorang juga bisa memilih
 excerpt: Dengan plugin komentar, orang dapat mengomentari konten di situs web
   Anda menggunakan akun Facebook mereka. Orangorang juga bisa memilih
-id: 9b8c34aa-7542-4888-8057-d7fc2eacd0dd
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -26,7 +25,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Kode Recommend Dan Comments Facebook Based JavaScript
 type: post
 updated: 2023-08-08T14:45:51+07:00
-uuid: a53d40c3-9daa-4888-8c41-8925a20e7e8c
 wordcount: 566
 ---
 

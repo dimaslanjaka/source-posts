@@ -12,7 +12,6 @@ description: Do Facebook Ads Work 110 Yes Heres Proof Media sosial telah menjadi
   bagian integral dari pertumbuhan bisnis saat ini. Jika sebuah
 excerpt: Do Facebook Ads Work 110 Yes Heres Proof Media sosial telah menjadi
   bagian integral dari pertumbuhan bisnis saat ini. Jika sebuah
-id: 0a78dba1-2121-4888-89f0-d365dbe77c3c
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/05e2f3e53cdf0d723cb3791cafcb1e53.png
@@ -25,7 +24,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/05e2f3e5
 title: Apakah Iklan Facebook Bekerja ?
 type: post
 updated: 2023-08-08T14:45:24+07:00
-uuid: 5326a877-0e0c-4888-8657-b041e3721bbc
 wordcount: 21309
 ---
 

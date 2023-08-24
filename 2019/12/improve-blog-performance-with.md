@@ -12,7 +12,6 @@ description: Tingkatkan Performa Blog Dengan DNS Cloudflare Increase Blog
   Performance with Cloudflare DNS Basically all DNS is the same, namely the
 excerpt: Tingkatkan Performa Blog Dengan DNS Cloudflare Increase Blog
   Performance with Cloudflare DNS Basically all DNS is the same, namely the
-id: 1d5e5fbc-e22a-4888-8596-b0bf32239cfa
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/7eda57e044b4b484bdb43a59f29078d0.jpeg
@@ -27,7 +26,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/7eda57e044b4
 title: Improve Blog Performance with Cloudflare DNS
 type: post
 updated: 2023-08-08T14:45:16+07:00
-uuid: 6908ab16-bf8f-4888-8866-f874cf3e8f3c
 wordcount: 4555
 ---
 

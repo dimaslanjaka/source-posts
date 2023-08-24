@@ -12,7 +12,6 @@ description: Untuk sampai ke folder file Termux, Anda harus CD ke seluruh nama
   jalan seperti ini.
 excerpt: Untuk sampai ke folder file Termux, Anda harus CD ke seluruh nama jalan
   seperti ini.
-id: 2257fe06-f575-4888-810a-66142e778439
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -25,7 +24,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Cara membuka data/data/com.termux/files
 type: post
 updated: 2023-08-08T14:45:39+07:00
-uuid: 30e91d65-78ed-4888-80b2-1bd79bbdde45
 wordcount: 333
 ---
 

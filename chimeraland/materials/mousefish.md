@@ -1,19 +1,73 @@
 ---
-title: Material Mousefish Chimeraland
-date: 2022-01-16T14:56:03+07:00
-updated: 2022-10-08T14:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/mousefish.html
-photos:
-  - /chimeraland/materials/mousefish/mousefish.webp
-thumbnail: /chimeraland/materials/mousefish/mousefish.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-16T14:56:03+07:00
+description: "Material Mousefish Chimeraland materials
+
+  \        Mousefish
+
+  \        October 8, 2022 2:26 PM
+
+  \       \ 
+
+  \          A freshwater fish with bony plate all over its body. the pectoral
+  fins
+
+  \          and first dorsal fin are hard spines. It has whiskers at its
+  mouth
+
+  \          corners, resembling a mouse.
+
+  \   "
+excerpt: "Material Mousefish Chimeraland materials
+
+  \        Mousefish
+
+  \        October 8, 2022 2:26 PM
+
+  \       \ 
+
+  \          A freshwater fish with bony plate all over its body. the pectoral
+  fins
+
+  \          and first dorsal fin are hard spines. It has whiskers at its
+  mouth
+
+  \          corners, resembling a mouse.
+
+  \   "
+permalink: /chimeraland/materials/mousefish.html
+photos:
+  - /chimeraland/materials/mousefish/mousefish.webp
+subtitle: "Material Mousefish Chimeraland materials
+
+  \        Mousefish
+
+  \        October 8, 2022 2:26 PM
+
+  \       \ 
+
+  \          A freshwater fish with bony plate all over its body. the pectoral
+  fins
+
+  \          and first dorsal fin are hard spines. It has whiskers at its
+  mouth
+
+  \          corners, resembling a mouse.
+
+  \   "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/mousefish/mousefish.webp
+title: Material Mousefish Chimeraland
+type: post
+updated: 2022-10-08T14:26:37+07:00
+wordcount: 844
 ---
 
 <link

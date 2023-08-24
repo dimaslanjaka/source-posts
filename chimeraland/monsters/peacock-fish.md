@@ -1,21 +1,117 @@
 ---
-title: Monster Peacock Fish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T11:15:12+07:00
-date: 2023-05-25T00:40:10+07:00
-permalink: /chimeraland/monsters/peacock-fish.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Peacock Fish
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T00:40:10+07:00
+description: "Monster Peacock Fish Peacock Fish Information from Chimeraland
+
+  \    Peacock Fish default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+excerpt: "Monster Peacock Fish Peacock Fish Information from Chimeraland
+
+  \    Peacock Fish default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+permalink: /chimeraland/monsters/peacock-fish.html
+photos:
+  - null
+subtitle: "Monster Peacock Fish Peacock Fish Information from Chimeraland
+
+  \    Peacock Fish default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \          "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Peacock Fish
+title: Monster Peacock Fish
+type: post
+updated: 2023-05-25T11:15:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

@@ -1,23 +1,98 @@
 ---
-title: Recipe Honey Grilled Chicken Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T10:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-10T10:56:03+07:00
+description: "Recipe Honey Grilled Chicken Chimeraland Honey Grilled Chicken
+  Cooking Recipe
+
+  \             \ 
+
+  \              Buff Honey Grilled Chicken
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +80 DEF
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           "
+excerpt: "Recipe Honey Grilled Chicken Chimeraland Honey Grilled Chicken Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Honey Grilled Chicken
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +80 DEF
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           "
+lang: en
 permalink: /chimeraland/recipes/honey-grilled-chicken.html
 photos:
   - /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken.webp
   - /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken-name.webp
   - /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken-icon.webp
   - /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken-material.webp
-thumbnail: /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken.webp
+subtitle: "Recipe Honey Grilled Chicken Chimeraland Honey Grilled Chicken
+  Cooking Recipe
+
+  \             \ 
+
+  \              Buff Honey Grilled Chicken
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +80 DEF
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/honey-grilled-chicken/honey-grilled-chicken.webp
+title: Recipe Honey Grilled Chicken Chimeraland
+type: post
+updated: 2022-10-05T10:46:55+07:00
+wordcount: 1396
 ---
 
 <link

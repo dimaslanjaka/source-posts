@@ -1,10 +1,30 @@
 ---
-title: Bug Report Chimeraland v2.0.2.117
+categories:
+  - games
+  - chimeraland
+comments: true
 date: 2023-04-20T13:26:16+07:00
-updated: 2023-04-20T13:26:16+07:00
-categories: [games, chimeraland]
-tags: [chimeraland, bug]
+description: "Bug Report Chimeraland v2.0.2.117 Chimeraland v2.0.2.117 - Bug
+  Report List of bugs, chimeraland v2.0.2.117. Broken display of weapon stats
+  and armor sets Basic display stats got broken, sample list below: Tranquil
+  fan  Heavy Sword  Many item names have been changed Many items name got
+  changed, sampl"
+excerpt: "Bug Report Chimeraland v2.0.2.117 Chimeraland v2.0.2.117 - Bug Report
+  List of bugs, chimeraland v2.0.2.117. Broken display of weapon stats and armor
+  sets Basic display stats got broken, sample list below: Tranquil fan  Heavy
+  Sword  Many item names have been changed Many items name got changed, sampl"
+subtitle: "Bug Report Chimeraland v2.0.2.117 Chimeraland v2.0.2.117 - Bug Report
+  List of bugs, chimeraland v2.0.2.117. Broken display of weapon stats and armor
+  sets Basic display stats got broken, sample list below: Tranquil fan  Heavy
+  Sword  Many item names have been changed Many items name got changed, sampl"
+tags:
+  - chimeraland
+  - bug
 thumbnail: https://rawcdn.githack.com/DXHeroes/knowledge-base-content/c3b5acb81a5769197701b736aa5bb7648548382d/files/bug_reporting.png
+title: Bug Report Chimeraland v2.0.2.117
+type: post
+updated: 2023-04-20T13:26:16+07:00
+wordcount: 248
 ---
 
 ## Chimeraland v2.0.2.117 - Bug Report

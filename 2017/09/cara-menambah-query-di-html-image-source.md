@@ -16,7 +16,6 @@ excerpt: Cara menambah query di html image source Cara menambahkan query di
   source image. Membuat semua link dan source html http menjadi https Kode untuk
   menambah source query pada tag image html tertentu Class Selector /Memilih
   berdasarkan class name/document.readyfunction img.class.attrsr
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://imgdb.net/images/3190.jpg
@@ -31,7 +30,6 @@ thumbnail: https://imgdb.net/images/3190.jpg
 title: Cara menambah query di html image source
 type: post
 updated: 2023-08-08T14:45:48+07:00
-uuid: 162bdc35-73a4-4888-8972-ebb641c1dae4
 wordcount: 857
 ---
 

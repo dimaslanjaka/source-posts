@@ -12,7 +12,6 @@ description: How to Install the Featured Post Image Slider Widget Auto
   BloggerFEATUREDPost Image Slider Autois a widgetbloggerthat displays a large
 excerpt: How to Install the Featured Post Image Slider Widget Auto
   BloggerFEATUREDPost Image Slider Autois a widgetbloggerthat displays a large
-id: fc5fd8bf-8dba-4888-885c-6a2bcd10120a
 lang: en
 photos:
   - https://1.bp.blogspot.com/-vBmmKKOdix4/V510voCoYqI/AAAAAAAAPNk/gttSjmyHe3Q9trg2yO_FF8HnxFws0P7VgCLcB/s320/featured%2Bpost%2Bimage%2Bslider%2Botomatis%2Bblogger.JPG
@@ -26,7 +25,6 @@ thumbnail: https://1.bp.blogspot.com/-vBmmKKOdix4/V510voCoYqI/AAAAAAAAPNk/gttSjm
 title: How to add Featured Post Image Slider Widget Blogger
 type: post
 updated: 2023-08-08T14:45:57+07:00
-uuid: a26fc0cb-d479-4888-8820-491f84f7573e
 wordcount: 4302
 ---
 

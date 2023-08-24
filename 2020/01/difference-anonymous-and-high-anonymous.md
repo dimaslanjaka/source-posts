@@ -12,7 +12,6 @@ description: Anonymous proxyno HTTP_X_FORWARDED_FOR headerHigh anonymous/Elite
   proxy:no HTTP_X_FORWARDED_FOR, HTTP_VIA, HTTP_FORWARDED,
 excerpt: Anonymous proxyno HTTP_X_FORWARDED_FOR headerHigh anonymous/Elite
   proxy:no HTTP_X_FORWARDED_FOR, HTTP_VIA, HTTP_FORWARDED,
-id: 40e79eae-2212-4888-87aa-d48d62ff7e1e
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Difference Anonymous And High Anonymous Proxy
 type: post
 updated: 2023-08-08T14:45:15+07:00
-uuid: 1fa80fc2-78cf-4888-8d17-613c72c46f90
 wordcount: 49
 ---
 

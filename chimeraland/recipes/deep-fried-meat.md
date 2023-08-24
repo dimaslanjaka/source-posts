@@ -1,23 +1,101 @@
 ---
-title: Recipe Deep Fried Meat Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T16:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-08T12:56:03+07:00
+description: "Recipe Deep Fried Meat Chimeraland Deep Fried Meat Cooking Recipe
+
+  \             \ 
+
+  \              Buff Deep Fried Meat
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  12 Armor Pierce
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \        "
+excerpt: "Recipe Deep Fried Meat Chimeraland Deep Fried Meat Cooking Recipe
+
+  \             \ 
+
+  \              Buff Deep Fried Meat
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  12 Armor Pierce
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \        "
+lang: en
 permalink: /chimeraland/recipes/deep-fried-meat.html
 photos:
   - /chimeraland/recipes/deep-fried-meat/deep-fried-meat.webp
   - /chimeraland/recipes/deep-fried-meat/deep-fried-meat-name.webp
   - /chimeraland/recipes/deep-fried-meat/deep-fried-meat-icon.webp
   - /chimeraland/recipes/deep-fried-meat/deep-fried-meat-material.webp
-thumbnail: /chimeraland/recipes/deep-fried-meat/deep-fried-meat.webp
+subtitle: "Recipe Deep Fried Meat Chimeraland Deep Fried Meat Cooking Recipe
+
+  \             \ 
+
+  \              Buff Deep Fried Meat
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  12 Armor Pierce
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \        "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/deep-fried-meat/deep-fried-meat.webp
+title: Recipe Deep Fried Meat Chimeraland
+type: post
+updated: 2022-10-05T16:46:54+07:00
+wordcount: 714
 ---
 
 <link

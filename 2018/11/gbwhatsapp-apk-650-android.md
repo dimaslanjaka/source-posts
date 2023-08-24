@@ -12,7 +12,6 @@ description: GBWhatsApp adalah Aplikasi Komunikasi untuk android unduh versi
   terakhir dari GBWhatsApp Apk untuk android dari Website Manajemen
 excerpt: GBWhatsApp adalah Aplikasi Komunikasi untuk android unduh versi
   terakhir dari GBWhatsApp Apk untuk android dari Website Manajemen
-id: b10842af-d593-4888-82b7-182d0c4118c7
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2015/01/gbwhatsapp_1.jpg
@@ -25,7 +24,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.rev
 title: GBWhatsApp Apk 6.50 android
 type: post
 updated: 2023-08-08T14:45:37+07:00
-uuid: 7bcb99dd-b28a-4888-8a1f-9e0b62f7d244
 wordcount: 810
 ---
 

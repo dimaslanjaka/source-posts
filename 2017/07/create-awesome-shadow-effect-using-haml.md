@@ -12,7 +12,6 @@ description: h2>How to Create <mark>Awesome Shadow Effects</mark> Using HAML
   HTML Processor and LESS CSS Preprocessor</h2><h3>HAML
 excerpt: h2>How to Create <mark>Awesome Shadow Effects</mark> Using HAML HTML
   Processor and LESS CSS Preprocessor</h2><h3>HAML
-id: f84ee608-28af-4888-89e5-9b81ea1b6fef
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -25,7 +24,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Create Awesome Shadow Effect Using HAML and LESS CSS
 type: post
 updated: 2023-08-08T14:45:52+07:00
-uuid: 3cfdcf27-0abb-4888-8e70-3e5bb23b8404
 wordcount: 1220
 ---
 

@@ -7,7 +7,6 @@ comments: true
 date: 2022-12-29T19:40:35+07:00
 description: Cara setting github actions agar jalan satu job saja sequentally
 excerpt: Cara setting github actions agar jalan satu job saja sequentally
-id: c27d6cf8-bab2-4888-8a80-25bf0d2126de
 lang: id
 permalink: /id/Github/github-actions-run-single-instance.html
 photos: []

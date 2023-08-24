@@ -16,7 +16,6 @@ excerpt: "[JS] Print console log into div HTML <div id=debug></div> Pure
   Javascript function var old = console.log; var logger =
   document.getElementByIdlog; console.log = function message if typeof message
   == object logger.innerHTML = JSON JSON.stringify"
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://topjavatutorial.com/wp-content/uploads/2016/08/consolelog.png
@@ -31,7 +30,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://topjavatu
 title: "[JS] Print console log into div"
 type: post
 updated: 2023-08-08T14:45:32+07:00
-uuid: e680a9ca-1abf-4888-8602-dea9131a390b
 wordcount: 244
 ---
 

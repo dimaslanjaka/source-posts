@@ -10,7 +10,6 @@ cover: http://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.techliciou
 date: 2019-02-08T22:15:00.002+07:00
 description: SHORTCUT KEYS LANGKAHLANGKAH UNTUK DIPROSES
 excerpt: SHORTCUT KEYS LANGKAHLANGKAH UNTUK DIPROSES
-id: 561a6f33-49f7-4888-8720-deb31520ad98
 lang: en
 photos:
   - http://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.techlicious.com/images/computers/windows-10-shortcuts-510px.jpg
@@ -21,7 +20,6 @@ thumbnail: http://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.techli
 title: Shortcut Windows Undo Redo Drag
 type: post
 updated: 2023-08-08T14:45:31+07:00
-uuid: a8894d12-6b8f-4888-8d8a-de2ad7e8af5b
 wordcount: 915
 ---
 

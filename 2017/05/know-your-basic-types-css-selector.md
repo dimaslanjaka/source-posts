@@ -12,7 +12,6 @@ description: "Learning CSS Tutorial Part : Know Your Basic Types CSS SelectorCSS
   has the type selector that varies, even greatly vary depending"
 excerpt: "Learning CSS Tutorial Part : Know Your Basic Types CSS SelectorCSS has
   the type selector that varies, even greatly vary depending"
-id: cb76c305-5067-4888-8c12-fde6012469ea
 lang: en
 photos:
   - https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpLEYpRfgPOwSkpUWGmr5SWmGGZoesHfcyD8FyIejZ_AZiE_lAsWcPdHuI
@@ -25,7 +24,6 @@ thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpLEYpRfgPOwSkp
 title: Know Your Basic Types CSS Selector
 type: post
 updated: 2023-08-08T14:45:55+07:00
-uuid: 53d750fe-4766-4888-8ec9-b8cb78707f8d
 wordcount: 3949
 ---
 

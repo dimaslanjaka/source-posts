@@ -17,7 +17,6 @@ excerpt: "Increase Performance Android Studio Solver 1 You can speed up your
   Eclipse or Android Studio work, you just follow these: Open your single
   projectclean your project after running your app in emulator every timeuse
   mobile/external device instead of emulatordont close emulator after using o"
-id: cc0bd265-9236-4888-8f21-e86e8522b5c5
 lang: en
 permalink: /2020/02/increase-performance-android-studio.html
 photos:

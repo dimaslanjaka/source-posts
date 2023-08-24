@@ -1,22 +1,33 @@
 ---
-title: Attendant Lunar Aquatine
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-28T20:26:37+07:00
-date: 2022-01-06T20:56:03+07:00
-permalink: /chimeraland/attendants/lunar-aquatine.html
-photos: []
-tags:
-  - chimeraland
-  - Attendant
 categories:
   - games
   - chimeraland
   - attendants
+comments: true
+date: 2022-01-06T20:56:03+07:00
 description: attendant Lunar Aquatine default quality GRADE B ATK 70 HP 70 DEF
   70 Attack 40,HP 400,Monster EXP Bonus 40%,Joint Firearm DMG +20%
   delicacies/tasty Smoked Eleboar Meat,Flame Roasted Horn,Stir-Fried Browtelope
   games,chimeraland,attendants chimeraland,Attendant
+excerpt: attendant Lunar Aquatine default quality GRADE B ATK 70 HP 70 DEF 70
+  Attack 40,HP 400,Monster EXP Bonus 40%,Joint Firearm DMG +20% delicacies/tasty
+  Smoked Eleboar Meat,Flame Roasted Horn,Stir-Fried Browtelope
+  games,chimeraland,attendants chimeraland,Attendant
+permalink: /chimeraland/attendants/lunar-aquatine.html
+photos: []
+subtitle: attendant Lunar Aquatine default quality GRADE B ATK 70 HP 70 DEF 70
+  Attack 40,HP 400,Monster EXP Bonus 40%,Joint Firearm DMG +20% delicacies/tasty
+  Smoked Eleboar Meat,Flame Roasted Horn,Stir-Fried Browtelope
+  games,chimeraland,attendants chimeraland,Attendant
+tags:
+  - chimeraland
+  - Attendant
+title: Attendant Lunar Aquatine
+type: post
+updated: 2022-09-28T20:26:37+07:00
+webtitle: chimeraland
+wordcount: 920
 ---
 
 <link

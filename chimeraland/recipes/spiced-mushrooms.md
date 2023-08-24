@@ -1,23 +1,90 @@
 ---
-title: Recipe Spiced Mushrooms Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T13:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-11T22:56:03+07:00
+description: "Recipe Spiced Mushrooms Chimeraland Spiced Mushrooms Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Spiced Mushrooms
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  -50 Humidity (decreased over time)
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \            "
+excerpt: "Recipe Spiced Mushrooms Chimeraland Spiced Mushrooms Cooking Recipe
+
+  \             \ 
+
+  \              Buff Spiced Mushrooms
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  -50 Humidity (decreased over time)
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \            "
+lang: en
 permalink: /chimeraland/recipes/spiced-mushrooms.html
 photos:
   - /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms.webp
   - /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms-name.webp
   - /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms-icon.webp
   - /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms-material.webp
-thumbnail: /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms.webp
+subtitle: "Recipe Spiced Mushrooms Chimeraland Spiced Mushrooms Cooking Recipe
+
+  \             \ 
+
+  \              Buff Spiced Mushrooms
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  -50 Humidity (decreased over time)
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \            "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/spiced-mushrooms/spiced-mushrooms.webp
+title: Recipe Spiced Mushrooms Chimeraland
+type: post
+updated: 2022-10-06T13:46:55+07:00
+wordcount: 636
 ---
 
 <link

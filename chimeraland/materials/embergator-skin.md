@@ -1,19 +1,121 @@
 ---
-title: Material Embergator Skin Chimeraland
-date: 2022-01-10T00:56:03+07:00
-updated: 2022-10-02T00:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/embergator-skin.html
-photos:
-  - /chimeraland/materials/embergator-skin/embergator-skin.webp
-thumbnail: /chimeraland/materials/embergator-skin/embergator-skin.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-10T00:56:03+07:00
+description: "Material Embergator Skin Chimeraland materials
+
+  \        Embergator Skin
+
+  \        October 2, 2022 12:26 AM
+
+  \        Continue reading Embergator Skin
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Embergator Skin
+
+  \           \ 
+
+  \             \ 
+
+  \         "
+excerpt: "Material Embergator Skin Chimeraland materials
+
+  \        Embergator Skin
+
+  \        October 2, 2022 12:26 AM
+
+  \        Continue reading Embergator Skin
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Embergator Skin
+
+  \           \ 
+
+  \             \ 
+
+  \         "
+permalink: /chimeraland/materials/embergator-skin.html
+photos:
+  - /chimeraland/materials/embergator-skin/embergator-skin.webp
+subtitle: "Material Embergator Skin Chimeraland materials
+
+  \        Embergator Skin
+
+  \        October 2, 2022 12:26 AM
+
+  \        Continue reading Embergator Skin
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Embergator Skin
+
+  \           \ 
+
+  \             \ 
+
+  \         "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/embergator-skin/embergator-skin.webp
+title: Material Embergator Skin Chimeraland
+type: post
+updated: 2022-10-02T00:26:37+07:00
+wordcount: 966
 ---
 
 <link

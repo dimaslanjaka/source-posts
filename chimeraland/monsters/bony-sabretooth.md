@@ -1,21 +1,118 @@
 ---
-title: Monster Bony Sabretooth
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-10-03T10:18:27+07:00
-date: 2022-01-11T17:56:03+07:00
-permalink: /chimeraland/monsters/bony-sabretooth.html
-photos:
-  - /chimeraland/monsters/bony-sabretooth/chimeraland-bony-stretooth-evolve-featured.webp
-thumbnail: /chimeraland/monsters/bony-sabretooth/chimeraland-bony-stretooth-evolve-featured.webp
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2022-01-11T17:56:03+07:00
+description: "Monster Bony Sabretooth Bony Sabretooth Information from
+  Chimeraland
+
+  \    Bony Sabretooth default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \ "
+excerpt: "Monster Bony Sabretooth Bony Sabretooth Information from Chimeraland
+
+  \    Bony Sabretooth default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \ "
+permalink: /chimeraland/monsters/bony-sabretooth.html
+photos:
+  - /chimeraland/monsters/bony-sabretooth/chimeraland-bony-stretooth-evolve-featured.webp
+subtitle: "Monster Bony Sabretooth Bony Sabretooth Information from Chimeraland
+
+  \    Bony Sabretooth default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \ "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: /chimeraland/monsters/bony-sabretooth/chimeraland-bony-stretooth-evolve-featured.webp
+title: Monster Bony Sabretooth
+type: post
+updated: 2022-10-03T10:18:27+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

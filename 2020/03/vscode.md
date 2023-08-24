@@ -12,7 +12,6 @@ description: Install jQuery Auto Complete and Hinting on VSCode Requirednpm-
   Syntax Terminalnpm i --save @types/jquery
 excerpt: Install jQuery Auto Complete and Hinting on VSCode Requirednpm- Syntax
   Terminalnpm i --save @types/jquery
-id: 7d837959-05c0-4888-83c0-79fde2003fc4
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: VSCode
 type: post
 updated: 2023-08-08T14:45:13+07:00
-uuid: 4d624922-6e19-4888-850c-8652041fa419
 wordcount: 55
 ---
 

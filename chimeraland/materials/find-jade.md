@@ -1,20 +1,92 @@
 ---
-title: Material Find Jade Chimeraland
-date: 2022-01-07T18:56:03+07:00
-updated: 2022-09-29T18:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/find-jade.html
-photos:
-  - /chimeraland/materials/find-jade/find-jade.webp
-  - /chimeraland/materials/find-jade/fine-jade.webp
-thumbnail: /chimeraland/materials/find-jade/find-jade.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-07T18:56:03+07:00
+description: "Material Find Jade Chimeraland materials
+
+  \        Find Jade
+
+  \        September 29, 2022 6:26 PM
+
+  \       \ 
+
+  \          Half-bathed in light, half obscured in shadow, see the goblet
+
+  \          overfloweth, savor the delightful fragrance.
+
+  \       \ 
+
+  \        Continue reading Find Jade
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \   "
+excerpt: "Material Find Jade Chimeraland materials
+
+  \        Find Jade
+
+  \        September 29, 2022 6:26 PM
+
+  \       \ 
+
+  \          Half-bathed in light, half obscured in shadow, see the goblet
+
+  \          overfloweth, savor the delightful fragrance.
+
+  \       \ 
+
+  \        Continue reading Find Jade
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \   "
+permalink: /chimeraland/materials/find-jade.html
+photos:
+  - /chimeraland/materials/find-jade/find-jade.webp
+  - /chimeraland/materials/find-jade/fine-jade.webp
+subtitle: "Material Find Jade Chimeraland materials
+
+  \        Find Jade
+
+  \        September 29, 2022 6:26 PM
+
+  \       \ 
+
+  \          Half-bathed in light, half obscured in shadow, see the goblet
+
+  \          overfloweth, savor the delightful fragrance.
+
+  \       \ 
+
+  \        Continue reading Find Jade
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \   "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/find-jade/find-jade.webp
+title: Material Find Jade Chimeraland
+type: post
+updated: 2022-09-29T18:26:37+07:00
+wordcount: 953
 ---
 
 <link

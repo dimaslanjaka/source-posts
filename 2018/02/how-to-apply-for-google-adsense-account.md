@@ -12,7 +12,6 @@ description: Running Google adsense advertising program or a Google ads
   publisher can be spelled out easy, even if I think personally more difficult
 excerpt: Running Google adsense advertising program or a Google ads publisher
   can be spelled out easy, even if I think personally more difficult
-id: a4a31d47-1737-4888-8267-90ed77a5c140
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://goo.gl/zYJ88W
@@ -26,7 +25,6 @@ title: How to Apply for a Google Adsense Account In Disabled Because of Invalid
   Activity
 type: post
 updated: 2023-08-08T14:45:42+07:00
-uuid: 6ff538ab-5a29-4888-8685-8eb89bcf12fd
 wordcount: 3240
 ---
 

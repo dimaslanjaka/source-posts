@@ -1,21 +1,123 @@
 ---
-title: Monster Zebrafish
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T06:17:12+07:00
-date: 2023-05-25T00:40:10+07:00
-permalink: /chimeraland/monsters/zebrafish.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Zebrafish
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T00:40:10+07:00
+description: "Monster Zebrafish Zebrafish Information from Chimeraland
+
+  \    Zebrafish default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \    "
+excerpt: "Monster Zebrafish Zebrafish Information from Chimeraland
+
+  \    Zebrafish default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \    "
+permalink: /chimeraland/monsters/zebrafish.html
+photos:
+  - null
+subtitle: "Monster Zebrafish Zebrafish Information from Chimeraland
+
+  \    Zebrafish default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \    "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Zebrafish
+title: Monster Zebrafish
+type: post
+updated: 2023-05-25T06:17:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

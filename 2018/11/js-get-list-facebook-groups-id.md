@@ -17,7 +17,6 @@ excerpt: "[JS] Get List Facebook Groups ID Script Get Access Token Full Support
   https://webmanajemen.com/2018/11/script-php-auto-refresh-token-facebook.html
   https://webmanajemen.com/2018/11/script-php-auto-refresh-token-facebook.html
   Requirements <script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3."
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4379.png
@@ -33,7 +32,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net
 title: "[JS] Get List Facebook Groups ID"
 type: post
 updated: 2023-08-08T14:45:37+07:00
-uuid: f92ac380-6fbc-4888-805d-18d9e1067cd2
 wordcount: 3546
 ---
 

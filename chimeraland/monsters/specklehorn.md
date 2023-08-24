@@ -1,9 +1,19 @@
 ---
-title: Monster Specklehorn
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T08:11:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-10T05:56:03+07:00
+description: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0%,PvP Damage Bonus +4.8%,Essence Aspect: Green
+  Silk delicacies/tasty Newt Meat Dry Pot,Flame Roasted Horn,Flamebug Meat
+  Claypot games,chimeraland,monsters chimeraland,monster,pet"
+excerpt: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0%,PvP Damage Bonus +4.8%,Essence Aspect: Green
+  Silk delicacies/tasty Newt Meat Dry Pot,Flame Roasted Horn,Flamebug Meat
+  Claypot games,chimeraland,monsters chimeraland,monster,pet"
 permalink: /chimeraland/monsters/specklehorn.html
 photos:
   - null
@@ -15,19 +25,20 @@ photos:
   - /chimeraland/monsters/specklehorn/Screenshot_2022-11-14-11-09-08-93_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/specklehorn/Screenshot_2022-11-14-11-09-14-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/specklehorn/Screenshot_2022-11-14-11-09-24-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Specklehorn
+subtitle: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0%,PvP Damage Bonus +4.8%,Essence Aspect: Green
+  Silk delicacies/tasty Newt Meat Dry Pot,Flame Roasted Horn,Flamebug Meat
+  Claypot games,chimeraland,monsters chimeraland,monster,pet"
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
-description: "monster Specklehorn default quality GRADE B ATK 60 HP 60 DEF 60
-  Attributes Conversion Rate 4.0%,PvP Damage Bonus +4.8%,Essence Aspect: Green
-  Silk delicacies/tasty Newt Meat Dry Pot,Flame Roasted Horn,Flamebug Meat
-  Claypot games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Specklehorn
+title: Monster Specklehorn
+type: post
+updated: 2023-05-25T08:11:12+07:00
+webtitle: chimeraland
+wordcount: 1623
 ---
 
 <link

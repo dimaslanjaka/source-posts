@@ -12,7 +12,6 @@ description: "pre>lt;script type=quot;application/ldjsonquot;gt;<br /><br /><br
   /><br />nbsp; nbsp; quot;@contextquot;:"
 excerpt: "pre>lt;script type=quot;application/ldjsonquot;gt;<br /><br /><br
   /><br />nbsp; nbsp; quot;@contextquot;:"
-id: 1e1c1404-47d3-4888-8b29-450fa89403fe
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Schema Markup Untuk Homepage Blog
 type: post
 updated: 2023-08-08T14:45:46+07:00
-uuid: cb3980be-9fc4-4888-883f-e76ea72f2ba0
 wordcount: 2251
 ---
 

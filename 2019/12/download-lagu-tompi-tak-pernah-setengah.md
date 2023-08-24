@@ -12,7 +12,6 @@ description: "Download lagu Tompi Tak Pernah Setengah Hati Official Mp3 Tompi -
   Never Half the Heart Official Listen: 33,940 Duration: 247"
 excerpt: "Download lagu Tompi Tak Pernah Setengah Hati Official Mp3 Tompi -
   Never Half the Heart Official Listen: 33,940 Duration: 247"
-id: cba21d25-32ca-4888-8169-0185d933b525
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/d4026a0d60e9f2c105d484607b12a36e.jpeg
@@ -24,7 +23,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/d4026a0d60e9f2
 title: Download lagu Tompi  - Tak Pernah Setengah Hati Official Mp3
 type: post
 updated: 2023-08-08T14:45:17+07:00
-uuid: ddf59bec-c126-4888-8d37-7b811b27c419
 wordcount: 1539
 ---
 

@@ -12,7 +12,6 @@ description: How to upgrade a hosted account to a non hosted version of the
   latest adsense display.
 excerpt: How to upgrade a hosted account to a non hosted version of the latest
   adsense display.
-id: 595a7b5d-b1f6-4888-80fb-b9c2bcf7057e
 lang: en
 photos:
   - https://4.bp.blogspot.com/-UNoYF1MuqU8/WLrx-G_vDwI/AAAAAAAADYc/pkuJXiffujId6YxjHEopP62TimMsWcPaQCLcB/s1600/akun_triknews.png
@@ -25,7 +24,6 @@ title: How to upgrade a hosted account to a non hosted version of the latest
   adsense display
 type: post
 updated: 2023-08-08T14:45:52+07:00
-uuid: bc47c6fb-b12f-4888-8322-d6084e8a145c
 wordcount: 2091
 ---
 

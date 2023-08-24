@@ -1,9 +1,70 @@
 ---
-title: Monster giant armoxerous
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-26T18:52:49+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-03-10T23:19:18+07:00
+description: "Monster giant armoxerous giant armoxerous Information from
+  Chimeraland
+
+  \    giant armoxerous default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \   "
+excerpt: "Monster giant armoxerous giant armoxerous Information from Chimeraland
+
+  \    giant armoxerous default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \   "
 permalink: /chimeraland/monsters/giant-armoxerous.html
 photos:
   - /chimeraland/monsters/giant-armoxerous/Screenshot_2023-02-26-13-09-14-64_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +75,46 @@ photos:
   - /chimeraland/monsters/giant-armoxerous/Screenshot_2023-02-26-13-09-38-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-armoxerous/Screenshot_2023-02-26-13-09-42-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-armoxerous/Screenshot_2023-02-26-13-09-47-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-armoxerous/Screenshot_2023-02-26-13-09-14-64_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant armoxerous giant armoxerous Information from
+  Chimeraland
+
+  \    giant armoxerous default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \   "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-armoxerous/Screenshot_2023-02-26-13-09-14-64_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant armoxerous
+type: post
+updated: 2023-03-26T18:52:49+07:00
+webtitle: chimeraland
+wordcount: 1237
 ---
 
 <link

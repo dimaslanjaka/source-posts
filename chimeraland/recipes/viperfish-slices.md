@@ -1,23 +1,96 @@
 ---
-title: Recipe Viperfish Slices Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T06:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-12T23:56:03+07:00
+description: "Recipe Viperfish Slices Chimeraland Viperfish Slices Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Viperfish Slices
+
+  \             \ 
+
+  \               \ 
+
+  \                  540 Fullness
+
+  \                  Protect from Drowning
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \            "
+excerpt: "Recipe Viperfish Slices Chimeraland Viperfish Slices Cooking Recipe
+
+  \             \ 
+
+  \              Buff Viperfish Slices
+
+  \             \ 
+
+  \               \ 
+
+  \                  540 Fullness
+
+  \                  Protect from Drowning
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \            "
+lang: en
 permalink: /chimeraland/recipes/viperfish-slices.html
 photos:
   - /chimeraland/recipes/viperfish-slices/viperfish-slices.webp
   - /chimeraland/recipes/viperfish-slices/viperfish-slices-name.webp
   - /chimeraland/recipes/viperfish-slices/viperfish-slices-icon.webp
   - /chimeraland/recipes/viperfish-slices/viperfish-slices-material.webp
-thumbnail: /chimeraland/recipes/viperfish-slices/viperfish-slices.webp
+subtitle: "Recipe Viperfish Slices Chimeraland Viperfish Slices Cooking Recipe
+
+  \             \ 
+
+  \              Buff Viperfish Slices
+
+  \             \ 
+
+  \               \ 
+
+  \                  540 Fullness
+
+  \                  Protect from Drowning
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \            "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/viperfish-slices/viperfish-slices.webp
+title: Recipe Viperfish Slices Chimeraland
+type: post
+updated: 2022-10-06T06:46:56+07:00
+wordcount: 660
 ---
 
 <link

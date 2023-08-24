@@ -14,7 +14,6 @@ description: "Input into chrome address bar
 excerpt: "Input into chrome address bar
   chrome://flags/allow-insecure-localhostenable it, then restart the chrome
   browser. seems like this :"
-id: 232c7aed-249f-4888-8cad-91ec4c403637
 lang: en
 photos:
   - https://1.bp.blogspot.com/-eg2mJWQjW-A/XPEQ2UeWMCI/AAAAAAAAAZU/_CDwADdk058CT_Iu1TMGtcURu6Y5vMHkwCLcBGAs/s320/WhatsApp%2BImage%2B2019-05-31%2Bat%2B6.30.22%2BPM.jpeg
@@ -27,7 +26,6 @@ thumbnail: https://1.bp.blogspot.com/-eg2mJWQjW-A/XPEQ2UeWMCI/AAAAAAAAAZU/_CDwAD
 title: Chrome Allow Localhost SSL XAMPP
 type: post
 updated: 2023-08-08T14:45:31+07:00
-uuid: 7210af33-e7f0-4888-88c5-35871047a0e0
 wordcount: 61
 ---
 

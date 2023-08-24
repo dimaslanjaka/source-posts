@@ -14,7 +14,6 @@ excerpt: debug memory leaks with jest based on stackoverflowYou can try to use
   --logHeapUsageFrom documentation:Logs the heap usage after every test. Useful
   to debug memory leaks. Use together with --runInBand and --expose-gc in
   node.You can try exposing the garbage collector with --expose-gc and addin
-id: 53ecb793-d361-4888-8869-2bc2ac103d1e
 lang: en
 photos: []
 subtitle: debug memory leaks with jest based on stackoverflowYou can try to use

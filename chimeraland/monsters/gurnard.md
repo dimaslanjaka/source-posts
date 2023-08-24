@@ -1,21 +1,123 @@
 ---
-title: Monster Gurnard
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T12:57:12+07:00
-date: 2023-05-25T00:40:10+07:00
-permalink: /chimeraland/monsters/gurnard.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gurnard
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T00:40:10+07:00
+description: "Monster Gurnard Gurnard Information from Chimeraland
+
+  \    Gurnard default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \          "
+excerpt: "Monster Gurnard Gurnard Information from Chimeraland
+
+  \    Gurnard default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \          "
+permalink: /chimeraland/monsters/gurnard.html
+photos:
+  - null
+subtitle: "Monster Gurnard Gurnard Information from Chimeraland
+
+  \    Gurnard default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \          "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Gurnard
+title: Monster Gurnard
+type: post
+updated: 2023-05-25T12:57:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

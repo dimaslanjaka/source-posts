@@ -1,23 +1,68 @@
 ---
-title: Recipe Meat Noodles Chimeraland
 author: L3n4r0x
-updated: 2022-10-07T00:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-11T00:56:03+07:00
+description: |-
+  Recipe Meat Noodles Chimeraland Meat Noodles Cooking Recipe
+                
+                Buff Meat Noodles
+                
+                  
+                    +600 fullness
+                    +250 atk
+                  
+                
+                recipe
+              
+              
+                webmanaje
+excerpt: |-
+  Recipe Meat Noodles Chimeraland Meat Noodles Cooking Recipe
+                
+                Buff Meat Noodles
+                
+                  
+                    +600 fullness
+                    +250 atk
+                  
+                
+                recipe
+              
+              
+                webmanaje
+lang: en
 permalink: /chimeraland/recipes/meat-noodles.html
 photos:
   - /chimeraland/recipes/meat-noodles/meat-noodles.webp
   - /chimeraland/recipes/meat-noodles/meat-noodles-name.webp
   - /chimeraland/recipes/meat-noodles/meat-noodles-icon.webp
   - /chimeraland/recipes/meat-noodles/meat-noodles-material.webp
-thumbnail: /chimeraland/recipes/meat-noodles/meat-noodles.webp
+subtitle: |-
+  Recipe Meat Noodles Chimeraland Meat Noodles Cooking Recipe
+                
+                Buff Meat Noodles
+                
+                  
+                    +600 fullness
+                    +250 atk
+                  
+                
+                recipe
+              
+              
+                webmanaje
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/meat-noodles/meat-noodles.webp
+title: Recipe Meat Noodles Chimeraland
+type: post
+updated: 2022-10-07T00:46:54+07:00
+wordcount: 1051
 ---
 
 <link

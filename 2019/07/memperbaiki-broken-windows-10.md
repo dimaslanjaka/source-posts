@@ -12,7 +12,6 @@ description: Tutorial mengatasi windows 0 tanpa kehilangan data settings,
   aplikasi, file GPT MBR both supported Permasalahan /
 excerpt: Tutorial mengatasi windows 0 tanpa kehilangan data settings, aplikasi,
   file GPT MBR both supported Permasalahan /
-id: 3a230a77-e0c7-4888-87a8-807785aac928
 lang: en
 photos:
   - https://1.bp.blogspot.com/-uIxGKxlwpuU/XTIpx8O5NDI/AAAAAAAAAbA/qVaaGh3genIYBE0rl0PDNTnt6RznLulJQCLcBGAs/s1600/2513807.jpg
@@ -24,7 +23,6 @@ thumbnail: https://1.bp.blogspot.com/-uIxGKxlwpuU/XTIpx8O5NDI/AAAAAAAAAbA/qVaaGh
 title: Memperbaiki Broken Windows 10 Installation
 type: post
 updated: 2023-08-08T14:45:30+07:00
-uuid: ba38e1a4-1f2c-4888-8289-3ccfcf4407ab
 wordcount: 2108
 ---
 

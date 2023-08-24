@@ -1,23 +1,98 @@
 ---
-title: Recipe New Year Dumplings Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T18:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-10T21:56:03+07:00
+description: "Recipe New Year Dumplings Chimeraland New Year Dumplings Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff New Year Dumplings
+
+  \             \ 
+
+  \               \ 
+
+  \                  660 Fullness
+
+  \                  +100 RES
+
+  \                  Great Focus
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \  "
+excerpt: "Recipe New Year Dumplings Chimeraland New Year Dumplings Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff New Year Dumplings
+
+  \             \ 
+
+  \               \ 
+
+  \                  660 Fullness
+
+  \                  +100 RES
+
+  \                  Great Focus
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \  "
+lang: en
 permalink: /chimeraland/recipes/new-year-dumplings.html
 photos:
   - /chimeraland/recipes/new-year-dumplings/new-year-dumplings.webp
   - /chimeraland/recipes/new-year-dumplings/new-year-dumplings-name.webp
   - /chimeraland/recipes/new-year-dumplings/new-year-dumplings-icon.webp
   - /chimeraland/recipes/new-year-dumplings/new-year-dumplings-material.webp
-thumbnail: /chimeraland/recipes/new-year-dumplings/new-year-dumplings.webp
+subtitle: "Recipe New Year Dumplings Chimeraland New Year Dumplings Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff New Year Dumplings
+
+  \             \ 
+
+  \               \ 
+
+  \                  660 Fullness
+
+  \                  +100 RES
+
+  \                  Great Focus
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \  "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/new-year-dumplings/new-year-dumplings.webp
+title: Recipe New Year Dumplings Chimeraland
+type: post
+updated: 2022-10-06T18:46:54+07:00
+wordcount: 828
 ---
 
 <link

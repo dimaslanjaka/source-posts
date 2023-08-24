@@ -16,7 +16,6 @@ excerpt: Tutorial install git-filter-repo Requirements for installing
   python -m pip install git-filter-repo Usage git filter-repo --path
   FOLDER-NAME/ Troubleshooting pip is missing python -m pip install --upgrade
   pip
-id: 20d9adb9-a59b-4888-8056-79ab1d0ed980
 lang: en
 photos:
   - https://i.ytimg.com/vi/HV8hfmwDlPY/maxresdefault.jpg

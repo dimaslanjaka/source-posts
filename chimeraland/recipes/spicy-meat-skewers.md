@@ -1,23 +1,98 @@
 ---
-title: Recipe Spicy Meat Skewers Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T02:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-12T02:56:03+07:00
+description: "Recipe Spicy Meat Skewers Chimeraland Spicy Meat Skewers Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Spicy Meat Skewers
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  Crit Damage Deals 4%
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \       "
+excerpt: "Recipe Spicy Meat Skewers Chimeraland Spicy Meat Skewers Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Spicy Meat Skewers
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  Crit Damage Deals 4%
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \       "
+lang: en
 permalink: /chimeraland/recipes/spicy-meat-skewers.html
 photos:
   - /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers.webp
   - /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers-name.webp
   - /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers-icon.webp
   - /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers-material.webp
-thumbnail: /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers.webp
+subtitle: "Recipe Spicy Meat Skewers Chimeraland Spicy Meat Skewers Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Spicy Meat Skewers
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  Crit Damage Deals 4%
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \       "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/spicy-meat-skewers/spicy-meat-skewers.webp
+title: Recipe Spicy Meat Skewers Chimeraland
+type: post
+updated: 2022-10-06T02:46:55+07:00
+wordcount: 726
 ---
 
 <link

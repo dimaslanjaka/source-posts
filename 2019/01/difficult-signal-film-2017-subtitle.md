@@ -12,7 +12,6 @@ description: Watching Difficult Signal Movies 2017 Indonesian Subtitles - A
   single mother struggle to find balance between her career and
 excerpt: Watching Difficult Signal Movies 2017 Indonesian Subtitles - A single
   mother struggle to find balance between her career and
-id: 0f9e54f7-b366-4888-8253-f8968ac745b0
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Difficult Signal Film 2017 Subtitle Indonesia Movie
 type: post
 updated: 2023-08-08T14:45:34+07:00
-uuid: f3469b99-66f9-4888-8b1f-e0e63872bcab
 wordcount: 518
 ---
 

@@ -18,7 +18,6 @@ excerpt: Cara Memperbaiki komputer lelet Memperbaiki komputer lelet atau lemot
   faktor lainnyaDMA Direct Memory Access mode telah berubah menjadi PIO
   Processor Input Output mode karena keseringan hang atau error, sehingga
   program
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://imgdb.net/images/3181.png
@@ -33,7 +32,6 @@ thumbnail: https://imgdb.net/images/3181.png
 title: Cara Memperbaiki komputer lelet
 type: post
 updated: 2023-08-08T14:45:48+07:00
-uuid: 1e8b4deb-db5b-4888-8312-9a8574d682d3
 wordcount: 3771
 ---
 

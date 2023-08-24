@@ -12,7 +12,6 @@ description: "Text HTML Tutorial Part : How to Make HTML Without Text Format pre
   tags and tag code In the HTML, to display the text in order"
 excerpt: "Text HTML Tutorial Part : How to Make HTML Without Text Format pre
   tags and tag code In the HTML, to display the text in order"
-id: 31d15063-0b4a-4888-82b8-29056ad97a1f
 lang: en
 photos:
   - https://lh3.googleusercontent.com/proxy/OJWB1B8t8vRrLSxK6kaSpqIC5_Qs2dO1XoRwPDzu3_Bd221wjlh0rpTomRwyZlUtrmkMw2DLJ-KKN78v5L4XQLFbshEZtu5ZqlrbHwJReRgklNkx4swVr0ffz200BtqCdIMeW9PIrLoU_PNgyISDAcz45W-Fv0rtpgL6K4AjP_Pqx4MKDg
@@ -24,7 +23,6 @@ thumbnail: https://lh3.googleusercontent.com/proxy/OJWB1B8t8vRrLSxK6kaSpqIC5_Qs2
 title: How to Make HTML Without Text Format pre tags and tag code
 type: post
 updated: 2023-08-08T14:45:59+07:00
-uuid: 0c88eaf9-ab13-4888-86b9-f4e3cf061c18
 wordcount: 2766
 ---
 

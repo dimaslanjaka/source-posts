@@ -12,7 +12,6 @@ description: In modern times, technology is developing faster and faster.
   Especially in the field of communication, the Internet has now become the
 excerpt: In modern times, technology is developing faster and faster. Especially
   in the field of communication, the Internet has now become the
-id: 76cab46b-cbfc-4888-8215-65f222d9fa32
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Steps How to Create Cool and Ready Famous Vlog
 type: post
 updated: 2023-08-08T14:45:43+07:00
-uuid: 7c561270-37f4-4888-8ad5-c5e3bb247888
 wordcount: 3343
 ---
 

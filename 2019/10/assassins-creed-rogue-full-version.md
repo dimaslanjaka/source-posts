@@ -12,7 +12,6 @@ description: Web Development Indonesia After a while ago we had distributed
   Dragon Ball game, now a reborn game made by Ubisoft. Yes, hearing that
 excerpt: Web Development Indonesia After a while ago we had distributed Dragon
   Ball game, now a reborn game made by Ubisoft. Yes, hearing that
-id: d5ea55cb-a1f1-4888-88f8-ef1fd277586e
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.com/wp-content/uploads/2015/03/Untitled-2.png
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas
 title: Assassins Creed Rogue Full Version
 type: post
 updated: 2023-08-08T14:45:28+07:00
-uuid: 5dbe678c-349f-4888-84ce-7f07c1107aec
 wordcount: 2056
 ---
 

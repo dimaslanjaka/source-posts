@@ -1,22 +1,118 @@
 ---
-title: Monster Grouguana
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T12:58:12+07:00
-date: 2022-01-08T11:56:03+07:00
-permalink: /chimeraland/monsters/grouguana.html
-photos:
-  - null
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grouguana
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2022-01-08T11:56:03+07:00
+description: "Monster Grouguana Grouguana Information from Chimeraland
+
+  \    Grouguana default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                62
+
+  \             \ 
+
+  \   "
+excerpt: "Monster Grouguana Grouguana Information from Chimeraland
+
+  \    Grouguana default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                62
+
+  \             \ 
+
+  \   "
+permalink: /chimeraland/monsters/grouguana.html
+photos:
+  - null
+  - null
+subtitle: "Monster Grouguana Grouguana Information from Chimeraland
+
+  \    Grouguana default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                62
+
+  \             \ 
+
+  \   "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Grouguana
+title: Monster Grouguana
+type: post
+updated: 2023-05-25T12:58:12+07:00
+webtitle: chimeraland
+wordcount: 730
 ---
 
 <link

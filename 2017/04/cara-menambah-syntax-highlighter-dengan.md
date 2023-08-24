@@ -12,7 +12,6 @@ description: h2>Bagaimana cara menambah syntax highlighter dengan prettyprint
   tanpa mengurangi waktu response loading blog.</h2><img height=207
 excerpt: h2>Bagaimana cara menambah syntax highlighter dengan prettyprint tanpa
   mengurangi waktu response loading blog.</h2><img height=207
-id: 455762fc-d647-4888-8548-647a52de1857
 lang: en
 photos:
   - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSJoxKxnt9n6oeRW1QcYweC0Y5-T_t-bexOhydafI1lnSIDQx
@@ -29,7 +28,6 @@ title: Cara menambah syntax highlighter dengan prettyprint di blog tanpa
   mengurangi kecepatan loading website 100 Work Tested
 type: post
 updated: 2023-08-08T14:46:01+07:00
-uuid: 91708df3-7078-4888-850d-3231dff222a2
 wordcount: 566
 ---
 

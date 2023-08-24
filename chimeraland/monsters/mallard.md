@@ -1,21 +1,117 @@
 ---
-title: Monster Mallard
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T05:15:12+07:00
-date: 2022-01-09T05:56:03+07:00
-permalink: /chimeraland/monsters/mallard.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mallard
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2022-01-09T05:56:03+07:00
+description: "Monster Mallard Mallard Information from Chimeraland
+
+  \    Mallard default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                62
+
+  \             \ 
+
+  \         "
+excerpt: "Monster Mallard Mallard Information from Chimeraland
+
+  \    Mallard default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                62
+
+  \             \ 
+
+  \         "
+permalink: /chimeraland/monsters/mallard.html
+photos:
+  - null
+subtitle: "Monster Mallard Mallard Information from Chimeraland
+
+  \    Mallard default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                B GRAND - EPIC
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                62
+
+  \             \ 
+
+  \         "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mallard
+title: Monster Mallard
+type: post
+updated: 2023-05-25T05:15:12+07:00
+webtitle: chimeraland
+wordcount: 659
 ---
 
 <link

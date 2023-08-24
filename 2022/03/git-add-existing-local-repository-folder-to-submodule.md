@@ -6,7 +6,6 @@ comments: true
 date: 2022-03-31T15:38:52+0000
 description: how to add existing local repository folder to submodule
 excerpt: how to add existing local repository folder to submodule
-id: df364b7a-2f1e-4888-8f8f-2a34a28ccdce
 lang: en
 photos: []
 subtitle: how to add existing local repository folder to submodule

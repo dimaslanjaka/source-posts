@@ -1,9 +1,73 @@
 ---
-title: Attendant fighthog
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-09T01:16:58+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2023-02-09T01:05:58+07:00
+description: "Attendant fighthog fighthog Information from Chimeraland
+
+  \    fighthog default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
+excerpt: "Attendant fighthog fighthog Information from Chimeraland
+
+  \    fighthog default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
 permalink: /chimeraland/attendants/fighthog.html
 photos:
   - /chimeraland/attendants/fighthog/Screenshot_2023-01-31-19-21-11-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,14 +76,46 @@ photos:
   - /chimeraland/attendants/fighthog/Screenshot_2023-01-31-19-21-28-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/fighthog/Screenshot_2023-01-31-19-21-33-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/fighthog/Screenshot_2023-01-31-19-21-37-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/fighthog/Screenshot_2023-01-31-19-21-11-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant fighthog fighthog Information from Chimeraland
+
+  \    fighthog default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \          "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/fighthog/Screenshot_2023-01-31-19-21-11-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant fighthog
+type: post
+updated: 2023-02-09T01:16:58+07:00
+webtitle: chimeraland
+wordcount: 988
 ---
 
 <link

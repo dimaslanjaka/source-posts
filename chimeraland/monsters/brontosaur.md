@@ -1,9 +1,73 @@
 ---
-title: Monster brontosaur
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-24T19:55:43+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-02-24T19:44:43+07:00
+description: "Monster brontosaur brontosaur Information from Chimeraland
+
+  \    brontosaur default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \      "
+excerpt: "Monster brontosaur brontosaur Information from Chimeraland
+
+  \    brontosaur default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \      "
 permalink: /chimeraland/monsters/brontosaur.html
 photos:
   - /chimeraland/monsters/brontosaur/Screenshot_2023-02-22-22-10-05-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +78,47 @@ photos:
   - /chimeraland/monsters/brontosaur/Screenshot_2023-02-22-22-10-38-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/brontosaur/Screenshot_2023-02-22-22-10-46-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/brontosaur/Screenshot_2023-02-22-22-10-51-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/brontosaur/Screenshot_2023-02-22-22-10-05-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster brontosaur brontosaur Information from Chimeraland
+
+  \    brontosaur default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \      "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/brontosaur/Screenshot_2023-02-22-22-10-05-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster brontosaur
+type: post
+updated: 2023-02-24T19:55:43+07:00
+webtitle: chimeraland
+wordcount: 1130
 ---
 
 <link

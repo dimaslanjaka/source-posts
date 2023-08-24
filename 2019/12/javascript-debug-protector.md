@@ -12,7 +12,6 @@ description: How to protect javascript from developer tools here the answer. put
   this code into your page or template before closing body
 excerpt: How to protect javascript from developer tools here the answer. put
   this code into your page or template before closing body
-id: b12aede5-63c7-4888-8a27-b8a92ebadc54
 lang: en
 photos:
   - https://i.ytimg.com/vi/8VyzRlxo2-k/maxresdefault.jpg
@@ -27,7 +26,6 @@ thumbnail: https://i.ytimg.com/vi/8VyzRlxo2-k/maxresdefault.jpg
 title: Javascript Debug Protector
 type: post
 updated: 2023-08-08T14:45:16+07:00
-uuid: 5081493b-4b80-4888-890c-0c028fa074bc
 wordcount: 250
 ---
 

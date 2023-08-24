@@ -1,19 +1,121 @@
 ---
-title: Monster Rockram
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-10-01T17:18:27+07:00
-date: 2022-01-09T17:56:03+07:00
-permalink: /chimeraland/monsters/rockram.html
-photos: []
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2022-01-09T17:56:03+07:00
+description: "Monster Rockram Rockram Information from Chimeraland
+
+  \    Rockram default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                50
+
+  \             \ 
+
+  \             \ 
+
+  \  "
+excerpt: "Monster Rockram Rockram Information from Chimeraland
+
+  \    Rockram default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                50
+
+  \             \ 
+
+  \             \ 
+
+  \  "
+permalink: /chimeraland/monsters/rockram.html
+photos: []
+subtitle: "Monster Rockram Rockram Information from Chimeraland
+
+  \    Rockram default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                50
+
+  \             \ 
+
+  \             \ 
+
+  \  "
+tags:
+  - chimeraland
+  - monster
+  - pet
+title: Monster Rockram
+type: post
+updated: 2022-10-01T17:18:27+07:00
+webtitle: chimeraland
+wordcount: 525
 ---
 
 <link

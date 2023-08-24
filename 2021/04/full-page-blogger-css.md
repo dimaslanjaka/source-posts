@@ -10,7 +10,6 @@ cover: https://1.bp.blogspot.com/-kKrjUF3L7_w/YJyInp5cH-I/AAAAAAAAABU/km6DnnEqjR
 date: 2021-04-27T21:18:00.008+07:00
 description: OR
 excerpt: OR
-id: 1d00e7dc-692e-4888-8dc3-6877f035e3a6
 lang: en
 photos:
   - https://1.bp.blogspot.com/-kKrjUF3L7_w/YJyInp5cH-I/AAAAAAAAABU/km6DnnEqjRAoXHTYYpg8BCg1VcbjPCOvgCLcBGAsYHQ/s0/Screenshot_1.png
@@ -22,7 +21,6 @@ thumbnail: https://1.bp.blogspot.com/-kKrjUF3L7_w/YJyInp5cH-I/AAAAAAAAABU/km6Dnn
 title: Full page blogger css
 type: post
 updated: 2023-08-08T14:45:11+07:00
-uuid: 972fc323-d5ed-4888-8491-bfa6b8cb7607
 wordcount: 348
 ---
 

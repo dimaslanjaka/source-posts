@@ -18,7 +18,6 @@ excerpt: NPM Package Agent For Programmer In China .yarnrc
   https://npm.taobao.org/dist/phantomjs/electron_mirror
   https://npm.taobao.org/mirrors/electron/electron_builder_binaries_mirror
   https://npm.taobao.org/mi
-id: e928cc88-ff3e-4888-895d-572b636ea311
 lang: en
 photos: []
 subtitle: NPM Package Agent For Programmer In China .yarnrc

@@ -12,7 +12,6 @@ description: "Download lagu GIGI Kota Santri Mp3 DENTAL - City of Santri Listen:
   23,847 Duration: 210 MP3 size: 3.28MB Download Links"
 excerpt: "Download lagu GIGI Kota Santri Mp3 DENTAL - City of Santri Listen:
   23,847 Duration: 210 MP3 size: 3.28MB Download Links"
-id: dd8e4274-29db-4888-82e7-28d1e6dcecc3
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/1514e477dae70eb7cf2ad5f8ad1d5a98.jpeg
@@ -24,7 +23,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/1514e477dae70e
 title: Download lagu GIGI - Kota Santri Mp3
 type: post
 updated: 2023-08-08T14:45:27+07:00
-uuid: 0e318dca-6edf-4888-88aa-562760d5141a
 wordcount: 1141
 ---
 

@@ -12,7 +12,6 @@ description: Amazon offers a PHP SDK for taking care of AWS and S asks for, yet
   it tips the scales at more than 500 documents and almost 5MB. In the
 excerpt: Amazon offers a PHP SDK for taking care of AWS and S asks for, yet it
   tips the scales at more than 500 documents and almost 5MB. In the
-id: 1ee135ee-59c6-4888-8771-84d070c515c3
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: PHP Amazon S3 File Upload Code AWS Signature Version 4
 type: post
 updated: 2023-08-08T14:45:51+07:00
-uuid: b44a833c-625f-4888-881b-88122d881b86
 wordcount: 842
 ---
 

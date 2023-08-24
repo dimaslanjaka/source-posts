@@ -1,21 +1,117 @@
 ---
-title: Monster Frost Lobcray
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T11:05:12+07:00
-date: 2023-05-25T02:21:12+07:00
-permalink: /chimeraland/monsters/frost-lobcray.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Lobcray
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T02:21:12+07:00
+description: "Monster Frost Lobcray Frost Lobcray Information from Chimeraland
+
+  \    Frost Lobcray default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \       "
+excerpt: "Monster Frost Lobcray Frost Lobcray Information from Chimeraland
+
+  \    Frost Lobcray default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \       "
+permalink: /chimeraland/monsters/frost-lobcray.html
+photos:
+  - null
+subtitle: "Monster Frost Lobcray Frost Lobcray Information from Chimeraland
+
+  \    Frost Lobcray default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \       "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Lobcray
+title: Monster Frost Lobcray
+type: post
+updated: 2023-05-25T11:05:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

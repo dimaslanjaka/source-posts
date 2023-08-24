@@ -1,9 +1,44 @@
 ---
-title: Common Settings For .bashrc
-tags: [bash]
-category: [programming]
+categories:
+  - programming
+comments: true
 date: 2023-08-24T07:00:51+07:00
+description: |-
+  Common Settings For .bashrc # custom NodeJS executable paths
+  if [ -d "/media/dimaslanjaka/DATA/bin/node/linux/bin" ] ; then
+      export PATH="$PATH:/media/dimaslanjaka/DATA/bin/node/linux/bin"
+  fi
+  # search executable files <cwd>/bin
+  if [ -d "./bin" ] ; then
+      export PATH="$PATH:./bin"
+  fi
+  # search ex
+excerpt: |-
+  Common Settings For .bashrc # custom NodeJS executable paths
+  if [ -d "/media/dimaslanjaka/DATA/bin/node/linux/bin" ] ; then
+      export PATH="$PATH:/media/dimaslanjaka/DATA/bin/node/linux/bin"
+  fi
+  # search executable files <cwd>/bin
+  if [ -d "./bin" ] ; then
+      export PATH="$PATH:./bin"
+  fi
+  # search ex
+subtitle: |-
+  Common Settings For .bashrc # custom NodeJS executable paths
+  if [ -d "/media/dimaslanjaka/DATA/bin/node/linux/bin" ] ; then
+      export PATH="$PATH:/media/dimaslanjaka/DATA/bin/node/linux/bin"
+  fi
+  # search executable files <cwd>/bin
+  if [ -d "./bin" ] ; then
+      export PATH="$PATH:./bin"
+  fi
+  # search ex
+tags:
+  - bash
+title: Common Settings For .bashrc
+type: post
 updated: 2023-08-24T17:39:41+07:00
+wordcount: 372
 ---
 
 ```properties

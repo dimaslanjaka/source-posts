@@ -15,7 +15,6 @@ excerpt: "Gulp execute commands without plugin solution for executing shell
   gulp.watch Using exec child_process. exec takes one string that will be parsed
   by the shell, and it silences output by default. exec child_process exec Below
   codes "
-id: 01899a38-2bf7-4888-8647-9caacf882b39
 lang: en
 photos: []
 subtitle: "Gulp execute commands without plugin solution for executing shell

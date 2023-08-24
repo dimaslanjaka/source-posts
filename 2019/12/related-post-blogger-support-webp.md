@@ -12,7 +12,6 @@ description: Related Post Blogger Support WEBP Related Blogger Post Support WEBP
   After the previous post we got a solution for Blogger thumbnails to
 excerpt: Related Post Blogger Support WEBP Related Blogger Post Support WEBP
   After the previous post we got a solution for Blogger thumbnails to
-id: f1a5051d-6d4d-4888-8054-7faf231991c4
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/4d5a3d96d1f59cec23878a9b1e7ee970.jpeg
@@ -26,7 +25,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/4d5a3d96d1f5
 title: Related Post Blogger Support WEBP
 type: post
 updated: 2023-08-08T14:45:15+07:00
-uuid: bc803e2f-ab84-4888-83f2-4ff4d207af85
 wordcount: 3524
 ---
 

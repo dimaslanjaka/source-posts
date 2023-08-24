@@ -1,14 +1,19 @@
 ---
-title: Senjo craft lists
-description: Senjo item crafting lists
-date: 2022-06-17
-updated: 2022-07-07T09:39:00+0700
-category:
+categories:
   - games
   - Chimeraland
+comments: true
+date: 2022-06-17
+description: Senjo item crafting lists
+excerpt: Senjo item crafting lists
+subtitle: Senjo item crafting lists
 tags:
   - Chimeraland
   - Craft
+title: Senjo craft lists
+type: post
+updated: 2022-07-07T09:39:00+0700
+wordcount: 301
 ---
 
 <!-- include index2/update.html -->

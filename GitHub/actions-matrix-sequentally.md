@@ -13,7 +13,6 @@ excerpt: "Github Workflows Run Strategy Matrix Sequentally How to setup github
   action matrix to be run sequentally or series each job ? Conclusing Just add
   below codes: jobs: deploy: runs-on: ubuntu-latest strategy: When set to true,
   GitHub cancels all in-progress jobs if any matrix job fail"
-id: a49e784d-3e3d-4888-8eee-4844e472dd65
 lang: en
 photos: []
 subtitle: "Github Workflows Run Strategy Matrix Sequentally How to setup github

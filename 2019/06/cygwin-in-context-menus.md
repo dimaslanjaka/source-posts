@@ -12,7 +12,6 @@ description: How might I make a Cygwin alternate way that will open Cygwin at a
   particular envelope This would hinder composing cd
 excerpt: How might I make a Cygwin alternate way that will open Cygwin at a
   particular envelope This would hinder composing cd
-id: 7db66f2d-bfa5-4888-8b7a-369b12571f51
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image3.mouthshut.com/images/imagesp/925039881s.png
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image3.mo
 title: Cygwin In Context Menus
 type: post
 updated: 2023-08-08T14:45:31+07:00
-uuid: 68ca946d-b045-4888-8151-ea26e99578b6
 wordcount: 500
 ---
 

@@ -12,7 +12,6 @@ description: Download Korean Drama The Last Empress Indonesian Subtitles Oh
   SsuNi Jang Na-Ra is a musical actress with a bright
 excerpt: Download Korean Drama The Last Empress Indonesian Subtitles Oh SsuNi
   Jang Na-Ra is a musical actress with a bright
-id: 78abad1c-78dd-4888-86fc-d607db80c13c
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://t7j2r8j8.stackpathcdn.com/wp-content/uploads/2018/11/Download-Drama-Korea-The-Last-Empress-Subtitle-Indonesia-678x381.jpg
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://t7j2r8j8.
 title: Download Drama Korea The Last Empress Subtitle Indonesia
 type: post
 updated: 2023-08-08T14:45:35+07:00
-uuid: 055ba019-8c6e-4888-85e9-88619fa02051
 wordcount: 5450
 ---
 

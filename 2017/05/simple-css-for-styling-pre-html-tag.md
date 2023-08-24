@@ -12,7 +12,6 @@ description: Styling pre> tag using simple css code Description of <pre> tag on
   HTML The HTML <pre> tag is employed for indicating
 excerpt: Styling pre> tag using simple css code Description of <pre> tag on HTML
   The HTML <pre> tag is employed for indicating
-id: cf180a80-446a-4888-89e6-505ac1943830
 lang: en
 photos:
   - https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPU5mp9B9Vq99lF8d8-apVN1I1DoiA9DcmpTwYsP1MY5hRB8oY
@@ -25,7 +24,6 @@ thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPU5mp9B9Vq99lF
 title: Simple CSS for Styling pre html tag
 type: post
 updated: 2023-08-08T14:45:54+07:00
-uuid: 3fa28066-8726-4888-897a-41e981e9c37a
 wordcount: 912
 ---
 

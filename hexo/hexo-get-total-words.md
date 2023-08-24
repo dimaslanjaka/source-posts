@@ -15,7 +15,6 @@ excerpt: Get total words of hexo post Hexo script to get words count of a post
   /hexo.extend.helper.registerword_count, content => content =
   content.replace/<\/?[a-z][^>]>/gi, ; content = content.trim; return content ?
   content.ma
-id: fef1bea3-5e4c-4888-8da4-594960685599
 lang: en
 photos: []
 subtitle: Get total words of hexo post Hexo script to get words count of a post

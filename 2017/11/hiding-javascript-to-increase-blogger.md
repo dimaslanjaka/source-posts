@@ -12,7 +12,6 @@ description: Me often find comments on blogs Mascots inquiring about blogger
   widgets that can not be performed, such as the blogs stat
 excerpt: Me often find comments on blogs Mascots inquiring about blogger widgets
   that can not be performed, such as the blogs stat
-id: 49c5fd8e-74de-4888-8d77-11f6a27905cd
 lang: en
 photos:
   - https://lh5.googleusercontent.com/proxy/zOJPQmOxXy895GIkyGjPcsnz3xVCQZGUJhgMGWk2BJS4JNQcjbpMUA9IeG5TdHv9Yv0q5USG8ipopidYGRGZUZgo-yGy2zPcevf0iMrMACluVNuYUgrAOQ=w300-h300-nc
@@ -25,7 +24,6 @@ thumbnail: https://lh5.googleusercontent.com/proxy/zOJPQmOxXy895GIkyGjPcsnz3xVCQ
 title: Hiding javascript to increase blogger blog speed
 type: post
 updated: 2023-08-08T14:45:43+07:00
-uuid: 03edbb56-cb36-4888-8644-056f684badbd
 wordcount: 1346
 ---
 

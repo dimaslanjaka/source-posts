@@ -12,7 +12,6 @@ description: "Simple PrismJS Syntax Highlighter pre> <code> Not Single Usage:
   <pre><code>code block</code></pre> <h3>Welcome to the real-time"
 excerpt: "Simple PrismJS Syntax Highlighter pre> <code> Not Single Usage:
   <pre><code>code block</code></pre> <h3>Welcome to the real-time"
-id: 61611aaa-cb16-4888-8615-6d215f3490bd
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Simple PrismJS
 type: post
 updated: 2023-08-08T14:45:14+07:00
-uuid: 4bf33ddf-e2b8-4888-8297-330cae7afbcc
 wordcount: 5470
 ---
 

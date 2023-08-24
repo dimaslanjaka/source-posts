@@ -12,7 +12,6 @@ description: Samsung Galaxy A 2018 First Smartphone with Four Cameras Digital
   Mobile Phones - Samsung Galaxy A9 is an attractive smart
 excerpt: Samsung Galaxy A 2018 First Smartphone with Four Cameras Digital Mobile
   Phones - Samsung Galaxy A9 is an attractive smart
-id: d5abfdea-8f81-4888-81b8-93d961e27c2e
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.digitalponsel.com/wp-content/uploads/2018/11/xSamsung-Galaxy-A9.jpg.pagespeed.ic.BISLCcxlaz.jpg
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.digit
 title: Samsung Galaxy A9 2018 First Smartphone with Four Cameras
 type: post
 updated: 2023-08-08T14:45:34+07:00
-uuid: b5e2b450-9b00-4888-8e3e-e436ab1d1963
 wordcount: 8890
 ---
 

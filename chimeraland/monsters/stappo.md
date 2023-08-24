@@ -1,9 +1,19 @@
 ---
-title: Monster Stappo
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T11:04:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-10T22:56:03+07:00
+description: "monster Stappo default quality GRADE B ATK 60 HP 64 DEF 56 PvP
+  Damage Bonus 4.8%,Attributes Conversion Rate 4.0%,Essence Aspect: Fermount
+  delicacies/tasty Brined Silkhopper Meat,Pepper Salt Scorpion Pincer,Bear Ball
+  Pot games,chimeraland,monsters chimeraland,monster,pet"
+excerpt: "monster Stappo default quality GRADE B ATK 60 HP 64 DEF 56 PvP Damage
+  Bonus 4.8%,Attributes Conversion Rate 4.0%,Essence Aspect: Fermount
+  delicacies/tasty Brined Silkhopper Meat,Pepper Salt Scorpion Pincer,Bear Ball
+  Pot games,chimeraland,monsters chimeraland,monster,pet"
 permalink: /chimeraland/monsters/stappo.html
 photos:
   - null
@@ -15,19 +25,20 @@ photos:
   - /chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-33-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-39-56_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/stappo/Screenshot_2022-08-18-02-51-43-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stappo
+subtitle: "monster Stappo default quality GRADE B ATK 60 HP 64 DEF 56 PvP Damage
+  Bonus 4.8%,Attributes Conversion Rate 4.0%,Essence Aspect: Fermount
+  delicacies/tasty Brined Silkhopper Meat,Pepper Salt Scorpion Pincer,Bear Ball
+  Pot games,chimeraland,monsters chimeraland,monster,pet"
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
-description: "monster Stappo default quality GRADE B ATK 60 HP 64 DEF 56 PvP
-  Damage Bonus 4.8%,Attributes Conversion Rate 4.0%,Essence Aspect: Fermount
-  delicacies/tasty Brined Silkhopper Meat,Pepper Salt Scorpion Pincer,Bear Ball
-  Pot games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Stappo
+title: Monster Stappo
+type: post
+updated: 2023-05-25T11:04:12+07:00
+webtitle: chimeraland
+wordcount: 1623
 ---
 
 <link

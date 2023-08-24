@@ -1,23 +1,56 @@
 ---
-title: Recipe Salt-Baked Fish Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T06:46:55+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-11T02:56:03+07:00
+description: |-
+  Recipe Salt-Baked Fish Chimeraland Salt-Baked Fish Cooking Recipe
+                
+                Buff Salt-Baked Fish
+                
+                  
+                    300 Fullness
+                    
+                      Temporarily Protect From Drowning (Even if your breath
+                      reached
+excerpt: |-
+  Recipe Salt-Baked Fish Chimeraland Salt-Baked Fish Cooking Recipe
+                
+                Buff Salt-Baked Fish
+                
+                  
+                    300 Fullness
+                    
+                      Temporarily Protect From Drowning (Even if your breath
+                      reached
+lang: en
 permalink: /chimeraland/recipes/salt-baked-fish.html
 photos:
   - /chimeraland/recipes/salt-baked-fish/salt-baked-fish.webp
   - /chimeraland/recipes/salt-baked-fish/salt-baked-fish-name.webp
   - /chimeraland/recipes/salt-baked-fish/salt-baked-fish-icon.webp
   - /chimeraland/recipes/salt-baked-fish/salt-baked-fish-material.webp
-thumbnail: /chimeraland/recipes/salt-baked-fish/salt-baked-fish.webp
+subtitle: |-
+  Recipe Salt-Baked Fish Chimeraland Salt-Baked Fish Cooking Recipe
+                
+                Buff Salt-Baked Fish
+                
+                  
+                    300 Fullness
+                    
+                      Temporarily Protect From Drowning (Even if your breath
+                      reached
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/salt-baked-fish/salt-baked-fish.webp
+title: Recipe Salt-Baked Fish Chimeraland
+type: post
+updated: 2022-10-06T06:46:55+07:00
+wordcount: 780
 ---
 
 <link

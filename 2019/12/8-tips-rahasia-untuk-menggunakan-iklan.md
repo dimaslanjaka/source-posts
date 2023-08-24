@@ -12,7 +12,6 @@ description: Secret Tips For Using Facebook Ads For Ecommerce Sebagai jaringan
   media sosial terbesar, Facebook adalah platform yang sangat baik untuk
 excerpt: Secret Tips For Using Facebook Ads For Ecommerce Sebagai jaringan media
   sosial terbesar, Facebook adalah platform yang sangat baik untuk
-id: ea2c3775-87ed-4888-88da-3a0030d604a7
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/670f120afdd78209155b405b071116c2.png
@@ -25,7 +24,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/670f120a
 title: 8 Tips Rahasia Untuk Menggunakan Iklan Facebook Untuk E-commerce
 type: post
 updated: 2023-08-08T14:45:24+07:00
-uuid: ef516bd5-d54b-4888-8d57-04dcce120615
 wordcount: 12328
 ---
 

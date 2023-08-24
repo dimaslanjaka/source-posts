@@ -17,7 +17,6 @@ excerpt: "Cara menggunakan Directory Bind Android Binding directories directory
   binder data on android. -> Tutorial cara menggunakan Directory bind di android
   Steps: Binding folder data game Install Aplikasi directory bind ->Download
   DisiniPergi ke pengaturan aplikasiUbah jalur data default Default Da"
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://imgdb.net/images/3180.jpg
@@ -32,7 +31,6 @@ thumbnail: https://imgdb.net/images/3180.jpg
 title: Cara menggunakan Directory Bind Android
 type: post
 updated: 2023-08-08T14:45:48+07:00
-uuid: 4fa5f9f7-2c69-4888-8b43-773a77c8f574
 wordcount: 560
 ---
 

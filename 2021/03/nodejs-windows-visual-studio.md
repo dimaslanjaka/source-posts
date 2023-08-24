@@ -13,7 +13,6 @@ description: ul> <li>Install <a
   target=_blank>Microsoft Visual Studio
 excerpt: ul> <li>Install <a href=https://visualstudio.microsoft.com/downloads/
   rel=nofollow noopener target=_blank>Microsoft Visual Studio
-id: eb477fd4-8807-4888-8153-93a8639b0e4b
 lang: en
 photos:
   - https://1.bp.blogspot.com/-bnFVYzCkPiw/YFvFWw2im6I/AAAAAAAAAAM/28Q_ctk1SuE-1pskAFYfvVREqij-nsjhACLcBGAsYHQ/s0/VStudio2019-NodeJS.png
@@ -26,7 +25,6 @@ thumbnail: https://1.bp.blogspot.com/-bnFVYzCkPiw/YFvFWw2im6I/AAAAAAAAAAM/28Q_ct
 title: Fix Error NodeJS Windows Visual Studio
 type: post
 updated: 2023-08-08T14:45:11+07:00
-uuid: 15dbb40f-cd38-4888-8fea-3f90f189a448
 wordcount: 150
 ---
 

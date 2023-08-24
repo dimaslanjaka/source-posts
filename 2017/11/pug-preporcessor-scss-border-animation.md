@@ -10,7 +10,6 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2017-11-17T11:46:00.000+07:00
 description: Normal HTML Compiled Before converted to PUG<script
 excerpt: Normal HTML Compiled Before converted to PUG<script
-id: fd86cab9-0c59-4888-81d4-b1caf6d96b09
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -21,7 +20,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Pug Preporcessor  SCSS border animation without svg
 type: post
 updated: 2023-08-08T14:45:43+07:00
-uuid: 43a883d6-5b11-4888-8da1-07e534f731be
 wordcount: 1200
 ---
 

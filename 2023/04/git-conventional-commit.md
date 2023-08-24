@@ -9,7 +9,6 @@ comments: true
 date: 2023-04-24T23:19:05+07:00
 description: Github Conventional Commit Messages
 excerpt: Github Conventional Commit Messages
-id: f140aca9-35e8-4888-82f2-a04ea3aee719
 lang: en
 photos: []
 subtitle: Github Conventional Commit Messages

@@ -1,9 +1,73 @@
 ---
-title: Monster centaurmina
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-24T22:55:43+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-02-24T22:44:43+07:00
+description: "Monster centaurmina centaurmina Information from Chimeraland
+
+  \    centaurmina default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \   "
+excerpt: "Monster centaurmina centaurmina Information from Chimeraland
+
+  \    centaurmina default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \   "
 permalink: /chimeraland/monsters/centaurmina.html
 photos:
   - /chimeraland/monsters/centaurmina/Screenshot_2023-02-22-14-57-44-90_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +77,47 @@ photos:
   - /chimeraland/monsters/centaurmina/Screenshot_2023-02-22-14-58-02-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/centaurmina/Screenshot_2023-02-22-14-58-06-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/centaurmina/Screenshot_2023-02-22-14-58-11-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/centaurmina/Screenshot_2023-02-22-14-57-44-90_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster centaurmina centaurmina Information from Chimeraland
+
+  \    centaurmina default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \   "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/centaurmina/Screenshot_2023-02-22-14-57-44-90_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster centaurmina
+type: post
+updated: 2023-02-24T22:55:43+07:00
+webtitle: chimeraland
+wordcount: 1059
 ---
 
 <link

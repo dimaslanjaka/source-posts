@@ -1,9 +1,45 @@
 ---
-title: Monster grand carnivore bloom
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-13T12:42:22+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-02-13T12:31:22+07:00
+description: >-
+  Monster grand carnivore bloom grand carnivore bloom Information from
+  Chimeraland
+      
+        grand carnivore bloom default maximum attribute
+      
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Att
+excerpt: >-
+  Monster grand carnivore bloom grand carnivore bloom Information from
+  Chimeraland
+      
+        grand carnivore bloom default maximum attribute
+      
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Att
 permalink: /chimeraland/monsters/grand-carnivore-bloom.html
 photos:
   - /chimeraland/monsters/grand-carnivore-bloom/Screenshot_2023-02-11-23-10-02-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,15 +48,33 @@ photos:
   - /chimeraland/monsters/grand-carnivore-bloom/Screenshot_2023-02-11-23-10-14-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/grand-carnivore-bloom/Screenshot_2023-02-11-23-10-19-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/grand-carnivore-bloom/Screenshot_2023-02-11-23-10-27-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/grand-carnivore-bloom/Screenshot_2023-02-11-23-10-02-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: >-
+  Monster grand carnivore bloom grand carnivore bloom Information from
+  Chimeraland
+      
+        grand carnivore bloom default maximum attribute
+      
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Att
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/grand-carnivore-bloom/Screenshot_2023-02-11-23-10-02-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster grand carnivore bloom
+type: post
+updated: 2023-02-13T12:42:22+07:00
+webtitle: chimeraland
+wordcount: 1172
 ---
 
 <link

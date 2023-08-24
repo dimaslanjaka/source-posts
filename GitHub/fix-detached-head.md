@@ -9,7 +9,6 @@ description: Now it turns out that the head is cut off/detached. i dont know
   what it is. How do I get it back?
 excerpt: Now it turns out that the head is cut off/detached. i dont know what it
   is. How do I get it back?
-id: 00b09b34-060f-4888-81d0-2f0a5ec8ab54
 keywords:
   - github
   - fix

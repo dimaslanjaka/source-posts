@@ -1,19 +1,70 @@
 ---
-title: Material Spirit Fox Primal Spirit Chimeraland
-date: 2022-01-11T18:56:03+07:00
-updated: 2022-10-03T18:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/spirit-fox-primal-spirit.html
-photos:
-  - /chimeraland/materials/spirit-fox-primal-spirit/spirit-fox-primal-spirit.webp
-thumbnail: /chimeraland/materials/spirit-fox-primal-spirit/spirit-fox-primal-spirit.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-11T18:56:03+07:00
+description: |-
+  Material Spirit Fox Primal Spirit Chimeraland materials
+          Spirit Fox Primal Spirit
+          October 3, 2022 6:26 PM
+          Continue reading Spirit Fox Primal Spirit
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              
+                What is the use of the Spirit Fox P
+excerpt: |-
+  Material Spirit Fox Primal Spirit Chimeraland materials
+          Spirit Fox Primal Spirit
+          October 3, 2022 6:26 PM
+          Continue reading Spirit Fox Primal Spirit
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              
+                What is the use of the Spirit Fox P
+permalink: /chimeraland/materials/spirit-fox-primal-spirit.html
+photos:
+  - /chimeraland/materials/spirit-fox-primal-spirit/spirit-fox-primal-spirit.webp
+subtitle: |-
+  Material Spirit Fox Primal Spirit Chimeraland materials
+          Spirit Fox Primal Spirit
+          October 3, 2022 6:26 PM
+          Continue reading Spirit Fox Primal Spirit
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              
+                What is the use of the Spirit Fox P
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/spirit-fox-primal-spirit/spirit-fox-primal-spirit.webp
+title: Material Spirit Fox Primal Spirit Chimeraland
+type: post
+updated: 2022-10-03T18:26:37+07:00
+wordcount: 1809
 ---
 
 <link

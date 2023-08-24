@@ -12,7 +12,6 @@ description: "Mengatasi XAMMP mysql table db error must be repaired WINDOWS
   7,8,10 Buka CMD Ketik Command berikut satu per satu:"
 excerpt: "Mengatasi XAMMP mysql table db error must be repaired WINDOWS 7,8,10
   Buka CMD Ketik Command berikut satu per satu:"
-id: 0dd242bd-b21c-4888-8fb6-a331d32526ba
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -25,7 +24,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Mengatasi XAMMP mysql table db error must be repaired
 type: post
 updated: 2023-08-08T14:45:15+07:00
-uuid: 4f2bc3a9-4c31-4888-8ef0-257c8db89e1f
 wordcount: 149
 ---
 

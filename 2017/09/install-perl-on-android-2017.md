@@ -18,7 +18,6 @@ excerpt: "Install perl on android 2017 Tutorial Install Perl On Android:
   android Android pentest.scroll down and select -> Scripting -> select
   Perl4android, click install then wait for the process to complete.after Perl
   for Android"
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://imgdb.net/images/3178.png
@@ -34,7 +33,6 @@ thumbnail: https://imgdb.net/images/3178.png
 title: Install perl on android 2017
 type: post
 updated: 2023-08-08T14:45:46+07:00
-uuid: 95238ea0-8128-4888-882c-295bcebb9381
 wordcount: 512
 ---
 

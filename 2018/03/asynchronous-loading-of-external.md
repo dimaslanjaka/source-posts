@@ -12,7 +12,6 @@ description: Loading of external javascript resources libraries, plugins,
   widgets should be done asynchronously, in a non-blocking manner, so the load
 excerpt: Loading of external javascript resources libraries, plugins, widgets
   should be done asynchronously, in a non-blocking manner, so the load
-id: 5120cd65-2abb-4888-8aee-0336b586c57d
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Asynchronous Loading of External Javascript
 type: post
 updated: 2023-08-08T14:45:41+07:00
-uuid: fdb4c0db-0e4a-4888-8ac1-5ec390d0a800
 wordcount: 968
 ---
 

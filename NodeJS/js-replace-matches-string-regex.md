@@ -9,7 +9,6 @@ cover: https://res.cloudinary.com/practicaldev/image/fetch/s--73FnDTzR--/c_limit
 date: 2021-12-19T15:07:43+07:00
 description: How to match regex from string and replace matched string 1-9
 excerpt: How to match regex from string and replace matched string 1-9
-id: 765a18cd-4bfd-4888-8919-eff198a9f8de
 lang: en
 photos:
   - https://res.cloudinary.com/practicaldev/image/fetch/s--73FnDTzR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ibb.co/DWR2ZKQ/carbon-3.png
@@ -20,7 +19,6 @@ thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/s--73FnDTzR--/c_l
 title: Replace Matched Regex 1-9 From String
 type: post
 updated: 2023-08-08T14:44:15+07:00
-uuid: 765a18cd-4bfd-4888-8919-eff198a9f8de
 wordcount: 321
 ---
 

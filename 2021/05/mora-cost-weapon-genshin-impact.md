@@ -8,7 +8,6 @@ cover: /2021/05/mora-cost-weapon-genshin-impact/mora-cost-weapon.png
 date: 2021-05-14T20:30:00+07:00
 description: Mora cost weapon genshin impact
 excerpt: Mora cost weapon genshin impact
-id: ddb1ce40-80e3-4888-8ea4-5b465ae59b08
 keywords:
   - Mora Cost
   - mora cost weapon genshin impact

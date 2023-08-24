@@ -1,19 +1,61 @@
 ---
-title: Material Fiber Chimeraland
-date: 2022-01-17T18:56:03+07:00
-updated: 2022-10-09T18:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/fiber.html
-photos:
-  - /chimeraland/materials/fiber/fiber.webp
-thumbnail: /chimeraland/materials/fiber/fiber.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-17T18:56:03+07:00
+description: >+
+  Material Fiber Chimeraland materials
+          Fiber
+          October 9, 2022 6:26 PM
+          
+            Silk produced from a silk tree. Soft and smooth to the though as well
+            as translucent, it is often used to make cloth.
+          
+          Continue reading Fiber
+        
+        
+          
+        
+excerpt: >+
+  Material Fiber Chimeraland materials
+          Fiber
+          October 9, 2022 6:26 PM
+          
+            Silk produced from a silk tree. Soft and smooth to the though as well
+            as translucent, it is often used to make cloth.
+          
+          Continue reading Fiber
+        
+        
+          
+        
+permalink: /chimeraland/materials/fiber.html
+photos:
+  - /chimeraland/materials/fiber/fiber.webp
+subtitle: >+
+  Material Fiber Chimeraland materials
+          Fiber
+          October 9, 2022 6:26 PM
+          
+            Silk produced from a silk tree. Soft and smooth to the though as well
+            as translucent, it is often used to make cloth.
+          
+          Continue reading Fiber
+        
+        
+          
+        
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/fiber/fiber.webp
+title: Material Fiber Chimeraland
+type: post
+updated: 2022-10-09T18:26:37+07:00
+wordcount: 955
 ---
 
 <link

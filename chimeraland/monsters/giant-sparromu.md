@@ -1,9 +1,69 @@
 ---
-title: Monster giant sparromu
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-25T15:55:43+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-02-25T15:44:43+07:00
+description: "Monster giant sparromu giant sparromu Information from Chimeraland
+
+  \    giant sparromu default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \         "
+excerpt: "Monster giant sparromu giant sparromu Information from Chimeraland
+
+  \    giant sparromu default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \         "
 permalink: /chimeraland/monsters/giant-sparromu.html
 photos:
   - /chimeraland/monsters/giant-sparromu/Screenshot_2023-02-23-12-40-44-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,15 +74,45 @@ photos:
   - /chimeraland/monsters/giant-sparromu/Screenshot_2023-02-23-12-41-13-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-sparromu/Screenshot_2023-02-23-12-41-18-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-sparromu/Screenshot_2023-02-23-12-41-24-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/giant-sparromu/Screenshot_2023-02-23-12-40-44-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster giant sparromu giant sparromu Information from Chimeraland
+
+  \    giant sparromu default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \         "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/giant-sparromu/Screenshot_2023-02-23-12-40-44-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster giant sparromu
+type: post
+updated: 2023-02-25T15:55:43+07:00
+webtitle: chimeraland
+wordcount: 1237
 ---
 
 <link

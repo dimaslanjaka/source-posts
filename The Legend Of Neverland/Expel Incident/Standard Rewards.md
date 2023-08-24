@@ -10,7 +10,6 @@ cover: https://i.ytimg.com/vi/2X152P2goVs/maxresdefault.jpg
 date: 2021-08-17T00:00:00+07:00
 description: Expel Incident With The Standard Rewards.
 excerpt: Expel Incident With The Standard Rewards.
-id: 0943cd51-9029-4888-8003-b426c00042d0
 lang: en
 location: Indonesia
 photos:

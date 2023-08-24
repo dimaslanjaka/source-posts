@@ -11,7 +11,6 @@ description: Label Mapper replace label JS to javascript JS javascript replace
 excerpt: Label Mapper replace label JS to javascript JS javascript replace label
   TS to typescript TS typescript this post label should be [typescript,
   javascript] [typescript, javascript]
-id: 9576c396-39ca-4888-82ea-a5f29ac6ae10
 lang: en
 photos: []
 subtitle: Label Mapper replace label JS to javascript JS javascript replace

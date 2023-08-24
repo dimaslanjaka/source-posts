@@ -10,7 +10,6 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2020-07-10T13:05:00.000+07:00
 description: fastboot getvar product
 excerpt: fastboot getvar product
-id: c2dc229e-d6f5-4888-80cd-151307aa194e
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -21,7 +20,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Cara mengetahui produk android melalui fastboot
 type: post
 updated: 2023-08-08T14:45:13+07:00
-uuid: 1189520c-28ba-4888-89b8-5371a2ab1d72
 wordcount: 21
 ---
 

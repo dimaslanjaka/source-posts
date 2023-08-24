@@ -14,7 +14,6 @@ excerpt: "RegExp Match Doesnt Contain Words RegEx to tell if a string does not
   contain a specific character Are you trying to test whether or not a string
   does not contain a character using regular expressions ?Are you trying: Use
   Regex to enable the widest range of validations, andAlways look for a positiv"
-id: 838eebf3-a7ed-4888-884d-2b361639e7c9
 lang: en
 photos:
   - https://res.cloudinary.com/practicaldev/image/fetch/https://images.ctfassets.net/f20lfrunubsq/3VjnlRLGZqdWhDPENCTGQl/ab3c078638607cf2a3d35f4b0cf10fa1/Screenshot_2019-11-03_at_16.57.11__2_.png

@@ -1,23 +1,102 @@
 ---
-title: Recipe Dragon Meat Stew Chimeraland
 author: L3n4r0x
-updated: 2023-05-24T23:32:46+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-07T20:56:03+07:00
+description: "Recipe Dragon Meat Stew Chimeraland Dragon Meat Stew Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Dragon Meat Stew
+
+  \             \ 
+
+  \               \ 
+
+  \                  660 Fullness
+
+  \                  +150 ATK
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \            "
+excerpt: "Recipe Dragon Meat Stew Chimeraland Dragon Meat Stew Cooking Recipe
+
+  \             \ 
+
+  \              Buff Dragon Meat Stew
+
+  \             \ 
+
+  \               \ 
+
+  \                  660 Fullness
+
+  \                  +150 ATK
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \            "
+lang: en
 permalink: /chimeraland/recipes/dragon-meat-stew.html
 photos:
   - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew.webp
   - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-name.webp
   - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-icon.webp
   - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-material.webp
-thumbnail: /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew.webp
+subtitle: "Recipe Dragon Meat Stew Chimeraland Dragon Meat Stew Cooking Recipe
+
+  \             \ 
+
+  \              Buff Dragon Meat Stew
+
+  \             \ 
+
+  \               \ 
+
+  \                  660 Fullness
+
+  \                  +150 ATK
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \            "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew.webp
+title: Recipe Dragon Meat Stew Chimeraland
+type: post
+updated: 2023-05-24T23:32:46+07:00
+wordcount: 785
 ---
 
 <link

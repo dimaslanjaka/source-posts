@@ -1,19 +1,82 @@
 ---
-title: Material Vulture Meat Chimeraland
-date: 2022-01-07T20:56:03+07:00
-updated: 2022-09-29T20:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/vulture-meat.html
-photos:
-  - /chimeraland/materials/vulture-meat/vulture-meat.webp
-thumbnail: /chimeraland/materials/vulture-meat/vulture-meat.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-07T20:56:03+07:00
+description: |+
+  Material Vulture Meat Chimeraland materials
+          Vulture Meat
+          September 29, 2022 8:26 PM
+          Continue reading Vulture Meat
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Vulture Meat
+              
+            
+          
+        
+        
+excerpt: |+
+  Material Vulture Meat Chimeraland materials
+          Vulture Meat
+          September 29, 2022 8:26 PM
+          Continue reading Vulture Meat
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Vulture Meat
+              
+            
+          
+        
+        
+permalink: /chimeraland/materials/vulture-meat.html
+photos:
+  - /chimeraland/materials/vulture-meat/vulture-meat.webp
+subtitle: |+
+  Material Vulture Meat Chimeraland materials
+          Vulture Meat
+          September 29, 2022 8:26 PM
+          Continue reading Vulture Meat
+        
+        
+          
+        
+      
+      
+        
+          
+            
+              What is the use of the Vulture Meat
+              
+            
+          
+        
+        
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/vulture-meat/vulture-meat.webp
+title: Material Vulture Meat Chimeraland
+type: post
+updated: 2022-09-29T20:26:37+07:00
+wordcount: 1665
 ---
 
 <link

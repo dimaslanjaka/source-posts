@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp
 date: 2018-06-19T03:56:00.000+07:00
 description: TAGS Durango, Proses Logam, Material Processing, Durango Wild Lands.
 excerpt: TAGS Durango, Proses Logam, Material Processing, Durango Wild Lands.
-id: fcae504a-c8e2-4888-848d-d36772323d4c
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.co
 title: "Proses Logam : Durango Wild Lands"
 type: post
 updated: 2023-08-08T14:45:40+07:00
-uuid: a16b3c7d-1281-4888-86e6-66a9cde7055d
 wordcount: 351
 ---
 

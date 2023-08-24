@@ -12,7 +12,6 @@ description: How to Install News Recent Articles With Animation Effects Hello
   bloggers, this point i will be able to share a recent widget with
 excerpt: How to Install News Recent Articles With Animation Effects Hello
   bloggers, this point i will be able to share a recent widget with
-id: b2953c15-fd06-4888-8552-27fef3d144da
 lang: en
 photos:
   - https://4.bp.blogspot.com/-f-ct8DCNaLo/VSQIY4m9-iI/AAAAAAAAA-c/ZMxcl6H0S60/s1600/recent_posts.jpg
@@ -26,7 +25,6 @@ thumbnail: https://4.bp.blogspot.com/-f-ct8DCNaLo/VSQIY4m9-iI/AAAAAAAAA-c/ZMxcl6
 title: Recent Widget Animation Effects On Blogger
 type: post
 updated: 2023-08-08T14:45:54+07:00
-uuid: 90ac57f2-8104-4888-8000-8cc0e203d812
 wordcount: 1865
 ---
 

@@ -14,7 +14,6 @@ excerpt: Apa saja macam-macam tipe data yang ada dalam javascript? Tipe Data
   Umum Berikut ini adalah tipe data yang umum digunakan dalam JavaScript Boolean
   true, false Null null Undefined undefined Number 1, 4, 7, 231, 51, 11, 9
   BigInt 9007199254740991n String Hello, World, Uzbekis
-id: debd2dac-adda-4888-8dec-fd28c1680721
 lang: id
 language: id
 permalink: id/javascript/data-types.html

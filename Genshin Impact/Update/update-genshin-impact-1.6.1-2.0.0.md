@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://uploadstatic-
 date: 2021-08-16T00:00:00+07:00
 description: Update Genshin Impact 1.6.1 - 2.0.0 Manual
 excerpt: Update Genshin Impact 1.6.1 - 2.0.0 Manual
-id: 7125eaea-4d55-4888-8a73-74ec14b3e76a
 lang: en
 location: Indonesia
 photos:
@@ -23,7 +22,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://uploadsta
 title: Update Genshin Impact 2.0.0 Manual
 type: post
 updated: 2023-08-08T14:44:22+07:00
-uuid: 7125eaea-4d55-4888-8a73-74ec14b3e76a
 webtitle: WMI Genshin Impact
 wordcount: 238
 ---

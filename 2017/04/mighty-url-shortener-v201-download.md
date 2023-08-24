@@ -12,7 +12,6 @@ description: Download Free Mighty URL Shortener PHP Script .0.1 - CodeCanyon
   Mighty URL Shortener v2.0.1 - Short URL Script PHP Script ini
 excerpt: Download Free Mighty URL Shortener PHP Script .0.1 - CodeCanyon Mighty
   URL Shortener v2.0.1 - Short URL Script PHP Script ini
-id: ffa54549-2e5a-4888-8968-2e6a43e99e9c
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.jojothemes.com/wp-content/uploads/2016/07/Mighty-URL-Shortener-v1.0.1-%E2%80%93-Short-URL-Script.jpg
@@ -25,7 +24,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.jojot
 title: Mighty URL Shortener v2.0.1 Download
 type: post
 updated: 2023-08-08T14:45:58+07:00
-uuid: 5325f6b5-9bfc-4888-8ae1-8fd551f8ca97
 wordcount: 1062
 ---
 

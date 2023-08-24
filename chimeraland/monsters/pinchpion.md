@@ -1,9 +1,19 @@
 ---
-title: Monster Pinchpion
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T12:21:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-09T15:56:03+07:00
+description: "monster Pinchpion default quality GRADE B ATK 63 HP 66 DEF 54
+  Attributes Conversion Rate 4.0%,PvP DMG Reduction 4.8%,Essence Aspect: Drought
+  Armor delicacies/tasty 3-Flavor Braised Wing,Hearty Meatball Soup,Overlord
+  Hide Jelly games,chimeraland,monsters chimeraland,monster,pet"
+excerpt: "monster Pinchpion default quality GRADE B ATK 63 HP 66 DEF 54
+  Attributes Conversion Rate 4.0%,PvP DMG Reduction 4.8%,Essence Aspect: Drought
+  Armor delicacies/tasty 3-Flavor Braised Wing,Hearty Meatball Soup,Overlord
+  Hide Jelly games,chimeraland,monsters chimeraland,monster,pet"
 permalink: /chimeraland/monsters/pinchpion.html
 photos:
   - null
@@ -14,19 +24,20 @@ photos:
   - /chimeraland/monsters/pinchpion/Screenshot 2022-08-09 191741.webp
   - /chimeraland/monsters/pinchpion/Screenshot 2022-08-09 191802.webp
   - /chimeraland/monsters/pinchpion/Screenshot 2022-08-09 191821.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pinchpion
+subtitle: "monster Pinchpion default quality GRADE B ATK 63 HP 66 DEF 54
+  Attributes Conversion Rate 4.0%,PvP DMG Reduction 4.8%,Essence Aspect: Drought
+  Armor delicacies/tasty 3-Flavor Braised Wing,Hearty Meatball Soup,Overlord
+  Hide Jelly games,chimeraland,monsters chimeraland,monster,pet"
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
-description: "monster Pinchpion default quality GRADE B ATK 63 HP 66 DEF 54
-  Attributes Conversion Rate 4.0%,PvP DMG Reduction 4.8%,Essence Aspect: Drought
-  Armor delicacies/tasty 3-Flavor Braised Wing,Hearty Meatball Soup,Overlord
-  Hide Jelly games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Pinchpion
+title: Monster Pinchpion
+type: post
+updated: 2023-05-25T12:21:12+07:00
+webtitle: chimeraland
+wordcount: 1654
 ---
 
 <link

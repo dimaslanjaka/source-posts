@@ -12,7 +12,6 @@ description: h2>Simple way to add CSS minifier to an websites.</h2><br />Here
   the codes:<br /><br />HTML<br /><pre class=highlight>lt;div
 excerpt: h2>Simple way to add CSS minifier to an websites.</h2><br />Here the
   codes:<br /><br />HTML<br /><pre class=highlight>lt;div
-id: 3e983ae1-ebb8-4888-875d-ce44c8ce4340
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -29,7 +28,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Add CSS Minifier Tool to Website
 type: post
 updated: 2023-08-08T14:45:36+07:00
-uuid: e9022c7d-52ef-4888-8ec3-6cb4c7052ee3
 wordcount: 2328
 ---
 

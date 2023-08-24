@@ -12,7 +12,6 @@ description: hr align=CENTER color=336600 size=2 width=90 /><img height=97
   src=https://imgdb.net/images/3198.jpg width=100 /><br /><hr
 excerpt: hr align=CENTER color=336600 size=2 width=90 /><img height=97
   src=https://imgdb.net/images/3198.jpg width=100 /><br /><hr
-id: 0aff1ebc-e015-4888-87f1-b37b12341c57
 lang: en
 photos:
   - https://imgdb.net/images/3198.jpg
@@ -25,7 +24,6 @@ thumbnail: https://imgdb.net/images/3198.jpg
 title: MAKE A HORIZONTAL MENU NAVIGATION
 type: post
 updated: 2023-08-08T14:45:44+07:00
-uuid: fc719a15-1444-4888-89df-d6fba9d2872a
 wordcount: 777
 ---
 

@@ -12,7 +12,6 @@ description: How Much Rates Per Article The article tariff adjusts the need for
   the number of words each article you need. I offer IDR 150 / word .
 excerpt: How Much Rates Per Article The article tariff adjusts the need for the
   number of words each article you need. I offer IDR 150 / word .
-id: b45898a2-fc0f-4888-81eb-0322aefcde50
 lang: en
 photos:
   - https://goo.gl/1QBD9u
@@ -26,7 +25,6 @@ thumbnail: https://goo.gl/1QBD9u
 title: Blog and Website Writing Service
 type: post
 updated: 2023-08-08T14:45:42+07:00
-uuid: edd4239c-7377-4888-8304-98a1682cbbf9
 wordcount: 253
 ---
 

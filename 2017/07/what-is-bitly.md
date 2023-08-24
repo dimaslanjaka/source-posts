@@ -12,7 +12,6 @@ description: What is Bitly bitly is an online service that provides short URLs
   for your posts so you can be easier to share with friends, family, and
 excerpt: What is Bitly bitly is an online service that provides short URLs for
   your posts so you can be easier to share with friends, family, and
-id: 26a65aa5-8f6d-4888-88be-da1a1143ccef
 lang: en
 photos:
   - https://diansberbagi.files.wordpress.com/2014/11/bitly-620x480.jpg?w=300&h=232
@@ -24,7 +23,6 @@ thumbnail: https://diansberbagi.files.wordpress.com/2014/11/bitly-620x480.jpg?w=
 title: What is bitly?
 type: post
 updated: 2023-08-08T14:45:49+07:00
-uuid: bfc31ec5-3037-4888-8f8f-32a2bc12aa8e
 wordcount: 502
 ---
 

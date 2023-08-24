@@ -1,9 +1,73 @@
 ---
-title: Monster Black Horse
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-29T12:18:27+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-07T13:56:03+07:00
+description: "Monster Black Horse Black Horse Information from Chimeraland
+
+  \    Black Horse default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                50
+
+  \             \ 
+
+  \     "
+excerpt: "Monster Black Horse Black Horse Information from Chimeraland
+
+  \    Black Horse default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                50
+
+  \             \ 
+
+  \     "
 permalink: /chimeraland/monsters/black-horse.html
 photos:
   - /chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-08-56-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +77,47 @@ photos:
   - /chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-09-15-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-09-19-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-09-24-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-08-56-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Monster Black Horse Black Horse Information from Chimeraland
+
+  \    Black Horse default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                50
+
+  \             \ 
+
+  \     "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/black-horse/Screenshot_2023-02-25-16-08-56-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster Black Horse
+type: post
+updated: 2022-09-29T12:18:27+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

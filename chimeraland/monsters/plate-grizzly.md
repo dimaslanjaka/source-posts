@@ -1,21 +1,117 @@
 ---
-title: Monster Plate Grizzly
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T17:16:12+07:00
-date: 2023-05-25T00:40:10+07:00
-permalink: /chimeraland/monsters/plate-grizzly.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Plate Grizzly
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T00:40:10+07:00
+description: "Monster Plate Grizzly Plate Grizzly Information from Chimeraland
+
+  \    Plate Grizzly default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \       "
+excerpt: "Monster Plate Grizzly Plate Grizzly Information from Chimeraland
+
+  \    Plate Grizzly default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \       "
+permalink: /chimeraland/monsters/plate-grizzly.html
+photos:
+  - null
+subtitle: "Monster Plate Grizzly Plate Grizzly Information from Chimeraland
+
+  \    Plate Grizzly default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \       "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Plate Grizzly
+title: Monster Plate Grizzly
+type: post
+updated: 2023-05-25T17:16:12+07:00
+webtitle: chimeraland
+wordcount: 658
 ---
 
 <link

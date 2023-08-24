@@ -18,7 +18,6 @@ excerpt: Widget untuk meningkatkan traffic blogger Hari ini saya akan share
   agar webcrawler ikut membuat tester untuk website anda.Ga pake lama ikuti
   tutorial dibawah ini:1. Buka dashboard blogger > Layout > Cari mau dibagian
   manaka
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -34,7 +33,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Widget untuk meningkatkan traffic blogger
 type: post
 updated: 2023-08-08T14:45:45+07:00
-uuid: 1a8db9a0-4d3e-4888-8fc6-cbc0d515ed62
 wordcount: 952
 ---
 

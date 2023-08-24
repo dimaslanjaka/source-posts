@@ -1,9 +1,41 @@
 ---
-title: Monster black-baked snail
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-10T19:30:18+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-03-10T19:19:18+07:00
+description: |
+  Monster black-baked snail black-baked snail Information from Chimeraland
+      black-baked snail default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Attack
+                  N/A
+excerpt: |
+  Monster black-baked snail black-baked snail Information from Chimeraland
+      black-baked snail default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Attack
+                  N/A
 permalink: /chimeraland/monsters/black-baked-snail.html
 photos:
   - /chimeraland/monsters/black-baked-snail/Screenshot_2023-02-25-22-06-20-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,15 +45,31 @@ photos:
   - /chimeraland/monsters/black-baked-snail/Screenshot_2023-02-25-22-06-38-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/black-baked-snail/Screenshot_2023-02-25-22-06-43-91_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/black-baked-snail/Screenshot_2023-02-25-22-06-49-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/black-baked-snail/Screenshot_2023-02-25-22-06-20-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: |
+  Monster black-baked snail black-baked snail Information from Chimeraland
+      black-baked snail default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Attack
+                  N/A
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/black-baked-snail/Screenshot_2023-02-25-22-06-20-39_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster black-baked snail
+type: post
+updated: 2023-03-10T19:30:18+07:00
+webtitle: chimeraland
+wordcount: 1156
 ---
 
 <link

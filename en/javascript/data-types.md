@@ -14,7 +14,6 @@ excerpt: What are the different data types present in javascript? Common Data
   Type The following are data types commonly used in JavaScript Boolean true,
   false Null null Undefined undefined Number 1, 4, 7, 231, 51, 11, 9 BigInt
   9007199254740991n String Hello, World, Uzbekistan S
-id: 80a301a9-b855-4888-8d45-8cd882b4678e
 lang: en
 language: en
 permalink: en/javascript/data-types.html

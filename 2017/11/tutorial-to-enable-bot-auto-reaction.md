@@ -12,7 +12,6 @@ description: . Then the message will appear as drawn.Do not be afraid, then
   press PROXY.4. Input Email and Password your fb account earlier.Then
 excerpt: . Then the message will appear as drawn.Do not be afraid, then press
   PROXY.4. Input Email and Password your fb account earlier.Then
-id: 38108db4-34cc-4888-8976-92d5c6ab33a7
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot.com/-6QJngubG5dQ/WPYfwOl5IGI/AAAAAAAAAWM/FJdnJM-8SE0qvr1gjHRwAAmV0PMC9jALACLcB/s1600/Capturee.JPG
@@ -25,7 +24,6 @@ title: TUTORIAL TO ENABLE BOT AUTO REACTION / BOT LIKE FACEBOOK HOME COMPLETE
   WITH IMAGE 2017
 type: post
 updated: 2023-08-08T14:45:42+07:00
-uuid: f2899371-4c8c-4888-8b64-7d41ec5b5137
 wordcount: 1983
 ---
 

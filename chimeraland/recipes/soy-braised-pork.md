@@ -1,23 +1,102 @@
 ---
-title: Recipe Soy-Braised Pork Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T02:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-11T21:56:03+07:00
+description: "Recipe Soy-Braised Pork Chimeraland Soy-Braised Pork Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Soy-Braised Pork
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +35 RES
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \             "
+excerpt: "Recipe Soy-Braised Pork Chimeraland Soy-Braised Pork Cooking Recipe
+
+  \             \ 
+
+  \              Buff Soy-Braised Pork
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +35 RES
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \             "
+lang: en
 permalink: /chimeraland/recipes/soy-braised-pork.html
 photos:
   - /chimeraland/recipes/soy-braised-pork/soy-braised-pork.webp
   - /chimeraland/recipes/soy-braised-pork/soy-braised-pork-name.webp
   - /chimeraland/recipes/soy-braised-pork/soy-braised-pork-icon.webp
   - /chimeraland/recipes/soy-braised-pork/soy-braised-pork-material.webp
-thumbnail: /chimeraland/recipes/soy-braised-pork/soy-braised-pork.webp
+subtitle: "Recipe Soy-Braised Pork Chimeraland Soy-Braised Pork Cooking Recipe
+
+  \             \ 
+
+  \              Buff Soy-Braised Pork
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +35 RES
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \             "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/soy-braised-pork/soy-braised-pork.webp
+title: Recipe Soy-Braised Pork Chimeraland
+type: post
+updated: 2022-10-06T02:46:56+07:00
+wordcount: 703
 ---
 
 <link

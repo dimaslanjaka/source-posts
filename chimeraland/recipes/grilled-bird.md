@@ -1,23 +1,101 @@
 ---
-title: Recipe Grilled Bird Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T18:46:56+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-09T19:56:03+07:00
+description: "Recipe Grilled Bird Chimeraland Grilled Bird Cooking Recipe
+
+  \             \ 
+
+  \              Buff Grilled Bird
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +60 CRIT
+
+  \                  Medium Focus
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \      "
+excerpt: "Recipe Grilled Bird Chimeraland Grilled Bird Cooking Recipe
+
+  \             \ 
+
+  \              Buff Grilled Bird
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +60 CRIT
+
+  \                  Medium Focus
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \      "
+lang: en
 permalink: /chimeraland/recipes/grilled-bird.html
 photos:
   - /chimeraland/recipes/grilled-bird/grilled-bird.webp
   - /chimeraland/recipes/grilled-bird/grilled-bird-name.webp
   - /chimeraland/recipes/grilled-bird/grilled-bird-icon.webp
   - /chimeraland/recipes/grilled-bird/grilled-bird-material.webp
-thumbnail: /chimeraland/recipes/grilled-bird/grilled-bird.webp
+subtitle: "Recipe Grilled Bird Chimeraland Grilled Bird Cooking Recipe
+
+  \             \ 
+
+  \              Buff Grilled Bird
+
+  \             \ 
+
+  \               \ 
+
+  \                  420 Fullness
+
+  \                  +60 CRIT
+
+  \                  Medium Focus
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \      "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/grilled-bird/grilled-bird.webp
+title: Recipe Grilled Bird Chimeraland
+type: post
+updated: 2022-10-05T18:46:56+07:00
+wordcount: 703
 ---
 
 <link

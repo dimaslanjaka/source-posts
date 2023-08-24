@@ -1,9 +1,19 @@
 ---
-title: Monster Coracrab
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T02:55:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2022-01-07T14:56:03+07:00
+description: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
+  Attributes Conversion Rate 4.0%,PvP DMG Bonus +4.8%,Essence Aspect: Aqua Armor
+  delicacies/tasty Tasty Exotic Crab,Pepper Salt Scorpion Pincer,Hot Stone
+  Icefox Meat games,chimeraland,monsters chimeraland,monster,pet"
+excerpt: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
+  Attributes Conversion Rate 4.0%,PvP DMG Bonus +4.8%,Essence Aspect: Aqua Armor
+  delicacies/tasty Tasty Exotic Crab,Pepper Salt Scorpion Pincer,Hot Stone
+  Icefox Meat games,chimeraland,monsters chimeraland,monster,pet"
 permalink: /chimeraland/monsters/coracrab.html
 photos:
   - null
@@ -15,19 +25,20 @@ photos:
   - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-11-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-18-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/coracrab/Screenshot_2022-07-29-00-35-22-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Coracrab
+subtitle: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
+  Attributes Conversion Rate 4.0%,PvP DMG Bonus +4.8%,Essence Aspect: Aqua Armor
+  delicacies/tasty Tasty Exotic Crab,Pepper Salt Scorpion Pincer,Hot Stone
+  Icefox Meat games,chimeraland,monsters chimeraland,monster,pet"
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
-description: "monster Coracrab default quality GRADE B ATK 63 HP 66 DEF 54
-  Attributes Conversion Rate 4.0%,PvP DMG Bonus +4.8%,Essence Aspect: Aqua Armor
-  delicacies/tasty Tasty Exotic Crab,Pepper Salt Scorpion Pincer,Hot Stone
-  Icefox Meat games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Coracrab
+title: Monster Coracrab
+type: post
+updated: 2023-05-25T02:55:12+07:00
+webtitle: chimeraland
+wordcount: 1647
 ---
 
 <link

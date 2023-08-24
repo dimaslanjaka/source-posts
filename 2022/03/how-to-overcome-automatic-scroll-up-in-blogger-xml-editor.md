@@ -15,7 +15,6 @@ excerpt: How to Overcome Automatic Scroll Up in Blogger XML Editor Blogger
   system. The most striking thing about this update is the change in the
   behavior of the XML Editor in storing and validating XML code. In the current
   system,
-id: 2668bdf8-b6e4-4888-8824-6686c5f999d3
 lang: en
 photos:
   - https://i.ytimg.com/vi/Py9zUa4MGgs/maxresdefault.jpg

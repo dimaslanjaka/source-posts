@@ -1,19 +1,145 @@
 ---
-title: Material Newt Meat Chimeraland
-date: 2022-01-08T02:56:03+07:00
-updated: 2022-09-30T02:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/newt-meat.html
-photos:
-  - /chimeraland/materials/newt-meat/newt-meat.webp
-thumbnail: /chimeraland/materials/newt-meat/newt-meat.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-08T02:56:03+07:00
+description: "Material Newt Meat Chimeraland materials
+
+  \        Newt Meat
+
+  \        September 30, 2022 2:26 AM
+
+  \        Continue reading Newt Meat
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Newt Meat
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \   "
+excerpt: "Material Newt Meat Chimeraland materials
+
+  \        Newt Meat
+
+  \        September 30, 2022 2:26 AM
+
+  \        Continue reading Newt Meat
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Newt Meat
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \   "
+permalink: /chimeraland/materials/newt-meat.html
+photos:
+  - /chimeraland/materials/newt-meat/newt-meat.webp
+subtitle: "Material Newt Meat Chimeraland materials
+
+  \        Newt Meat
+
+  \        September 30, 2022 2:26 AM
+
+  \        Continue reading Newt Meat
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Newt Meat
+
+  \           \ 
+
+  \         \ 
+
+  \       \ 
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \   "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/newt-meat/newt-meat.webp
+title: Material Newt Meat Chimeraland
+type: post
+updated: 2022-09-30T02:26:37+07:00
+wordcount: 633
 ---
 
 <link

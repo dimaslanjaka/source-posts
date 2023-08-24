@@ -10,7 +10,6 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2019-12-28T12:41:00.000+07:00
 description: CURLEUNSUPPORTED_PROTOCOL 1
 excerpt: CURLEUNSUPPORTED_PROTOCOL 1
-id: ede561c8-2a5e-4888-8482-44012ebed450
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -22,7 +21,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Curl Error Codes
 type: post
 updated: 2023-08-08T14:45:23+07:00
-uuid: db5d615c-6094-4888-88e4-6edf1ae4e8ef
 wordcount: 4378
 ---
 

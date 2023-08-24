@@ -12,7 +12,6 @@ description: Using jQuery to adding alt attributes to all images img> tags. Alt
   attributes of images are one of SEO Score. Alt Tag SEO is
 excerpt: Using jQuery to adding alt attributes to all images img> tags. Alt
   attributes of images are one of SEO Score. Alt Tag SEO is
-id: be9e1cd4-a309-4888-86e0-328999e35d31
 lang: en
 photos:
   - https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT15ty0QckURBti5Zj3AddI7sOew19yh8zjKsfJC3Wlu0dFXd2rVQ
@@ -25,7 +24,6 @@ thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT15ty0QckURBti5
 title: Auto Add Alt Attributes To Images Using jQuery
 type: post
 updated: 2023-08-08T14:46:02+07:00
-uuid: 6e1bff55-541e-4888-8251-ca830f4fc033
 wordcount: 2281
 ---
 

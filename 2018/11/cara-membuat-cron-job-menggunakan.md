@@ -16,7 +16,6 @@ excerpt: "Cara Membuat Cron Job Menggunakan webcron.org kali ini saya akan
   membahas cara memasang cron job di webcron.org. langsung aja ke TKP. bahan :
   Email Aktif Ketampanan .^_^. oke pertama kalian daftar dulu ke webcron.org
   disini setelah "
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://4.bp.blogspot.com/-PpWaOxbn6Tk/Uxx5oeTV9sI/AAAAAAAAAc0/Nbc-Oluyp0s/s280/Screenshot_1.png
@@ -30,7 +29,6 @@ thumbnail: https://4.bp.blogspot.com/-PpWaOxbn6Tk/Uxx5oeTV9sI/AAAAAAAAAc0/Nbc-Ol
 title: Cara Membuat Cron Job Menggunakan webcron.org
 type: post
 updated: 2023-08-08T14:45:39+07:00
-uuid: 20f6dd26-58e1-4888-83a5-1c1330e8fec9
 wordcount: 710
 ---
 

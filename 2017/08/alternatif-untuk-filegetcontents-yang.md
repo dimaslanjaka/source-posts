@@ -12,7 +12,6 @@ description: h1> cURL alternatif untuk file_get_contents melalui HTTP </h1>Dalam
   versi PHP yang lebih baru, Anda akan sering mendapati bahwa mengambil
 excerpt: h1> cURL alternatif untuk file_get_contents melalui HTTP </h1>Dalam
   versi PHP yang lebih baru, Anda akan sering mendapati bahwa mengambil
-id: 51fffbc5-e101-4888-8da4-3ac026f0cbfe
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Alternatif untuk file_get_contents yang disabled on server by allow_url_fopen=0
 type: post
 updated: 2023-08-08T14:45:49+07:00
-uuid: 9c4fa736-48de-4888-8896-432a54d4b1b0
 wordcount: 1099
 ---
 

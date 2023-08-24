@@ -12,7 +12,6 @@ description: "if you mean how much ramcpu php is using then you can do the
   following using plain php without using any package: this returns the"
 excerpt: "if you mean how much ramcpu php is using then you can do the following
   using plain php without using any package: this returns the"
-id: b085ece3-bbdf-4888-8fc1-02b0507d37fc
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -25,7 +24,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Get CPU usage / RAM usage [PHP]
 type: post
 updated: 2023-08-08T14:45:37+07:00
-uuid: 57598649-d08d-4888-8e8a-385c3470c327
 wordcount: 291
 ---
 

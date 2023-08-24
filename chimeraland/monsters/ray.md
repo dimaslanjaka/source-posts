@@ -1,21 +1,78 @@
 ---
-title: Monster Ray
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T16:28:12+07:00
-date: 2023-05-25T00:40:10+07:00
-permalink: /chimeraland/monsters/ray.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ray
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T00:40:10+07:00
+description: |-
+  Monster Ray Ray Information from Chimeraland
+      Ray default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  
+                
+                
+                  Attack
+                  
+                
+                
+                  Health
+excerpt: |-
+  Monster Ray Ray Information from Chimeraland
+      Ray default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  
+                
+                
+                  Attack
+                  
+                
+                
+                  Health
+permalink: /chimeraland/monsters/ray.html
+photos:
+  - null
+subtitle: |-
+  Monster Ray Ray Information from Chimeraland
+      Ray default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  
+                
+                
+                  Attack
+                  
+                
+                
+                  Health
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ray
+title: Monster Ray
+type: post
+updated: 2023-05-25T16:28:12+07:00
+webtitle: chimeraland
+wordcount: 603
 ---
 
 <link

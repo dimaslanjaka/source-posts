@@ -1,9 +1,43 @@
 ---
-title: Monster child quetzalcoatlus
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-10T21:30:18+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-03-10T21:19:18+07:00
+description: |-
+  Monster child quetzalcoatlus child quetzalcoatlus Information from Chimeraland
+      
+        child quetzalcoatlus default maximum attribute
+      
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Attack
+excerpt: |-
+  Monster child quetzalcoatlus child quetzalcoatlus Information from Chimeraland
+      
+        child quetzalcoatlus default maximum attribute
+      
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Attack
 permalink: /chimeraland/monsters/child-quetzalcoatlus.html
 photos:
   - /chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-12-21-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -21,15 +55,32 @@ photos:
   - /chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-14-05-93_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-14-12-33_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-14-17-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-12-21-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: |-
+  Monster child quetzalcoatlus child quetzalcoatlus Information from Chimeraland
+      
+        child quetzalcoatlus default maximum attribute
+      
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  N/A N/A
+                
+                
+                  Attack
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: /chimeraland/monsters/child-quetzalcoatlus/Screenshot_2023-02-25-17-12-21-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Monster child quetzalcoatlus
+type: post
+updated: 2023-03-10T21:30:18+07:00
+webtitle: chimeraland
+wordcount: 1814
 ---
 
 <link

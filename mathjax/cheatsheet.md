@@ -10,7 +10,6 @@ description: "MathJax Cheatsheet MathJax Basic Quick ReferencesPatterns Mathjax
 excerpt: "MathJax Cheatsheet MathJax Basic Quick ReferencesPatterns Mathjax
   MathJax Basic Quick References Patterns Mathjax Title Formula Markdown
   Variables x_1, y_1, z_3,4 x_1, y_1, z_3,4 Square a^2, x^y, 2^n-1 "
-id: 2c4b89e1-aaf9-4888-8605-6cd56dd88fe7
 lang: en
 photos: []
 subtitle: "MathJax Cheatsheet MathJax Basic Quick ReferencesPatterns Mathjax

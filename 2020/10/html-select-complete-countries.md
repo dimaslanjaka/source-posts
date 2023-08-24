@@ -12,7 +12,6 @@ description: See the Pen github.comselect2/select2-bootstrap-theme/issues/35 by
   Florian Kissling @fk on CodePen.
 excerpt: See the Pen github.comselect2/select2-bootstrap-theme/issues/35 by
   Florian Kissling @fk on CodePen.
-id: 7c336f21-1058-4888-89d9-296fb9781d88
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: HTML Select Complete Countries
 type: post
 updated: 2023-08-08T14:45:11+07:00
-uuid: 9dbda671-6a2c-4888-8f0a-43b0a9bd3163
 wordcount: 963
 ---
 

@@ -1,21 +1,78 @@
 ---
-title: Monster Mola
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T15:19:12+07:00
-date: 2023-05-25T00:40:10+07:00
-permalink: /chimeraland/monsters/mola.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mola
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T00:40:10+07:00
+description: |-
+  Monster Mola Mola Information from Chimeraland
+      Mola default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  
+                
+                
+                  Attack
+                  
+                
+                
+                  Hea
+excerpt: |-
+  Monster Mola Mola Information from Chimeraland
+      Mola default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  
+                
+                
+                  Attack
+                  
+                
+                
+                  Hea
+permalink: /chimeraland/monsters/mola.html
+photos:
+  - null
+subtitle: |-
+  Monster Mola Mola Information from Chimeraland
+      Mola default maximum attribute
+      
+        
+          
+            
+              
+                
+                  GRADE
+                  
+                
+                
+                  Attack
+                  
+                
+                
+                  Hea
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mola
+title: Monster Mola
+type: post
+updated: 2023-05-25T15:19:12+07:00
+webtitle: chimeraland
+wordcount: 603
 ---
 
 <link

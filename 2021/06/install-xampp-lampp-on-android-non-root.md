@@ -12,7 +12,6 @@ description: php apache setup on android with Termux without root Download
   Termux allow installation from unknwon sources and
 excerpt: php apache setup on android with Termux without root Download Termux
   allow installation from unknwon sources and
-id: 6562ae3a-7688-4888-845f-0976d3040e1d
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/blog/wp-content/uploads/2018/11/Configuraci%C3%B3n-httpd-en-termux-Android.jpg
@@ -26,7 +25,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte
 title: Install XAMPP/LAMPP On Android Non-Root
 type: post
 updated: 2023-08-08T14:45:10+07:00
-uuid: fe9bd82e-f555-4888-8952-a281475f8148
 wordcount: 1969
 ---
 

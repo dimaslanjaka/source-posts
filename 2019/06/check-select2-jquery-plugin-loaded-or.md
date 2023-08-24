@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://laraget.com/i
 date: 2019-06-26T11:20:00.002+07:00
 description: Example How to change select2 jQuery plugin using jQuery.val
 excerpt: Example How to change select2 jQuery plugin using jQuery.val
-id: a2531fe4-10bf-4888-8211-e444536ecc06
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://laraget.com/images/blog/1482184906-Select2.png
@@ -22,7 +21,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://laraget.c
 title: "[JS] Check select2 jquery plugin loaded or not"
 type: post
 updated: 2023-08-08T14:45:31+07:00
-uuid: 41c07fdd-3aba-4888-8fef-f72db6aa6221
 wordcount: 187
 ---
 

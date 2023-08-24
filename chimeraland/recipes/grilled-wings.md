@@ -1,23 +1,68 @@
 ---
-title: Recipe Grilled Wings Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T10:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-09T21:56:03+07:00
+description: |-
+  Recipe Grilled Wings Chimeraland Grilled Wings Cooking Recipe
+                
+                Buff Grilled Wings
+                
+                  
+                    420 Fullness
+                    80 DEF
+                  
+                
+                recipe
+              
+              
+                webmanaje
+excerpt: |-
+  Recipe Grilled Wings Chimeraland Grilled Wings Cooking Recipe
+                
+                Buff Grilled Wings
+                
+                  
+                    420 Fullness
+                    80 DEF
+                  
+                
+                recipe
+              
+              
+                webmanaje
+lang: en
 permalink: /chimeraland/recipes/grilled-wings.html
 photos:
   - /chimeraland/recipes/grilled-wings/grilled-wings.webp
   - /chimeraland/recipes/grilled-wings/grilled-wings-name.webp
   - /chimeraland/recipes/grilled-wings/grilled-wings-icon.webp
   - /chimeraland/recipes/grilled-wings/grilled-wings-material.webp
-thumbnail: /chimeraland/recipes/grilled-wings/grilled-wings.webp
+subtitle: |-
+  Recipe Grilled Wings Chimeraland Grilled Wings Cooking Recipe
+                
+                Buff Grilled Wings
+                
+                  
+                    420 Fullness
+                    80 DEF
+                  
+                
+                recipe
+              
+              
+                webmanaje
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/grilled-wings/grilled-wings.webp
+title: Recipe Grilled Wings Chimeraland
+type: post
+updated: 2022-10-06T10:46:54+07:00
+wordcount: 715
 ---
 
 <link

@@ -12,7 +12,6 @@ description: Anda bisa mengubungi customer service melalui Email, Sosial Media
   dan Telepon, kontaknya dibawah ini
 excerpt: Anda bisa mengubungi customer service melalui Email, Sosial Media dan
   Telepon, kontaknya dibawah ini
-id: d4e9d438-c6fb-4888-8a81-93db5d5799e4
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: berhenti langganan konten berbayar Indosat
 type: post
 updated: 2023-08-08T14:45:35+07:00
-uuid: 840c990b-dc16-4888-83e0-da1abab0263a
 wordcount: 1039
 ---
 

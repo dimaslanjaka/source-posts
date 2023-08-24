@@ -16,7 +16,6 @@ excerpt: "Check number is Odd or Even [JS] var oddoreven = function n = false,
   type = odd var time = n ? new Date.getDay : Numbern; if /^-0,1\\d/.testtime
   alertarguments is not number, please remove quote; return; hasil = time 2;
   return hasil == type == odd g"
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/jFazrvLodrA/maxresdefault.jpg
@@ -30,7 +29,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.c
 title: Check number is Odd or Even [JS]
 type: post
 updated: 2023-08-08T14:45:29+07:00
-uuid: d2b9bcf1-4eb6-4888-8a40-1a164fb36b67
 wordcount: 204
 ---
 

@@ -16,7 +16,6 @@ excerpt: Cara mempercepat loading webfonts Cara mempercepat loading fonts blog
   webfonts. Metode 1. Apache config<FilesMatch .eotttfotfwoff> Header set
   Access-Control-Allow-Origin </FilesMatch> nginx configif filename
   ^.?\.eotttfwoff add_header Access-Control-Allow-Origin ;
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwHYn1q6qKyIO1WJAsg-ZtU3RJIlFDpbwnD9gZRG_NE29f4lDc
@@ -32,7 +31,6 @@ thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwHYn1q6qKyIO1W
 title: Cara mempercepat loading webfonts
 type: post
 updated: 2023-08-08T14:45:48+07:00
-uuid: 15e86d8b-7e46-4888-88bf-cf5ce7f1c0d3
 wordcount: 366
 ---
 

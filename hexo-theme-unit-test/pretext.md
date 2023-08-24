@@ -12,7 +12,6 @@ excerpt: "PreText Code Blocks Code Block Shortcode Using code block shortcode
   from official hexo Plain code codeblock alertHello World; Specifying the
   language codeblock lang:objc [rectangle setX: 10 y: 10 width: 20 height: 20];
   Adding a caption to the code block codeblock Array.map a"
-id: 9b59209b-26ce-4888-8e73-3f7b82ff5d80
 lang: en
 photos: []
 subtitle: "PreText Code Blocks Code Block Shortcode Using code block shortcode

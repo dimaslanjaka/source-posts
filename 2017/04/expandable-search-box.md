@@ -16,7 +16,6 @@ excerpt: Expandable Search Box Expandable search form using html and CSS.
   HTML:<form action=/search method=GET target=_top class=Search> <label
   class=icon fa fa-search for=search></label> <input type=text
   placeholder=Search class=underline name=q id=search></form>HTML Explanat
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://3.bp.blogspot.com/-fCN06ibkF9s/WPgDaZnEMdI/AAAAAAAAFJE/gFcoSLZVZeQ2rpoUkl-KFH5E9004wBHmgCLcB/s320/Screenshot_2017-04-20-07-39-35.jpg
@@ -31,7 +30,6 @@ thumbnail: https://3.bp.blogspot.com/-fCN06ibkF9s/WPgDaZnEMdI/AAAAAAAAFJE/gFcoSL
 title: Expandable Search Box
 type: post
 updated: 2023-08-08T14:46:00+07:00
-uuid: bfb7bbf0-42d5-4888-8b54-583cfa3b4b30
 wordcount: 631
 ---
 

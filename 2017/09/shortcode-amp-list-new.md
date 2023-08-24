@@ -16,7 +16,6 @@ excerpt: Shortcode amp list new It turns out that in AMP there are some standard
   action codes or shortcodes to make it easier to give certain commands to an
   element such as redirect, print, show, hide, toggle, scroll to, and focus on
   input. AMP.navigateTo Will be redirect to choosen url <button on=tap
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://4.bp.blogspot.com/-ko3CcyyJKSY/WaRzKI6HwWI/AAAAAAAAACo/ZusaTqvFcJA-hjqVsLk9jArt00QUPbYwwCLcBGAs/s320/shortcode.jpg
@@ -31,7 +30,6 @@ thumbnail: https://4.bp.blogspot.com/-ko3CcyyJKSY/WaRzKI6HwWI/AAAAAAAAACo/ZusaTq
 title: Shortcode amp list new
 type: post
 updated: 2023-08-08T14:45:46+07:00
-uuid: 5b1c1769-e723-4888-8be1-e499a748dbb4
 wordcount: 578
 ---
 

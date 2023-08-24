@@ -12,7 +12,6 @@ description: One time I was playing a game, and running several programs on a
   Windows laptop. Then the memory was heavy, some of my programs were
 excerpt: One time I was playing a game, and running several programs on a
   Windows laptop. Then the memory was heavy, some of my programs were
-id: 1ae7ea7b-2021-4888-83d5-6671ad3abe01
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot.com/-RgpJNTI1w90/Uy4W4qlHVuI/AAAAAAAAAf4/JozWbUyJgts/s1600/spp.png
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blog
 title: Turn off the Platform Protection Service Software Program
 type: post
 updated: 2023-08-08T14:45:29+07:00
-uuid: dbf6c734-f90c-4888-8bd3-b775fec8ca50
 wordcount: 627
 ---
 

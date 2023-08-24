@@ -1,21 +1,123 @@
 ---
-title: Monster Dinbear
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T17:47:12+07:00
-date: 2023-05-25T02:21:12+07:00
-permalink: /chimeraland/monsters/dinbear.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Dinbear
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2023-05-25T02:21:12+07:00
+description: "Monster Dinbear Dinbear Information from Chimeraland
+
+  \    Dinbear default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \          "
+excerpt: "Monster Dinbear Dinbear Information from Chimeraland
+
+  \    Dinbear default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \          "
+permalink: /chimeraland/monsters/dinbear.html
+photos:
+  - null
+subtitle: "Monster Dinbear Dinbear Information from Chimeraland
+
+  \    Dinbear default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \          "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Dinbear
+title: Monster Dinbear
+type: post
+updated: 2023-05-25T17:47:12+07:00
+webtitle: chimeraland
+wordcount: 621
 ---
 
 <link

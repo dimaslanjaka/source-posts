@@ -1,21 +1,117 @@
 ---
-title: Monster Mallestial
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T08:28:12+07:00
-date: 2022-01-09T00:56:03+07:00
-permalink: /chimeraland/monsters/mallestial.html
-photos:
-  - null
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mallestial
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2022-01-09T00:56:03+07:00
+description: "Monster Mallestial Mallestial Information from Chimeraland
+
+  \    Mallestial default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                49
+
+  \             \ 
+
+  \        "
+excerpt: "Monster Mallestial Mallestial Information from Chimeraland
+
+  \    Mallestial default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                49
+
+  \             \ 
+
+  \        "
+permalink: /chimeraland/monsters/mallestial.html
+photos:
+  - null
+subtitle: "Monster Mallestial Mallestial Information from Chimeraland
+
+  \    Mallestial default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                C RARE
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                49
+
+  \             \ 
+
+  \        "
+tags:
+  - chimeraland
+  - monster
+  - pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Mallestial
+title: Monster Mallestial
+type: post
+updated: 2023-05-25T08:28:12+07:00
+webtitle: chimeraland
+wordcount: 633
 ---
 
 <link

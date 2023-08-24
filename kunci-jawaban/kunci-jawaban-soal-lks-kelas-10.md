@@ -12,7 +12,6 @@ excerpt: Kunci Jawaban Soal LKS Kelas 10 Disebut apakah bagian terkecil dari
   suatu benda yang ada di dunia? Bagian terkecil dari suatu benda disebut atom
   atom Atom adalah unit terkecil dari materi biasa yang membentuk unsur kimia.
   Setiap padat, cair, gas, dan plasma terdiri dari atom netral atau terionisasi.
-id: 3935a712-0ceb-4888-8b3f-3ba192906a82
 lang: id
 photos: []
 subtitle: Kunci Jawaban Soal LKS Kelas 10 Disebut apakah bagian terkecil dari

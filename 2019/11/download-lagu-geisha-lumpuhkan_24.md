@@ -12,7 +12,6 @@ description: "Download lagu GEISHA Lumpuhkan Ingatanku Mp3 GEISHA - Cripple my
   memory Listen: 82,901,793 Duration: 289 MP3 size: 4.52MB"
 excerpt: "Download lagu GEISHA Lumpuhkan Ingatanku Mp3 GEISHA - Cripple my
   memory Listen: 82,901,793 Duration: 289 MP3 size: 4.52MB"
-id: 748457fb-b81b-4888-8afb-d455292579d6
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/ab7316efd5cc0972dbd98960213b1809.jpeg
@@ -24,7 +23,6 @@ thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/ab7316efd5cc09
 title: Download lagu GEISHA - Lumpuhkan Ingatanku Mp3
 type: post
 updated: 2023-08-08T14:45:27+07:00
-uuid: 37917bb5-d1e0-4888-82fe-b34a77c110c0
 wordcount: 1861
 ---
 

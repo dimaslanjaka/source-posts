@@ -10,7 +10,6 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo
   turpis, tincidunt ac convallis id. This post has a long title. Make sure the
   title displayed right.
-id: 323d429e-fe86-4888-89b4-08aad6f81a79
 lang: en
 photos: []
 robots: no-index

@@ -1,23 +1,68 @@
 ---
-title: Recipe Fried Fish Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T13:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-08T08:56:03+07:00
+description: |-
+  Recipe Fried Fish Chimeraland Fried Fish Cooking Recipe
+                
+                Buff Fried Fish
+                
+                  
+                    660 Fullness
+                    +80 Armor Pierce
+                  
+                
+                recipe
+              
+              
+                webmanaj
+excerpt: |-
+  Recipe Fried Fish Chimeraland Fried Fish Cooking Recipe
+                
+                Buff Fried Fish
+                
+                  
+                    660 Fullness
+                    +80 Armor Pierce
+                  
+                
+                recipe
+              
+              
+                webmanaj
+lang: en
 permalink: /chimeraland/recipes/fried-fish.html
 photos:
   - /chimeraland/recipes/fried-fish/fried-fish.webp
   - /chimeraland/recipes/fried-fish/fried-fish-name.webp
   - /chimeraland/recipes/fried-fish/fried-fish-icon.webp
   - /chimeraland/recipes/fried-fish/fried-fish-material.webp
-thumbnail: /chimeraland/recipes/fried-fish/fried-fish.webp
+subtitle: |-
+  Recipe Fried Fish Chimeraland Fried Fish Cooking Recipe
+                
+                Buff Fried Fish
+                
+                  
+                    660 Fullness
+                    +80 Armor Pierce
+                  
+                
+                recipe
+              
+              
+                webmanaj
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/fried-fish/fried-fish.webp
+title: Recipe Fried Fish Chimeraland
+type: post
+updated: 2022-10-05T13:46:54+07:00
+wordcount: 737
 ---
 
 <link

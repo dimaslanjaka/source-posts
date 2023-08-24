@@ -12,7 +12,6 @@ description: Apa itu blockquote tag HTML <blockquote> tag digunakan untuk
   menunjukkan kutipan panjang yaitu kutipan yang berlangsung beberapa baris.
 excerpt: Apa itu blockquote tag HTML <blockquote> tag digunakan untuk
   menunjukkan kutipan panjang yaitu kutipan yang berlangsung beberapa baris.
-id: 090ad7c6-1a7f-4888-8b9f-eb1d1e09075e
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: css keren untuk blockquote tag
 type: post
 updated: 2023-08-08T14:46:01+07:00
-uuid: 8e1d8e9d-156d-4888-8c52-c89f5acc47b1
 wordcount: 1207
 ---
 

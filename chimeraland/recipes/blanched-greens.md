@@ -1,23 +1,101 @@
 ---
-title: Recipe Blanched Greens Chimeraland
 author: L3n4r0x
-updated: 2022-09-29T03:26:37+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-07T11:56:03+07:00
+description: "Recipe Blanched Greens Chimeraland Blanched Greens Cooking Recipe
+
+  \             \ 
+
+  \              Buff Blanched Greens
+
+  \             \ 
+
+  \               \ 
+
+  \                  660 Fullness
+
+  \                  +80 Armor Pierce
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \       "
+excerpt: "Recipe Blanched Greens Chimeraland Blanched Greens Cooking Recipe
+
+  \             \ 
+
+  \              Buff Blanched Greens
+
+  \             \ 
+
+  \               \ 
+
+  \                  660 Fullness
+
+  \                  +80 Armor Pierce
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \       "
+lang: en
 permalink: /chimeraland/recipes/blanched-greens.html
 photos:
   - /chimeraland/recipes/blanched-greens/blanched-greens.webp
   - /chimeraland/recipes/blanched-greens/blanched-greens-name.webp
   - /chimeraland/recipes/blanched-greens/blanched-greens-icon.webp
   - /chimeraland/recipes/blanched-greens/blanched-greens-material.webp
-thumbnail: /chimeraland/recipes/blanched-greens/blanched-greens.webp
+subtitle: "Recipe Blanched Greens Chimeraland Blanched Greens Cooking Recipe
+
+  \             \ 
+
+  \              Buff Blanched Greens
+
+  \             \ 
+
+  \               \ 
+
+  \                  660 Fullness
+
+  \                  +80 Armor Pierce
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \       "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/blanched-greens/blanched-greens.webp
+title: Recipe Blanched Greens Chimeraland
+type: post
+updated: 2022-09-29T03:26:37+07:00
+wordcount: 969
 ---
 
 <link

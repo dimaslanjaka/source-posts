@@ -10,7 +10,6 @@ cover: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_GSwBHWgKexKRlrdNT
 date: 2018-08-13T08:46:00.001+07:00
 description: Website Development Indonesia
 excerpt: Website Development Indonesia
-id: 57fb8c32-01ca-4888-8d31-829b75f6fb3e
 lang: en
 photos:
   - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_GSwBHWgKexKRlrdNTFKAvtv827hyFeGx4dvA4ln2k8UDV1vT
@@ -20,7 +19,6 @@ thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_GSwBHWgKexKRl
 title: Post
 type: post
 updated: 2023-08-08T14:45:39+07:00
-uuid: c619d2cd-4970-4888-8d71-a2a463527347
 wordcount: 11242
 ---
 

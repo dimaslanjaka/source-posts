@@ -17,7 +17,6 @@ excerpt: "[JS] How to delay ajax one by one in loop Bahasa indonesia: Bagaimana
   eksekusi ajax satu per satu di Loop <div id=demo></div><script>/ Define global
   variable @var int indexLoop global loop indexer @var int lastLoop global last
   iteration for global loop indexer from loop initializer @v"
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://artandlogic.com/wp-content/uploads/2000px-AJAX_logo_by_gengns.svg_.png
@@ -32,7 +31,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://artandlog
 title: "[JS] How to delay ajax one by one in loop"
 type: post
 updated: 2023-08-08T14:45:16+07:00
-uuid: c78f5103-caec-4888-895e-2fd1cefce788
 wordcount: 1094
 ---
 

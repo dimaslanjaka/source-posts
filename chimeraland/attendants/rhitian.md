@@ -1,9 +1,73 @@
 ---
-title: Attendant rhitian
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-02-09T06:16:58+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2023-02-09T06:05:58+07:00
+description: "Attendant rhitian rhitian Information from Chimeraland
+
+  \    rhitian default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
+excerpt: "Attendant rhitian rhitian Information from Chimeraland
+
+  \    rhitian default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
 permalink: /chimeraland/attendants/rhitian.html
 photos:
   - /chimeraland/attendants/rhitian/Screenshot_2023-01-28-18-09-47-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,14 +76,46 @@ photos:
   - /chimeraland/attendants/rhitian/Screenshot_2023-01-28-18-10-02-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rhitian/Screenshot_2023-01-28-18-10-07-23_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rhitian/Screenshot_2023-01-28-18-10-16-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/rhitian/Screenshot_2023-01-28-18-09-47-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant rhitian rhitian Information from Chimeraland
+
+  \    rhitian default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/rhitian/Screenshot_2023-01-28-18-09-47-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant rhitian
+type: post
+updated: 2023-02-09T06:16:58+07:00
+webtitle: chimeraland
+wordcount: 988
 ---
 
 <link

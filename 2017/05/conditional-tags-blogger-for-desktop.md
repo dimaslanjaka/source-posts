@@ -12,7 +12,6 @@ description: h2>Is there any Blogger blogspot not portable contingent
   arrangement.</h2>Someone ask to stackoverflow like this.<br /><br />I would
 excerpt: h2>Is there any Blogger blogspot not portable contingent
   arrangement.</h2>Someone ask to stackoverflow like this.<br /><br />I would
-id: 8a25cc02-bf6e-4888-8a92-4fc569c8814c
 lang: en
 photos:
   - https://i.stack.imgur.com/frOSJ.png
@@ -24,7 +23,6 @@ thumbnail: https://i.stack.imgur.com/frOSJ.png
 title: conditional tags blogger for desktop only
 type: post
 updated: 2023-08-08T14:45:57+07:00
-uuid: 24793524-327a-4888-8df4-3dfeac1f9f0c
 wordcount: 504
 ---
 

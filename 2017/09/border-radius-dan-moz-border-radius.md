@@ -13,7 +13,6 @@ description: Salah satu sifat CSS yang paling ditunggu
   yang rumit
 excerpt: Salah satu sifat CSS yang paling ditunggu adalahborder-radius.Perancang
   web tidak lagi harus menggunakan struktur tabel yang rumit
-id: c2a12206-27b8-4888-8b89-074a2e0199c0
 lang: en
 photos:
   - http://cdn.the-art-of-web.com/images/moz-border-radius.gif
@@ -26,7 +25,6 @@ thumbnail: http://cdn.the-art-of-web.com/images/moz-border-radius.gif
 title: border-radius dan -moz-border-radius
 type: post
 updated: 2023-08-08T14:45:48+07:00
-uuid: 7da55223-37de-4888-8008-c390984300da
 wordcount: 3867
 ---
 

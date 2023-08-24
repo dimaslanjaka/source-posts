@@ -1,19 +1,115 @@
 ---
-title: Monster Chimera
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-29T11:18:27+07:00
-date: 2022-01-07T10:56:03+07:00
-permalink: /chimeraland/monsters/chimera.html
-photos: []
-tags:
-  - chimeraland
-  - monster
-  - pet
 categories:
   - games
   - chimeraland
   - monsters
+comments: true
+date: 2022-01-07T10:56:03+07:00
+description: "Monster Chimera Chimera Information from Chimeraland
+
+  \    Chimera default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \                  A NOBLE - LEGENDARY
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \  "
+excerpt: "Monster Chimera Chimera Information from Chimeraland
+
+  \    Chimera default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \                  A NOBLE - LEGENDARY
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \  "
+permalink: /chimeraland/monsters/chimera.html
+photos: []
+subtitle: "Monster Chimera Chimera Information from Chimeraland
+
+  \    Chimera default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \                  A NOBLE - LEGENDARY
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \  "
+tags:
+  - chimeraland
+  - monster
+  - pet
+title: Monster Chimera
+type: post
+updated: 2022-09-29T11:18:27+07:00
+webtitle: chimeraland
+wordcount: 575
 ---
 
 <link

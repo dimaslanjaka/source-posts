@@ -16,7 +16,6 @@ excerpt: "Ringo Step Shotter Tutorial CP WP Deskripsi Ringo:RingoRingoJenis
   Serangan:BerkisarPosisi:LanePeran:SniperHit Points HP646 69HP Regen2.15
   0.23Poin Energi EP163 21.45EP Regen1,20 0,15Kerusakan Senjata66 5.9Kecepatan
   serangan1 0,033Baja20 6Melindungi20 "
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://www.vaingloryfire.com/images/heroes/potrait/ringo.png
@@ -30,7 +29,6 @@ thumbnail: https://www.vaingloryfire.com/images/heroes/potrait/ringo.png
 title: Ringo Step Shotter Tutorial CP WP
 type: post
 updated: 2023-08-08T14:45:51+07:00
-uuid: 3219ab07-317e-4888-8b29-8640b2b47be4
 wordcount: 12832
 ---
 

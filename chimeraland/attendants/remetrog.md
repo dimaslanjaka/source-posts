@@ -1,9 +1,19 @@
 ---
-title: Attendant Remetrog
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-28T23:26:37+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2022-01-07T14:56:03+07:00
+description: attendant Remetrog default quality GRADE C ATK 51 HP 52 DEF 47
+  Attack 20,HP 200,Monster EXP Bonus 40.0% delicacies/tasty Aged Butterfly Wing
+  Broth,Yurlunggur Mixed Vegetables,Dragon Serpent Combo
+  games,chimeraland,attendants chimeraland,Attendant
+excerpt: attendant Remetrog default quality GRADE C ATK 51 HP 52 DEF 47 Attack
+  20,HP 200,Monster EXP Bonus 40.0% delicacies/tasty Aged Butterfly Wing
+  Broth,Yurlunggur Mixed Vegetables,Dragon Serpent Combo
+  games,chimeraland,attendants chimeraland,Attendant
 permalink: /chimeraland/attendants/remetrog.html
 photos:
   - /chimeraland/attendants/remetrog/Screenshot_2022-07-25-17-34-56-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -12,18 +22,19 @@ photos:
   - /chimeraland/attendants/remetrog/Screenshot_2022-07-25-17-35-11-85_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/remetrog/Screenshot_2022-07-25-17-35-15-85_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/remetrog/Screenshot_2022-07-25-17-35-20-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/remetrog/Screenshot_2022-07-25-17-34-56-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: attendant Remetrog default quality GRADE C ATK 51 HP 52 DEF 47 Attack
+  20,HP 200,Monster EXP Bonus 40.0% delicacies/tasty Aged Butterfly Wing
+  Broth,Yurlunggur Mixed Vegetables,Dragon Serpent Combo
+  games,chimeraland,attendants chimeraland,Attendant
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
-description: attendant Remetrog default quality GRADE C ATK 51 HP 52 DEF 47
-  Attack 20,HP 200,Monster EXP Bonus 40.0% delicacies/tasty Aged Butterfly Wing
-  Broth,Yurlunggur Mixed Vegetables,Dragon Serpent Combo
-  games,chimeraland,attendants chimeraland,Attendant
+thumbnail: /chimeraland/attendants/remetrog/Screenshot_2022-07-25-17-34-56-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant Remetrog
+type: post
+updated: 2022-09-28T23:26:37+07:00
+webtitle: chimeraland
+wordcount: 1384
 ---
 
 <link

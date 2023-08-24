@@ -1,9 +1,77 @@
 ---
-title: Attendant Vulamber
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-09-29T14:26:37+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2022-01-07T18:56:03+07:00
+description: "Attendant Vulamber Vulamber Information from Chimeraland
+
+  \    Vulamber default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \     "
+excerpt: "Attendant Vulamber Vulamber Information from Chimeraland
+
+  \    Vulamber default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \     "
 permalink: /chimeraland/attendants/vulamber.html
 photos:
   - /chimeraland/attendants/vulamber/Screenshot_2022-07-14-00-55-12-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,14 +82,48 @@ photos:
   - /chimeraland/attendants/vulamber/Screenshot_2022-07-14-22-52-56-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vulamber/Screenshot_2022-07-14-22-53-01-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/vulamber/Screenshot_2022-07-14-22-53-06-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/vulamber/Screenshot_2022-07-14-00-55-12-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant Vulamber Vulamber Information from Chimeraland
+
+  \    Vulamber default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \     "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/vulamber/Screenshot_2022-07-14-00-55-12-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant Vulamber
+type: post
+updated: 2022-09-29T14:26:37+07:00
+webtitle: chimeraland
+wordcount: 1118
 ---
 
 <link

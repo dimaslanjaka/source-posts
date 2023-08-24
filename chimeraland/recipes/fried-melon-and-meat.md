@@ -1,23 +1,62 @@
 ---
-title: Recipe Fried Melon And Meat Chimeraland
 author: L3n4r0x
-updated: 2022-10-06T00:46:54+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-08T17:56:03+07:00
+description: |-
+  Recipe Fried Melon And Meat Chimeraland Fried Melon And Meat Cooking Recipe
+                
+                Buff Fried Melon And Meat
+                
+                  
+                    540 Fullness
+                    +120 DEF
+                    Great Focus
+                  
+                
+                rec
+excerpt: |-
+  Recipe Fried Melon And Meat Chimeraland Fried Melon And Meat Cooking Recipe
+                
+                Buff Fried Melon And Meat
+                
+                  
+                    540 Fullness
+                    +120 DEF
+                    Great Focus
+                  
+                
+                rec
+lang: en
 permalink: /chimeraland/recipes/fried-melon-and-meat.html
 photos:
   - /chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat.webp
   - /chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat-name.webp
   - /chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat-icon.webp
   - /chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat-material.webp
-thumbnail: /chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat.webp
+subtitle: |-
+  Recipe Fried Melon And Meat Chimeraland Fried Melon And Meat Cooking Recipe
+                
+                Buff Fried Melon And Meat
+                
+                  
+                    540 Fullness
+                    +120 DEF
+                    Great Focus
+                  
+                
+                rec
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/fried-melon-and-meat/fried-melon-and-meat.webp
+title: Recipe Fried Melon And Meat Chimeraland
+type: post
+updated: 2022-10-06T00:46:54+07:00
+wordcount: 827
 ---
 
 <link

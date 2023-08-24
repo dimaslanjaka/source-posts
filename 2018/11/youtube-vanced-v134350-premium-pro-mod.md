@@ -16,7 +16,6 @@ excerpt: Youtube Vanced v.13.43.50 Premium Pro Mod Apk [NON-ROOT] Feature Play
   BackgroundFaster Buffering videos Play Background Faster Buffering videos
   Download Youtube Vanced v.13.43.50 Premium Pro Mod Apk [NON-ROOT] How To
   Install Install the MicroG For Login YouTube
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4380.png
@@ -33,7 +32,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net
 title: Youtube Vanced v.13.43.50 Premium Pro Mod Apk [NON-ROOT]
 type: post
 updated: 2023-08-08T14:45:36+07:00
-uuid: a3d30ecf-3dbe-4888-8752-6b82a710a1f6
 wordcount: 1144
 ---
 

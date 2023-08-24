@@ -12,7 +12,6 @@ description: Full download server is the desire of many people, especially the
   downloader mania, hehe. Well, Google Drive is a server that supports
 excerpt: Full download server is the desire of many people, especially the
   downloader mania, hehe. Well, Google Drive is a server that supports
-id: 483f2431-1489-4888-83a0-f7ce2056a426
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.info/wp-content/uploads/2018/12/Google_Drive_logo.png
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas
 title: How to Overcome Quota Limits on Google Drive
 type: post
 updated: 2023-08-08T14:45:29+07:00
-uuid: c3106ffe-a906-4888-885b-38e34eb8f77b
 wordcount: 2764
 ---
 

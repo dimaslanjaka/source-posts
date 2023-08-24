@@ -1,9 +1,77 @@
 ---
-title: Monster mongpion
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-05-25T14:55:12+07:00
+categories:
+  - games
+  - chimeraland
+  - monsters
+comments: true
 date: 2023-02-25T20:44:43+07:00
+description: "Monster mongpion mongpion Information from Chimeraland
+
+  \    mongpion default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \       "
+excerpt: "Monster mongpion mongpion Information from Chimeraland
+
+  \    mongpion default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \       "
 permalink: /chimeraland/monsters/mongpion.html
 photos:
   - null
@@ -15,15 +83,49 @@ photos:
   - /chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-43-27-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-46-37-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mongpion/Screenshot_2023-02-22-13-46-43-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=mongpion
+subtitle: "Monster mongpion mongpion Information from Chimeraland
+
+  \    mongpion default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \               \ 
+
+  \             \ 
+
+  \             \ 
+
+  \       "
 tags:
   - chimeraland
   - monster
   - pet
-categories:
-  - games
-  - chimeraland
-  - monsters
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=mongpion
+title: Monster mongpion
+type: post
+updated: 2023-05-25T14:55:12+07:00
+webtitle: chimeraland
+wordcount: 1189
 ---
 
 <link

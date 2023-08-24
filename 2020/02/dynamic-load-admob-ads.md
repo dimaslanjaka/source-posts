@@ -10,7 +10,6 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2020-02-14 22:49:00
 description: android java load admob ads dynamically
 excerpt: android java load admob ads dynamically
-id: b5d9b75a-6526-4888-8049-fcb95a47b823
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

@@ -16,7 +16,6 @@ excerpt: Cara akses FTP SSH client di termux Akses Jarak Jauh Termux FTP SSH
   Client Termux mampu mengakses perangkat jarak jauh dengan menggunakan beberapa
   alat umum. Hal ini juga memungkinkan untuk mengubah perangkat yang menjalankan
   Termux menjadi server yang dikendalikan dari jara
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://caninechronicle.com/wp-content/uploads/2012/09/FTP-icon.jpg
@@ -31,7 +30,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://caninechro
 title: Cara akses FTP SSH client di termux
 type: post
 updated: 2023-08-08T14:45:39+07:00
-uuid: 35dc714d-550d-4888-8144-b9302dc9bf7e
 wordcount: 2153
 ---
 

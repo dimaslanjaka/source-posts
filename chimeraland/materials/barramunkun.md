@@ -1,19 +1,46 @@
 ---
-title: Material Barramunkun Chimeraland
-date: 2022-01-16T23:56:03+07:00
-updated: 2022-10-08T23:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/barramunkun.html
-photos:
-  - /chimeraland/materials/barramunkun/barramunkun.webp
-thumbnail: /chimeraland/materials/barramunkun/barramunkun.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-16T23:56:03+07:00
+description: >
+  Material Barramunkun Chimeraland materials
+          Barramunkun
+          October 8, 2022 11:26 PM
+          
+            A marine fish with a spindle-shaped body. It is thicker in the center
+            and tapers out toward the head and tail. It is fierce in nature a good
+            swimmer, and very fast.
+excerpt: >
+  Material Barramunkun Chimeraland materials
+          Barramunkun
+          October 8, 2022 11:26 PM
+          
+            A marine fish with a spindle-shaped body. It is thicker in the center
+            and tapers out toward the head and tail. It is fierce in nature a good
+            swimmer, and very fast.
+permalink: /chimeraland/materials/barramunkun.html
+photos:
+  - /chimeraland/materials/barramunkun/barramunkun.webp
+subtitle: >
+  Material Barramunkun Chimeraland materials
+          Barramunkun
+          October 8, 2022 11:26 PM
+          
+            A marine fish with a spindle-shaped body. It is thicker in the center
+            and tapers out toward the head and tail. It is fierce in nature a good
+            swimmer, and very fast.
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/barramunkun/barramunkun.webp
+title: Material Barramunkun Chimeraland
+type: post
+updated: 2022-10-08T23:26:37+07:00
+wordcount: 869
 ---
 
 <link

@@ -12,7 +12,6 @@ description: h2>Simple Widget Blogger search box with pure CSS.</h2><br />Here
   the HTML:<br /><br /><pre>lt;form id=searchthis action=/search
 excerpt: h2>Simple Widget Blogger search box with pure CSS.</h2><br />Here the
   HTML:<br /><br /><pre>lt;form id=searchthis action=/search
-id: 090b7de9-7321-4888-8bd9-23f44e04ccfc
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -25,7 +24,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: Search Box With Pure CSS Simple
 type: post
 updated: 2023-08-08T14:45:42+07:00
-uuid: 4e3fa0bd-f438-4888-86cb-488e338cf731
 wordcount: 224
 ---
 

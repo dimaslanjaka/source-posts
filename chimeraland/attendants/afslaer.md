@@ -1,9 +1,73 @@
 ---
-title: Attendant afslaer
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2023-03-10T19:30:17+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2023-03-10T19:19:17+07:00
+description: "Attendant afslaer afslaer Information from Chimeraland
+
+  \    afslaer default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
+excerpt: "Attendant afslaer afslaer Information from Chimeraland
+
+  \    afslaer default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
 permalink: /chimeraland/attendants/afslaer.html
 photos:
   - /chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-12-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -14,14 +78,46 @@ photos:
   - /chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-32-56_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-50-36_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-54-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-12-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant afslaer afslaer Information from Chimeraland
+
+  \    afslaer default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \             "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/afslaer/Screenshot_2023-03-04-01-58-12-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant afslaer
+type: post
+updated: 2023-03-10T19:30:17+07:00
+webtitle: chimeraland
+wordcount: 1130
 ---
 
 <link

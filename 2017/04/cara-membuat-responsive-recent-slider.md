@@ -12,7 +12,6 @@ description: Nah kali ini saya akan share bagaimana cara membuat recent widget
   blogger dengan fitur Slider style, Responsive, Elegant Style.
 excerpt: Nah kali ini saya akan share bagaimana cara membuat recent widget
   blogger dengan fitur Slider style, Responsive, Elegant Style.
-id: 0b676197-3bb7-4888-8286-33acc23a7dea
 lang: en
 photos:
   - https://4.bp.blogspot.com/-8SFuxN53JKY/WP4EotL68mI/AAAAAAAAFLE/QKjY273Zd60Z1FdySOdLoB4r94bXskwZQCLcB/s320/Screenshot_2017-04-24-20-56-21.jpg
@@ -27,7 +26,6 @@ thumbnail: https://4.bp.blogspot.com/-8SFuxN53JKY/WP4EotL68mI/AAAAAAAAFLE/QKjY27
 title: Cara membuat Responsive Recent Slider Widget keren di Blogger
 type: post
 updated: 2023-08-08T14:46:01+07:00
-uuid: f8c59679-f117-4888-8fe1-7e73753630a3
 wordcount: 1130
 ---
 

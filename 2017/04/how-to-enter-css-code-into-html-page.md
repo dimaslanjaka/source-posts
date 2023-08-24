@@ -12,7 +12,6 @@ description: "Learning CSS Tutorial Part : How to enter CSS code into the HTML
   pageIn this tutorial we will discuss how to input the CSS"
 excerpt: "Learning CSS Tutorial Part : How to enter CSS code into the HTML
   pageIn this tutorial we will discuss how to input the CSS"
-id: 06ba6487-6c09-4888-8188-bb6639ce1ce5
 lang: en
 photos:
   - http://www.duniailkom.com/wp-content/uploads/2013/10/Cara-Menginput-CSS-Metode-Inline-Style.png
@@ -25,7 +24,6 @@ thumbnail: http://www.duniailkom.com/wp-content/uploads/2013/10/Cara-Menginput-C
 title: How to enter CSS code into the HTML page
 type: post
 updated: 2023-08-08T14:46:00+07:00
-uuid: b8316f81-a3a5-4888-8c0d-8e375c3d9318
 wordcount: 4778
 ---
 

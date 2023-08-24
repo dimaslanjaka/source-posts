@@ -1,23 +1,101 @@
 ---
-title: Recipe Stinky Tofu Chimeraland
 author: L3n4r0x
-updated: 2022-10-05T07:47:00+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-12T17:56:03+07:00
+description: "Recipe Stinky Tofu Chimeraland Stinky Tofu Cooking Recipe
+
+  \             \ 
+
+  \              Buff Stinky Tofu
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  +4% Crit Damage Dealt
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \              "
+excerpt: "Recipe Stinky Tofu Chimeraland Stinky Tofu Cooking Recipe
+
+  \             \ 
+
+  \              Buff Stinky Tofu
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  +4% Crit Damage Dealt
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \              "
+lang: en
 permalink: /chimeraland/recipes/stinky-tofu.html
 photos:
   - /chimeraland/recipes/stinky-tofu/stinky-tofu.webp
   - /chimeraland/recipes/stinky-tofu/stinky-tofu-name.webp
   - /chimeraland/recipes/stinky-tofu/stinky-tofu-icon.webp
   - /chimeraland/recipes/stinky-tofu/stinky-tofu-material.webp
-thumbnail: /chimeraland/recipes/stinky-tofu/stinky-tofu.webp
+subtitle: "Recipe Stinky Tofu Chimeraland Stinky Tofu Cooking Recipe
+
+  \             \ 
+
+  \              Buff Stinky Tofu
+
+  \             \ 
+
+  \               \ 
+
+  \                  300 Fullness
+
+  \                  +4% Crit Damage Dealt
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \           \ 
+
+  \              "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/stinky-tofu/stinky-tofu.webp
+title: Recipe Stinky Tofu Chimeraland
+type: post
+updated: 2022-10-05T07:47:00+07:00
+wordcount: 660
 ---
 
 <link

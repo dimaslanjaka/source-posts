@@ -1,23 +1,96 @@
 ---
-title: Recipe Bodhi Fruit Sauce Chimeraland
 author: L3n4r0x
-updated: 2022-09-29T02:26:37+07:00
-lang: en
+categories:
+  - games
+  - chimeraland
+  - recipes
+comments: true
 date: 2022-01-07T00:56:03+07:00
+description: "Recipe Bodhi Fruit Sauce Chimeraland Bodhi Fruit Sauce Cooking
+  Recipe
+
+  \             \ 
+
+  \              Buff Bodhi Fruit Sauce
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Heat Resistance +5
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \            "
+excerpt: "Recipe Bodhi Fruit Sauce Chimeraland Bodhi Fruit Sauce Cooking Recipe
+
+  \             \ 
+
+  \              Buff Bodhi Fruit Sauce
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Heat Resistance +5
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \            "
+lang: en
 permalink: /chimeraland/recipes/bodhi-fruit-sauce.html
 photos:
   - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce.webp
   - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-name.webp
   - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-icon.webp
   - /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce-material.webp
-thumbnail: /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce.webp
+subtitle: "Recipe Bodhi Fruit Sauce Chimeraland Bodhi Fruit Sauce Cooking Recipe
+
+  \             \ 
+
+  \              Buff Bodhi Fruit Sauce
+
+  \             \ 
+
+  \               \ 
+
+  \                  180 Fullness
+
+  \                  Heat Resistance +5
+
+  \               \ 
+
+  \             \ 
+
+  \              recipe
+
+  \           \ 
+
+  \            "
 tags:
   - chimeraland
   - recipe
-categories:
-  - games
-  - chimeraland
-  - recipes
+thumbnail: /chimeraland/recipes/bodhi-fruit-sauce/bodhi-fruit-sauce.webp
+title: Recipe Bodhi Fruit Sauce Chimeraland
+type: post
+updated: 2022-09-29T02:26:37+07:00
+wordcount: 691
 ---
 
 <link

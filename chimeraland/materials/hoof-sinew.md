@@ -1,19 +1,127 @@
 ---
-title: Material Hoof Sinew Chimeraland
-date: 2022-01-07T06:56:03+07:00
-updated: 2022-09-29T06:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/hoof-sinew.html
-photos:
-  - /chimeraland/materials/hoof-sinew/hoof-sinew.webp
-thumbnail: /chimeraland/materials/hoof-sinew/hoof-sinew.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-07T06:56:03+07:00
+description: "Material Hoof Sinew Chimeraland materials
+
+  \        Hoof Sinew
+
+  \        September 29, 2022 6:26 AM
+
+  \        Continue reading Hoof Sinew
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Hoof Sinew
+
+  \           \ 
+
+  \             \ 
+
+  \               \ 
+
+  \          "
+excerpt: "Material Hoof Sinew Chimeraland materials
+
+  \        Hoof Sinew
+
+  \        September 29, 2022 6:26 AM
+
+  \        Continue reading Hoof Sinew
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Hoof Sinew
+
+  \           \ 
+
+  \             \ 
+
+  \               \ 
+
+  \          "
+permalink: /chimeraland/materials/hoof-sinew.html
+photos:
+  - /chimeraland/materials/hoof-sinew/hoof-sinew.webp
+subtitle: "Material Hoof Sinew Chimeraland materials
+
+  \        Hoof Sinew
+
+  \        September 29, 2022 6:26 AM
+
+  \        Continue reading Hoof Sinew
+
+  \     \ 
+
+  \     \ 
+
+  \       \ 
+
+  \     \ 
+
+  \   \ 
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \            What is the use of the Hoof Sinew
+
+  \           \ 
+
+  \             \ 
+
+  \               \ 
+
+  \          "
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/hoof-sinew/hoof-sinew.webp
+title: Material Hoof Sinew Chimeraland
+type: post
+updated: 2022-09-29T06:26:37+07:00
+wordcount: 7113
 ---
 
 <link

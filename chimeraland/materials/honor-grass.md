@@ -1,19 +1,46 @@
 ---
-title: Material Honor Grass Chimeraland
-date: 2022-01-18T03:56:03+07:00
-updated: 2022-10-10T03:26:37+07:00
 author: L3n4r0x
-permalink: /chimeraland/materials/honor-grass.html
-photos:
-  - /chimeraland/materials/honor-grass/honor-grass.webp
-thumbnail: /chimeraland/materials/honor-grass/honor-grass.webp
-tags:
-  - chimeraland
-  - material
 categories:
   - games
   - chimeraland
   - material
+comments: true
+date: 2022-01-18T03:56:03+07:00
+description: |-
+  Material Honor Grass Chimeraland materials
+          Honor Grass
+          October 10, 2022 3:26 AM
+          
+            An extremely rare herb, distinguished by tangled, branching roots as
+            well as purple leaves and flowers. Taken to protect against thunder,
+            it can only be found on Sno
+excerpt: |-
+  Material Honor Grass Chimeraland materials
+          Honor Grass
+          October 10, 2022 3:26 AM
+          
+            An extremely rare herb, distinguished by tangled, branching roots as
+            well as purple leaves and flowers. Taken to protect against thunder,
+            it can only be found on Sno
+permalink: /chimeraland/materials/honor-grass.html
+photos:
+  - /chimeraland/materials/honor-grass/honor-grass.webp
+subtitle: |-
+  Material Honor Grass Chimeraland materials
+          Honor Grass
+          October 10, 2022 3:26 AM
+          
+            An extremely rare herb, distinguished by tangled, branching roots as
+            well as purple leaves and flowers. Taken to protect against thunder,
+            it can only be found on Sno
+tags:
+  - chimeraland
+  - material
+thumbnail: /chimeraland/materials/honor-grass/honor-grass.webp
+title: Material Honor Grass Chimeraland
+type: post
+updated: 2022-10-10T03:26:37+07:00
+wordcount: 1150
 ---
 
 <link

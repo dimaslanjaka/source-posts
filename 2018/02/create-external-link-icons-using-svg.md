@@ -18,7 +18,6 @@ excerpt: "Create External Link Icons Using SVG without JavaScript In Blogger
   quot;itemquot;><style>/<[CDATA[/.post-body a[href^=http://]:after,.post-body
   a[href^=https://]:after content: ; background:
   urldata:image/svgxml;charset=utf8,3csvg"
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://goo.gl/ZDjCRk
@@ -37,7 +36,6 @@ thumbnail: https://goo.gl/ZDjCRk
 title: Create External Link Icons Using SVG without JavaScript In Blogger
 type: post
 updated: 2023-08-08T14:45:42+07:00
-uuid: f23ed2a9-8e62-4888-8613-6b657a3bef63
 wordcount: 265
 ---
 

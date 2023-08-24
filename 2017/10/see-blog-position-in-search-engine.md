@@ -12,7 +12,6 @@ description: There is one of the bloggers on the comments asking about how to
   blog can search on google.
 excerpt: There is one of the bloggers on the comments asking about how to blog
   can search on google.
-id: b18a617a-565b-4888-8f0e-e4850a758164
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://cdn.pixabay.com/photo/2014/08/06/00/06/search-engine-411105_1280.jpg
@@ -25,7 +24,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://cdn.pixab
 title: SEE THE BLOG POSITION IN SEARCH ENGINE
 type: post
 updated: 2023-08-08T14:45:43+07:00
-uuid: 89975ba8-fee3-4888-8faa-72924ccc49a2
 wordcount: 861
 ---
 

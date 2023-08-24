@@ -12,7 +12,6 @@ description: "open terminal, type gedit /etc/apt/sources.listadd following
   codes: deb http://http.kali.org/kali kali-rolling main non-free"
 excerpt: "open terminal, type gedit /etc/apt/sources.listadd following codes:
   deb http://http.kali.org/kali kali-rolling main non-free"
-id: b6271477-c89a-4888-8057-2f2c05b56d44
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.pngarts.com/files/3/Linux-PNG-Image-Background.png
@@ -24,7 +23,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.pngar
 title: Default Kali Linux Repositories
 type: post
 updated: 2023-08-08T14:45:30+07:00
-uuid: 1cc6d972-1070-4888-80b9-14237c91806a
 wordcount: 66
 ---
 

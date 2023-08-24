@@ -8,7 +8,6 @@ description: Label assign this post should have categories javascript and tags
   snippet javascript snippet
 excerpt: Label assign this post should have categories javascript and tags
   snippet javascript snippet
-id: 5983e8f2-c47b-4888-8bdb-084a5082de7d
 lang: en
 photos: []
 subtitle: Label assign this post should have categories javascript and tags

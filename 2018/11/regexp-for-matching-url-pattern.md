@@ -14,7 +14,6 @@ description: img
 excerpt: img
   src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webubi.com/wp-content/uploads/2017/03/regex.png
   alt=regexp
-id: affdea3a-fb3a-4888-8191-63fee859ae73
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webubi.com/wp-content/uploads/2017/03/regex.png
@@ -29,7 +28,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webub
 title: "[JS][PHP] Regexp for matching URL Pattern"
 type: post
 updated: 2023-08-08T14:45:36+07:00
-uuid: d8c6ac9a-9287-4888-8c62-2619979a958a
 wordcount: 315
 ---
 

@@ -1,9 +1,73 @@
 ---
-title: Attendant buccitrog
-webtitle: chimeraland
 author: L3n4r0x
-updated: 2022-11-25T21:35:17+07:00
+categories:
+  - games
+  - chimeraland
+  - attendants
+comments: true
 date: 2022-11-25T21:24:17+07:00
+description: "Attendant buccitrog buccitrog Information from Chimeraland
+
+  \    buccitrog default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \       "
+excerpt: "Attendant buccitrog buccitrog Information from Chimeraland
+
+  \    buccitrog default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \       "
 permalink: /chimeraland/attendants/buccitrog.html
 photos:
   - /chimeraland/attendants/buccitrog/Screenshot_2022-11-15-23-45-51-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -13,14 +77,46 @@ photos:
   - /chimeraland/attendants/buccitrog/Screenshot_2022-11-15-23-46-05-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/buccitrog/Screenshot_2022-11-15-23-46-08-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/buccitrog/Screenshot_2022-11-15-23-46-11-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
-thumbnail: /chimeraland/attendants/buccitrog/Screenshot_2022-11-15-23-45-51-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
+subtitle: "Attendant buccitrog buccitrog Information from Chimeraland
+
+  \    buccitrog default maximum attribute
+
+  \   \ 
+
+  \     \ 
+
+  \       \ 
+
+  \         \ 
+
+  \           \ 
+
+  \             \ 
+
+  \                GRADE
+
+  \                N/A N/A
+
+  \             \ 
+
+  \             \ 
+
+  \                Attack
+
+  \                N/A
+
+  \             \ 
+
+  \       "
 tags:
   - chimeraland
   - Attendant
-categories:
-  - games
-  - chimeraland
-  - attendants
+thumbnail: /chimeraland/attendants/buccitrog/Screenshot_2022-11-15-23-45-51-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
+title: Attendant buccitrog
+type: post
+updated: 2022-11-25T21:35:17+07:00
+webtitle: chimeraland
+wordcount: 1059
 ---
 
 <link

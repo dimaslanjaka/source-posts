@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.c
 date: 2018-11-25T21:30:00.000+07:00
 description: FarmVille Country Escape 11.3.2931 Apk Mod Tombol tidak terbatas, Permata
 excerpt: FarmVille Country Escape 11.3.2931 Apk Mod Tombol tidak terbatas, Permata
-id: 7eb5fecb-1076-4888-8ca1-e80cffb20454
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2014/01/FarmVille-2-Country-Escape-1.jpg
@@ -22,7 +21,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.rev
 title: DOWNLOAD FarmVille 2 Country Escape 11.3.2931 Apk  Mod unlimited Keys,Gems
 type: post
 updated: 2023-08-08T14:45:38+07:00
-uuid: c23fb60f-b203-4888-8a1e-ba8e514343fa
 wordcount: 2405
 ---
 

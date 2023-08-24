@@ -10,7 +10,6 @@ cover: https://imgdb.net/images/3206.png
 date: 2017-09-25T00:57:00.003+07:00
 description: img src=https://imgdb.net/images/3206.png/><script
 excerpt: img src=https://imgdb.net/images/3206.png/><script
-id: 230d3724-7488-4888-88b5-b1dfd61e1464
 lang: en
 photos:
   - https://imgdb.net/images/3206.png
@@ -22,7 +21,6 @@ thumbnail: https://imgdb.net/images/3206.png
 title: Javascript detect bot crawler
 type: post
 updated: 2023-08-08T14:45:46+07:00
-uuid: 3711008f-a5fb-4888-8f3a-2e43ef289ed3
 wordcount: 118
 ---
 

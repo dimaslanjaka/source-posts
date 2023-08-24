@@ -12,7 +12,6 @@ description: pre>.cc-banner .cc-btn:last-child,.cc-theme-classic
   .cc-btn:last-childmin-width:140px.cc-windowleft:20px;bottom:20px;transition:opacity
 excerpt: pre>.cc-banner .cc-btn:last-child,.cc-theme-classic
   .cc-btn:last-childmin-width:140px.cc-windowleft:20px;bottom:20px;transition:opacity
-id: ebf1ebfe-d4ee-4888-85c5-168bec3dc1ad
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
@@ -24,7 +23,6 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: CSS for a cookie policy
 type: post
 updated: 2023-08-08T14:45:35+07:00
-uuid: 56adff63-204d-4888-8b52-b688ca528cf8
 wordcount: 192
 ---
 

@@ -12,7 +12,6 @@ description: See the Pen Bootstrap progress bar countdown by dimas lanjaka
   @dimaslanjaka on CodePen.
 excerpt: See the Pen Bootstrap progress bar countdown by dimas lanjaka
   @dimaslanjaka on CodePen.
-id: f70fb531-d35b-4888-8ca7-5a26d7af4309
 lang: en
 photos:
   - https://www.webmanajemen.com/assets/img/javascript.png
@@ -26,7 +25,6 @@ thumbnail: https://www.webmanajemen.com/assets/img/javascript.png
 title: Bootstrap 4 Auto Progress Bar
 type: post
 updated: 2023-08-08T14:45:30+07:00
-uuid: e4a3479a-db0e-4888-88e0-d76a7f5bdb59
 wordcount: 632
 ---
 

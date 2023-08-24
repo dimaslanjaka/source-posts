@@ -16,7 +16,6 @@ excerpt: PUBGM v.0.10.0 APK DATA PUBG Mobile Apk 0.10.0 PUBG Mobile New Update
   0.10.0 out currently globally and youll transfer Vikendi Map everywhere the
   globe and install it on your phone . Its vast content update, youll say it is
   a Christmas present to any or all folks from Tencent games.PUBG Mobile z
-id: d41d8cd9-f00b-4888-804e-800998ecf842
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4579.jpg
@@ -31,7 +30,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net
 title: PUBGM v.0.10.0 APK DATA
 type: post
 updated: 2023-08-08T14:45:34+07:00
-uuid: 89643971-d972-4888-8a02-b853a906c09a
 wordcount: 462
 ---
 

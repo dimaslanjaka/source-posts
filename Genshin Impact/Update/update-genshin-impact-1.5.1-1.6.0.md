@@ -10,7 +10,6 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://uploadstatic-
 date: 2021-06-07T00:00:00+07:00
 description: Update Genshin Impact 1.5.1 - 1.6.0 Manual
 excerpt: Update Genshin Impact 1.5.1 - 1.6.0 Manual
-id: c076fb31-331d-4888-8b76-ab9762c009a4
 lang: en
 location: Indonesia
 photos:
@@ -23,7 +22,6 @@ thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://uploadsta
 title: Update Genshin Impact 1.6.0 Manual
 type: post
 updated: 2023-08-08T14:44:23+07:00
-uuid: c076fb31-331d-4888-8b76-ab9762c009a4
 webtitle: WMI Genshin Impact
 wordcount: 226
 ---
