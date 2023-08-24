@@ -27,6 +27,7 @@ wordcount: 1450
 - Uninstall QFIL Lalu Restart Komputer Lalu Install Ulang QFIL
 
 ## Video cara megatasi flash QFIL error
+
 {{% youtube 5u0Nd1lj9GI %}}
 
 ## Macam-macam faktor error flashing dengan QFIL
