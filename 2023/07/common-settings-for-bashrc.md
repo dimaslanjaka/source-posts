@@ -1,4 +1,10 @@
-
+---
+title: Common Settings For .bashrc
+tags: [bash]
+category: [programming]
+date: 2023-08-24T07:00:51+07:00
+updated: 2023-08-24T07:06:17+07:00
+---
 
 ```properties
 # custom NodeJS executable paths
