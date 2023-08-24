@@ -32,7 +32,7 @@ if [ -d "/media/dimaslanjaka/DATA/bin/composer" ] ; then
 fi
 # android development
 export ANDROID_HOME="$HOME/Android/Sdk"
-export PATH="$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$PATH"
+export PATH="$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$ANDROID_HOME/platform-tools:$PATH"
 # android, groovy, gradle development
 export GRADLE_HOME="$HOME/.gradle"
 export GRADLE_USER_HOME="$GRADLE_HOME"
