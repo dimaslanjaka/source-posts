@@ -1,101 +1,23 @@
 ---
+title: Recipe Wonton Noodles Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-13T15:56:03+07:00
-description: "Recipe Wonton Noodles Chimeraland Wonton Noodles Cooking Recipe
-
-  \             \ 
-
-  \              Buff Wonton Noodles
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +10% CRIT DMG
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \             "
-excerpt: "Recipe Wonton Noodles Chimeraland Wonton Noodles Cooking Recipe
-
-  \             \ 
-
-  \              Buff Wonton Noodles
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +10% CRIT DMG
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \             "
+updated: 2022-10-07T01:46:56+07:00
 lang: en
+date: 2022-01-13T15:56:03+07:00
 permalink: /chimeraland/recipes/wonton-noodles.html
 photos:
   - /chimeraland/recipes/wonton-noodles/wonton-noodles.webp
   - /chimeraland/recipes/wonton-noodles/wonton-noodles-name.webp
   - /chimeraland/recipes/wonton-noodles/wonton-noodles-icon.webp
   - /chimeraland/recipes/wonton-noodles/wonton-noodles-material.webp
-subtitle: "Recipe Wonton Noodles Chimeraland Wonton Noodles Cooking Recipe
-
-  \             \ 
-
-  \              Buff Wonton Noodles
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +10% CRIT DMG
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \             "
+thumbnail: /chimeraland/recipes/wonton-noodles/wonton-noodles.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/wonton-noodles/wonton-noodles.webp
-title: Recipe Wonton Noodles Chimeraland
-type: post
-updated: 2022-10-07T01:46:56+07:00
-wordcount: 797
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

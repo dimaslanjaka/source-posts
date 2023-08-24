@@ -1,68 +1,23 @@
 ---
+title: Recipe Apple Sauce Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-07T05:56:03+07:00
-description: |-
-  Recipe Apple Sauce Chimeraland Apple Sauce Cooking Recipe
-                
-                Buff Apple Sauce
-                
-                  
-                    +180 fullness
-                    Heat Resistance +5
-                  
-                
-                recipe
-              
-              
-                we
-excerpt: |-
-  Recipe Apple Sauce Chimeraland Apple Sauce Cooking Recipe
-                
-                Buff Apple Sauce
-                
-                  
-                    +180 fullness
-                    Heat Resistance +5
-                  
-                
-                recipe
-              
-              
-                we
+updated: 2022-09-28T20:26:37+07:00
 lang: en
+date: 2022-01-07T05:56:03+07:00
 permalink: /chimeraland/recipes/apple-sauce.html
 photos:
   - /chimeraland/recipes/apple-sauce/apple-sauce.webp
   - /chimeraland/recipes/apple-sauce/apple-sauce-name.webp
   - /chimeraland/recipes/apple-sauce/apple-sauce-icon.webp
   - /chimeraland/recipes/apple-sauce/apple-sauce-material.webp
-subtitle: |-
-  Recipe Apple Sauce Chimeraland Apple Sauce Cooking Recipe
-                
-                Buff Apple Sauce
-                
-                  
-                    +180 fullness
-                    Heat Resistance +5
-                  
-                
-                recipe
-              
-              
-                we
+thumbnail: /chimeraland/recipes/apple-sauce/apple-sauce.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/apple-sauce/apple-sauce.webp
-title: Recipe Apple Sauce Chimeraland
-type: post
-updated: 2022-09-28T20:26:37+07:00
-wordcount: 843
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

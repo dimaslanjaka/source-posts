@@ -1,29 +1,8 @@
 ---
-author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - material
-comments: true
+title: Material Precious Jade Chimeraland
 date: 2022-01-07T02:56:03+07:00
-description: |-
-  Material Precious Jade Chimeraland materials
-          Precious Jade
-          September 29, 2022 2:26 AM
-          
-            Crystal-marrow appears as ice, hidden and unwavering, minds clear as
-            violet descends, on the edge as well as the beginning.
-          
-          Continue reading Precious Ja
-excerpt: |-
-  Material Precious Jade Chimeraland materials
-          Precious Jade
-          September 29, 2022 2:26 AM
-          
-            Crystal-marrow appears as ice, hidden and unwavering, minds clear as
-            violet descends, on the edge as well as the beginning.
-          
-          Continue reading Precious Ja
+updated: 2022-09-29T02:26:37+07:00
+author: L3n4r0x
 permalink: /chimeraland/materials/precious-jade.html
 photos:
   - /chimeraland/materials/precious-jade/precious-jade.webp
@@ -33,23 +12,14 @@ photos:
   - /chimeraland/materials/precious-jade/westmount-2.webp
   - /chimeraland/materials/precious-jade/westmount-3.webp
   - /chimeraland/materials/precious-jade/westmount.webp
-subtitle: |-
-  Material Precious Jade Chimeraland materials
-          Precious Jade
-          September 29, 2022 2:26 AM
-          
-            Crystal-marrow appears as ice, hidden and unwavering, minds clear as
-            violet descends, on the edge as well as the beginning.
-          
-          Continue reading Precious Ja
+thumbnail: /chimeraland/materials/precious-jade/precious-jade.webp
 tags:
   - chimeraland
   - material
-thumbnail: /chimeraland/materials/precious-jade/precious-jade.webp
-title: Material Precious Jade Chimeraland
-type: post
-updated: 2022-09-29T02:26:37+07:00
-wordcount: 1288
+categories:
+  - games
+  - chimeraland
+  - material
 ---
 
 <link

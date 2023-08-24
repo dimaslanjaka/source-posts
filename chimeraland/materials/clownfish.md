@@ -1,52 +1,19 @@
 ---
+title: Material Clownfish Chimeraland
+date: 2022-01-15T22:56:03+07:00
+updated: 2022-10-07T22:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/clownfish.html
+photos:
+  - /chimeraland/materials/clownfish/clownfish.webp
+thumbnail: /chimeraland/materials/clownfish/clownfish.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-15T22:56:03+07:00
-description: >-
-  Material Clownfish Chimeraland materials
-          Clownfish
-          October 7, 2022 10:26 PM
-          
-            A marine fish with an oval shape-body and lot of scale. It is brightly
-            colored, with black stripes splitting orange and white live with
-            anemones.
-          
-          Contin
-excerpt: >-
-  Material Clownfish Chimeraland materials
-          Clownfish
-          October 7, 2022 10:26 PM
-          
-            A marine fish with an oval shape-body and lot of scale. It is brightly
-            colored, with black stripes splitting orange and white live with
-            anemones.
-          
-          Contin
-permalink: /chimeraland/materials/clownfish.html
-photos:
-  - /chimeraland/materials/clownfish/clownfish.webp
-subtitle: >-
-  Material Clownfish Chimeraland materials
-          Clownfish
-          October 7, 2022 10:26 PM
-          
-            A marine fish with an oval shape-body and lot of scale. It is brightly
-            colored, with black stripes splitting orange and white live with
-            anemones.
-          
-          Contin
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/clownfish/clownfish.webp
-title: Material Clownfish Chimeraland
-type: post
-updated: 2022-10-07T22:26:37+07:00
-wordcount: 765
 ---
 
 <link

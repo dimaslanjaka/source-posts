@@ -1,77 +1,9 @@
 ---
+title: Monster gripine
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T14:31:12+07:00
 date: 2023-03-11T13:19:18+07:00
-description: "Monster gripine gripine Information from Chimeraland
-
-  \    gripine default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \          "
-excerpt: "Monster gripine gripine Information from Chimeraland
-
-  \    gripine default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \          "
 permalink: /chimeraland/monsters/gripine.html
 photos:
   - null
@@ -83,49 +15,15 @@ photos:
   - /chimeraland/monsters/gripine/Screenshot_2023-02-24-22-53-07-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/gripine/Screenshot_2023-02-24-22-53-12-21_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/gripine/Screenshot_2023-03-26-11-06-10-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster gripine gripine Information from Chimeraland
-
-  \    gripine default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \          "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=gripine
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=gripine
-title: Monster gripine
-type: post
-updated: 2023-05-25T14:31:12+07:00
-webtitle: chimeraland
-wordcount: 1189
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

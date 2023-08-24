@@ -1,73 +1,9 @@
 ---
+title: Monster hermit crab
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2022-11-25T20:28:54+07:00
 date: 2022-11-25T20:17:54+07:00
-description: "Monster hermit crab hermit crab Information from Chimeraland
-
-  \    hermit crab default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \   "
-excerpt: "Monster hermit crab hermit crab Information from Chimeraland
-
-  \    hermit crab default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \   "
 permalink: /chimeraland/monsters/hermit-crab.html
 photos:
   - /chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-14-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -78,47 +14,15 @@ photos:
   - /chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-42-35_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-53-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-57-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster hermit crab hermit crab Information from Chimeraland
-
-  \    hermit crab default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \   "
+thumbnail: /chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-14-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/hermit-crab/Screenshot_2022-11-14-11-17-14-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster hermit crab
-type: post
-updated: 2022-11-25T20:28:54+07:00
-webtitle: chimeraland
-wordcount: 1237
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

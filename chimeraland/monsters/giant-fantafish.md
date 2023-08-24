@@ -1,70 +1,9 @@
 ---
+title: Monster giant fantafish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-02-16T22:53:22+07:00
 date: 2023-02-16T22:42:22+07:00
-description: "Monster giant fantafish giant fantafish Information from
-  Chimeraland
-
-  \    giant fantafish default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \      "
-excerpt: "Monster giant fantafish giant fantafish Information from Chimeraland
-
-  \    giant fantafish default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \      "
 permalink: /chimeraland/monsters/giant-fantafish.html
 photos:
   - /chimeraland/monsters/giant-fantafish/Screenshot_2023-02-16-02-55-32-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -74,45 +13,15 @@ photos:
   - /chimeraland/monsters/giant-fantafish/Screenshot_2023-02-16-02-55-49-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-fantafish/Screenshot_2023-02-16-02-55-54-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-fantafish/Screenshot_2023-02-16-02-56-00-15_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster giant fantafish giant fantafish Information from Chimeraland
-
-  \    giant fantafish default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \      "
+thumbnail: /chimeraland/monsters/giant-fantafish/Screenshot_2023-02-16-02-55-32-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/giant-fantafish/Screenshot_2023-02-16-02-55-32-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster giant fantafish
-type: post
-updated: 2023-02-16T22:53:22+07:00
-webtitle: chimeraland
-wordcount: 1156
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

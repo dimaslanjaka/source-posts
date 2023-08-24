@@ -1,65 +1,23 @@
 ---
+title: Recipe Garlic Thighs Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-09T08:56:03+07:00
-description: |-
-  Recipe Garlic Thighs Chimeraland Garlic Thighs Cooking Recipe
-                
-                Buff Garlic Thighs
-                
-                  
-                    Buff Garlic Thighs not yet written
-                  
-                
-                recipe
-              
-              
-                webmanajemen
-excerpt: |-
-  Recipe Garlic Thighs Chimeraland Garlic Thighs Cooking Recipe
-                
-                Buff Garlic Thighs
-                
-                  
-                    Buff Garlic Thighs not yet written
-                  
-                
-                recipe
-              
-              
-                webmanajemen
+updated: 2022-10-05T23:46:54+07:00
 lang: en
+date: 2022-01-09T08:56:03+07:00
 permalink: /chimeraland/recipes/garlic-thighs.html
 photos:
   - /chimeraland/recipes/garlic-thighs/garlic-thighs.webp
   - /chimeraland/recipes/garlic-thighs/garlic-thighs-name.webp
   - /chimeraland/recipes/garlic-thighs/garlic-thighs-icon.webp
   - /chimeraland/recipes/garlic-thighs/garlic-thighs-material.webp
-subtitle: |-
-  Recipe Garlic Thighs Chimeraland Garlic Thighs Cooking Recipe
-                
-                Buff Garlic Thighs
-                
-                  
-                    Buff Garlic Thighs not yet written
-                  
-                
-                recipe
-              
-              
-                webmanajemen
+thumbnail: /chimeraland/recipes/garlic-thighs/garlic-thighs.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/garlic-thighs/garlic-thighs.webp
-title: Recipe Garlic Thighs Chimeraland
-type: post
-updated: 2022-10-05T23:46:54+07:00
-wordcount: 666
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

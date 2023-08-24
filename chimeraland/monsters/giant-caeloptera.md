@@ -1,70 +1,9 @@
 ---
+title: Monster giant caeloptera
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-02-25T02:55:43+07:00
 date: 2023-02-25T02:44:43+07:00
-description: "Monster giant caeloptera giant caeloptera Information from
-  Chimeraland
-
-  \    giant caeloptera default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \   "
-excerpt: "Monster giant caeloptera giant caeloptera Information from Chimeraland
-
-  \    giant caeloptera default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \   "
 permalink: /chimeraland/monsters/giant-caeloptera.html
 photos:
   - /chimeraland/monsters/giant-caeloptera/Screenshot_2023-02-23-13-17-57-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -75,46 +14,15 @@ photos:
   - /chimeraland/monsters/giant-caeloptera/Screenshot_2023-02-23-13-18-32-56_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-caeloptera/Screenshot_2023-02-23-13-18-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-caeloptera/Screenshot_2023-02-23-13-18-41-93_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster giant caeloptera giant caeloptera Information from
-  Chimeraland
-
-  \    giant caeloptera default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \   "
+thumbnail: /chimeraland/monsters/giant-caeloptera/Screenshot_2023-02-23-13-17-57-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/giant-caeloptera/Screenshot_2023-02-23-13-17-57-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster giant caeloptera
-type: post
-updated: 2023-02-25T02:55:43+07:00
-webtitle: chimeraland
-wordcount: 1237
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

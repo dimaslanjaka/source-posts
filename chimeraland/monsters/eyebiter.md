@@ -1,117 +1,21 @@
 ---
+title: Monster Eyebiter
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T08:18:12+07:00
 date: 2022-01-07T06:56:03+07:00
-description: "Monster Eyebiter Eyebiter Information from Chimeraland
-
-  \    Eyebiter default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                45
-
-  \             \ 
-
-  \              "
-excerpt: "Monster Eyebiter Eyebiter Information from Chimeraland
-
-  \    Eyebiter default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                45
-
-  \             \ 
-
-  \              "
 permalink: /chimeraland/monsters/eyebiter.html
 photos:
   - null
-subtitle: "Monster Eyebiter Eyebiter Information from Chimeraland
-
-  \    Eyebiter default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                45
-
-  \             \ 
-
-  \              "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Eyebiter
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Eyebiter
-title: Monster Eyebiter
-type: post
-updated: 2023-05-25T08:18:12+07:00
-webtitle: chimeraland
-wordcount: 633
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

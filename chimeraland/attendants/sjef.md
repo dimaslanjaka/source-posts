@@ -1,77 +1,9 @@
 ---
+title: Attendant sjef
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-02-13T12:42:21+07:00
 date: 2023-02-13T12:31:21+07:00
-description: "Attendant sjef sjef Information from Chimeraland
-
-  \    sjef default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             \ 
-
-  \       "
-excerpt: "Attendant sjef sjef Information from Chimeraland
-
-  \    sjef default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             \ 
-
-  \       "
 permalink: /chimeraland/attendants/sjef.html
 photos:
   - /chimeraland/attendants/sjef/Screenshot_2023-02-10-02-42-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -80,48 +12,14 @@ photos:
   - /chimeraland/attendants/sjef/Screenshot_2023-02-10-02-42-28-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/sjef/Screenshot_2023-02-10-02-42-32-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/sjef/Screenshot_2023-02-10-02-42-38-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant sjef sjef Information from Chimeraland
-
-  \    sjef default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             \ 
-
-  \       "
+thumbnail: /chimeraland/attendants/sjef/Screenshot_2023-02-10-02-42-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/sjef/Screenshot_2023-02-10-02-42-17-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant sjef
-type: post
-updated: 2023-02-13T12:42:21+07:00
-webtitle: chimeraland
-wordcount: 988
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

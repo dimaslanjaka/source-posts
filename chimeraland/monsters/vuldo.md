@@ -1,77 +1,9 @@
 ---
+title: Monster Vuldo
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T11:22:12+07:00
 date: 2022-01-10T21:56:03+07:00
-description: "Monster Vuldo Vuldo Information from Chimeraland
-
-  \    Vuldo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                50
-
-  \             \ 
-
-  \             \ 
-
-  \        "
-excerpt: "Monster Vuldo Vuldo Information from Chimeraland
-
-  \    Vuldo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                50
-
-  \             \ 
-
-  \             \ 
-
-  \        "
 permalink: /chimeraland/monsters/vuldo.html
 photos:
   - null
@@ -82,49 +14,15 @@ photos:
   - /chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-48-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/vuldo/Screenshot_2022-07-18-01-10-52-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/vuldo/Screenshot_2022-07-29-00-21-28-82_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster Vuldo Vuldo Information from Chimeraland
-
-  \    Vuldo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                50
-
-  \             \ 
-
-  \             \ 
-
-  \        "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Vuldo
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Vuldo
-title: Monster Vuldo
-type: post
-updated: 2023-05-25T11:22:12+07:00
-webtitle: chimeraland
-wordcount: 1130
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

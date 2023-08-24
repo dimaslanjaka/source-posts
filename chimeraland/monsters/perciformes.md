@@ -1,117 +1,21 @@
 ---
+title: Monster Perciformes
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T02:46:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Perciformes Perciformes Information from Chimeraland
-
-  \    Perciformes default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             "
-excerpt: "Monster Perciformes Perciformes Information from Chimeraland
-
-  \    Perciformes default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             "
 permalink: /chimeraland/monsters/perciformes.html
 photos:
   - null
-subtitle: "Monster Perciformes Perciformes Information from Chimeraland
-
-  \    Perciformes default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Perciformes
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Perciformes
-title: Monster Perciformes
-type: post
-updated: 2023-05-25T02:46:12+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

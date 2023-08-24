@@ -1,111 +1,21 @@
 ---
+title: Monster Lime Lobcray
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T18:56:12+07:00
 date: 2022-01-08T20:56:03+07:00
-description: "Monster Lime Lobcray Lime Lobcray Information from Chimeraland
-
-  \    Lime Lobcray default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \         "
-excerpt: "Monster Lime Lobcray Lime Lobcray Information from Chimeraland
-
-  \    Lime Lobcray default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \         "
 permalink: /chimeraland/monsters/lime-lobcray.html
 photos:
   - null
-subtitle: "Monster Lime Lobcray Lime Lobcray Information from Chimeraland
-
-  \    Lime Lobcray default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \         "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Lime Lobcray
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Lime Lobcray
-title: Monster Lime Lobcray
-type: post
-updated: 2023-05-25T18:56:12+07:00
-webtitle: chimeraland
-wordcount: 696
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

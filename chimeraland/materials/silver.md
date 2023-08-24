@@ -1,76 +1,19 @@
 ---
+title: Material Silver Chimeraland
+date: 2022-01-07T07:56:03+07:00
+updated: 2022-09-29T07:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/silver.html
+photos:
+  - /chimeraland/materials/silver/silver.webp
+thumbnail: /chimeraland/materials/silver/silver.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-07T07:56:03+07:00
-description: |-
-  Material Silver Chimeraland materials
-          Silver
-          September 29, 2022 7:26 AM
-          
-            White when pure, imperfections much darker, soft as well as ductile.
-          
-          Continue reading Silver
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What
-excerpt: |-
-  Material Silver Chimeraland materials
-          Silver
-          September 29, 2022 7:26 AM
-          
-            White when pure, imperfections much darker, soft as well as ductile.
-          
-          Continue reading Silver
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What
-permalink: /chimeraland/materials/silver.html
-photos:
-  - /chimeraland/materials/silver/silver.webp
-subtitle: |-
-  Material Silver Chimeraland materials
-          Silver
-          September 29, 2022 7:26 AM
-          
-            White when pure, imperfections much darker, soft as well as ductile.
-          
-          Continue reading Silver
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/silver/silver.webp
-title: Material Silver Chimeraland
-type: post
-updated: 2022-09-29T07:26:37+07:00
-wordcount: 1067
 ---
 
 <link

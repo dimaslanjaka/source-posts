@@ -1,127 +1,19 @@
 ---
+title: Material Bamboo Leaf Chimeraland
+date: 2022-01-13T19:56:03+07:00
+updated: 2022-10-05T19:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/bamboo-leaf.html
+photos:
+  - /chimeraland/materials/bamboo-leaf/bamboo-leaf.webp
+thumbnail: /chimeraland/materials/bamboo-leaf/bamboo-leaf.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-13T19:56:03+07:00
-description: "Material Bamboo Leaf Chimeraland materials
-
-  \        Bamboo Leaf
-
-  \        October 5, 2022 7:26 PM
-
-  \        Continue reading Bamboo Leaf
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Bamboo Leaf
-
-  \           \ 
-
-  \             \ 
-
-  \               \ 
-
-  \         "
-excerpt: "Material Bamboo Leaf Chimeraland materials
-
-  \        Bamboo Leaf
-
-  \        October 5, 2022 7:26 PM
-
-  \        Continue reading Bamboo Leaf
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Bamboo Leaf
-
-  \           \ 
-
-  \             \ 
-
-  \               \ 
-
-  \         "
-permalink: /chimeraland/materials/bamboo-leaf.html
-photos:
-  - /chimeraland/materials/bamboo-leaf/bamboo-leaf.webp
-subtitle: "Material Bamboo Leaf Chimeraland materials
-
-  \        Bamboo Leaf
-
-  \        October 5, 2022 7:26 PM
-
-  \        Continue reading Bamboo Leaf
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Bamboo Leaf
-
-  \           \ 
-
-  \             \ 
-
-  \               \ 
-
-  \         "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/bamboo-leaf/bamboo-leaf.webp
-title: Material Bamboo Leaf Chimeraland
-type: post
-updated: 2022-10-05T19:26:37+07:00
-wordcount: 913
 ---
 
 <link

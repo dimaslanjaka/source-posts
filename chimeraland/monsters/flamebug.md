@@ -1,123 +1,21 @@
 ---
+title: Monster Flamebug
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T12:05:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Flamebug Flamebug Information from Chimeraland
-
-  \    Flamebug default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \       "
-excerpt: "Monster Flamebug Flamebug Information from Chimeraland
-
-  \    Flamebug default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \       "
 permalink: /chimeraland/monsters/flamebug.html
 photos:
   - null
-subtitle: "Monster Flamebug Flamebug Information from Chimeraland
-
-  \    Flamebug default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \       "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamebug
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Flamebug
-title: Monster Flamebug
-type: post
-updated: 2023-05-25T12:05:12+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

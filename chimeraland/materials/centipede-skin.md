@@ -1,121 +1,19 @@
 ---
+title: Material Centipede Skin Chimeraland
+date: 2022-01-10T06:56:03+07:00
+updated: 2022-10-02T06:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/centipede-skin.html
+photos:
+  - /chimeraland/materials/centipede-skin/centipede-skin.webp
+thumbnail: /chimeraland/materials/centipede-skin/centipede-skin.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-10T06:56:03+07:00
-description: "Material Centipede Skin Chimeraland materials
-
-  \        Centipede Skin
-
-  \        October 2, 2022 6:26 AM
-
-  \        Continue reading Centipede Skin
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Centipede Skin
-
-  \           \ 
-
-  \             \ 
-
-  \              "
-excerpt: "Material Centipede Skin Chimeraland materials
-
-  \        Centipede Skin
-
-  \        October 2, 2022 6:26 AM
-
-  \        Continue reading Centipede Skin
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Centipede Skin
-
-  \           \ 
-
-  \             \ 
-
-  \              "
-permalink: /chimeraland/materials/centipede-skin.html
-photos:
-  - /chimeraland/materials/centipede-skin/centipede-skin.webp
-subtitle: "Material Centipede Skin Chimeraland materials
-
-  \        Centipede Skin
-
-  \        October 2, 2022 6:26 AM
-
-  \        Continue reading Centipede Skin
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Centipede Skin
-
-  \           \ 
-
-  \             \ 
-
-  \              "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/centipede-skin/centipede-skin.webp
-title: Material Centipede Skin Chimeraland
-type: post
-updated: 2022-10-02T06:26:37+07:00
-wordcount: 1009
 ---
 
 <link

@@ -1,73 +1,9 @@
 ---
+title: Attendant portotrog
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-02-18T15:09:01+07:00
 date: 2023-02-18T14:58:01+07:00
-description: "Attendant portotrog portotrog Information from Chimeraland
-
-  \    portotrog default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \       "
-excerpt: "Attendant portotrog portotrog Information from Chimeraland
-
-  \    portotrog default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \       "
 permalink: /chimeraland/attendants/portotrog.html
 photos:
   - /chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-19-56-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -78,46 +14,14 @@ photos:
   - /chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-20-17-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-20-23-28_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-20-27-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant portotrog portotrog Information from Chimeraland
-
-  \    portotrog default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \       "
+thumbnail: /chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-19-56-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/portotrog/Screenshot_2023-02-18-01-19-56-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant portotrog
-type: post
-updated: 2023-02-18T15:09:01+07:00
-webtitle: chimeraland
-wordcount: 1130
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

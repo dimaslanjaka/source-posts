@@ -1,73 +1,9 @@
 ---
+title: Attendant storehog
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-02-09T07:16:58+07:00
 date: 2023-02-09T07:05:58+07:00
-description: "Attendant storehog storehog Information from Chimeraland
-
-  \    storehog default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \          "
-excerpt: "Attendant storehog storehog Information from Chimeraland
-
-  \    storehog default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \          "
 permalink: /chimeraland/attendants/storehog.html
 photos:
   - /chimeraland/attendants/storehog/Screenshot_2023-02-05-12-50-53-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -76,46 +12,14 @@ photos:
   - /chimeraland/attendants/storehog/Screenshot_2023-02-05-12-51-06-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/storehog/Screenshot_2023-02-05-12-51-10-91_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/storehog/Screenshot_2023-02-05-12-51-14-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant storehog storehog Information from Chimeraland
-
-  \    storehog default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \          "
+thumbnail: /chimeraland/attendants/storehog/Screenshot_2023-02-05-12-50-53-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/storehog/Screenshot_2023-02-05-12-50-53-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant storehog
-type: post
-updated: 2023-02-09T07:16:58+07:00
-webtitle: chimeraland
-wordcount: 988
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

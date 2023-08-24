@@ -1,71 +1,20 @@
 ---
-author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - material
-comments: true
+title: Material Skyshark Primal Spirit Chimeraland
 date: 2022-01-11T05:56:03+07:00
-description: |-
-  Material Skyshark Primal Spirit Chimeraland materials
-          Skyshark Primal Spirit
-          October 3, 2022 5:26 AM
-          Continue reading Skyshark Primal Spirit
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              
-                What is the use of the Skyshark Primal Sp
-excerpt: |-
-  Material Skyshark Primal Spirit Chimeraland materials
-          Skyshark Primal Spirit
-          October 3, 2022 5:26 AM
-          Continue reading Skyshark Primal Spirit
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              
-                What is the use of the Skyshark Primal Sp
+updated: 2022-10-03T05:26:37+07:00
+author: L3n4r0x
 permalink: /chimeraland/materials/skyshark-primal-spirit.html
 photos:
   - /chimeraland/materials/skyshark-primal-spirit/skyshark-primal-spirit.webp
   - /chimeraland/materials/skyshark-primal-spirit/skyshard-primal-spirit.webp
-subtitle: |-
-  Material Skyshark Primal Spirit Chimeraland materials
-          Skyshark Primal Spirit
-          October 3, 2022 5:26 AM
-          Continue reading Skyshark Primal Spirit
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              
-                What is the use of the Skyshark Primal Sp
+thumbnail: /chimeraland/materials/skyshark-primal-spirit/skyshark-primal-spirit.webp
 tags:
   - chimeraland
   - material
-thumbnail: /chimeraland/materials/skyshark-primal-spirit/skyshark-primal-spirit.webp
-title: Material Skyshark Primal Spirit Chimeraland
-type: post
-updated: 2022-10-03T05:26:37+07:00
-wordcount: 839
+categories:
+  - games
+  - chimeraland
+  - material
 ---
 
 <link

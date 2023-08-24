@@ -1,98 +1,23 @@
 ---
+title: Recipe Watermelon Slushie Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-13T02:56:03+07:00
-description: "Recipe Watermelon Slushie Chimeraland Watermelon Slushie Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Watermelon Slushie
-
-  \             \ 
-
-  \               \ 
-
-  \                  +420 fullness
-
-  \                  Heat Resistance +15
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \       "
-excerpt: "Recipe Watermelon Slushie Chimeraland Watermelon Slushie Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Watermelon Slushie
-
-  \             \ 
-
-  \               \ 
-
-  \                  +420 fullness
-
-  \                  Heat Resistance +15
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \       "
+updated: 2022-10-06T19:46:56+07:00
 lang: en
+date: 2022-01-13T02:56:03+07:00
 permalink: /chimeraland/recipes/watermelon-slushie.html
 photos:
   - /chimeraland/recipes/watermelon-slushie/watermelon-slushie.webp
   - /chimeraland/recipes/watermelon-slushie/watermelon-slushie-name.webp
   - /chimeraland/recipes/watermelon-slushie/watermelon-slushie-icon.webp
   - /chimeraland/recipes/watermelon-slushie/watermelon-slushie-material.webp
-subtitle: "Recipe Watermelon Slushie Chimeraland Watermelon Slushie Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Watermelon Slushie
-
-  \             \ 
-
-  \               \ 
-
-  \                  +420 fullness
-
-  \                  Heat Resistance +15
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \       "
+thumbnail: /chimeraland/recipes/watermelon-slushie/watermelon-slushie.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/watermelon-slushie/watermelon-slushie.webp
-title: Recipe Watermelon Slushie Chimeraland
-type: post
-updated: 2022-10-06T19:46:56+07:00
-wordcount: 845
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

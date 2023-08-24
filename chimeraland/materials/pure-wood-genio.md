@@ -1,127 +1,19 @@
 ---
+title: Material Pure Wood Genio Chimeraland
+date: 2022-01-12T10:56:03+07:00
+updated: 2022-10-04T10:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/pure-wood-genio.html
+photos:
+  - /chimeraland/materials/pure-wood-genio/pure-wood-genio.webp
+thumbnail: /chimeraland/materials/pure-wood-genio/pure-wood-genio.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-12T10:56:03+07:00
-description: "Material Pure Wood Genio Chimeraland materials
-
-  \        Pure Wood Genio
-
-  \        October 4, 2022 10:26 AM
-
-  \        Continue reading Pure Wood Genio
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Pure Wood Genio
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \    "
-excerpt: "Material Pure Wood Genio Chimeraland materials
-
-  \        Pure Wood Genio
-
-  \        October 4, 2022 10:26 AM
-
-  \        Continue reading Pure Wood Genio
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Pure Wood Genio
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \    "
-permalink: /chimeraland/materials/pure-wood-genio.html
-photos:
-  - /chimeraland/materials/pure-wood-genio/pure-wood-genio.webp
-subtitle: "Material Pure Wood Genio Chimeraland materials
-
-  \        Pure Wood Genio
-
-  \        October 4, 2022 10:26 AM
-
-  \        Continue reading Pure Wood Genio
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Pure Wood Genio
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \    "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/pure-wood-genio/pure-wood-genio.webp
-title: Material Pure Wood Genio Chimeraland
-type: post
-updated: 2022-10-04T10:26:37+07:00
-wordcount: 636
 ---
 
 <link

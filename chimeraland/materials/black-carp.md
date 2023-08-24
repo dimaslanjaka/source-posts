@@ -1,46 +1,19 @@
 ---
+title: Material Black Carp Chimeraland
+date: 2022-01-14T13:56:03+07:00
+updated: 2022-10-06T13:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/black-carp.html
+photos:
+  - /chimeraland/materials/black-carp/black-carp.webp
+thumbnail: /chimeraland/materials/black-carp/black-carp.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-14T13:56:03+07:00
-description: |-
-  Material Black Carp Chimeraland materials
-          Black Carp
-          October 6, 2022 1:26 PM
-          
-            Freshwater fish with a long body, slightly blunt snout, and two rows
-            of comb-shaped narrow teeth. It is dorsal fin no hard spines and the
-            outer edge is flat. Often seen
-excerpt: |-
-  Material Black Carp Chimeraland materials
-          Black Carp
-          October 6, 2022 1:26 PM
-          
-            Freshwater fish with a long body, slightly blunt snout, and two rows
-            of comb-shaped narrow teeth. It is dorsal fin no hard spines and the
-            outer edge is flat. Often seen
-permalink: /chimeraland/materials/black-carp.html
-photos:
-  - /chimeraland/materials/black-carp/black-carp.webp
-subtitle: |-
-  Material Black Carp Chimeraland materials
-          Black Carp
-          October 6, 2022 1:26 PM
-          
-            Freshwater fish with a long body, slightly blunt snout, and two rows
-            of comb-shaped narrow teeth. It is dorsal fin no hard spines and the
-            outer edge is flat. Often seen
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/black-carp/black-carp.webp
-title: Material Black Carp Chimeraland
-type: post
-updated: 2022-10-06T13:26:37+07:00
-wordcount: 936
 ---
 
 <link

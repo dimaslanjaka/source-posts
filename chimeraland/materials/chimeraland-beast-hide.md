@@ -1,70 +1,19 @@
 ---
+title: Material Chimeraland Beast Hide Chimeraland
+date: 2022-01-07T01:56:03+07:00
+updated: 2022-09-29T01:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/chimeraland-beast-hide.html
+photos:
+  - /chimeraland/materials/chimeraland-beast-hide/chimeraland-beast-hide.webp
+thumbnail: /chimeraland/materials/chimeraland-beast-hide/chimeraland-beast-hide.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-07T01:56:03+07:00
-description: |-
-  Material Chimeraland Beast Hide Chimeraland materials
-          Chimeraland Beast Hide
-          September 29, 2022 1:26 AM
-          Continue reading Chimeraland Beast Hide
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              
-                What is the use of the Chimeraland Bea
-excerpt: |-
-  Material Chimeraland Beast Hide Chimeraland materials
-          Chimeraland Beast Hide
-          September 29, 2022 1:26 AM
-          Continue reading Chimeraland Beast Hide
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              
-                What is the use of the Chimeraland Bea
-permalink: /chimeraland/materials/chimeraland-beast-hide.html
-photos:
-  - /chimeraland/materials/chimeraland-beast-hide/chimeraland-beast-hide.webp
-subtitle: |-
-  Material Chimeraland Beast Hide Chimeraland materials
-          Chimeraland Beast Hide
-          September 29, 2022 1:26 AM
-          Continue reading Chimeraland Beast Hide
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              
-                What is the use of the Chimeraland Bea
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/chimeraland-beast-hide/chimeraland-beast-hide.webp
-title: Material Chimeraland Beast Hide Chimeraland
-type: post
-updated: 2022-09-29T01:26:37+07:00
-wordcount: 7723
 ---
 
 <link

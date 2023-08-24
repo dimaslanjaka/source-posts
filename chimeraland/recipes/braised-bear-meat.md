@@ -1,102 +1,23 @@
 ---
+title: Recipe Braised Bear Meat Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-06T22:56:03+07:00
-description: "Recipe Braised Bear Meat Chimeraland Braised Bear Meat Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Braised Bear Meat
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +150 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \         "
-excerpt: "Recipe Braised Bear Meat Chimeraland Braised Bear Meat Cooking Recipe
-
-  \             \ 
-
-  \              Buff Braised Bear Meat
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +150 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \         "
+updated: 2022-10-05T17:46:53+07:00
 lang: en
+date: 2022-01-06T22:56:03+07:00
 permalink: /chimeraland/recipes/braised-bear-meat.html
 photos:
   - /chimeraland/recipes/braised-bear-meat/braised-bear-meat.webp
   - /chimeraland/recipes/braised-bear-meat/braised-bear-meat-name.webp
   - /chimeraland/recipes/braised-bear-meat/braised-bear-meat-icon.webp
   - /chimeraland/recipes/braised-bear-meat/braised-bear-meat-material.webp
-subtitle: "Recipe Braised Bear Meat Chimeraland Braised Bear Meat Cooking Recipe
-
-  \             \ 
-
-  \              Buff Braised Bear Meat
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +150 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \         "
+thumbnail: /chimeraland/recipes/braised-bear-meat/braised-bear-meat.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/braised-bear-meat/braised-bear-meat.webp
-title: Recipe Braised Bear Meat Chimeraland
-type: post
-updated: 2022-10-05T17:46:53+07:00
-wordcount: 760
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

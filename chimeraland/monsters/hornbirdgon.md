@@ -1,21 +1,9 @@
 ---
+title: Monster Hornbirdgon
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T07:27:12+07:00
 date: 2022-01-08T19:56:03+07:00
-description: "monster Hornbirdgon default quality GRADE A ATK 72 HP 67 DEF 73
-  Attributes Conversion Rate 5.0%,Melee DMG Reduction 4.8%,Essence Aspect:
-  Aspect: Thunderclap delicacies/tasty Spiced Alligon,Crispy Fried
-  Stinger,Stir-Fried Browtelope games,chimeraland,monsters
-  chimeraland,monster,pet"
-excerpt: "monster Hornbirdgon default quality GRADE A ATK 72 HP 67 DEF 73
-  Attributes Conversion Rate 5.0%,Melee DMG Reduction 4.8%,Essence Aspect:
-  Aspect: Thunderclap delicacies/tasty Spiced Alligon,Crispy Fried
-  Stinger,Stir-Fried Browtelope games,chimeraland,monsters
-  chimeraland,monster,pet"
 permalink: /chimeraland/monsters/hornbirdgon.html
 photos:
   - null
@@ -25,21 +13,20 @@ photos:
   - /chimeraland/monsters/hornbirdgon/Screenshot_2022-07-16-07-20-58-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hornbirdgon/Screenshot_2022-07-16-07-21-03-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hornbirdgon/Screenshot_2022-07-16-07-21-10-93_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "monster Hornbirdgon default quality GRADE A ATK 72 HP 67 DEF 73
-  Attributes Conversion Rate 5.0%,Melee DMG Reduction 4.8%,Essence Aspect:
-  Aspect: Thunderclap delicacies/tasty Spiced Alligon,Crispy Fried
-  Stinger,Stir-Fried Browtelope games,chimeraland,monsters
-  chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hornbirdgon
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hornbirdgon
-title: Monster Hornbirdgon
-type: post
-updated: 2023-05-25T07:27:12+07:00
-webtitle: chimeraland
-wordcount: 1433
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: "monster Hornbirdgon default quality GRADE A ATK 72 HP 67 DEF 73
+  Attributes Conversion Rate 5.0%,Melee DMG Reduction 4.8%,Essence Aspect:
+  Aspect: Thunderclap delicacies/tasty Spiced Alligon,Crispy Fried
+  Stinger,Stir-Fried Browtelope games,chimeraland,monsters
+  chimeraland,monster,pet"
 ---
 
 <link

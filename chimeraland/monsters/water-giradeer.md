@@ -1,111 +1,21 @@
 ---
+title: Monster Water Giradeer
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T04:34:12+07:00
 date: 2022-01-11T04:56:03+07:00
-description: "Monster Water Giradeer Water Giradeer Information from Chimeraland
-
-  \    Water Giradeer default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                63
-
-  \   "
-excerpt: "Monster Water Giradeer Water Giradeer Information from Chimeraland
-
-  \    Water Giradeer default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                63
-
-  \   "
 permalink: /chimeraland/monsters/water-giradeer.html
 photos:
   - null
-subtitle: "Monster Water Giradeer Water Giradeer Information from Chimeraland
-
-  \    Water Giradeer default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                63
-
-  \   "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Water Giradeer
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Water Giradeer
-title: Monster Water Giradeer
-type: post
-updated: 2023-05-25T04:34:12+07:00
-webtitle: chimeraland
-wordcount: 696
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

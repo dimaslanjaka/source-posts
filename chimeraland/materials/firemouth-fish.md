@@ -1,49 +1,19 @@
 ---
+title: Material Firemouth Fish Chimeraland
+date: 2022-01-15T14:56:03+07:00
+updated: 2022-10-07T14:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/firemouth-fish.html
+photos:
+  - /chimeraland/materials/firemouth-fish/firemouth-fish.webp
+thumbnail: /chimeraland/materials/firemouth-fish/firemouth-fish.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-15T14:56:03+07:00
-description: |-
-  Material Firemouth Fish Chimeraland materials
-          Firemouth Fish
-          October 7, 2022 2:26 PM
-          
-            A marine fish that is small and has colorful stripes. Its fin spines
-            carry venom. Westmount sea is where it can be found.
-          
-          Continue reading Firemouth Fish
-excerpt: |-
-  Material Firemouth Fish Chimeraland materials
-          Firemouth Fish
-          October 7, 2022 2:26 PM
-          
-            A marine fish that is small and has colorful stripes. Its fin spines
-            carry venom. Westmount sea is where it can be found.
-          
-          Continue reading Firemouth Fish
-permalink: /chimeraland/materials/firemouth-fish.html
-photos:
-  - /chimeraland/materials/firemouth-fish/firemouth-fish.webp
-subtitle: |-
-  Material Firemouth Fish Chimeraland materials
-          Firemouth Fish
-          October 7, 2022 2:26 PM
-          
-            A marine fish that is small and has colorful stripes. Its fin spines
-            carry venom. Westmount sea is where it can be found.
-          
-          Continue reading Firemouth Fish
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/firemouth-fish/firemouth-fish.webp
-title: Material Firemouth Fish Chimeraland
-type: post
-updated: 2022-10-07T14:26:37+07:00
-wordcount: 841
 ---
 
 <link

@@ -1,73 +1,9 @@
 ---
+title: Monster spike rhino
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T11:08:12+07:00
 date: 2022-11-25T22:17:54+07:00
-description: "Monster spike rhino spike rhino Information from Chimeraland
-
-  \    spike rhino default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             "
-excerpt: "Monster spike rhino spike rhino Information from Chimeraland
-
-  \    spike rhino default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             "
 permalink: /chimeraland/monsters/spike-rhino.html
 photos:
   - null
@@ -77,47 +13,15 @@ photos:
   - /chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-28-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-32-14_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/spike-rhino/Screenshot_2022-11-15-23-48-37-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster spike rhino spike rhino Information from Chimeraland
-
-  \    spike rhino default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=spike rhino
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=spike rhino
-title: Monster spike rhino
-type: post
-updated: 2023-05-25T11:08:12+07:00
-webtitle: chimeraland
-wordcount: 1144
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

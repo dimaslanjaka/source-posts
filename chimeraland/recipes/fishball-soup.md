@@ -1,86 +1,23 @@
 ---
+title: Recipe Fishball Soup Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-08T10:56:03+07:00
-description: "Recipe Fishball Soup Chimeraland Fishball Soup Cooking Recipe
-
-  \             \ 
-
-  \              Buff Fishball Soup
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                 \ 
-
-  \                    -50 Humidity (decreased over time) (decreased over
-  time)
-
-  \                 \ 
-
-  \            "
-excerpt: "Recipe Fishball Soup Chimeraland Fishball Soup Cooking Recipe
-
-  \             \ 
-
-  \              Buff Fishball Soup
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                 \ 
-
-  \                    -50 Humidity (decreased over time) (decreased over
-  time)
-
-  \                 \ 
-
-  \            "
+updated: 2022-10-05T21:46:56+07:00
 lang: en
+date: 2022-01-08T10:56:03+07:00
 permalink: /chimeraland/recipes/fishball-soup.html
 photos:
   - /chimeraland/recipes/fishball-soup/fishball-soup.webp
   - /chimeraland/recipes/fishball-soup/fishball-soup-name.webp
   - /chimeraland/recipes/fishball-soup/fishball-soup-icon.webp
   - /chimeraland/recipes/fishball-soup/fishball-soup-material.webp
-subtitle: "Recipe Fishball Soup Chimeraland Fishball Soup Cooking Recipe
-
-  \             \ 
-
-  \              Buff Fishball Soup
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                 \ 
-
-  \                    -50 Humidity (decreased over time) (decreased over
-  time)
-
-  \                 \ 
-
-  \            "
+thumbnail: /chimeraland/recipes/fishball-soup/fishball-soup.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/fishball-soup/fishball-soup.webp
-title: Recipe Fishball Soup Chimeraland
-type: post
-updated: 2022-10-05T21:46:56+07:00
-wordcount: 1219
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

@@ -1,72 +1,21 @@
 ---
+title: Monster Embergator
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T18:43:12+07:00
 date: 2022-01-08T02:56:03+07:00
-description: |+
-  Monster Embergator Embergator Information from Chimeraland
-      Embergator default maximum attribute
-      
-        
-          
-            
-              
-                
-                  GRADE
-                  B GRAND - EPIC
-                
-                
-                  Attack
-                  60
-                
-excerpt: |+
-  Monster Embergator Embergator Information from Chimeraland
-      Embergator default maximum attribute
-      
-        
-          
-            
-              
-                
-                  GRADE
-                  B GRAND - EPIC
-                
-                
-                  Attack
-                  60
-                
 permalink: /chimeraland/monsters/embergator.html
 photos:
   - null
-subtitle: |+
-  Monster Embergator Embergator Information from Chimeraland
-      Embergator default maximum attribute
-      
-        
-          
-            
-              
-                
-                  GRADE
-                  B GRAND - EPIC
-                
-                
-                  Attack
-                  60
-                
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Embergator
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Embergator
-title: Monster Embergator
-type: post
-updated: 2023-05-25T18:43:12+07:00
-webtitle: chimeraland
-wordcount: 659
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

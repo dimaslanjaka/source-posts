@@ -1,77 +1,9 @@
 ---
+title: Attendant Makoo
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2022-09-29T11:26:37+07:00
 date: 2022-01-06T23:56:03+07:00
-description: "Attendant Makoo Makoo Information from Chimeraland
-
-  \    Makoo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \              "
-excerpt: "Attendant Makoo Makoo Information from Chimeraland
-
-  \    Makoo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \              "
 permalink: /chimeraland/attendants/makoo.html
 photos:
   - /chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-18-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -80,48 +12,14 @@ photos:
   - /chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-33-57_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-40-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-47-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant Makoo Makoo Information from Chimeraland
-
-  \    Makoo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \              "
+thumbnail: /chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-18-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/makoo/Screenshot_2022-07-24-12-18-18-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant Makoo
-type: post
-updated: 2022-09-29T11:26:37+07:00
-webtitle: chimeraland
-wordcount: 976
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

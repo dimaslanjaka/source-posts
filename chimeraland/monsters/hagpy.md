@@ -1,20 +1,9 @@
 ---
+title: Monster Hagpy
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T07:34:12+07:00
 date: 2022-01-08T16:56:03+07:00
-description: "monster Hagpy default quality GRADE A ATK 70 HP 72 DEF 68
-  Attributes Conversion Rate 4.0%,Armor Pierce 188,Essence Aspect:
-  Aspect: Rainbow Feather delicacies/tasty Dry Fried Vuldo Wings,Moddly Wings
-  Topped Rice,Dragon Serpent Combo games,chimeraland,monsters
-  chimeraland,monster,pet"
-excerpt: "monster Hagpy default quality GRADE A ATK 70 HP 72 DEF 68 Attributes
-  Conversion Rate 4.0%,Armor Pierce 188,Essence Aspect: Aspect: Rainbow Feather
-  delicacies/tasty Dry Fried Vuldo Wings,Moddly Wings Topped Rice,Dragon Serpent
-  Combo games,chimeraland,monsters chimeraland,monster,pet"
 permalink: /chimeraland/monsters/hagpy.html
 photos:
   - null
@@ -26,20 +15,20 @@ photos:
   - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-12-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-18-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/hagpy/Screenshot_2022-08-13-02-43-24-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "monster Hagpy default quality GRADE A ATK 70 HP 72 DEF 68 Attributes
-  Conversion Rate 4.0%,Armor Pierce 188,Essence Aspect: Aspect: Rainbow Feather
-  delicacies/tasty Dry Fried Vuldo Wings,Moddly Wings Topped Rice,Dragon Serpent
-  Combo games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hagpy
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hagpy
-title: Monster Hagpy
-type: post
-updated: 2023-05-25T07:34:12+07:00
-webtitle: chimeraland
-wordcount: 1671
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: "monster Hagpy default quality GRADE A ATK 70 HP 72 DEF 68
+  Attributes Conversion Rate 4.0%,Armor Pierce 188,Essence Aspect:
+  Aspect: Rainbow Feather delicacies/tasty Dry Fried Vuldo Wings,Moddly Wings
+  Topped Rice,Dragon Serpent Combo games,chimeraland,monsters
+  chimeraland,monster,pet"
 ---
 
 <link

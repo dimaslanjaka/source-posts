@@ -1,92 +1,23 @@
 ---
+title: Recipe Hearty Meatball Soup Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-13T17:56:03+07:00
-description: "Recipe Hearty Meatball Soup Chimeraland Hearty Meatball Soup
-  Cooking Recipe
-
-  \             \ 
-
-  \              Buff Hearty Meatball Soup
-
-  \             \ 
-
-  \               \ 
-
-  \                  Buff Hearty Meatball Soup not yet written
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           "
-excerpt: "Recipe Hearty Meatball Soup Chimeraland Hearty Meatball Soup Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Hearty Meatball Soup
-
-  \             \ 
-
-  \               \ 
-
-  \                  Buff Hearty Meatball Soup not yet written
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           "
+updated: 2022-09-29T09:26:37+07:00
 lang: en
+date: 2022-01-13T17:56:03+07:00
 permalink: /chimeraland/recipes/hearty-meatball-soup.html
 photos:
   - null
   - null
   - null
   - null
-subtitle: "Recipe Hearty Meatball Soup Chimeraland Hearty Meatball Soup Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Hearty Meatball Soup
-
-  \             \ 
-
-  \               \ 
-
-  \                  Buff Hearty Meatball Soup not yet written
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hearty Meatball Soup
 tags:
   - chimeraland
   - recipe
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Hearty Meatball Soup
-title: Recipe Hearty Meatball Soup Chimeraland
-type: post
-updated: 2022-09-29T09:26:37+07:00
-wordcount: 866
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

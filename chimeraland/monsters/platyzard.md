@@ -1,73 +1,9 @@
 ---
+title: Monster Platyzard
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T15:27:12+07:00
 date: 2022-01-09T21:56:03+07:00
-description: "Monster Platyzard Platyzard Information from Chimeraland
-
-  \    Platyzard default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                58
-
-  \             \ 
-
-  \           "
-excerpt: "Monster Platyzard Platyzard Information from Chimeraland
-
-  \    Platyzard default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                58
-
-  \             \ 
-
-  \           "
 permalink: /chimeraland/monsters/platyzard.html
 photos:
   - null
@@ -77,47 +13,15 @@ photos:
   - /chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-56-07-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-56-12-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/platyzard/Screenshot_2022-07-16-18-56-17-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster Platyzard Platyzard Information from Chimeraland
-
-  \    Platyzard default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                58
-
-  \             \ 
-
-  \           "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Platyzard
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Platyzard
-title: Monster Platyzard
-type: post
-updated: 2023-05-25T15:27:12+07:00
-webtitle: chimeraland
-wordcount: 1059
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

@@ -1,101 +1,23 @@
 ---
+title: Recipe Cold Lime Soup Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-08T02:56:03+07:00
-description: "Recipe Cold Lime Soup Chimeraland Cold Lime Soup Cooking Recipe
-
-  \             \ 
-
-  \              Buff Cold Lime Soup
-
-  \             \ 
-
-  \               \ 
-
-  \                  180 Fullness
-
-  \                  Heat Resistance +10
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \       "
-excerpt: "Recipe Cold Lime Soup Chimeraland Cold Lime Soup Cooking Recipe
-
-  \             \ 
-
-  \              Buff Cold Lime Soup
-
-  \             \ 
-
-  \               \ 
-
-  \                  180 Fullness
-
-  \                  Heat Resistance +10
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \       "
+updated: 2022-10-05T13:46:57+07:00
 lang: en
+date: 2022-01-08T02:56:03+07:00
 permalink: /chimeraland/recipes/cold-lime-soup.html
 photos:
   - null
   - null
   - null
   - null
-subtitle: "Recipe Cold Lime Soup Chimeraland Cold Lime Soup Cooking Recipe
-
-  \             \ 
-
-  \              Buff Cold Lime Soup
-
-  \             \ 
-
-  \               \ 
-
-  \                  180 Fullness
-
-  \                  Heat Resistance +10
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \       "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cold Lime Soup
 tags:
   - chimeraland
   - recipe
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cold Lime Soup
-title: Recipe Cold Lime Soup Chimeraland
-type: post
-updated: 2022-10-05T13:46:57+07:00
-wordcount: 672
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

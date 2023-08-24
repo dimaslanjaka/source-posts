@@ -1,76 +1,19 @@
 ---
+title: Material Gurnard Chimeraland
+date: 2022-01-15T08:56:03+07:00
+updated: 2022-10-07T08:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/gurnard.html
+photos:
+  - /chimeraland/materials/gurnard/gurnard.webp
+thumbnail: /chimeraland/materials/gurnard/gurnard.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-15T08:56:03+07:00
-description: "Material Gurnard Chimeraland materials
-
-  \        Gurnard
-
-  \        October 7, 2022 8:26 AM
-
-  \       \ 
-
-  \          A marine fish, red in color and with body like a slender woman.
-
-  \          Traditionally known as a gurnard or red maiden fish. Most often
-  seen
-
-  \          near the Eastmount Sea.
-
-  \       \ 
-
-  \        "
-excerpt: "Material Gurnard Chimeraland materials
-
-  \        Gurnard
-
-  \        October 7, 2022 8:26 AM
-
-  \       \ 
-
-  \          A marine fish, red in color and with body like a slender woman.
-
-  \          Traditionally known as a gurnard or red maiden fish. Most often
-  seen
-
-  \          near the Eastmount Sea.
-
-  \       \ 
-
-  \        "
-permalink: /chimeraland/materials/gurnard.html
-photos:
-  - /chimeraland/materials/gurnard/gurnard.webp
-subtitle: "Material Gurnard Chimeraland materials
-
-  \        Gurnard
-
-  \        October 7, 2022 8:26 AM
-
-  \       \ 
-
-  \          A marine fish, red in color and with body like a slender woman.
-
-  \          Traditionally known as a gurnard or red maiden fish. Most often
-  seen
-
-  \          near the Eastmount Sea.
-
-  \       \ 
-
-  \        "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/gurnard/gurnard.webp
-title: Material Gurnard Chimeraland
-type: post
-updated: 2022-10-07T08:26:37+07:00
-wordcount: 826
 ---
 
 <link

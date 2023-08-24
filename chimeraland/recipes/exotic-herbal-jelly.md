@@ -1,98 +1,23 @@
 ---
+title: Recipe Exotic Herbal Jelly Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-12T20:56:03+07:00
-description: "Recipe Exotic Herbal Jelly Chimeraland Exotic Herbal Jelly Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Exotic Herbal Jelly
-
-  \             \ 
-
-  \               \ 
-
-  \                  Buff Exotic Herbal Jelly not yet written
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \  "
-excerpt: "Recipe Exotic Herbal Jelly Chimeraland Exotic Herbal Jelly Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Exotic Herbal Jelly
-
-  \             \ 
-
-  \               \ 
-
-  \                  Buff Exotic Herbal Jelly not yet written
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \  "
+updated: 2022-09-30T00:26:37+07:00
 lang: en
+date: 2022-01-12T20:56:03+07:00
 permalink: /chimeraland/recipes/exotic-herbal-jelly.html
 photos:
   - null
   - null
   - null
   - null
-subtitle: "Recipe Exotic Herbal Jelly Chimeraland Exotic Herbal Jelly Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Exotic Herbal Jelly
-
-  \             \ 
-
-  \               \ 
-
-  \                  Buff Exotic Herbal Jelly not yet written
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \  "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Exotic Herbal Jelly
 tags:
   - chimeraland
   - recipe
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Exotic Herbal Jelly
-title: Recipe Exotic Herbal Jelly Chimeraland
-type: post
-updated: 2022-09-30T00:26:37+07:00
-wordcount: 868
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

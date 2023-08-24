@@ -1,73 +1,9 @@
 ---
+title: Attendant medakat
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2022-11-26T00:35:17+07:00
 date: 2022-11-26T00:24:17+07:00
-description: "Attendant medakat medakat Information from Chimeraland
-
-  \    medakat default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             "
-excerpt: "Attendant medakat medakat Information from Chimeraland
-
-  \    medakat default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             "
 permalink: /chimeraland/attendants/medakat.html
 photos:
   - /chimeraland/attendants/medakat/Screenshot_2022-11-15-23-45-17-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -77,46 +13,14 @@ photos:
   - /chimeraland/attendants/medakat/Screenshot_2022-11-15-23-45-32-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/medakat/Screenshot_2022-11-15-23-45-36-85_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/medakat/Screenshot_2022-11-15-23-45-40-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant medakat medakat Information from Chimeraland
-
-  \    medakat default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             "
+thumbnail: /chimeraland/attendants/medakat/Screenshot_2022-11-15-23-45-17-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/medakat/Screenshot_2022-11-15-23-45-17-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant medakat
-type: post
-updated: 2022-11-26T00:35:17+07:00
-webtitle: chimeraland
-wordcount: 1059
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

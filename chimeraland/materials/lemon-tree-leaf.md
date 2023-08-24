@@ -1,121 +1,19 @@
 ---
+title: Material Lemon Tree Leaf Chimeraland
+date: 2022-01-13T20:56:03+07:00
+updated: 2022-10-05T20:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/lemon-tree-leaf.html
+photos:
+  - /chimeraland/materials/lemon-tree-leaf/lemon-tree-leaf.webp
+thumbnail: /chimeraland/materials/lemon-tree-leaf/lemon-tree-leaf.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-13T20:56:03+07:00
-description: "Material Lemon Tree Leaf Chimeraland materials
-
-  \        Lemon Tree Leaf
-
-  \        October 5, 2022 8:26 PM
-
-  \        Continue reading Lemon Tree Leaf
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Lemon Tree Leaf
-
-  \           \ 
-
-  \             \ 
-
-  \          "
-excerpt: "Material Lemon Tree Leaf Chimeraland materials
-
-  \        Lemon Tree Leaf
-
-  \        October 5, 2022 8:26 PM
-
-  \        Continue reading Lemon Tree Leaf
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Lemon Tree Leaf
-
-  \           \ 
-
-  \             \ 
-
-  \          "
-permalink: /chimeraland/materials/lemon-tree-leaf.html
-photos:
-  - /chimeraland/materials/lemon-tree-leaf/lemon-tree-leaf.webp
-subtitle: "Material Lemon Tree Leaf Chimeraland materials
-
-  \        Lemon Tree Leaf
-
-  \        October 5, 2022 8:26 PM
-
-  \        Continue reading Lemon Tree Leaf
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Lemon Tree Leaf
-
-  \           \ 
-
-  \             \ 
-
-  \          "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/lemon-tree-leaf/lemon-tree-leaf.webp
-title: Material Lemon Tree Leaf Chimeraland
-type: post
-updated: 2022-10-05T20:26:37+07:00
-wordcount: 4715
 ---
 
 <link

@@ -1,73 +1,9 @@
 ---
+title: Attendant mantitell
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-02-24T20:55:41+07:00
 date: 2023-02-24T20:44:41+07:00
-description: "Attendant mantitell mantitell Information from Chimeraland
-
-  \    mantitell default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \       "
-excerpt: "Attendant mantitell mantitell Information from Chimeraland
-
-  \    mantitell default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \       "
 permalink: /chimeraland/attendants/mantitell.html
 photos:
   - /chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-46-53-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -78,46 +14,14 @@ photos:
   - /chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-47-13-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-47-18-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-47-22-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant mantitell mantitell Information from Chimeraland
-
-  \    mantitell default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \       "
+thumbnail: /chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-46-53-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/mantitell/Screenshot_2023-02-22-08-46-53-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant mantitell
-type: post
-updated: 2023-02-24T20:55:41+07:00
-webtitle: chimeraland
-wordcount: 1130
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

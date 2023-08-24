@@ -1,85 +1,11 @@
+
 ---
-categories:
-  - games
-  - chimeraland
-comments: true
-date: 2023-04-12T13:38:00+0700
-description: |-
-  Chimeraland Attendant List List attendant chimeraland game Lunar Aquatine
-  Shaman Regni
-  Rosary Twinkel
-  Lunar Regni
-  Shaji
-  Shahoragai
-  Shaman Twinkle
-  Shaman Astra
-  Remetrog
-  Crosoo
-  Lok-Aqui
-  Draco Violetine
-  Letoo
-  Lunar Shiren
-  Makoo
-  Mantiguard
-  Mantitrack
-  Ocygatha
-  Reisiger
-  Rhijin
-  Rosary Aquatine
-  Rosary Fortu
-excerpt: |-
-  Chimeraland Attendant List List attendant chimeraland game Lunar Aquatine
-  Shaman Regni
-  Rosary Twinkel
-  Lunar Regni
-  Shaji
-  Shahoragai
-  Shaman Twinkle
-  Shaman Astra
-  Remetrog
-  Crosoo
-  Lok-Aqui
-  Draco Violetine
-  Letoo
-  Lunar Shiren
-  Makoo
-  Mantiguard
-  Mantitrack
-  Ocygatha
-  Reisiger
-  Rhijin
-  Rosary Aquatine
-  Rosary Fortu
-permalink: /chimeraland/attendant-list.html
-subtitle: |-
-  Chimeraland Attendant List List attendant chimeraland game Lunar Aquatine
-  Shaman Regni
-  Rosary Twinkel
-  Lunar Regni
-  Shaji
-  Shahoragai
-  Shaman Twinkle
-  Shaman Astra
-  Remetrog
-  Crosoo
-  Lok-Aqui
-  Draco Violetine
-  Letoo
-  Lunar Shiren
-  Makoo
-  Mantiguard
-  Mantitrack
-  Ocygatha
-  Reisiger
-  Rhijin
-  Rosary Aquatine
-  Rosary Fortu
-tags:
-  - attendant
 title: Chimeraland Attendant List
-type: post
+date: 2023-04-12T13:38:00+0700
 updated: 2023-08-06T22:00:21+07:00
-wordcount: 173
+categories: ['games', 'chimeraland']
+tags: ['attendant']
+permalink: /chimeraland/attendant-list.html
 ---
 
 ## List attendant chimeraland game

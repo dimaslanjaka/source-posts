@@ -1,46 +1,19 @@
 ---
+title: Material Mola Chimeraland
+date: 2022-01-15T02:56:03+07:00
+updated: 2022-10-07T02:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/mola.html
+photos:
+  - /chimeraland/materials/mola/mola.webp
+thumbnail: /chimeraland/materials/mola/mola.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-15T02:56:03+07:00
-description: >-
-  Material Mola Chimeraland materials
-          Mola
-          October 7, 2022 2:26 AM
-          
-            A marine fish with a flat body, oval in shape with no caudal peduncle.
-            It has small eyes on the upper sides of its head and a protruding
-            septum. Its snout it round and blunt. Eastm
-excerpt: >-
-  Material Mola Chimeraland materials
-          Mola
-          October 7, 2022 2:26 AM
-          
-            A marine fish with a flat body, oval in shape with no caudal peduncle.
-            It has small eyes on the upper sides of its head and a protruding
-            septum. Its snout it round and blunt. Eastm
-permalink: /chimeraland/materials/mola.html
-photos:
-  - /chimeraland/materials/mola/mola.webp
-subtitle: >-
-  Material Mola Chimeraland materials
-          Mola
-          October 7, 2022 2:26 AM
-          
-            A marine fish with a flat body, oval in shape with no caudal peduncle.
-            It has small eyes on the upper sides of its head and a protruding
-            septum. Its snout it round and blunt. Eastm
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/mola/mola.webp
-title: Material Mola Chimeraland
-type: post
-updated: 2022-10-07T02:26:37+07:00
-wordcount: 902
 ---
 
 <link

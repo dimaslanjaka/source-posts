@@ -1,73 +1,9 @@
 ---
+title: Attendant jichotrog
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-03-11T00:30:17+07:00
 date: 2023-03-11T00:19:17+07:00
-description: "Attendant jichotrog jichotrog Information from Chimeraland
-
-  \    jichotrog default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \       "
-excerpt: "Attendant jichotrog jichotrog Information from Chimeraland
-
-  \    jichotrog default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \       "
 permalink: /chimeraland/attendants/jichotrog.html
 photos:
   - /chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-09-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -78,46 +14,14 @@ photos:
   - /chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-28-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-33-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-36-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant jichotrog jichotrog Information from Chimeraland
-
-  \    jichotrog default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \       "
+thumbnail: /chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-09-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/jichotrog/Screenshot_2023-03-03-23-55-09-54_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant jichotrog
-type: post
-updated: 2023-03-11T00:30:17+07:00
-webtitle: chimeraland
-wordcount: 1130
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

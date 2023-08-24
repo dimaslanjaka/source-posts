@@ -1,79 +1,19 @@
 ---
+title: Material Bear Paw Chimeraland
+date: 2022-01-09T03:56:03+07:00
+updated: 2022-10-01T03:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/bear-paw.html
+photos:
+  - /chimeraland/materials/bear-paw/bear-paw.webp
+thumbnail: /chimeraland/materials/bear-paw/bear-paw.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-09T03:56:03+07:00
-description: |-
-  Material Bear Paw Chimeraland materials
-          Bear Paw
-          October 1, 2022 3:26 AM
-          Continue reading Bear Paw
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Bear Paw
-              
-                
-                  
-                    Eat
-excerpt: |-
-  Material Bear Paw Chimeraland materials
-          Bear Paw
-          October 1, 2022 3:26 AM
-          Continue reading Bear Paw
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Bear Paw
-              
-                
-                  
-                    Eat
-permalink: /chimeraland/materials/bear-paw.html
-photos:
-  - /chimeraland/materials/bear-paw/bear-paw.webp
-subtitle: |-
-  Material Bear Paw Chimeraland materials
-          Bear Paw
-          October 1, 2022 3:26 AM
-          Continue reading Bear Paw
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Bear Paw
-              
-                
-                  
-                    Eat
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/bear-paw/bear-paw.webp
-title: Material Bear Paw Chimeraland
-type: post
-updated: 2022-10-01T03:26:37+07:00
-wordcount: 2438
 ---
 
 <link

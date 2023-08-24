@@ -1,73 +1,9 @@
 ---
+title: Attendant hunthog
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-02-09T02:16:58+07:00
 date: 2023-02-09T02:05:58+07:00
-description: "Attendant hunthog hunthog Information from Chimeraland
-
-  \    hunthog default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             "
-excerpt: "Attendant hunthog hunthog Information from Chimeraland
-
-  \    hunthog default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             "
 permalink: /chimeraland/attendants/hunthog.html
 photos:
   - /chimeraland/attendants/hunthog/Screenshot_2023-02-05-00-40-12-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -76,46 +12,14 @@ photos:
   - /chimeraland/attendants/hunthog/Screenshot_2023-02-05-00-40-34-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/hunthog/Screenshot_2023-02-05-00-40-39-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/hunthog/Screenshot_2023-02-05-00-40-43-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant hunthog hunthog Information from Chimeraland
-
-  \    hunthog default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             "
+thumbnail: /chimeraland/attendants/hunthog/Screenshot_2023-02-05-00-40-12-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/hunthog/Screenshot_2023-02-05-00-40-12-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant hunthog
-type: post
-updated: 2023-02-09T02:16:58+07:00
-webtitle: chimeraland
-wordcount: 988
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

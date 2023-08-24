@@ -1,72 +1,21 @@
 ---
+title: Monster Globonisus
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T18:51:12+07:00
 date: 2022-01-07T19:56:03+07:00
-description: |+
-  Monster Globonisus Globonisus Information from Chimeraland
-      Globonisus default maximum attribute
-      
-        
-          
-            
-              
-                
-                  GRADE
-                  B GRAND - EPIC
-                
-                
-                  Attack
-                  60
-                
-excerpt: |+
-  Monster Globonisus Globonisus Information from Chimeraland
-      Globonisus default maximum attribute
-      
-        
-          
-            
-              
-                
-                  GRADE
-                  B GRAND - EPIC
-                
-                
-                  Attack
-                  60
-                
 permalink: /chimeraland/monsters/globonisus.html
 photos:
   - null
-subtitle: |+
-  Monster Globonisus Globonisus Information from Chimeraland
-      Globonisus default maximum attribute
-      
-        
-          
-            
-              
-                
-                  GRADE
-                  B GRAND - EPIC
-                
-                
-                  Attack
-                  60
-                
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Globonisus
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Globonisus
-title: Monster Globonisus
-type: post
-updated: 2023-05-25T18:51:12+07:00
-webtitle: chimeraland
-wordcount: 659
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

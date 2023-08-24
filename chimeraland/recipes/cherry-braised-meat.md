@@ -1,104 +1,23 @@
 ---
+title: Recipe Cherry-Braised Meat Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-07T23:56:03+07:00
-description: "Recipe Cherry-Braised Meat Chimeraland Cherry-Braised Meat Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Cherry-Braised Meat
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  250 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
-excerpt: "Recipe Cherry-Braised Meat Chimeraland Cherry-Braised Meat Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Cherry-Braised Meat
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  250 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
+updated: 2022-10-06T01:46:55+07:00
 lang: en
+date: 2022-01-07T23:56:03+07:00
 permalink: /chimeraland/recipes/cherry-braised-meat.html
 photos:
   - /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat.webp
   - /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat-name.webp
   - /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat-icon.webp
   - /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat-material.webp
-subtitle: "Recipe Cherry-Braised Meat Chimeraland Cherry-Braised Meat Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Cherry-Braised Meat
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  250 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
+thumbnail: /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/cherry-braised-meat/cherry-braised-meat.webp
-title: Recipe Cherry-Braised Meat Chimeraland
-type: post
-updated: 2022-10-06T01:46:55+07:00
-wordcount: 771
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

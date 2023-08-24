@@ -1,110 +1,19 @@
 ---
+title: Monster Spear Grouguana
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2022-10-02T03:18:27+07:00
 date: 2022-01-10T08:56:03+07:00
-description: "Monster Spear Grouguana Spear Grouguana Information from
-  Chimeraland
-
-  \    Spear Grouguana default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                55
-
-  \        "
-excerpt: "Monster Spear Grouguana Spear Grouguana Information from Chimeraland
-
-  \    Spear Grouguana default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                55
-
-  \        "
 permalink: /chimeraland/monsters/spear-grouguana.html
 photos: []
-subtitle: "Monster Spear Grouguana Spear Grouguana Information from Chimeraland
-
-  \    Spear Grouguana default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                55
-
-  \        "
 tags:
   - chimeraland
   - monster
   - pet
-title: Monster Spear Grouguana
-type: post
-updated: 2022-10-02T03:18:27+07:00
-webtitle: chimeraland
-wordcount: 546
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

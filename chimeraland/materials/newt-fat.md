@@ -1,79 +1,19 @@
 ---
+title: Material Newt Fat Chimeraland
+date: 2022-01-10T18:56:03+07:00
+updated: 2022-10-02T18:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/newt-fat.html
+photos:
+  - /chimeraland/materials/newt-fat/newt-fat.webp
+thumbnail: /chimeraland/materials/newt-fat/newt-fat.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-10T18:56:03+07:00
-description: |-
-  Material Newt Fat Chimeraland materials
-          Newt Fat
-          October 2, 2022 6:26 PM
-          Continue reading Newt Fat
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Newt Fat
-              
-                
-                  
-                    An 
-excerpt: |-
-  Material Newt Fat Chimeraland materials
-          Newt Fat
-          October 2, 2022 6:26 PM
-          Continue reading Newt Fat
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Newt Fat
-              
-                
-                  
-                    An 
-permalink: /chimeraland/materials/newt-fat.html
-photos:
-  - /chimeraland/materials/newt-fat/newt-fat.webp
-subtitle: |-
-  Material Newt Fat Chimeraland materials
-          Newt Fat
-          October 2, 2022 6:26 PM
-          Continue reading Newt Fat
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Newt Fat
-              
-                
-                  
-                    An 
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/newt-fat/newt-fat.webp
-title: Material Newt Fat Chimeraland
-type: post
-updated: 2022-10-02T18:26:37+07:00
-wordcount: 1042
 ---
 
 <link

@@ -1,139 +1,19 @@
 ---
+title: Material Sweet Potato Chimeraland
+date: 2022-01-12T02:56:03+07:00
+updated: 2022-10-04T02:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/sweet-potato.html
+photos:
+  - /chimeraland/materials/sweet-potato/sweet-potato.webp
+thumbnail: /chimeraland/materials/sweet-potato/sweet-potato.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-12T02:56:03+07:00
-description: "Material Sweet Potato Chimeraland materials
-
-  \        Sweet Potato
-
-  \        October 4, 2022 2:26 AM
-
-  \        Continue reading Sweet Potato
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Sweet Potato
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \     \ 
-
-  \   "
-excerpt: "Material Sweet Potato Chimeraland materials
-
-  \        Sweet Potato
-
-  \        October 4, 2022 2:26 AM
-
-  \        Continue reading Sweet Potato
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Sweet Potato
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \     \ 
-
-  \   "
-permalink: /chimeraland/materials/sweet-potato.html
-photos:
-  - /chimeraland/materials/sweet-potato/sweet-potato.webp
-subtitle: "Material Sweet Potato Chimeraland materials
-
-  \        Sweet Potato
-
-  \        October 4, 2022 2:26 AM
-
-  \        Continue reading Sweet Potato
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Sweet Potato
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \     \ 
-
-  \   "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/sweet-potato/sweet-potato.webp
-title: Material Sweet Potato Chimeraland
-type: post
-updated: 2022-10-04T02:26:37+07:00
-wordcount: 568
 ---
 
 <link

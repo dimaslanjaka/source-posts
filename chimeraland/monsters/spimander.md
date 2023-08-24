@@ -1,117 +1,21 @@
 ---
+title: Monster Spimander
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T03:40:12+07:00
 date: 2022-01-10T09:56:03+07:00
-description: "Monster Spimander Spimander Information from Chimeraland
-
-  \    Spimander default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \             \ 
-
-  \   "
-excerpt: "Monster Spimander Spimander Information from Chimeraland
-
-  \    Spimander default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \             \ 
-
-  \   "
 permalink: /chimeraland/monsters/spimander.html
 photos:
   - null
-subtitle: "Monster Spimander Spimander Information from Chimeraland
-
-  \    Spimander default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \             \ 
-
-  \   "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spimander
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spimander
-title: Monster Spimander
-type: post
-updated: 2023-05-25T03:40:12+07:00
-webtitle: chimeraland
-wordcount: 659
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

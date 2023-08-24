@@ -1,121 +1,19 @@
 ---
+title: Material Moon Resin Dew Chimeraland
+date: 2022-01-18T06:56:03+07:00
+updated: 2022-10-10T06:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/moon-resin-dew.html
+photos:
+  - /chimeraland/materials/moon-resin-dew/moon-resin-dew.webp
+thumbnail: /chimeraland/materials/moon-resin-dew/moon-resin-dew.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-18T06:56:03+07:00
-description: "Material Moon Resin Dew Chimeraland materials
-
-  \        Moon Resin Dew
-
-  \        October 10, 2022 6:26 AM
-
-  \        Continue reading Moon Resin Dew
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Moon Resin Dew
-
-  \           \ 
-
-  \             \ 
-
-  \             "
-excerpt: "Material Moon Resin Dew Chimeraland materials
-
-  \        Moon Resin Dew
-
-  \        October 10, 2022 6:26 AM
-
-  \        Continue reading Moon Resin Dew
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Moon Resin Dew
-
-  \           \ 
-
-  \             \ 
-
-  \             "
-permalink: /chimeraland/materials/moon-resin-dew.html
-photos:
-  - /chimeraland/materials/moon-resin-dew/moon-resin-dew.webp
-subtitle: "Material Moon Resin Dew Chimeraland materials
-
-  \        Moon Resin Dew
-
-  \        October 10, 2022 6:26 AM
-
-  \        Continue reading Moon Resin Dew
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Moon Resin Dew
-
-  \           \ 
-
-  \             \ 
-
-  \             "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/moon-resin-dew/moon-resin-dew.webp
-title: Material Moon Resin Dew Chimeraland
-type: post
-updated: 2022-10-10T06:26:37+07:00
-wordcount: 697
 ---
 
 <link

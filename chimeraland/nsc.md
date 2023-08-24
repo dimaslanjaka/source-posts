@@ -1,38 +1,11 @@
 ---
-categories:
-  - games
-  - chimeraland
-comments: true
-date: 2023-03-30T01:43:02+07:00
-description: >-
-  Apa itu NSC di chimeraland? Apa itu NSC ? NSC merupakan singkatan dari
-  Northmount Star Chest. NSC Northmount Star Chest Apa hadiah setelah membuka
-  NSC ? Sama halnya dengan Golden Chest Golden Chest Northmount Star Chest
-  memiliki drop chance untuk mendapatkan Northmount Map Remnant
-
-  Northmount Star Ch
-excerpt: >-
-  Apa itu NSC di chimeraland? Apa itu NSC ? NSC merupakan singkatan dari
-  Northmount Star Chest. NSC Northmount Star Chest Apa hadiah setelah membuka
-  NSC ? Sama halnya dengan Golden Chest Golden Chest Northmount Star Chest
-  memiliki drop chance untuk mendapatkan Northmount Map Remnant
-
-  Northmount Star Ch
-lang: id
-subtitle: >-
-  Apa itu NSC di chimeraland? Apa itu NSC ? NSC merupakan singkatan dari
-  Northmount Star Chest. NSC Northmount Star Chest Apa hadiah setelah membuka
-  NSC ? Sama halnya dengan Golden Chest Golden Chest Northmount Star Chest
-  memiliki drop chance untuk mendapatkan Northmount Map Remnant
-
-  Northmount Star Ch
-tags:
-  - guide
-thumbnail: https://i.ytimg.com/vi/KrUg7LrjBRs/maxresdefault.jpg
 title: Apa itu NSC di chimeraland?
-type: post
+date: 2023-03-30T01:43:02+07:00
 updated: 2023-03-30T12:42:20+07:00
-wordcount: 227
+category: ['games','chimeraland']
+tags: ['guide']
+lang: id
+thumbnail: https://i.ytimg.com/vi/KrUg7LrjBRs/maxresdefault.jpg
 ---
 
 ## Apa itu NSC ?

@@ -1,98 +1,23 @@
 ---
+title: Recipe Overlord Hide Jelly Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-13T11:56:03+07:00
-description: "Recipe Overlord Hide Jelly Chimeraland Overlord Hide Jelly Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Overlord Hide Jelly
-
-  \             \ 
-
-  \               \ 
-
-  \                  Buff Overlord Hide Jelly not yet written
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \  "
-excerpt: "Recipe Overlord Hide Jelly Chimeraland Overlord Hide Jelly Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Overlord Hide Jelly
-
-  \             \ 
-
-  \               \ 
-
-  \                  Buff Overlord Hide Jelly not yet written
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \  "
+updated: 2022-09-29T23:26:37+07:00
 lang: en
+date: 2022-01-13T11:56:03+07:00
 permalink: /chimeraland/recipes/overlord-hide-jelly.html
 photos:
   - null
   - null
   - null
   - null
-subtitle: "Recipe Overlord Hide Jelly Chimeraland Overlord Hide Jelly Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Overlord Hide Jelly
-
-  \             \ 
-
-  \               \ 
-
-  \                  Buff Overlord Hide Jelly not yet written
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \  "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Overlord Hide Jelly
 tags:
   - chimeraland
   - recipe
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Overlord Hide Jelly
-title: Recipe Overlord Hide Jelly Chimeraland
-type: post
-updated: 2022-09-29T23:26:37+07:00
-wordcount: 907
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

@@ -1,91 +1,19 @@
 ---
+title: Material Cod Chimeraland
+date: 2022-01-16T04:56:03+07:00
+updated: 2022-10-08T04:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/cod.html
+photos:
+  - /chimeraland/materials/cod/cod.webp
+thumbnail: /chimeraland/materials/cod/cod.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-16T04:56:03+07:00
-description: |-
-  Material Cod Chimeraland materials
-          Cod
-          October 8, 2022 4:26 AM
-          Continue reading Cod
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Cod
-              
-            
-          
-        
-        
-          
-            
-              How to 
-excerpt: |-
-  Material Cod Chimeraland materials
-          Cod
-          October 8, 2022 4:26 AM
-          Continue reading Cod
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Cod
-              
-            
-          
-        
-        
-          
-            
-              How to 
-permalink: /chimeraland/materials/cod.html
-photos:
-  - /chimeraland/materials/cod/cod.webp
-subtitle: |-
-  Material Cod Chimeraland materials
-          Cod
-          October 8, 2022 4:26 AM
-          Continue reading Cod
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Cod
-              
-            
-          
-        
-        
-          
-            
-              How to 
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/cod/cod.webp
-title: Material Cod Chimeraland
-type: post
-updated: 2022-10-08T04:26:37+07:00
-wordcount: 588
 ---
 
 <link

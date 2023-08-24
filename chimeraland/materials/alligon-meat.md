@@ -1,133 +1,19 @@
 ---
+title: Material Alligon Meat Chimeraland
+date: 2022-01-08T11:56:03+07:00
+updated: 2022-09-30T11:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/alligon-meat.html
+photos:
+  - /chimeraland/materials/alligon-meat/alligon-meat.webp
+thumbnail: /chimeraland/materials/alligon-meat/alligon-meat.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-08T11:56:03+07:00
-description: "Material Alligon Meat Chimeraland materials
-
-  \        Alligon Meat
-
-  \        September 30, 2022 11:26 AM
-
-  \        Continue reading Alligon Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Alligon Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \      "
-excerpt: "Material Alligon Meat Chimeraland materials
-
-  \        Alligon Meat
-
-  \        September 30, 2022 11:26 AM
-
-  \        Continue reading Alligon Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Alligon Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \      "
-permalink: /chimeraland/materials/alligon-meat.html
-photos:
-  - /chimeraland/materials/alligon-meat/alligon-meat.webp
-subtitle: "Material Alligon Meat Chimeraland materials
-
-  \        Alligon Meat
-
-  \        September 30, 2022 11:26 AM
-
-  \        Continue reading Alligon Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Alligon Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \      "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/alligon-meat/alligon-meat.webp
-title: Material Alligon Meat Chimeraland
-type: post
-updated: 2022-09-30T11:26:37+07:00
-wordcount: 1061
 ---
 
 <link

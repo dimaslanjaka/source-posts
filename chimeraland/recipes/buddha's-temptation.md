@@ -1,104 +1,23 @@
 ---
+title: Recipe Buddha's Temptation Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-07T17:56:03+07:00
-description: "Recipe Buddha's Temptation Chimeraland Buddha's Temptation Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Buddha's Temptation
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +250 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \   "
-excerpt: "Recipe Buddha's Temptation Chimeraland Buddha's Temptation Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Buddha's Temptation
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +250 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \   "
+updated: 2022-10-05T10:46:53+07:00
 lang: en
+date: 2022-01-07T17:56:03+07:00
 permalink: /chimeraland/recipes/buddhas-temptation.html
 photos:
   - null
   - null
   - null
   - null
-subtitle: "Recipe Buddha's Temptation Chimeraland Buddha's Temptation Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Buddha's Temptation
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +250 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \   "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Buddha's Temptation
 tags:
   - chimeraland
   - recipe
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Buddha's Temptation
-title: Recipe Buddha's Temptation Chimeraland
-type: post
-updated: 2022-10-05T10:46:53+07:00
-wordcount: 733
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

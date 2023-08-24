@@ -1,73 +1,9 @@
 ---
+title: Attendant ocyooka
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-08-06T22:00:21+07:00
 date: 2023-08-06T21:49:21+07:00
-description: "Attendant ocyooka ocyooka Information from Chimeraland
-
-  \    ocyooka default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             "
-excerpt: "Attendant ocyooka ocyooka Information from Chimeraland
-
-  \    ocyooka default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             "
 permalink: /chimeraland/attendants/ocyooka.html
 photos:
   - /chimeraland/attendants/ocyooka/Screenshot_2023-05-25-23-05-30-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -79,46 +15,14 @@ photos:
   - /chimeraland/attendants/ocyooka/Screenshot_2023-05-25-23-05-56-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/ocyooka/Screenshot_2023-05-25-23-06-00-14_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/ocyooka/Screenshot_2023-05-25-23-06-04-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant ocyooka ocyooka Information from Chimeraland
-
-  \    ocyooka default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             "
+thumbnail: /chimeraland/attendants/ocyooka/Screenshot_2023-05-25-23-05-30-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/ocyooka/Screenshot_2023-05-25-23-05-30-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant ocyooka
-type: post
-updated: 2023-08-06T22:00:21+07:00
-webtitle: chimeraland
-wordcount: 1201
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

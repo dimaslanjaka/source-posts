@@ -1,121 +1,19 @@
 ---
+title: Material Fallen Snow Bone Chimeraland
+date: 2022-01-18T11:56:03+07:00
+updated: 2022-10-10T11:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/fallen-snow-bone.html
+photos:
+  - /chimeraland/materials/fallen-snow-bone/fallen-snow-bone.webp
+thumbnail: /chimeraland/materials/fallen-snow-bone/fallen-snow-bone.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-18T11:56:03+07:00
-description: "Material Fallen Snow Bone Chimeraland materials
-
-  \        Fallen Snow Bone
-
-  \        October 10, 2022 11:26 AM
-
-  \        Continue reading Fallen Snow Bone
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Fallen Snow Bone
-
-  \           \ 
-
-  \             \ 
-
-  \    "
-excerpt: "Material Fallen Snow Bone Chimeraland materials
-
-  \        Fallen Snow Bone
-
-  \        October 10, 2022 11:26 AM
-
-  \        Continue reading Fallen Snow Bone
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Fallen Snow Bone
-
-  \           \ 
-
-  \             \ 
-
-  \    "
-permalink: /chimeraland/materials/fallen-snow-bone.html
-photos:
-  - /chimeraland/materials/fallen-snow-bone/fallen-snow-bone.webp
-subtitle: "Material Fallen Snow Bone Chimeraland materials
-
-  \        Fallen Snow Bone
-
-  \        October 10, 2022 11:26 AM
-
-  \        Continue reading Fallen Snow Bone
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Fallen Snow Bone
-
-  \           \ 
-
-  \             \ 
-
-  \    "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/fallen-snow-bone/fallen-snow-bone.webp
-title: Material Fallen Snow Bone Chimeraland
-type: post
-updated: 2022-10-10T11:26:37+07:00
-wordcount: 443
 ---
 
 <link

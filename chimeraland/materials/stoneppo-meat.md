@@ -1,133 +1,19 @@
 ---
+title: Material Stoneppo Meat Chimeraland
+date: 2022-01-08T15:56:03+07:00
+updated: 2022-09-30T15:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/stoneppo-meat.html
+photos:
+  - /chimeraland/materials/stoneppo-meat/stoneppo-meat.webp
+thumbnail: /chimeraland/materials/stoneppo-meat/stoneppo-meat.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-08T15:56:03+07:00
-description: "Material Stoneppo Meat Chimeraland materials
-
-  \        Stoneppo Meat
-
-  \        September 30, 2022 3:26 PM
-
-  \        Continue reading Stoneppo Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Stoneppo Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   "
-excerpt: "Material Stoneppo Meat Chimeraland materials
-
-  \        Stoneppo Meat
-
-  \        September 30, 2022 3:26 PM
-
-  \        Continue reading Stoneppo Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Stoneppo Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   "
-permalink: /chimeraland/materials/stoneppo-meat.html
-photos:
-  - /chimeraland/materials/stoneppo-meat/stoneppo-meat.webp
-subtitle: "Material Stoneppo Meat Chimeraland materials
-
-  \        Stoneppo Meat
-
-  \        September 30, 2022 3:26 PM
-
-  \        Continue reading Stoneppo Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Stoneppo Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/stoneppo-meat/stoneppo-meat.webp
-title: Material Stoneppo Meat Chimeraland
-type: post
-updated: 2022-09-30T15:26:37+07:00
-wordcount: 633
 ---
 
 <link

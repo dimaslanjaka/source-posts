@@ -1,101 +1,23 @@
 ---
+title: Recipe Honeybee Jerky Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-10T08:56:03+07:00
-description: "Recipe Honeybee Jerky Chimeraland Honeybee Jerky Cooking Recipe
-
-  \             \ 
-
-  \              Buff Honeybee Jerky
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +6% Crit Damage Dealt
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \     "
-excerpt: "Recipe Honeybee Jerky Chimeraland Honeybee Jerky Cooking Recipe
-
-  \             \ 
-
-  \              Buff Honeybee Jerky
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +6% Crit Damage Dealt
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \     "
+updated: 2022-10-06T08:46:54+07:00
 lang: en
+date: 2022-01-10T08:56:03+07:00
 permalink: /chimeraland/recipes/honeybee-jerky.html
 photos:
   - /chimeraland/recipes/honeybee-jerky/honeybee-jerky.webp
   - /chimeraland/recipes/honeybee-jerky/honeybee-jerky-name.webp
   - /chimeraland/recipes/honeybee-jerky/honeybee-jerky-icon.webp
   - /chimeraland/recipes/honeybee-jerky/honeybee-jerky-material.webp
-subtitle: "Recipe Honeybee Jerky Chimeraland Honeybee Jerky Cooking Recipe
-
-  \             \ 
-
-  \              Buff Honeybee Jerky
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +6% Crit Damage Dealt
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \     "
+thumbnail: /chimeraland/recipes/honeybee-jerky/honeybee-jerky.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/honeybee-jerky/honeybee-jerky.webp
-title: Recipe Honeybee Jerky Chimeraland
-type: post
-updated: 2022-10-06T08:46:54+07:00
-wordcount: 728
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

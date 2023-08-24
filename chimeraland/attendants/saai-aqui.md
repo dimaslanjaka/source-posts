@@ -1,73 +1,9 @@
 ---
+title: Attendant saai-aqui
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-03-11T06:30:17+07:00
 date: 2023-03-11T06:19:17+07:00
-description: "Attendant saai-aqui saai-aqui Information from Chimeraland
-
-  \    saai-aqui default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \       "
-excerpt: "Attendant saai-aqui saai-aqui Information from Chimeraland
-
-  \    saai-aqui default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \       "
 permalink: /chimeraland/attendants/saai-aqui.html
 photos:
   - /chimeraland/attendants/saai-aqui/Screenshot_2023-02-25-13-31-37-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -77,46 +13,14 @@ photos:
   - /chimeraland/attendants/saai-aqui/Screenshot_2023-02-25-13-31-54-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/saai-aqui/Screenshot_2023-02-25-13-31-58-78_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/saai-aqui/Screenshot_2023-02-25-13-32-03-21_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant saai-aqui saai-aqui Information from Chimeraland
-
-  \    saai-aqui default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \       "
+thumbnail: /chimeraland/attendants/saai-aqui/Screenshot_2023-02-25-13-31-37-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/saai-aqui/Screenshot_2023-02-25-13-31-37-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant saai-aqui
-type: post
-updated: 2023-03-11T06:30:17+07:00
-webtitle: chimeraland
-wordcount: 1059
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

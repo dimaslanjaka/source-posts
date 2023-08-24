@@ -1,98 +1,23 @@
 ---
+title: Recipe New Year Dumplings Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-10T21:56:03+07:00
-description: "Recipe New Year Dumplings Chimeraland New Year Dumplings Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff New Year Dumplings
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +100 RES
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \  "
-excerpt: "Recipe New Year Dumplings Chimeraland New Year Dumplings Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff New Year Dumplings
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +100 RES
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \  "
+updated: 2022-10-06T18:46:54+07:00
 lang: en
+date: 2022-01-10T21:56:03+07:00
 permalink: /chimeraland/recipes/new-year-dumplings.html
 photos:
   - /chimeraland/recipes/new-year-dumplings/new-year-dumplings.webp
   - /chimeraland/recipes/new-year-dumplings/new-year-dumplings-name.webp
   - /chimeraland/recipes/new-year-dumplings/new-year-dumplings-icon.webp
   - /chimeraland/recipes/new-year-dumplings/new-year-dumplings-material.webp
-subtitle: "Recipe New Year Dumplings Chimeraland New Year Dumplings Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff New Year Dumplings
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +100 RES
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \  "
+thumbnail: /chimeraland/recipes/new-year-dumplings/new-year-dumplings.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/new-year-dumplings/new-year-dumplings.webp
-title: Recipe New Year Dumplings Chimeraland
-type: post
-updated: 2022-10-06T18:46:54+07:00
-wordcount: 828
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

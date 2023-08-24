@@ -1,76 +1,19 @@
 ---
+title: Material Apple Chimeraland
+date: 2022-01-17T12:56:03+07:00
+updated: 2022-10-09T12:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/apple.html
+photos:
+  - /chimeraland/materials/apple/apple.webp
+thumbnail: /chimeraland/materials/apple/apple.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-17T12:56:03+07:00
-description: |-
-  Material Apple Chimeraland materials
-          Apple
-          October 9, 2022 12:26 PM
-          
-            Crystal fruit looks like an ice crystal and feels cold to match.
-          
-          Continue reading Apple
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the u
-excerpt: |-
-  Material Apple Chimeraland materials
-          Apple
-          October 9, 2022 12:26 PM
-          
-            Crystal fruit looks like an ice crystal and feels cold to match.
-          
-          Continue reading Apple
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the u
-permalink: /chimeraland/materials/apple.html
-photos:
-  - /chimeraland/materials/apple/apple.webp
-subtitle: |-
-  Material Apple Chimeraland materials
-          Apple
-          October 9, 2022 12:26 PM
-          
-            Crystal fruit looks like an ice crystal and feels cold to match.
-          
-          Continue reading Apple
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the u
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/apple/apple.webp
-title: Material Apple Chimeraland
-type: post
-updated: 2022-10-09T12:26:37+07:00
-wordcount: 4070
 ---
 
 <link

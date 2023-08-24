@@ -1,85 +1,19 @@
 ---
+title: Material Leopardfish Chimeraland
+date: 2022-01-16T17:56:03+07:00
+updated: 2022-10-08T17:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/leopardfish.html
+photos:
+  - /chimeraland/materials/leopardfish/leopardfish.webp
+thumbnail: /chimeraland/materials/leopardfish/leopardfish.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-16T17:56:03+07:00
-description: "Material Leopardfish Chimeraland materials
-
-  \        Leopardfish
-
-  \        October 8, 2022 5:26 PM
-
-  \       \ 
-
-  \          A freshwater fish with a strong body with a large and heavy head.
-
-  \          Fierce and tough, it's not picky about food.
-
-  \       \ 
-
-  \        Continue reading Leopardfish
-
-  \     \ 
-
-  \     \ 
-
-  \     "
-excerpt: "Material Leopardfish Chimeraland materials
-
-  \        Leopardfish
-
-  \        October 8, 2022 5:26 PM
-
-  \       \ 
-
-  \          A freshwater fish with a strong body with a large and heavy head.
-
-  \          Fierce and tough, it's not picky about food.
-
-  \       \ 
-
-  \        Continue reading Leopardfish
-
-  \     \ 
-
-  \     \ 
-
-  \     "
-permalink: /chimeraland/materials/leopardfish.html
-photos:
-  - /chimeraland/materials/leopardfish/leopardfish.webp
-subtitle: "Material Leopardfish Chimeraland materials
-
-  \        Leopardfish
-
-  \        October 8, 2022 5:26 PM
-
-  \       \ 
-
-  \          A freshwater fish with a strong body with a large and heavy head.
-
-  \          Fierce and tough, it's not picky about food.
-
-  \       \ 
-
-  \        Continue reading Leopardfish
-
-  \     \ 
-
-  \     \ 
-
-  \     "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/leopardfish/leopardfish.webp
-title: Material Leopardfish Chimeraland
-type: post
-updated: 2022-10-08T17:26:37+07:00
-wordcount: 759
 ---
 
 <link

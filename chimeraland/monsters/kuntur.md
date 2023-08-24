@@ -1,117 +1,21 @@
 ---
+title: Monster Kuntur
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T03:06:12+07:00
 date: 2022-01-09T02:56:03+07:00
-description: "Monster Kuntur Kuntur Information from Chimeraland
-
-  \    Kuntur default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \             \ 
-
-  \            "
-excerpt: "Monster Kuntur Kuntur Information from Chimeraland
-
-  \    Kuntur default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \             \ 
-
-  \            "
 permalink: /chimeraland/monsters/kuntur.html
 photos:
   - null
-subtitle: "Monster Kuntur Kuntur Information from Chimeraland
-
-  \    Kuntur default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \             \ 
-
-  \            "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Kuntur
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Kuntur
-title: Monster Kuntur
-type: post
-updated: 2023-05-25T03:06:12+07:00
-webtitle: chimeraland
-wordcount: 659
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

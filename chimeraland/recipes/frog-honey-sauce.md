@@ -1,102 +1,23 @@
 ---
+title: Recipe Frog Honey Sauce Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-09T02:56:03+07:00
-description: "Recipe Frog Honey Sauce Chimeraland Frog Honey Sauce Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Frog Honey Sauce
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +160 DEF
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \            "
-excerpt: "Recipe Frog Honey Sauce Chimeraland Frog Honey Sauce Cooking Recipe
-
-  \             \ 
-
-  \              Buff Frog Honey Sauce
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +160 DEF
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \            "
+updated: 2022-10-06T03:46:54+07:00
 lang: en
+date: 2022-01-09T02:56:03+07:00
 permalink: /chimeraland/recipes/frog-honey-sauce.html
 photos:
   - /chimeraland/recipes/frog-honey-sauce/frog-honey-sauce.webp
   - /chimeraland/recipes/frog-honey-sauce/frog-honey-sauce-name.webp
   - /chimeraland/recipes/frog-honey-sauce/frog-honey-sauce-icon.webp
   - /chimeraland/recipes/frog-honey-sauce/frog-honey-sauce-material.webp
-subtitle: "Recipe Frog Honey Sauce Chimeraland Frog Honey Sauce Cooking Recipe
-
-  \             \ 
-
-  \              Buff Frog Honey Sauce
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +160 DEF
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \            "
+thumbnail: /chimeraland/recipes/frog-honey-sauce/frog-honey-sauce.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/frog-honey-sauce/frog-honey-sauce.webp
-title: Recipe Frog Honey Sauce Chimeraland
-type: post
-updated: 2022-10-06T03:46:54+07:00
-wordcount: 817
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

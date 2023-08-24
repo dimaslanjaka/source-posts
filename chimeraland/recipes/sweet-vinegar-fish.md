@@ -1,53 +1,23 @@
 ---
+title: Recipe Sweet Vinegar Fish Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-12T00:56:03+07:00
-description: |-
-  Recipe Sweet Vinegar Fish Chimeraland Sweet Vinegar Fish Cooking Recipe
-                
-                Buff Sweet Vinegar Fish
-                
-                  
-                    +540 fullness
-                    Temporarily protect from drowning for a long time
-                    Astakat Attendant Recruit
-excerpt: |-
-  Recipe Sweet Vinegar Fish Chimeraland Sweet Vinegar Fish Cooking Recipe
-                
-                Buff Sweet Vinegar Fish
-                
-                  
-                    +540 fullness
-                    Temporarily protect from drowning for a long time
-                    Astakat Attendant Recruit
+updated: 2022-10-06T10:46:56+07:00
 lang: en
+date: 2022-01-12T00:56:03+07:00
 permalink: /chimeraland/recipes/sweet-vinegar-fish.html
 photos:
   - null
   - null
   - null
   - null
-subtitle: |-
-  Recipe Sweet Vinegar Fish Chimeraland Sweet Vinegar Fish Cooking Recipe
-                
-                Buff Sweet Vinegar Fish
-                
-                  
-                    +540 fullness
-                    Temporarily protect from drowning for a long time
-                    Astakat Attendant Recruit
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sweet Vinegar Fish
 tags:
   - chimeraland
   - recipe
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Sweet Vinegar Fish
-title: Recipe Sweet Vinegar Fish Chimeraland
-type: post
-updated: 2022-10-06T10:46:56+07:00
-wordcount: 1281
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

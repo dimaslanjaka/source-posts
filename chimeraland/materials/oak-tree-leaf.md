@@ -1,76 +1,19 @@
 ---
+title: Material Oak Tree Leaf Chimeraland
+date: 2022-01-13T21:56:03+07:00
+updated: 2022-10-05T21:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/oak-tree-leaf.html
+photos:
+  - /chimeraland/materials/oak-tree-leaf/oak-tree-leaf.webp
+thumbnail: /chimeraland/materials/oak-tree-leaf/oak-tree-leaf.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-13T21:56:03+07:00
-description: |-
-  Material Oak Tree Leaf Chimeraland materials
-          Oak Tree Leaf
-          October 5, 2022 9:26 PM
-          Continue reading Oak Tree Leaf
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Oak Tree Leaf
-              
-                
-                  Ca
-excerpt: |-
-  Material Oak Tree Leaf Chimeraland materials
-          Oak Tree Leaf
-          October 5, 2022 9:26 PM
-          Continue reading Oak Tree Leaf
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Oak Tree Leaf
-              
-                
-                  Ca
-permalink: /chimeraland/materials/oak-tree-leaf.html
-photos:
-  - /chimeraland/materials/oak-tree-leaf/oak-tree-leaf.webp
-subtitle: |-
-  Material Oak Tree Leaf Chimeraland materials
-          Oak Tree Leaf
-          October 5, 2022 9:26 PM
-          Continue reading Oak Tree Leaf
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Oak Tree Leaf
-              
-                
-                  Ca
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/oak-tree-leaf/oak-tree-leaf.webp
-title: Material Oak Tree Leaf Chimeraland
-type: post
-updated: 2022-10-05T21:26:37+07:00
-wordcount: 794
 ---
 
 <link

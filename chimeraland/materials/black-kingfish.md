@@ -1,46 +1,19 @@
 ---
+title: Material Black Kingfish Chimeraland
+date: 2022-01-15T03:56:03+07:00
+updated: 2022-10-07T03:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/black-kingfish.html
+photos:
+  - /chimeraland/materials/black-kingfish/black-kingfish.webp
+thumbnail: /chimeraland/materials/black-kingfish/black-kingfish.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-15T03:56:03+07:00
-description: >-
-  Material Black Kingfish Chimeraland materials
-          Black Kingfish
-          October 7, 2022 3:26 AM
-          
-            A marine fish with a long nearly cylindrical body. It is head is flat
-            and wide and its eyes are small with squeezed fat. Its mouth is
-            horizontal and close to th
-excerpt: >-
-  Material Black Kingfish Chimeraland materials
-          Black Kingfish
-          October 7, 2022 3:26 AM
-          
-            A marine fish with a long nearly cylindrical body. It is head is flat
-            and wide and its eyes are small with squeezed fat. Its mouth is
-            horizontal and close to th
-permalink: /chimeraland/materials/black-kingfish.html
-photos:
-  - /chimeraland/materials/black-kingfish/black-kingfish.webp
-subtitle: >-
-  Material Black Kingfish Chimeraland materials
-          Black Kingfish
-          October 7, 2022 3:26 AM
-          
-            A marine fish with a long nearly cylindrical body. It is head is flat
-            and wide and its eyes are small with squeezed fat. Its mouth is
-            horizontal and close to th
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/black-kingfish/black-kingfish.webp
-title: Material Black Kingfish Chimeraland
-type: post
-updated: 2022-10-07T03:26:37+07:00
-wordcount: 981
 ---
 
 <link

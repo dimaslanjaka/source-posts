@@ -1,71 +1,9 @@
 ---
+title: Monster Horned Fortuphant
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T07:31:12+07:00
 date: 2022-01-09T01:56:03+07:00
-description: "Monster Horned Fortuphant Horned Fortuphant Information from
-  Chimeraland
-
-  \    Horned Fortuphant default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                53
-
-  \  "
-excerpt: "Monster Horned Fortuphant Horned Fortuphant Information from
-  Chimeraland
-
-  \    Horned Fortuphant default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                53
-
-  \  "
 permalink: /chimeraland/monsters/horned-fortuphant.html
 photos:
   - null
@@ -76,46 +14,15 @@ photos:
   - /chimeraland/monsters/horned-fortuphant/Screenshot_2023-02-16-01-41-04-82_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horned-fortuphant/Screenshot_2023-02-16-01-41-09-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horned-fortuphant/Screenshot_2023-02-16-01-41-13-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster Horned Fortuphant Horned Fortuphant Information from
-  Chimeraland
-
-  \    Horned Fortuphant default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                53
-
-  \  "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Horned Fortuphant
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Horned Fortuphant
-title: Monster Horned Fortuphant
-type: post
-updated: 2023-05-25T07:31:12+07:00
-webtitle: chimeraland
-wordcount: 1237
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

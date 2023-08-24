@@ -1,121 +1,19 @@
 ---
+title: Material Superb Wood Genio Chimeraland
+date: 2022-01-13T07:56:03+07:00
+updated: 2022-10-05T07:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/superb-wood-genio.html
+photos:
+  - /chimeraland/materials/superb-wood-genio/superb-wood-genio.webp
+thumbnail: /chimeraland/materials/superb-wood-genio/superb-wood-genio.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-13T07:56:03+07:00
-description: "Material Superb Wood Genio Chimeraland materials
-
-  \        Superb Wood Genio
-
-  \        October 5, 2022 7:26 AM
-
-  \        Continue reading Superb Wood Genio
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Superb Wood Genio
-
-  \           \ 
-
-  \         \ 
-
-  \      "
-excerpt: "Material Superb Wood Genio Chimeraland materials
-
-  \        Superb Wood Genio
-
-  \        October 5, 2022 7:26 AM
-
-  \        Continue reading Superb Wood Genio
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Superb Wood Genio
-
-  \           \ 
-
-  \         \ 
-
-  \      "
-permalink: /chimeraland/materials/superb-wood-genio.html
-photos:
-  - /chimeraland/materials/superb-wood-genio/superb-wood-genio.webp
-subtitle: "Material Superb Wood Genio Chimeraland materials
-
-  \        Superb Wood Genio
-
-  \        October 5, 2022 7:26 AM
-
-  \        Continue reading Superb Wood Genio
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Superb Wood Genio
-
-  \           \ 
-
-  \         \ 
-
-  \      "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/superb-wood-genio/superb-wood-genio.webp
-title: Material Superb Wood Genio Chimeraland
-type: post
-updated: 2022-10-05T07:26:37+07:00
-wordcount: 636
 ---
 
 <link

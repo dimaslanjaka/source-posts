@@ -1,111 +1,21 @@
 ---
+title: Monster Chimpanimbus
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T09:22:12+07:00
 date: 2022-01-07T12:56:03+07:00
-description: "Monster Chimpanimbus Chimpanimbus Information from Chimeraland
-
-  \    Chimpanimbus default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \         "
-excerpt: "Monster Chimpanimbus Chimpanimbus Information from Chimeraland
-
-  \    Chimpanimbus default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \         "
 permalink: /chimeraland/monsters/chimpanimbus.html
 photos:
   - null
-subtitle: "Monster Chimpanimbus Chimpanimbus Information from Chimeraland
-
-  \    Chimpanimbus default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \         "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Chimpanimbus
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Chimpanimbus
-title: Monster Chimpanimbus
-type: post
-updated: 2023-05-25T09:22:12+07:00
-webtitle: chimeraland
-wordcount: 659
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

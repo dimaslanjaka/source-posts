@@ -1,59 +1,23 @@
 ---
+title: Recipe Sliced Fish Stew Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-11T20:56:03+07:00
-description: |-
-  Recipe Sliced Fish Stew Chimeraland Sliced Fish Stew Cooking Recipe
-                
-                Buff Sliced Fish Stew
-                
-                  
-                    +540 fullness
-                    Temporarily protect from drowning for a long time
-                  
-                
-                rec
-excerpt: |-
-  Recipe Sliced Fish Stew Chimeraland Sliced Fish Stew Cooking Recipe
-                
-                Buff Sliced Fish Stew
-                
-                  
-                    +540 fullness
-                    Temporarily protect from drowning for a long time
-                  
-                
-                rec
+updated: 2022-10-06T10:46:55+07:00
 lang: en
+date: 2022-01-11T20:56:03+07:00
 permalink: /chimeraland/recipes/sliced-fish-stew.html
 photos:
   - /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew.webp
   - /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew-name.webp
   - /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew-icon.webp
   - /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew-material.webp
-subtitle: |-
-  Recipe Sliced Fish Stew Chimeraland Sliced Fish Stew Cooking Recipe
-                
-                Buff Sliced Fish Stew
-                
-                  
-                    +540 fullness
-                    Temporarily protect from drowning for a long time
-                  
-                
-                rec
+thumbnail: /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/sliced-fish-stew/sliced-fish-stew.webp
-title: Recipe Sliced Fish Stew Chimeraland
-type: post
-updated: 2022-10-06T10:46:55+07:00
-wordcount: 1347
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

@@ -1,73 +1,9 @@
 ---
+title: Monster Parrot
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T12:22:12+07:00
 date: 2022-01-09T16:56:03+07:00
-description: "Monster Parrot Parrot Information from Chimeraland
-
-  \    Parrot default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                63
-
-  \             \ 
-
-  \            "
-excerpt: "Monster Parrot Parrot Information from Chimeraland
-
-  \    Parrot default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                63
-
-  \             \ 
-
-  \            "
 permalink: /chimeraland/monsters/parrot.html
 photos:
   - null
@@ -82,47 +18,15 @@ photos:
   - /chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-17-46_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-22-90_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/parrot/Screenshot_2023-03-02-05-25-29-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster Parrot Parrot Information from Chimeraland
-
-  \    Parrot default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                63
-
-  \             \ 
-
-  \            "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Parrot
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Parrot
-title: Monster Parrot
-type: post
-updated: 2023-05-25T12:22:12+07:00
-webtitle: chimeraland
-wordcount: 1440
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

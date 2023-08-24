@@ -1,127 +1,19 @@
 ---
+title: Material Siderite Chimeraland
+date: 2022-01-07T13:56:03+07:00
+updated: 2022-09-29T13:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/siderite.html
+photos:
+  - /chimeraland/materials/siderite/siderite.webp
+thumbnail: /chimeraland/materials/siderite/siderite.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-07T13:56:03+07:00
-description: "Material Siderite Chimeraland materials
-
-  \        Siderite
-
-  \        September 29, 2022 1:26 PM
-
-  \        Continue reading Siderite
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Siderite
-
-  \           \ 
-
-  \             \ 
-
-  \               \ 
-
-  \                  "
-excerpt: "Material Siderite Chimeraland materials
-
-  \        Siderite
-
-  \        September 29, 2022 1:26 PM
-
-  \        Continue reading Siderite
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Siderite
-
-  \           \ 
-
-  \             \ 
-
-  \               \ 
-
-  \                  "
-permalink: /chimeraland/materials/siderite.html
-photos:
-  - /chimeraland/materials/siderite/siderite.webp
-subtitle: "Material Siderite Chimeraland materials
-
-  \        Siderite
-
-  \        September 29, 2022 1:26 PM
-
-  \        Continue reading Siderite
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Siderite
-
-  \           \ 
-
-  \             \ 
-
-  \               \ 
-
-  \                  "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/siderite/siderite.webp
-title: Material Siderite Chimeraland
-type: post
-updated: 2022-09-29T13:26:37+07:00
-wordcount: 702
 ---
 
 <link

@@ -1,98 +1,23 @@
 ---
+title: Recipe Strange Meat Skewers Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-12T18:56:03+07:00
-description: "Recipe Strange Meat Skewers Chimeraland Strange Meat Skewers
-  Cooking Recipe
-
-  \             \ 
-
-  \              Buff Strange Meat Skewers
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  25 Armor Pierce
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \      "
-excerpt: "Recipe Strange Meat Skewers Chimeraland Strange Meat Skewers Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Strange Meat Skewers
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  25 Armor Pierce
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \      "
+updated: 2022-10-05T10:46:56+07:00
 lang: en
+date: 2022-01-12T18:56:03+07:00
 permalink: /chimeraland/recipes/strange-meat-skewers.html
 photos:
   - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers.webp
   - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-name.webp
   - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-icon.webp
   - /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers-material.webp
-subtitle: "Recipe Strange Meat Skewers Chimeraland Strange Meat Skewers Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Strange Meat Skewers
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  25 Armor Pierce
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \      "
+thumbnail: /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/strange-meat-skewers/strange-meat-skewers.webp
-title: Recipe Strange Meat Skewers Chimeraland
-type: post
-updated: 2022-10-05T10:46:56+07:00
-wordcount: 714
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

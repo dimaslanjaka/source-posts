@@ -1,92 +1,23 @@
 ---
+title: Recipe Poached Meat Fillets Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-11T05:56:03+07:00
-description: "Recipe Poached Meat Fillets Chimeraland Poached Meat Fillets
-  Cooking Recipe
-
-  \             \ 
-
-  \              Buff Poached Meat Fillets
-
-  \             \ 
-
-  \               \ 
-
-  \                  540 Fullness
-
-  \                  +50 Armor Pierce
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \         "
-excerpt: "Recipe Poached Meat Fillets Chimeraland Poached Meat Fillets Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Poached Meat Fillets
-
-  \             \ 
-
-  \               \ 
-
-  \                  540 Fullness
-
-  \                  +50 Armor Pierce
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \         "
+updated: 2022-10-06T09:46:55+07:00
 lang: en
+date: 2022-01-11T05:56:03+07:00
 permalink: /chimeraland/recipes/poached-meat-fillets.html
 photos:
   - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets.webp
   - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-name.webp
   - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-icon.webp
   - /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets-material.webp
-subtitle: "Recipe Poached Meat Fillets Chimeraland Poached Meat Fillets Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Poached Meat Fillets
-
-  \             \ 
-
-  \               \ 
-
-  \                  540 Fullness
-
-  \                  +50 Armor Pierce
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \         "
+thumbnail: /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/poached-meat-fillets/poached-meat-fillets.webp
-title: Recipe Poached Meat Fillets Chimeraland
-type: post
-updated: 2022-10-06T09:46:55+07:00
-wordcount: 936
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

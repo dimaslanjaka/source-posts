@@ -1,90 +1,23 @@
 ---
+title: Recipe Job's Tears Broth Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-10T04:56:03+07:00
-description: "Recipe Job's Tears Broth Chimeraland Job's Tears Broth Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Job's Tears Broth
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                  -50 Humidity (decreased over time)
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \         "
-excerpt: "Recipe Job's Tears Broth Chimeraland Job's Tears Broth Cooking Recipe
-
-  \             \ 
-
-  \              Buff Job's Tears Broth
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                  -50 Humidity (decreased over time)
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \         "
+updated: 2022-10-05T20:46:55+07:00
 lang: en
+date: 2022-01-10T04:56:03+07:00
 permalink: /chimeraland/recipes/jobs-tears-broth.html
 photos:
   - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth.webp
   - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-name.webp
   - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-icon.webp
   - /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth-material.webp
-subtitle: "Recipe Job's Tears Broth Chimeraland Job's Tears Broth Cooking Recipe
-
-  \             \ 
-
-  \              Buff Job's Tears Broth
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                  -50 Humidity (decreased over time)
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \         "
+thumbnail: /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/jobs-tears-broth/jobs-tears-broth.webp
-title: Recipe Job's Tears Broth Chimeraland
-type: post
-updated: 2022-10-05T20:46:55+07:00
-wordcount: 764
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

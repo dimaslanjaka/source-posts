@@ -1,101 +1,23 @@
 ---
+title: Recipe Orchid Soup Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-10T19:56:03+07:00
-description: "Recipe Orchid Soup Chimeraland Orchid Soup Cooking Recipe
-
-  \             \ 
-
-  \              Buff Orchid Soup
-
-  \             \ 
-
-  \               \ 
-
-  \                  180 Fullness
-
-  \                  Restore 500 HP within 15 seconds
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \   "
-excerpt: "Recipe Orchid Soup Chimeraland Orchid Soup Cooking Recipe
-
-  \             \ 
-
-  \              Buff Orchid Soup
-
-  \             \ 
-
-  \               \ 
-
-  \                  180 Fullness
-
-  \                  Restore 500 HP within 15 seconds
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \   "
+updated: 2022-10-05T22:46:56+07:00
 lang: en
+date: 2022-01-10T19:56:03+07:00
 permalink: /chimeraland/recipes/orchid-soup.html
 photos:
   - /chimeraland/recipes/orchid-soup/orchid-soup.webp
   - /chimeraland/recipes/orchid-soup/orchid-soup-name.webp
   - /chimeraland/recipes/orchid-soup/orchid-soup-icon.webp
   - /chimeraland/recipes/orchid-soup/orchid-soup-material.webp
-subtitle: "Recipe Orchid Soup Chimeraland Orchid Soup Cooking Recipe
-
-  \             \ 
-
-  \              Buff Orchid Soup
-
-  \             \ 
-
-  \               \ 
-
-  \                  180 Fullness
-
-  \                  Restore 500 HP within 15 seconds
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \   "
+thumbnail: /chimeraland/recipes/orchid-soup/orchid-soup.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/orchid-soup/orchid-soup.webp
-title: Recipe Orchid Soup Chimeraland
-type: post
-updated: 2022-10-05T22:46:56+07:00
-wordcount: 730
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

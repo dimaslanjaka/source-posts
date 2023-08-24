@@ -1,19 +1,9 @@
 ---
+title: Monster Horned Rhino
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T06:21:12+07:00
 date: 2022-01-08T14:56:03+07:00
-description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
-  Attributes Conversion Rate 4.0%,Resilience 257 delicacies/tasty Aromatic
-  Litiger Ball,Moddly Wings Topped Rice,Bear Ball Pot games,chimeraland,monsters
-  chimeraland,monster,pet
-excerpt: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
-  Attributes Conversion Rate 4.0%,Resilience 257 delicacies/tasty Aromatic
-  Litiger Ball,Moddly Wings Topped Rice,Bear Ball Pot games,chimeraland,monsters
-  chimeraland,monster,pet
 permalink: /chimeraland/monsters/horned-rhino.html
 photos:
   - null
@@ -24,20 +14,19 @@ photos:
   - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-16-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-26-00-29-20-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horned-rhino/Screenshot_2022-07-30-16-33-39-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
-  Attributes Conversion Rate 4.0%,Resilience 257 delicacies/tasty Aromatic
-  Litiger Ball,Moddly Wings Topped Rice,Bear Ball Pot games,chimeraland,monsters
-  chimeraland,monster,pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Horned Rhino
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Horned Rhino
-title: Monster Horned Rhino
-type: post
-updated: 2023-05-25T06:21:12+07:00
-webtitle: chimeraland
-wordcount: 1633
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: monster Horned Rhino default quality GRADE C ATK 55 HP 66 DEF 62
+  Attributes Conversion Rate 4.0%,Resilience 257 delicacies/tasty Aromatic
+  Litiger Ball,Moddly Wings Topped Rice,Bear Ball Pot games,chimeraland,monsters
+  chimeraland,monster,pet
 ---
 
 <link

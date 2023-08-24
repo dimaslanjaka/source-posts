@@ -1,90 +1,23 @@
 ---
+title: Recipe Fried Tenderloin Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-13T10:56:03+07:00
-description: "Recipe Fried Tenderloin Chimeraland Fried Tenderloin Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Fried Tenderloin
-
-  \             \ 
-
-  \               \ 
-
-  \                  +540 fullness
-
-  \                  +120 Def
-
-  \                  Vulorman Attendant Recruitment
-
-  \               \ 
-
-  \             \ 
-
-  \         "
-excerpt: "Recipe Fried Tenderloin Chimeraland Fried Tenderloin Cooking Recipe
-
-  \             \ 
-
-  \              Buff Fried Tenderloin
-
-  \             \ 
-
-  \               \ 
-
-  \                  +540 fullness
-
-  \                  +120 Def
-
-  \                  Vulorman Attendant Recruitment
-
-  \               \ 
-
-  \             \ 
-
-  \         "
+updated: 2022-10-06T09:46:56+07:00
 lang: en
+date: 2022-01-13T10:56:03+07:00
 permalink: /chimeraland/recipes/fried-tenderloin.html
 photos:
   - /chimeraland/recipes/fried-tenderloin/fried-tenderloin.webp
   - /chimeraland/recipes/fried-tenderloin/fried-tenderloin-name.webp
   - /chimeraland/recipes/fried-tenderloin/fried-tenderloin-icon.webp
   - /chimeraland/recipes/fried-tenderloin/fried-tenderloin-material.webp
-subtitle: "Recipe Fried Tenderloin Chimeraland Fried Tenderloin Cooking Recipe
-
-  \             \ 
-
-  \              Buff Fried Tenderloin
-
-  \             \ 
-
-  \               \ 
-
-  \                  +540 fullness
-
-  \                  +120 Def
-
-  \                  Vulorman Attendant Recruitment
-
-  \               \ 
-
-  \             \ 
-
-  \         "
+thumbnail: /chimeraland/recipes/fried-tenderloin/fried-tenderloin.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/fried-tenderloin/fried-tenderloin.webp
-title: Recipe Fried Tenderloin Chimeraland
-type: post
-updated: 2022-10-06T09:46:56+07:00
-wordcount: 1085
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

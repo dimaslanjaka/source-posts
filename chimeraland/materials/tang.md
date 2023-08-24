@@ -1,46 +1,19 @@
 ---
+title: Material Tang Chimeraland
+date: 2022-01-15T01:56:03+07:00
+updated: 2022-10-07T01:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/tang.html
+photos:
+  - /chimeraland/materials/tang/tang.webp
+thumbnail: /chimeraland/materials/tang/tang.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-15T01:56:03+07:00
-description: |-
-  Material Tang Chimeraland materials
-          Tang
-          October 7, 2022 1:26 AM
-          
-            A marine fish with a oval body, flat. It has a thin and powerful
-            caudal peduncle. It has a small mouth with dense row of incisor-like
-            teeth, or bristle-like teeth. Various sea area
-excerpt: |-
-  Material Tang Chimeraland materials
-          Tang
-          October 7, 2022 1:26 AM
-          
-            A marine fish with a oval body, flat. It has a thin and powerful
-            caudal peduncle. It has a small mouth with dense row of incisor-like
-            teeth, or bristle-like teeth. Various sea area
-permalink: /chimeraland/materials/tang.html
-photos:
-  - /chimeraland/materials/tang/tang.webp
-subtitle: |-
-  Material Tang Chimeraland materials
-          Tang
-          October 7, 2022 1:26 AM
-          
-            A marine fish with a oval body, flat. It has a thin and powerful
-            caudal peduncle. It has a small mouth with dense row of incisor-like
-            teeth, or bristle-like teeth. Various sea area
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/tang/tang.webp
-title: Material Tang Chimeraland
-type: post
-updated: 2022-10-07T01:26:37+07:00
-wordcount: 852
 ---
 
 <link

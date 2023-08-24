@@ -1,104 +1,23 @@
 ---
+title: Recipe Fruity Grilled Meat Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-08T18:56:03+07:00
-description: "Recipe Fruity Grilled Meat Chimeraland Fruity Grilled Meat Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Fruity Grilled Meat
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +80 DEF
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
-excerpt: "Recipe Fruity Grilled Meat Chimeraland Fruity Grilled Meat Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Fruity Grilled Meat
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +80 DEF
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
+updated: 2022-10-05T09:46:54+07:00
 lang: en
+date: 2022-01-08T18:56:03+07:00
 permalink: /chimeraland/recipes/fruity-grilled-meat.html
 photos:
   - /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat.webp
   - /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat-name.webp
   - /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat-icon.webp
   - /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat-material.webp
-subtitle: "Recipe Fruity Grilled Meat Chimeraland Fruity Grilled Meat Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Fruity Grilled Meat
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +80 DEF
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
+thumbnail: /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/fruity-grilled-meat/fruity-grilled-meat.webp
-title: Recipe Fruity Grilled Meat Chimeraland
-type: post
-updated: 2022-10-05T09:46:54+07:00
-wordcount: 759
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

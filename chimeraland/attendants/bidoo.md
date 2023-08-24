@@ -1,77 +1,9 @@
 ---
+title: Attendant bidoo
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-03-10T20:30:17+07:00
 date: 2023-03-10T20:19:17+07:00
-description: "Attendant bidoo bidoo Information from Chimeraland
-
-  \    bidoo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             \ 
-
-  \    "
-excerpt: "Attendant bidoo bidoo Information from Chimeraland
-
-  \    bidoo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             \ 
-
-  \    "
 permalink: /chimeraland/attendants/bidoo.html
 photos:
   - /chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-26-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -82,48 +14,14 @@ photos:
   - /chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-49-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-53-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-57-70_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant bidoo bidoo Information from Chimeraland
-
-  \    bidoo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             \ 
-
-  \    "
+thumbnail: /chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-26-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/bidoo/Screenshot_2023-02-25-13-34-26-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant bidoo
-type: post
-updated: 2023-03-10T20:30:17+07:00
-webtitle: chimeraland
-wordcount: 1130
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

@@ -1,82 +1,19 @@
 ---
+title: Material Chunk of Fat Chimeraland
+date: 2022-01-07T19:56:03+07:00
+updated: 2022-09-29T19:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/chunk-of-fat.html
+photos:
+  - /chimeraland/materials/chunk-of-fat/chunk-of-fat.webp
+thumbnail: /chimeraland/materials/chunk-of-fat/chunk-of-fat.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-07T19:56:03+07:00
-description: |+
-  Material Chunk of Fat Chimeraland materials
-          Chunk of Fat
-          September 29, 2022 7:26 PM
-          Continue reading Chunk of Fat
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Chunk of Fat
-              
-            
-          
-        
-        
-excerpt: |+
-  Material Chunk of Fat Chimeraland materials
-          Chunk of Fat
-          September 29, 2022 7:26 PM
-          Continue reading Chunk of Fat
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Chunk of Fat
-              
-            
-          
-        
-        
-permalink: /chimeraland/materials/chunk-of-fat.html
-photos:
-  - /chimeraland/materials/chunk-of-fat/chunk-of-fat.webp
-subtitle: |+
-  Material Chunk of Fat Chimeraland materials
-          Chunk of Fat
-          September 29, 2022 7:26 PM
-          Continue reading Chunk of Fat
-        
-        
-          
-        
-      
-      
-        
-          
-            
-              What is the use of the Chunk of Fat
-              
-            
-          
-        
-        
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/chunk-of-fat/chunk-of-fat.webp
-title: Material Chunk of Fat Chimeraland
-type: post
-updated: 2022-09-29T19:26:37+07:00
-wordcount: 7214
 ---
 
 <link

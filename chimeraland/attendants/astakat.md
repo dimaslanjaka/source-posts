@@ -1,73 +1,9 @@
 ---
+title: Attendant astakat
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-08-06T22:00:21+07:00
 date: 2023-08-06T21:49:21+07:00
-description: "Attendant astakat astakat Information from Chimeraland
-
-  \    astakat default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             "
-excerpt: "Attendant astakat astakat Information from Chimeraland
-
-  \    astakat default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             "
 permalink: /chimeraland/attendants/astakat.html
 photos:
   - /chimeraland/attendants/astakat/Screenshot_2023-07-01-15-27-42-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -79,46 +15,14 @@ photos:
   - /chimeraland/attendants/astakat/Screenshot_2023-07-01-15-28-14-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/astakat/Screenshot_2023-07-01-15-28-18-23_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/astakat/Screenshot_2023-07-01-15-28-22-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant astakat astakat Information from Chimeraland
-
-  \    astakat default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             "
+thumbnail: /chimeraland/attendants/astakat/Screenshot_2023-07-01-15-27-42-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/astakat/Screenshot_2023-07-01-15-27-42-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant astakat
-type: post
-updated: 2023-08-06T22:00:21+07:00
-webtitle: chimeraland
-wordcount: 1201
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

@@ -1,46 +1,19 @@
 ---
+title: Material Anise Chimeraland
+date: 2022-01-17T17:56:03+07:00
+updated: 2022-10-09T17:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/anise.html
+photos:
+  - /chimeraland/materials/anise/anise.webp
+thumbnail: /chimeraland/materials/anise/anise.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-17T17:56:03+07:00
-description: >-
-  Material Anise Chimeraland materials
-          Anise
-          October 9, 2022 5:26 PM
-          
-            A relatively common herb, often mistaken for a tree even though it is
-            not. With a thick stem, green leaves, and red flowers, it is found
-            everywhere on the prairie. Taken to boost
-excerpt: >-
-  Material Anise Chimeraland materials
-          Anise
-          October 9, 2022 5:26 PM
-          
-            A relatively common herb, often mistaken for a tree even though it is
-            not. With a thick stem, green leaves, and red flowers, it is found
-            everywhere on the prairie. Taken to boost
-permalink: /chimeraland/materials/anise.html
-photos:
-  - /chimeraland/materials/anise/anise.webp
-subtitle: >-
-  Material Anise Chimeraland materials
-          Anise
-          October 9, 2022 5:26 PM
-          
-            A relatively common herb, often mistaken for a tree even though it is
-            not. With a thick stem, green leaves, and red flowers, it is found
-            everywhere on the prairie. Taken to boost
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/anise/anise.webp
-title: Material Anise Chimeraland
-type: post
-updated: 2022-10-09T17:26:37+07:00
-wordcount: 1117
 ---
 
 <link

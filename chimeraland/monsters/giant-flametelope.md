@@ -1,41 +1,9 @@
 ---
+title: Monster giant flametelope
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-03-11T01:30:18+07:00
 date: 2023-03-11T02:19:18+07:00
-description: |
-  Monster giant flametelope giant flametelope Information from Chimeraland
-      giant flametelope default maximum attribute
-      
-        
-          
-            
-              
-                
-                  GRADE
-                  N/A N/A
-                
-                
-                  Attack
-                  N/A
-excerpt: |
-  Monster giant flametelope giant flametelope Information from Chimeraland
-      giant flametelope default maximum attribute
-      
-        
-          
-            
-              
-                
-                  GRADE
-                  N/A N/A
-                
-                
-                  Attack
-                  N/A
 permalink: /chimeraland/monsters/giant-flametelope.html
 photos:
   - /chimeraland/monsters/giant-flametelope/Screenshot_2023-02-26-11-36-20-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -45,31 +13,15 @@ photos:
   - /chimeraland/monsters/giant-flametelope/Screenshot_2023-02-26-11-36-36-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-flametelope/Screenshot_2023-02-26-11-36-41-89_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-flametelope/Screenshot_2023-02-26-11-36-46-80_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: |
-  Monster giant flametelope giant flametelope Information from Chimeraland
-      giant flametelope default maximum attribute
-      
-        
-          
-            
-              
-                
-                  GRADE
-                  N/A N/A
-                
-                
-                  Attack
-                  N/A
+thumbnail: /chimeraland/monsters/giant-flametelope/Screenshot_2023-02-26-11-36-20-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/giant-flametelope/Screenshot_2023-02-26-11-36-20-18_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster giant flametelope
-type: post
-updated: 2023-03-11T01:30:18+07:00
-webtitle: chimeraland
-wordcount: 1156
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

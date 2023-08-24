@@ -1,73 +1,9 @@
 ---
+title: Monster Fortuphant
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T03:43:12+07:00
 date: 2022-01-08T04:56:03+07:00
-description: "Monster Fortuphant Fortuphant Information from Chimeraland
-
-  \    Fortuphant default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                50
-
-  \             \ 
-
-  \        "
-excerpt: "Monster Fortuphant Fortuphant Information from Chimeraland
-
-  \    Fortuphant default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                50
-
-  \             \ 
-
-  \        "
 permalink: /chimeraland/monsters/fortuphant.html
 photos:
   - null
@@ -78,47 +14,15 @@ photos:
   - /chimeraland/monsters/fortuphant/Screenshot_2023-02-16-03-00-19-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/fortuphant/Screenshot_2023-02-16-03-00-24-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/fortuphant/Screenshot_2023-02-16-03-00-29-45_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster Fortuphant Fortuphant Information from Chimeraland
-
-  \    Fortuphant default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                50
-
-  \             \ 
-
-  \        "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fortuphant
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fortuphant
-title: Monster Fortuphant
-type: post
-updated: 2023-05-25T03:43:12+07:00
-webtitle: chimeraland
-wordcount: 1130
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

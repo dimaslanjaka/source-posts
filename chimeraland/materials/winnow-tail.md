@@ -1,97 +1,19 @@
 ---
+title: Material Winnow Tail Chimeraland
+date: 2022-01-10T19:56:03+07:00
+updated: 2022-10-02T19:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/winnow-tail.html
+photos:
+  - /chimeraland/materials/winnow-tail/winnow-tail.webp
+thumbnail: /chimeraland/materials/winnow-tail/winnow-tail.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-10T19:56:03+07:00
-description: "Material Winnow Tail Chimeraland materials
-
-  \        Winnow Tail
-
-  \        October 2, 2022 7:26 PM
-
-  \       \ 
-
-  \          It's agile and powerful. It can crush wood and stones and can
-
-  \          even control water to form pearls.
-
-  \       \ 
-
-  \        Continue reading Winnow Tail
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   "
-excerpt: "Material Winnow Tail Chimeraland materials
-
-  \        Winnow Tail
-
-  \        October 2, 2022 7:26 PM
-
-  \       \ 
-
-  \          It's agile and powerful. It can crush wood and stones and can
-
-  \          even control water to form pearls.
-
-  \       \ 
-
-  \        Continue reading Winnow Tail
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   "
-permalink: /chimeraland/materials/winnow-tail.html
-photos:
-  - /chimeraland/materials/winnow-tail/winnow-tail.webp
-subtitle: "Material Winnow Tail Chimeraland materials
-
-  \        Winnow Tail
-
-  \        October 2, 2022 7:26 PM
-
-  \       \ 
-
-  \          It's agile and powerful. It can crush wood and stones and can
-
-  \          even control water to form pearls.
-
-  \       \ 
-
-  \        Continue reading Winnow Tail
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/winnow-tail/winnow-tail.webp
-title: Material Winnow Tail Chimeraland
-type: post
-updated: 2022-10-02T19:26:37+07:00
-wordcount: 1007
 ---
 
 <link

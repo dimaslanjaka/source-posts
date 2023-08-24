@@ -1,115 +1,19 @@
 ---
+title: Material Waterproof Mushroom Chimeraland
+date: 2022-01-17T20:56:03+07:00
+updated: 2022-10-09T20:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/waterproof-mushroom.html
+photos:
+  - /chimeraland/materials/waterproof-mushroom/waterproof-mushroom.webp
+thumbnail: /chimeraland/materials/waterproof-mushroom/waterproof-mushroom.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-17T20:56:03+07:00
-description: "Material Waterproof Mushroom Chimeraland materials
-
-  \        Waterproof Mushroom
-
-  \        October 9, 2022 8:26 PM
-
-  \        Continue reading Waterproof Mushroom
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \              What is the use of the Waterproof Mushroom
-
-  \       "
-excerpt: "Material Waterproof Mushroom Chimeraland materials
-
-  \        Waterproof Mushroom
-
-  \        October 9, 2022 8:26 PM
-
-  \        Continue reading Waterproof Mushroom
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \              What is the use of the Waterproof Mushroom
-
-  \       "
-permalink: /chimeraland/materials/waterproof-mushroom.html
-photos:
-  - /chimeraland/materials/waterproof-mushroom/waterproof-mushroom.webp
-subtitle: "Material Waterproof Mushroom Chimeraland materials
-
-  \        Waterproof Mushroom
-
-  \        October 9, 2022 8:26 PM
-
-  \        Continue reading Waterproof Mushroom
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \              What is the use of the Waterproof Mushroom
-
-  \       "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/waterproof-mushroom/waterproof-mushroom.webp
-title: Material Waterproof Mushroom Chimeraland
-type: post
-updated: 2022-10-09T20:26:37+07:00
-wordcount: 942
 ---
 
 <link

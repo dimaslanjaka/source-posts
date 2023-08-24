@@ -1,73 +1,9 @@
 ---
+title: Monster jindipelta
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-02-25T19:55:43+07:00
 date: 2023-02-25T19:44:43+07:00
-description: "Monster jindipelta jindipelta Information from Chimeraland
-
-  \    jindipelta default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \      "
-excerpt: "Monster jindipelta jindipelta Information from Chimeraland
-
-  \    jindipelta default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \      "
 permalink: /chimeraland/monsters/jindipelta.html
 photos:
   - /chimeraland/monsters/jindipelta/Screenshot_2023-02-24-00-24-37-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -77,47 +13,15 @@ photos:
   - /chimeraland/monsters/jindipelta/Screenshot_2023-02-24-00-24-53-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/jindipelta/Screenshot_2023-02-24-00-24-58-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/jindipelta/Screenshot_2023-02-24-00-25-02-83_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster jindipelta jindipelta Information from Chimeraland
-
-  \    jindipelta default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \      "
+thumbnail: /chimeraland/monsters/jindipelta/Screenshot_2023-02-24-00-24-37-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/jindipelta/Screenshot_2023-02-24-00-24-37-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster jindipelta
-type: post
-updated: 2023-02-25T19:55:43+07:00
-webtitle: chimeraland
-wordcount: 1059
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

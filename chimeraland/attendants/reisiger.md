@@ -1,77 +1,9 @@
 ---
+title: Attendant Reisiger
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2022-09-29T13:26:37+07:00
 date: 2022-01-07T07:56:03+07:00
-description: "Attendant Reisiger Reisiger Information from Chimeraland
-
-  \    Reisiger default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \     "
-excerpt: "Attendant Reisiger Reisiger Information from Chimeraland
-
-  \    Reisiger default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \     "
 permalink: /chimeraland/attendants/reisiger.html
 photos:
   - /chimeraland/attendants/reisiger/Screenshot_2022-07-17-13-52-06-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -80,48 +12,14 @@ photos:
   - /chimeraland/attendants/reisiger/Screenshot_2022-07-17-13-52-20-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/reisiger/Screenshot_2022-07-17-13-52-25-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/reisiger/Screenshot_2022-07-17-13-52-31-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant Reisiger Reisiger Information from Chimeraland
-
-  \    Reisiger default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \     "
+thumbnail: /chimeraland/attendants/reisiger/Screenshot_2022-07-17-13-52-06-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/reisiger/Screenshot_2022-07-17-13-52-06-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant Reisiger
-type: post
-updated: 2022-09-29T13:26:37+07:00
-webtitle: chimeraland
-wordcount: 976
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

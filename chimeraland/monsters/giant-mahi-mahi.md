@@ -1,70 +1,9 @@
 ---
+title: Monster giant mahi-mahi
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-08-06T22:01:21+07:00
 date: 2023-08-06T21:50:21+07:00
-description: "Monster giant mahi-mahi giant mahi-mahi Information from
-  Chimeraland
-
-  \    giant mahi-mahi default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \      "
-excerpt: "Monster giant mahi-mahi giant mahi-mahi Information from Chimeraland
-
-  \    giant mahi-mahi default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \      "
 permalink: /chimeraland/monsters/giant-mahi-mahi.html
 photos:
   - /chimeraland/monsters/giant-mahi-mahi/Screenshot 2023-06-15 093520.webp
@@ -75,45 +14,15 @@ photos:
   - /chimeraland/monsters/giant-mahi-mahi/Screenshot 2023-06-15 093703.webp
   - /chimeraland/monsters/giant-mahi-mahi/Screenshot 2023-06-15 093721.webp
   - /chimeraland/monsters/giant-mahi-mahi/Screenshot 2023-06-15 093742.webp
-subtitle: "Monster giant mahi-mahi giant mahi-mahi Information from Chimeraland
-
-  \    giant mahi-mahi default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \      "
+thumbnail: /chimeraland/monsters/giant-mahi-mahi/Screenshot 2023-06-15 093520.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/giant-mahi-mahi/Screenshot 2023-06-15 093520.webp
-title: Monster giant mahi-mahi
-type: post
-updated: 2023-08-06T22:01:21+07:00
-webtitle: chimeraland
-wordcount: 1381
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

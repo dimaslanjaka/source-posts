@@ -1,71 +1,9 @@
 ---
+title: Monster young macrophaorous bloom
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-03-11T17:30:18+07:00
 date: 2023-03-11T18:19:18+07:00
-description: "Monster young macrophaorous bloom young macrophaorous bloom
-  Information from Chimeraland
-
-  \   \ 
-
-  \      young macrophaorous bloom default maximum attribute
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \       "
-excerpt: "Monster young macrophaorous bloom young macrophaorous bloom
-  Information from Chimeraland
-
-  \   \ 
-
-  \      young macrophaorous bloom default maximum attribute
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \       "
 permalink: /chimeraland/monsters/young-macrophaorous-bloom.html
 photos:
   - /chimeraland/monsters/young-macrophaorous-bloom/Screenshot_2023-02-24-22-42-58-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -75,46 +13,15 @@ photos:
   - /chimeraland/monsters/young-macrophaorous-bloom/Screenshot_2023-02-24-22-43-15-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/young-macrophaorous-bloom/Screenshot_2023-02-24-22-43-19-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/young-macrophaorous-bloom/Screenshot_2023-02-24-22-43-24-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster young macrophaorous bloom young macrophaorous bloom
-  Information from Chimeraland
-
-  \   \ 
-
-  \      young macrophaorous bloom default maximum attribute
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \       "
+thumbnail: /chimeraland/monsters/young-macrophaorous-bloom/Screenshot_2023-02-24-22-42-58-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/young-macrophaorous-bloom/Screenshot_2023-02-24-22-42-58-12_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster young macrophaorous bloom
-type: post
-updated: 2023-03-11T17:30:18+07:00
-webtitle: chimeraland
-wordcount: 1263
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

@@ -1,77 +1,9 @@
 ---
+title: Attendant Ocygatha
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2022-09-29T21:26:37+07:00
 date: 2022-01-07T16:56:03+07:00
-description: "Attendant Ocygatha Ocygatha Information from Chimeraland
-
-  \    Ocygatha default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \     "
-excerpt: "Attendant Ocygatha Ocygatha Information from Chimeraland
-
-  \    Ocygatha default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \     "
 permalink: /chimeraland/attendants/ocygatha.html
 photos:
   - /chimeraland/attendants/ocygatha/Screenshot_2023-05-25-23-06-22-79_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -83,48 +15,14 @@ photos:
   - /chimeraland/attendants/ocygatha/Screenshot_2023-05-25-23-06-56-84_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/ocygatha/Screenshot_2023-05-25-23-07-00-96_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/ocygatha/Screenshot_2023-05-25-23-07-05-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant Ocygatha Ocygatha Information from Chimeraland
-
-  \    Ocygatha default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \     "
+thumbnail: /chimeraland/attendants/ocygatha/Screenshot_2023-05-25-23-06-22-79_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/ocygatha/Screenshot_2023-05-25-23-06-22-79_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant Ocygatha
-type: post
-updated: 2022-09-29T21:26:37+07:00
-webtitle: chimeraland
-wordcount: 1189
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

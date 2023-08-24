@@ -1,100 +1,19 @@
 ---
+title: Material Scorpion King Stinger Chimeraland
+date: 2022-01-10T08:56:03+07:00
+updated: 2022-10-02T08:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/scorpion-king-stinger.html
+photos:
+  - /chimeraland/materials/scorpion-king-stinger/scorpion-king-stinger.webp
+thumbnail: /chimeraland/materials/scorpion-king-stinger/scorpion-king-stinger.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-10T08:56:03+07:00
-description: "Material Scorpion King Stinger Chimeraland materials
-
-  \        Scorpion King Stinger
-
-  \        October 2, 2022 8:26 AM
-
-  \       \ 
-
-  \          Rigidm indestrucible, and filled with venom that is difficult to
-  cure.
-
-  \       \ 
-
-  \        Continue reading Scorpion King Stinger
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \    "
-excerpt: "Material Scorpion King Stinger Chimeraland materials
-
-  \        Scorpion King Stinger
-
-  \        October 2, 2022 8:26 AM
-
-  \       \ 
-
-  \          Rigidm indestrucible, and filled with venom that is difficult to
-  cure.
-
-  \       \ 
-
-  \        Continue reading Scorpion King Stinger
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \    "
-permalink: /chimeraland/materials/scorpion-king-stinger.html
-photos:
-  - /chimeraland/materials/scorpion-king-stinger/scorpion-king-stinger.webp
-subtitle: "Material Scorpion King Stinger Chimeraland materials
-
-  \        Scorpion King Stinger
-
-  \        October 2, 2022 8:26 AM
-
-  \       \ 
-
-  \          Rigidm indestrucible, and filled with venom that is difficult to
-  cure.
-
-  \       \ 
-
-  \        Continue reading Scorpion King Stinger
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \    "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/scorpion-king-stinger/scorpion-king-stinger.webp
-title: Material Scorpion King Stinger Chimeraland
-type: post
-updated: 2022-10-02T08:26:37+07:00
-wordcount: 1152
 ---
 
 <link

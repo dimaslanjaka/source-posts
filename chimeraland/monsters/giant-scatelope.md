@@ -1,70 +1,9 @@
 ---
+title: Monster giant scatelope
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-08-06T22:01:21+07:00
 date: 2023-08-06T21:50:21+07:00
-description: "Monster giant scatelope giant scatelope Information from
-  Chimeraland
-
-  \    giant scatelope default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \      "
-excerpt: "Monster giant scatelope giant scatelope Information from Chimeraland
-
-  \    giant scatelope default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \      "
 permalink: /chimeraland/monsters/giant-scatelope.html
 photos:
   - /chimeraland/monsters/giant-scatelope/Screenshot 2023-06-15 093119.webp
@@ -74,45 +13,15 @@ photos:
   - /chimeraland/monsters/giant-scatelope/Screenshot 2023-06-15 093253.webp
   - /chimeraland/monsters/giant-scatelope/Screenshot 2023-06-15 093309.webp
   - /chimeraland/monsters/giant-scatelope/Screenshot 2023-06-15 093338.webp
-subtitle: "Monster giant scatelope giant scatelope Information from Chimeraland
-
-  \    giant scatelope default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \      "
+thumbnail: /chimeraland/monsters/giant-scatelope/Screenshot 2023-06-15 093119.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/giant-scatelope/Screenshot 2023-06-15 093119.webp
-title: Monster giant scatelope
-type: post
-updated: 2023-08-06T22:01:21+07:00
-webtitle: chimeraland
-wordcount: 1282
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

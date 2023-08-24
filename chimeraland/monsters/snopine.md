@@ -1,123 +1,21 @@
 ---
+title: Monster Snopine
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T03:35:12+07:00
 date: 2022-01-10T04:56:03+07:00
-description: "Monster Snopine Snopine Information from Chimeraland
-
-  \    Snopine default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                58
-
-  \             \ 
-
-  \             \ 
-
-  \  "
-excerpt: "Monster Snopine Snopine Information from Chimeraland
-
-  \    Snopine default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                58
-
-  \             \ 
-
-  \             \ 
-
-  \  "
 permalink: /chimeraland/monsters/snopine.html
 photos:
   - null
-subtitle: "Monster Snopine Snopine Information from Chimeraland
-
-  \    Snopine default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                58
-
-  \             \ 
-
-  \             \ 
-
-  \  "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Snopine
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Snopine
-title: Monster Snopine
-type: post
-updated: 2023-05-25T03:35:12+07:00
-webtitle: chimeraland
-wordcount: 633
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

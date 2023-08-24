@@ -1,70 +1,9 @@
 ---
+title: Attendant rosary wisteria
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2022-11-26T06:35:17+07:00
 date: 2022-11-26T06:24:17+07:00
-description: "Attendant rosary wisteria rosary wisteria Information from
-  Chimeraland
-
-  \    rosary wisteria default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \    "
-excerpt: "Attendant rosary wisteria rosary wisteria Information from Chimeraland
-
-  \    rosary wisteria default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \    "
 permalink: /chimeraland/attendants/rosary-wisteria.html
 photos:
   - /chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-29-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -74,45 +13,14 @@ photos:
   - /chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-43-86_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-46-98_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-49-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant rosary wisteria rosary wisteria Information from
-  Chimeraland
-
-  \    rosary wisteria default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \    "
+thumbnail: /chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-29-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/rosary-wisteria/Screenshot_2022-11-15-23-44-29-49_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant rosary wisteria
-type: post
-updated: 2022-11-26T06:35:17+07:00
-webtitle: chimeraland
-wordcount: 1156
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

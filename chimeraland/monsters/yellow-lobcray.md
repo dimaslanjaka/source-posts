@@ -1,111 +1,21 @@
 ---
+title: Monster Yellow Lobcray
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T15:05:12+07:00
 date: 2022-01-11T07:56:03+07:00
-description: "Monster Yellow Lobcray Yellow Lobcray Information from Chimeraland
-
-  \    Yellow Lobcray default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                61
-
-  \   "
-excerpt: "Monster Yellow Lobcray Yellow Lobcray Information from Chimeraland
-
-  \    Yellow Lobcray default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                61
-
-  \   "
 permalink: /chimeraland/monsters/yellow-lobcray.html
 photos:
   - null
-subtitle: "Monster Yellow Lobcray Yellow Lobcray Information from Chimeraland
-
-  \    Yellow Lobcray default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                61
-
-  \   "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Yellow Lobcray
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Yellow Lobcray
-title: Monster Yellow Lobcray
-type: post
-updated: 2023-05-25T15:05:12+07:00
-webtitle: chimeraland
-wordcount: 696
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

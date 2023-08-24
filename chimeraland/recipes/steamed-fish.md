@@ -1,83 +1,23 @@
 ---
+title: Recipe Steamed Fish Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-12T07:56:03+07:00
-description: "Recipe Steamed Fish Chimeraland Steamed Fish Cooking Recipe
-
-  \             \ 
-
-  \              Buff Steamed Fish
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                 \ 
-
-  \                    Protect from drowning even when your&nbsp; breath is
-
-  \                    zero
-
-  \             "
-excerpt: "Recipe Steamed Fish Chimeraland Steamed Fish Cooking Recipe
-
-  \             \ 
-
-  \              Buff Steamed Fish
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                 \ 
-
-  \                    Protect from drowning even when your&nbsp; breath is
-
-  \                    zero
-
-  \             "
+updated: 2022-10-07T01:46:55+07:00
 lang: en
+date: 2022-01-12T07:56:03+07:00
 permalink: /chimeraland/recipes/steamed-fish.html
 photos:
   - /chimeraland/recipes/steamed-fish/steamed-fish.webp
   - /chimeraland/recipes/steamed-fish/steamed-fish-name.webp
   - /chimeraland/recipes/steamed-fish/steamed-fish-icon.webp
   - /chimeraland/recipes/steamed-fish/steamed-fish-material.webp
-subtitle: "Recipe Steamed Fish Chimeraland Steamed Fish Cooking Recipe
-
-  \             \ 
-
-  \              Buff Steamed Fish
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                 \ 
-
-  \                    Protect from drowning even when your&nbsp; breath is
-
-  \                    zero
-
-  \             "
+thumbnail: /chimeraland/recipes/steamed-fish/steamed-fish.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/steamed-fish/steamed-fish.webp
-title: Recipe Steamed Fish Chimeraland
-type: post
-updated: 2022-10-07T01:46:55+07:00
-wordcount: 906
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

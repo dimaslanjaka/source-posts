@@ -1,101 +1,23 @@
 ---
+title: Recipe Apple Slushie Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-07T14:56:03+07:00
-description: "Recipe Apple Slushie Chimeraland Apple Slushie Cooking Recipe
-
-  \             \ 
-
-  \              Buff Apple Slushie
-
-  \             \ 
-
-  \               \ 
-
-  \                  180 Fullness
-
-  \                  Heat Resistance +10
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \          "
-excerpt: "Recipe Apple Slushie Chimeraland Apple Slushie Cooking Recipe
-
-  \             \ 
-
-  \              Buff Apple Slushie
-
-  \             \ 
-
-  \               \ 
-
-  \                  180 Fullness
-
-  \                  Heat Resistance +10
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \          "
+updated: 2022-10-05T16:46:53+07:00
 lang: en
+date: 2022-01-07T14:56:03+07:00
 permalink: /chimeraland/recipes/apple-slushie.html
 photos:
   - /chimeraland/recipes/apple-slushie/apple-slushie.webp
   - /chimeraland/recipes/apple-slushie/apple-slushie-name.webp
   - /chimeraland/recipes/apple-slushie/apple-slushie-icon.webp
   - /chimeraland/recipes/apple-slushie/apple-slushie-material.webp
-subtitle: "Recipe Apple Slushie Chimeraland Apple Slushie Cooking Recipe
-
-  \             \ 
-
-  \              Buff Apple Slushie
-
-  \             \ 
-
-  \               \ 
-
-  \                  180 Fullness
-
-  \                  Heat Resistance +10
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \          "
+thumbnail: /chimeraland/recipes/apple-slushie/apple-slushie.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/apple-slushie/apple-slushie.webp
-title: Recipe Apple Slushie Chimeraland
-type: post
-updated: 2022-10-05T16:46:53+07:00
-wordcount: 624
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

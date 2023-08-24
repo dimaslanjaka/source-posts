@@ -1,121 +1,19 @@
 ---
+title: Material Fine Jade Liquid Chimeraland
+date: 2022-01-10T15:56:03+07:00
+updated: 2022-10-02T15:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/fine-jade-liquid.html
+photos:
+  - /chimeraland/materials/fine-jade-liquid/fine-jade-liquid.webp
+thumbnail: /chimeraland/materials/fine-jade-liquid/fine-jade-liquid.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-10T15:56:03+07:00
-description: "Material Fine Jade Liquid Chimeraland materials
-
-  \        Fine Jade Liquid
-
-  \        October 2, 2022 3:26 PM
-
-  \        Continue reading Fine Jade Liquid
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Fine Jade Liquid
-
-  \           \ 
-
-  \             \ 
-
-  \      "
-excerpt: "Material Fine Jade Liquid Chimeraland materials
-
-  \        Fine Jade Liquid
-
-  \        October 2, 2022 3:26 PM
-
-  \        Continue reading Fine Jade Liquid
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Fine Jade Liquid
-
-  \           \ 
-
-  \             \ 
-
-  \      "
-permalink: /chimeraland/materials/fine-jade-liquid.html
-photos:
-  - /chimeraland/materials/fine-jade-liquid/fine-jade-liquid.webp
-subtitle: "Material Fine Jade Liquid Chimeraland materials
-
-  \        Fine Jade Liquid
-
-  \        October 2, 2022 3:26 PM
-
-  \        Continue reading Fine Jade Liquid
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Fine Jade Liquid
-
-  \           \ 
-
-  \             \ 
-
-  \      "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/fine-jade-liquid/fine-jade-liquid.webp
-title: Material Fine Jade Liquid Chimeraland
-type: post
-updated: 2022-10-02T15:26:37+07:00
-wordcount: 1693
 ---
 
 <link

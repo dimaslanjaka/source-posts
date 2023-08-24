@@ -1,19 +1,9 @@
 ---
+title: Monster Yungang Dragon
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2022-10-03T06:18:27+07:00
 date: 2022-01-11T05:56:03+07:00
-description: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
-  Attributes Conversion Rate 4.0%,Ranged Dmg +4.8% delicacies/tasty Brined
-  Silkhopper Meat,Hot 'n Sour Jelly,Overlord Hide Jelly
-  games,chimeraland,monsters chimeraland,monster,pet
-excerpt: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
-  Attributes Conversion Rate 4.0%,Ranged Dmg +4.8% delicacies/tasty Brined
-  Silkhopper Meat,Hot 'n Sour Jelly,Overlord Hide Jelly
-  games,chimeraland,monsters chimeraland,monster,pet
 permalink: /chimeraland/monsters/yungang-dragon.html
 photos:
   - /chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -23,20 +13,19 @@ photos:
   - /chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-16-40_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-20-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-29-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
-  Attributes Conversion Rate 4.0%,Ranged Dmg +4.8% delicacies/tasty Brined
-  Silkhopper Meat,Hot 'n Sour Jelly,Overlord Hide Jelly
-  games,chimeraland,monsters chimeraland,monster,pet
+thumbnail: /chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/yungang-dragon/Screenshot_2022-07-29-00-22-00-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster Yungang Dragon
-type: post
-updated: 2022-10-03T06:18:27+07:00
-webtitle: chimeraland
-wordcount: 1578
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: monster Yungang Dragon default quality GRADE B ATK 50 HP 54 DEF 66
+  Attributes Conversion Rate 4.0%,Ranged Dmg +4.8% delicacies/tasty Brined
+  Silkhopper Meat,Hot 'n Sour Jelly,Overlord Hide Jelly
+  games,chimeraland,monsters chimeraland,monster,pet
 ---
 
 <link

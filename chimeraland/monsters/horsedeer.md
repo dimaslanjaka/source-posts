@@ -1,73 +1,9 @@
 ---
+title: Monster Horsedeer
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T03:15:12+07:00
 date: 2022-01-08T06:56:03+07:00
-description: "Monster Horsedeer Horsedeer Information from Chimeraland
-
-  \    Horsedeer default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                45
-
-  \             \ 
-
-  \           "
-excerpt: "Monster Horsedeer Horsedeer Information from Chimeraland
-
-  \    Horsedeer default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                45
-
-  \             \ 
-
-  \           "
 permalink: /chimeraland/monsters/horsedeer.html
 photos:
   - null
@@ -78,47 +14,15 @@ photos:
   - /chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-34-43_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horsedeer/Screenshot_2022-07-15-17-10-40-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horsedeer/Screenshot_2023-03-06-13-30-57-53_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster Horsedeer Horsedeer Information from Chimeraland
-
-  \    Horsedeer default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                45
-
-  \             \ 
-
-  \           "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Horsedeer
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Horsedeer
-title: Monster Horsedeer
-type: post
-updated: 2023-05-25T03:15:12+07:00
-webtitle: chimeraland
-wordcount: 1130
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

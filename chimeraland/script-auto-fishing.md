@@ -1,20 +1,9 @@
 ---
-categories:
-  - games
-  - chimeraland
-comments: true
-date: 2022-12-12
-description: "Script auto fishing Chimeraland "
-excerpt: "Script auto fishing Chimeraland "
-subtitle: "Script auto fishing Chimeraland "
-tags:
-  - chimeraland
-  - fishing
-  - script
 title: Script auto fishing Chimeraland
-type: post
+date: 2022-12-12
 updated: 2023-03-05T06:29:01+07:00
-wordcount: 255
+tags: ['chimeraland', 'fishing', 'script']
+categories: ['games', 'chimeraland']
 ---
 
 <!-- source https://codepen.io/dimaslanjaka/pen/JjZqyRZ -->

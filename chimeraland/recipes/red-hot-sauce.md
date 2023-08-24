@@ -1,65 +1,23 @@
 ---
+title: Recipe Red Hot Sauce Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-11T09:56:03+07:00
-description: |-
-  Recipe Red Hot Sauce Chimeraland Red Hot Sauce Cooking Recipe
-                
-                Buff Red Hot Sauce
-                
-                  
-                    300 Fullness
-                  
-                
-                recipe
-              
-              
-                webmanajemen.com - recipe Red Hot 
-excerpt: |-
-  Recipe Red Hot Sauce Chimeraland Red Hot Sauce Cooking Recipe
-                
-                Buff Red Hot Sauce
-                
-                  
-                    300 Fullness
-                  
-                
-                recipe
-              
-              
-                webmanajemen.com - recipe Red Hot 
+updated: 2022-09-29T11:26:37+07:00
 lang: en
+date: 2022-01-11T09:56:03+07:00
 permalink: /chimeraland/recipes/red-hot-sauce.html
 photos:
   - /chimeraland/recipes/red-hot-sauce/red-hot-sauce.webp
   - /chimeraland/recipes/red-hot-sauce/red-hot-sauce-name.webp
   - /chimeraland/recipes/red-hot-sauce/red-hot-sauce-icon.webp
   - /chimeraland/recipes/red-hot-sauce/red-hot-sauce-material.webp
-subtitle: |-
-  Recipe Red Hot Sauce Chimeraland Red Hot Sauce Cooking Recipe
-                
-                Buff Red Hot Sauce
-                
-                  
-                    300 Fullness
-                  
-                
-                recipe
-              
-              
-                webmanajemen.com - recipe Red Hot 
+thumbnail: /chimeraland/recipes/red-hot-sauce/red-hot-sauce.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/red-hot-sauce/red-hot-sauce.webp
-title: Recipe Red Hot Sauce Chimeraland
-type: post
-updated: 2022-09-29T11:26:37+07:00
-wordcount: 680
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

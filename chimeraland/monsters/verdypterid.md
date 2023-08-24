@@ -1,19 +1,9 @@
 ---
+title: Monster Verdypterid
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T15:22:12+07:00
 date: 2022-01-11T01:56:03+07:00
-description: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
-  Attributes Conversion Rate 4.0%,Defense 44,Essence Aspect: Drought Armor
-  delicacies/tasty Aromatic Litiger Ball,Sparrow Beak,Bear Ball Pot
-  games,chimeraland,monsters chimeraland,monster,pet"
-excerpt: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
-  Attributes Conversion Rate 4.0%,Defense 44,Essence Aspect: Drought Armor
-  delicacies/tasty Aromatic Litiger Ball,Sparrow Beak,Bear Ball Pot
-  games,chimeraland,monsters chimeraland,monster,pet"
 permalink: /chimeraland/monsters/verdypterid.html
 photos:
   - null
@@ -24,20 +14,19 @@ photos:
   - /chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-35-14-50_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-35-22-05_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/verdypterid/Screenshot_2022-08-12-23-35-29-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
-  Attributes Conversion Rate 4.0%,Defense 44,Essence Aspect: Drought Armor
-  delicacies/tasty Aromatic Litiger Ball,Sparrow Beak,Bear Ball Pot
-  games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Verdypterid
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Verdypterid
-title: Monster Verdypterid
-type: post
-updated: 2023-05-25T15:22:12+07:00
-webtitle: chimeraland
-wordcount: 1504
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: "monster Verdypterid default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0%,Defense 44,Essence Aspect: Drought Armor
+  delicacies/tasty Aromatic Litiger Ball,Sparrow Beak,Bear Ball Pot
+  games,chimeraland,monsters chimeraland,monster,pet"
 ---
 
 <link

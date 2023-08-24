@@ -1,70 +1,9 @@
 ---
+title: Attendant shaman aquatine
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2022-11-26T07:35:17+07:00
 date: 2022-11-26T07:24:17+07:00
-description: "Attendant shaman aquatine shaman aquatine Information from
-  Chimeraland
-
-  \    shaman aquatine default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \    "
-excerpt: "Attendant shaman aquatine shaman aquatine Information from Chimeraland
-
-  \    shaman aquatine default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \    "
 permalink: /chimeraland/attendants/shaman-aquatine.html
 photos:
   - /chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-09-47-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -74,45 +13,14 @@ photos:
   - /chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-10-31-69_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-10-37-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-10-41-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant shaman aquatine shaman aquatine Information from
-  Chimeraland
-
-  \    shaman aquatine default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \    "
+thumbnail: /chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-09-47-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/shaman-aquatine/Screenshot_2022-11-11-13-09-47-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant shaman aquatine
-type: post
-updated: 2022-11-26T07:35:17+07:00
-webtitle: chimeraland
-wordcount: 1156
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

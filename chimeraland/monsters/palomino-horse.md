@@ -1,17 +1,9 @@
 ---
+title: Monster Palomino Horse
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2022-11-01T14:09:43+07:00
 date: 2022-01-09T13:56:03+07:00
-description: monster Palomino Horse default quality Need admin to write (auto
-  build)  delicacies/tasty Braised Lobcray Meat,Tasty Wing Tip,Steamed Sweet &
-  Sour Icebug games,chimeraland,monsters chimeraland,monster,pet
-excerpt: monster Palomino Horse default quality Need admin to write (auto
-  build)  delicacies/tasty Braised Lobcray Meat,Tasty Wing Tip,Steamed Sweet &
-  Sour Icebug games,chimeraland,monsters chimeraland,monster,pet
 permalink: /chimeraland/monsters/palomino-horse.html
 photos:
   - /chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-32-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -20,19 +12,18 @@ photos:
   - /chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-47-03_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-52-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-57-68_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: monster Palomino Horse default quality Need admin to write (auto
-  build)  delicacies/tasty Braised Lobcray Meat,Tasty Wing Tip,Steamed Sweet &
-  Sour Icebug games,chimeraland,monsters chimeraland,monster,pet
+thumbnail: /chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-32-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/palomino-horse/Screenshot_2022-07-15-11-57-32-37_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster Palomino Horse
-type: post
-updated: 2022-11-01T14:09:43+07:00
-webtitle: chimeraland
-wordcount: 1483
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: monster Palomino Horse default quality Need admin to write (auto
+  build)  delicacies/tasty Braised Lobcray Meat,Tasty Wing Tip,Steamed Sweet &
+  Sour Icebug games,chimeraland,monsters chimeraland,monster,pet
 ---
 
 <link

@@ -1,77 +1,9 @@
 ---
+title: Attendant rhida
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-03-11T04:30:17+07:00
 date: 2023-03-11T04:19:17+07:00
-description: "Attendant rhida rhida Information from Chimeraland
-
-  \    rhida default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             \ 
-
-  \    "
-excerpt: "Attendant rhida rhida Information from Chimeraland
-
-  \    rhida default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             \ 
-
-  \    "
 permalink: /chimeraland/attendants/rhida.html
 photos:
   - /chimeraland/attendants/rhida/Screenshot_2023-02-25-13-33-38-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -82,48 +14,14 @@ photos:
   - /chimeraland/attendants/rhida/Screenshot_2023-02-25-13-34-01-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rhida/Screenshot_2023-02-25-13-34-06-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rhida/Screenshot_2023-02-25-13-34-11-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant rhida rhida Information from Chimeraland
-
-  \    rhida default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \             \ 
-
-  \    "
+thumbnail: /chimeraland/attendants/rhida/Screenshot_2023-02-25-13-33-38-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/rhida/Screenshot_2023-02-25-13-33-38-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant rhida
-type: post
-updated: 2023-03-11T04:30:17+07:00
-webtitle: chimeraland
-wordcount: 1130
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

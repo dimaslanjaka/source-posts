@@ -1,65 +1,23 @@
 ---
+title: Recipe Grilled Venison Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-10T05:56:03+07:00
-description: |-
-  Recipe Grilled Venison Chimeraland Grilled Venison Cooking Recipe
-                
-                Buff Grilled Venison
-                
-                  
-                    240 Fullness
-                  
-                
-                recipe
-              
-              
-                webmanajemen.com - recipe Gr
-excerpt: |-
-  Recipe Grilled Venison Chimeraland Grilled Venison Cooking Recipe
-                
-                Buff Grilled Venison
-                
-                  
-                    240 Fullness
-                  
-                
-                recipe
-              
-              
-                webmanajemen.com - recipe Gr
+updated: 2022-10-06T14:46:54+07:00
 lang: en
+date: 2022-01-10T05:56:03+07:00
 permalink: /chimeraland/recipes/grilled-venison.html
 photos:
   - /chimeraland/recipes/grilled-venison/grilled-venison.webp
   - /chimeraland/recipes/grilled-venison/grilled-venison-name.webp
   - /chimeraland/recipes/grilled-venison/grilled-venison-icon.webp
   - /chimeraland/recipes/grilled-venison/grilled-venison-material.webp
-subtitle: |-
-  Recipe Grilled Venison Chimeraland Grilled Venison Cooking Recipe
-                
-                Buff Grilled Venison
-                
-                  
-                    240 Fullness
-                  
-                
-                recipe
-              
-              
-                webmanajemen.com - recipe Gr
+thumbnail: /chimeraland/recipes/grilled-venison/grilled-venison.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/grilled-venison/grilled-venison.webp
-title: Recipe Grilled Venison Chimeraland
-type: post
-updated: 2022-10-06T14:46:54+07:00
-wordcount: 601
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

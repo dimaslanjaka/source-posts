@@ -1,127 +1,19 @@
 ---
+title: Material Flatsnout Meat Chimeraland
+date: 2022-01-07T21:56:03+07:00
+updated: 2022-09-29T21:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/flatsnout-meat.html
+photos:
+  - /chimeraland/materials/flatsnout-meat/flatsnout-meat.webp
+thumbnail: /chimeraland/materials/flatsnout-meat/flatsnout-meat.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-07T21:56:03+07:00
-description: "Material Flatsnout Meat Chimeraland materials
-
-  \        Flatsnout Meat
-
-  \        September 29, 2022 9:26 PM
-
-  \        Continue reading Flatsnout Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Flatsnout Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \      "
-excerpt: "Material Flatsnout Meat Chimeraland materials
-
-  \        Flatsnout Meat
-
-  \        September 29, 2022 9:26 PM
-
-  \        Continue reading Flatsnout Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Flatsnout Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \      "
-permalink: /chimeraland/materials/flatsnout-meat.html
-photos:
-  - /chimeraland/materials/flatsnout-meat/flatsnout-meat.webp
-subtitle: "Material Flatsnout Meat Chimeraland materials
-
-  \        Flatsnout Meat
-
-  \        September 29, 2022 9:26 PM
-
-  \        Continue reading Flatsnout Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Flatsnout Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \      "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/flatsnout-meat/flatsnout-meat.webp
-title: Material Flatsnout Meat Chimeraland
-type: post
-updated: 2022-09-29T21:26:37+07:00
-wordcount: 633
 ---
 
 <link

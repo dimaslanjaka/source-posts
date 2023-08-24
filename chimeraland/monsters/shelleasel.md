@@ -1,123 +1,21 @@
 ---
+title: Monster Shelleasel
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T10:06:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Shelleasel Shelleasel Information from Chimeraland
-
-  \    Shelleasel default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \ "
-excerpt: "Monster Shelleasel Shelleasel Information from Chimeraland
-
-  \    Shelleasel default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \ "
 permalink: /chimeraland/monsters/shelleasel.html
 photos:
   - null
-subtitle: "Monster Shelleasel Shelleasel Information from Chimeraland
-
-  \    Shelleasel default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \ "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Shelleasel
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Shelleasel
-title: Monster Shelleasel
-type: post
-updated: 2023-05-25T10:06:12+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

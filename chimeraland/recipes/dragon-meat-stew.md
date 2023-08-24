@@ -1,102 +1,23 @@
 ---
+title: Recipe Dragon Meat Stew Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-07T20:56:03+07:00
-description: "Recipe Dragon Meat Stew Chimeraland Dragon Meat Stew Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Dragon Meat Stew
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +150 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \            "
-excerpt: "Recipe Dragon Meat Stew Chimeraland Dragon Meat Stew Cooking Recipe
-
-  \             \ 
-
-  \              Buff Dragon Meat Stew
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +150 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \            "
+updated: 2023-05-24T23:32:46+07:00
 lang: en
+date: 2022-01-07T20:56:03+07:00
 permalink: /chimeraland/recipes/dragon-meat-stew.html
 photos:
   - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew.webp
   - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-name.webp
   - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-icon.webp
   - /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew-material.webp
-subtitle: "Recipe Dragon Meat Stew Chimeraland Dragon Meat Stew Cooking Recipe
-
-  \             \ 
-
-  \              Buff Dragon Meat Stew
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +150 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \            "
+thumbnail: /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/dragon-meat-stew/dragon-meat-stew.webp
-title: Recipe Dragon Meat Stew Chimeraland
-type: post
-updated: 2023-05-24T23:32:46+07:00
-wordcount: 785
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

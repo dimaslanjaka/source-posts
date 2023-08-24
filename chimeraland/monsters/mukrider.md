@@ -1,19 +1,9 @@
 ---
+title: Monster Mukrider
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2022-10-01T19:18:27+07:00
 date: 2022-01-09T07:56:03+07:00
-description: monster Mukrider default quality GRADE A ATK 70 HP 70 DEF 70
-  Attributes Conversion Rate 4.0%,Melee DMG Increase 4.8% delicacies/tasty
-  Steamed Fortuphant Meat,Flame Roasted Horn,Flamebug Meat Claypot
-  games,chimeraland,monsters chimeraland,monster,pet
-excerpt: monster Mukrider default quality GRADE A ATK 70 HP 70 DEF 70 Attributes
-  Conversion Rate 4.0%,Melee DMG Increase 4.8% delicacies/tasty Steamed
-  Fortuphant Meat,Flame Roasted Horn,Flamebug Meat Claypot
-  games,chimeraland,monsters chimeraland,monster,pet
 permalink: /chimeraland/monsters/mukrider.html
 photos:
   - /chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -22,20 +12,19 @@ photos:
   - /chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-26-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-31-91_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-37-17_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: monster Mukrider default quality GRADE A ATK 70 HP 70 DEF 70
-  Attributes Conversion Rate 4.0%,Melee DMG Increase 4.8% delicacies/tasty
-  Steamed Fortuphant Meat,Flame Roasted Horn,Flamebug Meat Claypot
-  games,chimeraland,monsters chimeraland,monster,pet
+thumbnail: /chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/mukrider/Screenshot_2022-07-14-16-01-10-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster Mukrider
-type: post
-updated: 2022-10-01T19:18:27+07:00
-webtitle: chimeraland
-wordcount: 1410
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: monster Mukrider default quality GRADE A ATK 70 HP 70 DEF 70
+  Attributes Conversion Rate 4.0%,Melee DMG Increase 4.8% delicacies/tasty
+  Steamed Fortuphant Meat,Flame Roasted Horn,Flamebug Meat Claypot
+  games,chimeraland,monsters chimeraland,monster,pet
 ---
 
 <link

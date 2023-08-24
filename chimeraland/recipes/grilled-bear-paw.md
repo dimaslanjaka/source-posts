@@ -1,102 +1,23 @@
 ---
+title: Recipe Grilled Bear Paw Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-09T13:56:03+07:00
-description: "Recipe Grilled Bear Paw Chimeraland Grilled Bear Paw Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Grilled Bear Paw
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  150 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \             "
-excerpt: "Recipe Grilled Bear Paw Chimeraland Grilled Bear Paw Cooking Recipe
-
-  \             \ 
-
-  \              Buff Grilled Bear Paw
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  150 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \             "
+updated: 2022-10-06T04:46:54+07:00
 lang: en
+date: 2022-01-09T13:56:03+07:00
 permalink: /chimeraland/recipes/grilled-bear-paw.html
 photos:
   - /chimeraland/recipes/grilled-bear-paw/grilled-bear-paw.webp
   - /chimeraland/recipes/grilled-bear-paw/grilled-bear-paw-name.webp
   - /chimeraland/recipes/grilled-bear-paw/grilled-bear-paw-icon.webp
   - /chimeraland/recipes/grilled-bear-paw/grilled-bear-paw-material.webp
-subtitle: "Recipe Grilled Bear Paw Chimeraland Grilled Bear Paw Cooking Recipe
-
-  \             \ 
-
-  \              Buff Grilled Bear Paw
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  150 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \             "
+thumbnail: /chimeraland/recipes/grilled-bear-paw/grilled-bear-paw.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/grilled-bear-paw/grilled-bear-paw.webp
-title: Recipe Grilled Bear Paw Chimeraland
-type: post
-updated: 2022-10-06T04:46:54+07:00
-wordcount: 760
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

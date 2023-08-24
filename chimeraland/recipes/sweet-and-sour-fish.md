@@ -1,104 +1,23 @@
 ---
+title: Recipe Sweet And Sour Fish Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-12T22:56:03+07:00
-description: "Recipe Sweet And Sour Fish Chimeraland Sweet And Sour Fish Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Sweet And Sour Fish
-
-  \             \ 
-
-  \               \ 
-
-  \                  540 Fullness
-
-  \                  +60 RES
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
-excerpt: "Recipe Sweet And Sour Fish Chimeraland Sweet And Sour Fish Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Sweet And Sour Fish
-
-  \             \ 
-
-  \               \ 
-
-  \                  540 Fullness
-
-  \                  +60 RES
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
+updated: 2022-10-07T03:46:55+07:00
 lang: en
+date: 2022-01-12T22:56:03+07:00
 permalink: /chimeraland/recipes/sweet-and-sour-fish.html
 photos:
   - /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish.webp
   - /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish-name.webp
   - /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish-icon.webp
   - /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish-material.webp
-subtitle: "Recipe Sweet And Sour Fish Chimeraland Sweet And Sour Fish Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Sweet And Sour Fish
-
-  \             \ 
-
-  \               \ 
-
-  \                  540 Fullness
-
-  \                  +60 RES
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
+thumbnail: /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/sweet-and-sour-fish/sweet-and-sour-fish.webp
-title: Recipe Sweet And Sour Fish Chimeraland
-type: post
-updated: 2022-10-07T03:46:55+07:00
-wordcount: 875
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

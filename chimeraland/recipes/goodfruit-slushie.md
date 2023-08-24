@@ -1,96 +1,23 @@
 ---
+title: Recipe Goodfruit Slushie Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-09T06:56:03+07:00
-description: "Recipe Goodfruit Slushie Chimeraland Goodfruit Slushie Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Goodfruit Slushie
-
-  \             \ 
-
-  \               \ 
-
-  \                  180 Fullness
-
-  \                  Heat Resistance +10
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           "
-excerpt: "Recipe Goodfruit Slushie Chimeraland Goodfruit Slushie Cooking Recipe
-
-  \             \ 
-
-  \              Buff Goodfruit Slushie
-
-  \             \ 
-
-  \               \ 
-
-  \                  180 Fullness
-
-  \                  Heat Resistance +10
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           "
+updated: 2022-10-05T08:46:55+07:00
 lang: en
+date: 2022-01-09T06:56:03+07:00
 permalink: /chimeraland/recipes/goodfruit-slushie.html
 photos:
   - /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie.webp
   - /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie-name.webp
   - /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie-icon.webp
   - /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie-material.webp
-subtitle: "Recipe Goodfruit Slushie Chimeraland Goodfruit Slushie Cooking Recipe
-
-  \             \ 
-
-  \              Buff Goodfruit Slushie
-
-  \             \ 
-
-  \               \ 
-
-  \                  180 Fullness
-
-  \                  Heat Resistance +10
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           "
+thumbnail: /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/goodfruit-slushie/goodfruit-slushie.webp
-title: Recipe Goodfruit Slushie Chimeraland
-type: post
-updated: 2022-10-05T08:46:55+07:00
-wordcount: 636
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

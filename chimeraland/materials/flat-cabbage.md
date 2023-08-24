@@ -1,139 +1,19 @@
 ---
+title: Material Flat Cabbage Chimeraland
+date: 2022-01-12T16:56:03+07:00
+updated: 2022-10-04T16:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/flat-cabbage.html
+photos:
+  - /chimeraland/materials/flat-cabbage/flat-cabbage.webp
+thumbnail: /chimeraland/materials/flat-cabbage/flat-cabbage.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-12T16:56:03+07:00
-description: "Material Flat Cabbage Chimeraland materials
-
-  \        Flat Cabbage
-
-  \        October 4, 2022 4:26 PM
-
-  \        Continue reading Flat Cabbage
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Flat Cabbage
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \     \ 
-
-  \   "
-excerpt: "Material Flat Cabbage Chimeraland materials
-
-  \        Flat Cabbage
-
-  \        October 4, 2022 4:26 PM
-
-  \        Continue reading Flat Cabbage
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Flat Cabbage
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \     \ 
-
-  \   "
-permalink: /chimeraland/materials/flat-cabbage.html
-photos:
-  - /chimeraland/materials/flat-cabbage/flat-cabbage.webp
-subtitle: "Material Flat Cabbage Chimeraland materials
-
-  \        Flat Cabbage
-
-  \        October 4, 2022 4:26 PM
-
-  \        Continue reading Flat Cabbage
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Flat Cabbage
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \     \ 
-
-  \   "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/flat-cabbage/flat-cabbage.webp
-title: Material Flat Cabbage Chimeraland
-type: post
-updated: 2022-10-04T16:26:37+07:00
-wordcount: 2112
 ---
 
 <link

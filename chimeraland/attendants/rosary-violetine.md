@@ -1,71 +1,9 @@
 ---
+title: Attendant rosary violetine
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2022-11-26T05:35:17+07:00
 date: 2022-11-26T05:24:17+07:00
-description: "Attendant rosary violetine rosary violetine Information from
-  Chimeraland
-
-  \    rosary violetine default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \ "
-excerpt: "Attendant rosary violetine rosary violetine Information from
-  Chimeraland
-
-  \    rosary violetine default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \ "
 permalink: /chimeraland/attendants/rosary-violetine.html
 photos:
   - /chimeraland/attendants/rosary-violetine/Screenshot_2022-11-11-13-11-02-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -76,45 +14,14 @@ photos:
   - /chimeraland/attendants/rosary-violetine/Screenshot_2022-11-11-13-11-28-07_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-violetine/Screenshot_2022-11-11-13-11-33-21_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-violetine/Screenshot_2023-02-28-21-59-18-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant rosary violetine rosary violetine Information from
-  Chimeraland
-
-  \    rosary violetine default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \ "
+thumbnail: /chimeraland/attendants/rosary-violetine/Screenshot_2022-11-11-13-11-02-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/rosary-violetine/Screenshot_2022-11-11-13-11-02-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant rosary violetine
-type: post
-updated: 2022-11-26T05:35:17+07:00
-webtitle: chimeraland
-wordcount: 1237
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

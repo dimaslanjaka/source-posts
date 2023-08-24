@@ -1,65 +1,23 @@
 ---
+title: Recipe Grilled Rabbit Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-09T22:56:03+07:00
-description: |-
-  Recipe Grilled Rabbit Chimeraland Grilled Rabbit Cooking Recipe
-                
-                Buff Grilled Rabbit
-                
-                  
-                    180 Fullness
-                  
-                
-                recipe
-              
-              
-                webmanajemen.com - recipe Grill
-excerpt: |-
-  Recipe Grilled Rabbit Chimeraland Grilled Rabbit Cooking Recipe
-                
-                Buff Grilled Rabbit
-                
-                  
-                    180 Fullness
-                  
-                
-                recipe
-              
-              
-                webmanajemen.com - recipe Grill
+updated: 2022-10-06T09:46:54+07:00
 lang: en
+date: 2022-01-09T22:56:03+07:00
 permalink: /chimeraland/recipes/grilled-rabbit.html
 photos:
   - /chimeraland/recipes/grilled-rabbit/grilled-rabbit.webp
   - /chimeraland/recipes/grilled-rabbit/grilled-rabbit-name.webp
   - /chimeraland/recipes/grilled-rabbit/grilled-rabbit-icon.webp
   - /chimeraland/recipes/grilled-rabbit/grilled-rabbit-material.webp
-subtitle: |-
-  Recipe Grilled Rabbit Chimeraland Grilled Rabbit Cooking Recipe
-                
-                Buff Grilled Rabbit
-                
-                  
-                    180 Fullness
-                  
-                
-                recipe
-              
-              
-                webmanajemen.com - recipe Grill
+thumbnail: /chimeraland/recipes/grilled-rabbit/grilled-rabbit.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/grilled-rabbit/grilled-rabbit.webp
-title: Recipe Grilled Rabbit Chimeraland
-type: post
-updated: 2022-10-06T09:46:54+07:00
-wordcount: 577
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

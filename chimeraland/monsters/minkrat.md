@@ -1,115 +1,19 @@
 ---
+title: Monster Minkrat
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2022-10-01T03:18:27+07:00
 date: 2022-01-08T22:56:03+07:00
-description: "Monster Minkrat Minkrat Information from Chimeraland
-
-  \    Minkrat default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \             \ 
-
-  \         "
-excerpt: "Monster Minkrat Minkrat Information from Chimeraland
-
-  \    Minkrat default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \             \ 
-
-  \         "
 permalink: /chimeraland/monsters/minkrat.html
 photos: []
-subtitle: "Monster Minkrat Minkrat Information from Chimeraland
-
-  \    Minkrat default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                60
-
-  \             \ 
-
-  \         "
 tags:
   - chimeraland
   - monster
   - pet
-title: Monster Minkrat
-type: post
-updated: 2022-10-01T03:18:27+07:00
-webtitle: chimeraland
-wordcount: 551
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

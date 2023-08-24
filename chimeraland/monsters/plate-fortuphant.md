@@ -1,70 +1,9 @@
 ---
+title: Monster Plate Fortuphant
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T06:19:12+07:00
 date: 2022-01-09T10:56:03+07:00
-description: "Monster Plate Fortuphant Plate Fortuphant Information from
-  Chimeraland
-
-  \    Plate Fortuphant default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                55
-
-  \     "
-excerpt: "Monster Plate Fortuphant Plate Fortuphant Information from Chimeraland
-
-  \    Plate Fortuphant default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                55
-
-  \     "
 permalink: /chimeraland/monsters/plate-fortuphant.html
 photos:
   - null
@@ -75,46 +14,15 @@ photos:
   - /chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-41-29_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-45-87_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/plate-fortuphant/Screenshot_2023-02-25-16-33-51-06_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster Plate Fortuphant Plate Fortuphant Information from
-  Chimeraland
-
-  \    Plate Fortuphant default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                55
-
-  \     "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Plate Fortuphant
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Plate Fortuphant
-title: Monster Plate Fortuphant
-type: post
-updated: 2023-05-25T06:19:12+07:00
-webtitle: chimeraland
-wordcount: 1237
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

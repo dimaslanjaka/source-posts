@@ -1,121 +1,19 @@
 ---
+title: Material Gilled Mushroom Chimeraland
+date: 2022-01-17T21:56:03+07:00
+updated: 2022-10-09T21:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/gilled-mushroom.html
+photos:
+  - /chimeraland/materials/gilled-mushroom/gilled-mushroom.webp
+thumbnail: /chimeraland/materials/gilled-mushroom/gilled-mushroom.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-17T21:56:03+07:00
-description: "Material Gilled Mushroom Chimeraland materials
-
-  \        Gilled Mushroom
-
-  \        October 9, 2022 9:26 PM
-
-  \        Continue reading Gilled Mushroom
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Gilled Mushroom
-
-  \           \ 
-
-  \             \ 
-
-  \          "
-excerpt: "Material Gilled Mushroom Chimeraland materials
-
-  \        Gilled Mushroom
-
-  \        October 9, 2022 9:26 PM
-
-  \        Continue reading Gilled Mushroom
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Gilled Mushroom
-
-  \           \ 
-
-  \             \ 
-
-  \          "
-permalink: /chimeraland/materials/gilled-mushroom.html
-photos:
-  - /chimeraland/materials/gilled-mushroom/gilled-mushroom.webp
-subtitle: "Material Gilled Mushroom Chimeraland materials
-
-  \        Gilled Mushroom
-
-  \        October 9, 2022 9:26 PM
-
-  \        Continue reading Gilled Mushroom
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Gilled Mushroom
-
-  \           \ 
-
-  \             \ 
-
-  \          "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/gilled-mushroom/gilled-mushroom.webp
-title: Material Gilled Mushroom Chimeraland
-type: post
-updated: 2022-10-09T21:26:37+07:00
-wordcount: 913
 ---
 
 <link

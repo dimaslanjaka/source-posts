@@ -1,69 +1,9 @@
 ---
+title: Monster Fire Batolf
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T17:39:12+07:00
 date: 2022-01-07T17:56:03+07:00
-description: "Monster Fire Batolf Fire Batolf Information from Chimeraland
-
-  \    Fire Batolf default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \                  A NOBLE - LEGENDARY
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \             "
-excerpt: "Monster Fire Batolf Fire Batolf Information from Chimeraland
-
-  \    Fire Batolf default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \                  A NOBLE - LEGENDARY
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \             "
 permalink: /chimeraland/monsters/fire-batolf.html
 photos:
   - null
@@ -75,45 +15,15 @@ photos:
   - /chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-16-76_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-22-41_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/fire-batolf/Screenshot_2022-08-12-23-38-27-01_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster Fire Batolf Fire Batolf Information from Chimeraland
-
-  \    Fire Batolf default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \                  A NOBLE - LEGENDARY
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \             "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Batolf
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fire Batolf
-title: Monster Fire Batolf
-type: post
-updated: 2023-05-25T17:39:12+07:00
-webtitle: chimeraland
-wordcount: 1368
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

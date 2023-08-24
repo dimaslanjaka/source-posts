@@ -1,73 +1,9 @@
 ---
+title: Monster plate stoneppo
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T07:20:12+07:00
 date: 2023-03-11T16:19:18+07:00
-description: "Monster plate stoneppo plate stoneppo Information from Chimeraland
-
-  \    plate stoneppo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \    "
-excerpt: "Monster plate stoneppo plate stoneppo Information from Chimeraland
-
-  \    plate stoneppo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \    "
 permalink: /chimeraland/monsters/plate-stoneppo.html
 photos:
   - null
@@ -79,47 +15,15 @@ photos:
   - /chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-38-42_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-42-88_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/plate-stoneppo/Screenshot_2023-03-08-22-09-47-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster plate stoneppo plate stoneppo Information from Chimeraland
-
-  \    plate stoneppo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \    "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=plate stoneppo
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=plate stoneppo
-title: Monster plate stoneppo
-type: post
-updated: 2023-05-25T07:20:12+07:00
-webtitle: chimeraland
-wordcount: 1306
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

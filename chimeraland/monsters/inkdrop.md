@@ -1,73 +1,9 @@
 ---
+title: Monster Inkdrop
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T14:15:12+07:00
 date: 2022-01-08T18:56:03+07:00
-description: "Monster Inkdrop Inkdrop Information from Chimeraland
-
-  \    Inkdrop default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                62
-
-  \             \ 
-
-  \         "
-excerpt: "Monster Inkdrop Inkdrop Information from Chimeraland
-
-  \    Inkdrop default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                62
-
-  \             \ 
-
-  \         "
 permalink: /chimeraland/monsters/inkdrop.html
 photos:
   - null
@@ -79,47 +15,15 @@ photos:
   - /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 192107.webp
   - /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 192128.webp
   - /chimeraland/monsters/inkdrop/Screenshot 2022-08-09 192145.webp
-subtitle: "Monster Inkdrop Inkdrop Information from Chimeraland
-
-  \    Inkdrop default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                62
-
-  \             \ 
-
-  \         "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Inkdrop
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Inkdrop
-title: Monster Inkdrop
-type: post
-updated: 2023-05-25T14:15:12+07:00
-webtitle: chimeraland
-wordcount: 1371
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

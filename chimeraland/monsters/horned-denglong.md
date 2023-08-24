@@ -1,19 +1,9 @@
 ---
+title: Monster Horned Denglong
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2022-09-30T22:18:27+07:00
 date: 2022-01-08T17:56:03+07:00
-description: monster Horned Denglong default quality GRADE A ATK 71 HP 73 DEF 67
-  Attributes Conversion Rate 4.0%,Melee Damage Increase 4.8% delicacies/tasty
-  Spicy Fish & Mutton Soup,Exotic Herbal Jelly,Hot Stone Icefox Meat
-  games,chimeraland,monsters chimeraland,monster,pet
-excerpt: monster Horned Denglong default quality GRADE A ATK 71 HP 73 DEF 67
-  Attributes Conversion Rate 4.0%,Melee Damage Increase 4.8% delicacies/tasty
-  Spicy Fish & Mutton Soup,Exotic Herbal Jelly,Hot Stone Icefox Meat
-  games,chimeraland,monsters chimeraland,monster,pet
 permalink: /chimeraland/monsters/horned-denglong.html
 photos:
   - /chimeraland/monsters/horned-denglong/Screenshot_2022-07-14-22-21-04-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -22,20 +12,19 @@ photos:
   - /chimeraland/monsters/horned-denglong/Screenshot_2022-07-14-22-21-24-13_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horned-denglong/Screenshot_2022-07-14-22-21-29-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/horned-denglong/Screenshot_2022-07-14-22-21-35-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: monster Horned Denglong default quality GRADE A ATK 71 HP 73 DEF 67
-  Attributes Conversion Rate 4.0%,Melee Damage Increase 4.8% delicacies/tasty
-  Spicy Fish & Mutton Soup,Exotic Herbal Jelly,Hot Stone Icefox Meat
-  games,chimeraland,monsters chimeraland,monster,pet
+thumbnail: /chimeraland/monsters/horned-denglong/Screenshot_2022-07-14-22-21-04-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/horned-denglong/Screenshot_2022-07-14-22-21-04-22_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster Horned Denglong
-type: post
-updated: 2022-09-30T22:18:27+07:00
-webtitle: chimeraland
-wordcount: 1569
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: monster Horned Denglong default quality GRADE A ATK 71 HP 73 DEF 67
+  Attributes Conversion Rate 4.0%,Melee Damage Increase 4.8% delicacies/tasty
+  Spicy Fish & Mutton Soup,Exotic Herbal Jelly,Hot Stone Icefox Meat
+  games,chimeraland,monsters chimeraland,monster,pet
 ---
 
 <link

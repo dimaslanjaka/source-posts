@@ -1,19 +1,9 @@
 ---
+title: Monster Brownfoot Gripine
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T14:02:12+07:00
 date: 2022-01-06T21:56:03+07:00
-description: monster Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF
-  66 Attributes Conversion Rate 4.0%,Melee DMG Increase 4.8% delicacies/tasty
-  Succulent Ox Marrow,Exotic Herbal Jelly,Steamed Sweet & Sour Icebug
-  games,chimeraland,monsters chimeraland,monster,pet
-excerpt: monster Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF 66
-  Attributes Conversion Rate 4.0%,Melee DMG Increase 4.8% delicacies/tasty
-  Succulent Ox Marrow,Exotic Herbal Jelly,Steamed Sweet & Sour Icebug
-  games,chimeraland,monsters chimeraland,monster,pet
 permalink: /chimeraland/monsters/brownfoot-gripine.html
 photos:
   - null
@@ -23,20 +13,19 @@ photos:
   - /chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-32-44_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-37-08_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/brownfoot-gripine/Screenshot_2022-07-16-18-48-44-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: monster Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF 66
-  Attributes Conversion Rate 4.0%,Melee DMG Increase 4.8% delicacies/tasty
-  Succulent Ox Marrow,Exotic Herbal Jelly,Steamed Sweet & Sour Icebug
-  games,chimeraland,monsters chimeraland,monster,pet
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Brownfoot Gripine
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Brownfoot Gripine
-title: Monster Brownfoot Gripine
-type: post
-updated: 2023-05-25T14:02:12+07:00
-webtitle: chimeraland
-wordcount: 1576
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: monster Brownfoot Gripine default quality GRADE C ATK 63 HP 62 DEF
+  66 Attributes Conversion Rate 4.0%,Melee DMG Increase 4.8% delicacies/tasty
+  Succulent Ox Marrow,Exotic Herbal Jelly,Steamed Sweet & Sour Icebug
+  games,chimeraland,monsters chimeraland,monster,pet
 ---
 
 <link

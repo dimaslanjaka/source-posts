@@ -1,73 +1,9 @@
 ---
+title: Attendant ocywalka
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-03-11T03:30:17+07:00
 date: 2023-03-11T03:19:17+07:00
-description: "Attendant ocywalka ocywalka Information from Chimeraland
-
-  \    ocywalka default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \          "
-excerpt: "Attendant ocywalka ocywalka Information from Chimeraland
-
-  \    ocywalka default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \          "
 permalink: /chimeraland/attendants/ocywalka.html
 photos:
   - /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -78,46 +14,14 @@ photos:
   - /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-41-11_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-55-72_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant ocywalka ocywalka Information from Chimeraland
-
-  \    ocywalka default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \          "
+thumbnail: /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/ocywalka/Screenshot_2023-02-28-19-41-16-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant ocywalka
-type: post
-updated: 2023-03-11T03:30:17+07:00
-webtitle: chimeraland
-wordcount: 1130
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

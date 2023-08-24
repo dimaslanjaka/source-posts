@@ -1,92 +1,23 @@
 ---
+title: Recipe Meat And Vegetable Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-10T16:56:03+07:00
-description: "Recipe Meat And Vegetable Chimeraland Meat And Vegetable Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Meat And Vegetable
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  Medium Focus
-
-  \                  +25 Armor Pierce
-
-  \               \ 
-
-  \             \ 
-
-  \              "
-excerpt: "Recipe Meat And Vegetable Chimeraland Meat And Vegetable Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Meat And Vegetable
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  Medium Focus
-
-  \                  +25 Armor Pierce
-
-  \               \ 
-
-  \             \ 
-
-  \              "
+updated: 2022-10-06T00:46:55+07:00
 lang: en
+date: 2022-01-10T16:56:03+07:00
 permalink: /chimeraland/recipes/meat-and-vegetable.html
 photos:
   - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable.webp
   - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-name.webp
   - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-icon.webp
   - /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable-material.webp
-subtitle: "Recipe Meat And Vegetable Chimeraland Meat And Vegetable Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Meat And Vegetable
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  Medium Focus
-
-  \                  +25 Armor Pierce
-
-  \               \ 
-
-  \             \ 
-
-  \              "
+thumbnail: /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/meat-and-vegetable/meat-and-vegetable.webp
-title: Recipe Meat And Vegetable Chimeraland
-type: post
-updated: 2022-10-06T00:46:55+07:00
-wordcount: 1901
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

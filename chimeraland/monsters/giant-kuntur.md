@@ -1,43 +1,9 @@
 ---
+title: Monster giant kuntur
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-03-11T03:30:18+07:00
 date: 2023-03-11T04:19:18+07:00
-description: |+
-  Monster giant kuntur giant kuntur Information from Chimeraland
-      giant kuntur default maximum attribute
-      
-        
-          
-            
-              
-                
-                  GRADE
-                  N/A N/A
-                
-                
-                  Attack
-                  N/A
-                
-excerpt: |+
-  Monster giant kuntur giant kuntur Information from Chimeraland
-      giant kuntur default maximum attribute
-      
-        
-          
-            
-              
-                
-                  GRADE
-                  N/A N/A
-                
-                
-                  Attack
-                  N/A
-                
 permalink: /chimeraland/monsters/giant-kuntur.html
 photos:
   - /chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-17-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -48,32 +14,15 @@ photos:
   - /chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-39-58_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-43-99_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-48-34_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: |+
-  Monster giant kuntur giant kuntur Information from Chimeraland
-      giant kuntur default maximum attribute
-      
-        
-          
-            
-              
-                
-                  GRADE
-                  N/A N/A
-                
-                
-                  Attack
-                  N/A
-                
+thumbnail: /chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-17-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/giant-kuntur/Screenshot_2023-03-01-13-25-17-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster giant kuntur
-type: post
-updated: 2023-03-11T03:30:18+07:00
-webtitle: chimeraland
-wordcount: 1237
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

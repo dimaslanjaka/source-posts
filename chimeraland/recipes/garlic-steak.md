@@ -1,68 +1,23 @@
 ---
+title: Recipe Garlic Steak Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-09T00:56:03+07:00
-description: |-
-  Recipe Garlic Steak Chimeraland Garlic Steak Cooking Recipe
-                
-                Buff Garlic Steak
-                
-                  
-                    300 Fullness
-                    50 DEF
-                  
-                
-                recipe
-              
-              
-                webmanajemen
-excerpt: |-
-  Recipe Garlic Steak Chimeraland Garlic Steak Cooking Recipe
-                
-                Buff Garlic Steak
-                
-                  
-                    300 Fullness
-                    50 DEF
-                  
-                
-                recipe
-              
-              
-                webmanajemen
+updated: 2022-10-05T14:46:55+07:00
 lang: en
+date: 2022-01-09T00:56:03+07:00
 permalink: /chimeraland/recipes/garlic-steak.html
 photos:
   - /chimeraland/recipes/garlic-steak/garlic-steak.webp
   - /chimeraland/recipes/garlic-steak/garlic-steak-name.webp
   - /chimeraland/recipes/garlic-steak/garlic-steak-icon.webp
   - /chimeraland/recipes/garlic-steak/garlic-steak-material.webp
-subtitle: |-
-  Recipe Garlic Steak Chimeraland Garlic Steak Cooking Recipe
-                
-                Buff Garlic Steak
-                
-                  
-                    300 Fullness
-                    50 DEF
-                  
-                
-                recipe
-              
-              
-                webmanajemen
+thumbnail: /chimeraland/recipes/garlic-steak/garlic-steak.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/garlic-steak/garlic-steak.webp
-title: Recipe Garlic Steak Chimeraland
-type: post
-updated: 2022-10-05T14:46:55+07:00
-wordcount: 669
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

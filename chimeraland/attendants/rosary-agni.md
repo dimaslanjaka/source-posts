@@ -1,73 +1,9 @@
 ---
+title: Attendant rosary agni
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-02-16T23:53:20+07:00
 date: 2023-02-16T23:42:20+07:00
-description: "Attendant rosary agni rosary agni Information from Chimeraland
-
-  \    rosary agni default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \ "
-excerpt: "Attendant rosary agni rosary agni Information from Chimeraland
-
-  \    rosary agni default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \ "
 permalink: /chimeraland/attendants/rosary-agni.html
 photos:
   - /chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-35-55-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -77,46 +13,14 @@ photos:
   - /chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-36-13-47_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-36-18-60_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-36-23-81_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant rosary agni rosary agni Information from Chimeraland
-
-  \    rosary agni default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \ "
+thumbnail: /chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-35-55-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/rosary-agni/Screenshot_2023-02-15-01-35-55-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant rosary agni
-type: post
-updated: 2023-02-16T23:53:20+07:00
-webtitle: chimeraland
-wordcount: 1156
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

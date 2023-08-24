@@ -1,104 +1,23 @@
 ---
+title: Recipe Garlic Meat Skewers Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-09T04:56:03+07:00
-description: "Recipe Garlic Meat Skewers Chimeraland Garlic Meat Skewers Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Garlic Meat Skewers
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                  50 DEF
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \     "
-excerpt: "Recipe Garlic Meat Skewers Chimeraland Garlic Meat Skewers Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Garlic Meat Skewers
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                  50 DEF
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \     "
+updated: 2022-10-06T06:46:54+07:00
 lang: en
+date: 2022-01-09T04:56:03+07:00
 permalink: /chimeraland/recipes/garlic-meat-skewers.html
 photos:
   - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers.webp
   - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-name.webp
   - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-icon.webp
   - /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers-material.webp
-subtitle: "Recipe Garlic Meat Skewers Chimeraland Garlic Meat Skewers Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Garlic Meat Skewers
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                  50 DEF
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \     "
+thumbnail: /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/garlic-meat-skewers/garlic-meat-skewers.webp
-title: Recipe Garlic Meat Skewers Chimeraland
-type: post
-updated: 2022-10-06T06:46:54+07:00
-wordcount: 645
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

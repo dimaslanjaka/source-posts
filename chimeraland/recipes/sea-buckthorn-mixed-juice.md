@@ -1,86 +1,23 @@
 ---
+title: Recipe Sea-Buckthorn Mixed Juice Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-13T01:56:03+07:00
-description: "Recipe Sea-Buckthorn Mixed Juice Chimeraland Sea-Buckthorn Mixed
-  Juice Cooking Recipe
-
-  \             \ 
-
-  \              Buff Sea-Buckthorn Mixed Juice
-
-  \             \ 
-
-  \               \ 
-
-  \                  +180 fullness
-
-  \                  Lv.2 Sandstrom Resistance
-
-  \               \ 
-
-  \             \ 
-
-  \              "
-excerpt: "Recipe Sea-Buckthorn Mixed Juice Chimeraland Sea-Buckthorn Mixed Juice
-  Cooking Recipe
-
-  \             \ 
-
-  \              Buff Sea-Buckthorn Mixed Juice
-
-  \             \ 
-
-  \               \ 
-
-  \                  +180 fullness
-
-  \                  Lv.2 Sandstrom Resistance
-
-  \               \ 
-
-  \             \ 
-
-  \              "
+updated: 2022-10-07T00:46:55+07:00
 lang: en
+date: 2022-01-13T01:56:03+07:00
 permalink: /chimeraland/recipes/sea-buckthorn-mixed-juice.html
 photos:
   - /chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice.webp
   - /chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice-name.webp
   - /chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice-icon.webp
   - /chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice-material.webp
-subtitle: "Recipe Sea-Buckthorn Mixed Juice Chimeraland Sea-Buckthorn Mixed
-  Juice Cooking Recipe
-
-  \             \ 
-
-  \              Buff Sea-Buckthorn Mixed Juice
-
-  \             \ 
-
-  \               \ 
-
-  \                  +180 fullness
-
-  \                  Lv.2 Sandstrom Resistance
-
-  \               \ 
-
-  \             \ 
-
-  \              "
+thumbnail: /chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/sea-buckthorn-mixed-juice/sea-buckthorn-mixed-juice.webp
-title: Recipe Sea-Buckthorn Mixed Juice Chimeraland
-type: post
-updated: 2022-10-07T00:46:55+07:00
-wordcount: 657
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

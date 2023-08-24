@@ -1,123 +1,21 @@
 ---
+title: Monster Ironect
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T09:43:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Ironect Ironect Information from Chimeraland
-
-  \    Ironect default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \          "
-excerpt: "Monster Ironect Ironect Information from Chimeraland
-
-  \    Ironect default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \          "
 permalink: /chimeraland/monsters/ironect.html
 photos:
   - null
-subtitle: "Monster Ironect Ironect Information from Chimeraland
-
-  \    Ironect default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \          "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ironect
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Ironect
-title: Monster Ironect
-type: post
-updated: 2023-05-25T09:43:12+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

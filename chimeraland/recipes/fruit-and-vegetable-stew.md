@@ -1,92 +1,23 @@
 ---
+title: Recipe Fruit And Vegetable Stew Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-08T23:56:03+07:00
-description: "Recipe Fruit And Vegetable Stew Chimeraland Fruit And Vegetable
-  Stew Cooking Recipe
-
-  \             \ 
-
-  \              Buff Fruit And Vegetable Stew
-
-  \             \ 
-
-  \               \ 
-
-  \                  540 Fullness
-
-  \                  +60 RES
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \      "
-excerpt: "Recipe Fruit And Vegetable Stew Chimeraland Fruit And Vegetable Stew
-  Cooking Recipe
-
-  \             \ 
-
-  \              Buff Fruit And Vegetable Stew
-
-  \             \ 
-
-  \               \ 
-
-  \                  540 Fullness
-
-  \                  +60 RES
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \      "
+updated: 2022-09-28T23:26:37+07:00
 lang: en
+date: 2022-01-08T23:56:03+07:00
 permalink: /chimeraland/recipes/fruit-and-vegetable-stew.html
 photos:
   - null
   - null
   - null
   - null
-subtitle: "Recipe Fruit And Vegetable Stew Chimeraland Fruit And Vegetable Stew
-  Cooking Recipe
-
-  \             \ 
-
-  \              Buff Fruit And Vegetable Stew
-
-  \             \ 
-
-  \               \ 
-
-  \                  540 Fullness
-
-  \                  +60 RES
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \      "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fruit And Vegetable Stew
 tags:
   - chimeraland
   - recipe
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Fruit And Vegetable Stew
-title: Recipe Fruit And Vegetable Stew Chimeraland
-type: post
-updated: 2022-09-28T23:26:37+07:00
-wordcount: 878
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

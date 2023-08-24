@@ -1,19 +1,9 @@
 ---
+title: Attendant Shaman Twinkle
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2022-09-29T05:26:37+07:00
 date: 2022-01-07T08:56:03+07:00
-description: attendant Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF
-  60 Attack 30,HP 300,Monster EXP Bonus 40.0% delicacies/tasty Aromatic Litiger
-  Ball,Hot 'n Sour Jelly,Stir-Fried Browtelope games,chimeraland,attendants
-  chimeraland,Attendant
-excerpt: attendant Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF 60
-  Attack 30,HP 300,Monster EXP Bonus 40.0% delicacies/tasty Aromatic Litiger
-  Ball,Hot 'n Sour Jelly,Stir-Fried Browtelope games,chimeraland,attendants
-  chimeraland,Attendant
 permalink: /chimeraland/attendants/shaman-twinkle.html
 photos:
   - /chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-41-44-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -24,19 +14,18 @@ photos:
   - /chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-42-07-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-42-13-51_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-42-18-27_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: attendant Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF 60
-  Attack 30,HP 300,Monster EXP Bonus 40.0% delicacies/tasty Aromatic Litiger
-  Ball,Hot 'n Sour Jelly,Stir-Fried Browtelope games,chimeraland,attendants
-  chimeraland,Attendant
+thumbnail: /chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-41-44-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/shaman-twinkle/Screenshot_2023-02-27-17-41-44-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant Shaman Twinkle
-type: post
-updated: 2022-09-29T05:26:37+07:00
-webtitle: chimeraland
-wordcount: 1609
+categories:
+  - games
+  - chimeraland
+  - attendants
+description: attendant Shaman Twinkle default quality GRADE C ATK 60 HP 60 DEF
+  60 Attack 30,HP 300,Monster EXP Bonus 40.0% delicacies/tasty Aromatic Litiger
+  Ball,Hot 'n Sour Jelly,Stir-Fried Browtelope games,chimeraland,attendants
+  chimeraland,Attendant
 ---
 
 <link

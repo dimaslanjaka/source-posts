@@ -1,70 +1,9 @@
 ---
+title: Monster Lotus Horsedeer
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T09:26:12+07:00
 date: 2022-01-08T21:56:03+07:00
-description: "Monster Lotus Horsedeer Lotus Horsedeer Information from
-  Chimeraland
-
-  \    Lotus Horsedeer default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                46
-
-  \        "
-excerpt: "Monster Lotus Horsedeer Lotus Horsedeer Information from Chimeraland
-
-  \    Lotus Horsedeer default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                46
-
-  \        "
 permalink: /chimeraland/monsters/lotus-horsedeer.html
 photos:
   - null
@@ -75,45 +14,15 @@ photos:
   - /chimeraland/monsters/lotus-horsedeer/Screenshot_2023-03-08-23-08-03-10_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/lotus-horsedeer/Screenshot_2023-03-08-23-08-07-23_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/lotus-horsedeer/Screenshot_2023-03-08-23-08-11-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster Lotus Horsedeer Lotus Horsedeer Information from Chimeraland
-
-  \    Lotus Horsedeer default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                46
-
-  \        "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Lotus Horsedeer
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Lotus Horsedeer
-title: Monster Lotus Horsedeer
-type: post
-updated: 2023-05-25T09:26:12+07:00
-webtitle: chimeraland
-wordcount: 1237
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

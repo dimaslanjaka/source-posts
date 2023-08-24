@@ -1,139 +1,19 @@
 ---
+title: Material Condor Meat Chimeraland
+date: 2022-01-08T03:56:03+07:00
+updated: 2022-09-30T03:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/condor-meat.html
+photos:
+  - /chimeraland/materials/condor-meat/condor-meat.webp
+thumbnail: /chimeraland/materials/condor-meat/condor-meat.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-08T03:56:03+07:00
-description: "Material Condor Meat Chimeraland materials
-
-  \        Condor Meat
-
-  \        September 30, 2022 3:26 AM
-
-  \        Continue reading Condor Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Condor Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \     \ 
-
-  \    "
-excerpt: "Material Condor Meat Chimeraland materials
-
-  \        Condor Meat
-
-  \        September 30, 2022 3:26 AM
-
-  \        Continue reading Condor Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Condor Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \     \ 
-
-  \    "
-permalink: /chimeraland/materials/condor-meat.html
-photos:
-  - /chimeraland/materials/condor-meat/condor-meat.webp
-subtitle: "Material Condor Meat Chimeraland materials
-
-  \        Condor Meat
-
-  \        September 30, 2022 3:26 AM
-
-  \        Continue reading Condor Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Condor Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \     \ 
-
-  \     \ 
-
-  \    "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/condor-meat/condor-meat.webp
-title: Material Condor Meat Chimeraland
-type: post
-updated: 2022-09-30T03:26:37+07:00
-wordcount: 1665
 ---
 
 <link

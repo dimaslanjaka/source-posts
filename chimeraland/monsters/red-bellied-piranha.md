@@ -1,114 +1,21 @@
 ---
+title: Monster Red-Bellied Piranha
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T12:22:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Red-Bellied Piranha Red-Bellied Piranha Information from
-  Chimeraland
-
-  \    Red-Bellied Piranha default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \    "
-excerpt: "Monster Red-Bellied Piranha Red-Bellied Piranha Information from
-  Chimeraland
-
-  \    Red-Bellied Piranha default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \    "
 permalink: /chimeraland/monsters/red-bellied-piranha.html
 photos:
   - null
-subtitle: "Monster Red-Bellied Piranha Red-Bellied Piranha Information from
-  Chimeraland
-
-  \    Red-Bellied Piranha default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \    "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Red-Bellied Piranha
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Red-Bellied Piranha
-title: Monster Red-Bellied Piranha
-type: post
-updated: 2023-05-25T12:22:12+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

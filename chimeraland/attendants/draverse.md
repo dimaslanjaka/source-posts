@@ -1,73 +1,9 @@
 ---
+title: Attendant draverse
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-03-10T22:30:17+07:00
 date: 2023-03-10T22:19:17+07:00
-description: "Attendant draverse draverse Information from Chimeraland
-
-  \    draverse default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \          "
-excerpt: "Attendant draverse draverse Information from Chimeraland
-
-  \    draverse default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \          "
 permalink: /chimeraland/attendants/draverse.html
 photos:
   - /chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-19-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -78,46 +14,14 @@ photos:
   - /chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-41-31_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-45-55_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-49-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant draverse draverse Information from Chimeraland
-
-  \    draverse default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \          "
+thumbnail: /chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-19-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/draverse/Screenshot_2023-03-09-10-45-19-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant draverse
-type: post
-updated: 2023-03-10T22:30:17+07:00
-webtitle: chimeraland
-wordcount: 1130
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

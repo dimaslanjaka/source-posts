@@ -1,121 +1,19 @@
 ---
+title: Material Yurlungg's Fang Chimeraland
+date: 2022-01-11T07:56:03+07:00
+updated: 2022-10-03T07:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/yurlungg's-fang.html
+photos:
+  - /chimeraland/materials/yurlungg's-fang/yurlunggurs-fang.webp
+thumbnail: /chimeraland/materials/yurlungg's-fang/yurlunggurs-fang.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-11T07:56:03+07:00
-description: "Material Yurlungg's Fang Chimeraland materials
-
-  \        Yurlungg's Fang
-
-  \        October 3, 2022 7:26 AM
-
-  \       \ 
-
-  \          A giant snake's fang. It's sure to give you fever.
-
-  \       \ 
-
-  \        Continue reading Yurlungg's Fang
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \          "
-excerpt: "Material Yurlungg's Fang Chimeraland materials
-
-  \        Yurlungg's Fang
-
-  \        October 3, 2022 7:26 AM
-
-  \       \ 
-
-  \          A giant snake's fang. It's sure to give you fever.
-
-  \       \ 
-
-  \        Continue reading Yurlungg's Fang
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \          "
-permalink: /chimeraland/materials/yurlungg's-fang.html
-photos:
-  - /chimeraland/materials/yurlungg's-fang/yurlunggurs-fang.webp
-subtitle: "Material Yurlungg's Fang Chimeraland materials
-
-  \        Yurlungg's Fang
-
-  \        October 3, 2022 7:26 AM
-
-  \       \ 
-
-  \          A giant snake's fang. It's sure to give you fever.
-
-  \       \ 
-
-  \        Continue reading Yurlungg's Fang
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \          "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/yurlungg's-fang/yurlunggurs-fang.webp
-title: Material Yurlungg's Fang Chimeraland
-type: post
-updated: 2022-10-03T07:26:37+07:00
-wordcount: 882
 ---
 
 <link

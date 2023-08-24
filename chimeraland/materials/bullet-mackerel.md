@@ -1,61 +1,19 @@
 ---
+title: Material Bullet Mackerel Chimeraland
+date: 2022-01-15T16:56:03+07:00
+updated: 2022-10-07T16:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/bullet-mackerel.html
+photos:
+  - /chimeraland/materials/bullet-mackerel/bullet-mackerel.webp
+thumbnail: /chimeraland/materials/bullet-mackerel/bullet-mackerel.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-15T16:56:03+07:00
-description: |+
-  Material Bullet Mackerel Chimeraland materials
-          Bullet Mackerel
-          October 7, 2022 4:26 PM
-          
-            A marine fish, quite large, peculiar in shape, with sharp teeth. It
-            like to live alone.
-          
-          Continue reading Bullet Mackerel
-        
-        
-          
-        
-excerpt: |+
-  Material Bullet Mackerel Chimeraland materials
-          Bullet Mackerel
-          October 7, 2022 4:26 PM
-          
-            A marine fish, quite large, peculiar in shape, with sharp teeth. It
-            like to live alone.
-          
-          Continue reading Bullet Mackerel
-        
-        
-          
-        
-permalink: /chimeraland/materials/bullet-mackerel.html
-photos:
-  - /chimeraland/materials/bullet-mackerel/bullet-mackerel.webp
-subtitle: |+
-  Material Bullet Mackerel Chimeraland materials
-          Bullet Mackerel
-          October 7, 2022 4:26 PM
-          
-            A marine fish, quite large, peculiar in shape, with sharp teeth. It
-            like to live alone.
-          
-          Continue reading Bullet Mackerel
-        
-        
-          
-        
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/bullet-mackerel/bullet-mackerel.webp
-title: Material Bullet Mackerel Chimeraland
-type: post
-updated: 2022-10-07T16:26:37+07:00
-wordcount: 748
 ---
 
 <link

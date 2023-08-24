@@ -1,127 +1,19 @@
 ---
+title: Material Beast Hide Chimeraland
+date: 2022-01-08T18:56:03+07:00
+updated: 2022-09-30T18:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/beast-hide.html
+photos:
+  - /chimeraland/materials/beast-hide/beast-hide.webp
+thumbnail: /chimeraland/materials/beast-hide/beast-hide.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-08T18:56:03+07:00
-description: "Material Beast Hide Chimeraland materials
-
-  \        Beast Hide
-
-  \        September 30, 2022 6:26 PM
-
-  \        Continue reading Beast Hide
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Beast Hide
-
-  \           \ 
-
-  \             \ 
-
-  \               \ 
-
-  \          "
-excerpt: "Material Beast Hide Chimeraland materials
-
-  \        Beast Hide
-
-  \        September 30, 2022 6:26 PM
-
-  \        Continue reading Beast Hide
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Beast Hide
-
-  \           \ 
-
-  \             \ 
-
-  \               \ 
-
-  \          "
-permalink: /chimeraland/materials/beast-hide.html
-photos:
-  - /chimeraland/materials/beast-hide/beast-hide.webp
-subtitle: "Material Beast Hide Chimeraland materials
-
-  \        Beast Hide
-
-  \        September 30, 2022 6:26 PM
-
-  \        Continue reading Beast Hide
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Beast Hide
-
-  \           \ 
-
-  \             \ 
-
-  \               \ 
-
-  \          "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/beast-hide/beast-hide.webp
-title: Material Beast Hide Chimeraland
-type: post
-updated: 2022-09-30T18:26:37+07:00
-wordcount: 7443
 ---
 
 <link

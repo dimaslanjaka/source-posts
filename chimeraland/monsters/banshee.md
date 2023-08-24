@@ -1,19 +1,9 @@
 ---
+title: Monster Banshee
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T11:35:12+07:00
 date: 2022-01-07T08:56:03+07:00
-description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
-  Attributes Conversion Rate 4.0%,Melee DMG Increase 4.8%,Essence Aspect: Broken
-  Fang delicacies/tasty Braised Tenderloin,Flame Roasted Horn,Stir-Fried
-  Browtelope games,chimeraland,monsters chimeraland,monster,pet"
-excerpt: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62 Attributes
-  Conversion Rate 4.0%,Melee DMG Increase 4.8%,Essence Aspect: Broken Fang
-  delicacies/tasty Braised Tenderloin,Flame Roasted Horn,Stir-Fried Browtelope
-  games,chimeraland,monsters chimeraland,monster,pet"
 permalink: /chimeraland/monsters/banshee.html
 photos:
   - null
@@ -25,20 +15,19 @@ photos:
   - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-00-75_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-06-24_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/banshee/Screenshot_2022-08-19-20-42-12-59_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
-  Attributes Conversion Rate 4.0%,Melee DMG Increase 4.8%,Essence Aspect: Broken
-  Fang delicacies/tasty Braised Tenderloin,Flame Roasted Horn,Stir-Fried
-  Browtelope games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Banshee
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Banshee
-title: Monster Banshee
-type: post
-updated: 2023-05-25T11:35:12+07:00
-webtitle: chimeraland
-wordcount: 1551
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: "monster Banshee default quality GRADE B ATK 60 HP 61 DEF 62
+  Attributes Conversion Rate 4.0%,Melee DMG Increase 4.8%,Essence Aspect: Broken
+  Fang delicacies/tasty Braised Tenderloin,Flame Roasted Horn,Stir-Fried
+  Browtelope games,chimeraland,monsters chimeraland,monster,pet"
 ---
 
 <link

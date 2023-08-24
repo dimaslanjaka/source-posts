@@ -1,123 +1,21 @@
 ---
+title: Monster Warcrab
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T10:49:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Warcrab Warcrab Information from Chimeraland
-
-  \    Warcrab default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \          "
-excerpt: "Monster Warcrab Warcrab Information from Chimeraland
-
-  \    Warcrab default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \          "
 permalink: /chimeraland/monsters/warcrab.html
 photos:
   - null
-subtitle: "Monster Warcrab Warcrab Information from Chimeraland
-
-  \    Warcrab default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \          "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Warcrab
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Warcrab
-title: Monster Warcrab
-type: post
-updated: 2023-05-25T10:49:12+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

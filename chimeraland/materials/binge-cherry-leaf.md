@@ -1,103 +1,19 @@
 ---
+title: Material Binge Cherry Leaf Chimeraland
+date: 2022-01-13T23:56:03+07:00
+updated: 2022-10-05T23:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/binge-cherry-leaf.html
+photos:
+  - /chimeraland/materials/binge-cherry-leaf/binge-cherry-leaf.webp
+thumbnail: /chimeraland/materials/binge-cherry-leaf/binge-cherry-leaf.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-13T23:56:03+07:00
-description: "Material Binge Cherry Leaf Chimeraland materials
-
-  \        Binge Cherry Leaf
-
-  \        October 5, 2022 11:26 PM
-
-  \       \ 
-
-  \          Elm leaf. Oval-shaped spiral with settled edges, eaten to dispel
-
-  \          poison.
-
-  \       \ 
-
-  \        Continue reading Binge Cherry Leaf
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   "
-excerpt: "Material Binge Cherry Leaf Chimeraland materials
-
-  \        Binge Cherry Leaf
-
-  \        October 5, 2022 11:26 PM
-
-  \       \ 
-
-  \          Elm leaf. Oval-shaped spiral with settled edges, eaten to dispel
-
-  \          poison.
-
-  \       \ 
-
-  \        Continue reading Binge Cherry Leaf
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   "
-permalink: /chimeraland/materials/binge-cherry-leaf.html
-photos:
-  - /chimeraland/materials/binge-cherry-leaf/binge-cherry-leaf.webp
-subtitle: "Material Binge Cherry Leaf Chimeraland materials
-
-  \        Binge Cherry Leaf
-
-  \        October 5, 2022 11:26 PM
-
-  \       \ 
-
-  \          Elm leaf. Oval-shaped spiral with settled edges, eaten to dispel
-
-  \          poison.
-
-  \       \ 
-
-  \        Continue reading Binge Cherry Leaf
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/binge-cherry-leaf/binge-cherry-leaf.webp
-title: Material Binge Cherry Leaf Chimeraland
-type: post
-updated: 2022-10-05T23:26:37+07:00
-wordcount: 1158
 ---
 
 <link

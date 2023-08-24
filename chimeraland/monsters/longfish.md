@@ -1,123 +1,21 @@
 ---
+title: Monster Longfish
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T05:13:12+07:00
 date: 2023-05-25T00:40:10+07:00
-description: "Monster Longfish Longfish Information from Chimeraland
-
-  \    Longfish default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \       "
-excerpt: "Monster Longfish Longfish Information from Chimeraland
-
-  \    Longfish default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \       "
 permalink: /chimeraland/monsters/longfish.html
 photos:
   - null
-subtitle: "Monster Longfish Longfish Information from Chimeraland
-
-  \    Longfish default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \       "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Longfish
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Longfish
-title: Monster Longfish
-type: post
-updated: 2023-05-25T05:13:12+07:00
-webtitle: chimeraland
-wordcount: 621
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

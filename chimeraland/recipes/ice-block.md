@@ -1,68 +1,23 @@
 ---
+title: Recipe Ice Block Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-10T12:56:03+07:00
-description: |-
-  Recipe Ice Block Chimeraland Ice Block Cooking Recipe
-                
-                Buff Ice Block
-                
-                  
-                    +180 fullness
-                    Heat Resistance +10
-                  
-                
-                recipe
-              
-              
-                webmana
-excerpt: |-
-  Recipe Ice Block Chimeraland Ice Block Cooking Recipe
-                
-                Buff Ice Block
-                
-                  
-                    +180 fullness
-                    Heat Resistance +10
-                  
-                
-                recipe
-              
-              
-                webmana
+updated: 2022-10-05T21:46:55+07:00
 lang: en
+date: 2022-01-10T12:56:03+07:00
 permalink: /chimeraland/recipes/ice-block.html
 photos:
   - /chimeraland/recipes/ice-block/ice-block.webp
   - /chimeraland/recipes/ice-block/ice-block-name.webp
   - /chimeraland/recipes/ice-block/ice-block-icon.webp
   - /chimeraland/recipes/ice-block/ice-block-material.webp
-subtitle: |-
-  Recipe Ice Block Chimeraland Ice Block Cooking Recipe
-                
-                Buff Ice Block
-                
-                  
-                    +180 fullness
-                    Heat Resistance +10
-                  
-                
-                recipe
-              
-              
-                webmana
+thumbnail: /chimeraland/recipes/ice-block/ice-block.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/ice-block/ice-block.webp
-title: Recipe Ice Block Chimeraland
-type: post
-updated: 2022-10-05T21:46:55+07:00
-wordcount: 869
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

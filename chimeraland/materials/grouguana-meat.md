@@ -1,127 +1,19 @@
 ---
+title: Material Grouguana Meat Chimeraland
+date: 2022-01-08T16:56:03+07:00
+updated: 2022-09-30T16:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/grouguana-meat.html
+photos:
+  - /chimeraland/materials/grouguana-meat/grouguana-meat.webp
+thumbnail: /chimeraland/materials/grouguana-meat/grouguana-meat.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-08T16:56:03+07:00
-description: "Material Grouguana Meat Chimeraland materials
-
-  \        Grouguana Meat
-
-  \        September 30, 2022 4:26 PM
-
-  \        Continue reading Grouguana Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Grouguana Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \      "
-excerpt: "Material Grouguana Meat Chimeraland materials
-
-  \        Grouguana Meat
-
-  \        September 30, 2022 4:26 PM
-
-  \        Continue reading Grouguana Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Grouguana Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \      "
-permalink: /chimeraland/materials/grouguana-meat.html
-photos:
-  - /chimeraland/materials/grouguana-meat/grouguana-meat.webp
-subtitle: "Material Grouguana Meat Chimeraland materials
-
-  \        Grouguana Meat
-
-  \        September 30, 2022 4:26 PM
-
-  \        Continue reading Grouguana Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Grouguana Meat
-
-  \           \ 
-
-  \         \ 
-
-  \       \ 
-
-  \      "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/grouguana-meat/grouguana-meat.webp
-title: Material Grouguana Meat Chimeraland
-type: post
-updated: 2022-09-30T16:26:37+07:00
-wordcount: 1085
 ---
 
 <link

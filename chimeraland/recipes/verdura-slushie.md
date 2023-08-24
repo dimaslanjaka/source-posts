@@ -1,65 +1,23 @@
 ---
+title: Recipe Verdura Slushie Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-13T04:56:03+07:00
-description: |-
-  Recipe Verdura Slushie Chimeraland Verdura Slushie Cooking Recipe
-                
-                Buff Verdura Slushie
-                
-                  
-                    Buff Verdura Slushie not yet written
-                  
-                
-                recipe
-              
-              
-                webm
-excerpt: |-
-  Recipe Verdura Slushie Chimeraland Verdura Slushie Cooking Recipe
-                
-                Buff Verdura Slushie
-                
-                  
-                    Buff Verdura Slushie not yet written
-                  
-                
-                recipe
-              
-              
-                webm
+updated: 2022-10-06T05:46:56+07:00
 lang: en
+date: 2022-01-13T04:56:03+07:00
 permalink: /chimeraland/recipes/verdura-slushie.html
 photos:
   - null
   - null
   - null
   - null
-subtitle: |-
-  Recipe Verdura Slushie Chimeraland Verdura Slushie Cooking Recipe
-                
-                Buff Verdura Slushie
-                
-                  
-                    Buff Verdura Slushie not yet written
-                  
-                
-                recipe
-              
-              
-                webm
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Verdura Slushie
 tags:
   - chimeraland
   - recipe
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Verdura Slushie
-title: Recipe Verdura Slushie Chimeraland
-type: post
-updated: 2022-10-06T05:46:56+07:00
-wordcount: 635
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

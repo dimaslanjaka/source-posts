@@ -1,115 +1,19 @@
 ---
+title: Material Cold Repelling Bead Chimeraland
+date: 2022-01-10T13:56:03+07:00
+updated: 2022-10-02T13:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/cold-repelling-bead.html
+photos:
+  - /chimeraland/materials/cold-repelling-bead/cold-repelling-bead.webp
+thumbnail: /chimeraland/materials/cold-repelling-bead/cold-repelling-bead.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-10T13:56:03+07:00
-description: "Material Cold Repelling Bead Chimeraland materials
-
-  \        Cold Repelling Bead
-
-  \        October 2, 2022 1:26 PM
-
-  \        Continue reading Cold Repelling Bead
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \              What is the use of the Cold Repelling Bead
-
-  \       "
-excerpt: "Material Cold Repelling Bead Chimeraland materials
-
-  \        Cold Repelling Bead
-
-  \        October 2, 2022 1:26 PM
-
-  \        Continue reading Cold Repelling Bead
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \              What is the use of the Cold Repelling Bead
-
-  \       "
-permalink: /chimeraland/materials/cold-repelling-bead.html
-photos:
-  - /chimeraland/materials/cold-repelling-bead/cold-repelling-bead.webp
-subtitle: "Material Cold Repelling Bead Chimeraland materials
-
-  \        Cold Repelling Bead
-
-  \        October 2, 2022 1:26 PM
-
-  \        Continue reading Cold Repelling Bead
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \              What is the use of the Cold Repelling Bead
-
-  \       "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/cold-repelling-bead/cold-repelling-bead.webp
-title: Material Cold Repelling Bead Chimeraland
-type: post
-updated: 2022-10-02T13:26:37+07:00
-wordcount: 867
 ---
 
 <link

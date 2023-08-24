@@ -1,102 +1,23 @@
 ---
+title: Recipe Deep Fried Liver Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-08T00:56:03+07:00
-description: "Recipe Deep Fried Liver Chimeraland Deep Fried Liver Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Deep Fried Liver
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +25 Armor Pierce
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
-excerpt: "Recipe Deep Fried Liver Chimeraland Deep Fried Liver Cooking Recipe
-
-  \             \ 
-
-  \              Buff Deep Fried Liver
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +25 Armor Pierce
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
+updated: 2022-10-05T16:46:57+07:00
 lang: en
+date: 2022-01-08T00:56:03+07:00
 permalink: /chimeraland/recipes/deep-fried-liver.html
 photos:
   - /chimeraland/recipes/deep-fried-liver/deep-fried-liver.webp
   - /chimeraland/recipes/deep-fried-liver/deep-fried-liver-name.webp
   - /chimeraland/recipes/deep-fried-liver/deep-fried-liver-icon.webp
   - /chimeraland/recipes/deep-fried-liver/deep-fried-liver-material.webp
-subtitle: "Recipe Deep Fried Liver Chimeraland Deep Fried Liver Cooking Recipe
-
-  \             \ 
-
-  \              Buff Deep Fried Liver
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +25 Armor Pierce
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
+thumbnail: /chimeraland/recipes/deep-fried-liver/deep-fried-liver.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/deep-fried-liver/deep-fried-liver.webp
-title: Recipe Deep Fried Liver Chimeraland
-type: post
-updated: 2022-10-05T16:46:57+07:00
-wordcount: 777
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

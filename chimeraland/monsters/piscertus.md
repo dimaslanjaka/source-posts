@@ -1,73 +1,9 @@
 ---
+title: Monster Piscertus
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T16:32:12+07:00
 date: 2022-01-09T23:56:03+07:00
-description: "Monster Piscertus Piscertus Information from Chimeraland
-
-  \    Piscertus default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                61
-
-  \             \ 
-
-  \   "
-excerpt: "Monster Piscertus Piscertus Information from Chimeraland
-
-  \    Piscertus default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                61
-
-  \             \ 
-
-  \   "
 permalink: /chimeraland/monsters/piscertus.html
 photos:
   - null
@@ -77,47 +13,15 @@ photos:
   - /chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-36-16_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-41-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/piscertus/Screenshot_2022-07-15-16-59-46-09_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster Piscertus Piscertus Information from Chimeraland
-
-  \    Piscertus default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                B GRAND - EPIC
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                61
-
-  \             \ 
-
-  \   "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Piscertus
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Piscertus
-title: Monster Piscertus
-type: post
-updated: 2023-05-25T16:32:12+07:00
-webtitle: chimeraland
-wordcount: 1085
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

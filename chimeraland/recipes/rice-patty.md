@@ -1,68 +1,23 @@
 ---
+title: Recipe Rice Patty Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-11T01:56:03+07:00
-description: |+
-  Recipe Rice Patty Chimeraland Rice Patty Cooking Recipe
-                
-                Buff Rice Patty
-                
-                  
-                    420 Fullness
-                    Medium Focus
-                    +35 RES
-                  
-                
-                recipe
-              
-              
-excerpt: |+
-  Recipe Rice Patty Chimeraland Rice Patty Cooking Recipe
-                
-                Buff Rice Patty
-                
-                  
-                    420 Fullness
-                    Medium Focus
-                    +35 RES
-                  
-                
-                recipe
-              
-              
+updated: 2022-10-06T11:46:54+07:00
 lang: en
+date: 2022-01-11T01:56:03+07:00
 permalink: /chimeraland/recipes/rice-patty.html
 photos:
   - /chimeraland/recipes/rice-patty/rice-patty.webp
   - /chimeraland/recipes/rice-patty/rice-patty-name.webp
   - /chimeraland/recipes/rice-patty/rice-patty-icon.webp
   - /chimeraland/recipes/rice-patty/rice-patty-material.webp
-subtitle: |+
-  Recipe Rice Patty Chimeraland Rice Patty Cooking Recipe
-                
-                Buff Rice Patty
-                
-                  
-                    420 Fullness
-                    Medium Focus
-                    +35 RES
-                  
-                
-                recipe
-              
-              
+thumbnail: /chimeraland/recipes/rice-patty/rice-patty.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/rice-patty/rice-patty.webp
-title: Recipe Rice Patty Chimeraland
-type: post
-updated: 2022-10-06T11:46:54+07:00
-wordcount: 715
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

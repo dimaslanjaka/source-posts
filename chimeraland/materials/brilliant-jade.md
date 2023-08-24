@@ -1,76 +1,19 @@
 ---
+title: Material Brilliant Jade Chimeraland
+date: 2022-01-07T04:56:03+07:00
+updated: 2022-09-29T04:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/brilliant-jade.html
+photos:
+  - /chimeraland/materials/brilliant-jade/brilliant-jade.webp
+thumbnail: /chimeraland/materials/brilliant-jade/brilliant-jade.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-07T04:56:03+07:00
-description: "Material Brilliant Jade Chimeraland materials
-
-  \        Brilliant Jade
-
-  \        September 29, 2022 4:26 AM
-
-  \       \ 
-
-  \          Five-colored jade, rolling and boiling, five-fragranced, goodness
-  of
-
-  \          heaven, oh flawless luster, ever propitious.
-
-  \       \ 
-
-  \        Continue reading Brilliant Jade
-
-  \    "
-excerpt: "Material Brilliant Jade Chimeraland materials
-
-  \        Brilliant Jade
-
-  \        September 29, 2022 4:26 AM
-
-  \       \ 
-
-  \          Five-colored jade, rolling and boiling, five-fragranced, goodness
-  of
-
-  \          heaven, oh flawless luster, ever propitious.
-
-  \       \ 
-
-  \        Continue reading Brilliant Jade
-
-  \    "
-permalink: /chimeraland/materials/brilliant-jade.html
-photos:
-  - /chimeraland/materials/brilliant-jade/brilliant-jade.webp
-subtitle: "Material Brilliant Jade Chimeraland materials
-
-  \        Brilliant Jade
-
-  \        September 29, 2022 4:26 AM
-
-  \       \ 
-
-  \          Five-colored jade, rolling and boiling, five-fragranced, goodness
-  of
-
-  \          heaven, oh flawless luster, ever propitious.
-
-  \       \ 
-
-  \        Continue reading Brilliant Jade
-
-  \    "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/brilliant-jade/brilliant-jade.webp
-title: Material Brilliant Jade Chimeraland
-type: post
-updated: 2022-09-29T04:26:37+07:00
-wordcount: 1034
 ---
 
 <link

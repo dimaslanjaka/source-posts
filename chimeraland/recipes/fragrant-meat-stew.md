@@ -1,98 +1,23 @@
 ---
+title: Recipe Fragrant Meat Stew Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-08T13:56:03+07:00
-description: "Recipe Fragrant Meat Stew Chimeraland Fragrant Meat Stew Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Fragrant Meat Stew
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +160 DEF
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \  "
-excerpt: "Recipe Fragrant Meat Stew Chimeraland Fragrant Meat Stew Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Fragrant Meat Stew
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +160 DEF
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \  "
+updated: 2022-10-05T20:46:56+07:00
 lang: en
+date: 2022-01-08T13:56:03+07:00
 permalink: /chimeraland/recipes/fragrant-meat-stew.html
 photos:
   - /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew.webp
   - /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew-name.webp
   - /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew-icon.webp
   - /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew-material.webp
-subtitle: "Recipe Fragrant Meat Stew Chimeraland Fragrant Meat Stew Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Fragrant Meat Stew
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +160 DEF
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \  "
+thumbnail: /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/fragrant-meat-stew/fragrant-meat-stew.webp
-title: Recipe Fragrant Meat Stew Chimeraland
-type: post
-updated: 2022-10-05T20:46:56+07:00
-wordcount: 899
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

@@ -1,115 +1,19 @@
 ---
+title: Material Spear Beak Chimeraland
+date: 2022-01-11T11:56:03+07:00
+updated: 2022-10-03T11:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/spear-beak.html
+photos:
+  - /chimeraland/materials/spear-beak/spear-beak.webp
+thumbnail: /chimeraland/materials/spear-beak/spear-beak.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-11T11:56:03+07:00
-description: "Material Spear Beak Chimeraland materials
-
-  \        Spear Beak
-
-  \        October 3, 2022 11:26 AM
-
-  \       \ 
-
-  \          Its beak is long and narrow and it's strong as a spear. It prey
-
-  \          best on water.
-
-  \       \ 
-
-  \        Continue reading Spear Beak
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \      "
-excerpt: "Material Spear Beak Chimeraland materials
-
-  \        Spear Beak
-
-  \        October 3, 2022 11:26 AM
-
-  \       \ 
-
-  \          Its beak is long and narrow and it's strong as a spear. It prey
-
-  \          best on water.
-
-  \       \ 
-
-  \        Continue reading Spear Beak
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \      "
-permalink: /chimeraland/materials/spear-beak.html
-photos:
-  - /chimeraland/materials/spear-beak/spear-beak.webp
-subtitle: "Material Spear Beak Chimeraland materials
-
-  \        Spear Beak
-
-  \        October 3, 2022 11:26 AM
-
-  \       \ 
-
-  \          Its beak is long and narrow and it's strong as a spear. It prey
-
-  \          best on water.
-
-  \       \ 
-
-  \        Continue reading Spear Beak
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \      "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/spear-beak/spear-beak.webp
-title: Material Spear Beak Chimeraland
-type: post
-updated: 2022-10-03T11:26:37+07:00
-wordcount: 1011
 ---
 
 <link

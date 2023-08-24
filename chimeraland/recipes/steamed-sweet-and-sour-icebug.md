@@ -1,66 +1,24 @@
 ---
+title: Recipe Steamed Sweet & Sour Icebug Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-14T01:56:03+07:00
-description: >-
-  Recipe Steamed Sweet & Sour Icebug Chimeraland Steamed Sweet & Sour Icebug
-  Cooking Recipe
-                  
-                
-                
-                  Buff Steamed Sweet & Sour Icebug
-                
-                
-                recipe
-              
-              
-                webmanajemen.com - reci
-excerpt: >-
-  Recipe Steamed Sweet & Sour Icebug Chimeraland Steamed Sweet & Sour Icebug
-  Cooking Recipe
-                  
-                
-                
-                  Buff Steamed Sweet & Sour Icebug
-                
-                
-                recipe
-              
-              
-                webmanajemen.com - reci
+updated: 2022-09-30T01:26:37+07:00
 lang: en
+date: 2022-01-14T01:56:03+07:00
 permalink: /chimeraland/recipes/steamed-sweet-and-sour-icebug.html
 photos:
   - null
   - null
   - null
   - null
-subtitle: >-
-  Recipe Steamed Sweet & Sour Icebug Chimeraland Steamed Sweet & Sour Icebug
-  Cooking Recipe
-                  
-                
-                
-                  Buff Steamed Sweet & Sour Icebug
-                
-                
-                recipe
-              
-              
-                webmanajemen.com - reci
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Steamed Sweet
+  & Sour Icebug
 tags:
   - chimeraland
   - recipe
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Steamed Sweet
-  & Sour Icebug
-title: Recipe Steamed Sweet & Sour Icebug Chimeraland
-type: post
-updated: 2022-09-30T01:26:37+07:00
-wordcount: 969
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

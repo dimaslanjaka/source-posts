@@ -1,69 +1,9 @@
 ---
+title: Attendant rosary siren
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2023-05-23T11:14:26+07:00
 date: 2023-05-23T11:03:26+07:00
-description: "Attendant rosary siren rosary siren Information from Chimeraland
-
-  \    rosary siren default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             "
-excerpt: "Attendant rosary siren rosary siren Information from Chimeraland
-
-  \    rosary siren default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             "
 permalink: /chimeraland/attendants/rosary-siren.html
 photos:
   - /chimeraland/attendants/rosary-siren/Screenshot_2023-04-04-21-23-08-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -74,44 +14,14 @@ photos:
   - /chimeraland/attendants/rosary-siren/Screenshot_2023-04-04-21-23-29-69_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-siren/Screenshot_2023-04-04-21-23-34-48_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/rosary-siren/Screenshot_2023-04-04-21-23-38-30_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant rosary siren rosary siren Information from Chimeraland
-
-  \    rosary siren default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             "
+thumbnail: /chimeraland/attendants/rosary-siren/Screenshot_2023-04-04-21-23-08-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/rosary-siren/Screenshot_2023-04-04-21-23-08-25_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant rosary siren
-type: post
-updated: 2023-05-23T11:14:26+07:00
-webtitle: chimeraland
-wordcount: 1237
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

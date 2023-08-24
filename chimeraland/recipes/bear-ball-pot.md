@@ -1,65 +1,23 @@
 ---
+title: Recipe Bear Ball Pot Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-14T00:56:03+07:00
-description: |-
-  Recipe Bear Ball Pot Chimeraland Bear Ball Pot Cooking Recipe
-                
-                Buff Bear Ball Pot
-                
-                  
-                    Buff Bear Ball Pot not yet written
-                  
-                
-                recipe
-              
-              
-                webmanajemen
-excerpt: |-
-  Recipe Bear Ball Pot Chimeraland Bear Ball Pot Cooking Recipe
-                
-                Buff Bear Ball Pot
-                
-                  
-                    Buff Bear Ball Pot not yet written
-                  
-                
-                recipe
-              
-              
-                webmanajemen
+updated: 2022-09-29T17:26:37+07:00
 lang: en
+date: 2022-01-14T00:56:03+07:00
 permalink: /chimeraland/recipes/bear-ball-pot.html
 photos:
   - null
   - null
   - null
   - null
-subtitle: |-
-  Recipe Bear Ball Pot Chimeraland Bear Ball Pot Cooking Recipe
-                
-                Buff Bear Ball Pot
-                
-                  
-                    Buff Bear Ball Pot not yet written
-                  
-                
-                recipe
-              
-              
-                webmanajemen
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bear Ball Pot
 tags:
   - chimeraland
   - recipe
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Bear Ball Pot
-title: Recipe Bear Ball Pot Chimeraland
-type: post
-updated: 2022-09-29T17:26:37+07:00
-wordcount: 966
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

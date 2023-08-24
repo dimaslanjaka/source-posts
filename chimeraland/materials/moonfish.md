@@ -1,73 +1,19 @@
 ---
+title: Material Moonfish Chimeraland
+date: 2022-01-14T15:56:03+07:00
+updated: 2022-10-06T15:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/moonfish.html
+photos:
+  - /chimeraland/materials/moonfish/moonfish.webp
+thumbnail: /chimeraland/materials/moonfish/moonfish.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-14T15:56:03+07:00
-description: "Material Moonfish Chimeraland materials
-
-  \        Moonfish
-
-  \        October 6, 2022 3:26 PM
-
-  \       \ 
-
-  \          A marine fish that is thin and tall, with a long and slender
-  tail,
-
-  \          forked tail fin, and long slender chest fins in the shape of
-  sickles.
-
-  \          Found in various sea areas.
-
-  \       "
-excerpt: "Material Moonfish Chimeraland materials
-
-  \        Moonfish
-
-  \        October 6, 2022 3:26 PM
-
-  \       \ 
-
-  \          A marine fish that is thin and tall, with a long and slender
-  tail,
-
-  \          forked tail fin, and long slender chest fins in the shape of
-  sickles.
-
-  \          Found in various sea areas.
-
-  \       "
-permalink: /chimeraland/materials/moonfish.html
-photos:
-  - /chimeraland/materials/moonfish/moonfish.webp
-subtitle: "Material Moonfish Chimeraland materials
-
-  \        Moonfish
-
-  \        October 6, 2022 3:26 PM
-
-  \       \ 
-
-  \          A marine fish that is thin and tall, with a long and slender
-  tail,
-
-  \          forked tail fin, and long slender chest fins in the shape of
-  sickles.
-
-  \          Found in various sea areas.
-
-  \       "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/moonfish/moonfish.webp
-title: Material Moonfish Chimeraland
-type: post
-updated: 2022-10-06T15:26:37+07:00
-wordcount: 825
 ---
 
 <link

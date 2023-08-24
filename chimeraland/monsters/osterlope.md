@@ -1,19 +1,9 @@
 ---
+title: Monster Osterlope
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T10:32:12+07:00
 date: 2022-01-09T14:56:03+07:00
-description: "monster Osterlope default quality GRADE B ATK 60 HP 60 DEF 60
-  Attributes Conversion Rate 4.0%,HP 339,Essence Aspect: Green Silk
-  delicacies/tasty Rustic Preserved Deer Roll,Flame Roasted Horn,Bear Ball Pot
-  games,chimeraland,monsters chimeraland,monster,pet"
-excerpt: "monster Osterlope default quality GRADE B ATK 60 HP 60 DEF 60
-  Attributes Conversion Rate 4.0%,HP 339,Essence Aspect: Green Silk
-  delicacies/tasty Rustic Preserved Deer Roll,Flame Roasted Horn,Bear Ball Pot
-  games,chimeraland,monsters chimeraland,monster,pet"
 permalink: /chimeraland/monsters/osterlope.html
 photos:
   - null
@@ -24,20 +14,19 @@ photos:
   - /chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-17-26_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-21-52_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/osterlope/Screenshot_2023-02-26-13-10-25-77_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "monster Osterlope default quality GRADE B ATK 60 HP 60 DEF 60
-  Attributes Conversion Rate 4.0%,HP 339,Essence Aspect: Green Silk
-  delicacies/tasty Rustic Preserved Deer Roll,Flame Roasted Horn,Bear Ball Pot
-  games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Osterlope
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Osterlope
-title: Monster Osterlope
-type: post
-updated: 2023-05-25T10:32:12+07:00
-webtitle: chimeraland
-wordcount: 1552
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: "monster Osterlope default quality GRADE B ATK 60 HP 60 DEF 60
+  Attributes Conversion Rate 4.0%,HP 339,Essence Aspect: Green Silk
+  delicacies/tasty Rustic Preserved Deer Roll,Flame Roasted Horn,Bear Ball Pot
+  games,chimeraland,monsters chimeraland,monster,pet"
 ---
 
 <link

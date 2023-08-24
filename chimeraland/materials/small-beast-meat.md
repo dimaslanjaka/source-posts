@@ -1,121 +1,19 @@
 ---
+title: Material Small Beast Meat Chimeraland
+date: 2022-01-09T01:56:03+07:00
+updated: 2022-10-01T01:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/small-beast-meat.html
+photos:
+  - /chimeraland/materials/small-beast-meat/small-beast-meat.webp
+thumbnail: /chimeraland/materials/small-beast-meat/small-beast-meat.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-09T01:56:03+07:00
-description: "Material Small Beast Meat Chimeraland materials
-
-  \        Small Beast Meat
-
-  \        October 1, 2022 1:26 AM
-
-  \        Continue reading Small Beast Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Small Beast Meat
-
-  \           \ 
-
-  \             \ 
-
-  \      "
-excerpt: "Material Small Beast Meat Chimeraland materials
-
-  \        Small Beast Meat
-
-  \        October 1, 2022 1:26 AM
-
-  \        Continue reading Small Beast Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Small Beast Meat
-
-  \           \ 
-
-  \             \ 
-
-  \      "
-permalink: /chimeraland/materials/small-beast-meat.html
-photos:
-  - /chimeraland/materials/small-beast-meat/small-beast-meat.webp
-subtitle: "Material Small Beast Meat Chimeraland materials
-
-  \        Small Beast Meat
-
-  \        October 1, 2022 1:26 AM
-
-  \        Continue reading Small Beast Meat
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Small Beast Meat
-
-  \           \ 
-
-  \             \ 
-
-  \      "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/small-beast-meat/small-beast-meat.webp
-title: Material Small Beast Meat Chimeraland
-type: post
-updated: 2022-10-01T01:26:37+07:00
-wordcount: 1350
 ---
 
 <link

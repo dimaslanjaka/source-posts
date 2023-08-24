@@ -1,73 +1,9 @@
 ---
+title: Monster spike stoneppo
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T07:32:12+07:00
 date: 2023-02-13T12:21:53+07:00
-description: "Monster spike stoneppo spike stoneppo Information from Chimeraland
-
-  \    spike stoneppo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \    "
-excerpt: "Monster spike stoneppo spike stoneppo Information from Chimeraland
-
-  \    spike stoneppo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \    "
 permalink: /chimeraland/monsters/spike-stoneppo.html
 photos:
   - null
@@ -78,47 +14,15 @@ photos:
   - /chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-42-02_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-48-97_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/spike-stoneppo/Screenshot_2023-01-29-01-29-53-73_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster spike stoneppo spike stoneppo Information from Chimeraland
-
-  \    spike stoneppo default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \    "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=spike stoneppo
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=spike stoneppo
-title: Monster spike stoneppo
-type: post
-updated: 2023-05-25T07:32:12+07:00
-webtitle: chimeraland
-wordcount: 1225
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

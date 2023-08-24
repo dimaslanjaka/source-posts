@@ -1,117 +1,21 @@
 ---
+title: Monster Halcyonet
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T11:47:12+07:00
 date: 2022-01-08T12:56:03+07:00
-description: "Monster Halcyonet Halcyonet Information from Chimeraland
-
-  \    Halcyonet default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                48
-
-  \             \ 
-
-  \           "
-excerpt: "Monster Halcyonet Halcyonet Information from Chimeraland
-
-  \    Halcyonet default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                48
-
-  \             \ 
-
-  \           "
 permalink: /chimeraland/monsters/halcyonet.html
 photos:
   - null
-subtitle: "Monster Halcyonet Halcyonet Information from Chimeraland
-
-  \    Halcyonet default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                48
-
-  \             \ 
-
-  \           "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Halcyonet
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Halcyonet
-title: Monster Halcyonet
-type: post
-updated: 2023-05-25T11:47:12+07:00
-webtitle: chimeraland
-wordcount: 633
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

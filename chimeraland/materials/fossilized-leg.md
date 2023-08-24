@@ -1,121 +1,19 @@
 ---
+title: Material Fossilized Leg Chimeraland
+date: 2022-01-13T12:56:03+07:00
+updated: 2022-10-05T12:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/fossilized-leg.html
+photos:
+  - /chimeraland/materials/fossilized-leg/fossilized-leg.webp
+thumbnail: /chimeraland/materials/fossilized-leg/fossilized-leg.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-13T12:56:03+07:00
-description: "Material Fossilized Leg Chimeraland materials
-
-  \        Fossilized Leg
-
-  \        October 5, 2022 12:26 PM
-
-  \        Continue reading Fossilized Leg
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Fossilized Leg
-
-  \           \ 
-
-  \             \ 
-
-  \             "
-excerpt: "Material Fossilized Leg Chimeraland materials
-
-  \        Fossilized Leg
-
-  \        October 5, 2022 12:26 PM
-
-  \        Continue reading Fossilized Leg
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Fossilized Leg
-
-  \           \ 
-
-  \             \ 
-
-  \             "
-permalink: /chimeraland/materials/fossilized-leg.html
-photos:
-  - /chimeraland/materials/fossilized-leg/fossilized-leg.webp
-subtitle: "Material Fossilized Leg Chimeraland materials
-
-  \        Fossilized Leg
-
-  \        October 5, 2022 12:26 PM
-
-  \        Continue reading Fossilized Leg
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Fossilized Leg
-
-  \           \ 
-
-  \             \ 
-
-  \             "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/fossilized-leg/fossilized-leg.webp
-title: Material Fossilized Leg Chimeraland
-type: post
-updated: 2022-10-05T12:26:37+07:00
-wordcount: 759
 ---
 
 <link

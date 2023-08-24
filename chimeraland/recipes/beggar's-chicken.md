@@ -1,96 +1,23 @@
 ---
+title: Recipe Beggar's Chicken Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-07T02:56:03+07:00
-description: "Recipe Beggar's Chicken Chimeraland Beggar's Chicken Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Beggar's Chicken
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                  +4% Critical Damage Dealt
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \        "
-excerpt: "Recipe Beggar's Chicken Chimeraland Beggar's Chicken Cooking Recipe
-
-  \             \ 
-
-  \              Buff Beggar's Chicken
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                  +4% Critical Damage Dealt
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \        "
+updated: 2022-10-05T14:46:53+07:00
 lang: en
+date: 2022-01-07T02:56:03+07:00
 permalink: /chimeraland/recipes/beggars-chicken.html
 photos:
   - /chimeraland/recipes/beggars-chicken/beggars-chicken.webp
   - /chimeraland/recipes/beggars-chicken/beggars-chicken-name.webp
   - /chimeraland/recipes/beggars-chicken/beggars-chicken-icon.webp
   - /chimeraland/recipes/beggars-chicken/beggars-chicken-material.webp
-subtitle: "Recipe Beggar's Chicken Chimeraland Beggar's Chicken Cooking Recipe
-
-  \             \ 
-
-  \              Buff Beggar's Chicken
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                  +4% Critical Damage Dealt
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \        "
+thumbnail: /chimeraland/recipes/beggars-chicken/beggars-chicken.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/beggars-chicken/beggars-chicken.webp
-title: Recipe Beggar's Chicken Chimeraland
-type: post
-updated: 2022-10-05T14:46:53+07:00
-wordcount: 636
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

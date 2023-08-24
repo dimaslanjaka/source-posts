@@ -1,123 +1,21 @@
 ---
+title: Monster Frost Bear
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T06:52:12+07:00
 date: 2023-05-25T02:21:12+07:00
-description: "Monster Frost Bear Frost Bear Information from Chimeraland
-
-  \    Frost Bear default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \ "
-excerpt: "Monster Frost Bear Frost Bear Information from Chimeraland
-
-  \    Frost Bear default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \ "
 permalink: /chimeraland/monsters/frost-bear.html
 photos:
   - null
-subtitle: "Monster Frost Bear Frost Bear Information from Chimeraland
-
-  \    Frost Bear default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \               \ 
-
-  \             \ 
-
-  \             \ 
-
-  \ "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Bear
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frost Bear
-title: Monster Frost Bear
-type: post
-updated: 2023-05-25T06:52:12+07:00
-webtitle: chimeraland
-wordcount: 658
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

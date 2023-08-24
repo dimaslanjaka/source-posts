@@ -1,127 +1,19 @@
 ---
+title: Material Ice Piece Chimeraland
+date: 2022-01-17T11:56:03+07:00
+updated: 2022-10-09T11:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/ice-piece.html
+photos:
+  - /chimeraland/materials/ice-piece/ice-piece.webp
+thumbnail: /chimeraland/materials/ice-piece/ice-piece.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-17T11:56:03+07:00
-description: "Material Ice Piece Chimeraland materials
-
-  \        Ice Piece
-
-  \        October 9, 2022 11:26 AM
-
-  \        Continue reading Ice Piece
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Ice Piece
-
-  \           \ 
-
-  \             \ 
-
-  \               \ 
-
-  \                "
-excerpt: "Material Ice Piece Chimeraland materials
-
-  \        Ice Piece
-
-  \        October 9, 2022 11:26 AM
-
-  \        Continue reading Ice Piece
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Ice Piece
-
-  \           \ 
-
-  \             \ 
-
-  \               \ 
-
-  \                "
-permalink: /chimeraland/materials/ice-piece.html
-photos:
-  - /chimeraland/materials/ice-piece/ice-piece.webp
-subtitle: "Material Ice Piece Chimeraland materials
-
-  \        Ice Piece
-
-  \        October 9, 2022 11:26 AM
-
-  \        Continue reading Ice Piece
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \            What is the use of the Ice Piece
-
-  \           \ 
-
-  \             \ 
-
-  \               \ 
-
-  \                "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/ice-piece/ice-piece.webp
-title: Material Ice Piece Chimeraland
-type: post
-updated: 2022-10-09T11:26:37+07:00
-wordcount: 25670
 ---
 
 <link

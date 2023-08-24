@@ -1,101 +1,23 @@
 ---
+title: Recipe Cold Lime Broth Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-08T07:56:03+07:00
-description: "Recipe Cold Lime Broth Chimeraland Cold Lime Broth Cooking Recipe
-
-  \             \ 
-
-  \              Buff Cold Lime Broth
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                  Heat Resistance +15
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
-excerpt: "Recipe Cold Lime Broth Chimeraland Cold Lime Broth Cooking Recipe
-
-  \             \ 
-
-  \              Buff Cold Lime Broth
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                  Heat Resistance +15
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
+updated: 2022-10-05T19:46:53+07:00
 lang: en
+date: 2022-01-08T07:56:03+07:00
 permalink: /chimeraland/recipes/cold-lime-broth.html
 photos:
   - null
   - null
   - null
   - null
-subtitle: "Recipe Cold Lime Broth Chimeraland Cold Lime Broth Cooking Recipe
-
-  \             \ 
-
-  \              Buff Cold Lime Broth
-
-  \             \ 
-
-  \               \ 
-
-  \                  300 Fullness
-
-  \                  Heat Resistance +15
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \    "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cold Lime Broth
 tags:
   - chimeraland
   - recipe
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Cold Lime Broth
-title: Recipe Cold Lime Broth Chimeraland
-type: post
-updated: 2022-10-05T19:46:53+07:00
-wordcount: 707
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

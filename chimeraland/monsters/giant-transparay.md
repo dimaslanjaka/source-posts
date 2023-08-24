@@ -1,66 +1,9 @@
 ---
+title: Monster Giant Transparay
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T03:48:12+07:00
 date: 2023-08-07T01:43:16+07:00
-description: "Monster Giant Transparay Giant Transparay Information from
-  Chimeraland
-
-  \    Giant Transparay default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \                  A NOBLE - LEGENDARY
-
-  \               \ 
-
-  \             \ 
-
-  \             "
-excerpt: "Monster Giant Transparay Giant Transparay Information from Chimeraland
-
-  \    Giant Transparay default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \                  A NOBLE - LEGENDARY
-
-  \               \ 
-
-  \             \ 
-
-  \             "
 permalink: /chimeraland/monsters/giant-transparay.html
 photos:
   - null
@@ -72,44 +15,15 @@ photos:
   - /chimeraland/monsters/giant-transparay/Screenshot_2023-08-06-23-35-20-92_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-transparay/Screenshot_2023-08-06-23-35-26-14_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-transparay/Screenshot_2023-08-06-23-35-31-61_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster Giant Transparay Giant Transparay Information from
-  Chimeraland
-
-  \    Giant Transparay default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \               \ 
-
-  \                  A NOBLE - LEGENDARY
-
-  \               \ 
-
-  \             \ 
-
-  \             "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Giant Transparay
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Giant Transparay
-title: Monster Giant Transparay
-type: post
-updated: 2023-05-25T03:48:12+07:00
-webtitle: chimeraland
-wordcount: 1368
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

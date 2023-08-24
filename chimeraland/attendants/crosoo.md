@@ -1,19 +1,9 @@
 ---
+title: Attendant Crosoo
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2022-09-29T00:26:37+07:00
 date: 2022-01-06T22:56:03+07:00
-description: attendant Crosoo default quality GRADE C ATK 53 HP 54 DEF 43 Attack
-  20,HP 200,Monster EXP Bonus 40.0% delicacies/tasty Scorpion King Broth,Soy
-  Braised Dragon Bone,Flamebug Meat Claypot games,chimeraland,attendants
-  chimeraland,Attendant
-excerpt: attendant Crosoo default quality GRADE C ATK 53 HP 54 DEF 43 Attack
-  20,HP 200,Monster EXP Bonus 40.0% delicacies/tasty Scorpion King Broth,Soy
-  Braised Dragon Bone,Flamebug Meat Claypot games,chimeraland,attendants
-  chimeraland,Attendant
 permalink: /chimeraland/attendants/crosoo.html
 photos:
   - /chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -22,19 +12,18 @@ photos:
   - /chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-40-71_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-46-00_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-51-66_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: attendant Crosoo default quality GRADE C ATK 53 HP 54 DEF 43 Attack
-  20,HP 200,Monster EXP Bonus 40.0% delicacies/tasty Scorpion King Broth,Soy
-  Braised Dragon Bone,Flamebug Meat Claypot games,chimeraland,attendants
-  chimeraland,Attendant
+thumbnail: /chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/crosoo/Screenshot_2022-07-15-19-44-20-67_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant Crosoo
-type: post
-updated: 2022-09-29T00:26:37+07:00
-webtitle: chimeraland
-wordcount: 1384
+categories:
+  - games
+  - chimeraland
+  - attendants
+description: attendant Crosoo default quality GRADE C ATK 53 HP 54 DEF 43 Attack
+  20,HP 200,Monster EXP Bonus 40.0% delicacies/tasty Scorpion King Broth,Soy
+  Braised Dragon Bone,Flamebug Meat Claypot games,chimeraland,attendants
+  chimeraland,Attendant
 ---
 
 <link

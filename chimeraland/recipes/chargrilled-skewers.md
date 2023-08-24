@@ -1,65 +1,23 @@
 ---
+title: Recipe Chargrilled Skewers Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-07T18:56:03+07:00
-description: |-
-  Recipe Chargrilled Skewers Chimeraland Chargrilled Skewers Cooking Recipe
-                
-                Buff Chargrilled Skewers
-                
-                  
-                    240 Fullness
-                  
-                
-                recipe
-              
-              
-                webmanajemen.com
-excerpt: |-
-  Recipe Chargrilled Skewers Chimeraland Chargrilled Skewers Cooking Recipe
-                
-                Buff Chargrilled Skewers
-                
-                  
-                    240 Fullness
-                  
-                
-                recipe
-              
-              
-                webmanajemen.com
+updated: 2022-10-05T16:46:55+07:00
 lang: en
+date: 2022-01-07T18:56:03+07:00
 permalink: /chimeraland/recipes/chargrilled-skewers.html
 photos:
   - /chimeraland/recipes/chargrilled-skewers/chargrilled-skewers.webp
   - /chimeraland/recipes/chargrilled-skewers/chargrilled-skewers-name.webp
   - /chimeraland/recipes/chargrilled-skewers/chargrilled-skewers-icon.webp
   - /chimeraland/recipes/chargrilled-skewers/chargrilled-skewers-material.webp
-subtitle: |-
-  Recipe Chargrilled Skewers Chimeraland Chargrilled Skewers Cooking Recipe
-                
-                Buff Chargrilled Skewers
-                
-                  
-                    240 Fullness
-                  
-                
-                recipe
-              
-              
-                webmanajemen.com
+thumbnail: /chimeraland/recipes/chargrilled-skewers/chargrilled-skewers.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/chargrilled-skewers/chargrilled-skewers.webp
-title: Recipe Chargrilled Skewers Chimeraland
-type: post
-updated: 2022-10-05T16:46:55+07:00
-wordcount: 669
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

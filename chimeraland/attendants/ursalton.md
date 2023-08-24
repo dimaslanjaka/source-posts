@@ -1,73 +1,9 @@
 ---
+title: Attendant ursalton
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - attendants
-comments: true
+updated: 2022-11-26T09:35:17+07:00
 date: 2022-11-26T09:24:17+07:00
-description: "Attendant ursalton ursalton Information from Chimeraland
-
-  \    ursalton default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \          "
-excerpt: "Attendant ursalton ursalton Information from Chimeraland
-
-  \    ursalton default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \          "
 permalink: /chimeraland/attendants/ursalton.html
 photos:
   - /chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-09-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -77,46 +13,14 @@ photos:
   - /chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-31-74_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-36-95_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-41-32_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Attendant ursalton ursalton Information from Chimeraland
-
-  \    ursalton default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \             \ 
-
-  \          "
+thumbnail: /chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-09-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - Attendant
-thumbnail: /chimeraland/attendants/ursalton/Screenshot_2022-11-25-11-29-09-63_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Attendant ursalton
-type: post
-updated: 2022-11-26T09:35:17+07:00
-webtitle: chimeraland
-wordcount: 1059
+categories:
+  - games
+  - chimeraland
+  - attendants
 ---
 
 <link

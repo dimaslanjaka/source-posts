@@ -1,36 +1,9 @@
 ---
-categories:
-  - games
-  - chimeraland
-comments: true
-date: 2023-07-24T02:19:44+07:00
-description: >-
-  Pet mutations chimeraland Chimeraland released a new feature, namely “Mutation
-  Pet”. This feature can change the pet’s appearance and give a new status. The
-  attributes provided are categorized into 2 types: Northwind Attribute (green
-  color in the attribute name)
-
-  Molten Attribute (yellow color in the
-excerpt: >-
-  Pet mutations chimeraland Chimeraland released a new feature, namely “Mutation
-  Pet”. This feature can change the pet’s appearance and give a new status. The
-  attributes provided are categorized into 2 types: Northwind Attribute (green
-  color in the attribute name)
-
-  Molten Attribute (yellow color in the
-subtitle: >-
-  Pet mutations chimeraland Chimeraland released a new feature, namely “Mutation
-  Pet”. This feature can change the pet’s appearance and give a new status. The
-  attributes provided are categorized into 2 types: Northwind Attribute (green
-  color in the attribute name)
-
-  Molten Attribute (yellow color in the
-tags:
-  - monster
 title: Pet mutations chimeraland
-type: post
+date: 2023-07-24T02:19:44+07:00
 updated: 2023-07-25T11:04:12+07:00
-wordcount: 270
+categories: [games, chimeraland]
+tags: [monster]
 ---
 
 Chimeraland released a new feature, namely "Mutation Pet". This feature can change the pet's appearance and give a new status. The attributes provided are categorized into 2 types:

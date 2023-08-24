@@ -1,101 +1,23 @@
 ---
+title: Recipe Pumpkin Bowl Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-10T06:56:03+07:00
-description: "Recipe Pumpkin Bowl Chimeraland Pumpkin Bowl Cooking Recipe
-
-  \             \ 
-
-  \              Buff Pumpkin Bowl
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +10% CRIT DMG
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \  "
-excerpt: "Recipe Pumpkin Bowl Chimeraland Pumpkin Bowl Cooking Recipe
-
-  \             \ 
-
-  \              Buff Pumpkin Bowl
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +10% CRIT DMG
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \  "
+updated: 2022-10-07T02:46:54+07:00
 lang: en
+date: 2022-01-10T06:56:03+07:00
 permalink: /chimeraland/recipes/pumpkin-bowl.html
 photos:
   - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl.webp
   - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-name.webp
   - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-icon.webp
   - /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl-material.webp
-subtitle: "Recipe Pumpkin Bowl Chimeraland Pumpkin Bowl Cooking Recipe
-
-  \             \ 
-
-  \              Buff Pumpkin Bowl
-
-  \             \ 
-
-  \               \ 
-
-  \                  660 Fullness
-
-  \                  +10% CRIT DMG
-
-  \                  Great Focus
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \  "
+thumbnail: /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/pumpkin-bowl/pumpkin-bowl.webp
-title: Recipe Pumpkin Bowl Chimeraland
-type: post
-updated: 2022-10-07T02:46:54+07:00
-wordcount: 911
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

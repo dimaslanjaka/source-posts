@@ -1,36 +1,25 @@
 ---
+title: Monster Frostwolf
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T04:41:12+07:00
 date: 2022-01-07T20:56:03+07:00
-description: "monster Frostwolf default quality GRADE B ATK 61 HP 57 DEF 63
-  Attributes Conversion Rate 4.0%,Ranged DMG Reduction 4.8%,Essence Aspect:
-  Broken Fang delicacies/tasty Brined Silkhopper Meat,Hot 'n Sour Jelly,Overlord
-  Hide Jelly games,chimeraland,monsters chimeraland,monster,pet"
-excerpt: "monster Frostwolf default quality GRADE B ATK 61 HP 57 DEF 63
-  Attributes Conversion Rate 4.0%,Ranged DMG Reduction 4.8%,Essence Aspect:
-  Broken Fang delicacies/tasty Brined Silkhopper Meat,Hot 'n Sour Jelly,Overlord
-  Hide Jelly games,chimeraland,monsters chimeraland,monster,pet"
 permalink: /chimeraland/monsters/frostwolf.html
 photos:
   - null
-subtitle: "monster Frostwolf default quality GRADE B ATK 61 HP 57 DEF 63
-  Attributes Conversion Rate 4.0%,Ranged DMG Reduction 4.8%,Essence Aspect:
-  Broken Fang delicacies/tasty Brined Silkhopper Meat,Hot 'n Sour Jelly,Overlord
-  Hide Jelly games,chimeraland,monsters chimeraland,monster,pet"
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frostwolf
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Frostwolf
-title: Monster Frostwolf
-type: post
-updated: 2023-05-25T04:41:12+07:00
-webtitle: chimeraland
-wordcount: 1055
+categories:
+  - games
+  - chimeraland
+  - monsters
+description: "monster Frostwolf default quality GRADE B ATK 61 HP 57 DEF 63
+  Attributes Conversion Rate 4.0%,Ranged DMG Reduction 4.8%,Essence Aspect:
+  Broken Fang delicacies/tasty Brined Silkhopper Meat,Hot 'n Sour Jelly,Overlord
+  Hide Jelly games,chimeraland,monsters chimeraland,monster,pet"
 ---
 
 <link

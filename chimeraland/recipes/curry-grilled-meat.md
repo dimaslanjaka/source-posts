@@ -1,104 +1,23 @@
 ---
+title: Recipe Curry Grilled Meat Chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - recipes
-comments: true
-date: 2022-01-07T13:56:03+07:00
-description: "Recipe Curry Grilled Meat Chimeraland Curry Grilled Meat Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Curry Grilled Meat
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +150 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \      "
-excerpt: "Recipe Curry Grilled Meat Chimeraland Curry Grilled Meat Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Curry Grilled Meat
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +150 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \      "
+updated: 2022-10-05T07:46:54+07:00
 lang: en
+date: 2022-01-07T13:56:03+07:00
 permalink: /chimeraland/recipes/curry-grilled-meat.html
 photos:
   - /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat.webp
   - /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat-name.webp
   - /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat-icon.webp
   - /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat-material.webp
-subtitle: "Recipe Curry Grilled Meat Chimeraland Curry Grilled Meat Cooking
-  Recipe
-
-  \             \ 
-
-  \              Buff Curry Grilled Meat
-
-  \             \ 
-
-  \               \ 
-
-  \                  420 Fullness
-
-  \                  +150 ATK
-
-  \               \ 
-
-  \             \ 
-
-  \              recipe
-
-  \           \ 
-
-  \           \ 
-
-  \      "
+thumbnail: /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat.webp
 tags:
   - chimeraland
   - recipe
-thumbnail: /chimeraland/recipes/curry-grilled-meat/curry-grilled-meat.webp
-title: Recipe Curry Grilled Meat Chimeraland
-type: post
-updated: 2022-10-05T07:46:54+07:00
-wordcount: 702
+categories:
+  - games
+  - chimeraland
+  - recipes
 ---
 
 <link

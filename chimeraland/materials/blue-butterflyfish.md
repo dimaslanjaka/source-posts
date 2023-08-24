@@ -1,115 +1,19 @@
 ---
+title: Material Blue Butterflyfish Chimeraland
+date: 2022-01-15T15:56:03+07:00
+updated: 2022-10-07T15:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/blue-butterflyfish.html
+photos:
+  - /chimeraland/materials/blue-butterflyfish/blue-butterflyfish.webp
+thumbnail: /chimeraland/materials/blue-butterflyfish/blue-butterflyfish.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-15T15:56:03+07:00
-description: "Material Blue Butterflyfish Chimeraland materials
-
-  \        Blue Butterflyfish
-
-  \        October 7, 2022 3:26 PM
-
-  \        Continue reading Blue Butterflyfish
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \              What is the use of the Blue Butterflyfish
-
-  \           "
-excerpt: "Material Blue Butterflyfish Chimeraland materials
-
-  \        Blue Butterflyfish
-
-  \        October 7, 2022 3:26 PM
-
-  \        Continue reading Blue Butterflyfish
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \              What is the use of the Blue Butterflyfish
-
-  \           "
-permalink: /chimeraland/materials/blue-butterflyfish.html
-photos:
-  - /chimeraland/materials/blue-butterflyfish/blue-butterflyfish.webp
-subtitle: "Material Blue Butterflyfish Chimeraland materials
-
-  \        Blue Butterflyfish
-
-  \        October 7, 2022 3:26 PM
-
-  \        Continue reading Blue Butterflyfish
-
-  \     \ 
-
-  \     \ 
-
-  \       \ 
-
-  \     \ 
-
-  \   \ 
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \              What is the use of the Blue Butterflyfish
-
-  \           "
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/blue-butterflyfish/blue-butterflyfish.webp
-title: Material Blue Butterflyfish Chimeraland
-type: post
-updated: 2022-10-07T15:26:37+07:00
-wordcount: 641
 ---
 
 <link

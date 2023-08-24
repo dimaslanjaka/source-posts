@@ -1,69 +1,9 @@
 ---
+title: Monster giant piranha
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-03-28T10:10:08+07:00
 date: 2023-03-28T09:59:08+07:00
-description: "Monster giant piranha giant piranha Information from Chimeraland
-
-  \    giant piranha default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \            "
-excerpt: "Monster giant piranha giant piranha Information from Chimeraland
-
-  \    giant piranha default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \            "
 permalink: /chimeraland/monsters/giant-piranha.html
 photos:
   - /chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-34-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
@@ -73,45 +13,15 @@ photos:
   - /chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-50-62_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-55-65_f4fc9fb10454fc3a3dacb99dff89b568.webp
   - /chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-44-01-04_f4fc9fb10454fc3a3dacb99dff89b568.webp
-subtitle: "Monster giant piranha giant piranha Information from Chimeraland
-
-  \    giant piranha default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                N/A N/A
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                N/A
-
-  \            "
+thumbnail: /chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-34-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: /chimeraland/monsters/giant-piranha/Screenshot_2023-03-20-20-43-34-20_f4fc9fb10454fc3a3dacb99dff89b568.webp
-title: Monster giant piranha
-type: post
-updated: 2023-03-28T10:10:08+07:00
-webtitle: chimeraland
-wordcount: 1156
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link

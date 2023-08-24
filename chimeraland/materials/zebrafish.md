@@ -1,52 +1,19 @@
 ---
+title: Material Zebrafish Chimeraland
+date: 2022-01-14T18:56:03+07:00
+updated: 2022-10-06T18:26:37+07:00
 author: L3n4r0x
+permalink: /chimeraland/materials/zebrafish.html
+photos:
+  - /chimeraland/materials/zebrafish/zebrafish.webp
+thumbnail: /chimeraland/materials/zebrafish/zebrafish.webp
+tags:
+  - chimeraland
+  - material
 categories:
   - games
   - chimeraland
   - material
-comments: true
-date: 2022-01-14T18:56:03+07:00
-description: >-
-  Material Zebrafish Chimeraland materials
-          Zebrafish
-          October 6, 2022 6:26 PM
-          
-            Freshwater fish with a spindle-shaped body, small and slightly pointed
-            head, and short snout. In various freshwater areas traces of it may be
-            found.
-          
-          Cont
-excerpt: >-
-  Material Zebrafish Chimeraland materials
-          Zebrafish
-          October 6, 2022 6:26 PM
-          
-            Freshwater fish with a spindle-shaped body, small and slightly pointed
-            head, and short snout. In various freshwater areas traces of it may be
-            found.
-          
-          Cont
-permalink: /chimeraland/materials/zebrafish.html
-photos:
-  - /chimeraland/materials/zebrafish/zebrafish.webp
-subtitle: >-
-  Material Zebrafish Chimeraland materials
-          Zebrafish
-          October 6, 2022 6:26 PM
-          
-            Freshwater fish with a spindle-shaped body, small and slightly pointed
-            head, and short snout. In various freshwater areas traces of it may be
-            found.
-          
-          Cont
-tags:
-  - chimeraland
-  - material
-thumbnail: /chimeraland/materials/zebrafish/zebrafish.webp
-title: Material Zebrafish Chimeraland
-type: post
-updated: 2022-10-06T18:26:37+07:00
-wordcount: 780
 ---
 
 <link

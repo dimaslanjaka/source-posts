@@ -1,117 +1,21 @@
 ---
+title: Monster Spear Rhino
+webtitle: chimeraland
 author: L3n4r0x
-categories:
-  - games
-  - chimeraland
-  - monsters
-comments: true
+updated: 2023-05-25T18:55:12+07:00
 date: 2022-01-10T12:56:03+07:00
-description: "Monster Spear Rhino Spear Rhino Information from Chimeraland
-
-  \    Spear Rhino default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                54
-
-  \             \ 
-
-  \     "
-excerpt: "Monster Spear Rhino Spear Rhino Information from Chimeraland
-
-  \    Spear Rhino default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                54
-
-  \             \ 
-
-  \     "
 permalink: /chimeraland/monsters/spear-rhino.html
 photos:
   - null
-subtitle: "Monster Spear Rhino Spear Rhino Information from Chimeraland
-
-  \    Spear Rhino default maximum attribute
-
-  \   \ 
-
-  \     \ 
-
-  \       \ 
-
-  \         \ 
-
-  \           \ 
-
-  \             \ 
-
-  \                GRADE
-
-  \                C RARE
-
-  \             \ 
-
-  \             \ 
-
-  \                Attack
-
-  \                54
-
-  \             \ 
-
-  \     "
+thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spear Rhino
 tags:
   - chimeraland
   - monster
   - pet
-thumbnail: https://via.placeholder.com/550x50/FFFFFF/000000/?text=Spear Rhino
-title: Monster Spear Rhino
-type: post
-updated: 2023-05-25T18:55:12+07:00
-webtitle: chimeraland
-wordcount: 670
+categories:
+  - games
+  - chimeraland
+  - monsters
 ---
 
 <link
