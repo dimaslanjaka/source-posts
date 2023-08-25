@@ -10,18 +10,7 @@ description: hexo run custom script after site generated Create custom script
   dir>/scripts/script-file-name.js. <your hexo project
   dir>/scripts/script-file-name.js <your hexo project dir> is your current site
   directory <your hexo project dir> fill belo
-excerpt: hexo run custom script after site generated Create custom script file
-  create new custom script file inside <your hexo project
-  dir>/scripts/script-file-name.js. <your hexo project
-  dir>/scripts/script-file-name.js <your hexo project dir> is your current site
-  directory <your hexo project dir> fill belo
 lang: en
-photos: []
-subtitle: hexo run custom script after site generated Create custom script file
-  create new custom script file inside <your hexo project
-  dir>/scripts/script-file-name.js. <your hexo project
-  dir>/scripts/script-file-name.js <your hexo project dir> is your current site
-  directory <your hexo project dir> fill belo
 tags:
   - hexo
   - snippet
@@ -29,7 +18,7 @@ tags:
   - javascript
 title: hexo run custom script after site generated
 type: post
-updated: 2023-08-08T14:44:18+07:00
+updated: 2023-08-26T05:35:25+07:00
 wordcount: 185
 ---
 

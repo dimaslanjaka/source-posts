@@ -10,24 +10,15 @@ description: Get total words of hexo post Hexo script to get words count of a
   /hexo.extend.helper.registerword_count, content => content =
   content.replace/<\/?[a-z][^>]>/gi, ; content = content.trim; return content ?
   content.ma
-excerpt: Get total words of hexo post Hexo script to get words count of a post
-  contents / Get the word count of a paragraph.
-  /hexo.extend.helper.registerword_count, content => content =
-  content.replace/<\/?[a-z][^>]>/gi, ; content = content.trim; return content ?
-  content.ma
 lang: en
-photos: []
-subtitle: Get total words of hexo post Hexo script to get words count of a post
-  contents / Get the word count of a paragraph.
-  /hexo.extend.helper.registerword_count, content => content =
-  content.replace/<\/?[a-z][^>]>/gi, ; content = content.trim; return content ?
-  content.ma
 tags:
-  - snippet
   - hexo
+  - snippet
+  - script
+  - javascript
 title: Get total words of hexo post
 type: post
-updated: 2023-08-08T14:44:18+07:00
+updated: 2023-08-26T05:35:25+07:00
 wordcount: 135
 ---
 

@@ -9,19 +9,8 @@ description: "hexo run custom script after clean Create custom script file
   create new custom script file inside <your hexo project
   dir>/scripts/script-file-name.js. <your hexo project
   dir>/scripts/script-file-name.js <your hexo project dir> is your current site
-  directory <your hexo project dir> fill below codes "
-excerpt: "hexo run custom script after clean Create custom script file create
-  new custom script file inside <your hexo project
-  dir>/scripts/script-file-name.js. <your hexo project
-  dir>/scripts/script-file-name.js <your hexo project dir> is your current site
-  directory <your hexo project dir> fill below codes "
+  directory <your hexo project dir> fill below codes " 
 lang: en
-photos: []
-subtitle: "hexo run custom script after clean Create custom script file create
-  new custom script file inside <your hexo project
-  dir>/scripts/script-file-name.js. <your hexo project
-  dir>/scripts/script-file-name.js <your hexo project dir> is your current site
-  directory <your hexo project dir> fill below codes "
 tags:
   - hexo
   - snippet
@@ -29,7 +18,7 @@ tags:
   - javascript
 title: hexo run custom script after clean
 type: post
-updated: 2023-08-08T14:44:18+07:00
+updated: 2023-08-26T05:35:25+07:00
 wordcount: 185
 ---
 
