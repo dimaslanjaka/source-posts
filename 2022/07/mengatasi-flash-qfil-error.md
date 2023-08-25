@@ -15,7 +15,7 @@ tags: []
 thumbnail: /2022/07/mengatasi-flash-qfil-error/cover.jpg
 title: Cara Mengatasi Flash QFIL Error
 type: post
-updated: 2023-08-08T14:45:09+07:00
+updated: 2023-08-25T07:13:51+07:00
 wordcount: 1450
 ---
 
@@ -28,7 +28,7 @@ wordcount: 1450
 
 ## Video cara megatasi flash QFIL error
 
-{{% youtube 5u0Nd1lj9GI %}}
+{% youtube 5u0Nd1lj9GI %}
 
 ## Macam-macam faktor error flashing dengan QFIL
 
