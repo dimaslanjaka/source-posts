@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { dirname, join } from 'path';
-import puppeteer from 'puppeteer';
+import puppeteer, { TimeoutError } from 'puppeteer';
 import { fileURLToPath } from 'url';
 import { puppeteerOpt } from './puppeteerOpt';
 
@@ -29,7 +29,7 @@ async function search(keyword: string) {
       removeProxy(proxy);
       await browser.close();
     };
-    if (e instanceof puppeteer.errors.TimeoutError) {
+    if (e instanceof TimeoutError) {
       // Do something if this is a timeout.
       console.log('timeout while waiting');
     } else if (e instanceof Error) {
