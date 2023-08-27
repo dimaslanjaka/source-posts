@@ -75,7 +75,7 @@ jobs:
           YARN_CHECKSUM_BEHAVIOR=update yarn install
       - run: ts-node src/ci/check-other-ci.ts
         name: check static-blog-generator-hexo workflow run status
-      - run: copy workflow to /posts
+      - name: copy workflow to /posts
         run: ts-node src/ci/copy-workflows-to-posts.ts
       - name: commit & push /posts
         run: |
