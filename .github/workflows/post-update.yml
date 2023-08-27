@@ -75,10 +75,10 @@ jobs:
           rm yarn.lock
           touch yarn.lock
           YARN_CHECKSUM_BEHAVIOR=update yarn install
-      - run: ts-node src/ci/check-other-ci.ts
+      - run: cross-env-shell NODE_ENV=production node --experimental-specifier-resolution=node --loader ts-node/esm -r dotenv/config src/ci/check-other-ci.ts
         name: check static-blog-generator-hexo workflow run status
       - name: copy workflow to /posts
-        run: ts-node src/ci/copy-workflows-to-posts.ts
+        run: cross-env-shell NODE_ENV=production node --experimental-specifier-resolution=node --loader ts-node/esm -r dotenv/config src/ci/copy-workflows-to-posts.ts
       - name: commit & push /posts
         working-directory: posts
         run: |
