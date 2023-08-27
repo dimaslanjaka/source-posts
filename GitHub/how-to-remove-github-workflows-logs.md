@@ -8,9 +8,9 @@ categories: ["programming"]
 
 each workflow runs creating huge logs in github actions. sometimes you need to clean them to prune repository sizes. below is tips & tricks to delete github workflows logs.
 
-# open repository
+## open repository
 open your repository folder or edit on github directly
-# create new workflow
+## create new workflow
 create new workflow `.github/workflows/clean-logs.yml` and write below scripts
 
 ```yaml
@@ -73,11 +73,18 @@ jobs:
           dry_run: ${{ github.event.inputs.dry_run }}
 ```
 
-# open repository actions
+## open repository actions
 
 https://github.com/USERNAME/REPOSITORY/actions
 
 ![click the actions tab](https://github.com/dimaslanjaka/source-posts/assets/12471057/58b318de-210b-41fa-8ffc-3f21896b1982)
 
-# select delete old workflows run logs
+## select delete old workflows run logs
 ![click spesific workflow](https://github.com/dimaslanjaka/source-posts/assets/12471057/7ecef604-2a0c-4032-96bc-3f1aed734248)
+
+## click run workflow
+![trigger the selected workflow](https://github.com/dimaslanjaka/source-posts/assets/12471057/13815193-c6db-4538-b6da-31a2b2022316)
+![start trigger the selected workflow](https://github.com/dimaslanjaka/source-posts/assets/12471057/0728f88f-6ae5-4174-9bc9-ae6022ddaff8)
+
+## wait until finish
+after finished your workflows logs should be emptied/cleaned
