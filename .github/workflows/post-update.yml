@@ -1,5 +1,4 @@
 name: Post Update
-run-name: Reusable Build Site CI
 
 on:
   schedule:
@@ -17,7 +16,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  check-reusable-ci:
+  run-other-workflows:
     env:
       NODE_OPTIONS: '--max_old_space_size=8192' #8192 4096 --expose-gc
       YARN_ENABLE_IMMUTABLE_INSTALLS: false
@@ -43,13 +42,10 @@ jobs:
         name: init cache
         with:
           path: |
-            ./site/db.json
-            ./site/public
-            ./site/tmp
-            ./site/source/_posts
-            ./site/multisite/chimeraland/tmp
+            **/tmp
             **/dist
             **/.yarn
+            **/node_modules
           key: ${{ runner.os }}-${{ env.node_version }}
           restore-keys: |
             ${{ runner.os }}-${{ env.node_version }}
@@ -96,15 +92,6 @@ jobs:
             git commit -m "chore: update posts ${{ env.GITHUB_COMMIT_URL }}" -m "commit hash: ${{ env.GITHUB_SHA_SHORT }}" -m "commit url: ${{ env.GITHUB_COMMIT_URL }}" -m "runner: ${{ env.GITHUB_RUNNER_URL }}"
             git push
           fi
-
-  call-workflow:
-    needs: [check-reusable-ci]
-    runs-on: ubuntu-latest
-    env:
-      NODE_OPTIONS: '--max_old_space_size=8192' #8192 4096 --expose-gc
-      YARN_ENABLE_IMMUTABLE_INSTALLS: false
-      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-    steps:
       - name: Trigger Workflow
         uses: actions/github-script@v6
         with:
