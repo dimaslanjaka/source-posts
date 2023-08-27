@@ -80,5 +80,5 @@ jobs:
               'dimaslanjaka',
               'static-blog-generator-hexo',
               'workflows/build-site.yml',
-              'master',
+              'master'
             });
