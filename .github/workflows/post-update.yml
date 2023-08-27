@@ -99,19 +99,4 @@ jobs:
             git push
           fi
       - name: Trigger Workflow
-        uses: actions/github-script@v6
-        with:
-          script: |
-            await github.rest.actions.createWorkflowDispatch({
-              owner: 'dimaslanjaka',
-              repo: 'static-blog-generator-hexo',
-              workflow_id: 'build-site.yml',
-              ref: 'master',
-              inputs: {
-                token: "${{ secrets.ACCESS_TOKEN }}"
-              },
-              secrets: {
-                token: ${{ secrets.ACCESS_TOKEN }},
-                ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-              }
-            });
+        run: cross-env-shell NODE_ENV=production node --experimental-specifier-resolution=node --loader ts-node/esm -r dotenv/config src/ci/dispatch-workflows.ts
