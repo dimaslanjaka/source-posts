@@ -63,6 +63,6 @@ jobs:
             await github.rest.actions.createWorkflowDispatch({
               'dimaslanjaka',
               'static-blog-generator-hexo',
-              'workflows/update.yaml',
-              'main',
+              'workflows/build-site.yml',
+              'master',
             });
