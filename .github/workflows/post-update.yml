@@ -48,9 +48,21 @@ jobs:
           YARN_CHECKSUM_BEHAVIOR=update yarn install
       - run: ts-node src/ci/check-other-ci.ts
 
-  reusing-workflow:
+  call-workflow:
     needs: [check-reusable-ci]
-    uses: dimaslanjaka/static-blog-generator-hexo/.github/workflows/build-site.yml@master
-    secrets:
-      token: ${{ secrets.ACCESS_TOKEN }}
+    runs-on: ubuntu-latest
+    env:
+      NODE_OPTIONS: '--max_old_space_size=8192' #8192 4096 --expose-gc
+      YARN_ENABLE_IMMUTABLE_INSTALLS: false
       ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+    steps:
+      - name: Deploy Stage
+        uses: actions/github-script@v5
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              'dimaslanjaka',
+              'static-blog-generator-hexo',
+              'workflows/update.yaml',
+              'main',
+            });
