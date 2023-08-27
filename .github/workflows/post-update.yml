@@ -20,6 +20,7 @@ jobs:
     env:
       NODE_OPTIONS: '--max_old_space_size=8192' #8192 4096 --expose-gc
       YARN_ENABLE_IMMUTABLE_INSTALLS: false
+      YARN_CHECKSUM_BEHAVIOR: update
       ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       node_version: 18
@@ -105,12 +106,11 @@ jobs:
           echo "machine=$machine" >> $GITHUB_OUTPUT
           echo "machine=$machine" >> $GITHUB_ENV
       - run: npm i -g ts-node typescript hexo-cli
-      - name: clean install
+      - name: install project
         run: |
-          yarn cache clean --all
-          rm yarn.lock
           touch yarn.lock
           YARN_CHECKSUM_BEHAVIOR=update yarn install
+        shell: bash
       - run: cross-env-shell NODE_ENV=production node --experimental-specifier-resolution=node --loader ts-node/esm -r dotenv/config src/ci/check-other-ci.ts
         name: check static-blog-generator-hexo workflow run status
       - name: copy workflow to /posts
