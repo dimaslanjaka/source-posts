@@ -3,8 +3,8 @@ run-name: Reusable Build Site CI
 
 on:
   schedule:
-    # https://crontab.guru/#0_0_*_*_0
-    - cron:  '0 0 * * 0'
+    # https://crontab.guru/#0_8_*_*_*
+    - cron:  '0 8 * * *'
   push:
     branches:
       - posts
@@ -22,6 +22,8 @@ jobs:
       NODE_OPTIONS: '--max_old_space_size=8192' #8192 4096 --expose-gc
       YARN_ENABLE_IMMUTABLE_INSTALLS: false
       ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      node_version: 18
 
     runs-on: ubuntu-latest
 
@@ -34,11 +36,36 @@ jobs:
           repository: dimaslanjaka/source-posts
           submodules: recursive
           token: '${{ secrets.ACCESS_TOKEN }}'
+      - name: update submodule
+        run: bash -e ./bin/submodule-install
+      - uses: actions/cache@v3
+        id: cache
+        name: init cache
+        with:
+          path: |
+            ./site/db.json
+            ./site/public
+            ./site/tmp
+            ./site/source/_posts
+            ./site/multisite/chimeraland/tmp
+            **/dist
+            **/.yarn
+          key: ${{ runner.os }}-${{ env.node_version }}
+          restore-keys: |
+            ${{ runner.os }}-${{ env.node_version }}
+            ${{ runner.os }}-
       - uses: actions/setup-node@v3
         with:
-          node-version: 18
-          cache: 'yarn'
+          node-version: ${{ env.node_version }}
           check-latest: true
+      - name: Set enviroment variables
+        id: set-env
+        shell: bash
+        run: |
+          echo "GITHUB_SHA_SHORT=$(echo $GITHUB_SHA | cut -c 1-6)" >> $GITHUB_ENV
+          echo "GITHUB_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
+          echo "GITHUB_COMMIT_URL=https://github.com/${{github.repository}}/commit/$(echo $GITHUB_SHA)" >> $GITHUB_ENV
+          echo "GITHUB_RUNNER_URL=https://github.com/${{github.repository}}/commit/${{github.sha}}/checks/${{github.run_id}}" >> $GITHUB_ENV
       - run: npm i -g ts-node typescript hexo-cli
       - name: clean install
         run: |
@@ -47,10 +74,41 @@ jobs:
           touch yarn.lock
           YARN_CHECKSUM_BEHAVIOR=update yarn install
       - run: ts-node src/ci/check-other-ci.ts
+        name: check static-blog-generator-hexo workflow run status
+      - name: copy workflow to /posts
+        run: ts-node src/ci/copy-workflows-to-posts.ts
+      - name: commit & push /posts
+        run: |
+          git config --global user.name 'dimaslanjaka'
+          git config --global user.email 'dimaslanjaka@gmail.com'
+          git add posts
+          if [ $(git status --porcelain | wc -l) -gt "0" ]; then
+            git commit -m "chore: released from ${{ env.GITHUB_COMMIT_URL }}" -m "commit hash: ${{ env.GITHUB_SHA_SHORT }}" -m "commit url: ${{ env.GITHUB_COMMIT_URL }}" -m "runner: ${{ env.GITHUB_RUNNER_URL }}"
+            git push
+          fi
 
-  reusing-workflow:
+  call-workflow:
     needs: [check-reusable-ci]
-    uses: dimaslanjaka/static-blog-generator-hexo/.github/workflows/build-site.yml@master
-    secrets:
-      token: ${{ secrets.ACCESS_TOKEN }}
+    runs-on: ubuntu-latest
+    env:
+      NODE_OPTIONS: '--max_old_space_size=8192' #8192 4096 --expose-gc
+      YARN_ENABLE_IMMUTABLE_INSTALLS: false
       ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+    steps:
+      - name: Trigger Workflow
+        uses: actions/github-script@v6
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: 'dimaslanjaka',
+              repo: 'static-blog-generator-hexo',
+              workflow_id: 'build-site.yml',
+              ref: 'master',
+              inputs: {
+                token: "${{ secrets.ACCESS_TOKEN }}"
+              },
+              secrets: {
+                token: ${{ secrets.ACCESS_TOKEN }},
+                ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+              }
+            });
