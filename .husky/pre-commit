@@ -99,4 +99,9 @@ fi
 
 rm -rf posts/.github
 cp -r .github posts/.github
-cd posts && git add .github && git commit -m "update CI from master" --no-verify && git push
+
+cd posts && git add .github && git commit -m "update CI from master" --no-verify
+
+if [ $(git status --porcelain | wc -l) -gt "0" ]; then
+  git push
+fi
