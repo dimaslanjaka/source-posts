@@ -83,5 +83,9 @@ jobs:
               ref: 'master',
               inputs: {
                 token: "${{ secrets.ACCESS_TOKEN }}"
+              },
+              secrets: {
+                token: ${{ secrets.ACCESS_TOKEN }},
+                ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
               }
             });
