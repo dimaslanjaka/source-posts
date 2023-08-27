@@ -88,3 +88,8 @@ https://github.com/USERNAME/REPOSITORY/actions
 
 ## wait until finish
 after finished your workflows logs should be emptied/cleaned
+
+## conclusion
+below is the result logs of workflows cleaned
+![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/c5362839-c4fd-49e4-9908-71eaa1d5b90d)
+
