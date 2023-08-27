@@ -20,8 +20,10 @@ req(`GET ${basePerm}/commits/master/check-runs`, {
   const allCompleted = runs.filter(({ name }) => name === 'build-site').every((o) => o.status === 'completed');
   if (!allCompleted) {
     console.log('existing CI is running, aborting current CI');
+    // abort current process
+    process.exit(1);
   } else {
     console.log('no CI running, continue current CI');
   }
-  process.exit(allCompleted ? 0 : 1);
+  // process.exit(allCompleted ? 0 : 1);
 });
