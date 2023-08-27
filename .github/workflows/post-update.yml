@@ -77,8 +77,11 @@ jobs:
         with:
           script: |
             await github.rest.actions.createWorkflowDispatch({
-              'dimaslanjaka',
-              'static-blog-generator-hexo',
-              'workflows/build-site.yml',
-              'master'
+              owner: 'dimaslanjaka',
+              repo: 'static-blog-generator-hexo',
+              workflow_id: 'build-site.yml',
+              ref: 'master',
+              inputs: {
+                token: "${{ secrets.ACCESS_TOKEN }}"
+              }
             });
