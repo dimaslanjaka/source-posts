@@ -3,7 +3,7 @@
 import { Octokit } from '@octokit/core';
 
 const octokit = new Octokit({ auth: process.env.ACCESS_TOKEN });
-const req: import('@octokit/types').RequestInterface<Record<string, any>> = octokit.request;
+const req = octokit.request;
 const basePerm = '/repos/dimaslanjaka/static-blog-generator-hexo';
 
 req(`GET ${basePerm}/commits/master/check-runs`, {
