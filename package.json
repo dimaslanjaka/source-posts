@@ -65,6 +65,7 @@
     "glob": "^10.3.1",
     "hexo-post-parser": "*",
     "hexo-util": "^3.1.0",
+    "husky": "^8.0.3",
     "i18next": "^23.4.6",
     "jsdom": "^21.1.2",
     "moment-timezone": "^0.5.43",
