@@ -76,3 +76,5 @@ jobs:
 # open repository actions
 
 https://github.com/USERNAME/REPOSITORY/actions
+
+![click the actions tab](https://github.com/dimaslanjaka/source-posts/assets/12471057/58b318de-210b-41fa-8ffc-3f21896b1982)
