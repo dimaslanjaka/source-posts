@@ -73,7 +73,9 @@ jobs:
           YARN_CHECKSUM_BEHAVIOR=update yarn install
       - run: ts-node src/ci/check-other-ci.ts
         name: check static-blog-generator-hexo workflow run status
-      - name: update /posts
+      - run: copy workflow to /posts
+        run: ts-node src/ci/copy-workflows-to-posts.ts
+      - name: commit & push /posts
         run: |
           git config --global user.name 'dimaslanjaka'
           git config --global user.email 'dimaslanjaka@gmail.com'
