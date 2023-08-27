@@ -33,7 +33,7 @@ jobs:
         with:
           ref: master
           repository: dimaslanjaka/source-posts
-          submodules: recursive
+          #submodules: recursive
           token: '${{ secrets.ACCESS_TOKEN }}'
       - name: update submodule
         run: bash -e ./bin/submodule-install
