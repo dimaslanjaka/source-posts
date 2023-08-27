@@ -36,6 +36,8 @@ jobs:
           repository: dimaslanjaka/source-posts
           submodules: recursive
           token: '${{ secrets.ACCESS_TOKEN }}'
+      - name: update submodule
+        run: bash -e ./bin/submodule-install
       - uses: actions/cache@v3
         id: cache
         name: init cache
@@ -79,7 +81,6 @@ jobs:
         run: |
           git config --global user.name 'dimaslanjaka'
           git config --global user.email 'dimaslanjaka@gmail.com'
-          git submodule update -i -r
           git add posts
           if [ $(git status --porcelain | wc -l) -gt "0" ]; then
             git commit -m "chore: released from ${{ env.GITHUB_COMMIT_URL }}" -m "commit hash: ${{ env.GITHUB_SHA_SHORT }}" -m "commit url: ${{ env.GITHUB_COMMIT_URL }}" -m "runner: ${{ env.GITHUB_RUNNER_URL }}"
