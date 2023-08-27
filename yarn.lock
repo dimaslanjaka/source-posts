@@ -7068,7 +7068,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"hexo-post-parser@workspace:^, hexo-post-parser@workspace:packages/hexo-post-parser":
+"hexo-post-parser@*, hexo-post-parser@workspace:packages/hexo-post-parser":
   version: 0.0.0-use.local
   resolution: "hexo-post-parser@workspace:packages/hexo-post-parser"
   dependencies:
@@ -11811,7 +11811,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"puppeteer-google-translate@workspace:^, puppeteer-google-translate@workspace:packages/translator":
+"puppeteer-google-translate@*, puppeteer-google-translate@workspace:packages/translator":
   version: 0.0.0-use.local
   resolution: "puppeteer-google-translate@workspace:packages/translator"
   dependencies:
@@ -13203,7 +13203,7 @@ __metadata:
     glob: ^10.3.1
     glob-watcher: ^6.0.0
     gulp: ^4.0.2
-    hexo-post-parser: "workspace:^"
+    hexo-post-parser: "*"
     hexo-util: ^3.0.1
     i18next: ^23.2.6
     jsdom: ^21.1.2
@@ -13212,7 +13212,7 @@ __metadata:
     nunjucks: ^3.2.4
     prettier: ^2.8.8
     puppeteer: ^20.3.0
-    puppeteer-google-translate: "workspace:^"
+    puppeteer-google-translate: "*"
     sbg-utility: ^1.1.2
     through2: ^4.0.2
     ts-node: ^10.9.1
