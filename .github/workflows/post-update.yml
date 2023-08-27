@@ -72,8 +72,8 @@ jobs:
       YARN_ENABLE_IMMUTABLE_INSTALLS: false
       ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
     steps:
-      - name: Deploy Stage
-        uses: actions/github-script@v5
+      - name: Trigger Workflow
+        uses: actions/github-script@v6
         with:
           script: |
             await github.rest.actions.createWorkflowDispatch({
