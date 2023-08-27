@@ -26,7 +26,7 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    name: check other ci is not running
+    name: trigger static-blog-generator actions
     steps:
       - uses: actions/checkout@v3
         name: checkout root project
