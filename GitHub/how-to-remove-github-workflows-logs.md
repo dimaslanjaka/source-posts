@@ -1,7 +1,7 @@
 ---
 title: How to remove github workflows logs
 date: 2023-08-27T19:50:11+07:00
-updated: 2023-08-27T19:50:11+07:00
+updated: 2023-08-27T19:58:26+07:00
 tags: ["github", "workflows", "tips & tricks"]
 categories: ["programming"]
 ---
