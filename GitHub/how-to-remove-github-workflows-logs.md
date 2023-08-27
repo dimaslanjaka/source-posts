@@ -78,3 +78,6 @@ jobs:
 https://github.com/USERNAME/REPOSITORY/actions
 
 ![click the actions tab](https://github.com/dimaslanjaka/source-posts/assets/12471057/58b318de-210b-41fa-8ffc-3f21896b1982)
+
+# select delete old workflows run logs
+![click spesific workflow](https://github.com/dimaslanjaka/source-posts/assets/12471057/7ecef604-2a0c-4032-96bc-3f1aed734248)
