@@ -33,6 +33,8 @@
     // Completeness
     //
     "skipLibCheck": true,
-    "diagnostics": true
+    "diagnostics": true,
+
+    "typeRoots": ["./node_modules/@types", "./node_modules/nodejs-package-types/typings"]
   }
 }
