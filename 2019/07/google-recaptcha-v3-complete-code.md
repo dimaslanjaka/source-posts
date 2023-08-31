@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/tbvxFW4UJdU/maxresdefault.jpg
 date: 2019-07-12T19:36:00.001+07:00
@@ -25,7 +25,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/tbvxFW4UJdU/maxresdefault.jpg
 title: "[JS] Google Recaptcha V3 Complete Code"
 type: post
-updated: 2023-08-08T14:45:30+07:00
+updated: 2023-09-01T06:12:12+07:00
 wordcount: 1605
 ---
 
