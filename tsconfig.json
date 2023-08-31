@@ -5,10 +5,7 @@
     "experimentalSpecifierResolution": "node"
   },
   "compilerOptions": {
-    "lib": [
-      "es2020",
-      "DOM"
-    ],
+    "lib": ["es2020", "DOM"],
     "target": "ES2020",
     "declaration": true,
     "outDir": "./tmp/dist",
@@ -16,13 +13,8 @@
     "allowSyntheticDefaultImports": true,
     "moduleResolution": "node"
   },
-  "include": [
-    "./src/**/*",
-    "./*.ts"
-  ],
-  "exclude": [
-    "**/node_modules"
-  ],
+  "include": ["./src/**/*", "./*.ts", "./*.js"],
+  "exclude": ["**/node_modules"],
   "typeAcquisition": {
     "enable": true
   }
