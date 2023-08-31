@@ -147,7 +147,7 @@ export interface createWindowOptions extends BrowserWindowConstructorOptions {
  * @param url
  */
 export function windowLoad(mainWindow: BrowserWindow, url: string) {
-  if (url.match(/^https?:\/\//)) {
+  if (url.match(/^(f|ht)tps?:\/\//i)) {
     mainWindow.loadURL(url);
   } else {
     mainWindow.loadFile(url);
