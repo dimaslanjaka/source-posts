@@ -1,8 +1,0 @@
-#!/bin/sh
-
-# update local package
-# node postinstall.cjs
-
-rm -rf posts/.github
-cp -r .github posts/.github
-# cd posts && git add .github && git commit -m "update from master" && git push

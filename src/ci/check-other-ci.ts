@@ -1,23 +1,32 @@
 // curl -u dimaslanjaka:env.ACCESS_TOKEN https://api.github.com/repos/dimaslanjaka/static-blog-generator-hexo/commits/master/check-runs -H 'Accept: application/vnd.github.antiope-preview+json'
 
-import { Octokit } from '@octokit/core';
+import { Octokit } from '@octokit/rest';
+import Bluebird from 'bluebird';
 
 const octokit = new Octokit({ auth: process.env.ACCESS_TOKEN });
-const req: import('@octokit/types').RequestInterface<Record<string, any>> = octokit.request;
-const basePerm = '/repos/dimaslanjaka/static-blog-generator-hexo';
 
-req(`GET ${basePerm}/commits/master/check-runs`, {
-  owner: 'dimaslanjaka',
-  baseUrl: 'https://api.github.com',
-  repo: 'static-blog-generator-hexo',
-  // run_id: 'RUN_ID',
-  headers: {
-    'X-GitHub-Api-Version': '2022-11-28'
-  }
-}).then((response) => {
-  const { data } = response;
-  const runs: { id: string; name: string; status: 'completed' | 'in_progress' | 'queued' }[] = data.check_runs;
-  const allCompleted = runs.filter(({ name }) => name === 'build-site').every((o) => o.status === 'completed');
-  if (!allCompleted) console.log('existing CI is running, aborting current CI');
-  process.exit(allCompleted ? 0 : 1);
-});
+Bluebird.resolve(
+  octokit.actions.listWorkflowRunsForRepo({
+    owner: 'dimaslanjaka',
+    baseUrl: 'https://api.github.com',
+    repo: 'static-blog-generator-hexo',
+    per_page: 1
+  })
+)
+  .then((response) => {
+    const { data } = response;
+    return data.workflow_runs;
+  })
+  .each((o) => {
+    if (o.status === 'in_progress'){
+      // cancel workflow
+      return octokit.actions.cancelWorkflowRun({
+        owner: 'dimaslanjaka',
+        repo: 'static-blog-generator-hexo',
+        run_id: o.id
+      });
+    }
+  })
+  .catch((e) => {
+    console.log(e);
+  });

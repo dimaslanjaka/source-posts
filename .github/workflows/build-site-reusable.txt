@@ -1,22 +1,55 @@
-name: Build Site
+name: Post Update
+run-name: Reusable Build Site CI
 
 on:
+  schedule:
+    # https://crontab.guru/#0_8_*_*_*
+    - cron:  '0 8 * * *'
   push:
     branches:
       - posts
-      - master
-    paths:
-      - '**/*.md'
-      - '**/build-site.yml'
+      - master # <-- just for test
   workflow_dispatch:
 
 concurrency:
   # group: build-${{ github.event.push.number || github.event.pull_request.number || github.ref }}
-  group: reusing-workflow-actions
+  group: update-post-reusing-workflow-actions
   cancel-in-progress: true
 
 jobs:
+  check-reusable-ci:
+    env:
+      NODE_OPTIONS: '--max_old_space_size=8192' #8192 4096 --expose-gc
+      YARN_ENABLE_IMMUTABLE_INSTALLS: false
+      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
+    runs-on: ubuntu-latest
+
+    name: check other ci is not running
+    steps:
+      - uses: actions/checkout@v3
+        name: checkout root project
+        with:
+          ref: master
+          repository: dimaslanjaka/source-posts
+          submodules: recursive
+          token: '${{ secrets.ACCESS_TOKEN }}'
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: 'yarn'
+          check-latest: true
+      - run: npm i -g ts-node typescript hexo-cli
+      - name: clean install
+        run: |
+          yarn cache clean --all
+          rm yarn.lock
+          touch yarn.lock
+          YARN_CHECKSUM_BEHAVIOR=update yarn install
+      - run: ts-node src/ci/check-other-ci.ts
+
   reusing-workflow:
+    needs: [check-reusable-ci]
     uses: dimaslanjaka/static-blog-generator-hexo/.github/workflows/build-site.yml@master
     secrets:
       token: ${{ secrets.ACCESS_TOKEN }}
