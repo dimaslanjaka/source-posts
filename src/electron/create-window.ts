@@ -37,7 +37,7 @@ export function countWindow() {
  * Create New Window With Overriden Options
  * @param options
  */
-export default function createWindow(
+export function createWindow(
   options: createWindowOptions = {
     title: 'Main'
   }
@@ -127,6 +127,8 @@ export default function createWindow(
   wins[options.title] = currentWindow;
   return currentWindow;
 }
+
+export default createWindow;
 
 export interface createWindowOptions extends electron.BrowserWindowConstructorOptions {
   [key: string]: any;
