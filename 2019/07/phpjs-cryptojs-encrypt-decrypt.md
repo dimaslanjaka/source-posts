@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://raw.githubusercontent.com/dimaslanjaka/dimaslanjaka.github.io/master/assets/img/phpjs.png
 date: 2019-07-22T00:16:00.001+07:00
@@ -23,7 +23,7 @@ tags:
 thumbnail: https://raw.githubusercontent.com/dimaslanjaka/dimaslanjaka.github.io/master/assets/img/phpjs.png
 title: "[PHP][JS] CryptoJS encrypt decrypt"
 type: post
-updated: 2023-08-08T14:45:29+07:00
+updated: 2023-09-01T06:02:13+07:00
 webtitle: PHP JS
 wordcount: 1176
 ---
