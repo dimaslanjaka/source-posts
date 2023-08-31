@@ -16,11 +16,10 @@ tags:
   - js
   - html
   - php
-  - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/tbvxFW4UJdU/maxresdefault.jpg
 title: "[JS] Google Recaptcha V3 Complete Code"
 type: post
-updated: 2023-09-01T06:19:38+07:00
+updated: 2023-09-01T06:22:16+07:00
 wordcount: 1605
 ---
 
@@ -200,7 +199,7 @@ if (isset($_POST["login"])) {
 }
 ```
 
-Full Example at Codepen
+Google ReCaptcha V3 Full Example at Codepen
 -----------------------
 
 <div class="codepen" data-default-tab="js,result" data-height="265" data-pen-title="Complete Google recaptcha v3" data-slug-hash="qzgYmp" data-theme-id="0" data-user="dimaslanjaka" style="border: 2px solid; box-sizing: border-box; display: flex; height: 265px; margin: 1em 0; padding: 1em;">    See the Pen <a href="https://codepen.io/dimaslanjaka/pen/qzgYmp/" rel="noopener noreferer nofollow">      Complete Google recaptcha v3</a> by dimas lanjaka (<a href="https://codepen.io/dimaslanjaka" rel="noopener noreferer nofollow">@dimaslanjaka</a>)     on <a href="https://codepen.io/" rel="noopener noreferer nofollow">CodePen</a>.   </div>  <script async="" src="https://static.codepen.io/assets/embed/ei.js"></script> </div>
