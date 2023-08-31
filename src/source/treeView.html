@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tree View</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css" />
+  </head>
+  <body>
+    <div id="jstree_"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
+    <script>
+      $(function () {
+        $('#jstree_').jstree({
+          core: {
+            data: [
+              { id: 'ajson1', parent: '#', text: 'Simple root node' },
+              { id: 'ajson2', parent: '#', text: 'Root node 2' },
+              { id: 'ajson3', parent: 'ajson2', text: 'Child 1' },
+              { id: 'ajson4', parent: 'ajson2', text: 'Child 2' }
+            ]
+          }
+        });
+      });
+    </script>
+  </body>
+</html>
