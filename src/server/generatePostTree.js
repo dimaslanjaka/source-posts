@@ -3,6 +3,8 @@ import * as glob from 'glob';
 import * as util from 'sbg-utility';
 import * as config from '../../config.js';
 
+// to generate JSON object for JSTree
+
 const src = Promise.resolve(
   glob.glob('**/*.md', {
     cwd: config.postsDir,
