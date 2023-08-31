@@ -1,12 +1,12 @@
 import { enable as enableRemote } from '@electron/remote/main';
 import { deepmerge } from 'deepmerge-ts';
-import { BrowserWindow, BrowserWindowConstructorOptions, globalShortcut } from 'electron';
+import * as electron from 'electron';
 import isDev from 'electron-is-dev';
 
 /**
  * Browser Windows Wrapper
  */
-const wins: { [key: string]: BrowserWindow | null } = {};
+const wins: { [key: string]: electron.BrowserWindow | null } = {};
 
 export function getWindow(title: string | createWindowOptions) {
   if (typeof title === 'string') return wins[title];
@@ -30,7 +30,7 @@ export function killWindow(title: string | createWindowOptions) {
  * @returns
  */
 export function countWindow() {
-  return BrowserWindow.getAllWindows().length;
+  return electron.BrowserWindow.getAllWindows().length;
 }
 
 /**
@@ -41,7 +41,7 @@ export default function createWindow(
   options: createWindowOptions = {
     title: 'Main'
   }
-): BrowserWindow {
+): electron.BrowserWindow {
   const defaultOptions: createWindowOptions = {
     title: 'Main',
     width: 800,
@@ -65,12 +65,12 @@ export default function createWindow(
   options = deepmerge(defaultOptions, options);
 
   // return existing window
-  if (wins[options.title]) return wins[options.title] as BrowserWindow;
+  if (wins[options.title]) return wins[options.title] as electron.BrowserWindow;
 
   // Create the browser window.
-  wins[options.title] = new BrowserWindow(options);
+  wins[options.title] = new electron.BrowserWindow(options);
 
-  const currentWindow = wins[options.title] as BrowserWindow;
+  const currentWindow = wins[options.title] as electron.BrowserWindow;
 
   // enable remote
   enableRemote(currentWindow.webContents);
@@ -97,20 +97,20 @@ export default function createWindow(
 
   // setup shortcut
   currentWindow.on('focus', () => {
-    globalShortcut.register('f5', function () {
+    electron.globalShortcut.register('f5', function () {
       console.log('reload by f5');
       currentWindow.reload();
     });
     if (isDev) {
-      globalShortcut.register('CommandOrControl+D', function () {
+      electron.globalShortcut.register('CommandOrControl+D', function () {
         console.log('toggle developer tools');
         currentWindow.webContents.openDevTools({ mode: 'detach' });
       });
     }
-    globalShortcut.register('ESC', function () {
+    electron.globalShortcut.register('ESC', function () {
       if (currentWindow.closable) currentWindow.close();
     });
-    globalShortcut.register('CommandOrControl+R', function () {
+    electron.globalShortcut.register('CommandOrControl+R', function () {
       console.log('reload by CommandOrControl+R');
       currentWindow.reload();
     });
@@ -122,13 +122,13 @@ export default function createWindow(
   });
 
   currentWindow.on('blur', () => {
-    globalShortcut.unregisterAll();
+    electron.globalShortcut.unregisterAll();
   });
   wins[options.title] = currentWindow;
   return currentWindow;
 }
 
-export interface createWindowOptions extends BrowserWindowConstructorOptions {
+export interface createWindowOptions extends electron.BrowserWindowConstructorOptions {
   [key: string]: any;
   url?: string;
   mainServer?: boolean;
@@ -146,7 +146,7 @@ export interface createWindowOptions extends BrowserWindowConstructorOptions {
  * @param mainWindow
  * @param url
  */
-export function windowLoad(mainWindow: BrowserWindow, url: string) {
+export function windowLoad(mainWindow: electron.BrowserWindow, url: string) {
   if (url.match(/^(f|ht)tps?:\/\//i)) {
     mainWindow.loadURL(url);
   } else {
