@@ -25,3 +25,6 @@ yarn.lock
 .yarn/*.gz
 
 chimeraland/.vscode
+chimeraland/*
+!chimeraland/.gitignore
+!chimeraland/recipes.html
