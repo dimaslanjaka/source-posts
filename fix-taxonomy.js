@@ -49,6 +49,22 @@ getPosts().each(async (file) => {
               // remove programming
               .filter((str) => str != 'programming')
           )
+          // map js ts
+          .map((str) => {
+            if (str == 'js') return 'javascript'
+            if (str == 'ts') return 'typescript'
+            return str
+          })
+          // remove duplicates
+          .filter(function (value, index, array) {
+            return array.indexOf(value) === index
+          })
+        save = true
+      }
+
+      // map js ts
+      if (tags.some((str) => ['js', 'ts'].includes(str))) {
+        post.metadata.tags = tags
           .map((str) => {
             if (str == 'js') return 'javascript'
             if (str == 'ts') return 'typescript'
