@@ -4,19 +4,14 @@ author:
   link: https://www.blogger.com/profile/00073980860956332189
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: http://www.tutorial-webdesign.com/wp-content/uploads/2014/01/codeigniter.png
 date: 2018-12-18T20:17:00.000+07:00
-description: In this tutorial, the author will provide a tutorial on the basic
-  use of the php framework is CodeIgniter.The author uses CodeIgniter v
-excerpt: In this tutorial, the author will provide a tutorial on the basic use
-  of the php framework is CodeIgniter.The author uses CodeIgniter v
+description: In this tutorial, the author will provide a tutorial on the basic use of the php framework is CodeIgniter.The author uses CodeIgniter v
 lang: en
 photos:
   - http://www.tutorial-webdesign.com/wp-content/uploads/2014/01/codeigniter.png
-subtitle: In this tutorial, the author will provide a tutorial on the basic use
-  of the php framework is CodeIgniter.The author uses CodeIgniter v
 tags:
   - tools
   - codeigniter
@@ -24,7 +19,7 @@ tags:
 thumbnail: http://www.tutorial-webdesign.com/wp-content/uploads/2014/01/codeigniter.png
 title: Basic CodeIgniter Usage Tutorial
 type: post
-updated: 2023-08-08T14:45:36+07:00
+updated: 2023-09-02T23:22:37.717Z
 wordcount: 3715
 ---
 
