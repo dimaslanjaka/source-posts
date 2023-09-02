@@ -18,7 +18,8 @@ getPosts().each(async (file) => {
     if (post.metadata) {
       let save
       const { title } = post.metadata
-      const categories = post.metadata.categories || []
+      let categories = post.metadata.categories || []
+      const tags = post.metadata.tags || []
       if (categories.includes('uncategorized')) {
         const newCat = []
         const mapCat = {
@@ -36,10 +37,29 @@ getPosts().each(async (file) => {
                 )} contains category key ${ansiColors.magentaBright(key)}`
               )
               newCat.push(key)
-              post.metadata.categories = newCat
+              post.metadata.categories = categories = newCat
+                // remove duplicates
+                .filter(function (value, index, array) {
+                  return array.indexOf(value) === index
+                })
               save = true
             }
           }
+        }
+        if (
+          tags.some((str) =>
+            /css|javascript|typescript|css|html|java|php|vscode|regex/gim.test(
+              str
+            )
+          )
+        ) {
+          newCat.push('programming')
+          post.metadata.categories = categories = newCat
+            // remove duplicates
+            .filter(function (value, index, array) {
+              return array.indexOf(value) === index
+            })
+          save = true
         }
       }
 
