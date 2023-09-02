@@ -10,22 +10,10 @@ cover: https://imgdb.net/images/3181.png
 date: 2017-09-19T16:11:00.000+07:00
 description: Cara Memperbaiki komputer lelet Memperbaiki komputer lelet atau
   lemot menjadi komputer serasa baru. registry mungkin sudah rusak atau error
-  atau faktor lainnyaDMA Direct Memory Access mode telah berubah menjadi PIO
-  Processor Input Output mode karena keseringan hang atau error, sehingga
-  program
-excerpt: Cara Memperbaiki komputer lelet Memperbaiki komputer lelet atau lemot
-  menjadi komputer serasa baru. registry mungkin sudah rusak atau error atau
-  faktor lainnyaDMA Direct Memory Access mode telah berubah menjadi PIO
-  Processor Input Output mode karena keseringan hang atau error, sehingga
-  program
+  atau faktor lainnyaD
 lang: en
 photos:
   - https://imgdb.net/images/3181.png
-subtitle: Cara Memperbaiki komputer lelet Memperbaiki komputer lelet atau lemot
-  menjadi komputer serasa baru. registry mungkin sudah rusak atau error atau
-  faktor lainnyaDMA Direct Memory Access mode telah berubah menjadi PIO
-  Processor Input Output mode karena keseringan hang atau error, sehingga
-  program
 tags:
   - tips & tricks
 thumbnail: https://imgdb.net/images/3181.png

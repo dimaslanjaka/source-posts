@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2017/pokemon-go-1.png
 date: 2018-11-15T11:44:00.000+07:00
 description: Pokemon GO .127.1 Apk Mod gps palsu Poke Radar apk yang diretas
-excerpt: Pokemon GO .127.1 Apk Mod gps palsu Poke Radar apk yang diretas
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2017/pokemon-go-1.png
-subtitle: Pokemon GO .127.1 Apk Mod gps palsu Poke Radar apk yang diretas
 tags:
   - games
   - android

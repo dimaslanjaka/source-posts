@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/7d79ad4805dae4cba7
 date: 2019-12-02T17:02:00.001+07:00
 description: "Download lagu Juicy Luicy Aku Cinta Dia Yang Cinta Pacarnya Mp3
   Juicy Luicy - I Love He Who Love His Boyfriend Listen: 293,064"
-excerpt: "Download lagu Juicy Luicy Aku Cinta Dia Yang Cinta Pacarnya Mp3 Juicy
-  Luicy - I Love He Who Love His Boyfriend Listen: 293,064"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/7d79ad4805dae4cba7f368dfe36614e5.jpeg
-subtitle: "Download lagu Juicy Luicy Aku Cinta Dia Yang Cinta Pacarnya Mp3 Juicy
-  Luicy - I Love He Who Love His Boyfriend Listen: 293,064"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/7d79ad4805dae4cba7f368dfe36614e5.jpeg

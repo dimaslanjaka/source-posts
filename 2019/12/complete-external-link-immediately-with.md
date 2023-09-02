@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/514cc0b2c6a50437
 date: 2019-12-18T01:16:00.000+07:00
 description: If you add an external link in the template or in the post and use
   the target_blank attribute, then immediately complete the
-excerpt: If you add an external link in the template or in the post and use the
-  target_blank attribute, then immediately complete the
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/514cc0b2c6a504375873f242e193fc29.jpeg
-subtitle: If you add an external link in the template or in the post and use the
-  target_blank attribute, then immediately complete the
 tags:
   - seo
   - share

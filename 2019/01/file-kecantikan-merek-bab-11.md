@@ -10,13 +10,9 @@ cover: https://cdn.staticaly.com/img/www.retaildive.com/user_media/cache/02/f5/0
 date: 2019-01-24T00:23:00.000+07:00
 description: Menyelam singkat Pada hari Minggu, Beauty Brands, peritel Kansas
   City, Missouri, mengajukan perlindungan kebangkrutan Bab
-excerpt: Menyelam singkat Pada hari Minggu, Beauty Brands, peritel Kansas City,
-  Missouri, mengajukan perlindungan kebangkrutan Bab
 lang: en
 photos:
   - https://cdn.staticaly.com/img/www.retaildive.com/user_media/cache/02/f5/02f54d770dbf6913804ebf03a2a537c4.jpg
-subtitle: Menyelam singkat Pada hari Minggu, Beauty Brands, peritel Kansas City,
-  Missouri, mengajukan perlindungan kebangkrutan Bab
 tags:
   - miscellaneous
   - tips & tricks

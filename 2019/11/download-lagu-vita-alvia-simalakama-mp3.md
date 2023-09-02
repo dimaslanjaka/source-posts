@@ -10,13 +10,9 @@ cover: http://i2.ytimg.com/vi/PdHwq8W0dr8/0.jpg
 date: 2019-11-24T21:45:00.002+07:00
 description: "Download lagu Vita Alvia Simalakama Mp3 Vita Alvia - Simalakama
   Listen: 1,360 Duration: 263 MP3 size: 4.11MB Download Links"
-excerpt: "Download lagu Vita Alvia Simalakama Mp3 Vita Alvia - Simalakama
-  Listen: 1,360 Duration: 263 MP3 size: 4.11MB Download Links"
 lang: en
 photos:
   - http://i2.ytimg.com/vi/PdHwq8W0dr8/0.jpg
-subtitle: "Download lagu Vita Alvia Simalakama Mp3 Vita Alvia - Simalakama
-  Listen: 1,360 Duration: 263 MP3 size: 4.11MB Download Links"
 tags:
   - musics
 thumbnail: http://i2.ytimg.com/vi/PdHwq8W0dr8/0.jpg

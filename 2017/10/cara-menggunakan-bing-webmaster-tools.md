@@ -10,22 +10,10 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://cdn.woorkup.c
 date: 2017-10-21T10:38:00.000+07:00
 description: Cara Menggunakan Bing Webmaster Tools Cara Membuat File Peta Situs
   untuk Situs WordPress Anda Cara Membuat File Peta Situs untuk Situs Web HTML
-  Anda Cara Mengirimkan Situs ke Bing Webmaster Tools Langkah 1 Langkah 2
-  Langkah 3 Langkah 4 Langkah 5 Langkah 6 Langkah 7 file sitemap ke Google
-  Yandex
-excerpt: Cara Menggunakan Bing Webmaster Tools Cara Membuat File Peta Situs
-  untuk Situs WordPress Anda Cara Membuat File Peta Situs untuk Situs Web HTML
-  Anda Cara Mengirimkan Situs ke Bing Webmaster Tools Langkah 1 Langkah 2
-  Langkah 3 Langkah 4 Langkah 5 Langkah 6 Langkah 7 file sitemap ke Google
-  Yandex
+  Anda Cara Mengir
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://cdn.woorkup.com/wp-content/uploads/2013/09/submit-website-to-bing-1024x513.png
-subtitle: Cara Menggunakan Bing Webmaster Tools Cara Membuat File Peta Situs
-  untuk Situs WordPress Anda Cara Membuat File Peta Situs untuk Situs Web HTML
-  Anda Cara Mengirimkan Situs ke Bing Webmaster Tools Langkah 1 Langkah 2
-  Langkah 3 Langkah 4 Langkah 5 Langkah 6 Langkah 7 file sitemap ke Google
-  Yandex
 tags:
   - wordpress
   - seo

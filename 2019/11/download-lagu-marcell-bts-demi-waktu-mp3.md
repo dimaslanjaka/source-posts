@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/71c41af8fb82cd666f
 date: 2019-11-24T22:45:00.001+07:00
 description: "Download lagu Marcell BTS Demi Waktu Mp3 Marcell - BTS For the
   Time Listen: 12,250 Duration: 163 MP3 size: 2.55MB Download Links"
-excerpt: "Download lagu Marcell BTS Demi Waktu Mp3 Marcell - BTS For the Time
-  Listen: 12,250 Duration: 163 MP3 size: 2.55MB Download Links"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/71c41af8fb82cd666f99f6039bd8ec37.jpeg
-subtitle: "Download lagu Marcell BTS Demi Waktu Mp3 Marcell - BTS For the Time
-  Listen: 12,250 Duration: 163 MP3 size: 2.55MB Download Links"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/71c41af8fb82cd666f99f6039bd8ec37.jpeg

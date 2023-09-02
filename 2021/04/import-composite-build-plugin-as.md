@@ -10,13 +10,9 @@ cover: https://miro.medium.com/max/2476/0*Mll3yo3DWALtRYPR.png
 date: 2021-04-20T16:40:00.001+07:00
 description: pre><br />// change folder path inside bracket<br
   />includeBuildplugin <br /> dependencySubstitution <br /> // change your
-excerpt: pre><br />// change folder path inside bracket<br />includeBuildplugin
-  <br /> dependencySubstitution <br /> // change your
 lang: en
 photos:
   - https://miro.medium.com/max/2476/0*Mll3yo3DWALtRYPR.png
-subtitle: pre><br />// change folder path inside bracket<br />includeBuildplugin
-  <br /> dependencySubstitution <br /> // change your
 tags:
   - script
   - gradle

@@ -9,11 +9,9 @@ comments: true
 cover: https://i.ytimg.com/vi/RkrTGQsv14k/hqdefault.jpg?custom=true&w=320&h=180&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eCvhWuyCHTD0lyZ0Dhi-6XTOs0c
 date: 2017-05-09T05:58:00.000+07:00
 description: How do I autoresize an image to fit a div container
-excerpt: How do I autoresize an image to fit a div container
 lang: en
 photos:
   - https://i.ytimg.com/vi/RkrTGQsv14k/hqdefault.jpg?custom=true&w=320&h=180&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eCvhWuyCHTD0lyZ0Dhi-6XTOs0c
-subtitle: How do I autoresize an image to fit a div container
 tags:
   - css
   - html

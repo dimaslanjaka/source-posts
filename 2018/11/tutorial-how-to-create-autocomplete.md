@@ -10,13 +10,9 @@ cover: http://www.tutorial-webdesign.com/wp-content/uploads/2015/05/autocomplete
 date: 2018-11-06T20:50:00.000+07:00
 description: In this tutorial we will discuss how to create autocompletewith
   codeigniter, in this discussion I assume all friends TWD already
-excerpt: In this tutorial we will discuss how to create autocompletewith
-  codeigniter, in this discussion I assume all friends TWD already
 lang: en
 photos:
   - http://www.tutorial-webdesign.com/wp-content/uploads/2015/05/autocomplete.png
-subtitle: In this tutorial we will discuss how to create autocompletewith
-  codeigniter, in this discussion I assume all friends TWD already
 tags:
   - codeigniter
 thumbnail: http://www.tutorial-webdesign.com/wp-content/uploads/2015/05/autocomplete.png

@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://sitelagump3.co
 date: 2018-11-08T05:07:00.001+07:00
 description: "Download Lagu Mp Selama matahari terbit dari timur, Cinta ku
   padamu takan pernah luntur.mp3 Gratis Size :"
-excerpt: "Download Lagu Mp Selama matahari terbit dari timur, Cinta ku padamu
-  takan pernah luntur.mp3 Gratis Size :"
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://sitelagump3.com/icon_content/2018/05/17/06/57/download-lagu-selama-matahari-terbit-dari-timur-cinta-ku-padamu-takan-pernah-lunturmp3-mp3-gratis-di-sitelagump3com.png
-subtitle: "Download Lagu Mp Selama matahari terbit dari timur, Cinta ku padamu
-  takan pernah luntur.mp3 Gratis Size :"
 tags:
   - musics
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://sitelagump3.com/icon_content/2018/05/17/06/57/download-lagu-selama-matahari-terbit-dari-timur-cinta-ku-padamu-takan-pernah-lunturmp3-mp3-gratis-di-sitelagump3com.png

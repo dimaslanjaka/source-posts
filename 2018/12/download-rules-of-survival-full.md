@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2017/rules-of-survival-1.jpg
 date: 2018-12-27T01:01:00.000+07:00
 description: ATURAN SURVIVAL Penuh .204011.213685 Apk Data android
-excerpt: ATURAN SURVIVAL Penuh .204011.213685 Apk Data android
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2017/rules-of-survival-1.jpg
-subtitle: ATURAN SURVIVAL Penuh .204011.213685 Apk Data android
 tags:
   - games
   - android

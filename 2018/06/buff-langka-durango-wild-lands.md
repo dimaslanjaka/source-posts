@@ -10,13 +10,9 @@ cover: https://4.bp.blogspot.com/-jB3ahTlpbOg/WzVjXZm_g-I/AAAAAAAAAS4/MTfdRe9Dcm
 date: 2018-06-29T08:04:00.000+07:00
 description: Artikel lainnya yang direkomendasikan Buff Kayu Durango Wild Lands
   Terbaru Buff Langka Buff Hijau Durango Wild Lands Buff Bahan Utama
-excerpt: Artikel lainnya yang direkomendasikan Buff Kayu Durango Wild Lands
-  Terbaru Buff Langka Buff Hijau Durango Wild Lands Buff Bahan Utama
 lang: en
 photos:
   - https://4.bp.blogspot.com/-jB3ahTlpbOg/WzVjXZm_g-I/AAAAAAAAAS4/MTfdRe9Dcm8MoF6krkWY_d3iciZPaj4VACLcBGAs/s1600/FB_IMG_15302253070912946.jpg
-subtitle: Artikel lainnya yang direkomendasikan Buff Kayu Durango Wild Lands
-  Terbaru Buff Langka Buff Hijau Durango Wild Lands Buff Bahan Utama
 tags:
   - games
   - durango

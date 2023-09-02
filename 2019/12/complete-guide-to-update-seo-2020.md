@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/dwblog-ecdf.kxcdn.com/eb32b22de46d
 date: 2019-12-06T19:03:00.001+07:00
 description: Panduan Lengkap Seo Update 020 There are various SEO tips that you
   can explore from various sources. But, can everything be like a
-excerpt: Panduan Lengkap Seo Update 020 There are various SEO tips that you can
-  explore from various sources. But, can everything be like a
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/dwblog-ecdf.kxcdn.com/eb32b22de46d5af55b69a1ffc1ee93ad.png
-subtitle: Panduan Lengkap Seo Update 020 There are various SEO tips that you can
-  explore from various sources. But, can everything be like a
 tags:
   - seo
   - tips & tricks

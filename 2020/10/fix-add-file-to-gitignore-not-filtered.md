@@ -9,11 +9,9 @@ comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2020-10-25T23:45:00.005+07:00
 description: command line Fix add file to gitignore not filtered
-excerpt: command line Fix add file to gitignore not filtered
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: command line Fix add file to gitignore not filtered
 tags:
   - github
   - tips & tricks

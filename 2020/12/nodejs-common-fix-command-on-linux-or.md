@@ -10,22 +10,10 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2020-12-31T15:11:00.003+07:00
 description: NodeJS Common Fix Command On Linux Or Windows Linux add new
   repositorysudo add-apt-repository ppa:deadsnakes/ppasudo apt-get update -ysudo
-  apt install libgtk-3-0 -ysudo apt install software-properties-common
-  checkinstall -ysudo apt-get install libreadline-gplv2-dev libncursesw5-dev
-  libssl-dev lib
-excerpt: NodeJS Common Fix Command On Linux Or Windows Linux add new
-  repositorysudo add-apt-repository ppa:deadsnakes/ppasudo apt-get update -ysudo
-  apt install libgtk-3-0 -ysudo apt install software-properties-common
-  checkinstall -ysudo apt-get install libreadline-gplv2-dev libncursesw5-dev
-  libssl-dev lib
+  apt install libgtk-3-
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: NodeJS Common Fix Command On Linux Or Windows Linux add new
-  repositorysudo add-apt-repository ppa:deadsnakes/ppasudo apt-get update -ysudo
-  apt install libgtk-3-0 -ysudo apt install software-properties-common
-  checkinstall -ysudo apt-get install libreadline-gplv2-dev libncursesw5-dev
-  libssl-dev lib
 tags:
   - windows
   - tips & tricks

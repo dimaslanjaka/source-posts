@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/9011eff335f38bda99
 date: 2019-11-24T21:36:00.001+07:00
 description: "Download lagu Anji Ternyata Cinta Mp3 Anji - Turns Love Listen:
   32,365,239 Duration: 260 MP3 size: 4.06MB Download Links"
-excerpt: "Download lagu Anji Ternyata Cinta Mp3 Anji - Turns Love Listen:
-  32,365,239 Duration: 260 MP3 size: 4.06MB Download Links"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/9011eff335f38bda999d2886241e8fd2.jpeg
-subtitle: "Download lagu Anji Ternyata Cinta Mp3 Anji - Turns Love Listen:
-  32,365,239 Duration: 260 MP3 size: 4.06MB Download Links"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/9011eff335f38bda999d2886241e8fd2.jpeg

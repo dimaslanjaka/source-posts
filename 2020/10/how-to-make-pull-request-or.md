@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2020-10-17T13:51:00.004+07:00
 description: h2>Contribution Tutorial</h2><ol> <li>Fork it git clone
   https://github.com/name/repo</li> <li>Create your feature branch git checkout
-excerpt: h2>Contribution Tutorial</h2><ol> <li>Fork it git clone
-  https://github.com/name/repo</li> <li>Create your feature branch git checkout
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: h2>Contribution Tutorial</h2><ol> <li>Fork it git clone
-  https://github.com/name/repo</li> <li>Create your feature branch git checkout
 tags:
   - popular
   - github

@@ -10,19 +10,10 @@ cover: https://imgdb.net/images/4271.png
 date: 2018-10-26T20:14:00.000+07:00
 description: Install deb package via Termux Packages are manually installed via
   the dpkg command Debian Package Management System. dpkg is the backend to
-  commands like apt-get and aptitude, which in turn are the backend for GUI
-  install apps like the Software Center and Synaptic. manually dpkg dpkg a
-excerpt: Install deb package via Termux Packages are manually installed via the
-  dpkg command Debian Package Management System. dpkg is the backend to commands
-  like apt-get and aptitude, which in turn are the backend for GUI install apps
-  like the Software Center and Synaptic. manually dpkg dpkg a
+  commands like apt-g
 lang: en
 photos:
   - https://imgdb.net/images/4271.png
-subtitle: Install deb package via Termux Packages are manually installed via the
-  dpkg command Debian Package Management System. dpkg is the backend to commands
-  like apt-get and aptitude, which in turn are the backend for GUI install apps
-  like the Software Center and Synaptic. manually dpkg dpkg a
 tags:
   - script
   - android

@@ -11,15 +11,9 @@ date: 2019-02-07T13:09:00.001+07:00
 description: Install dan buka termuxketik pkg install mariadbmkdir
   ..usr/etc/my.cnf.dmysql_install_dbmysqldBuka tab sesi baru, lalu ketik mysql
   -u root
-excerpt: Install dan buka termuxketik pkg install mariadbmkdir
-  ..usr/etc/my.cnf.dmysql_install_dbmysqldBuka tab sesi baru, lalu ketik mysql
-  -u root
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://netsolutions.net.au/wp-content/uploads/2015/07/mysql-mariadb-795x480.png
-subtitle: Install dan buka termuxketik pkg install mariadbmkdir
-  ..usr/etc/my.cnf.dmysql_install_dbmysqldBuka tab sesi baru, lalu ketik mysql
-  -u root
 tags:
   - tools
   - tips & tricks

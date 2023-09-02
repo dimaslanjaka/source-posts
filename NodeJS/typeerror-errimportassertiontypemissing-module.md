@@ -5,7 +5,9 @@ categories:
 comments: true
 cover: https://bobbyhadz.com/images/blog/node-type-error-err-import-assertion-type-missing/typeerror-err-import-assertion-type-missing.webp
 date: 2022-10-29T11:21:14+07:00
-description: "TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix How to fix TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module Example import import countryTable from ./data/countries.json; Fix import by import countryTable from ./data/countries.json assert type: json ; Proposed by https://gith"
+description: "TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix How to
+  fix TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module Example import
+  import countryTable fro"
 lang: en
 photos:
   - https://bobbyhadz.com/images/blog/node-type-error-err-import-assertion-type-missing/typeerror-err-import-assertion-type-missing.webp

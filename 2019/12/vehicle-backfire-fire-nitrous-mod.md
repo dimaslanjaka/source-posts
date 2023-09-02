@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/3.bp.blogspot.com/5fa34a34ef308b75
 date: 2019-12-06T23:53:00.000+07:00
 description: Vehicle Backfire Fire Nitrous Mod Android Mod ini akan mengubah
   efek nitrat biru dengan efek seperti api kuning baru. Pembuat mod ini
-excerpt: Vehicle Backfire Fire Nitrous Mod Android Mod ini akan mengubah efek
-  nitrat biru dengan efek seperti api kuning baru. Pembuat mod ini
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/3.bp.blogspot.com/5fa34a34ef308b75079da436d147e530.jpeg
-subtitle: Vehicle Backfire Fire Nitrous Mod Android Mod ini akan mengubah efek
-  nitrat biru dengan efek seperti api kuning baru. Pembuat mod ini
 tags:
   - games
   - android

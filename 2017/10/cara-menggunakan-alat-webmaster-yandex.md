@@ -10,19 +10,10 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://cdn.woorkup.c
 date: 2017-10-22T10:30:00.000+07:00
 description: Cara Menggunakan Alat Webmaster Yandex Tutorial ini akan
   menunjukkan cara mengirimkan situs Anda ke Yandex Webmaster Tools, bersama
-  dengan file sitemap Anda. Pertama Anda harus memiliki file sitemap yang
-  dibuat. Jika Anda belum melakukan ini, silakan lihat artikel saya di Car
-excerpt: Cara Menggunakan Alat Webmaster Yandex Tutorial ini akan menunjukkan
-  cara mengirimkan situs Anda ke Yandex Webmaster Tools, bersama dengan file
-  sitemap Anda. Pertama Anda harus memiliki file sitemap yang dibuat. Jika Anda
-  belum melakukan ini, silakan lihat artikel saya di Car
+  dengan file sitemap Anda. Pe
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://cdn.woorkup.com/wp-content/uploads/2013/09/submit-website-to-yandex-1024x513.png
-subtitle: Cara Menggunakan Alat Webmaster Yandex Tutorial ini akan menunjukkan
-  cara mengirimkan situs Anda ke Yandex Webmaster Tools, bersama dengan file
-  sitemap Anda. Pertama Anda harus memiliki file sitemap yang dibuat. Jika Anda
-  belum melakukan ini, silakan lihat artikel saya di Car
 tags:
   - seo
   - blogging

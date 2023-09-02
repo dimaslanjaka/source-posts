@@ -10,13 +10,9 @@ cover: https://imgdb.net/images/3862.jpg
 date: 2018-07-05T22:43:00.000+07:00
 description: "Here are Tips to Outsmart your Wifi router to get a faster and
   more stable Internet connection:"
-excerpt: "Here are Tips to Outsmart your Wifi router to get a faster and more
-  stable Internet connection:"
 lang: en
 photos:
   - https://imgdb.net/images/3862.jpg
-subtitle: "Here are Tips to Outsmart your Wifi router to get a faster and more
-  stable Internet connection:"
 tags:
   - tips & tricks
 thumbnail: https://imgdb.net/images/3862.jpg

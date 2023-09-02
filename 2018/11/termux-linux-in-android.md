@@ -10,13 +10,9 @@ cover: https://images.weserv.nl/?url=https://lh3.googleusercontent.com/p162-Lwo8
 date: 2018-11-13T04:22:00.003+07:00
 description: You are a Linux lover, like to play with theLinux operating system
   , accustomed to using theLinux console . You are also an Android
-excerpt: You are a Linux lover, like to play with theLinux operating system ,
-  accustomed to using theLinux console . You are also an Android
 lang: en
 photos:
   - https://images.weserv.nl/?url=https://lh3.googleusercontent.com/p162-Lwo8Fxms5LAJ8IpICqtsT-3ziYMoy-WdSM66_jCQboVvfB8qU9c0KU3gzg_yqLE1iQAMyhVe8eRzi8=w1080-h1920-rw-no
-subtitle: You are a Linux lover, like to play with theLinux operating system ,
-  accustomed to using theLinux console . You are also an Android
 tags:
   - tools
   - android

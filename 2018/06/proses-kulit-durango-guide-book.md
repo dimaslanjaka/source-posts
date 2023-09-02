@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp
 date: 2018-06-18T03:28:00.001+07:00
 description: Nama Proses Bahan Hasil Buff Debuff Kulit Kering Kulit Kulit Kering
   - - Proses Pencokelatan Dengan
-excerpt: Nama Proses Bahan Hasil Buff Debuff Kulit Kering Kulit Kulit Kering - -
-  Proses Pencokelatan Dengan
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png
-subtitle: Nama Proses Bahan Hasil Buff Debuff Kulit Kering Kulit Kulit Kering -
-  - Proses Pencokelatan Dengan
 tags:
   - games
   - durango

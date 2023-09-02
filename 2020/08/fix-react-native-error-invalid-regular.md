@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2020-08-03T08:26:00.001+07:00
 description: If you Got this issue today on windows, but dont need to downgrade
   node, just as discussed on
-excerpt: If you Got this issue today on windows, but dont need to downgrade
-  node, just as discussed on
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: If you Got this issue today on windows, but dont need to downgrade
-  node, just as discussed on
 tags:
   - js
   - regular expression

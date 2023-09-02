@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/380def904495
 date: 2019-12-07T05:19:00.001+07:00
 description: Selamat datang di abad ke21, di mana mobil self-driving tidak lagi
   menjadi fantasi sci-fi yang jauh, anak-anak memiliki smartphone di
-excerpt: Selamat datang di abad ke21, di mana mobil self-driving tidak lagi
-  menjadi fantasi sci-fi yang jauh, anak-anak memiliki smartphone di
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/380def9044953d917ff4a115d32bc760.png
-subtitle: Selamat datang di abad ke21, di mana mobil self-driving tidak lagi
-  menjadi fantasi sci-fi yang jauh, anak-anak memiliki smartphone di
 tags:
   - share
   - marketing strategies

@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://drakorstation
 date: 2019-09-29T05:48:00.001+07:00
 description: Download method on PC Many of you still dont understand How To
   Download Google Drive That Is Affected By Limit. This time I will
-excerpt: Download method on PC Many of you still dont understand How To Download
-  Google Drive That Is Affected By Limit. This time I will
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://drakorstation.com/wp-content/uploads/2019/03/Google-Drive.jpg
-subtitle: Download method on PC Many of you still dont understand How To
-  Download Google Drive That Is Affected By Limit. This time I will
 tags:
   - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://drakorstation.com/wp-content/uploads/2019/03/Google-Drive.jpg

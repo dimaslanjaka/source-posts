@@ -12,15 +12,9 @@ date: 2019-01-26T00:28:00.000+07:00
 description: "import
   urlhttps://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstr\
   ap.min.css; .content ,.keyword ,.keywords "
-excerpt: "import
-  urlhttps://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstr\
-  ap.min.css; .content ,.keyword ,.keywords "
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s1.dunia21.org/wp-content/uploads/2015/12/film-harry-potter-and-the-deathly-hallows-part-2-2011.jpg
-subtitle: "import
-  urlhttps://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstr\
-  ap.min.css; .content ,.keyword ,.keywords "
 tags:
   - movies
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s1.dunia21.org/wp-content/uploads/2015/12/film-harry-potter-and-the-deathly-hallows-part-2-2011.jpg

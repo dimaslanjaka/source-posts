@@ -6,11 +6,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.forbesindia.com/media/images/2020/Sep/img_143399_backlinks900x600.jpg
 date: 2022-03-25
 description: High Pagerank Dofollow Directory List
-excerpt: High Pagerank Dofollow Directory List
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.forbesindia.com/media/images/2020/Sep/img_143399_backlinks900x600.jpg
-subtitle: High Pagerank Dofollow Directory List
 tags:
   - seo
   - blogging

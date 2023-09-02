@@ -9,11 +9,9 @@ comments: true
 cover: https://3.bp.blogspot.com/-HATkEN6fBQo/W8WFogUS8rI/AAAAAAAAAUc/3TomXf6lYEwhuMHsB47vS9pe_MispcUzwCLcBGAs/s320/download.png
 date: 2018-10-16T13:31:00.000+07:00
 description: WPS PIN codes for C:B0:CE:1A:CC:3D
-excerpt: WPS PIN codes for C:B0:CE:1A:CC:3D
 lang: en
 photos:
   - https://3.bp.blogspot.com/-HATkEN6fBQo/W8WFogUS8rI/AAAAAAAAAUc/3TomXf6lYEwhuMHsB47vS9pe_MispcUzwCLcBGAs/s320/download.png
-subtitle: WPS PIN codes for C:B0:CE:1A:CC:3D
 tags: []
 thumbnail: https://3.bp.blogspot.com/-HATkEN6fBQo/W8WFogUS8rI/AAAAAAAAAUc/3TomXf6lYEwhuMHsB47vS9pe_MispcUzwCLcBGAs/s320/download.png
 title: WPS PIN codes for 6C:B0:CE:1A:CC:3D

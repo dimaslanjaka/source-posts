@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.stack.imgur
 date: 2019-02-09T19:58:00.001+07:00
 description: Saya ingin menulis bot telegram. Bagaimana cara menempatkan opsi
   yang memungkinkan di bot saya. Saya menyisipkan gambar bot sampel dengan
-excerpt: Saya ingin menulis bot telegram. Bagaimana cara menempatkan opsi yang
-  memungkinkan di bot saya. Saya menyisipkan gambar bot sampel dengan
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.stack.imgur.com/PPlQ0.png
-subtitle: Saya ingin menulis bot telegram. Bagaimana cara menempatkan opsi yang
-  memungkinkan di bot saya. Saya menyisipkan gambar bot sampel dengan
 tags:
   - social media
   - tips & tricks

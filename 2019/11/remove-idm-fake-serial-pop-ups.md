@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/www.bagas31.com/09b291991e3c6af733
 date: 2019-11-20T17:20:00.000+07:00
 description: Web Development Indonesia If you are a pirated Internet Download
   Manager user, lately there must be something strange about your
-excerpt: Web Development Indonesia If you are a pirated Internet Download
-  Manager user, lately there must be something strange about your
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.bagas31.com/09b291991e3c6af733a56a80694b83bc.png
-subtitle: Web Development Indonesia If you are a pirated Internet Download
-  Manager user, lately there must be something strange about your
 tags:
   - tools
   - software

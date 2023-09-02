@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bitkonga.com/wp-content/uploads/2016/12/Bitcoin-cloud-mining.jpg
 date: 2017-11-12T06:48:00.001+07:00
 description: Free Cloud Bitcoin Mining.Free Cloud Bitcoin Mining.
-excerpt: Free Cloud Bitcoin Mining.Free Cloud Bitcoin Mining.
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bitkonga.com/wp-content/uploads/2016/12/Bitcoin-cloud-mining.jpg
-subtitle: Free Cloud Bitcoin Mining.Free Cloud Bitcoin Mining.
 tags:
   - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bitkonga.com/wp-content/uploads/2016/12/Bitcoin-cloud-mining.jpg

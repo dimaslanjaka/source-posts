@@ -10,13 +10,9 @@ cover: https://3.bp.blogspot.com/-7ZnAq5qCUqU/UnUovHpfPYI/AAAAAAAAaQE/Wn5m_IyQ7M
 date: 2017-10-15T00:42:00.000+07:00
 description: Anda perlu menentukan nama dan ikon untuk pintasan aplikasi Modern
   karena nilai tersebut tidak diambil langsung dari folder
-excerpt: Anda perlu menentukan nama dan ikon untuk pintasan aplikasi Modern
-  karena nilai tersebut tidak diambil langsung dari folder
 lang: en
 photos:
   - https://3.bp.blogspot.com/-7ZnAq5qCUqU/UnUovHpfPYI/AAAAAAAAaQE/Wn5m_IyQ7MA/s1600/Modern-Apps-Shortcut-1.png
-subtitle: Anda perlu menentukan nama dan ikon untuk pintasan aplikasi Modern
-  karena nilai tersebut tidak diambil langsung dari folder
 tags:
   - tips & tricks
 thumbnail: https://3.bp.blogspot.com/-7ZnAq5qCUqU/UnUovHpfPYI/AAAAAAAAaQE/Wn5m_IyQ7MA/s1600/Modern-Apps-Shortcut-1.png

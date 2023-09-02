@@ -11,13 +11,9 @@ date: 2021-03-25T06:04:00.006+07:00
 description: ul> <li>Install <a
   href=https://visualstudio.microsoft.com/downloads/ rel=nofollow noopener
   target=_blank>Microsoft Visual Studio
-excerpt: ul> <li>Install <a href=https://visualstudio.microsoft.com/downloads/
-  rel=nofollow noopener target=_blank>Microsoft Visual Studio
 lang: en
 photos:
   - https://1.bp.blogspot.com/-bnFVYzCkPiw/YFvFWw2im6I/AAAAAAAAAAM/28Q_ctk1SuE-1pskAFYfvVREqij-nsjhACLcBGAsYHQ/s0/VStudio2019-NodeJS.png
-subtitle: ul> <li>Install <a href=https://visualstudio.microsoft.com/downloads/
-  rel=nofollow noopener target=_blank>Microsoft Visual Studio
 tags:
   - js
   - windows

@@ -1,9 +1,21 @@
 ---
-title: How to remove github workflows logs
+author: Dimas Lanjaka
+categories:
+  - programming
+comments: true
 date: 2023-08-27T19:50:11+07:00
+description: How to remove github workflows logs each workflow runs creating
+  huge logs in github actions. sometimes you need to clean them to prune
+  repository sizes. below i
+lang: en
+tags:
+  - github
+  - workflows
+  - tips & tricks
+title: How to remove github workflows logs
+type: post
 updated: 2023-08-27T19:58:26+07:00
-tags: ["github", "workflows", "tips & tricks"]
-categories: ["programming"]
+wordcount: 883
 ---
 
 each workflow runs creating huge logs in github actions. sometimes you need to clean them to prune repository sizes. below is tips & tricks to delete github workflows logs.

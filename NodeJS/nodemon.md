@@ -5,10 +5,7 @@ categories:
 comments: true
 date: 2022-04-24
 description: all about nodemon
-excerpt: all about nodemon
 lang: en
-photos: []
-subtitle: all about nodemon
 tags: []
 title: nodemon
 type: post

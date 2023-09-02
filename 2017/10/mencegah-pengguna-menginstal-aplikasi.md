@@ -10,13 +10,9 @@ cover: https://1.bp.blogspot.com/-X8tdy9N2l8w/UJT2gcqpvLI/AAAAAAAAWUk/VPPxUYEMDP
 date: 2017-10-18T00:51:00.000+07:00
 description: Windows Store adalah tempat yang tepat untuk menemukan dan
   menginstal aplikasi, namun dalam situasi tertentu Anda sebagai orang tua
-excerpt: Windows Store adalah tempat yang tepat untuk menemukan dan menginstal
-  aplikasi, namun dalam situasi tertentu Anda sebagai orang tua
 lang: en
 photos:
   - https://1.bp.blogspot.com/-X8tdy9N2l8w/UJT2gcqpvLI/AAAAAAAAWUk/VPPxUYEMDPs/s1600/Windows-Store-Disable.png
-subtitle: Windows Store adalah tempat yang tepat untuk menemukan dan menginstal
-  aplikasi, namun dalam situasi tertentu Anda sebagai orang tua
 tags:
   - tips & tricks
 thumbnail: https://1.bp.blogspot.com/-X8tdy9N2l8w/UJT2gcqpvLI/AAAAAAAAWUk/VPPxUYEMDPs/s1600/Windows-Store-Disable.png

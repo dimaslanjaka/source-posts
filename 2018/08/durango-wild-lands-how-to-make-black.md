@@ -10,13 +10,9 @@ cover: https://cdn1.imggmi.com/uploads/2018/8/20/b5ce48aa785dab1f231d64df9376ec1
 date: 2018-08-20T10:53:00.001+07:00
 description: this time I will explain how to make black clothes using black
   coloring or dye in durango wilderness games, wild lands durango itself
-excerpt: this time I will explain how to make black clothes using black coloring
-  or dye in durango wilderness games, wild lands durango itself
 lang: en
 photos:
   - https://cdn1.imggmi.com/uploads/2018/8/20/b5ce48aa785dab1f231d64df9376ec1f-full.jpg
-subtitle: this time I will explain how to make black clothes using black
-  coloring or dye in durango wilderness games, wild lands durango itself
 tags:
   - games
   - durango

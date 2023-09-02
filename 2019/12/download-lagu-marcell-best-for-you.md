@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/77cdd63b44b1a95479
 date: 2019-12-04T16:10:00.001+07:00
 description: "Download lagu Marcell The Best for You Official Mp3 Marcell - The
   Best for You Official Listen: 15,053 Duration: 269 MP3 size:"
-excerpt: "Download lagu Marcell The Best for You Official Mp3 Marcell - The Best
-  for You Official Listen: 15,053 Duration: 269 MP3 size:"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/77cdd63b44b1a95479c780c0f78877b6.jpeg
-subtitle: "Download lagu Marcell The Best for You Official Mp3 Marcell - The
-  Best for You Official Listen: 15,053 Duration: 269 MP3 size:"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/77cdd63b44b1a95479c780c0f78877b6.jpeg

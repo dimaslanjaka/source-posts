@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/
 date: 2021-06-03T06:00:00.002+07:00
 description: Previous Install XAMPP apache on android termux Fix error starting
   apache on android Open httpd.conf nano
-excerpt: Previous Install XAMPP apache on android termux Fix error starting
-  apache on android Open httpd.conf nano
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/blog/wp-content/uploads/2018/11/Configuraci%C3%B3n-httpd-en-termux-Android.jpg
-subtitle: Previous Install XAMPP apache on android termux Fix error starting
-  apache on android Open httpd.conf nano
 tags:
   - android
   - tips & tricks

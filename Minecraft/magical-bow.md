@@ -7,14 +7,12 @@ comments: true
 cover: https://i.ytimg.com/vi/sSnrK7m2RFo/maxresdefault.jpg
 date: 2021-12-12T13:01:00+07:00
 description: How to use magical books for bow
-excerpt: How to use magical books for bow
 keywords:
   - bow
   - minecraft
 lang: en
 photos:
   - https://i.ytimg.com/vi/sSnrK7m2RFo/maxresdefault.jpg
-subtitle: How to use magical books for bow
 tags: []
 thumbnail: https://i.ytimg.com/vi/sSnrK7m2RFo/maxresdefault.jpg
 title: Magical Book For Bow

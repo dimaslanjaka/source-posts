@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/bb201229d7c52251d8
 date: 2019-11-24T21:31:00.001+07:00
 description: "Download lagu Siti Badriah Lagi Syantik Mp3 Siti Badriah - More
   Syantik Listen: 510,901,455 Duration: 234 MP3 size: 3.66MB"
-excerpt: "Download lagu Siti Badriah Lagi Syantik Mp3 Siti Badriah - More
-  Syantik Listen: 510,901,455 Duration: 234 MP3 size: 3.66MB"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/bb201229d7c52251d81702bbe266757b.jpeg
-subtitle: "Download lagu Siti Badriah Lagi Syantik Mp3 Siti Badriah - More
-  Syantik Listen: 510,901,455 Duration: 234 MP3 size: 3.66MB"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/bb201229d7c52251d81702bbe266757b.jpeg

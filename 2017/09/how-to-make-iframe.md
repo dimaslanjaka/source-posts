@@ -8,21 +8,12 @@ categories:
 comments: true
 cover: https://imgdb.net/images/3196.jpg
 date: 2017-09-27T02:03:00.000+07:00
-description: "HOW TO MAKE IFRAME If my friend had more than one blog and want to
+description: HOW TO MAKE IFRAME If my friend had more than one blog and want to
   show the other blog to another blog can use this iframe. Due to the usefulness
-  of this iframe is to show another blog to our blog. The code that we use are:
-  <iframe> </ iframe> Medium astribut frequently used are: ALIGN = left / "
-excerpt: "HOW TO MAKE IFRAME If my friend had more than one blog and want to
-  show the other blog to another blog can use this iframe. Due to the usefulness
-  of this iframe is to show another blog to our blog. The code that we use are:
-  <iframe> </ iframe> Medium astribut frequently used are: ALIGN = left / "
+  of this iframe
 lang: en
 photos:
   - https://imgdb.net/images/3196.jpg
-subtitle: "HOW TO MAKE IFRAME If my friend had more than one blog and want to
-  show the other blog to another blog can use this iframe. Due to the usefulness
-  of this iframe is to show another blog to our blog. The code that we use are:
-  <iframe> </ iframe> Medium astribut frequently used are: ALIGN = left / "
 tags:
   - html
   - tips & tricks

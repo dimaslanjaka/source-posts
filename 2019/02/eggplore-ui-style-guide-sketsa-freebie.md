@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.uxfree.co
 date: 2019-02-20T00:38:00.000+07:00
 description: Eggplore Ui Style Guide Sketsa Freebie Stephen dan Gahuy ingin
   berbagi sumber daya panduan gaya UI dengan komunitas. Sumber daya
-excerpt: Eggplore Ui Style Guide Sketsa Freebie Stephen dan Gahuy ingin berbagi
-  sumber daya panduan gaya UI dengan komunitas. Sumber daya
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.uxfree.com/wp-content/uploads/2019/01/eggplore-styleguide.png
-subtitle: Eggplore Ui Style Guide Sketsa Freebie Stephen dan Gahuy ingin berbagi
-  sumber daya panduan gaya UI dengan komunitas. Sumber daya
 tags:
   - miscellaneous
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.uxfree.com/wp-content/uploads/2019/01/eggplore-styleguide.png

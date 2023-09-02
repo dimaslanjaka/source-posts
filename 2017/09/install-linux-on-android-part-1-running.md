@@ -10,13 +10,9 @@ cover: https://image.ibb.co/fFtDUF/unnamed_5.png
 date: 2017-09-01T23:41:00.000+07:00
 description: Another of the features of the android smartphone that we can take
   advantage of IE running OS Ubuntu Xenial at 6or more times Therein
-excerpt: Another of the features of the android smartphone that we can take
-  advantage of IE running OS Ubuntu Xenial at 6or more times Therein
 lang: en
 photos:
   - https://image.ibb.co/fFtDUF/unnamed_5.png
-subtitle: Another of the features of the android smartphone that we can take
-  advantage of IE running OS Ubuntu Xenial at 6or more times Therein
 tags:
   - android
   - tips & tricks

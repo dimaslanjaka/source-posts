@@ -9,11 +9,9 @@ comments: true
 cover: https://4.bp.blogspot.com/-jB3ahTlpbOg/WzVjXZm_g-I/AAAAAAAAAS4/MTfdRe9Dcm8MoF6krkWY_d3iciZPaj4VACLcBGAs/s1600/FB_IMG_15302253070912946.jpg
 date: 2018-06-29T07:56:00.000+07:00
 description: Attributes BuffSenjata / WeaponsPakaian / ClothesMakanan / FoodsRingan /
-excerpt: Attributes BuffSenjata / WeaponsPakaian / ClothesMakanan / FoodsRingan /
 lang: en
 photos:
   - https://4.bp.blogspot.com/-jB3ahTlpbOg/WzVjXZm_g-I/AAAAAAAAAS4/MTfdRe9Dcm8MoF6krkWY_d3iciZPaj4VACLcBGAs/s1600/FB_IMG_15302253070912946.jpg
-subtitle: Attributes BuffSenjata / WeaponsPakaian / ClothesMakanan / FoodsRingan /
 tags:
   - games
   - durango

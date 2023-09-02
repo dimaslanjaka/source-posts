@@ -10,13 +10,9 @@ cover: https://www.svgrepo.com/show/84714/php.svg
 date: 2018-02-21T21:16:00.001+07:00
 description: "Description Of fileget_contents Source Description: PHP.NET PHP 4
   >= 4.3.0, PHP 5, PHP 7"
-excerpt: "Description Of fileget_contents Source Description: PHP.NET PHP 4 >=
-  4.3.0, PHP 5, PHP 7"
 lang: en
 photos:
   - https://www.svgrepo.com/show/84714/php.svg
-subtitle: "Description Of fileget_contents Source Description: PHP.NET PHP 4 >=
-  4.3.0, PHP 5, PHP 7"
 tags:
   - php
 thumbnail: https://www.svgrepo.com/show/84714/php.svg

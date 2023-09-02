@@ -9,11 +9,9 @@ comments: true
 cover: https://goo.gl/yao7VY
 date: 2018-02-13T02:11:00.000+07:00
 description: countDown;
-excerpt: countDown;
 lang: en
 photos:
   - https://goo.gl/yao7VY
-subtitle: countDown;
 tags:
   - tips & tricks
 thumbnail: https://goo.gl/yao7VY

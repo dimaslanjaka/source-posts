@@ -10,20 +10,10 @@ cover: https://dimaslanjaka-storage.000webhostapp.com/img.php?type=jpeg&url=http
 date: 2018-11-23T08:00:00.000+07:00
 description: Download film the meg 2018 subtitle indonesia download movie
   Download film the meg 2018 subtitle indonesia download movie Deep sea
-  submersible pilots revisit their past fears at Mariana Trench, and
-  accidentally release seventy feet of ancestors from the Great White Shark
-  believed to be exti
-excerpt: Download film the meg 2018 subtitle indonesia download movie Download
-  film the meg 2018 subtitle indonesia download movie Deep sea submersible
-  pilots revisit their past fears at Mariana Trench, and accidentally release
-  seventy feet of ancestors from the Great White Shark believed to be exti
+  submersible pilots revisit th
 lang: en
 photos:
   - https://dimaslanjaka-storage.000webhostapp.com/img.php?type=jpeg&url=https://image.tmdb.org/t/p/w185/hHgsvMPhGQ5T7kJsSezQHBjGDBp.jpg
-subtitle: Download film the meg 2018 subtitle indonesia download movie Download
-  film the meg 2018 subtitle indonesia download movie Deep sea submersible
-  pilots revisit their past fears at Mariana Trench, and accidentally release
-  seventy feet of ancestors from the Great White Shark believed to be exti
 tags:
   - movies
 thumbnail: https://dimaslanjaka-storage.000webhostapp.com/img.php?type=jpeg&url=https://image.tmdb.org/t/p/w185/hHgsvMPhGQ5T7kJsSezQHBjGDBp.jpg

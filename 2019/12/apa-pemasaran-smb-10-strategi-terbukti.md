@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/eabbb31166cf
 date: 2019-12-08T02:55:00.000+07:00
 description: What Is Smb Marketing 10 Proven Strategies That Actually Work
   Apakah Anda menerapkan strategi pemasaran SMB untuk bisnis Anda? Bisnis
-excerpt: What Is Smb Marketing 10 Proven Strategies That Actually Work Apakah
-  Anda menerapkan strategi pemasaran SMB untuk bisnis Anda? Bisnis
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/eabbb31166cf921aa4effad47710aeb3.png
-subtitle: What Is Smb Marketing 10 Proven Strategies That Actually Work Apakah
-  Anda menerapkan strategi pemasaran SMB untuk bisnis Anda? Bisnis
 tags:
   - marketing strategies
   - tips & tricks

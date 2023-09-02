@@ -10,19 +10,10 @@ cover: https://3.bp.blogspot.com/-8fO6Qeldjf4/Uu-WS4ZbepI/AAAAAAAAEC0/HVEq3RPXen
 date: 2017-10-24T18:29:00.000+07:00
 description: How to Get Rid of Icon Screwdriver and Pliers Wrenches Quick Edit
   Wrench How to Remove Screwdriver Icons and Pliers Quick Edit and Wrench. icon
-  screwdrivers and pliers Chkme Image Missing Description Title, Quick Edit icon
-  and Icon Wrench How to Remove Quick Edit Icon and Icon Wrench on Blog
-excerpt: How to Get Rid of Icon Screwdriver and Pliers Wrenches Quick Edit
-  Wrench How to Remove Screwdriver Icons and Pliers Quick Edit and Wrench. icon
-  screwdrivers and pliers Chkme Image Missing Description Title, Quick Edit icon
-  and Icon Wrench How to Remove Quick Edit Icon and Icon Wrench on Blog
+  screwdrivers and
 lang: en
 photos:
   - https://3.bp.blogspot.com/-8fO6Qeldjf4/Uu-WS4ZbepI/AAAAAAAAEC0/HVEq3RPXenY/s320/quick+edit+and+wrench+icon.jpg
-subtitle: How to Get Rid of Icon Screwdriver and Pliers Wrenches Quick Edit
-  Wrench How to Remove Screwdriver Icons and Pliers Quick Edit and Wrench. icon
-  screwdrivers and pliers Chkme Image Missing Description Title, Quick Edit icon
-  and Icon Wrench How to Remove Quick Edit Icon and Icon Wrench on Blog
 tags:
   - css
   - blogger

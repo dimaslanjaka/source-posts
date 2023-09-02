@@ -10,13 +10,9 @@ cover: https://1.bp.blogspot.com/-uIxGKxlwpuU/XTIpx8O5NDI/AAAAAAAAAbA/qVaaGh3gen
 date: 2019-07-20T04:30:00.000+07:00
 description: Tutorial mengatasi windows 0 tanpa kehilangan data settings,
   aplikasi, file GPT MBR both supported Permasalahan /
-excerpt: Tutorial mengatasi windows 0 tanpa kehilangan data settings, aplikasi,
-  file GPT MBR both supported Permasalahan /
 lang: en
 photos:
   - https://1.bp.blogspot.com/-uIxGKxlwpuU/XTIpx8O5NDI/AAAAAAAAAbA/qVaaGh3genIYBE0rl0PDNTnt6RznLulJQCLcBGAs/s1600/2513807.jpg
-subtitle: Tutorial mengatasi windows 0 tanpa kehilangan data settings, aplikasi,
-  file GPT MBR both supported Permasalahan /
 tags:
   - tips & tricks
 thumbnail: https://1.bp.blogspot.com/-uIxGKxlwpuU/XTIpx8O5NDI/AAAAAAAAAbA/qVaaGh3genIYBE0rl0PDNTnt6RznLulJQCLcBGAs/s1600/2513807.jpg

@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/0dc14679ea7d9dece9
 date: 2019-11-24T22:28:00.001+07:00
 description: "Download lagu Armada Hey Kamu Mp3 Fleet - Hey you Listen: 210,675
   Duration: 245 MP3 size: 3.83MB Download Links Download Mp3"
-excerpt: "Download lagu Armada Hey Kamu Mp3 Fleet - Hey you Listen: 210,675
-  Duration: 245 MP3 size: 3.83MB Download Links Download Mp3"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/0dc14679ea7d9dece925760e8a895181.jpeg
-subtitle: "Download lagu Armada Hey Kamu Mp3 Fleet - Hey you Listen: 210,675
-  Duration: 245 MP3 size: 3.83MB Download Links Download Mp3"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/0dc14679ea7d9dece925760e8a895181.jpeg

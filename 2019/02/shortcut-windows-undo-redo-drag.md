@@ -9,11 +9,9 @@ comments: true
 cover: http://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.techlicious.com/images/computers/windows-10-shortcuts-510px.jpg
 date: 2019-02-08T22:15:00.002+07:00
 description: SHORTCUT KEYS LANGKAHLANGKAH UNTUK DIPROSES
-excerpt: SHORTCUT KEYS LANGKAHLANGKAH UNTUK DIPROSES
 lang: en
 photos:
   - http://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.techlicious.com/images/computers/windows-10-shortcuts-510px.jpg
-subtitle: SHORTCUT KEYS LANGKAHLANGKAH UNTUK DIPROSES
 tags:
   - tips & tricks
 thumbnail: http://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.techlicious.com/images/computers/windows-10-shortcuts-510px.jpg

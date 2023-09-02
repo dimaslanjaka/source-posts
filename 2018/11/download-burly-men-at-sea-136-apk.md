@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.c
 date: 2018-11-16T12:51:00.000+07:00
 description: Kekar Men at Sea adalah Game Petualangan untuk android Download
   versi terakhir dari
-excerpt: Kekar Men at Sea adalah Game Petualangan untuk android Download versi
-  terakhir dari
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2017/burly-men-at-sea-1.png
-subtitle: Kekar Men at Sea adalah Game Petualangan untuk android Download versi
-  terakhir dari
 tags:
   - games
   - android

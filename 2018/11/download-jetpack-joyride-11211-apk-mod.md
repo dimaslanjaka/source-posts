@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2015/01/Jetpack-Joyride-1.jpg
 date: 2018-11-14T15:54:00.000+07:00
 description: Jetpack Joyride .12.11 Apk Mod Unlimited Money android
-excerpt: Jetpack Joyride .12.11 Apk Mod Unlimited Money android
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2015/01/Jetpack-Joyride-1.jpg
-subtitle: Jetpack Joyride .12.11 Apk Mod Unlimited Money android
 tags:
   - games
   - android

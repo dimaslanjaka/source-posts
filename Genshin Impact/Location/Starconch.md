@@ -9,12 +9,10 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png/revision/latest
 date: 2020-06-12T00:00:00+07:00
 description: Where to find starconch in genshin impact
-excerpt: Where to find starconch in genshin impact
 lang: id
 location: Indonesia
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png/revision/latest
-subtitle: Where to find starconch in genshin impact
 tags:
   - games
   - genshin impact

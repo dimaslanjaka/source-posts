@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/e3afdd467190d474
 date: 2019-12-08T01:00:00.000+07:00
 description: GTA V Wasted and Busted Screen for GTA SA Mobile Ini adalah mod GTA
   V lain untuk GTA San Andreas Mobile Android. Mod ini akan
-excerpt: GTA V Wasted and Busted Screen for GTA SA Mobile Ini adalah mod GTA V
-  lain untuk GTA San Andreas Mobile Android. Mod ini akan
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/e3afdd467190d47484824fe04dc9b973.jpeg
-subtitle: GTA V Wasted and Busted Screen for GTA SA Mobile Ini adalah mod GTA V
-  lain untuk GTA San Andreas Mobile Android. Mod ini akan
 tags:
   - games
   - android

@@ -8,24 +8,12 @@ categories:
 comments: true
 cover: https://cdn.icon-icons.com/icons2/1488/PNG/512/5347-github_102542.png
 date: 2020-03-08T14:10:00.002+07:00
-description: Git CLI Delete History Commit Checkoutgit checkout --orphan
+description: "Git CLI Delete History Commit Checkoutgit checkout --orphan
   latest_branchAdd all the files git add -ACommit the changes git commit -am
-  commit messageDelete the branch git branch -D masterRename the current branch
-  to master git branch -m masterFinally, force update your repositorygit push -f
-  origin
-excerpt: Git CLI Delete History Commit Checkoutgit checkout --orphan
-  latest_branchAdd all the files git add -ACommit the changes git commit -am
-  commit messageDelete the branch git branch -D masterRename the current branch
-  to master git branch -m masterFinally, force update your repositorygit push -f
-  origin
+  commit messageDelete the "
 lang: en
 photos:
   - https://cdn.icon-icons.com/icons2/1488/PNG/512/5347-github_102542.png
-subtitle: Git CLI Delete History Commit Checkoutgit checkout --orphan
-  latest_branchAdd all the files git add -ACommit the changes git commit -am
-  commit messageDelete the branch git branch -D masterRename the current branch
-  to master git branch -m masterFinally, force update your repositorygit push -f
-  origin
 tags:
   - tips & tricks
 thumbnail: https://cdn.icon-icons.com/icons2/1488/PNG/512/5347-github_102542.png

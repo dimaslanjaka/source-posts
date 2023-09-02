@@ -10,13 +10,9 @@ cover: https://2.bp.blogspot.com/-axfbmdLI3Pc/XoIVHlkeicI/AAAAAAAAAA0/N9WMnayMq2
 date: 2018-11-10T05:21:00.000+07:00
 description: You having problems with gmail smtp server. Like this Gmail SMTP
   error please log in via your web browser , Then Goggle says Please log
-excerpt: You having problems with gmail smtp server. Like this Gmail SMTP error
-  please log in via your web browser , Then Goggle says Please log
 lang: en
 photos:
   - https://2.bp.blogspot.com/-axfbmdLI3Pc/XoIVHlkeicI/AAAAAAAAAA0/N9WMnayMq20kxlOxwl3vZgydjoGi9AcxQCLcBGAsYHQ/s1600/imgingest-2117968900021071073.png
-subtitle: You having problems with gmail smtp server. Like this Gmail SMTP error
-  please log in via your web browser , Then Goggle says Please log
 tags:
   - hosting
   - php

@@ -11,13 +11,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://t7j2r8j8.stac
 date: 2019-01-06T18:38:00.000+07:00
 description: Download Korean Drama A Pledge To God Indonesian Subtitles JiYoung
   Han Chae-Young works as a broadcaster and she is married to
-excerpt: Download Korean Drama A Pledge To God Indonesian Subtitles JiYoung Han
-  Chae-Young works as a broadcaster and she is married to
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://t7j2r8j8.stackpathcdn.com/wp-content/uploads/2018/11/Download-Drama-Korea-A-Pledge-to-God-Subtitle-Indonesia.jpg
-subtitle: Download Korean Drama A Pledge To God Indonesian Subtitles JiYoung Han
-  Chae-Young works as a broadcaster and she is married to
 tags:
   - movies
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://t7j2r8j8.stackpathcdn.com/wp-content/uploads/2018/11/Download-Drama-Korea-A-Pledge-to-God-Subtitle-Indonesia.jpg

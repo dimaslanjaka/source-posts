@@ -11,13 +11,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/1f5d59d103617b736e
 date: 2019-12-19T22:26:00.000+07:00
 description: "Download lagu Shanty Indah Hari Ini Mp3 Shanty - Beautiful Today
   Listen: 6,237 Duration: 303 MP3 size: 4.73MB Download Links"
-excerpt: "Download lagu Shanty Indah Hari Ini Mp3 Shanty - Beautiful Today
-  Listen: 6,237 Duration: 303 MP3 size: 4.73MB Download Links"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/1f5d59d103617b736e4728a7986c4381.jpeg
-subtitle: "Download lagu Shanty Indah Hari Ini Mp3 Shanty - Beautiful Today
-  Listen: 6,237 Duration: 303 MP3 size: 4.73MB Download Links"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/1f5d59d103617b736e4728a7986c4381.jpeg

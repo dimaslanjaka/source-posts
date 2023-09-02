@@ -10,13 +10,9 @@ cover: https://imgdb.net/images/3610.jpg
 date: 2018-02-14T02:58:00.000+07:00
 description: img border=0 src=https://imgdb.net/images/3610.jpg />The ultimate
   goal of all <b>Marketing</b> efforts is the creation of sales and
-excerpt: img border=0 src=https://imgdb.net/images/3610.jpg />The ultimate goal
-  of all <b>Marketing</b> efforts is the creation of sales and
 lang: en
 photos:
   - https://imgdb.net/images/3610.jpg
-subtitle: img border=0 src=https://imgdb.net/images/3610.jpg />The ultimate goal
-  of all <b>Marketing</b> efforts is the creation of sales and
 tags:
   - tips & tricks
 thumbnail: https://imgdb.net/images/3610.jpg

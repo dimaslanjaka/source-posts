@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/4.bp.blogspot.com/0c5dd847f967c344
 date: 2019-12-09T01:12:00.000+07:00
 description: Saw Mill Map Mod GTA San Andreas Mobile Ini adalah peta baru untuk
   GTA San Andreas yang memiliki tema menakutkan. Mod ini akan menambah
-excerpt: Saw Mill Map Mod GTA San Andreas Mobile Ini adalah peta baru untuk GTA
-  San Andreas yang memiliki tema menakutkan. Mod ini akan menambah
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/4.bp.blogspot.com/0c5dd847f967c3447b28d8eccd68c7bf.jpeg
-subtitle: Saw Mill Map Mod GTA San Andreas Mobile Ini adalah peta baru untuk GTA
-  San Andreas yang memiliki tema menakutkan. Mod ini akan menambah
 tags:
   - games
   - android

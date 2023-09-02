@@ -7,21 +7,8 @@ comments: true
 date: 2022-10-12T18:39:25+07:00
 description: "Contoh soal perbandingan Soal Perbandingan 1 Sebuah persegi
   panjang dengan ukuran panjang 50 cm dan lebar 12,5 cm. Tentukan perbandingan
-  antara keliling dengan panjang persegi panjang tersebut Diketahui : Panjang =
-  50 cm Lebar = 12,5 cm Ditanya : Perbandingan antara keliling dengan dua kali
-  panjang"
-excerpt: "Contoh soal perbandingan Soal Perbandingan 1 Sebuah persegi panjang
-  dengan ukuran panjang 50 cm dan lebar 12,5 cm. Tentukan perbandingan antara
-  keliling dengan panjang persegi panjang tersebut Diketahui : Panjang = 50 cm
-  Lebar = 12,5 cm Ditanya : Perbandingan antara keliling dengan dua kali
-  panjang"
+  antara keliling dengan "
 lang: id
-photos: []
-subtitle: "Contoh soal perbandingan Soal Perbandingan 1 Sebuah persegi panjang
-  dengan ukuran panjang 50 cm dan lebar 12,5 cm. Tentukan perbandingan antara
-  keliling dengan panjang persegi panjang tersebut Diketahui : Panjang = 50 cm
-  Lebar = 12,5 cm Ditanya : Perbandingan antara keliling dengan dua kali
-  panjang"
 tags:
   - scala
 title: Contoh soal perbandingan

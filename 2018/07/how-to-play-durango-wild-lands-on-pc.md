@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2018-07-27T12:40:00.000+07:00
 description: Durango Wild Lands production from Nexon Company is one of the most
   anticipated games in 2018. Many clients have played this game during
-excerpt: Durango Wild Lands production from Nexon Company is one of the most
-  anticipated games in 2018. Many clients have played this game during
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Durango Wild Lands production from Nexon Company is one of the most
-  anticipated games in 2018. Many clients have played this game during
 tags:
   - games
   - durango

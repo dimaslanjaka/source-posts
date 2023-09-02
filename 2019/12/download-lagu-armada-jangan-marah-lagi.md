@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/9a708670a41e5a292a
 date: 2019-12-04T13:25:00.001+07:00
 description: "Download lagu Armada Jangan Marah Lagi Mp3 Armada - Dont be angry
   anymore Listen: 10,664,799 Duration: 238 MP3 size: 3.72MB"
-excerpt: "Download lagu Armada Jangan Marah Lagi Mp3 Armada - Dont be angry
-  anymore Listen: 10,664,799 Duration: 238 MP3 size: 3.72MB"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/9a708670a41e5a292a86ba1a4b235d04.jpeg
-subtitle: "Download lagu Armada Jangan Marah Lagi Mp3 Armada - Dont be angry
-  anymore Listen: 10,664,799 Duration: 238 MP3 size: 3.72MB"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/9a708670a41e5a292a86ba1a4b235d04.jpeg

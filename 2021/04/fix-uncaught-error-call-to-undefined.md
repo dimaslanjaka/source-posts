@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://kuliahitblog.files.wordpress.com/2019/08/1dbdb-fatal2berror2buncaught2berror2bcall2bto2bundefined2bfunction2bmysql_connect25282529.png
 date: 2021-04-27T19:26:00.002+07:00
 description: "Uncaught Error: Call to undefined function str_starts_with Fix Solutions"
-excerpt: "Uncaught Error: Call to undefined function str_starts_with Fix Solutions"
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://kuliahitblog.files.wordpress.com/2019/08/1dbdb-fatal2berror2buncaught2berror2bcall2bto2bundefined2bfunction2bmysql_connect25282529.png
-subtitle: "Uncaught Error: Call to undefined function str_starts_with Fix Solutions"
 tags:
   - script
   - php

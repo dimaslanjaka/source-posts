@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/www.bagas31.info/a415d91f0af09d3f0
 date: 2019-12-14T01:05:00.000+07:00
 description: Cara Download melalui Google Drive sedot.club - Website Development
   Indonesia [ Website Development Indonesia ] - Lately, there have
-excerpt: Cara Download melalui Google Drive sedot.club - Website Development
-  Indonesia [ Website Development Indonesia ] - Lately, there have
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.bagas31.info/a415d91f0af09d3f0b5f2f8bc5844706.jpeg
-subtitle: Cara Download melalui Google Drive sedot.club - Website Development
-  Indonesia [ Website Development Indonesia ] - Lately, there have
 tags:
   - share
   - tips & tricks

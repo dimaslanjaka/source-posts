@@ -5,10 +5,7 @@ categories:
 comments: true
 date: 2022-05-02T06:01:50+0000
 description: How to implement import.meta on typescript hybrid esm and commonjs compiler
-excerpt: How to implement import.meta on typescript hybrid esm and commonjs compiler
 lang: en
-photos: []
-subtitle: How to implement import.meta on typescript hybrid esm and commonjs compiler
 tags:
   - nodejs
   - esm

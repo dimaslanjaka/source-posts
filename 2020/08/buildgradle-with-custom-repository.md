@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2020-08-03T18:02:00.005+07:00
 description: Fix missing dependencies from your gradle project android, maven,
   etc with this build.gradle. <br/>insert into
-excerpt: Fix missing dependencies from your gradle project android, maven, etc
-  with this build.gradle. <br/>insert into
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Fix missing dependencies from your gradle project android, maven, etc
-  with this build.gradle. <br/>insert into
 tags:
   - java
   - gradle

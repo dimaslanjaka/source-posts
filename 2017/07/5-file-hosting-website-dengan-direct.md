@@ -10,13 +10,9 @@ cover: https://img.raymond.cc/blog/wp-content/uploads/2015/08/dropbox-error-429.
 date: 2017-07-28T10:13:00.000+07:00
 description: Ada banyak layanan file hosting yang bisa Anda temukan di Internet
   dan beberapa yang terkenal adalah Dropbox, Google Drive, Microsoft
-excerpt: Ada banyak layanan file hosting yang bisa Anda temukan di Internet dan
-  beberapa yang terkenal adalah Dropbox, Google Drive, Microsoft
 lang: en
 photos:
   - https://img.raymond.cc/blog/wp-content/uploads/2015/08/dropbox-error-429.png
-subtitle: Ada banyak layanan file hosting yang bisa Anda temukan di Internet dan
-  beberapa yang terkenal adalah Dropbox, Google Drive, Microsoft
 tags:
   - tips & tricks
 thumbnail: https://img.raymond.cc/blog/wp-content/uploads/2015/08/dropbox-error-429.png

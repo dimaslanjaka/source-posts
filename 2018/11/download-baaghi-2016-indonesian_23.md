@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s3.dunia21.net/wp-content/uploads/2017/06/film-baaghi-2016.jpg
 date: 2018-11-23T23:26:00.000+07:00
 description: .content ,.keyword ,.keywords max-width:100 @import
-excerpt: .content ,.keyword ,.keywords max-width:100 @import
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s3.dunia21.net/wp-content/uploads/2017/06/film-baaghi-2016.jpg
-subtitle: .content ,.keyword ,.keywords max-width:100 @import
 tags:
   - movies
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s3.dunia21.net/wp-content/uploads/2017/06/film-baaghi-2016.jpg

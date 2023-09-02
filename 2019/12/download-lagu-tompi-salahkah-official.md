@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/c0d2f23e0fd08deb22
 date: 2019-12-19T22:26:00.001+07:00
 description: "Download lagu Tompi Salahkah Official Live Mp3Tompi - False
   Official Listen: 8,725 Duration: 311 MP3 size: 4.86MB Download"
-excerpt: "Download lagu Tompi Salahkah Official Live Mp3Tompi - False Official
-  Listen: 8,725 Duration: 311 MP3 size: 4.86MB Download"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/c0d2f23e0fd08deb22f060dbeb813bc2.jpeg
-subtitle: "Download lagu Tompi Salahkah Official Live Mp3Tompi - False Official
-  Listen: 8,725 Duration: 311 MP3 size: 4.86MB Download"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/c0d2f23e0fd08deb22f060dbeb813bc2.jpeg

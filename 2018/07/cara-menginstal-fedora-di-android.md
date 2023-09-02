@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googleuse
 date: 2018-07-27T11:57:00.000+07:00
 description: Halo semuanya, hanya ingin memberi Anda pembaruan cepat di Fedora
   dalam proyek chroot Android. Berikut tutorial cara menginstal fedora di
-excerpt: Halo semuanya, hanya ingin memberi Anda pembaruan cepat di Fedora dalam
-  proyek chroot Android. Berikut tutorial cara menginstal fedora di
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googleusercontent.com/-r2rcHfz-Dto/WSb5DKBPBkI/AAAAAAAAB4I/H0a69gufG-UXKzPcAr2M-O9jhNZ_Nf5uACHM/%255BUNSET%255D
-subtitle: Halo semuanya, hanya ingin memberi Anda pembaruan cepat di Fedora
-  dalam proyek chroot Android. Berikut tutorial cara menginstal fedora di
 tags:
   - tools
   - php

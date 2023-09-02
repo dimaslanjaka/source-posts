@@ -10,11 +10,9 @@ comments: true
 cover: https://i.imgur.com/zHDw2i0.png
 date: 2021-06-07T11:20:00.003+07:00
 description: Update genshin impact manual via download manager IDM.
-excerpt: Update genshin impact manual via download manager IDM.
 lang: en
 photos:
   - https://i.imgur.com/zHDw2i0.png
-subtitle: Update genshin impact manual via download manager IDM.
 tags:
   - genshin impact
   - tips & tricks

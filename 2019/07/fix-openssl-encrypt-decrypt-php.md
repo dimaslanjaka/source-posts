@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webmanaje
 date: 2019-07-31T16:03:00.001+07:00
 description: "Warning openssl_decrypt: IV passed is only 12 bytes long, cipher
   expects an IV of precisely 16 bytes, padding with \\0 in PATH_FILE on"
-excerpt: "Warning openssl_decrypt: IV passed is only 12 bytes long, cipher
-  expects an IV of precisely 16 bytes, padding with \\0 in PATH_FILE on"
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webmanajemen.com/assets/img/phpjs.svg?.png
-subtitle: "Warning openssl_decrypt: IV passed is only 12 bytes long, cipher
-  expects an IV of precisely 16 bytes, padding with \\0 in PATH_FILE on"
 tags:
   - php
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webmanajemen.com/assets/img/phpjs.svg?.png

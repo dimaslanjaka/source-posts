@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/990ad2c2bb02dcaab6
 date: 2019-12-04T13:28:00.001+07:00
 description: "Download lagu Tompi Menghujam Jantungku Mp3 Tompi - Stabbing My
   Heart Listen: 34,829 Duration: 214 MP3 size: 3.34MB Download"
-excerpt: "Download lagu Tompi Menghujam Jantungku Mp3 Tompi - Stabbing My Heart
-  Listen: 34,829 Duration: 214 MP3 size: 3.34MB Download"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/990ad2c2bb02dcaab63718374a458642.jpeg
-subtitle: "Download lagu Tompi Menghujam Jantungku Mp3 Tompi - Stabbing My Heart
-  Listen: 34,829 Duration: 214 MP3 size: 3.34MB Download"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/990ad2c2bb02dcaab63718374a458642.jpeg

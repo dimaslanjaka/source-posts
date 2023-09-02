@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/7e95d860ef0ea1fd8f
 date: 2019-12-19T22:22:00.000+07:00
 description: "Download lagu Fatin Cintamu Mp3 Fatin - Your love Listen: 65,522
   Duration: 246 MP3 size: 3.84MB Download Links Download Mp3"
-excerpt: "Download lagu Fatin Cintamu Mp3 Fatin - Your love Listen: 65,522
-  Duration: 246 MP3 size: 3.84MB Download Links Download Mp3"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/7e95d860ef0ea1fd8f52bc6cefc3208e.jpeg
-subtitle: "Download lagu Fatin Cintamu Mp3 Fatin - Your love Listen: 65,522
-  Duration: 246 MP3 size: 3.84MB Download Links Download Mp3"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/7e95d860ef0ea1fd8f52bc6cefc3208e.jpeg

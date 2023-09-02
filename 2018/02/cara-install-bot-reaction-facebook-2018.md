@@ -10,19 +10,10 @@ cover: https://3.bp.blogspot.com/-4EyGER4fK5U/Wn1wXZIwkyI/AAAAAAAAANw/AAQpyom5zr
 date: 2018-02-09T16:58:00.000+07:00
 description: Cara install Bot Reaction Facebook 2018 terbaru work 100 Step by
   step install auto like / reaction Facebook 100 Aman Dan Work. 100 Aman Dan
-  Work https://goo.gl/sju8Az ini adalah saya Cek Screenshot Klik Lanjutkan. Klik
-  Ini adalah saya atau YA. Klik Lanjutkan. Klik Lanjutkan. Klik Ini adalah sa
-excerpt: Cara install Bot Reaction Facebook 2018 terbaru work 100 Step by step
-  install auto like / reaction Facebook 100 Aman Dan Work. 100 Aman Dan Work
-  https://goo.gl/sju8Az ini adalah saya Cek Screenshot Klik Lanjutkan. Klik Ini
-  adalah saya atau YA. Klik Lanjutkan. Klik Lanjutkan. Klik Ini adalah sa
+  Work https://goo.gl/
 lang: en
 photos:
   - https://3.bp.blogspot.com/-4EyGER4fK5U/Wn1wXZIwkyI/AAAAAAAAANw/AAQpyom5zrI4MJR0OOOVnkNizmucsqrDgCLcBGAs/s320/Screenshot_2018-02-09-16-56-15-284_com.android.chrome.png
-subtitle: Cara install Bot Reaction Facebook 2018 terbaru work 100 Step by step
-  install auto like / reaction Facebook 100 Aman Dan Work. 100 Aman Dan Work
-  https://goo.gl/sju8Az ini adalah saya Cek Screenshot Klik Lanjutkan. Klik Ini
-  adalah saya atau YA. Klik Lanjutkan. Klik Lanjutkan. Klik Ini adalah sa
 tags:
   - social media
   - facebook

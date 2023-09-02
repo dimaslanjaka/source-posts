@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/17d88ed31ddac0d57b
 date: 2019-12-11T00:19:00.001+07:00
 description: "Download lagu Bullet For My Valentine Waking The Demon Mp3Bullet
   For My Valentine - Waking The Demon Listen: 63,861,608 Duration: 254"
-excerpt: "Download lagu Bullet For My Valentine Waking The Demon Mp3Bullet For
-  My Valentine - Waking The Demon Listen: 63,861,608 Duration: 254"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/17d88ed31ddac0d57b392806a2b97523.jpeg
-subtitle: "Download lagu Bullet For My Valentine Waking The Demon Mp3Bullet For
-  My Valentine - Waking The Demon Listen: 63,861,608 Duration: 254"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/17d88ed31ddac0d57b392806a2b97523.jpeg

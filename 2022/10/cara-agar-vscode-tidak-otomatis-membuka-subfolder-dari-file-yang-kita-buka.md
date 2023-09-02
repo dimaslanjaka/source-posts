@@ -6,19 +6,8 @@ comments: true
 date: 2022-10-21T02:54:40+07:00
 description: Cara agar VSCode tidak otomatis membuka subfolder dari file yang
   kita buka Buka pengaturan VSCode Caranya pergi ke File -> Preferences ->
-  Settings atau pada Mac Code -> Preferences -> Settings File -> Preferences ->
-  Settings Code -> Preferences -> Settings Cari keyword explorer.autoReveal
-  explorer
-excerpt: Cara agar VSCode tidak otomatis membuka subfolder dari file yang kita
-  buka Buka pengaturan VSCode Caranya pergi ke File -> Preferences -> Settings
-  atau pada Mac Code -> Preferences -> Settings File -> Preferences -> Settings
-  Code -> Preferences -> Settings Cari keyword explorer.autoReveal explorer
+  Settings atau pada Mac
 lang: id
-photos: []
-subtitle: Cara agar VSCode tidak otomatis membuka subfolder dari file yang kita
-  buka Buka pengaturan VSCode Caranya pergi ke File -> Preferences -> Settings
-  atau pada Mac Code -> Preferences -> Settings File -> Preferences -> Settings
-  Code -> Preferences -> Settings Cari keyword explorer.autoReveal explorer
 tags:
   - vscode
   - ide

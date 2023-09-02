@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/fd3530ffc5a6241772
 date: 2019-11-23T23:43:00.001+07:00
 description: "Download lagu HIVI - Siapkah Kau Tuk Jatuh Cinta Lagi Mp3 HIVI -
   Are you ready to fall in love again Listen: 85,788,312 Duration:"
-excerpt: "Download lagu HIVI - Siapkah Kau Tuk Jatuh Cinta Lagi Mp3 HIVI - Are
-  you ready to fall in love again Listen: 85,788,312 Duration:"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/fd3530ffc5a624177274308fa427f6a5.jpeg
-subtitle: "Download lagu HIVI - Siapkah Kau Tuk Jatuh Cinta Lagi Mp3 HIVI - Are
-  you ready to fall in love again Listen: 85,788,312 Duration:"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/fd3530ffc5a624177274308fa427f6a5.jpeg

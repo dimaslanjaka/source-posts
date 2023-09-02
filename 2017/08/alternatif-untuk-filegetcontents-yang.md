@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2017-08-19T10:35:00.000+07:00
 description: h1> cURL alternatif untuk file_get_contents melalui HTTP </h1>Dalam
   versi PHP yang lebih baru, Anda akan sering mendapati bahwa mengambil
-excerpt: h1> cURL alternatif untuk file_get_contents melalui HTTP </h1>Dalam
-  versi PHP yang lebih baru, Anda akan sering mendapati bahwa mengambil
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: h1> cURL alternatif untuk file_get_contents melalui HTTP </h1>Dalam
-  versi PHP yang lebih baru, Anda akan sering mendapati bahwa mengambil
 tags:
   - php
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

@@ -10,19 +10,10 @@ cover: https://www.vaingloryfire.com/images/heroes/potrait/ringo.png
 date: 2017-07-07T16:55:00.001+07:00
 description: "Ringo Step Shotter Tutorial CP WP Deskripsi Ringo:RingoRingoJenis
   Serangan:BerkisarPosisi:LanePeran:SniperHit Points HP646 69HP Regen2.15
-  0.23Poin Energi EP163 21.45EP Regen1,20 0,15Kerusakan Senjata66 5.9Kecepatan
-  serangan1 0,033Baja20 6Melindungi20 "
-excerpt: "Ringo Step Shotter Tutorial CP WP Deskripsi Ringo:RingoRingoJenis
-  Serangan:BerkisarPosisi:LanePeran:SniperHit Points HP646 69HP Regen2.15
-  0.23Poin Energi EP163 21.45EP Regen1,20 0,15Kerusakan Senjata66 5.9Kecepatan
-  serangan1 0,033Baja20 6Melindungi20 "
+  0.23Poin Energi EP163 "
 lang: en
 photos:
   - https://www.vaingloryfire.com/images/heroes/potrait/ringo.png
-subtitle: "Ringo Step Shotter Tutorial CP WP Deskripsi Ringo:RingoRingoJenis
-  Serangan:BerkisarPosisi:LanePeran:SniperHit Points HP646 69HP Regen2.15
-  0.23Poin Energi EP163 21.45EP Regen1,20 0,15Kerusakan Senjata66 5.9Kecepatan
-  serangan1 0,033Baja20 6Melindungi20 "
 tags:
   - vainglory
 thumbnail: https://www.vaingloryfire.com/images/heroes/potrait/ringo.png

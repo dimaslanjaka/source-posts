@@ -10,13 +10,9 @@ cover: http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/froont-respo
 date: 2017-05-15T20:59:00.000+07:00
 description: Web Responsive Creating Tool For Web Developers-Web design is an
   important part of a website development project.The client at this time
-excerpt: Web Responsive Creating Tool For Web Developers-Web design is an
-  important part of a website development project.The client at this time
 lang: en
 photos:
   - http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/froont-responsive-web-design.jpg
-subtitle: Web Responsive Creating Tool For Web Developers-Web design is an
-  important part of a website development project.The client at this time
 tags:
   - tools
 thumbnail: http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/froont-responsive-web-design.jpg

@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh5.googleuse
 date: 2017-09-10T16:02:00.000+07:00
 description: Untuk mencegah yahoo search engine menampilkan deskripsi dan title
   situs dari yahoo directory.
-excerpt: Untuk mencegah yahoo search engine menampilkan deskripsi dan title
-  situs dari yahoo directory.
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh5.googleusercontent.com/proxy/0M7YVi9ALp2H_7yL8Qjxytyl1bR_a1wm5w9439itLQLMHsRgTo9wU-PwoO19di1vA4AtAt7zBE0ZcrqhoKcYDH6TKwZgVpu1C4Ba5KITbvPGYV8I2qLOHxtrSP68PrsWHYP3PHIOQtipt2cL8ARZOa9YNwjV16QhJWsZThVqKVQrPA=w507-h290-nc
-subtitle: Untuk mencegah yahoo search engine menampilkan deskripsi dan title
-  situs dari yahoo directory.
 tags:
   - seo
   - blogging

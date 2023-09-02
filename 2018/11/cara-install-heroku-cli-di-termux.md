@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://camo.githubus
 date: 2018-11-17T14:08:00.000+07:00
 description: "Klik huruf i di keyboard tanpa tanda petikUbah kode di line
   pertama /usr/bin/env bash ke "
-excerpt: "Klik huruf i di keyboard tanpa tanda petikUbah kode di line pertama
-  /usr/bin/env bash ke "
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://camo.githubusercontent.com/30c7758f9ac63488d3c2814ed2dcd9dbb7e967f3/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6865726f6b752d312e737667
-subtitle: "Klik huruf i di keyboard tanpa tanda petikUbah kode di line pertama
-  /usr/bin/env bash ke "
 tags:
   - tools
   - script

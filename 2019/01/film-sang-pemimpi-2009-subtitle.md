@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2019-01-19T11:49:00.000+07:00
 description: Watch Sang Pemimpi Online Movies 2009 Indonesian Subtitles - This
   movie is an adaptation from a popular novel by the same title
-excerpt: Watch Sang Pemimpi Online Movies 2009 Indonesian Subtitles - This movie
-  is an adaptation from a popular novel by the same title
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Watch Sang Pemimpi Online Movies 2009 Indonesian Subtitles - This
-  movie is an adaptation from a popular novel by the same title
 tags:
   - movies
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

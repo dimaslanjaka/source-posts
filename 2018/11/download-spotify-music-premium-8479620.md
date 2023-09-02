@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2015/01/Spotify-Music-1.jpg
 date: 2018-11-15T13:20:00.000+07:00
 description: Spotify Music adalah musik aplikasi audio untuk android men-download versi
-excerpt: Spotify Music adalah musik aplikasi audio untuk android men-download versi
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2015/01/Spotify-Music-1.jpg
-subtitle: Spotify Music adalah musik aplikasi audio untuk android men-download versi
 tags:
   - tools
   - android

@@ -10,22 +10,10 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh6.googleuse
 date: 2017-07-24T12:54:00.000+07:00
 description: Cara ping mesin pencari dengan curl Ketika Anda menambahkan cerita
   baru atau memperbarui yang sudah ada, mungkin perlu beberapa minggu bagi bot
-  mesin pencari untuk mengindeks ulang situs Anda, namun saya mengetahui bahwa
-  beberapa situs mendapatkan indeks ulang sangat lama setelah menambahkan atau
-  me
-excerpt: Cara ping mesin pencari dengan curl Ketika Anda menambahkan cerita baru
-  atau memperbarui yang sudah ada, mungkin perlu beberapa minggu bagi bot mesin
-  pencari untuk mengindeks ulang situs Anda, namun saya mengetahui bahwa
-  beberapa situs mendapatkan indeks ulang sangat lama setelah menambahkan atau
-  me
+  mesin pencari un
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh6.googleusercontent.com/proxy/tYpoSEj-W-8XcUJyBsi4Tq7Q8AaMtVNwK9CTgxcg1ZbZ0u5lHPzUcRDhOo6VJKysWUEe768ddx0ckD0uobENOvlY1GdhblF6n_NvZDSk3EaJecDY6XiWVSiz65Pe2tKGr0oo9Wgf12ea98aNcA55vNFXbYQKLLcdvyQ8YOEZotzbww=w350-h200-nc
-subtitle: Cara ping mesin pencari dengan curl Ketika Anda menambahkan cerita
-  baru atau memperbarui yang sudah ada, mungkin perlu beberapa minggu bagi bot
-  mesin pencari untuk mengindeks ulang situs Anda, namun saya mengetahui bahwa
-  beberapa situs mendapatkan indeks ulang sangat lama setelah menambahkan atau
-  me
 tags:
   - php
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh6.googleusercontent.com/proxy/tYpoSEj-W-8XcUJyBsi4Tq7Q8AaMtVNwK9CTgxcg1ZbZ0u5lHPzUcRDhOo6VJKysWUEe768ddx0ckD0uobENOvlY1GdhblF6n_NvZDSk3EaJecDY6XiWVSiz65Pe2tKGr0oo9Wgf12ea98aNcA55vNFXbYQKLLcdvyQ8YOEZotzbww=w350-h200-nc

@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png
 date: 2018-07-11T22:58:00.000+07:00
 description: buff str you can get from various types ofdino meat that you hunt.
-excerpt: buff str you can get from various types ofdino meat that you hunt.
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png
-subtitle: buff str you can get from various types ofdino meat that you hunt.
 tags:
   - games
   - durango

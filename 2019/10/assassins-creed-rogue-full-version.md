@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.c
 date: 2019-10-26T17:42:00.000+07:00
 description: Web Development Indonesia After a while ago we had distributed
   Dragon Ball game, now a reborn game made by Ubisoft. Yes, hearing that
-excerpt: Web Development Indonesia After a while ago we had distributed Dragon
-  Ball game, now a reborn game made by Ubisoft. Yes, hearing that
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.com/wp-content/uploads/2015/03/Untitled-2.png
-subtitle: Web Development Indonesia After a while ago we had distributed Dragon
-  Ball game, now a reborn game made by Ubisoft. Yes, hearing that
 tags:
   - games
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.com/wp-content/uploads/2015/03/Untitled-2.png

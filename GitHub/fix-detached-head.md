@@ -5,7 +5,8 @@ categories:
 comments: true
 cover: https://production-cci-com.imgix.net/blog/media/2021-10-22-git-detached-head-3.png
 date: 2022-10-10T22:56:00+0700
-description: Now it turns out that the head is cut off/detached. i dont know what it is. How do I get it back?
+description: Now it turns out that the head is cut off/detached. i dont know
+  what it is. How do I get it back?
 keywords:
   - github
   - fix

@@ -8,12 +8,11 @@ categories:
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.shoutmeloud.com/wp-content/uploads/2012/04/Increase-Adsense-Earning.jpg
 date: 2017-04-09T14:00:00.000+07:00
-description: 0 Strategi Terbukti untuk Meningkatkan Pendapatan AdSense AndaMenggunakan AdSense ingin meningkatkan pendapatan Anda?Di sini saya
-excerpt: 0 Strategi Terbukti untuk Meningkatkan Pendapatan AdSense AndaMenggunakan AdSense ingin meningkatkan pendapatan Anda?Di sini saya
+description: 0 Strategi Terbukti untuk Meningkatkan Pendapatan AdSense
+  AndaMenggunakan AdSense ingin meningkatkan pendapatan Anda?Di sini saya
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.shoutmeloud.com/wp-content/uploads/2012/04/Increase-Adsense-Earning.jpg
-subtitle: 0 Strategi Terbukti untuk Meningkatkan Pendapatan AdSense AndaMenggunakan AdSense ingin meningkatkan pendapatan Anda?Di sini saya
 tags:
   - adsense
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.shoutmeloud.com/wp-content/uploads/2012/04/Increase-Adsense-Earning.jpg

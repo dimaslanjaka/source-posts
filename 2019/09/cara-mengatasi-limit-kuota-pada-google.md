@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.i
 date: 2019-09-28T17:56:00.000+07:00
 description: Full download server is the desire of many people, especially the
   downloader mania, hehe. Well, Google Drive is a server that supports
-excerpt: Full download server is the desire of many people, especially the
-  downloader mania, hehe. Well, Google Drive is a server that supports
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.info/wp-content/uploads/2018/12/Google_Drive_logo.png
-subtitle: Full download server is the desire of many people, especially the
-  downloader mania, hehe. Well, Google Drive is a server that supports
 tags:
   - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.info/wp-content/uploads/2018/12/Google_Drive_logo.png

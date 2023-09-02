@@ -11,15 +11,9 @@ date: 2019-07-21T20:26:00.001+07:00
 description: open terminal, type64 bitwget
   https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb32
   bit wget
-excerpt: open terminal, type64 bitwget
-  https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb32
-  bit wget
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.pngarts.com/files/3/Linux-PNG-Image-Background.png
-subtitle: open terminal, type64 bitwget
-  https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb32
-  bit wget
 tags:
   - linux/unix
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.pngarts.com/files/3/Linux-PNG-Image-Background.png

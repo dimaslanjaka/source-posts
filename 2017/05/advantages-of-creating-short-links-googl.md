@@ -9,11 +9,9 @@ comments: true
 cover: https://2.bp.blogspot.com/-q6ZKyisuRjs/VKp_mksoudI/AAAAAAAABqU/8VM-NTbbi64/s1600/short%2Blink%2Bgoogle.png
 date: 2017-05-16T07:37:00.000+07:00
 description: Advantages Of Creating Short Links Goo.Gl
-excerpt: Advantages Of Creating Short Links Goo.Gl
 lang: en
 photos:
   - https://2.bp.blogspot.com/-q6ZKyisuRjs/VKp_mksoudI/AAAAAAAABqU/8VM-NTbbi64/s1600/short%2Blink%2Bgoogle.png
-subtitle: Advantages Of Creating Short Links Goo.Gl
 tags:
   - blogging
 thumbnail: https://2.bp.blogspot.com/-q6ZKyisuRjs/VKp_mksoudI/AAAAAAAABqU/8VM-NTbbi64/s1600/short%2Blink%2Bgoogle.png

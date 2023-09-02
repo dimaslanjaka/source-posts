@@ -9,7 +9,6 @@ comments: true
 cover: https://i.stack.imgur.com/4TYxW.jpg
 date: 2021-12-06T23:25:00+07:00
 description: How to configure shortcut desktop for xampp linux
-excerpt: How to configure shortcut desktop for xampp linux
 keywords:
   - xampp
   - apache
@@ -20,7 +19,6 @@ lang: en
 location: Indonesia
 photos:
   - https://i.stack.imgur.com/4TYxW.jpg
-subtitle: How to configure shortcut desktop for xampp linux
 tags:
   - php
   - apache

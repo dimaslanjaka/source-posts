@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/4216ae32134391e1
 date: 2019-12-24T22:08:00.000+07:00
 description: Heres How to Stop UNICEF Donations Right And Easy Many questions
   about how to stop UNICEF donations from those warriors of children
-excerpt: Heres How to Stop UNICEF Donations Right And Easy Many questions about
-  how to stop UNICEF donations from those warriors of children
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/4216ae32134391e1185ba26fb80983e0.jpeg
-subtitle: Heres How to Stop UNICEF Donations Right And Easy Many questions about
-  how to stop UNICEF donations from those warriors of children
 tags:
   - share
   - tips & tricks

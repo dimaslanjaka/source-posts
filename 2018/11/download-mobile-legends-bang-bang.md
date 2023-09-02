@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2016/mobile-legends-esports-moba-1.jpg
 date: 2018-11-26T21:30:00.000+07:00
 description: Mobile Legends Bang Bang 1.3.31.3412 Apk Mod Radar Hacked android
-excerpt: Mobile Legends Bang Bang 1.3.31.3412 Apk Mod Radar Hacked android
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2016/mobile-legends-esports-moba-1.jpg
-subtitle: Mobile Legends Bang Bang 1.3.31.3412 Apk Mod Radar Hacked android
 tags:
   - games
   - android

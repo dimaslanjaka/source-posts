@@ -10,19 +10,10 @@ cover: http://urlz.fr/6tog
 date: 2018-01-29T22:31:00.001+07:00
 description: Easy Way of Adding Pin It Buttons in Images Easy Way of Adding Pin
   It Buttons in Images </ body> </ head> Before adding this code make sure that
-  in your blog template you have added jquery library link <script async=
-  data-pin-color=white data-pin-hover=true src=//assets.pinterest.com/js/pin
-excerpt: Easy Way of Adding Pin It Buttons in Images Easy Way of Adding Pin It
-  Buttons in Images </ body> </ head> Before adding this code make sure that in
-  your blog template you have added jquery library link <script async=
-  data-pin-color=white data-pin-hover=true src=//assets.pinterest.com/js/pin
+  in your blog te
 lang: en
 photos:
   - http://urlz.fr/6tog
-subtitle: Easy Way of Adding Pin It Buttons in Images Easy Way of Adding Pin It
-  Buttons in Images </ body> </ head> Before adding this code make sure that in
-  your blog template you have added jquery library link <script async=
-  data-pin-color=white data-pin-hover=true src=//assets.pinterest.com/js/pin
 tags:
   - script
   - js

@@ -10,11 +10,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2017/trivia-crack-1.png
 date: 2019-01-15T11:50:00.000+07:00
 description: Trivia Crack .99.2 APK Unduh Premium Mod Android [Terbaru]
-excerpt: Trivia Crack .99.2 APK Unduh Premium Mod Android [Terbaru]
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2017/trivia-crack-1.png
-subtitle: Trivia Crack .99.2 APK Unduh Premium Mod Android [Terbaru]
 tags:
   - games
   - android

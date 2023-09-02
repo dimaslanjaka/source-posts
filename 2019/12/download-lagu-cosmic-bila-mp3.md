@@ -11,13 +11,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://img.youtube.c
 date: 2019-12-02T16:42:00.001+07:00
 description: "Download lagu Cosmic Bila Mp3 Cosmic - When Listen: 21,986
   Duration: 195 MP3 size: 3.05MB Download Links Download Mp3 Server 1"
-excerpt: "Download lagu Cosmic Bila Mp3 Cosmic - When Listen: 21,986 Duration:
-  195 MP3 size: 3.05MB Download Links Download Mp3 Server 1"
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://img.youtube.com/vi/MFX6M1MPjPY/hqdefault.jpg
-subtitle: "Download lagu Cosmic Bila Mp3 Cosmic - When Listen: 21,986 Duration:
-  195 MP3 size: 3.05MB Download Links Download Mp3 Server 1"
 tags:
   - musics
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://img.youtube.com/vi/MFX6M1MPjPY/hqdefault.jpg

@@ -4,9 +4,10 @@ categories:
   - education
 comments: true
 date: 2022-10-24T19:16:13+07:00
-description: Kumpulan soal cara mencari tetesan infus Rumus mencari flow rate dari infus Rumus mencari tetesan per menit Rumus menghitung sisa waktu pemberian infus
+description: Kumpulan soal cara mencari tetesan infus Rumus mencari flow rate
+  dari infus Rumus mencari tetesan per menit Rumus menghitung sisa waktu
+  pemberian infus
 lang: en
-photos: []
 tags:
   - math
 title: Kumpulan soal cara mencari tetesan infus

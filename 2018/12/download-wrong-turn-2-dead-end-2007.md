@@ -11,15 +11,9 @@ date: 2018-12-23T19:53:00.000+07:00
 description: "import
   urlhttps://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstr\
   ap.min.css; .content ,.keyword ,.keywords "
-excerpt: "import
-  urlhttps://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstr\
-  ap.min.css; .content ,.keyword ,.keywords "
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s7.dunia21.net/wp-content/uploads/2015/12/film-wrong-turn-2-dead-end-2007.jpg
-subtitle: "import
-  urlhttps://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstr\
-  ap.min.css; .content ,.keyword ,.keywords "
 tags:
   - movies
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s7.dunia21.net/wp-content/uploads/2015/12/film-wrong-turn-2-dead-end-2007.jpg

@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/e3254d784b96e96aca
 date: 2019-12-02T16:58:00.001+07:00
 description: "Download lagu Armada Dimana Letak Hatimu Mp3 Fleet - Where Your
   Heart Is Listen: 99,680 Duration: 224 MP3 size: 3.5MB Download"
-excerpt: "Download lagu Armada Dimana Letak Hatimu Mp3 Fleet - Where Your Heart
-  Is Listen: 99,680 Duration: 224 MP3 size: 3.5MB Download"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/e3254d784b96e96acac576294f4a59bd.jpeg
-subtitle: "Download lagu Armada Dimana Letak Hatimu Mp3 Fleet - Where Your Heart
-  Is Listen: 99,680 Duration: 224 MP3 size: 3.5MB Download"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/e3254d784b96e96acac576294f4a59bd.jpeg

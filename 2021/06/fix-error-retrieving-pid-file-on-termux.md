@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googleuse
 date: 2021-06-04T01:00:00.002+07:00
 description: "Solution to error retrieving pid file Termux and apache Apache
   errors overview: 20014 Internal error specific"
-excerpt: "Solution to error retrieving pid file Termux and apache Apache errors
-  overview: 20014 Internal error specific"
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googleusercontent.com/-bzDMCW2l14w/XuSyYUMCT-I/AAAAAAAAA_k/s6h8qlxl7joZyle2_ZVRQrN5tAQLu43JQCLcBGAsYHQ/s1600/1592046171170163-1.png
-subtitle: "Solution to error retrieving pid file Termux and apache Apache errors
-  overview: 20014 Internal error specific"
 tags:
   - android
   - tips & tricks

@@ -10,11 +10,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2016/pes2017-pro-evolution-soccer-unreleased-1.jpg
 date: 2019-01-13T10:46:00.002+07:00
 description: PES 019 PRO EVOLUTION SOCCER 3.0.1 Apk Lengkap Data android
-excerpt: PES 019 PRO EVOLUTION SOCCER 3.0.1 Apk Lengkap Data android
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2016/pes2017-pro-evolution-soccer-unreleased-1.jpg
-subtitle: PES 019 PRO EVOLUTION SOCCER 3.0.1 Apk Lengkap Data android
 tags:
   - games
   - android

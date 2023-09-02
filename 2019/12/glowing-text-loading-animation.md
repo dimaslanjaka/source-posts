@@ -11,15 +11,9 @@ date: 2019-12-31T01:50:00.000+07:00
 description: "Glowing Text Loading AnimationCSSbody
   margin:0px;padding:0px;background:262222;ULposition:
   absolute;top:50;left:50;display:"
-excerpt: "Glowing Text Loading AnimationCSSbody
-  margin:0px;padding:0px;background:262222;ULposition:
-  absolute;top:50;left:50;display:"
 lang: en
 photos:
   - https://2.bp.blogspot.com/-UFidWzf_o3A/Xfp0n9U9c4I/AAAAAAAAAiI/Ve1ajQPHYdsVNKW9F8Rc8iPr0eLAYVeQgCLcBGAsYHQ/s1600/Screenshot_1.png
-subtitle: "Glowing Text Loading AnimationCSSbody
-  margin:0px;padding:0px;background:262222;ULposition:
-  absolute;top:50;left:50;display:"
 tags:
   - css
   - html

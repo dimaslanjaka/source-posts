@@ -7,7 +7,6 @@ comments: true
 cover: https://imgix2.ruangguru.com/assets/miscellaneous/png_yr7v2m_1615.png
 date: 2022-10-16T02:42:33+07:00
 description: Memahami rumus jarak, kecepatan, waktu, rata-rata dalam matematika
-excerpt: Memahami rumus jarak, kecepatan, waktu, rata-rata dalam matematika
 keywords:
   - rumus jarak
   - rumus kecepatan
@@ -16,7 +15,6 @@ keywords:
 lang: id
 photos:
   - https://imgix2.ruangguru.com/assets/miscellaneous/png_yr7v2m_1615.png
-subtitle: Memahami rumus jarak, kecepatan, waktu, rata-rata dalam matematika
 tags:
   - distance
   - time

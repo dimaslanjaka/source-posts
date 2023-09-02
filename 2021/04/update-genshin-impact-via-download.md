@@ -10,19 +10,10 @@ cover: https://imagizer.imageshack.com/v2/xq90/924/u7hBUr.png
 date: 2021-04-27T00:17:00.006+07:00
 description: Update Genshin Impact Via Download Manager Patch Pre-Download
   v1.4.0 - v1.5.0
-  game1.4.01.5.0diffH8LGSgKU.zipja-jp1.4.01.5.0diffhfBOW6ym.zipko-kr1.4.01.5.0diffNcX8UP1L.zipen-us1.4.01.5.0diffKdXT5Pi0.zipzh-cn1.4.01.5.0diffhvg2F3QM.zip
-  game1.4.01.5.0diffH8LGSgKU.zip 1.4.0 diff ja-jp1.4.01.5.0diffhfBOW6
-excerpt: Update Genshin Impact Via Download Manager Patch Pre-Download v1.4.0 -
-  v1.5.0
-  game1.4.01.5.0diffH8LGSgKU.zipja-jp1.4.01.5.0diffhfBOW6ym.zipko-kr1.4.01.5.0diffNcX8UP1L.zipen-us1.4.01.5.0diffKdXT5Pi0.zipzh-cn1.4.01.5.0diffhvg2F3QM.zip
-  game1.4.01.5.0diffH8LGSgKU.zip 1.4.0 diff ja-jp1.4.01.5.0diffhfBOW6
+  game1.4.01.5.0diffH8LGSgKU.zipja-jp1.4.01.5.0diffhfBOW6ym.zipko-kr1.4.01.5.0diffNc
 lang: en
 photos:
   - https://imagizer.imageshack.com/v2/xq90/924/u7hBUr.png
-subtitle: Update Genshin Impact Via Download Manager Patch Pre-Download v1.4.0 -
-  v1.5.0
-  game1.4.01.5.0diffH8LGSgKU.zipja-jp1.4.01.5.0diffhfBOW6ym.zipko-kr1.4.01.5.0diffNcX8UP1L.zipen-us1.4.01.5.0diffKdXT5Pi0.zipzh-cn1.4.01.5.0diffhvg2F3QM.zip
-  game1.4.01.5.0diffH8LGSgKU.zip 1.4.0 diff ja-jp1.4.01.5.0diffhfBOW6
 tags:
   - genshin impact
   - games

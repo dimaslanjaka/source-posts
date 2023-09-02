@@ -6,11 +6,9 @@ comments: true
 cover: https://user-images.githubusercontent.com/12471057/167742331-5e5ea481-cbfc-4a9a-87fd-7b404b16a4dc.png
 date: 2022-05-10T12:13:21+0000
 description: How to setup node_modules/.bin on global environtment path
-excerpt: How to setup node_modules/.bin on global environtment path
 lang: en
 photos:
   - https://user-images.githubusercontent.com/12471057/167742331-5e5ea481-cbfc-4a9a-87fd-7b404b16a4dc.png
-subtitle: How to setup node_modules/.bin on global environtment path
 tags:
   - nodejs
   - bash

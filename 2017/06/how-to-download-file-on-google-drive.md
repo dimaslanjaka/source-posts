@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh6.ggpht.com
 date: 2017-06-25T20:59:00.000+07:00
 description: For those of you who want to download files shared on kbd>Google
   Drive</kbd> may have experienced access limits from shared files, be they
-excerpt: For those of you who want to download files shared on kbd>Google
-  Drive</kbd> may have experienced access limits from shared files, be they
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300
-subtitle: For those of you who want to download files shared on kbd>Google
-  Drive</kbd> may have experienced access limits from shared files, be they
 tags:
   - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300

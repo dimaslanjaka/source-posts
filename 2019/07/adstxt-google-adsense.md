@@ -10,13 +10,9 @@ cover: https://1.bp.blogspot.com/-v722QaGiMoM/XZMwlYanj-I/AAAAAAAASgk/e92el_z2sG
 date: 2019-07-25T06:20:00.000+07:00
 description: ads.txtformat for valid adsenseexample combine ads.txt adsense with
   other ads:google.com, pub-1037373295371110, DIRECT video, banner,
-excerpt: ads.txtformat for valid adsenseexample combine ads.txt adsense with
-  other ads:google.com, pub-1037373295371110, DIRECT video, banner,
 lang: en
 photos:
   - https://1.bp.blogspot.com/-v722QaGiMoM/XZMwlYanj-I/AAAAAAAASgk/e92el_z2sGsTfXw0kSOrO-eiq5HpDLZsgCLcBGAsYHQ/s640/cara%2Bmemperbaiki%2Bads%2Btxt.jpg
-subtitle: ads.txtformat for valid adsenseexample combine ads.txt adsense with
-  other ads:google.com, pub-1037373295371110, DIRECT video, banner,
 tags:
   - adsense
   - tips & tricks

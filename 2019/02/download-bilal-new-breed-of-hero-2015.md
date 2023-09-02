@@ -11,15 +11,9 @@ date: 2019-02-18T15:13:00.000+07:00
 description: "import
   urlhttps://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstr\
   ap.min.css; .content ,.keyword ,.keywords "
-excerpt: "import
-  urlhttps://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstr\
-  ap.min.css; .content ,.keyword ,.keywords "
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s4.dunia21.org/wp-content/uploads/2018/03/film-bilal-a-new-breed-of-hero-2018.jpg
-subtitle: "import
-  urlhttps://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstr\
-  ap.min.css; .content ,.keyword ,.keywords "
 tags:
   - movies
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s4.dunia21.org/wp-content/uploads/2018/03/film-bilal-a-new-breed-of-hero-2018.jpg

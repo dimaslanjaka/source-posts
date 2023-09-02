@@ -9,11 +9,9 @@ comments: true
 cover: https://cdnpower.klikmania.net/wp-content/uploads/2015/12/1-min-3-1024x499.png
 date: 2017-07-18T12:23:00.001+07:00
 description: The ads appear in full on the screen
-excerpt: The ads appear in full on the screen
 lang: en
 photos:
   - https://cdnpower.klikmania.net/wp-content/uploads/2015/12/1-min-3-1024x499.png
-subtitle: The ads appear in full on the screen
 tags:
   - adsense
 thumbnail: https://cdnpower.klikmania.net/wp-content/uploads/2015/12/1-min-3-1024x499.png

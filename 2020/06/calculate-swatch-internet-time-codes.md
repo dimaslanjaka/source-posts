@@ -10,19 +10,10 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2020-06-06T01:11:00.002+07:00
 description: "Calculate Swatch Internet Time Codes PHP 12 bytes: <?php echo
   dateB; ?> 48 bytes: <?php echosprintf03d,time360086400/86.40; ?> C,56 bytes
-  C,56 bytes 56 bytes mainprintf03d,inttime0360086400/86.4; Explanation:03d-
-  tells printf to zero-pad up to 3 digits.tim"
-excerpt: "Calculate Swatch Internet Time Codes PHP 12 bytes: <?php echo dateB;
-  ?> 48 bytes: <?php echosprintf03d,time360086400/86.40; ?> C,56 bytes C,56
-  bytes 56 bytes mainprintf03d,inttime0360086400/86.4; Explanation:03d- tells
-  printf to zero-pad up to 3 digits.tim"
+  C,56 bytes 56 bytes ma"
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: "Calculate Swatch Internet Time Codes PHP 12 bytes: <?php echo dateB;
-  ?> 48 bytes: <?php echosprintf03d,time360086400/86.40; ?> C,56 bytes C,56
-  bytes 56 bytes mainprintf03d,inttime0360086400/86.4; Explanation:03d- tells
-  printf to zero-pad up to 3 digits.tim"
 tags:
   - script
   - php

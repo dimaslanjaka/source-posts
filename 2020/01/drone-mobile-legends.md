@@ -11,15 +11,9 @@ date: 2020-01-21T04:27:00.000+07:00
 description: Drone Mobile Legends Now Available at
   https//www.webmanajemen.com/Web-Manajemen/mlbb.html?v.1.0.5 Unity v4 ALL MAPS
   WorkPosted by Dimas
-excerpt: Drone Mobile Legends Now Available at
-  https//www.webmanajemen.com/Web-Manajemen/mlbb.html?v.1.0.5 Unity v4 ALL MAPS
-  WorkPosted by Dimas
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Drone Mobile Legends Now Available at
-  https//www.webmanajemen.com/Web-Manajemen/mlbb.html?v.1.0.5 Unity v4 ALL MAPS
-  WorkPosted by Dimas
 tags:
   - games
   - android

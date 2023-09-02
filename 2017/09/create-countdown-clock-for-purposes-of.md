@@ -8,21 +8,12 @@ categories:
 comments: true
 cover: https://1.bp.blogspot.com/-kL99VLzW4Ms/WaRX_4aQlbI/AAAAAAAAAB8/ArrS1QtEfG84W6z8Fj_caMdA-_J9ycrwwCLcBGAs/s320/5bfe82185dce9a2a58dee19d3c102139--status-younique-presenter.jpg
 date: 2017-09-11T00:49:00.000+07:00
-description: "Create a Countdown Clock for the purposes of 1 Hour Promo If you
+description: Create a Countdown Clock for the purposes of 1 Hour Promo If you
   happened to be holding promos and goods and service also aired on the blog,
-  maybe one of the ways to attract the interest of visitors to follow ongoing
-  promo can be tested by adding a countdown.With such expected visitors will "
-excerpt: "Create a Countdown Clock for the purposes of 1 Hour Promo If you
-  happened to be holding promos and goods and service also aired on the blog,
-  maybe one of the ways to attract the interest of visitors to follow ongoing
-  promo can be tested by adding a countdown.With such expected visitors will "
+  maybe one of the wa
 lang: en
 photos:
   - https://1.bp.blogspot.com/-kL99VLzW4Ms/WaRX_4aQlbI/AAAAAAAAAB8/ArrS1QtEfG84W6z8Fj_caMdA-_J9ycrwwCLcBGAs/s320/5bfe82185dce9a2a58dee19d3c102139--status-younique-presenter.jpg
-subtitle: "Create a Countdown Clock for the purposes of 1 Hour Promo If you
-  happened to be holding promos and goods and service also aired on the blog,
-  maybe one of the ways to attract the interest of visitors to follow ongoing
-  promo can be tested by adding a countdown.With such expected visitors will "
 tags:
   - css
   - js

@@ -10,19 +10,10 @@ cover: https://3.bp.blogspot.com/-fCN06ibkF9s/WPgDaZnEMdI/AAAAAAAAFJE/gFcoSLZVZe
 date: 2017-04-20T09:40:00.000+07:00
 description: Expandable Search Box Expandable search form using html and CSS.
   HTML:<form action=/search method=GET target=_top class=Search> <label
-  class=icon fa fa-search for=search></label> <input type=text
-  placeholder=Search class=underline name=q id=search></form>HTML Explanat
-excerpt: Expandable Search Box Expandable search form using html and CSS.
-  HTML:<form action=/search method=GET target=_top class=Search> <label
-  class=icon fa fa-search for=search></label> <input type=text
-  placeholder=Search class=underline name=q id=search></form>HTML Explanat
+  class=icon fa fa-search f
 lang: en
 photos:
   - https://3.bp.blogspot.com/-fCN06ibkF9s/WPgDaZnEMdI/AAAAAAAAFJE/gFcoSLZVZeQ2rpoUkl-KFH5E9004wBHmgCLcB/s320/Screenshot_2017-04-20-07-39-35.jpg
-subtitle: Expandable Search Box Expandable search form using html and CSS.
-  HTML:<form action=/search method=GET target=_top class=Search> <label
-  class=icon fa fa-search for=search></label> <input type=text
-  placeholder=Search class=underline name=q id=search></form>HTML Explanat
 tags:
   - css
   - html

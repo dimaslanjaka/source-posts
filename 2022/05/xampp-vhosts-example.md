@@ -6,11 +6,9 @@ comments: true
 cover: https://www.automationdojos.com/wp-content/uploads/2021/11/post-xampp-virtualhost-fimg.png
 date: 2022-05-15T02:40:27+0000
 description: Sample configuration for xampp virtual hosts 100 work tested 2022
-excerpt: Sample configuration for xampp virtual hosts 100 work tested 2022
 lang: en
 photos:
   - https://www.automationdojos.com/wp-content/uploads/2021/11/post-xampp-virtualhost-fimg.png
-subtitle: Sample configuration for xampp virtual hosts 100 work tested 2022
 tags:
   - xampp
   - apache

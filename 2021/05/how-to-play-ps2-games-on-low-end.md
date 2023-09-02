@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://api.duniagame
 date: 2021-05-14T04:15:00.001+07:00
 description: In the era of the 000s, the PS2 console was known to bring a myriad
   of valuable experiences to its connoisseurs. But along with the
-excerpt: In the era of the 000s, the PS2 console was known to bring a myriad of
-  valuable experiences to its connoisseurs. But along with the
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://api.duniagames.co.id/api/content/upload/file/14053741101592474239.jpg
-subtitle: In the era of the 000s, the PS2 console was known to bring a myriad of
-  valuable experiences to its connoisseurs. But along with the
 tags:
   - games
   - tips & tricks

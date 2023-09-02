@@ -5,10 +5,7 @@ categories:
 comments: true
 date: 2023-04-24T23:19:05+07:00
 description: Github Conventional Commit Messages
-excerpt: Github Conventional Commit Messages
 lang: en
-photos: []
-subtitle: Github Conventional Commit Messages
 tags:
   - github
   - shell

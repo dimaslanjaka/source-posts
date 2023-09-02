@@ -11,13 +11,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/830e4655a798c197c1
 date: 2019-12-04T16:04:00.001+07:00
 description: "Download lagu Armada Pergi Pagi Pulang Pagi Mp3 Fleet - Go Early
   Morning Return Morning Listen: 34,266,792 Duration: 225 MP3 size:"
-excerpt: "Download lagu Armada Pergi Pagi Pulang Pagi Mp3 Fleet - Go Early
-  Morning Return Morning Listen: 34,266,792 Duration: 225 MP3 size:"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/830e4655a798c197c19df34e94768809.jpeg
-subtitle: "Download lagu Armada Pergi Pagi Pulang Pagi Mp3 Fleet - Go Early
-  Morning Return Morning Listen: 34,266,792 Duration: 225 MP3 size:"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/830e4655a798c197c19df34e94768809.jpeg

@@ -7,16 +7,11 @@ comments: true
 date: 2022-10-11T23:43:58+07:00
 description: Rumus Skala, Contoh Soal Skala, Jarak Sebenarnya, Jarak Pada Peta,
   Penentuan Skala
-excerpt: Rumus Skala, Contoh Soal Skala, Jarak Sebenarnya, Jarak Pada Peta,
-  Penentuan Skala
 keywords:
   - Menentukan jarak sebenarnya dari peta
   - Menentukan skala dari jarak peta dan jarak sebenarnya
   - Contoh Soal Skala
 lang: id
-photos: []
-subtitle: Rumus Skala, Contoh Soal Skala, Jarak Sebenarnya, Jarak Pada Peta,
-  Penentuan Skala
 tags:
   - scala
   - map

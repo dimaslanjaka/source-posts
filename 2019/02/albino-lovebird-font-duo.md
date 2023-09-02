@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.uxfree.co
 date: 2019-02-21T00:38:00.000+07:00
 description: Albino Lovebird Font Duo Unduh Sumber daya ini berasal dari situs
   web lain dan kami tidak dapat mengkonfirmasi keabsahannya.
-excerpt: Albino Lovebird Font Duo Unduh Sumber daya ini berasal dari situs web
-  lain dan kami tidak dapat mengkonfirmasi keabsahannya.
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.uxfree.com/wp-content/uploads/2019/01/albino-lovebird-font-duo.jpg
-subtitle: Albino Lovebird Font Duo Unduh Sumber daya ini berasal dari situs web
-  lain dan kami tidak dapat mengkonfirmasi keabsahannya.
 tags:
   - miscellaneous
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.uxfree.com/wp-content/uploads/2019/01/albino-lovebird-font-duo.jpg

@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/245e5bee1a7de446d1
 date: 2019-11-24T23:47:00.001+07:00
 description: "Download lagu Juicy Luicy Kenal lebih dekat Mp3 Juicy Luicy - Get
   to know you closer Listen: 9,710 Duration: 328 MP3 size: 5.13MB"
-excerpt: "Download lagu Juicy Luicy Kenal lebih dekat Mp3 Juicy Luicy - Get to
-  know you closer Listen: 9,710 Duration: 328 MP3 size: 5.13MB"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/245e5bee1a7de446d11c3fd63eacabf0.jpeg
-subtitle: "Download lagu Juicy Luicy Kenal lebih dekat Mp3 Juicy Luicy - Get to
-  know you closer Listen: 9,710 Duration: 328 MP3 size: 5.13MB"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/245e5bee1a7de446d11c3fd63eacabf0.jpeg

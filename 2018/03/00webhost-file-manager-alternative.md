@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.seoclerk.
 date: 2018-03-26T21:18:00.000+07:00
 description: FeatureSupport unzip fileSupport edit file/script on different
   encodingsSupport upload,edit,open,delete,rename,and other.Support add
-excerpt: FeatureSupport unzip fileSupport edit file/script on different
-  encodingsSupport upload,edit,open,delete,rename,and other.Support add
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.seoclerk.com/pics/want29446-1eGFdc1437614695.png
-subtitle: FeatureSupport unzip fileSupport edit file/script on different
-  encodingsSupport upload,edit,open,delete,rename,and other.Support add
 tags:
   - tools
   - script

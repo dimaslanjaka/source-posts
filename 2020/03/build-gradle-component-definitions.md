@@ -10,13 +10,9 @@ cover: https://1.bp.blogspot.com/-Tos8rqKMyGA/XmNfZ846naI/AAAAAAAAAAM/PjoZBLK56I
 date: 2020-03-07T15:48:00.001+07:00
 description: "Build Gradle Component Definitions Common Gradle Command Prompt
   Command Description ./gradlew build "
-excerpt: "Build Gradle Component Definitions Common Gradle Command Prompt
-  Command Description ./gradlew build "
 lang: en
 photos:
   - https://1.bp.blogspot.com/-Tos8rqKMyGA/XmNfZ846naI/AAAAAAAAAAM/PjoZBLK56IMCbfHmazdWHifnYzigxC7hgCLcBGAsYHQ/s320/gradle.png
-subtitle: "Build Gradle Component Definitions Common Gradle Command Prompt
-  Command Description ./gradlew build "
 tags:
   - android
 thumbnail: https://1.bp.blogspot.com/-Tos8rqKMyGA/XmNfZ846naI/AAAAAAAAAAM/PjoZBLK56IMCbfHmazdWHifnYzigxC7hgCLcBGAsYHQ/s320/gradle.png

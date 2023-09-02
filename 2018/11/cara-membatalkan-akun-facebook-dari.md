@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.tech-reci
 date: 2018-11-07T23:49:00.000+07:00
 description: Munculnya aplikasi telah mendorong pengembang untuk memastikan
   kesinambungan penggunaan aplikasi terlepas dari platform atau
-excerpt: Munculnya aplikasi telah mendorong pengembang untuk memastikan
-  kesinambungan penggunaan aplikasi terlepas dari platform atau
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.tech-recipes.com/wp-content/uploads/2017/09/How-to-Unbind-an-App-Off-of-Facebook.png
-subtitle: Munculnya aplikasi telah mendorong pengembang untuk memastikan
-  kesinambungan penggunaan aplikasi terlepas dari platform atau
 tags:
   - facebook
   - tips & tricks

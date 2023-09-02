@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/e55084c14e35de2b01
 date: 2019-12-02T16:48:00.001+07:00
 description: "Download lagu Cassandra Hapuskan Cintaku Mp3 Cassandra - Erase my
   love Listen: 1,246,016 Duration: 255 MP3 size: 3.98MB Download"
-excerpt: "Download lagu Cassandra Hapuskan Cintaku Mp3 Cassandra - Erase my love
-  Listen: 1,246,016 Duration: 255 MP3 size: 3.98MB Download"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/e55084c14e35de2b019baa791088eb6c.jpeg
-subtitle: "Download lagu Cassandra Hapuskan Cintaku Mp3 Cassandra - Erase my
-  love Listen: 1,246,016 Duration: 255 MP3 size: 3.98MB Download"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/e55084c14e35de2b019baa791088eb6c.jpeg

@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/230adbf5c845
 date: 2019-12-07T04:09:00.001+07:00
 description: Steps On How To Create A B2b Social Media Marketing Campaign
   Panduan pemasaran media sosial B2B ini adalah apa yang Anda butuhkan untuk
-excerpt: Steps On How To Create A B2b Social Media Marketing Campaign Panduan
-  pemasaran media sosial B2B ini adalah apa yang Anda butuhkan untuk
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/230adbf5c845fb1f6440c69f622d8b82.png
-subtitle: Steps On How To Create A B2b Social Media Marketing Campaign Panduan
-  pemasaran media sosial B2B ini adalah apa yang Anda butuhkan untuk
 tags:
   - marketing strategies
   - tips & tricks

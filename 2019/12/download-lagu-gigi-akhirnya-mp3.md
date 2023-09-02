@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/e4ea40dda4f7f82154
 date: 2019-12-19T22:22:00.002+07:00
 description: "Download lagu GIGI Akhirnya Mp3 DENTAL - Finally Listen: 90,422
   Duration: 247 MP3 size: 3.86MB Download Links Download Mp3"
-excerpt: "Download lagu GIGI Akhirnya Mp3 DENTAL - Finally Listen: 90,422
-  Duration: 247 MP3 size: 3.86MB Download Links Download Mp3"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/e4ea40dda4f7f8215448c9f9a95dcef1.jpeg
-subtitle: "Download lagu GIGI Akhirnya Mp3 DENTAL - Finally Listen: 90,422
-  Duration: 247 MP3 size: 3.86MB Download Links Download Mp3"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/e4ea40dda4f7f8215448c9f9a95dcef1.jpeg

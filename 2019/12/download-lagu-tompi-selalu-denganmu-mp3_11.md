@@ -11,13 +11,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/d8b263d2554a3762d2
 date: 2019-12-11T02:15:00.001+07:00
 description: "Download lagu Tompi Selalu Denganmu Mp3Tompi - Always With You
   Listen: 14,848 Duration: 515 MP3 size: 8.05MB Download Links"
-excerpt: "Download lagu Tompi Selalu Denganmu Mp3Tompi - Always With You Listen:
-  14,848 Duration: 515 MP3 size: 8.05MB Download Links"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/d8b263d2554a3762d22d2cce13720544.jpeg
-subtitle: "Download lagu Tompi Selalu Denganmu Mp3Tompi - Always With You
-  Listen: 14,848 Duration: 515 MP3 size: 8.05MB Download Links"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/d8b263d2554a3762d22d2cce13720544.jpeg

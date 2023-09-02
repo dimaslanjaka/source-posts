@@ -10,21 +10,10 @@ cover: https://3.bp.blogspot.com/-PfigKHqV7j0/WaRrYLCXHVI/AAAAAAAAACY/o3ygO6g556
 date: 2017-09-16T02:15:00.000+07:00
 description: Responsive AMP Social Sharing Button I also share responsive AMP
   social sharing buttons for Blogger AMP HTML. Responsive AMP social sharing
-  button is quite complete ie the share button for Facebook, Google, Twitter,
-  Pinterest, LinkedIn, Tumblr, Whatsapp, SMS, and Email, Adding BBM and Whatsapp
-  Her
-excerpt: Responsive AMP Social Sharing Button I also share responsive AMP social
-  sharing buttons for Blogger AMP HTML. Responsive AMP social sharing button is
-  quite complete ie the share button for Facebook, Google, Twitter, Pinterest,
-  LinkedIn, Tumblr, Whatsapp, SMS, and Email, Adding BBM and Whatsapp Her
+  button is quite comp
 lang: en
 photos:
   - https://3.bp.blogspot.com/-PfigKHqV7j0/WaRrYLCXHVI/AAAAAAAAACY/o3ygO6g556I05TKO6xT2Xahym5NTp-ArQCLcBGAs/s320/images%2B%252810%2529.jpg
-subtitle: Responsive AMP Social Sharing Button I also share responsive AMP
-  social sharing buttons for Blogger AMP HTML. Responsive AMP social sharing
-  button is quite complete ie the share button for Facebook, Google, Twitter,
-  Pinterest, LinkedIn, Tumblr, Whatsapp, SMS, and Email, Adding BBM and Whatsapp
-  Her
 tags:
   - blogger
   - html

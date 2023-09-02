@@ -10,13 +10,9 @@ cover: https://4.bp.blogspot.com/-4_aOS3F7Fg0/XlutU8-PrnI/AAAAAAAAAK0/7KvHUpX78W
 date: 2020-01-31T00:36:00.001+07:00
 description: How to tethering vpn on android ROOT is required Requirement
   Terminal Emulator Tutorial Start your
-excerpt: How to tethering vpn on android ROOT is required Requirement Terminal
-  Emulator Tutorial Start your
 lang: en
 photos:
   - https://4.bp.blogspot.com/-4_aOS3F7Fg0/XlutU8-PrnI/AAAAAAAAAK0/7KvHUpX78WQw8a-2MYQjo-P1Oq9Mv1zTACLcBGAsYHQ/s1600/imgingest-2117968900021071073.png
-subtitle: How to tethering vpn on android ROOT is required Requirement Terminal
-  Emulator Tutorial Start your
 tags:
   - share
   - android

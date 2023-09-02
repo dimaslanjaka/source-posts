@@ -8,21 +8,12 @@ categories:
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://3.bp.blogspot.com/-KhWvYh2yApY/W3K2X8QfpAI/AAAAAAAAFic/xljYGye6zjsZlJAa-NJKxRsvVnWiq5PTQCK4BGAYYCw/s640/maxresdefault%2B%25281%2529.jpg
 date: 2018-08-15T13:59:00.001+07:00
-description: How to Create a Wide Screen or Drone View in Mobile Legend NO ROOT
+description: "How to Create a Wide Screen or Drone View in Mobile Legend NO ROOT
   How to Create a Wide Screen or Drone View in Mobile Legend NO ROOT The use of
-  Drone View Can See Around MAP freely Drive Johnson Easy Play Wired Fanny Easy
-  Can See Around MAP freely Drive Johnson Eas
-excerpt: How to Create a Wide Screen or Drone View in Mobile Legend NO ROOT How
-  to Create a Wide Screen or Drone View in Mobile Legend NO ROOT The use of
-  Drone View Can See Around MAP freely Drive Johnson Easy Play Wired Fanny Easy
-  Can See Around MAP freely Drive Johnson Eas
+  Drone View Can "
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://3.bp.blogspot.com/-KhWvYh2yApY/W3K2X8QfpAI/AAAAAAAAFic/xljYGye6zjsZlJAa-NJKxRsvVnWiq5PTQCK4BGAYYCw/s640/maxresdefault%2B%25281%2529.jpg
-subtitle: How to Create a Wide Screen or Drone View in Mobile Legend NO ROOT How
-  to Create a Wide Screen or Drone View in Mobile Legend NO ROOT The use of
-  Drone View Can See Around MAP freely Drive Johnson Easy Play Wired Fanny Easy
-  Can See Around MAP freely Drive Johnson Eas
 tags:
   - games
   - android

@@ -8,24 +8,12 @@ categories:
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://roadtoblogging.com/wp-content/uploads/2013/01/Adsense-Account-With-Subdomain-1.png?w=730&ssl=1
 date: 2017-08-24T15:30:00.000+07:00
-description: "Dapatkah Anda Mendapatkan Persetujuan AdSense dengan Situs
+description: Dapatkah Anda Mendapatkan Persetujuan AdSense dengan Situs
   Subdomain? Saya telah mengajukan pertanyaan ini berkali-kali bahwa Dapatkah
-  saya mendapatkan persetujuan Adsense dengan Subdomain? Sebelum kita menyelami
-  jawabannya disini beberapa informasi tentang Subdomain.Subdomain: subdomain
-  adalah"
-excerpt: "Dapatkah Anda Mendapatkan Persetujuan AdSense dengan Situs Subdomain?
-  Saya telah mengajukan pertanyaan ini berkali-kali bahwa Dapatkah saya
-  mendapatkan persetujuan Adsense dengan Subdomain? Sebelum kita menyelami
-  jawabannya disini beberapa informasi tentang Subdomain.Subdomain: subdomain
-  adalah"
+  saya mendapatkan persetuj
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://roadtoblogging.com/wp-content/uploads/2013/01/Adsense-Account-With-Subdomain-1.png?w=730&ssl=1
-subtitle: "Dapatkah Anda Mendapatkan Persetujuan AdSense dengan Situs Subdomain?
-  Saya telah mengajukan pertanyaan ini berkali-kali bahwa Dapatkah saya
-  mendapatkan persetujuan Adsense dengan Subdomain? Sebelum kita menyelami
-  jawabannya disini beberapa informasi tentang Subdomain.Subdomain: subdomain
-  adalah"
 tags:
   - adsense
   - wordpress

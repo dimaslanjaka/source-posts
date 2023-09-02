@@ -10,22 +10,10 @@ cover: https://imgdb.net/images/3179.png
 date: 2017-09-03T15:36:00.003+07:00
 description: "Tutorial Cara symlink file di android SYMLINK file di android
   tutorial.bagaimana cara symlink/symbolic links folder atau file di
-  android.Jika Perangkat Android Anda sudah root dan memasang terminal, Anda
-  harus bisa memasukkan yang berikut ini: bagaimana cara symlink/symbolic links
-  folder atau file "
-excerpt: "Tutorial Cara symlink file di android SYMLINK file di android
-  tutorial.bagaimana cara symlink/symbolic links folder atau file di
-  android.Jika Perangkat Android Anda sudah root dan memasang terminal, Anda
-  harus bisa memasukkan yang berikut ini: bagaimana cara symlink/symbolic links
-  folder atau file "
+  android.Jika Perangkat Android "
 lang: en
 photos:
   - https://imgdb.net/images/3179.png
-subtitle: "Tutorial Cara symlink file di android SYMLINK file di android
-  tutorial.bagaimana cara symlink/symbolic links folder atau file di
-  android.Jika Perangkat Android Anda sudah root dan memasang terminal, Anda
-  harus bisa memasukkan yang berikut ini: bagaimana cara symlink/symbolic links
-  folder atau file "
 tags:
   - android
   - tips & tricks

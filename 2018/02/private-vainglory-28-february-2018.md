@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2018-02-28T20:52:00.002+07:00
 description: VG Private Battle 20:00 Wib<br />Tim A<br />1.<br />2.figo05<br
   />3.<br /><br />Tim B<br />1.<br />2.<br />3.<br /><br />Spectator<br
-excerpt: VG Private Battle 20:00 Wib<br />Tim A<br />1.<br />2.figo05<br />3.<br
-  /><br />Tim B<br />1.<br />2.<br />3.<br /><br />Spectator<br
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: VG Private Battle 20:00 Wib<br />Tim A<br />1.<br />2.figo05<br
-  />3.<br /><br />Tim B<br />1.<br />2.<br />3.<br /><br />Spectator<br
 tags:
   - vainglory
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

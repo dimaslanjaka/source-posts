@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/20f2d0fc26582ba72c
 date: 2019-12-02T05:36:00.001+07:00
 description: "Download lagu Marcell Bahasa Kalbu Mp3 Marcell - Heart Language
   Listen: 1,141,487 Duration: 290 MP3 size: 4.53MB Download Links"
-excerpt: "Download lagu Marcell Bahasa Kalbu Mp3 Marcell - Heart Language
-  Listen: 1,141,487 Duration: 290 MP3 size: 4.53MB Download Links"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/20f2d0fc26582ba72ca0f3a70d775582.jpeg
-subtitle: "Download lagu Marcell Bahasa Kalbu Mp3 Marcell - Heart Language
-  Listen: 1,141,487 Duration: 290 MP3 size: 4.53MB Download Links"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/20f2d0fc26582ba72ca0f3a70d775582.jpeg

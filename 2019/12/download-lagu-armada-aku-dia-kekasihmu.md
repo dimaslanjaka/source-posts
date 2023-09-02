@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/9271ebb05099333e79
 date: 2019-12-04T17:10:00.001+07:00
 description: "Download lagu Armada Aku Dia Kekasihmu Mp3 Armada - I Am Your
   Beloved Listen: 427,996 Duration: 232 MP3 size: 3.63MB Download"
-excerpt: "Download lagu Armada Aku Dia Kekasihmu Mp3 Armada - I Am Your Beloved
-  Listen: 427,996 Duration: 232 MP3 size: 3.63MB Download"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/9271ebb05099333e79d578ac17bf381b.jpeg
-subtitle: "Download lagu Armada Aku Dia Kekasihmu Mp3 Armada - I Am Your Beloved
-  Listen: 427,996 Duration: 232 MP3 size: 3.63MB Download"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/9271ebb05099333e79d578ac17bf381b.jpeg

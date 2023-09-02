@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2019/age-of-civilizations-ii-1.png
 date: 2019-02-13T15:14:00.000+07:00
 description: Age of Civilisations II .01415 Apk Data android
-excerpt: Age of Civilisations II .01415 Apk Data android
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2019/age-of-civilizations-ii-1.png
-subtitle: Age of Civilisations II .01415 Apk Data android
 tags:
   - games
   - android

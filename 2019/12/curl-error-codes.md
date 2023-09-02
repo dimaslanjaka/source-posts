@@ -9,11 +9,9 @@ comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2019-12-28T12:41:00.000+07:00
 description: CURLEUNSUPPORTED_PROTOCOL 1
-excerpt: CURLEUNSUPPORTED_PROTOCOL 1
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: CURLEUNSUPPORTED_PROTOCOL 1
 tags:
   - tools
   - tips & tricks

@@ -9,21 +9,12 @@ categories:
 comments: true
 cover: https://4.bp.blogspot.com/-lM_qJ3TzI-o/W4A248M9M_I/AAAAAAAAAUA/VwfMomHV9R07ECo_Z7zC1dLgP2gPtxc0ACLcBGAs/s1600/blacklist-rubber-stamp-clip-art-vector_csp42894667.jpg
 date: 2018-08-24T21:40:00.000+07:00
-description: BLACKLIST PLAYER Durango BLACKLIST PLAYER Maling / Penipu IGN
+description: "BLACKLIST PLAYER Durango BLACKLIST PLAYER Maling / Penipu IGN
   DENGAN FREKUENSI AlphaRzhie 0014AeroLion 0636AIBONG 0290Angga 0425Anggun
-  0847Arthat 0893Biji Onta 0444Boy Kah 0989cokx 0374DITA 4436 0922Desela
-  0386Doodle 0577Ester Zag 0016FabionFerell 0371Fedrick Vinsmoke
-excerpt: BLACKLIST PLAYER Durango BLACKLIST PLAYER Maling / Penipu IGN DENGAN
-  FREKUENSI AlphaRzhie 0014AeroLion 0636AIBONG 0290Angga 0425Anggun 0847Arthat
-  0893Biji Onta 0444Boy Kah 0989cokx 0374DITA 4436 0922Desela 0386Doodle
-  0577Ester Zag 0016FabionFerell 0371Fedrick Vinsmoke
+  0847Arthat 0893Biji Onta "
 lang: en
 photos:
   - https://4.bp.blogspot.com/-lM_qJ3TzI-o/W4A248M9M_I/AAAAAAAAAUA/VwfMomHV9R07ECo_Z7zC1dLgP2gPtxc0ACLcBGAs/s1600/blacklist-rubber-stamp-clip-art-vector_csp42894667.jpg
-subtitle: BLACKLIST PLAYER Durango BLACKLIST PLAYER Maling / Penipu IGN DENGAN
-  FREKUENSI AlphaRzhie 0014AeroLion 0636AIBONG 0290Angga 0425Anggun 0847Arthat
-  0893Biji Onta 0444Boy Kah 0989cokx 0374DITA 4436 0922Desela 0386Doodle
-  0577Ester Zag 0016FabionFerell 0371Fedrick Vinsmoke
 tags:
   - durango
 thumbnail: https://4.bp.blogspot.com/-lM_qJ3TzI-o/W4A248M9M_I/AAAAAAAAAUA/VwfMomHV9R07ECo_Z7zC1dLgP2gPtxc0ACLcBGAs/s1600/blacklist-rubber-stamp-clip-art-vector_csp42894667.jpg

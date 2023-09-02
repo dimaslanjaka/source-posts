@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png
 date: 2018-06-19T03:56:00.000+07:00
 description: TAGS Durango, Proses Logam, Material Processing, Durango Wild Lands.
-excerpt: TAGS Durango, Proses Logam, Material Processing, Durango Wild Lands.
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png
-subtitle: TAGS Durango, Proses Logam, Material Processing, Durango Wild Lands.
 tags:
   - games
   - durango

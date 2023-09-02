@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/4.bp.blogspot.com/d096204840542a4f
 date: 2019-12-10T01:08:00.000+07:00
 description: GTA V Technical Cleaner For SA Mobile DFF Only Di sinilah GTA V
   Port untuk GTA San Andreas Mobile. Ini adalah Karin Technical,
-excerpt: GTA V Technical Cleaner For SA Mobile DFF Only Di sinilah GTA V Port
-  untuk GTA San Andreas Mobile. Ini adalah Karin Technical,
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/4.bp.blogspot.com/d096204840542a4f5d5c1541acfef1b1.jpeg
-subtitle: GTA V Technical Cleaner For SA Mobile DFF Only Di sinilah GTA V Port
-  untuk GTA San Andreas Mobile. Ini adalah Karin Technical,
 tags:
   - games
   - android

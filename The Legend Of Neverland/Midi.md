@@ -9,14 +9,12 @@ comments: true
 cover: https://i.ytimg.com/vi/lK7h30vvRuI/mqdefault.jpg
 date: 2021-08-21T00:00:00+07:00
 description: Midi collection for the legend of neverland perform music skill
-excerpt: Midi collection for the legend of neverland perform music skill
 lang: en
 location: Indonesia
 photos:
   - https://i.ytimg.com/vi/lK7h30vvRuI/mqdefault.jpg
 related_posts:
   - /The%20Legend%20Of%20Neverland/Recipes.html
-subtitle: Midi collection for the legend of neverland perform music skill
 tags:
   - life skill
   - midi

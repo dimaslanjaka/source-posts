@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2019-01-28T00:41:00.000+07:00
 description: Watching Yowis Bens Film 2018 Indonesian Subtitles - Bayu Bayu Skak
   loves Susan Cut Meyriska. Because he feels inferior to
-excerpt: Watching Yowis Bens Film 2018 Indonesian Subtitles - Bayu Bayu Skak
-  loves Susan Cut Meyriska. Because he feels inferior to
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Watching Yowis Bens Film 2018 Indonesian Subtitles - Bayu Bayu Skak
-  loves Susan Cut Meyriska. Because he feels inferior to
 tags:
   - movies
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

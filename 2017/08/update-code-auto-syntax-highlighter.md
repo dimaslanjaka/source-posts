@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot
 date: 2017-08-21T10:55:00.003+07:00
 description: Jumpa lagi dengan topik JavaScript Dan jQuery. Sebelumnya saya
   sudah share Cara menambah syntax highlighter dengan prettyprint di
-excerpt: Jumpa lagi dengan topik JavaScript Dan jQuery. Sebelumnya saya sudah
-  share Cara menambah syntax highlighter dengan prettyprint di
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot.com/-gUVjKXD8MMM/WWHz7oK-SxI/AAAAAAAACVc/3uL5_0HdMNkvWyjyIAUcSYpVJIQxmIvnQCLcBGAs/s400/syntax%2Bhighlighting%2Bcode%2Bformatting.png
-subtitle: Jumpa lagi dengan topik JavaScript Dan jQuery. Sebelumnya saya sudah
-  share Cara menambah syntax highlighter dengan prettyprint di
 tags:
   - wordpress
   - js

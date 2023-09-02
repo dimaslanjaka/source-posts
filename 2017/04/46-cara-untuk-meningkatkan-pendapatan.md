@@ -10,13 +10,9 @@ cover: https://www.shoutmeloud.com/wp-content/uploads/2012/03/Increase-Adsense-R
 date: 2017-04-22T22:08:00.000+07:00
 description: 6 Cara Untuk Meningkatkan Pendapatan Google Adsense AndaSaya tidak
   akan berbicara tentangmengapa adsense adalah program periklanan
-excerpt: 6 Cara Untuk Meningkatkan Pendapatan Google Adsense AndaSaya tidak akan
-  berbicara tentangmengapa adsense adalah program periklanan
 lang: en
 photos:
   - https://www.shoutmeloud.com/wp-content/uploads/2012/03/Increase-Adsense-Revenue.jpg
-subtitle: 6 Cara Untuk Meningkatkan Pendapatan Google Adsense AndaSaya tidak
-  akan berbicara tentangmengapa adsense adalah program periklanan
 tags:
   - adsense
 thumbnail: https://www.shoutmeloud.com/wp-content/uploads/2012/03/Increase-Adsense-Revenue.jpg

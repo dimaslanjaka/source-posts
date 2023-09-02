@@ -9,22 +9,12 @@ categories:
 comments: true
 cover: https://dimaslanjaka-storage.000webhostapp.com/img.php?type=jpeg&url=https://layarindo21.ws/wp-content/uploads/2017/04/Telaga_Angker_1984_obverse_wiki-150x150.jpg
 date: 2018-11-11T05:51:00.000+07:00
-description: "download film pengabdi setan 2017 full movie download film
-  pengabdi setan 2017 full movie Download Demon Servant Films 2017 Full Movie
-  Watch Devils Devotees Free, Streaming Servant Devils free Look at Indon
-  Pengabdi Satan Films, Satan Servant Synopsis 2017 Servant Satan , both
-  versions "
-excerpt: "download film pengabdi setan 2017 full movie download film pengabdi
+description: download film pengabdi setan 2017 full movie download film pengabdi
   setan 2017 full movie Download Demon Servant Films 2017 Full Movie Watch
-  Devils Devotees Free, Streaming Servant Devils free Look at Indon Pengabdi
-  Satan Films, Satan Servant Synopsis 2017 Servant Satan , both versions "
+  Devils Devotees Fre
 lang: en
 photos:
   - https://dimaslanjaka-storage.000webhostapp.com/img.php?type=jpeg&url=https://layarindo21.ws/wp-content/uploads/2017/04/Telaga_Angker_1984_obverse_wiki-150x150.jpg
-subtitle: "download film pengabdi setan 2017 full movie download film pengabdi
-  setan 2017 full movie Download Demon Servant Films 2017 Full Movie Watch
-  Devils Devotees Free, Streaming Servant Devils free Look at Indon Pengabdi
-  Satan Films, Satan Servant Synopsis 2017 Servant Satan , both versions "
 tags:
   - movies
 thumbnail: https://dimaslanjaka-storage.000webhostapp.com/img.php?type=jpeg&url=https://layarindo21.ws/wp-content/uploads/2017/04/Telaga_Angker_1984_obverse_wiki-150x150.jpg

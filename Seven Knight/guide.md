@@ -9,7 +9,6 @@ comments: true
 cover: https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021111001_cover.jpg
 date: 2021-11-30T20:00:00+07:00
 description: Guide SK2 for F2P
-excerpt: Guide SK2 for F2P
 keywords:
   - Seven Knight
   - Guide
@@ -18,7 +17,6 @@ lang: en
 location: Indonesia
 photos:
   - https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021111001_cover.jpg
-subtitle: Guide SK2 for F2P
 tags:
   - games
 thumbnail: https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021111001_cover.jpg

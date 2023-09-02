@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/479cb30ef1d7a9dfdd
 date: 2019-12-02T06:48:00.001+07:00
 description: "Download lagu Drive Wanita Terindah Mp3 Drive - The Most Beautiful
   Woman Listen: 945,704 Duration: 232 MP3 size: 3.63MB Download"
-excerpt: "Download lagu Drive Wanita Terindah Mp3 Drive - The Most Beautiful
-  Woman Listen: 945,704 Duration: 232 MP3 size: 3.63MB Download"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/479cb30ef1d7a9dfddb1fda7b673c5f0.jpeg
-subtitle: "Download lagu Drive Wanita Terindah Mp3 Drive - The Most Beautiful
-  Woman Listen: 945,704 Duration: 232 MP3 size: 3.63MB Download"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/479cb30ef1d7a9dfddb1fda7b673c5f0.jpeg

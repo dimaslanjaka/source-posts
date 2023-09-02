@@ -6,11 +6,9 @@ comments: true
 cover: /NodeJS/eslint-prettier-typescript-vscode-esm/thumb.png
 date: 2022-04-17T17:01:31+07:00
 description: Auto format typescript with esm using only eslint and prettier module
-excerpt: Auto format typescript with esm using only eslint and prettier module
 lang: en
 photos:
   - /NodeJS/eslint-prettier-typescript-vscode-esm/thumb.png
-subtitle: Auto format typescript with esm using only eslint and prettier module
 tags:
   - nodejs
   - js

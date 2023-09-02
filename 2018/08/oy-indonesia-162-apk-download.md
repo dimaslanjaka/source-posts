@@ -10,13 +10,9 @@ cover: https://cdn1.imggmi.com/uploads/2018/8/5/495ccc8054600d9bc56a01f37b51e216
 date: 2018-08-05T06:15:00.002+07:00
 description: "Download OY Indonesia 1.6.2 APK File name:
   com.oy.chat-1.6.2-45.apk File size: 26.41 MB"
-excerpt: "Download OY Indonesia 1.6.2 APK File name: com.oy.chat-1.6.2-45.apk
-  File size: 26.41 MB"
 lang: en
 photos:
   - https://cdn1.imggmi.com/uploads/2018/8/5/495ccc8054600d9bc56a01f37b51e216-full.jpg
-subtitle: "Download OY Indonesia 1.6.2 APK File name: com.oy.chat-1.6.2-45.apk
-  File size: 26.41 MB"
 tags:
   - android
 thumbnail: https://cdn1.imggmi.com/uploads/2018/8/5/495ccc8054600d9bc56a01f37b51e216-full.jpg

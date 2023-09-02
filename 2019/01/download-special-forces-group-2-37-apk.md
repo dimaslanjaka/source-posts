@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2016/special-forces-group-2-1.png
 date: 2019-01-11T10:19:00.000+07:00
 description: Pasukan Khusus Grup 3.7 Apk Uang Mod Data android
-excerpt: Pasukan Khusus Grup 3.7 Apk Uang Mod Data android
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2016/special-forces-group-2-1.png
-subtitle: Pasukan Khusus Grup 3.7 Apk Uang Mod Data android
 tags:
   - games
   - android

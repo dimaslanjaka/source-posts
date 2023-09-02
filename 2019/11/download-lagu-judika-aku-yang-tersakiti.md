@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/16664e09c4affbe501
 date: 2019-11-30T18:08:00.001+07:00
 description: "Download lagu Judika Aku Yang Tersakiti Mp3 Judika - I Was Hurt
   Listen: 79,458,853 Duration: 252 MP3 size: 3.94MB Download Links"
-excerpt: "Download lagu Judika Aku Yang Tersakiti Mp3 Judika - I Was Hurt
-  Listen: 79,458,853 Duration: 252 MP3 size: 3.94MB Download Links"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/16664e09c4affbe50122b8e859f1ce82.jpeg
-subtitle: "Download lagu Judika Aku Yang Tersakiti Mp3 Judika - I Was Hurt
-  Listen: 79,458,853 Duration: 252 MP3 size: 3.94MB Download Links"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/16664e09c4affbe50122b8e859f1ce82.jpeg

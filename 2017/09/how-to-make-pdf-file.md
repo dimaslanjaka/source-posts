@@ -9,11 +9,9 @@ comments: true
 cover: https://3.bp.blogspot.com/-JsB839A6H5U/ThI-R0-PcXI/AAAAAAAAAbA/W4xMXiJ_2x8/s1600/do-pdf-free.png
 date: 2017-09-24T01:51:00.000+07:00
 description: http//www.dopdf.com/download/setup/dopdf-7.exe
-excerpt: http//www.dopdf.com/download/setup/dopdf-7.exe
 lang: en
 photos:
   - https://3.bp.blogspot.com/-JsB839A6H5U/ThI-R0-PcXI/AAAAAAAAAbA/W4xMXiJ_2x8/s1600/do-pdf-free.png
-subtitle: http//www.dopdf.com/download/setup/dopdf-7.exe
 tags:
   - tips & tricks
 thumbnail: https://3.bp.blogspot.com/-JsB839A6H5U/ThI-R0-PcXI/AAAAAAAAAbA/W4xMXiJ_2x8/s1600/do-pdf-free.png

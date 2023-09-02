@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://oketekno.com/
 date: 2019-09-02T13:55:00.000+07:00
 description: Download ScriptCheat via Game GuardiansNon Root Using Parallel
   SpaceVirtual Engine
-excerpt: Download ScriptCheat via Game GuardiansNon Root Using Parallel
-  SpaceVirtual Engine
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://oketekno.com/wp-content/uploads/2019/04/Granger-Mobile-Legends-1068x534.jpg
-subtitle: Download ScriptCheat via Game GuardiansNon Root Using Parallel
-  SpaceVirtual Engine
 tags:
   - games
   - android

@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://sitelagump3.co
 date: 2018-11-08T04:55:00.001+07:00
 description: "Download Lagu Mp Cant Take My Eyes Off Of You - Joseph Vincent
   Cover Gratis Size : Duration : 2:"
-excerpt: "Download Lagu Mp Cant Take My Eyes Off Of You - Joseph Vincent Cover
-  Gratis Size : Duration : 2:"
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://sitelagump3.com/images/download-lagu-mp3-terbaru-gratis.png
-subtitle: "Download Lagu Mp Cant Take My Eyes Off Of You - Joseph Vincent Cover
-  Gratis Size : Duration : 2:"
 tags:
   - musics
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://sitelagump3.com/images/download-lagu-mp3-terbaru-gratis.png

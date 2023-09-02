@@ -8,7 +8,6 @@ comments: true
 cover: https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
 date: 2021-11-17T16:00:00+07:00
 description: Usage, explanations of node options for nodejs
-excerpt: Usage, explanations of node options for nodejs
 keywords:
   - nodejs
   - arguments
@@ -17,7 +16,6 @@ lang: en
 location: Indonesia
 photos:
   - https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
-subtitle: Usage, explanations of node options for nodejs
 tags:
   - js
   - nodejs

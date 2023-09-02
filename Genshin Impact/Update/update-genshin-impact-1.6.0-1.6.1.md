@@ -9,12 +9,10 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://uploadstatic-sea.mihoyo.com/contentweb/20210201/2021020109195088725.jpg
 date: 2021-06-10T00:00:00+07:00
 description: Update Genshin Impact 1.6.0 - 1.6.1 Manual
-excerpt: Update Genshin Impact 1.6.0 - 1.6.1 Manual
 lang: en
 location: Indonesia
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://uploadstatic-sea.mihoyo.com/contentweb/20210201/2021020109195088725.jpg
-subtitle: Update Genshin Impact 1.6.0 - 1.6.1 Manual
 tags:
   - games
   - genshin impact

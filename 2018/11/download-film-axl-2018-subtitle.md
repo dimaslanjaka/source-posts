@@ -10,22 +10,10 @@ cover: https://dimaslanjaka-storage.000webhostapp.com/img.php?type=jpeg&url=http
 date: 2018-11-22T08:09:00.000+07:00
 description: Download film axl 2018 subtitle indonesia download movie Download
   film axl 2018 subtitle indonesia download movie The life of a teenage boy is
-  forever changed by the chance of meeting with cutting edge military
-  technology. AXL is a robot dog that is equipped with artificial intelligence
-  and str
-excerpt: Download film axl 2018 subtitle indonesia download movie Download film
-  axl 2018 subtitle indonesia download movie The life of a teenage boy is
-  forever changed by the chance of meeting with cutting edge military
-  technology. AXL is a robot dog that is equipped with artificial intelligence
-  and str
+  forever changed b
 lang: en
 photos:
   - https://dimaslanjaka-storage.000webhostapp.com/img.php?type=jpeg&url=https://image.tmdb.org/t/p/w185/qey0tdcOp9kCDdEZuJ87yE3crSe.jpg
-subtitle: Download film axl 2018 subtitle indonesia download movie Download film
-  axl 2018 subtitle indonesia download movie The life of a teenage boy is
-  forever changed by the chance of meeting with cutting edge military
-  technology. AXL is a robot dog that is equipped with artificial intelligence
-  and str
 tags:
   - movies
 thumbnail: https://dimaslanjaka-storage.000webhostapp.com/img.php?type=jpeg&url=https://image.tmdb.org/t/p/w185/qey0tdcOp9kCDdEZuJ87yE3crSe.jpg

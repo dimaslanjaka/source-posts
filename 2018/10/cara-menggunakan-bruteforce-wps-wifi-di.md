@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/w_300,h_300/https://imgdb.net/images/4221.png
 date: 2018-10-17T22:04:00.001+07:00
 description: Penjabaran dari WPS WPA WiFi Tester Tanpa Root
-excerpt: Penjabaran dari WPS WPA WiFi Tester Tanpa Root
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/w_300,h_300/https://imgdb.net/images/4221.png
-subtitle: Penjabaran dari WPS WPA WiFi Tester Tanpa Root
 tags:
   - tools
   - android

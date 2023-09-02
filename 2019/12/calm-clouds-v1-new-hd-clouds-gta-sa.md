@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/7aeda14f80b89ac1
 date: 2019-12-03T00:56:00.000+07:00
 description: Calm Clouds v New HD Clouds GTA SA Mobile Mod yang akan mengubah
   awan lama GTA San Andreas Mobile menjadi awan baru berkualitas tinggi.
-excerpt: Calm Clouds v New HD Clouds GTA SA Mobile Mod yang akan mengubah awan
-  lama GTA San Andreas Mobile menjadi awan baru berkualitas tinggi.
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/7aeda14f80b89ac1a96fdf5e6b7e6076.jpeg
-subtitle: Calm Clouds v New HD Clouds GTA SA Mobile Mod yang akan mengubah awan
-  lama GTA San Andreas Mobile menjadi awan baru berkualitas tinggi.
 tags:
   - games
   - android

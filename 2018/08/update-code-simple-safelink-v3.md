@@ -11,15 +11,9 @@ date: 2018-08-05T07:56:00.001+07:00
 description: "blockquote>First post : <a
   href=http://webmanajemen.com/2017/09/cara-simple-membuat-blogger-safelink.html
   title=Cara Simple"
-excerpt: "blockquote>First post : <a
-  href=http://webmanajemen.com/2017/09/cara-simple-membuat-blogger-safelink.html
-  title=Cara Simple"
 lang: en
 photos:
   - https://cdn1.imggmi.com/uploads/2018/8/5/4f4281f038eb505c8f145d2c7f0b4f04-full.png
-subtitle: "blockquote>First post : <a
-  href=http://webmanajemen.com/2017/09/cara-simple-membuat-blogger-safelink.html
-  title=Cara Simple"
 tags:
   - js
   - blogger

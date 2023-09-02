@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/c4aa5f7fa1c3
 date: 2019-12-07T00:35:00.000+07:00
 description: What Is Seo And How It Works [heres The Answer] Ingin tahu apa itu
   SEO dan bagaimana cara kerjanya? Kami telah membuat panduan SEO
-excerpt: What Is Seo And How It Works [heres The Answer] Ingin tahu apa itu SEO
-  dan bagaimana cara kerjanya? Kami telah membuat panduan SEO
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/c4aa5f7fa1c38d6f31c0a77ce065c9bc.jpeg
-subtitle: What Is Seo And How It Works [heres The Answer] Ingin tahu apa itu SEO
-  dan bagaimana cara kerjanya? Kami telah membuat panduan SEO
 tags:
   - seo
   - tips & tricks

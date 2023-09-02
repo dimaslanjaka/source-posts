@@ -10,22 +10,10 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://i.imgur.com/QL
 date: 2017-07-13T07:34:00.000+07:00
 description: Cara Mengkonversi Bookmarklet ke Ekstensi Chrome Bookmarklets, atau
   kemampuan untuk mengeksekusi kode JavaScript Anda sendiri pada halaman
-  manapun, memungkinkan Anda menyesuaikan pengalaman penjelajahan Anda dengan
-  berbagai cara.Beberapa waktu yang lalu saya menulis beberapa kode JS yang akan
-  men
-excerpt: Cara Mengkonversi Bookmarklet ke Ekstensi Chrome Bookmarklets, atau
-  kemampuan untuk mengeksekusi kode JavaScript Anda sendiri pada halaman
-  manapun, memungkinkan Anda menyesuaikan pengalaman penjelajahan Anda dengan
-  berbagai cara.Beberapa waktu yang lalu saya menulis beberapa kode JS yang akan
-  men
+  manapun, memungkinkan
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://i.imgur.com/QLNHFRe.png
-subtitle: Cara Mengkonversi Bookmarklet ke Ekstensi Chrome Bookmarklets, atau
-  kemampuan untuk mengeksekusi kode JavaScript Anda sendiri pada halaman
-  manapun, memungkinkan Anda menyesuaikan pengalaman penjelajahan Anda dengan
-  berbagai cara.Beberapa waktu yang lalu saya menulis beberapa kode JS yang akan
-  men
 tags:
   - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://i.imgur.com/QLNHFRe.png

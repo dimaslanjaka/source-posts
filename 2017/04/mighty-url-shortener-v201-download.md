@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.jojotheme
 date: 2017-04-09T13:00:00.001+07:00
 description: Download Free Mighty URL Shortener PHP Script .0.1 - CodeCanyon
   Mighty URL Shortener v2.0.1 - Short URL Script PHP Script ini
-excerpt: Download Free Mighty URL Shortener PHP Script .0.1 - CodeCanyon Mighty
-  URL Shortener v2.0.1 - Short URL Script PHP Script ini
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.jojothemes.com/wp-content/uploads/2016/07/Mighty-URL-Shortener-v1.0.1-%E2%80%93-Short-URL-Script.jpg
-subtitle: Download Free Mighty URL Shortener PHP Script .0.1 - CodeCanyon Mighty
-  URL Shortener v2.0.1 - Short URL Script PHP Script ini
 tags:
   - script
   - php

@@ -10,20 +10,10 @@ cover: https://image.ibb.co/eyVsN5/13438874_1966615786928595_9194443384423239792
 date: 2017-07-19T19:38:00.002+07:00
 description: Cara membuat pola kunci hp yang rumit Fitur 1.Kunci Layar Anda
   2.Kunci Aplikasi Anda 3.Pengendali Jarak Jauh 4.Anti Jahil [ Temen Anda ]
-  5.Titik Bisa Diperbanyak 6.Salah Pola 5 Kali Otomatis Memfoto 7.Bisa Mengunci
-  GANDA 8.Bisa Mengunci Wifi,Data,Hotspot Anda 9.Tema Titik Bisa Dipilih [
-  kitkat
-excerpt: Cara membuat pola kunci hp yang rumit Fitur 1.Kunci Layar Anda 2.Kunci
-  Aplikasi Anda 3.Pengendali Jarak Jauh 4.Anti Jahil [ Temen Anda ] 5.Titik Bisa
-  Diperbanyak 6.Salah Pola 5 Kali Otomatis Memfoto 7.Bisa Mengunci GANDA 8.Bisa
-  Mengunci Wifi,Data,Hotspot Anda 9.Tema Titik Bisa Dipilih [ kitkat
+  5.Titik Bisa Diperbanya
 lang: en
 photos:
   - https://image.ibb.co/eyVsN5/13438874_1966615786928595_9194443384423239792_n.jpg
-subtitle: Cara membuat pola kunci hp yang rumit Fitur 1.Kunci Layar Anda 2.Kunci
-  Aplikasi Anda 3.Pengendali Jarak Jauh 4.Anti Jahil [ Temen Anda ] 5.Titik Bisa
-  Diperbanyak 6.Salah Pola 5 Kali Otomatis Memfoto 7.Bisa Mengunci GANDA 8.Bisa
-  Mengunci Wifi,Data,Hotspot Anda 9.Tema Titik Bisa Dipilih [ kitkat
 tags:
   - tips & tricks
 thumbnail: https://image.ibb.co/eyVsN5/13438874_1966615786928595_9194443384423239792_n.jpg

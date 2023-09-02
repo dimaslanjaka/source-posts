@@ -5,13 +5,10 @@ categories:
 comments: true
 date: 2017-01-11T12:37:27+07:00
 description: NodeJS assets just assets folder
-excerpt: NodeJS assets just assets folder
 index: false
 lang: en
 no-index: true
-photos: []
 robots: noindex, nofollow
-subtitle: NodeJS assets just assets folder
 tags: []
 title: NodeJS assets
 type: page

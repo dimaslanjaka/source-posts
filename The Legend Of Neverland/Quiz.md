@@ -6,19 +6,13 @@ categories:
 comments: true
 cover: /The Legend Of Neverland/Quiz/SCENIC-QUIZ.jpg
 date: 2021-08-16T00:00:00+07:00
-description: Quiz questions and the answers. The Legend Of Neverland Event. The
+description: "Quiz questions and the answers. The Legend Of Neverland Event. The
   Legend of Neverland Guide and Tips for quiz event. Scenic Quiz Event Answers -
-  The Legend of Neverland
-excerpt: Quiz questions and the answers. The Legend Of Neverland Event. The
-  Legend of Neverland Guide and Tips for quiz event. Scenic Quiz Event Answers -
-  The Legend of Neverland
+  The Legend of "
 lang: en
 location: Indonesia
 photos:
   - /The Legend Of Neverland/Quiz/SCENIC-QUIZ.jpg
-subtitle: Quiz questions and the answers. The Legend Of Neverland Event. The
-  Legend of Neverland Guide and Tips for quiz event. Scenic Quiz Event Answers -
-  The Legend of Neverland
 tags:
   - the legend of neverland
   - event

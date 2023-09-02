@@ -8,8 +8,8 @@ categories:
 comments: true
 cover: https://user-images.githubusercontent.com/12471057/132322833-e5578e29-0ad7-422e-845a-bf9fabb313fd.png
 date: 2021-09-07T00:00:00+07:00
-description: Game control the legend of neverland bluestacks Support change fairy and job skill
-excerpt: Game control the legend of neverland bluestacks Support change fairy and job skill
+description: Game control the legend of neverland bluestacks Support change
+  fairy and job skill
 keywords:
   - download game control bluestacks
   - download game control the legend of neverland for bluestacks
@@ -19,7 +19,6 @@ lang: en
 location: Indonesia
 photos:
   - https://user-images.githubusercontent.com/12471057/132322833-e5578e29-0ad7-422e-845a-bf9fabb313fd.png
-subtitle: Game control the legend of neverland bluestacks Support change fairy and job skill
 tags:
   - game control
   - bluestacks

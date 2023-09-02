@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/cbfa7be21b8143e4fb
 date: 2019-11-24T21:57:00.001+07:00
 description: "Download lagu YA MAULANA SABYAN Mp3 YES MAULANA - SABYAN Listen:
   258,741,939 Duration: 283 MP3 size: 4.42MB Download Links"
-excerpt: "Download lagu YA MAULANA SABYAN Mp3 YES MAULANA - SABYAN Listen:
-  258,741,939 Duration: 283 MP3 size: 4.42MB Download Links"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/cbfa7be21b8143e4fb1e95e5f329fac2.jpeg
-subtitle: "Download lagu YA MAULANA SABYAN Mp3 YES MAULANA - SABYAN Listen:
-  258,741,939 Duration: 283 MP3 size: 4.42MB Download Links"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/cbfa7be21b8143e4fb1e95e5f329fac2.jpeg

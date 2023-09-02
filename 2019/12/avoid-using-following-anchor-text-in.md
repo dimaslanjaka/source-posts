@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/ea0bf3421fc2572e
 date: 2019-12-30T02:35:00.000+07:00
 description: Avoid Using Anchor Text Here in Link Creation There are some anchor
   text that should be avoided when creating link links in the
-excerpt: Avoid Using Anchor Text Here in Link Creation There are some anchor
-  text that should be avoided when creating link links in the
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/ea0bf3421fc2572e64bac7d937113a5b.jpeg
-subtitle: Avoid Using Anchor Text Here in Link Creation There are some anchor
-  text that should be avoided when creating link links in the
 tags:
   - seo
   - share

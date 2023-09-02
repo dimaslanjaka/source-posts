@@ -10,13 +10,9 @@ cover: http://juragancipir.com/wp-content/uploads/2014/02/Unit-iklan-khusus.png
 date: 2017-04-19T07:49:00.000+07:00
 description: How to Determine Size Special Ad Adsense Most TrueGoogle adsense
   since last few months has launched a new ad sizes, ie custom ad sizes or
-excerpt: How to Determine Size Special Ad Adsense Most TrueGoogle adsense since
-  last few months has launched a new ad sizes, ie custom ad sizes or
 lang: en
 photos:
   - http://juragancipir.com/wp-content/uploads/2014/02/Unit-iklan-khusus.png
-subtitle: How to Determine Size Special Ad Adsense Most TrueGoogle adsense since
-  last few months has launched a new ad sizes, ie custom ad sizes or
 tags:
   - adsense
 thumbnail: http://juragancipir.com/wp-content/uploads/2014/02/Unit-iklan-khusus.png

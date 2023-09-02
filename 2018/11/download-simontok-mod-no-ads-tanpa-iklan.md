@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets.jalant
 date: 2018-11-19T21:39:00.000+07:00
 description: Download Simontok MOD Tanpa Iklan No Ads] [VIP] terbaru Via
   ConfigInter SiMonTokSimontok MOd tanpa iklan v.1.9 SiMontk V.3.2.2 Mod
-excerpt: Download Simontok MOD Tanpa Iklan No Ads] [VIP] terbaru Via ConfigInter
-  SiMonTokSimontok MOd tanpa iklan v.1.9 SiMontk V.3.2.2 Mod
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets.jalantikus.com/assets/cache/0/0/apps/2018/08/29/simontok-a390b.png
-subtitle: Download Simontok MOD Tanpa Iklan No Ads] [VIP] terbaru Via
-  ConfigInter SiMonTokSimontok MOd tanpa iklan v.1.9 SiMontk V.3.2.2 Mod
 tags:
   - android
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets.jalantikus.com/assets/cache/0/0/apps/2018/08/29/simontok-a390b.png

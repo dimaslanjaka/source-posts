@@ -9,11 +9,9 @@ comments: true
 cover: https://3.bp.blogspot.com/-JdPb9Jp1xSk/WODgW427ETI/AAAAAAAADb4/zLz2WLm7lfs3S-7d2itu2hJ3-slbN6esACLcB/s1600/adsense-1.png
 date: 2017-07-23T06:56:00.000+07:00
 description: AdSense brings me back to the beginning every time I clickSubmit.
-excerpt: AdSense brings me back to the beginning every time I clickSubmit.
 lang: en
 photos:
   - https://3.bp.blogspot.com/-JdPb9Jp1xSk/WODgW427ETI/AAAAAAAADb4/zLz2WLm7lfs3S-7d2itu2hJ3-slbN6esACLcB/s1600/adsense-1.png
-subtitle: AdSense brings me back to the beginning every time I clickSubmit.
 tags:
   - adsense
 thumbnail: https://3.bp.blogspot.com/-JdPb9Jp1xSk/WODgW427ETI/AAAAAAAADb4/zLz2WLm7lfs3S-7d2itu2hJ3-slbN6esACLcB/s1600/adsense-1.png

@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/a11c430bcb15312e11
 date: 2019-11-30T17:58:00.000+07:00
 description: "Download lagu YA JAMALU Versi SABYAN Mp YES JAMALU SABYAN Version
   Listen: 99,473,816 Duration: 253 MP3 size: 3.95MB Download"
-excerpt: "Download lagu YA JAMALU Versi SABYAN Mp YES JAMALU SABYAN Version
-  Listen: 99,473,816 Duration: 253 MP3 size: 3.95MB Download"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/a11c430bcb15312e114ae421565c8300.jpeg
-subtitle: "Download lagu YA JAMALU Versi SABYAN Mp YES JAMALU SABYAN Version
-  Listen: 99,473,816 Duration: 253 MP3 size: 3.95MB Download"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/a11c430bcb15312e114ae421565c8300.jpeg

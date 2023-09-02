@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2018/mafia-city-1.jpg
 date: 2018-11-24T02:21:00.000+07:00
 description: Mafia City .3.351 Apk android
-excerpt: Mafia City .3.351 Apk android
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2018/mafia-city-1.jpg
-subtitle: Mafia City .3.351 Apk android
 tags:
   - games
   - android

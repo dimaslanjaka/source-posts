@@ -10,22 +10,10 @@ cover: https://imgdb.net/images/3178.png
 date: 2017-09-03T15:08:00.000+07:00
 description: "Install perl on android 2017 Tutorial Install Perl On Android:
   Download BugTroid Pro Apk ->DownloadRun the BugTroid Pro app.click Icon
-  android Android pentest.scroll down and select -> Scripting -> select
-  Perl4android, click install then wait for the process to complete.after Perl
-  for Android"
-excerpt: "Install perl on android 2017 Tutorial Install Perl On Android:
-  Download BugTroid Pro Apk ->DownloadRun the BugTroid Pro app.click Icon
-  android Android pentest.scroll down and select -> Scripting -> select
-  Perl4android, click install then wait for the process to complete.after Perl
-  for Android"
+  android Android pentest.s"
 lang: en
 photos:
   - https://imgdb.net/images/3178.png
-subtitle: "Install perl on android 2017 Tutorial Install Perl On Android:
-  Download BugTroid Pro Apk ->DownloadRun the BugTroid Pro app.click Icon
-  android Android pentest.scroll down and select -> Scripting -> select
-  Perl4android, click install then wait for the process to complete.after Perl
-  for Android"
 tags:
   - android
   - tips & tricks

@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/e2fe3110e2133f05ee
 date: 2019-11-24T23:48:00.001+07:00
 description: "Download lagu Fazan feat Tompi Tuhan Ampuni Aku Mp3 Fazan feat
   Tompi - God forgive me Listen: 19,925 Duration: 233 MP3 size:"
-excerpt: "Download lagu Fazan feat Tompi Tuhan Ampuni Aku Mp3 Fazan feat Tompi -
-  God forgive me Listen: 19,925 Duration: 233 MP3 size:"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/e2fe3110e2133f05ee105f6c5bfd012b.jpeg
-subtitle: "Download lagu Fazan feat Tompi Tuhan Ampuni Aku Mp3 Fazan feat Tompi
-  - God forgive me Listen: 19,925 Duration: 233 MP3 size:"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/e2fe3110e2133f05ee105f6c5bfd012b.jpeg

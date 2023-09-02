@@ -9,11 +9,9 @@ comments: true
 cover: https://1.bp.blogspot.com/-JkpTNtGOMaE/WJoMX1QnTmI/AAAAAAAAHBE/CPdxv-D-Xa0bdghE1HwdwkC1bHp9OA9EgCLcB/s640/How%2BTo%2BMake%2BAdsense%2BAdBlocker%2BNotifications.png
 date: 2017-04-15T01:00:00.000+07:00
 description: UpdateNotifications To Users AdBlocker Adsense
-excerpt: UpdateNotifications To Users AdBlocker Adsense
 lang: en
 photos:
   - https://1.bp.blogspot.com/-JkpTNtGOMaE/WJoMX1QnTmI/AAAAAAAAHBE/CPdxv-D-Xa0bdghE1HwdwkC1bHp9OA9EgCLcB/s640/How%2BTo%2BMake%2BAdsense%2BAdBlocker%2BNotifications.png
-subtitle: UpdateNotifications To Users AdBlocker Adsense
 tags:
   - adsense
   - css

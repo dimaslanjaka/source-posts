@@ -10,13 +10,9 @@ cover: https://cdn1.imggmi.com/uploads/2018/11/12/64a52e8966eaa055d3c4d714a994f2
 date: 2018-11-12T11:49:00.000+07:00
 description: mkdir berguna untuk membuat folder.Misal anda ingin membuat folder
   di HOME termux
-excerpt: mkdir berguna untuk membuat folder.Misal anda ingin membuat folder di
-  HOME termux
 lang: en
 photos:
   - https://cdn1.imggmi.com/uploads/2018/11/12/64a52e8966eaa055d3c4d714a994f2a6-full.png
-subtitle: mkdir berguna untuk membuat folder.Misal anda ingin membuat folder di
-  HOME termux
 tags:
   - android
   - tips & tricks

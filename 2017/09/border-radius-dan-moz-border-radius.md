@@ -11,14 +11,9 @@ date: 2017-09-30T02:24:00.000+07:00
 description: Salah satu sifat CSS yang paling ditunggu
   adalahborder-radius.Perancang web tidak lagi harus menggunakan struktur tabel
   yang rumit
-excerpt: Salah satu sifat CSS yang paling ditunggu adalahborder-radius.Perancang
-  web tidak lagi harus menggunakan struktur tabel yang rumit
 lang: en
 photos:
   - http://cdn.the-art-of-web.com/images/moz-border-radius.gif
-subtitle: Salah satu sifat CSS yang paling ditunggu
-  adalahborder-radius.Perancang web tidak lagi harus menggunakan struktur tabel
-  yang rumit
 tags:
   - css
 thumbnail: http://cdn.the-art-of-web.com/images/moz-border-radius.gif

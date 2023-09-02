@@ -6,12 +6,12 @@ comments: true
 cover: /2022/07/mengatasi-flash-qfil-error/cover.jpg
 date: 2022-07-28
 description: Solusi Flash QFIL Error
-excerpt: Solusi Flash QFIL Error
 lang: en
 photos:
   - /2022/07/mengatasi-flash-qfil-error/cover.jpg
-subtitle: Solusi Flash QFIL Error
-tags: [qfil, firmware]
+tags:
+  - qfil
+  - firmware
 thumbnail: /2022/07/mengatasi-flash-qfil-error/cover.jpg
 title: Cara Mengatasi Flash QFIL Error
 type: post

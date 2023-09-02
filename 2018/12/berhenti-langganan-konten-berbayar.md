@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2018-12-03T13:57:00.005+07:00
 description: Anda bisa mengubungi customer service melalui Email, Sosial Media
   dan Telepon, kontaknya dibawah ini
-excerpt: Anda bisa mengubungi customer service melalui Email, Sosial Media dan
-  Telepon, kontaknya dibawah ini
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Anda bisa mengubungi customer service melalui Email, Sosial Media dan
-  Telepon, kontaknya dibawah ini
 tags:
   - tips & tricks
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

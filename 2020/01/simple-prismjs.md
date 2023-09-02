@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2020-01-20T10:49:00.003+07:00
 description: "Simple PrismJS Syntax Highlighter pre> <code> Not Single Usage:
   <pre><code>code block</code></pre> <h3>Welcome to the real-time"
-excerpt: "Simple PrismJS Syntax Highlighter pre> <code> Not Single Usage:
-  <pre><code>code block</code></pre> <h3>Welcome to the real-time"
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: "Simple PrismJS Syntax Highlighter pre> <code> Not Single Usage:
-  <pre><code>code block</code></pre> <h3>Welcome to the real-time"
 tags:
   - js
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

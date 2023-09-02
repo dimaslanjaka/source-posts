@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot
 date: 2019-07-21T01:20:00.000+07:00
 description: One time I was playing a game, and running several programs on a
   Windows laptop. Then the memory was heavy, some of my programs were
-excerpt: One time I was playing a game, and running several programs on a
-  Windows laptop. Then the memory was heavy, some of my programs were
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot.com/-RgpJNTI1w90/Uy4W4qlHVuI/AAAAAAAAAf4/JozWbUyJgts/s1600/spp.png
-subtitle: One time I was playing a game, and running several programs on a
-  Windows laptop. Then the memory was heavy, some of my programs were
 tags:
   - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot.com/-RgpJNTI1w90/Uy4W4qlHVuI/AAAAAAAAAf4/JozWbUyJgts/s1600/spp.png

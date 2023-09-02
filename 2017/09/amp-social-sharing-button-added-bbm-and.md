@@ -10,20 +10,10 @@ cover: https://3.bp.blogspot.com/-58OfUSyH_V0/WaRzuo8mhaI/AAAAAAAAACw/fai_QJfb4O
 date: 2017-09-17T02:41:00.000+07:00
 description: AMP Social Sharing Button Added BBM and WhatsApp Today I combine
   the share button for Line and BBM with other social share buttons like
-  Facebook, Twitter, Google, Tumblr, LinkedIn, Pinteres, and Whatsapp. Make sure
-  your blog is already using any version of the jquery library. </ head>
-  document.wr
-excerpt: AMP Social Sharing Button Added BBM and WhatsApp Today I combine the
-  share button for Line and BBM with other social share buttons like Facebook,
-  Twitter, Google, Tumblr, LinkedIn, Pinteres, and Whatsapp. Make sure your blog
-  is already using any version of the jquery library. </ head> document.wr
+  Facebook, Twitter, Googl
 lang: en
 photos:
   - https://3.bp.blogspot.com/-58OfUSyH_V0/WaRzuo8mhaI/AAAAAAAAACw/fai_QJfb4O0lgOKoPLyD-qehFxRac00wQCLcBGAs/s320/BBM-vs-WhatsApp.jpg
-subtitle: AMP Social Sharing Button Added BBM and WhatsApp Today I combine the
-  share button for Line and BBM with other social share buttons like Facebook,
-  Twitter, Google, Tumblr, LinkedIn, Pinteres, and Whatsapp. Make sure your blog
-  is already using any version of the jquery library. </ head> document.wr
 tags:
   - css
   - blogger

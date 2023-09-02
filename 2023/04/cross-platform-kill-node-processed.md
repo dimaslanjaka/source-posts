@@ -4,9 +4,10 @@ categories:
   - programming
 comments: true
 date: 2023-04-08T22:42:58+07:00
-description: How to kill node processed for all operating system Bash bash script to kill all node processed in linux distro, windows distro @echo offtaskkill /f /im node.ex
+description: How to kill node processed for all operating system Bash bash
+  script to kill all node processed in linux distro, windows distro @echo
+  offtaskkill /f /im node.ex
 lang: en
-photos: []
 tags:
   - bash
   - powershell

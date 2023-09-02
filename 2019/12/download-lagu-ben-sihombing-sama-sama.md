@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/4710c35393f272573d
 date: 2019-12-11T02:35:00.001+07:00
 description: "Download lagu Ben Sihombing Sama Sama Menunggu Mp3Ben Sihombing -
   Youre welcome Listen: 82,645 Duration: 272 MP3 size: 4.25MB"
-excerpt: "Download lagu Ben Sihombing Sama Sama Menunggu Mp3Ben Sihombing -
-  Youre welcome Listen: 82,645 Duration: 272 MP3 size: 4.25MB"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/4710c35393f272573da3dd8eeb897042.jpeg
-subtitle: "Download lagu Ben Sihombing Sama Sama Menunggu Mp3Ben Sihombing -
-  Youre welcome Listen: 82,645 Duration: 272 MP3 size: 4.25MB"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/4710c35393f272573da3dd8eeb897042.jpeg

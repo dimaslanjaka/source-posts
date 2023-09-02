@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2017-09-09T10:35:00.001+07:00
 description: How to get backlinks to raise rankings in Google search engine
   seems to still be a lot of people confusion. This is actually quite natural
-excerpt: How to get backlinks to raise rankings in Google search engine seems to
-  still be a lot of people confusion. This is actually quite natural
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: How to get backlinks to raise rankings in Google search engine seems
-  to still be a lot of people confusion. This is actually quite natural
 tags:
   - seo
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

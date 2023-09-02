@@ -10,19 +10,10 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/ima
 date: 2018-12-18T13:18:00.000+07:00
 description: PUBGM v.0.10.0 APK DATA PUBG Mobile Apk 0.10.0 PUBG Mobile New
   Update 0.10.0 out currently globally and youll transfer Vikendi Map everywhere
-  the globe and install it on your phone . Its vast content update, youll say it
-  is a Christmas present to any or all folks from Tencent games.PUBG Mobile z
-excerpt: PUBGM v.0.10.0 APK DATA PUBG Mobile Apk 0.10.0 PUBG Mobile New Update
-  0.10.0 out currently globally and youll transfer Vikendi Map everywhere the
-  globe and install it on your phone . Its vast content update, youll say it is
-  a Christmas present to any or all folks from Tencent games.PUBG Mobile z
+  the globe and inst
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4579.jpg
-subtitle: PUBGM v.0.10.0 APK DATA PUBG Mobile Apk 0.10.0 PUBG Mobile New Update
-  0.10.0 out currently globally and youll transfer Vikendi Map everywhere the
-  globe and install it on your phone . Its vast content update, youll say it is
-  a Christmas present to any or all folks from Tencent games.PUBG Mobile z
 tags:
   - games
   - android

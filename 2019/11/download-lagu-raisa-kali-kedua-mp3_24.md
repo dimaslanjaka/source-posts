@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/b19a7ed2addd2e08ef
 date: 2019-11-24T22:02:00.001+07:00
 description: "Download lagu Raisa Kali Kedua Mp3 Raisa - Second Time Listen:
   37,529,014 Duration: 261 MP3 size: 4.08MB Download Links"
-excerpt: "Download lagu Raisa Kali Kedua Mp3 Raisa - Second Time Listen:
-  37,529,014 Duration: 261 MP3 size: 4.08MB Download Links"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/b19a7ed2addd2e08efb26606103d5360.jpeg
-subtitle: "Download lagu Raisa Kali Kedua Mp3 Raisa - Second Time Listen:
-  37,529,014 Duration: 261 MP3 size: 4.08MB Download Links"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/b19a7ed2addd2e08efb26606103d5360.jpeg

@@ -10,13 +10,9 @@ cover: https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ839NC
 date: 2017-10-17T00:47:00.000+07:00
 description: Ada pengaturan lain di GPE yang mencegah pencopotan pemasangan
   aplikasi yang terpasang. Inilah cara mengaktifkannya .. br /><img
-excerpt: Ada pengaturan lain di GPE yang mencegah pencopotan pemasangan aplikasi
-  yang terpasang. Inilah cara mengaktifkannya .. br /><img
 lang: en
 photos:
   - https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ839NCU/s1600/Uninstall-Modern-UI-Apps.png
-subtitle: Ada pengaturan lain di GPE yang mencegah pencopotan pemasangan
-  aplikasi yang terpasang. Inilah cara mengaktifkannya .. br /><img
 tags:
   - tips & tricks
 thumbnail: https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ839NCU/s1600/Uninstall-Modern-UI-Apps.png

@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/ima
 date: 2018-08-09T21:54:00.000+07:00
 description: ifwindow.location.href.indexOf264760159080518290 > -1
   document.write<img src=https://imgdb.net/images/3970.jpg />;
-excerpt: ifwindow.location.href.indexOf264760159080518290 > -1
-  document.write<img src=https://imgdb.net/images/3970.jpg />;
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/3970.jpg
-subtitle: ifwindow.location.href.indexOf264760159080518290 > -1
-  document.write<img src=https://imgdb.net/images/3970.jpg />;
 tags:
   - games
   - durango

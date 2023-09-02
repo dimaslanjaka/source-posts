@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/6c3cd06c80c24572
 date: 2019-12-02T23:36:00.000+07:00
 description: Nueva Freeway Solo Bike Mod Dff Only .Dia hadir mod sepeda
   berwarnawarni untuk GTA SA Android. Mod ini akan menggantikan bik
-excerpt: Nueva Freeway Solo Bike Mod Dff Only .Dia hadir mod sepeda
-  berwarnawarni untuk GTA SA Android. Mod ini akan menggantikan bik
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/6c3cd06c80c24572bc22c6cd94feb26a.jpeg
-subtitle: Nueva Freeway Solo Bike Mod Dff Only .Dia hadir mod sepeda
-  berwarnawarni untuk GTA SA Android. Mod ini akan menggantikan bik
 tags:
   - games
   - android

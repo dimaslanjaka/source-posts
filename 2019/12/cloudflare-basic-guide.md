@@ -10,13 +10,9 @@ cover: https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2019/08/dewaweb-blog-pan
 date: 2019-12-20T22:26:00.000+07:00
 description: Panduan Dasar Cloudflare This article is a complete basic guide
   about Cloudflare as the flagship CDN among web developers. You will get
-excerpt: Panduan Dasar Cloudflare This article is a complete basic guide about
-  Cloudflare as the flagship CDN among web developers. You will get
 lang: en
 photos:
   - https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2019/08/dewaweb-blog-panduan-dasar-cloudflare-revisi-696x411.png
-subtitle: Panduan Dasar Cloudflare This article is a complete basic guide about
-  Cloudflare as the flagship CDN among web developers. You will get
 tags:
   - share
   - tips & tricks

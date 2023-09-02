@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2017-09-23T11:02:00.002+07:00
 description: Short History Johnny Depp kembali sebagai Kapten Jack Sparrow dalam
   angsuran kelima kelima Dari seri swashbuckling Disney. Plotnya
-excerpt: Short History Johnny Depp kembali sebagai Kapten Jack Sparrow dalam
-  angsuran kelima kelima Dari seri swashbuckling Disney. Plotnya
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Short History Johnny Depp kembali sebagai Kapten Jack Sparrow dalam
-  angsuran kelima kelima Dari seri swashbuckling Disney. Plotnya
 tags:
   - movies
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

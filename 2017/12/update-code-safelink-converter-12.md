@@ -10,13 +10,9 @@ cover: http://res.cloudinary.com/dimaslanjaka/image/fetch/https://anotherorion.c
 date: 2017-12-12T01:39:00.000+07:00
 description: Untuk Cara Instal, Deskripsi, Dan Cara Penerapan Klik Disini Cara
   Membuat Simple Safelink Converter
-excerpt: Untuk Cara Instal, Deskripsi, Dan Cara Penerapan Klik Disini Cara
-  Membuat Simple Safelink Converter
 lang: en
 photos:
   - http://res.cloudinary.com/dimaslanjaka/image/fetch/https://anotherorion.com/wp-content/uploads/2015/05/SafeLinkConverter1.png
-subtitle: Untuk Cara Instal, Deskripsi, Dan Cara Penerapan Klik Disini Cara
-  Membuat Simple Safelink Converter
 tags:
   - js
   - blogger

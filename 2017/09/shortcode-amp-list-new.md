@@ -10,19 +10,10 @@ cover: https://4.bp.blogspot.com/-ko3CcyyJKSY/WaRzKI6HwWI/AAAAAAAAACo/ZusaTqvFcJ
 date: 2017-09-15T01:48:00.000+07:00
 description: Shortcode amp list new It turns out that in AMP there are some
   standard action codes or shortcodes to make it easier to give certain commands
-  to an element such as redirect, print, show, hide, toggle, scroll to, and
-  focus on input. AMP.navigateTo Will be redirect to choosen url <button on=tap
-excerpt: Shortcode amp list new It turns out that in AMP there are some standard
-  action codes or shortcodes to make it easier to give certain commands to an
-  element such as redirect, print, show, hide, toggle, scroll to, and focus on
-  input. AMP.navigateTo Will be redirect to choosen url <button on=tap
+  to an element such
 lang: en
 photos:
   - https://4.bp.blogspot.com/-ko3CcyyJKSY/WaRzKI6HwWI/AAAAAAAAACo/ZusaTqvFcJA-hjqVsLk9jArt00QUPbYwwCLcBGAs/s320/shortcode.jpg
-subtitle: Shortcode amp list new It turns out that in AMP there are some
-  standard action codes or shortcodes to make it easier to give certain commands
-  to an element such as redirect, print, show, hide, toggle, scroll to, and
-  focus on input. AMP.navigateTo Will be redirect to choosen url <button on=tap
 tags:
   - html
   - amp

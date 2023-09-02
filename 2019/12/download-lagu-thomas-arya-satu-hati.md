@@ -11,13 +11,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/e35a13b69650813b63
 date: 2019-12-04T12:58:00.001+07:00
 description: "Download lagu THOMAS ARYA SATU HATI SAMPAI MATI Mp3 THOMAS ARYA -
   ONE HEART UNTIL DEAD Listen: 1,690 Duration: 391 MP3 size:"
-excerpt: "Download lagu THOMAS ARYA SATU HATI SAMPAI MATI Mp3 THOMAS ARYA - ONE
-  HEART UNTIL DEAD Listen: 1,690 Duration: 391 MP3 size:"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/e35a13b69650813b631bfb1716242936.jpeg
-subtitle: "Download lagu THOMAS ARYA SATU HATI SAMPAI MATI Mp3 THOMAS ARYA - ONE
-  HEART UNTIL DEAD Listen: 1,690 Duration: 391 MP3 size:"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/e35a13b69650813b631bfb1716242936.jpeg

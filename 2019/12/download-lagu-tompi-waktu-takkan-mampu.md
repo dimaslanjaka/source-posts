@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/d40d869838082147b7
 date: 2019-12-19T22:24:00.004+07:00
 description: "Download lagu Tompi Waktu Takkan Mampu Mp3 Tompi - Time Wont Be
   Able Listen: 1,114,162 Duration: 265 MP3 size: 4.14MB Download"
-excerpt: "Download lagu Tompi Waktu Takkan Mampu Mp3 Tompi - Time Wont Be Able
-  Listen: 1,114,162 Duration: 265 MP3 size: 4.14MB Download"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/d40d869838082147b79f1e85547fabdd.jpeg
-subtitle: "Download lagu Tompi Waktu Takkan Mampu Mp3 Tompi - Time Wont Be Able
-  Listen: 1,114,162 Duration: 265 MP3 size: 4.14MB Download"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/d40d869838082147b79f1e85547fabdd.jpeg

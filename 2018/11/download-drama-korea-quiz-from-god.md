@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i2.wp.com/www
 date: 2018-11-15T06:37:00.000+07:00
 description: "Download Korean Drama Quiz from God Reboot Indonesian Subtitles
   Quiz from God: Reboot is a drama about elite doctors and forensic"
-excerpt: "Download Korean Drama Quiz from God Reboot Indonesian Subtitles Quiz
-  from God: Reboot is a drama about elite doctors and forensic"
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i2.wp.com/www.dramaencode.com/wp-content/uploads/2018/11/Download-Drama-Korea-Gods-Quiz-Reboot-Subtitle-Indonesia.jpg?resize=600%2C381&ssl=1
-subtitle: "Download Korean Drama Quiz from God Reboot Indonesian Subtitles Quiz
-  from God: Reboot is a drama about elite doctors and forensic"
 tags:
   - movies
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i2.wp.com/www.dramaencode.com/wp-content/uploads/2018/11/Download-Drama-Korea-Gods-Quiz-Reboot-Subtitle-Indonesia.jpg?resize=600%2C381&ssl=1

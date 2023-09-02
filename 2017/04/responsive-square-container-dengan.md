@@ -10,13 +10,9 @@ cover: https://d1gug1ng40407.cloudfront.net/uploads/2017/03/allure-code-snippet.
 date: 2017-04-13T16:29:00.000+07:00
 description: Menggunakan vanili JavaScript dan CSS, saya akan menunjukkan cara
   untuk secara vertikal dan horizontal pusat dinamis konten berukuran dalam
-excerpt: Menggunakan vanili JavaScript dan CSS, saya akan menunjukkan cara untuk
-  secara vertikal dan horizontal pusat dinamis konten berukuran dalam
 lang: en
 photos:
   - https://d1gug1ng40407.cloudfront.net/uploads/2017/03/allure-code-snippet.jpg
-subtitle: Menggunakan vanili JavaScript dan CSS, saya akan menunjukkan cara
-  untuk secara vertikal dan horizontal pusat dinamis konten berukuran dalam
 tags:
   - css
   - js

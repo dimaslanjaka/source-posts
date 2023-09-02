@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2019-01-20T11:53:00.000+07:00
 description: Watch Project Gutenberg Online Film 2018 Indonesian Subtitles - The
   Hong Kong police led by a mastermind code-named Painter Chow
-excerpt: Watch Project Gutenberg Online Film 2018 Indonesian Subtitles - The
-  Hong Kong police led by a mastermind code-named Painter Chow
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Watch Project Gutenberg Online Film 2018 Indonesian Subtitles - The
-  Hong Kong police led by a mastermind code-named Painter Chow
 tags:
   - movies
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

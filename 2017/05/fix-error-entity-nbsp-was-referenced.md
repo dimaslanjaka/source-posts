@@ -8,24 +8,12 @@ categories:
 comments: true
 cover: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6A8Kv8hDwOaw1oyNv0g8JghoA700vJYvtBk-2E4NgQss7ztfOGGt37brH
 date: 2017-05-26T03:53:00.000+07:00
-description: "Fix Error The entity nbsp was referenced, but not declared Mistake
+description: Fix Error The entity nbsp was referenced, but not declared Mistake
   The substance nbsp was referenced, yet not proclaimed. For mycompanion who
-  utilizes HTML 5 and attempt to enter a space with the codesand nbsp; or a
-  non-breaking space, it would get a mistake message that way,so it jumped out
-  at "
-excerpt: "Fix Error The entity nbsp was referenced, but not declared Mistake The
-  substance nbsp was referenced, yet not proclaimed. For mycompanion who
-  utilizes HTML 5 and attempt to enter a space with the codesand nbsp; or a
-  non-breaking space, it would get a mistake message that way,so it jumped out
-  at "
+  utilizes HTML 5 an
 lang: en
 photos:
   - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6A8Kv8hDwOaw1oyNv0g8JghoA700vJYvtBk-2E4NgQss7ztfOGGt37brH
-subtitle: "Fix Error The entity nbsp was referenced, but not declared Mistake
-  The substance nbsp was referenced, yet not proclaimed. For mycompanion who
-  utilizes HTML 5 and attempt to enter a space with the codesand nbsp; or a
-  non-breaking space, it would get a mistake message that way,so it jumped out
-  at "
 tags:
   - html
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6A8Kv8hDwOaw1oyNv0g8JghoA700vJYvtBk-2E4NgQss7ztfOGGt37brH

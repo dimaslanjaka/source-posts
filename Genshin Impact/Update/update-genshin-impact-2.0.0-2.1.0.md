@@ -9,12 +9,10 @@ comments: true
 cover: /Genshin Impact/Update/update-genshin-impact-1.5.1-1.6.0/cover.jpg
 date: 2021-09-04T00:00:00+07:00
 description: Update Genshin Impact 2.0.0 - 2.1.0 Manual
-excerpt: Update Genshin Impact 2.0.0 - 2.1.0 Manual
 lang: en
 location: Indonesia
 photos:
   - /Genshin Impact/Update/update-genshin-impact-1.5.1-1.6.0/cover.jpg
-subtitle: Update Genshin Impact 2.0.0 - 2.1.0 Manual
 tags:
   - games
   - genshin impact

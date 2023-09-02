@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2019-08-18T06:05:00.003+07:00
 description: Download Uchannel modUchannel tanpa iklanUchannel no adsSubsub
   modBonusAuto clicker mod
-excerpt: Download Uchannel modUchannel tanpa iklanUchannel no adsSubsub
-  modBonusAuto clicker mod
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Download Uchannel modUchannel tanpa iklanUchannel no adsSubsub
-  modBonusAuto clicker mod
 tags:
   - android
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

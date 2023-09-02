@@ -10,19 +10,10 @@ cover: https://4.bp.blogspot.com/-PpWaOxbn6Tk/Uxx5oeTV9sI/AAAAAAAAAc0/Nbc-Oluyp0
 date: 2018-11-03T20:02:00.003+07:00
 description: "Cara Membuat Cron Job Menggunakan webcron.org kali ini saya akan
   membahas cara memasang cron job di webcron.org. langsung aja ke TKP. bahan :
-  Email Aktif Ketampanan .^_^. oke pertama kalian daftar dulu ke webcron.org
-  disini setelah "
-excerpt: "Cara Membuat Cron Job Menggunakan webcron.org kali ini saya akan
-  membahas cara memasang cron job di webcron.org. langsung aja ke TKP. bahan :
-  Email Aktif Ketampanan .^_^. oke pertama kalian daftar dulu ke webcron.org
-  disini setelah "
+  Email Aktif Ketamp"
 lang: en
 photos:
   - https://4.bp.blogspot.com/-PpWaOxbn6Tk/Uxx5oeTV9sI/AAAAAAAAAc0/Nbc-Oluyp0s/s280/Screenshot_1.png
-subtitle: "Cara Membuat Cron Job Menggunakan webcron.org kali ini saya akan
-  membahas cara memasang cron job di webcron.org. langsung aja ke TKP. bahan :
-  Email Aktif Ketampanan .^_^. oke pertama kalian daftar dulu ke webcron.org
-  disini setelah "
 tags:
   - tips & tricks
 thumbnail: https://4.bp.blogspot.com/-PpWaOxbn6Tk/Uxx5oeTV9sI/AAAAAAAAAc0/Nbc-Oluyp0s/s280/Screenshot_1.png

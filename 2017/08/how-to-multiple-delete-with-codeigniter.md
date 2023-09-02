@@ -9,11 +9,9 @@ comments: true
 cover: https://www.tutorial-webdesign.com/wp-content/uploads/2015/01/12.png
 date: 2017-08-29T20:38:00.000+07:00
 description: How to multiple delete with codeigniter
-excerpt: How to multiple delete with codeigniter
 lang: en
 photos:
   - https://www.tutorial-webdesign.com/wp-content/uploads/2015/01/12.png
-subtitle: How to multiple delete with codeigniter
 tags:
   - wordpress
   - codeigniter

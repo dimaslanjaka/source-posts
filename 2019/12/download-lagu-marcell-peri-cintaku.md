@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/57dfec262ab416111c
 date: 2019-12-04T16:43:00.001+07:00
 description: "Download lagu Marcell Peri Cintaku Official Mp3 Marcell - My Love
   Fairy Official Listen: 79,464 Duration: 275 MP3 size: 4.3MB"
-excerpt: "Download lagu Marcell Peri Cintaku Official Mp3 Marcell - My Love
-  Fairy Official Listen: 79,464 Duration: 275 MP3 size: 4.3MB"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/57dfec262ab416111cb5fa1c839dc5c9.jpeg
-subtitle: "Download lagu Marcell Peri Cintaku Official Mp3 Marcell - My Love
-  Fairy Official Listen: 79,464 Duration: 275 MP3 size: 4.3MB"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/57dfec262ab416111cb5fa1c839dc5c9.jpeg

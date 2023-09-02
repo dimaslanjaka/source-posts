@@ -7,7 +7,6 @@ cover: https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab
   4.png
 date: 2022-05-31
 description: follow symlink of local cloned repository folder
-excerpt: follow symlink of local cloned repository folder
 keywords:
   - github
   - symlink
@@ -15,7 +14,6 @@ lang: en
 photos:
   - https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab90ae870152b_github
     4.png
-subtitle: follow symlink of local cloned repository folder
 tags:
   - github
 thumbnail: https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab90ae870152b_github

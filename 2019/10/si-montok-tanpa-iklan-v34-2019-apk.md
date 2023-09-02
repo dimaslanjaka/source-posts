@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot.com/-vUXS2dpqfgo/XW5OxR98EyI/AAAAAAAAHW0/4j-djiD7fDgHchVIL8SNdn_O2OV9k057QCLcBGAs/s1600/images.png
 date: 2019-10-11T14:28:00.001+07:00
 description: a
-excerpt: a
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot.com/-vUXS2dpqfgo/XW5OxR98EyI/AAAAAAAAHW0/4j-djiD7fDgHchVIL8SNdn_O2OV9k057QCLcBGAs/s1600/images.png
-subtitle: a
 tags:
   - android
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot.com/-vUXS2dpqfgo/XW5OxR98EyI/AAAAAAAAHW0/4j-djiD7fDgHchVIL8SNdn_O2OV9k057QCLcBGAs/s1600/images.png

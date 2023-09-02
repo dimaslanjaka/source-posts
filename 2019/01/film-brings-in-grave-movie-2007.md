@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2019-01-23T00:27:00.000+07:00
 description: Watching Online Movies Gives Birth in the Tomb of The Movie 2007
   Indonesian Subtitles - Jessy Adytia Putri, Jovan Revand T
-excerpt: Watching Online Movies Gives Birth in the Tomb of The Movie 2007
-  Indonesian Subtitles - Jessy Adytia Putri, Jovan Revand T
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Watching Online Movies Gives Birth in the Tomb of The Movie 2007
-  Indonesian Subtitles - Jessy Adytia Putri, Jovan Revand T
 tags:
   - movies
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

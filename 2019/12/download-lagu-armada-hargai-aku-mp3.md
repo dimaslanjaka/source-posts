@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/9801fdd072de1759bd
 date: 2019-12-04T13:02:00.001+07:00
 description: "Download lagu Armada Hargai Aku Mp3 Fleet - Appreciate me Listen:
   71,353,703 Duration: 252 MP3 size: 3.94MB Download Links"
-excerpt: "Download lagu Armada Hargai Aku Mp3 Fleet - Appreciate me Listen:
-  71,353,703 Duration: 252 MP3 size: 3.94MB Download Links"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/9801fdd072de1759bd1b1f92a10b3095.jpeg
-subtitle: "Download lagu Armada Hargai Aku Mp3 Fleet - Appreciate me Listen:
-  71,353,703 Duration: 252 MP3 size: 3.94MB Download Links"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/9801fdd072de1759bd1b1f92a10b3095.jpeg

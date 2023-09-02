@@ -10,22 +10,10 @@ cover: https://3.bp.blogspot.com/-rlX3eX2Ncmc/WaZzcWKApYI/AAAAAAAAHVc/EtQrgEUUiy
 date: 2017-08-30T18:05:00.000+07:00
 description: Responsive RSS Search Form With Bootstraps 4.0.0-beta Bootstraps 4,
   HTML, CSS, dan JS Framework yang paling populer di dunia. Latest Bootstraps 4
-  CDN <link rel=stylesheet
-  href=https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css
-  integrity=sha384-rwoIResjU2yc3z8GV/NPeZ
-excerpt: Responsive RSS Search Form With Bootstraps 4.0.0-beta Bootstraps 4,
-  HTML, CSS, dan JS Framework yang paling populer di dunia. Latest Bootstraps 4
-  CDN <link rel=stylesheet
-  href=https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css
-  integrity=sha384-rwoIResjU2yc3z8GV/NPeZ
+  CDN <link rel=
 lang: en
 photos:
   - https://3.bp.blogspot.com/-rlX3eX2Ncmc/WaZzcWKApYI/AAAAAAAAHVc/EtQrgEUUiyou54pxhpU0AfAW-ivce0fZgCLcBGAs/s320/images%2B%25281%2529.png
-subtitle: Responsive RSS Search Form With Bootstraps 4.0.0-beta Bootstraps 4,
-  HTML, CSS, dan JS Framework yang paling populer di dunia. Latest Bootstraps 4
-  CDN <link rel=stylesheet
-  href=https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css
-  integrity=sha384-rwoIResjU2yc3z8GV/NPeZ
 tags:
   - css
   - js

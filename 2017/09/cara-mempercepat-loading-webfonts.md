@@ -10,19 +10,10 @@ cover: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwHYn1q6qKyIO1WJAsg
 date: 2017-09-11T18:43:00.000+07:00
 description: Cara mempercepat loading webfonts Cara mempercepat loading fonts
   blog webfonts. Metode 1. Apache config<FilesMatch .eotttfotfwoff> Header set
-  Access-Control-Allow-Origin </FilesMatch> nginx configif filename
-  ^.?\.eotttfwoff add_header Access-Control-Allow-Origin ;
-excerpt: Cara mempercepat loading webfonts Cara mempercepat loading fonts blog
-  webfonts. Metode 1. Apache config<FilesMatch .eotttfotfwoff> Header set
-  Access-Control-Allow-Origin </FilesMatch> nginx configif filename
-  ^.?\.eotttfwoff add_header Access-Control-Allow-Origin ;
+  Access-Control-All
 lang: en
 photos:
   - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwHYn1q6qKyIO1WJAsg-ZtU3RJIlFDpbwnD9gZRG_NE29f4lDc
-subtitle: Cara mempercepat loading webfonts Cara mempercepat loading fonts blog
-  webfonts. Metode 1. Apache config<FilesMatch .eotttfotfwoff> Header set
-  Access-Control-Allow-Origin </FilesMatch> nginx configif filename
-  ^.?\.eotttfwoff add_header Access-Control-Allow-Origin ;
 tags:
   - html
   - miscellaneous

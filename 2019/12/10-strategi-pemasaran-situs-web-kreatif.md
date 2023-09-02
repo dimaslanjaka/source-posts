@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/312ac27e5722
 date: 2019-12-08T05:24:00.000+07:00
 description: 0 Creative Website Marketing Strategies For Entrepreneurs 10
   Strategi Pemasaran Situs Web Kreatif untuk Pengusaha Terkadang pemasaran
-excerpt: 0 Creative Website Marketing Strategies For Entrepreneurs 10 Strategi
-  Pemasaran Situs Web Kreatif untuk Pengusaha Terkadang pemasaran
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/312ac27e57227f85a47d1e4c5c00eed6.png
-subtitle: 0 Creative Website Marketing Strategies For Entrepreneurs 10 Strategi
-  Pemasaran Situs Web Kreatif untuk Pengusaha Terkadang pemasaran
 tags:
   - marketing strategies
   - tips & tricks

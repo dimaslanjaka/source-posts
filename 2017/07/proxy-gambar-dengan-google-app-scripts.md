@@ -10,19 +10,10 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://i.imgur.com/FF
 date: 2017-07-11T23:51:00.001+07:00
 description: Proxy Gambar dengan Google App Scripts Saya telah menjadi penggemar
   beratGoogle App Scripts.Layanan ini memungkinkan Anda membuat skrip canggih
-  yang dapat dijadwalkan dan terintegrasi dengan Google email, Google Documents,
-  Excel dan API eksternal.Anda menulis dalam JavaScript, dalam editor ko
-excerpt: Proxy Gambar dengan Google App Scripts Saya telah menjadi penggemar
-  beratGoogle App Scripts.Layanan ini memungkinkan Anda membuat skrip canggih
-  yang dapat dijadwalkan dan terintegrasi dengan Google email, Google Documents,
-  Excel dan API eksternal.Anda menulis dalam JavaScript, dalam editor ko
+  yang dapat dijad
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://i.imgur.com/FFGsnXd.jpg?1
-subtitle: Proxy Gambar dengan Google App Scripts Saya telah menjadi penggemar
-  beratGoogle App Scripts.Layanan ini memungkinkan Anda membuat skrip canggih
-  yang dapat dijadwalkan dan terintegrasi dengan Google email, Google Documents,
-  Excel dan API eksternal.Anda menulis dalam JavaScript, dalam editor ko
 tags:
   - js
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://i.imgur.com/FFGsnXd.jpg?1

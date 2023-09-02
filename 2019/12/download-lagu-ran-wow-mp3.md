@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/7816f08c0334c9ab75
 date: 2019-12-11T01:23:00.001+07:00
 description: "Download lagu RAN Wow Mp3RAN - Wow Listen: 46,895 Duration: 243
   MP3 size: 3.8MB Download Links Download Mp3 Server 1 Download"
-excerpt: "Download lagu RAN Wow Mp3RAN - Wow Listen: 46,895 Duration: 243 MP3
-  size: 3.8MB Download Links Download Mp3 Server 1 Download"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/7816f08c0334c9ab75881db61bf2c931.jpeg
-subtitle: "Download lagu RAN Wow Mp3RAN - Wow Listen: 46,895 Duration: 243 MP3
-  size: 3.8MB Download Links Download Mp3 Server 1 Download"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/7816f08c0334c9ab75881db61bf2c931.jpeg

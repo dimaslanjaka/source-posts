@@ -10,13 +10,9 @@ cover: https://imgdb.net/images/3863.png
 date: 2018-07-07T22:55:00.000+07:00
 description: Weapons are one of the most important elements in durango games,
   whatever we do in the game definitely requires
-excerpt: Weapons are one of the most important elements in durango games,
-  whatever we do in the game definitely requires
 lang: en
 photos:
   - https://imgdb.net/images/3863.png
-subtitle: Weapons are one of the most important elements in durango games,
-  whatever we do in the game definitely requires
 tags:
   - games
   - durango

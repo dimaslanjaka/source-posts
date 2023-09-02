@@ -9,11 +9,9 @@ comments: true
 cover: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_GSwBHWgKexKRlrdNTFKAvtv827hyFeGx4dvA4ln2k8UDV1vT
 date: 2018-08-13T08:46:00.001+07:00
 description: Website Development Indonesia
-excerpt: Website Development Indonesia
 lang: en
 photos:
   - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_GSwBHWgKexKRlrdNTFKAvtv827hyFeGx4dvA4ln2k8UDV1vT
-subtitle: Website Development Indonesia
 tags: []
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_GSwBHWgKexKRlrdNTFKAvtv827hyFeGx4dvA4ln2k8UDV1vT
 title: Post

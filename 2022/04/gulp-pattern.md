@@ -5,10 +5,7 @@ categories:
 comments: true
 date: 2022-04-01T17:34:31+0000
 description: macam-macam source pattern pada gulp
-excerpt: macam-macam source pattern pada gulp
 lang: en
-photos: []
-subtitle: macam-macam source pattern pada gulp
 tags: []
 title: gulp src pattern
 type: post

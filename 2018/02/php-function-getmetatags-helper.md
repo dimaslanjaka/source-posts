@@ -10,13 +10,9 @@ cover: https://www.svgrepo.com/show/84714/php.svg
 date: 2018-02-21T20:55:00.000+07:00
 description: "Description Of getmeta_tags Source Description: PHP.NET PHP 4, PHP
   5, PHP 7 get_meta_tags "
-excerpt: "Description Of getmeta_tags Source Description: PHP.NET PHP 4, PHP 5,
-  PHP 7 get_meta_tags "
 lang: en
 photos:
   - https://www.svgrepo.com/show/84714/php.svg
-subtitle: "Description Of getmeta_tags Source Description: PHP.NET PHP 4, PHP 5,
-  PHP 7 get_meta_tags "
 tags:
   - php
 thumbnail: https://www.svgrepo.com/show/84714/php.svg

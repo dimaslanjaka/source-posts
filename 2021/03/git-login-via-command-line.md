@@ -8,18 +8,12 @@ categories:
 comments: true
 cover: https://i.ytimg.com/vi/yDntCIs-IJM/hqdefault.jpg
 date: 2021-03-28T09:54:00.004+07:00
-description: "Git Login Via Command Line git config --global user.name
+description: Git Login Via Command Line git config --global user.name
   myusernamegit config --global user.email myemailgit config --global
-  github.user myusernamegit config --global github.token mytoken "
-excerpt: "Git Login Via Command Line git config --global user.name myusernamegit
-  config --global user.email myemailgit config --global github.user
-  myusernamegit config --global github.token mytoken "
+  github.user myusernamegit config --
 lang: en
 photos:
   - https://i.ytimg.com/vi/yDntCIs-IJM/hqdefault.jpg
-subtitle: "Git Login Via Command Line git config --global user.name
-  myusernamegit config --global user.email myemailgit config --global
-  github.user myusernamegit config --global github.token mytoken "
 tags:
   - tips & tricks
 thumbnail: https://i.ytimg.com/vi/yDntCIs-IJM/hqdefault.jpg

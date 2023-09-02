@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2017-07-27T21:02:00.001+07:00
 description: ad.hma.rocks Andorra, Andorra la Vellaae.hma.rocks United Arab
   Emirates, Dubaiaf.hma.rocks Afghanistan, Kabulag.hma.rocks Antigua and
-excerpt: ad.hma.rocks Andorra, Andorra la Vellaae.hma.rocks United Arab
-  Emirates, Dubaiaf.hma.rocks Afghanistan, Kabulag.hma.rocks Antigua and
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: ad.hma.rocks Andorra, Andorra la Vellaae.hma.rocks United Arab
-  Emirates, Dubaiaf.hma.rocks Afghanistan, Kabulag.hma.rocks Antigua and
 tags:
   - tips & tricks
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

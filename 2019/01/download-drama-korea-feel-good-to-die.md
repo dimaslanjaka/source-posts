@@ -11,13 +11,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://t7j2r8j8.stac
 date: 2019-01-04T01:53:00.000+07:00
 description: Download Korean Drama Feel Good To Die Indonesian Subtitles
   Download Korean Drama Feel Good To Die Indonesian Subtitles Lee
-excerpt: Download Korean Drama Feel Good To Die Indonesian Subtitles Download
-  Korean Drama Feel Good To Die Indonesian Subtitles Lee
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://t7j2r8j8.stackpathcdn.com/wp-content/uploads/2018/11/Feel-Good-To-Die-Korean-Drama.jpg
-subtitle: Download Korean Drama Feel Good To Die Indonesian Subtitles Download
-  Korean Drama Feel Good To Die Indonesian Subtitles Lee
 tags:
   - movies
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://t7j2r8j8.stackpathcdn.com/wp-content/uploads/2018/11/Feel-Good-To-Die-Korean-Drama.jpg

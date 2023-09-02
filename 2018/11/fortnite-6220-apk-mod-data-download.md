@@ -10,11 +10,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2018/fortnite-1.jpg
 date: 2018-11-09T12:40:00.000+07:00
 description: Fortnite adalah Game Arcade untuk android Download versi terakhir dari
-excerpt: Fortnite adalah Game Arcade untuk android Download versi terakhir dari
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2018/fortnite-1.jpg
-subtitle: Fortnite adalah Game Arcade untuk android Download versi terakhir dari
 tags:
   - games
   - android

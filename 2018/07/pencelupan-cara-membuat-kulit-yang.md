@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://upload2.inven.
 date: 2018-07-30T20:34:00.001+07:00
 description: Bunga zat warna Pearl Kekayaan Warna mirip dengan foto Beli
   Kumpulkan Pewarna harus diterapkan setidaknya 3 kali untuk
-excerpt: Bunga zat warna Pearl Kekayaan Warna mirip dengan foto Beli Kumpulkan
-  Pewarna harus diterapkan setidaknya 3 kali untuk
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://upload2.inven.co.kr/upload/2018/07/28/bbs/i13154442828.jpg
-subtitle: Bunga zat warna Pearl Kekayaan Warna mirip dengan foto Beli Kumpulkan
-  Pewarna harus diterapkan setidaknya 3 kali untuk
 tags:
   - games
   - durango

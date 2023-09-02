@@ -10,13 +10,9 @@ cover: https://3.bp.blogspot.com/-JFg4ItYxFCw/T7wg6WSoHfI/AAAAAAAATQI/HMlZHgopew
 date: 2017-10-13T00:28:00.000+07:00
 description: Mencari cara untuk berbagi kreasi musik Anda secara online Di sini
   saya mengumpulkan koleksi layanan dan alat gratis yang bisa
-excerpt: Mencari cara untuk berbagi kreasi musik Anda secara online Di sini saya
-  mengumpulkan koleksi layanan dan alat gratis yang bisa
 lang: en
 photos:
   - https://3.bp.blogspot.com/-JFg4ItYxFCw/T7wg6WSoHfI/AAAAAAAATQI/HMlZHgopewA/s1600/mp3-soundcloud.png
-subtitle: Mencari cara untuk berbagi kreasi musik Anda secara online Di sini
-  saya mengumpulkan koleksi layanan dan alat gratis yang bisa
 tags:
   - tips & tricks
 thumbnail: https://3.bp.blogspot.com/-JFg4ItYxFCw/T7wg6WSoHfI/AAAAAAAATQI/HMlZHgopewA/s1600/mp3-soundcloud.png

@@ -11,13 +11,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/477b48512aab98259a
 date: 2019-12-07T06:06:00.001+07:00
 description: "Download lagu Cassandra Jadilah Pacarku Mp3Cassandra - Be My
   Boyfriend Listen: 39,742 Duration: 218 MP3 size: 3.41MB Download"
-excerpt: "Download lagu Cassandra Jadilah Pacarku Mp3Cassandra - Be My Boyfriend
-  Listen: 39,742 Duration: 218 MP3 size: 3.41MB Download"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/477b48512aab98259a1724b5ce30137a.jpeg
-subtitle: "Download lagu Cassandra Jadilah Pacarku Mp3Cassandra - Be My
-  Boyfriend Listen: 39,742 Duration: 218 MP3 size: 3.41MB Download"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/477b48512aab98259a1724b5ce30137a.jpeg

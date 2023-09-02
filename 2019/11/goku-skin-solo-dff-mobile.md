@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot
 date: 2019-11-20T23:26:00.001+07:00
 description: Goku Skin Solo DFF Mobile Karakter manga terkenal Son Goku skin
   sekarang tersedia untuk GTA San Andreas Mobile. Pembuat mod ini
-excerpt: Goku Skin Solo DFF Mobile Karakter manga terkenal Son Goku skin
-  sekarang tersedia untuk GTA San Andreas Mobile. Pembuat mod ini
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot.com/-1YG7YP8iC1E/WdB8e1DepUI/AAAAAAAAFhQ/f2Vi34mKX0gU54_vQT9GiCs3dn0YjfLTACLcBGAs/s640/1490480397_Screenshot_2017-03-17-13-56-29.jpg
-subtitle: Goku Skin Solo DFF Mobile Karakter manga terkenal Son Goku skin
-  sekarang tersedia untuk GTA San Andreas Mobile. Pembuat mod ini
 tags:
   - games
   - android

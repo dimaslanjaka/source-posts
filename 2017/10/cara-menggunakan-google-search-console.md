@@ -10,20 +10,10 @@ cover: https://cdn.woorkup.com/wp-content/uploads/2013/09/submit-website-to-goog
 date: 2017-10-20T10:46:00.000+07:00
 description: Cara Menggunakan Google Search Console Tutorial ini akan
   menunjukkan cara mengirimkan situs Anda ke Google Google search console,
-  bersama dengan file sitemap Anda. Pertama Anda harus memiliki file sitemap
-  yang dibuat. Jika Anda belum melakukan ini, silakan lihat artikel saya diCara
-  Membu
-excerpt: Cara Menggunakan Google Search Console Tutorial ini akan menunjukkan
-  cara mengirimkan situs Anda ke Google Google search console, bersama dengan
-  file sitemap Anda. Pertama Anda harus memiliki file sitemap yang dibuat. Jika
-  Anda belum melakukan ini, silakan lihat artikel saya diCara Membu
+  bersama dengan file sitemap An
 lang: en
 photos:
   - https://cdn.woorkup.com/wp-content/uploads/2013/09/submit-website-to-google.png
-subtitle: Cara Menggunakan Google Search Console Tutorial ini akan menunjukkan
-  cara mengirimkan situs Anda ke Google Google search console, bersama dengan
-  file sitemap Anda. Pertama Anda harus memiliki file sitemap yang dibuat. Jika
-  Anda belum melakukan ini, silakan lihat artikel saya diCara Membu
 tags:
   - wordpress
   - seo

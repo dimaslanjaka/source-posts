@@ -10,13 +10,9 @@ cover: https://4.bp.blogspot.com/-nZHOJ0yIwFA/VxdhC6oKlcI/AAAAAAAAChg/eNqEsF4QEb
 date: 2017-05-16T19:52:00.001+07:00
 description: Constrained in themes wordpress at the time of installation in self
   hosting for beginners like ane feel confused, gaptek dll. Let alone
-excerpt: Constrained in themes wordpress at the time of installation in self
-  hosting for beginners like ane feel confused, gaptek dll. Let alone
 lang: en
 photos:
   - https://4.bp.blogspot.com/-nZHOJ0yIwFA/VxdhC6oKlcI/AAAAAAAAChg/eNqEsF4QEbcPbkDo3sPQPyaQkWAnlFBAwCLcB/s320/ioncube_loader.png
-subtitle: Constrained in themes wordpress at the time of installation in self
-  hosting for beginners like ane feel confused, gaptek dll. Let alone
 tags:
   - wordpress
 thumbnail: https://4.bp.blogspot.com/-nZHOJ0yIwFA/VxdhC6oKlcI/AAAAAAAAChg/eNqEsF4QEbcPbkDo3sPQPyaQkWAnlFBAwCLcB/s320/ioncube_loader.png

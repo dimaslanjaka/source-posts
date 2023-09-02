@@ -11,15 +11,9 @@ date: 2019-05-31T18:33:00.001+07:00
 description: "Input into chrome address bar
   chrome://flags/allow-insecure-localhostenable it, then restart the chrome
   browser. seems like this :"
-excerpt: "Input into chrome address bar
-  chrome://flags/allow-insecure-localhostenable it, then restart the chrome
-  browser. seems like this :"
 lang: en
 photos:
   - https://1.bp.blogspot.com/-eg2mJWQjW-A/XPEQ2UeWMCI/AAAAAAAAAZU/_CDwADdk058CT_Iu1TMGtcURu6Y5vMHkwCLcBGAs/s320/WhatsApp%2BImage%2B2019-05-31%2Bat%2B6.30.22%2BPM.jpeg
-subtitle: "Input into chrome address bar
-  chrome://flags/allow-insecure-localhostenable it, then restart the chrome
-  browser. seems like this :"
 tags:
   - tips & tricks
 thumbnail: https://1.bp.blogspot.com/-eg2mJWQjW-A/XPEQ2UeWMCI/AAAAAAAAAZU/_CDwADdk058CT_Iu1TMGtcURu6Y5vMHkwCLcBGAs/s320/WhatsApp%2BImage%2B2019-05-31%2Bat%2B6.30.22%2BPM.jpeg

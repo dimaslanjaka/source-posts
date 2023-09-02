@@ -9,11 +9,9 @@ comments: true
 cover: https://4.bp.blogspot.com/-F-ocOo6kFI4/TZmheb35DxI/AAAAAAAAL0M/qYSBewm5xDY/s1600/Local-Player.png
 date: 2017-10-14T00:32:00.000+07:00
 description: Pemain Lokal
-excerpt: Pemain Lokal
 lang: en
 photos:
   - https://4.bp.blogspot.com/-F-ocOo6kFI4/TZmheb35DxI/AAAAAAAAL0M/qYSBewm5xDY/s1600/Local-Player.png
-subtitle: Pemain Lokal
 tags:
   - tips & tricks
 thumbnail: https://4.bp.blogspot.com/-F-ocOo6kFI4/TZmheb35DxI/AAAAAAAAL0M/qYSBewm5xDY/s1600/Local-Player.png

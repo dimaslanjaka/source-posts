@@ -9,11 +9,9 @@ comments: true
 cover: https://image.revdl.com/2017/the-escapists-1.jpg
 date: 2019-02-14T04:54:00.000+07:00
 description: The Escapists .1.5.556924 Apk Patched Mod money untuk android
-excerpt: The Escapists .1.5.556924 Apk Patched Mod money untuk android
 lang: en
 photos:
   - https://image.revdl.com/2017/the-escapists-1.jpg
-subtitle: The Escapists .1.5.556924 Apk Patched Mod money untuk android
 tags:
   - games
   - android

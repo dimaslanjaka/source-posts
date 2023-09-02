@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/969af44ef2a017de5f
 date: 2019-11-24T22:48:00.001+07:00
 description: "Download lagu Ghaury Janji Abang Mp3 Ghaury - Promise brother
   Listen: 1,852,094 Duration: 265 MP3 size: 4.14MB Download Links"
-excerpt: "Download lagu Ghaury Janji Abang Mp3 Ghaury - Promise brother Listen:
-  1,852,094 Duration: 265 MP3 size: 4.14MB Download Links"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/969af44ef2a017de5f4cd94ca2233cad.jpeg
-subtitle: "Download lagu Ghaury Janji Abang Mp3 Ghaury - Promise brother Listen:
-  1,852,094 Duration: 265 MP3 size: 4.14MB Download Links"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/969af44ef2a017de5f4cd94ca2233cad.jpeg

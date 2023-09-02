@@ -10,19 +10,10 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2017-10-16T00:45:00.000+07:00
 description: "Windows 8: Backup UI Modern Apps Data Offline, Restore dengan
   mudah Saat Anda mendownload aplikasi dari Windows Store, ini terkait dengan
-  akun Microsoft Anda. Hal ini memungkinkan penginstalan aplikasi yang sama pada
-  perangkat berjalan Windows 8 lainnya yang Anda miliki, dan ini juga m"
-excerpt: "Windows 8: Backup UI Modern Apps Data Offline, Restore dengan mudah
-  Saat Anda mendownload aplikasi dari Windows Store, ini terkait dengan akun
-  Microsoft Anda. Hal ini memungkinkan penginstalan aplikasi yang sama pada
-  perangkat berjalan Windows 8 lainnya yang Anda miliki, dan ini juga m"
+  akun Microsoft Anda. H"
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: "Windows 8: Backup UI Modern Apps Data Offline, Restore dengan mudah
-  Saat Anda mendownload aplikasi dari Windows Store, ini terkait dengan akun
-  Microsoft Anda. Hal ini memungkinkan penginstalan aplikasi yang sama pada
-  perangkat berjalan Windows 8 lainnya yang Anda miliki, dan ini juga m"
 tags:
   - tips & tricks
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

@@ -9,11 +9,9 @@ comments: true
 cover: https://2.bp.blogspot.com/-E174-5esug8/WU5OdQLQfCI/AAAAAAAArrM/r-L-cAnkpgwYmTzu4t06BPIDaV3rbjdNwCLcBGAs/w1100/opengraph_color_1200dp.png
 date: 2017-06-24T20:49:00.004+07:00
 description: a
-excerpt: a
 lang: en
 photos:
   - https://2.bp.blogspot.com/-E174-5esug8/WU5OdQLQfCI/AAAAAAAArrM/r-L-cAnkpgwYmTzu4t06BPIDaV3rbjdNwCLcBGAs/w1100/opengraph_color_1200dp.png
-subtitle: a
 tags:
   - css
 thumbnail: https://2.bp.blogspot.com/-E174-5esug8/WU5OdQLQfCI/AAAAAAAArrM/r-L-cAnkpgwYmTzu4t06BPIDaV3rbjdNwCLcBGAs/w1100/opengraph_color_1200dp.png

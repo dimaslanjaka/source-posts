@@ -9,11 +9,9 @@ comments: true
 cover: https://www.abrightclearweb.com/wp-content/uploads/2015/02/domain-name-suffixes.jpeg
 date: 2017-08-26T21:53:00.000+07:00
 description: Senang dengan artikel ini Tolong bagikan ya
-excerpt: Senang dengan artikel ini Tolong bagikan ya
 lang: en
 photos:
   - https://www.abrightclearweb.com/wp-content/uploads/2015/02/domain-name-suffixes.jpeg
-subtitle: Senang dengan artikel ini Tolong bagikan ya
 tags:
   - tips & tricks
 thumbnail: https://www.abrightclearweb.com/wp-content/uploads/2015/02/domain-name-suffixes.jpeg

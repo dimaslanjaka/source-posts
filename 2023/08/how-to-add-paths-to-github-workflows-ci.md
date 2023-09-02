@@ -1,10 +1,24 @@
 ---
-title: How to add path folder to github workflows CI
+author: Dimas Lanjaka
+categories:
+  - programming
+comments: true
+cover: https://img2.storyblok.com/1280x750/filters:format(webp)/f/79165/1200x630/ebb5571e69/github-action-01.png
 date: 2023-08-27T21:09:03+07:00
-updated: 2023-08-27T21:27:18+07:00
-tags: [bash, github]
-categories: [programming]
+description: How to add path folder to github workflows CI Sometimes when you
+  try to use a command and Bash displays the Command not found error, it might
+  be because the pro
+lang: en
+photos:
+  - https://img2.storyblok.com/1280x750/filters:format(webp)/f/79165/1200x630/ebb5571e69/github-action-01.png
+tags:
+  - bash
+  - github
 thumbnail: https://img2.storyblok.com/1280x750/filters:format(webp)/f/79165/1200x630/ebb5571e69/github-action-01.png
+title: How to add path folder to github workflows CI
+type: post
+updated: 2023-08-27T21:27:18+07:00
+wordcount: 317
 ---
 
 Sometimes when you try to use a command and Bash displays the "Command not found" error, it might be because the program is not installed on your system. Correct this by installing a software package containing the command and add them into **PATH** enviroment variable.

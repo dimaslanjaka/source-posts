@@ -9,11 +9,9 @@ comments: true
 cover: https://imgdb.net/images/3201.png
 date: 2017-09-19T12:03:00.001+07:00
 description: What If Adsense Ads Are Not In Visit Clicks
-excerpt: What If Adsense Ads Are Not In Visit Clicks
 lang: en
 photos:
   - https://imgdb.net/images/3201.png
-subtitle: What If Adsense Ads Are Not In Visit Clicks
 tags:
   - adsense
 thumbnail: https://imgdb.net/images/3201.png

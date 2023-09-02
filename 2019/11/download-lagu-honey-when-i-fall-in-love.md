@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/33dfc89ff77a15bb58
 date: 2019-11-24T23:21:00.001+07:00
 description: "Download lagu Honey When I Fall in Love Mp3 Honey - When I Fall in
   Love Listen: 57,290 Duration: 255 MP3 size: 3.98MB Download"
-excerpt: "Download lagu Honey When I Fall in Love Mp3 Honey - When I Fall in
-  Love Listen: 57,290 Duration: 255 MP3 size: 3.98MB Download"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/33dfc89ff77a15bb58402a6fe6ac81e6.jpeg
-subtitle: "Download lagu Honey When I Fall in Love Mp3 Honey - When I Fall in
-  Love Listen: 57,290 Duration: 255 MP3 size: 3.98MB Download"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/33dfc89ff77a15bb58402a6fe6ac81e6.jpeg

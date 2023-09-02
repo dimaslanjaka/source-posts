@@ -10,13 +10,9 @@ cover: http://juragancipir.com/wp-content/uploads/2014/01/Skor-naik.png
 date: 2017-04-20T07:52:00.000+07:00
 description: Tips on Optimizing Google Adsense With A B TestingWebsite general
   news world-class giant Daily Mail level often use A / B testing to find
-excerpt: Tips on Optimizing Google Adsense With A B TestingWebsite general news
-  world-class giant Daily Mail level often use A / B testing to find
 lang: en
 photos:
   - http://juragancipir.com/wp-content/uploads/2014/01/Skor-naik.png
-subtitle: Tips on Optimizing Google Adsense With A B TestingWebsite general news
-  world-class giant Daily Mail level often use A / B testing to find
 tags:
   - adsense
 thumbnail: http://juragancipir.com/wp-content/uploads/2014/01/Skor-naik.png

@@ -10,13 +10,9 @@ cover: https://3.bp.blogspot.com/-JdPb9Jp1xSk/WODgW427ETI/AAAAAAAADb4/zLz2WLm7lf
 date: 2017-07-23T03:14:00.000+07:00
 description: AdSense brings me back to the beginning every time I
   clickSubmit.The submit button for adsense is not working or it is home this is
-excerpt: AdSense brings me back to the beginning every time I clickSubmit.The
-  submit button for adsense is not working or it is home this is
 lang: en
 photos:
   - https://3.bp.blogspot.com/-JdPb9Jp1xSk/WODgW427ETI/AAAAAAAADb4/zLz2WLm7lfs3S-7d2itu2hJ3-slbN6esACLcB/s1600/adsense-1.png
-subtitle: AdSense brings me back to the beginning every time I clickSubmit.The
-  submit button for adsense is not working or it is home this is
 tags:
   - adsense
 thumbnail: https://3.bp.blogspot.com/-JdPb9Jp1xSk/WODgW427ETI/AAAAAAAADb4/zLz2WLm7lfs3S-7d2itu2hJ3-slbN6esACLcB/s1600/adsense-1.png

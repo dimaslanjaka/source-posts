@@ -10,13 +10,9 @@ cover: https://www.webmanajemen.com/assets/img/javascript.png
 date: 2019-07-25T23:09:00.001+07:00
 description: See the Pen Bootstrap progress bar countdown by dimas lanjaka
   @dimaslanjaka on CodePen.
-excerpt: See the Pen Bootstrap progress bar countdown by dimas lanjaka
-  @dimaslanjaka on CodePen.
 lang: en
 photos:
   - https://www.webmanajemen.com/assets/img/javascript.png
-subtitle: See the Pen Bootstrap progress bar countdown by dimas lanjaka
-  @dimaslanjaka on CodePen.
 tags:
   - css
   - js

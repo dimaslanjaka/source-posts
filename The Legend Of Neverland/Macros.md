@@ -7,12 +7,10 @@ comments: true
 cover: https://cdn-www.bluestacks.com/bs-images/BlueStacks_Macros_Banner_EN.jpg
 date: 2021-09-07T00:00:00+07:00
 description: Macros Auto Click Bluestacks for the legend of neverland download
-excerpt: Macros Auto Click Bluestacks for the legend of neverland download
 lang: en
 location: Indonesia
 photos:
   - https://cdn-www.bluestacks.com/bs-images/BlueStacks_Macros_Banner_EN.jpg
-subtitle: Macros Auto Click Bluestacks for the legend of neverland download
 tags:
   - macros
   - bluestack

@@ -8,24 +8,12 @@ categories:
 comments: true
 cover: https://imagizer.imageshack.com/v2/xq90/924/u7hBUr.png
 date: 2021-05-01T17:16:00.006+07:00
-description: "Update Genshin Impact Patch v.1.5.0 - v.1.5.1 Via Download Manager
+description: Update Genshin Impact Patch v.1.5.0 - v.1.5.1 Via Download Manager
   Update Genshin Impact Patch v.1.5.0 - v.1.5.1
-  en-us1.5.01.5.1diffGg3Q5aOK.zipgame1.5.01.5.1diffMF8HJNzT.zipja-jp1.5.01.5.1d\
-  iffP72LxVCa.zipko-kr1.5.01.5.1diff4wMycdN3.zipzh-cn1.5.01.5.1diff2heO3D7V.zip
-  en-us1.5.01.5.1diffGg3Q5aOK.zip "
-excerpt: "Update Genshin Impact Patch v.1.5.0 - v.1.5.1 Via Download Manager
-  Update Genshin Impact Patch v.1.5.0 - v.1.5.1
-  en-us1.5.01.5.1diffGg3Q5aOK.zipgame1.5.01.5.1diffMF8HJNzT.zipja-jp1.5.01.5.1d\
-  iffP72LxVCa.zipko-kr1.5.01.5.1diff4wMycdN3.zipzh-cn1.5.01.5.1diff2heO3D7V.zip
-  en-us1.5.01.5.1diffGg3Q5aOK.zip "
+  en-us1.5.01.5.1diffGg3Q5aOK.zipgame1.5.01.5.1di
 lang: en
 photos:
   - https://imagizer.imageshack.com/v2/xq90/924/u7hBUr.png
-subtitle: "Update Genshin Impact Patch v.1.5.0 - v.1.5.1 Via Download Manager
-  Update Genshin Impact Patch v.1.5.0 - v.1.5.1
-  en-us1.5.01.5.1diffGg3Q5aOK.zipgame1.5.01.5.1diffMF8HJNzT.zipja-jp1.5.01.5.1d\
-  iffP72LxVCa.zipko-kr1.5.01.5.1diff4wMycdN3.zipzh-cn1.5.01.5.1diff2heO3D7V.zip
-  en-us1.5.01.5.1diffGg3Q5aOK.zip "
 tags:
   - genshin impact
   - games

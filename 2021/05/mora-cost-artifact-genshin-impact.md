@@ -10,11 +10,9 @@ comments: true
 cover: /2021/05/mora-cost-artifact-genshin-impact/thumbnail.png
 date: 2021-05-13T20:37:00+07:00
 description: Mora Cost, Rarity Exp Multiplier Chance for upgrading artifact genshin impact
-excerpt: Mora Cost, Rarity Exp Multiplier Chance for upgrading artifact genshin impact
 lang: en
 photos:
   - /2021/05/mora-cost-artifact-genshin-impact/thumbnail.png
-subtitle: Mora Cost, Rarity Exp Multiplier Chance for upgrading artifact genshin impact
 tags:
   - genshin impact
   - games

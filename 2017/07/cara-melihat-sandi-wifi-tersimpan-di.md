@@ -10,13 +10,9 @@ cover: http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2016/
 date: 2017-07-10T16:26:00.001+07:00
 description: Apakah Anda masih menggunakan kata sandi WiFi yang tertulis di
   bagian belakang router yang ISP Anda berikanJika demikian, mungkin
-excerpt: Apakah Anda masih menggunakan kata sandi WiFi yang tertulis di bagian
-  belakang router yang ISP Anda berikanJika demikian, mungkin
 lang: en
 photos:
   - http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2016/03/open-network-sharing-center.png
-subtitle: Apakah Anda masih menggunakan kata sandi WiFi yang tertulis di bagian
-  belakang router yang ISP Anda berikanJika demikian, mungkin
 tags:
   - tips & tricks
 thumbnail: http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2016/03/open-network-sharing-center.png

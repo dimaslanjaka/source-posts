@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/8ed37820e47d6460c2
 date: 2019-12-03T16:12:00.000+07:00
 description: "Download lagu GIGI Keagungan Tuhan Mp3 DENTAL - Gods Majesty
   Listen: 37,204 Duration: 247 MP3 size: 3.86MB Download Links"
-excerpt: "Download lagu GIGI Keagungan Tuhan Mp3 DENTAL - Gods Majesty Listen:
-  37,204 Duration: 247 MP3 size: 3.86MB Download Links"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/8ed37820e47d6460c2d9984b6e8e5efb.jpeg
-subtitle: "Download lagu GIGI Keagungan Tuhan Mp3 DENTAL - Gods Majesty Listen:
-  37,204 Duration: 247 MP3 size: 3.86MB Download Links"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/8ed37820e47d6460c2d9984b6e8e5efb.jpeg

@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2017-10-10T11:41:00.000+07:00
 description: In modern times, technology is developing faster and faster.
   Especially in the field of communication, the Internet has now become the
-excerpt: In modern times, technology is developing faster and faster. Especially
-  in the field of communication, the Internet has now become the
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: In modern times, technology is developing faster and faster.
-  Especially in the field of communication, the Internet has now become the
 tags:
   - tips & tricks
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

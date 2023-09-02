@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/a8da9fcee0cd
 date: 2019-12-13T10:19:00.000+07:00
 description: Ultimate Guide On Facebook Ads For Entrepreneurs Iklan Facebook
   untuk wirausahawan mungkin menjadi solusi untuk masalah pemasaran bisnis
-excerpt: Ultimate Guide On Facebook Ads For Entrepreneurs Iklan Facebook untuk
-  wirausahawan mungkin menjadi solusi untuk masalah pemasaran bisnis
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/a8da9fcee0cd12d606fe9ecaaedc0828.png
-subtitle: Ultimate Guide On Facebook Ads For Entrepreneurs Iklan Facebook untuk
-  wirausahawan mungkin menjadi solusi untuk masalah pemasaran bisnis
 tags:
   - marketing strategies
   - social media

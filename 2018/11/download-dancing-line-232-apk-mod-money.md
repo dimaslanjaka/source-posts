@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2017/dancing-line-1.jpg
 date: 2018-11-27T19:55:00.000+07:00
 description: Dancing Line .3.2 Apk Mod Money android
-excerpt: Dancing Line .3.2 Apk Mod Money android
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2017/dancing-line-1.jpg
-subtitle: Dancing Line .3.2 Apk Mod Money android
 tags:
   - games
   - android

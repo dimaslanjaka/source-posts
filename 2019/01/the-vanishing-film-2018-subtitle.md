@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2019-01-30T00:39:00.000+07:00
 description: Watching the online film The Vanishing 2018 Indonesian subtitles -
   Three lighthouse keepers and uninhabited islands off the coast
-excerpt: Watching the online film The Vanishing 2018 Indonesian subtitles -
-  Three lighthouse keepers and uninhabited islands off the coast
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Watching the online film The Vanishing 2018 Indonesian subtitles -
-  Three lighthouse keepers and uninhabited islands off the coast
 tags:
   - movies
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.c
 date: 2019-09-29T17:56:00.000+07:00
 description: Web Development Indonesia Everyone certainly does not expect the
   downloaded file to be corrupt or corrupt. The downloaded file is
-excerpt: Web Development Indonesia Everyone certainly does not expect the
-  downloaded file to be corrupt or corrupt. The downloaded file is
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.com/wp-content/uploads/2016/04/Corrupt.png
-subtitle: Web Development Indonesia Everyone certainly does not expect the
-  downloaded file to be corrupt or corrupt. The downloaded file is
 tags:
   - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.bagas31.com/wp-content/uploads/2016/04/Corrupt.png

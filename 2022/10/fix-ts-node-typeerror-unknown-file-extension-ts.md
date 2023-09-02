@@ -6,11 +6,9 @@ comments: true
 cover: /2022/10/fix-ts-node-typeerror-unknown-file-extension-ts/cover.png
 date: 2022-10-09T15:04:00+0700
 description: "How to fix TypeError [ERR_UNKNOWN_FILE_EXTENSION]: Unknown file extension .ts"
-excerpt: "How to fix TypeError [ERR_UNKNOWN_FILE_EXTENSION]: Unknown file extension .ts"
 lang: en
 photos:
   - /2022/10/fix-ts-node-typeerror-unknown-file-extension-ts/cover.png
-subtitle: "How to fix TypeError [ERR_UNKNOWN_FILE_EXTENSION]: Unknown file extension .ts"
 tags:
   - ts-node
   - typescript

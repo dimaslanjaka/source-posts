@@ -10,16 +10,10 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2019-10-25T16:46:00.001+07:00
 description: "Fix GTA 5 Stuck at Display Calibration From the PlayStation 3 Home
   Menu, go to Game > Game Data Utility. Note: Make sure you select Game Data
-  Utility. Do not select Saved Data Utility, as"
-excerpt: "Fix GTA 5 Stuck at Display Calibration From the PlayStation 3 Home
-  Menu, go to Game > Game Data Utility. Note: Make sure you select Game Data
-  Utility. Do not select Saved Data Utility, as"
+  Utility. Do not se"
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: "Fix GTA 5 Stuck at Display Calibration From the PlayStation 3 Home
-  Menu, go to Game > Game Data Utility. Note: Make sure you select Game Data
-  Utility. Do not select Saved Data Utility, as"
 tags:
   - games
   - tips & tricks

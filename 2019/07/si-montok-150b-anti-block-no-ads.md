@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot
 date: 2019-07-31T15:43:00.000+07:00
 description: Simontok 5.0b anti blocks tanpa iklanDownload [zippyshare]Si
   montokno adstanpa iklanmodanti block15.0b
-excerpt: Simontok 5.0b anti blocks tanpa iklanDownload [zippyshare]Si montokno
-  adstanpa iklanmodanti block15.0b
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot.com/-KpglWEBljLY/XMevpDPyhkI/AAAAAAAABZw/iCCyiwjIMOsP_geq81zpicf0nm_zceNdgCEwYBhgL/w585/simontok.jpg
-subtitle: Simontok 5.0b anti blocks tanpa iklanDownload [zippyshare]Si montokno
-  adstanpa iklanmodanti block15.0b
 tags:
   - android
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot.com/-KpglWEBljLY/XMevpDPyhkI/AAAAAAAABZw/iCCyiwjIMOsP_geq81zpicf0nm_zceNdgCEwYBhgL/w585/simontok.jpg

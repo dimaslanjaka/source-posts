@@ -10,22 +10,10 @@ cover: https://www.dropbox.com/s320/5w9n86434703syx/unnamed (4).png?dl=1
 date: 2017-08-01T16:48:00.000+07:00
 description: Cara membuat link tertentu atau semua link menjadi adf.ly tanpa
   menggunakan full page script Taruh kode nya di sebelum </body> tag </body>
-  <script type=text/javascript
-  src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js></script><script
-  type=text/javascript>var adfly_id = 9
-excerpt: Cara membuat link tertentu atau semua link menjadi adf.ly tanpa
-  menggunakan full page script Taruh kode nya di sebelum </body> tag </body>
-  <script type=text/javascript
-  src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js></script><script
-  type=text/javascript>var adfly_id = 9
+  <script type=text/jav
 lang: en
 photos:
   - https://www.dropbox.com/s320/5w9n86434703syx/unnamed (4).png?dl=1
-subtitle: Cara membuat link tertentu atau semua link menjadi adf.ly tanpa
-  menggunakan full page script Taruh kode nya di sebelum </body> tag </body>
-  <script type=text/javascript
-  src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js></script><script
-  type=text/javascript>var adfly_id = 9
 tags:
   - js
   - tips & tricks

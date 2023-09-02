@@ -10,13 +10,9 @@ cover: http://www.larnr.com/wp-content/uploads/2015/05/resize-crop-1024x535.jpg
 date: 2017-05-25T06:52:00.000+07:00
 description: When we have a tendency to visit the gallery page of an internet
   site we primarily see there area unit varieties of image for a selected
-excerpt: When we have a tendency to visit the gallery page of an internet site
-  we primarily see there area unit varieties of image for a selected
 lang: en
 photos:
   - http://www.larnr.com/wp-content/uploads/2015/05/resize-crop-1024x535.jpg
-subtitle: When we have a tendency to visit the gallery page of an internet site
-  we primarily see there area unit varieties of image for a selected
 tags:
   - html
   - blogging

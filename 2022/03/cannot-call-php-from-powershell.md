@@ -6,11 +6,9 @@ comments: true
 cover: https://res.cloudinary.com/practicaldev/image/fetch/https://windowstect.com/wp-content/uploads/2021/05/image-80.png
 date: 2022-03-27T01:30:00+0700
 description: fix php environtment path for powershell
-excerpt: fix php environtment path for powershell
 lang: en
 photos:
   - https://res.cloudinary.com/practicaldev/image/fetch/https://windowstect.com/wp-content/uploads/2021/05/image-80.png
-subtitle: fix php environtment path for powershell
 tags:
   - powershell
 thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/https://windowstect.com/wp-content/uploads/2021/05/image-80.png

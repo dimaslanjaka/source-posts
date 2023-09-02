@@ -10,13 +10,9 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_availa
 date: 2019-01-27T00:42:00.000+07:00
 description: Watch a Love Letter Film For Starla The Movie 2017 Indonesian
   Subtitles - Hema loves nature so much. He wrote love letter to
-excerpt: Watch a Love Letter Film For Starla The Movie 2017 Indonesian Subtitles
-  - Hema loves nature so much. He wrote love letter to
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Watch a Love Letter Film For Starla The Movie 2017 Indonesian
-  Subtitles - Hema loves nature so much. He wrote love letter to
 tags:
   - movies
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

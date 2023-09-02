@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/6b063537c79ace6e
 date: 2019-12-07T00:55:00.000+07:00
 description: Change Map Position to GTA SA PC Mod V Download Jika Anda ingin
   mengubah posisi radar di GTA San Andreas Mobile, instal mod ini. Mod
-excerpt: Change Map Position to GTA SA PC Mod V Download Jika Anda ingin
-  mengubah posisi radar di GTA San Andreas Mobile, instal mod ini. Mod
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/6b063537c79ace6e9123dd35249248fa.jpeg
-subtitle: Change Map Position to GTA SA PC Mod V Download Jika Anda ingin
-  mengubah posisi radar di GTA San Andreas Mobile, instal mod ini. Mod
 tags:
   - games
   - android

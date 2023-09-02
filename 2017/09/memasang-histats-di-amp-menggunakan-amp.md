@@ -10,13 +10,9 @@ cover: https://2.bp.blogspot.com/-jSLiOZsuahQ/WaRcT-NMI4I/AAAAAAAAACI/vjuid9-u-h
 date: 2017-09-14T01:20:00.000+07:00
 description: Komponen amppixel berperilaku seperti img img gambar sederhana.
   Dibutuhkan satu URL saja, namun memberikan variabel yang bisa digantikan
-excerpt: Komponen amppixel berperilaku seperti img img gambar sederhana.
-  Dibutuhkan satu URL saja, namun memberikan variabel yang bisa digantikan
 lang: en
 photos:
   - https://2.bp.blogspot.com/-jSLiOZsuahQ/WaRcT-NMI4I/AAAAAAAAACI/vjuid9-u-hE4pT43zsx0XxoytpjWj5HdACLcBGAs/s320/histats-2.jpg
-subtitle: Komponen amppixel berperilaku seperti img img gambar sederhana.
-  Dibutuhkan satu URL saja, namun memberikan variabel yang bisa digantikan
 tags:
   - html
   - amp

@@ -10,13 +10,9 @@ cover: https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2019/11/dewaweb-blog-per
 date: 2019-12-16T10:28:00.000+07:00
 description: Perlukah Kamu Menggunakan Domain XYZ Have you ever heard of the XYZ
   domain name? Some of you may be unfamiliar or have never even
-excerpt: Perlukah Kamu Menggunakan Domain XYZ Have you ever heard of the XYZ
-  domain name? Some of you may be unfamiliar or have never even
 lang: en
 photos:
   - https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2019/11/dewaweb-blog-perlukah-kamu-menggunakan-domain-xyz-696x411.png
-subtitle: Perlukah Kamu Menggunakan Domain XYZ Have you ever heard of the XYZ
-  domain name? Some of you may be unfamiliar or have never even
 tags:
   - tips & tricks
 thumbnail: https://dwblog-ecdf.kxcdn.com/wp-content/uploads/2019/11/dewaweb-blog-perlukah-kamu-menggunakan-domain-xyz-696x411.png

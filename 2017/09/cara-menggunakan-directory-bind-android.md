@@ -10,20 +10,10 @@ cover: https://imgdb.net/images/3180.jpg
 date: 2017-09-04T16:07:00.000+07:00
 description: "Cara menggunakan Directory Bind Android Binding directories
   directory binder data on android. -> Tutorial cara menggunakan Directory bind
-  di android Steps: Binding folder data game Install Aplikasi directory bind
-  ->Download DisiniPergi ke pengaturan aplikasiUbah jalur data default Default
-  Da"
-excerpt: "Cara menggunakan Directory Bind Android Binding directories directory
-  binder data on android. -> Tutorial cara menggunakan Directory bind di android
-  Steps: Binding folder data game Install Aplikasi directory bind ->Download
-  DisiniPergi ke pengaturan aplikasiUbah jalur data default Default Da"
+  di android Steps: Bind"
 lang: en
 photos:
   - https://imgdb.net/images/3180.jpg
-subtitle: "Cara menggunakan Directory Bind Android Binding directories directory
-  binder data on android. -> Tutorial cara menggunakan Directory bind di android
-  Steps: Binding folder data game Install Aplikasi directory bind ->Download
-  DisiniPergi ke pengaturan aplikasiUbah jalur data default Default Da"
 tags:
   - android
   - tips & tricks

@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://img.youtube.c
 date: 2019-11-24T23:38:00.001+07:00
 description: "Download lagu Payung Teduh Akad Mp3 Payung Teduh - Akad Listen:
   95,959,433 Duration: 257 MP3 size: 4.02MB Download Links"
-excerpt: "Download lagu Payung Teduh Akad Mp3 Payung Teduh - Akad Listen:
-  95,959,433 Duration: 257 MP3 size: 4.02MB Download Links"
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://img.youtube.com/vi/viW0M5R2BLo/hqdefault.jpg
-subtitle: "Download lagu Payung Teduh Akad Mp3 Payung Teduh - Akad Listen:
-  95,959,433 Duration: 257 MP3 size: 4.02MB Download Links"
 tags:
   - musics
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://img.youtube.com/vi/viW0M5R2BLo/hqdefault.jpg

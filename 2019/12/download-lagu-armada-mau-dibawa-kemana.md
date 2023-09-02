@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/b27af05cd0e2a7268d
 date: 2019-12-02T07:06:00.001+07:00
 description: "Download lagu Armada Mau Dibawa Kemana Mp3 Fleet - Where to Be
   Taken Listen: 6,863,502 Duration: 233 MP3 size: 3.64MB Download"
-excerpt: "Download lagu Armada Mau Dibawa Kemana Mp3 Fleet - Where to Be Taken
-  Listen: 6,863,502 Duration: 233 MP3 size: 3.64MB Download"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/b27af05cd0e2a7268d21e8ea0f9f1579.jpeg
-subtitle: "Download lagu Armada Mau Dibawa Kemana Mp3 Fleet - Where to Be Taken
-  Listen: 6,863,502 Duration: 233 MP3 size: 3.64MB Download"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/b27af05cd0e2a7268d21e8ea0f9f1579.jpeg

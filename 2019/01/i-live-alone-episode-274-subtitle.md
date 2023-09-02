@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://t7j2r8j8.stac
 date: 2019-01-05T18:37:00.000+07:00
 description: I Live Alone I Live Alone is recognized as one of the RealVariety
   shows in Korean television. The program is unscripted using
-excerpt: I Live Alone I Live Alone is recognized as one of the RealVariety shows
-  in Korean television. The program is unscripted using
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://t7j2r8j8.stackpathcdn.com/wp-content/uploads/2018/03/Download-I-Live-Alone.jpg
-subtitle: I Live Alone I Live Alone is recognized as one of the RealVariety
-  shows in Korean television. The program is unscripted using
 tags:
   - movies
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://t7j2r8j8.stackpathcdn.com/wp-content/uploads/2018/03/Download-I-Live-Alone.jpg

@@ -9,12 +9,10 @@ comments: true
 cover: https://i.ytimg.com/vi/2X152P2goVs/maxresdefault.jpg
 date: 2021-08-17T00:00:00+07:00
 description: Expel Incident With The Highest Fairies Exp And Crystals Rewards.
-excerpt: Expel Incident With The Highest Fairies Exp And Crystals Rewards.
 lang: en
 location: Indonesia
 photos:
   - https://i.ytimg.com/vi/2X152P2goVs/maxresdefault.jpg
-subtitle: Expel Incident With The Highest Fairies Exp And Crystals Rewards.
 tags:
   - quest
 thumbnail: https://i.ytimg.com/vi/2X152P2goVs/maxresdefault.jpg

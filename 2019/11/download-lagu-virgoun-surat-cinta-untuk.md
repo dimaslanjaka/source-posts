@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/4b9cf896cbfc02bf3b
 date: 2019-11-30T22:46:00.001+07:00
 description: "Download lagu Virgoun Surat Cinta Untuk Starla Mp3 Virgoun - Love
   Letter For Starla Listen: 289,774,976 Duration: 274 MP3 size:"
-excerpt: "Download lagu Virgoun Surat Cinta Untuk Starla Mp3 Virgoun - Love
-  Letter For Starla Listen: 289,774,976 Duration: 274 MP3 size:"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/4b9cf896cbfc02bf3b9b386b3f40f58d.jpeg
-subtitle: "Download lagu Virgoun Surat Cinta Untuk Starla Mp3 Virgoun - Love
-  Letter For Starla Listen: 289,774,976 Duration: 274 MP3 size:"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/4b9cf896cbfc02bf3b9b386b3f40f58d.jpeg

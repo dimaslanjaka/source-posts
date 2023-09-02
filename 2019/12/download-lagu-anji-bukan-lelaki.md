@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/img.youtube.com/297a479a2ab0666f03
 date: 2019-12-02T06:20:00.001+07:00
 description: "Download lagu Anji Bukan Lelaki Sempurna Mp3 Anji - Not a Perfect
   Man Listen: 549,703 Duration: 270 MP3 size: 4.22MB Download"
-excerpt: "Download lagu Anji Bukan Lelaki Sempurna Mp3 Anji - Not a Perfect Man
-  Listen: 549,703 Duration: 270 MP3 size: 4.22MB Download"
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/img.youtube.com/297a479a2ab0666f03b1a4b768a4e9a3.jpeg
-subtitle: "Download lagu Anji Bukan Lelaki Sempurna Mp3 Anji - Not a Perfect Man
-  Listen: 549,703 Duration: 270 MP3 size: 4.22MB Download"
 tags:
   - musics
 thumbnail: https://imgcdn.000webhostapp.com/https/img.youtube.com/297a479a2ab0666f03b1a4b768a4e9a3.jpeg

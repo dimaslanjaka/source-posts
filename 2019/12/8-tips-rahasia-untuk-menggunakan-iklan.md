@@ -10,13 +10,9 @@ cover: https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/670f120afdd7
 date: 2019-12-07T03:52:00.001+07:00
 description: Secret Tips For Using Facebook Ads For Ecommerce Sebagai jaringan
   media sosial terbesar, Facebook adalah platform yang sangat baik untuk
-excerpt: Secret Tips For Using Facebook Ads For Ecommerce Sebagai jaringan media
-  sosial terbesar, Facebook adalah platform yang sangat baik untuk
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/www.lyfemarketing.com/670f120afdd78209155b405b071116c2.png
-subtitle: Secret Tips For Using Facebook Ads For Ecommerce Sebagai jaringan
-  media sosial terbesar, Facebook adalah platform yang sangat baik untuk
 tags:
   - marketing strategies
   - tips & tricks

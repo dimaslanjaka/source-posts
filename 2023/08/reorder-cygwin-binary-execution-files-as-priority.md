@@ -1,44 +1,13 @@
 ---
+author: Dimas Lanjaka
 categories:
   - programming
 comments: true
 date: 2023-08-24T18:00:39+07:00
-description: >-
-  How to reorder cygwin binary execution files as first priority Script header
-  bash to reorder cygwin binary execution files as priority #!/usr/bin/env bash
-
-
-  # install variant debug and start activity
-
-
-  (set -o igncr) 2>/dev/null && set -o igncr; # cygwin encoding fix
-
-
-  # absolute path working directory
-excerpt: >-
-  How to reorder cygwin binary execution files as first priority Script header
-  bash to reorder cygwin binary execution files as priority #!/usr/bin/env bash
-
-
-  # install variant debug and start activity
-
-
-  (set -o igncr) 2>/dev/null && set -o igncr; # cygwin encoding fix
-
-
-  # absolute path working directory
-subtitle: >-
-  How to reorder cygwin binary execution files as first priority Script header
-  bash to reorder cygwin binary execution files as priority #!/usr/bin/env bash
-
-
-  # install variant debug and start activity
-
-
-  (set -o igncr) 2>/dev/null && set -o igncr; # cygwin encoding fix
-
-
-  # absolute path working directory
+description: How to reorder cygwin binary execution files as first priority
+  Script header bash to reorder cygwin binary execution files as priority
+  /usr/bin/env bash install
+lang: en
 tags:
   - bash
 title: How to reorder cygwin binary execution files as first priority

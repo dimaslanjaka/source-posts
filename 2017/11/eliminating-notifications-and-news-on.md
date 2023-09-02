@@ -10,19 +10,10 @@ cover: https://4.bp.blogspot.com/-_kPiHEMi_LM/WhKCYvQz_uI/AAAAAAAALBY/XQhQggOobw
 date: 2017-11-22T23:28:00.000+07:00
 description: Eliminating Notifications and News on UCBROWSER Open UC Browser
   Settings Open UC Browser Settings Change Tab View to Lists Change Tab View to
-  Lists Preload Page On All Pages Preload Page On All Pages Turn Off All
-  Notification Turn Off All Notification COMPLETE
-excerpt: Eliminating Notifications and News on UCBROWSER Open UC Browser
-  Settings Open UC Browser Settings Change Tab View to Lists Change Tab View to
-  Lists Preload Page On All Pages Preload Page On All Pages Turn Off All
-  Notification Turn Off All Notification COMPLETE
+  Lists Preload Page
 lang: en
 photos:
   - https://4.bp.blogspot.com/-_kPiHEMi_LM/WhKCYvQz_uI/AAAAAAAALBY/XQhQggOobwQe8koB_YqLft3FeLj9jp8xgCEwYBhgL/s320/Screenshot_2017-11-20-15-17-10-330_com.UCMobile.intl.png
-subtitle: Eliminating Notifications and News on UCBROWSER Open UC Browser
-  Settings Open UC Browser Settings Change Tab View to Lists Change Tab View to
-  Lists Preload Page On All Pages Preload Page On All Pages Turn Off All
-  Notification Turn Off All Notification COMPLETE
 tags:
   - tips & tricks
 thumbnail: https://4.bp.blogspot.com/-_kPiHEMi_LM/WhKCYvQz_uI/AAAAAAAALBY/XQhQggOobwQe8koB_YqLft3FeLj9jp8xgCEwYBhgL/s320/Screenshot_2017-11-20-15-17-10-330_com.UCMobile.intl.png

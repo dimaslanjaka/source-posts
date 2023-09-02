@@ -9,11 +9,9 @@ comments: true
 cover: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamjZSRo4NecDhkcMeytN2DOKXp_ZIaEw4c_3Cm8nFUsPJqU-Tgw
 date: 2017-07-26T23:52:00.000+07:00
 description: Untuk Tanggal xx:xx:xxxx merupakan valid serial key tersebut
-excerpt: Untuk Tanggal xx:xx:xxxx merupakan valid serial key tersebut
 lang: en
 photos:
   - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamjZSRo4NecDhkcMeytN2DOKXp_ZIaEw4c_3Cm8nFUsPJqU-Tgw
-subtitle: Untuk Tanggal xx:xx:xxxx merupakan valid serial key tersebut
 tags:
   - tips & tricks
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRamjZSRo4NecDhkcMeytN2DOKXp_ZIaEw4c_3Cm8nFUsPJqU-Tgw

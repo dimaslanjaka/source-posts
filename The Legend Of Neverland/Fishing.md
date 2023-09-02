@@ -9,12 +9,10 @@ comments: true
 cover: /The Legend Of Neverland/Fishing/Studio_Project.jpeg
 date: 2021-09-19T00:00:00+07:00
 description: Macros Auto Fishing Bluestacks for the legend of neverland download
-excerpt: Macros Auto Fishing Bluestacks for the legend of neverland download
 lang: en
 location: Indonesia
 photos:
   - /The Legend Of Neverland/Fishing/Studio_Project.jpeg
-subtitle: Macros Auto Fishing Bluestacks for the legend of neverland download
 tags:
   - macros
   - bluestacks

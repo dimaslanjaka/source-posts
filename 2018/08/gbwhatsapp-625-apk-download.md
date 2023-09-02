@@ -9,11 +9,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://image.rexdl.com/android/app/GBWhatsApp.jpg
 date: 2018-08-01T02:33:00.000+07:00
 description: GBWhatsApp WhatsApp Mod [Dual WhatsApp dalam Satu Ponsel]
-excerpt: GBWhatsApp WhatsApp Mod [Dual WhatsApp dalam Satu Ponsel]
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://image.rexdl.com/android/app/GBWhatsApp.jpg
-subtitle: GBWhatsApp WhatsApp Mod [Dual WhatsApp dalam Satu Ponsel]
 tags:
   - android
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://image.rexdl.com/android/app/GBWhatsApp.jpg

@@ -10,13 +10,9 @@ cover: https://www.dropbox.com/s/nmlirhi6f5ktcha/Screenshot_2017-07-25-10-07-04-
 date: 2017-07-25T10:10:00.001+07:00
 description: Hei Guys, seperti yang Anda tahu kanonik mematikan Ubuntu One Cloud
   Storagenya jadi saya mencari situs berbagi file alternatif yang
-excerpt: Hei Guys, seperti yang Anda tahu kanonik mematikan Ubuntu One Cloud
-  Storagenya jadi saya mencari situs berbagi file alternatif yang
 lang: en
 photos:
   - https://www.dropbox.com/s/nmlirhi6f5ktcha/Screenshot_2017-07-25-10-07-04-237_com.android.chrome.png?dl=1
-subtitle: Hei Guys, seperti yang Anda tahu kanonik mematikan Ubuntu One Cloud
-  Storagenya jadi saya mencari situs berbagi file alternatif yang
 tags:
   - tips & tricks
 thumbnail: https://www.dropbox.com/s/nmlirhi6f5ktcha/Screenshot_2017-07-25-10-07-04-237_com.android.chrome.png?dl=1

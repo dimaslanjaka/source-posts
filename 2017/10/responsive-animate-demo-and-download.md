@@ -9,11 +9,9 @@ comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-10-08T21:54:00.000+07:00
 description: Here the Demo
-excerpt: Here the Demo
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Here the Demo
 tags:
   - css
   - html

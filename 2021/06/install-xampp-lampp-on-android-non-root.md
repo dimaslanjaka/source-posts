@@ -10,13 +10,9 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/
 date: 2021-06-02T20:52:00.004+07:00
 description: php apache setup on android with Termux without root Download
   Termux allow installation from unknwon sources and
-excerpt: php apache setup on android with Termux without root Download Termux
-  allow installation from unknwon sources and
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/blog/wp-content/uploads/2018/11/Configuraci%C3%B3n-httpd-en-termux-Android.jpg
-subtitle: php apache setup on android with Termux without root Download Termux
-  allow installation from unknwon sources and
 tags:
   - php
   - android

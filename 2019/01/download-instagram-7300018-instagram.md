@@ -10,11 +10,9 @@ comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2017/instagram-1.png
 date: 2019-01-25T00:28:00.000+07:00
 description: Instagram 3.0.0.0.18 Instagram Plus OGInsta Mod GB Insta Apk
-excerpt: Instagram 3.0.0.0.18 Instagram Plus OGInsta Mod GB Insta Apk
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://image.revdl.com/2017/instagram-1.png
-subtitle: Instagram 3.0.0.0.18 Instagram Plus OGInsta Mod GB Insta Apk
 tags:
   - social media
   - android

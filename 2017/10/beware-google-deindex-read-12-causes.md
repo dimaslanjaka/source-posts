@@ -10,19 +10,10 @@ cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot
 date: 2017-10-02T02:59:00.000+07:00
 description: Beware Google DeIndex Read the 12 Causes and Solutions Here The
   solutions and causes of Google deindex.Ever felt hit deindex? One of the blogs
-  that I manage, had experienced it.Getting blogs netted deindexed is terrible.
-  Although only one violation you committed, the fact is Google will wipe your e
-excerpt: Beware Google DeIndex Read the 12 Causes and Solutions Here The
-  solutions and causes of Google deindex.Ever felt hit deindex? One of the blogs
-  that I manage, had experienced it.Getting blogs netted deindexed is terrible.
-  Although only one violation you committed, the fact is Google will wipe your e
+  that I manage, ha
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://1.bp.blogspot.com/-KGl-2bvcaKg/WFA0coka7kI/AAAAAAAAAbU/k-WH1u1o7vUZgxvSTWzOzRnrYEPAS6VdwCLcB/s1600/penyebab-dan-cara-mengatasi-deindex-google.jpg
-subtitle: Beware Google DeIndex Read the 12 Causes and Solutions Here The
-  solutions and causes of Google deindex.Ever felt hit deindex? One of the blogs
-  that I manage, had experienced it.Getting blogs netted deindexed is terrible.
-  Although only one violation you committed, the fact is Google will wipe your e
 tags:
   - seo
   - tips & tricks
