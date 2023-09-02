@@ -1,34 +1,22 @@
 ---
 author: Dimas Lanjaka
 categories:
-  - js
-  - ts
+  - programming
 comments: true
 cover: /NodeJS/assets/pngwing.com.png
 date: 2022-11-03T09:39:01+07:00
-description: "Array JSX Join Faq How to join array of JSXHow to array join of
-  React Elements How to join array of JSX How to array join of React Elements
-  JSX Array Join Javascript Function function jsxJoinarray, separator return
-  array.length > 0 ? array.reduceresult, item => <> "
-excerpt: "Array JSX Join Faq How to join array of JSXHow to array join of React
-  Elements How to join array of JSX How to array join of React Elements JSX
-  Array Join Javascript Function function jsxJoinarray, separator return
-  array.length > 0 ? array.reduceresult, item => <> "
+description: "Array JSX Join Faq How to join array of JSXHow to array join of React Elements How to join array of JSX How to array join of React Elements JSX Array Join Javascript Function function jsxJoinarray, separator return array.length > 0 ? array.reduceresult, item => <> "
 lang: en
 photos:
   - /NodeJS/assets/pngwing.com.png
-subtitle: "Array JSX Join Faq How to join array of JSXHow to array join of React
-  Elements How to join array of JSX How to array join of React Elements JSX
-  Array Join Javascript Function function jsxJoinarray, separator return
-  array.length > 0 ? array.reduceresult, item => <> "
 tags:
   - snippet
-  - js
-  - ts
+  - javascript
+  - typescript
 thumbnail: /NodeJS/assets/pngwing.com.png
 title: Array JSX Join
 type: post
-updated: 2023-08-08T14:44:21+07:00
+updated: 2023-09-02T21:09:42.819Z
 webtitle: Snippet
 wordcount: 536
 ---

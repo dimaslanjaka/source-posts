@@ -1,8 +1,7 @@
 ---
 author: Dimas Lanjaka
 categories:
-  - js
-  - ts
+  - programming
 comments: true
 cover: /NodeJS/assets/pngwing.com.png
 date: 2022-12-30T14:14:39+07:00
@@ -20,7 +19,7 @@ tags:
 thumbnail: /NodeJS/assets/pngwing.com.png
 title: File to Hash
 type: post
-updated: 2023-08-08T14:44:21+07:00
+updated: 2023-09-02T21:10:16.443Z
 webtitle: NodeJS Snippet
 wordcount: 280
 ---

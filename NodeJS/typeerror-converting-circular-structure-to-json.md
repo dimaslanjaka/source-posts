@@ -1,27 +1,15 @@
 ---
 author: Dimas Lanjaka
 categories:
-  - programming
   - js
-  - ts
+  - programming
 comments: true
 cover: https://i.stack.imgur.com/YFTWJ.png
 date: 2022-10-24T16:02:58+07:00
-description: "TypeError Converting circular structure to JSON TypeError:
-  Converting circular structure to JSON produce errors like below TypeError:
-  Converting circular structure to JSON --> starting at object with constructor
-  _Document property tags -> object with constructor _Query "
-excerpt: "TypeError Converting circular structure to JSON TypeError: Converting
-  circular structure to JSON produce errors like below TypeError: Converting
-  circular structure to JSON --> starting at object with constructor _Document
-  property tags -> object with constructor _Query "
+description: "TypeError Converting circular structure to JSON TypeError: Converting circular structure to JSON produce errors like below TypeError: Converting circular structure to JSON --> starting at object with constructor _Document property tags -> object with constructor _Query"
 lang: en
 photos:
   - https://i.stack.imgur.com/YFTWJ.png
-subtitle: "TypeError Converting circular structure to JSON TypeError: Converting
-  circular structure to JSON produce errors like below TypeError: Converting
-  circular structure to JSON --> starting at object with constructor _Document
-  property tags -> object with constructor _Query "
 tags:
   - javascript
   - typescript
@@ -29,7 +17,7 @@ tags:
 thumbnail: https://i.stack.imgur.com/YFTWJ.png
 title: TypeError Converting circular structure to JSON
 type: post
-updated: 2023-08-08T14:44:14+07:00
+updated: 2023-09-02T21:06:04.019Z
 wordcount: 1199
 ---
 

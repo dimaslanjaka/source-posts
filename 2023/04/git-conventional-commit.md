@@ -2,9 +2,6 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - shell
-  - bash
-  - cmd
 comments: true
 date: 2023-04-24T23:19:05+07:00
 description: Github Conventional Commit Messages
@@ -14,9 +11,12 @@ photos: []
 subtitle: Github Conventional Commit Messages
 tags:
   - github
+  - shell
+  - bash
+  - cmd
 title: Conventional Commit Messages
 type: post
-updated: 2023-08-08T14:45:08+07:00
+updated: 2023-09-02T21:07:53.459Z
 wordcount: 2590
 ---
 

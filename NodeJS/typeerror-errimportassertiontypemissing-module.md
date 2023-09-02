@@ -2,34 +2,21 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - ts
-  - js
 comments: true
 cover: https://bobbyhadz.com/images/blog/node-type-error-err-import-assertion-type-missing/typeerror-err-import-assertion-type-missing.webp
 date: 2022-10-29T11:21:14+07:00
-description: "TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix How to
-  fix TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module Example import
-  import countryTable from ./data/countries.json; Fix import by import
-  countryTable from ./data/countries.json assert type: json ; Proposed by
-  https://gith"
-excerpt: "TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix How to fix
-  TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module Example import import
-  countryTable from ./data/countries.json; Fix import by import countryTable
-  from ./data/countries.json assert type: json ; Proposed by https://gith"
+description: "TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix How to fix TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module Example import import countryTable from ./data/countries.json; Fix import by import countryTable from ./data/countries.json assert type: json ; Proposed by https://gith"
 lang: en
 photos:
   - https://bobbyhadz.com/images/blog/node-type-error-err-import-assertion-type-missing/typeerror-err-import-assertion-type-missing.webp
-subtitle: "TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix How to fix
-  TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module Example import import
-  countryTable from ./data/countries.json; Fix import by import countryTable
-  from ./data/countries.json assert type: json ; Proposed by https://gith"
 tags:
   - typescript
   - typeerror
+  - javascript
 thumbnail: https://bobbyhadz.com/images/blog/node-type-error-err-import-assertion-type-missing/typeerror-err-import-assertion-type-missing.webp
 title: TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix
 type: post
-updated: 2023-08-08T14:44:14+07:00
+updated: 2023-09-02T21:09:09.395Z
 wordcount: 620
 ---
 
