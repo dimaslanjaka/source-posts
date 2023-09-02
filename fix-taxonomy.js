@@ -77,6 +77,35 @@ getPosts().each(async (file) => {
         save = true
       }
 
+      // assign to programming by tags substring
+      if (
+        tags.some((str) =>
+          [
+            'js',
+            'ts',
+            'javascript',
+            'typescript',
+            'css',
+            'html',
+            'php',
+            'java',
+            'kotlin',
+            'gradle'
+          ].includes(str)
+        ) &&
+        !categories.includes('programming')
+      ) {
+        post.metadata.categories = post.metadata.categories
+          .concat('programming')
+          // remove uncategorized
+          .filter((str) => str !== 'uncategorized')
+          // remove duplicates
+          .filter(function (value, index, array) {
+            return array.indexOf(value) === index
+          })
+        save = true
+      }
+
       // remove unused/duplicate meta
       if (post.metadata.excerpt && post.metadata.description)
         delete post.metadata.excerpt
