@@ -1,6 +1,6 @@
-const glob = require('glob');
-const { path } = require('sbg-utility');
-const bluebird = require('bluebird');
+const glob = require('glob')
+const { path } = require('sbg-utility')
+const bluebird = require('bluebird')
 
 function getPosts() {
   return bluebird
@@ -11,7 +11,7 @@ function getPosts() {
         cwd: path.join(__dirname, '..')
       })
     )
-    .map((str) => path.toUnix(str));
+    .map((str) => path.toUnix(str))
 }
 
-module.exports = { getPosts };
+module.exports = { getPosts }
