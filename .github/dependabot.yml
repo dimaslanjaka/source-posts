@@ -27,8 +27,8 @@ updates:
   #    schedule:
   #      interval: 'weekly'
 
-  - package-ecosystem: 'gitsubmodule'
-    target-branch: 'master'
-    schedule:
-      interval: 'monthly'
-    directory: /
+#  - package-ecosystem: 'gitsubmodule'
+#    target-branch: 'master'
+#    schedule:
+#      interval: 'monthly'
+#    directory: /
