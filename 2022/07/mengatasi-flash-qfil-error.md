@@ -1,7 +1,7 @@
 ---
 author: Dimas Lanjaka
 categories:
-  - uncategorized
+  - flashing
 comments: true
 cover: /2022/07/mengatasi-flash-qfil-error/cover.jpg
 date: 2022-07-28
@@ -11,11 +11,11 @@ lang: en
 photos:
   - /2022/07/mengatasi-flash-qfil-error/cover.jpg
 subtitle: Solusi Flash QFIL Error
-tags: []
+tags: [qfil, firmware]
 thumbnail: /2022/07/mengatasi-flash-qfil-error/cover.jpg
 title: Cara Mengatasi Flash QFIL Error
 type: post
-updated: 2023-08-25T07:13:51+07:00
+updated: 2023-09-02T22:03:14.245Z
 wordcount: 1450
 ---
 
