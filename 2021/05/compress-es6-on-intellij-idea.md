@@ -13,13 +13,13 @@ lang: en
 photos:
   - https://i.ibb.co/024Dzwh/Screenshot-1.png
 tags:
-  - js
+  - javascript
   - tips & tricks
   - ide
 thumbnail: https://i.ibb.co/024Dzwh/Screenshot-1.png
 title: Compress ES6 In Intellij IDEA
 type: post
-updated: 2023-08-08T14:45:11+07:00
+updated: 2023-09-03T06:34:30+07:00
 webtitle: Intellij IDEA
 wordcount: 366
 ---

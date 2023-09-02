@@ -16,14 +16,14 @@ photos:
   - http://urlz.fr/6tog
 tags:
   - script
-  - js
+  - javascript
   - blogger
   - miscellaneous
   - tips & tricks
 thumbnail: http://urlz.fr/6tog
 title: Easy Way of Adding Pin It Buttons in Images
 type: post
-updated: 2023-08-08T14:45:42+07:00
+updated: 2023-09-03T06:35:03+07:00
 wordcount: 272
 ---
 

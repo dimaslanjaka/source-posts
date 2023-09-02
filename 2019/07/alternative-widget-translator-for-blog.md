@@ -14,12 +14,12 @@ photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://tools.robingood.com/assets/393/1493297085-google-translate-2png.png
 tags:
   - css
-  - js
+  - javascript
   - html
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://tools.robingood.com/assets/393/1493297085-google-translate-2png.png
 title: Alternative Widget Translator for blog
 type: post
-updated: 2023-09-03T06:13:26+07:00
+updated: 2023-09-03T06:34:54+07:00
 wordcount: 1469
 ---
 

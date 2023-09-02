@@ -16,14 +16,14 @@ photos:
   - https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkn6QekHv4y1EKpYAOy9FD3qAngAFoLYAB9faenCIkJi44YFLGAmFBWDa5
 tags:
   - wordpress
-  - js
+  - javascript
   - blogger
   - html
   - blogging
 thumbnail: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkn6QekHv4y1EKpYAOy9FD3qAngAFoLYAB9faenCIkJi44YFLGAmFBWDa5
 title: Defer Loading File CSS untuk Mengurangi Waktu Pemuatan Halaman
 type: post
-updated: 2023-09-03T06:13:43+07:00
+updated: 2023-09-03T06:35:09+07:00
 wordcount: 726
 ---
 

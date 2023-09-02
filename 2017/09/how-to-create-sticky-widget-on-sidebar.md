@@ -14,12 +14,12 @@ photos:
   - https://imgdb.net/images/3192.jpg
 tags:
   - css
-  - js
+  - javascript
   - blogger
 thumbnail: https://imgdb.net/images/3192.jpg
 title: How to create sticky widget on sidebar blogger
 type: post
-updated: 2023-09-03T06:13:41+07:00
+updated: 2023-09-03T06:35:08+07:00
 wordcount: 983
 ---
 

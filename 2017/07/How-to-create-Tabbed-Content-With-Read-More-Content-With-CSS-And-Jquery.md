@@ -15,11 +15,11 @@ photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
   - css
-  - js
+  - javascript
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Selected Substance With Read More Substance With CSS And Jquery
 type: post
-updated: 2023-09-03T06:13:45+07:00
+updated: 2023-09-03T06:35:10+07:00
 wordcount: 1547
 ---
 

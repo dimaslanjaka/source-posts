@@ -15,11 +15,11 @@ photos:
   - https://i.stack.imgur.com/3pgKv.png
 tags:
   - css
-  - js
+  - javascript
 thumbnail: https://i.stack.imgur.com/3pgKv.png
 title: Disable Mouse Dragging CSS JS
 type: post
-updated: 2023-09-03T06:13:24+07:00
+updated: 2023-09-03T06:34:51+07:00
 wordcount: 68
 ---
 

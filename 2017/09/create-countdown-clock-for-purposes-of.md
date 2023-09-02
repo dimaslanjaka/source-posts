@@ -16,13 +16,13 @@ photos:
   - https://1.bp.blogspot.com/-kL99VLzW4Ms/WaRX_4aQlbI/AAAAAAAAAB8/ArrS1QtEfG84W6z8Fj_caMdA-_J9ycrwwCLcBGAs/s320/5bfe82185dce9a2a58dee19d3c102139--status-younique-presenter.jpg
 tags:
   - css
-  - js
+  - javascript
   - html
   - tips & tricks
 thumbnail: https://1.bp.blogspot.com/-kL99VLzW4Ms/WaRX_4aQlbI/AAAAAAAAAB8/ArrS1QtEfG84W6z8Fj_caMdA-_J9ycrwwCLcBGAs/s320/5bfe82185dce9a2a58dee19d3c102139--status-younique-presenter.jpg
 title: Create a Countdown Clock for the purposes of 1 Hour Promo
 type: post
-updated: 2023-09-03T06:30:22+07:00
+updated: 2023-09-03T06:35:08+07:00
 wordcount: 912
 ---
 

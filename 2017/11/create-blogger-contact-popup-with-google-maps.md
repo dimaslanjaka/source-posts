@@ -15,13 +15,13 @@ photos:
   - https://3.bp.blogspot.com/-EhentLplEKQ/WRfMCB4E5EI/AAAAAAAArEc/Lnhdwufv5_UfBY2yXZZEu34LmZ9OMAMoACLcB/s1600/Screenshot_1_1.jpg
 tags:
   - css
-  - js
+  - javascript
   - blogger
   - html
 thumbnail: https://3.bp.blogspot.com/-EhentLplEKQ/WRfMCB4E5EI/AAAAAAAArEc/Lnhdwufv5_UfBY2yXZZEu34LmZ9OMAMoACLcB/s1600/Screenshot_1_1.jpg
 title: How To Create a Blogger Contact Popup Comes With Google Maps
 type: post
-updated: 2023-09-03T06:13:38+07:00
+updated: 2023-09-03T06:35:04+07:00
 wordcount: 3992
 ---
 

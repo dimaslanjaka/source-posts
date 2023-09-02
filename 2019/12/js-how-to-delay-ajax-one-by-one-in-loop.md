@@ -15,12 +15,12 @@ lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://artandlogic.com/wp-content/uploads/2000px-AJAX_logo_by_gengns.svg_.png
 tags:
-  - js
+  - javascript
   - share
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://artandlogic.com/wp-content/uploads/2000px-AJAX_logo_by_gengns.svg_.png
 title: "[JS] How to delay ajax one by one in loop"
 type: post
-updated: 2023-09-03T06:13:16+07:00
+updated: 2023-09-03T06:34:35+07:00
 wordcount: 1094
 ---
 

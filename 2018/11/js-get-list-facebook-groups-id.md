@@ -16,13 +16,13 @@ lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4379.png
 tags:
-  - js
+  - javascript
   - social media
   - facebook
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4379.png
 title: "[JS] Get List Facebook Groups ID"
 type: post
-updated: 2023-09-03T06:13:32+07:00
+updated: 2023-09-03T06:34:59+07:00
 wordcount: 3546
 ---
 

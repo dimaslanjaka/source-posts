@@ -15,11 +15,11 @@ lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://i.imgur.com/FFGsnXd.jpg?1
 tags:
-  - js
+  - javascript
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://i.imgur.com/FFGsnXd.jpg?1
 title: Proxy Gambar dengan Google App Scripts
 type: post
-updated: 2023-08-08T14:45:51+07:00
+updated: 2023-09-03T06:35:10+07:00
 wordcount: 1259
 ---
 

@@ -15,12 +15,12 @@ photos:
   - http://res.cloudinary.com/dimaslanjaka/image/fetch/https://anotherorion.com/wp-content/uploads/2015/05/SafeLinkConverter1.png
 tags:
   - wordpress
-  - js
+  - javascript
   - blogger
 thumbnail: http://res.cloudinary.com/dimaslanjaka/image/fetch/https://anotherorion.com/wp-content/uploads/2015/05/SafeLinkConverter1.png
 title: Update Code Widget Dan Template Untuk Simple Safelink Converter
 type: post
-updated: 2023-08-08T14:45:42+07:00
+updated: 2023-09-03T06:35:03+07:00
 wordcount: 311
 ---
 

@@ -11,14 +11,14 @@ lang: en
 photos:
   - https://i.stack.imgur.com/Xo2sA.png
 tags:
-  - ts
-  - js
+  - typescript
+  - javascript
   - ide
 thumbnail: https://i.stack.imgur.com/Xo2sA.png
 title: disable vscode alert File is a CommonJS module; it may be converted to an
   ES module
 type: post
-updated: 2023-09-03T06:13:09+07:00
+updated: 2023-09-03T06:34:28+07:00
 wordcount: 348
 ---
 

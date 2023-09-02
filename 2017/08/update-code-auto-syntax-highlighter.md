@@ -15,14 +15,14 @@ photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot.com/-gUVjKXD8MMM/WWHz7oK-SxI/AAAAAAAACVc/3uL5_0HdMNkvWyjyIAUcSYpVJIQxmIvnQCLcBGAs/s400/syntax%2Bhighlighting%2Bcode%2Bformatting.png
 tags:
   - wordpress
-  - js
+  - javascript
   - blogger
   - blogging
   - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot.com/-gUVjKXD8MMM/WWHz7oK-SxI/AAAAAAAACVc/3uL5_0HdMNkvWyjyIAUcSYpVJIQxmIvnQCLcBGAs/s400/syntax%2Bhighlighting%2Bcode%2Bformatting.png
 title: Update Code Auto Syntax Highlighter Prettyprint js
 type: post
-updated: 2023-08-08T14:45:48+07:00
+updated: 2023-09-03T06:35:09+07:00
 wordcount: 443
 ---
 

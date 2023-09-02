@@ -14,13 +14,13 @@ lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
-  - js
+  - javascript
   - html
   - social media
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Kode Recommend Dan Comments Facebook Based JavaScript
 type: post
-updated: 2023-09-03T06:13:45+07:00
+updated: 2023-09-03T06:35:10+07:00
 wordcount: 566
 ---
 

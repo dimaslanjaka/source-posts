@@ -11,13 +11,13 @@ photos:
   - /NodeJS/eslint-prettier-typescript-vscode-esm/thumb.png
 tags:
   - nodejs
-  - js
-  - ts
+  - javascript
+  - typescript
   - eslint
 thumbnail: /NodeJS/eslint-prettier-typescript-vscode-esm/thumb.png
 title: Auto format typescript with esm in vscode
 type: post
-updated: 2023-08-08T14:44:15+07:00
+updated: 2023-09-03T06:34:20+07:00
 wordcount: 800
 ---
 

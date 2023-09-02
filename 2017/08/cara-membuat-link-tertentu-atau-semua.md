@@ -15,13 +15,13 @@ lang: en
 photos:
   - https://www.dropbox.com/s320/5w9n86434703syx/unnamed (4).png?dl=1
 tags:
-  - js
+  - javascript
   - tips & tricks
 thumbnail: https://www.dropbox.com/s320/5w9n86434703syx/unnamed (4).png?dl=1
 title: Cara membuat link tertentu atau semua link menjadi adf.ly tanpa
   menggunakan full page script
 type: post
-updated: 2023-08-08T14:45:49+07:00
+updated: 2023-09-03T06:35:09+07:00
 wordcount: 353
 ---
 

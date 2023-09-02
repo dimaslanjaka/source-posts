@@ -16,12 +16,12 @@ photos:
   - https://1.bp.blogspot.com/-JTaqhxiYd1E/WcU1hIQLgxI/AAAAAAAAAHk/sZcV1Nd5gf8nN_sb9B26g69ev9WkebldACLcBGAs/s320/Screenshot_2017-09-22-23-08-01-400_com.android.chrome.png
 tags:
   - css
-  - js
+  - javascript
   - html
 thumbnail: https://1.bp.blogspot.com/-JTaqhxiYd1E/WcU1hIQLgxI/AAAAAAAAAHk/sZcV1Nd5gf8nN_sb9B26g69ev9WkebldACLcBGAs/s320/Screenshot_2017-09-22-23-08-01-400_com.android.chrome.png
 title: FontAwesome CSS3 Text Animation
 type: post
-updated: 2023-09-03T06:13:41+07:00
+updated: 2023-09-03T06:35:08+07:00
 wordcount: 1452
 ---
 

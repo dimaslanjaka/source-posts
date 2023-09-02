@@ -16,13 +16,13 @@ photos:
   - https://3.bp.blogspot.com/-J1AEEzKm7nw/WPoyJbtEpbI/AAAAAAAAFKI/QAv38U0jjIstJfVpQtVyDX6lBpgs9WNbACLcB/s320/Screenshot_2017-04-21-23-23-36.jpg
 tags:
   - css
-  - js
+  - javascript
   - blogger
   - html
 thumbnail: https://3.bp.blogspot.com/-J1AEEzKm7nw/WPoyJbtEpbI/AAAAAAAAFKI/QAv38U0jjIstJfVpQtVyDX6lBpgs9WNbACLcB/s320/Screenshot_2017-04-21-23-23-36.jpg
 title: Stylish Full Sitemap Blogger
 type: post
-updated: 2023-09-03T06:13:29+07:00
+updated: 2023-09-03T06:34:56+07:00
 wordcount: 347
 ---
 

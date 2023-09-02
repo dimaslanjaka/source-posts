@@ -13,12 +13,12 @@ lang: en
 photos:
   - https://1.bp.blogspot.com/-v8fRzugmiVw/VvD5ipgRbaI/AAAAAAAADeE/DJPMUJuCNNMi-j7QTh8V6RpfBNlvqf6zw/s600/Script%2BAuto%2BInvite%2BAll%2BFriends%2BTo%2BLike%2BFanpage.%2BTanpa%2BPlugin.png
 tags:
-  - js
+  - javascript
   - social media
 thumbnail: https://1.bp.blogspot.com/-v8fRzugmiVw/VvD5ipgRbaI/AAAAAAAADeE/DJPMUJuCNNMi-j7QTh8V6RpfBNlvqf6zw/s600/Script%2BAuto%2BInvite%2BAll%2BFriends%2BTo%2BLike%2BFanpage.%2BTanpa%2BPlugin.png
 title: Script Auto Invite All Friends To Like Fanpage Without Plugin and Tool
 type: post
-updated: 2023-08-08T14:46:02+07:00
+updated: 2023-09-03T06:35:19+07:00
 wordcount: 1503
 ---
 

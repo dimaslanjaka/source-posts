@@ -14,13 +14,13 @@ lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://miro.medium.com/max/940/1*MfrpVoJuWJz8vyXVJDHUvA.png
 tags:
-  - ts
-  - js
+  - typescript
+  - javascript
   - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://miro.medium.com/max/940/1*MfrpVoJuWJz8vyXVJDHUvA.png
 title: Perbedaan typescript dan javascript secara rinci
 type: post
-updated: 2023-09-03T06:13:10+07:00
+updated: 2023-09-03T06:34:31+07:00
 wordcount: 745
 ---
 

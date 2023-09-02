@@ -15,13 +15,13 @@ photos:
   - https://4.bp.blogspot.com/-l94ir-kHDK8/VSK2vrIZEWI/AAAAAAAAA5w/r5ZkFkd7n2o/s1600/google-translate-256.png
 tags:
   - wordpress
-  - js
+  - javascript
   - blogger
   - blogging
 thumbnail: https://4.bp.blogspot.com/-l94ir-kHDK8/VSK2vrIZEWI/AAAAAAAAA5w/r5ZkFkd7n2o/s1600/google-translate-256.png
 title: Easly Add Translate Widget To Page Blog With State Flag
 type: post
-updated: 2023-09-03T06:13:49+07:00
+updated: 2023-09-03T06:35:15+07:00
 wordcount: 1559
 ---
 

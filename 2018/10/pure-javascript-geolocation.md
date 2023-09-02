@@ -16,11 +16,11 @@ photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4291.jpg
 tags:
   - script
-  - js
+  - javascript
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4291.jpg
 title: Pure Javascript Geolocation
 type: post
-updated: 2023-09-03T06:13:31+07:00
+updated: 2023-09-03T06:35:01+07:00
 wordcount: 236
 ---
 

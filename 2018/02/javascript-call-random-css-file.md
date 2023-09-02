@@ -15,11 +15,11 @@ photos:
   - https://goo.gl/dzGpyo
 tags:
   - css
-  - js
+  - javascript
 thumbnail: https://goo.gl/dzGpyo
 title: JavaScript Call Random CSS file
 type: post
-updated: 2023-09-03T06:13:36+07:00
+updated: 2023-09-03T06:35:03+07:00
 wordcount: 504
 ---
 

@@ -14,14 +14,14 @@ lang: en
 photos:
   - https://i.ytimg.com/vi/8VyzRlxo2-k/maxresdefault.jpg
 tags:
-  - js
+  - javascript
   - share
   - html
   - blogging
 thumbnail: https://i.ytimg.com/vi/8VyzRlxo2-k/maxresdefault.jpg
 title: Javascript Debug Protector
 type: post
-updated: 2023-09-03T06:13:16+07:00
+updated: 2023-09-03T06:34:35+07:00
 wordcount: 250
 ---
 

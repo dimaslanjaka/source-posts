@@ -14,11 +14,11 @@ lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
-  - js
+  - javascript
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: "[JS] Youtube Video ID URL Parser"
 type: post
-updated: 2023-09-03T06:13:25+07:00
+updated: 2023-09-03T06:34:52+07:00
 wordcount: 340
 ---
 

@@ -14,12 +14,12 @@ lang: en
 photos:
   - https://miro.medium.com/max/309/1*5kaPMxO2svjJ5k34zOwmrg.png
 tags:
-  - js
+  - javascript
   - recaptcha
 thumbnail: https://miro.medium.com/max/309/1*5kaPMxO2svjJ5k34zOwmrg.png
 title: Recaptcha V3 Complete Code
 type: post
-updated: 2023-08-08T14:45:09+07:00
+updated: 2023-09-03T06:34:27+07:00
 wordcount: 775
 ---
 

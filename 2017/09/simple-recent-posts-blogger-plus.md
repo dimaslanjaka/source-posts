@@ -15,7 +15,7 @@ lang: en
 photos:
   - https://4.bp.blogspot.com/-M7b7TGI5AZI/WaRRhUHpaMI/AAAAAAAAABs/6QHVYugtOzwTqYJqNN7FkWZM_MOl83csACLcBGAs/s320/Screenshot_2017-08-29-00-22-36-950_com.android.chrome.png
 tags:
-  - js
+  - javascript
   - blogger
   - html
   - blogging
@@ -24,7 +24,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-M7b7TGI5AZI/WaRRhUHpaMI/AAAAAAAAABs/6QHVYugtOzwTqYJqNN7FkWZM_MOl83csACLcBGAs/s320/Screenshot_2017-08-29-00-22-36-950_com.android.chrome.png
 title: Simple Recent Posts Blogger Plus Thumbnails
 type: post
-updated: 2023-09-03T06:13:40+07:00
+updated: 2023-09-03T06:35:06+07:00
 wordcount: 509
 ---
 

@@ -14,11 +14,11 @@ lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/5963.png
 tags:
-  - js
+  - javascript
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/5963.png
 title: Lazy load images blogger
 type: post
-updated: 2023-09-03T06:13:24+07:00
+updated: 2023-09-03T06:34:51+07:00
 wordcount: 872
 ---
 

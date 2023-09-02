@@ -17,14 +17,14 @@ photos:
 tags:
   - wordpress
   - css
-  - js
+  - javascript
   - blogger
   - html
   - blogging
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjdpDoe7h7wNQx9CmRe46wN2Ta_p7TYUg_q9p0GUr6OM6Y1hml
 title: How to beautify html javascript and css using script on the fly
 type: post
-updated: 2023-09-03T06:13:55+07:00
+updated: 2023-09-03T06:35:17+07:00
 wordcount: 237
 ---
 

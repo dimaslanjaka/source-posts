@@ -15,12 +15,12 @@ lang: en
 photos:
   - https://static.cdn-cdpl.com/700x350/5615bb41d81fad8fe992985aec0e5f29/js.jpg
 tags:
-  - js
+  - javascript
   - share
 thumbnail: https://static.cdn-cdpl.com/700x350/5615bb41d81fad8fe992985aec0e5f29/js.jpg
 title: Membuat array javascript unik
 type: post
-updated: 2023-09-03T06:13:16+07:00
+updated: 2023-09-03T06:34:35+07:00
 wordcount: 127
 ---
 

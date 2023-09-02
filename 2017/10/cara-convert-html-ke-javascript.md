@@ -14,13 +14,13 @@ lang: en
 photos:
   - https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZ-Ya5lUljhzFq1eHq5wLN0Nooclq80d6mgWebE86HqthrDHyNsuF_gQPY
 tags:
-  - js
+  - javascript
   - html
   - blogging
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZ-Ya5lUljhzFq1eHq5wLN0Nooclq80d6mgWebE86HqthrDHyNsuF_gQPY
 title: Cara convert HTML ke Javascript document.write otomatis
 type: post
-updated: 2023-09-03T06:13:39+07:00
+updated: 2023-09-03T06:35:05+07:00
 wordcount: 227
 ---
 

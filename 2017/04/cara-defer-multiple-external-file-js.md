@@ -16,13 +16,13 @@ photos:
   - https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD3Z65uK5mWj1kFiaYKxcVJ8w0XiysZTz3V3ak8FIwpkFiTpnc
 tags:
   - wordpress
-  - js
+  - javascript
   - blogger
   - blogging
 thumbnail: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD3Z65uK5mWj1kFiaYKxcVJ8w0XiysZTz3V3ak8FIwpkFiTpnc
 title: Cara defer multiple external file js
 type: post
-updated: 2023-08-08T14:46:01+07:00
+updated: 2023-09-03T06:35:18+07:00
 wordcount: 558
 ---
 

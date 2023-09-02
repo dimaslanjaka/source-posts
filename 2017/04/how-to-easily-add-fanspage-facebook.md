@@ -14,14 +14,14 @@ lang: en
 photos:
   - https://3.bp.blogspot.com/-1K6wl1YmvoY/VRpleEPVStI/AAAAAAAAAtE/ZiZBz937iIk/s1600/facebook-fan-page-fans.png
 tags:
-  - js
+  - javascript
   - blogger
   - html
   - social media
 thumbnail: https://3.bp.blogspot.com/-1K6wl1YmvoY/VRpleEPVStI/AAAAAAAAAtE/ZiZBz937iIk/s1600/facebook-fan-page-fans.png
 title: How To Easily add FansPage Facebook Levitating On Blogs
 type: post
-updated: 2023-09-03T06:13:54+07:00
+updated: 2023-09-03T06:35:17+07:00
 wordcount: 3191
 ---
 

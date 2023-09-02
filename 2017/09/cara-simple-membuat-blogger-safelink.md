@@ -16,13 +16,13 @@ photos:
   - https://3.bp.blogspot.com/-Ach7nLitXms/WarZUJ5bRYI/AAAAAAAAADY/pkBFgGKt0x0oi0j_LjJN6kdeXjwQ7xRtACLcBGAs/s320/SafeLinkConverter1.png
 tags:
   - tools
-  - js
+  - javascript
   - blogger
   - tips & tricks
 thumbnail: https://3.bp.blogspot.com/-Ach7nLitXms/WarZUJ5bRYI/AAAAAAAAADY/pkBFgGKt0x0oi0j_LjJN6kdeXjwQ7xRtACLcBGAs/s320/SafeLinkConverter1.png
 title: Cara Simple Membuat Blogger Safelink Converter 2017 100 Work
 type: post
-updated: 2023-09-03T06:13:42+07:00
+updated: 2023-09-03T06:35:08+07:00
 wordcount: 1778
 ---
 

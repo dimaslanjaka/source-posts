@@ -9,12 +9,12 @@ lang: en
 tags:
   - nodejs
   - esm
-  - ts
-  - js
+  - typescript
+  - javascript
   - commonjs
 title: How to use import.meta on typescript hybrid compiler
 type: post
-updated: 2023-08-08T14:45:09+07:00
+updated: 2023-09-03T06:34:27+07:00
 wordcount: 3831
 ---
 

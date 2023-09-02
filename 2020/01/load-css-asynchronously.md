@@ -15,11 +15,11 @@ photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
   - css
-  - js
+  - javascript
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Load CSS Asynchronously
 type: post
-updated: 2023-09-03T06:13:12+07:00
+updated: 2023-09-03T06:34:32+07:00
 wordcount: 12
 ---
 

@@ -14,12 +14,12 @@ lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
-  - js
+  - javascript
   - html
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Konversi DOM element ke HTML string
 type: post
-updated: 2023-09-03T06:13:16+07:00
+updated: 2023-09-03T06:34:35+07:00
 wordcount: 276
 ---
 

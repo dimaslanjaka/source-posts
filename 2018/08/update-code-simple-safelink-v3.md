@@ -15,14 +15,14 @@ lang: en
 photos:
   - https://cdn1.imggmi.com/uploads/2018/8/5/4f4281f038eb505c8f145d2c7f0b4f04-full.png
 tags:
-  - js
+  - javascript
   - blogger
   - blogging
   - tips & tricks
 thumbnail: https://cdn1.imggmi.com/uploads/2018/8/5/4f4281f038eb505c8f145d2c7f0b4f04-full.png
 title: Update code Simple SafeLink v3
 type: post
-updated: 2023-08-08T14:45:39+07:00
+updated: 2023-09-03T06:35:01+07:00
 wordcount: 240
 ---
 

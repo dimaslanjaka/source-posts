@@ -15,12 +15,12 @@ photos:
   - https://www.webmanajemen.com/assets/img/javascript.png
 tags:
   - css
-  - js
+  - javascript
   - html
 thumbnail: https://www.webmanajemen.com/assets/img/javascript.png
 title: Bootstrap 4 Auto Progress Bar
 type: post
-updated: 2023-09-03T06:30:06+07:00
+updated: 2023-09-03T06:34:53+07:00
 wordcount: 632
 ---
 

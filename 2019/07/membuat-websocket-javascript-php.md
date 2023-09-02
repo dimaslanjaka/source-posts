@@ -14,14 +14,14 @@ lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.victim-site.com/img/snapshots/websocket.png
 tags:
-  - js
+  - javascript
   - html
   - php
   - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.victim-site.com/img/snapshots/websocket.png
 title: "[JS][PHP] Membuat Websocket Javascript"
 type: post
-updated: 2023-09-03T06:13:25+07:00
+updated: 2023-09-03T06:34:52+07:00
 wordcount: 1168
 ---
 

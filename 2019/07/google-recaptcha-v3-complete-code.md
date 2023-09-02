@@ -14,13 +14,13 @@ lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/tbvxFW4UJdU/maxresdefault.jpg
 tags:
-  - js
+  - javascript
   - html
   - php
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/tbvxFW4UJdU/maxresdefault.jpg
 title: "[JS] Google Recaptcha V3 Complete Code"
 type: post
-updated: 2023-09-01T06:22:16+07:00
+updated: 2023-09-03T06:34:53+07:00
 wordcount: 1605
 ---
 

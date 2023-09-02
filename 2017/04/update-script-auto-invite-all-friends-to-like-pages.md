@@ -14,12 +14,12 @@ photos:
   - https://4.bp.blogspot.com/-B7u7YsAqwIo/WOekieIT5sI/AAAAAAAAEno/FnW9NIDzeUcfZ0dqcI-urdOHqZhkkjMaQCLcB/s1600/Script-Auto-Invite-Undang-Semua-Teman-ke-Fanspage-02.jpg
 tags:
   - script
-  - js
+  - javascript
   - social media
 thumbnail: https://4.bp.blogspot.com/-B7u7YsAqwIo/WOekieIT5sI/AAAAAAAAEno/FnW9NIDzeUcfZ0dqcI-urdOHqZhkkjMaQCLcB/s1600/Script-Auto-Invite-Undang-Semua-Teman-ke-Fanspage-02.jpg
 title: Update Script Auto Invite All Friends To Like Fanpages
 type: post
-updated: 2023-08-08T14:45:58+07:00
+updated: 2023-09-03T06:35:16+07:00
 wordcount: 2708
 ---
 

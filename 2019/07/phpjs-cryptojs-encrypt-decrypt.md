@@ -14,12 +14,12 @@ lang: en
 photos:
   - https://raw.githubusercontent.com/dimaslanjaka/dimaslanjaka.github.io/master/assets/img/phpjs.png
 tags:
-  - js
+  - javascript
   - php
 thumbnail: https://raw.githubusercontent.com/dimaslanjaka/dimaslanjaka.github.io/master/assets/img/phpjs.png
 title: "[PHP][JS] CryptoJS encrypt decrypt"
 type: post
-updated: 2023-09-01T06:09:30+07:00
+updated: 2023-09-03T06:34:51+07:00
 webtitle: PHP JS
 wordcount: 1176
 ---

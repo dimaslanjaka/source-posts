@@ -14,12 +14,12 @@ lang: en
 photos:
   - https://lh5.googleusercontent.com/proxy/zOJPQmOxXy895GIkyGjPcsnz3xVCQZGUJhgMGWk2BJS4JNQcjbpMUA9IeG5TdHv9Yv0q5USG8ipopidYGRGZUZgo-yGy2zPcevf0iMrMACluVNuYUgrAOQ=w300-h300-nc
 tags:
-  - js
+  - javascript
   - blogger
 thumbnail: https://lh5.googleusercontent.com/proxy/zOJPQmOxXy895GIkyGjPcsnz3xVCQZGUJhgMGWk2BJS4JNQcjbpMUA9IeG5TdHv9Yv0q5USG8ipopidYGRGZUZgo-yGy2zPcevf0iMrMACluVNuYUgrAOQ=w300-h300-nc
 title: Hiding javascript to increase blogger blog speed
 type: post
-updated: 2023-09-03T06:13:38+07:00
+updated: 2023-09-03T06:35:04+07:00
 wordcount: 1346
 ---
 

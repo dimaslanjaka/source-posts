@@ -14,13 +14,13 @@ lang: en
 photos:
   - https://www.bluecorona.com/wp-content/uploads/2017/02/https-cover-photo.png
 tags:
-  - js
+  - javascript
   - seo
   - tips & tricks
 thumbnail: https://www.bluecorona.com/wp-content/uploads/2017/02/https-cover-photo.png
 title: Membuat semua link dan source html http menjadi https
 type: post
-updated: 2023-09-03T06:13:40+07:00
+updated: 2023-09-03T06:35:07+07:00
 wordcount: 879
 ---
 

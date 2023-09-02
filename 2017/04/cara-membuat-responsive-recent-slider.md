@@ -15,13 +15,13 @@ photos:
   - https://4.bp.blogspot.com/-8SFuxN53JKY/WP4EotL68mI/AAAAAAAAFLE/QKjY273Zd60Z1FdySOdLoB4r94bXskwZQCLcB/s320/Screenshot_2017-04-24-20-56-21.jpg
 tags:
   - css
-  - js
+  - javascript
   - blogger
   - html
 thumbnail: https://4.bp.blogspot.com/-8SFuxN53JKY/WP4EotL68mI/AAAAAAAAFLE/QKjY273Zd60Z1FdySOdLoB4r94bXskwZQCLcB/s320/Screenshot_2017-04-24-20-56-21.jpg
 title: Cara membuat Responsive Recent Slider Widget keren di Blogger
 type: post
-updated: 2023-09-03T06:13:58+07:00
+updated: 2023-09-03T06:35:18+07:00
 wordcount: 1130
 ---
 

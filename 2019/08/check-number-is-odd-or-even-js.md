@@ -15,11 +15,11 @@ lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/jFazrvLodrA/maxresdefault.jpg
 tags:
-  - js
+  - javascript
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/jFazrvLodrA/maxresdefault.jpg
 title: Check number is Odd or Even [JS]
 type: post
-updated: 2023-09-03T06:13:24+07:00
+updated: 2023-09-03T06:34:51+07:00
 wordcount: 204
 ---
 

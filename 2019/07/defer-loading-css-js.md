@@ -14,12 +14,12 @@ lang: en
 photos:
   - https://media.geeksforgeeks.org/wp-content/uploads/20200318192511/Untitled-Diagram79.png
 tags:
-  - js
+  - javascript
   - blogger
 thumbnail: https://media.geeksforgeeks.org/wp-content/uploads/20200318192511/Untitled-Diagram79.png
 title: Defer loading css js
 type: post
-updated: 2023-09-03T06:13:25+07:00
+updated: 2023-09-03T06:34:53+07:00
 wordcount: 1255
 ---
 

@@ -15,12 +15,12 @@ lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://topjavatutorial.com/wp-content/uploads/2016/08/consolelog.png
 tags:
-  - js
+  - javascript
   - html
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://topjavatutorial.com/wp-content/uploads/2016/08/consolelog.png
 title: "[JS] Print console log into div"
 type: post
-updated: 2023-09-03T06:13:26+07:00
+updated: 2023-09-03T06:34:54+07:00
 wordcount: 244
 ---
 

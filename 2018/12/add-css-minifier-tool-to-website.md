@@ -16,14 +16,14 @@ photos:
 tags:
   - wordpress
   - css
-  - js
+  - javascript
   - blogger
   - html
   - blogging
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Add CSS Minifier Tool to Website
 type: post
-updated: 2023-09-03T06:13:31+07:00
+updated: 2023-09-03T06:34:58+07:00
 wordcount: 2328
 ---
 

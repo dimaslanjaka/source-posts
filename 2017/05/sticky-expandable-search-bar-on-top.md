@@ -15,12 +15,12 @@ photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
   - css
-  - js
+  - javascript
   - html
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Sticky expandable search bar on top right using classie.js
 type: post
-updated: 2023-09-03T06:30:28+07:00
+updated: 2023-09-03T06:35:11+07:00
 wordcount: 84
 ---
 

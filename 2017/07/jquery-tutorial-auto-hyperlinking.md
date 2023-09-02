@@ -14,11 +14,11 @@ lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
-  - js
+  - javascript
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: JQuery Tutorial Auto Hyperlinking Plaintext URL
 type: post
-updated: 2023-08-08T14:45:51+07:00
+updated: 2023-09-03T06:35:10+07:00
 wordcount: 759
 ---
 

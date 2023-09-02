@@ -15,7 +15,7 @@ photos:
   - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSJoxKxnt9n6oeRW1QcYweC0Y5-T_t-bexOhydafI1lnSIDQx
 tags:
   - wordpress
-  - js
+  - javascript
   - blogger
   - html
   - blogging
@@ -23,7 +23,7 @@ thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSJoxKxnt9n6oe
 title: Cara menambah syntax highlighter dengan prettyprint di blog tanpa
   mengurangi kecepatan loading website 100 Work Tested
 type: post
-updated: 2023-09-03T06:13:57+07:00
+updated: 2023-09-03T06:35:18+07:00
 wordcount: 566
 ---
 

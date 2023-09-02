@@ -16,13 +16,13 @@ photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://4.bp.blogspot.com/-0ALg8SCnD24/VSsqzL7AxJI/AAAAAAAACOQ/4w_tFyoUEVo/s320/Menerapkan%2BDaftar%2Bisi%2BMenurut%2BLabel.png
 tags:
   - css
-  - js
+  - javascript
   - blogger
   - html
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://4.bp.blogspot.com/-0ALg8SCnD24/VSsqzL7AxJI/AAAAAAAACOQ/4w_tFyoUEVo/s320/Menerapkan%2BDaftar%2Bisi%2BMenurut%2BLabel.png
 title: How to Create Dark Style Table Sitemap Blogger
 type: post
-updated: 2023-09-03T06:13:46+07:00
+updated: 2023-09-03T06:35:11+07:00
 wordcount: 335
 ---
 

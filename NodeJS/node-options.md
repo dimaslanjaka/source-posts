@@ -17,12 +17,12 @@ location: Indonesia
 photos:
   - https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
 tags:
-  - js
+  - javascript
   - nodejs
 thumbnail: https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
 title: All About NodeJS Configurations
 type: post
-updated: 2023-08-08T14:44:15+07:00
+updated: 2023-09-03T06:34:19+07:00
 wordcount: 721
 ---
 

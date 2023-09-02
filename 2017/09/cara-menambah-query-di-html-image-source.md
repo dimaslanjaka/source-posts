@@ -15,12 +15,12 @@ lang: en
 photos:
   - https://imgdb.net/images/3190.jpg
 tags:
-  - js
+  - javascript
   - tips & tricks
 thumbnail: https://imgdb.net/images/3190.jpg
 title: Cara menambah query di html image source
 type: post
-updated: 2023-09-03T06:13:42+07:00
+updated: 2023-09-03T06:35:08+07:00
 wordcount: 857
 ---
 

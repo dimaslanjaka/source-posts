@@ -16,11 +16,11 @@ photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://crambler.com/wp-content/uploads/2014/07/PrismJS_Blog_NEW.jpg
 tags:
   - css
-  - js
+  - javascript
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://crambler.com/wp-content/uploads/2014/07/PrismJS_Blog_NEW.jpg
 title: Cara simple memasang prismjs di blog 100 Work
 type: post
-updated: 2023-09-03T06:13:45+07:00
+updated: 2023-09-03T06:35:11+07:00
 wordcount: 462
 ---
 

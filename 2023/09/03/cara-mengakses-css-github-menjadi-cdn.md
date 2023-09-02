@@ -11,10 +11,10 @@ lang: id
 tags:
   - github
   - css
-  - js
+  - javascript
 title: cara mengakses css github menjadi cdn
 type: post
-updated: 2023-09-02T21:55:03.523Z
+updated: 2023-09-03T06:35:19+07:00
 wordcount: 111
 ---
 

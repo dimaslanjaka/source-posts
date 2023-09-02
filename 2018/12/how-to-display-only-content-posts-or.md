@@ -15,12 +15,12 @@ lang: en
 photos:
   - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0esfECcbfautWTR7oGMPXO6eLhiAOX03vpEXndHO2HQDPVIJC
 tags:
-  - js
+  - javascript
   - blogger
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0esfECcbfautWTR7oGMPXO6eLhiAOX03vpEXndHO2HQDPVIJC
 title: How to display only content posts or pages on blogger
 type: post
-updated: 2023-09-03T06:13:30+07:00
+updated: 2023-09-03T06:34:57+07:00
 wordcount: 431
 ---
 

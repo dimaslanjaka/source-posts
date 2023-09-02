@@ -14,11 +14,11 @@ lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
-  - js
+  - javascript
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Asynchronous Loading of External Javascript
 type: post
-updated: 2023-09-03T06:13:36+07:00
+updated: 2023-09-03T06:35:02+07:00
 wordcount: 968
 ---
 

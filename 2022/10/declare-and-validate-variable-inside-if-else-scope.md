@@ -13,12 +13,12 @@ lang: en
 photos:
   - https://miro.medium.com/max/912/1*Gdlo9wVkOuzsA8iUqXoLEg.png
 tags:
-  - js
+  - javascript
   - html
 thumbnail: https://miro.medium.com/max/912/1*Gdlo9wVkOuzsA8iUqXoLEg.png
 title: How to declare a variable inside if else brackets
 type: post
-updated: 2023-08-08T14:45:08+07:00
+updated: 2023-09-03T06:34:26+07:00
 wordcount: 1069
 ---
 

@@ -14,13 +14,13 @@ photos:
   - https://2.bp.blogspot.com/-DIRhiZq0cPg/Vr5-ETcI9AI/AAAAAAAABvo/pwTQPnRlg60/s640/gambar-sitemap-blogger-min.jpg
 tags:
   - css
-  - js
+  - javascript
   - blogger
   - html
 thumbnail: https://2.bp.blogspot.com/-DIRhiZq0cPg/Vr5-ETcI9AI/AAAAAAAABvo/pwTQPnRlg60/s640/gambar-sitemap-blogger-min.jpg
 title: How to create a table of contents or sitemap in blogger or blogspot
 type: post
-updated: 2023-09-03T06:13:48+07:00
+updated: 2023-09-03T06:35:15+07:00
 wordcount: 1522
 ---
 

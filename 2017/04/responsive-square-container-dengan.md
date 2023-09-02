@@ -15,12 +15,12 @@ photos:
   - https://d1gug1ng40407.cloudfront.net/uploads/2017/03/allure-code-snippet.jpg
 tags:
   - css
-  - js
+  - javascript
   - html
 thumbnail: https://d1gug1ng40407.cloudfront.net/uploads/2017/03/allure-code-snippet.jpg
 title: Responsive Square Container Dengan Vertically Or Horizontally Ditengah Content
 type: post
-updated: 2023-09-03T06:30:31+07:00
+updated: 2023-09-03T06:35:16+07:00
 wordcount: 730
 ---
 

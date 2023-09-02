@@ -14,11 +14,11 @@ lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.mygyanblog.com/wp-content/uploads/2017/01/chitika-se-kaise-paise-kamaye.jpg
 tags:
-  - js
+  - javascript
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.mygyanblog.com/wp-content/uploads/2017/01/chitika-se-kaise-paise-kamaye.jpg
 title: How To Create Responsive Chitika Ads 100 Work
 type: post
-updated: 2023-08-08T14:45:56+07:00
+updated: 2023-09-03T06:35:15+07:00
 wordcount: 2703
 ---
 

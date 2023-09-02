@@ -14,13 +14,13 @@ photos:
   - https://2.bp.blogspot.com/-i7bdnxh9Dlc/WaLJD_Te5HI/AAAAAAAAAA8/RfYz9cDKIZMAXfTZR2Xtwqyan2_3h1ueQCLcBGAs/s320/images%2B%252810%2529_1503840522780.jpg
 tags:
   - adsense
-  - js
+  - javascript
   - blogger
   - tips & tricks
 thumbnail: https://2.bp.blogspot.com/-i7bdnxh9Dlc/WaLJD_Te5HI/AAAAAAAAAA8/RfYz9cDKIZMAXfTZR2Xtwqyan2_3h1ueQCLcBGAs/s320/images%2B%252810%2529_1503840522780.jpg
 title: Tutorial Membuat Blogspot Safelink Converter Work 100
 type: post
-updated: 2023-09-03T06:13:39+07:00
+updated: 2023-09-03T06:35:06+07:00
 wordcount: 2058
 ---
 

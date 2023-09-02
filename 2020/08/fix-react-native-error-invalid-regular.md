@@ -14,12 +14,12 @@ lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
-  - js
+  - javascript
   - regular expression
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: "Fix React Native error Invalid regular expression: /.\\\\__fixtures__"
 type: post
-updated: 2023-08-08T14:45:13+07:00
+updated: 2023-09-03T06:34:31+07:00
 wordcount: 134
 ---
 

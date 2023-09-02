@@ -13,12 +13,12 @@ lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://laraget.com/images/blog/1482184906-Select2.png
 tags:
-  - js
+  - javascript
   - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://laraget.com/images/blog/1482184906-Select2.png
 title: "[JS] Check select2 jquery plugin loaded or not"
 type: post
-updated: 2023-09-03T06:13:26+07:00
+updated: 2023-09-03T06:34:51+07:00
 wordcount: 187
 ---
 

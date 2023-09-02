@@ -16,12 +16,12 @@ photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webubi.com/wp-content/uploads/2017/03/regex.png
 tags:
   - script
-  - js
+  - javascript
   - php
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webubi.com/wp-content/uploads/2017/03/regex.png
 title: "[JS][PHP] Regexp for matching URL Pattern"
 type: post
-updated: 2023-09-03T06:13:32+07:00
+updated: 2023-09-03T06:34:58+07:00
 wordcount: 315
 ---
 

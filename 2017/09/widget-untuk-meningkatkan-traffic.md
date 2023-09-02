@@ -15,12 +15,12 @@ lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
-  - js
+  - javascript
   - blogger
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Widget untuk meningkatkan traffic blogger
 type: post
-updated: 2023-09-03T06:13:39+07:00
+updated: 2023-09-03T06:35:06+07:00
 wordcount: 952
 ---
 

@@ -15,12 +15,12 @@ photos:
   - https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIWbE9ADSn11CH5cNI3gcioX1mK17u9QAfTSLX9hxLtwyXgFYdt0J_Yyrw
 tags:
   - wordpress
-  - js
+  - javascript
   - php
 thumbnail: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIWbE9ADSn11CH5cNI3gcioX1mK17u9QAfTSLX9hxLtwyXgFYdt0J_Yyrw
 title: Auto Defer Or Async Javascript in Wordpress
 type: post
-updated: 2023-09-03T06:13:59+07:00
+updated: 2023-09-03T06:35:19+07:00
 wordcount: 2384
 ---
 

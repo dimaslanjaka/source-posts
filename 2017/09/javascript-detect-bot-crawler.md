@@ -13,12 +13,12 @@ lang: en
 photos:
   - https://imgdb.net/images/3206.png
 tags:
-  - js
+  - javascript
   - tips & tricks
 thumbnail: https://imgdb.net/images/3206.png
 title: Javascript detect bot crawler
 type: post
-updated: 2023-09-03T06:13:40+07:00
+updated: 2023-09-03T06:35:07+07:00
 wordcount: 118
 ---
 

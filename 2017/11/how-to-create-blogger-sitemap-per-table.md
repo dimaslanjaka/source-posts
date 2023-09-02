@@ -14,12 +14,12 @@ photos:
   - https://4.bp.blogspot.com/-0ALg8SCnD24/VSsqzL7AxJI/AAAAAAAACOQ/4w_tFyoUEVo/s1600/Menerapkan%2BDaftar%2Bisi%2BMenurut%2BLabel.png
 tags:
   - css
-  - js
+  - javascript
   - blogger
 thumbnail: https://4.bp.blogspot.com/-0ALg8SCnD24/VSsqzL7AxJI/AAAAAAAACOQ/4w_tFyoUEVo/s1600/Menerapkan%2BDaftar%2Bisi%2BMenurut%2BLabel.png
 title: How to create blogger sitemap per tables 100 Worked
 type: post
-updated: 2023-09-03T06:13:38+07:00
+updated: 2023-09-03T06:35:04+07:00
 wordcount: 572
 ---
 
