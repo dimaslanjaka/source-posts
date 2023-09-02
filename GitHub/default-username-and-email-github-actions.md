@@ -2,22 +2,19 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - github
 comments: true
 date: 2022-12-09T00:43:17+07:00
 description: what is default username and email for github workflow actions?
-excerpt: what is default username and email for github workflow actions?
 lang: en
-photos: []
-subtitle: what is default username and email for github workflow actions?
 tags:
   - github-workflows
   - snippet
   - yaml
   - github-actions
+  - github
 title: Default username and email for github workflow actions
 type: post
-updated: 2023-08-08T14:44:19+07:00
+updated: 2023-09-03T04:28:02+07:00
 wordcount: 934
 ---
 

@@ -5,26 +5,16 @@ author:
   email: noreply@blogger.com
 categories:
   - programming
-  - java
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
 date: 2020-02-25T05:25:00.001+07:00
 description: "Increase Performance Android Studio Solver 1 You can speed up your
   Eclipse or Android Studio work, you just follow these: Open your single
-  projectclean your project after running your app in emulator every timeuse
-  mobile/external device instead of emulatordont close emulator after using o"
-excerpt: "Increase Performance Android Studio Solver 1 You can speed up your
-  Eclipse or Android Studio work, you just follow these: Open your single
-  projectclean your project after running your app in emulator every timeuse
-  mobile/external device instead of emulatordont close emulator after using o"
+  projectclean your pro"
 lang: en
 permalink: /2020/02/increase-performance-android-studio.html
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
-subtitle: "Increase Performance Android Studio Solver 1 You can speed up your
-  Eclipse or Android Studio work, you just follow these: Open your single
-  projectclean your project after running your app in emulator every timeuse
-  mobile/external device instead of emulatordont close emulator after using o"
 tags:
   - android
   - tips & tricks
@@ -32,7 +22,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1
 title: Increase Performance Android Studio
 type: post
-updated: 2023-08-23T20:18:06+07:00
+updated: 2023-09-03T04:28:01+07:00
 wordcount: 3996
 ---
 

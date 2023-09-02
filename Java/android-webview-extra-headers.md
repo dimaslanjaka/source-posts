@@ -2,32 +2,19 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - java
 comments: true
 date: 2022-11-11T07:00:19+07:00
 description: Android Webview With Extra Headers public void
   testLoadURLWithHTTPHeaders final String url =
-  http://androidyue.github.io/;WebView webView = new
-  WebViewgetActivity;Map<String,String> extraHeaders = new HashMap<String,
-  String>;extraHeaders.putReferer, http://www.google.com;webVie
-excerpt: Android Webview With Extra Headers public void
-  testLoadURLWithHTTPHeaders final String url =
-  http://androidyue.github.io/;WebView webView = new
-  WebViewgetActivity;Map<String,String> extraHeaders = new HashMap<String,
-  String>;extraHeaders.putReferer, http://www.google.com;webVie
+  http://androidyue.github.io/;WebView webView = new WebViewgetActivi
 lang: en
-photos: []
-subtitle: Android Webview With Extra Headers public void
-  testLoadURLWithHTTPHeaders final String url =
-  http://androidyue.github.io/;WebView webView = new
-  WebViewgetActivity;Map<String,String> extraHeaders = new HashMap<String,
-  String>;extraHeaders.putReferer, http://www.google.com;webVie
 tags:
   - android
   - webview
+  - java
 title: Android Webview With Extra Headers
 type: post
-updated: 2023-08-08T14:44:16+07:00
+updated: 2023-09-03T04:28:01+07:00
 wordcount: 73
 ---
 

@@ -4,12 +4,10 @@ author:
   link: https://github.com/dimaslanjaka
 categories:
   - programming
-  - github
 comments: true
 cover: /GitHub/workflows/cover2.jpg
 date: 2021-11-18T22:00:00+07:00
 description: Cara menggunakan cache untuk mempercepat GitHub Workflows
-excerpt: Cara menggunakan cache untuk mempercepat GitHub Workflows
 keywords:
   - GitHub
   - workflows
@@ -20,16 +18,16 @@ lang: id
 location: Indonesia
 photos:
   - /GitHub/workflows/cover2.jpg
-subtitle: Cara menggunakan cache untuk mempercepat GitHub Workflows
 tags:
   - github-workflows
   - snippet
   - yaml
   - github-actions
+  - github
 thumbnail: /GitHub/workflows/cover2.jpg
 title: Mempercepat GitHub Workflow Dengan Cache Strategy
 type: post
-updated: 2023-08-08T14:44:18+07:00
+updated: 2023-09-03T04:28:01+07:00
 webtitle: WMI GitHub
 wordcount: 997
 ---

@@ -2,31 +2,20 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - bash
 comments: true
 date: 2023-05-17T20:45:00+07:00
 description: rollback commit github Rogue Coder? Working alone and just want to
   do well? Follow the steps below. These steps have worked reliably for me and
-  many others over the years. Collaborate with others? Git is complicated.
-  Please read the comments below this answer, consider other answers, and
-  discuss wit
-excerpt: rollback commit github Rogue Coder? Working alone and just want to do
-  well? Follow the steps below. These steps have worked reliably for me and many
-  others over the years. Collaborate with others? Git is complicated. Please
-  read the comments below this answer, consider other answers, and discuss wit
+  many others over
 lang: en
-photos: []
-subtitle: rollback commit github Rogue Coder? Working alone and just want to do
-  well? Follow the steps below. These steps have worked reliably for me and many
-  others over the years. Collaborate with others? Git is complicated. Please
-  read the comments below this answer, consider other answers, and discuss wit
 tags:
   - github
   - script
   - snippet
+  - bash
 title: rollback commit github
 type: post
-updated: 2023-08-08T14:45:08+07:00
+updated: 2023-09-03T04:28:04+07:00
 wordcount: 543
 ---
 

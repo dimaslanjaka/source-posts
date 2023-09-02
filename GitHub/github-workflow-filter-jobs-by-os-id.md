@@ -2,35 +2,22 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - github
 comments: true
 date: 2022-11-09T16:42:24+07:00
 description: "Github Workflow Filter Job Berdasarkan OS Yang Dijalankan
   Condition Syntax Berdasarkan OS Yang Dijalankan Saat Ini if: matrix.os ==
-  ubuntu-latestif: matrix.os == windows-latestif: matrix.os == macOS-latest
-  Condition Syntax Berdasarkan Konteks OS Yang Dijalankan Saat Ini if: runner.os
-  == L"
-excerpt: "Github Workflow Filter Job Berdasarkan OS Yang Dijalankan Condition
-  Syntax Berdasarkan OS Yang Dijalankan Saat Ini if: matrix.os ==
-  ubuntu-latestif: matrix.os == windows-latestif: matrix.os == macOS-latest
-  Condition Syntax Berdasarkan Konteks OS Yang Dijalankan Saat Ini if: runner.os
-  == L"
+  ubuntu-latestif: matrix.os ="
 lang: id
 permalink: /id/GitHub/github-workflow-filter-jobs-by-os.html
-photos: []
-subtitle: "Github Workflow Filter Job Berdasarkan OS Yang Dijalankan Condition
-  Syntax Berdasarkan OS Yang Dijalankan Saat Ini if: matrix.os ==
-  ubuntu-latestif: matrix.os == windows-latestif: matrix.os == macOS-latest
-  Condition Syntax Berdasarkan Konteks OS Yang Dijalankan Saat Ini if: runner.os
-  == L"
 tags:
   - github-workflows
   - snippet
   - yaml
   - github-actions
+  - github
 title: Github Workflow Filter Job Berdasarkan OS Yang Dijalankan
 type: post
-updated: 2023-08-08T14:44:18+07:00
+updated: 2023-09-03T04:28:02+07:00
 wordcount: 404
 ---
 

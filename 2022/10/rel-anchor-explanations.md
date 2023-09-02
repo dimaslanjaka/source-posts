@@ -2,12 +2,9 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - seo
 comments: true
 date: 2022-10-10T23:09:00+0700
 description: explanations, sample, and functions of rel attribute values such as
-  nofollow noreferer dofollow noopener etc.
-excerpt: explanations, sample, and functions of rel attribute values such as
   nofollow noreferer dofollow noopener etc.
 keywords:
   - hypelink
@@ -19,15 +16,12 @@ keywords:
   - follow
   - bookmark
 lang: en
-photos: []
-subtitle: explanations, sample, and functions of rel attribute values such as
-  nofollow noreferer dofollow noopener etc.
 tags:
   - seo
   - hyperlink
 title: rel attribute explanations in anchor html element
 type: post
-updated: 2023-08-08T14:45:08+07:00
+updated: 2023-09-03T04:28:05+07:00
 wordcount: 2348
 ---
 

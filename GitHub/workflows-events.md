@@ -4,12 +4,10 @@ author:
   link: https://github.com/dimaslanjaka
 categories:
   - programming
-  - github
 comments: true
 cover: /GitHub/workflows/events.png
 date: 2021-11-21T23:00:00+07:00
 description: Macam-macam events pada GitHub Workflows
-excerpt: Macam-macam events pada GitHub Workflows
 keywords:
   - GitHub
   - workflows
@@ -18,16 +16,16 @@ lang: id
 location: Indonesia
 photos:
   - /GitHub/workflows/events.png
-subtitle: Macam-macam events pada GitHub Workflows
 tags:
   - github-workflows
   - snippet
   - yaml
   - github-actions
+  - github
 thumbnail: /GitHub/workflows/events.png
 title: GitHub Workflow Events
 type: post
-updated: 2023-08-08T14:44:18+07:00
+updated: 2023-09-03T04:28:01+07:00
 webtitle: WMI GitHub
 wordcount: 1013
 ---

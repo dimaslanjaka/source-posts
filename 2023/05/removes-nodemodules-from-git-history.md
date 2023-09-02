@@ -2,26 +2,15 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - bash
-  - github
 comments: true
 cover: https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82
 date: 2023-05-16T05:35:19+07:00
 description: "removes node_modules from git history Deprecated method to delete
   node_modules from github repository commit historyWARNING: git filter-branch
-  is no longer officially recommended.The official recommendation is to use
-  git-filter-repo.see Andr Anjos answer for detailsIf you are here to copy-pas"
-excerpt: "removes node_modules from git history Deprecated method to delete
-  node_modules from github repository commit historyWARNING: git filter-branch
-  is no longer officially recommended.The official recommendation is to use
-  git-filter-repo.see Andr Anjos answer for detailsIf you are here to copy-pas"
+  is no longer offi"
 lang: en
 photos:
   - https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82
-subtitle: "removes node_modules from git history Deprecated method to delete
-  node_modules from github repository commit historyWARNING: git filter-branch
-  is no longer officially recommended.The official recommendation is to use
-  git-filter-repo.see Andr Anjos answer for detailsIf you are here to copy-pas"
 tags:
   - bash
   - snippet
@@ -30,7 +19,7 @@ tags:
 thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82
 title: removes node_modules from git history
 type: post
-updated: 2023-08-08T14:45:08+07:00
+updated: 2023-09-03T04:28:04+07:00
 wordcount: 1182
 ---
 

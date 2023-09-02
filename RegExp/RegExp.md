@@ -5,23 +5,21 @@ author:
   link: https://github.com/dimaslanjaka
 categories:
   - programming
-  - regular expression
 comments: false
 cover: https://www.w3programmers.com/wp-content/uploads/2012/07/regex.jpg
 date: 2021-09-22T00:00:00+07:00
 description: Regular Expression is a
-excerpt: Regular Expression is a
 lang: en
 location: Indonesia
 photos:
   - https://www.w3programmers.com/wp-content/uploads/2012/07/regex.jpg
-subtitle: Regular Expression is a
 tags:
   - regexp
+  - regular expression
 thumbnail: https://www.w3programmers.com/wp-content/uploads/2012/07/regex.jpg
 title: What is RegExp
 type: post
-updated: 2023-08-08T14:44:14+07:00
+updated: 2023-09-03T04:27:59+07:00
 webtitle: RegExp
 wordcount: 1628
 ---

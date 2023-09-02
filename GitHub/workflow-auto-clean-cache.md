@@ -2,34 +2,21 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - github
 comments: true
 date: 2023-01-01T17:12:28+07:00
-description: yaml github actions to clean all caches add TOKEN to Github Actions
-  Secrets Environtmentcreate .github/workflows/clean-caches.yml, put below codes
-  add TOKEN to Github Actions Secrets Environtment TOKEN create
-  .github/workflows/clean-caches.yml, put below codes
-  .github/workflows/clean-caches.yml nam
-excerpt: yaml github actions to clean all caches add TOKEN to Github Actions
-  Secrets Environtmentcreate .github/workflows/clean-caches.yml, put below codes
-  add TOKEN to Github Actions Secrets Environtment TOKEN create
-  .github/workflows/clean-caches.yml, put below codes
-  .github/workflows/clean-caches.yml nam
+description: "yaml github actions to clean all caches add TOKEN to Github
+  Actions Secrets Environtmentcreate .github/workflows/clean-caches.yml, put
+  below codes add TOKEN to "
 lang: en
-photos: []
-subtitle: yaml github actions to clean all caches add TOKEN to Github Actions
-  Secrets Environtmentcreate .github/workflows/clean-caches.yml, put below codes
-  add TOKEN to Github Actions Secrets Environtment TOKEN create
-  .github/workflows/clean-caches.yml, put below codes
-  .github/workflows/clean-caches.yml nam
 tags:
   - github-workflows
   - snippet
   - yaml
   - github-actions
+  - github
 title: yaml github actions to clean all caches
 type: post
-updated: 2023-08-08T14:44:18+07:00
+updated: 2023-09-03T04:28:01+07:00
 wordcount: 593
 ---
 

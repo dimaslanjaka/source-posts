@@ -2,33 +2,22 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - github
 comments: true
 date: 2022-11-09T16:49:20+07:00
 description: "Github Workflow Filter Jobs By OS Condition Syntax Based on
   Current Running OS if: matrix.os == ubuntu-latestif: matrix.os ==
-  windows-latestif: matrix.os == macOS-latest Condition Syntax Based on the
-  Context of the Current Running OS if: runner.os == Linuxif: runner.os ==
-  Windowsif"
-excerpt: "Github Workflow Filter Jobs By OS Condition Syntax Based on Current
-  Running OS if: matrix.os == ubuntu-latestif: matrix.os == windows-latestif:
-  matrix.os == macOS-latest Condition Syntax Based on the Context of the Current
-  Running OS if: runner.os == Linuxif: runner.os == Windowsif"
+  windows-latestif: matrix.os == mac"
 lang: en
 permalink: /GitHub/github-workflow-filter-jobs-by-os.html
-photos: []
-subtitle: "Github Workflow Filter Jobs By OS Condition Syntax Based on Current
-  Running OS if: matrix.os == ubuntu-latestif: matrix.os == windows-latestif:
-  matrix.os == macOS-latest Condition Syntax Based on the Context of the Current
-  Running OS if: runner.os == Linuxif: runner.os == Windowsif"
 tags:
   - github-workflows
   - snippet
   - yaml
   - github-actions
+  - github
 title: Github Workflow Filter Jobs By OS
 type: post
-updated: 2023-08-08T14:44:18+07:00
+updated: 2023-09-03T04:28:02+07:00
 wordcount: 428
 ---
 

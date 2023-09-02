@@ -5,26 +5,21 @@ author:
   email: noreply@blogger.com
 categories:
   - programming
-  - php
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blogspot.com/-3UATHL878wU/WKoXE11tarI/AAAAAAAAFAA/QhBnNJFo5QAiB4C04RKBG9zuFrP2Uhm4gCLcB/s1600/serverphp.jpg
 date: 2017-04-09T13:26:00.001+07:00
 description: Official php-cli installation on android by L3n4r0x php Running On
   Android Terminal -> How to install php5-cli in android <-
-excerpt: Official php-cli installation on android by L3n4r0x php Running On
-  Android Terminal -> How to install php5-cli in android <-
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blogspot.com/-3UATHL878wU/WKoXE11tarI/AAAAAAAAFAA/QhBnNJFo5QAiB4C04RKBG9zuFrP2Uhm4gCLcB/s1600/serverphp.jpg
-subtitle: Official php-cli installation on android by L3n4r0x php Running On
-  Android Terminal -> How to install php5-cli in android <-
 tags:
   - php
   - android
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blogspot.com/-3UATHL878wU/WKoXE11tarI/AAAAAAAAFAA/QhBnNJFo5QAiB4C04RKBG9zuFrP2Uhm4gCLcB/s1600/serverphp.jpg
 title: Install PHP for Android CLI or Web Server
 type: post
-updated: 2023-08-08T14:45:59+07:00
+updated: 2023-09-03T04:28:46+07:00
 webtitle: PHP Android
 wordcount: 2598
 ---

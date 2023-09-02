@@ -2,34 +2,20 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - java
 comments: true
 date: 2022-11-10T08:35:48+07:00
 description: Provide ApplicationEventPublisher for Spring WebFlux
   ApplicationEventPublisher is provided in Spring for publishing events, which
-  is useful in some scenarios, for example, when I create an item, and another
-  service listens for item creation and creates inventory for it. So its very
-  practical in S
-excerpt: Provide ApplicationEventPublisher for Spring WebFlux
-  ApplicationEventPublisher is provided in Spring for publishing events, which
-  is useful in some scenarios, for example, when I create an item, and another
-  service listens for item creation and creates inventory for it. So its very
-  practical in S
+  is useful in some scenarios, f
 lang: en
 permalink: /2020/10/provide-applicationeventpublisher-for-spring-webflux.html
-photos: []
-subtitle: Provide ApplicationEventPublisher for Spring WebFlux
-  ApplicationEventPublisher is provided in Spring for publishing events, which
-  is useful in some scenarios, for example, when I create an item, and another
-  service listens for item creation and creates inventory for it. So its very
-  practical in S
 tags:
   - java
   - springboot
   - webflux
 title: Provide ApplicationEventPublisher for Spring WebFlux
 type: post
-updated: 2023-08-08T14:44:15+07:00
+updated: 2023-09-03T04:27:59+07:00
 wordcount: 2984
 ---
 

@@ -2,18 +2,12 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - js
 comments: true
 cover: https://opengraph.githubassets.com/d5c0c03975090ca4fdc9426231dd22310716b7d817cb6de10306acc7399a583c/sindresorhus/del/issues/42
 date: 2022-10-15T14:00:08+07:00
 description: How to delete files with gulp without any plugin del is now only
   used for ESM del Issues about del and gulp Issue42 Issue42 Variables fs-extra
-  better than fs for supressing useless errors fs-extra fs const rmSync,
-  rmdirSync, existsSync = requirefsconst join = requirepathconst gul
-excerpt: How to delete files with gulp without any plugin del is now only used
-  for ESM del Issues about del and gulp Issue42 Issue42 Variables fs-extra
-  better than fs for supressing useless errors fs-extra fs const rmSync,
-  rmdirSync, existsSync = requirefsconst join = requirepathconst gul
+  better than fs fo
 keywords:
   - delete files with gulp
   - gulp delete files
@@ -22,17 +16,13 @@ keywords:
 lang: en
 photos:
   - https://opengraph.githubassets.com/d5c0c03975090ca4fdc9426231dd22310716b7d817cb6de10306acc7399a583c/sindresorhus/del/issues/42
-subtitle: How to delete files with gulp without any plugin del is now only used
-  for ESM del Issues about del and gulp Issue42 Issue42 Variables fs-extra
-  better than fs for supressing useless errors fs-extra fs const rmSync,
-  rmdirSync, existsSync = requirefsconst join = requirepathconst gul
 tags:
   - snippets
-  - js
+  - javascript
 thumbnail: https://opengraph.githubassets.com/d5c0c03975090ca4fdc9426231dd22310716b7d817cb6de10306acc7399a583c/sindresorhus/del/issues/42
 title: How to delete files with gulp without any plugin
 type: post
-updated: 2023-08-08T14:44:15+07:00
+updated: 2023-09-03T04:28:00+07:00
 wordcount: 1113
 ---
 

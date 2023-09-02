@@ -2,22 +2,19 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - typescript
-  - net
 comments: true
 date: 2023-05-20T13:15:14+07:00
 description: A TypeScript port of .NETs System.Random
-excerpt: A TypeScript port of .NETs System.Random
 lang: en
-photos: []
-subtitle: A TypeScript port of .NETs System.Random
 tags:
   - random
   - snippet
   - script
+  - typescript
+  - net
 title: TypeScript equivalent .NETs System.Random
 type: post
-updated: 2023-08-08T14:45:07+07:00
+updated: 2023-09-03T04:28:04+07:00
 wordcount: 1419
 ---
 

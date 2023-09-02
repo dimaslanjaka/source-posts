@@ -2,32 +2,22 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - github
 comments: true
 date: 2022-12-31T13:04:49+07:00
 description: "Github Workflows Run Strategy Matrix Sequentally How to setup
   github action matrix to be run sequentally or series each job ? Conclusing
-  Just add below codes: jobs: deploy: runs-on: ubuntu-latest strategy: When set
-  to true, GitHub cancels all in-progress jobs if any matrix job fail"
-excerpt: "Github Workflows Run Strategy Matrix Sequentally How to setup github
-  action matrix to be run sequentally or series each job ? Conclusing Just add
-  below codes: jobs: deploy: runs-on: ubuntu-latest strategy: When set to true,
-  GitHub cancels all in-progress jobs if any matrix job fail"
+  Just add below codes: j"
 lang: en
-photos: []
-subtitle: "Github Workflows Run Strategy Matrix Sequentally How to setup github
-  action matrix to be run sequentally or series each job ? Conclusing Just add
-  below codes: jobs: deploy: runs-on: ubuntu-latest strategy: When set to true,
-  GitHub cancels all in-progress jobs if any matrix job fail"
 tags:
   - github-workflows
   - snippet
   - yaml
   - github-actions
   - matrix
+  - github
 title: Github Workflows Run Strategy Matrix Sequentally
 type: post
-updated: 2023-08-08T14:44:19+07:00
+updated: 2023-09-03T04:28:02+07:00
 wordcount: 349
 ---
 

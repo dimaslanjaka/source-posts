@@ -5,25 +5,20 @@ author:
   email: noreply@blogger.com
 categories:
   - programming
-  - java
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2020-09-22T10:36:00.001+07:00
 description: pre><br />ArrayListlt;Stringgt; firstArr = new ArrayListlt;gt;;<br
   /> firstArr.addquot;1quot;;<br />
-excerpt: pre><br />ArrayListlt;Stringgt; firstArr = new ArrayListlt;gt;;<br />
-  firstArr.addquot;1quot;;<br />
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: pre><br />ArrayListlt;Stringgt; firstArr = new ArrayListlt;gt;;<br />
-  firstArr.addquot;1quot;;<br />
 tags:
   - java
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Remove all objects in an arraylist that exist in another arraylist Java
 type: post
-updated: 2023-08-08T14:45:13+07:00
+updated: 2023-09-03T04:28:07+07:00
 wordcount: 135
 ---
 

@@ -5,7 +5,6 @@ author:
   email: noreply@blogger.com
 categories:
   - programming
-  - php
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2019-07-29T06:42:00.000+07:00
@@ -18,7 +17,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Put execution arg into _GET PHP CLI
 type: post
-updated: 2023-09-01T06:01:50+07:00
+updated: 2023-09-03T04:28:22+07:00
 wordcount: 222
 ---
 

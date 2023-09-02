@@ -5,14 +5,10 @@ author:
   image: https://i.pinimg.com/564x/32/bc/65/32bc65e19220728fb290249059a7242a.jpg
 categories:
   - programming
-  - javascript
-  - typescript
 comments: true
 cover: https://i.ytimg.com/vi/lHAeK8t94as/maxresdefault.jpg
 date: 2021-11-28T07:00:00+07:00
 description: How to configure eslint with prettier to automated lint and format
-  codes in typescript project using vscode
-excerpt: How to configure eslint with prettier to automated lint and format
   codes in typescript project using vscode
 keywords:
   - nodejs
@@ -24,17 +20,15 @@ lang: en
 location: Indonesia
 photos:
   - https://i.ytimg.com/vi/lHAeK8t94as/maxresdefault.jpg
-subtitle: How to configure eslint with prettier to automated lint and format
-  codes in typescript project using vscode
 tags:
   - nodejs
-  - js
-  - ts
+  - javascript
+  - typescript
   - eslint
 thumbnail: https://i.ytimg.com/vi/lHAeK8t94as/maxresdefault.jpg
 title: Eslint Prettier In Typescript Project Using Vscode
 type: post
-updated: 2023-08-08T14:44:15+07:00
+updated: 2023-09-03T04:28:00+07:00
 webtitle: NodeJS
 wordcount: 2562
 ---

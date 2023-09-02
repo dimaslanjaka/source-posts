@@ -2,23 +2,20 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - github
 comments: true
 date: 2022-12-29T19:40:35+07:00
 description: Cara setting github actions agar jalan satu job saja sequentally
-excerpt: Cara setting github actions agar jalan satu job saja sequentally
 lang: id
 permalink: /id/GitHub/github-actions-run-single-instance.html
-photos: []
-subtitle: Cara setting github actions agar jalan satu job saja sequentally
 tags:
   - github-workflows
   - snippet
   - yaml
   - github-actions
+  - github
 title: Menjalankan Github Workflow Satu Instansi sequentally
 type: post
-updated: 2023-08-26T18:16:07+07:00
+updated: 2023-09-03T04:28:01+07:00
 wordcount: 79
 ---
 

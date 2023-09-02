@@ -2,29 +2,18 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - bash
 comments: true
 date: 2023-02-24T16:39:30+07:00
 description: What is /dev/null in shell command ? various types of arguments
   /dev/null argumentargument description> /dev/nullthrow away stdout1>
-  /dev/nullthrow away stdout2> /dev/nullthrow away stderr> /dev/nullthrow away
-  both stdout and stderr argumentargument description argument argument
-excerpt: What is /dev/null in shell command ? various types of arguments
-  /dev/null argumentargument description> /dev/nullthrow away stdout1>
-  /dev/nullthrow away stdout2> /dev/nullthrow away stderr> /dev/nullthrow away
-  both stdout and stderr argumentargument description argument argument
+  /dev/nullthrow away stdout2
 lang: en
-photos: []
-subtitle: What is /dev/null in shell command ? various types of arguments
-  /dev/null argumentargument description> /dev/nullthrow away stdout1>
-  /dev/nullthrow away stdout2> /dev/nullthrow away stderr> /dev/nullthrow away
-  both stdout and stderr argumentargument description argument argument
 tags:
   - bash
   - script
 title: What is /dev/null in shell command ?
 type: post
-updated: 2023-08-08T14:45:08+07:00
+updated: 2023-09-03T04:28:04+07:00
 wordcount: 375
 ---
 

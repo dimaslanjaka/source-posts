@@ -2,14 +2,11 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - javascript
 comments: true
 date: 2023-05-26T19:34:21+07:00
-description: hexo run custom script after site generated Create custom script
+description: "hexo run custom script after site generated Create custom script
   file create new custom script file inside <your hexo project
-  dir>/scripts/script-file-name.js. <your hexo project
-  dir>/scripts/script-file-name.js <your hexo project dir> is your current site
-  directory <your hexo project dir> fill belo
+  dir>/scripts/script-file-name.js. "
 lang: en
 tags:
   - hexo
@@ -18,7 +15,7 @@ tags:
   - javascript
 title: hexo run custom script after site generated
 type: post
-updated: 2023-08-26T05:35:25+07:00
+updated: 2023-09-03T04:28:04+07:00
 wordcount: 185
 ---
 

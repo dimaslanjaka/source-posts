@@ -2,36 +2,20 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - nodejs
-  - configuration
 comments: true
 date: 2022-11-10T09:29:49+07:00
 description: NPM Package Agent For Programmer In China .yarnrc
   disable-self-update-check trueregistry
-  https://registry.npm.taobao.orgphantomjs_cdnurl
-  https://npm.taobao.org/dist/phantomjs/electron_mirror
-  https://npm.taobao.org/mirrors/electron/electron_builder_binaries_mirror
-  https://npm.taobao.org/mi
-excerpt: NPM Package Agent For Programmer In China .yarnrc
-  disable-self-update-check trueregistry
-  https://registry.npm.taobao.orgphantomjs_cdnurl
-  https://npm.taobao.org/dist/phantomjs/electron_mirror
-  https://npm.taobao.org/mirrors/electron/electron_builder_binaries_mirror
-  https://npm.taobao.org/mi
+  https://registry.npm.taobao.orgphantomjs_cdnurl https://npm.taobao.org/
 lang: en
-photos: []
-subtitle: NPM Package Agent For Programmer In China .yarnrc
-  disable-self-update-check trueregistry
-  https://registry.npm.taobao.orgphantomjs_cdnurl
-  https://npm.taobao.org/dist/phantomjs/electron_mirror
-  https://npm.taobao.org/mirrors/electron/electron_builder_binaries_mirror
-  https://npm.taobao.org/mi
 tags:
   - npm
   - agent
+  - nodejs
+  - configuration
 title: NPM Package Agent For Programmer In China
 type: post
-updated: 2023-08-08T14:44:15+07:00
+updated: 2023-09-03T04:27:59+07:00
 wordcount: 45
 ---
 

@@ -2,32 +2,18 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - js
 comments: true
 date: 2022-10-12T21:52:12+07:00
 description: MathJax Dynamic Customized Load Main Snippet // original//
   https://polyfill.io/v3/polyfill.min.js?features=es6//
-  https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js// const mathjaxOpt
-  = /overriden options/document.addEventListenerDOMContentLoaded, function event
-  mathjaxScr
-excerpt: MathJax Dynamic Customized Load Main Snippet // original//
-  https://polyfill.io/v3/polyfill.min.js?features=es6//
-  https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js// const mathjaxOpt
-  = /overriden options/document.addEventListenerDOMContentLoaded, function event
-  mathjaxScr
+  https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-
 lang: en
-photos: []
-subtitle: MathJax Dynamic Customized Load Main Snippet // original//
-  https://polyfill.io/v3/polyfill.min.js?features=es6//
-  https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js// const mathjaxOpt
-  = /overriden options/document.addEventListenerDOMContentLoaded, function event
-  mathjaxScr
 tags:
-  - js
+  - javascript
   - snippet
 title: MathJax Dynamic Customized Load
 type: post
-updated: 2023-08-08T14:44:16+07:00
+updated: 2023-09-03T04:28:00+07:00
 wordcount: 935
 ---
 

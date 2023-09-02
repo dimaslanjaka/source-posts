@@ -2,20 +2,17 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - bash
 comments: true
 date: 2023-02-12T18:12:20+07:00
 description: bash script to commit root and all submodules at once
-excerpt: bash script to commit root and all submodules at once
 lang: en
-photos: []
-subtitle: bash script to commit root and all submodules at once
 tags:
   - snippet
   - script
+  - bash
 title: Script bash git commit recursive with submodules
 type: post
-updated: 2023-08-08T14:45:08+07:00
+updated: 2023-09-03T04:28:04+07:00
 wordcount: 216
 ---
 

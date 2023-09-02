@@ -2,20 +2,16 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - bash
-  - github
 comments: true
 date: 2023-06-01T11:47:07+07:00
 description: Removing old unneeded commits - saving disk space and making git clones faster
-excerpt: Removing old unneeded commits - saving disk space and making git clones faster
 lang: en
-photos: []
-subtitle: Removing old unneeded commits - saving disk space and making git clones faster
 tags:
   - github
+  - bash
 title: How to remove thousands old unneeded commits
 type: post
-updated: 2023-08-08T14:44:19+07:00
+updated: 2023-09-03T04:28:02+07:00
 wordcount: 1457
 ---
 

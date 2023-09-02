@@ -2,20 +2,17 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - javascript
 comments: true
 date: 2023-05-06T13:27:31+07:00
 description: How to fix upgrade npm ERR code EEXIST in nodejs
-excerpt: How to fix upgrade npm ERR code EEXIST in nodejs
 lang: en
-photos: []
-subtitle: How to fix upgrade npm ERR code EEXIST in nodejs
 tags:
   - nodejs
   - npm
+  - javascript
 title: npm upgrade failed err code EEXIST
 type: post
-updated: 2023-08-08T14:44:15+07:00
+updated: 2023-09-03T04:27:59+07:00
 wordcount: 782
 ---
 

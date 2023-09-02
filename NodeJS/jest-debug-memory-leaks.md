@@ -2,30 +2,19 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - javascript
-  - typescript
 comments: true
 date: 2023-05-27T17:04:21+07:00
 description: debug memory leaks with jest based on stackoverflowYou can try to
   use --logHeapUsageFrom documentation:Logs the heap usage after every test.
-  Useful to debug memory leaks. Use together with --runInBand and --expose-gc in
-  node.You can try exposing the garbage collector with --expose-gc and addin
-excerpt: debug memory leaks with jest based on stackoverflowYou can try to use
-  --logHeapUsageFrom documentation:Logs the heap usage after every test. Useful
-  to debug memory leaks. Use together with --runInBand and --expose-gc in
-  node.You can try exposing the garbage collector with --expose-gc and addin
+  Useful to debug mem
 lang: en
-photos: []
-subtitle: debug memory leaks with jest based on stackoverflowYou can try to use
-  --logHeapUsageFrom documentation:Logs the heap usage after every test. Useful
-  to debug memory leaks. Use together with --runInBand and --expose-gc in
-  node.You can try exposing the garbage collector with --expose-gc and addin
 tags:
   - jest
-  - js
+  - javascript
+  - typescript
 title: debug memory leaks with jest
 type: post
-updated: 2023-08-08T14:44:15+07:00
+updated: 2023-09-03T04:28:00+07:00
 wordcount: 1183
 ---
 

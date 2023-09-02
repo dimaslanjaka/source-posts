@@ -4,12 +4,10 @@ author:
   link: https://github.com/dimaslanjaka
 categories:
   - programming
-  - github
 comments: true
 cover: /GitHub/workflows/cover.png
 date: 2021-11-18T22:00:00+07:00
 description: Semua yang kamu harus tau tentang GitHub Workflows
-excerpt: Semua yang kamu harus tau tentang GitHub Workflows
 keywords:
   - GitHub
   - workflows
@@ -18,16 +16,16 @@ lang: id
 location: Indonesia
 photos:
   - /GitHub/workflows/cover.png
-subtitle: Semua yang kamu harus tau tentang GitHub Workflows
 tags:
   - github-workflows
   - snippet
   - yaml
   - github-actions
+  - github
 thumbnail: /GitHub/workflows/cover.png
 title: GitHub Workflows
 type: post
-updated: 2023-08-08T14:44:18+07:00
+updated: 2023-09-03T04:28:01+07:00
 webtitle: WMI GitHub
 wordcount: 1314
 ---

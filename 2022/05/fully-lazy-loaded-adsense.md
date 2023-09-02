@@ -2,19 +2,15 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - js
-  - html
 comments: true
 cover: https://1.bp.blogspot.com/-JB0hsyji7wo/XR0Sq_evvpI/AAAAAAAATlo/afDSTs1Y-HcrcDANMV9fGrGwZUU37o31wCLcBGAs/w600/Cara-Memasang-Lazy-Load-Iklan-Adsense.png
 date: 2022-05-10T23:20:16+0000
 description: Snippet lazy load adsense full support for blogger, wordpress, etc
-excerpt: Snippet lazy load adsense full support for blogger, wordpress, etc
 lang: en
 photos:
   - https://1.bp.blogspot.com/-JB0hsyji7wo/XR0Sq_evvpI/AAAAAAAATlo/afDSTs1Y-HcrcDANMV9fGrGwZUU37o31wCLcBGAs/w600/Cara-Memasang-Lazy-Load-Iklan-Adsense.png
-subtitle: Snippet lazy load adsense full support for blogger, wordpress, etc
 tags:
-  - js
+  - javascript
   - html
   - blogger
   - wordpress
@@ -22,7 +18,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-JB0hsyji7wo/XR0Sq_evvpI/AAAAAAAATlo/afDSTs1Y-HcrcDANMV9fGrGwZUU37o31wCLcBGAs/w600/Cara-Memasang-Lazy-Load-Iklan-Adsense.png
 title: Lazy Load Adsense Full Support 2022 Adsense API
 type: post
-updated: 2023-08-19T22:02:43+07:00
+updated: 2023-09-03T04:28:05+07:00
 wordcount: 586
 ---
 

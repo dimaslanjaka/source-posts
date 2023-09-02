@@ -2,24 +2,21 @@
 author: Dimas Lanjaka
 categories:
   - programming
-  - javascript
-  - typescript
 comments: true
 date: 2023-05-19T15:31:45+07:00
 description: How to test render custom tag on single post HexoJS ? QA How to
   test render custom tag on single post HexoJS ?original disscussion at
-  https://github.com/orgs/hexojs/discussions/5203 How to test render custom tag
-  on single post HexoJS ? original disscussion at
-  https://github.com/orgs/hexojs/discussi
+  https://github.com/orgs/he
 lang: en
 tags:
   - hexo
   - snippet
   - script
   - javascript
+  - typescript
 title: How to test render custom tag on single post HexoJS ?
 type: post
-updated: 2023-08-26T05:35:25+07:00
+updated: 2023-09-03T04:28:04+07:00
 wordcount: 466
 ---
 
