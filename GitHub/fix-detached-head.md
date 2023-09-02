@@ -5,10 +5,7 @@ categories:
 comments: true
 cover: https://production-cci-com.imgix.net/blog/media/2021-10-22-git-detached-head-3.png
 date: 2022-10-10T22:56:00+0700
-description: Now it turns out that the head is cut off/detached. i dont know
-  what it is. How do I get it back?
-excerpt: Now it turns out that the head is cut off/detached. i dont know what it
-  is. How do I get it back?
+description: Now it turns out that the head is cut off/detached. i dont know what it is. How do I get it back?
 keywords:
   - github
   - fix
@@ -16,14 +13,12 @@ keywords:
 lang: en
 photos:
   - https://production-cci-com.imgix.net/blog/media/2021-10-22-git-detached-head-3.png
-subtitle: Now it turns out that the head is cut off/detached. i dont know what
-  it is. How do I get it back?
 tags:
   - github
 thumbnail: https://production-cci-com.imgix.net/blog/media/2021-10-22-git-detached-head-3.png
 title: How to fix github detached HEAD
 type: post
-updated: 2023-08-08T14:44:19+07:00
+updated: 2023-09-02T18:26:50.750Z
 wordcount: 517
 ---
 
@@ -34,16 +29,14 @@ If you want to *delete* your changes associated with the detached HEAD
 
 You only need to checkout the branch you were on, e.g.
 
-```
+```bash
 git checkout master
-
 ```
 
 If you then change the file and want to restore the state in the index, delete the file without deleting it first.
 
-```
+```bash
 git checkout -- path/to/foo
-
 ```
 
 This will restore the file foo to the state it is in the index.
