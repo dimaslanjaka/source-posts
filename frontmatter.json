@@ -52,12 +52,6 @@
           "isModifiedDate": true
         },
         {
-          "title": "uuid",
-          "name": "uuid",
-          "type": "string",
-          "editable": false
-        },
-        {
           "name": "permalink",
           "editable": true,
           "type": "slug"
@@ -66,10 +60,6 @@
           "title": "Author",
           "name": "author",
           "type": "divider"
-        },
-        {
-          "name": "slug",
-          "required": false
         }
       ]
     }
