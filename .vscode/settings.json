@@ -1,0 +1,47 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.runInTerminal": true,
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    }
+  },
+  "[typescript]": {
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+  },
+  "emmet.includeLanguages": {
+    "md": "html",
+    "njk": "html"
+  },
+  "terminal.integrated.env.windows": {
+    "PATH": "${env:PATH};${workspaceFolder}\\bin;${workspaceFolder}\\node_modules\\.bin"
+  },
+  "terminal.integrated.env.linux": {
+    "PATH": "${workspaceFolder}/bin:${env:PATH}:${workspaceFolder}/node_modules/.bin"
+  },
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "search.exclude": {
+    "**/.cache/**": true,
+    "**/dist/**": true
+  },
+  "code-runner.executorMapByGlob": {
+    "electron-*.ts": "cross-env-shell NODE_ENV=development electron -r ts-node/register -r dotenv/config"
+  },
+  "code-runner.respectShebang": true,
+  "code-runner.executorMap": {
+    "javascript": "cross-env-shell NODE_ENV=development node -r dotenv/config -r ts-node/register",
+    "typescript": "cross-env-shell NODE_ENV=development node --experimental-specifier-resolution=node --loader ts-node/esm -r dotenv/config"
+  },
+  "code-runner.saveFileBeforeRun": true,
+  "nunjucksTemplate.preserveEmptyLine": 3,
+  "npm.packageManager": "yarn",
+  "eslint.packageManager": "yarn"
+}
