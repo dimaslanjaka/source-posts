@@ -5,7 +5,6 @@ author:
 categories:
   - games
   - the legend of neverland
-  - bluestacks
 comments: true
 cover: /The Legend Of Neverland/Fishing/Studio_Project.jpeg
 date: 2021-09-19T00:00:00+07:00
@@ -18,11 +17,12 @@ photos:
 subtitle: Macros Auto Fishing Bluestacks for the legend of neverland download
 tags:
   - macros
+  - bluestacks
   - life skill
 thumbnail: /The Legend Of Neverland/Fishing/Studio_Project.jpeg
 title: Auto Fishing
 type: post
-updated: 2023-08-08T14:44:12+07:00
+updated: 2023-09-02T22:00:09.779Z
 wordcount: 754
 ---
 
