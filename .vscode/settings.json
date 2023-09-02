@@ -9,6 +9,10 @@
   "[markdown]": {
     "editor.quickSuggestions": {
       "strings": true
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll": false,
+      "source.organizeImports": false
     }
   },
   "[typescript]": {
