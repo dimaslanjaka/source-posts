@@ -1,1 +1,40 @@
-{"taxonomy":{"tags":["Adsense","Android","Blogger","Blogging","CSS","Durango","Facebook","Games","HTML","JS","Miscellaneous","PHP","SEO","Social Media","Tips & Tricks","Tools","VainGlory","Wordpress","bash","batch","cmd","github","guide","powershell","script","vscode"],"categories":["bash","cmd","github","programming","shell"]}}
+{
+  "taxonomy": {
+    "tags": [
+      "blogger",
+      "facebook",
+      "games",
+      "html",
+      "js",
+      "miscellaneous",
+      "php",
+      "seo",
+      "social media",
+      "tips & tricks",
+      "tools",
+      "vainglory",
+      "wordpress",
+      "adsense",
+      "android",
+      "bash",
+      "batch",
+      "blogging",
+      "cmd",
+      "css",
+      "durango",
+      "github",
+      "guide",
+      "powershell",
+      "script",
+      "vscode"
+    ],
+    "categories": [
+      "bash",
+      "cmd",
+      "github",
+      "programming",
+      "shell",
+      "uncategorized"
+    ]
+  }
+}
