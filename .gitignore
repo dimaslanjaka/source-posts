@@ -25,3 +25,5 @@ tmp
 
 # auto generated husky files by `husky install`
 **/.husky/_
+
+db.json
