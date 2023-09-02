@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/4d5a3d96d1f59cec23878a9b1e7ee970.jpeg
 date: 2019-12-22T03:14:00.000+07:00
 description: Related Post Blogger Support WEBP Related Blogger Post Support WEBP
   After the previous post we got a solution for Blogger thumbnails to
-excerpt: Related Post Blogger Support WEBP Related Blogger Post Support WEBP
-  After the previous post we got a solution for Blogger thumbnails to
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/4d5a3d96d1f59cec23878a9b1e7ee970.jpeg
-subtitle: Related Post Blogger Support WEBP Related Blogger Post Support WEBP
-  After the previous post we got a solution for Blogger thumbnails to
 tags:
   - share
   - blogger
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/4d5a3d96d1f59cec23878a9b1e7ee970.jpeg
 title: Related Post Blogger Support WEBP
 type: post
-updated: 2023-08-08T14:45:15+07:00
+updated: 2023-09-03T06:13:16+07:00
 wordcount: 3524
 ---
 

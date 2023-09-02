@@ -4,25 +4,21 @@ author:
   link: https://www.blogger.com/profile/00073980860956332189
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://2.bp.blogspot.com/-a0sq1Wumnlg/UzKddVU-T9I/AAAAAAAAbig/hsq3W86sRMM/w1100/Blogger-Share-Button-Hack.png
 date: 2017-08-23T09:55:00.000+07:00
 description: Actually Blogger has been updating its share button quite a bit by
   adding Pinterest button.But just now I am thinking of making it valid
-excerpt: Actually Blogger has been updating its share button quite a bit by
-  adding Pinterest button.But just now I am thinking of making it valid
 lang: en
 photos:
   - https://2.bp.blogspot.com/-a0sq1Wumnlg/UzKddVU-T9I/AAAAAAAAbig/hsq3W86sRMM/w1100/Blogger-Share-Button-Hack.png
-subtitle: Actually Blogger has been updating its share button quite a bit by
-  adding Pinterest button.But just now I am thinking of making it valid
 tags:
   - blogger
 thumbnail: https://2.bp.blogspot.com/-a0sq1Wumnlg/UzKddVU-T9I/AAAAAAAAbig/hsq3W86sRMM/w1100/Blogger-Share-Button-Hack.png
 title: How to Modify Blogger Share Button Tweak Valid HTML5 CSS3
 type: post
-updated: 2023-08-08T14:45:49+07:00
+updated: 2023-09-03T06:13:43+07:00
 wordcount: 2410
 ---
 

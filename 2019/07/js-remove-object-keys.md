@@ -4,25 +4,21 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2019-07-18T02:14:00.002+07:00
 description: "pre><br />var thisIsObject= <br /> apos;Cowapos; :
   apos;Mooapos;,<br /> apos;Catapos; : apos;Meowapos;,<br />"
-excerpt: "pre><br />var thisIsObject= <br /> apos;Cowapos; : apos;Mooapos;,<br
-  /> apos;Catapos; : apos;Meowapos;,<br />"
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: "pre><br />var thisIsObject= <br /> apos;Cowapos; : apos;Mooapos;,<br
-  /> apos;Catapos; : apos;Meowapos;,<br />"
 tags:
   - js
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: "[JS] Remove Object Keys"
 type: post
-updated: 2023-08-08T14:45:30+07:00
+updated: 2023-09-03T06:13:25+07:00
 wordcount: 223
 ---
 

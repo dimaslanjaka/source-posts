@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.victim-site.com/img/snapshots/websocket.png
 date: 2019-07-13T01:38:00.001+07:00
 description: "Cara membuat websocket dengan Javascript JS dan PHPUpdate: Simple
   WebsocketRequirements: PHP 5.6 minimumWebsocket merupakan standard"
-excerpt: "Cara membuat websocket dengan Javascript JS dan PHPUpdate: Simple
-  WebsocketRequirements: PHP 5.6 minimumWebsocket merupakan standard"
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.victim-site.com/img/snapshots/websocket.png
-subtitle: "Cara membuat websocket dengan Javascript JS dan PHPUpdate: Simple
-  WebsocketRequirements: PHP 5.6 minimumWebsocket merupakan standard"
 tags:
   - js
   - html
@@ -25,7 +21,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.victim-site.com/img/snapshots/websocket.png
 title: "[JS][PHP] Membuat Websocket Javascript"
 type: post
-updated: 2023-08-08T14:45:30+07:00
+updated: 2023-09-03T06:13:25+07:00
 wordcount: 1168
 ---
 

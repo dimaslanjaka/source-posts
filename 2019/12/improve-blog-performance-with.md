@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/7eda57e044b4b484bdb43a59f29078d0.jpeg
 date: 2019-12-29T23:37:00.000+07:00
 description: Tingkatkan Performa Blog Dengan DNS Cloudflare Increase Blog
   Performance with Cloudflare DNS Basically all DNS is the same, namely the
-excerpt: Tingkatkan Performa Blog Dengan DNS Cloudflare Increase Blog
-  Performance with Cloudflare DNS Basically all DNS is the same, namely the
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/7eda57e044b4b484bdb43a59f29078d0.jpeg
-subtitle: Tingkatkan Performa Blog Dengan DNS Cloudflare Increase Blog
-  Performance with Cloudflare DNS Basically all DNS is the same, namely the
 tags:
   - share
   - blogger
@@ -25,7 +21,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/7eda57e044b4b484bdb43a59f29078d0.jpeg
 title: Improve Blog Performance with Cloudflare DNS
 type: post
-updated: 2023-08-08T14:45:16+07:00
+updated: 2023-09-03T06:13:16+07:00
 wordcount: 4555
 ---
 

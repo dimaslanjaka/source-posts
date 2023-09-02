@@ -4,34 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-04-15T20:43:00.000+07:00
-description: "Cara membuat halaman contact form di blog AMP Cara membuat contact
+description: Cara membuat halaman contact form di blog AMP Cara membuat contact
   form di blog non-javascript atau bisa disebut AMP. Kali ini saya akan share
-  bagaimana cara membuat contact form di halaman blog AMP. Langkah 1:
-  lt;--</body>--gt;lt;/bodygt; Bila tidak maka ubah kode </body> dengan kode
-  diatas"
-excerpt: "Cara membuat halaman contact form di blog AMP Cara membuat contact
-  form di blog non-javascript atau bisa disebut AMP. Kali ini saya akan share
-  bagaimana cara membuat contact form di halaman blog AMP. Langkah 1:
-  lt;--</body>--gt;lt;/bodygt; Bila tidak maka ubah kode </body> dengan kode
-  diatas"
+  bagaimana cara me
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: "Cara membuat halaman contact form di blog AMP Cara membuat contact
-  form di blog non-javascript atau bisa disebut AMP. Kali ini saya akan share
-  bagaimana cara membuat contact form di halaman blog AMP. Langkah 1:
-  lt;--</body>--gt;lt;/bodygt; Bila tidak maka ubah kode </body> dengan kode
-  diatas"
 tags:
   - blogger
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Cara membuat halaman contact form di blog AMP
 type: post
-updated: 2023-08-08T14:46:01+07:00
+updated: 2023-09-03T06:13:58+07:00
 wordcount: 1458
 ---
 

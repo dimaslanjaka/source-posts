@@ -4,22 +4,20 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://www.webmanajemen.com/assets/img/html.png
 date: 2019-07-23T07:24:00.000+07:00
 description: simbol matematika dan penulisan dalam html HTML.
-excerpt: simbol matematika dan penulisan dalam html HTML.
 lang: en
 photos:
   - https://www.webmanajemen.com/assets/img/html.png
-subtitle: simbol matematika dan penulisan dalam html HTML.
 tags:
   - html
 thumbnail: https://www.webmanajemen.com/assets/img/html.png
 title: Symbol Matematika HTML format
 type: post
-updated: 2023-08-08T14:45:29+07:00
+updated: 2023-09-03T06:13:24+07:00
 wordcount: 2532
 ---
 

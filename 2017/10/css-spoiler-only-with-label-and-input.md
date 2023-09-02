@@ -4,16 +4,14 @@ author:
   link: https://www.blogger.com/profile/00073980860956332189
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blogspot.com/-fuQY4ZIJfBw/WIfqL98biyI/AAAAAAAApSU/2Tw6yaOlGJ8GjyAXYt60X65XxNbn8kMIACLcB/w1100/spoiler-css-only.jpg
 date: 2017-10-07T05:14:00.000+07:00
 description: unfortunately thedetailsandsummary tagsare not allowed in AMP HTML.
-excerpt: unfortunately thedetailsandsummary tagsare not allowed in AMP HTML.
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blogspot.com/-fuQY4ZIJfBw/WIfqL98biyI/AAAAAAAApSU/2Tw6yaOlGJ8GjyAXYt60X65XxNbn8kMIACLcB/w1100/spoiler-css-only.jpg
-subtitle: unfortunately thedetailsandsummary tagsare not allowed in AMP HTML.
 tags:
   - css
   - blogger
@@ -22,7 +20,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blogspot.com/-fuQY4ZIJfBw/WIfqL98biyI/AAAAAAAApSU/2Tw6yaOlGJ8GjyAXYt60X65XxNbn8kMIACLcB/w1100/spoiler-css-only.jpg
 title: CSS Spoiler Only With Label And Input
 type: post
-updated: 2023-08-08T14:45:44+07:00
+updated: 2023-09-03T06:13:39+07:00
 wordcount: 1293
 ---
 

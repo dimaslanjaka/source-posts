@@ -4,26 +4,22 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://cdn.pixabay.com/photo/2014/08/06/00/06/search-engine-411105_1280.jpg
 date: 2017-10-03T02:35:00.000+07:00
 description: There is one of the bloggers on the comments asking about how to
   blog can search on google.
-excerpt: There is one of the bloggers on the comments asking about how to blog
-  can search on google.
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://cdn.pixabay.com/photo/2014/08/06/00/06/search-engine-411105_1280.jpg
-subtitle: There is one of the bloggers on the comments asking about how to blog
-  can search on google.
 tags:
   - seo
   - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://cdn.pixabay.com/photo/2014/08/06/00/06/search-engine-411105_1280.jpg
 title: SEE THE BLOG POSITION IN SEARCH ENGINE
 type: post
-updated: 2023-08-08T14:45:43+07:00
+updated: 2023-09-03T06:13:38+07:00
 wordcount: 861
 ---
 

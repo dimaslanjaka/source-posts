@@ -4,16 +4,14 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://3.bp.blogspot.com/-ItMBdFpxYYE/V_H7ypdUiWI/AAAAAAAAESI/g1v0CDfhJR4-4PAqBUijaH0erCXuOmuNQCLcB/s550/Mengganti%2BWarna%2BAddress%2BBar%2BBrowser%2BHandphone%2BAgar%2BSesuai%2BLayout%2BBlog%2B01.jpg
 date: 2017-05-23T22:53:00.000+07:00
 description: Color Changing Mobile Browser Address Bar Layout To Match Blog
-excerpt: Color Changing Mobile Browser Address Bar Layout To Match Blog
 lang: en
 photos:
   - https://3.bp.blogspot.com/-ItMBdFpxYYE/V_H7ypdUiWI/AAAAAAAAESI/g1v0CDfhJR4-4PAqBUijaH0erCXuOmuNQCLcB/s550/Mengganti%2BWarna%2BAddress%2BBar%2BBrowser%2BHandphone%2BAgar%2BSesuai%2BLayout%2BBlog%2B01.jpg
-subtitle: Color Changing Mobile Browser Address Bar Layout To Match Blog
 tags:
   - wordpress
   - blogger
@@ -21,7 +19,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-ItMBdFpxYYE/V_H7ypdUiWI/AAAAAAAAESI/g1v0CDfhJR4-4PAqBUijaH0erCXuOmuNQCLcB/s550/Mengganti%2BWarna%2BAddress%2BBar%2BBrowser%2BHandphone%2BAgar%2BSesuai%2BLayout%2BBlog%2B01.jpg
 title: How to changing mobile browser address color bar to match layout blog
 type: post
-updated: 2023-08-08T14:45:56+07:00
+updated: 2023-09-03T06:13:48+07:00
 wordcount: 1322
 ---
 

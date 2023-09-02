@@ -4,22 +4,16 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webubi.com/wp-content/uploads/2017/03/regex.png
 date: 2018-11-23T22:25:00.000+07:00
 description: img
   src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webubi.com/wp-content/uploads/2017/03/regex.png
   alt=regexp
-excerpt: img
-  src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webubi.com/wp-content/uploads/2017/03/regex.png
-  alt=regexp
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webubi.com/wp-content/uploads/2017/03/regex.png
-subtitle: img
-  src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webubi.com/wp-content/uploads/2017/03/regex.png
-  alt=regexp
 tags:
   - script
   - js
@@ -27,7 +21,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.webubi.com/wp-content/uploads/2017/03/regex.png
 title: "[JS][PHP] Regexp for matching URL Pattern"
 type: post
-updated: 2023-08-08T14:45:36+07:00
+updated: 2023-09-03T06:13:32+07:00
 wordcount: 315
 ---
 

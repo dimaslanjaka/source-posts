@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-11-21T23:53:00.000+07:00
 description: center><h2>Demo</h2></center><iframe
   src=//rawgit.com/dimaslanjaka/Web-Manajemen/master/HTML/Text-Animate/20Scale20LetterHovers.html
-excerpt: center><h2>Demo</h2></center><iframe
-  src=//rawgit.com/dimaslanjaka/Web-Manajemen/master/HTML/Text-Animate/20Scale20LetterHovers.html
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: center><h2>Demo</h2></center><iframe
-  src=//rawgit.com/dimaslanjaka/Web-Manajemen/master/HTML/Text-Animate/20Scale20LetterHovers.html
 tags:
   - css
   - js
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: SCSS Animate Hover Scale Letters
 type: post
-updated: 2023-08-08T14:45:42+07:00
+updated: 2023-09-03T06:13:37+07:00
 wordcount: 486
 ---
 

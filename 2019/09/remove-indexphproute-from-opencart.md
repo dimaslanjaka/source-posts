@@ -4,26 +4,22 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://i.pinimg.com/originals/6b/fd/9c/6bfd9ce3f5358772d835bc0f03fa26be.png
 date: 2019-09-27T13:13:00.001+07:00
 description: I Also have the same problem and any that I found not solved my
   problem. But I remember that I also working with Laravel and in
-excerpt: I Also have the same problem and any that I found not solved my
-  problem. But I remember that I also working with Laravel and in
 lang: en
 photos:
   - https://i.pinimg.com/originals/6b/fd/9c/6bfd9ce3f5358772d835bc0f03fa26be.png
-subtitle: I Also have the same problem and any that I found not solved my
-  problem. But I remember that I also working with Laravel and in
 tags:
   - php
   - tips & tricks
 thumbnail: https://i.pinimg.com/originals/6b/fd/9c/6bfd9ce3f5358772d835bc0f03fa26be.png
 title: Remove index.php?route= from opencart
 type: post
-updated: 2023-08-08T14:45:28+07:00
+updated: 2023-09-03T06:13:24+07:00
 wordcount: 1371
 ---
 

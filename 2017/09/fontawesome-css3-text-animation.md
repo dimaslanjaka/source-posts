@@ -4,31 +4,16 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://1.bp.blogspot.com/-JTaqhxiYd1E/WcU1hIQLgxI/AAAAAAAAAHk/sZcV1Nd5gf8nN_sb9B26g69ev9WkebldACLcBGAs/s320/Screenshot_2017-09-22-23-08-01-400_com.android.chrome.png
 date: 2017-09-20T11:36:00.000+07:00
-description: "FontAwesome CSS3 Text Animation Text Animation CSS and FontAwesome
+description: FontAwesome CSS3 Text Animation Text Animation CSS and FontAwesome
   Import font-awesome from cdn
-  ->https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.\
-  min.cssCSS: @import
-  urlhttps://fonts.googleapis.com/css?family=AntonRoboto;.word font-family:
-  Anton, sans-serif; "
-excerpt: "FontAwesome CSS3 Text Animation Text Animation CSS and FontAwesome
-  Import font-awesome from cdn
-  ->https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.\
-  min.cssCSS: @import
-  urlhttps://fonts.googleapis.com/css?family=AntonRoboto;.word font-family:
-  Anton, sans-serif; "
+  ->https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/
 lang: en
 photos:
   - https://1.bp.blogspot.com/-JTaqhxiYd1E/WcU1hIQLgxI/AAAAAAAAAHk/sZcV1Nd5gf8nN_sb9B26g69ev9WkebldACLcBGAs/s320/Screenshot_2017-09-22-23-08-01-400_com.android.chrome.png
-subtitle: "FontAwesome CSS3 Text Animation Text Animation CSS and FontAwesome
-  Import font-awesome from cdn
-  ->https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.\
-  min.cssCSS: @import
-  urlhttps://fonts.googleapis.com/css?family=AntonRoboto;.word font-family:
-  Anton, sans-serif; "
 tags:
   - css
   - js
@@ -36,7 +21,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-JTaqhxiYd1E/WcU1hIQLgxI/AAAAAAAAAHk/sZcV1Nd5gf8nN_sb9B26g69ev9WkebldACLcBGAs/s320/Screenshot_2017-09-22-23-08-01-400_com.android.chrome.png
 title: FontAwesome CSS3 Text Animation
 type: post
-updated: 2023-08-08T14:45:47+07:00
+updated: 2023-09-03T06:13:41+07:00
 wordcount: 1452
 ---
 

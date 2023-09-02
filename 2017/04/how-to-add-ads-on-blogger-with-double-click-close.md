@@ -4,19 +4,15 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://2.bp.blogspot.com/-vz_NgjmMup4/VR6qQOfliiI/AAAAAAAAA0g/ps8xLzLvGwM/s1600/advertise-here.jpg
 date: 2017-04-11T06:14:00.002+07:00
 description: On this occasion i will be able to share a way to a way to
   Advertise on journal shut two times, as I actually have
-excerpt: On this occasion i will be able to share a way to a way to Advertise on
-  journal shut two times, as I actually have
 lang: en
 photos:
   - https://2.bp.blogspot.com/-vz_NgjmMup4/VR6qQOfliiI/AAAAAAAAA0g/ps8xLzLvGwM/s1600/advertise-here.jpg
-subtitle: On this occasion i will be able to share a way to a way to Advertise
-  on journal shut two times, as I actually have
 tags:
   - adsense
   - blogger
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://2.bp.blogspot.com/-vz_NgjmMup4/VR6qQOfliiI/AAAAAAAAA0g/ps8xLzLvGwM/s1600/advertise-here.jpg
 title: How To Add Ads On Blogger With Double Clicks Close
 type: post
-updated: 2023-08-08T14:46:00+07:00
+updated: 2023-09-03T06:13:55+07:00
 wordcount: 1167
 ---
 

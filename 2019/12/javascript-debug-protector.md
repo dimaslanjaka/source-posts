@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://i.ytimg.com/vi/8VyzRlxo2-k/maxresdefault.jpg
 date: 2019-12-29T15:02:00.001+07:00
 description: How to protect javascript from developer tools here the answer. put
   this code into your page or template before closing body
-excerpt: How to protect javascript from developer tools here the answer. put
-  this code into your page or template before closing body
 lang: en
 photos:
   - https://i.ytimg.com/vi/8VyzRlxo2-k/maxresdefault.jpg
-subtitle: How to protect javascript from developer tools here the answer. put
-  this code into your page or template before closing body
 tags:
   - js
   - share
@@ -25,7 +21,7 @@ tags:
 thumbnail: https://i.ytimg.com/vi/8VyzRlxo2-k/maxresdefault.jpg
 title: Javascript Debug Protector
 type: post
-updated: 2023-08-08T14:45:16+07:00
+updated: 2023-09-03T06:13:16+07:00
 wordcount: 250
 ---
 

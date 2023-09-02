@@ -4,28 +4,16 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjdpDoe7h7wNQx9CmRe46wN2Ta_p7TYUg_q9p0GUr6OM6Y1hml
 date: 2017-04-17T04:31:00.001+07:00
-description: "How to beautify html javascript and css using script on the fly
-  How to beautify html javascript css and fix it using javascript on the fly
-  dinamically. Put code below before </head> on your website or blog. Normal
-  version: Minify version Another required script: Conclusion: Using minify
-  script: <"
-excerpt: "How to beautify html javascript and css using script on the fly How to
-  beautify html javascript css and fix it using javascript on the fly
-  dinamically. Put code below before </head> on your website or blog. Normal
-  version: Minify version Another required script: Conclusion: Using minify
-  script: <"
+description: How to beautify html javascript and css using script on the fly How
+  to beautify html javascript css and fix it using javascript on the fly
+  dinamically. Put code
 lang: en
 photos:
   - https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjdpDoe7h7wNQx9CmRe46wN2Ta_p7TYUg_q9p0GUr6OM6Y1hml
-subtitle: "How to beautify html javascript and css using script on the fly How
-  to beautify html javascript css and fix it using javascript on the fly
-  dinamically. Put code below before </head> on your website or blog. Normal
-  version: Minify version Another required script: Conclusion: Using minify
-  script: <"
 tags:
   - wordpress
   - css
@@ -36,7 +24,7 @@ tags:
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjdpDoe7h7wNQx9CmRe46wN2Ta_p7TYUg_q9p0GUr6OM6Y1hml
 title: How to beautify html javascript and css using script on the fly
 type: post
-updated: 2023-08-08T14:46:00+07:00
+updated: 2023-09-03T06:13:55+07:00
 wordcount: 237
 ---
 

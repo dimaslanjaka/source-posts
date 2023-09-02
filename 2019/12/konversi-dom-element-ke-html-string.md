@@ -4,26 +4,22 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2019-12-28T11:49:00.001+07:00
 description: MengubahdomdocumentsebuahelemenkedalamHTMlstringbiasa<div
   id=elemenTersedia></div><script>function
-excerpt: MengubahdomdocumentsebuahelemenkedalamHTMlstringbiasa<div
-  id=elemenTersedia></div><script>function
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: MengubahdomdocumentsebuahelemenkedalamHTMlstringbiasa<div
-  id=elemenTersedia></div><script>function
 tags:
   - js
   - html
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Konversi DOM element ke HTML string
 type: post
-updated: 2023-08-08T14:45:16+07:00
+updated: 2023-09-03T06:13:16+07:00
 wordcount: 276
 ---
 

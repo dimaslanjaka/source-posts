@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://imgdb.net/images/3203.jpg
 date: 2017-11-11T23:34:00.000+07:00
 description: center><h2>Adsense Shortcode Wordpress Compatible With WP AMP NINJA
   Plugin</h2></center><img src=https://imgdb.net/images/3203.jpg /><br
-excerpt: center><h2>Adsense Shortcode Wordpress Compatible With WP AMP NINJA
-  Plugin</h2></center><img src=https://imgdb.net/images/3203.jpg /><br
 lang: en
 photos:
   - https://imgdb.net/images/3203.jpg
-subtitle: center><h2>Adsense Shortcode Wordpress Compatible With WP AMP NINJA
-  Plugin</h2></center><img src=https://imgdb.net/images/3203.jpg /><br
 tags:
   - adsense
   - wordpress
@@ -25,7 +21,7 @@ tags:
 thumbnail: https://imgdb.net/images/3203.jpg
 title: In Article Ads And Single Ads Shortcode Wordpress With WP AMP NINJA Plugin
 type: post
-updated: 2023-08-08T14:45:43+07:00
+updated: 2023-09-03T06:13:38+07:00
 wordcount: 715
 ---
 

@@ -4,26 +4,22 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2018-11-06T03:08:00.000+07:00
 description: "if you mean how much ramcpu php is using then you can do the
   following using plain php without using any package: this returns the"
-excerpt: "if you mean how much ramcpu php is using then you can do the following
-  using plain php without using any package: this returns the"
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: "if you mean how much ramcpu php is using then you can do the
-  following using plain php without using any package: this returns the"
 tags:
   - script
   - php
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Get CPU usage / RAM usage [PHP]
 type: post
-updated: 2023-08-08T14:45:37+07:00
+updated: 2023-09-03T06:13:33+07:00
 wordcount: 291
 ---
 

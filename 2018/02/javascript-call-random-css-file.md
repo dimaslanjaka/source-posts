@@ -4,26 +4,22 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://goo.gl/dzGpyo
 date: 2018-02-10T06:57:00.000+07:00
 description: I am trying to rotate random CSS sheets via JS I have the following
   script but when I am using it - it doesnt seem to work ?
-excerpt: I am trying to rotate random CSS sheets via JS I have the following
-  script but when I am using it - it doesnt seem to work ?
 lang: en
 photos:
   - https://goo.gl/dzGpyo
-subtitle: I am trying to rotate random CSS sheets via JS I have the following
-  script but when I am using it - it doesnt seem to work ?
 tags:
   - css
   - js
 thumbnail: https://goo.gl/dzGpyo
 title: JavaScript Call Random CSS file
 type: post
-updated: 2023-08-08T14:45:41+07:00
+updated: 2023-09-03T06:13:36+07:00
 wordcount: 504
 ---
 

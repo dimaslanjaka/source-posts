@@ -4,26 +4,22 @@ author:
   link: https://www.blogger.com/profile/00073980860956332189
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPiiyCAjSBQpwIQYKGS6wUqFGHQWSK9W7UhmZ5mu9eAPavFkA-
 date: 2017-04-20T18:27:00.000+07:00
 description: Expandable Search Bar [CSS] How to create expandable search bar
   using CSS Only. Here the demo. CSS HTML
-excerpt: Expandable Search Bar [CSS] How to create expandable search bar using
-  CSS Only. Here the demo. CSS HTML
 lang: en
 photos:
   - https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPiiyCAjSBQpwIQYKGS6wUqFGHQWSK9W7UhmZ5mu9eAPavFkA-
-subtitle: Expandable Search Bar [CSS] How to create expandable search bar using
-  CSS Only. Here the demo. CSS HTML
 tags:
   - css
   - html
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPiiyCAjSBQpwIQYKGS6wUqFGHQWSK9W7UhmZ5mu9eAPavFkA-
 title: Expandable Search Bar [CSS]
 type: post
-updated: 2023-08-08T14:46:01+07:00
+updated: 2023-09-03T06:13:56+07:00
 wordcount: 53
 ---
 

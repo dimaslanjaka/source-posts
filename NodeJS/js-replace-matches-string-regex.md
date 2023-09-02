@@ -3,22 +3,20 @@ author:
   nick: Dimas Lanjaka
   link: http://webmanajemen.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/practicaldev/image/fetch/s--73FnDTzR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ibb.co/DWR2ZKQ/carbon-3.png
 date: 2021-12-19T15:07:43+07:00
 description: How to match regex from string and replace matched string 1-9
-excerpt: How to match regex from string and replace matched string 1-9
 lang: en
 photos:
   - https://res.cloudinary.com/practicaldev/image/fetch/s--73FnDTzR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ibb.co/DWR2ZKQ/carbon-3.png
-subtitle: How to match regex from string and replace matched string 1-9
 tags:
   - js
 thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/s--73FnDTzR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ibb.co/DWR2ZKQ/carbon-3.png
 title: Replace Matched Regex 1-9 From String
 type: post
-updated: 2023-08-08T14:44:15+07:00
+updated: 2023-09-03T06:13:02+07:00
 wordcount: 321
 ---
 

@@ -4,28 +4,16 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://3.bp.blogspot.com/-2GV0ViBRH0Y/Wbf65awyH9I/AAAAAAAAAFY/03ly2YaDb94PqUXRdkwXbOVSMWfn1USCwCLcBGAs/s320/PicsArt_09-12-10.18.11.png
 date: 2017-09-12T22:21:00.001+07:00
 description: SEO Responsive Author Box Untuk Blog Apakabar semuaJumpa lagi
   dengan topik Snippet Html/CSS.Kali ini kami akan share Snippet SEO RESPONSIVE
-  AUTHOR BOX untuk blog kalian nih. Ditambah Schema Structure
-  Untuk:PersonsOrganizationOrganizationRoleResponsive:Author box ini fleksibel
-  untuk semua macam
-excerpt: SEO Responsive Author Box Untuk Blog Apakabar semuaJumpa lagi dengan
-  topik Snippet Html/CSS.Kali ini kami akan share Snippet SEO RESPONSIVE AUTHOR
-  BOX untuk blog kalian nih. Ditambah Schema Structure
-  Untuk:PersonsOrganizationOrganizationRoleResponsive:Author box ini fleksibel
-  untuk semua macam
+  AUTHOR BOX untuk blo
 lang: en
 photos:
   - https://3.bp.blogspot.com/-2GV0ViBRH0Y/Wbf65awyH9I/AAAAAAAAAFY/03ly2YaDb94PqUXRdkwXbOVSMWfn1USCwCLcBGAs/s320/PicsArt_09-12-10.18.11.png
-subtitle: SEO Responsive Author Box Untuk Blog Apakabar semuaJumpa lagi dengan
-  topik Snippet Html/CSS.Kali ini kami akan share Snippet SEO RESPONSIVE AUTHOR
-  BOX untuk blog kalian nih. Ditambah Schema Structure
-  Untuk:PersonsOrganizationOrganizationRoleResponsive:Author box ini fleksibel
-  untuk semua macam
 tags:
   - css
   - html
@@ -33,7 +21,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-2GV0ViBRH0Y/Wbf65awyH9I/AAAAAAAAAFY/03ly2YaDb94PqUXRdkwXbOVSMWfn1USCwCLcBGAs/s320/PicsArt_09-12-10.18.11.png
 title: SEO Responsive Author Box Untuk Blog
 type: post
-updated: 2023-08-08T14:45:46+07:00
+updated: 2023-09-03T06:13:40+07:00
 wordcount: 1003
 ---
 

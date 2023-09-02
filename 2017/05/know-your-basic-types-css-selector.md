@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpLEYpRfgPOwSkpUWGmr5SWmGGZoesHfcyD8FyIejZ_AZiE_lAsWcPdHuI
 date: 2017-05-06T20:55:00.000+07:00
 description: "Learning CSS Tutorial Part : Know Your Basic Types CSS SelectorCSS
   has the type selector that varies, even greatly vary depending"
-excerpt: "Learning CSS Tutorial Part : Know Your Basic Types CSS SelectorCSS has
-  the type selector that varies, even greatly vary depending"
 lang: en
 photos:
   - https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpLEYpRfgPOwSkpUWGmr5SWmGGZoesHfcyD8FyIejZ_AZiE_lAsWcPdHuI
-subtitle: "Learning CSS Tutorial Part : Know Your Basic Types CSS SelectorCSS
-  has the type selector that varies, even greatly vary depending"
 tags:
   - css
   - html
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpLEYpRfgPOwSkpUWGmr5SWmGGZoesHfcyD8FyIejZ_AZiE_lAsWcPdHuI
 title: Know Your Basic Types CSS Selector
 type: post
-updated: 2023-08-08T14:45:55+07:00
+updated: 2023-09-03T06:13:47+07:00
 wordcount: 3949
 ---
 

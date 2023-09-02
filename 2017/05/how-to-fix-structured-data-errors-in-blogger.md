@@ -4,19 +4,15 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://4.bp.blogspot.com/-DhtbWc4gbkI/V-LrKhHdxvI/AAAAAAAAARI/u-a3KwShRlQHQX9NBHBUw6_hnniNCJYsACLcB/s320/fix-structured-data-errors.webp
 date: 2017-05-07T13:05:00.000+07:00
 description: How to Fix Structured Data Errors in Blogger 100 Fix Use Schema
   Markup - Boost Your SEO Be it Google or the
-excerpt: How to Fix Structured Data Errors in Blogger 100 Fix Use Schema Markup
-  - Boost Your SEO Be it Google or the
 lang: en
 photos:
   - https://4.bp.blogspot.com/-DhtbWc4gbkI/V-LrKhHdxvI/AAAAAAAAARI/u-a3KwShRlQHQX9NBHBUw6_hnniNCJYsACLcB/s320/fix-structured-data-errors.webp
-subtitle: How to Fix Structured Data Errors in Blogger 100 Fix Use Schema Markup
-  - Boost Your SEO Be it Google or the
 tags:
   - seo
   - blogger
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-DhtbWc4gbkI/V-LrKhHdxvI/AAAAAAAAARI/u-a3KwShRlQHQX9NBHBUw6_hnniNCJYsACLcB/s320/fix-structured-data-errors.webp
 title: How to Fix Structured Data Errors in Blogger
 type: post
-updated: 2023-08-08T14:45:55+07:00
+updated: 2023-09-03T06:13:48+07:00
 wordcount: 3327
 ---
 

@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVae8QcdeK12vKxKC_CrH9hB5EyUT8qCbX8AC-lyCzLoPeUzWU0NE32NfC
 date: 2017-05-10T06:31:00.000+07:00
 description: Important Role Of Social Media For Any Blogs Pal knows what it is
   Facebook, Twitter, Instagram or Way I firmly accept 100 that my
-excerpt: Important Role Of Social Media For Any Blogs Pal knows what it is
-  Facebook, Twitter, Instagram or Way I firmly accept 100 that my
 lang: en
 photos:
   - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVae8QcdeK12vKxKC_CrH9hB5EyUT8qCbX8AC-lyCzLoPeUzWU0NE32NfC
-subtitle: Important Role Of Social Media For Any Blogs Pal knows what it is
-  Facebook, Twitter, Instagram or Way I firmly accept 100 that my
 tags:
   - blogging
   - social media
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVae8QcdeK12vKxKC_CrH9hB5EyUT8qCbX8AC-lyCzLoPeUzWU0NE32NfC
 title: Important Role Of Social Media For Any Blogs
 type: post
-updated: 2023-08-08T14:45:55+07:00
+updated: 2023-09-03T06:13:47+07:00
 wordcount: 3232
 ---
 

@@ -4,25 +4,16 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://4.bp.blogspot.com/-M7b7TGI5AZI/WaRRhUHpaMI/AAAAAAAAABs/6QHVYugtOzwTqYJqNN7FkWZM_MOl83csACLcBGAs/s320/Screenshot_2017-08-29-00-22-36-950_com.android.chrome.png
 date: 2017-09-12T00:23:00.000+07:00
 description: Simple Recent Posts Blogger Plus Thumbnails Installing a recent
   post widget is one way to minimize bounce rate blog by providing information
-  for the latest posts on readers. With so readers will easily find the most
-  warm posts on the blog. Demo </head> <style>/<[CDATA[/ulrecent-postswidth:100
-excerpt: Simple Recent Posts Blogger Plus Thumbnails Installing a recent post
-  widget is one way to minimize bounce rate blog by providing information for
-  the latest posts on readers. With so readers will easily find the most warm
-  posts on the blog. Demo </head> <style>/<[CDATA[/ulrecent-postswidth:100
+  for the latest post
 lang: en
 photos:
   - https://4.bp.blogspot.com/-M7b7TGI5AZI/WaRRhUHpaMI/AAAAAAAAABs/6QHVYugtOzwTqYJqNN7FkWZM_MOl83csACLcBGAs/s320/Screenshot_2017-08-29-00-22-36-950_com.android.chrome.png
-subtitle: Simple Recent Posts Blogger Plus Thumbnails Installing a recent post
-  widget is one way to minimize bounce rate blog by providing information for
-  the latest posts on readers. With so readers will easily find the most warm
-  posts on the blog. Demo </head> <style>/<[CDATA[/ulrecent-postswidth:100
 tags:
   - js
   - blogger
@@ -33,7 +24,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-M7b7TGI5AZI/WaRRhUHpaMI/AAAAAAAAABs/6QHVYugtOzwTqYJqNN7FkWZM_MOl83csACLcBGAs/s320/Screenshot_2017-08-29-00-22-36-950_com.android.chrome.png
 title: Simple Recent Posts Blogger Plus Thumbnails
 type: post
-updated: 2023-08-08T14:45:46+07:00
+updated: 2023-09-03T06:13:40+07:00
 wordcount: 509
 ---
 

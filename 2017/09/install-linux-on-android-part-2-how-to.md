@@ -4,25 +4,16 @@ author:
   link: https://www.blogger.com/profile/08197822797622284515
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://image.ibb.co/fFtDUF/unnamed_5.png
 date: 2017-09-02T23:46:00.000+07:00
 description: Install Linux on the Android part 2-How to Install Apache2, PHP and
   MYSQL on Android Install Linux on the Android part 2-How to Install Apache2,
-  PHP and MYSQL on Android There are a few applications to run the AMP Apache,
-  Mysql, PHP on android smartphone, but the features are dim
-excerpt: Install Linux on the Android part 2-How to Install Apache2, PHP and
-  MYSQL on Android Install Linux on the Android part 2-How to Install Apache2,
-  PHP and MYSQL on Android There are a few applications to run the AMP Apache,
-  Mysql, PHP on android smartphone, but the features are dim
+  PHP and MYSQL o
 lang: en
 photos:
   - https://image.ibb.co/fFtDUF/unnamed_5.png
-subtitle: Install Linux on the Android part 2-How to Install Apache2, PHP and
-  MYSQL on Android Install Linux on the Android part 2-How to Install Apache2,
-  PHP and MYSQL on Android There are a few applications to run the AMP Apache,
-  Mysql, PHP on android smartphone, but the features are dim
 tags:
   - android
   - tips & tricks
@@ -31,7 +22,7 @@ thumbnail: https://image.ibb.co/fFtDUF/unnamed_5.png
 title: Install Linux on the Android part 2-How to Install Apache2, PHP and MYSQL
   on Android
 type: post
-updated: 2023-08-08T14:45:46+07:00
+updated: 2023-09-03T06:13:41+07:00
 wordcount: 1361
 ---
 

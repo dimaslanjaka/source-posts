@@ -4,29 +4,23 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4291.jpg
 date: 2018-10-31T03:13:00.001+07:00
 description: img
   src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4291.jpg
   class=w3-image title=JS Geolocation
-excerpt: img
-  src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4291.jpg
-  class=w3-image title=JS Geolocation
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4291.jpg
-subtitle: img
-  src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4291.jpg
-  class=w3-image title=JS Geolocation
 tags:
   - script
   - js
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4291.jpg
 title: Pure Javascript Geolocation
 type: post
-updated: 2023-08-08T14:45:39+07:00
+updated: 2023-09-03T06:13:31+07:00
 wordcount: 236
 ---
 

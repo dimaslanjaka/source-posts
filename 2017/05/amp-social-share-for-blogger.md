@@ -4,19 +4,15 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://2.bp.blogspot.com/-BArnZ4MFXXQ/WITkNuW5pUI/AAAAAAAAAfM/6gQsyQ9xXGAmyFtnQR2UzPn6Xm7BqXdVwCLcB/s320/amp-blogger-social-share.webp
 date: 2017-05-14T13:28:00.000+07:00
 description: AMP Social Share for Blogger Updated Twitter, Google, Facebook
   Whatsapp Social Media SEO
-excerpt: AMP Social Share for Blogger Updated Twitter, Google, Facebook Whatsapp
-  Social Media SEO
 lang: en
 photos:
   - https://2.bp.blogspot.com/-BArnZ4MFXXQ/WITkNuW5pUI/AAAAAAAAAfM/6gQsyQ9xXGAmyFtnQR2UzPn6Xm7BqXdVwCLcB/s320/amp-blogger-social-share.webp
-subtitle: AMP Social Share for Blogger Updated Twitter, Google, Facebook
-  Whatsapp Social Media SEO
 tags:
   - wordpress
   - seo
@@ -27,7 +23,7 @@ tags:
 thumbnail: https://2.bp.blogspot.com/-BArnZ4MFXXQ/WITkNuW5pUI/AAAAAAAAAfM/6gQsyQ9xXGAmyFtnQR2UzPn6Xm7BqXdVwCLcB/s320/amp-blogger-social-share.webp
 title: AMP Social Share for Blogger
 type: post
-updated: 2023-08-08T14:45:57+07:00
+updated: 2023-09-03T06:13:50+07:00
 wordcount: 2736
 ---
 

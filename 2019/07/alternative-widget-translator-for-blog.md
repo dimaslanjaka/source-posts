@@ -4,16 +4,14 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://tools.robingood.com/assets/393/1493297085-google-translate-2png.png
 date: 2019-07-26T00:56:00.000+07:00
 description: English Indonesian Afrikaans Albanian Arabic Armenian Azerbaijani
-excerpt: English Indonesian Afrikaans Albanian Arabic Armenian Azerbaijani
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://tools.robingood.com/assets/393/1493297085-google-translate-2png.png
-subtitle: English Indonesian Afrikaans Albanian Arabic Armenian Azerbaijani
 tags:
   - css
   - js
@@ -21,7 +19,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://tools.robingood.com/assets/393/1493297085-google-translate-2png.png
 title: Alternative Widget Translator for blog
 type: post
-updated: 2023-08-08T14:45:31+07:00
+updated: 2023-09-03T06:13:26+07:00
 wordcount: 1469
 ---
 

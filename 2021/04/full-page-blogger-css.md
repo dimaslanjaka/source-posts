@@ -4,23 +4,21 @@ author:
   link: https://www.blogger.com/profile/07981649157148639830
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://1.bp.blogspot.com/-kKrjUF3L7_w/YJyInp5cH-I/AAAAAAAAABU/km6DnnEqjRAoXHTYYpg8BCg1VcbjPCOvgCLcBGAsYHQ/s0/Screenshot_1.png
 date: 2021-04-27T21:18:00.008+07:00
 description: OR
-excerpt: OR
 lang: en
 photos:
   - https://1.bp.blogspot.com/-kKrjUF3L7_w/YJyInp5cH-I/AAAAAAAAABU/km6DnnEqjRAoXHTYYpg8BCg1VcbjPCOvgCLcBGAsYHQ/s0/Screenshot_1.png
-subtitle: OR
 tags:
   - css
   - script
 thumbnail: https://1.bp.blogspot.com/-kKrjUF3L7_w/YJyInp5cH-I/AAAAAAAAABU/km6DnnEqjRAoXHTYYpg8BCg1VcbjPCOvgCLcBGAsYHQ/s0/Screenshot_1.png
 title: Full page blogger css
 type: post
-updated: 2023-08-08T14:45:11+07:00
+updated: 2023-09-03T06:13:10+07:00
 wordcount: 348
 ---
 

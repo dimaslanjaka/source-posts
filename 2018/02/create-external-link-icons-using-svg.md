@@ -4,28 +4,16 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://goo.gl/ZDjCRk
 date: 2018-02-07T16:36:00.000+07:00
-description: "Create External Link Icons Using SVG without JavaScript In Blogger
+description: Create External Link Icons Using SVG without JavaScript In Blogger
   Demo </head> <b:if cond=data:blog.pageType ==
-  quot;itemquot;><style>/<[CDATA[/.post-body a[href^=http://]:after,.post-body
-  a[href^=https://]:after content: ; background:
-  urldata:image/svgxml;charset=utf8,3csvg"
-excerpt: "Create External Link Icons Using SVG without JavaScript In Blogger
-  Demo </head> <b:if cond=data:blog.pageType ==
-  quot;itemquot;><style>/<[CDATA[/.post-body a[href^=http://]:after,.post-body
-  a[href^=https://]:after content: ; background:
-  urldata:image/svgxml;charset=utf8,3csvg"
+  quot;itemquot;><style>/<[CDATA[/.post-body a[hr
 lang: en
 photos:
   - https://goo.gl/ZDjCRk
-subtitle: "Create External Link Icons Using SVG without JavaScript In Blogger
-  Demo </head> <b:if cond=data:blog.pageType ==
-  quot;itemquot;><style>/<[CDATA[/.post-body a[href^=http://]:after,.post-body
-  a[href^=https://]:after content: ; background:
-  urldata:image/svgxml;charset=utf8,3csvg"
 tags:
   - css
   - blogger
@@ -35,7 +23,7 @@ tags:
 thumbnail: https://goo.gl/ZDjCRk
 title: Create External Link Icons Using SVG without JavaScript In Blogger
 type: post
-updated: 2023-08-08T14:45:42+07:00
+updated: 2023-09-03T06:13:37+07:00
 wordcount: 265
 ---
 

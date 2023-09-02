@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-11-12T23:29:00.000+07:00
 description: h2>Simple Widget Blogger search box with pure CSS.</h2><br />Here
   the HTML:<br /><br /><pre>lt;form id=searchthis action=/search
-excerpt: h2>Simple Widget Blogger search box with pure CSS.</h2><br />Here the
-  HTML:<br /><br /><pre>lt;form id=searchthis action=/search
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: h2>Simple Widget Blogger search box with pure CSS.</h2><br />Here the
-  HTML:<br /><br /><pre>lt;form id=searchthis action=/search
 tags:
   - css
   - html
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Search Box With Pure CSS Simple
 type: post
-updated: 2023-08-08T14:45:42+07:00
+updated: 2023-09-03T06:13:37+07:00
 wordcount: 224
 ---
 

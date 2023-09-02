@@ -4,23 +4,21 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://imgdb.net/images/3206.png
 date: 2017-09-25T00:57:00.003+07:00
 description: img src=https://imgdb.net/images/3206.png/><script
-excerpt: img src=https://imgdb.net/images/3206.png/><script
 lang: en
 photos:
   - https://imgdb.net/images/3206.png
-subtitle: img src=https://imgdb.net/images/3206.png/><script
 tags:
   - js
   - tips & tricks
 thumbnail: https://imgdb.net/images/3206.png
 title: Javascript detect bot crawler
 type: post
-updated: 2023-08-08T14:45:46+07:00
+updated: 2023-09-03T06:13:40+07:00
 wordcount: 118
 ---
 

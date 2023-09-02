@@ -4,25 +4,21 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/5963.png
 date: 2019-08-01T00:05:00.000+07:00
 description: Lazy load images bloggerlazy loading blogger berguna untuk
   Mempercepat laman webMeningkatkan rating pagespeedHTML Usage<img alt=
-excerpt: Lazy load images bloggerlazy loading blogger berguna untuk Mempercepat
-  laman webMeningkatkan rating pagespeedHTML Usage<img alt=
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/5963.png
-subtitle: Lazy load images bloggerlazy loading blogger berguna untuk Mempercepat
-  laman webMeningkatkan rating pagespeedHTML Usage<img alt=
 tags:
   - js
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/5963.png
 title: Lazy load images blogger
 type: post
-updated: 2023-08-08T14:45:29+07:00
+updated: 2023-09-03T06:13:24+07:00
 wordcount: 872
 ---
 

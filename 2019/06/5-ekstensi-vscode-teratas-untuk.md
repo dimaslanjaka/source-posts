@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/javascriptt-light_870x220.png?sfvrsn=f0bf46af_3
 date: 2019-06-15T20:02:00.000+07:00
 description: Salah satu hal paling luar biasa tentang Visual Studio Code adalah
   kemampuan untuk meningkatkan kemampuannya dengan penambahan ekstensi
-excerpt: Salah satu hal paling luar biasa tentang Visual Studio Code adalah
-  kemampuan untuk meningkatkan kemampuannya dengan penambahan ekstensi
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/javascriptt-light_870x220.png?sfvrsn=f0bf46af_3
-subtitle: Salah satu hal paling luar biasa tentang Visual Studio Code adalah
-  kemampuan untuk meningkatkan kemampuannya dengan penambahan ekstensi
 tags:
   - tools
   - js
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://d585tldpucybw.cloudfront.net/sfimages/default-source/blogs/templates/javascriptt-light_870x220.png?sfvrsn=f0bf46af_3
 title: 5 Ekstensi VSCode Teratas untuk Pengembangan JavaScript yang Efisien
 type: post
-updated: 2023-08-08T14:45:31+07:00
+updated: 2023-09-03T06:13:26+07:00
 wordcount: 1383
 ---
 

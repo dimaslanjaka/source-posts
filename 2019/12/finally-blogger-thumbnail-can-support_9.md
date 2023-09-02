@@ -4,26 +4,22 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/8554a2b99506f0fdc49578e7bed10bb4.jpeg
 date: 2019-12-09T02:56:00.000+07:00
 description: Finally, the Blogger Thumbnail Can Support WEBP This is the result
   of my imprisonment that I have done for almost 4 weeks, hahaha ...
-excerpt: Finally, the Blogger Thumbnail Can Support WEBP This is the result of
-  my imprisonment that I have done for almost 4 weeks, hahaha ...
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/8554a2b99506f0fdc49578e7bed10bb4.jpeg
-subtitle: Finally, the Blogger Thumbnail Can Support WEBP This is the result of
-  my imprisonment that I have done for almost 4 weeks, hahaha ...
 tags:
   - blogger
   - tips & tricks
 thumbnail: https://imgcdn.000webhostapp.com/https/1.bp.blogspot.com/8554a2b99506f0fdc49578e7bed10bb4.jpeg
 title: Finally the Blogger Thumbnail Can Support WEBP
 type: post
-updated: 2023-08-08T14:45:16+07:00
+updated: 2023-09-03T06:13:17+07:00
 wordcount: 3569
 ---
 

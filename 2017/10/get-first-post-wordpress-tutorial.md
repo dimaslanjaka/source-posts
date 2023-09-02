@@ -4,26 +4,22 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-10-04T23:36:00.000+07:00
 description: Edit your functions.php of your themes. This also work on amp
   plugin wp AMP ninja -gt; Edit on functions.php too. <br /><h3>Codes
-excerpt: Edit your functions.php of your themes. This also work on amp plugin wp
-  AMP ninja -gt; Edit on functions.php too. <br /><h3>Codes
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Edit your functions.php of your themes. This also work on amp plugin
-  wp AMP ninja -gt; Edit on functions.php too. <br /><h3>Codes
 tags:
   - wordpress
   - php
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Get first post WORDPRESS tutorial
 type: post
-updated: 2023-08-08T14:45:44+07:00
+updated: 2023-09-03T06:13:39+07:00
 wordcount: 1526
 ---
 

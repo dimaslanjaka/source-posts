@@ -4,16 +4,14 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://4.bp.blogspot.com/-0ALg8SCnD24/VSsqzL7AxJI/AAAAAAAACOQ/4w_tFyoUEVo/s1600/Menerapkan%2BDaftar%2Bisi%2BMenurut%2BLabel.png
 date: 2017-11-16T19:34:00.000+07:00
 description: h2>Stylish blogger sitemap per tables</h2><img
-excerpt: h2>Stylish blogger sitemap per tables</h2><img
 lang: en
 photos:
   - https://4.bp.blogspot.com/-0ALg8SCnD24/VSsqzL7AxJI/AAAAAAAACOQ/4w_tFyoUEVo/s1600/Menerapkan%2BDaftar%2Bisi%2BMenurut%2BLabel.png
-subtitle: h2>Stylish blogger sitemap per tables</h2><img
 tags:
   - css
   - js
@@ -21,7 +19,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-0ALg8SCnD24/VSsqzL7AxJI/AAAAAAAACOQ/4w_tFyoUEVo/s1600/Menerapkan%2BDaftar%2Bisi%2BMenurut%2BLabel.png
 title: How to create blogger sitemap per tables 100 Worked
 type: post
-updated: 2023-08-08T14:45:43+07:00
+updated: 2023-09-03T06:13:38+07:00
 wordcount: 572
 ---
 

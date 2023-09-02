@@ -4,19 +4,15 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://4.bp.blogspot.com/-l94ir-kHDK8/VSK2vrIZEWI/AAAAAAAAA5w/r5ZkFkd7n2o/s1600/google-translate-256.png
 date: 2017-05-12T00:54:00.000+07:00
 description: Add Translate widget to sidebar or page blog with state flags using
   javascriptNot everybody on the planet comprehends the dialect we
-excerpt: Add Translate widget to sidebar or page blog with state flags using
-  javascriptNot everybody on the planet comprehends the dialect we
 lang: en
 photos:
   - https://4.bp.blogspot.com/-l94ir-kHDK8/VSK2vrIZEWI/AAAAAAAAA5w/r5ZkFkd7n2o/s1600/google-translate-256.png
-subtitle: Add Translate widget to sidebar or page blog with state flags using
-  javascriptNot everybody on the planet comprehends the dialect we
 tags:
   - wordpress
   - js
@@ -25,7 +21,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-l94ir-kHDK8/VSK2vrIZEWI/AAAAAAAAA5w/r5ZkFkd7n2o/s1600/google-translate-256.png
 title: Easly Add Translate Widget To Page Blog With State Flag
 type: post
-updated: 2023-08-08T14:45:57+07:00
+updated: 2023-09-03T06:13:49+07:00
 wordcount: 1559
 ---
 

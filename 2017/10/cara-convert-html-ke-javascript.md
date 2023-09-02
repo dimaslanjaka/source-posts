@@ -4,19 +4,15 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZ-Ya5lUljhzFq1eHq5wLN0Nooclq80d6mgWebE86HqthrDHyNsuF_gQPY
 date: 2017-10-05T14:50:00.000+07:00
 description: h2>Bagaimana cara convert HTML ke Javascript document.write secara
   otomatis</h2><img
-excerpt: h2>Bagaimana cara convert HTML ke Javascript document.write secara
-  otomatis</h2><img
 lang: en
 photos:
   - https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZ-Ya5lUljhzFq1eHq5wLN0Nooclq80d6mgWebE86HqthrDHyNsuF_gQPY
-subtitle: h2>Bagaimana cara convert HTML ke Javascript document.write secara
-  otomatis</h2><img
 tags:
   - js
   - html
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZ-Ya5lUljhzFq1eHq5wLN0Nooclq80d6mgWebE86HqthrDHyNsuF_gQPY
 title: Cara convert HTML ke Javascript document.write otomatis
 type: post
-updated: 2023-08-08T14:45:45+07:00
+updated: 2023-09-03T06:13:39+07:00
 wordcount: 227
 ---
 

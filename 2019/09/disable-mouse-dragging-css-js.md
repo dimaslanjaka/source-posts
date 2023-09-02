@@ -4,26 +4,22 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://i.stack.imgur.com/3pgKv.png
 date: 2019-09-22T10:13:00.000+07:00
 description: "CSSstyle> body -webkit-touch-callout: none; -webkit-user-select:
   none; -khtml-user-select: none;"
-excerpt: "CSSstyle> body -webkit-touch-callout: none; -webkit-user-select: none;
-  -khtml-user-select: none;"
 lang: en
 photos:
   - https://i.stack.imgur.com/3pgKv.png
-subtitle: "CSSstyle> body -webkit-touch-callout: none; -webkit-user-select:
-  none; -khtml-user-select: none;"
 tags:
   - css
   - js
 thumbnail: https://i.stack.imgur.com/3pgKv.png
 title: Disable Mouse Dragging CSS JS
 type: post
-updated: 2023-08-08T14:45:29+07:00
+updated: 2023-09-03T06:13:24+07:00
 wordcount: 68
 ---
 

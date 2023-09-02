@@ -4,22 +4,20 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://www.webmanajemen.com/assets/img/html.png
 date: 2019-07-23T07:21:00.000+07:00
 description: h2>ASCII simbol</h2><table> <thead> <tr> <th nowrap=nowrap> Symbol </th> <th
-excerpt: h2>ASCII simbol</h2><table> <thead> <tr> <th nowrap=nowrap> Symbol </th> <th
 lang: en
 photos:
   - https://www.webmanajemen.com/assets/img/html.png
-subtitle: h2>ASCII simbol</h2><table> <thead> <tr> <th nowrap=nowrap> Symbol </th> <th
 tags:
   - html
 thumbnail: https://www.webmanajemen.com/assets/img/html.png
 title: Penulisan Symbol HTML Entities
 type: post
-updated: 2023-08-08T14:45:29+07:00
+updated: 2023-09-03T06:13:25+07:00
 wordcount: 1906
 ---
 

@@ -4,26 +4,22 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://1.bp.blogspot.com/-Bqv85t32yUc/Vo_fhhQ3jvI/AAAAAAAAEyU/tQUONmtG1tE/s640/why%2Byou%2Bshould%2BCDN%2Bfor%2Bblogger.png
 date: 2017-09-05T01:42:00.000+07:00
 description: Jika Anda serius tentang blogging dan ingin untuk membuat blog Anda
   yang terbaik dalam semua kategori, maka Anda tidak hanya perlu fokus
-excerpt: Jika Anda serius tentang blogging dan ingin untuk membuat blog Anda
-  yang terbaik dalam semua kategori, maka Anda tidak hanya perlu fokus
 lang: en
 photos:
   - https://1.bp.blogspot.com/-Bqv85t32yUc/Vo_fhhQ3jvI/AAAAAAAAEyU/tQUONmtG1tE/s640/why%2Byou%2Bshould%2BCDN%2Bfor%2Bblogger.png
-subtitle: Jika Anda serius tentang blogging dan ingin untuk membuat blog Anda
-  yang terbaik dalam semua kategori, maka Anda tidak hanya perlu fokus
 tags:
   - blogging
   - tips & tricks
 thumbnail: https://1.bp.blogspot.com/-Bqv85t32yUc/Vo_fhhQ3jvI/AAAAAAAAEyU/tQUONmtG1tE/s640/why%2Byou%2Bshould%2BCDN%2Bfor%2Bblogger.png
 title: Cara Host CSS dan JavaScript file di Github dengan Rawgit
 type: post
-updated: 2023-08-08T14:45:48+07:00
+updated: 2023-09-03T06:13:42+07:00
 wordcount: 3329
 ---
 

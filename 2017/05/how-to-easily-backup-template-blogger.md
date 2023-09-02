@@ -4,22 +4,20 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://2.bp.blogspot.com/-ckNqKjK4iac/WRb5CltPGFI/AAAAAAAAACE/KXjMhakpN2MA2CWE3T3_L_JD56H0MffQwCLcB/s1600/download.png
 date: 2017-05-13T14:17:00.000+07:00
 description: How to easily backup template blogger or blogspot
-excerpt: How to easily backup template blogger or blogspot
 lang: en
 photos:
   - https://2.bp.blogspot.com/-ckNqKjK4iac/WRb5CltPGFI/AAAAAAAAACE/KXjMhakpN2MA2CWE3T3_L_JD56H0MffQwCLcB/s1600/download.png
-subtitle: How to easily backup template blogger or blogspot
 tags:
   - blogger
 thumbnail: https://2.bp.blogspot.com/-ckNqKjK4iac/WRb5CltPGFI/AAAAAAAAACE/KXjMhakpN2MA2CWE3T3_L_JD56H0MffQwCLcB/s1600/download.png
 title: How to easily backup template blogger or blogspot
 type: post
-updated: 2023-08-08T14:45:55+07:00
+updated: 2023-09-03T06:13:48+07:00
 wordcount: 871
 ---
 

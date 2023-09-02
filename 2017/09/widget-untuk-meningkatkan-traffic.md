@@ -4,35 +4,23 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-09-04T08:57:00.000+07:00
 description: Widget untuk meningkatkan traffic blogger Hari ini saya akan share
   widget untuk meningkatkan traffic blog setiap harinya.Script ini bertujuan
-  agar webcrawler ikut membuat tester untuk website anda.Ga pake lama ikuti
-  tutorial dibawah ini:1. Buka dashboard blogger > Layout > Cari mau dibagian
-  manaka
-excerpt: Widget untuk meningkatkan traffic blogger Hari ini saya akan share
-  widget untuk meningkatkan traffic blog setiap harinya.Script ini bertujuan
-  agar webcrawler ikut membuat tester untuk website anda.Ga pake lama ikuti
-  tutorial dibawah ini:1. Buka dashboard blogger > Layout > Cari mau dibagian
-  manaka
+  agar webcrawler ik
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Widget untuk meningkatkan traffic blogger Hari ini saya akan share
-  widget untuk meningkatkan traffic blog setiap harinya.Script ini bertujuan
-  agar webcrawler ikut membuat tester untuk website anda.Ga pake lama ikuti
-  tutorial dibawah ini:1. Buka dashboard blogger > Layout > Cari mau dibagian
-  manaka
 tags:
   - js
   - blogger
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Widget untuk meningkatkan traffic blogger
 type: post
-updated: 2023-08-08T14:45:45+07:00
+updated: 2023-09-03T06:13:39+07:00
 wordcount: 952
 ---
 

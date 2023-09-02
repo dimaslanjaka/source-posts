@@ -4,25 +4,21 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://i.stack.imgur.com/frOSJ.png
 date: 2017-05-17T20:02:00.000+07:00
 description: h2>Is there any Blogger blogspot not portable contingent
   arrangement.</h2>Someone ask to stackoverflow like this.<br /><br />I would
-excerpt: h2>Is there any Blogger blogspot not portable contingent
-  arrangement.</h2>Someone ask to stackoverflow like this.<br /><br />I would
 lang: en
 photos:
   - https://i.stack.imgur.com/frOSJ.png
-subtitle: h2>Is there any Blogger blogspot not portable contingent
-  arrangement.</h2>Someone ask to stackoverflow like this.<br /><br />I would
 tags:
   - blogger
 thumbnail: https://i.stack.imgur.com/frOSJ.png
 title: conditional tags blogger for desktop only
 type: post
-updated: 2023-08-08T14:45:57+07:00
+updated: 2023-09-03T06:13:50+07:00
 wordcount: 504
 ---
 

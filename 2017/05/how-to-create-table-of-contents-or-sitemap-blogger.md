@@ -4,16 +4,14 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://2.bp.blogspot.com/-DIRhiZq0cPg/Vr5-ETcI9AI/AAAAAAAABvo/pwTQPnRlg60/s640/gambar-sitemap-blogger-min.jpg
 date: 2017-05-15T13:46:00.000+07:00
 description: How to create a table of contents or sitemap in blogger or blogspot
-excerpt: How to create a table of contents or sitemap in blogger or blogspot
 lang: en
 photos:
   - https://2.bp.blogspot.com/-DIRhiZq0cPg/Vr5-ETcI9AI/AAAAAAAABvo/pwTQPnRlg60/s640/gambar-sitemap-blogger-min.jpg
-subtitle: How to create a table of contents or sitemap in blogger or blogspot
 tags:
   - css
   - js
@@ -22,7 +20,7 @@ tags:
 thumbnail: https://2.bp.blogspot.com/-DIRhiZq0cPg/Vr5-ETcI9AI/AAAAAAAABvo/pwTQPnRlg60/s640/gambar-sitemap-blogger-min.jpg
 title: How to create a table of contents or sitemap in blogger or blogspot
 type: post
-updated: 2023-08-08T14:45:56+07:00
+updated: 2023-09-03T06:13:48+07:00
 wordcount: 1522
 ---
 

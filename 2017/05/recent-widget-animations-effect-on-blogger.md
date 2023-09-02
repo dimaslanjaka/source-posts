@@ -4,19 +4,15 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://4.bp.blogspot.com/-f-ct8DCNaLo/VSQIY4m9-iI/AAAAAAAAA-c/ZMxcl6H0S60/s1600/recent_posts.jpg
 date: 2017-05-05T23:00:00.000+07:00
 description: How to Install News Recent Articles With Animation Effects Hello
   bloggers, this point i will be able to share a recent widget with
-excerpt: How to Install News Recent Articles With Animation Effects Hello
-  bloggers, this point i will be able to share a recent widget with
 lang: en
 photos:
   - https://4.bp.blogspot.com/-f-ct8DCNaLo/VSQIY4m9-iI/AAAAAAAAA-c/ZMxcl6H0S60/s1600/recent_posts.jpg
-subtitle: How to Install News Recent Articles With Animation Effects Hello
-  bloggers, this point i will be able to share a recent widget with
 tags:
   - css
   - blogger
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-f-ct8DCNaLo/VSQIY4m9-iI/AAAAAAAAA-c/ZMxcl6H0S60/s1600/recent_posts.jpg
 title: Recent Widget Animation Effects On Blogger
 type: post
-updated: 2023-08-08T14:45:54+07:00
+updated: 2023-09-03T06:13:47+07:00
 wordcount: 1865
 ---
 

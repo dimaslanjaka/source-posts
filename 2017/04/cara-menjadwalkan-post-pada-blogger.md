@@ -4,25 +4,21 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://pad2.whstatic.com/images/thumb/e/ee/Schedule-a-Post-on-Blogger-Step-1.jpg/v3-460px-Schedule-a-Post-on-Blogger-Step-1.jpg.webp
 date: 2017-04-10T10:58:00.000+07:00
 description: Cara Menjadwalkan Post pada BloggerJika Anda menggunakan Blogspot
   atau Blogger untuk blog, Anda mungkin bertanyatanya apakah ada cara
-excerpt: Cara Menjadwalkan Post pada BloggerJika Anda menggunakan Blogspot atau
-  Blogger untuk blog, Anda mungkin bertanyatanya apakah ada cara
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://pad2.whstatic.com/images/thumb/e/ee/Schedule-a-Post-on-Blogger-Step-1.jpg/v3-460px-Schedule-a-Post-on-Blogger-Step-1.jpg.webp
-subtitle: Cara Menjadwalkan Post pada BloggerJika Anda menggunakan Blogspot atau
-  Blogger untuk blog, Anda mungkin bertanyatanya apakah ada cara
 tags:
   - blogger
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://pad2.whstatic.com/images/thumb/e/ee/Schedule-a-Post-on-Blogger-Step-1.jpg/v3-460px-Schedule-a-Post-on-Blogger-Step-1.jpg.webp
 title: Cara Jadwalkan Post pada Blogger
 type: post
-updated: 2023-08-08T14:46:01+07:00
+updated: 2023-09-03T06:13:57+07:00
 wordcount: 1528
 ---
 

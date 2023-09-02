@@ -4,22 +4,20 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcfBozE5M4AU-Bxl7z1Zwhuup0eSbwXVKtTS9N-rJ_je8jOuradHt8nVXX
 date: 2017-05-20T14:32:00.000+07:00
 description: How to edit the template blogger or blogspot
-excerpt: How to edit the template blogger or blogspot
 lang: en
 photos:
   - https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcfBozE5M4AU-Bxl7z1Zwhuup0eSbwXVKtTS9N-rJ_je8jOuradHt8nVXX
-subtitle: How to edit the template blogger or blogspot
 tags:
   - blogger
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcfBozE5M4AU-Bxl7z1Zwhuup0eSbwXVKtTS9N-rJ_je8jOuradHt8nVXX
 title: How to edit the template blogger or blogspot
 type: post
-updated: 2023-08-08T14:45:55+07:00
+updated: 2023-09-03T06:13:48+07:00
 wordcount: 1203
 ---
 

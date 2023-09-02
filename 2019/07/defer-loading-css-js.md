@@ -4,26 +4,22 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://media.geeksforgeeks.org/wp-content/uploads/20200318192511/Untitled-Diagram79.png
 date: 2019-07-23T02:53:00.000+07:00
 description: Cara defer loading javascript atau menunda pemanggilan javascript
   di bloggerBerfungsi untuk Mempercepat loading blog website /
-excerpt: Cara defer loading javascript atau menunda pemanggilan javascript di
-  bloggerBerfungsi untuk Mempercepat loading blog website /
 lang: en
 photos:
   - https://media.geeksforgeeks.org/wp-content/uploads/20200318192511/Untitled-Diagram79.png
-subtitle: Cara defer loading javascript atau menunda pemanggilan javascript di
-  bloggerBerfungsi untuk Mempercepat loading blog website /
 tags:
   - js
   - blogger
 thumbnail: https://media.geeksforgeeks.org/wp-content/uploads/20200318192511/Untitled-Diagram79.png
 title: Defer loading css js
 type: post
-updated: 2023-08-08T14:45:30+07:00
+updated: 2023-09-03T06:13:25+07:00
 wordcount: 1255
 ---
 

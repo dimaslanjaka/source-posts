@@ -4,22 +4,16 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4624.png
 date: 2018-12-25T14:03:00.001+07:00
 description: img
   src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4624.png
   title=speed dial icon alt=speed dial
-excerpt: img
-  src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4624.png
-  title=speed dial icon alt=speed dial
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4624.png
-subtitle: img
-  src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4624.png
-  title=speed dial icon alt=speed dial
 tags:
   - wordpress
   - blogger
@@ -29,7 +23,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://imgdb.net/images/4624.png
 title: How to Display Icon Blog In speed dial Browser
 type: post
-updated: 2023-08-08T14:45:35+07:00
+updated: 2023-09-03T06:13:30+07:00
 wordcount: 70
 ---
 

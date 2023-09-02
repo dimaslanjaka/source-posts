@@ -1,32 +1,23 @@
 ---
 author: Dimas Lanjaka
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://i3.ytimg.com/vi/FgG5nYW5EUA/maxresdefault.jpg
 date: 2022-03-27T03:02:25+0000
 description: "Change wordpress table prefix updated 2022 How to change wordpress
   table prefix NOTE: replace NEWPREFIX_ and OLDPREFIX_ with yours NEWPREFIX_
-  OLDPREFIX_ Step 1 Change variable value of wp-config.php Login to your control
-  panel or via FTP.Open File Manager under Files Security.Locate the file wp-"
-excerpt: "Change wordpress table prefix updated 2022 How to change wordpress
-  table prefix NOTE: replace NEWPREFIX_ and OLDPREFIX_ with yours NEWPREFIX_
-  OLDPREFIX_ Step 1 Change variable value of wp-config.php Login to your control
-  panel or via FTP.Open File Manager under Files Security.Locate the file wp-"
+  OLDPREFIX_ Step 1 "
 lang: en
 photos:
   - https://i3.ytimg.com/vi/FgG5nYW5EUA/maxresdefault.jpg
-subtitle: "Change wordpress table prefix updated 2022 How to change wordpress
-  table prefix NOTE: replace NEWPREFIX_ and OLDPREFIX_ with yours NEWPREFIX_
-  OLDPREFIX_ Step 1 Change variable value of wp-config.php Login to your control
-  panel or via FTP.Open File Manager under Files Security.Locate the file wp-"
 tags:
   - wordpress
   - mysql
 thumbnail: https://i3.ytimg.com/vi/FgG5nYW5EUA/maxresdefault.jpg
 title: Change wordpress table prefix updated 2022
 type: post
-updated: 2023-08-08T14:45:10+07:00
+updated: 2023-09-03T06:13:09+07:00
 wordcount: 840
 ---
 

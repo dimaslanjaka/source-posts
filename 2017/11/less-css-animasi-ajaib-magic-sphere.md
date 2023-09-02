@@ -4,32 +4,23 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://2.bp.blogspot.com/-5d_OvW33fDo/WhBervqePKI/AAAAAAAAAJQ/R6hFARO2rXspRWC5wdtu-_XHj1j-miz9ACLcBGAs/s400/Screenshot_2017-11-18-23-18-35-554_com.android.chrome.png
 date: 2017-11-20T23:35:00.000+07:00
 description: LESS CSS Animasi Ajaib Magic Sphere DemoFull Page Code Demo Full
   Page Code <DOCTYPE html><html class=><head><script
-  src=console_runner-079c09a0e3b9ff743e39ee2d5637b9216b3545af0de366d4b9aad9dc87e26bfd.js></script><script
-  src=events_runner-73716630c22bbc8cff4bd0f07b135f00a0bdc5d14629260c3ec4
-excerpt: LESS CSS Animasi Ajaib Magic Sphere DemoFull Page Code Demo Full Page
-  Code <DOCTYPE html><html class=><head><script
-  src=console_runner-079c09a0e3b9ff743e39ee2d5637b9216b3545af0de366d4b9aad9dc87e26bfd.js></script><script
-  src=events_runner-73716630c22bbc8cff4bd0f07b135f00a0bdc5d14629260c3ec4
+  src=console_runner-079c09a0e3b9ff743e39ee2d5
 lang: en
 photos:
   - https://2.bp.blogspot.com/-5d_OvW33fDo/WhBervqePKI/AAAAAAAAAJQ/R6hFARO2rXspRWC5wdtu-_XHj1j-miz9ACLcBGAs/s400/Screenshot_2017-11-18-23-18-35-554_com.android.chrome.png
-subtitle: LESS CSS Animasi Ajaib Magic Sphere DemoFull Page Code Demo Full Page
-  Code <DOCTYPE html><html class=><head><script
-  src=console_runner-079c09a0e3b9ff743e39ee2d5637b9216b3545af0de366d4b9aad9dc87e26bfd.js></script><script
-  src=events_runner-73716630c22bbc8cff4bd0f07b135f00a0bdc5d14629260c3ec4
 tags:
   - css
   - html
 thumbnail: https://2.bp.blogspot.com/-5d_OvW33fDo/WhBervqePKI/AAAAAAAAAJQ/R6hFARO2rXspRWC5wdtu-_XHj1j-miz9ACLcBGAs/s400/Screenshot_2017-11-18-23-18-35-554_com.android.chrome.png
 title: LESS CSS Animasi Ajaib Magic Sphere
 type: post
-updated: 2023-08-08T14:45:43+07:00
+updated: 2023-09-03T06:13:38+07:00
 wordcount: 4755
 ---
 

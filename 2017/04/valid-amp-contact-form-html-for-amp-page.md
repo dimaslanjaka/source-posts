@@ -4,25 +4,16 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrPydJSDJ0qsdxmme5yXnxWiCKL71LNDgDbdXJxGC31KXn6aG-PyQdmuOFvQ
 date: 2017-04-16T23:22:00.000+07:00
-description: "Valid AMP Contact Form Html For AMP Page Valid Contact Form For
-  AMP Valid AMP contact form for blog This solved for contact form not working
-  on blogger with amp feature. Now, i solved your problem with codes below:
-  <form method=post name=contactform class=p2 action-xhr=https://source.l"
-excerpt: "Valid AMP Contact Form Html For AMP Page Valid Contact Form For AMP
+description: Valid AMP Contact Form Html For AMP Page Valid Contact Form For AMP
   Valid AMP contact form for blog This solved for contact form not working on
-  blogger with amp feature. Now, i solved your problem with codes below: <form
-  method=post name=contactform class=p2 action-xhr=https://source.l"
+  blogger with amp
 lang: en
 photos:
   - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrPydJSDJ0qsdxmme5yXnxWiCKL71LNDgDbdXJxGC31KXn6aG-PyQdmuOFvQ
-subtitle: "Valid AMP Contact Form Html For AMP Page Valid Contact Form For AMP
-  Valid AMP contact form for blog This solved for contact form not working on
-  blogger with amp feature. Now, i solved your problem with codes below: <form
-  method=post name=contactform class=p2 action-xhr=https://source.l"
 tags:
   - wordpress
   - blogger
@@ -31,7 +22,7 @@ tags:
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrPydJSDJ0qsdxmme5yXnxWiCKL71LNDgDbdXJxGC31KXn6aG-PyQdmuOFvQ
 title: Valid AMP Contact Form Html For AMP Page
 type: post
-updated: 2023-08-08T14:45:58+07:00
+updated: 2023-09-03T06:13:50+07:00
 wordcount: 844
 ---
 

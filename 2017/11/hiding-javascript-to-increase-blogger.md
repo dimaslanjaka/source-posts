@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://lh5.googleusercontent.com/proxy/zOJPQmOxXy895GIkyGjPcsnz3xVCQZGUJhgMGWk2BJS4JNQcjbpMUA9IeG5TdHv9Yv0q5USG8ipopidYGRGZUZgo-yGy2zPcevf0iMrMACluVNuYUgrAOQ=w300-h300-nc
 date: 2017-11-18T13:56:00.000+07:00
 description: Me often find comments on blogs Mascots inquiring about blogger
   widgets that can not be performed, such as the blogs stat
-excerpt: Me often find comments on blogs Mascots inquiring about blogger widgets
-  that can not be performed, such as the blogs stat
 lang: en
 photos:
   - https://lh5.googleusercontent.com/proxy/zOJPQmOxXy895GIkyGjPcsnz3xVCQZGUJhgMGWk2BJS4JNQcjbpMUA9IeG5TdHv9Yv0q5USG8ipopidYGRGZUZgo-yGy2zPcevf0iMrMACluVNuYUgrAOQ=w300-h300-nc
-subtitle: Me often find comments on blogs Mascots inquiring about blogger
-  widgets that can not be performed, such as the blogs stat
 tags:
   - js
   - blogger
 thumbnail: https://lh5.googleusercontent.com/proxy/zOJPQmOxXy895GIkyGjPcsnz3xVCQZGUJhgMGWk2BJS4JNQcjbpMUA9IeG5TdHv9Yv0q5USG8ipopidYGRGZUZgo-yGy2zPcevf0iMrMACluVNuYUgrAOQ=w300-h300-nc
 title: Hiding javascript to increase blogger blog speed
 type: post
-updated: 2023-08-08T14:45:43+07:00
+updated: 2023-09-03T06:13:38+07:00
 wordcount: 1346
 ---
 

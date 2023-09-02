@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://goo.gl/1QBD9u
 date: 2018-02-08T11:46:00.000+07:00
 description: How Much Rates Per Article The article tariff adjusts the need for
   the number of words each article you need. I offer IDR 150 / word .
-excerpt: How Much Rates Per Article The article tariff adjusts the need for the
-  number of words each article you need. I offer IDR 150 / word .
 lang: en
 photos:
   - https://goo.gl/1QBD9u
-subtitle: How Much Rates Per Article The article tariff adjusts the need for the
-  number of words each article you need. I offer IDR 150 / word .
 tags:
   - seo
   - blogging
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://goo.gl/1QBD9u
 title: Blog and Website Writing Service
 type: post
-updated: 2023-08-08T14:45:42+07:00
+updated: 2023-09-03T06:13:37+07:00
 wordcount: 253
 ---
 

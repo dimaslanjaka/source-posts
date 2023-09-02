@@ -4,16 +4,14 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://4.bp.blogspot.com/-9TgnNklt76g/WQFHOdxzpVI/AAAAAAAAq2s/wsRqKdRdwWg3gjEz1sC8512SVBmRNVwxwCLcB/s1600/Screenshot_8.png
 date: 2017-07-24T20:47:00.000+07:00
 description: Blogger AMP Tutorial PartsMemasang Komentar Facebook di blogger AMP
-excerpt: Blogger AMP Tutorial PartsMemasang Komentar Facebook di blogger AMP
 lang: en
 photos:
   - https://4.bp.blogspot.com/-9TgnNklt76g/WQFHOdxzpVI/AAAAAAAAq2s/wsRqKdRdwWg3gjEz1sC8512SVBmRNVwxwCLcB/s1600/Screenshot_8.png
-subtitle: Blogger AMP Tutorial PartsMemasang Komentar Facebook di blogger AMP
 tags:
   - blogger
   - html
@@ -21,7 +19,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-9TgnNklt76g/WQFHOdxzpVI/AAAAAAAAq2s/wsRqKdRdwWg3gjEz1sC8512SVBmRNVwxwCLcB/s1600/Screenshot_8.png
 title: Memasang komentar facebook di Blogger AMP
 type: post
-updated: 2023-08-08T14:45:51+07:00
+updated: 2023-09-03T06:13:44+07:00
 wordcount: 2369
 ---
 

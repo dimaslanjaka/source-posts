@@ -4,32 +4,23 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.wpstuffs.com/wp-content/uploads/2013/05/php-wordpress-300x197.jpg
 date: 2017-08-04T08:05:00.000+07:00
 description: Cara mengeksekusi kode PHP di Text Widget tanpa menggunakan Plugin
   Terkadang kita perlu mengeksekusi skrip PHP di widget teks namun secara
-  default WordPress tidak hadir dengan fitur ini karena masalah keamanan. //Run
-  php on text widgetfunction php_executehtmlifstrposhtml,<.?php==fals
-excerpt: Cara mengeksekusi kode PHP di Text Widget tanpa menggunakan Plugin
-  Terkadang kita perlu mengeksekusi skrip PHP di widget teks namun secara
-  default WordPress tidak hadir dengan fitur ini karena masalah keamanan. //Run
-  php on text widgetfunction php_executehtmlifstrposhtml,<.?php==fals
+  default WordPress tid
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.wpstuffs.com/wp-content/uploads/2013/05/php-wordpress-300x197.jpg
-subtitle: Cara mengeksekusi kode PHP di Text Widget tanpa menggunakan Plugin
-  Terkadang kita perlu mengeksekusi skrip PHP di widget teks namun secara
-  default WordPress tidak hadir dengan fitur ini karena masalah keamanan. //Run
-  php on text widgetfunction php_executehtmlifstrposhtml,<.?php==fals
 tags:
   - wordpress
   - php
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.wpstuffs.com/wp-content/uploads/2013/05/php-wordpress-300x197.jpg
 title: Cara mengeksekusi kode PHP di Text Widget tanpa menggunakan Plugin
 type: post
-updated: 2023-08-08T14:45:49+07:00
+updated: 2023-09-03T06:13:44+07:00
 wordcount: 328
 ---
 

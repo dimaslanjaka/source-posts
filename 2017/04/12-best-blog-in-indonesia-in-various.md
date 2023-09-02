@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: http://sugeng.id/blog/wp-content/uploads/2015/06/Blog-Raditya-Dika-800x392.png
 date: 2017-04-13T12:31:00.000+07:00
 description: 2 Best Blog in Indonesia in Various TopicsA few days ago I idly
   googling the keywordsBest Blog in IndonesiaAfter I check one by one from
-excerpt: 2 Best Blog in Indonesia in Various TopicsA few days ago I idly
-  googling the keywordsBest Blog in IndonesiaAfter I check one by one from
 lang: en
 photos:
   - http://sugeng.id/blog/wp-content/uploads/2015/06/Blog-Raditya-Dika-800x392.png
-subtitle: 2 Best Blog in Indonesia in Various TopicsA few days ago I idly
-  googling the keywordsBest Blog in IndonesiaAfter I check one by one from
 tags:
   - popular
   - blogging
 thumbnail: http://sugeng.id/blog/wp-content/uploads/2015/06/Blog-Raditya-Dika-800x392.png
 title: 12 Best Blog in Indonesia in Various Topics
 type: post
-updated: 2023-08-08T14:46:02+07:00
+updated: 2023-09-03T06:14:00+07:00
 wordcount: 4457
 ---
 

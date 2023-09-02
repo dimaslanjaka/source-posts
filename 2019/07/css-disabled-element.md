@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2019-07-09T08:07:00.000+07:00
 description: ":disabled, .disabled, [disabled] opacity: 0.5; color: 666666;
   cursor: not-allowed; pointer-events: none; :disabled,"
-excerpt: ":disabled, .disabled, [disabled] opacity: 0.5; color: 666666; cursor:
-  not-allowed; pointer-events: none; :disabled,"
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: ":disabled, .disabled, [disabled] opacity: 0.5; color: 666666; cursor:
-  not-allowed; pointer-events: none; :disabled,"
 tags:
   - css
   - html
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: "[CSS] Disabled Element"
 type: post
-updated: 2023-08-08T14:45:30+07:00
+updated: 2023-09-03T06:13:25+07:00
 wordcount: 93
 ---
 

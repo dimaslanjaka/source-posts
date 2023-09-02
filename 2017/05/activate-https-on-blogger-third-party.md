@@ -4,32 +4,23 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://3.bp.blogspot.com/-bOCTNQhWzYA/WBmcYZFKW8I/AAAAAAAAAw0/V1juMdd-VWw8AUrPb8b7Wz8jDYdm1Vi0gCLcB/s400/HTTPS_for_custom_domains-min.png
 date: 2017-05-25T12:41:00.000+07:00
 description: Activate HTTPS on Blogger third party Domain 100 Worked How To Get
   HTTPS In Custom Domain In Blogger? - SE Optimized Yes, its been quite a while
-  since I distributed my last post, yet here, I have something interesting for
-  youThe thing I am today going to share worth your important minutes. Too,
-excerpt: Activate HTTPS on Blogger third party Domain 100 Worked How To Get
-  HTTPS In Custom Domain In Blogger? - SE Optimized Yes, its been quite a while
-  since I distributed my last post, yet here, I have something interesting for
-  youThe thing I am today going to share worth your important minutes. Too,
+  since I distrib
 lang: en
 photos:
   - https://3.bp.blogspot.com/-bOCTNQhWzYA/WBmcYZFKW8I/AAAAAAAAAw0/V1juMdd-VWw8AUrPb8b7Wz8jDYdm1Vi0gCLcB/s400/HTTPS_for_custom_domains-min.png
-subtitle: Activate HTTPS on Blogger third party Domain 100 Worked How To Get
-  HTTPS In Custom Domain In Blogger? - SE Optimized Yes, its been quite a while
-  since I distributed my last post, yet here, I have something interesting for
-  youThe thing I am today going to share worth your important minutes. Too,
 tags:
   - js
   - blogger
 thumbnail: https://3.bp.blogspot.com/-bOCTNQhWzYA/WBmcYZFKW8I/AAAAAAAAAw0/V1juMdd-VWw8AUrPb8b7Wz8jDYdm1Vi0gCLcB/s400/HTTPS_for_custom_domains-min.png
 title: Activate HTTPS on Blogger third party Domain 100 Worked
 type: post
-updated: 2023-08-08T14:45:57+07:00
+updated: 2023-09-03T06:13:50+07:00
 wordcount: 9354
 ---
 

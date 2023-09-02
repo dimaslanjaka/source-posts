@@ -4,32 +4,23 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://topjavatutorial.com/wp-content/uploads/2016/08/consolelog.png
 date: 2019-02-06T22:55:00.001+07:00
 description: "[JS] Print console log into div HTML <div id=debug></div> Pure
   Javascript function var old = console.log; var logger =
-  document.getElementByIdlog; console.log = function message if typeof message
-  == object logger.innerHTML = JSON JSON.stringify"
-excerpt: "[JS] Print console log into div HTML <div id=debug></div> Pure
-  Javascript function var old = console.log; var logger =
-  document.getElementByIdlog; console.log = function message if typeof message
-  == object logger.innerHTML = JSON JSON.stringify"
+  document.getElementByIdlog; console.log ="
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://topjavatutorial.com/wp-content/uploads/2016/08/consolelog.png
-subtitle: "[JS] Print console log into div HTML <div id=debug></div> Pure
-  Javascript function var old = console.log; var logger =
-  document.getElementByIdlog; console.log = function message if typeof message
-  == object logger.innerHTML = JSON JSON.stringify"
 tags:
   - js
   - html
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://topjavatutorial.com/wp-content/uploads/2016/08/consolelog.png
 title: "[JS] Print console log into div"
 type: post
-updated: 2023-08-08T14:45:32+07:00
+updated: 2023-09-03T06:13:26+07:00
 wordcount: 244
 ---
 

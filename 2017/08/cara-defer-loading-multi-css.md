@@ -4,25 +4,16 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googleusercontent.com/proxy/osOBUo2W1kAeTZxgpk8ucxEhICG8CgcH-6-x1tgh_Lxix6DZhYKY3HTQlsK63ZE9LLsWprBq83sOK4iqA9g1N_QAe53OJE0CALp9aT3CA6MYQfh_w8fpZyb_J1k6mOcngON_epxQsKM_lRE=w384-h384-nc
 date: 2017-08-06T22:46:00.002+07:00
 description: "Cara defer loading multi css Definisi dan Penggunaan Catatan: Jika
   async hadir: Script dijalankan secara asynchronous dengan sisa halaman script
-  akan dieksekusi saat halaman melanjutkan penguraian Jika async tidak hadir dan
-  menunda hadir: Script dijalankan saat halaman selesai diurai Jika tida"
-excerpt: "Cara defer loading multi css Definisi dan Penggunaan Catatan: Jika
-  async hadir: Script dijalankan secara asynchronous dengan sisa halaman script
-  akan dieksekusi saat halaman melanjutkan penguraian Jika async tidak hadir dan
-  menunda hadir: Script dijalankan saat halaman selesai diurai Jika tida"
+  akan dieksekusi"
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googleusercontent.com/proxy/osOBUo2W1kAeTZxgpk8ucxEhICG8CgcH-6-x1tgh_Lxix6DZhYKY3HTQlsK63ZE9LLsWprBq83sOK4iqA9g1N_QAe53OJE0CALp9aT3CA6MYQfh_w8fpZyb_J1k6mOcngON_epxQsKM_lRE=w384-h384-nc
-subtitle: "Cara defer loading multi css Definisi dan Penggunaan Catatan: Jika
-  async hadir: Script dijalankan secara asynchronous dengan sisa halaman script
-  akan dieksekusi saat halaman melanjutkan penguraian Jika async tidak hadir dan
-  menunda hadir: Script dijalankan saat halaman selesai diurai Jika tida"
 tags:
   - wordpress
   - css
@@ -33,7 +24,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://lh3.googleusercontent.com/proxy/osOBUo2W1kAeTZxgpk8ucxEhICG8CgcH-6-x1tgh_Lxix6DZhYKY3HTQlsK63ZE9LLsWprBq83sOK4iqA9g1N_QAe53OJE0CALp9aT3CA6MYQfh_w8fpZyb_J1k6mOcngON_epxQsKM_lRE=w384-h384-nc
 title: Cara defer loading multi css
 type: post
-updated: 2023-08-08T14:45:49+07:00
+updated: 2023-09-03T06:13:44+07:00
 wordcount: 470
 ---
 

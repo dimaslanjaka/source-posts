@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://3.bp.blogspot.com/-q-AHZo_sm-c/Tbx33FuXgVI/AAAAAAAAC2I/h9SaOe4k_AE/s500/0.jpg
 date: 2017-05-01T19:22:00.000+07:00
 description: This one is a famous request inBlogger Help Forum- instructions to
   shroud the sidebar on one of the static pages, and make the principle
-excerpt: This one is a famous request inBlogger Help Forum- instructions to
-  shroud the sidebar on one of the static pages, and make the principle
 lang: en
 photos:
   - https://3.bp.blogspot.com/-q-AHZo_sm-c/Tbx33FuXgVI/AAAAAAAAC2I/h9SaOe4k_AE/s500/0.jpg
-subtitle: This one is a famous request inBlogger Help Forum- instructions to
-  shroud the sidebar on one of the static pages, and make the principle
 tags:
   - css
   - blogger
 thumbnail: https://3.bp.blogspot.com/-q-AHZo_sm-c/Tbx33FuXgVI/AAAAAAAAC2I/h9SaOe4k_AE/s500/0.jpg
 title: How to Remove Blogger sidebar and make spesific pages at full width
 type: post
-updated: 2023-08-08T14:45:54+07:00
+updated: 2023-09-03T06:13:47+07:00
 wordcount: 1350
 ---
 

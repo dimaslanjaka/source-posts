@@ -4,22 +4,20 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://2.bp.blogspot.com/-THwUQIZSve0/WJRctlNolxI/AAAAAAAAEcg/dIQv0GpStXkwgpoAFZFdWefnzy8DJkTmACPcB/s1600/Cara%2BPasang%2Bdan%2BAktifkan%2BHTTPS%2B%2528SSL%2529%2Bdi%2BBlogspot%2BCustom%2BDomain%2B02.jpg
 date: 2017-05-22T22:41:00.000+07:00
 description: How to Install and Enable HTTPS SSL on Blogspot Custom Domain
-excerpt: How to Install and Enable HTTPS SSL on Blogspot Custom Domain
 lang: en
 photos:
   - https://2.bp.blogspot.com/-THwUQIZSve0/WJRctlNolxI/AAAAAAAAEcg/dIQv0GpStXkwgpoAFZFdWefnzy8DJkTmACPcB/s1600/Cara%2BPasang%2Bdan%2BAktifkan%2BHTTPS%2B%2528SSL%2529%2Bdi%2BBlogspot%2BCustom%2BDomain%2B02.jpg
-subtitle: How to Install and Enable HTTPS SSL on Blogspot Custom Domain
 tags:
   - blogger
 thumbnail: https://2.bp.blogspot.com/-THwUQIZSve0/WJRctlNolxI/AAAAAAAAEcg/dIQv0GpStXkwgpoAFZFdWefnzy8DJkTmACPcB/s1600/Cara%2BPasang%2Bdan%2BAktifkan%2BHTTPS%2B%2528SSL%2529%2Bdi%2BBlogspot%2BCustom%2BDomain%2B02.jpg
 title: How to Install and Enable HTTPS SSL on Blogspot Custom Domain
 type: post
-updated: 2023-08-08T14:45:55+07:00
+updated: 2023-09-03T06:13:47+07:00
 wordcount: 1720
 ---
 

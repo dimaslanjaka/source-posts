@@ -4,19 +4,15 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://4.bp.blogspot.com/-8SFuxN53JKY/WP4EotL68mI/AAAAAAAAFLE/QKjY273Zd60Z1FdySOdLoB4r94bXskwZQCLcB/s320/Screenshot_2017-04-24-20-56-21.jpg
 date: 2017-04-24T20:18:00.000+07:00
 description: Nah kali ini saya akan share bagaimana cara membuat recent widget
   blogger dengan fitur Slider style, Responsive, Elegant Style.
-excerpt: Nah kali ini saya akan share bagaimana cara membuat recent widget
-  blogger dengan fitur Slider style, Responsive, Elegant Style.
 lang: en
 photos:
   - https://4.bp.blogspot.com/-8SFuxN53JKY/WP4EotL68mI/AAAAAAAAFLE/QKjY273Zd60Z1FdySOdLoB4r94bXskwZQCLcB/s320/Screenshot_2017-04-24-20-56-21.jpg
-subtitle: Nah kali ini saya akan share bagaimana cara membuat recent widget
-  blogger dengan fitur Slider style, Responsive, Elegant Style.
 tags:
   - css
   - js
@@ -25,7 +21,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-8SFuxN53JKY/WP4EotL68mI/AAAAAAAAFLE/QKjY273Zd60Z1FdySOdLoB4r94bXskwZQCLcB/s320/Screenshot_2017-04-24-20-56-21.jpg
 title: Cara membuat Responsive Recent Slider Widget keren di Blogger
 type: post
-updated: 2023-08-08T14:46:01+07:00
+updated: 2023-09-03T06:13:58+07:00
 wordcount: 1130
 ---
 

@@ -4,31 +4,22 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://imgdb.net/images/3197.jpg
 date: 2017-09-29T02:13:00.000+07:00
 description: "SOME TYPES OF BORDER CSS 1. none 2. dotted 3. dashed 4. solid 5.
   double 6. groove 7. ridge 8. inset 9. outset : Do not define the border line :
-  Defines a dotted line border. : Defines a dotted line border. Defining a full
-  line border. Defining a double line border. : Defines a 3D grooved border li"
-excerpt: "SOME TYPES OF BORDER CSS 1. none 2. dotted 3. dashed 4. solid 5.
-  double 6. groove 7. ridge 8. inset 9. outset : Do not define the border line :
-  Defines a dotted line border. : Defines a dotted line border. Defining a full
-  line border. Defining a double line border. : Defines a 3D grooved border li"
+  Defines a dotted"
 lang: en
 photos:
   - https://imgdb.net/images/3197.jpg
-subtitle: "SOME TYPES OF BORDER CSS 1. none 2. dotted 3. dashed 4. solid 5.
-  double 6. groove 7. ridge 8. inset 9. outset : Do not define the border line :
-  Defines a dotted line border. : Defines a dotted line border. Defining a full
-  line border. Defining a double line border. : Defines a 3D grooved border li"
 tags:
   - css
 thumbnail: https://imgdb.net/images/3197.jpg
 title: SOME TYPES OF BORDER CSS
 type: post
-updated: 2023-08-08T14:45:45+07:00
+updated: 2023-09-03T06:13:40+07:00
 wordcount: 1493
 ---
 

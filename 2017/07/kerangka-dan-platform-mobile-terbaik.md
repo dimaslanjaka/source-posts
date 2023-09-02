@@ -4,34 +4,22 @@ author:
   link: https://www.blogger.com/profile/18262459107951035499
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: http://i.imgur.com/4kHlYlw.png
 date: 2017-07-13T00:50:00.000+07:00
 description: Kerangka dan Platform Mobile Terbaik untuk Aplikasi HTML5 Hybrid
   Beberapa waktu yang lalu, saya masuk ke pengembangan aplikasi seluler
-  menggunakan HTML5 dan PhoneGap.Ini adalah solusi bagus untuk membuat aplikasi
-  untuk iOS dan Android saat mengkodekan dalam HTML, CSS, dan JavaScript.Hari
-  ini, kita
-excerpt: Kerangka dan Platform Mobile Terbaik untuk Aplikasi HTML5 Hybrid
-  Beberapa waktu yang lalu, saya masuk ke pengembangan aplikasi seluler
-  menggunakan HTML5 dan PhoneGap.Ini adalah solusi bagus untuk membuat aplikasi
-  untuk iOS dan Android saat mengkodekan dalam HTML, CSS, dan JavaScript.Hari
-  ini, kita
+  menggunakan HTML5 dan Pho
 lang: en
 photos:
   - http://i.imgur.com/4kHlYlw.png
-subtitle: Kerangka dan Platform Mobile Terbaik untuk Aplikasi HTML5 Hybrid
-  Beberapa waktu yang lalu, saya masuk ke pengembangan aplikasi seluler
-  menggunakan HTML5 dan PhoneGap.Ini adalah solusi bagus untuk membuat aplikasi
-  untuk iOS dan Android saat mengkodekan dalam HTML, CSS, dan JavaScript.Hari
-  ini, kita
 tags:
   - html
 thumbnail: http://i.imgur.com/4kHlYlw.png
 title: Kerangka dan Platform Mobile Terbaik untuk Aplikasi HTML5 Hybrid
 type: post
-updated: 2023-08-08T14:45:51+07:00
+updated: 2023-09-03T06:13:45+07:00
 wordcount: 4543
 ---
 

@@ -4,25 +4,16 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://cdn.woorkup.com/wp-content/uploads/2013/09/xml-sitemap-html.jpg
 date: 2017-10-19T11:00:00.000+07:00
 description: Cara Membuat File Peta Situs untuk Situs Web HTML Anda File peta
   situs Di posting saya sebelumnya saya membahas Cara Membuat File Peta Situs
-  untuk Situs WordPress Anda. Dalamtutorial ini saya akan menunjukkan cara
-  membuat file sitemap contoh sitemap.xml untuk situ
-excerpt: Cara Membuat File Peta Situs untuk Situs Web HTML Anda File peta situs
-  Di posting saya sebelumnya saya membahas Cara Membuat File Peta Situs untuk
-  Situs WordPress Anda. Dalamtutorial ini saya akan menunjukkan cara membuat
-  file sitemap contoh sitemap.xml untuk situ
+  untuk Situs WordPre
 lang: en
 photos:
   - https://cdn.woorkup.com/wp-content/uploads/2013/09/xml-sitemap-html.jpg
-subtitle: Cara Membuat File Peta Situs untuk Situs Web HTML Anda File peta situs
-  Di posting saya sebelumnya saya membahas Cara Membuat File Peta Situs untuk
-  Situs WordPress Anda. Dalamtutorial ini saya akan menunjukkan cara membuat
-  file sitemap contoh sitemap.xml untuk situ
 tags:
   - wordpress
   - seo
@@ -32,7 +23,7 @@ tags:
 thumbnail: https://cdn.woorkup.com/wp-content/uploads/2013/09/xml-sitemap-html.jpg
 title: Cara Membuat File Peta Situs untuk Situs Web HTML Anda
 type: post
-updated: 2023-08-08T14:45:45+07:00
+updated: 2023-09-03T06:13:39+07:00
 wordcount: 777
 ---
 

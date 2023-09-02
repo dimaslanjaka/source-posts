@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://1.bp.blogspot.com/-WFX0GRHO_hU/VW1H7LU1faI/AAAAAAAABmU/hFAoVMjR--M/s1600/mengaktifkan%2Btampilan%2Bseluler%2Bpada%2Bblog.png
 date: 2017-04-26T16:21:00.000+07:00
 description: Make Blog Become a MobileFriendly How to Make a Blog For Mobile
   Friendly and SEO - After the latest algorithms of search engine
-excerpt: Make Blog Become a MobileFriendly How to Make a Blog For Mobile
-  Friendly and SEO - After the latest algorithms of search engine
 lang: en
 photos:
   - https://1.bp.blogspot.com/-WFX0GRHO_hU/VW1H7LU1faI/AAAAAAAABmU/hFAoVMjR--M/s1600/mengaktifkan%2Btampilan%2Bseluler%2Bpada%2Bblog.png
-subtitle: Make Blog Become a MobileFriendly How to Make a Blog For Mobile
-  Friendly and SEO - After the latest algorithms of search engine
 tags:
   - seo
   - blogging
 thumbnail: https://1.bp.blogspot.com/-WFX0GRHO_hU/VW1H7LU1faI/AAAAAAAABmU/hFAoVMjR--M/s1600/mengaktifkan%2Btampilan%2Bseluler%2Bpada%2Bblog.png
 title: Make Blog Become a Mobile-Friendly
 type: post
-updated: 2023-08-08T14:45:59+07:00
+updated: 2023-09-03T06:13:51+07:00
 wordcount: 7655
 ---
 

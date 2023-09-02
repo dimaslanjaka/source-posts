@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://1.bp.blogspot.com/-GV7abCMrwuY/VFjH5bdO0II/AAAAAAAAHgI/zvsV7trZFXY/s1600/archive%2Bcopy.jpg
 date: 2017-08-03T16:06:00.000+07:00
 description: The Blog Document gadget is one of Bloggers legitimate gadgets. The
   main issue with the default Blog File gadget is that it will take up
-excerpt: The Blog Document gadget is one of Bloggers legitimate gadgets. The
-  main issue with the default Blog File gadget is that it will take up
 lang: en
 photos:
   - https://1.bp.blogspot.com/-GV7abCMrwuY/VFjH5bdO0II/AAAAAAAAHgI/zvsV7trZFXY/s1600/archive%2Bcopy.jpg
-subtitle: The Blog Document gadget is one of Bloggers legitimate gadgets. The
-  main issue with the default Blog File gadget is that it will take up
 tags:
   - css
   - blogger
 thumbnail: https://1.bp.blogspot.com/-GV7abCMrwuY/VFjH5bdO0II/AAAAAAAAHgI/zvsV7trZFXY/s1600/archive%2Bcopy.jpg
 title: Customize Blog Archive Widget With Scrollbar
 type: post
-updated: 2023-08-08T14:45:49+07:00
+updated: 2023-09-03T06:13:43+07:00
 wordcount: 1040
 ---
 

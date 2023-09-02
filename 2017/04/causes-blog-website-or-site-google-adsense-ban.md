@@ -4,25 +4,21 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://juragancipir.com/wp-content/uploads/2013/09/Adsense-banned-site-300x288.jpg
 date: 2017-04-09T07:29:00.000+07:00
 description: Holiday banned blog or website means it can not be used again for
   participating in the adsense program because the blog violates google
-excerpt: Holiday banned blog or website means it can not be used again for
-  participating in the adsense program because the blog violates google
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://juragancipir.com/wp-content/uploads/2013/09/Adsense-banned-site-300x288.jpg
-subtitle: Holiday banned blog or website means it can not be used again for
-  participating in the adsense program because the blog violates google
 tags:
   - adsense
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://juragancipir.com/wp-content/uploads/2013/09/Adsense-banned-site-300x288.jpg
 title: Causes Blog / Website Or Site Google Adsense banned
 type: post
-updated: 2023-08-08T14:46:01+07:00
+updated: 2023-09-03T06:13:57+07:00
 wordcount: 3030
 ---
 

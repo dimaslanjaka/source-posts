@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://imgdb.net/images/3205.png
 date: 2017-10-23T18:34:00.000+07:00
 description: Structure BlogPosting pada AMP merupakan hal istimewa. Dijamin bila
   keyword density kata-kata/kalimat yang berhubungan dengan title/judul
-excerpt: Structure BlogPosting pada AMP merupakan hal istimewa. Dijamin bila
-  keyword density kata-kata/kalimat yang berhubungan dengan title/judul
 lang: en
 photos:
   - https://imgdb.net/images/3205.png
-subtitle: Structure BlogPosting pada AMP merupakan hal istimewa. Dijamin bila
-  keyword density kata-kata/kalimat yang berhubungan dengan title/judul
 tags:
   - seo
   - blogger
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://imgdb.net/images/3205.png
 title: Schema Blogposting Untuk Blogger AMP
 type: post
-updated: 2023-08-08T14:45:43+07:00
+updated: 2023-09-03T06:13:38+07:00
 wordcount: 305
 ---
 

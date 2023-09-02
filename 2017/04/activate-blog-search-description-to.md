@@ -4,19 +4,15 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://1.bp.blogspot.com/-ci6cJ-WlLo8/WKQ4JcDQ4pI/AAAAAAAAF0I/Gp5LD-xDMgYr0It3EAZWWVkDlvSijot6QCLcB/s280/judul-dan-deskripsi-penelusuran-di-pencarian-google.jpg
 date: 2017-04-14T21:41:00.000+07:00
 description: Blog search description activate important to improve CTR, SEO and
   relevance of articlesYou probably already know the character of the
-excerpt: Blog search description activate important to improve CTR, SEO and
-  relevance of articlesYou probably already know the character of the
 lang: en
 photos:
   - https://1.bp.blogspot.com/-ci6cJ-WlLo8/WKQ4JcDQ4pI/AAAAAAAAF0I/Gp5LD-xDMgYr0It3EAZWWVkDlvSijot6QCLcB/s280/judul-dan-deskripsi-penelusuran-di-pencarian-google.jpg
-subtitle: Blog search description activate important to improve CTR, SEO and
-  relevance of articlesYou probably already know the character of the
 tags:
   - adsense
   - seo
@@ -25,7 +21,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-ci6cJ-WlLo8/WKQ4JcDQ4pI/AAAAAAAAF0I/Gp5LD-xDMgYr0It3EAZWWVkDlvSijot6QCLcB/s280/judul-dan-deskripsi-penelusuran-di-pencarian-google.jpg
 title: Activate Blog Search Description To Improve CTR, SEO and Relevance Of Articles
 type: post
-updated: 2023-08-08T14:46:02+07:00
+updated: 2023-09-03T06:14:00+07:00
 wordcount: 6431
 ---
 

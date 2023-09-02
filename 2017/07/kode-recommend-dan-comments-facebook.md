@@ -4,19 +4,15 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-07-28T22:55:00.000+07:00
 description: Dengan plugin komentar, orang dapat mengomentari konten di situs
   web Anda menggunakan akun Facebook mereka. Orangorang juga bisa memilih
-excerpt: Dengan plugin komentar, orang dapat mengomentari konten di situs web
-  Anda menggunakan akun Facebook mereka. Orangorang juga bisa memilih
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Dengan plugin komentar, orang dapat mengomentari konten di situs web
-  Anda menggunakan akun Facebook mereka. Orangorang juga bisa memilih
 tags:
   - js
   - html
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Kode Recommend Dan Comments Facebook Based JavaScript
 type: post
-updated: 2023-08-08T14:45:51+07:00
+updated: 2023-09-03T06:13:45+07:00
 wordcount: 566
 ---
 

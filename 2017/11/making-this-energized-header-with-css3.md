@@ -4,31 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://netdna-webdesignerdepot-com.cdn.ampproject.org/i/s/netdna.webdesignerdepot.com/uploads/2014/05/thumbnail8.jpg
 date: 2017-11-19T10:00:00.000+07:00
 description: Making this energized header with CSS3 properties Patterns come and
   patterns go. The ones that stick around the longest do as such since they take
-  care of a specific issue. A pattern that is well known right presently for
-  that very reason, is sticky components; components that act typically until we
-excerpt: Making this energized header with CSS3 properties Patterns come and
-  patterns go. The ones that stick around the longest do as such since they take
-  care of a specific issue. A pattern that is well known right presently for
-  that very reason, is sticky components; components that act typically until we
+  care of a spe
 lang: en
 photos:
   - https://netdna-webdesignerdepot-com.cdn.ampproject.org/i/s/netdna.webdesignerdepot.com/uploads/2014/05/thumbnail8.jpg
-subtitle: Making this energized header with CSS3 properties Patterns come and
-  patterns go. The ones that stick around the longest do as such since they take
-  care of a specific issue. A pattern that is well known right presently for
-  that very reason, is sticky components; components that act typically until we
 tags:
   - css
 thumbnail: https://netdna-webdesignerdepot-com.cdn.ampproject.org/i/s/netdna.webdesignerdepot.com/uploads/2014/05/thumbnail8.jpg
 title: Making this energized header with CSS3 properties
 type: post
-updated: 2023-08-08T14:45:43+07:00
+updated: 2023-09-03T06:13:38+07:00
 wordcount: 1490
 ---
 

@@ -4,32 +4,23 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://1.bp.blogspot.com/-uaYqOPzmKIk/WPgRWL0wYyI/AAAAAAAAFJU/BSgqP9KOA4gg9ERDx3YEY_tg9r4KTY8LQCLcB/s320/Screenshot_2017-04-20-08-38-25.jpg
 date: 2017-05-03T08:40:00.000+07:00
 description: Mouseover Focus Selector CSS3 Transitions Code HTML and CSS3
   Mouseover Focus Selector CSS3 Transitions Code HTML and CSS3 <div class=tab
-  id=blue>Blue</div> <div class=tab id=green>Green</div> <div class=tab
-  id=yellow>Yellow</div> <div class=tab id=red>Red</div> <input class
-excerpt: Mouseover Focus Selector CSS3 Transitions Code HTML and CSS3 Mouseover
-  Focus Selector CSS3 Transitions Code HTML and CSS3 <div class=tab
-  id=blue>Blue</div> <div class=tab id=green>Green</div> <div class=tab
-  id=yellow>Yellow</div> <div class=tab id=red>Red</div> <input class
+  id=blue>Blue</div> <div
 lang: en
 photos:
   - https://1.bp.blogspot.com/-uaYqOPzmKIk/WPgRWL0wYyI/AAAAAAAAFJU/BSgqP9KOA4gg9ERDx3YEY_tg9r4KTY8LQCLcB/s320/Screenshot_2017-04-20-08-38-25.jpg
-subtitle: Mouseover Focus Selector CSS3 Transitions Code HTML and CSS3 Mouseover
-  Focus Selector CSS3 Transitions Code HTML and CSS3 <div class=tab
-  id=blue>Blue</div> <div class=tab id=green>Green</div> <div class=tab
-  id=yellow>Yellow</div> <div class=tab id=red>Red</div> <input class
 tags:
   - css
   - html
 thumbnail: https://1.bp.blogspot.com/-uaYqOPzmKIk/WPgRWL0wYyI/AAAAAAAAFJU/BSgqP9KOA4gg9ERDx3YEY_tg9r4KTY8LQCLcB/s320/Screenshot_2017-04-20-08-38-25.jpg
 title: Mouseover  Focus Selector CSS3 Transitions Code HTML and CSS3
 type: post
-updated: 2023-08-08T14:45:54+07:00
+updated: 2023-09-03T06:13:47+07:00
 wordcount: 453
 ---
 

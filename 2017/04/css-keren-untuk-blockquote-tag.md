@@ -4,25 +4,21 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-04-11T15:56:00.000+07:00
 description: Apa itu blockquote tag HTML <blockquote> tag digunakan untuk
   menunjukkan kutipan panjang yaitu kutipan yang berlangsung beberapa baris.
-excerpt: Apa itu blockquote tag HTML <blockquote> tag digunakan untuk
-  menunjukkan kutipan panjang yaitu kutipan yang berlangsung beberapa baris.
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Apa itu blockquote tag HTML <blockquote> tag digunakan untuk
-  menunjukkan kutipan panjang yaitu kutipan yang berlangsung beberapa baris.
 tags:
   - css
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: css keren untuk blockquote tag
 type: post
-updated: 2023-08-08T14:46:01+07:00
+updated: 2023-09-03T06:13:56+07:00
 wordcount: 1207
 ---
 

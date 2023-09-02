@@ -4,23 +4,21 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://laraget.com/images/blog/1482184906-Select2.png
 date: 2019-06-26T11:20:00.002+07:00
 description: Example How to change select2 jQuery plugin using jQuery.val
-excerpt: Example How to change select2 jQuery plugin using jQuery.val
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://laraget.com/images/blog/1482184906-Select2.png
-subtitle: Example How to change select2 jQuery plugin using jQuery.val
 tags:
   - js
   - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://laraget.com/images/blog/1482184906-Select2.png
 title: "[JS] Check select2 jquery plugin loaded or not"
 type: post
-updated: 2023-08-08T14:45:31+07:00
+updated: 2023-09-03T06:13:26+07:00
 wordcount: 187
 ---
 

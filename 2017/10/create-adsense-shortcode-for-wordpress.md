@@ -4,22 +4,16 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://imgdb.net/images/3202.jpg
 date: 2017-10-09T14:56:00.000+07:00
 description: img class=center w3-center height=250
   src=https://imgdb.net/images/3202.jpg width=100 /><br /><ol><li>Go to Your
   Dashboard
-excerpt: img class=center w3-center height=250
-  src=https://imgdb.net/images/3202.jpg width=100 /><br /><ol><li>Go to Your
-  Dashboard
 lang: en
 photos:
   - https://imgdb.net/images/3202.jpg
-subtitle: img class=center w3-center height=250
-  src=https://imgdb.net/images/3202.jpg width=100 /><br /><ol><li>Go to Your
-  Dashboard
 tags:
   - adsense
   - wordpress
@@ -27,7 +21,7 @@ tags:
 thumbnail: https://imgdb.net/images/3202.jpg
 title: Create Adsense shortcode for WordPress
 type: post
-updated: 2023-08-08T14:45:44+07:00
+updated: 2023-09-03T06:13:39+07:00
 wordcount: 369
 ---
 

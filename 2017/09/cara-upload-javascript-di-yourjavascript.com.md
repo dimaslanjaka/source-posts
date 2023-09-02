@@ -4,32 +4,23 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://imgdb.net/images/3191.png
 date: 2017-09-09T22:01:00.000+07:00
 description: Multilingual hreflang tag for blogger Hreflang Attribute The
   hreflang attribute also referred to as rel=alternate hreflang=xdiscloses to
-  Google which dialect you are utilizing on a particular page, so the web index
-  can serve that outcome to clients seeking in that dialect.Code Sa
-excerpt: Multilingual hreflang tag for blogger Hreflang Attribute The hreflang
-  attribute also referred to as rel=alternate hreflang=xdiscloses to Google
-  which dialect you are utilizing on a particular page, so the web index can
-  serve that outcome to clients seeking in that dialect.Code Sa
+  Google which dialect yo
 lang: en
 photos:
   - https://imgdb.net/images/3191.png
-subtitle: Multilingual hreflang tag for blogger Hreflang Attribute The hreflang
-  attribute also referred to as rel=alternate hreflang=xdiscloses to Google
-  which dialect you are utilizing on a particular page, so the web index can
-  serve that outcome to clients seeking in that dialect.Code Sa
 tags:
   - blogger
   - html
 thumbnail: https://imgdb.net/images/3191.png
 title: Multilingual hreflang tag for blogger
 type: post
-updated: 2023-08-08T14:45:48+07:00
+updated: 2023-09-03T06:13:42+07:00
 wordcount: 1962
 ---
 

@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-08-05T18:02:00.000+07:00
 description: Menjadi pengguna WordPress bertahuntahun saya telah menemukan tidak
   banyak yang bisa salah dengan CMS open source tapi bila Anda memiliki
-excerpt: Menjadi pengguna WordPress bertahuntahun saya telah menemukan tidak
-  banyak yang bisa salah dengan CMS open source tapi bila Anda memiliki
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Menjadi pengguna WordPress bertahuntahun saya telah menemukan tidak
-  banyak yang bisa salah dengan CMS open source tapi bila Anda memiliki
 tags:
   - wordpress
   - php
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Cara membuat html sitemap wordpress tanpa plugin
 type: post
-updated: 2023-08-08T14:45:49+07:00
+updated: 2023-09-03T06:13:44+07:00
 wordcount: 870
 ---
 

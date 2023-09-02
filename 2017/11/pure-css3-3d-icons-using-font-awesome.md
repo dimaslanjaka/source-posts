@@ -4,23 +4,21 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppA7rQroLKWdCMKXWTRh4ybyogf1cT_XQFnD95O0VCwVjKu_O
 date: 2017-11-10T04:42:00.002+07:00
 description: img width=350 height=300 alt=CSS3 3D Transformation layout=responsive
-excerpt: img width=350 height=300 alt=CSS3 3D Transformation layout=responsive
 lang: en
 photos:
   - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppA7rQroLKWdCMKXWTRh4ybyogf1cT_XQFnD95O0VCwVjKu_O
-subtitle: img width=350 height=300 alt=CSS3 3D Transformation layout=responsive
 tags:
   - css
   - html
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRppA7rQroLKWdCMKXWTRh4ybyogf1cT_XQFnD95O0VCwVjKu_O
 title: Pure CSS3 3D Icons Using Font Awesome 4.7.0
 type: post
-updated: 2023-08-08T14:45:43+07:00
+updated: 2023-09-03T06:13:38+07:00
 wordcount: 1969
 ---
 

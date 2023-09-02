@@ -4,25 +4,21 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://3.bp.blogspot.com/-ALUdm0qBrwA/VPlJ1M--s5I/AAAAAAAAADM/d0MRXUYlTxE/s1600/about-us.jpg
 date: 2017-05-09T05:49:00.000+07:00
 description: Easy Ways to Make About Us On Blogger Widget Do you need to feature
   the About Us on the journal and dont recognize how
-excerpt: Easy Ways to Make About Us On Blogger Widget Do you need to feature the
-  About Us on the journal and dont recognize how
 lang: en
 photos:
   - https://3.bp.blogspot.com/-ALUdm0qBrwA/VPlJ1M--s5I/AAAAAAAAADM/d0MRXUYlTxE/s1600/about-us.jpg
-subtitle: Easy Ways to Make About Us On Blogger Widget Do you need to feature
-  the About Us on the journal and dont recognize how
 tags:
   - blogger
 thumbnail: https://3.bp.blogspot.com/-ALUdm0qBrwA/VPlJ1M--s5I/AAAAAAAAADM/d0MRXUYlTxE/s1600/about-us.jpg
 title: Easy Ways to Make About Us On Blogger Widget
 type: post
-updated: 2023-08-08T14:45:57+07:00
+updated: 2023-09-03T06:13:49+07:00
 wordcount: 949
 ---
 

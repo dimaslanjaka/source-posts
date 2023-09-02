@@ -4,25 +4,21 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2018-12-17T02:59:00.000+07:00
 description: pre>.cc-banner .cc-btn:last-child,.cc-theme-classic
   .cc-btn:last-childmin-width:140px.cc-windowleft:20px;bottom:20px;transition:opacity
-excerpt: pre>.cc-banner .cc-btn:last-child,.cc-theme-classic
-  .cc-btn:last-childmin-width:140px.cc-windowleft:20px;bottom:20px;transition:opacity
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: pre>.cc-banner .cc-btn:last-child,.cc-theme-classic
-  .cc-btn:last-childmin-width:140px.cc-windowleft:20px;bottom:20px;transition:opacity
 tags:
   - css
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: CSS for a cookie policy
 type: post
-updated: 2023-08-08T14:45:35+07:00
+updated: 2023-09-03T06:13:30+07:00
 wordcount: 192
 ---
 

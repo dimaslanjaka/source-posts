@@ -4,22 +4,20 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-09-06T13:47:00.000+07:00
 description: Header
-excerpt: Header
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Header
 tags:
   - css
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: CSS Sticky Fixed Footer
 type: post
-updated: 2023-08-08T14:45:47+07:00
+updated: 2023-09-03T06:13:41+07:00
 wordcount: 243
 ---
 

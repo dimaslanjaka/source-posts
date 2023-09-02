@@ -4,25 +4,21 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa1lm1EI1a4kQStyHaoRq2LTQ3iHdj3CuE8YfEqS3-jKcycvJfOP44cSUy_A
 date: 2017-04-23T16:00:00.000+07:00
 description: How To Solve Duplicate Content On Blog Duplicate content is to
   duplicate the title and description of the content in a blog which is
-excerpt: How To Solve Duplicate Content On Blog Duplicate content is to
-  duplicate the title and description of the content in a blog which is
 lang: en
 photos:
   - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa1lm1EI1a4kQStyHaoRq2LTQ3iHdj3CuE8YfEqS3-jKcycvJfOP44cSUy_A
-subtitle: How To Solve Duplicate Content On Blog Duplicate content is to
-  duplicate the title and description of the content in a blog which is
 tags:
   - blogger
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQa1lm1EI1a4kQStyHaoRq2LTQ3iHdj3CuE8YfEqS3-jKcycvJfOP44cSUy_A
 title: How To Solve Duplicate Content On Blog
 type: post
-updated: 2023-08-08T14:45:59+07:00
+updated: 2023-09-03T06:13:52+07:00
 wordcount: 2751
 ---
 

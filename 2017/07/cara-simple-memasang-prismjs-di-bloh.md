@@ -4,32 +4,23 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://crambler.com/wp-content/uploads/2014/07/PrismJS_Blog_NEW.jpg
 date: 2017-07-21T02:11:00.001+07:00
 description: Cara simple memasang prismjs di blog 100 Work Cara simple memasang
   syntax highlighter dengan prismjs di blog 100 Work. <script>//<[CDATA[function
-  loadCSSe, t, n use strict; var i = window.document.createElementlink; var o =
-  t window.document.getElementsByTagNamescript[0]; i.re
-excerpt: Cara simple memasang prismjs di blog 100 Work Cara simple memasang
-  syntax highlighter dengan prismjs di blog 100 Work. <script>//<[CDATA[function
-  loadCSSe, t, n use strict; var i = window.document.createElementlink; var o =
-  t window.document.getElementsByTagNamescript[0]; i.re
+  loadCSSe, t, n
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://crambler.com/wp-content/uploads/2014/07/PrismJS_Blog_NEW.jpg
-subtitle: Cara simple memasang prismjs di blog 100 Work Cara simple memasang
-  syntax highlighter dengan prismjs di blog 100 Work. <script>//<[CDATA[function
-  loadCSSe, t, n use strict; var i = window.document.createElementlink; var o =
-  t window.document.getElementsByTagNamescript[0]; i.re
 tags:
   - css
   - js
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://crambler.com/wp-content/uploads/2014/07/PrismJS_Blog_NEW.jpg
 title: Cara simple memasang prismjs di blog 100 Work
 type: post
-updated: 2023-08-08T14:45:52+07:00
+updated: 2023-09-03T06:13:45+07:00
 wordcount: 462
 ---
 

@@ -4,25 +4,21 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://3.bp.blogspot.com/-GUjQbrIh570/VW8CZgHV4WI/AAAAAAAABc0/sYLAihhUM8g/s320/Screenshot_2.jpg
 date: 2017-05-08T23:18:00.000+07:00
 description: Not continually all the items we wish are done, we have a tendency
   similarly as we attempt to continually produce articles daily to
-excerpt: Not continually all the items we wish are done, we have a tendency
-  similarly as we attempt to continually produce articles daily to
 lang: en
 photos:
   - https://3.bp.blogspot.com/-GUjQbrIh570/VW8CZgHV4WI/AAAAAAAABc0/sYLAihhUM8g/s320/Screenshot_2.jpg
-subtitle: Not continually all the items we wish are done, we have a tendency
-  similarly as we attempt to continually produce articles daily to
 tags:
   - blogging
 thumbnail: https://3.bp.blogspot.com/-GUjQbrIh570/VW8CZgHV4WI/AAAAAAAABc0/sYLAihhUM8g/s320/Screenshot_2.jpg
 title: It Will Happen If You Do Not Update Blog More Than 1 Month
 type: post
-updated: 2023-08-08T14:45:55+07:00
+updated: 2023-09-03T06:13:47+07:00
 wordcount: 2144
 ---
 

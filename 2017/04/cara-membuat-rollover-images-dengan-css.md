@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://3.bp.blogspot.com/-JOfTRWkg06Y/V_z6BpgKHjI/AAAAAAAAL3M/vF_yc-oNkd8BjbQOElXOiHEx7Jj93k25wCLcB/s200/css-rollover-image-change-on-hover.png
 date: 2017-04-12T01:34:00.000+07:00
 description: CSS Rollover Efek Gambar Ganti Gambar pada gambarHoverRollover
   adalah fitur desain di mana gambar berubah ketika mouse melayang di
-excerpt: CSS Rollover Efek Gambar Ganti Gambar pada gambarHoverRollover adalah
-  fitur desain di mana gambar berubah ketika mouse melayang di
 lang: en
 photos:
   - https://3.bp.blogspot.com/-JOfTRWkg06Y/V_z6BpgKHjI/AAAAAAAAL3M/vF_yc-oNkd8BjbQOElXOiHEx7Jj93k25wCLcB/s200/css-rollover-image-change-on-hover.png
-subtitle: CSS Rollover Efek Gambar Ganti Gambar pada gambarHoverRollover adalah
-  fitur desain di mana gambar berubah ketika mouse melayang di
 tags:
   - css
   - html
 thumbnail: https://3.bp.blogspot.com/-JOfTRWkg06Y/V_z6BpgKHjI/AAAAAAAAL3M/vF_yc-oNkd8BjbQOElXOiHEx7Jj93k25wCLcB/s200/css-rollover-image-change-on-hover.png
 title: Cara membuat Rollover Images Dengan CSS
 type: post
-updated: 2023-08-08T14:46:01+07:00
+updated: 2023-09-03T06:13:58+07:00
 wordcount: 2263
 ---
 

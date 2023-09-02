@@ -4,25 +4,16 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://4.bp.blogspot.com/-0ALg8SCnD24/VSsqzL7AxJI/AAAAAAAACOQ/4w_tFyoUEVo/s320/Menerapkan%2BDaftar%2Bisi%2BMenurut%2BLabel.png
 date: 2017-06-24T21:08:00.000+07:00
 description: How to Create Dark Style Table Sitemap Blogger This is version 2
   from Blogger sitemap per table Blogger sitemap per table <div-sitemap
-  id=wrapper><div-sitemap dir=ltr style=text-align:left; trbidi=on><div-sitemap
-  class=table-of-content id=table-of-content><div-sitemap class=loading><
-excerpt: How to Create Dark Style Table Sitemap Blogger This is version 2 from
-  Blogger sitemap per table Blogger sitemap per table <div-sitemap
-  id=wrapper><div-sitemap dir=ltr style=text-align:left; trbidi=on><div-sitemap
-  class=table-of-content id=table-of-content><div-sitemap class=loading><
+  id=wrapper><div-sitemap d
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://4.bp.blogspot.com/-0ALg8SCnD24/VSsqzL7AxJI/AAAAAAAACOQ/4w_tFyoUEVo/s320/Menerapkan%2BDaftar%2Bisi%2BMenurut%2BLabel.png
-subtitle: How to Create Dark Style Table Sitemap Blogger This is version 2 from
-  Blogger sitemap per table Blogger sitemap per table <div-sitemap
-  id=wrapper><div-sitemap dir=ltr style=text-align:left; trbidi=on><div-sitemap
-  class=table-of-content id=table-of-content><div-sitemap class=loading><
 tags:
   - css
   - js
@@ -31,7 +22,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://4.bp.blogspot.com/-0ALg8SCnD24/VSsqzL7AxJI/AAAAAAAACOQ/4w_tFyoUEVo/s320/Menerapkan%2BDaftar%2Bisi%2BMenurut%2BLabel.png
 title: How to Create Dark Style Table Sitemap Blogger
 type: post
-updated: 2023-08-08T14:45:54+07:00
+updated: 2023-09-03T06:13:46+07:00
 wordcount: 335
 ---
 

@@ -4,34 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://lh6.googleusercontent.com/proxy/4Jrx-c1qmdyJBBFWaTVYP6cr1OXxZADd8-8FRy0T0GJ041YEC_g6DBddYsU20X7p0UPshwbJY7vxAoJOqppV5HbWDVBpnr7lMTRrNw4bgI_0i2VHIhFR0Vc=w543-h271-nc
 date: 2017-04-20T13:39:00.001+07:00
-description: "Cara menampilkan codepen.io di blog Bagaimana cara menampilkan
+description: Cara menampilkan codepen.io di blog Bagaimana cara menampilkan
   codepen.io di blog. Nah kali ini banyak mungkin yang minat dengan trik ini.
-  Karena embbed codepen hanya di peruntukkan user premium. Lalu bagaimana cara
-  menampilkan kode kita yang sudah di edit dari codepen.io ke blog kita ?. Mari
-  kita "
-excerpt: "Cara menampilkan codepen.io di blog Bagaimana cara menampilkan
-  codepen.io di blog. Nah kali ini banyak mungkin yang minat dengan trik ini.
-  Karena embbed codepen hanya di peruntukkan user premium. Lalu bagaimana cara
-  menampilkan kode kita yang sudah di edit dari codepen.io ke blog kita ?. Mari
-  kita "
+  Karena embbed codepen
 lang: en
 photos:
   - https://lh6.googleusercontent.com/proxy/4Jrx-c1qmdyJBBFWaTVYP6cr1OXxZADd8-8FRy0T0GJ041YEC_g6DBddYsU20X7p0UPshwbJY7vxAoJOqppV5HbWDVBpnr7lMTRrNw4bgI_0i2VHIhFR0Vc=w543-h271-nc
-subtitle: "Cara menampilkan codepen.io di blog Bagaimana cara menampilkan
-  codepen.io di blog. Nah kali ini banyak mungkin yang minat dengan trik ini.
-  Karena embbed codepen hanya di peruntukkan user premium. Lalu bagaimana cara
-  menampilkan kode kita yang sudah di edit dari codepen.io ke blog kita ?. Mari
-  kita "
 tags:
   - html
 thumbnail: https://lh6.googleusercontent.com/proxy/4Jrx-c1qmdyJBBFWaTVYP6cr1OXxZADd8-8FRy0T0GJ041YEC_g6DBddYsU20X7p0UPshwbJY7vxAoJOqppV5HbWDVBpnr7lMTRrNw4bgI_0i2VHIhFR0Vc=w543-h271-nc
 title: Cara menampilkan codepen.io di blog
 type: post
-updated: 2023-08-08T14:46:01+07:00
+updated: 2023-09-03T06:13:57+07:00
 wordcount: 644
 ---
 

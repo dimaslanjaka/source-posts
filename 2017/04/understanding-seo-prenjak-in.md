@@ -4,25 +4,21 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: http://juragancipir.com/wp-content/uploads/2013/12/Seo-Prenjak-300x240.jpg
 date: 2017-04-11T09:26:00.000+07:00
 description: Google launches sophisticated algorithms named Hummingbird,
   webmasters also use cuttingedge way to deal with it anyway, using SEO
-excerpt: Google launches sophisticated algorithms named Hummingbird, webmasters
-  also use cuttingedge way to deal with it anyway, using SEO
 lang: en
 photos:
   - http://juragancipir.com/wp-content/uploads/2013/12/Seo-Prenjak-300x240.jpg
-subtitle: Google launches sophisticated algorithms named Hummingbird, webmasters
-  also use cuttingedge way to deal with it anyway, using SEO
 tags:
   - seo
 thumbnail: http://juragancipir.com/wp-content/uploads/2013/12/Seo-Prenjak-300x240.jpg
 title: Understanding SEO prenjak In Optimization Blog
 type: post
-updated: 2023-08-08T14:45:58+07:00
+updated: 2023-09-03T06:13:51+07:00
 wordcount: 4637
 ---
 

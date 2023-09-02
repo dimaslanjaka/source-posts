@@ -4,19 +4,15 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://4.bp.blogspot.com/-mkz0lWksXfQ/VUAqpSUJo5I/AAAAAAAABEA/jtNaXv7Oiw4/s1600/Cara%2BMenghapus%2BURL%2BERROR%2Bsecara%2Botomatis.png
 date: 2017-04-25T16:12:00.000+07:00
 description: How to Remove a URL ERROR Blog Automatically you may never
   experiencing an error in the blog url that many hundreds. to see it, we can
-excerpt: How to Remove a URL ERROR Blog Automatically you may never experiencing
-  an error in the blog url that many hundreds. to see it, we can
 lang: en
 photos:
   - https://4.bp.blogspot.com/-mkz0lWksXfQ/VUAqpSUJo5I/AAAAAAAABEA/jtNaXv7Oiw4/s1600/Cara%2BMenghapus%2BURL%2BERROR%2Bsecara%2Botomatis.png
-subtitle: How to Remove a URL ERROR Blog Automatically you may never
-  experiencing an error in the blog url that many hundreds. to see it, we can
 tags:
   - blogger
   - html
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-mkz0lWksXfQ/VUAqpSUJo5I/AAAAAAAABEA/jtNaXv7Oiw4/s1600/Cara%2BMenghapus%2BURL%2BERROR%2Bsecara%2Botomatis.png
 title: How to Remove a URL ERROR Automatically on blogger
 type: post
-updated: 2023-08-08T14:45:59+07:00
+updated: 2023-09-03T06:13:52+07:00
 wordcount: 1970
 ---
 

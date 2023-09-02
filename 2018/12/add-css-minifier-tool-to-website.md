@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/00073980860956332189
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2018-12-09T15:23:00.000+07:00
 description: h2>Simple way to add CSS minifier to an websites.</h2><br />Here
   the codes:<br /><br />HTML<br /><pre class=highlight>lt;div
-excerpt: h2>Simple way to add CSS minifier to an websites.</h2><br />Here the
-  codes:<br /><br />HTML<br /><pre class=highlight>lt;div
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: h2>Simple way to add CSS minifier to an websites.</h2><br />Here the
-  codes:<br /><br />HTML<br /><pre class=highlight>lt;div
 tags:
   - wordpress
   - css
@@ -27,7 +23,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Add CSS Minifier Tool to Website
 type: post
-updated: 2023-08-08T14:45:36+07:00
+updated: 2023-09-03T06:13:31+07:00
 wordcount: 2328
 ---
 

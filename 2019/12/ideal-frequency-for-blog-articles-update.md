@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/edd537cfee3f5f3a8bde808f052c0934.jpeg
 date: 2019-12-15T04:02:00.000+07:00
 description: Do we have to write articles every day on the blog Maybe this
   question has crossed many bloggers. I, as someone new to the blogging
-excerpt: Do we have to write articles every day on the blog Maybe this question
-  has crossed many bloggers. I, as someone new to the blogging
 lang: en
 photos:
   - https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/edd537cfee3f5f3a8bde808f052c0934.jpeg
-subtitle: Do we have to write articles every day on the blog Maybe this question
-  has crossed many bloggers. I, as someone new to the blogging
 tags:
   - share
   - blogger
@@ -25,7 +21,7 @@ tags:
 thumbnail: https://imgcdn.000webhostapp.com/https/2.bp.blogspot.com/edd537cfee3f5f3a8bde808f052c0934.jpeg
 title: Ideal Frequency For Blog Articles Update
 type: post
-updated: 2023-08-08T14:45:16+07:00
+updated: 2023-09-03T06:13:16+07:00
 wordcount: 4381
 ---
 

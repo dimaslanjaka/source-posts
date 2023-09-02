@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-06-15T13:15:00.000+07:00
 description: "/ Thanks to codepen.io/alaingalvan for suggesting this color
   variable:background: hsl210, 45, 10//"
-excerpt: "/ Thanks to codepen.io/alaingalvan for suggesting this color
-  variable:background: hsl210, 45, 10//"
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: "/ Thanks to codepen.io/alaingalvan for suggesting this color
-  variable:background: hsl210, 45, 10//"
 tags:
   - css
   - html
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: SVG Social Media Icon With Sass CSS
 type: post
-updated: 2023-08-08T14:45:54+07:00
+updated: 2023-09-03T06:13:46+07:00
 wordcount: 18044
 ---
 

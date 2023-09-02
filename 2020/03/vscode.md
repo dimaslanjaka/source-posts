@@ -4,25 +4,21 @@ author:
   link: https://www.blogger.com/profile/09256263851708439294
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2020-03-23T15:04:00.001+07:00
 description: Install jQuery Auto Complete and Hinting on VSCode Requirednpm-
   Syntax Terminalnpm i --save @types/jquery
-excerpt: Install jQuery Auto Complete and Hinting on VSCode Requirednpm- Syntax
-  Terminalnpm i --save @types/jquery
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Install jQuery Auto Complete and Hinting on VSCode Requirednpm- Syntax
-  Terminalnpm i --save @types/jquery
 tags:
   - tips & tricks
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: VSCode
 type: post
-updated: 2023-08-08T14:45:13+07:00
+updated: 2023-09-03T06:13:11+07:00
 wordcount: 55
 ---
 

@@ -4,28 +4,22 @@ author:
   link: https://www.blogger.com/profile/08197822797622284515
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://mazadie.files.wordpress.com/2012/03/regex.jpg
 date: 2018-04-12T19:43:00.000+07:00
 description: img
   src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://mazadie.files.wordpress.com/2012/03/regex.jpg
   /><ul><li>Extract
-excerpt: img
-  src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://mazadie.files.wordpress.com/2012/03/regex.jpg
-  /><ul><li>Extract
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://mazadie.files.wordpress.com/2012/03/regex.jpg
-subtitle: img
-  src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://mazadie.files.wordpress.com/2012/03/regex.jpg
-  /><ul><li>Extract
 tags:
   - php
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://mazadie.files.wordpress.com/2012/03/regex.jpg
 title: PHP Regex Extract Proxy From String
 type: post
-updated: 2023-08-08T14:45:41+07:00
+updated: 2023-09-03T06:13:36+07:00
 wordcount: 82
 ---
 

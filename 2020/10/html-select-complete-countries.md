@@ -4,25 +4,21 @@ author:
   link: https://www.blogger.com/profile/09256263851708439294
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2020-10-28T14:17:00.005+07:00
 description: See the Pen github.comselect2/select2-bootstrap-theme/issues/35 by
   Florian Kissling @fk on CodePen.
-excerpt: See the Pen github.comselect2/select2-bootstrap-theme/issues/35 by
-  Florian Kissling @fk on CodePen.
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: See the Pen github.comselect2/select2-bootstrap-theme/issues/35 by
-  Florian Kissling @fk on CodePen.
 tags:
   - html
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: HTML Select Complete Countries
 type: post
-updated: 2023-08-08T14:45:11+07:00
+updated: 2023-09-03T06:13:11+07:00
 wordcount: 963
 ---
 

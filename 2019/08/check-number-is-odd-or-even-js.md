@@ -4,31 +4,22 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/jFazrvLodrA/maxresdefault.jpg
 date: 2019-08-02T19:10:00.000+07:00
 description: "Check number is Odd or Even [JS] var oddoreven = function n =
   false, type = odd var time = n ? new Date.getDay : Numbern; if
-  /^-0,1\\d/.testtime alertarguments is not number, please remove quote; return;
-  hasil = time 2; return hasil == type == odd g"
-excerpt: "Check number is Odd or Even [JS] var oddoreven = function n = false,
-  type = odd var time = n ? new Date.getDay : Numbern; if /^-0,1\\d/.testtime
-  alertarguments is not number, please remove quote; return; hasil = time 2;
-  return hasil == type == odd g"
+  /^-0,1\\d/.testtime alertarguments i"
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/jFazrvLodrA/maxresdefault.jpg
-subtitle: "Check number is Odd or Even [JS] var oddoreven = function n = false,
-  type = odd var time = n ? new Date.getDay : Numbern; if /^-0,1\\d/.testtime
-  alertarguments is not number, please remove quote; return; hasil = time 2;
-  return hasil == type == odd g"
 tags:
   - js
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/jFazrvLodrA/maxresdefault.jpg
 title: Check number is Odd or Even [JS]
 type: post
-updated: 2023-08-08T14:45:29+07:00
+updated: 2023-09-03T06:13:24+07:00
 wordcount: 204
 ---
 

@@ -4,19 +4,15 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIWbE9ADSn11CH5cNI3gcioX1mK17u9QAfTSLX9hxLtwyXgFYdt0J_Yyrw
 date: 2017-04-21T18:48:00.000+07:00
 description: async vs defer attributesTagsTheasyncanddeferattributes for
   the<script>element have nice support now, so its time to learn exactly
-excerpt: async vs defer attributesTagsTheasyncanddeferattributes for
-  the<script>element have nice support now, so its time to learn exactly
 lang: en
 photos:
   - https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIWbE9ADSn11CH5cNI3gcioX1mK17u9QAfTSLX9hxLtwyXgFYdt0J_Yyrw
-subtitle: async vs defer attributesTagsTheasyncanddeferattributes for
-  the<script>element have nice support now, so its time to learn exactly
 tags:
   - wordpress
   - js
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIWbE9ADSn11CH5cNI3gcioX1mK17u9QAfTSLX9hxLtwyXgFYdt0J_Yyrw
 title: Auto Defer Or Async Javascript in Wordpress
 type: post
-updated: 2023-08-08T14:46:02+07:00
+updated: 2023-09-03T06:13:59+07:00
 wordcount: 2384
 ---
 

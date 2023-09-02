@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPU5mp9B9Vq99lF8d8-apVN1I1DoiA9DcmpTwYsP1MY5hRB8oY
 date: 2017-05-04T20:27:00.000+07:00
 description: Styling pre> tag using simple css code Description of <pre> tag on
   HTML The HTML <pre> tag is employed for indicating
-excerpt: Styling pre> tag using simple css code Description of <pre> tag on HTML
-  The HTML <pre> tag is employed for indicating
 lang: en
 photos:
   - https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPU5mp9B9Vq99lF8d8-apVN1I1DoiA9DcmpTwYsP1MY5hRB8oY
-subtitle: Styling pre> tag using simple css code Description of <pre> tag on
-  HTML The HTML <pre> tag is employed for indicating
 tags:
   - css
   - html
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPU5mp9B9Vq99lF8d8-apVN1I1DoiA9DcmpTwYsP1MY5hRB8oY
 title: Simple CSS for Styling pre html tag
 type: post
-updated: 2023-08-08T14:45:54+07:00
+updated: 2023-09-03T06:13:47+07:00
 wordcount: 912
 ---
 

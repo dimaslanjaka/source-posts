@@ -4,25 +4,21 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-07-24T07:44:00.000+07:00
 description: Amazon offers a PHP SDK for taking care of AWS and S asks for, yet
   it tips the scales at more than 500 documents and almost 5MB. In the
-excerpt: Amazon offers a PHP SDK for taking care of AWS and S asks for, yet it
-  tips the scales at more than 500 documents and almost 5MB. In the
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Amazon offers a PHP SDK for taking care of AWS and S asks for, yet it
-  tips the scales at more than 500 documents and almost 5MB. In the
 tags:
   - php
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: PHP Amazon S3 File Upload Code AWS Signature Version 4
 type: post
-updated: 2023-08-08T14:45:51+07:00
+updated: 2023-09-03T06:13:44+07:00
 wordcount: 842
 ---
 

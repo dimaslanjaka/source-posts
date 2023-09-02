@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/00073980860956332189
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://2.bp.blogspot.com/-zFYfhcEw2zU/UWfLii_MNyI/AAAAAAAAYC0/8x-A-h5Gbsg/s640/share+this.jpg
 date: 2017-08-27T07:15:00.000+07:00
 description: If you feel loading a blog a bit heavy or slow, one of the causes
   is the presence of javascript. Maybe one of them is
-excerpt: If you feel loading a blog a bit heavy or slow, one of the causes is
-  the presence of javascript. Maybe one of them is
 lang: en
 photos:
   - https://2.bp.blogspot.com/-zFYfhcEw2zU/UWfLii_MNyI/AAAAAAAAYC0/8x-A-h5Gbsg/s640/share+this.jpg
-subtitle: If you feel loading a blog a bit heavy or slow, one of the causes is
-  the presence of javascript. Maybe one of them is
 tags:
   - blogger
   - html
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://2.bp.blogspot.com/-zFYfhcEw2zU/UWfLii_MNyI/AAAAAAAAYC0/8x-A-h5Gbsg/s640/share+this.jpg
 title: How to Create Social Share Buttons Without Javascript
 type: post
-updated: 2023-08-08T14:45:49+07:00
+updated: 2023-09-03T06:13:44+07:00
 wordcount: 1405
 ---
 

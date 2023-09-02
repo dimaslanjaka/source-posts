@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-07-19T02:52:00.000+07:00
 description: h2>How to Create <mark>Awesome Shadow Effects</mark> Using HAML
   HTML Processor and LESS CSS Preprocessor</h2><h3>HAML
-excerpt: h2>How to Create <mark>Awesome Shadow Effects</mark> Using HAML HTML
-  Processor and LESS CSS Preprocessor</h2><h3>HAML
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: h2>How to Create <mark>Awesome Shadow Effects</mark> Using HAML HTML
-  Processor and LESS CSS Preprocessor</h2><h3>HAML
 tags:
   - css
   - html
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Create Awesome Shadow Effect Using HAML and LESS CSS
 type: post
-updated: 2023-08-08T14:45:52+07:00
+updated: 2023-09-03T06:13:45+07:00
 wordcount: 1220
 ---
 

@@ -4,19 +4,15 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://i2.wp.com/orbitingweb.com/wp-content/uploads/facebook-create-app-page.png?resize=641%2C174
 date: 2017-04-14T01:53:00.000+07:00
 description: Cara menambah komentar facebook di wordpress tanpa plugin. Anda
   dapat terus menggunakan Plugin Facebook resmi untuk WordPress
-excerpt: Cara menambah komentar facebook di wordpress tanpa plugin. Anda dapat
-  terus menggunakan Plugin Facebook resmi untuk WordPress
 lang: en
 photos:
   - https://i2.wp.com/orbitingweb.com/wp-content/uploads/facebook-create-app-page.png?resize=641%2C174
-subtitle: Cara menambah komentar facebook di wordpress tanpa plugin. Anda dapat
-  terus menggunakan Plugin Facebook resmi untuk WordPress
 tags:
   - wordpress
   - html
@@ -25,7 +21,7 @@ tags:
 thumbnail: https://i2.wp.com/orbitingweb.com/wp-content/uploads/facebook-create-app-page.png?resize=641%2C174
 title: Cara Menambahkan Komentar Facebook Di Wordpress Tanpa Plugin
 type: post
-updated: 2023-08-08T14:46:01+07:00
+updated: 2023-09-03T06:13:57+07:00
 wordcount: 4930
 ---
 

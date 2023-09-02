@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-07-26T21:16:00.000+07:00
 description: Sometimes we want to make the posting page become more simple in
   displaying the content.
-excerpt: Sometimes we want to make the posting page become more simple in
-  displaying the content.
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Sometimes we want to make the posting page become more simple in
-  displaying the content.
 tags:
   - css
   - js
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Selected Substance With Read More Substance With CSS And Jquery
 type: post
-updated: 2023-08-08T14:45:52+07:00
+updated: 2023-09-03T06:13:45+07:00
 wordcount: 1547
 ---
 

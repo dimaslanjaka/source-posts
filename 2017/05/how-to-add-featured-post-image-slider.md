@@ -4,19 +4,15 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://1.bp.blogspot.com/-vBmmKKOdix4/V510voCoYqI/AAAAAAAAPNk/gttSjmyHe3Q9trg2yO_FF8HnxFws0P7VgCLcB/s320/featured%2Bpost%2Bimage%2Bslider%2Botomatis%2Bblogger.JPG
 date: 2017-05-11T07:17:00.000+07:00
 description: How to Install the Featured Post Image Slider Widget Auto
   BloggerFEATUREDPost Image Slider Autois a widgetbloggerthat displays a large
-excerpt: How to Install the Featured Post Image Slider Widget Auto
-  BloggerFEATUREDPost Image Slider Autois a widgetbloggerthat displays a large
 lang: en
 photos:
   - https://1.bp.blogspot.com/-vBmmKKOdix4/V510voCoYqI/AAAAAAAAPNk/gttSjmyHe3Q9trg2yO_FF8HnxFws0P7VgCLcB/s320/featured%2Bpost%2Bimage%2Bslider%2Botomatis%2Bblogger.JPG
-subtitle: How to Install the Featured Post Image Slider Widget Auto
-  BloggerFEATUREDPost Image Slider Autois a widgetbloggerthat displays a large
 tags:
   - js
   - blogger
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-vBmmKKOdix4/V510voCoYqI/AAAAAAAAPNk/gttSjmyHe3Q9trg2yO_FF8HnxFws0P7VgCLcB/s320/featured%2Bpost%2Bimage%2Bslider%2Botomatis%2Bblogger.JPG
 title: How to add Featured Post Image Slider Widget Blogger
 type: post
-updated: 2023-08-08T14:45:57+07:00
+updated: 2023-09-03T06:13:49+07:00
 wordcount: 4302
 ---
 

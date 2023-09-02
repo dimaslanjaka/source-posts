@@ -4,25 +4,21 @@ author:
   link: https://www.blogger.com/profile/18262459107951035499
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://4.bp.blogspot.com/-wRS-Eyu86jI/V1EjfzBfDBI/AAAAAAAAH3g/6KiOnExqzUE_FGzf2zLefBXrt78IWbJ1gCLcB/s320/histats.jpg
 date: 2017-07-30T03:00:00.000+07:00
 description: have long wanted to make a post about getting visitor data and
   widgets from histats for Blog.But only now can terlakasana and I
-excerpt: have long wanted to make a post about getting visitor data and widgets
-  from histats for Blog.But only now can terlakasana and I
 lang: en
 photos:
   - https://4.bp.blogspot.com/-wRS-Eyu86jI/V1EjfzBfDBI/AAAAAAAAH3g/6KiOnExqzUE_FGzf2zLefBXrt78IWbJ1gCLcB/s320/histats.jpg
-subtitle: have long wanted to make a post about getting visitor data and widgets
-  from histats for Blog.But only now can terlakasana and I
 tags:
   - blogger
 thumbnail: https://4.bp.blogspot.com/-wRS-Eyu86jI/V1EjfzBfDBI/AAAAAAAAH3g/6KiOnExqzUE_FGzf2zLefBXrt78IWbJ1gCLcB/s320/histats.jpg
 title: How to Sign Up and Install Histats Widget on Blogger
 type: post
-updated: 2023-08-08T14:45:52+07:00
+updated: 2023-09-03T06:13:45+07:00
 wordcount: 2499
 ---
 

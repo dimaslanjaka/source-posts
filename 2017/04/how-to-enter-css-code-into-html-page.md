@@ -4,26 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: http://www.duniailkom.com/wp-content/uploads/2013/10/Cara-Menginput-CSS-Metode-Inline-Style.png
 date: 2017-04-28T11:12:00.000+07:00
 description: "Learning CSS Tutorial Part : How to enter CSS code into the HTML
   pageIn this tutorial we will discuss how to input the CSS"
-excerpt: "Learning CSS Tutorial Part : How to enter CSS code into the HTML
-  pageIn this tutorial we will discuss how to input the CSS"
 lang: en
 photos:
   - http://www.duniailkom.com/wp-content/uploads/2013/10/Cara-Menginput-CSS-Metode-Inline-Style.png
-subtitle: "Learning CSS Tutorial Part : How to enter CSS code into the HTML
-  pageIn this tutorial we will discuss how to input the CSS"
 tags:
   - css
   - html
 thumbnail: http://www.duniailkom.com/wp-content/uploads/2013/10/Cara-Menginput-CSS-Metode-Inline-Style.png
 title: How to enter CSS code into the HTML page
 type: post
-updated: 2023-08-08T14:46:00+07:00
+updated: 2023-09-03T06:13:54+07:00
 wordcount: 4778
 ---
 

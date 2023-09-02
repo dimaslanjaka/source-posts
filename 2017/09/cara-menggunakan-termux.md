@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/08197822797622284515
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://files.phpclasses.org/files/blog/package/10192/file/php-termux.png
 date: 2017-09-03T13:33:00.000+07:00
 description: Anda dapat menjalankan PHP dan membuatnya bekerja sebagai server
   Web yang menjalankan skrip PHP Anda di sisi direktori akar proyek Anda
-excerpt: Anda dapat menjalankan PHP dan membuatnya bekerja sebagai server Web
-  yang menjalankan skrip PHP Anda di sisi direktori akar proyek Anda
 lang: en
 photos:
   - https://files.phpclasses.org/files/blog/package/10192/file/php-termux.png
-subtitle: Anda dapat menjalankan PHP dan membuatnya bekerja sebagai server Web
-  yang menjalankan skrip PHP Anda di sisi direktori akar proyek Anda
 tags:
   - php
   - android
@@ -25,7 +21,7 @@ thumbnail: https://files.phpclasses.org/files/blog/package/10192/file/php-termux
 title: Cara Menggunakan Termux Untuk Menjalankan PHP Web Server atau CLI dengan
   Aplikasi PHP Termux untuk Mengontrol Ponsel atau Tablet Android
 type: post
-updated: 2023-08-08T14:45:48+07:00
+updated: 2023-09-03T06:13:42+07:00
 wordcount: 2270
 ---
 

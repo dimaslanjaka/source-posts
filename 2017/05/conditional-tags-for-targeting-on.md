@@ -4,25 +4,21 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://3.bp.blogspot.com/-SQp52Dfe-iM/VsEW5VlzHcI/AAAAAAAABxM/7bEQbN_owsk/s320/gambar-conditional-tag-blogger-min.jpg
 date: 2017-05-19T13:39:00.000+07:00
 description: Ill explain a little what it is conditional tags. Conditional tags
   arebr />limiting a program command on certain conditions use a
-excerpt: Ill explain a little what it is conditional tags. Conditional tags
-  arebr />limiting a program command on certain conditions use a
 lang: en
 photos:
   - https://3.bp.blogspot.com/-SQp52Dfe-iM/VsEW5VlzHcI/AAAAAAAABxM/7bEQbN_owsk/s320/gambar-conditional-tag-blogger-min.jpg
-subtitle: Ill explain a little what it is conditional tags. Conditional tags
-  arebr />limiting a program command on certain conditions use a
 tags:
   - blogger
 thumbnail: https://3.bp.blogspot.com/-SQp52Dfe-iM/VsEW5VlzHcI/AAAAAAAABxM/7bEQbN_owsk/s320/gambar-conditional-tag-blogger-min.jpg
 title: Conditional Tags For Targeting On Blogger Template Format
 type: post
-updated: 2023-08-08T14:45:57+07:00
+updated: 2023-09-03T06:13:49+07:00
 wordcount: 2177
 ---
 

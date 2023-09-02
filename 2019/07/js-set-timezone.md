@@ -4,25 +4,21 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2019-07-17T17:05:00.001+07:00
 description: "Set timezone javascript without using any pluginsconst DATE new
   Date.toLocaleStringen-US, timeZone:"
-excerpt: "Set timezone javascript without using any pluginsconst DATE new
-  Date.toLocaleStringen-US, timeZone:"
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: "Set timezone javascript without using any pluginsconst DATE new
-  Date.toLocaleStringen-US, timeZone:"
 tags:
   - js
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: "[JS] Set Timezone"
 type: post
-updated: 2023-08-08T14:45:30+07:00
+updated: 2023-09-03T06:13:25+07:00
 wordcount: 84
 ---
 

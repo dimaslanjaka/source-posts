@@ -4,25 +4,16 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://3.bp.blogspot.com/-J1AEEzKm7nw/WPoyJbtEpbI/AAAAAAAAFKI/QAv38U0jjIstJfVpQtVyDX6lBpgs9WNbACLcB/s320/Screenshot_2017-04-21-23-23-36.jpg
 date: 2018-12-20T23:30:00.000+07:00
 description: Stylish Full Sitemap Blogger How to Create Full Sitemap Blogger
   Pink Table Style Read How to async defer CSS JS perfectly How to async defer
-  CSS JS perfectly Here the HTML<div id=wrapper><div id=bp_toc></div><script
-  src=https://cdn.rawgit.com/Arlina-Design/redvision/master/sitemap-content.js
-excerpt: Stylish Full Sitemap Blogger How to Create Full Sitemap Blogger Pink
-  Table Style Read How to async defer CSS JS perfectly How to async defer CSS JS
-  perfectly Here the HTML<div id=wrapper><div id=bp_toc></div><script
-  src=https://cdn.rawgit.com/Arlina-Design/redvision/master/sitemap-content.js
+  CSS JS perfectly He
 lang: en
 photos:
   - https://3.bp.blogspot.com/-J1AEEzKm7nw/WPoyJbtEpbI/AAAAAAAAFKI/QAv38U0jjIstJfVpQtVyDX6lBpgs9WNbACLcB/s320/Screenshot_2017-04-21-23-23-36.jpg
-subtitle: Stylish Full Sitemap Blogger How to Create Full Sitemap Blogger Pink
-  Table Style Read How to async defer CSS JS perfectly How to async defer CSS JS
-  perfectly Here the HTML<div id=wrapper><div id=bp_toc></div><script
-  src=https://cdn.rawgit.com/Arlina-Design/redvision/master/sitemap-content.js
 tags:
   - css
   - js
@@ -31,7 +22,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-J1AEEzKm7nw/WPoyJbtEpbI/AAAAAAAAFKI/QAv38U0jjIstJfVpQtVyDX6lBpgs9WNbACLcB/s320/Screenshot_2017-04-21-23-23-36.jpg
 title: Stylish Full Sitemap Blogger
 type: post
-updated: 2023-08-08T14:45:34+07:00
+updated: 2023-09-03T06:13:29+07:00
 wordcount: 347
 ---
 

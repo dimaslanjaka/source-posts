@@ -4,26 +4,22 @@ author:
   link: https://www.blogger.com/profile/09256263851708439294
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2020-03-23T23:21:00.003+07:00
 description: manipulating multidimensional array using arraymap/ Ilterate
   multidimensional array simplicity @desc modify and manipulate or populate
-excerpt: manipulating multidimensional array using arraymap/ Ilterate
-  multidimensional array simplicity @desc modify and manipulate or populate
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: manipulating multidimensional array using arraymap/ Ilterate
-  multidimensional array simplicity @desc modify and manipulate or populate
 tags:
   - php
   - tips & tricks
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: PHP array magic trick and manipulations
 type: post
-updated: 2023-08-08T14:45:13+07:00
+updated: 2023-09-03T06:13:11+07:00
 wordcount: 274
 ---
 

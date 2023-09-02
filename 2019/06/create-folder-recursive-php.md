@@ -4,21 +4,19 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://4.bp.blogspot.com/-G8uvcGY1HKk/XRJ2h07bE2I/AAAAAAAAAZ4/xFxE1oVc6nctLlNdnpbGx-xvqOADFqcfQCLcBGAs/s1600/iconfinder_folder_black_PHP_51814.png
 date: 2019-06-26T02:24:00.000+07:00
 description: How to automatically create folder if not exists on spesific PATH
-excerpt: How to automatically create folder if not exists on spesific PATH
 lang: en
 photos:
   - https://4.bp.blogspot.com/-G8uvcGY1HKk/XRJ2h07bE2I/AAAAAAAAAZ4/xFxE1oVc6nctLlNdnpbGx-xvqOADFqcfQCLcBGAs/s1600/iconfinder_folder_black_PHP_51814.png
-subtitle: How to automatically create folder if not exists on spesific PATH
 tags: []
 thumbnail: https://4.bp.blogspot.com/-G8uvcGY1HKk/XRJ2h07bE2I/AAAAAAAAAZ4/xFxE1oVc6nctLlNdnpbGx-xvqOADFqcfQCLcBGAs/s1600/iconfinder_folder_black_PHP_51814.png
 title: Create Folder Recursive PHP
 type: post
-updated: 2023-08-08T14:45:31+07:00
+updated: 2023-09-03T06:13:26+07:00
 wordcount: 322
 ---
 

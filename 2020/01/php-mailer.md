@@ -4,28 +4,22 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://pear.php.net/gifs/pearsmall.gif
 date: 2020-01-07T01:43:00.000+07:00
 description: "Basic Mailer basic php mailer php
   ?phpheaderAccess-Control-Allow-Origin: ;headerContent-Type: application/json;/
   "
-excerpt: "Basic Mailer basic php mailer php
-  ?phpheaderAccess-Control-Allow-Origin: ;headerContent-Type: application/json;/
-  "
 lang: en
 photos:
   - https://pear.php.net/gifs/pearsmall.gif
-subtitle: "Basic Mailer basic php mailer php
-  ?phpheaderAccess-Control-Allow-Origin: ;headerContent-Type: application/json;/
-  "
 tags:
   - php
 thumbnail: https://pear.php.net/gifs/pearsmall.gif
 title: PHP Mailer work with AJAX
 type: post
-updated: 2023-08-08T14:45:14+07:00
+updated: 2023-09-03T06:13:12+07:00
 wordcount: 2557
 ---
 

@@ -4,35 +4,23 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot.com/-522nPhSnyvQ/WgODKCDGFjI/AAAAAAAAt2M/quoqrtMi1jcuXJOFDeBDUoaASkA_tD0jgCLcBGAs/w1100/Screenshot_87.jpg
 date: 2017-11-11T04:51:00.000+07:00
-description: "CSS Only Responsive Social Share Buttons For Blogger </head> <b:if
+description: CSS Only Responsive Social Share Buttons For Blogger </head> <b:if
   cond=data:blog.pageType == quot;itemquot;> <style type=text/css> /<[CDATA[/
-  .share_responsiveposition:relative;height:40px;margin:20px
-  0important;padding:0 .share-btn,.share-btn li,.share_responsive
-  h4margin:0;padding:"
-excerpt: "CSS Only Responsive Social Share Buttons For Blogger </head> <b:if
-  cond=data:blog.pageType == quot;itemquot;> <style type=text/css> /<[CDATA[/
-  .share_responsiveposition:relative;height:40px;margin:20px
-  0important;padding:0 .share-btn,.share-btn li,.share_responsive
-  h4margin:0;padding:"
+  .share_responsive
 lang: en
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot.com/-522nPhSnyvQ/WgODKCDGFjI/AAAAAAAAt2M/quoqrtMi1jcuXJOFDeBDUoaASkA_tD0jgCLcBGAs/w1100/Screenshot_87.jpg
-subtitle: "CSS Only Responsive Social Share Buttons For Blogger </head> <b:if
-  cond=data:blog.pageType == quot;itemquot;> <style type=text/css> /<[CDATA[/
-  .share_responsiveposition:relative;height:40px;margin:20px
-  0important;padding:0 .share-btn,.share-btn li,.share_responsive
-  h4margin:0;padding:"
 tags:
   - css
   - blogger
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://2.bp.blogspot.com/-522nPhSnyvQ/WgODKCDGFjI/AAAAAAAAt2M/quoqrtMi1jcuXJOFDeBDUoaASkA_tD0jgCLcBGAs/w1100/Screenshot_87.jpg
 title: CSS Only Responsive Social Share Buttons For Blogger
 type: post
-updated: 2023-08-08T14:45:43+07:00
+updated: 2023-09-03T06:13:38+07:00
 wordcount: 4414
 ---
 

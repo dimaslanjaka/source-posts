@@ -4,19 +4,15 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://www.bluecorona.com/wp-content/uploads/2017/02/https-cover-photo.png
 date: 2017-09-11T22:49:00.002+07:00
 description: Yo guys, kali ini akan saya share bagaimana cara mengubah semua
   source link atau iframe yang tidak menggunakan https.br />Mula mula anda
-excerpt: Yo guys, kali ini akan saya share bagaimana cara mengubah semua source
-  link atau iframe yang tidak menggunakan https.br />Mula mula anda
 lang: en
 photos:
   - https://www.bluecorona.com/wp-content/uploads/2017/02/https-cover-photo.png
-subtitle: Yo guys, kali ini akan saya share bagaimana cara mengubah semua source
-  link atau iframe yang tidak menggunakan https.br />Mula mula anda
 tags:
   - js
   - seo
@@ -24,7 +20,7 @@ tags:
 thumbnail: https://www.bluecorona.com/wp-content/uploads/2017/02/https-cover-photo.png
 title: Membuat semua link dan source html http menjadi https
 type: post
-updated: 2023-08-08T14:45:46+07:00
+updated: 2023-09-03T06:13:40+07:00
 wordcount: 879
 ---
 

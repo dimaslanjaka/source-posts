@@ -4,25 +4,21 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2019-07-28T06:38:00.002+07:00
 description: Instalasipkg update ypkg upgrade -ypkg install php curl wget git
   -yContoh Penggunaan PHP CLI pada termuxbuat file
-excerpt: Instalasipkg update ypkg upgrade -ypkg install php curl wget git
-  -yContoh Penggunaan PHP CLI pada termuxbuat file
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-subtitle: Instalasipkg update ypkg upgrade -ypkg install php curl wget git
-  -yContoh Penggunaan PHP CLI pada termuxbuat file
 tags:
   - php
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Menggunakan PHP di termux
 type: post
-updated: 2023-08-08T14:45:30+07:00
+updated: 2023-09-03T06:13:25+07:00
 wordcount: 138
 ---
 
