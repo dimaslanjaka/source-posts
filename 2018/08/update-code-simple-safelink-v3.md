@@ -4,13 +4,11 @@ author:
   link: https://www.blogger.com/profile/08197822797622284515
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://cdn1.imggmi.com/uploads/2018/8/5/4f4281f038eb505c8f145d2c7f0b4f04-full.png
 date: 2018-08-05T07:56:00.001+07:00
-description: "blockquote>First post : <a
-  href=http://webmanajemen.com/2017/09/cara-simple-membuat-blogger-safelink.html
-  title=Cara Simple"
+description: "blockquote>First post : <a href=http://webmanajemen.com/2017/09/cara-simple-membuat-blogger-safelink.html title=Cara Simple"
 lang: en
 photos:
   - https://cdn1.imggmi.com/uploads/2018/8/5/4f4281f038eb505c8f145d2c7f0b4f04-full.png
@@ -22,7 +20,7 @@ tags:
 thumbnail: https://cdn1.imggmi.com/uploads/2018/8/5/4f4281f038eb505c8f145d2c7f0b4f04-full.png
 title: Update code Simple SafeLink v3
 type: post
-updated: 2023-09-03T06:35:01+07:00
+updated: 2023-09-02T23:39:12.717Z
 wordcount: 240
 ---
 
