@@ -1,17 +1,10 @@
-const Bluebird = require('bluebird');
-const glob = require('glob');
 const parse = require('hexo-post-parser');
 const yaml = require('yaml');
 const { path, fs } = require('sbg-utility');
 const moment = require('moment-timezone');
+const { getPosts } = require('./src/getPosts');
 
-const scrape = glob.glob('source/_posts/**/*.md', {
-  absolute: true,
-  ignore: ['**/node_modules/**', '**/License*', '**/readme*'],
-  cwd: __dirname
-});
-
-Bluebird.all(scrape).each(async (file) => {
+getPosts().each(async (file) => {
   try {
     const post = await parse.parsePost(fs.readFileSync(file, 'utf-8'), {
       sourceFile: file,
