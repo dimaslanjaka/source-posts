@@ -1,0 +1,36 @@
+---
+title: cara mengakses css github menjadi cdn
+description: Cara Mengambil URL CSS dan JavaScript. Untuk URL CSS atau JavaScript dan mengaksesnya dari website
+date: 2023-09-02T21:46:42.172Z
+draft: false
+tags:
+  - github
+  - css
+  - js
+categories:
+  - programming
+updated: 2023-09-02T21:55:03.523Z
+author: L3n4r0x
+lang: id
+---
+
+## Cara mengakses css dari github
+Cara Mengambil URL CSS dan JavaScript dan mengaksesnya dari website.
+
+### Copy url file dari github
+![Copy file url dari situs github](/2023/09/cara-mengakses-css-github-menjadi-cdn/image.png)
+
+### Buka salah satu provider CDN berikut
+
+1. [Statically](https://statically.io/)
+2. [GitHack](https://raw.githack.com/)
+
+### Paste URL tadi
+
+![Paste URL ke Provider CDN](/2023/09/cara-mengakses-css-github-menjadi-cdn/paste-url.png)
+
+### Copy URL CDN
+
+Copy URL CDN yang sudah digenerate
+
+### Selesai
