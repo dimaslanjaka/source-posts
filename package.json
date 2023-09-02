@@ -1,0 +1,31 @@
+{
+  "name": "source-posts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "hexo": "^7.0.0-rc2",
+    "hexo-server": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimaslanjaka/source-posts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimaslanjaka/source-posts/issues"
+  },
+  "homepage": "https://github.com/dimaslanjaka/source-posts#readme",
+  "packageManager": "yarn@3.6.3",
+  "devDependencies": {
+    "@types/eslint": "^8",
+    "@types/prettier": "^3",
+    "eslint": "^8.48.0",
+    "prettier": "^3.0.3"
+  }
+}
