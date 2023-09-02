@@ -4,7 +4,7 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD3Z65uK5mWj1kFiaYKxcVJ8w0XiysZTz3V3ak8FIwpkFiTpnc
 date: 2017-04-25T21:29:00.001+07:00
@@ -22,7 +22,7 @@ tags:
 thumbnail: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD3Z65uK5mWj1kFiaYKxcVJ8w0XiysZTz3V3ak8FIwpkFiTpnc
 title: Cara defer multiple external file js
 type: post
-updated: 2023-09-03T06:35:18+07:00
+updated: 2023-09-03T06:45:28+07:00
 wordcount: 558
 ---
 

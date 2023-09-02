@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: http://urlz.fr/6tog
 date: 2018-01-29T22:31:00.001+07:00
@@ -23,7 +23,7 @@ tags:
 thumbnail: http://urlz.fr/6tog
 title: Easy Way of Adding Pin It Buttons in Images
 type: post
-updated: 2023-09-03T06:35:03+07:00
+updated: 2023-09-03T06:45:10+07:00
 wordcount: 272
 ---
 

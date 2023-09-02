@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: http://res.cloudinary.com/dimaslanjaka/image/fetch/https://anotherorion.com/wp-content/uploads/2015/05/SafeLinkConverter1.png
 date: 2017-12-12T18:41:00.000+07:00
@@ -20,7 +20,7 @@ tags:
 thumbnail: http://res.cloudinary.com/dimaslanjaka/image/fetch/https://anotherorion.com/wp-content/uploads/2015/05/SafeLinkConverter1.png
 title: Update Code Widget Dan Template Untuk Simple Safelink Converter
 type: post
-updated: 2023-09-03T06:35:03+07:00
+updated: 2023-09-03T06:45:10+07:00
 wordcount: 311
 ---
 

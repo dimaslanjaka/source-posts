@@ -4,7 +4,7 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT15ty0QckURBti5Zj3AddI7sOew19yh8zjKsfJC3Wlu0dFXd2rVQ
 date: 2017-04-15T22:52:00.000+07:00
@@ -19,7 +19,7 @@ tags:
 thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT15ty0QckURBti5Zj3AddI7sOew19yh8zjKsfJC3Wlu0dFXd2rVQ
 title: Auto Add Alt Attributes To Images Using jQuery
 type: post
-updated: 2023-09-03T06:35:19+07:00
+updated: 2023-09-03T06:45:28+07:00
 wordcount: 2281
 ---
 

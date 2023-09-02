@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/07981649157148639830
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://miro.medium.com/max/2476/0*Mll3yo3DWALtRYPR.png
 date: 2021-04-20T16:40:00.001+07:00
@@ -20,7 +20,7 @@ tags:
 thumbnail: https://miro.medium.com/max/2476/0*Mll3yo3DWALtRYPR.png
 title: Import composite build plugin as subtitue module dependency [Gradle]
 type: post
-updated: 2023-08-08T14:45:11+07:00
+updated: 2023-09-03T06:44:45+07:00
 wordcount: 72
 ---
 

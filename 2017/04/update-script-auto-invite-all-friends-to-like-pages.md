@@ -4,7 +4,7 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://4.bp.blogspot.com/-B7u7YsAqwIo/WOekieIT5sI/AAAAAAAAEno/FnW9NIDzeUcfZ0dqcI-urdOHqZhkkjMaQCLcB/s1600/Script-Auto-Invite-Undang-Semua-Teman-ke-Fanspage-02.jpg
 date: 2017-04-20T23:57:00.000+07:00
@@ -19,7 +19,7 @@ tags:
 thumbnail: https://4.bp.blogspot.com/-B7u7YsAqwIo/WOekieIT5sI/AAAAAAAAEno/FnW9NIDzeUcfZ0dqcI-urdOHqZhkkjMaQCLcB/s1600/Script-Auto-Invite-Undang-Semua-Teman-ke-Fanspage-02.jpg
 title: Update Script Auto Invite All Friends To Like Fanpages
 type: post
-updated: 2023-09-03T06:35:16+07:00
+updated: 2023-09-03T06:45:25+07:00
 wordcount: 2708
 ---
 

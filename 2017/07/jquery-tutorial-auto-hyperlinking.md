@@ -4,7 +4,7 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-07-31T12:08:00.000+07:00
@@ -18,7 +18,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: JQuery Tutorial Auto Hyperlinking Plaintext URL
 type: post
-updated: 2023-09-03T06:35:10+07:00
+updated: 2023-09-03T06:45:20+07:00
 wordcount: 759
 ---
 

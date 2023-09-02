@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/18262459107951035499
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://i.imgur.com/FFGsnXd.jpg?1
 date: 2017-07-11T23:51:00.001+07:00
@@ -19,7 +19,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://i.imgur.com/FFGsnXd.jpg?1
 title: Proxy Gambar dengan Google App Scripts
 type: post
-updated: 2023-09-03T06:35:10+07:00
+updated: 2023-09-03T06:45:20+07:00
 wordcount: 1259
 ---
 

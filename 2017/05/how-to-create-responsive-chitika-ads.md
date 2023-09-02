@@ -4,7 +4,7 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.mygyanblog.com/wp-content/uploads/2017/01/chitika-se-kaise-paise-kamaye.jpg
 date: 2017-05-02T21:18:00.000+07:00
@@ -18,7 +18,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://www.mygyanblog.com/wp-content/uploads/2017/01/chitika-se-kaise-paise-kamaye.jpg
 title: How To Create Responsive Chitika Ads 100 Work
 type: post
-updated: 2023-09-03T06:35:15+07:00
+updated: 2023-09-03T06:45:23+07:00
 wordcount: 2703
 ---
 
