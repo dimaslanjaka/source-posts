@@ -1,0 +1,20 @@
+{
+  "repositories": {
+    "source-posts": {
+      "source": {
+        "_posts": {
+          "2023": {
+            "09": {
+              "03": {
+                "cara-mengakses-css-github-menjadi-cdn": {
+                  "image.png": {},
+                  "paste-url.png": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
