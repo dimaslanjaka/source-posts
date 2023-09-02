@@ -5,7 +5,7 @@ const yaml = require('yaml');
 const { path, fs } = require('sbg-utility');
 const moment = require('moment-timezone');
 
-const scrape = glob.glob('src-posts/**/*.md', {
+const scrape = glob.glob('source/_posts/**/*.md', {
   absolute: true,
   ignore: ['**/node_modules/**', '**/License*', '**/readme*'],
   cwd: __dirname
@@ -16,7 +16,9 @@ Bluebird.all(scrape).each(async (file) => {
     const post = await parse.parsePost(fs.readFileSync(file, 'utf-8'), {
       sourceFile: file,
       fix: true,
-      config: yaml.parse(fs.readFileSync(path.join(__dirname, '_config.yml'), 'utf-8'))
+      config: yaml.parse(
+        fs.readFileSync(path.join(__dirname, '_config.yml'), 'utf-8')
+      )
     });
 
     // lowercase taxonomy
@@ -43,6 +45,46 @@ Bluebird.all(scrape).each(async (file) => {
       if (tags.some((str) => /[A-Z]/g.test(str))) {
         post.metadata.tags = lowercaseTaxonomy(tags);
         save = true;
+      }
+
+      // find category programming
+      if (categories.includes('programming') && categories.length > 1) {
+        post.metadata.categories = ['programming'];
+        post.metadata.tags = tags
+          .concat(
+            ...categories
+              // remove programming
+              .filter((str) => str != 'programming')
+          )
+          .map((str) => {
+            if (str == 'js') return 'javascript';
+            if (str == 'ts') return 'typescript';
+            return str;
+          })
+          // remove duplicates
+          .filter(function (value, index, array) {
+            return array.indexOf(value) === index;
+          });
+        save = true;
+      }
+
+      // remove unused/duplicate meta
+      if (post.metadata.excerpt && post.metadata.description)
+        delete post.metadata.excerpt;
+      if (post.metadata.subtitle && post.metadata.description)
+        delete post.metadata.subtitle;
+      if (post.metadata.id) delete post.metadata.id;
+      if (post.metadata.uuid) delete post.metadata.uuid;
+      // remove empty photos
+      if (
+        Array.isArray(post.metadata.photos) &&
+        post.metadata.photos.length === 0
+      ) {
+        delete post.metadata.photos;
+      }
+      // only leave 160 chars from description
+      if (post.metadata.description.length > 160) {
+        post.metadata.description = post.metadata.description.substring(0, 160)
       }
 
       // metadata empty - dont save
