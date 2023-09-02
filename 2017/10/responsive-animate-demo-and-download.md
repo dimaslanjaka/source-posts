@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/00073980860956332189
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-10-08T21:54:00.000+07:00
@@ -18,7 +18,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Responsive Animate Demo And Download Button
 type: post
-updated: 2023-08-08T14:45:44+07:00
+updated: 2023-09-03T06:30:18+07:00
 wordcount: 55
 ---
 

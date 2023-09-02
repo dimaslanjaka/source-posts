@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://3.bp.blogspot.com/-8fO6Qeldjf4/Uu-WS4ZbepI/AAAAAAAAEC0/HVEq3RPXenY/s320/quick+edit+and+wrench+icon.jpg
 date: 2017-10-24T18:29:00.000+07:00
@@ -21,7 +21,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-8fO6Qeldjf4/Uu-WS4ZbepI/AAAAAAAAEC0/HVEq3RPXenY/s320/quick+edit+and+wrench+icon.jpg
 title: How to Get Rid of Icon Screwdriver and Pliers Wrenches Quick Edit Wrench
 type: post
-updated: 2023-08-08T14:45:44+07:00
+updated: 2023-09-03T06:30:19+07:00
 wordcount: 784
 ---
 

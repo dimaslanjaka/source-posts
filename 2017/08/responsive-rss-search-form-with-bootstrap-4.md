@@ -4,7 +4,7 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://3.bp.blogspot.com/-rlX3eX2Ncmc/WaZzcWKApYI/AAAAAAAAHVc/EtQrgEUUiyou54pxhpU0AfAW-ivce0fZgCLcBGAs/s320/images%2B%25281%2529.png
 date: 2017-08-30T18:05:00.000+07:00
@@ -21,7 +21,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-rlX3eX2Ncmc/WaZzcWKApYI/AAAAAAAAHVc/EtQrgEUUiyou54pxhpU0AfAW-ivce0fZgCLcBGAs/s320/images%2B%25281%2529.png
 title: Responsive RSS Search Form With Bootstraps 4.0.0-beta
 type: post
-updated: 2023-08-08T14:45:48+07:00
+updated: 2023-09-03T06:30:23+07:00
 wordcount: 2770
 ---
 

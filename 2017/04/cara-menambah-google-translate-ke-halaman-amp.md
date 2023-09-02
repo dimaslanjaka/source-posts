@@ -4,7 +4,7 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8zV44YvCSI-H-ZORzXuVh4MXW0hDc7tECPrChm8Mtz_TyFDMofUn7uLIBQ
 date: 2017-04-14T13:22:00.000+07:00
@@ -19,7 +19,7 @@ tags:
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8zV44YvCSI-H-ZORzXuVh4MXW0hDc7tECPrChm8Mtz_TyFDMofUn7uLIBQ
 title: Cara Menambahkan Google Translate Ke Halaman AMP
 type: post
-updated: 2023-08-08T14:46:01+07:00
+updated: 2023-09-03T06:30:35+07:00
 wordcount: 483
 ---
 

@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: http://cdn.the-art-of-web.com/images/moz-border-radius.gif
 date: 2017-09-30T02:24:00.000+07:00
@@ -19,7 +19,7 @@ tags:
 thumbnail: http://cdn.the-art-of-web.com/images/moz-border-radius.gif
 title: border-radius dan -moz-border-radius
 type: post
-updated: 2023-08-08T14:45:48+07:00
+updated: 2023-09-03T06:30:22+07:00
 wordcount: 3867
 ---
 

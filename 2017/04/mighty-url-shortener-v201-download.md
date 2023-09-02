@@ -4,7 +4,7 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.jojothemes.com/wp-content/uploads/2016/07/Mighty-URL-Shortener-v1.0.1-%E2%80%93-Short-URL-Script.jpg
 date: 2017-04-09T13:00:00.001+07:00
@@ -19,7 +19,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.jojothemes.com/wp-content/uploads/2016/07/Mighty-URL-Shortener-v1.0.1-%E2%80%93-Short-URL-Script.jpg
 title: Mighty URL Shortener v2.0.1 Download
 type: post
-updated: 2023-08-08T14:45:58+07:00
+updated: 2023-09-03T06:30:31+07:00
 wordcount: 1062
 ---
 

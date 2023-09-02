@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://imgdb.net/images/3200.jpg
 date: 2017-10-06T01:07:00.000+07:00
@@ -20,7 +20,7 @@ tags:
 thumbnail: https://imgdb.net/images/3200.jpg
 title: Access XAMPP Apache  MySQL via Android Smartphone
 type: post
-updated: 2023-08-08T14:45:45+07:00
+updated: 2023-09-03T06:30:19+07:00
 wordcount: 1406
 ---
 

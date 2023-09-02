@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://2.bp.blogspot.com/-axfbmdLI3Pc/XoIVHlkeicI/AAAAAAAAAA0/N9WMnayMq20kxlOxwl3vZgydjoGi9AcxQCLcBGAsYHQ/s1600/imgingest-2117968900021071073.png
 date: 2018-11-10T05:21:00.000+07:00
@@ -21,7 +21,7 @@ tags:
 thumbnail: https://2.bp.blogspot.com/-axfbmdLI3Pc/XoIVHlkeicI/AAAAAAAAAA0/N9WMnayMq20kxlOxwl3vZgydjoGi9AcxQCLcBGAsYHQ/s1600/imgingest-2117968900021071073.png
 title: Gmail SMTP error please log in via your web browser
 type: post
-updated: 2023-08-08T14:45:37+07:00
+updated: 2023-09-03T06:30:12+07:00
 wordcount: 1453
 ---
 

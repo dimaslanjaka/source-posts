@@ -4,7 +4,7 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: http://www.larnr.com/wp-content/uploads/2015/05/resize-crop-1024x535.jpg
 date: 2017-05-25T06:52:00.000+07:00
@@ -20,7 +20,7 @@ tags:
 thumbnail: http://www.larnr.com/wp-content/uploads/2015/05/resize-crop-1024x535.jpg
 title: How To Resize and Crop Image to fit Container div using CodeIgniter and jQuery
 type: post
-updated: 2023-08-08T14:45:55+07:00
+updated: 2023-09-03T06:30:29+07:00
 wordcount: 8716
 ---
 

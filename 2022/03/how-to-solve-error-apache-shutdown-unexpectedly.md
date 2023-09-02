@@ -1,7 +1,7 @@
 ---
 author: Dimas Lanjaka
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://i.ytimg.com/vi/alj5it9EwIM/maxresdefault.jpg
 date: 2022-03-26T23:46:00+0700
@@ -17,7 +17,7 @@ tags:
 thumbnail: https://i.ytimg.com/vi/alj5it9EwIM/maxresdefault.jpg
 title: How to solve Error Apache shutdown unexpectedly updated 2022
 type: post
-updated: 2023-08-08T14:45:09+07:00
+updated: 2023-09-03T06:29:46+07:00
 wordcount: 690
 ---
 

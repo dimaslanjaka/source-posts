@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://3.bp.blogspot.com/-PfigKHqV7j0/WaRrYLCXHVI/AAAAAAAAACY/o3ygO6g556I05TKO6xT2Xahym5NTp-ArQCLcBGAs/s320/images%2B%252810%2529.jpg
 date: 2017-09-16T02:15:00.000+07:00
@@ -21,7 +21,7 @@ tags:
 thumbnail: https://3.bp.blogspot.com/-PfigKHqV7j0/WaRrYLCXHVI/AAAAAAAAACY/o3ygO6g556I05TKO6xT2Xahym5NTp-ArQCLcBGAs/s320/images%2B%252810%2529.jpg
 title: Responsive AMP Social Sharing Button
 type: post
-updated: 2023-08-08T14:45:46+07:00
+updated: 2023-09-03T06:30:20+07:00
 wordcount: 1175
 ---
 

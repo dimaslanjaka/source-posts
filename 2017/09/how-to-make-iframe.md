@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://imgdb.net/images/3196.jpg
 date: 2017-09-27T02:03:00.000+07:00
@@ -20,7 +20,7 @@ tags:
 thumbnail: https://imgdb.net/images/3196.jpg
 title: HOW TO MAKE IFRAME
 type: post
-updated: 2023-08-08T14:45:47+07:00
+updated: 2023-09-03T06:30:21+07:00
 wordcount: 534
 ---
 

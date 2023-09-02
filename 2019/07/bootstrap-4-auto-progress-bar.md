@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://www.webmanajemen.com/assets/img/javascript.png
 date: 2019-07-25T23:09:00.001+07:00
@@ -20,7 +20,7 @@ tags:
 thumbnail: https://www.webmanajemen.com/assets/img/javascript.png
 title: Bootstrap 4 Auto Progress Bar
 type: post
-updated: 2023-08-08T14:45:30+07:00
+updated: 2023-09-03T06:30:06+07:00
 wordcount: 632
 ---
 

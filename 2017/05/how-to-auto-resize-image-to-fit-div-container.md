@@ -4,7 +4,7 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://i.ytimg.com/vi/RkrTGQsv14k/hqdefault.jpg?custom=true&w=320&h=180&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eCvhWuyCHTD0lyZ0Dhi-6XTOs0c
 date: 2017-05-09T05:58:00.000+07:00
@@ -18,7 +18,7 @@ tags:
 thumbnail: https://i.ytimg.com/vi/RkrTGQsv14k/hqdefault.jpg?custom=true&w=320&h=180&stc=true&jpg444=true&jpgq=90&sp=68&sigh=eCvhWuyCHTD0lyZ0Dhi-6XTOs0c
 title: How To Auto Resize an Image to fit a div Container
 type: post
-updated: 2023-08-08T14:45:56+07:00
+updated: 2023-09-03T06:30:29+07:00
 wordcount: 527
 ---
 

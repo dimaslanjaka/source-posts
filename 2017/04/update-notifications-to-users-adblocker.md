@@ -4,7 +4,7 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://1.bp.blogspot.com/-JkpTNtGOMaE/WJoMX1QnTmI/AAAAAAAAHBE/CPdxv-D-Xa0bdghE1HwdwkC1bHp9OA9EgCLcB/s640/How%2BTo%2BMake%2BAdsense%2BAdBlocker%2BNotifications.png
 date: 2017-04-15T01:00:00.000+07:00
@@ -21,7 +21,7 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-JkpTNtGOMaE/WJoMX1QnTmI/AAAAAAAAHBE/CPdxv-D-Xa0bdghE1HwdwkC1bHp9OA9EgCLcB/s640/How%2BTo%2BMake%2BAdsense%2BAdBlocker%2BNotifications.png
 title: Update Notifications To Users AdBlocker Adsense
 type: post
-updated: 2023-08-08T14:45:58+07:00
+updated: 2023-09-03T06:30:30+07:00
 wordcount: 1938
 ---
 

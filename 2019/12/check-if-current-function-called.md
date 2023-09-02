@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://i.ytimg.com/vi/ZFhadzpISPY/maxresdefault.jpg
 date: 2019-12-04T05:51:00.001+07:00
@@ -18,7 +18,7 @@ tags:
 thumbnail: https://i.ytimg.com/vi/ZFhadzpISPY/maxresdefault.jpg
 title: Check if current function called statically or not
 type: post
-updated: 2023-08-08T14:45:23+07:00
+updated: 2023-09-03T06:30:03+07:00
 wordcount: 251
 ---
 

@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/07981649157148639830
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://kuliahitblog.files.wordpress.com/2019/08/1dbdb-fatal2berror2buncaught2berror2bcall2bto2bundefined2bfunction2bmysql_connect25282529.png
 date: 2021-04-27T19:26:00.002+07:00
@@ -18,7 +18,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://kuliahitblog.files.wordpress.com/2019/08/1dbdb-fatal2berror2buncaught2berror2bcall2bto2bundefined2bfunction2bmysql_connect25282529.png
 title: Fix Uncaught Error Call to undefined function str_starts_with and str_ends_with
 type: post
-updated: 2023-08-08T14:45:11+07:00
+updated: 2023-09-03T06:29:48+07:00
 webtitle: PHP
 wordcount: 722
 ---

@@ -4,7 +4,7 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-05-27T12:33:00.000+07:00
@@ -20,7 +20,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Sticky expandable search bar on top right using classie.js
 type: post
-updated: 2023-08-08T14:45:54+07:00
+updated: 2023-09-03T06:30:28+07:00
 wordcount: 84
 ---
 

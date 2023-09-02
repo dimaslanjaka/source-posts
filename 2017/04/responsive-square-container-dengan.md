@@ -4,7 +4,7 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://d1gug1ng40407.cloudfront.net/uploads/2017/03/allure-code-snippet.jpg
 date: 2017-04-13T16:29:00.000+07:00
@@ -20,7 +20,7 @@ tags:
 thumbnail: https://d1gug1ng40407.cloudfront.net/uploads/2017/03/allure-code-snippet.jpg
 title: Responsive Square Container Dengan Vertically Or Horizontally Ditengah Content
 type: post
-updated: 2023-08-08T14:45:58+07:00
+updated: 2023-09-03T06:30:31+07:00
 wordcount: 730
 ---
 

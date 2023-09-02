@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/00073980860956332189
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://3.bp.blogspot.com/-kz6KVIcdKck/WPL9AYym7FI/AAAAAAAAqqI/lqIph6SjXNUJEm0vW6p6HHi0AhV2n1FNwCLcB/w1100/Untitled-1_1.jpg
 date: 2018-11-24T04:39:00.000+07:00
@@ -20,7 +20,7 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://3.bp.blogspot.com/-kz6KVIcdKck/WPL9AYym7FI/AAAAAAAAqqI/lqIph6SjXNUJEm0vW6p6HHi0AhV2n1FNwCLcB/w1100/Untitled-1_1.jpg
 title: How To Modifying Post Views On Homepage To Be Different
 type: post
-updated: 2023-08-08T14:45:36+07:00
+updated: 2023-09-03T06:30:12+07:00
 wordcount: 969
 ---
 

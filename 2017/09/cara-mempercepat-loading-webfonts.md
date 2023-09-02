@@ -4,7 +4,7 @@ author:
   link: ""
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwHYn1q6qKyIO1WJAsg-ZtU3RJIlFDpbwnD9gZRG_NE29f4lDc
 date: 2017-09-11T18:43:00.000+07:00
@@ -21,7 +21,7 @@ tags:
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwHYn1q6qKyIO1WJAsg-ZtU3RJIlFDpbwnD9gZRG_NE29f4lDc
 title: Cara mempercepat loading webfonts
 type: post
-updated: 2023-08-08T14:45:48+07:00
+updated: 2023-09-03T06:30:22+07:00
 wordcount: 366
 ---
 

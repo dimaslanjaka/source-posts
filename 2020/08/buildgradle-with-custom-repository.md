@@ -4,7 +4,7 @@ author:
   link: https://www.blogger.com/profile/09256263851708439294
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2020-08-03T18:02:00.005+07:00
@@ -21,7 +21,7 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: build.gradle with custom repository
 type: post
-updated: 2023-08-08T14:45:13+07:00
+updated: 2023-09-03T06:29:49+07:00
 wordcount: 399
 ---
 
