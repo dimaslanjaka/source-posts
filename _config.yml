@@ -162,6 +162,7 @@ pagination_dir: page
 ## `include` and `exclude` options only apply to the source/ folder, whereas `ignore` option applies to all folders.
 include:
   - 'assets/adblock-notify/readme.md'
+## This will not copy the specified files/folders into public:
 exclude:
   - '**/.git*'
   - '**/.git'
@@ -187,9 +188,21 @@ exclude:
   - '**/tmp/**'
   - '**/hexo-theme-unit-test/**'
   - '**/*-backup*'
+  - '**/readme.*'
+  - '**/changelog.*'
+  - '**/changelog'
+  - '**/license.*'
+  - '**/license'
+  - '**/LICENSE.*'
+  - '**/LICENSE'
+  - '**/License.*'
+  - '**/License'
+  - '**/CHANGELOG.*'
+  - '**/CHANGELOG'
 ignore:
   - '**/.git*'
 # https://hexo.io/docs/configuration.html
+## This will copy those into public, but will not try to parse them (they will be copied as-is):
 skip_render:
   - '*.html'
   - 'chimeraland/recipes.html'
