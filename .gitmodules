@@ -2,3 +2,7 @@
 	path = source/_posts
 	url = https://github.com/dimaslanjaka/source-posts.git
 	branch = posts
+[submodule "packages/hexo"]
+	path = packages/hexo
+	url = https://github.com/dimaslanjaka/hexo.git
+	branch = v7-yarn-v3
