@@ -191,4 +191,5 @@ const config = {
 module.exports = config;
 ```
 
-source config from https://www.webmanajemen.com/NodeJS/eslint-prettier-typescript-vscode.html
+- source config from https://www.webmanajemen.com/NodeJS/eslint-prettier-typescript-vscode.html
+- issues https://github.com/prettier/prettier-vscode/issues/3007
