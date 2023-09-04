@@ -1,11 +1,14 @@
 ---
 title: Prettier VSCode TypeError A dynamic import callback was not specified fix
 date: 2023-09-04T08:58:44+07:00
+updated: 2023-09-04T09:02:35+07:00
 categories: [programming]
 tags: [vscode, prettier]
 ---
 
 How to fix Prettier VSCode TypeError A dynamic import callback was not specified only occurs for `JSX`/`TSX` file.
+
+## Summary
 
 prettier version
 
@@ -62,3 +65,127 @@ TypeError: A dynamic import callback was not specified.
 	at async t.default.format (c:\Users\dimas\.vscode\extensions\esbenp.prettier-vscode-10.1.0\dist\extension.js:1:14563)
 	at async t.PrettierEditProvider.provideEdits (c:\Users\dimas\.vscode\extensions\esbenp.prettier-vscode-10.1.0\dist\extension.js:1:12672)
 ```
+
+## How to fix prettier error
+
+but when i ran the prettier using ESLint, no errors occurs and successful format when ran `eslint --fix`
+
+package.json
+
+```json
+{
+    "eslint": "^8.48.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.3",
+    "@typescript-eslint/eslint-plugin": "^6.4.1",
+    "@typescript-eslint/parser": "^6.4.1",
+    "ts-node": "^10.9.1",
+    "typescript": "4.9.5",
+}
+```
+
+.prettierrc.json
+
+```json
+{
+  "$schema": "https://json.schemastore.org/prettierrc",
+  "printWidth": 120,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "arrowParens": "avoid",
+  "prettier.cssEnable": [
+    "css",
+    "less",
+    "sass"
+  ]
+}
+```
+
+.eslintrc.js
+
+```js
+const prettier = require('./.prettierrc.json');
+
+/**
+ * @type {import('eslint').ESLint.ConfigData}
+ */
+const config = {
+  root: true, // Specifies your current project has own eslint rules without extends parent folder eslint rules
+  parser: '@typescript-eslint/parser', // Specifies the ESLint parser
+  env: {
+    browser: true, // add support for browser js (window,document,location,etc)
+    amd: true, // add amd support
+    node: true, // add node support (module.export,etc)
+    jquery: true, // add jquery support
+  },
+  globals: {
+    adsbygoogle: true, // add google adsense support
+    gtag: true, // add google analytics support
+    $: true, // add jquery support
+    safelink: true, // add safelinkify support
+    google: 'readonly', // add new google GSI authentication support
+    gapi: 'readonly', // add google apis support
+  },
+  parserOptions: {
+    ecmaVersion: 2020, // Allows for the parsing of modern ECMAScript features
+    sourceType: 'module', // Allows for the use of imports
+  },
+  extends: [
+    'eslint:recommended', // uses eslint default recommended
+    'plugin:@typescript-eslint/eslint-recommended', // Uses the recommended rules from the @typescript-eslint/eslint-plugin
+    'plugin:@typescript-eslint/recommended', // Uses the recommended rules from the @typescript-eslint/eslint-plugin
+    'plugin:prettier/recommended', // Enables eslint-plugin-prettier and eslint-config-prettier. This will display prettier errors as ESLint errors. Make sure this is always the last configuration in the extends array.
+  ],
+  // override rules for js files
+  overrides: [
+    {
+      files: ['*.js'],
+      rules: {
+        '@typescript-eslint/no-var-requires': 'off', // disable require warning on js files
+        '@typescript-eslint/triple-slash-reference': 'off', // disable include refenrences definition files on js
+      },
+    },
+  ],
+  // specify your desired rules for eslint
+  rules: {
+    'prettier/prettier': ['error', prettier],
+    '@typescript-eslint/explicit-function-return-type': 'off', // disable function without return type
+    'no-unused-vars': 'off', // disable original eslint unused-vars
+    '@typescript-eslint/no-unused-vars': [
+      'error',
+      {
+        argsIgnorePattern: '^_',
+        varsIgnorePattern: '^_',
+        caughtErrorsIgnorePattern: '^_',
+      },
+    ], // enable typescript-eslint unused-vars and allow unused vars start with underscore (_)
+    'sort-imports': [
+      'warn',
+      {
+        ignoreDeclarationSort: true,
+      },
+    ],
+    '@typescript-eslint/no-explicit-any': 'off', // allow any types
+    '@typescript-eslint/no-this-alias': [
+      // rules for this binding
+      'error',
+      {
+        allowDestructuring: false, // Disallow `const { props, state } = this`; true by default
+        allowedNames: ['self'], // Allow `const self = this`; `[]` by default
+      },
+    ],
+    // "arrow-body-style" and "prefer-arrow-callback" are two ESLint core rules that can cause issues with prettier/prettier plugin, so turn them off.
+    'arrow-body-style': 'off',
+    'prefer-arrow-callback': 'off',
+  },
+};
+
+module.exports = config;
+```
+
+source config from https://www.webmanajemen.com/NodeJS/eslint-prettier-typescript-vscode.html
