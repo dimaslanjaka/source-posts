@@ -1,12 +1,15 @@
 ---
 title: Prettier VSCode TypeError A dynamic import callback was not specified fix
 date: 2023-09-04T08:58:44+07:00
-updated: 2023-09-04T09:02:35+07:00
+updated: 2023-09-04T09:04:12+07:00
 categories: [programming]
-tags: [vscode, prettier]
+tags: [vscode, prettier
+thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/ae48bdb0-479c-4dca-b52d-2d458e07ef4d
 ---
 
 How to fix Prettier VSCode TypeError A dynamic import callback was not specified only occurs for `JSX`/`TSX` file.
+
+![Error Summary](https://github.com/dimaslanjaka/source-posts/assets/12471057/ae48bdb0-479c-4dca-b52d-2d458e07ef4d)
 
 ## Summary
 
