@@ -19,7 +19,7 @@ tags:
 thumbnail: /The Legend Of Neverland/Quiz/SCENIC-QUIZ.jpg
 title: Quiz The Legend Of Neverland
 type: post
-updated: 2023-08-08T14:44:12+07:00
+updated: 2023-09-07T12:54:03+07:00
 wordcount: 2129
 ---
 
@@ -73,6 +73,8 @@ There will be lots of general knowledge questions thrown at you, and here are th
 - skip process when input is emptied
 ### 2021-08-16
 - Integrate search `li` texts
+### 2023-09-07
+- Fix conflict questions and answers
 
 ## Conclusion
 Those are all the answer keys to various questions that the system will throw at you through this _event_ mini quiz. As we have explained, this question is taken from general knowledge, be it history, economics, geography and many others. You will get not only in-game prizes, but additional knowledge like this you can also find out. Hopefully all of these answer keys can help you answer some questions that you might not know the answers to.
