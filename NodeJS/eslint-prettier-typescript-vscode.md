@@ -21,14 +21,13 @@ location: Indonesia
 photos:
   - https://i.ytimg.com/vi/lHAeK8t94as/maxresdefault.jpg
 tags:
-  - nodejs
   - javascript
   - typescript
   - eslint
 thumbnail: https://i.ytimg.com/vi/lHAeK8t94as/maxresdefault.jpg
 title: Eslint Prettier In Typescript Project Using Vscode
 type: post
-updated: 2023-09-03T04:28:00+07:00
+updated: 2023-09-09T07:00:53+07:00
 webtitle: NodeJS
 wordcount: 2562
 ---
@@ -66,8 +65,9 @@ install using yarn:
 yarn add prettier eslint-config-prettier eslint-plugin-prettier eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin --dev
 ```
 
-## install and activate VSCode ESLint extension for auto Linter And Formatter
-[Download Here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+## install and activate VSCode ESLint extension
+these plugin needed for auto Linter And Formatter
+- [ESLint Plugin for VSCode - Download Here](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ## Create .eslintrc.js
 ```js
