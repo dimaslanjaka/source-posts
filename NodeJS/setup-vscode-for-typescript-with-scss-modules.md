@@ -6,7 +6,12 @@ tags: [react, typescript, javascript, vscode]
 categories: [programming]
 ---
 
-Setup VSCode for typescript with css modules import support. You can be able import css,scss,less,stylus file as modular import in typescript+react+webpack project
+Setup VSCode for typescript with css modules import support. You can be able import css,scss,less,stylus file as modular import in typescript+react+webpack project.
+
+This method also has the following functions and advantages:
+- fix issues react bundle all things together.
+  - style each React route independently
+  - React.JS React-Router-Dom applying css on every routes
 
 ## Install typescript plugin
 
@@ -179,5 +184,31 @@ declare global {
     // custom global event properties
     clipboardData?: any; // safari clipboard
   }
+}
+```
+
+## Conclusion
+
+Now reload window and your vscode now supported import css modules into typescript or javascript files (react or non-react).
+To test create new file:
+
+create the style `src/Layout.module.scss`
+
+```scss
+.myLayout {
+ h1 { color: blue; background-color: white; }
+}
+```
+
+create the component `src/Layout.tsx`
+
+```typescript
+import React from 'react';
+import styles from './Layout.module.scss';
+
+export function Layout() {
+  return (
+    <div className={styles.myLayout}><h1>Hello World</h1></div>
+  );
 }
 ```
