@@ -40,8 +40,19 @@ enable css modules plugin in project typescript configuration by editing `tsconf
 {
   "compilerOptions": {
     // enable css modules plugin
-    "plugins": [{ "name": "typescript-plugin-css-modules" }]
-  }
+    "plugins": [{ "name": "typescript-plugin-css-modules" }],
+    "lib": [
+      "DOM", // browser DOM support such as (window, document.*, etc)
+      "ES2020" // enable modern ECMAScript prototype support
+    ] 
+  },
+  "include": [
+    "src", // include all typescript and javascript files
+    "src/**/*.json", // json file import support
+    "src/**/*.css", // css file import support
+    "src/**/*.scss", // scss file import support
+    "src/**/*.less" // less file import support
+  ]
 }
 ```
 
