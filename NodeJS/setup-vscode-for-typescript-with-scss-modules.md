@@ -25,7 +25,10 @@ npm install -D typescript-plugin-css-modules
 
 ## Change VSCode USER SETTINGS json
 
-add these configuration to your user settings json
+add these configuration to your user settings json by `CTRL+SHIFT+P`
+
+![Screenshot from 2023-09-16 06-34-38](https://github.com/dimaslanjaka/source-posts/assets/12471057/d6c87041-8545-49af-b71a-70f575829cca)
+
 
 ```jsonc
 {
