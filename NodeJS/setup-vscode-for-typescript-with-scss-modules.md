@@ -10,8 +10,8 @@ Setup VSCode for typescript with css modules import support. You can be able imp
 
 This method also has the following functions and advantages:
 - fix issues react bundle all things together.
-  - style each React route independently
-  - React.JS React-Router-Dom applying css on every routes
+  - [style each React route independently](https://stackoverflow.com/a/62361595/6404439)
+  - [React.JS React-Router-Dom applying css on every routes](https://stackoverflow.com/questions/62360776/react-js-react-router-dom-applying-css-on-every-routes)
 
 ## Install typescript plugin
 
