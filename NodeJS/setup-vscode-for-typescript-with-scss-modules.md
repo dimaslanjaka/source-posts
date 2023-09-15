@@ -26,9 +26,9 @@ add these configuration to user settings json
   // prompt using local project typescript version
   "typescript.enablePromptUseWorkspaceTsdk": true,
   // add plugin to vscode typescript server language
-	"typescript.tsserver.pluginPaths": [
-		"typescript-plugin-css-modules"
-	]
+  "typescript.tsserver.pluginPaths": [
+    "typescript-plugin-css-modules"
+  ]
 }
 ```
 
@@ -52,6 +52,66 @@ enable css modules plugin in project typescript configuration by editing `tsconf
     "src/**/*.css", // css file import support
     "src/**/*.scss", // scss file import support
     "src/**/*.less" // less file import support
+  ],
+  "exclude": [
+    "**/node_modules/**", // exclude node_modules folder from compilation
+    "**/dist/**" // exclude dist folder
+  ]
+}
+```
+
+### Full example of `tsconfig.json`
+
+Or use my typescript config then modify it according to your project structure
+
+```jsonc
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "outDir": "tmp/tsc",
+    "checkJs": false,
+    "composite": true,
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "downlevelIteration": true,
+    "allowSyntheticDefaultImports": true,
+    "skipDefaultLibCheck": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "lib": [
+      "DOM",
+      "ES2020"
+    ],
+    "typeRoots": [
+      "./typings",
+      "./node_modules/@types",
+      "./node_modules/nodejs-package-types/typings"
+    ],
+    "types": [
+      "rsuite"
+    ],
+    "plugins": [
+      {
+        "name": "typescript-plugin-css-modules"
+      }
+    ]
+  },
+  "include": [
+    "src",
+    "src/**/*.json",
+    "src/**/*.css",
+    "src/**/*.scss",
+    "src/**/*.less",
+    "typings"
+  ],
+  "exclude": [
+    "**/node_modules/**",
+    "./page/**/*",
+    "**/dist/**"
   ]
 }
 ```
