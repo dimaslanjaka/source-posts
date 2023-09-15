@@ -159,4 +159,25 @@ declare module '*.module.styl' {
   const classes: { [key: string]: string };
   export default classes;
 }
+
+// additional configs
+
+declare global {
+  interface Window {
+    // custom global window properties
+    [key: string]: any; // enable dynamic object support
+    dataLayer: Record<string, any>[]; // google analytics
+    opera: Record<string, any>;
+    opr: Record<string, any>;
+    safari: Record<string, any>;
+    adsbygoogle: any; // google adsense
+    clipboardData?: any; // safari clipboard
+    google: import('@types/google.accounts'); // google new API GSI client
+  }
+
+  interface Event {
+    // custom global event properties
+    clipboardData?: any; // safari clipboard
+  }
+}
 ```
