@@ -20,5 +20,12 @@ npm install -D typescript-plugin-css-modules
 
 add these configuration to user settings json
 ```jsonc
-
+{
+  // prompt using local project typescript version
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  // add plugin to vscode typescript server language
+	"typescript.tsserver.pluginPaths": [
+		"typescript-plugin-css-modules"
+	]
+}
 ```
