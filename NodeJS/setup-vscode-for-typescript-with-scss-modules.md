@@ -39,6 +39,7 @@ add these configuration to your project settings json
 
 ```jsonc
 {
+  // tell vscode to using local project typescript version
   "typescript.tsdk": "./node_modules/typescript/lib"
 }
 ```
