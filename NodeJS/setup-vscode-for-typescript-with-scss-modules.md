@@ -20,7 +20,8 @@ npm install -D typescript-plugin-css-modules
 
 ## Change VSCode USER SETTINGS json
 
-add these configuration to user settings json
+add these configuration to your user settings json
+
 ```jsonc
 {
   // prompt using local project typescript version
@@ -29,6 +30,16 @@ add these configuration to user settings json
   "typescript.tsserver.pluginPaths": [
     "typescript-plugin-css-modules"
   ]
+}
+```
+
+## Change VSCode PROJECT SETTINGS json
+
+add these configuration to your project settings json
+
+```jsonc
+{
+  "typescript.tsdk": "./node_modules/typescript/lib"
 }
 ```
 
