@@ -27,7 +27,7 @@ tags:
 thumbnail: https://i.ytimg.com/vi/lHAeK8t94as/maxresdefault.jpg
 title: Eslint Prettier In Typescript Project Using Vscode
 type: post
-updated: 2023-09-09T07:00:53+07:00
+updated: 2023-09-17T07:13:57+07:00
 webtitle: NodeJS
 wordcount: 2562
 ---
@@ -79,74 +79,108 @@ const prettier = require('./.prettierrc.json');
  * @type {import('eslint').ESLint.ConfigData}
  */
 const config = {
-  root: true, // Specifies your current project has own eslint rules without extends parent folder eslint rules
-  parser: '@typescript-eslint/parser', // Specifies the ESLint parser
+  // Specifies your current project has own eslint rules without extends parent folder eslint rules
+  root: true,
+  // Specifies the ESLint parser
+  parser: '@typescript-eslint/parser',
   env: {
-    browser: true, // add support for browser js (window,document,location,etc)
-    amd: true, // add amd support
-    node: true // add node support (module.export,etc)
+    // add support for browser js (window,document,location,etc)
+    browser: true,
+    // add amd support
+    amd: true,
+    // add node support (module.export,etc)
+    node: true,
+    // add jquery support
+    jquery: true,
   },
   globals: {
-    dataLayer: true,
-    hexo: true,
-    jQuery: true,
+    adsbygoogle: true,
+    gtag: true,
     $: true,
-    _: true
+    safelink: true,
+    google: 'readonly',
+    gapi: 'readonly',
   },
   parserOptions: {
-    ecmaVersion: 2020, // Allows for the parsing of modern ECMAScript features
-    sourceType: 'module' // Allows for the use of imports
+    // Allows for the parsing of modern ECMAScript features
+    ecmaVersion: 2020,
+    // Allows for the use of imports
+    sourceType: 'module',
+    // strict nested project to be handled
+    // project: ['./tsconfig.json'],
   },
   extends: [
-    'eslint:recommended', // uses eslint default recommended
-    'plugin:@typescript-eslint/eslint-recommended', // Uses the recommended rules from the @typescript-eslint/eslint-plugin
-    'plugin:@typescript-eslint/recommended', // Uses the recommended rules from the @typescript-eslint/eslint-plugin
-    'plugin:prettier/recommended' // Enables eslint-plugin-prettier and eslint-config-prettier. This will display prettier errors as ESLint errors. Make sure this is always the last configuration in the extends array.
+    // Uses eslint default recommended rules
+    'eslint:recommended',
+    // Uses the recommended rules from the @typescript-eslint/eslint-plugin
+    'plugin:@typescript-eslint/eslint-recommended',
+    // Uses the recommended rules from the @typescript-eslint/eslint-plugin
+    'plugin:@typescript-eslint/recommended',
+    // Enables eslint-plugin-prettier and eslint-config-prettier.
+    // This will display prettier errors as ESLint errors.
+    // Make sure this is always the last configuration in the extends array.
+    'plugin:prettier/recommended',
   ],
   // override rules for js files
   overrides: [
     {
       files: ['*.js'],
       rules: {
-        'no-unused-vars': [
-          'warn',
-          {
-            argsIgnorePattern: '^_',
-            varsIgnorePattern: '^_',
-            caughtErrorsIgnorePattern: '^_'
-          }
-        ], // warn unused vars on js files
-        'no-var-requires': 'off', // disable require vars on js files
-        '@typescript-eslint/no-var-requires': 'off' // disable require vars warning on js files
-      }
-    }
+        // disable require warning on js files
+        '@typescript-eslint/no-var-requires': 'off',
+        // disable include refenrences definition files on js
+        '@typescript-eslint/triple-slash-reference': 'off',
+      },
+    },
   ],
   // specify your desired rules for eslint
   rules: {
     'prettier/prettier': ['error', prettier],
-    '@typescript-eslint/explicit-function-return-type': 'off', // disable function without return type
-    'no-unused-vars': 'off', // disable original eslint unused-vars
+    // disable function without boundary return type
+    '@typescript-eslint/explicit-function-return-type': 'off',
+    // disable original eslint unused-vars
+    'no-unused-vars': 'off',
+    // enable typescript-eslint unused-vars
+    // and allow unused vars start with underscore (_)
     '@typescript-eslint/no-unused-vars': [
       'error',
       {
         argsIgnorePattern: '^_',
         varsIgnorePattern: '^_',
-        caughtErrorsIgnorePattern: '^_'
-      }
-    ], // enable typescript-eslint unused-vars and allow unused vars start with underscore (_)
-    '@typescript-eslint/no-explicit-any': 'off', // allow any types
+        caughtErrorsIgnorePattern: '^_',
+      },
+    ],
+    // allow any types
+    '@typescript-eslint/no-explicit-any': 'off',
+    // enable this variable calls
     '@typescript-eslint/no-this-alias': [
-      // rules for this binding
       'error',
       {
-        allowDestructuring: false, // Disallow `const { props, state } = this`; true by default
-        allowedNames: ['self', 'hexo'] // Allow `const self = this`; `[]` by default
-      }
+        // Disallow `const { props, state } = this`; true by default
+        allowDestructuring: false,
+        // Allow `const self = this`; `[]` by default
+        allowedNames: ['self'],
+      },
     ],
-    // "arrow-body-style" and "prefer-arrow-callback" are two ESLint core rules that can cause issues with prettier/prettier plugin, so turn them off.
+    // these ESLint core rules that can cause issues with
+    // prettier/prettier plugin, so turn them off.
     'arrow-body-style': 'off',
-    'prefer-arrow-callback': 'off'
-  }
+    'prefer-arrow-callback': 'off',
+    // ESLint performance issues fixes
+    // fix eslint-plugin-import
+    // * TypeScript provides the same checks as part of standard type checking
+    'import/no-named-as-default-member': 'off',
+    'import/named': 'off',
+    'import/namespace': 'off',
+    'import/default': 'off',
+    // fix @typescript-eslint
+    // * disable the base rule as it can report incorrect errors
+    indent: 'off',
+    '@typescript-eslint/indent': 'off',
+    // fix default eslint rules
+    // * disable the Enforce sorted import declarations within modules
+    'sort-imports': 'off',
+  },
 };
 
 module.exports = config;
