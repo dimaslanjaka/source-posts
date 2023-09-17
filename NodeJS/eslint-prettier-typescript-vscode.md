@@ -34,17 +34,17 @@ wordcount: 2562
 
 ## Auto Lint And Format Typescript Using VSCode With Eslint And Prettier
 
-Updated january 2023, suitable with VSCode and ESLint VSCode Plugin as below informations
+Updated september 2023, suitable with VSCode and ESLint VSCode Plugin as below informations
 ```log
-Version: 1.77.3 (user setup)
-Commit: 704ed70d4fd1c6bd6342c436f1ede30d1cff4710
-Date: 2023-04-12T09:16:02.548Z
-Electron: 19.1.11
-Chromium: 102.0.5005.196
-Node.js: 16.14.2
-V8: 10.2.154.26-electron.0
-OS: Windows_NT x64 10.0.19045
-Sandboxed: Yes
+Version: 1.82.2
+Commit: abd2f3db4bdb28f9e95536dfa84d8479f1eb312d
+Date: 2023-09-14T05:51:20.981Z
+Electron: 25.8.1
+ElectronBuildId: 23779380
+Chromium: 114.0.5735.289
+Node.js: 18.15.0
+V8: 11.4.183.29-electron.0
+OS: Linux x64 5.15.0-83-generic
 ```
 
 Linter becomes 2 types:
