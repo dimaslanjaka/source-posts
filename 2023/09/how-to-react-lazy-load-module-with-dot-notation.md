@@ -5,6 +5,7 @@ date: 2023-09-18T13:18:02+07:00
 updated: 2023-09-19T01:06:17+07:00
 categories: [programming]
 tags: [react, javascript, typescript]
+thumbnail: https://felixgerschau.com/static/fd98b903a50c5468828ec6c1c72d7b7e/0243e/react-lazy-loading-cover.png
 ---
 
 How to React lazy loading module with dot notation such as subclass or non default export ?
