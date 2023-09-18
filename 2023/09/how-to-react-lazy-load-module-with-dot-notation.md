@@ -10,7 +10,7 @@ How to React lazy loading module with dot notation such as subclass or non defau
 
 ## Code Example
 
-```typescriptreact
+```tsx
 // import { Nav, Navbar } from 'rsuite'; // <-- this is original import without lazy loading
 // then below is turn them into react lazy loading
 const Nav = React.lazy(() => import('rsuite/esm/Nav'));
