@@ -160,8 +160,11 @@ import React from "react";
 // lazy import react suite custom navbar
 const MyNavbar = React.lazy(() => import("./Navbar"));
 // lazy import other react suite components
-const Container = React.lazy(() => import("rsuite/esm/Container"));
-const Container = React.lazy(() => import("rsuite/esm/Container"));
+const Container = React.lazy(() => import('rsuite/esm/Container'));
+const Sidebar = React.lazy(() => import('rsuite/esm/Sidebar'));
+const Header = React.lazy(() => import('rsuite/esm/Header'));
+const Content = React.lazy(() => import('rsuite/esm/Content'));
+const Footer = React.lazy(() => import('rsuite/esm/Footer'));
 // export the theme
 export default function MyTheme(props) {
   return (
