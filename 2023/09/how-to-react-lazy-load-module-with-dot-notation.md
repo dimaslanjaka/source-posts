@@ -2,7 +2,7 @@
 title: How to lazy loading JSX react module with dots notation
 description: "React lazy loading module with dot notation such as subclass or non default export"
 date: 2023-09-18T13:18:02+07:00
-updated: 2023-09-19T01:06:17+07:00
+updated: 2023-09-19T01:15:03+07:00
 categories: [programming]
 tags: [react, javascript, typescript]
 thumbnail: https://felixgerschau.com/static/fd98b903a50c5468828ec6c1c72d7b7e/0243e/react-lazy-loading-cover.png
@@ -84,11 +84,39 @@ const CogIcon = React.lazy(() => import('@rsuite/icons/legacy/Cog'));
 
 ## conclusion
 
-now you learned How to lazy loading module without default export in reactjs.
+now you learned How to lazy loading module without default export in reactjs, and this method also works on `typescript`.
 
-my full sample code lazy imported module into JSX, and this also works on `typescript`
+my full sample code to lazy import **React Suite** components
+
+**filename**: MyNavbar.tsx
 
 ```tsx
+import React from 'react';
+//
+
+// import HomeIcon from '@rsuite/icons/legacy/Home';
+// import { Nav, Navbar } from 'rsuite';
+
+const Nav = React.lazy(() => import('rsuite/esm/Nav'));
+const NavItem = React.lazy(() =>
+  import('rsuite/esm/Nav').then(module => ({
+    default: module.default.Item,
+  })),
+);
+const NavMenu = React.lazy(() =>
+  import('rsuite/esm/Nav').then(module => ({
+    default: module.default.Menu,
+  })),
+);
+const Navbar = React.lazy(() => import('rsuite/esm/Navbar'));
+const NavbarBrand = React.lazy(() =>
+  import('rsuite/esm/Navbar').then(module => ({
+    default: module.default.Brand,
+  })),
+);
+
+const HomeIcon = React.lazy(() => import('@rsuite/icons/legacy/Home'));
+
 const MyNavbar = ({ ...props }) => {
   return (
     <Navbar {...props}>
@@ -124,5 +152,34 @@ function navItemClick(e: { target: any }): any {
   if (el.hasAttribute('href')) {
     window.location.href = el.getAttribute('href');
   }
+}
+```
+
+**filename**: MyTheme.tsx
+
+```tsx
+import React from "react";
+// lazy import react suite custom navbar
+const MyNavbar = React.lazy(() => import("./Navbar"));
+// lazy import other react suite components
+const Container = React.lazy(() => import("rsuite/esm/Container"));
+const Container = React.lazy(() => import("rsuite/esm/Container"));
+// export the theme
+export default function MyTheme(props) {
+  return (
+    <Container>
+      <Header className="fixed-top">
+        <MyNavbar />
+      </Header>
+      <Container id="content-wrapper">
+        {/* using children property */}
+        {/* <Content>{this.props.children}</Content> */}
+        <Content>
+          {/* using react-router-dom */}
+          <Outlet />
+        </Content>
+      </Container>
+    </Container>
+  );
 }
 ```
