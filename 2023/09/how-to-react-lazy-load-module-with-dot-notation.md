@@ -2,14 +2,38 @@
 title: How to lazy loading JSX react module with dots notation
 description: "React lazy loading module with dot notation such as subclass or non default export"
 date: 2023-09-18T13:18:02+07:00
-updated: 2023-09-18T13:24:53+07:00
+updated: 2023-09-19T00:52:26+07:00
 categories: [programming]
 tags: [react, javascript, typescript]
 ---
 
 How to React lazy loading module with dot notation such as subclass or non default export ?
 
-## Code Example
+## Original code without react lazy
+
+```tsx
+import { Nav, Navbar } from 'rsuite';
+
+<Nav>
+  <Nav.Item icon={<HomeIcon />} href="/page">
+    Home
+  </Nav.Item>
+  <Nav.Item href="/page/google/login">Login</Nav.Item>
+  <Nav.Menu title="Tools">
+    <Nav.Item onClick={navItemClick} href="/page/bot-detect">
+      Selenium Checker
+    </Nav.Item>
+    <Nav.Item onClick={navItemClick} href="/page/moment-timezone">
+      Moment Timezone Playground
+    </Nav.Item>
+    <Nav.Item onClick={navItemClick} href="/page/cookies">
+      Cookie Manager
+    </Nav.Item>
+  </Nav.Menu>
+</Nav>
+```
+
+## Convert to react lazy
 
 ```tsx
 // import { Nav, Navbar } from 'rsuite'; // <-- this is original import without lazy loading
