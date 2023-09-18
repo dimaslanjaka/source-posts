@@ -2,7 +2,7 @@
 title: How to lazy loading JSX react module with dots notation
 description: "React lazy loading module with dot notation such as subclass or non default export"
 date: 2023-09-18T13:18:02+07:00
-updated: 2023-09-19T00:52:26+07:00
+updated: 2023-09-19T01:06:17+07:00
 categories: [programming]
 tags: [react, javascript, typescript]
 ---
@@ -63,7 +63,29 @@ const NavbarBrand = React.lazy(() =>
 );
 ```
 
-now use above lazy imported module into JSX, this also works on `typescript`
+## How to lazy import SVG Icon in ReactJS
+
+sample codes to import SVG ICON with react lazy using library **React Suite**
+
+### Original imports SVG Icon without react lazy
+
+```tsx
+import HomeIcon from '@rsuite/icons/legacy/Home';
+import CogIcon from '@rsuite/icons/legacy/Cog';
+```
+
+### Import SVG Icon using react lazy
+
+```tsx
+const HomeIcon = React.lazy(() => import('@rsuite/icons/legacy/Home'));
+const CogIcon = React.lazy(() => import('@rsuite/icons/legacy/Cog'));
+```
+
+## conclusion
+
+now you learned How to lazy loading module without default export in reactjs.
+
+my full sample code lazy imported module into JSX, and this also works on `typescript`
 
 ```tsx
 const MyNavbar = ({ ...props }) => {
@@ -103,8 +125,3 @@ function navItemClick(e: { target: any }): any {
   }
 }
 ```
-
-## conclusion
-
-now you learned How to lazy loading module without default export in reactjs
-
