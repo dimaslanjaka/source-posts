@@ -12,7 +12,10 @@ How to React lazy loading module with dot notation such as subclass or non defau
 ## Original code without react lazy
 
 ```tsx
-import { Nav, Navbar } from 'rsuite';
+import React from 'react';
+import { Navbar, Nav } from 'rsuite';
+import HomeIcon from '@rsuite/icons/legacy/Home';
+import CogIcon from '@rsuite/icons/legacy/Cog';
 
 const MyNavbar = () => (
   <Navbar>
@@ -40,8 +43,6 @@ const MyNavbar = () => (
 ## Convert to react lazy
 
 ```tsx
-// import { Nav, Navbar } from 'rsuite'; // <-- this is original import without lazy loading
-
 // below is turn them into react lazy loading
 const Nav = React.lazy(() => import('rsuite/esm/Nav'));
 const NavItem = React.lazy(() =>
