@@ -82,9 +82,7 @@ const HomeIcon = React.lazy(() => import('@rsuite/icons/legacy/Home'));
 const CogIcon = React.lazy(() => import('@rsuite/icons/legacy/Cog'));
 ```
 
-## conclusion
-
-now you learned How to lazy loading module without default export in reactjs, and this method also works on `typescript`.
+## Full Code Sample
 
 my full sample code to lazy import **React Suite** components
 
@@ -183,3 +181,7 @@ export default function MyTheme(props) {
   );
 }
 ```
+
+## conclusion
+
+now you learned How to lazy loading module without default export in reactjs, and this method also works on `typescript`.
