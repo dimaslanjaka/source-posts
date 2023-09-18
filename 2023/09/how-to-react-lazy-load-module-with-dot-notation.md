@@ -14,27 +14,27 @@ How to React lazy loading module with dot notation such as subclass or non defau
 ```tsx
 import { Nav, Navbar } from 'rsuite';
 
-const MyNavbar = ({ ...props }) => {
-  return (
+const MyNavbar = () => (
+  <Navbar>
+    <Navbar.Brand href="#">RSUITE</Navbar.Brand>
     <Nav>
-      <Nav.Item icon={<HomeIcon />} href="/page">
-        Home
-      </Nav.Item>
-      <Nav.Item href="/page/google/login">Login</Nav.Item>
-      <Nav.Menu title="Tools">
-        <Nav.Item onClick={navItemClick} href="/page/bot-detect">
-          Selenium Checker
-        </Nav.Item>
-        <Nav.Item onClick={navItemClick} href="/page/moment-timezone">
-          Moment Timezone Playground
-        </Nav.Item>
-        <Nav.Item onClick={navItemClick} href="/page/cookies">
-          Cookie Manager
-        </Nav.Item>
+      <Nav.Item icon={<HomeIcon />}>Home</Nav.Item>
+      <Nav.Item>News</Nav.Item>
+      <Nav.Item>Products</Nav.Item>
+      <Nav.Menu title="About">
+        <Nav.Item>Company</Nav.Item>
+        <Nav.Item>Team</Nav.Item>
+        <Nav.Menu title="Contact">
+          <Nav.Item>Via email</Nav.Item>
+          <Nav.Item>Via telephone</Nav.Item>
+        </Nav.Menu>
       </Nav.Menu>
     </Nav>
-  )
-});
+    <Nav pullRight>
+      <Nav.Item icon={<CogIcon />}>Settings</Nav.Item>
+    </Nav>
+  </Navbar>
+);
 ```
 
 ## Convert to react lazy
