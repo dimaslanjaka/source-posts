@@ -2,6 +2,7 @@
 title: How to lazy loading JSX react module with dots notation
 description: "React lazy loading module with dot notation such as subclass or non default export"
 date: 2023-09-18T13:18:02+07:00
+updated: 2023-09-18T13:24:53+07:00
 categories: [programming]
 tags: [react, javascript, typescript]
 ---
@@ -73,3 +74,8 @@ function navItemClick(e: { target: any }): any {
   }
 }
 ```
+
+## conclusion
+
+now you learned How to lazy loading module without default export in reactjs
+
