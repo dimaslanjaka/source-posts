@@ -43,5 +43,6 @@
   "code-runner.saveFileBeforeRun": true,
   "nunjucksTemplate.preserveEmptyLine": 3,
   "npm.packageManager": "yarn",
-  "eslint.packageManager": "yarn"
+  "eslint.packageManager": "yarn",
+  "frontMatter.content.pageFolders": []
 }
