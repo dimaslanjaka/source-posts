@@ -1,6 +1,11 @@
 Test
 .guid
 /dimaslanjaka
+yarn.lock
+package-lock.json
+**/.yarn/*.gz
+**/.yarn/cache*
+/.env
 
 # olds and backups
 *-old
@@ -15,3 +20,6 @@ tmp
 # master project
 /nodejs-esm-starter
 /posts
+
+# front matter project
+/db.json
