@@ -3,24 +3,26 @@ author:
   nick: Kuswati
   link: https://www.blogger.com/profile/09256263851708439294
   email: noreply@blogger.com
-category:
-  - Programming
-  - Bash
+categories:
+  - programming
 comments: true
 cover: https://res.cloudinary.com/practicaldev/image/fetch/https://www.wissenschaft.com.ng/wp-content/uploads/2021/02/clear_ram_buffer_linux.jpg
 date: 2020-05-30T00:03:00.002+07:00
+description: Script To Clear Cache Linux
 lang: en
-subtitle: Script To Clear Cache Linux
+photos:
+  - https://res.cloudinary.com/practicaldev/image/fetch/https://www.wissenschaft.com.ng/wp-content/uploads/2021/02/clear_ram_buffer_linux.jpg
 tags:
-  - Bash
-  - Script
-  - Tips & Tricks
-  - Linux/Unix
+  - bash
+  - script
+  - tips & tricks
+  - linux/unix
+thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/https://www.wissenschaft.com.ng/wp-content/uploads/2021/02/clear_ram_buffer_linux.jpg
 title: Linux Clear Cache
 type: post
-uuid: db68c44f-5c4e-4888-824c-065ae21add60
+updated: 2023-09-03T04:28:07+07:00
 webtitle: Script
-updated: 2022-03-26T05:37:59+0000
+wordcount: 343
 ---
 
 ```bash

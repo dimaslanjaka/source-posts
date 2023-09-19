@@ -2,26 +2,28 @@
 author:
   nick: Maulinda Agustina
   link: https://github.com/dimaslanjaka
-category:
-  - Games
-  - The Legend Of Neverland
+categories:
+  - games
+  - the legend of neverland
 comments: true
 cover: https://i.ytimg.com/vi/lK7h30vvRuI/mqdefault.jpg
 date: 2021-08-21T00:00:00+07:00
-updated: 2022-05-31T10:37:00+0700
+description: Midi collection for the legend of neverland perform music skill
 lang: en
 location: Indonesia
+photos:
+  - https://i.ytimg.com/vi/lK7h30vvRuI/mqdefault.jpg
 related_posts:
   - /The%20Legend%20Of%20Neverland/Recipes.html
-subtitle: Midi collection for the legend of neverland perform music skill
 tags:
-  - Life Skill
-  - Midi
-  - TLON
+  - life skill
+  - midi
+  - tlon
+thumbnail: https://i.ytimg.com/vi/lK7h30vvRuI/mqdefault.jpg
 title: Midi The Legend Of Neverland
 type: post
-uuid: 3e0f4b91-4e04-4888-8198-1bc1dff09f97
-description: Midi collection for the legend of neverland perform music skill
+updated: 2023-08-08T14:44:12+07:00
+wordcount: 517
 ---
 
 ## NPC's favorite musical instrument
@@ -49,9 +51,12 @@ description: Midi collection for the legend of neverland perform music skill
 | Clout - Save me                      | https://bitmidi.com/uploads/24659.mid  |
 | TokiMeki                             | https://bitmidi.com/uploads/24659.mid  |
 | Hatsune Miku                         | https://bitmidi.com/uploads/55292.mid  |
+| Alan Walker - Faded | https://www.mididb.com/alan-walker/ |
+| Sadness And Sorrow - Naruto | https://bitmidi.com/uploads/79353.mid https://bitmidi.com/uploads/79356.mid |
 
 ## How to convert Youtube Videos to MIDI
-Visit [YT2MIDI](https://youtube2midi.github.io/)
+
+To create **self created score the legend of neverland** from youtube you can visit [YT2MIDI](https://youtube2midi.github.io/)
 
 ### Available Midi Sites
 - https://github.com/dimaslanjaka/public-source/tree/master/assets/Midi

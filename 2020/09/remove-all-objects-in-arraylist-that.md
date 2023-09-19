@@ -3,28 +3,23 @@ author:
   nick: Kuswati
   link: https://www.blogger.com/profile/09256263851708439294
   email: noreply@blogger.com
-category:
-  - Programming
-  - Java
+categories:
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2020-09-22T10:36:00.001+07:00
+description: pre><br />ArrayListlt;Stringgt; firstArr = new ArrayListlt;gt;;<br
+  /> firstArr.addquot;1quot;;<br />
 lang: en
-location: ""
-modified: 2020-09-22T10:36:39.906+07:00
-subtitle: pre><br />ArrayList&lt;String&gt; firstArr = new
-  ArrayList&lt;&gt;();<br /> firstArr.add(&quot;1&quot;);<br />
-tags:
-  - Java
-title: Remove all objects in an arraylist that exist in another arraylist Java
-type: post
-uuid: 86dc6b3b-9670-4888-8e6a-bd91726de97c
-updated: 2022-03-20T20:57:28+07:00
-thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-description: pre><br />ArrayList&lt;String&gt; firstArr = new
-  ArrayList&lt;&gt;();<br /> firstArr.add(&quot;1&quot;);<br />
+tags:
+  - java
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
+title: Remove all objects in an arraylist that exist in another arraylist Java
+type: post
+updated: 2023-09-03T04:28:07+07:00
+wordcount: 135
 ---
 
 ```java

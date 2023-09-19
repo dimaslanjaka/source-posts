@@ -1,18 +1,27 @@
 ---
-title: Lazy Load Adsense Full Support 2022 Adsense API
-description: Snippet lazy load adsense full support for blogger, wordpress, etc
-date: 2022-05-10T23:20:16+0000
-updated: 2022-05-11T08:52:06+0000
+author: Dimas Lanjaka
+categories:
+  - programming
+comments: true
 cover: https://1.bp.blogspot.com/-JB0hsyji7wo/XR0Sq_evvpI/AAAAAAAATlo/afDSTs1Y-HcrcDANMV9fGrGwZUU37o31wCLcBGAs/w600/Cara-Memasang-Lazy-Load-Iklan-Adsense.png
-category:
-  - Adsense
-  - Programming
+date: 2022-05-10T23:20:16+0000
+description: Snippet lazy load adsense full support for blogger, wordpress, etc
+lang: en
+photos:
+  - https://1.bp.blogspot.com/-JB0hsyji7wo/XR0Sq_evvpI/AAAAAAAATlo/afDSTs1Y-HcrcDANMV9fGrGwZUU37o31wCLcBGAs/w600/Cara-Memasang-Lazy-Load-Iklan-Adsense.png
 tags:
-  - JS
-  - HTML
-  - Blogger
-  - Wordpress
+  - javascript
+  - html
+  - blogger
+  - wordpress
+  - adsense
+thumbnail: https://1.bp.blogspot.com/-JB0hsyji7wo/XR0Sq_evvpI/AAAAAAAATlo/afDSTs1Y-HcrcDANMV9fGrGwZUU37o31wCLcBGAs/w600/Cara-Memasang-Lazy-Load-Iklan-Adsense.png
+title: Lazy Load Adsense Full Support 2022 Adsense API
+type: post
+updated: 2023-09-03T04:28:05+07:00
+wordcount: 586
 ---
+
 
 change `ca-pub-1165447249910969` with your own adsense pub
 ```html
@@ -60,10 +69,12 @@ var lazyloadads=!1;window.addEventListener("scroll",function(){var o=0!=document
 ```
 
 ## Usages
+
 just put `<ins/>` tag adsense
 ```html
 <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-1165447249910969" data-ad-slot="8307991972"></ins>
 ```
+
 full example
 ```html
 <section class="mb-5">

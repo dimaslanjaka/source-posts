@@ -3,27 +3,24 @@ author:
   nick: Kuswati
   link: https://www.blogger.com/profile/09256263851708439294
   email: noreply@blogger.com
-category: []
+categories:
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2020-08-03T08:26:00.001+07:00
-lang: en
-location: ""
-modified: 2020-08-03T08:26:05.439+07:00
-subtitle: If you Got this issue today on windows, but dont need to downgrade
-  node, just as discussed on
-tags:
-  - JS
-  - Regular Expression
-title: "Fix React Native error Invalid regular expression: /(.*\\\\__fixtures__"
-type: post
-uuid: 14f3d748-31a4-4888-8f4c-eaba432bc58a
-updated: 2022-03-20T20:57:28+07:00
-thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-photos:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 description: If you Got this issue today on windows, but dont need to downgrade
   node, just as discussed on
+lang: en
+photos:
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
+tags:
+  - javascript
+  - regular expression
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
+title: "Fix React Native error Invalid regular expression: /.\\\\__fixtures__"
+type: post
+updated: 2023-09-03T06:34:31+07:00
+wordcount: 134
 ---
 
 If you Got this issue today on windows, but don't need to downgrade node, just as discussed on

@@ -1,14 +1,25 @@
 ---
-title: How to declare a variable inside if else brackets
-description: js validate and assign online inside if, js assign variable inside if bracket, How to declare a variable inside brackets
-date: 2022-10-06T11:40:09+07:00
-updated: 2022-10-06T11:40:09+07:00
-tag: ['JS', 'HTML']
-categories: ['Programming']
-thumbnail: https://miro.medium.com/max/912/1*Gdlo9wVkOuzsA8iUqXoLEg.png
 author:
   email: dimaslanjaka@gmail.com
   name: Dimas Lanjaka
+categories:
+  - programming
+comments: true
+cover: https://miro.medium.com/max/912/1*Gdlo9wVkOuzsA8iUqXoLEg.png
+date: 2022-10-06T11:40:09+07:00
+description: js validate and assign online inside if, js assign variable inside
+  if bracket, How to declare a variable inside brackets
+lang: en
+photos:
+  - https://miro.medium.com/max/912/1*Gdlo9wVkOuzsA8iUqXoLEg.png
+tags:
+  - javascript
+  - html
+thumbnail: https://miro.medium.com/max/912/1*Gdlo9wVkOuzsA8iUqXoLEg.png
+title: How to declare a variable inside if else brackets
+type: post
+updated: 2023-09-03T06:34:26+07:00
+wordcount: 1069
 ---
 
 <h2>How to declare a variable inside brackets?</h2>

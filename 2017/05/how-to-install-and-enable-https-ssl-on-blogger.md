@@ -3,18 +3,22 @@ author:
   nick: Unknown
   link: ""
   email: noreply@blogger.com
-category: []
+categories:
+  - programming
 comments: true
 cover: https://2.bp.blogspot.com/-THwUQIZSve0/WJRctlNolxI/AAAAAAAAEcg/dIQv0GpStXkwgpoAFZFdWefnzy8DJkTmACPcB/s1600/Cara%2BPasang%2Bdan%2BAktifkan%2BHTTPS%2B%2528SSL%2529%2Bdi%2BBlogspot%2BCustom%2BDomain%2B02.jpg
 date: 2017-05-22T22:41:00.000+07:00
+description: How to Install and Enable HTTPS SSL on Blogspot Custom Domain
 lang: en
-subtitle: How to Install and Enable HTTPS SSL) on Blogspot Custom Domain
+photos:
+  - https://2.bp.blogspot.com/-THwUQIZSve0/WJRctlNolxI/AAAAAAAAEcg/dIQv0GpStXkwgpoAFZFdWefnzy8DJkTmACPcB/s1600/Cara%2BPasang%2Bdan%2BAktifkan%2BHTTPS%2B%2528SSL%2529%2Bdi%2BBlogspot%2BCustom%2BDomain%2B02.jpg
 tags:
-  - Blogger
-title: How to Install and Enable HTTPS (SSL) on Blogspot Custom Domain
+  - blogger
+thumbnail: https://2.bp.blogspot.com/-THwUQIZSve0/WJRctlNolxI/AAAAAAAAEcg/dIQv0GpStXkwgpoAFZFdWefnzy8DJkTmACPcB/s1600/Cara%2BPasang%2Bdan%2BAktifkan%2BHTTPS%2B%2528SSL%2529%2Bdi%2BBlogspot%2BCustom%2BDomain%2B02.jpg
+title: How to Install and Enable HTTPS SSL on Blogspot Custom Domain
 type: post
-uuid: 447ae00f-b88d-4888-8eb0-0110d7b478b4
-updated: 2022-04-15T12:19:00+0700
+updated: 2023-09-03T06:13:47+07:00
+wordcount: 1720
 ---
 
 <h2>How to Install and Enable HTTPS (SSL) on Blogspot Custom Domain</h2>
@@ -22,7 +26,7 @@ updated: 2022-04-15T12:19:00+0700
 <h3>Then how dong?</h3>
 <br />Do not worry. Turns still can&nbsp;install and enable HTTPS (SSL) in custom Blogspot domain. We are going to use SSL free of Cloudflare. For convenience, I use a screenshot for every steps.<br /><br /><br />
 <h3>1. DNS settings to Cloudflare</h3>
-I assume you have an account and setting custom domain Cloudflare there (CNAME and A Name). For still another DNS settings in place, immediately move to Cloudflare. Why? Yes because we get from Cloudflare SSLnya. If you do not understand how to setup a custom domain on Cloudflare, Googling wrote. Loads tutorial. But the<br /><a href="http://www.webmanajemen.com/p/search.html?q=https%20blogger" rel="noopener noreferer nofollow">tutorial HTTPS Blogger custom domain</a>has not been much. So I write this article: D<br /><br /><br /><center><a title="How to Install and Enable HTTPS (SSL) on Blogspot Custom Domain - igniel.com" href="https://4.bp.blogspot.com/-h2mt4eiAGmE/WJRctjZJ94I/AAAAAAAAEcY/LKmeapn9NJEefMfI1Naxwlta3Uy7-fQ1wCPcB/s1600/Cara%2BPasang%2Bdan%2BAktifkan%2BHTTPS%2B%2528SSL%2529%2Bdi%2BBlogspot%2BCustom%2BDomain%2B03.jpg" rel="noopener noreferer nofollow"><img title="How to Install and Enable HTTPS (SSL) on Blogspot Custom Domain - igniel.com" src="https://4.bp.blogspot.com/-h2mt4eiAGmE/WJRctjZJ94I/AAAAAAAAEcY/LKmeapn9NJEefMfI1Naxwlta3Uy7-fQ1wCPcB/s1600/Cara%2BPasang%2Bdan%2BAktifkan%2BHTTPS%2B%2528SSL%2529%2Bdi%2BBlogspot%2BCustom%2BDomain%2B03.jpg" alt="Cara Pasang dan Aktifkan HTTPS (SSL) di Blogspot Custom Domain - igniel.com" border="0" /></a></center><br /><br />
+I assume you have an account and setting custom domain Cloudflare there (CNAME and A Name). For still another DNS settings in place, immediately move to Cloudflare. Why? Yes because we get from Cloudflare SSLnya. If you do not understand how to setup a custom domain on Cloudflare, Googling wrote. Loads tutorial. But the<br /><a href="http://www.webmanajemen.com/search/?q=https%20blogger" rel="noopener noreferer nofollow">tutorial HTTPS Blogger custom domain</a>has not been much. So I write this article: D<br /><br /><br /><center><a title="How to Install and Enable HTTPS (SSL) on Blogspot Custom Domain - igniel.com" href="https://4.bp.blogspot.com/-h2mt4eiAGmE/WJRctjZJ94I/AAAAAAAAEcY/LKmeapn9NJEefMfI1Naxwlta3Uy7-fQ1wCPcB/s1600/Cara%2BPasang%2Bdan%2BAktifkan%2BHTTPS%2B%2528SSL%2529%2Bdi%2BBlogspot%2BCustom%2BDomain%2B03.jpg" rel="noopener noreferer nofollow"><img title="How to Install and Enable HTTPS (SSL) on Blogspot Custom Domain - igniel.com" src="https://4.bp.blogspot.com/-h2mt4eiAGmE/WJRctjZJ94I/AAAAAAAAEcY/LKmeapn9NJEefMfI1Naxwlta3Uy7-fQ1wCPcB/s1600/Cara%2BPasang%2Bdan%2BAktifkan%2BHTTPS%2B%2528SSL%2529%2Bdi%2BBlogspot%2BCustom%2BDomain%2B03.jpg" alt="Cara Pasang dan Aktifkan HTTPS (SSL) di Blogspot Custom Domain - igniel.com" border="0" /></a></center><br /><br />
 <h3>2. Setting SSL</h3>
 Are the main steps ya. Ikutin yes, I've tried to explain in detail. Do not let the question arises that actually exist in the article just because you are lazy to read: D<br /><br /><br />
 <ol>

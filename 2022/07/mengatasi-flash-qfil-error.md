@@ -1,9 +1,22 @@
 ---
-title: Cara Mengatasi Flash QFIL Error
-description: Solusi Flash QFIL Error
+author: Dimas Lanjaka
+categories:
+  - flashing
+comments: true
+cover: /2022/07/mengatasi-flash-qfil-error/cover.jpg
 date: 2022-07-28
-updated: 2022-09-30T03:10:00+0700
-cover: mengatasi-flash-qfil-error/cover.jpg
+description: Solusi Flash QFIL Error
+lang: en
+photos:
+  - /2022/07/mengatasi-flash-qfil-error/cover.jpg
+tags:
+  - qfil
+  - firmware
+thumbnail: /2022/07/mengatasi-flash-qfil-error/cover.jpg
+title: Cara Mengatasi Flash QFIL Error
+type: post
+updated: 2023-09-02T22:03:14.245Z
+wordcount: 1450
 ---
 
 ## Langkah-langkah mengatasi error flash QFIL
@@ -14,7 +27,8 @@ cover: mengatasi-flash-qfil-error/cover.jpg
 - Uninstall QFIL Lalu Restart Komputer Lalu Install Ulang QFIL
 
 ## Video cara megatasi flash QFIL error
-{{% youtube 5u0Nd1lj9GI %}}
+
+{% youtube 5u0Nd1lj9GI %}
 
 ## Macam-macam faktor error flashing dengan QFIL
 

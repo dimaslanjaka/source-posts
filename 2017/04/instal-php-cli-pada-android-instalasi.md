@@ -3,22 +3,25 @@ author:
   nick: Unknown
   link: ""
   email: noreply@blogger.com
-category:
-  - Programming
-  - PHP
+categories:
+  - programming
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blogspot.com/-3UATHL878wU/WKoXE11tarI/AAAAAAAAFAA/QhBnNJFo5QAiB4C04RKBG9zuFrP2Uhm4gCLcB/s1600/serverphp.jpg
 date: 2017-04-09T13:26:00.001+07:00
+description: Official php-cli installation on android by L3n4r0x php Running On
+  Android Terminal -> How to install php5-cli in android <-
 lang: en
-description: Official php-cli installation on android by L3n4r0x (php Running On Android Terminal) -> How to install php5-cli in android <-
+photos:
+  - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blogspot.com/-3UATHL878wU/WKoXE11tarI/AAAAAAAAFAA/QhBnNJFo5QAiB4C04RKBG9zuFrP2Uhm4gCLcB/s1600/serverphp.jpg
 tags:
-  - PHP
-  - Android
-title: Install PHP for Android (CLI or Web Server)
+  - php
+  - android
+thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://4.bp.blogspot.com/-3UATHL878wU/WKoXE11tarI/AAAAAAAAFAA/QhBnNJFo5QAiB4C04RKBG9zuFrP2Uhm4gCLcB/s1600/serverphp.jpg
+title: Install PHP for Android CLI or Web Server
 type: post
-uuid: 14e9225b-f78d-4888-85cc-de9f5862689c
+updated: 2023-09-03T04:28:46+07:00
 webtitle: PHP Android
-updated: 2022-05-21T05:20:52+0000
+wordcount: 2598
 ---
 
 <div dir="ltr" style="text-align: left" trbidi="on">
@@ -59,7 +62,7 @@ updated: 2022-05-21T05:20:52+0000
   <div>
     <pre><br>su<br>data="/data/data/com.eminis.server.php"<br>chmod 755 $data/files/*<br>chmod 755 $data/lib/*<br></pre>
     Or you can also manually set permissions <span style="color: red">755</span> in
-    <span style="color: red">/data/data/<a href="http://web-manajemen.blogspot.com/search?q=com.eminis.server.php" target="_blank">com.eminis.server.php</a>/</span> all the files in the folder "files"
+    <span style="color: red">/data/data/<a href="http://webmanajemen.com/search?q=com.eminis.server.php" target="_blank">com.eminis.server.php</a>/</span> all the files in the folder "files"
     and "lib" <br />
     <br />
     4. Open Root Explorer, open the folder <span style="color: red">/data/data/com.eminis.server.php/files/</span>, "press and hold" file named php. (See screenshot) <br />

@@ -1,14 +1,24 @@
 ---
-title: How to solve Error Apache shutdown unexpectedly updated 2022
-subtitle: Various step to fix xampp windows updated 2022
-tags:
-  - Apache
-  - XAMPP
-  - PHP
-  - MySQL
-date: 2022-03-26T23:46:00+0700
-updated: 2022-03-27T23:46:00+0700
+author: Dimas Lanjaka
+categories:
+  - programming
+comments: true
 cover: https://i.ytimg.com/vi/alj5it9EwIM/maxresdefault.jpg
+date: 2022-03-26T23:46:00+0700
+description: Various step to fix xampp windows updated 2022
+lang: en
+photos:
+  - https://i.ytimg.com/vi/alj5it9EwIM/maxresdefault.jpg
+tags:
+  - apache
+  - xampp
+  - php
+  - mysql
+thumbnail: https://i.ytimg.com/vi/alj5it9EwIM/maxresdefault.jpg
+title: How to solve Error Apache shutdown unexpectedly updated 2022
+type: post
+updated: 2023-09-03T06:29:46+07:00
+wordcount: 690
 ---
 
 ## How to solve "Error: Apache shutdown unexpectedly"?

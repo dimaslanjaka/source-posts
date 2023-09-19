@@ -3,33 +3,24 @@ author:
   nick: Dimas Lanjaka Kumala Indra
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
-category: []
+categories:
+  - programming
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2019-12-28T11:49:00.001+07:00
+description: MengubahdomdocumentsebuahelemenkedalamHTMlstringbiasa<div
+  id=elemenTersedia></div><script>function
 lang: en
-location: ""
-modified: 2019-12-28T11:57:05.497+07:00
-subtitle: |-
-  Mengubahdom document sebuah elemen kedalam HTMl string biasa
-  <div id=elemenTersedia></div>
-  <script>
-  function
-tags:
-  - JS
-  - HTML
-title: Konversi DOM element ke HTML string
-type: post
-uuid: 686519e0-5fe3-4888-8d40-56b2cdf5ab57
-updated: 2019-12-28T11:57:05+07:00
-thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-description: |-
-  Mengubahdom document sebuah elemen kedalam HTMl string biasa
-  <div id=elemenTersedia></div>
-  <script>
-  function
+tags:
+  - javascript
+  - html
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
+title: Konversi DOM element ke HTML string
+type: post
+updated: 2023-09-03T06:34:35+07:00
+wordcount: 276
 ---
 
 <div>

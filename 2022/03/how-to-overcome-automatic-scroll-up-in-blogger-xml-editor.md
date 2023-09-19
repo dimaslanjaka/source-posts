@@ -1,10 +1,24 @@
 ---
-title: How to Overcome Automatic Scroll Up in Blogger XML Editor
-webtitle: Blogger
-date: 2022-03-23T13:27:20+0000
-updated: 2022-03-23T20:27:20+0000
-toc: true
+author: Dimas Lanjaka
+categories:
+  - programming
+comments: true
 cover: https://i.ytimg.com/vi/Py9zUa4MGgs/maxresdefault.jpg
+date: 2022-03-23T13:27:20+0000
+description: How to Overcome Automatic Scroll Up in Blogger XML Editor Blogger
+  update information Some time ago, blogger made an update about the XML editor
+  system. The most
+lang: en
+photos:
+  - https://i.ytimg.com/vi/Py9zUa4MGgs/maxresdefault.jpg
+tags: []
+thumbnail: https://i.ytimg.com/vi/Py9zUa4MGgs/maxresdefault.jpg
+title: How to Overcome Automatic Scroll Up in Blogger XML Editor
+toc: true
+type: post
+updated: 2023-09-03T06:13:09+07:00
+webtitle: Blogger
+wordcount: 1377
 ---
 
 ## Blogger update information

@@ -1,13 +1,18 @@
 ---
-category:
-  - Games
-  - Playbook88
-date: 2022-03-20
-subtitle: Informasi bocoran jackpot Playbook88
-title: Bocoran Jackpot Playbook88
-updated: 2022-03-20T20:57:28+07:00
-uuid: d469a16a-26c0-4888-8f6d-cf7ce1151856
 adsense: false
+author: Dimas Lanjaka
+categories:
+  - games
+  - playbook88
+comments: true
+date: 2022-03-20
+description: Informasi bocoran jackpot Playbook88
+lang: en
+tags: []
+title: Bocoran Jackpot Playbook88
+type: post
+updated: 2023-08-08T14:45:10+07:00
+wordcount: 379
 ---
 
 ![Jackpot](https://51.79.239.136/wp-content/uploads/2021/12/JP.gif)

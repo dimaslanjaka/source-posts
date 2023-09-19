@@ -1,8 +1,22 @@
 ---
-title: Force Change ALl End Of Line VSCode To LF
-date: 2022-03-29T20:32:29+0000
-updated: 2022-03-29T20:32:29+0000
+author: Dimas Lanjaka
+categories:
+  - programming
+comments: true
 cover: https://miro.medium.com/max/1400/1*HSXWWE7wkg9phEJ7ImhT2Q.jpeg
+date: 2022-03-29T20:32:29+0000
+description: "Force Change ALl End Of Line VSCode To LF Git change all crlf to
+  lf for vscode git add -Agit commit -m Commit Message Before Changing End Of
+  Linegit push begin "
+lang: en
+photos:
+  - https://miro.medium.com/max/1400/1*HSXWWE7wkg9phEJ7ImhT2Q.jpeg
+tags: []
+thumbnail: https://miro.medium.com/max/1400/1*HSXWWE7wkg9phEJ7ImhT2Q.jpeg
+title: Force Change ALl End Of Line VSCode To LF
+type: post
+updated: 2023-09-03T06:13:09+07:00
+wordcount: 156
 ---
 
 ## Git change all crlf to lf for vscode

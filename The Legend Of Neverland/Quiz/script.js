@@ -1,3 +1,5 @@
+console.clear();
+
 /* eslint-disable no-undef */
 /* eslint-disable no-prototype-builtins */
 /* eslint-disable no-inner-declarations */
@@ -78,13 +80,12 @@ function escapeRegExp(string) {
 }
 
 let quizUrls = [
-  /*location.protocol +
+  location.protocol +
     '//' +
     location.host.trim() +
-    '/The Legend Of Neverland/Quiz/quiz.txt',*/
-  'https://dimaslanjaka-cors.herokuapp.com/http://backend.webmanajemen.com/tlon/quiz.txt',
-  //'https://www.webmanajemen.com/assets/tlon/Quiz/quiz.txt',
-  //'https://dimaslanjaka-cors.herokuapp.com/http://apotek.webmanajemen.com/tlon/quiz.txt'
+    '/The Legend Of Neverland/Quiz/quiz.txt',
+  //'https://crossorigin.me/http://backend.webmanajemen.com/tlon/quiz.php?show',
+  'https://backend.webmanajemen.com/tlon/quiz.php?show'
 ];
 let quizSrc = [];
 
@@ -128,12 +129,6 @@ function jQueryMethod() {
     });
   };
 
-  let processLi = function () {
-    jQuery('#search-questions').on('keyup', function () {
-      searchLi(jQuery(this).val());
-    });
-  };
-
   // transform array to li
   let transformArray2Li = function () {
     // clean orphan text
@@ -158,37 +153,70 @@ function jQueryMethod() {
   // step 1: get new question sources
   quizUrls.forEach(function (quizUrl) {
     let url_parse = new URL(quizUrl);
-    url_parse.search = '?uid=' + new Date();
-    //console.log(url_parse.toString());
+    // url_parse.search = '?uid=' + new Date();
+    // console.log('parse_query_url', parse_query_url(url_parse.toString()));
+    // console.log(url_parse.toString());
 
     //console.log(quizUrl);
-    $.get(url_parse.toString()).then(function (data) {
-      if (data) {
-        // split newLine from retrieved text into array
-        let split = data.split('\n');
-        // trim
-        quizSrc = quizSrc.map(function (str) {
-          return str.trim();
-        });
-        // merge and remove duplicates
-        quizSrc = uniqArr(
-          // merge
-          quizSrc
-            .concat(split)
-            // trim
-            .map(function (str) {
-              return str.trim();
-            })
-        );
-        // transform
-        transformArray2Li();
-      }
-      // attach event listener
-      processLi();
-    });
+    fetch(url_parse.toString())
+      .then(function (response) {
+        // The API call was successful!
+        return response.text();
+      })
+      .then(processResponse)
+      .catch(function () {
+        const log = 'cannot fetch ' + url_parse.toString();
+        const debugEl = document.getElementById('quiz-debug');
+        if (debugEl) {
+          debugEl.innerHTML += log + '<hr/>';
+        } else {
+          console.log(log);
+        }
+      });
   });
 
+  function processResponse(data) {
+    if (typeof data === 'string') {
+      // split newLine from retrieved text into array
+      let split = data.split('\n');
+      // trim
+      quizSrc = quizSrc.map(function (str) {
+        return str.trim();
+      });
+      // merge and remove duplicates
+      quizSrc = uniqArr(
+        // merge
+        quizSrc
+          .concat(split)
+          // trim
+          .map(function (str) {
+            return str.trim();
+          })
+      )
+        // remove empties
+        .filter((str) => str.trim().length > 0);
+      // transform
+      transformArray2Li();
+    }
+  }
+
+  /**
+   * start searching
+   */
+  function doSearch() {
+    if (
+      inputSearch &&
+      inputSearch.value &&
+      inputSearch.value.trim().length > 0
+    ) {
+      searchLi(inputSearch.value);
+    }
+  }
+
+  // attach event listener
+
   // filter only (O)
+  // listen input#O_only
   $('#O_only').on('change', function (e) {
     e.preventDefault();
     if (this.checked) {
@@ -197,13 +225,19 @@ function jQueryMethod() {
       transformArray2Li();
     }
 
-    if (
-      inputSearch &&
-      inputSearch.value &&
-      inputSearch.value.trim().length > 0
-    ) {
-      searchLi(inputSearch.value);
+    doSearch();
+  });
+
+  const jqInput = jQuery(inputSearch);
+  const inputListener = () => searchLi(jqInput.val());
+  let listenerTimer;
+  // on input typed and changed https://stackoverflow.com/a/7757327/6404439
+  jqInput.on('keyup change', () => {
+    if (listenerTimer) {
+      clearTimeout(listenerTimer);
+      listenerTimer = undefined;
     }
+    listenerTimer = setTimeout(inputListener, 700);
   });
 
   // form add quiz
@@ -224,7 +258,7 @@ function jQueryMethod() {
   */
 }
 
-if (typeof jQuery === 'undefined') {
+if (typeof window.jQuery === 'undefined') {
   loadJScript(
     'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js',
     jQueryMethod
@@ -236,25 +270,47 @@ if (typeof jQuery === 'undefined') {
 /**
  * How URL native work {@link https://dmitripavlutin.com/parse-url-javascript/}
  * @see {@link https://stackoverflow.com/questions/8486099/how-do-i-parse-a-url-query-parameters-in-javascript}
- * @param {string} url
- * @returns
+ * @see {@link http://jsfiddle.net/drzaus/8EE8k/}
+ * @param {string|URL} url
+ * @returns {Record<string, any>|undefined}
  */
+// eslint-disable-next-line no-unused-vars
 function parse_query_url(url) {
-  if (!url) throw 'Please provide url';
-  var query = url.substr(1); // skip first ?
-  var result = {};
-  query.split('&').forEach(function (part) {
-    var item = part.split('=');
-    result[item[0]] = decodeURIComponent(item[1]);
-  });
-  return result;
+  if (url instanceof URL) url = url.toString();
+  if (typeof url !== 'string') return; //throw new Error('Please provide url');
+  // http://jsfiddle.net/drzaus/8EE8k/
+  const deparam = (function (d, x, params, p, i, j) {
+    return function (qs) {
+      // start bucket; can't cheat by setting it in scope declaration or it overwrites
+      params = {};
+      // remove preceding non-querystring, correct spaces, and split
+      qs = qs
+        .substring(qs.indexOf('?') + 1)
+        .replace(x, ' ')
+        .split('&');
+      // march and parse
+      for (i = qs.length; i > 0; ) {
+        p = qs[--i];
+        // allow equals in value
+        j = p.indexOf('=');
+        // what if no val?
+        if (j === -1) params[d(p)] = undefined;
+        else params[d(p.substring(0, j))] = d(p.substring(j + 1));
+      }
+
+      return params;
+    }; //--  fn  deparam
+  })(decodeURIComponent, /\+/g);
+  return deparam(url);
 }
+
+/*
 
 function parse_url(url) {
   let parse = new URL(url);
   parse.search = parse_query_url(parse.search);
   return parse;
-}
+}*/
 
 if (typeof jQuery !== 'undefined') {
   $(document).on('click', '#clear-cache', function () {

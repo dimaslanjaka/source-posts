@@ -3,24 +3,22 @@ author:
   nick: Dimas Lanjaka Kumala Indra
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
-category: []
+categories:
+  - uncategorized
 comments: true
 cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets.materialup.com/uploads/82eae29e-33b7-4ff7-be10-df432402b2b6/preview
 date: 2020-01-12T02:59:00.001+07:00
+description: Fresh proxy oogle passedGoogle passed proxies,
 lang: en
-location: ""
-modified: 2020-01-12T02:59:41.204+07:00
-subtitle: Fresh proxy oogle passedGoogle passed proxies,
-tags:
-  - Proxy
-title: Google passed proxies, updated at 2020-01-11
-type: post
-uuid: e53bdb15-439c-4888-8a45-d541aaa352ca
-updated: 2020-01-12T02:59:41+07:00
-thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets.materialup.com/uploads/82eae29e-33b7-4ff7-be10-df432402b2b6/preview
 photos:
   - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets.materialup.com/uploads/82eae29e-33b7-4ff7-be10-df432402b2b6/preview
-description: Fresh proxy oogle passedGoogle passed proxies,
+tags:
+  - proxy
+thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://assets.materialup.com/uploads/82eae29e-33b7-4ff7-be10-df432402b2b6/preview
+title: Google passed proxies, updated at 2020-01-11
+type: post
+updated: 2023-08-08T14:45:14+07:00
+wordcount: 1057
 ---
 
 <div id="proxy_result_wrapper">
@@ -33,7 +31,7 @@ description: Fresh proxy oogle passedGoogle passed proxies,
                  <small id="descr">Google passed proxies, updated at 2020-01-11</small>
                </div>
                <div>
-                 <a class="btn btn-warning w3-hide" id="blogger" href="https://web-manajemen.blogspot.com" rel="follow" title="Free Google Proxy List">Create article <i class="fab fa-blogger"></i></a>
+                 <a class="btn btn-warning w3-hide" id="blogger" href="https://webmanajemen.com" rel="follow" title="Free Google Proxy List">Create article <i class="fab fa-blogger"></i></a>
                </div>
              </div>
            </header>

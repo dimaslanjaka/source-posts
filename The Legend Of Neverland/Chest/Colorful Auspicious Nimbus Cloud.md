@@ -1,19 +1,24 @@
 ---
 author: Maulinda Agustina
-category:
-  - Games
-  - The Legend Of Neverland
+categories:
+  - games
+  - the legend of neverland
 comments: true
-toc: true
-thumbnail: /The Legend Of Neverland/Chest/Colorful Auspicious Nimbus Cloud/cover.jpg
+cover: /The Legend Of Neverland/Chest/Colorful Auspicious Nimbus Cloud/cover.jpg
 date: 2021-08-21T00:00:00+07:00
+description: Chest Colorful Auspicious Nimbus Cloud location in the legend of neverland
 lang: en
 location: Indonesia
+photos:
+  - /The Legend Of Neverland/Chest/Colorful Auspicious Nimbus Cloud/cover.jpg
 tags:
-  - Chest Location
+  - chest location
+thumbnail: /The Legend Of Neverland/Chest/Colorful Auspicious Nimbus Cloud/cover.jpg
 title: Colorful Auspicious Nimbus Cloud
-updated: 2022-06-20T06:51:00+0700
-description: Chest Colorful Auspicious Nimbus Cloud location in the legend of neverland
+toc: true
+type: post
+updated: 2023-08-08T14:44:21+07:00
+wordcount: 246
 ---
 
 ## Requirement

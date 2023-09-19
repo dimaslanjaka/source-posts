@@ -3,24 +3,22 @@ author:
   nick: Dimas Lanjaka Kumala Indra
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
-category: []
+categories:
+  - uncategorized
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2019-12-30T04:08:00.001+07:00
+description: Fresh proxy oogle passedGoogle passed proxies,
 lang: en
-location: ""
-modified: 2019-12-30T04:08:12.354+07:00
-subtitle: Fresh proxy oogle passedGoogle passed proxies,
-tags:
-  - Proxy
-title: Google passed proxies, updated at 2019-12-29
-type: post
-uuid: 4e97f685-3821-4888-83bd-d8b40799a5f1
-updated: 2019-12-30T04:08:12+07:00
-thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-description: Fresh proxy oogle passedGoogle passed proxies,
+tags:
+  - proxy
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
+title: Google passed proxies, updated at 2019-12-29
+type: post
+updated: 2023-08-08T14:45:16+07:00
+wordcount: 4597
 ---
 
 <div id="proxy_result_wrapper">
@@ -33,7 +31,7 @@ description: Fresh proxy oogle passedGoogle passed proxies,
                  <small id="descr">Google passed proxies, updated at 2019-12-29</small>
                </div>
                <div>
-                 <a class="btn btn-warning w3-hide" id="blogger" href="https://web-manajemen.blogspot.com" rel="follow" title="Free Google Proxy List">Create article <i class="fab fa-blogger"></i></a>
+                 <a class="btn btn-warning w3-hide" id="blogger" href="https://webmanajemen.com" rel="follow" title="Free Google Proxy List">Create article <i class="fab fa-blogger"></i></a>
                </div>
              </div>
            </header>

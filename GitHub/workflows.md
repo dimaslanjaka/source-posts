@@ -2,29 +2,32 @@
 author:
   nick: Dimas Lanjaka
   link: https://github.com/dimaslanjaka
-category:
-  - Programming
+categories:
+  - programming
 comments: true
 cover: /GitHub/workflows/cover.png
 date: 2021-11-18T22:00:00+07:00
+description: Semua yang kamu harus tau tentang GitHub Workflows
 keywords:
   - GitHub
   - workflows
   - yml
 lang: id
 location: Indonesia
-subtitle: Semua yang kamu harus tau tentang GitHub Workflows
-tags:
-  - GitHub
-title: GitHub Workflows
-type: post
-uuid: 741baa72-98c8-4888-8c0f-96eee0b56067
-webtitle: WMI GitHub
-updated: 2021-11-19T00:29:25+07:00
-thumbnail: /GitHub/workflows/cover.png
 photos:
   - /GitHub/workflows/cover.png
-description: Semua yang kamu harus tau tentang GitHub Workflows
+tags:
+  - github-workflows
+  - snippet
+  - yaml
+  - github-actions
+  - github
+thumbnail: /GitHub/workflows/cover.png
+title: GitHub Workflows
+type: post
+updated: 2023-09-03T04:28:01+07:00
+webtitle: WMI GitHub
+wordcount: 1314
 ---
 
 GitHub menyediakan templat alur kerja (<i>preconfigured workflow templates</i>) yang telah dikonfigurasi sebelumnya yang dapat Anda sesuaikan untuk membuat alur kerja integrasi berkelanjutan (<i>CI</i>) Anda sendiri. GitHub menganalisis kode Anda dan menunjukkan template <i>CI</i> yang mungkin berguna untuk repositori Anda. Misalnya, jika repositori Anda berisi Node/Program. [[source](https://docs.github.com/en/actions/quickstart)]

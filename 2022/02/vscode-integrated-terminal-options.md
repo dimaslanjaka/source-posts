@@ -1,14 +1,27 @@
 ---
-title: Custom PATH VSCode Integrated Terminal Options
-webtitle: VSCode
-date: 2022-02-20T07:00:00+07:00
-updated: 2022-04-04T18:26:00+0700
-cover: https://fabianlee.org/wp-content/uploads/2021/12/vscode-logo.png
-tags:
-  - VSCode
 Category:
   - Programming
   - IDE
+author: Dimas Lanjaka
+categories:
+  - programming
+comments: true
+cover: https://fabianlee.org/wp-content/uploads/2021/12/vscode-logo.png
+date: 2022-02-20T07:00:00+07:00
+description: Custom PATH VSCode Integrated Terminal Options Determining custom
+  path on vscode IDE made easily development programs within multiple platforms.
+  VSCode Environm
+lang: en
+photos:
+  - https://fabianlee.org/wp-content/uploads/2021/12/vscode-logo.png
+tags:
+  - vscode
+thumbnail: https://fabianlee.org/wp-content/uploads/2021/12/vscode-logo.png
+title: Custom PATH VSCode Integrated Terminal Options
+type: post
+updated: 2023-09-03T06:13:09+07:00
+webtitle: VSCode
+wordcount: 287
 ---
 
 Determining custom path on vscode IDE made easily development programs within multiple platforms.
@@ -55,4 +68,4 @@ echo $PATH
 
 ### Also See
 - [vscode alert: CommonJS may be converted to an es module](/2022/03/26/file-is-a-commonjs-module-it-may-be-converted-to-an-es-module.html)
-- [vscode crossplatform settings](/p/search.html?q=vscode+crossplatform+setting)
+- [vscode crossplatform settings](/search/?q=vscode+crossplatform+setting)

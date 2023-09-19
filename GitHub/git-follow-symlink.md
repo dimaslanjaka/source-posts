@@ -1,16 +1,27 @@
 ---
-title: Force github follow symlinked folders
-description: follow symlink of local cloned repository folder
+author: Dimas Lanjaka
+categories:
+  - programming
+comments: true
+cover: https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab90ae870152b_github
+  4.png
 date: 2022-05-31
-updated: 2022-10-10T22:56:00+0700
-thumbnail: https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab90ae870152b_github%204.png
-category:
-  - Programming
-tags:
-  - GitHub
+description: follow symlink of local cloned repository folder
 keywords:
   - github
   - symlink
+lang: en
+photos:
+  - https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab90ae870152b_github
+    4.png
+tags:
+  - github
+thumbnail: https://global-uploads.webflow.com/6100d0111a4ed76bc1b9fd54/62a1ac70484ab90ae870152b_github
+  4.png
+title: Force github follow symlinked folders
+type: post
+updated: 2023-08-08T14:44:18+07:00
+wordcount: 718
 ---
 
 To prevent re-clone repository from remote, using symlink folder strategy is more efficient.

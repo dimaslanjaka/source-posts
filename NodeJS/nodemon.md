@@ -1,8 +1,16 @@
 ---
-title: nodemon
-description: all about nodemon
+author: Dimas Lanjaka
+categories:
+  - uncategorized
+comments: true
 date: 2022-04-24
-updated: 2022-04-24
+description: all about nodemon
+lang: en
+tags: []
+title: nodemon
+type: post
+updated: 2023-08-08T14:44:15+07:00
+wordcount: 122
 ---
 
 ## Basic nodemon.json configuration
@@ -17,3 +25,7 @@ updated: 2022-04-24
   "verbose": true
 }
 ```
+
+<script>
+  location.href = '/NodeJS/node-options.html#nodemon'
+</script>

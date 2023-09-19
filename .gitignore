@@ -1,4 +1,12 @@
-Test
+# auto generated files
+node_modules
+vendor
+tmp
+chimeraland/.vscode
+chimeraland/*
+!chimeraland/.gitignore
+!chimeraland/recipes.html
+/Test
 .guid
 /dimaslanjaka
 yarn.lock
@@ -12,14 +20,15 @@ package-lock.json
 *-backup
 *-private
 
-# auto
-node_modules
-vendor
-tmp
-
 # master project
 /nodejs-esm-starter
 /posts
 
 # front matter project
 /db.json
+
+package-lock.json
+yarn.lock
+.yarn/cache
+.yarn/*.gz
+

@@ -2,24 +2,25 @@
 author:
   nick: Maulinda Agustina
   link: https://github.com/dimaslanjaka
-category:
-  - Games
-  - The Legend Of Neverland
+categories:
+  - games
+  - the legend of neverland
 comments: true
 cover: https://i.ytimg.com/vi/2X152P2goVs/maxresdefault.jpg
 date: 2021-08-17T00:00:00+07:00
+description: Expel Incident With The Standard Rewards.
 lang: en
 location: Indonesia
-subtitle: Expel Incident With The Standard Rewards.
-tags:
-  - Quest
-title: Standard Rewards Expel Incident The Legend Of Neverland
-updated: 2021-12-20T02:11:10+07:00
-thumbnail: https://i.ytimg.com/vi/2X152P2goVs/maxresdefault.jpg
 photos:
   - https://i.ytimg.com/vi/2X152P2goVs/maxresdefault.jpg
-description: Expel Incident With The Standard Rewards.
+tags:
+  - quest
+thumbnail: https://i.ytimg.com/vi/2X152P2goVs/maxresdefault.jpg
+title: Standard Rewards Expel Incident The Legend Of Neverland
 toc: true
+type: post
+updated: 2023-08-08T14:44:20+07:00
+wordcount: 259
 ---
 
 <!-- toc -->

@@ -2,20 +2,20 @@
   "TimeCreated": "20210901T205831",
   "Name": "Auto Acc",
   "Events": [
-    {
-      "Timestamp": 950,
-      "X": 58.73,
-      "Y": 57.67,
-      "Delta": 0,
-      "EventType": "MouseDown"
-    },
-    {
-      "Timestamp": 1045,
-      "X": 58.73,
-      "Y": 57.67,
-      "Delta": 0,
-      "EventType": "MouseUp"
-    }
+	{
+	  "Timestamp": 950,
+	  "X": 58.73,
+	  "Y": 57.67,
+	  "Delta": 0,
+	  "EventType": "MouseDown"
+	},
+	{
+	  "Timestamp": 1045,
+	  "X": 58.73,
+	  "Y": 57.67,
+	  "Delta": 0,
+	  "EventType": "MouseUp"
+	}
   ],
   "LoopType": "UntilStopped",
   "LoopNumber": 1,

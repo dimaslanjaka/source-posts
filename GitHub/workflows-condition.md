@@ -2,34 +2,39 @@
 author:
   nick: Dimas Lanjaka
   link: https://github.com/dimaslanjaka
-category:
-  - Programming
+categories:
+  - programming
 comments: true
 cover: /GitHub/workflows/cover.png
 date: 2021-11-23T02:00:00+07:00
+description: Macam-macam kondisional pada github workflows
 keywords:
   - GitHub
   - workflows
-  - yml
+  - yaml
 lang: id
 location: Indonesia
-subtitle: Macam-macam kondisional pada GitHub Workflows
-tags:
-  - GitHub
-title: GitHub Workflow Conditions
-type: post
-uuid: f4c6a18d-2377-4888-8330-9223d5f34263
-webtitle: WMI GitHub
-updated: 2021-11-30T20:10:25+07:00
-thumbnail: /GitHub/workflows/cover.png
 photos:
   - /GitHub/workflows/cover.png
-description: Macam-macam kondisional pada GitHub Workflows
+tags:
+  - github-workflows
+  - snippet
+  - yaml
+  - github-actions
+  - github
+  - bash
+thumbnail: /GitHub/workflows/cover.png
+title: Macam-macam kondisional pada github workflows
+type: post
+updated: 2023-09-03T04:28:01+07:00
+webtitle: WMI GitHub
+wordcount: 1496
 ---
 
-# Kondisional pada GitHub Workflow
+## Kondisional pada GitHub Workflow
 Kondisional-kondisional yang ada di Github Workflow. Kondisional ini berguna untuk memicu job step dengan kasus-kasus tertentu. [source](https://docs.github.com/en/actions/learn-github-actions/expressions) Misalnya:
-## Menjalankan command apabila repository di push dengan commit yang memiliki substring tertentu (match substring from github commit messages)
+
+### Menjalankan command apabila repository di push dengan commit yang memiliki substring tertentu (match substring from github commit messages)
 ```yaml
 jobs:
   build:
@@ -43,7 +48,8 @@ jobs:
 selain `contains` untuk mencari sebuah substring pada string. Adapun fungsi'' lain seperti:
 - `startsWith` untuk memeriksa apakah string memiliki **awalan** tertentu (penggunaannya sama seperti contoh kode diatas)
 - `endsWith` untuk memeriksa apakah string memiliki **akhiran** tertentu (penggunaannya sama seperti contoh kode diatas)
-## Melanjutkan steps meskipun command gagal (continue on error)
+
+### Melanjutkan steps meskipun command gagal (continue on error)
 ```yaml
 jobs:
   build:
@@ -56,4 +62,86 @@ jobs:
       - run: echo "git commit any"
 ```
 
+### Mengitung jumlah file yang termodifikasi
+Menghitung berapa jumlah file yang termodifikasi (uncommited files) pada github. Lalu bagaimana cara mengintegrasikannya kedalam github CI? berikut ulasannya:
+
+perintah dasar menggunakan `git diff` sebagai berikut:
+
+```bash
+git diff --cached --numstat | wc -l
+```
+
+#### Github CI - Mengitung jumlah file yang termodifikasi langsung di dalam `run`
+Contoh konfigurasi github CI langsung di dalam `run`
+
+```yaml
+jobs:
+  build:
+    name: Mengitung jumlah file yang termodifikasi ke dalam output steps
+    runs-on: ubuntu-latest
+    steps:
+      - shell: bash
+        run: |
+          cached=$(git diff --cached --numstat | wc -l)
+          echo "jumlah file yang termodifikasi adalah ${cached}"
+```
+
+#### Github CI - Mengitung jumlah file yang termodifikasi ke dalam output steps
+Contoh konfigurasi github CI ke dalam output steps
+
+```yaml
+jobs:
+  build:
+    name: Mengitung jumlah file yang termodifikasi ke dalam output steps
+    runs-on: ubuntu-latest
+    steps:
+      - shell: bash
+        run: |
+          echo "cached=$(git diff --cached --numstat | wc -l)" >> $GITHUB_OUTPUT
+        name: what changes
+        id: changes
+      - shell: bash
+        run: |
+          echo "jumlah file yang termodifikasi adalah ${{ steps.changes.outputs.cached }}"
+```
+
+### Menghitung jumlah commits yang belum dipush
+Untuk mengihitung jumlah commit yang belum dipush, dapat menggunakan perintah dasar `git diff` juga. Contohnya sebagai berikut:
+
+```bash
+git diff origin/master..HEAD --numstat | wc -l
+```
+
+Untuk penggunaan dalam Github Actions (CI) contohnya sebagai berikut:
+
+```bash
+git diff origin/${GITHUB_REF#refs/heads/}..HEAD --numstat | wc -l
+```
+
+`GITHUB_REF#refs/heads/` berguna untuk mendapatkan branch yang saat ini dijalankan.
+
+### Snippet lainnya sebagai berikut
+
+#### Get current SHA short hash
+bash
+```bash
+echo $GITHUB_SHA | cut -c 1-6
+```
+Github CI Yaml output env
+```yaml
+echo "GITHUB_SHA_SHORT=$(echo $GITHUB_SHA | cut -c 1-6)" >> $GITHUB_ENV
+```
+Github CI Yaml output steps
+```yaml
+echo "GITHUB_SHA_SHORT=$(echo $GITHUB_SHA | cut -c 1-6)" >> $GITHUB_OUTPUT
+```
+
+## Tentang artikel ini
+
 Artikel ini untuk mempermudah visitor untuk memahami github workflow.
+
+### Contoh FULL Github CI
+
+https://github.com/dimaslanjaka/static-blog-generator/blob/e8ef351552d57c5e28e016e39e78fef139a8e7b2/.github/workflows/build-beta.yml
+
+{% github https://github.com/dimaslanjaka/static-blog-generator/blob/e8ef351552d57c5e28e016e39e78fef139a8e7b2/.github/workflows/build-beta.yml %}
