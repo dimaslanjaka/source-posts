@@ -1839,6 +1839,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/bluebird@npm:^3.5.39":
+  version: 3.5.39
+  resolution: "@types/bluebird@npm:3.5.39"
+  checksum: a6218268987571e1ea782ecff8ac89ce06dcff4819e1beb64692d005e59967a35b4be78a3e72ae7524f1d4e0e58c2d4b7701c1cc9fc7b115742c44575bde3395
+  languageName: node
+  linkType: hard
+
 "@types/body-parser@npm:*":
   version: 1.19.2
   resolution: "@types/body-parser@npm:1.19.2"
@@ -2091,12 +2098,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jquery@npm:*, @types/jquery@npm:^3.5.16":
+"@types/jquery@npm:*":
   version: 3.5.17
   resolution: "@types/jquery@npm:3.5.17"
   dependencies:
     "@types/sizzle": "*"
   checksum: be289003382a8d4a1c6eab9c68845e919e467926557493033e78f6793ed8acd482b01b7b47955e4bf51f65f9b05607beccb32d31d649a2b42f3b07f1444d1f1a
+  languageName: node
+  linkType: hard
+
+"@types/jquery@npm:^3.5.19":
+  version: 3.5.19
+  resolution: "@types/jquery@npm:3.5.19"
+  dependencies:
+    "@types/sizzle": "*"
+  checksum: 0298e53a353089e2abae4be2f660b5f2bfb4797464623701c5c2f2c911317b554f1887c2c3d587d0f724d70a3fb5e31907bf7fa5d96df33af07e2842660ef52a
   languageName: node
   linkType: hard
 
@@ -2388,12 +2404,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/toastr@npm:^2.1.40":
-  version: 2.1.40
-  resolution: "@types/toastr@npm:2.1.40"
+"@types/toastr@npm:^2.1.41":
+  version: 2.1.41
+  resolution: "@types/toastr@npm:2.1.41"
   dependencies:
     "@types/jquery": "*"
-  checksum: 2698dcbf1a6e3a437e51d0921b7a37f7be1ad6cfc5079ebc0d566b6c3314a0258d941f9ee17e1b286e5e68edf3e85439a66d741e82f0b293f9b20b3c3680cbd6
+  checksum: a9deffc2368675c0fbc4a85a9d93c71e65ed2825db634f4f9f09f5a4294723d115ac3b8bb1310eb7ef3f07f8511917341329fe5ab8a8139dee3ef5af5b5baf39
   languageName: node
   linkType: hard
 
@@ -3822,10 +3838,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bootstrap-icons@npm:^1.10.5":
-  version: 1.10.5
-  resolution: "bootstrap-icons@npm:1.10.5"
-  checksum: 8a0cfbd237723793dfb04106fdeed7f86bb59249a01a1623b325bf84d61306c22bb46d3df0795f80f0e77d43cd7485273571c253ee7910eb67fae9489691daad
+"bootstrap-icons@npm:^1.11.1":
+  version: 1.11.1
+  resolution: "bootstrap-icons@npm:1.11.1"
+  checksum: d78ff24a832fc47db0c7ba5d92d150caee6d8e9ccef24c6de5c2d9728b9610884c8ade3ecadcf09fffae207786acdf40bb026ea5b79a774a1ada62026d9fe16b
   languageName: node
   linkType: hard
 
@@ -3838,12 +3854,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bootstrap@npm:^5.3.0":
-  version: 5.3.1
-  resolution: "bootstrap@npm:5.3.1"
+"bootstrap@npm:^5.3.2":
+  version: 5.3.2
+  resolution: "bootstrap@npm:5.3.2"
   peerDependencies:
     "@popperjs/core": ^2.11.8
-  checksum: f8176376aa6c6d8947d58a67f0c57fa0b6b7dcd087ff83454e0d727c07cf33e8107e56aa298045d652f84b53b24ac72457af73e41c5631c9ebdc1909039c5dac
+  checksum: d5580b253d121ffc137388d41da58dce8d15f1ccd574e12f28d4a08e7649ca15e95db645b2b677cb8025bccd446bff04138fc0fe64f8cba0ccc5dc004a8644cf
   languageName: node
   linkType: hard
 
@@ -6132,17 +6148,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^8.8.0":
-  version: 8.10.0
-  resolution: "eslint-config-prettier@npm:8.10.0"
-  peerDependencies:
-    eslint: ">=7.0.0"
-  bin:
-    eslint-config-prettier: bin/cli.js
-  checksum: 153266badd477e49b0759816246b2132f1dbdb6c7f313ca60a9af5822fd1071c2bc5684a3720d78b725452bbac04bb130878b2513aea5e72b1b792de5a69fec8
-  languageName: node
-  linkType: hard
-
 "eslint-config-prettier@npm:^9.0.0":
   version: 9.0.0
   resolution: "eslint-config-prettier@npm:9.0.0"
@@ -6151,21 +6156,6 @@ __metadata:
   bin:
     eslint-config-prettier: bin/cli.js
   checksum: 362e991b6cb343f79362bada2d97c202e5303e6865888918a7445c555fb75e4c078b01278e90be98aa98ae22f8597d8e93d48314bec6824f540f7efcab3ce451
-  languageName: node
-  linkType: hard
-
-"eslint-plugin-prettier@npm:^4.2.1":
-  version: 4.2.1
-  resolution: "eslint-plugin-prettier@npm:4.2.1"
-  dependencies:
-    prettier-linter-helpers: ^1.0.0
-  peerDependencies:
-    eslint: ">=7.28.0"
-    prettier: ">=2.0.0"
-  peerDependenciesMeta:
-    eslint-config-prettier:
-      optional: true
-  checksum: b9e839d2334ad8ec7a5589c5cb0f219bded260839a857d7a486997f9870e95106aa59b8756ff3f37202085ebab658de382b0267cae44c3a7f0eb0bcc03a4f6d6
   languageName: node
   linkType: hard
 
@@ -6291,7 +6281,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^8.44.0, eslint@npm:^8.48.0":
+"eslint@npm:^8.48.0":
   version: 8.48.0
   resolution: "eslint@npm:8.48.0"
   dependencies:
@@ -10416,7 +10406,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jquery@npm:^3.7.0":
+"jquery@npm:^3.7.1":
   version: 3.7.1
   resolution: "jquery@npm:3.7.1"
   checksum: 4370b8139d6ae82867eb6f7f21d1edccf1d1bdf41c0840920ea80d366c2cd5dbe1ceebb110ee9772aa839b04400faa1572c5c560b507c688ed7b61cea26c0e27
@@ -13193,7 +13183,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^2.2.1, prettier@npm:^2.8.8":
+"prettier@npm:^2.2.1":
   version: 2.8.8
   resolution: "prettier@npm:2.8.8"
   bin:
@@ -15720,7 +15710,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"terser@npm:^5.15.1, terser@npm:^5.17.4, terser@npm:^5.18.2":
+"terser@npm:^5.15.1, terser@npm:^5.17.4":
   version: 5.19.3
   resolution: "terser@npm:5.19.3"
   dependencies:
@@ -15731,6 +15721,20 @@ __metadata:
   bin:
     terser: bin/terser
   checksum: dde1b387891ad953760cec56b168d1f2b1eae5f47410bec57f3587daa9719ee0cf3155961adf77cdff9ea88e086dd49c78a721eafdcbdd0dd590c47c8e660a37
+  languageName: node
+  linkType: hard
+
+"terser@npm:^5.19.4":
+  version: 5.19.4
+  resolution: "terser@npm:5.19.4"
+  dependencies:
+    "@jridgewell/source-map": ^0.3.3
+    acorn: ^8.8.2
+    commander: ^2.20.0
+    source-map-support: ~0.5.20
+  bin:
+    terser: bin/terser
+  checksum: 09273ce7d3fbe8fea0ec2603ad1c06cc304838bdac42bbfe77835b0b0b6c4a894054575ca518fe16c95d5c401574a8c703f4fde97da45f1c972ea568e6ecafda
   languageName: node
   linkType: hard
 
@@ -16973,30 +16977,30 @@ __metadata:
   resolution: "wmi-source-post@workspace:posts"
   dependencies:
     "@popperjs/core": ^2.11.8
-    "@types/bluebird": ^3.5.38
-    "@types/jquery": ^3.5.16
-    "@types/toastr": ^2.1.40
+    "@types/bluebird": ^3.5.39
+    "@types/jquery": ^3.5.19
+    "@types/toastr": ^2.1.41
     aes-js: ^3.1.2
-    axios: ^1.4.0
+    axios: ^1.5.0
     bluebird: ^3.7.2
-    bootstrap: ^5.3.0
-    bootstrap-icons: ^1.10.5
+    bootstrap: ^5.3.2
+    bootstrap-icons: ^1.11.1
     clean-css: ^5.3.2
     clipboard: ^2.0.11
     crypto-js: ^4.1.1
-    eslint: ^8.44.0
-    eslint-config-prettier: ^8.8.0
-    eslint-plugin-prettier: ^4.2.1
+    eslint: ^8.49.0
+    eslint-config-prettier: ^9.0.0
+    eslint-plugin-prettier: ^5.0.0
     highlight.js: ^11.8.0
     html-minifier-terser: ^7.2.0
-    jquery: ^3.7.0
+    jquery: ^3.7.1
     js-cookie: ^3.0.5
     moment: ^2.29.4
     moment-timezone: ^0.5.43
     npm-run-all: ^4.1.5
-    prettier: ^2.8.8
+    prettier: ^3.0.3
     requirejs: ^2.3.6
-    terser: ^5.18.2
+    terser: ^5.19.4
     toastr: ^2.1.4
   languageName: unknown
   linkType: soft
