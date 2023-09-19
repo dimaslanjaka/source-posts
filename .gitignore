@@ -14,6 +14,8 @@ package-lock.json
 **/.yarn/*.gz
 **/.yarn/cache*
 /.env
+package-lock.json
+yarn.lock
 
 # olds and backups
 *-old
@@ -30,8 +32,4 @@ package-lock.json
 /packages
 /themes
 
-package-lock.json
-yarn.lock
-.yarn/cache
-.yarn/*.gz
 
