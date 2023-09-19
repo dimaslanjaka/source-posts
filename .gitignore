@@ -26,6 +26,9 @@ package-lock.json
 
 # front matter project
 /db.json
+/source/_posts
+/packages
+/themes
 
 package-lock.json
 yarn.lock
