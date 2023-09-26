@@ -143,3 +143,14 @@ class AppClass extends React.Component {
   }
 }
 ```
+
+## react suite toaster live playground
+
+[![Edit billowing-rain-dn9r2y](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/billowing-rain-dn9r2y?fontsize=14&hidenavigation=1&theme=dark)
+
+<iframe src="https://codesandbox.io/embed/billowing-rain-dn9r2y?fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="billowing-rain-dn9r2y"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
