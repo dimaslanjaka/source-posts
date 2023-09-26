@@ -5,6 +5,10 @@ tags: [react, javascript, typescript]
 categories: [programming]
 ---
 
+## React Hook "useToaster" cannot be called in a class component
+> You cannot using `useToaster` in class component, use [`rsuite.toaster`](#using-in-class-component) instead.
+>
+
 ## Using in function component
 ```tsx
 import {
@@ -69,10 +73,6 @@ const App = () => {
 
 ReactDOM.render(<App />, document.getElementById('root'));
 ```
-
-## React Hook "useToaster" cannot be called in a class component
-> You cannot using `useToaster` in class component, use `rsuite.toaster` instead.
->
 
 ## Using in class component
 
