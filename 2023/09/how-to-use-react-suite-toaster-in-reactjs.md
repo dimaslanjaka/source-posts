@@ -1,5 +1,5 @@
 ---
-title: How to use react suite toaster
+title: How to use react suite toaster in reactjs
 date: 2023-09-26T15:00:44+07:00
 tags: [react, javascript, typescript]
 categories: [programming]
