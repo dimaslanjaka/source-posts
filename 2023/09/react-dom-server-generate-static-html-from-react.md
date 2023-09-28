@@ -36,3 +36,7 @@ function HelloWorldPage() {
   );
 }
 ```
+
+## Conclusion
+
+generated static html result at `output.html`
