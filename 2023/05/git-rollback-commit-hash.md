@@ -15,8 +15,7 @@ tags:
   - bash
 title: rollback commit github
 type: post
-updated: 2023-09-03T04:28:04+07:00
-wordcount: 543
+updated: 2023-09-30T01:43:40+07:00
 ---
 
 Rogue Coder?
@@ -56,5 +55,23 @@ git reset --hard
 git push -f
 
 ```
+
+### [Rollback to previous commit without deleting commit history](https://stackoverflow.com/a/21718540/6404439)
+
+```bash
+git revert --no-commit 0d1d7fc3..HEAD
+git commit
+```
+
+This will revert everything from the HEAD back to the commit hash (excluded), meaning it will recreate that commit state in the working tree *as if* every commit after `0d1d7fc3` had been walked back. You can then commit the current tree, and it will create a brand new commit essentially equivalent to the commit you "reverted" to.
+
+(The `--no-commit` flag lets git revert all the commits at once- otherwise you'll be prompted for a message for each commit in the range, littering your history with unnecessary new commits.)
+
+This is a **safe and easy way to rollback to a previous state**. No history is destroyed, so it can be used for commits that have already been made public.
+
+* * * * *
+
+**Note on merge commits:**\
+If one of the commits between 0766c053..HEAD (inclusive) is a merge then there will be an error popping up (to do with no -m specified). The following link may help those encountering that: [Why does git revert complain about a missing -m option?](https://stackoverflow.com/questions/5970889/why-does-git-revert-complain-about-a-missing-m-option) (thanks @timhc22 for pointing out)
 
 Credits go to a similar Stack Overflow question, *[Revert to a commit by a SHA hash in Git?](https://stackoverflow.com/questions/1895059/git-revert-to-a-commit-by-sha-hash)*.
