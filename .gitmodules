@@ -1,5 +1,5 @@
-[submodule "posts"]
-	path = posts
+[submodule "source/_posts"]
+	path = source/_posts
 	url = https://github.com/dimaslanjaka/source-posts.git
 	branch = posts
 [submodule "packages/hexo-post-parser"]

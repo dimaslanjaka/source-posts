@@ -28,3 +28,7 @@ tmp
 # frontmatter branch
 /db.json
 /.frontmatter*
+
+# non-submodules
+/source/_posts
+/packages/hexo
