@@ -68,7 +68,7 @@
   "frontMatter.content.publicFolder": "hexo:post_asset_folder",
   "frontMatter.content.pageFolders": [
     {
-      "path": "[[workspace]]/source/_posts",
+      "path": "[[workspace]]/posts",
       "title": "Source Posts"
     }
   ],
