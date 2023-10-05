@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "puppeteer": "^1.17.0"
+    "puppeteer": "^21.3.6"
   },
   "engines": {
     "node": ">=8.0"
