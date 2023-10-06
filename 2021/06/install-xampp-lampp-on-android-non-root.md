@@ -111,7 +111,7 @@ wordcount: 1969
       alt="How to fix apache is running a threaded mpm but your php module is not compiled to be 		threadsafe"
       >See here</a
     >
-    <br />
+    <br>
     Fix error retrieving pid file apache. <a href="/2021/06/fix-error-retrieving-pid-file-on-termux.html">See here</a>
   </p>
   <div class="mt-3">

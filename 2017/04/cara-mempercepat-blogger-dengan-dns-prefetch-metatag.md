@@ -43,7 +43,7 @@ loading external source. Dengan kata lain <i>defer loading external sources</i>.
 
 Kali ini saya akan share bagaimana cara mempercepat lagi loading
 <i>AMP Blogger</i> yang biasanya mengandung banyak
-<i>&lt;amp-iframe&gt;</i>.<br /><br />Ga pake lama, cekidot tutorialnya:<br /><br />
+<i>&lt;amp-iframe&gt;</i>.<br><br>Ga pake lama, cekidot tutorialnya:<br><br>
 
 1. Buka dashboard <i class="fa fa-blogger"></i> <b>Blogger</b>.
 2. Klik tab <i>Layout</i> --&gt; klik <b>Edit HTML</b>.

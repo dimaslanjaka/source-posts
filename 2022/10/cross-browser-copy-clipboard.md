@@ -77,7 +77,7 @@ copyTextToClipboard('Text to copy');
 
 ```html
 <div style="display: inline-block; vertical-align: top">
-  <button class="js-copy-1-btn">Set clipboard</button><br /><br />
+  <button class="js-copy-1-btn">Set clipboard</button><br><br>
   <button class="js-copy-2-btn">Set clipboard</button>
 </div>
 <div style="display: inline-block">
@@ -140,7 +140,7 @@ Paste here (CTRL+V or HOLD, touch and paste) to see what's on your clipboard.
 ### Live DEMO copy to clipboard
 
 <div style="display: inline-block; vertical-align: top">
-  <button class="js-copy-1-btn">Set clipboard 1</button><br /><br />
+  <button class="js-copy-1-btn">Set clipboard 1</button><br><br>
   <button class="js-copy-2-btn">Set clipboard 2</button>
 </div>
 <div style="display: inline-block">

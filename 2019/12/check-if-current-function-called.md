@@ -8,8 +8,8 @@ categories:
 comments: true
 cover: https://i.ytimg.com/vi/ZFhadzpISPY/maxresdefault.jpg
 date: 2019-12-04T05:51:00.001+07:00
-description: pre><br />static = issetthis amp;amp; get_classthis ==
-  __CLASS__;<br />if static <br /> return self;<br /> else <br />
+description: pre><br>static = issetthis amp;amp; get_classthis ==
+  __CLASS__;<br>if static <br> return self;<br> else <br>
 lang: en
 photos:
   - https://i.ytimg.com/vi/ZFhadzpISPY/maxresdefault.jpg

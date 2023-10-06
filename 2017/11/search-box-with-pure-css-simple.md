@@ -8,8 +8,8 @@ categories:
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-11-12T23:29:00.000+07:00
-description: h2>Simple Widget Blogger search box with pure CSS.</h2><br />Here
-  the HTML:<br /><br /><pre>lt;form id=searchthis action=/search
+description: h2>Simple Widget Blogger search box with pure CSS.</h2><br>Here
+  the HTML:<br><br><pre>lt;form id=searchthis action=/search
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

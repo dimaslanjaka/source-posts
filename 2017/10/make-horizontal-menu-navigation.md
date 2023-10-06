@@ -9,7 +9,7 @@ comments: true
 cover: https://imgdb.net/images/3198.jpg
 date: 2017-10-01T02:31:00.000+07:00
 description: hr align=CENTER color=336600 size=2 width=90 /><img height=97
-  src=https://imgdb.net/images/3198.jpg width=100 /><br /><hr
+  src=https://imgdb.net/images/3198.jpg width=100 /><br><hr
 lang: en
 photos:
   - https://imgdb.net/images/3198.jpg

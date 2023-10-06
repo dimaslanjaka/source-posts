@@ -8,7 +8,7 @@ categories:
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-09-18T09:40:00.000+07:00
-description: b>Responsive Menu Hover Effect</b>:<br /><ol><li>Call jquery
+description: b>Responsive Menu Hover Effect</b>:<br><ol><li>Call jquery
   library -gt; <pre>lt;script
 lang: en
 photos:

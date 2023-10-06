@@ -8,8 +8,8 @@ categories:
 comments: true
 cover: https://imgdb.net/images/3200.jpg
 date: 2017-10-06T01:07:00.000+07:00
-description: br /><br /><figure><img class=center w3-center
-  src=https://imgdb.net/images/3200.jpg /><br /> <figcaption> XAMPP is a
+description: br /><br><figure><img class=center w3-center
+  src=https://imgdb.net/images/3200.jpg /><br> <figcaption> XAMPP is a
 lang: en
 photos:
   - https://imgdb.net/images/3200.jpg

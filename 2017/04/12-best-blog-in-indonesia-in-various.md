@@ -25,7 +25,7 @@ wordcount: 4457
 
 <div dir="ltr">
 <h2>12 Best Blog in Indonesia in Various Topics</h2>
-<br /><br />
+<br><br>
 <div>
 <div>A few days ago I idly googling the keywords"Best Blog in Indonesia"</div>
 <div>After I check one by one from the first page to page ten in Google, the average contents are the same.&nbsp;A list of the best blogs in Indonesia if it is not on the blog, most of the SEO and online businesses.</div>
