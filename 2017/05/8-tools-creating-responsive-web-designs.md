@@ -6,20 +6,188 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/froont-responsive-web-design.jpg
 date: 2017-05-15T20:59:00.000+07:00
 description: Web Responsive Creating Tool For Web Developers-Web design is an
   important part of a website development project.The client at this time
 lang: en
-photos:
-  - http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/froont-responsive-web-design.jpg
 tags:
   - tools
 thumbnail: http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/froont-responsive-web-design.jpg
 title: 8 Tools Creating Responsive Web Designs For Developers
 type: post
-updated: 2023-08-08T14:45:58+07:00
-wordcount: 1444
+updated: 2023-10-08T11:15:15+07:00
 ---
 
-<div style="background-color: white; color: #333333; font-family: Gudea, helvetica, arial, verdana, 'Times New roman', sans-serif; font-size: 15px; line-height: 22.5px; margin-bottom: 10px; padding: 0px; word-wrap: break-word;"><span class="notranslate" style="margin: 0px; padding: 0px;"><strong style="margin: 0px; padding: 0px;">Web Responsive Creating Tool For Web Developers</strong>&nbsp;<strong style="margin: 0px; padding: 0px;">-</strong>&nbsp;Web design is an important part of a website development project.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">The client at this time demands a responsive website to be created.</span><br><span id="more-8162" style="margin: 0px; padding: 0px;"></span><br style="margin: 0px; padding: 0px;"><span class="notranslate" style="margin: 0px; padding: 0px;">By using HTML5 and CSS3, it certainly becomes quite easy for developers.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">Developers can focus more on web design, user experience than back-end code.</span></div><div style="background-color: white; color: #333333; font-family: Gudea, helvetica, arial, verdana, 'Times New roman', sans-serif; font-size: 15px; line-height: 22.5px; margin-bottom: 10px; padding: 0px; word-wrap: break-word;"><span class="notranslate" style="margin: 0px; padding: 0px;">There are many frameworks available online that can be utilized for web designing.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">There are flexible grids, drawings and layouts that developers can use.</span></div><div style="background-color: white; color: #333333; font-family: Gudea, helvetica, arial, verdana, 'Times New roman', sans-serif; font-size: 15px; line-height: 22.5px; margin-bottom: 10px; padding: 0px; word-wrap: break-word;"><span class="notranslate" style="margin: 0px; padding: 0px;">In writing this time TWD will inform you some&nbsp;<em style="margin: 0px; padding: 0px;">tools</em>&nbsp;that can be used to simplify your work in creating responsive web design.</span></div><h3 style="background-color: white; color: #333333; font-family: LatoBold, Helvetica, Arial, sans-serif; font-size: 19px; font-weight: 400; line-height: 40px; margin: 5px 0px; padding: 0px; text-rendering: optimizelegibility;"><span class="notranslate" style="margin: 0px; padding: 0px;">1. Froont</span></h3><div style="background-color: white; color: #333333; font-family: Gudea, helvetica, arial, verdana, 'Times New roman', sans-serif; font-size: 15px; line-height: 22.5px; margin-bottom: 10px; padding: 0px; word-wrap: break-word;"><span class="notranslate" style="margin: 0px; padding: 0px;"><a href="http://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=http://froont.com/&amp;usg=ALkJrhhA68Xlhs-LW6rTxAGhzcYlsC_bPQ" style="color: #047e7d; margin: 0px; padding: 0px; text-decoration: none;" target="_blank" rel="noopener noreferer nofollow">Froont is an</a>&nbsp;effective web-based tool that can run in your browser window.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">Can be used to design front-end design from website.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">This tool is easy to use, because you only need to drag and drop the elements provided and later will form its own HTML and CSS code.</span></div><div class="wp-caption alignnone" id="attachment_8164" style="background: rgb(255, 255, 255); border: 1px solid rgb(240, 240, 240); color: #333333; font-family: Gudea, helvetica, arial, verdana, 'Times New roman', sans-serif; font-size: 15px; line-height: 22.5px; margin: 5px 20px 20px 0px; max-width: 96%; padding: 5px 3px 10px; text-align: center; width: 510px; word-wrap: break-word;"><a href="http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/froont-responsive-web-design.jpg" style="color: #047e7d; margin: 0px; padding: 0px; text-decoration: none;" rel="noopener noreferer nofollow"><img alt="Froont responsive web design" class="size-full wp-image-8164" src="http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/froont-responsive-web-design.jpg" height="360" sizes="(max-width: 500px) 100vw, 500px" srcset="http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/froont-responsive-web-design.jpg 500w, http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/froont-responsive-web-design-417x300.jpg 417w" style="border: 1px solid rgb(244, 244, 244); box-sizing: border-box; height: auto; margin: 0px; max-width: 100%; padding: 2px; vertical-align: middle; width: auto;" width="500"></a><br><div class="wp-caption-text" style="font-size: 11px; line-height: 17px; padding: 0px 4px 5px; word-wrap: break-word;"><span class="notranslate" style="margin: 0px; padding: 0px;">Froont (Photo: lafermeduweb.net)</span></div></div><h3 style="background-color: white; color: #333333; font-family: LatoBold, Helvetica, Arial, sans-serif; font-size: 19px; font-weight: 400; line-height: 40px; margin: 5px 0px; padding: 0px; text-rendering: optimizelegibility;"><span class="notranslate" style="margin: 0px; padding: 0px;">2. Screenqueri.es</span></h3><div style="background-color: white; color: #333333; font-family: Gudea, helvetica, arial, verdana, 'Times New roman', sans-serif; font-size: 15px; line-height: 22.5px; margin-bottom: 10px; padding: 0px; word-wrap: break-word;"><span class="notranslate" style="margin: 0px; padding: 0px;"><a href="http://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=http://beta.screenqueri.es/&amp;usg=ALkJrhgWMeTiLZmBtr3nG6PS1knt-2XGlQ" style="color: #047e7d; margin: 0px; padding: 0px; text-decoration: none;" target="_blank" rel="noopener noreferer nofollow">Screenqueri.es</a>&nbsp;is an interesting pixel-based tool for creating responsive webs.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">You can test your responsive web templates using 30 different devices using screenqueri.es.</span></div><h3 style="background-color: white; color: #333333; font-family: LatoBold, Helvetica, Arial, sans-serif; font-size: 19px; font-weight: 400; line-height: 40px; margin: 5px 0px; padding: 0px; text-rendering: optimizelegibility;"><span class="notranslate" style="margin: 0px; padding: 0px;">3. Viewport Resizer</span></h3><div style="background-color: white; color: #333333; font-family: Gudea, helvetica, arial, verdana, 'Times New roman', sans-serif; font-size: 15px; line-height: 22.5px; margin-bottom: 10px; padding: 0px; word-wrap: break-word;"><span class="notranslate" style="margin: 0px; padding: 0px;"><a href="http://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=http://lab.maltewassermann.com/viewport-resizer/&amp;usg=ALkJrhg56oxyt_mHUSJWSp9vfDbzr7mj1A" style="color: #047e7d; margin: 0px; padding: 0px; text-decoration: none;" target="_blank" rel="noopener noreferer nofollow">Viewport Resizer</a>&nbsp;is a tool for designing browser based.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">You can test any responsive website using this.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">You can also create bookmarks from this tool in your browser.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">You can easily test screen compatibility with this tool.</span></div><div class="twd-adpost" style="background-color: white; color: #333333; font-family: Gudea, helvetica, arial, verdana, 'Times New roman', sans-serif; font-size: 15px; line-height: 22.5px; margin: 0px; padding: 0px; text-align: center; word-wrap: break-word;"><div class="textwidget" style="margin: 0px; padding: 0px; word-wrap: break-word;"><br></div></div><h3 style="background-color: white; color: #333333; font-family: LatoBold, Helvetica, Arial, sans-serif; font-size: 19px; font-weight: 400; line-height: 40px; margin: 5px 0px; padding: 0px; text-rendering: optimizelegibility;"><span class="notranslate" style="margin: 0px; padding: 0px;">4. Opera Mobile Classic Emulator</span></h3><div style="background-color: white; color: #333333; font-family: Gudea, helvetica, arial, verdana, 'Times New roman', sans-serif; font-size: 15px; line-height: 22.5px; margin-bottom: 10px; padding: 0px; word-wrap: break-word;"><span class="notranslate" style="margin: 0px; padding: 0px;">There are still many users who use Opera Mini on their mobile phone.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">Therefore developers also need to check whether the website is good if it is opened with Opera or not by using<a href="http://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=http://www.opera.com/developer/mobile-emulator&amp;usg=ALkJrhgV86Oo95ScLs0ih4nfufq42NLqOg" style="color: #047e7d; margin: 0px; padding: 0px; text-decoration: none;" target="_blank" rel="noopener noreferer nofollow">Opera Mobile Classic Emulator</a>&nbsp;this.</span></div><div class="wp-caption alignnone" id="attachment_8165" style="background: rgb(255, 255, 255); border: 1px solid rgb(240, 240, 240); color: #333333; font-family: Gudea, helvetica, arial, verdana, 'Times New roman', sans-serif; font-size: 15px; line-height: 22.5px; margin: 5px 20px 20px 0px; max-width: 96%; padding: 5px 3px 10px; text-align: center; width: 528px; word-wrap: break-word;"><a href="http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/opera-mobile.png" style="color: #047e7d; margin: 0px; padding: 0px; text-decoration: none;" rel="noopener noreferer nofollow"><img alt="Mobile opera" class="size-full wp-image-8165" src="http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/opera-mobile.png" height="343" sizes="(max-width: 518px) 100vw, 518px" srcset="http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/opera-mobile.png 518w, http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/opera-mobile-450x298.png 450w" style="border: 1px solid rgb(244, 244, 244); box-sizing: border-box; height: auto; margin: 0px; max-width: 100%; padding: 2px; vertical-align: middle; width: auto;" width="518"></a><br><div class="wp-caption-text" style="font-size: 11px; line-height: 17px; padding: 0px 4px 5px; word-wrap: break-word;"><span class="notranslate" style="margin: 0px; padding: 0px;">Photo via kabatology.com</span></div></div><h3 style="background-color: white; color: #333333; font-family: LatoBold, Helvetica, Arial, sans-serif; font-size: 19px; font-weight: 400; line-height: 40px; margin: 5px 0px; padding: 0px; text-rendering: optimizelegibility;"><span class="notranslate" style="margin: 0px; padding: 0px;">5. Review.js</span></h3><div style="background-color: white; color: #333333; font-family: Gudea, helvetica, arial, verdana, 'Times New roman', sans-serif; font-size: 15px; line-height: 22.5px; margin-bottom: 10px; padding: 0px; word-wrap: break-word;"><span class="notranslate" style="margin: 0px; padding: 0px;">This review.js developed with pure Javascript can be used to test the efficiency of your web design.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">This tool follows the principle of "progressive enhancement".</span></div><h3 style="background-color: white; color: #333333; font-family: LatoBold, Helvetica, Arial, sans-serif; font-size: 19px; font-weight: 400; line-height: 40px; margin: 5px 0px; padding: 0px; text-rendering: optimizelegibility;"><span class="notranslate" style="margin: 0px; padding: 0px;">6. Jetstrap</span></h3><div style="background-color: white; color: #333333; font-family: Gudea, helvetica, arial, verdana, 'Times New roman', sans-serif; font-size: 15px; line-height: 22.5px; margin-bottom: 10px; padding: 0px; word-wrap: break-word;"><span class="notranslate" style="margin: 0px; padding: 0px;"><a href="https://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=https://jetstrap.com/&amp;usg=ALkJrhiZV1se-0yUn52BeoV0asr1YlpqzA" style="color: #047e7d; margin: 0px; padding: 0px; text-decoration: none;" target="_blank" rel="noopener noreferer nofollow">Jetstrap is a</a>&nbsp;tool for building visual interfaces.</span><span class="notranslate" style="margin: 0px; padding: 0px;">This tool provides a way to create prototypes in a browser.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">Designers who usually work with Bootstrap can choose this tool.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">Simply drag and drop in using this tool.</span></div><h4 style="background-color: white; color: #333333; font-family: LatoBold, Helvetica, Arial, sans-serif; font-size: 17.5px; font-weight: 400; line-height: 20px; margin: 10px 0px; padding: 0px; text-rendering: optimizelegibility;"><span class="notranslate" style="margin: 0px; padding: 0px;">7. Adobe Edge Inspect CC</span></h4><div style="background-color: white; color: #333333; font-family: Gudea, helvetica, arial, verdana, 'Times New roman', sans-serif; font-size: 15px; line-height: 22.5px; margin-bottom: 10px; padding: 0px; word-wrap: break-word;"><span class="notranslate" style="margin: 0px; padding: 0px;">This includes tools that are light enough to check web design.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">You can download toolbars and plug-ins and test design on different devices.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;"><a href="http://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=http://html.adobe.com/edge/inspect/&amp;usg=ALkJrhiHR0Fzlf2x6CTb4GxaFlMa88omcQ" style="color: #047e7d; margin: 0px; padding: 0px; text-decoration: none;" target="_blank" rel="noopener noreferer nofollow">Adobe Edge Inspect CC</a>&nbsp;follows a minimalist approach when designing.</span></div><h3 style="background-color: white; color: #333333; font-family: LatoBold, Helvetica, Arial, sans-serif; font-size: 19px; font-weight: 400; line-height: 40px; margin: 5px 0px; padding: 0px; text-rendering: optimizelegibility;"><span class="notranslate" style="margin: 0px; padding: 0px;">8. The Responsive Calculator</span></h3><div style="background-color: white; color: #333333; font-family: Gudea, helvetica, arial, verdana, 'Times New roman', sans-serif; font-size: 15px; line-height: 22.5px; margin-bottom: 10px; padding: 0px; word-wrap: break-word;"><span class="notranslate" style="margin: 0px; padding: 0px;"><a href="http://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=http://rwdcalc.com/&amp;usg=ALkJrhi4K1tirhFw2AA6M4CIXfuQK_eyvw" style="color: #047e7d; margin: 0px; padding: 0px; text-decoration: none;" target="_blank" rel="noopener noreferer nofollow">The Responsive Calculator</a>&nbsp;is a tool for web designers to convert PSD pixels to cent.</span>&nbsp;<span class="notranslate" style="margin: 0px; padding: 0px;">This tool is very useful to use during the early development of your responsive website.</span></div>
+<div>
+    <strong>Web Responsive Creating Tool For Web Developers</strong>
+    <strong>
+        -
+    </strong>
+    Web design is an important part of a website development project. The client
+    at this time demands a responsive website to be created. <br/>
+    <br/>
+    By using HTML5 and CSS3, it certainly becomes quite easy for developers.
+    Developers can focus more on web design, user experience than back-end code.
+</div>
+<div>
+    There are many frameworks available online that can be utilized for web
+    designing. There are flexible grids, drawings and layouts that developers
+    can use.
+</div>
+<div>
+    In writing this time TWD will inform you some <em>tools</em> that can be
+    used to simplify your work in creating responsive web design.
+</div>
+<h3>
+    1. Froont
+</h3>
+<div>
+    <a
+        href="http://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=http://froont.com/&amp;usg=ALkJrhhA68Xlhs-LW6rTxAGhzcYlsC_bPQ"
+        target="_blank"
+        rel="noopener noreferer nofollow"
+    >
+        Froont is an
+    </a>
+    effective web-based tool that can run in your browser window. Can be used to
+    design front-end design from website. This   tool is easy to use, because
+    you only need to drag and drop the   elements provided and later will form
+    its own HTML and CSS code.
+</div>
+<div id="attachment_8164">
+    <a
+        href="http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/froont-responsive-web-design.jpg"
+        rel="noopener noreferer nofollow"
+    >
+        <img
+            alt="Froont responsive web design"
+            src="http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/froont-responsive-web-design.jpg"
+            height="360"
+            width="500"
+        />
+    </a>
+    <br/>
+    <div>
+        Froont (Photo: lafermeduweb.net)
+    </div>
+</div>
+<h3>
+    2. Screenqueri.es
+</h3>
+<div>
+    <a
+        href="http://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=http://beta.screenqueri.es/&amp;usg=ALkJrhgWMeTiLZmBtr3nG6PS1knt-2XGlQ"
+        target="_blank"
+        rel="noopener noreferer nofollow"
+    >
+        Screenqueri.es
+    </a>
+    is an interesting pixel-based tool for creating responsive webs. You can
+    test your responsive web templates using 30 different devices using
+    screenqueri.es.
+</div>
+<h3>
+    3. Viewport Resizer
+</h3>
+<div>
+    <a
+        href="http://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=http://lab.maltewassermann.com/viewport-resizer/&amp;usg=ALkJrhg56oxyt_mHUSJWSp9vfDbzr7mj1A"
+        target="_blank"
+        rel="noopener noreferer nofollow"
+    >
+        Viewport Resizer
+    </a>
+    is a tool for designing browser based. You can test any responsive website
+    using this. You can also create bookmarks from this tool in your browser.
+    You can easily test screen compatibility with this tool.
+</div>
+<div>
+    <div>
+        <br/>
+    </div>
+</div>
+<h3>
+    4. Opera Mobile Classic Emulator
+</h3>
+<div>
+    There are still many users who use Opera Mini on their mobile phone.
+    Therefore developers also need to check whether the website is good if it is
+    opened with Opera or not by using
+    <a
+        href="http://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=http://www.opera.com/developer/mobile-emulator&amp;usg=ALkJrhgV86Oo95ScLs0ih4nfufq42NLqOg"
+        target="_blank"
+        rel="noopener noreferer nofollow"
+    >
+        Opera Mobile Classic Emulator
+    </a>
+    this.
+</div>
+<div id="attachment_8165">
+    <a
+        href="http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/opera-mobile.png"
+        rel="noopener noreferer nofollow"
+    >
+        <img
+            alt="Mobile opera"
+            src="http://www.tutorial-webdesign.com/wp-content/uploads/2015/06/opera-mobile.png"
+            height="343"
+            width="518"
+        />
+    </a>
+    <br/>
+    <div>
+        Photo via kabatology.com
+    </div>
+</div>
+<h3>
+    5. Review.js
+</h3>
+<div>
+    This review.js developed with pure Javascript can be used to test the
+    efficiency of your web design. This tool follows the principle of
+    "progressive enhancement".
+</div>
+<h3>
+    6. Jetstrap
+</h3>
+<div>
+    <a
+        href="https://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=https://jetstrap.com/&amp;usg=ALkJrhiZV1se-0yUn52BeoV0asr1YlpqzA"
+        target="_blank"
+        rel="noopener noreferer nofollow"
+    >
+        Jetstrap is a
+    </a>
+    tool for building visual interfaces.This tool provides a way to create
+    prototypes in a browser. Designers who usually work with Bootstrap can
+    choose this tool. Simply drag and drop in using this tool.
+</div>
+<h4>
+    7. Adobe Edge Inspect CC
+</h4>
+<div>
+    This includes tools that are light enough to check web design. You can
+    download toolbars and plug-ins and test design on different devices.
+    <a
+        href="http://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=http://html.adobe.com/edge/inspect/&amp;usg=ALkJrhiHR0Fzlf2x6CTb4GxaFlMa88omcQ"
+        target="_blank"
+        rel="noopener noreferer nofollow"
+    >
+        Adobe Edge Inspect CC
+    </a>
+    follows a minimalist approach when designing.
+</div>
+<h3>
+    8. The Responsive Calculator
+</h3>
+<div>
+    <a
+        href="http://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=http://rwdcalc.com/&amp;usg=ALkJrhi4K1tirhFw2AA6M4CIXfuQK_eyvw"
+        target="_blank"
+        rel="noopener noreferer nofollow"
+    >
+        The Responsive Calculator
+    </a>
+    is a tool for web designers to convert PSD pixels to cent. This tool is very
+    useful to use during the early development of your responsive website.
+</div>
