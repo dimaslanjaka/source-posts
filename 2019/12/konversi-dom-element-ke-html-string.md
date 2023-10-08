@@ -23,30 +23,45 @@ updated: 2023-09-03T06:34:35+07:00
 wordcount: 276
 ---
 
-<div>
-   <div>Mengubah&nbsp;dom&nbsp;document&nbsp;sebuah&nbsp;elemen&nbsp;kedalam&nbsp;HTMl&nbsp;string&nbsp;biasa
-   </div>
-   <pre><br>  &lt;div id="elemenTersedia"&gt;&lt;/div&gt;
-<br>&lt;script&gt;
-<br>  function htmlFromDom(ClonedNode) {
-<br>    var target = document.getElementById('element-helper');
-<br>    if (!target) {
-<br>      document.body.innerHTML += '&lt;div id="element-helper" style="display:none"&gt;&lt;/div&gt;';
-<br>      target = document.getElementById('element-helper');
-<br>    }
-<br>    target.innerHTML = '';
-<br>    var wrap = document.createElement('div');
-<br>    wrap.appendChild(ClonedNode);
-<br>    return wrap.innerHTML;
-<br>  }
-<br>  /* Penggunaan dalam pembuatan element */
-<br>  var elem = document.createElement('p');
-<br>  elem.id = 'IDELEMENT';
-<br>  elem.innerHTML = 'text element';
-<br>  // print secara langsung juga bisa
-<br>  document.write(htmlFromDom(elem));
-<br>  // atau append ke element yang tersedia
-<br>  document.getElementById('elemenTersedia').innerHTML = htmlFromDom(elem);
-<br>&lt;/script&gt;
-<br>  </pre>
- </div>
+Mengubah dom document sebuah elemen kedalam HTMl string biasa
+
+```html
+<div id="elemenTersedia"></div>
+
+<script>
+  function htmlFromDom(ClonedNode) {
+    var target = document.getElementById("element-helper");
+
+    if (!target) {
+      document.body.innerHTML +=
+        '<div id="element-helper" style="display:none"></div>';
+
+      target = document.getElementById("element-helper");
+    }
+
+    target.innerHTML = "";
+
+    var wrap = document.createElement("div");
+
+    wrap.appendChild(ClonedNode);
+
+    return wrap.innerHTML;
+  }
+
+  /* Penggunaan dalam pembuatan element */
+
+  var elem = document.createElement("p");
+
+  elem.id = "IDELEMENT";
+
+  elem.innerHTML = "text element";
+
+  // print secara langsung juga bisa
+
+  document.write(htmlFromDom(elem));
+
+  // atau append ke element yang tersedia
+
+  document.getElementById("elemenTersedia").innerHTML = htmlFromDom(elem);
+</script>
+```
