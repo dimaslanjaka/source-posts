@@ -20,7 +20,7 @@ updated: 2023-10-08T12:03:41+07:00
 
 ## Styling `<pre>` tag using simple css code
 
-![<pre>](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPU5mp9B9Vq99lF8d8-apVN1I1DoiA9DcmpTwYsP1MY5hRB8oY "<pre>")
+![pre tag](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPU5mp9B9Vq99lF8d8-apVN1I1DoiA9DcmpTwYsP1MY5hRB8oY "pre tag")
 
 ## Description of `<pre>` tag on HTML
 
