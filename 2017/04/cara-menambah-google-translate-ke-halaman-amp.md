@@ -9,9 +9,12 @@ comments: true
 cover: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8zV44YvCSI-H-ZORzXuVh4MXW0hDc7tECPrChm8Mtz_TyFDMofUn7uLIBQ
 date: 2017-04-14T13:22:00.000+07:00
 description: Google translate service has shutdown, this plugin was removed
+excerpt: Google translate service has shutdown, this plugin was removed
+id: 9af96b75-b35a-4888-8f32-cd02840f4ebc
 lang: en
 photos:
   - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8zV44YvCSI-H-ZORzXuVh4MXW0hDc7tECPrChm8Mtz_TyFDMofUn7uLIBQ
+subtitle: Google translate service has shutdown, this plugin was removed
 tags:
   - wordpress
   - blogger
@@ -19,7 +22,7 @@ tags:
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8zV44YvCSI-H-ZORzXuVh4MXW0hDc7tECPrChm8Mtz_TyFDMofUn7uLIBQ
 title: Cara Menambahkan Google Translate Ke Halaman AMP
 type: post
-updated: 2023-09-03T06:30:35+07:00
+updated: 2023-10-09T14:07:47+07:00
 wordcount: 483
 ---
 

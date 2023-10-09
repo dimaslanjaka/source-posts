@@ -11,9 +11,16 @@ date: 2017-04-25T21:29:00.001+07:00
 description: Cara defer multiple external file js Teknik Defer loading multiple
   external javascript untuk mengurangi loading website secara dramatis.
   https://ajax.googleapis
+excerpt: Cara defer multiple external file js Teknik Defer loading multiple
+  external javascript untuk mengurangi loading website secara dramatis.
+  https://ajax.googleapis
+id: 0b29d3a4-cb5a-4888-8787-1284ec1d9ffd
 lang: en
 photos:
   - https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD3Z65uK5mWj1kFiaYKxcVJ8w0XiysZTz3V3ak8FIwpkFiTpnc
+subtitle: Cara defer multiple external file js Teknik Defer loading multiple
+  external javascript untuk mengurangi loading website secara dramatis.
+  https://ajax.googleapis
 tags:
   - wordpress
   - javascript
@@ -22,7 +29,7 @@ tags:
 thumbnail: https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSD3Z65uK5mWj1kFiaYKxcVJ8w0XiysZTz3V3ak8FIwpkFiTpnc
 title: Cara defer multiple external file js
 type: post
-updated: 2023-09-03T06:45:28+07:00
+updated: 2023-10-09T14:07:47+07:00
 wordcount: 558
 ---
 

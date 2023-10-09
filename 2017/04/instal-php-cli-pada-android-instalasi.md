@@ -52,21 +52,21 @@ wordcount: 2598
     <li>Internal min ± 300 MB free</li>
     <li>ROOT Explorer ( <a href="https://rootexplorer.co/wp-content/uploads/2016/11/Root-Explorer-4.0.5.apk" target="_blank" rel="noopener noreferer nofollow"> Download Root Explorer Pro </a> )</li>
   </ol>
-  <br />
+  <br>
   <h3></h3>
   <h3>Installation:</h3>
   <div>1. Install Busybox and The Module</div>
   <div>2. Install Server Module For PHP and its php</div>
   <div>3. Open Terminal Emulator, type the following code this:</div>
-  <div><br /></div>
+  <div><br></div>
   <div>
     <pre><br>su<br>data="/data/data/com.eminis.server.php"<br>chmod 755 $data/files/*<br>chmod 755 $data/lib/*<br></pre>
     Or you can also manually set permissions <span style="color: red">755</span> in
     <span style="color: red">/data/data/<a href="http://webmanajemen.com/search?q=com.eminis.server.php" target="_blank">com.eminis.server.php</a>/</span> all the files in the folder "files"
-    and "lib" <br />
-    <br />
-    4. Open Root Explorer, open the folder <span style="color: red">/data/data/com.eminis.server.php/files/</span>, "press and hold" file named php. (See screenshot) <br />
-    <br />
+    and "lib" <br>
+    <br>
+    4. Open Root Explorer, open the folder <span style="color: red">/data/data/com.eminis.server.php/files/</span>, "press and hold" file named php. (See screenshot) <br>
+    <br>
     <table align="center" cellpadding="0" cellspacing="0">
       <tbody>
         <tr>
@@ -85,7 +85,7 @@ wordcount: 2598
         </tr>
       </tbody>
     </table>
-    <br />
+    <br>
     <table align="center" cellpadding="0" cellspacing="0">
       <tbody>
         <tr>
@@ -104,9 +104,9 @@ wordcount: 2598
         </tr>
       </tbody>
     </table>
-    <div><br /></div>
+    <div><br></div>
     <div>Once the link is copied, immediately go to the dir <span style="color: red">/system/bin/</span> (see screenshot)</div>
-    <br />
+    <br>
     <table align="center" cellpadding="0" cellspacing="0">
       <tbody>
         <tr>
@@ -125,7 +125,7 @@ wordcount: 2598
         </tr>
       </tbody>
     </table>
-    Done. Try test open the Terminal emulator. Type the following code: <br />
+    Done. Try test open the Terminal emulator. Type the following code: <br>
     <pre>
     php -v
     php --help
@@ -143,8 +143,8 @@ wordcount: 2598
         </tr>
         <tr>
           <td>
-            Installation Results Above <br />
-            <br />
+            Installation Results Above <br>
+            <br>
           </td>
         </tr>
       </tbody>
@@ -152,16 +152,16 @@ wordcount: 2598
     <h4 style="text-align: left">[*] Features:</h4>
   </div>
   <div>
-    * Pure PHP v.5.4+ - v.7+ server with modules:<br />
+    * Pure PHP v.5.4+ - v.7+ server with modules:<br>
     core | session | standard | date | ereg | libxml | openssl | PCRE | sqlite3 | zlib | bcmath | bzip2 | calendar | ctype | curl | dom | hash | fileinfo | filter | ftp | gd | gettext | gmp | spl |
     iconv | intl | json | mbstring | mcrypt | mongodb | mysqlnd | mysqli | oDBC | pdo | pdo_mysql | pdo_odbc | pdo_pgsql | pdo_sqlite | pgsql | Phar | posix | pspell | recode | reflection | mysql |
     simplexml | soap | sockets | exif | tidy | tokenizer | WDDX | xml | XmlReader | xMLRPC | XMLWriter | xsl | zip | cli_server | mhash ssh2 | opcache | Phalcon | yaf | yar | iD3 | lzf | oauth |
     quickhash | bbcode | xmldiff | xdiff | rar | gender | stats | EIO | judy | mailparse | rpmreader | spl_types | yaml | ev | inotify | weakref | xdebug | dba | Imagick
   </div>
-  <div><br /></div>
+  <div><br></div>
   <div>
     ! If you need MySQL or MariaDB Server:
-    <a href="https://play.google.com/store/apps/details?id=com.esminis.server.mariadb" target="_blank" rel="noopener noreferer nofollow">Download MariaDB Server For Android</a><br />
+    <a href="https://play.google.com/store/apps/details?id=com.esminis.server.mariadb" target="_blank" rel="noopener noreferer nofollow">Download MariaDB Server For Android</a><br>
     ! If you need MongoDB Server - moNERIngAo Server:&nbsp;<a href="https://play.google.com/store/apps/details?id=com.esminis.server.mongodb" target="_blank" rel="noopener noreferer nofollow"
       >Download MongoDB Server For Android</a
     >

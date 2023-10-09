@@ -17,8 +17,19 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Git force redownload from remote repository
 type: post
-updated: 2023-08-08T14:45:11+07:00
-wordcount: 41
+updated: 2023-10-08T16:07:00+07:00
 ---
 
-<p>Tutorial</p><pre><br>git reset --hard origin/<branch_name><br>git fetch --all<br></branch_name></pre>  <p>Example from master</p><pre><br>git reset --hard origin/master<br>git fetch --all<br></pre>
+Tutorial
+
+```bash
+git fetch --all
+git reset --hard origin/branch_name
+```
+
+Example from master
+
+```bash
+git fetch --all
+git reset --hard origin/master
+```

@@ -9,7 +9,7 @@ comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2020-08-03T18:02:00.005+07:00
 description: Fix missing dependencies from your gradle project android, maven,
-  etc with this build.gradle. <br/>insert into
+  etc with this build.gradle. <br>insert into
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

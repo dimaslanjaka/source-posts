@@ -53,8 +53,8 @@ wordcount: 6821
 <li>Paste kode berikut setelah &lt;head&gt; tag.&nbsp;</li>
 </ol>
 <div>
-<pre>&lt;META NAME = "Description" CONTENT = "Deskripsi Dari Blog Anda" /&gt;<br />&lt;META NAME = "Keywords" CONTENT = "Kata kunci Dari Blog Anda" /&gt;<br />&lt;META NAME = "Author" CONTENT = "Menulis Nama Anda" /&gt;</pre>
-Dengan Cara Mengganti kata-kata dalam tanda kutip menurut informasi website Anda dan simpan template.<br /><br />
+<pre>&lt;META NAME = "Description" CONTENT = "Deskripsi Dari Blog Anda" /&gt;<br>&lt;META NAME = "Keywords" CONTENT = "Kata kunci Dari Blog Anda" /&gt;<br>&lt;META NAME = "Author" CONTENT = "Menulis Nama Anda" /&gt;</pre>
+Dengan Cara Mengganti kata-kata dalam tanda kutip menurut informasi website Anda dan simpan template.<br><br>
 <h3>2. Automatic ALT Tag Untuk Images</h3>
 <div>Tag ALT adalah seperti SEO untuk gambar atau mirip dengan menambahkan keterangan pencari untuk konten Anda di blogger, tag ALT adalah sekali yang membantu mesin pencari untuk menentukan kategori gambar atau topic.Filling up tag ALT Anda gambar Anda dapat mendorong banyak lalu lintas ke blog Anda, tapi sayangnya sebagian besar kali orang lupa untuk melakukannya atau tidak lakukan karena mereka harus menambahkan kode untuk setiap gambar.Berikut ini adalah script yang secara otomatis menambahkan tag ALT untuk semua gambar yang Anda upload.</div>
 <h4>Prosedur untuk menambahkan tag ALT otomatis Untuk Images</h4>
@@ -65,8 +65,8 @@ Dengan Cara Mengganti kata-kata dalam tanda kutip menurut informasi website Anda
 <li>Catatan-Hapus kode disorot jika sudah ada di blog Anda.</li>
 </ol>
 <div>
-<blockquote>//SEO SCRIPT POWERED BY www.web-development.com<br />&lt;script type=&rsquo;text/javascript&rsquo;&gt;<br />//&lt;!&ndash;[&lt;span class="hiddenSpellError" pre="" data-mce-bogus="1"&ndash;&gt;CDATA[<br />$(document).ready(function() {<br />$(&lsquo;img&rsquo;).each(function(){<br />var $img = $(this);<br />var filename = $img.attr(&lsquo;src&rsquo;)<br />$img.attr(&lsquo;title&rsquo;, filename.substring((filename.lastIndexOf(&lsquo;/&rsquo;))+1, filename.lastIndexOf(&lsquo;.&rsquo;)));<br />$img.attr(&lsquo;alt&rsquo;, filename.substring((filename.lastIndexOf(&lsquo;/&rsquo;))+1, filename.lastIndexOf(&lsquo;.&rsquo;)));<br />});<br />});<br />//]]&gt;<br />&lt;/script&gt;</blockquote>
-&nbsp;Setelah Anda menambahkannya, Anda dapat memeriksa apakah itu bekerja hanya dengan melayang di atas gambar dalam salah satu blog Anda post.You'll melihat bahwa nama gambar muncul ketika Anda mengarahkan mouse di atasnya.<br /><br /><br />
+<blockquote>//SEO SCRIPT POWERED BY www.web-development.com<br>&lt;script type=&rsquo;text/javascript&rsquo;&gt;<br>//&lt;!&ndash;[&lt;span class="hiddenSpellError" pre="" data-mce-bogus="1"&ndash;&gt;CDATA[<br>$(document).ready(function() {<br>$(&lsquo;img&rsquo;).each(function(){<br>var $img = $(this);<br>var filename = $img.attr(&lsquo;src&rsquo;)<br>$img.attr(&lsquo;title&rsquo;, filename.substring((filename.lastIndexOf(&lsquo;/&rsquo;))+1, filename.lastIndexOf(&lsquo;.&rsquo;)));<br>$img.attr(&lsquo;alt&rsquo;, filename.substring((filename.lastIndexOf(&lsquo;/&rsquo;))+1, filename.lastIndexOf(&lsquo;.&rsquo;)));<br>});<br>});<br>//]]&gt;<br>&lt;/script&gt;</blockquote>
+&nbsp;Setelah Anda menambahkannya, Anda dapat memeriksa apakah itu bekerja hanya dengan melayang di atas gambar dalam salah satu blog Anda post.You'll melihat bahwa nama gambar muncul ketika Anda mengarahkan mouse di atasnya.<br><br><br>
 <h4>Keuntungan Dari Auto ALT Tag kode</h4>
 <ol>
 <li>Ini sebenarnya tag gambar Anda sesuai dengan nama Anda.</li>
@@ -87,8 +87,8 @@ Dengan Cara Mengganti kata-kata dalam tanda kutip menurut informasi website Anda
 <li>Cari tag dan paste kode berikut di atas itu.</li>
 </ol>
 <div>
-<blockquote>&lt;! - Hapus ini jika Anda sudah menggunakan jquery.js setiap file-&gt;&lt;! - End-&gt;&lt;Script type = "text / javascript"&gt;<br />jQuery (document) .ready (function () {jQuery ( 'a [href * = "http: //"]: tidak ([href * = "http://www.webmanajemen.com"])'). attr ( 'rel', 'nofollow');jQuery ( 'a [href * = "https: //"]: tidak ([href * = "https://www.legeeks.org"])') attr ( "target", "_blank");.});<br />&lt;/script&gt;</blockquote>
-&nbsp;Sekarang ganti &rdquo;&nbsp;<a href="http://www.webmanajemen.com/" rel="noopener noreferer nofollow">http://www.webmanajemen.com</a>&nbsp;&rdquo; dengan URL blog Anda.&nbsp;Setelah Anda menyelesaikan itu, simpan template Anda dan Anda akan menemukan bahwa plugin ini akan menambahkan tag No-Follow untuk semua link eksternal Anda selain blog Anda sendiri (Internal Link).<br /><br /><br />
+<blockquote>&lt;! - Hapus ini jika Anda sudah menggunakan jquery.js setiap file-&gt;&lt;! - End-&gt;&lt;Script type = "text / javascript"&gt;<br>jQuery (document) .ready (function () {jQuery ( 'a [href * = "http: //"]: tidak ([href * = "http://www.webmanajemen.com"])'). attr ( 'rel', 'nofollow');jQuery ( 'a [href * = "https: //"]: tidak ([href * = "https://www.legeeks.org"])') attr ( "target", "_blank");.});<br>&lt;/script&gt;</blockquote>
+&nbsp;Sekarang ganti &rdquo;&nbsp;<a href="http://www.webmanajemen.com/" rel="noopener noreferer nofollow">http://www.webmanajemen.com</a>&nbsp;&rdquo; dengan URL blog Anda.&nbsp;Setelah Anda menyelesaikan itu, simpan template Anda dan Anda akan menemukan bahwa plugin ini akan menambahkan tag No-Follow untuk semua link eksternal Anda selain blog Anda sendiri (Internal Link).<br><br><br>
 <h4>Optimalkan Judul Postingan</h4>
 <div>Seperti yang kita semua tahu judul posting adalah salah satu hal yang paling penting, tetapi Blogger tampaknya memiliki struktur alami dari&nbsp;judul posting&nbsp;jika dibandingkan dengan platform lain seperti&nbsp;WordPress&nbsp;, inilah kode kecil yang akan mengoptimalkan judul posting Anda dan akan mendapatkan pencarian Anda lebih baik peringkat mesin dengan&nbsp;lalu lintas organik&nbsp;.</div>
 <h2>Prosedur untuk Menambahkan The Post Optimized Titles</h2>
@@ -98,7 +98,7 @@ Dengan Cara Mengganti kata-kata dalam tanda kutip menurut informasi website Anda
 </ol>
 <blockquote>&lt;title&gt; &lt;data: blog.pageTitle /&gt;</blockquote>
 <div>3.Replace itu dengan kode-berikut</div>
-<blockquote>&lt;b: if 'data: blog.pageType == &amp; quot; item yang &amp; quot;' = cond&gt;<br />&lt;Title&gt; &lt;data: blog.pageName /&gt; |&nbsp;&lt;Data: blog.title /&gt; &lt;/ title&gt;<br />&lt;B: else /&gt;<br />&lt;Title&gt; &lt;data: blog.pageTitle /&gt; &lt;/ title&gt;<br />&lt;/ B: if&gt;</blockquote>
+<blockquote>&lt;b: if 'data: blog.pageType == &amp; quot; item yang &amp; quot;' = cond&gt;<br>&lt;Title&gt; &lt;data: blog.pageName /&gt; |&nbsp;&lt;Data: blog.title /&gt; &lt;/ title&gt;<br>&lt;B: else /&gt;<br>&lt;Title&gt; &lt;data: blog.pageTitle /&gt; &lt;/ title&gt;<br>&lt;/ B: if&gt;</blockquote>
 <div>Itu dia!&nbsp;Anda telah menyelesaikan mengoptimalkan judul posting Anda, hasilnya akan terlihat mirip dengan gambar memberikan di bawah ini-</div>
 <div>
 <table cellspacing="0" cellpadding="0">

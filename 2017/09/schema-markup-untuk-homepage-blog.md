@@ -8,8 +8,8 @@ categories:
 comments: true
 cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-09-09T13:00:00.000+07:00
-description: "pre>lt;script type=quot;application/ldjsonquot;gt;<br /><br /><br
-  /><br />nbsp; nbsp; quot;@contextquot;:"
+description: "pre>lt;script type=quot;application/ldjsonquot;gt;<br><br><br
+  /><br>nbsp; nbsp; quot;@contextquot;:"
 lang: en
 photos:
   - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
