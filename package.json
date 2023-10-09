@@ -37,7 +37,7 @@
     "url": "https://github.com/dimaslanjaka/source-posts/issues"
   },
   "homepage": "https://github.com/dimaslanjaka/source-posts#readme",
-  "packageManager": "yarn@3.6.3",
+  "packageManager": "yarn@3.6.4",
   "devDependencies": {
     "@types/bluebird": "^3",
     "@types/eslint": "^8",
@@ -59,7 +59,8 @@
     "version": "7.0.0-rc2"
   },
   "workspaces": [
-    "packages/hexo-post-parser"
+    "packages/hexo-post-parser",
+    "posts"
   ],
   "resolutions": {
     "hexo-asset-link": "https://github.com/dimaslanjaka/hexo/raw/71c10678/releases/hexo-asset-link.tgz",
