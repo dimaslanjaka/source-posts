@@ -42,7 +42,6 @@
     "@types/bluebird": "^3",
     "@types/eslint": "^8",
     "@types/node": "^20.5.9",
-    "@types/prettier": "^3",
     "@typescript-eslint/eslint-plugin": "^6.5.0",
     "@typescript-eslint/parser": "^6.5.0",
     "cross-env": "^7.0.3",
