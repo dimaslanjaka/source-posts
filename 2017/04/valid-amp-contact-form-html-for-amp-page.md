@@ -11,9 +11,16 @@ date: 2017-04-16T23:22:00.000+07:00
 description: Valid AMP Contact Form Html For AMP Page Valid Contact Form For AMP
   Valid AMP contact form for blog This solved for contact form not working on
   blogger with amp
+excerpt: Valid AMP Contact Form Html For AMP Page Valid Contact Form For AMP
+  Valid AMP contact form for blog This solved for contact form not working on
+  blogger with amp
+id: 5a4af1e3-927d-4888-84b4-fa6d496717d6
 lang: en
 photos:
   - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrPydJSDJ0qsdxmme5yXnxWiCKL71LNDgDbdXJxGC31KXn6aG-PyQdmuOFvQ
+subtitle: Valid AMP Contact Form Html For AMP Page Valid Contact Form For AMP
+  Valid AMP contact form for blog This solved for contact form not working on
+  blogger with amp
 tags:
   - wordpress
   - blogger
@@ -22,7 +29,7 @@ tags:
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrPydJSDJ0qsdxmme5yXnxWiCKL71LNDgDbdXJxGC31KXn6aG-PyQdmuOFvQ
 title: Valid AMP Contact Form Html For AMP Page
 type: post
-updated: 2023-09-03T06:13:50+07:00
+updated: 2023-10-09T14:07:47+07:00
 wordcount: 844
 ---
 

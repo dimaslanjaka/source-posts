@@ -11,9 +11,16 @@ date: 2017-04-18T01:38:00.000+07:00
 description: Cara menambah social media box di blogger AMP Cara menambah tombol
   G, Like Facebook Follow Twitter di AMP Blogger. Kali ini saya akan share
   bagaimana cara menam
+excerpt: Cara menambah social media box di blogger AMP Cara menambah tombol G,
+  Like Facebook Follow Twitter di AMP Blogger. Kali ini saya akan share
+  bagaimana cara menam
+id: 84096f41-01e3-4888-81d0-fcc855692f56
 lang: en
 photos:
   - https://scontent.fsub2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/17796846_1773189839677671_6977008867135609966_n.png.jpg?efg=eyJpIjoidCJ9&oh=292c21d1c58e8e185a8d6c63dec60c5a&oe=5957C4B8
+subtitle: Cara menambah social media box di blogger AMP Cara menambah tombol G,
+  Like Facebook Follow Twitter di AMP Blogger. Kali ini saya akan share
+  bagaimana cara menam
 tags:
   - blogger
   - html
@@ -21,7 +28,7 @@ tags:
 thumbnail: https://scontent.fsub2-1.fna.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/17796846_1773189839677671_6977008867135609966_n.png.jpg?efg=eyJpIjoidCJ9&oh=292c21d1c58e8e185a8d6c63dec60c5a&oe=5957C4B8
 title: Cara menambah social media box di blogger AMP
 type: post
-updated: 2023-09-03T06:13:57+07:00
+updated: 2023-10-09T14:07:47+07:00
 wordcount: 321
 ---
 

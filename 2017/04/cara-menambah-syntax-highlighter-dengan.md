@@ -10,9 +10,14 @@ cover: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSJoxKxnt9n6oeRW1Q
 date: 2017-04-26T04:30:00.000+07:00
 description: h2>Bagaimana cara menambah syntax highlighter dengan prettyprint
   tanpa mengurangi waktu response loading blog.</h2><img height=207
+excerpt: h2>Bagaimana cara menambah syntax highlighter dengan prettyprint tanpa
+  mengurangi waktu response loading blog.</h2><img height=207
+id: 455762fc-d647-4888-8548-647a52de1857
 lang: en
 photos:
   - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSJoxKxnt9n6oeRW1QcYweC0Y5-T_t-bexOhydafI1lnSIDQx
+subtitle: h2>Bagaimana cara menambah syntax highlighter dengan prettyprint tanpa
+  mengurangi waktu response loading blog.</h2><img height=207
 tags:
   - wordpress
   - javascript
@@ -23,7 +28,7 @@ thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBSJoxKxnt9n6oe
 title: Cara menambah syntax highlighter dengan prettyprint di blog tanpa
   mengurangi kecepatan loading website 100 Work Tested
 type: post
-updated: 2023-09-03T06:35:18+07:00
+updated: 2023-10-09T14:07:47+07:00
 wordcount: 566
 ---
 
