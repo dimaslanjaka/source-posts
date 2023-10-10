@@ -80,10 +80,7 @@ function escapeRegExp(string) {
 }
 
 let quizUrls = [
-  location.protocol +
-	'//' +
-	location.host.trim() +
-	'/The Legend Of Neverland/Quiz/quiz.txt',
+  'https://crossorigin.me/https://raw.githubusercontent.com/dimaslanjaka/source-posts/posts/The%20Legend%20Of%20Neverland/Quiz/quiz.txt',
   //'https://crossorigin.me/http://backend.webmanajemen.com/tlon/quiz.php?show',
   'https://backend.webmanajemen.com/tlon/quiz.php?show'
 ];
