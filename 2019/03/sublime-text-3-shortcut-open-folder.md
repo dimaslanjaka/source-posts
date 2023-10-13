@@ -27,4 +27,4 @@ wordcount: 22
 
 <!--<script src="https://gist.github.com/roundand/9367852.js"></script>-->
 
-{% gist roundand/9367852 %}
+{% gist https://gist.github.com/roundand/9367852 %}
