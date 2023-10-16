@@ -16,8 +16,7 @@ tags:
 thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/s--73FnDTzR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://i.ibb.co/DWR2ZKQ/carbon-3.png
 title: Replace Matched Regex 1-9 From String
 type: post
-updated: 2023-09-03T06:34:20+07:00
-wordcount: 321
+updated: 2023-10-16T10:46:22+07:00
 ---
 
 # NodeJS Replace Matched String From Regex
@@ -38,9 +37,3 @@ if (regex.exec(str)) { // check if regex match
 }
 ```
 
-<script>
-  document.querySelectorAll("pre,code");
-  pretext.forEach(function (el) {
-    el.classList.toggle("notranslate", true);
-  });
-</script>
