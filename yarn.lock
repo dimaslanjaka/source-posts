@@ -8490,7 +8490,7 @@ __metadata:
     moment-timezone: ^0.5.43
     prettier: ^3.0.3
     rimraf: ^5.0.1
-    sbg-utility: ^1.1.5
+    sbg-utility: ^1.1.6
     semver: ^7.5.4
     showdown: ^2.1.0
     tiny-typed-emitter: ^2.1.0
