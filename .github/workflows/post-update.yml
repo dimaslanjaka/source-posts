@@ -29,13 +29,13 @@ jobs:
 
     name: trigger static-blog-generator actions
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         name: checkout root project
         with:
           ref: master
           repository: dimaslanjaka/source-posts
           token: '${{ secrets.ACCESS_TOKEN }}'
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         name: checkout /posts
         with:
           ref: posts
