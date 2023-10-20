@@ -4,21 +4,19 @@ categories:
   - games
   - the legend of neverland
 comments: true
-cover: /The Legend Of Neverland/Chest/Colorful Auspicious Nimbus Cloud/cover.jpg
-date: 2021-08-21T00:00:00+07:00
+date: 2021-08-20T17:00:00.000Z
 description: Chest Colorful Auspicious Nimbus Cloud location in the legend of neverland
 lang: en
 location: Indonesia
-photos:
-  - /The Legend Of Neverland/Chest/Colorful Auspicious Nimbus Cloud/cover.jpg
 tags:
   - chest location
 thumbnail: /The Legend Of Neverland/Chest/Colorful Auspicious Nimbus Cloud/cover.jpg
 title: Colorful Auspicious Nimbus Cloud
 toc: true
 type: post
-updated: 2023-08-08T14:44:21+07:00
+updated: 2023-08-08T07:44:21.000Z
 wordcount: 246
+
 ---
 
 ## Requirement

@@ -6,12 +6,9 @@ author:
 categories:
   - programming
 comments: true
-cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://tools.robingood.com/assets/393/1493297085-google-translate-2png.png
-date: 2019-07-26T00:56:00.000+07:00
+date: 2019-07-25T17:56:00.000Z
 description: English Indonesian Afrikaans Albanian Arabic Armenian Azerbaijani
 lang: en
-photos:
-  - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://tools.robingood.com/assets/393/1493297085-google-translate-2png.png
 tags:
   - css
   - javascript
@@ -19,7 +16,8 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://tools.robingood.com/assets/393/1493297085-google-translate-2png.png
 title: Alternative Widget Translator for blog
 type: post
-updated: 2023-10-08T13:15:24+07:00
+updated: 2023-10-08T06:15:24.000Z
+
 ---
 
 <img

@@ -6,8 +6,7 @@ author:
 categories:
   - programming
 comments: true
-cover: https://i.stack.imgur.com/4TYxW.jpg
-date: 2021-12-06T23:25:00+07:00
+date: 2021-12-06T16:25:00.000Z
 description: How to configure shortcut desktop for xampp linux
 keywords:
   - xampp
@@ -17,8 +16,6 @@ keywords:
   - desktop
 lang: en
 location: Indonesia
-photos:
-  - https://i.stack.imgur.com/4TYxW.jpg
 tags:
   - php
   - apache
@@ -26,9 +23,10 @@ tags:
 thumbnail: https://i.stack.imgur.com/4TYxW.jpg
 title: XAMPP
 type: post
-updated: 2023-08-08T14:44:21+07:00
+updated: 2023-08-08T07:44:21.000Z
 webtitle: Desktop Shortcut
 wordcount: 272
+
 ---
 
 # Desktop Start Menu Shortcut XAMPP Linux (Ubuntu etc)

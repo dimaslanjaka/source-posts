@@ -3,14 +3,11 @@ author: Dimas Lanjaka
 categories:
   - programming
 comments: true
-cover: https://res.cloudinary.com/practicaldev/image/fetch/s--73FnDTzR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-2x-KTSHQ7Sk/V3fogcBcWjI/AAAAAAAAASk/JIZkwUf6r5QLH3soYaG0q0LeLxp2xjhOACLcB/w1200-h630-p-k-no-nu/blogger-conditioanl-tags-ultimate-blogger-guide.jpg
-date: 2021-12-08T19:48:00+07:00
+date: 2021-12-08T12:48:00.000Z
 description: Blogger Conditional Tags Basic Basic blogger conditional tags
   Homepage Blogger Conditional Tag for determine current page is homepage <b:if
   cond=data:blog.url =
 lang: en
-photos:
-  - https://res.cloudinary.com/practicaldev/image/fetch/s--73FnDTzR--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://3.bp.blogspot.com/-2x-KTSHQ7Sk/V3fogcBcWjI/AAAAAAAAASk/JIZkwUf6r5QLH3soYaG0q0LeLxp2xjhOACLcB/w1200-h630-p-k-no-nu/blogger-conditioanl-tags-ultimate-blogger-guide.jpg
 redirect_from: /2021/12/18/blogger-conditional-tags.html
 tags:
   - blogger
@@ -21,8 +18,9 @@ thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/s--73FnDTzR--/c_l
 title: Blogger Conditional Tags
 toc: true
 type: post
-updated: 2023-09-03T04:28:06+07:00
+updated: 2023-09-02T21:28:06.000Z
 wordcount: 1871
+
 ---
 
 # Basic

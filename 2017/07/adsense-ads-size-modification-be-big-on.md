@@ -6,19 +6,17 @@ author:
 categories:
   - programming
 comments: true
-cover: https://cdnpower.klikmania.net/wp-content/uploads/2015/12/1-min-3-1024x499.png
-date: 2017-07-18T12:23:00.001+07:00
+date: 2017-07-18T05:23:00.001Z
 description: The ads appear in full on the screen
 lang: en
-photos:
-  - https://cdnpower.klikmania.net/wp-content/uploads/2015/12/1-min-3-1024x499.png
 tags:
   - adsense
   - html
 thumbnail: https://cdnpower.klikmania.net/wp-content/uploads/2015/12/1-min-3-1024x499.png
 title: Adsense Ads Size Modification Be Big On The Screen And Responsive
 type: post
-updated: 2023-10-19T10:37:22+07:00
+updated: 2023-10-19T03:37:22.000Z
+
 ---
 
 Before continuing, whether we can modify ads from google adsense? We see briefly the description below, in order to avoid mistakes in resizing adsense ads.

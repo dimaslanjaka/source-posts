@@ -7,21 +7,19 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s6.dunia21.net/wp-content/uploads/2018/02/film-tiger-zinda-hai-2017.jpg
-date: 2018-12-22T13:43:00.000+07:00
+date: 2018-12-22T06:43:00.000Z
 description: "import
   urlhttps://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstr\
   ap.min.css; .content ,.keyword ,.keywords "
 lang: en
-photos:
-  - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s6.dunia21.net/wp-content/uploads/2018/02/film-tiger-zinda-hai-2017.jpg
 tags:
   - movies
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s6.dunia21.net/wp-content/uploads/2018/02/film-tiger-zinda-hai-2017.jpg
 title: Download Tiger Zinda Hai 2017 Indonesian Subtitles Movie Free Movie Bluray
 type: post
-updated: 2023-08-08T14:45:35+07:00
+updated: 2023-08-08T07:45:35.000Z
 wordcount: 3141
+
 ---
 
 <div>

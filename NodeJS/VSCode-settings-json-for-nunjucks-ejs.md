@@ -3,22 +3,20 @@ author: Dimas Lanjaka
 categories:
   - programming
 comments: true
-cover: https://miro.medium.com/max/1400/1*Q1xstpngN6E4H-WHLySJvg.png
-date: 2022-11-10T07:45:00+07:00
+date: 2022-11-10T00:45:00.000Z
 description: VSCode settings JSON for nunjucks and EJS Download VSCode Nunjucks
   Plugin
   ResourceLinkMarketplacehttps://marketplace.visualstudio.com/items?itemName=ginfuru.bet
 lang: en
 permalink: /2022/10/vscode-settings-json-for-nunjucks-ejs.html
-photos:
-  - https://miro.medium.com/max/1400/1*Q1xstpngN6E4H-WHLySJvg.png
 tags:
   - vscode
 thumbnail: https://miro.medium.com/max/1400/1*Q1xstpngN6E4H-WHLySJvg.png
 title: VSCode settings JSON for nunjucks and EJS
 type: post
-updated: 2023-08-08T14:44:14+07:00
+updated: 2023-08-08T07:44:14.000Z
 wordcount: 1316
+
 ---
 
 ## Download VSCode Nunjucks Plugin

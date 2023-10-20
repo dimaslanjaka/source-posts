@@ -6,14 +6,11 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 date: 2017-10-15T17:45:00.000Z
 description: "Windows 8: Backup UI Modern Apps Data Offline, Restore dengan
   mudah Saat Anda mendownload aplikasi dari Windows Store, ini terkait dengan
   akun Microsoft Anda. H"
 lang: en
-photos:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
   - tips & tricks
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png

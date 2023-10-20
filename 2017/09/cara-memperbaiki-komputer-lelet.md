@@ -6,20 +6,18 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://imgdb.net/images/3181.png
-date: 2017-09-19T16:11:00.000+07:00
+date: 2017-09-19T09:11:00.000Z
 description: Cara Memperbaiki komputer lelet Memperbaiki komputer lelet atau
   lemot menjadi komputer serasa baru. registry mungkin sudah rusak atau error
   atau faktor lainnyaD
 lang: en
-photos:
-  - https://imgdb.net/images/3181.png
 tags:
   - tips & tricks
 thumbnail: https://imgdb.net/images/3181.png
 title: Cara Memperbaiki komputer lelet
 type: post
-updated: 2023-08-08T14:45:48+07:00
+updated: 2023-08-08T07:45:48.000Z
+
 ---
 
 Memperbaiki komputer lelet atau lemot menjadi komputer serasa baru.

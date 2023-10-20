@@ -6,12 +6,9 @@ author:
 categories:
   - programming
 comments: true
-cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-date: 2020-10-17T04:26:00.004+07:00
+date: 2020-10-16T21:26:00.004Z
 description: PHP Snippet get real visitor/user ip support localhost XAMPP
 lang: en
-photos:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
   - script
   - php
@@ -20,8 +17,9 @@ tags:
 thumbnail: https://i.ytimg.com/vi/amIclgSsi7Y/maxresdefault.jpg
 title: "[PHP] Detect User Client IP XAMPP or Localhost Machine Supported"
 type: post
-updated: 2023-09-03T04:28:07+07:00
+updated: 2023-09-02T21:28:07.000Z
 wordcount: 638
+
 ---
 
 ## Snippet get real visitor/user ip (support localhost XAMPP)

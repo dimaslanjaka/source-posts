@@ -6,13 +6,10 @@ categories:
   - games
   - the legend of neverland
 comments: false
-cover: https://image.winudf.com/v2/image1/dGguaW4uc2lhbWdhbWUuZ2dwbGF5LnNqenRzZWFfc2NyZWVuXzBfMTYwOTI0NzAyN18wNTQ/screen-0.jpg?fakeurl=1&type=.jpg
-date: 2021-08-15T00:00:00+07:00
+date: 2021-08-14T17:00:00.000Z
 description: Trial Of Time the legend of neverland stage location
 lang: en
 location: Indonesia
-photos:
-  - https://image.winudf.com/v2/image1/dGguaW4uc2lhbWdhbWUuZ2dwbGF5LnNqenRzZWFfc2NyZWVuXzBfMTYwOTI0NzAyN18wNTQ/screen-0.jpg?fakeurl=1&type=.jpg
 related_posts:
   - /The Legend Of Neverland/Quiz.html
 tags:
@@ -20,8 +17,9 @@ tags:
 thumbnail: https://image.winudf.com/v2/image1/dGguaW4uc2lhbWdhbWUuZ2dwbGF5LnNqenRzZWFfc2NyZWVuXzBfMTYwOTI0NzAyN18wNTQ/screen-0.jpg?fakeurl=1&type=.jpg
 title: Trial Of Time The Legend Of Neverland
 type: post
-updated: 2023-08-08T14:44:11+07:00
+updated: 2023-08-08T07:44:11.000Z
 wordcount: 25
+
 ---
 
   # Trial of time gate locations

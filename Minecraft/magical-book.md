@@ -4,24 +4,22 @@ categories:
   - games
   - minecraft
 comments: true
-cover: /Minecraft/magical-book/minecraft-enchant-at-anvil-900x506.jpg
-date: 2021-12-12T13:01:00+07:00
+date: 2021-12-12T06:01:00.000Z
 description: All Description And Usages Of Magical Books Minecraft
 keywords:
   - magical books
   - enchantments
   - minecraft
 lang: en
-photos:
-  - /Minecraft/magical-book/minecraft-enchant-at-anvil-900x506.jpg
 tags: []
 thumbnail: /Minecraft/magical-book/minecraft-enchant-at-anvil-900x506.jpg
 title: Magical Books
 toc: true
 type: post
-updated: 2023-08-08T14:44:16+07:00
+updated: 2023-08-08T07:44:16.000Z
 webtitle: Minecraft
 wordcount: 2597
+
 ---
 
 # List of all Magical Book Minecraft Enchantments

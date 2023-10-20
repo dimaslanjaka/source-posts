@@ -6,13 +6,10 @@ categories:
   - games
   - the legend of neverland
 comments: true
-cover: http://i3.ytimg.com/vi/psOnlBSRBjA/maxresdefault.jpg
-date: 2021-08-31T00:00:00+07:00
+date: 2021-08-30T17:00:00.000Z
 description: Chest Winged Hairband location in the legend of neverland
 lang: en
 location: Indonesia
-photos:
-  - http://i3.ytimg.com/vi/psOnlBSRBjA/maxresdefault.jpg
 related_posts:
   - /The%20Legend%20Of%20Neverland/Chest/Colorful%20Auspicious%20Nimbus%20Cloud.html
 tags:
@@ -20,8 +17,9 @@ tags:
 thumbnail: http://i3.ytimg.com/vi/psOnlBSRBjA/maxresdefault.jpg
 title: Winged Hairband
 type: post
-updated: 2023-08-08T14:44:21+07:00
+updated: 2023-08-08T07:44:21.000Z
 wordcount: 236
+
 ---
 
 ## Requirement

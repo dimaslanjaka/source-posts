@@ -4,8 +4,7 @@ categories:
   - education
   - math
 comments: true
-cover: https://imgix2.ruangguru.com/assets/miscellaneous/png_yr7v2m_1615.png
-date: 2022-10-16T02:42:33+07:00
+date: 2022-10-15T19:42:33.000Z
 description: Memahami rumus jarak, kecepatan, waktu, rata-rata dalam matematika
 keywords:
   - rumus jarak
@@ -13,8 +12,6 @@ keywords:
   - rumus waktu
   - rumus rata-rata
 lang: id
-photos:
-  - https://imgix2.ruangguru.com/assets/miscellaneous/png_yr7v2m_1615.png
 tags:
   - distance
   - time
@@ -23,8 +20,9 @@ tags:
 thumbnail: https://imgix2.ruangguru.com/assets/miscellaneous/png_yr7v2m_1615.png
 title: Rumus Jarak, Kecepatan, Waktu, Dan Rata-rata
 type: post
-updated: 2023-08-08T14:44:16+07:00
+updated: 2023-08-08T07:44:16.000Z
 wordcount: 1731
+
 ---
 
 ## Singkatan jarak, kecepatan, waktu

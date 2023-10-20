@@ -6,13 +6,10 @@ author:
 categories:
   - programming
 comments: true
-cover: https://i2.wp.com/legeeks.org/wp-content/uploads/2013/12/1.jpg?resize=427%2C281
-date: 2017-04-15T04:55:00.000+07:00
+date: 2017-04-14T21:55:00.000Z
 description: Kode SEO Optimalkan Blogger Blog Anda.Blogger adalah salah satu
   platform blogging yang paling sering digunakan, tapi pasti memiliki
 lang: en
-photos:
-  - https://i2.wp.com/legeeks.org/wp-content/uploads/2013/12/1.jpg?resize=427%2C281
 tags:
   - seo
   - blogger
@@ -20,8 +17,9 @@ tags:
 thumbnail: https://i2.wp.com/legeeks.org/wp-content/uploads/2013/12/1.jpg?resize=427%2C281
 title: 4 Kode SEO Optimalkan Blogger Blog Anda
 type: post
-updated: 2023-09-03T06:14:00+07:00
+updated: 2023-09-02T23:14:00.000Z
 wordcount: 6821
+
 ---
 
 <div dir="ltr">

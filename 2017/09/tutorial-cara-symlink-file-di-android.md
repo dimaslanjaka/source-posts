@@ -6,21 +6,19 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://imgdb.net/images/3179.png
-date: 2017-09-03T15:36:00.003+07:00
-description: 'Tutorial Cara symlink file di android SYMLINK file di android
+date: 2017-09-03T08:36:00.003Z
+description: "Tutorial Cara symlink file di android SYMLINK file di android
   tutorial.bagaimana cara symlink/symbolic links folder atau file di
-  android.Jika Perangkat Android '
+  android.Jika Perangkat Android "
 lang: en
-photos:
-  - https://imgdb.net/images/3179.png
 tags:
   - android
   - tips & tricks
 thumbnail: https://imgdb.net/images/3179.png
 title: Tutorial Cara symlink file di android
 type: post
-updated: 2023-10-16T03:22:55+07:00
+updated: 2023-10-15T20:22:55.000Z
+
 ---
 
 SYMLINK file di android tutorial.

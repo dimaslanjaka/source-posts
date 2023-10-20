@@ -6,13 +6,10 @@ categories:
   - games
   - the legend of neverland
 comments: false
-cover: /The Legend Of Neverland/Recipes/recipes.jpg
-date: 2021-08-15T00:00:00+07:00
+date: 2021-08-14T17:00:00.000Z
 description: Cooking recipes in the legend of neverland game android ios
 lang: en
 location: Indonesia
-photos:
-  - /The Legend Of Neverland/Recipes/recipes.jpg
 tags:
   - life skill
   - tlon
@@ -20,8 +17,9 @@ tags:
 thumbnail: /The Legend Of Neverland/Recipes/recipes.jpg
 title: Cooking Recipes The Legend Of Neverland
 type: post
-updated: 2023-08-08T14:44:12+07:00
+updated: 2023-08-08T07:44:12.000Z
 wordcount: 1580
+
 ---
 
   <!-- toc -->

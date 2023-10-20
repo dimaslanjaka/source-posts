@@ -6,13 +6,10 @@ author:
 categories:
   - programming
 comments: true
-cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/tbvxFW4UJdU/maxresdefault.jpg
-date: 2019-07-12T19:36:00.001+07:00
+date: 2019-07-12T12:36:00.001Z
 description: "Google Recaptcha V3 Complete Code Requirements jQuery if not it
   will automated added into pages if typeof jQuery == undefined window.jQuery "
 lang: en
-photos:
-  - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/tbvxFW4UJdU/maxresdefault.jpg
 tags:
   - javascript
   - html
@@ -20,8 +17,9 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/tbvxFW4UJdU/maxresdefault.jpg
 title: "[JS] Google Recaptcha V3 Complete Code"
 type: post
-updated: 2023-09-03T06:34:53+07:00
+updated: 2023-09-02T23:34:53.000Z
 wordcount: 1605
+
 ---
 
 ![grecaptcha](https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/tbvxFW4UJdU/maxresdefault.jpg)

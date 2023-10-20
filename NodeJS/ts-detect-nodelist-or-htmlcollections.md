@@ -6,8 +6,7 @@ author:
 categories:
   - programming
 comments: true
-cover: https://i.ytimg.com/vi/ubNP6fbT2Ac/maxresdefault.jpg
-date: 2021-11-28T07:00:00+07:00
+date: 2021-11-28T00:00:00.000Z
 description: How to detect HTMLCollection/NodeList in JavaScript/Typescript?
 keywords:
   - typescript
@@ -15,17 +14,16 @@ keywords:
   - HTMLCollectionOf
 lang: en
 location: Indonesia
-photos:
-  - https://i.ytimg.com/vi/ubNP6fbT2Ac/maxresdefault.jpg
 tags:
   - typescript
   - javascript
 thumbnail: https://i.ytimg.com/vi/ubNP6fbT2Ac/maxresdefault.jpg
 title: HTMLCollection/NodeList in JavaScript/Typescript?
 type: post
-updated: 2023-09-03T04:27:59+07:00
+updated: 2023-09-02T21:27:59.000Z
 webtitle: NodeJS
 wordcount: 508
+
 ---
 
 # How to detect HTMLCollection/NodeList in JavaScript/Typescript?

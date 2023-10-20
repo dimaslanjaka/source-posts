@@ -4,8 +4,7 @@ categories:
   - games
   - minecraft
 comments: true
-cover: /Minecraft/install-shaders/cover.jpg
-date: 2021-12-16T22:57:00+07:00
+date: 2021-12-16T15:57:00.000Z
 description: Belajar Memasang Shader di Minecraft 1.18.1 dalam tutorial
   terperinci ini dengan screenshot
 keywords:
@@ -13,16 +12,15 @@ keywords:
   - tutorial
   - minecraft
 lang: id
-photos:
-  - /Minecraft/install-shaders/cover.jpg
 tags: []
 thumbnail: /Minecraft/install-shaders/cover.jpg
 title: Bagaimana cara install shaders minecraft
 toc: true
 type: post
-updated: 2023-08-08T14:44:16+07:00
+updated: 2023-08-08T07:44:16.000Z
 webtitle: Minecraft
 wordcount: 1337
+
 ---
 
 # Shaders

@@ -3,12 +3,9 @@ author: Dimas Lanjaka
 categories:
   - flashing
 comments: true
-cover: /2022/07/mengatasi-flash-qfil-error/cover.jpg
-date: 2022-07-28
+date: 2022-07-28T00:00:00.000Z
 description: Solusi Flash QFIL Error
 lang: en
-photos:
-  - /2022/07/mengatasi-flash-qfil-error/cover.jpg
 tags:
   - qfil
   - firmware
@@ -17,6 +14,7 @@ title: Cara Mengatasi Flash QFIL Error
 type: post
 updated: 2023-09-02T22:03:14.245Z
 wordcount: 1450
+
 ---
 
 ## Langkah-langkah mengatasi error flash QFIL
@@ -85,4 +83,3 @@ bcdedit.exe -set TESTSIGNING ON
 Tags:
 - Mengatasi sahara error QFIL
 - How to Fix Sahara Fail Error in QFIL
-

@@ -6,21 +6,19 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: http://juragancipir.com/wp-content/uploads/2014/02/Unit-iklan-khusus.png
-date: 2017-04-19T07:49:00.000+07:00
+date: 2017-04-19T00:49:00.000Z
 description: How to Determine Size Special Ad Adsense Most TrueGoogle adsense
   since last few months has launched a new ad sizes, ie custom ad sizes or
 lang: en
-photos:
-  - http://juragancipir.com/wp-content/uploads/2014/02/Unit-iklan-khusus.png
 tags:
   - adsense
 thumbnail: http://juragancipir.com/wp-content/uploads/2014/02/Unit-iklan-khusus.png
 title: How to Determine Size Special Ad Adsense Most True
 type: post
-updated: 2023-08-08T14:46:00+07:00
+updated: 2023-08-08T07:46:00.000Z
 webtitle: Adsense
 wordcount: 2052
+
 ---
 
 <div dir="ltr">

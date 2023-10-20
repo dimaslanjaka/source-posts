@@ -6,22 +6,20 @@ categories:
   - games
   - genshin impact
 comments: true
-cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://uploadstatic-sea.mihoyo.com/contentweb/20210201/2021020109195088725.jpg
-date: 2021-06-07T00:00:00+07:00
+date: 2021-06-06T17:00:00.000Z
 description: Update Genshin Impact 1.5.1 - 1.6.0 Manual
 lang: en
 location: Indonesia
-photos:
-  - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://uploadstatic-sea.mihoyo.com/contentweb/20210201/2021020109195088725.jpg
 tags:
   - games
   - genshin impact
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://uploadstatic-sea.mihoyo.com/contentweb/20210201/2021020109195088725.jpg
 title: Update Genshin Impact 1.6.0 Manual
 type: post
-updated: 2023-08-08T14:44:23+07:00
+updated: 2023-08-08T07:44:23.000Z
 webtitle: WMI Genshin Impact
 wordcount: 226
+
 ---
 
 Update genshin impact `1.6.1` manual via download manager (IDM).

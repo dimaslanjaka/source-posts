@@ -6,21 +6,19 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://dimaslanjaka-storage.000webhostapp.com/img.php?type=jpeg&url=https://image.tmdb.org/t/p/w185/qey0tdcOp9kCDdEZuJ87yE3crSe.jpg
-date: 2018-11-22T08:09:00.000+07:00
+date: 2018-11-22T01:09:00.000Z
 description: Download film axl 2018 subtitle indonesia download movie Download
   film axl 2018 subtitle indonesia download movie The life of a teenage boy is
   forever changed b
 lang: en
-photos:
-  - https://dimaslanjaka-storage.000webhostapp.com/img.php?type=jpeg&url=https://image.tmdb.org/t/p/w185/qey0tdcOp9kCDdEZuJ87yE3crSe.jpg
 tags:
   - movies
 thumbnail: https://dimaslanjaka-storage.000webhostapp.com/img.php?type=jpeg&url=https://image.tmdb.org/t/p/w185/qey0tdcOp9kCDdEZuJ87yE3crSe.jpg
 title: Download film axl 2018 subtitle indonesia download  movie
 type: post
-updated: 2023-08-08T14:45:38+07:00
+updated: 2023-08-08T07:45:38.000Z
 wordcount: 1245
+
 ---
 
 <h1 for="title" class="notranslate">

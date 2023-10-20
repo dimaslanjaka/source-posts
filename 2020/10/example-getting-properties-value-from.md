@@ -6,21 +6,19 @@ author:
 categories:
   - programming
 comments: true
-cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-date: 2020-10-24T09:19:00.000+07:00
+date: 2020-10-24T02:19:00.000Z
 description: Example getting properties value from settings.gradle.kts
   pluginManagement resolutionStrategy eachPlugin // Work around
   https://github.com/gradle/gradle/issues/
 lang: en
-photos:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
   - kotlin
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Example getting properties value from settings.gradle.kts
 type: post
-updated: 2023-09-03T04:28:07+07:00
+updated: 2023-09-02T21:28:07.000Z
 wordcount: 292
+
 ---
 
 ```kotlin

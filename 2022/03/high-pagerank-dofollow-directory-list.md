@@ -3,20 +3,18 @@ author: Dimas Lanjaka
 categories:
   - uncategorized
 comments: true
-cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.forbesindia.com/media/images/2020/Sep/img_143399_backlinks900x600.jpg
-date: 2022-03-25
+date: 2022-03-25T00:00:00.000Z
 description: High Pagerank Dofollow Directory List
 lang: en
-photos:
-  - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.forbesindia.com/media/images/2020/Sep/img_143399_backlinks900x600.jpg
 tags:
   - seo
   - blogging
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://www.forbesindia.com/media/images/2020/Sep/img_143399_backlinks900x600.jpg
 title: High Pagerank Dofollow Directory List
 type: post
-updated: 2023-08-08T14:45:10+07:00
+updated: 2023-08-08T07:45:10.000Z
 wordcount: 1497
+
 ---
 
 **If I get a new one, I will always update the list. For now and also for the future, I suggest making between dofollow backlinks and nofollow backlinks that lead to a balanced blog, or still in a very reasonable category**, if you don't want your blog to get Google Penalty sanctions later.

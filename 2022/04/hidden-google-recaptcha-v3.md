@@ -3,7 +3,6 @@ author: Dimas Lanjaka
 categories:
   - programming
 comments: true
-cover: https://miro.medium.com/max/309/1*5kaPMxO2svjJ5k34zOwmrg.png
 date: 2022-04-18T17:12:30+0000
 description: Google recaptcha V3 support reload token without Reload Pages
 keywords:
@@ -11,16 +10,15 @@ keywords:
   - reload recaptcha without refresh page
   - hidden recaptcha v3
 lang: en
-photos:
-  - https://miro.medium.com/max/309/1*5kaPMxO2svjJ5k34zOwmrg.png
 tags:
   - javascript
   - recaptcha
 thumbnail: https://miro.medium.com/max/309/1*5kaPMxO2svjJ5k34zOwmrg.png
 title: Recaptcha V3 Complete Code
 type: post
-updated: 2023-09-03T06:34:27+07:00
+updated: 2023-09-02T23:34:27.000Z
 wordcount: 775
+
 ---
 
 ## How to refresh token google recaptcha v3 (hidden recaptcha supported)
@@ -75,4 +73,3 @@ FULL DEMO:
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-

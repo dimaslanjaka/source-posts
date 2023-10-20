@@ -3,14 +3,11 @@ author: Dimas Lanjaka
 categories:
   - programming
 comments: true
-cover: https://bobbyhadz.com/images/blog/node-type-error-err-import-assertion-type-missing/typeerror-err-import-assertion-type-missing.webp
-date: 2022-10-29T11:21:14+07:00
+date: 2022-10-29T04:21:14.000Z
 description: "TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix How to
   fix TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module Example import
   import countryTable fro"
 lang: en
-photos:
-  - https://bobbyhadz.com/images/blog/node-type-error-err-import-assertion-type-missing/typeerror-err-import-assertion-type-missing.webp
 tags:
   - typescript
   - typeerror
@@ -20,6 +17,7 @@ title: TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING] Module Fix
 type: post
 updated: 2023-09-02T21:09:09.395Z
 wordcount: 620
+
 ---
 
 # How to fix TypeError [ERR_IMPORT_ASSERTION_TYPE_MISSING]: Module...
@@ -86,5 +84,3 @@ const { default: thesaurus }: { default: Thesaurus } = await import('./thesaurus
   }
 });
 ```
-
-

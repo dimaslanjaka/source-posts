@@ -6,21 +6,19 @@ author:
 categories:
   - programming
 comments: true
-cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/jFazrvLodrA/maxresdefault.jpg
-date: 2019-08-02T19:10:00.000+07:00
+date: 2019-08-02T12:10:00.000Z
 description: "Check number is Odd or Even [JS] var oddoreven = function n =
   false, type = odd var time = n ? new Date.getDay : Numbern; if
   /^-0,1\\d/.testtime alertarguments i"
 lang: en
-photos:
-  - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/jFazrvLodrA/maxresdefault.jpg
 tags:
   - javascript
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://i.ytimg.com/vi/jFazrvLodrA/maxresdefault.jpg
 title: Check number is Odd or Even [JS]
 type: post
-updated: 2023-09-03T06:34:51+07:00
+updated: 2023-09-02T23:34:51.000Z
 wordcount: 204
+
 ---
 
 ```js

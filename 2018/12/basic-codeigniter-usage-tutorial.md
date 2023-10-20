@@ -6,13 +6,10 @@ author:
 categories:
   - programming
 comments: true
-cover: http://www.tutorial-webdesign.com/wp-content/uploads/2014/01/codeigniter.png
 date: 2018-12-18T13:17:00.000Z
 description: In this tutorial, the author will provide a tutorial on the basic
   use of the php framework is CodeIgniter.The author uses CodeIgniter v
 lang: en
-photos:
-  - http://www.tutorial-webdesign.com/wp-content/uploads/2014/01/codeigniter.png
 tags:
   - tools
   - codeigniter

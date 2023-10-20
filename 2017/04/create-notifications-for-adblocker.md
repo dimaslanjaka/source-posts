@@ -6,12 +6,9 @@ author:
 categories:
   - programming
 comments: true
-cover: https://1.bp.blogspot.com/-jpczn1kqplU/V4l0xj58D6I/AAAAAAAAnRU/GK2SYUZJ-4ERJuePuYYJlu4Ka-2PBLoYgCLcB/w1100/notifikasi-adblocker.jpg
-date: 2017-04-13T07:22:00.000+07:00
+date: 2017-04-13T00:22:00.000Z
 description: Create Notifications For Adblocker Adsense Users
 lang: en
-photos:
-  - https://1.bp.blogspot.com/-jpczn1kqplU/V4l0xj58D6I/AAAAAAAAnRU/GK2SYUZJ-4ERJuePuYYJlu4Ka-2PBLoYgCLcB/w1100/notifikasi-adblocker.jpg
 tags:
   - adsense
   - css
@@ -21,8 +18,9 @@ tags:
 thumbnail: https://1.bp.blogspot.com/-jpczn1kqplU/V4l0xj58D6I/AAAAAAAAnRU/GK2SYUZJ-4ERJuePuYYJlu4Ka-2PBLoYgCLcB/w1100/notifikasi-adblocker.jpg
 title: Create Notifications For Adblocker Adsense Users
 type: post
-updated: 2023-09-03T06:30:34+07:00
+updated: 2023-09-02T23:30:34.000Z
 wordcount: 1619
+
 ---
 
 <div>

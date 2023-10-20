@@ -6,13 +6,10 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://1.bp.blogspot.com/-X8tdy9N2l8w/UJT2gcqpvLI/AAAAAAAAWUk/VPPxUYEMDPs/s1600/Windows-Store-Disable.png
 date: 2017-10-17T17:51:00.000Z
 description: Windows Store adalah tempat yang tepat untuk menemukan dan
   menginstal aplikasi, namun dalam situasi tertentu Anda sebagai orang tua
 lang: en
-photos:
-  - https://1.bp.blogspot.com/-X8tdy9N2l8w/UJT2gcqpvLI/AAAAAAAAWUk/VPPxUYEMDPs/s1600/Windows-Store-Disable.png
 tags:
   - tips & tricks
 thumbnail: https://1.bp.blogspot.com/-X8tdy9N2l8w/UJT2gcqpvLI/AAAAAAAAWUk/VPPxUYEMDPs/s1600/Windows-Store-Disable.png

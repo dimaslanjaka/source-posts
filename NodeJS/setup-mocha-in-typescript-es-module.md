@@ -3,14 +3,11 @@ author: Dimas Lanjaka
 categories:
   - programming
 comments: true
-cover: https://user-images.githubusercontent.com/17888086/62067383-2fe4af00-b1f9-11e9-88c4-4953bb090215.png
-date: 2022-10-29T13:14:19+07:00
+date: 2022-10-29T06:14:19.000Z
 description: How to setup mocha in typescript ES Module Install dependencies npm
   npm install -D mocha chai ts-mocha typescript ts-node .mocharc.json for
   typescript ESM proje
 lang: en
-photos:
-  - https://user-images.githubusercontent.com/17888086/62067383-2fe4af00-b1f9-11e9-88c4-4953bb090215.png
 tags:
   - mocha
   - typescript
@@ -19,8 +16,9 @@ tags:
 thumbnail: https://user-images.githubusercontent.com/17888086/62067383-2fe4af00-b1f9-11e9-88c4-4953bb090215.png
 title: How to setup mocha in typescript ES Module
 type: post
-updated: 2023-09-03T04:27:59+07:00
+updated: 2023-09-02T21:27:59.000Z
 wordcount: 330
+
 ---
 
 ## Install dependencies
@@ -91,4 +89,3 @@ mocha --reporter doc > reports/report.html
 
 ## Result Screenshots
 ![Using ts-mocha](https://user-images.githubusercontent.com/12471057/198816982-3f460b71-7105-4211-806e-9e5fcdab1c03.png)
-

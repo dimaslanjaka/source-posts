@@ -4,22 +4,20 @@ categories:
   - games
   - minecraft
 comments: true
-cover: https://i.ytimg.com/vi/sSnrK7m2RFo/maxresdefault.jpg
-date: 2021-12-12T13:01:00+07:00
+date: 2021-12-12T06:01:00.000Z
 description: How to use magical books for bow
 keywords:
   - bow
   - minecraft
 lang: en
-photos:
-  - https://i.ytimg.com/vi/sSnrK7m2RFo/maxresdefault.jpg
 tags: []
 thumbnail: https://i.ytimg.com/vi/sSnrK7m2RFo/maxresdefault.jpg
 title: Magical Book For Bow
 type: post
-updated: 2023-08-08T14:44:15+07:00
+updated: 2023-08-08T07:44:15.000Z
 webtitle: Minecraft
 wordcount: 1013
+
 ---
 
 # Super Magical Bow Recipes

@@ -6,8 +6,7 @@ author:
 categories:
   - programming
 comments: true
-cover: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0Jbr1UikPXCMcKYhYI8In9l8ajc_-DJiJInkoPOmc0t4Vi3zz
-date: 2017-04-30T01:34:00+07:00
+date: 2017-04-29T18:34:00.000Z
 description: Bagaimana Cara mempercepat loading blogger AMP maupun NON AMP.
   Langkah awal mempercepat loading <b>AMP Blogger</b> maupun
 keywords:
@@ -19,8 +18,6 @@ keywords:
   - Bagaimana cara mempercepat loading blog dengan link metatag
   - Bagaimana cara mempercepat loading blogger AMP maupun NON AMP
 lang: id
-photos:
-  - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0Jbr1UikPXCMcKYhYI8In9l8ajc_-DJiJInkoPOmc0t4Vi3zz
 tags:
   - blogger
   - html
@@ -28,8 +25,9 @@ tags:
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0Jbr1UikPXCMcKYhYI8In9l8ajc_-DJiJInkoPOmc0t4Vi3zz
 title: Cara Mempercepat Blogger Dengan dns-prefetch metatag
 type: post
-updated: 2023-09-03T04:28:47+07:00
+updated: 2023-09-02T21:28:47.000Z
 wordcount: 581
+
 ---
 
 <b>Bagaimana Cara mempercepat loading blogger AMP maupun NON AMP.</b>

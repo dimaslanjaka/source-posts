@@ -5,22 +5,20 @@ author:
 categories:
   - programming
 comments: false
-cover: /RegExp/RegExp/badwords.png
-date: 2021-09-22T00:00:00+07:00
+date: 2021-09-21T17:00:00.000Z
 description: Match string not containing string, exclude badwords
 lang: en
 location: Indonesia
-photos:
-  - /RegExp/RegExp/badwords.png
 tags:
   - regexp
   - regular expression
 thumbnail: /RegExp/RegExp/badwords.png
 title: Badword
 type: post
-updated: 2023-09-03T04:27:59+07:00
+updated: 2023-09-02T21:27:59.000Z
 webtitle: RegExp
 wordcount: 13
+
 ---
 
 <!--toc-->

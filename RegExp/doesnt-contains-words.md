@@ -3,20 +3,18 @@ author: Dimas Lanjaka
 categories:
   - programming
 comments: true
-cover: https://res.cloudinary.com/practicaldev/image/fetch/https://images.ctfassets.net/f20lfrunubsq/3VjnlRLGZqdWhDPENCTGQl/ab3c078638607cf2a3d35f4b0cf10fa1/Screenshot_2019-11-03_at_16.57.11__2_.png
 date: 2022-03-30T06:43:38+0000
 description: RegExp Match Doesnt Contain Words RegEx to tell if a string does
   not contain a specific character Are you trying to test whether or not a
   string does not contai
 lang: en
-photos:
-  - https://res.cloudinary.com/practicaldev/image/fetch/https://images.ctfassets.net/f20lfrunubsq/3VjnlRLGZqdWhDPENCTGQl/ab3c078638607cf2a3d35f4b0cf10fa1/Screenshot_2019-11-03_at_16.57.11__2_.png
 tags: []
 thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/https://images.ctfassets.net/f20lfrunubsq/3VjnlRLGZqdWhDPENCTGQl/ab3c078638607cf2a3d35f4b0cf10fa1/Screenshot_2019-11-03_at_16.57.11__2_.png
 title: RegExp Match Doesnt Contain Words
 type: post
-updated: 2023-09-03T06:13:01+07:00
+updated: 2023-09-02T23:13:01.000Z
 wordcount: 1507
+
 ---
 
 ## RegEx to tell if a string does not contain a specific character

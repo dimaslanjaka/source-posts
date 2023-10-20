@@ -3,22 +3,20 @@ author: Dimas Lanjaka
 categories:
   - programming
 comments: true
-cover: https://i3.ytimg.com/vi/FgG5nYW5EUA/maxresdefault.jpg
 date: 2022-03-27T03:02:25+0000
 description: "Change wordpress table prefix updated 2022 How to change wordpress
   table prefix NOTE: replace NEWPREFIX_ and OLDPREFIX_ with yours NEWPREFIX_
   OLDPREFIX_ Step 1 "
 lang: en
-photos:
-  - https://i3.ytimg.com/vi/FgG5nYW5EUA/maxresdefault.jpg
 tags:
   - wordpress
   - mysql
 thumbnail: https://i3.ytimg.com/vi/FgG5nYW5EUA/maxresdefault.jpg
 title: Change wordpress table prefix updated 2022
 type: post
-updated: 2023-09-03T06:13:09+07:00
+updated: 2023-09-02T23:13:09.000Z
 wordcount: 840
+
 ---
 
 ## How to change wordpress table prefix
@@ -72,4 +70,3 @@ update NEWPREFIX_usermeta set meta_key = 'NEWPREFIX_user_level' where meta_key =
 update NEWPREFIX_usermeta set meta_key = 'NEWPREFIX_autosave_draft_ids' where meta_key = 'OLDPREFIX_autosave_draft_ids';
 update NEWPREFIX_options set option_name = 'NEWPREFIX_user_roles' where option_name = 'OLDPREFIX_user_roles';
 ```
-

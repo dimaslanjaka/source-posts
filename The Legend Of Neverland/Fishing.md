@@ -6,13 +6,10 @@ categories:
   - games
   - the legend of neverland
 comments: true
-cover: /The Legend Of Neverland/Fishing/Studio_Project.jpeg
-date: 2021-09-19T00:00:00+07:00
+date: 2021-09-18T17:00:00.000Z
 description: Macros Auto Fishing Bluestacks for the legend of neverland download
 lang: en
 location: Indonesia
-photos:
-  - /The Legend Of Neverland/Fishing/Studio_Project.jpeg
 tags:
   - macros
   - bluestacks
@@ -22,6 +19,7 @@ title: Auto Fishing
 type: post
 updated: 2023-09-02T22:00:09.779Z
 wordcount: 754
+
 ---
 
 Fishing in the legend of neverland is an important activity to collect fish and then sell them and get 'water essences'. Water Essences are used to buy ingredients in the `cooking shop`. You can see the recipe at [Cooking Recipes](/The%20Legend%20Of%20Neverland/Recipes.html).

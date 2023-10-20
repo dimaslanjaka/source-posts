@@ -6,19 +6,17 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s3.dunia21.net/wp-content/uploads/2017/06/film-baaghi-2016.jpg
-date: 2018-11-23T23:26:00.000+07:00
+date: 2018-11-23T16:26:00.000Z
 description: .content ,.keyword ,.keywords max-width:100 @import
 lang: en
-photos:
-  - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s3.dunia21.net/wp-content/uploads/2017/06/film-baaghi-2016.jpg
 tags:
   - movies
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s3.dunia21.net/wp-content/uploads/2017/06/film-baaghi-2016.jpg
 title: Download Baaghi 2016 Indonesian Subtitle Movie Free Movie Bluray
 type: post
-updated: 2023-08-08T14:45:39+07:00
+updated: 2023-08-08T07:45:39.000Z
 wordcount: 2274
+
 ---
 
 <div>

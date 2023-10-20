@@ -6,21 +6,19 @@ author:
 categories:
   - programming
 comments: true
-cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-date: 2020-08-03T08:26:00.001+07:00
+date: 2020-08-03T01:26:00.001Z
 description: If you Got this issue today on windows, but dont need to downgrade
   node, just as discussed on
 lang: en
-photos:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
   - javascript
   - regular expression
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: "Fix React Native error Invalid regular expression: /.\\\\__fixtures__"
 type: post
-updated: 2023-09-03T06:34:31+07:00
+updated: 2023-09-02T23:34:31.000Z
 wordcount: 134
+
 ---
 
 If you Got this issue today on windows, but don't need to downgrade node, just as discussed on

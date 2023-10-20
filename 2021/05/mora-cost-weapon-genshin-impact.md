@@ -4,15 +4,12 @@ categories:
   - games
   - genshin impact
 comments: true
-cover: /2021/05/mora-cost-weapon-genshin-impact/mora-cost-weapon.png
-date: 2021-05-14T20:30:00+07:00
+date: 2021-05-14T13:30:00.000Z
 description: Mora cost weapon genshin impact
 keywords:
   - Mora Cost
   - mora cost weapon genshin impact
 lang: en
-photos:
-  - /2021/05/mora-cost-weapon-genshin-impact/mora-cost-weapon.png
 tags:
   - genshin impact
   - games
@@ -20,9 +17,10 @@ tags:
 thumbnail: /2021/05/mora-cost-weapon-genshin-impact/mora-cost-weapon.png
 title: Mora Cost Weapon
 type: post
-updated: 2023-08-08T14:45:10+07:00
+updated: 2023-08-08T07:45:10.000Z
 webtitle: Genshin Impact
 wordcount: 872
+
 ---
 
 ## How much mora required to upgrade weapon to maximum level on genshin impact?

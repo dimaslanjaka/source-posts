@@ -5,8 +5,7 @@ author:
 categories:
   - programming
 comments: true
-cover: /GitHub/workflows/cover.png
-date: 2021-11-23T02:00:00+07:00
+date: 2021-11-22T19:00:00.000Z
 description: Macam-macam kondisional pada github workflows
 keywords:
   - GitHub
@@ -14,8 +13,6 @@ keywords:
   - yaml
 lang: id
 location: Indonesia
-photos:
-  - /GitHub/workflows/cover.png
 tags:
   - github-workflows
   - snippet
@@ -26,9 +23,10 @@ tags:
 thumbnail: /GitHub/workflows/cover.png
 title: Macam-macam kondisional pada github workflows
 type: post
-updated: 2023-09-03T04:28:01+07:00
+updated: 2023-09-02T21:28:01.000Z
 webtitle: WMI GitHub
 wordcount: 1496
+
 ---
 
 ## Kondisional pada GitHub Workflow

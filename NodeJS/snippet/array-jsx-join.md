@@ -3,14 +3,11 @@ author: Dimas Lanjaka
 categories:
   - programming
 comments: true
-cover: /NodeJS/assets/pngwing.com.png
-date: 2022-11-03T09:39:01+07:00
+date: 2022-11-03T02:39:01.000Z
 description: Array JSX Join Faq How to join array of JSXHow to array join of
   React Elements How to join array of JSX How to array join of React Elements
   JSX Array Join Javas
 lang: en
-photos:
-  - /NodeJS/assets/pngwing.com.png
 tags:
   - snippet
   - javascript
@@ -21,6 +18,7 @@ type: post
 updated: 2023-09-02T21:09:42.819Z
 webtitle: Snippet
 wordcount: 536
+
 ---
 
 ## Faq

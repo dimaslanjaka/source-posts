@@ -3,22 +3,20 @@ author: Dimas Lanjaka
 categories:
   - programming
 comments: true
-cover: /2022/10/cara-mengecualikan-kalimat-dalam-beberapa-elemen-dari-serp/cover.png
-date: 2022-10-12T10:38:30+07:00
+date: 2022-10-12T03:38:30.000Z
 description: cara menghilangkan beberapa kalimat dari artikel
 keywords:
   - menghilangkan kalimat artikel dari SERP
 lang: en
-photos:
-  - /2022/10/cara-mengecualikan-kalimat-dalam-beberapa-elemen-dari-serp/cover.png
 tags:
   - seo
   - html
 thumbnail: /2022/10/cara-mengecualikan-kalimat-dalam-beberapa-elemen-dari-serp/cover.png
 title: Cara mengecualikan kalimat dalam beberapa elemen dari serp
 type: post
-updated: 2023-09-03T04:28:05+07:00
+updated: 2023-09-02T21:28:05.000Z
 wordcount: 283
+
 ---
 
 ## Menggunakan atribut HTML data-nosnippet

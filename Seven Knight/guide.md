@@ -6,8 +6,7 @@ categories:
   - games
   - seven knight
 comments: true
-cover: https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021111001_cover.jpg
-date: 2021-11-30T20:00:00+07:00
+date: 2021-11-30T13:00:00.000Z
 description: Guide SK2 for F2P
 keywords:
   - Seven Knight
@@ -15,16 +14,15 @@ keywords:
   - F2P
 lang: en
 location: Indonesia
-photos:
-  - https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021111001_cover.jpg
 tags:
   - games
 thumbnail: https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021111001_cover.jpg
 title: F2P Guide
 type: post
-updated: 2023-08-08T14:44:13+07:00
+updated: 2023-08-08T07:44:13.000Z
 webtitle: Seven Knights 2
 wordcount: 35228
+
 ---
 
 <div>

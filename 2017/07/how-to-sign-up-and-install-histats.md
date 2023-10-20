@@ -6,13 +6,10 @@ author:
 categories:
   - programming
 comments: true
-cover: https://4.bp.blogspot.com/-wRS-Eyu86jI/V1EjfzBfDBI/AAAAAAAAH3g/6KiOnExqzUE_FGzf2zLefBXrt78IWbJ1gCLcB/s320/histats.jpg
 date: 2017-07-29T20:00:00.000Z
 description: have long wanted to make a post about getting visitor data and
   widgets from histats for Blog.But only now can terlakasana and I
 lang: en
-photos:
-  - https://4.bp.blogspot.com/-wRS-Eyu86jI/V1EjfzBfDBI/AAAAAAAAH3g/6KiOnExqzUE_FGzf2zLefBXrt78IWbJ1gCLcB/s320/histats.jpg
 tags:
   - blogger
 thumbnail: https://4.bp.blogspot.com/-wRS-Eyu86jI/V1EjfzBfDBI/AAAAAAAAH3g/6KiOnExqzUE_FGzf2zLefBXrt78IWbJ1gCLcB/s320/histats.jpg

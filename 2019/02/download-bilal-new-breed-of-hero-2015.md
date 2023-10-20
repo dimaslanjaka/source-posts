@@ -6,22 +6,20 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s4.dunia21.org/wp-content/uploads/2018/03/film-bilal-a-new-breed-of-hero-2018.jpg
-date: 2019-02-18T15:13:00.000+07:00
+date: 2019-02-18T08:13:00.000Z
 description: "import
   urlhttps://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstr\
   ap.min.css; .content ,.keyword ,.keywords "
 lang: en
-photos:
-  - https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s4.dunia21.org/wp-content/uploads/2018/03/film-bilal-a-new-breed-of-hero-2018.jpg
 tags:
   - movies
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://s4.dunia21.org/wp-content/uploads/2018/03/film-bilal-a-new-breed-of-hero-2018.jpg
 title: "Download Bilal: A New Breed Of Hero 2015 Indonesian Subtitles Movie Free
   Movie Bluray"
 type: post
-updated: 2023-08-08T14:45:32+07:00
+updated: 2023-08-08T07:45:32.000Z
 wordcount: 3188
+
 ---
 
 <div>

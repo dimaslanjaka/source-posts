@@ -6,13 +6,10 @@ categories:
   - games
   - the legend of neverland
 comments: true
-cover: https://i.ytimg.com/vi/lK7h30vvRuI/mqdefault.jpg
-date: 2021-08-21T00:00:00+07:00
+date: 2021-08-20T17:00:00.000Z
 description: Midi collection for the legend of neverland perform music skill
 lang: en
 location: Indonesia
-photos:
-  - https://i.ytimg.com/vi/lK7h30vvRuI/mqdefault.jpg
 related_posts:
   - /The%20Legend%20Of%20Neverland/Recipes.html
 tags:
@@ -22,8 +19,9 @@ tags:
 thumbnail: https://i.ytimg.com/vi/lK7h30vvRuI/mqdefault.jpg
 title: Midi The Legend Of Neverland
 type: post
-updated: 2023-08-08T14:44:12+07:00
+updated: 2023-08-08T07:44:12.000Z
 wordcount: 517
+
 ---
 
 ## NPC's favorite musical instrument

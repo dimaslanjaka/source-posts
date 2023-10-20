@@ -6,19 +6,17 @@ author:
 categories:
   - programming
 comments: true
-cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-date: 2019-07-29T06:42:00.000+07:00
+date: 2019-07-28T23:42:00.000Z
 description: Put execution arg into _GET PHP CLI
 lang: en
-photos:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
   - php
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Put execution arg into _GET PHP CLI
 type: post
-updated: 2023-09-03T04:28:22+07:00
+updated: 2023-09-02T21:28:22.000Z
 wordcount: 222
+
 ---
 
 **PHP CLI**

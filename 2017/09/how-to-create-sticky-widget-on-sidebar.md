@@ -6,8 +6,7 @@ author:
 categories:
   - programming
 comments: true
-cover: https://imgdb.net/images/3192.jpg
-date: 2017-09-13T14:55:00.000+07:00
+date: 2017-09-13T07:55:00.000Z
 description: How to Create a Sticky Widget in Blog Sidebar
 lang: en
 tags:
@@ -17,7 +16,8 @@ tags:
 thumbnail: https://imgdb.net/images/3192.jpg
 title: How to create sticky widget on sidebar blogger
 type: post
-updated: 2023-10-08T12:49:54+07:00
+updated: 2023-10-08T05:49:54.000Z
+
 ---
 
 ![](https://imgdb.net/images/3192.jpg)
