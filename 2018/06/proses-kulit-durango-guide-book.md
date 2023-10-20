@@ -4,17 +4,16 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - games
+  - durango
+tags:
+  - durango
+  - android
 comments: true
 date: 2018-06-17T20:28:00.001Z
 description: Nama Proses Bahan Hasil Buff Debuff Kulit Kering Kulit Kulit Kering
   - - Proses Pencokelatan Dengan
 lang: en
-tags:
-  - games
-  - durango
-  - android
-  - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png
 title: "Proses Kulit : Durango Wild Lands"
 type: post

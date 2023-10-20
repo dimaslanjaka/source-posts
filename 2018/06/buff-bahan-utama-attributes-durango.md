@@ -4,16 +4,15 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - games
+  - durango
+tags:
+  - durango
+  - android
 comments: true
 date: 2018-06-29T00:56:00.000Z
 description: Attributes BuffSenjata / WeaponsPakaian / ClothesMakanan / FoodsRingan /
 lang: en
-tags:
-  - games
-  - durango
-  - android
-  - tips & tricks
 thumbnail: https://4.bp.blogspot.com/-jB3ahTlpbOg/WzVjXZm_g-I/AAAAAAAAAS4/MTfdRe9Dcm8MoF6krkWY_d3iciZPaj4VACLcBGAs/s1600/FB_IMG_15302253070912946.jpg
 title: Buff Bahan Utama Attributes - Durango Wild Lands
 type: post

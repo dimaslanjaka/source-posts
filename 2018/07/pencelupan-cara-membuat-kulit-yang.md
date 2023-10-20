@@ -4,16 +4,16 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - games
+  - durango
+tags:
+  - durango
+  - android
 comments: true
 date: 2018-07-30T13:34:00.001Z
 description: Bunga zat warna Pearl Kekayaan Warna mirip dengan foto Beli
   Kumpulkan Pewarna harus diterapkan setidaknya 3 kali untuk
 lang: en
-tags:
-  - games
-  - durango
-  - android
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://upload2.inven.co.kr/upload/2018/07/28/bbs/i13154442828.jpg
 title: Cara membuat kulit yang dicat kasar Pewarna Tawas Durango Wild Lands
 type: post

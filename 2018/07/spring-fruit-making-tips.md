@@ -4,16 +4,16 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - games
+  - durango
+tags:
+  - durango
+  - android
 comments: true
 date: 2018-07-30T13:17:00.001Z
 description: . How to collect fruit PENACCODUS OPERATIONAL EVENT The island is
   caught in a 45-trench tropical
 lang: en
-tags:
-  - games
-  - durango
-  - android
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Spring Fruit Making Tips on Durango Wild Lands
 type: post

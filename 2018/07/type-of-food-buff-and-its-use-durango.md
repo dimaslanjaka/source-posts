@@ -4,16 +4,15 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - games
+  - durango
+tags:
+  - durango
+  - android
 comments: true
 date: 2018-07-11T15:58:00.000Z
 description: buff str you can get from various types ofdino meat that you hunt.
 lang: en
-tags:
-  - games
-  - durango
-  - android
-  - tips & tricks
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png
 title: Type of Food Buff Durango wild lands
 type: post

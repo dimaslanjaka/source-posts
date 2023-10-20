@@ -4,17 +4,16 @@ author:
   link: https://www.blogger.com/profile/17555754514989936273
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - games
+  - durango
+tags:
+  - durango
+  - android
 comments: true
 date: 2018-07-07T15:55:00.000Z
 description: Weapons are one of the most important elements in durango games,
   whatever we do in the game definitely requires
 lang: en
-tags:
-  - games
-  - durango
-  - android
-  - tips & tricks
 thumbnail: https://imgdb.net/images/3863.png
 title: List of weapon buff materials, effects and how it can be durango wild lands
 type: post
