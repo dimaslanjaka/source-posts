@@ -10,9 +10,6 @@ date: 2017-04-27T17:29:00.000Z
 description: Cara membuat banner sticky ads dengan tombol close di blogger
   Bagaimana cara membuat iklan banner melayang di footer page blogger dengan
   tombol close </body> <s
-excerpt: Cara membuat banner sticky ads dengan tombol close di blogger Bagaimana
-  cara membuat iklan banner melayang di footer page blogger dengan tombol close
-  </body> <s
 id: 9172691a-f5c9-4888-84ee-166b5505f987
 lang: en
 tags:
