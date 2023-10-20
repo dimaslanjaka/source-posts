@@ -231,6 +231,6 @@ See result below:
 Or visit this [SITEMAP DEMO](https://draft.blogger.com/p/sitemap.html)
 
 
-{% codepen https://codepen.io/dimaslanjaka/pen/qmZGJN default\_tab=result height=500 %}
+{% codepen https://codepen.io/dimaslanjaka/pen/qmZGJN default_tab=result height=500 %}
 
 This article be helpful ?. Please share this
