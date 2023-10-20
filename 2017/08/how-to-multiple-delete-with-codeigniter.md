@@ -6,12 +6,9 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://www.tutorial-webdesign.com/wp-content/uploads/2015/01/12.png
 date: 2017-08-29T13:38:00.000Z
 description: How to multiple delete with codeigniter
 lang: en
-photos:
-  - https://www.tutorial-webdesign.com/wp-content/uploads/2015/01/12.png
 tags:
   - wordpress
   - codeigniter

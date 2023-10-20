@@ -3,22 +3,20 @@ author: Dimas Lanjaka
 categories:
   - programming
 comments: true
-cover: https://github.com/dimaslanjaka/source-posts/assets/12471057/aba30e58-526f-48c3-a2c5-fe7df582b8b2
-date: 2023-05-30T01:02:45+07:00
+date: 2023-05-29T18:02:45.000Z
 description: git detach subfolder to their own repository If you create a new
   clone of a repository, you can split the folder into another repository
   without losing your Git
 lang: en
-photos:
-  - https://github.com/dimaslanjaka/source-posts/assets/12471057/aba30e58-526f-48c3-a2c5-fe7df582b8b2
 tags:
   - github
   - bash
 thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/aba30e58-526f-48c3-a2c5-fe7df582b8b2
 title: git detach subfolder to their own repository
 type: post
-updated: 2023-09-03T04:28:02+07:00
+updated: 2023-09-02T21:28:02.000Z
 wordcount: 959
+
 ---
 
 If you create a new clone of a repository, you can split the folder into another repository without losing your Git history or changes.

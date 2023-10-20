@@ -6,14 +6,11 @@ author:
 categories:
   - programming
 comments: true
-cover: https://4.bp.blogspot.com/-BQU_uWPJuPE/WWUSXvcrYSI/AAAAAAAAABc/aB-OuOg_gfMhS2VUZUWkzeWq3UGOyKjkwCLcBGAs/s320/images.png
-date: 2017-07-14T09:00:00.000+07:00
+date: 2017-07-14T02:00:00.000Z
 description: 10 Template Gratis untuk Dokumentasi API Apakah Anda perlu membuat
   dokumentasi API untuk API Anda yang tenang?Ingin membuat dokumentasi API
   secara otomatis?
 lang: en
-photos:
-  - https://4.bp.blogspot.com/-BQU_uWPJuPE/WWUSXvcrYSI/AAAAAAAAABc/aB-OuOg_gfMhS2VUZUWkzeWq3UGOyKjkwCLcBGAs/s320/images.png
 tags:
   - php
   - json
@@ -23,6 +20,7 @@ title: 10 Template Gratis untuk Dokumentasi API
 type: post
 updated: 2023-09-02T20:32:06.868Z
 wordcount: 797
+
 ---
 
 [![](https://4.bp.blogspot.com/-BQU_uWPJuPE/WWUSXvcrYSI/AAAAAAAAABc/aB-OuOg_gfMhS2VUZUWkzeWq3UGOyKjkwCLcBGAs/s320/images.png)](https://4.bp.blogspot.com/-BQU_uWPJuPE/WWUSXvcrYSI/AAAAAAAAABc/aB-OuOg_gfMhS2VUZUWkzeWq3UGOyKjkwCLcBGAs/s1600/images.png)

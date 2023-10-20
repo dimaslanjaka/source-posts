@@ -6,20 +6,18 @@ author:
 categories:
   - programming
 comments: true
-cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://mazadie.files.wordpress.com/2012/03/regex.jpg
-date: 2018-04-12T19:43:00.000+07:00
+date: 2018-04-12T12:43:00.000Z
 description: img
   src=https://res.cloudinary.com/dimaslanjaka/image/fetch/https://mazadie.files.wordpress.com/2012/03/regex.jpg
   /><ul><li>Extract
 lang: en
-photos:
-  - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://mazadie.files.wordpress.com/2012/03/regex.jpg
 tags:
   - php
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://mazadie.files.wordpress.com/2012/03/regex.jpg
 title: PHP Regex Extract Proxy From String
 type: post
-updated: 2023-10-08T10:49:53+07:00
+updated: 2023-10-08T03:49:53.000Z
+
 ---
 
 ![](https://res.cloudinary.com/dimaslanjaka/image/fetch/https://mazadie.files.wordpress.com/2012/03/regex.jpg)

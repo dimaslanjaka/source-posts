@@ -6,12 +6,9 @@ author:
 categories:
   - programming
 comments: true
-cover: https://res.cloudinary.com/practicaldev/image/fetch/https://www.wissenschaft.com.ng/wp-content/uploads/2021/02/clear_ram_buffer_linux.jpg
-date: 2020-05-30T00:03:00.002+07:00
+date: 2020-05-29T17:03:00.002Z
 description: Script To Clear Cache Linux
 lang: en
-photos:
-  - https://res.cloudinary.com/practicaldev/image/fetch/https://www.wissenschaft.com.ng/wp-content/uploads/2021/02/clear_ram_buffer_linux.jpg
 tags:
   - bash
   - script
@@ -20,9 +17,10 @@ tags:
 thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/https://www.wissenschaft.com.ng/wp-content/uploads/2021/02/clear_ram_buffer_linux.jpg
 title: Linux Clear Cache
 type: post
-updated: 2023-09-03T04:28:07+07:00
+updated: 2023-09-02T21:28:07.000Z
 webtitle: Script
 wordcount: 343
+
 ---
 
 ```bash

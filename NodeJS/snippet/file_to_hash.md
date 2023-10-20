@@ -3,12 +3,9 @@ author: Dimas Lanjaka
 categories:
   - programming
 comments: true
-cover: /NodeJS/assets/pngwing.com.png
-date: 2022-12-30T14:14:39+07:00
+date: 2022-12-30T07:14:39.000Z
 description: get hashes checksum from file using NodeJS
 lang: en
-photos:
-  - /NodeJS/assets/pngwing.com.png
 tags:
   - snippet
   - javascript
@@ -20,6 +17,7 @@ type: post
 updated: 2023-09-02T21:10:16.443Z
 webtitle: NodeJS Snippet
 wordcount: 280
+
 ---
 
 ## get checksum from file

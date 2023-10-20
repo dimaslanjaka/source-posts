@@ -6,12 +6,9 @@ author:
 categories:
   - programming
 comments: true
-cover: https://upload.wikimedia.org/wikipedia/en/9/97/Registry_Editor_icon.png
-date: 2019-03-08T08:20:00.001+07:00
+date: 2019-03-08T01:20:00.001Z
 description: Script Regedit to open folder with sublime text 3
 lang: en
-photos:
-  - https://upload.wikimedia.org/wikipedia/en/9/97/Registry_Editor_icon.png
 tags:
   - snippet
   - regedit
@@ -19,8 +16,9 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/en/9/97/Registry_Editor_icon.png
 title: Regedit Sublime Text 3 Shortcut Open Folder
 type: post
-updated: 2023-09-03T04:28:23+07:00
+updated: 2023-09-02T21:28:23.000Z
 wordcount: 22
+
 ---
 
 <h2>Regedit to open folder with sublime text 3</h2>

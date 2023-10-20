@@ -6,21 +6,19 @@ categories:
   - games
   - genshin impact
 comments: true
-cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png/revision/latest
-date: 2020-06-12T00:00:00+07:00
+date: 2020-06-11T17:00:00.000Z
 description: Where to find starconch in genshin impact
 lang: id
 location: Indonesia
-photos:
-  - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png/revision/latest
 tags:
   - games
   - genshin impact
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://static.wikia.nocookie.net/gensin-impact/images/4/46/Item_Starconch.png/revision/latest
 title: Starconch Location
 type: post
-updated: 2023-08-08T14:44:23+07:00
+updated: 2023-08-08T07:44:23.000Z
 wordcount: 644
+
 ---
 
 Starconch merupakan salah satu bahan atau material yang bisa kalian dapatkan di game Genshin Impact. Pada awalnya saat kita menemukan Starconch ini pasti kita kebingungan, karena sama sekali belum diperlukan untuk Ascension karakter manapun dan bahkan tidak dipakai untuk menu masakan. Namun semenjak ada update 1.1 dari Genshin Impact pada 11 November 2020, maka kita dapat mengakses karakter Childe melalui Wishing, dan kita membutuhkan Staconch untuk ascension yang berguna untuk menaikkan level Childe.

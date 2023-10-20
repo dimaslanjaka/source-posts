@@ -6,12 +6,9 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://4.bp.blogspot.com/-F-ocOo6kFI4/TZmheb35DxI/AAAAAAAAL0M/qYSBewm5xDY/s1600/Local-Player.png
 date: 2017-10-13T17:32:00.000Z
 description: Pemain Lokal
 lang: en
-photos:
-  - https://4.bp.blogspot.com/-F-ocOo6kFI4/TZmheb35DxI/AAAAAAAAL0M/qYSBewm5xDY/s1600/Local-Player.png
 tags:
   - tips & tricks
 thumbnail: https://4.bp.blogspot.com/-F-ocOo6kFI4/TZmheb35DxI/AAAAAAAAL0M/qYSBewm5xDY/s1600/Local-Player.png

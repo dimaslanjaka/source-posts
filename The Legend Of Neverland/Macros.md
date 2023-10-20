@@ -4,21 +4,19 @@ categories:
   - games
   - the legend of neverland
 comments: true
-cover: https://cdn-www.bluestacks.com/bs-images/BlueStacks_Macros_Banner_EN.jpg
-date: 2021-09-07T00:00:00+07:00
+date: 2021-09-06T17:00:00.000Z
 description: Macros Auto Click Bluestacks for the legend of neverland download
 lang: en
 location: Indonesia
-photos:
-  - https://cdn-www.bluestacks.com/bs-images/BlueStacks_Macros_Banner_EN.jpg
 tags:
   - macros
   - bluestack
 thumbnail: https://cdn-www.bluestacks.com/bs-images/BlueStacks_Macros_Banner_EN.jpg
 title: Macros Auto Click Bluestacks
 type: post
-updated: 2023-08-08T14:44:12+07:00
+updated: 2023-08-08T07:44:12.000Z
 wordcount: 733
+
 ---
 
 Indeed, in case you're on BlueStacks construct 4.130 or higher, you'll approach the Macros, a component that permits you to record yourself finishing a portion of these dull jobs/monotonous tasks, and afterward utilize these accounts to mechanize them in each resulting endeavor.
@@ -71,4 +69,3 @@ Presenting Macros in BlueStacks (for variants 4.140 or higher). Record an arrang
 ![Select JSON macros script](https://user-images.githubusercontent.com/12471057/132939413-53a2940a-d018-4b04-963c-9968abd6304c.png)
 ### _Import successful_
 ![image](https://user-images.githubusercontent.com/12471057/132939502-c9bb6e0c-284b-47a9-84b5-8863af2266f5.png)
-

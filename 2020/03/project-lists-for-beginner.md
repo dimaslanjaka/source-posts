@@ -6,12 +6,9 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-date: 2020-03-17T17:13:00.000+07:00
+date: 2020-03-17T10:13:00.000Z
 description: Movies App Flutter Project
 lang: en
-photos:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
   - tools
   - android
@@ -19,8 +16,9 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Project lists for beginner
 type: post
-updated: 2023-08-08T14:45:13+07:00
+updated: 2023-08-08T07:45:13.000Z
 wordcount: 19
+
 ---
 
 <div dir="ltr" style="text-align: left;" trbidi="on"><br><ol style="text-align: left;"><li><a href="https://github.com/madeadriandp/movies_app" rel="noopener noreferer nofollow" target="_blank">Movies App (Flutter Project)</a></li></ol></div>

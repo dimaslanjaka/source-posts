@@ -6,13 +6,10 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ839NCU/s1600/Uninstall-Modern-UI-Apps.png
 date: 2017-10-16T17:47:00.000Z
 description: Ada pengaturan lain di GPE yang mencegah pencopotan pemasangan
   aplikasi yang terpasang. Inilah cara mengaktifkannya .. br /><img
 lang: en
-photos:
-  - https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ839NCU/s1600/Uninstall-Modern-UI-Apps.png
 tags:
   - tips & tricks
 thumbnail: https://4.bp.blogspot.com/-w5jNzr6G-40/UMwiN9YrkUI/AAAAAAAAWtA/rYrCZ839NCU/s1600/Uninstall-Modern-UI-Apps.png

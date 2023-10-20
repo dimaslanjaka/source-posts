@@ -6,13 +6,10 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-date: 2018-07-14T21:39:00.000+07:00
+date: 2018-07-14T14:39:00.000Z
 description: Ulat, Lebah Buff WIL Tomat = Buff Memasak Bawang = Pengumpulan
   Tumbuhan Pisang = Produksi Tangan<div class=blogger-post-footer>Article
 lang: en
-photos:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
   - games
   - durango
@@ -20,8 +17,9 @@ tags:
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Buff Topping Pizza Durango Wild Lands
 type: post
-updated: 2023-08-08T14:45:40+07:00
+updated: 2023-08-08T07:45:40.000Z
 wordcount: 49
+
 ---
 
 Ulat, Lebah = Buff WIL  Tomat = Buff Memasak Bawang = Pengumpulan Tumbuhan Pisang = Produksi Tangan

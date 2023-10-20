@@ -6,13 +6,10 @@ author:
 categories:
   - programming
 comments: true
-cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/blog/wp-content/uploads/2018/11/Configuraci%C3%B3n-httpd-en-termux-Android.jpg
-date: 2021-06-02T20:52:00.004+07:00
+date: 2021-06-02T13:52:00.004Z
 description: php apache setup on android with Termux without root Download
   Termux allow installation from unknwon sources and
 lang: en
-photos:
-  - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/blog/wp-content/uploads/2018/11/Configuraci%C3%B3n-httpd-en-termux-Android.jpg
 tags:
   - php
   - android
@@ -20,8 +17,9 @@ tags:
 thumbnail: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://parzibyte.me/blog/wp-content/uploads/2018/11/Configuraci%C3%B3n-httpd-en-termux-Android.jpg
 title: Install XAMPP/LAMPP On Android Non-Root
 type: post
-updated: 2023-08-08T14:45:10+07:00
+updated: 2023-08-08T07:45:10.000Z
 wordcount: 1969
+
 ---
 
 <div id="bootstrap-wrapper">

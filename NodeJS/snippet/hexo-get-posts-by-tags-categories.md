@@ -3,14 +3,11 @@ author: Dimas Lanjaka
 categories:
   - programming
 comments: true
-cover: /NodeJS/assets/pngwing.com.png
-date: 2023-01-01T23:05:15+07:00
+date: 2023-01-01T16:05:15.000Z
 description: "HexoJS get posts by tags or categories @types/hexo required for
   typescript users @types/hexo default @types/hexo not giving complete types, so
   I made my custom "
 lang: en
-photos:
-  - /NodeJS/assets/pngwing.com.png
 tags:
   - snippet
   - hexo
@@ -18,8 +15,9 @@ tags:
 thumbnail: /NodeJS/assets/pngwing.com.png
 title: HexoJS get posts by tags or categories
 type: post
-updated: 2023-09-03T04:28:02+07:00
+updated: 2023-09-02T21:28:02.000Z
 wordcount: 817
+
 ---
 
 ## `@types/hexo` required for typescript users

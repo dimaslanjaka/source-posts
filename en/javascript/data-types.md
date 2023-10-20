@@ -3,23 +3,21 @@ author: L3n4r0x
 categories:
   - programming
 comments: true
-cover: https://www.javascripttutorial.net/wp-content/uploads/2022/01/JavaScript-data-types.svg
-date: 2023-07-04T15:42:48+07:00
+date: 2023-07-04T08:42:48.000Z
 description: What are the different data types present in javascript? Common
   Data Type The following are data types commonly used in JavaScript Boolean
   true, false Null null
 lang: en
 language: en
 permalink: en/javascript/data-types.html
-photos:
-  - https://www.javascripttutorial.net/wp-content/uploads/2022/01/JavaScript-data-types.svg
 tags:
   - javascript
 thumbnail: https://www.javascripttutorial.net/wp-content/uploads/2022/01/JavaScript-data-types.svg
 title: What are the different data types present in javascript?
 type: page
-updated: 2023-09-03T04:28:03+07:00
+updated: 2023-09-02T21:28:03.000Z
 wordcount: 199
+
 ---
 
 ## Common Data Type

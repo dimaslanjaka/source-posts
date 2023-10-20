@@ -6,21 +6,19 @@ author:
 categories:
   - programming
 comments: true
-cover: https://res.cloudinary.com/dimaslanjaka/image/fetch/https://thumbs.dreamstime.com/z/javascript-flat-illustration-abstract-design-development-concepts-elements-mobile-web-applications-50893845.jpg
-date: 2017-12-27T05:39:00.000+07:00
+date: 2017-12-26T22:39:00.000Z
 description: All I needed was to expel every single forward slice in a string
   utilizing Javascript.
 lang: en
-photos:
-  - https://res.cloudinary.com/dimaslanjaka/image/fetch/https://thumbs.dreamstime.com/z/javascript-flat-illustration-abstract-design-development-concepts-elements-mobile-web-applications-50893845.jpg
 tags:
   - javascript
   - html
 thumbnail: /2017/12/js-javascript-function-remove-slash/cover.jpg
 title: JS Javascript Function Remove Slash From String
 type: post
-updated: 2023-09-03T04:28:35+07:00
+updated: 2023-09-02T21:28:35.000Z
 wordcount: 900
+
 ---
 
 All I needed was to expel every single forward and backward slashes slice in a string utilizing Javascript.

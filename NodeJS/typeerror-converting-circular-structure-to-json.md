@@ -3,14 +3,11 @@ author: Dimas Lanjaka
 categories:
   - programming
 comments: true
-cover: https://i.stack.imgur.com/YFTWJ.png
-date: 2022-10-24T16:02:58+07:00
+date: 2022-10-24T09:02:58.000Z
 description: "TypeError Converting circular structure to JSON TypeError:
   Converting circular structure to JSON produce errors like below TypeError:
   Converting circular struct"
 lang: en
-photos:
-  - https://i.stack.imgur.com/YFTWJ.png
 tags:
   - javascript
   - typescript
@@ -18,8 +15,9 @@ tags:
 thumbnail: https://i.stack.imgur.com/YFTWJ.png
 title: TypeError Converting circular structure to JSON
 type: post
-updated: 2023-09-03T04:27:59+07:00
+updated: 2023-09-02T21:27:59.000Z
 wordcount: 1199
+
 ---
 
 TypeError: Converting circular structure to JSON produce errors like below

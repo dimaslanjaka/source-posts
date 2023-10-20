@@ -6,18 +6,16 @@ author:
 categories:
   - programming
 comments: true
-cover: https://4.bp.blogspot.com/-G8uvcGY1HKk/XRJ2h07bE2I/AAAAAAAAAZ4/xFxE1oVc6nctLlNdnpbGx-xvqOADFqcfQCLcBGAs/s1600/iconfinder_folder_black_PHP_51814.png
-date: 2019-06-26T02:24:00.000+07:00
+date: 2019-06-25T19:24:00.000Z
 description: How to automatically create folder if not exists on spesific PATH
 lang: en
-photos:
-  - https://4.bp.blogspot.com/-G8uvcGY1HKk/XRJ2h07bE2I/AAAAAAAAAZ4/xFxE1oVc6nctLlNdnpbGx-xvqOADFqcfQCLcBGAs/s1600/iconfinder_folder_black_PHP_51814.png
 tags: []
 thumbnail: https://4.bp.blogspot.com/-G8uvcGY1HKk/XRJ2h07bE2I/AAAAAAAAAZ4/xFxE1oVc6nctLlNdnpbGx-xvqOADFqcfQCLcBGAs/s1600/iconfinder_folder_black_PHP_51814.png
 title: Create Folder Recursive PHP
 type: post
-updated: 2023-09-03T06:13:26+07:00
+updated: 2023-09-02T23:13:26.000Z
 wordcount: 322
+
 ---
 
 <blockquote><span class="tr-en">How to automatically create folder if not exists on spesific PATH</span><br><span class="tr-id">Bagaimana cara membuat folder secara rekursif bila tidak ada pada spesifik PATH</span></blockquote><img src="https://4.bp.blogspot.com/-G8uvcGY1HKk/XRJ2h07bE2I/AAAAAAAAAZ4/xFxE1oVc6nctLlNdnpbGx-xvqOADFqcfQCLcBGAs/s1600/iconfinder_folder_black_PHP_51814.png" data-original-width="512" data-original-height="512"><pre><br>&lt;?php<br>//<span class="tr-en">define document root first</span> <span class="tr-id">define document root dahulu</span><br>define('APP', $_SERVER['DOCUMENT_ROOT'], true);<br>// [func] path extraction and creation<br>function _folder_($d){<br>    $d = str_replace(APP, '', rtrim($d, '/'));<br>    $explode = explode('/', rtrim($d,'/'));<br>    $explode = array_filter($explode);<br>    $ready = (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN' ? '' : '/');<br>    foreach ($explode as $x) {<br>      $ready = rtrim($ready,'/');<br>      $ready .= '/'.$x;<br>      $status = file_exists(APP.$ready);<br>      if ($status === false){<br>        mdir(APP.$ready);<br>      }<br>    }<br>    return $d;<br>}<br>// [func] create folder permission 777<br>function mdir($x)<br>{<br>  $oldmask = umask(0);<br>  mkdir($x, 0777);<br>  umask($oldmask);<br>}<br><br>//<span class="tr-en">Usage</span> <span class="tr-id">Penggunaan</span><br>$folder_target = <br>?&gt;<br></pre>

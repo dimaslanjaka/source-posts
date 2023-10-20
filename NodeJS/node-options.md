@@ -5,8 +5,7 @@ author:
 categories:
   - programming
 comments: true
-cover: https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
-date: 2021-11-17T16:00:00+07:00
+date: 2021-11-17T09:00:00.000Z
 description: Usage, explanations of node options for nodejs
 keywords:
   - nodejs
@@ -14,16 +13,15 @@ keywords:
   - cli
 lang: en
 location: Indonesia
-photos:
-  - https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
 tags:
   - javascript
   - nodejs
 thumbnail: https://www.bleepstatic.com/content/hl-images/2020/08/04/nodejs-header.jpg
 title: All About NodeJS Configurations
 type: post
-updated: 2023-09-03T06:34:19+07:00
+updated: 2023-09-02T23:34:19.000Z
 wordcount: 721
+
 ---
 
 # NODEJS OPTIONS [ NODE_OPTIONS ]

@@ -6,20 +6,18 @@ author:
 categories:
   - programming
 comments: true
-cover: http://juragancipir.com/wp-content/uploads/2013/12/Halo-adsense3-copy-300x254.jpg
-date: 2017-09-08T08:02:00.000+07:00
+date: 2017-09-08T01:02:00.000Z
 description: Tips on Optimizing Google Adsense With Blog MiscellaneousBlog
   hodgepodge is not always bad and niche blogs are not always good for
 lang: en
-photos:
-  - http://juragancipir.com/wp-content/uploads/2013/12/Halo-adsense3-copy-300x254.jpg
 tags:
   - adsense
 thumbnail: http://juragancipir.com/wp-content/uploads/2013/12/Halo-adsense3-copy-300x254.jpg
 title: Tips on Optimizing Google Adsense With Blog Miscellaneous
 type: post
-updated: 2023-09-03T06:13:40+07:00
+updated: 2023-09-02T23:13:40.000Z
 wordcount: 6027
+
 ---
 
 <div dir="ltr">

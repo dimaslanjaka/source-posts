@@ -5,8 +5,7 @@ author:
 categories:
   - programming
 comments: true
-cover: /GitHub/workflows/cover.png
-date: 2021-11-18T22:00:00+07:00
+date: 2021-11-18T15:00:00.000Z
 description: Semua yang kamu harus tau tentang GitHub Workflows
 keywords:
   - GitHub
@@ -14,8 +13,6 @@ keywords:
   - yml
 lang: id
 location: Indonesia
-photos:
-  - /GitHub/workflows/cover.png
 tags:
   - github-workflows
   - snippet
@@ -25,9 +22,10 @@ tags:
 thumbnail: /GitHub/workflows/cover.png
 title: GitHub Workflows
 type: post
-updated: 2023-09-03T04:28:01+07:00
+updated: 2023-09-02T21:28:01.000Z
 webtitle: WMI GitHub
 wordcount: 1314
+
 ---
 
 GitHub menyediakan templat alur kerja (<i>preconfigured workflow templates</i>) yang telah dikonfigurasi sebelumnya yang dapat Anda sesuaikan untuk membuat alur kerja integrasi berkelanjutan (<i>CI</i>) Anda sendiri. GitHub menganalisis kode Anda dan menunjukkan template <i>CI</i> yang mungkin berguna untuk repositori Anda. Misalnya, jika repositori Anda berisi Node/Program. [[source](https://docs.github.com/en/actions/quickstart)]

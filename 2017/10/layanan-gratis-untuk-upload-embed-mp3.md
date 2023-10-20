@@ -6,13 +6,10 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://3.bp.blogspot.com/-JFg4ItYxFCw/T7wg6WSoHfI/AAAAAAAATQI/HMlZHgopewA/s1600/mp3-soundcloud.png
 date: 2017-10-12T17:28:00.000Z
 description: Mencari cara untuk berbagi kreasi musik Anda secara online Di sini
   saya mengumpulkan koleksi layanan dan alat gratis yang bisa
 lang: en
-photos:
-  - https://3.bp.blogspot.com/-JFg4ItYxFCw/T7wg6WSoHfI/AAAAAAAATQI/HMlZHgopewA/s1600/mp3-soundcloud.png
 tags:
   - tips & tricks
 thumbnail: https://3.bp.blogspot.com/-JFg4ItYxFCw/T7wg6WSoHfI/AAAAAAAATQI/HMlZHgopewA/s1600/mp3-soundcloud.png

@@ -3,21 +3,19 @@ author: Dimas Lanjaka
 categories:
   - programming
 comments: true
-cover: https://miro.medium.com/v2/resize:fit:800/1*S3u42EBG_BMesapjXHy06w.jpeg
-date: 2023-08-27T21:09:03+07:00
+date: 2023-08-27T14:09:03.000Z
 description: husky support for linux, husky support for windows, husky support
   for cygwin, husky support for WSL
 lang: en
-photos:
-  - https://miro.medium.com/v2/resize:fit:800/1*S3u42EBG_BMesapjXHy06w.jpeg
 tags:
   - javascript
   - bash
 thumbnail: https://miro.medium.com/v2/resize:fit:800/1*S3u42EBG_BMesapjXHy06w.jpeg
 title: How to make husky support for multiple platform
 type: post
-updated: 2023-08-27T21:19:52+07:00
+updated: 2023-08-27T14:19:52.000Z
 wordcount: 3098
+
 ---
 
 ## husky support for cygwin

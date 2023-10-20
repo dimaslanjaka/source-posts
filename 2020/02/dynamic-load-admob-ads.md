@@ -6,19 +6,17 @@ author:
 categories:
   - uncategorized
 comments: true
-cover: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
-date: 2020-02-14 22:49:00
+date: 2020-02-14T22:49:00.000Z
 description: android java load admob ads dynamically
 lang: en
-photos:
-  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 tags:
   - android
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: Dynamic load admob ads
 type: post
-updated: 2023-08-08T14:45:14+07:00
+updated: 2023-08-08T07:45:14.000Z
 wordcount: 202
+
 ---
 
 android java load admob ads dynamically

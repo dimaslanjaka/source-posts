@@ -6,22 +6,20 @@ author:
 categories:
   - programming
 comments: false
-cover: https://www.w3programmers.com/wp-content/uploads/2012/07/regex.jpg
-date: 2021-09-22T00:00:00+07:00
+date: 2021-09-21T17:00:00.000Z
 description: Regular Expression is a
 lang: en
 location: Indonesia
-photos:
-  - https://www.w3programmers.com/wp-content/uploads/2012/07/regex.jpg
 tags:
   - regexp
   - regular expression
 thumbnail: https://www.w3programmers.com/wp-content/uploads/2012/07/regex.jpg
 title: What is RegExp
 type: post
-updated: 2023-09-03T04:27:59+07:00
+updated: 2023-09-02T21:27:59.000Z
 webtitle: RegExp
 wordcount: 1628
+
 ---
 
 <!--https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285-->
@@ -62,4 +60,3 @@ A regular expression can be a single character, or a more complicated pattern. R
 - **Character classes — \d \w \s and .**
   | RegExp | Explanations |
   | ------ | ------------ |
-

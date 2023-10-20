@@ -3,23 +3,21 @@ author: L3n4r0x
 categories:
   - programming
 comments: true
-cover: https://www.javascripttutorial.net/wp-content/uploads/2022/01/JavaScript-data-types.svg
-date: 2023-07-04T15:42:48+07:00
+date: 2023-07-04T08:42:48.000Z
 description: Apa saja macam-macam tipe data yang ada dalam javascript? Tipe Data
   Umum Berikut ini adalah tipe data yang umum digunakan dalam JavaScript Boolean
   true, false N
 lang: id
 language: id
 permalink: id/javascript/data-types.html
-photos:
-  - https://www.javascripttutorial.net/wp-content/uploads/2022/01/JavaScript-data-types.svg
 tags:
   - javascript
 thumbnail: https://www.javascripttutorial.net/wp-content/uploads/2022/01/JavaScript-data-types.svg
 title: Apa saja macam-macam tipe data yang ada dalam javascript?
 type: page
-updated: 2023-09-03T04:28:03+07:00
+updated: 2023-09-02T21:28:03.000Z
 wordcount: 202
+
 ---
 
 ## Tipe Data Umum

@@ -4,23 +4,21 @@ categories:
   - games
   - the legend of neverland
 comments: true
-cover: /The Legend Of Neverland/Quiz/SCENIC-QUIZ.jpg
-date: 2021-08-16T00:00:00+07:00
+date: 2021-08-15T17:00:00.000Z
 description: "Quiz questions and the answers. The Legend Of Neverland Event. The
   Legend of Neverland Guide and Tips for quiz event. Scenic Quiz Event Answers -
   The Legend of "
 lang: en
 location: Indonesia
-photos:
-  - /The Legend Of Neverland/Quiz/SCENIC-QUIZ.jpg
 tags:
   - the legend of neverland
   - event
 thumbnail: /The Legend Of Neverland/Quiz/SCENIC-QUIZ.jpg
 title: Quiz The Legend Of Neverland
 type: post
-updated: 2023-09-07T12:54:03+07:00
+updated: 2023-09-07T05:54:03.000Z
 wordcount: 2129
+
 ---
 
 > when this page errors you can try [beta version](/test-unit/quiz.html)

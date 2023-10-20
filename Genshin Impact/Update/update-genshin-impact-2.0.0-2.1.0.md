@@ -6,22 +6,20 @@ categories:
   - games
   - genshin impact
 comments: true
-cover: /Genshin Impact/Update/update-genshin-impact-1.5.1-1.6.0/cover.jpg
-date: 2021-09-04T00:00:00+07:00
+date: 2021-09-03T17:00:00.000Z
 description: Update Genshin Impact 2.0.0 - 2.1.0 Manual
 lang: en
 location: Indonesia
-photos:
-  - /Genshin Impact/Update/update-genshin-impact-1.5.1-1.6.0/cover.jpg
 tags:
   - games
   - genshin impact
 thumbnail: /Genshin Impact/Update/update-genshin-impact-1.5.1-1.6.0/cover.jpg
 title: Update Genshin Impact 2.1.0 Manual
 type: post
-updated: 2023-08-08T14:44:22+07:00
+updated: 2023-08-08T07:44:22.000Z
 webtitle: WMI Genshin Impact
 wordcount: 250
+
 ---
 
 Update genshin impact `2.1.0` manual via download manager (IDM).

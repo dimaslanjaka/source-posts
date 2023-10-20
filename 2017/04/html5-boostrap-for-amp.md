@@ -6,14 +6,11 @@ author:
 categories:
   - programming
 comments: true
-cover: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU6daixUyrq6m3xUPsDdb4VZ4UR6ctElGQg4CeeBUJ39a-VCfX
-date: 2017-04-16T21:38:00.001+07:00
+date: 2017-04-16T14:38:00.001Z
 description: HTML5 Bootstrap For AMP Hello. I want to share a boostrap For AMP
   Blog. There one from my boostrap.
   .hljsdisplay:block;padding:0;color:333.hljs-comment,.hljs-qu
 lang: en
-photos:
-  - https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU6daixUyrq6m3xUPsDdb4VZ4UR6ctElGQg4CeeBUJ39a-VCfX
 tags:
   - wordpress
   - css
@@ -22,8 +19,9 @@ tags:
 thumbnail: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU6daixUyrq6m3xUPsDdb4VZ4UR6ctElGQg4CeeBUJ39a-VCfX
 title: HTML5 Bootstrap For AMP
 type: post
-updated: 2023-10-08T08:26:41+07:00
+updated: 2023-10-08T01:26:41.000Z
 wordcount: 1300
+
 ---
 
 Hello. I want to share a boostrap For AMP Blog. There one from my boostrap.
