@@ -57,3 +57,11 @@ afterEvaluate {
     }
 }
 ```
+
+in your proguard rules dont forget put
+
+```proguard
+-obfuscationdictionary build/dict.txt
+-classobfuscationdictionary build/dict.txt
+-packageobfuscationdictionary build/dict.txt
+```
