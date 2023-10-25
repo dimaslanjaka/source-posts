@@ -58,6 +58,19 @@ afterEvaluate {
 }
 ```
 
+in new API Androig Gradle Plugin v8
+```gradle
+afterEvaluate {
+    // each variant depends on `genDict` task
+    android.applicationVariants.configureEach { variant ->
+        if (variant.name.endsWith('Release'))
+            variant.javaCompileProvider.configure {
+                dependsOn 'genDict'
+            }
+    }
+}
+```
+
 in your proguard rules dont forget put
 
 ```proguard
