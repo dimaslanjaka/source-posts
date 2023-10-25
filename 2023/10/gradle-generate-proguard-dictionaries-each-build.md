@@ -2,7 +2,9 @@
 title: Gradle script to generate proguard dictionaries each build
 description: Gradle script to generate proguard dictionaries each build
 date: 2023-10-25T21:32:33+07:00
-updated: 2023-10-25T21:32:33+07:00
+updated: 2023-10-25T21:55:17+07:00
+category: [programming]
+tags: [android, gradle, groovy]
 ---
 
 ```gradle
