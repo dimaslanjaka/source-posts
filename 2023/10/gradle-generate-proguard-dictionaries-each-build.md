@@ -2,7 +2,8 @@
 title: Gradle script to generate proguard dictionaries each build
 description: Gradle script to generate proguard dictionaries each build
 date: 2023-10-25T21:32:33+07:00
-updated: 2023-10-25T21:55:17+07:00
+updated: 2023-10-26T10:31:22+07:00
+thumbnail: https://learn.microsoft.com/id-id/xamarin/android/deploy-test/release-prep/proguard-images/01-xa-chain.png
 category: [programming]
 tags: [android, gradle, groovy, proguard]
 ---
@@ -122,9 +123,10 @@ tasks.register('genDict') {
     }
 }
 
-tasks.named("preBuild") {
- dependsOn(tasks.named("genDict"))
-}
+// generate proguard dictionary on preBuild task (debug variant included)
+//tasks.named("preBuild") {
+//    dependsOn(tasks.named("genDict"))
+//}
 
 afterEvaluate {
     // each variant depends on `genDict` task
