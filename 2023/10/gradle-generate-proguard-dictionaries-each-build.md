@@ -131,6 +131,7 @@ tasks.register('genDict') {
 afterEvaluate {
     // each variant depends on `genDict` task
     android.applicationVariants.configureEach { variant ->
+        // apply online variant with `release` substring
         if (variant.name.toLowerCase().contains('release'))
             variant.javaCompileProvider.configure {
                 dependsOn 'genDict'
