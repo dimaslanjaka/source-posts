@@ -7,7 +7,8 @@ tags: [android, kotlin, java]
 categories: [programming]
 ---
 
-Various ways to get the height of a Webview on Android. Nothing really works on all cases 
+## Basic methods
+Basic methods of Various ways to get the height of a Webview on Android. Nothing really works on all cases 
 
 ```kotlin
 import android.view.ViewTreeObserver
