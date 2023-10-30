@@ -7,7 +7,7 @@ categories: [programming]
 tags: [android, json]
 ---
 
-**What is this file really for:**
+## What is this file really for
 
 **google-services.json** contains developer credentials and configuration settings, which is needed to verify while connecting with GoogleApiClient. Though your service is working fine with your test device as it is detecting your developer account but after releasing your app in public, it will not work without the json file. So don't delete it.
 
@@ -17,7 +17,7 @@ The application builds a GoogleApiClient, specifying which scopes and APIs the a
 
 See the [how it works](https://developers.google.com/identity/sign-in/android/start) section
 
-**How does google-services.json file affects your android studio project?**
+## How does google-services.json file affects your android studio project?
 
 I investigated a bit regarding the google-services plugin and json and found the sources to this plugin.
 
@@ -98,3 +98,29 @@ contains the actual task-definition, look for the following method to see what i
 @TaskAction
 public void action() throws IOException {
 ```
+
+**What to do, to make it done?**
+
+add google-services dependency in `project_level` build.gradle, you can also use `version 3.0.0` if you are using app_compact library.
+
+```gradle
+// Top-level build.gradle file
+classpath 'com.google.gms:google-services:2.1.2'
+```
+
+now in `app_level` build.gradle you have to add at the **bottom**.
+
+```gradle
+// app-level build.gradle file
+apply plugin: 'com.google.gms.google-services'
+```
+
+**Note:** Adding this line at the bottom of the gradle file is really important. Otherwise Gradle builds won't give you any errors, but it won't just work properly.
+
+## Where to put google-service.json file in your structure.
+
+case 1.) if you have no build_flavor just put it in inside `/app/google-service.json` folder.
+
+case 2.) if you have multiple build_flavor and you have different-different google_services.json files put inside `app/src/build_flavor/google-service.json`.
+
+case 3.) if you have multiple build_flavor and you have single google_services.json file put inside `app/google-service.json`.
