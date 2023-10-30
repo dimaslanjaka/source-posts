@@ -19,8 +19,6 @@ See the [how it works](https://developers.google.com/identity/sign-in/android/st
 
 **How does google-services.json file affects your android studio project?**
 
-[](https://stackoverflow.com/posts/33083898/timeline)
-
 I investigated a bit regarding the google-services plugin and json and found the sources to this plugin.
 
 First things first
@@ -42,6 +40,8 @@ The google-services gradle-plugin looks for the mentioned google-services.json f
 ```
 
 For example for a debug-build of your app:
+
+> just in short for second url, if you add google-services.json in your project there must be a auto-generated `google-services` folder for `debug` variant in this path
 
 ```kotlin
 "app/build/generated/res/google-services/debug/values/values.xml"
