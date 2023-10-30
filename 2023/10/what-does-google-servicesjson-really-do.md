@@ -2,9 +2,10 @@
 title: What does google-services.json really do?
 description: Android - What does google-services.json really do?
 date: 2023-10-30T15:19:17+07:00
-updated: 2023-10-30T15:23:17+07:00
+updated: 2023-10-30T15:28:11+07:00
 categories: [programming]
 tags: [android, json]
+thumbnail: https://i.stack.imgur.com/BFmz5.png
 ---
 
 ## What is this file really for
@@ -99,7 +100,7 @@ contains the actual task-definition, look for the following method to see what i
 public void action() throws IOException {
 ```
 
-**What to do, to make it done?**
+## What to do, to make it done?
 
 add google-services dependency in `project_level` build.gradle, you can also use `version 3.0.0` if you are using app_compact library.
 
