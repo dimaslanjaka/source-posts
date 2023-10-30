@@ -95,7 +95,7 @@ GoogleServicesTask.java
 
 contains the actual task-definition, look for the following method to see what it really does:
 
-```
+```java
 @TaskAction
 public void action() throws IOException {
 ```
