@@ -6,6 +6,8 @@ categories: [programming]
 tags: [seo]
 ---
 
+list original traffic referrer from android (parsed with regex `(android-app:[\w\/\.]+)`)
+
 ```log
 android-app://arun.com.chromer
 android-app://com.andrewshu.android.reddit
