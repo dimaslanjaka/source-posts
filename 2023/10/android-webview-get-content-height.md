@@ -5,6 +5,7 @@ date: 2023-10-29T11:43:36+07:00
 updated: 2023-10-29T11:43:36+07:00
 tags: [android, kotlin, java, webview]
 categories: [programming]
+thumbnail: https://i.ytimg.com/vi/z1gUOTZrMFc/maxresdefault.jpg
 ---
 
 ## Basic methods
