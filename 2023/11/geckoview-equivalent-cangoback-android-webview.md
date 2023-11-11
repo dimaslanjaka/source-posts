@@ -4,6 +4,7 @@ date: 2023-11-11T13:41:10+07:00
 updated: 2023-11-11T13:41:10+07:00
 tags: [geckoview, webview, android, java, kotlin]
 categories: [programming]
+thumbnail: https://hacks.mozilla.org/files/2019/06/geckoview_logo.png
 ---
 
 ## How can i use canGoBack() on GeckoView?
