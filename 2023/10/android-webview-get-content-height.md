@@ -2,7 +2,7 @@
 title: android webview get content height
 description: script to get content height of android webview
 date: 2023-10-29T11:43:36+07:00
-updated: 2023-10-29T11:43:36+07:00
+updated: 2023-11-11T13:46:25+07:00
 tags: [android, kotlin, java, webview]
 categories: [programming]
 thumbnail: https://i.ytimg.com/vi/z1gUOTZrMFc/maxresdefault.jpg
