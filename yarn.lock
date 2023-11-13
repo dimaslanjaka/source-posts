@@ -684,12 +684,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@electron/remote@npm:^2.0.10":
-  version: 2.0.10
-  resolution: "@electron/remote@npm:2.0.10"
+"@electron/remote@npm:^2.1.0":
+  version: 2.1.0
+  resolution: "@electron/remote@npm:2.1.0"
   peerDependencies:
     electron: ">= 13.0.0"
-  checksum: 74ab6fca7973f43d45e3372dc3bbd35552f63ba10f5673d08ec9d9fd06e74d5b2da696a9b297dae5baeaf5cd991fc65c4ee25582991f8c18316bd18ae1bed6a9
+  checksum: 7cd87a14e81c78a53c117e97c882c22d815b178d3a2d3a8d6bef5324d71d54fc6e35d728706e591d8e4f937d6468d94579a055162def3af9e694483c7bd68e25
   languageName: node
   linkType: hard
 
@@ -15572,7 +15572,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "src-posts@workspace:."
   dependencies:
-    "@electron/remote": ^2.0.10
+    "@electron/remote": ^2.1.0
     "@octokit/core": ^5.0.0
     "@octokit/graphql": ^7.0.1
     "@octokit/request": ^6.2.8
