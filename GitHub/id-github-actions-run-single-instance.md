@@ -20,6 +20,7 @@ wordcount: 79
 ---
 
 Cara setting github actions agar jalan satu job saja (sequentally), cukup tambahkan kode berikut:
+
 ```yaml
 # run single job
 concurrency:

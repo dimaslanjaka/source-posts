@@ -24,6 +24,7 @@ wordcount: 349
 How to setup github action matrix to be run sequentally or series each job ?
 
 Conclusing Just add below codes:
+
 ```yaml
 jobs:
   deploy:
@@ -34,7 +35,9 @@ jobs:
       # The maximum number of jobs that can run simultaneously
       max-parallel: 1
 ```
+
 Full Example
+
 ```yaml
 jobs:
   deploy:
