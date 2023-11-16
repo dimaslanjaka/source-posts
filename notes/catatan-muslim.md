@@ -18,3 +18,6 @@ Neraka tidak akan menyentuh orang yang mengamalkan doa ini setelah sholat Maghri
 > Allahumma ajirni minannar 7x
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@ajiepanqestu/video/7233039713081298202" data-video-id="7233039713081298202" data-embed-from="embed_page" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@ajiepanqestu" href="https://www.tiktok.com/@ajiepanqestu?refer=embed">@ajiepanqestu</a> <p>nraka tidak akan menyentuh orang yang berdzikir ini <a title="nongkireligi" target="_blank" href="https://www.tiktok.com/tag/nongkireligi?refer=embed">#nongkireligi</a> </p> <a target="_blank" title="♬ Epic Inspiration - DM Production" href="https://www.tiktok.com/music/Epic-Inspiration-7116400670005872641?refer=embed">♬ Epic Inspiration - DM Production</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+la illaha iillallah wahdaula syarikala lahul mulku walahul hamdu yuhyii wa yumit
+wahwa hayun layyamutubiyadh khoir wahua alakulli syaiin khodir

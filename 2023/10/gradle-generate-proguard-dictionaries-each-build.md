@@ -2,11 +2,15 @@
 title: Gradle script to generate proguard dictionaries each build
 description: Gradle script to generate proguard dictionaries each build
 date: 2023-10-25T21:32:33+07:00
-updated: 2023-10-26T10:31:22+07:00
+updated: 2023-10-30T15:19:17+07:00
 thumbnail: https://learn.microsoft.com/id-id/xamarin/android/deploy-test/release-prep/proguard-images/01-xa-chain.png
 category: [programming]
 tags: [android, gradle, groovy, proguard]
 ---
+
+## Gradle task to generate proguard dictonary
+
+### Always overwrite existing generated dictionary
 
 ```gradle
 def dictDest = new File('build/builddict.txt')
@@ -45,7 +49,50 @@ tasks.register('genDict') {
 }
 ```
 
-run manual with `./gradlew genDict`
+### Prevent overwriting existing generated dictionary
+
+```gradle
+// tell others this file cannot be replaced (final)
+final def dictDest = project.file("build/builddict.txt")
+
+tasks.register("genDict") {
+    // prevent duplicate
+    println "$dictDest exists ${dictDest.exists()}"
+    if (!dictDest.exists()) {
+        outputs.file(dictDest)
+        doLast {
+            def r = new Random()
+            println(r)
+            def begin = r.nextInt(1000) + 0x0100
+            def end = begin + 0x40000
+            println("end: " + end)
+            def chars = (begin..end)
+                    .findAll { Character.isValidCodePoint(it) && Character.isJavaIdentifierPart(it) }
+                    .collect { String.valueOf(Character.toChars(it)) }
+            println("chars: " + chars)
+            int max = chars.size()
+            println(max)
+            def start = []
+            def dict = []
+            for (int i = 0; i < max; i++) {
+                char c = chars.get(i).charAt(0)
+                if (Character.isJavaIdentifierStart(c)) {
+                    start << String.valueOf(c)
+                }
+            }
+            println(start.size())
+            def f = outputs.files.getSingleFile()
+            f.getParentFile().mkdirs()
+            f.withWriter("UTF-8") {
+                it.write(start.join(System.lineSeparator()))
+                it.write()
+            }
+        }
+    }
+}
+```
+
+run manual with `./gradlew genDict` or `bash ./gradlew genDict`
 
 but you can automated generator dictionary using `afterEvaluate`
 
