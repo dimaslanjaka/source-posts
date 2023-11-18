@@ -21,7 +21,7 @@ updated: 2023-11-18T16:01:37+07:00
 ---
 
 Fix missing dependencies from your gradle project (android, maven, etc) with this build.gradle.  
-insert into YOUR\_PROJECT\_GRADLE/build.gradle
+insert into `YOUR_PROJECT_GRADLE/build.gradle`
 
 ```gradle
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
@@ -58,7 +58,7 @@ allprojects {
 
 ##### Kotlin
 
-YOUR\_PROJECT\_GRADLE/build.gradle.kts
+`YOUR_PROJECT_GRADLE/build.gradle.kts`
 
   
 ```kotlin
