@@ -7,8 +7,18 @@ on:
     # - cron:  '0 8 * * *'
   push:
     branches:
+      - master
       - posts
-      - master # <-- just for test
+    paths-ignore:
+      - '**/*.tgz'
+      - '**/*.gz'
+      - '**/release/**'
+      - '.github/codeql/*'
+      - '**codeql**'
+      - '**clean-caches**'
+      - '**/yarn.lock'
+      - '!**/.git*'
+      - '**/*.txt'
   workflow_dispatch:
 
 concurrency:
