@@ -22,6 +22,8 @@ jobs:
       NODE_OPTIONS: '--max_old_space_size=8192' #8192 4096 --expose-gc
       YARN_ENABLE_IMMUTABLE_INSTALLS: false
       ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      node_version: 18.x
+      YARN_CHECKSUM_BEHAVIOR: update
 
     runs-on: ubuntu-latest
 
@@ -36,7 +38,7 @@ jobs:
           token: '${{ secrets.ACCESS_TOKEN }}'
       - uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: ${{ env.node_version }}
           check-latest: true
       - uses: actions/cache@v3
         id: yarn-cache
@@ -45,9 +47,9 @@ jobs:
             ./.yarn/caches
             ./node_modules
             ./yarn.lock
-          key: ${{ runner.os }}-yarn-${{ hashFiles('src/**/*.ts', '_config.yml', '**/yarn.lock') }}
+          key: ${{ runner.os }}-${{ env.node_version }}-${{ hashFiles('_config.yml', '**/yarn.lock') }}
           restore-keys: |
-            ${{ runner.os }}-yarn-
+            ${{ runner.os }}-${{ env.node_version }}
       - run: npm i -g ts-node typescript hexo-cli
       - name: install
         run: |
