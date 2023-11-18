@@ -2,9 +2,9 @@ name: Post Update
 run-name: Reusable Build Site CI
 
 on:
-  schedule:
+  # schedule:
     # https://crontab.guru/#0_8_*_*_*
-    - cron:  '0 8 * * *'
+    # - cron:  '0 8 * * *'
   push:
     branches:
       - posts
