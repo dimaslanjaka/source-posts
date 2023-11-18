@@ -67,12 +67,15 @@ function openNewWindow(name: string, url: string) {
     mainWindow.once('ready-to-show', () => {
       console.log('ready to show');
       //mainWindow?.show();
-      setTimeout(() => {
-        // close window in 2 mins
-        killWindow(winOpt);
-        // restart
-        openNewWindow(moment().format(), url);
-      }, 60 * 1000 * 2);
+      setTimeout(
+        () => {
+          // close window in 2 mins
+          killWindow(winOpt);
+          // restart
+          openNewWindow(moment().format(), url);
+        },
+        60 * 1000 * 2
+      );
     });
   }
 }
