@@ -7,8 +7,8 @@
   "dependencies": {
     "ansi-colors": "^4.1.3",
     "bluebird": "^3.7.2",
-    "glob": "^10.3.4",
-    "hexo": "^7.0.0-rc2",
+    "glob": "^10.3.10",
+    "hexo": "^7.0.0",
     "hexo-asset-link": "^2.2.2",
     "hexo-front-matter": "^4.1.0",
     "hexo-generator-archive": "^2.0.0",
@@ -22,7 +22,8 @@
     "hexo-shortcodes": "^1.2.3",
     "moment-timezone": "^0.5.43",
     "sbg-utility": "^1.1.6",
-    "yaml": "^2.3.2"
+    "turndown": "^7.1.2",
+    "yaml": "^2.3.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
