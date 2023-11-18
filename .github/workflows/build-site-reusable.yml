@@ -38,6 +38,16 @@ jobs:
         with:
           node-version: 18
           check-latest: true
+      - uses: actions/cache@v3
+        id: yarn-cache
+        with:
+          path: |
+            ./.yarn/caches
+            ./node_modules
+            ./yarn.lock
+          key: ${{ runner.os }}-yarn-${{ hashFiles('src/**/*.ts', '_config.yml', '**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
       - run: npm i -g ts-node typescript hexo-cli
       - name: install
         run: |

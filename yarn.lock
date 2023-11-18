@@ -15048,7 +15048,7 @@ __metadata:
     path-browserify: ^1.0.1
     persistent-cache: "https://github.com/dimaslanjaka/persistent-cache/tarball/improve2"
     toastr: ^2.1.4
-  checksum: 71260c953a7f29f4f7a89ae63bc03bf6ad3f0944168954251d61f5a77e4548dfcc327cb5e692ad477434713ab314b3365a75d0b4f59aaef41036af22873a9b23
+  checksum: 51cc05bb5a4bf59c5c013229438d1b196f3e4d5cb63e72040b23d14bbdff2e7ced0e3b1ac836bb604cc1abc4e5dd359180cee8d3a635dac660f77072939c4e02
   languageName: node
   linkType: hard
 
