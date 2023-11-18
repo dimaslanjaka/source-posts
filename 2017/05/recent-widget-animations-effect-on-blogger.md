@@ -22,4 +22,78 @@ wordcount: 1865
 
 ---
 
-<div dir="ltr" style="text-align: left;" trbidi="on"><h1>    How to Install News Recent Articles With Animation Effects </h1><div>Hello bloggers, this point i will be able to share a recent widget with animated effects a recent article for the diary that my friend use. wherever we all know that the news of recent articles is important once for a diary, as a result of with a try of widgets during this new article on the diary, guests are going to be easier to understand that articles new created.     <br><br><br><div><a href="http://4.bp.blogspot.com/-f-ct8DCNaLo/VSQIY4m9-iI/AAAAAAAAA-c/ZMxcl6H0S60/s1600/recent_posts.jpg" rel="noopener noreferer nofollow">            <img alt="Cara Memasang Berita Artikel Terbaru Dengan Efek Animasi" border="0" height="295" src="https://4.bp.blogspot.com/-f-ct8DCNaLo/VSQIY4m9-iI/AAAAAAAAA-c/ZMxcl6H0S60/s1600/recent_posts.jpg" title="How to Install News Recent Articles With Animation Effects" width="320">        </a>    </div><br><br>By victimization this gadget, see the most recent news articles buddies can become additional enticing and therefore the guests aren't simply bored as a result of the gadget is continually moving.<br>Well, if my friend interested to put in widgets Latest Articles Effects Animation With this, the subsequent tutorial:<br><br>1. <strong>Login</strong> first buddy into dashboard blogger<br>2. In the blogger dashboard, click the <strong>Layout</strong> menu.<br><strong>        <br>    </strong>    <br><div><a href="http://3.bp.blogspot.com/-a3GaTS9s-tY/VSQK9XxfbiI/AAAAAAAAA-w/EyhJjPprFxE/s1600/Screenshot_20.png" rel="noopener noreferer nofollow">            <img alt="Cara Memasang Berita Artikel Terbaru Dengan Efek Animasi" border="0" height="320" src="https://3.bp.blogspot.com/-a3GaTS9s-tY/VSQK9XxfbiI/AAAAAAAAA-w/EyhJjPprFxE/s1600/Screenshot_20.png" title="How to Install News Recent Articles With Animation Effects" width="165">        </a>    </div><strong>        <br>    </strong>    3. In the Layout menu, click <strong>Add Gadgets</strong>    <br><strong>        <br>    </strong>    <br><div><a href="http://2.bp.blogspot.com/-IMUmChHuG0Q/VSQK6TInJnI/AAAAAAAAA-o/jsRTN0f9sUs/s1600/Screenshot_1.png" rel="noopener noreferer nofollow">            <img border="0" src="https://2.bp.blogspot.com/-IMUmChHuG0Q/VSQK6TInJnI/AAAAAAAAA-o/jsRTN0f9sUs/s1600/Screenshot_1.png">        </a>    </div><strong>        <br>    </strong>    4. After that, a small window will appear bogger default set of widgets,     buddy find just <strong>HTML / Javascript</strong> and double-click.     <br><br><br><div><a href="http://2.bp.blogspot.com/-L6020LFPtpU/VSQK_ZCc4HI/AAAAAAAAA-4/2MZdFRkTKSI/s1600/Screenshot_21.png" rel="noopener noreferer nofollow">            <img alt="Cara Memasang Berita Artikel Terbaru Dengan Efek Animasi" border="0" height="320" src="https://2.bp.blogspot.com/-L6020LFPtpU/VSQK_ZCc4HI/AAAAAAAAA-4/2MZdFRkTKSI/s1600/Screenshot_21.png" title="How to Install News Recent Articles With Animation Effects" width="281">        </a>    </div><br>5. <strong><em>Paste the code below</em></strong> into a column that has     been provided     <br><br><br><blockquote>&lt;style type = "text / css"&gt;         <br>#rp_plus_img {height: 377px;}         <br>#rp_plus_img li {height: 60px; padding: 5px; list-style: none;         <br>background-color: <strong>#FFFFFF;</strong>        <br>border: 1px solid <strong>#0090ff;}</strong>        <br>#rp_plus_img a {color: <strong>#0090ff;}</strong>        <br>#rp_plus_img .news-title {display: block; font-weight: bold;         margin-bottom: 4px; font-size: 11px;         <br>text-align: justify;         <br>-moz-border-radius: 5px;}         <br>#rp_plus_img img {float: left; margin-right: 14px; padding: 4px;         border: 1px solid # 00000; width: 55px; height: 55px;}         <br>&lt;/ style&gt;         <br>&lt;script type = "text / javascript" src =         "http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"&gt;         &lt;/ script&gt;         <br>&lt;script type = "text / javascript" src =         "https://sites.google.com/site/unwanted86/javascript/recentpost.js"&gt;         &lt;/ script&gt;         <br>&lt;script type = "text / javascript"&gt;         <br>var speed = 1500;         <br>var pause = 3500;         <br>$ (document) .ready (function () {         <br>rpnewsticker ();         <br>interval = setInterval (rpnewsticker, pause);         <br>});         <br>&lt;/ script&gt;         <br>&lt;ul id = "rp_plus_img"&gt;         <br>&lt;script style = "text / javascript"&gt;         <br>numposts var = 5;         <br>var NUMCHARS = 0;         <br>&lt;/ script&gt;         <br>&lt;script src = "/ feeds / posts / default? orderby = published &amp;         alt = json-in-script and callback = rpthumbnt"&gt; &lt;/ script&gt;     </blockquote><br>6. Buddy can change the widget's color to match the color of your blog by     changing the color code that I gave <strong>bold text</strong>&nbsp;above.     <br>5. After the settings finished, finally click <strong>Save.</strong>    <br><strong>        <br>    </strong>    <br><div><strong>            Under this Widget Display News Recent Articles With Animation             Effects         </strong>    </div><div><strong>            <br>        </strong>    </div><div><a href="http://4.bp.blogspot.com/-Aryoiq3r3sk/VSQLRTxL-6I/AAAAAAAAA_A/NvYFIq24DwU/s1600/Screenshot_3.png" rel="noopener noreferer nofollow">            <img alt="Cara Memasang Berita Artikel Terbaru Dengan Efek Animasi" border="0" height="168" src="https://4.bp.blogspot.com/-Aryoiq3r3sk/VSQLRTxL-6I/AAAAAAAAA_A/NvYFIq24DwU/s1600/Screenshot_3.png" title="How to Install News Recent Articles With Animation Effects" width="320">        </a>    </div><div><strong>            <br>        </strong>    </div><br>Hopefully this text light-weight web log tutorial is helpful for all bloggers, if you have got queries or criticism and suggestions, man will write it within the comments field within the bottom of this text. thanks for visiting. </div></div>
+How to Install News Recent Articles With Animation Effects
+==========================================================
+
+Hello bloggers, this point i will be able to share a recent widget with animated effects a recent article for the diary that my friend use. wherever we all know that the news of recent articles is important once for a diary, as a result of with a try of widgets during this new article on the diary, guests are going to be easier to understand that articles new created.  
+  
+  
+
+[![Cara Memasang Berita Artikel Terbaru Dengan Efek Animasi](https://4.bp.blogspot.com/-f-ct8DCNaLo/VSQIY4m9-iI/AAAAAAAAA-c/ZMxcl6H0S60/s1600/recent_posts.jpg "How to Install News Recent Articles With Animation Effects")](http://4.bp.blogspot.com/-f-ct8DCNaLo/VSQIY4m9-iI/AAAAAAAAA-c/ZMxcl6H0S60/s1600/recent_posts.jpg)
+
+  
+  
+By victimization this gadget, see the most recent news articles buddies can become additional enticing and therefore the guests aren't simply bored as a result of the gadget is continually moving.  
+Well, if my friend interested to put in widgets Latest Articles Effects Animation With this, the subsequent tutorial:  
+  
+1\. **Login** first buddy into dashboard blogger  
+2\. In the blogger dashboard, click the **Layout** menu.  
+  
+
+[![Cara Memasang Berita Artikel Terbaru Dengan Efek Animasi](https://3.bp.blogspot.com/-a3GaTS9s-tY/VSQK9XxfbiI/AAAAAAAAA-w/EyhJjPprFxE/s1600/Screenshot_20.png "How to Install News Recent Articles With Animation Effects")](http://3.bp.blogspot.com/-a3GaTS9s-tY/VSQK9XxfbiI/AAAAAAAAA-w/EyhJjPprFxE/s1600/Screenshot_20.png)
+
+3\. In the Layout menu, click **Add Gadgets**  
+  
+
+[![](https://2.bp.blogspot.com/-IMUmChHuG0Q/VSQK6TInJnI/AAAAAAAAA-o/jsRTN0f9sUs/s1600/Screenshot_1.png)](http://2.bp.blogspot.com/-IMUmChHuG0Q/VSQK6TInJnI/AAAAAAAAA-o/jsRTN0f9sUs/s1600/Screenshot_1.png)
+
+4\. After that, a small window will appear bogger default set of widgets, buddy find just **HTML / Javascript** and double-click.  
+  
+  
+
+[![Cara Memasang Berita Artikel Terbaru Dengan Efek Animasi](https://2.bp.blogspot.com/-L6020LFPtpU/VSQK_ZCc4HI/AAAAAAAAA-4/2MZdFRkTKSI/s1600/Screenshot_21.png "How to Install News Recent Articles With Animation Effects")](http://2.bp.blogspot.com/-L6020LFPtpU/VSQK_ZCc4HI/AAAAAAAAA-4/2MZdFRkTKSI/s1600/Screenshot_21.png)
+
+  
+5\. **_Paste the code below_** into a column that has been provided  
+  
+  
+
+> <style type = "text / css">  
+> #rp\_plus\_img {height: 377px;}  
+> #rp\_plus\_img li {height: 60px; padding: 5px; list-style: none;  
+> background-color: **#FFFFFF;**  
+> border: 1px solid **#0090ff;}**  
+> #rp\_plus\_img a {color: **#0090ff;}**  
+> #rp\_plus\_img .news-title {display: block; font-weight: bold; margin-bottom: 4px; font-size: 11px;  
+> text-align: justify;  
+> \-moz-border-radius: 5px;}  
+> #rp\_plus\_img img {float: left; margin-right: 14px; padding: 4px; border: 1px solid # 00000; width: 55px; height: 55px;}  
+> </ style>  
+> <script type = "text / javascript" src = "http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"> </ script>  
+> <script type = "text / javascript" src = "https://sites.google.com/site/unwanted86/javascript/recentpost.js"> </ script>  
+> <script type = "text / javascript">  
+> var speed = 1500;  
+> var pause = 3500;  
+> $ (document) .ready (function () {  
+> rpnewsticker ();  
+> interval = setInterval (rpnewsticker, pause);  
+> });  
+> </ script>  
+> <ul id = "rp\_plus\_img">  
+> <script style = "text / javascript">  
+> numposts var = 5;  
+> var NUMCHARS = 0;  
+> </ script>  
+> <script src = "/ feeds / posts / default? orderby = published & alt = json-in-script and callback = rpthumbnt"> </ script>
+
+  
+6\. Buddy can change the widget's color to match the color of your blog by changing the color code that I gave **bold text** above.  
+5\. After the settings finished, finally click **Save.**  
+  
+
+**Under this Widget Display News Recent Articles With Animation Effects**
+
+[![Cara Memasang Berita Artikel Terbaru Dengan Efek Animasi](https://4.bp.blogspot.com/-Aryoiq3r3sk/VSQLRTxL-6I/AAAAAAAAA_A/NvYFIq24DwU/s1600/Screenshot_3.png "How to Install News Recent Articles With Animation Effects")](http://4.bp.blogspot.com/-Aryoiq3r3sk/VSQLRTxL-6I/AAAAAAAAA_A/NvYFIq24DwU/s1600/Screenshot_3.png)
+
+  
+Hopefully this text light-weight web log tutorial is helpful for all bloggers, if you have got queries or criticism and suggestions, man will write it within the comments field within the bottom of this text. thanks for visiting.

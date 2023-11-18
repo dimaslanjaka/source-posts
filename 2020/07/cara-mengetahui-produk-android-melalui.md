@@ -19,4 +19,9 @@ wordcount: 21
 
 ---
 
-<ul style="text-align: left;"><li>reboot ke fastboot mode</li><li>ketik</li></ul>fastboot devices<div>fastboot getvar product</div>
+*   reboot ke fastboot mode
+*   ketik
+
+fastboot devices
+
+fastboot getvar product

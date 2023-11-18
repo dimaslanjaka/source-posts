@@ -20,4 +20,56 @@ wordcount: 2499
 
 ---
 
-<div id="post17631247285971705817"><div dir="ltr">have long wanted to make a post about getting visitor data and widgets         from histats for Blog.But only now can terlakasana and I will discuss         the article How to Sign Up and Install Histats Widget on Blog. Histats         are well used to monitor visitors on your blog to help you know the         progress on your blog, or to showcase the crowds of your blog visitors         to the public, hehe.         <br><br><div><a href="https://4.bp.blogspot.com/-wRS-Eyu86jI/V1EjfzBfDBI/AAAAAAAAH3g/6KiOnExqzUE_FGzf2zLefBXrt78IWbJ1gCLcB/s1600/histats.jpg" rel="noopener noreferer nofollow">                <img alt="Cara Mendaftar dan Memasang Widget Histats di Blog" border="0" height="320" src="https://4.bp.blogspot.com/-wRS-Eyu86jI/V1EjfzBfDBI/AAAAAAAAH3g/6KiOnExqzUE_FGzf2zLefBXrt78IWbJ1gCLcB/s320/histats.jpg" title="How to Sign Up and Install Histats Widget on Blog" width="320">            </a>        </div><br>These histats will provide visitor Traffic data in detail including:         the number of visitors who are online on your Blog, today's         impressions, visitors today, total visits, total views, city / country         visitors originated and others.         <br><br>How? Interested in getting data from Histats?Please register, get info         and widgets.         </div></div><div align="center"><ins></ins></div><div id="post27631247285971705817"><h2>        How to Register a Blog to Histats     </h2><ul><li>            Go to the             <a href="http://translate.googleusercontent.com/translate_c?depth=1&amp;nv=1&amp;rurl=translate.google.com&amp;sl=id&amp;sp=nmt4&amp;tl=en&amp;u=http://www.histats.com/&amp;usg=ALkJrhiG5drzY2wlKXeo5h2n4EGPMhNO6g" target="_blank" rel="noopener noreferer nofollow">                Histats             </a>            page, and click register.         </li><li>            In the create new account form, fill in the requested data histats.             The term surename is your family name or last name. After             completion, check the box I have read and agree Publisher Agreement             Terms, fill in captcha code and click Register.         </li><li>            Histats will ask you to check your email address to verify.         </li><li>            So check your inbox on your email, there will be a message from             histats.Click the link provided histats for verification.         </li><li>            A message will appear from the histats that your account is active,             and ask you to login.         </li><li>            Then do login and start using Histats.If you have logged in, click             Add e website.         </li><li>            In the form create new website / blog fill in the requested data             histats, diantarnya:         </li></ul><ul>    </ul><ol><li>            Site url: Blog url.         </li><li>            Language: the language used on the Blog.         </li><li>            Time Zone: Time zone where your buddy is located.         </li><li>            Category: Content category on Blog.         </li><li>            Title: Blog Title.         </li><li>            Description: Brief description of Blos contents.         </li><li>            <strong>Page views start value</strong>            : the number starts in the viewing dimension. If it's from scratch,             then leave it blank         </li><li>            <strong>Visitors start value:</strong>            numbers start in the visitors. If it's from scratch, then leave it             blank         </li><li>            Stats visibility: select the first option if traffic data will be             displayed publicly.         </li><li>Check the Accept box under the            <strong>Terms of use &amp; Privacy Policy option.</strong>        </li><li>            Fill in the captcha code.         </li></ol><ul>    </ul><ul><li>            If you have finished filling form create new website / blog, click             Continue.         </li></ul>Done, my friend has made a histats account and register your blog to be     given visitors by visitors histats. Please operate alone, because I will     discuss next is to get widgets from histats to be installed on the Blog.     <br><br><h2>        Install Histats Widget on Blog     </h2><ul><li>            Click on the name of Blog that you will install widget histats. On             this page will show in detail the data of your visitors. Click             Counter CODE.         </li><li>            Click add new counter         </li><li>            There are many views, please choose which buddy likes.         </li></ul><div><a href="http://4.bp.blogspot.com/-ZYQ6VoDKI6U/UdTKzLmjFkI/AAAAAAAACtk/mzN_X7Fjmaw/s983/Untitled9.png" rel="noopener noreferer nofollow">            <img alt="Memasang Widget Histats di Blog" border="0" height="180" src="https://4.bp.blogspot.com/-ZYQ6VoDKI6U/UdTKzLmjFkI/AAAAAAAACtk/mzN_X7Fjmaw/s400/Untitled9.png" title="Install Histats Widget on Blog" width="400">        </a>    </div><ul><li>            Check the data you need to be displayed on your Blog like visit             today, total visitor, online, then click save.         </li><li>            Once the counter has been successfully created, click Counter Id.         </li><li>            Buddy will be given the code by histats, select the standard option             only and the coppy code.         </li><li>            Then paste on Blog widget buddy.Log in Blogger &gt;&gt; Layout             &gt;&gt; Add Gadget &gt;&gt; HTML / Javascript &gt;&gt; Paste             &gt;&gt; Save         </li></ul>Done, the histats widget has been installed on your Blog. But usually the     widget adjusts first, so must be patient yah buddy ... </div>
+have long wanted to make a post about getting visitor data and widgets from histats for Blog.But only now can terlakasana and I will discuss the article How to Sign Up and Install Histats Widget on Blog. Histats are well used to monitor visitors on your blog to help you know the progress on your blog, or to showcase the crowds of your blog visitors to the public, hehe.  
+  
+
+[![Cara Mendaftar dan Memasang Widget Histats di Blog](https://4.bp.blogspot.com/-wRS-Eyu86jI/V1EjfzBfDBI/AAAAAAAAH3g/6KiOnExqzUE_FGzf2zLefBXrt78IWbJ1gCLcB/s320/histats.jpg "How to Sign Up and Install Histats Widget on Blog")](https://4.bp.blogspot.com/-wRS-Eyu86jI/V1EjfzBfDBI/AAAAAAAAH3g/6KiOnExqzUE_FGzf2zLefBXrt78IWbJ1gCLcB/s1600/histats.jpg)
+
+  
+These histats will provide visitor Traffic data in detail including: the number of visitors who are online on your Blog, today's impressions, visitors today, total visits, total views, city / country visitors originated and others.  
+  
+How? Interested in getting data from Histats?Please register, get info and widgets.
+
+How to Register a Blog to Histats
+---------------------------------
+
+*   Go to the [Histats](http://translate.googleusercontent.com/translate_c?depth=1&nv=1&rurl=translate.google.com&sl=id&sp=nmt4&tl=en&u=http://www.histats.com/&usg=ALkJrhiG5drzY2wlKXeo5h2n4EGPMhNO6g) page, and click register.
+*   In the create new account form, fill in the requested data histats. The term surename is your family name or last name. After completion, check the box I have read and agree Publisher Agreement Terms, fill in captcha code and click Register.
+*   Histats will ask you to check your email address to verify.
+*   So check your inbox on your email, there will be a message from histats.Click the link provided histats for verification.
+*   A message will appear from the histats that your account is active, and ask you to login.
+*   Then do login and start using Histats.If you have logged in, click Add e website.
+*   In the form create new website / blog fill in the requested data histats, diantarnya:
+
+1.  Site url: Blog url.
+2.  Language: the language used on the Blog.
+3.  Time Zone: Time zone where your buddy is located.
+4.  Category: Content category on Blog.
+5.  Title: Blog Title.
+6.  Description: Brief description of Blos contents.
+7.  **Page views start value** : the number starts in the viewing dimension. If it's from scratch, then leave it blank
+8.  **Visitors start value:** numbers start in the visitors. If it's from scratch, then leave it blank
+9.  Stats visibility: select the first option if traffic data will be displayed publicly.
+10.  Check the Accept box under the **Terms of use & Privacy Policy option.**
+11.  Fill in the captcha code.
+
+*   If you have finished filling form create new website / blog, click Continue.
+
+Done, my friend has made a histats account and register your blog to be given visitors by visitors histats. Please operate alone, because I will discuss next is to get widgets from histats to be installed on the Blog.  
+  
+
+Install Histats Widget on Blog
+------------------------------
+
+*   Click on the name of Blog that you will install widget histats. On this page will show in detail the data of your visitors. Click Counter CODE.
+*   Click add new counter
+*   There are many views, please choose which buddy likes.
+
+[![Memasang Widget Histats di Blog](https://4.bp.blogspot.com/-ZYQ6VoDKI6U/UdTKzLmjFkI/AAAAAAAACtk/mzN_X7Fjmaw/s400/Untitled9.png "Install Histats Widget on Blog")](http://4.bp.blogspot.com/-ZYQ6VoDKI6U/UdTKzLmjFkI/AAAAAAAACtk/mzN_X7Fjmaw/s983/Untitled9.png)
+
+*   Check the data you need to be displayed on your Blog like visit today, total visitor, online, then click save.
+*   Once the counter has been successfully created, click Counter Id.
+*   Buddy will be given the code by histats, select the standard option only and the coppy code.
+*   Then paste on Blog widget buddy.Log in Blogger >> Layout >> Add Gadget >> HTML / Javascript >> Paste >> Save
+
+Done, the histats widget has been installed on your Blog. But usually the widget adjusts first, so must be patient yah buddy ...

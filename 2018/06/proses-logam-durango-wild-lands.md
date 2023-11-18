@@ -21,4 +21,57 @@ wordcount: 351
 
 ---
 
-<table>  <tbody><tr><td>Nama Proses</td><td>Bahan</td><td>Hasil</td><td>Buff</td><td>Debuff</td></tr>    <tr>      <td>Sempurnakan Bijih       </td>      <td>Bijih logam       </td>      <td>Logam       </td>      <td>-       </td>      <td>-       </td>    </tr>    <tr>      <td>Panduan Tembaga       </td>      <td>Tembaga + Seng / Timah       </td>      <td>Perunggu       </td>      <td>+ Lv 5 Kepadatan Tinggi       </td>      <td>-       </td>    </tr>    <tr>      <td>Menghilangkan sulfur dari logam       </td>      <td>Logam +       </td>      <td>Logam Desulfurisasi       </td>      <td>+ Lv 2 Kepadatan Tinggi       </td>      <td>-       </td>    </tr>    <tr>      <td>Melelehkan logam       </td>      <td>Logam +       </td>      <td>Logam Panas       </td>      <td>        + Lv 1 Ringan         <br> + Lv 1 Struktur Kompak       </td><td>-</td>    </tr>  </tbody></table><div>TAGS : Durango, Proses Logam, Material Processing, Durango Wild Lands. </div><img src="https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png" title="durango" alt="durango">
+Nama Proses
+
+Bahan
+
+Hasil
+
+Buff
+
+Debuff
+
+Sempurnakan Bijih
+
+Bijih logam
+
+Logam
+
+\-
+
+\-
+
+Panduan Tembaga
+
+Tembaga + Seng / Timah
+
+Perunggu
+
+\+ Lv 5 Kepadatan Tinggi
+
+\-
+
+Menghilangkan sulfur dari logam
+
+Logam +
+
+Logam Desulfurisasi
+
+\+ Lv 2 Kepadatan Tinggi
+
+\-
+
+Melelehkan logam
+
+Logam +
+
+Logam Panas
+
+\+ Lv 1 Ringan  
+\+ Lv 1 Struktur Kompak
+
+\-
+
+TAGS : Durango, Proses Logam, Material Processing, Durango Wild Lands.
+
+![durango](https://res.cloudinary.com/dimaslanjaka/image/fetch/http://rifaldy.com/wp-content/uploads/2018/05/durango.png "durango")

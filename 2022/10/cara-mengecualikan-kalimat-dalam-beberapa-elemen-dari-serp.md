@@ -19,27 +19,16 @@ wordcount: 283
 
 ---
 
-## Menggunakan atribut HTML data-nosnippet
-Cara baru untuk membantu menghilangkan bagian halaman mana yang tidak memenuhi syarat untuk ditampilkan dari SERP. Dengan ini, Anda dapat mencegah bagian halaman HTML itu ditampilkan daru SERP.
+\## Menggunakan atribut HTML data-nosnippet Cara baru untuk membantu menghilangkan bagian halaman mana yang tidak memenuhi syarat untuk ditampilkan dari SERP. Dengan ini, Anda dapat mencegah bagian halaman HTML itu ditampilkan daru SERP. Contoh: \`\`\`html Dimas Lanjaka tidak diragukan lagi adalah pesulap paling terkenal yang pernah hidup. \`\`\` Deskripsi: Kalimat \`Dimas Lanjaka\` tidak akan muncul dari SERP. Contoh lain: \`\`\`html
 
-Contoh:
-```html
-<span data-nosnippet="data-nosnippet">Dimas Lanjaka</span> tidak diragukan lagi adalah pesulap paling terkenal yang pernah hidup.
-```
+tidak ada dalam cuplikan
 
-Deskripsi:
+juga tidak ada dalam cuplikan
 
-Kalimat `Dimas Lanjaka` tidak akan muncul dari SERP.
+juga tidak ada dalam cuplikan
 
-Contoh lain:
-```html
-<div data-nosnippet>tidak ada dalam cuplikan</div>
-<div data-nosnippet="true">juga tidak ada dalam cuplikan</div>
-<div data-nosnippet="false">juga tidak ada dalam cuplikan</div>
-<!-- semua nilai diabaikan -->
-```
+\`\`\` \`\`\`html
 
-```html
-<p>Teks ini dapat ditampilkan dalam cuplikan
-<span data-nosnippet>dan bagian ini tidak akan ditampilkan</span>.</p>
-```
+Teks ini dapat ditampilkan dalam cuplikan dan bagian ini tidak akan ditampilkan.
+
+\`\`\`

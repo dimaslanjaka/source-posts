@@ -20,4 +20,13 @@ wordcount: 44
 
 ---
 
-<div dir="ltr" style="text-align: left;" trbidi="on"><a href="https://www74.zippyshare.com/v/bm6KsF0Q/file.html" target="_blank" rel="noopener noreferer nofollow">Download</a> <br><hr><ol><li>Uchannel mod</li><li>Uchannel tanpa iklan</li><li>Uchannel no ads</li><li>Sub4sub mod</li></ol><div>Bonus&nbsp;<a href="https://www74.zippyshare.com/v/SKKuxfAr/file.html" rel="noopener noreferer nofollow">Auto clicker mod</a></div></div>
+[Download](https://www74.zippyshare.com/v/bm6KsF0Q/file.html)  
+
+* * *
+
+1.  Uchannel mod
+2.  Uchannel tanpa iklan
+3.  Uchannel no ads
+4.  Sub4sub mod
+
+Bonus [Auto clicker mod](https://www74.zippyshare.com/v/SKKuxfAr/file.html)

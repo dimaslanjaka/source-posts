@@ -21,4 +21,6 @@ wordcount: 19
 
 ---
 
-<div dir="ltr" style="text-align: left;" trbidi="on"><br><ol style="text-align: left;"><li><a href="https://github.com/madeadriandp/movies_app" rel="noopener noreferer nofollow" target="_blank">Movies App (Flutter Project)</a></li></ol></div>
+  
+
+1.  [Movies App (Flutter Project)](https://github.com/madeadriandp/movies_app)
