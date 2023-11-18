@@ -1,13 +1,9 @@
 ---
 title: How to use react suite toaster in reactjs
-date: 2023-09-26T08:00:44.000Z
-updated: 2023-11-18T11:47:50+07:00
-tags:
-  - react
-  - javascript
-  - typescript
-categories:
-  - programming
+date: 2023-09-26T15:00:44+07:00
+updated: 2023-09-26T15:14:42+07:00
+tags: [react, javascript, typescript]
+categories: [programming]
 ---
 
 ## React Hook "useToaster" cannot be called in a class component
