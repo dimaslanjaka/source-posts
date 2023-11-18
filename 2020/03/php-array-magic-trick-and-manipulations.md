@@ -17,8 +17,27 @@ thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_av
 title: PHP array magic trick and manipulations
 type: post
 updated: 2023-09-02T23:13:11.000Z
-wordcount: 274
-
 ---
 
-<div dir="ltr" style="text-align: left;" trbidi="on"><ol><li>manipulating multidimensional array using array_map</li><pre><br>/**<br>* Ilterate multidimensional array simplicity<br>* @desc modify and manipulate or populate multidimensional array with simple tricks<br>* @param array $arr<br>* @param function $callback<br>* @return Array<br>**/<br>function Map($arr, $callback)<br>{<br>  if (!is_callable($callback)) {<br>    throw new Exception("Callback must be function", 1);<br>  }<br><br>  return array_map(function ($key, $val) use ($callback) {<br>    return call_user_func($callback, $key, $val);<br>  }, array_keys($arr), $arr);<br>}<br></pre></ol> </div>
+1.  manipulating multidimensional array using `array_map`
+
+
+```php
+/**
+  * Ilterate multidimensional array simplicity
+  * @desc modify and manipulate or populate multidimensional array with simple tricks
+  * @param array $arr
+  * @param function $callback
+  * @return Array
+  **/
+function Map($arr, $callback)
+{
+  if (!is_callable($callback)) {
+    throw new Exception("Callback must be function", 1);
+  }
+
+  return array_map(function ($key, $val) use ($callback) {
+    return call_user_func($callback, $key, $val);
+  }, array_keys($arr), $arr);
+}
+```
