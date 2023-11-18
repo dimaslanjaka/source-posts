@@ -18,7 +18,7 @@ Bluebird.resolve(
     return data.workflow_runs;
   })
   .each((o) => {
-    if (o.status === 'in_progress'){
+    if (o.status === 'in_progress') {
       // cancel workflow
       return octokit.actions.cancelWorkflowRun({
         owner: 'dimaslanjaka',

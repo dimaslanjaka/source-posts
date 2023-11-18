@@ -37,15 +37,13 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: 'yarn'
           check-latest: true
       - run: npm i -g ts-node typescript hexo-cli
-      - name: clean install
+      - name: install
         run: |
-          yarn cache clean --all
-          rm yarn.lock
           touch yarn.lock
           YARN_CHECKSUM_BEHAVIOR=update yarn install
+        shell: bash
       - run: ts-node src/ci/check-other-ci.ts
 
   reusing-workflow:
