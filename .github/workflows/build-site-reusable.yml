@@ -50,6 +50,7 @@ jobs:
           key: ${{ runner.os }}-${{ env.node_version }}-${{ hashFiles('_config.yml', '**/yarn.lock') }}
           restore-keys: |
             ${{ runner.os }}-${{ env.node_version }}
+            ${{ runner.os }}-yarn
       - run: npm i -g ts-node typescript hexo-cli
       - name: install
         run: |
