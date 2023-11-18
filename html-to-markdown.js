@@ -20,7 +20,7 @@ files.each((file) => {
     const result = hpp.parsePostFM(fs.readFileSync(file, 'utf-8'))
     if (!result) return console.error('fail parse', file)
     if (!result.body) return console.error('fail render', file)
-    if (!/<div/gm.test(result.body))
+    if (!/<div dir=["']ltr["']/gm.test(result.body))
       // return console.error(file, 'not html body')
       return
     if (/codepen/m.test(result.body))
