@@ -16,8 +16,11 @@ getPosts('posts/**/*.md').each(async (file) => {
 
     if (post.metadata) {
       const { title } = post.metadata
-      const regex = new RegExp('download (lagu|film|movie)', 'i')
-      if (regex.test(title)) {
+      if (new RegExp('download (lagu|film|movie)', 'i').test(title)) {
+        fs.rmSync(file)
+        console.log(ansiColors.redBright('removed'), file)
+      }
+      if (new RegExp('<div id="A-G-C"', 'm').test(String(post.body))) {
         fs.rmSync(file)
         console.log(ansiColors.redBright('removed'), file)
       }
