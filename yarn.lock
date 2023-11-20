@@ -514,15 +514,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@octokit/types@npm:^11.1.0":
-  version: 11.1.0
-  resolution: "@octokit/types@npm:11.1.0"
-  dependencies:
-    "@octokit/openapi-types": ^18.0.0
-  checksum: 72627a94ddaf7bc14db06572bcde67649aad608cd86548818380db9305f4c0ca9ca078a62dd883858a267e8ec8fd596a0fce416aa04197c439b9548efef609a7
-  languageName: node
-  linkType: hard
-
 "@octokit/types@npm:^12.0.0, @octokit/types@npm:^12.3.0":
   version: 12.3.0
   resolution: "@octokit/types@npm:12.3.0"
@@ -10378,7 +10369,7 @@ __metadata:
     "@octokit/graphql": ^7.0.1
     "@octokit/request": ^6.2.8
     "@octokit/rest": ^20.0.1
-    "@octokit/types": ^11.1.0
+    "@octokit/types": ^12.3.0
     "@rollup/plugin-commonjs": ^25.0.4
     "@rollup/plugin-json": ^6.0.0
     "@rollup/plugin-node-resolve": ^15.2.1
