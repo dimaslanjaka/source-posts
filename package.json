@@ -40,7 +40,7 @@
     "@types/through2": "https://github.com/dimaslanjaka/nodejs-package-types/tarball/through2",
     "@typescript-eslint/eslint-plugin": "^6.5.0",
     "@typescript-eslint/parser": "^6.5.0",
-    "binary-collections": "^1.0.3",
+    "binary-collections": "^2.0.2",
     "chokidar": "^3.5.3",
     "cross-env": "^7.0.3",
     "dotenv": "^16.3.1",
