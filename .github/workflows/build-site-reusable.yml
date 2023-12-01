@@ -46,7 +46,7 @@ jobs:
           repository: dimaslanjaka/source-posts
           submodules: recursive
           token: '${{ secrets.ACCESS_TOKEN }}'
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           node-version: ${{ env.node_version }}
           check-latest: true
