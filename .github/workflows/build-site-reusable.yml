@@ -39,14 +39,14 @@ jobs:
 
     name: check other ci is not running
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         name: checkout root project
         with:
           ref: master
           repository: dimaslanjaka/source-posts
           submodules: recursive
           token: '${{ secrets.ACCESS_TOKEN }}'
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           node-version: ${{ env.node_version }}
           check-latest: true
@@ -67,7 +67,7 @@ jobs:
           touch yarn.lock
           YARN_CHECKSUM_BEHAVIOR=update yarn install
         shell: bash
-      - run: ts-node src/ci/check-other-ci.ts
+      - run: ts-node --esm src/ci/check-other-ci.ts
 
   reusing-workflow:
     needs: [check-reusable-ci]
