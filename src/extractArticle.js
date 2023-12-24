@@ -1,1 +1,1 @@
-const extractor = require('@extractus/article-extractor')
+const extractor = require('@extractus/article-extractor');

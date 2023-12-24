@@ -1,3 +1,3 @@
-import { browse } from './browse'
+import { browse } from './browse';
 
-browse('https://github.com/mozilla/geckoview/issues/229')
+browse('https://github.com/mozilla/geckoview/issues/229');
