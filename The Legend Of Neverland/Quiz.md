@@ -18,7 +18,7 @@ updated: 2023-12-24T17:59:36+07:00
 wordcount: 2129
 ---
 
-> when this page errors you can try [beta version](/test-unit/quiz.html)
+> when this page errors you can try [Quiz the legend of neverland questions and answers beta version](/test-unit/quiz.html)
 
 <!-- troubleshoot (missing, incorrect quiz) report to +6285655667573 via whatsapp -->
 
