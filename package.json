@@ -83,7 +83,7 @@
     "jsdom": "21",
     "moment-timezone": "^0.5.43",
     "nunjucks": "^3.2.4",
-    "puppeteer": "^20.5.0",
+    "puppeteer": "^21.6.1",
     "puppeteer-google-translate": "*",
     "sbg-utility": "^1.1.5",
     "upath": "^2.0.1",
