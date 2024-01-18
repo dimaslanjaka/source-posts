@@ -67,7 +67,9 @@ jobs:
           touch yarn.lock
           YARN_CHECKSUM_BEHAVIOR=update yarn install
         shell: bash
-      - run: ts-node --esm src/ci/check-other-ci.ts
+      # - run: ts-node --esm src/ci/check-other-ci.ts
+      - run: tsc -p tsconfig.ci.json
+      - run: node tmp/src/ci/check-other-ci.js
 
   reusing-workflow:
     needs: [check-reusable-ci]
