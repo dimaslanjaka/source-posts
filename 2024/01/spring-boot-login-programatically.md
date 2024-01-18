@@ -10,6 +10,7 @@ categories:
 updated: 2024-01-18T21:13:42.994Z
 keywords:
   - spring boot
+thumbnail: https://javadeveloperzone.com/wp-content/uploads/2018/04/spring-boot-set-active-profile-programmatically-1024x488.jpg
 ---
 
 **Important**:
