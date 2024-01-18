@@ -55,7 +55,7 @@ jobs:
         with:
           path: |
             ./.yarn/caches
-            ./node_modules
+            **/node_modules
             ./yarn.lock
           key: ${{ runner.os }}-${{ env.node_version }}-${{ hashFiles('_config.yml', '**/yarn.lock') }}
           restore-keys: |
@@ -67,7 +67,7 @@ jobs:
           touch yarn.lock
           YARN_CHECKSUM_BEHAVIOR=update yarn install
         shell: bash
-      - run: ts-node --esm src/ci/check-other-ci
+      - run: ts-node --esm src/ci/check-other-ci.ts
 
   reusing-workflow:
     needs: [check-reusable-ci]
