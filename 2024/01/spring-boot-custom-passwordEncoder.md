@@ -10,9 +10,11 @@ tags:
     - spring-boot
 categories:
     - programming
-updated: 2024-01-18T20:34:27.030Z
+updated: 2024-01-18T20:46:27.098Z
 thumbnail: https://i.ytimg.com/vi/lqaDOvQK0JM/maxresdefault.jpg
 ---
+
+Source code custom password encoder for spring
 
 ```java
 import org.jetbrains.annotations.NotNull;
@@ -93,5 +95,112 @@ public class CustomPassword implements PasswordEncoder {
         return decode(encodedPassword).contentEquals(rawPassword);
     }
 }
+```
 
+example custom password implementation in spring security
+
+```java
+import javax.sql.DataSource;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.security.authentication.AuthenticationManager;
+import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
+import org.springframework.security.config.annotation.web.builders.HttpSecurity;
+import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
+import org.springframework.security.config.annotation.web.configurers.AbstractHttpConfigurer;
+import org.springframework.security.core.userdetails.UserDetailsService;
+import org.springframework.security.web.SecurityFilterChain;
+import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
+
+@Configuration
+@EnableWebSecurity
+public class SecurityConfig {
+  @Autowired
+  private UserDetailsService userDetailsService;
+  @Autowired
+  DataSource dataSource;
+
+  @Bean
+  public static CustomPassword passwordEncoder() {
+    return new CustomPassword("passwordEncoder");
+  }
+
+  @Bean
+  public AuthenticationManager authenticationManager(HttpSecurity http) throws Exception {
+    return http.getSharedObject(AuthenticationManagerBuilder.class)
+        .build();
+  }
+
+  @Autowired
+  public void configureGlobal(final AuthenticationManagerBuilder auth) throws Exception {
+    auth
+        .userDetailsService(userDetailsService)
+        .passwordEncoder(passwordEncoder());
+  }
+
+  @Bean
+  public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
+    http
+        .csrf(AbstractHttpConfigurer::disable)
+        .authorizeHttpRequests((authorize) -> authorize
+            // admin area
+            .requestMatchers("/users/**").hasRole("ADMIN")
+            .requestMatchers("/add/**").hasRole("ADMIN")
+            .requestMatchers("/delete/**").hasRole("ADMIN")
+            .requestMatchers("/edit/**").hasRole("ADMIN")
+
+            // need login area
+            .requestMatchers("/me").authenticated()
+
+            // allow all non configured endpoint from above
+            // like css, js, and other static assets
+            .anyRequest().permitAll())
+        .formLogin(
+            form -> form
+                .loginPage("/login")
+                .loginProcessingUrl("/login")
+                // default success login redirect to dashboard
+                .defaultSuccessUrl("/dashboard")
+                .permitAll())
+        .logout(
+            logout -> logout
+                .logoutRequestMatcher(
+                    new AntPathRequestMatcher("/logout"))
+                .permitAll());
+    return http.build();
+  }
+}
+```
+
+example custom spring password encoder implementation in user service
+
+```java
+import java.util.Arrays;
+import java.util.List;
+import java.util.Optional;
+import java.util.stream.Collectors;
+import org.springframework.stereotype.Service;
+import jakarta.persistence.EntityNotFoundException;
+import your.package.CustomPassword;
+
+@SuppressWarnings({ "ArraysAsListWithZeroOrOneArgument", "OptionalIsPresent", "FieldMayBeFinal", "Convert2MethodRef" })
+@Service
+public class UserServiceImpl implements UserService {
+
+    private UserRepository userRepository;
+    private RoleRepository roleRepository;
+    private CustomPassword passwordEncoder;
+
+    public UserServiceImpl(UserRepository userRepository,
+            RoleRepository roleRepository,
+            CustomPassword passwordEncoder) {
+        this.userRepository = userRepository;
+        this.roleRepository = roleRepository;
+        this.passwordEncoder = passwordEncoder;
+    }
+
+    // other your methods here
+}
 ```
