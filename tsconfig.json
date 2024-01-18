@@ -2,7 +2,10 @@
   "extends": "./tsconfig.base",
   "ts-node": {
     "esm": true,
-    "experimentalSpecifierResolution": "node"
+    "experimentalSpecifierResolution": "node",
+    "compilerOptions": {
+      "esModuleInterop": true
+    }
   },
   "compilerOptions": {
     "lib": ["es2020", "DOM"],
