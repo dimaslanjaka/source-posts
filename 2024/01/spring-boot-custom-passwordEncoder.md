@@ -10,7 +10,7 @@ tags:
     - spring-boot
 categories:
     - programming
-updated: 2024-01-18T20:46:27.098Z
+updated: 2024-01-18T21:13:50.090Z
 thumbnail: https://i.ytimg.com/vi/lqaDOvQK0JM/maxresdefault.jpg
 ---
 
