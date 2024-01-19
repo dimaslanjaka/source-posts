@@ -3,13 +3,13 @@ title: Spring Boot login programmatically
 description: How to implement login programmatically in spring boot java
 date: 2024-01-18T20:56:37.270Z
 tags:
-  - spring-boot
-  - java
+    - spring-boot
+    - java
 categories:
-  - programming
-updated: 2024-01-19T15:59:39+07:00
+    - programming
+updated: 2024-01-19T12:34:31.046Z
 keywords:
-  - spring boot
+    - spring boot
 thumbnail: https://javadeveloperzone.com/wp-content/uploads/2018/04/spring-boot-set-active-profile-programmatically-1024x488.jpg
 ---
 
@@ -154,3 +154,7 @@ public class LoginController {
     }
 }
 ```
+
+## Conclusion
+
+this are important part for **Spring Boot login programmatically**, for full spring application project with **Spring Boot login programmatically** implementation you can view my sample project on [Github](https://github.com/dimaslanjaka/Java/tree/master/Spring%20User%20Management).

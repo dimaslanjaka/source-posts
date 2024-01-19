@@ -10,7 +10,7 @@ tags:
     - spring-boot
 categories:
     - programming
-updated: 2024-01-18T21:13:50.090Z
+updated: 2024-01-19T12:34:25.279Z
 thumbnail: https://i.ytimg.com/vi/lqaDOvQK0JM/maxresdefault.jpg
 ---
 
@@ -204,3 +204,7 @@ public class UserServiceImpl implements UserService {
     // other your methods here
 }
 ```
+
+## Conclusion
+
+this are important part for **spring boot custom password encoder**, for full spring application project with **spring boot custom password encoder** implementation you can view my sample project on [Github](https://github.com/dimaslanjaka/Java/tree/master/Spring%20User%20Management).
