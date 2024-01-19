@@ -7,14 +7,14 @@ tags:
   - java
 categories:
   - programming
-updated: 2024-01-18T21:13:42.994Z
+updated: 2024-01-19T15:59:39+07:00
 keywords:
   - spring boot
 thumbnail: https://javadeveloperzone.com/wp-content/uploads/2018/04/spring-boot-set-active-profile-programmatically-1024x488.jpg
 ---
 
 **Important**:
-First you need a [custom password encoder](2024/01/spring-boot-custom-passwordEncoder.html) for your spring boot project, so you can log in using your user credentials. [READ HERE - custom password encoder for spring boot](2024/01/spring-boot-custom-passwordEncoder.html).
+First you need a [custom password encoder](/2024/01/spring-boot-custom-passwordEncoder.html) for your spring boot project, so you can log in using your user credentials. [READ HERE - custom password encoder for spring boot](/2024/01/spring-boot-custom-passwordEncoder.html).
 
 ## Add Field
 add custom fields to your `@Controller` class like my LoginController below.
@@ -80,7 +80,7 @@ public String loginUUID(@PathVariable String uuid, HttpServletRequest request, H
 above codes will return content-type: application/json
 
 ## Full codes sample
-full my sample codes login programmatically with [custom password encoder for spring boot](2024/01/spring-boot-custom-passwordEncoder.html).
+full my sample codes login programmatically with [custom password encoder for spring boot](/2024/01/spring-boot-custom-passwordEncoder.html).
 
 ```java
 package web.user;
