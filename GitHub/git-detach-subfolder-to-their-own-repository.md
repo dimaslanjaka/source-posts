@@ -57,7 +57,7 @@ Now the repository will only contain the files that were in the subfolders.
 
 ![Screenshot of the "Quick Setup" header for the repository. Two overlapping square icons with an orange outline are highlighted next to the remote URL. ](https://docs.github.com/assets/cb-48149/images/help/repository/copy-remote-repository-url-quick-setup.png)
 
-**Up:** See [About remote repositories] (https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories).
+**Up:** See [About remote repositories](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories).
 
 4. Add a new remote name using the URL you copied for your repository. For example, Origin or Upstream are two common choices.
 
