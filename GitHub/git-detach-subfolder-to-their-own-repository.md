@@ -14,9 +14,7 @@ tags:
 thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/aba30e58-526f-48c3-a2c5-fe7df582b8b2
 title: git detach subfolder to their own repository
 type: post
-updated: 2023-09-02T21:28:02.000Z
-wordcount: 959
-
+updated: 2024-01-20T06:19:42+07:00
 ---
 
 If you create a new clone of a repository, you can split the folder into another repository without losing your Git history or changes.
@@ -25,15 +23,15 @@ If you create a new clone of a repository, you can split the folder into another
 
 2. Change your current working directory to where you want to create the new repository. 3. Clone the repository including subfolders.
 
-    ```
-    $ git clone https://github.com/USERNAME/REPOSITORY-NAME
-    ```
+```bash
+$ git clone https://github.com/USERNAME/REPOSITORY-NAME
+```
 
 4. Change your current working directory to the cloned repository.
 
-    ```
-    $ cd REPOSITORY-NAME
-    ```
+```bash
+$ cd REPOSITORY-NAME
+```
 
 Five. To filter subfolders from the rest of the files in the repository, use ['git-filter-repo'](https://github.com/newren/git-filter-repo), run git filter-repo with the following arguments:
 
@@ -42,12 +40,12 @@ A folder within a project in which to create another repository.
 
 > **Up:** Windows users must use "/" to separate folders.
 
-    ```
-    $ git filter-repo --path FOLDER-NAME/
-    # Filter the specified branch in your directory and remove empty commits
-    > Rewrite 48dc599c80e20527ed902928085e7861e6b3cbe6 (89/89)
-    > Ref 'refs/heads/BRANCH-NAME' was rewritten
-    ```
+```bash
+$ git filter-repo --path FOLDER-NAME/
+# Filter the specified branch in your directory and remove empty commits
+> Rewrite 48dc599c80e20527ed902928085e7861e6b3cbe6 (89/89)
+> Ref 'refs/heads/BRANCH-NAME' was rewritten
+```
 
 Now the repository will only contain the files that were in the subfolders.
 
@@ -63,23 +61,23 @@ Now the repository will only contain the files that were in the subfolders.
 
 4. Add a new remote name using the URL you copied for your repository. For example, Origin or Upstream are two common choices.
 
-    ```
-    git remote add origin https://github.com/USERNAME/REPOSITORY-NAME.git
-    ```
+```bash
+git remote add origin https://github.com/USERNAME/REPOSITORY-NAME.git
+```
 
 5. Make sure the remote URL is added with the new repository name.
 
-    ```
-    $ git remote -v
-    # Verify new remote URL
-    > origin  https://github.com/USERNAME/NEW-REPOSITORY-NAME.git (fetch)
-    > origin  https://github.com/USERNAME/NEW-REPOSITORY-NAME.git (push)
-    ```
+```bash
+$ git remote -v
+# Verify new remote URL
+> origin  https://github.com/USERNAME/NEW-REPOSITORY-NAME.git (fetch)
+> origin  https://github.com/USERNAME/NEW-REPOSITORY-NAME.git (push)
+```
 
 6. Push your changes to your new repository on GitHub.
 
-    ```
-    git push -u origin BRANCH-NAME
-    ```
+```bash
+git push -u origin BRANCH-NAME
+```
 
 ![thumbnail](https://github.com/dimaslanjaka/source-posts/assets/12471057/aba30e58-526f-48c3-a2c5-fe7df582b8b2)
