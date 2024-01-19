@@ -37,11 +37,10 @@
   },
   "code-runner.respectShebang": true,
   "code-runner.executorMap": {
-    "javascript": "cross-env-shell NODE_ENV=development node -r dotenv/config -r ts-node/register",
+    "javascript": "cross-env-shell NODE_ENV=development node -r dotenv/config -r ts-node/register --es-module-specifier-resolution=node",
     "typescript": "cross-env-shell NODE_ENV=development node --experimental-specifier-resolution=node --loader ts-node/esm -r dotenv/config"
   },
   "code-runner.saveFileBeforeRun": true,
   "nunjucksTemplate.preserveEmptyLine": 3,
-  "npm.packageManager": "yarn",
-  "eslint.packageManager": "yarn"
+  "npm.packageManager": "yarn"
 }
