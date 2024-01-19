@@ -21,6 +21,7 @@ tmp
 **/.yarn/versions
 **/.yarn/unplug*
 **/.yarn/*.gz
+yarn.lock
 
 # auto generated husky files by `husky install`
 **/.husky/_
