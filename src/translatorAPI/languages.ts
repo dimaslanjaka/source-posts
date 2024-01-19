@@ -6,7 +6,6 @@
  * @see https://cloud.google.com/translate/docs/languages
  * @see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
  */
-
 const languages = {
   auto: 'Automatic',
   af: 'Afrikaans',
@@ -118,30 +117,31 @@ const languages = {
 /**
  * Returns the ISO 639-1 code of the desiredLang – if it is supported by
  * Google Translate
- * @param {string} language The name or the code of the desired language
- * @returns {string|boolean} The ISO 639-1 code of the language or null if the
+ * @param language The name or the code of the desired language
+ * @returns The ISO 639-1 code of the language or null if the
  * language is not supported
  */
-function getISOCode(language) {
+function getISOCode(language: string = 'auto'): string | boolean {
   if (!language) return false;
   language = language.toLowerCase();
   if (language in languages) return language;
+  const langs = languages as Record<string, string>;
 
-  let keys = Object.keys(languages).filter((key) => {
-    if (typeof languages[key] !== 'string') return false;
+  const keys = Object.keys(languages).filter((key) => {
+    if (typeof langs[key] !== 'string') return false;
 
-    return languages[key].toLowerCase() === language;
+    return langs[key].toLowerCase() === language;
   });
 
-  return keys[0] || null;
+  return keys[0] || false;
 }
 
 /**
  * Returns true if the desiredLang is supported by Google Translate and false otherwise
- * @param {String} language The ISO 639-1 code or the name of the desired language.
- * @returns {boolean} If the language is supported or not.
+ * @param language The ISO 639-1 code or the name of the desired language.
+ * @returns If the language is supported or not.
  */
-function isSupported(language) {
+function isSupported(language: string): boolean {
   return Boolean(getISOCode(language));
 }
 

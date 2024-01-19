@@ -1,6 +1,6 @@
 // import translate from '@iamtraction/google-translate';
 
-import * as translate from './translatorAPI/index';
+import * as translate from './index';
 
 /** @type {Parameters<typeof translate>[1]} */
 const options = {

@@ -85,7 +85,11 @@ async function updateTKK() {
   }
 }
 
-// eslint-disable-next-line require-jsdoc
+/**
+ * generate token
+ * @param {string} text text to translate
+ * @returns {Promise<{name:string, value:string}>}
+ */
 async function generate(text) {
   try {
     await updateTKK();
