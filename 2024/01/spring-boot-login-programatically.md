@@ -7,7 +7,7 @@ tags:
     - java
 categories:
     - programming
-updated: 2024-01-19T12:34:31.046Z
+updated: 2024-01-19T19:45:48+07:00
 keywords:
     - spring boot
 thumbnail: https://javadeveloperzone.com/wp-content/uploads/2018/04/spring-boot-set-active-profile-programmatically-1024x488.jpg
@@ -16,7 +16,46 @@ thumbnail: https://javadeveloperzone.com/wp-content/uploads/2018/04/spring-boot-
 **Important**:
 First you need a [custom password encoder](/2024/01/spring-boot-custom-passwordEncoder.html) for your spring boot project, so you can log in using your user credentials. [READ HERE - custom password encoder for spring boot](/2024/01/spring-boot-custom-passwordEncoder.html).
 
-## Add Field
+## Setup Spring Security
+Expose context of `org.springframework.security.authentication.AuthenticationManager` from security config class to be used in `LoginController`
+
+```java
+import javax.sql.DataSource;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.security.authentication.AuthenticationManager;
+import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
+import org.springframework.security.config.annotation.web.builders.HttpSecurity;
+import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
+import org.springframework.security.config.annotation.web.configurers.AbstractHttpConfigurer;
+import org.springframework.security.core.userdetails.UserDetailsService;
+import org.springframework.security.web.SecurityFilterChain;
+import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
+
+@Configuration
+@EnableWebSecurity
+public class SecurityConfig {
+  @Autowired
+  private UserDetailsService userDetailsService;
+  @Autowired
+  DataSource dataSource;
+
+  @Bean
+  public static CustomPassword passwordEncoder() {
+    return new CustomPassword("passwordEncoder");
+  }
+
+  @Bean
+  public AuthenticationManager authenticationManager(HttpSecurity http) throws Exception {
+    return http.getSharedObject(AuthenticationManagerBuilder.class)
+        .build();
+  }
+}
+```
+
+## Setup Controller
 add custom fields to your `@Controller` class like my LoginController below.
 
 ```java
