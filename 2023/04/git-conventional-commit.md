@@ -9,8 +9,6 @@ lang: en
 tags:
   - github
   - shell
-  - bash
-  - cmd
 title: Conventional Commit Messages
 type: post
 updated: 2023-09-02T21:07:53.459Z

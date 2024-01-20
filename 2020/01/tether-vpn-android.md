@@ -7,13 +7,12 @@ categories:
   - programming
 comments: true
 date: 2020-01-30T17:36:00.001Z
-description: How to tethering vpn on android ROOT
-  Terminal Emulator Tutorial Start your
+description: How to tethering vpn on android ROOT Terminal Emulator Tutorial Start your
 lang: en
 tags:
   - android
+  - shell
   - tips & tricks
-  - bash
 thumbnail: https://4.bp.blogspot.com/-4_aOS3F7Fg0/XlutU8-PrnI/AAAAAAAAAK0/7KvHUpX78WQw8a-2MYQjo-P1Oq9Mv1zTACLcBGAsYHQ/s1600/imgingest-2117968900021071073.png
 title: Tether VPN Android
 type: post

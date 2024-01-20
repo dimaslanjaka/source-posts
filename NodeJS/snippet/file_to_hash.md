@@ -10,6 +10,7 @@ tags:
   - snippet
   - javascript
   - typescript
+keywords:
   - file
 thumbnail: /NodeJS/assets/pngwing.com.png
 title: File to Hash

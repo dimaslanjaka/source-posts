@@ -10,17 +10,16 @@ date: 2020-05-29T17:03:00.002Z
 description: Script To Clear Cache Linux
 lang: en
 tags:
-  - bash
-  - script
-  - tips & tricks
   - linux/unix
+  - script
+  - shell
+  - tips & tricks
 thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/https://www.wissenschaft.com.ng/wp-content/uploads/2021/02/clear_ram_buffer_linux.jpg
 title: Linux Clear Cache
 type: post
 updated: 2023-09-02T21:28:07.000Z
 webtitle: Script
 wordcount: 343
-
 ---
 
 ```bash

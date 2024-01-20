@@ -14,19 +14,18 @@ keywords:
 lang: id
 location: Indonesia
 tags:
+  - github
+  - github-actions
   - github-workflows
+  - shell
   - snippet
   - yaml
-  - github-actions
-  - github
-  - bash
 thumbnail: /GitHub/workflows/cover.png
 title: Macam-macam kondisional pada github workflows
 type: post
 updated: 2023-09-02T21:28:01.000Z
 webtitle: WMI GitHub
 wordcount: 1496
-
 ---
 
 ## Kondisional pada GitHub Workflow

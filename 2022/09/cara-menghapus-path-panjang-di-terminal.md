@@ -4,12 +4,10 @@ categories:
   - programming
 comments: true
 date: 2022-09-01
-description: Cara menghapus direktori path panjang di terminal Bagaimana cara
-  mempersingkat jalur direktori saat ini yang ditampilkan di terminal? Pergi ke
-  Home direktori at
+description: Cara menghapus direktori path panjang di terminal Bagaimana cara mempersingkat jalur direktori saat ini yang ditampilkan di terminal? Pergi ke Home direktori at
 lang: en
 tags:
-  - bash
+  - shell
 title: Cara menghapus direktori path panjang di terminal
 type: post
 updated: 2023-08-08T14:45:09+07:00

@@ -4,21 +4,18 @@ categories:
   - programming
 comments: true
 date: 2023-05-15T22:35:19.000Z
-description: "removes node_modules from git history Deprecated method to delete
-  node_modules from github repository commit historyWARNING: git filter-branch
-  is no longer offi"
+description: "removes node_modules from git history Deprecated method to delete node_modules from github repository commit historyWARNING: git filter-branch is no longer offi"
 lang: en
 tags:
-  - bash
-  - snippet
-  - script
   - github
+  - script
+  - shell
+  - snippet
 thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/40dd6736-8c54-4039-bce4-cbddd5984f82
 title: removes node_modules from git history
 type: post
 updated: 2023-09-02T21:28:04.000Z
 wordcount: 1182
-
 ---
 
 <!-- https://stackoverflow.com/questions/10067848/remove-folder-and-its-contents-from-git-githubs-history/61544937#61544937 -->

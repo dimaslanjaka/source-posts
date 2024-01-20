@@ -10,8 +10,7 @@ description: Gulp execute commands without plugin solution for executing shell
 lang: en
 tags:
   - javascript
-  - gulp
-  - exec
+  - shell
 title: Gulp execute commands without plugin
 type: post
 updated: 2023-09-03T04:28:00+07:00

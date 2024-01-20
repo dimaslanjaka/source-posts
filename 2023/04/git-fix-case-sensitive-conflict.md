@@ -9,13 +9,12 @@ lang: en
 tags:
   - github
   - script
-  - bash
+  - shell
 thumbnail: https://1.bp.blogspot.com/-qPtq_n0ithw/YPbCOjZsFyI/AAAAAAAAAhM/JfQ6R2yIcgYMlTZ9GhPaOgFEZ1rm0O0lACLcBGAsYHQ/s600/git-cli-commands.jpg
 title: git fix case-sensitive conflict
 type: post
 updated: 2023-09-02T21:28:04.000Z
 wordcount: 427
-
 ---
 
 ## How do I commit case-sensitive filename changes in Git?

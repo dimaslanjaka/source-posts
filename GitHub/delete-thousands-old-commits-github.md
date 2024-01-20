@@ -8,7 +8,7 @@ description: Removing old unneeded commits - saving disk space and making git cl
 lang: en
 tags:
   - github
-  - bash
+  - shell
 title: How to remove thousands old unneeded commits
 type: post
 updated: 2023-09-03T04:28:02+07:00

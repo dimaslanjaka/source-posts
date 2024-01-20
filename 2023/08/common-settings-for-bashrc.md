@@ -4,12 +4,10 @@ categories:
   - programming
 comments: true
 date: 2023-08-24T07:00:51+07:00
-description: Common Settings For .bashrc custom NodeJS executable pathsif [ -d
-  /media/dimaslanjaka/DATA/bin/node/linux/bin ] ; then export
-  PATH=PATH:/media/dimaslanjaka/DATA
+description: Common Settings For .bashrc custom NodeJS executable pathsif [ -d /media/dimaslanjaka/DATA/bin/node/linux/bin ] ; then export PATH=PATH:/media/dimaslanjaka/DATA
 lang: en
 tags:
-  - bash
+  - shell
 title: Common Settings For .bashrc
 type: post
 updated: 2023-08-24T17:39:41+07:00

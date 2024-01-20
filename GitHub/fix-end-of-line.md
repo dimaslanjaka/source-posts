@@ -4,13 +4,11 @@ categories:
   - programming
 comments: true
 date: 2023-08-31T10:06:28+07:00
-description: fix end of line on github repository force end of line using LF For
-  repos Git repositories that were checked out after those global settings were
-  set, everythin
+description: fix end of line on github repository force end of line using LF For repos Git repositories that were checked out after those global settings were set, everythin
 lang: en
 tags:
   - github
-  - bash
+  - shell
 title: fix end of line on github repository
 type: post
 updated: 2023-09-03T04:28:02+07:00

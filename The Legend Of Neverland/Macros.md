@@ -8,7 +8,7 @@ description: Macros Auto Click Bluestacks for the legend of neverland download
 lang: en
 location: Indonesia
 tags:
-  - bluestack
+  - bluestacks
   - macros
   - the legend of neverland
 thumbnail: https://cdn-www.bluestacks.com/bs-images/BlueStacks_Macros_Banner_EN.jpg

@@ -13,11 +13,11 @@ keywords:
   - typescript
   - javascript
   - function
-lang: en
-tags:
   - file
   - size
   - node
+lang: en
+tags:
   - javascript
 title: Snippet Convert Bytes To Human Readable
 type: post

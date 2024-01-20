@@ -4,9 +4,7 @@ categories:
   - programming
 comments: true
 date: 2022-10-15T07:00:08.000Z
-description: How to delete files with gulp without any plugin del is now only
-  used for ESM del Issues about del and gulp Issue42 Issue42 Variables fs-extra
-  better than fs fo
+description: How to delete files with gulp without any plugin del is now only used for ESM del Issues about del and gulp Issue42 Issue42 Variables fs-extra better than fs fo
 keywords:
   - delete files with gulp
   - gulp delete files
@@ -14,14 +12,13 @@ keywords:
   - gulp delete all files except some files
 lang: en
 tags:
-  - snippets
   - javascript
+  - snippet
 thumbnail: https://opengraph.githubassets.com/d5c0c03975090ca4fdc9426231dd22310716b7d817cb6de10306acc7399a583c/sindresorhus/del/issues/42
 title: How to delete files with gulp without any plugin
 type: post
 updated: 2023-09-02T21:28:00.000Z
 wordcount: 1113
-
 ---
 
 `del` is now only used for ESM

@@ -4,13 +4,11 @@ categories:
   - programming
 comments: true
 date: 2023-05-16T20:58:48+07:00
-description: remove files from git history for specific size delete big files
-  from git history example deleting files more than 100Mb cd
-  folder/your/repositorybfg --strip-bl
+description: remove files from git history for specific size delete big files from git history example deleting files more than 100Mb cd folder/your/repositorybfg --strip-bl
 lang: en
 tags:
   - github
-  - bash
+  - shell
   - snippet
 title: remove files from git history for specific size
 type: post

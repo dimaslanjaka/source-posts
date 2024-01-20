@@ -4,14 +4,12 @@ categories:
   - programming
 comments: true
 date: 2023-02-28T08:47:15+07:00
-description: bash script to rollback github pages Bash script github pages
-  rollback /usr/bin/env bashecho Insert commit hash read commitHashbranch=git
-  branch --show-currentb
+description: bash script to rollback github pages Bash script github pages rollback /usr/bin/env bashecho Insert commit hash read commitHashbranch=git branch --show-currentb
 lang: en
 tags:
-  - bash
   - github
   - rollback
+  - shell
 title: bash script to rollback github pages
 type: post
 updated: 2023-09-03T04:28:04+07:00

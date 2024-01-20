@@ -11,7 +11,7 @@ description: Cara menampilkan codepen.io di blog Bagaimana cara menampilkan code
 lang: id
 tags:
   - html
-  - js
+  - javascript
 thumbnail: https://res.cloudinary.com/css-tricks/images/f_auto,q_auto/v1637697874/embed-builder-overview/embed-builder-overview.png?_i=AA
 title: Cara menampilkan codepen.io di blog
 type: post

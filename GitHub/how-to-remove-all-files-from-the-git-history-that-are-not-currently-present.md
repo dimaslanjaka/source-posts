@@ -4,14 +4,11 @@ categories:
   - programming
 comments: true
 date: 2023-08-22T23:36:12+07:00
-description: How to remove all files from the git history that are not currently
-  present? SummaryIve seen several articles and questions about how to remove a
-  single file fr
+description: How to remove all files from the git history that are not currently present? SummaryIve seen several articles and questions about how to remove a single file fr
 lang: en
 tags:
   - github
-  - bash
-  - cmd
+  - shell
 title: How to remove all files from the git history that are not currently present?
 type: post
 updated: 2023-08-22T23:36:12+07:00

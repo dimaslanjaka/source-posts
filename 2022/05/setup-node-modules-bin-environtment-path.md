@@ -8,14 +8,12 @@ description: How to setup node_modules/.bin on global environtment path
 lang: en
 tags:
   - nodejs
-  - bash
-  - cmd
+  - shell
 thumbnail: https://user-images.githubusercontent.com/12471057/167742331-5e5ea481-cbfc-4a9a-87fd-7b404b16a4dc.png
 title: Setup node_modules bin on global environtment path
 type: post
 updated: 2023-08-08T07:45:09.000Z
 wordcount: 98
-
 ---
 
 ## Setup Windows

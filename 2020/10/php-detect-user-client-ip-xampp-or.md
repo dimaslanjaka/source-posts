@@ -13,6 +13,7 @@ tags:
   - script
   - php
   - tips & tricks
+keywords:
   - ip
 thumbnail: https://i.ytimg.com/vi/amIclgSsi7Y/maxresdefault.jpg
 title: "[PHP] Detect User Client IP XAMPP or Localhost Machine Supported"

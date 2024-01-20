@@ -7,9 +7,9 @@ date: 2023-02-12T18:12:20+07:00
 description: bash script to commit root and all submodules at once
 lang: en
 tags:
-  - snippet
   - script
-  - bash
+  - shell
+  - snippet
 title: Script bash git commit recursive with submodules
 type: post
 updated: 2023-09-03T04:28:04+07:00

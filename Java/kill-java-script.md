@@ -4,14 +4,11 @@ categories:
   - programming
 comments: true
 date: 2023-08-23T20:32:38+07:00
-description: Script java killer Windows CMD create script with name killjava.cmd
-  or killjava.bat killjava.cmd killjava.bat @echo offtaskkill /f /im
-  jqs.exetaskkill /f /im ja
+description: Script java killer Windows CMD create script with name killjava.cmd or killjava.bat killjava.cmd killjava.bat @echo offtaskkill /f /im jqs.exetaskkill /f /im ja
 lang: en
 tags:
-  - bash
-  - cmd
   - java
+  - shell
 title: Script java killer
 type: post
 updated: 2023-08-23T20:39:35+07:00

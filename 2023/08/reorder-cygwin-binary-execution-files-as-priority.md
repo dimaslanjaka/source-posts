@@ -4,12 +4,10 @@ categories:
   - programming
 comments: true
 date: 2023-08-24T18:00:39+07:00
-description: How to reorder cygwin binary execution files as first priority
-  Script header bash to reorder cygwin binary execution files as priority
-  /usr/bin/env bash install
+description: How to reorder cygwin binary execution files as first priority Script header bash to reorder cygwin binary execution files as priority /usr/bin/env bash install
 lang: en
 tags:
-  - bash
+  - shell
 title: How to reorder cygwin binary execution files as first priority
 type: post
 updated: 2023-08-24T18:00:39+07:00

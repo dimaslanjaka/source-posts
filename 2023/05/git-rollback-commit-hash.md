@@ -4,15 +4,13 @@ categories:
   - programming
 comments: true
 date: 2023-05-17T20:45:00+07:00
-description: rollback commit github Rogue Coder? Working alone and just want to
-  do well? Follow the steps below. These steps have worked reliably for me and
-  many others over
+description: rollback commit github Rogue Coder? Working alone and just want to do well? Follow the steps below. These steps have worked reliably for me and many others over
 lang: en
 tags:
   - github
   - script
+  - shell
   - snippet
-  - bash
 title: rollback commit github
 type: post
 updated: 2023-09-30T01:43:40+07:00

@@ -10,12 +10,13 @@ keywords:
   - rumus kecepatan
   - rumus waktu
   - rumus rata-rata
-lang: id
-tags:
   - distance
   - time
   - average
   - speed
+lang: id
+tags:
+  - math
 thumbnail: https://imgix2.ruangguru.com/assets/miscellaneous/png_yr7v2m_1615.png
 title: Rumus Jarak, Kecepatan, Waktu, Dan Rata-rata
 type: post
