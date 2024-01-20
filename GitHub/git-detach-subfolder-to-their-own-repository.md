@@ -36,6 +36,7 @@ $ cd REPOSITORY-NAME
 Five. To filter subfolders from the rest of the files in the repository, use ['git-filter-repo'](https://github.com/newren/git-filter-repo), run git filter-repo with the following arguments:
 
 - "Folder name":
+
 A folder within a project in which to create another repository.
 
 > **Up:** Windows users must use "/" to separate folders.
