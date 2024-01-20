@@ -4,9 +4,9 @@ description: Overwriting github action cache strategy with code example
 keywords:
   - github actions cache
   - cache
-date: 2024-01-20T11:57:08.407Z
+date: 2024-01-21T07:54:43.398Z
 thumbnail: https://opengraph.githubassets.com/e541d4950690819c66a1af94d1cda39585573064b7dfed13dc25f545db4f628c/actions/toolkit/issues/505
-updated: 2024-01-20T13:54:43.398Z
+updated: 2024-01-21T09:54:43.398Z
 tags:
   - github
   - github-actions-workflow
