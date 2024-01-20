@@ -1,18 +1,69 @@
 ---
 title: custom passwordEncoder for spring boot java
 keywords:
-    - spring
-    - java
+  - spring
+  - java
 description: Custom PasswordEncoder that works within spring boot java project
 date: 2024-01-18T20:23:22.143Z
 tags:
-    - java
-    - spring-boot
+  - java
+  - spring-boot
 categories:
-    - programming
-updated: 2024-01-19T12:34:25.279Z
+  - programming
+updated: 2024-01-20T16:33:56.854Z
 thumbnail: https://i.ytimg.com/vi/lqaDOvQK0JM/maxresdefault.jpg
 ---
+
+<details>
+  <summary>Spring Boot Custom Password Encoder</summary>
+
+  Introduction
+  ------------
+
+  -   Brief explanation about the purpose of the article
+  -   Mention that the article will focus on how to implement a custom password encoder in Spring Boot
+
+  Understanding Password Encoding
+  -------------------------------
+
+  -   Define password encoding
+  -   Explain the importance of password encoding in web applications
+  -   Mention common password encoding techniques (e.g. MD5, SHA-256)
+
+  Default Password Encoder in Spring Boot
+  ---------------------------------------
+
+  -   Briefly explain the default password encoder used in Spring Boot
+  -   Mention its limitations and potential security risks
+  -   Provide code snippets showing how to use the default password encoder in Spring Boot
+
+  Implementing a Custom Password Encoder
+  --------------------------------------
+
+  -   Explain the need for a custom password encoder in certain scenarios
+  -   Discuss the benefits of using a custom password encoder
+  -   Provide code snippets showing how to implement a custom password encoder in Spring Boot
+
+  Choosing a Password Encoding Technique
+  --------------------------------------
+
+  -   Highlight the importance of choosing a strong password encoding technique
+  -   Compare and contrast different password encoding techniques (e.g. bcrypt, Argon2)
+  -   Provide recommendations for choosing the most secure password encoding technique
+
+  Integrating Custom Password Encoder in Spring Boot
+  --------------------------------------------------
+
+  -   Discuss how to integrate the custom password encoder in a Spring Boot application
+  -   Provide code snippets showing how to configure the custom password encoder in Spring Boot's security configuration
+
+  Conclusion
+  ----------
+
+  -   Summarize the main points of the article
+  -   Emphasize the importance of using a custom password encoder for better security in Spring Boot applications
+  -   Encourage readers to implement a custom password encoder in their own projects.
+</details>
 
 Source code custom password encoder for spring
 
