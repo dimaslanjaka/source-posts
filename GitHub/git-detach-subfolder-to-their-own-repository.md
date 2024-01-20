@@ -50,7 +50,7 @@ $ git filter-repo --path FOLDER-NAME/
 
 Now the repository will only contain the files that were in the subfolders.
 
-6. [Create a new repository] (https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) on GitHub.
+6. [Create a new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) on GitHub.
 
 7. At the top of your new repository, click the GitHub.com Quick Setup page.
 
