@@ -15,8 +15,7 @@ lang: id
 location: Indonesia
 tags:
   - github
-  - github-actions
-  - github-workflows
+  - github-actions-workflow
   - shell
   - snippet
   - yaml

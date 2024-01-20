@@ -4,17 +4,14 @@ categories:
   - programming
 comments: true
 date: 2022-11-09T16:42:24+07:00
-description: "Github Workflow Filter Job Berdasarkan OS Yang Dijalankan
-  Condition Syntax Berdasarkan OS Yang Dijalankan Saat Ini if: matrix.os ==
-  ubuntu-latestif: matrix.os ="
+description: "Github Workflow Filter Job Berdasarkan OS Yang Dijalankan Condition Syntax Berdasarkan OS Yang Dijalankan Saat Ini if: matrix.os == ubuntu-latestif: matrix.os ="
 lang: id
 permalink: /id/GitHub/github-workflow-filter-jobs-by-os.html
 tags:
-  - github-workflows
+  - github
+  - github-actions-workflow
   - snippet
   - yaml
-  - github-actions
-  - github
 title: Github Workflow Filter Job Berdasarkan OS Yang Dijalankan
 type: post
 updated: 2023-09-03T04:28:02+07:00

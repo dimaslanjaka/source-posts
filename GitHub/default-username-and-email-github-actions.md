@@ -7,11 +7,10 @@ date: 2022-12-09T00:43:17+07:00
 description: what is default username and email for github workflow actions?
 lang: en
 tags:
-  - github-workflows
+  - github
+  - github-actions-workflow
   - snippet
   - yaml
-  - github-actions
-  - github
 title: Default username and email for github workflow actions
 type: post
 updated: 2023-09-03T04:28:02+07:00

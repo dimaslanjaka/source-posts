@@ -14,18 +14,16 @@ keywords:
 lang: id
 location: Indonesia
 tags:
-  - github-workflows
+  - github
+  - github-actions-workflow
   - snippet
   - yaml
-  - github-actions
-  - github
 thumbnail: /GitHub/workflows/events.png
 title: GitHub Workflow Events
 type: post
 updated: 2023-09-02T21:28:01.000Z
 webtitle: WMI GitHub
 wordcount: 1013
-
 ---
 
 # Events yang memicu Github Workflow

@@ -4,17 +4,14 @@ categories:
   - programming
 comments: true
 date: 2022-11-09T16:49:20+07:00
-description: "Github Workflow Filter Jobs By OS Condition Syntax Based on
-  Current Running OS if: matrix.os == ubuntu-latestif: matrix.os ==
-  windows-latestif: matrix.os == mac"
+description: "Github Workflow Filter Jobs By OS Condition Syntax Based on Current Running OS if: matrix.os == ubuntu-latestif: matrix.os == windows-latestif: matrix.os == mac"
 lang: en
 permalink: /GitHub/github-workflow-filter-jobs-by-os.html
 tags:
-  - github-workflows
+  - github
+  - github-actions-workflow
   - snippet
   - yaml
-  - github-actions
-  - github
 title: Github Workflow Filter Jobs By OS
 type: post
 updated: 2023-09-03T04:28:02+07:00

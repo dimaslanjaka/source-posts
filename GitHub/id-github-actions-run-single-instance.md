@@ -8,11 +8,10 @@ description: Cara setting github actions agar jalan satu job saja sequentally
 lang: id
 permalink: /id/GitHub/github-actions-run-single-instance.html
 tags:
-  - github-workflows
+  - github
+  - github-actions-workflow
   - snippet
   - yaml
-  - github-actions
-  - github
 title: Menjalankan Github Workflow Satu Instansi sequentally
 type: post
 updated: 2023-09-03T04:28:01+07:00

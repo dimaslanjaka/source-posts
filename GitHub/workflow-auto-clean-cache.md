@@ -4,16 +4,13 @@ categories:
   - programming
 comments: true
 date: 2023-01-01T17:12:28+07:00
-description: "yaml github actions to clean all caches add TOKEN to Github
-  Actions Secrets Environtmentcreate .github/workflows/clean-caches.yml, put
-  below codes add TOKEN to "
+description: "yaml github actions to clean all caches add TOKEN to Github Actions Secrets Environtmentcreate .github/workflows/clean-caches.yml, put below codes add TOKEN to "
 lang: en
 tags:
-  - github-workflows
+  - github
+  - github-actions-workflow
   - snippet
   - yaml
-  - github-actions
-  - github
 title: yaml github actions to clean all caches
 type: post
 updated: 2023-09-03T04:28:01+07:00

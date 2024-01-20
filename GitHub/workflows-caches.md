@@ -16,18 +16,16 @@ keywords:
 lang: id
 location: Indonesia
 tags:
-  - github-workflows
+  - github
+  - github-actions-workflow
   - snippet
   - yaml
-  - github-actions
-  - github
 thumbnail: /GitHub/workflows/cover2.jpg
 title: Mempercepat GitHub Workflow Dengan Cache Strategy
 type: post
 updated: 2023-09-02T21:28:01.000Z
 webtitle: WMI GitHub
 wordcount: 997
-
 ---
 
 ## Mempercepat kinerja github workflow
