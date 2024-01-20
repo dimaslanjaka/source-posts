@@ -5,21 +5,18 @@ author:
   email: noreply@blogger.com
 categories:
   - games
-  - durango
 tags:
-  - durango
   - android
+  - durango
 comments: true
 date: 2018-07-27T05:40:00.000Z
-description: Durango Wild Lands production from Nexon Company is one of the most
-  anticipated games in 2018. Many clients have played this game during
+description: Durango Wild Lands production from Nexon Company is one of the most anticipated games in 2018. Many clients have played this game during
 lang: en
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/2048px-No_image_available.svg.png
 title: How to Play Durango Wild Lands on PC
 type: post
 updated: 2023-08-08T07:45:40.000Z
 wordcount: 1679
-
 ---
 
 Durango: Wild Lands production from Nexon Company is one of the most anticipated games in 2018. Many clients have played this game during the trial period. The high enthusiasm of gamers all over the world, especially Indonesia is a country that can taste the fun of playing this diversi. Now this version has been officially released, and can be downloaded via Google PlayStore.

@@ -4,7 +4,6 @@ author:
   link: https://github.com/dimaslanjaka
 categories:
   - games
-  - genshin impact
 comments: true
 date: 2021-11-25T17:00:00.000Z
 description: Update Genshin Impact 2.1.0 - 2.3.0 Manual
@@ -19,7 +18,6 @@ type: post
 updated: 2023-08-08T07:44:22.000Z
 webtitle: WMI Genshin Impact
 wordcount: 1339
-
 ---
 
 Update genshin impact `2.3.0` manual via download manager (IDM).

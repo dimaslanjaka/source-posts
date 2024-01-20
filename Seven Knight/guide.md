@@ -4,7 +4,6 @@ author:
   link: https://github.com/dimaslanjaka
 categories:
   - games
-  - seven knight
 comments: true
 date: 2021-11-30T13:00:00.000Z
 description: Guide SK2 for F2P
@@ -16,13 +15,13 @@ lang: en
 location: Indonesia
 tags:
   - games
+  - seven knight
 thumbnail: https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021111001_cover.jpg
 title: F2P Guide
 type: post
 updated: 2023-08-08T07:44:13.000Z
 webtitle: Seven Knights 2
 wordcount: 35228
-
 ---
 
 <div>

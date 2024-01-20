@@ -4,7 +4,6 @@ author:
   link: https://github.com/dimaslanjaka
 categories:
   - games
-  - the legend of neverland
 comments: true
 date: 2021-08-16T17:00:00.000Z
 description: Expel Incident With The Highest Exp Character Rewards.
@@ -12,12 +11,12 @@ lang: en
 location: Indonesia
 tags:
   - quest
+  - the legend of neverland
 thumbnail: https://i.ytimg.com/vi/2X152P2goVs/maxresdefault.jpg
 title: Highest Exp Character Expel Incident The Legend Of Neverland
 type: post
 updated: 2023-08-08T07:44:21.000Z
 wordcount: 467
-
 ---
 
 <!-- toc -->

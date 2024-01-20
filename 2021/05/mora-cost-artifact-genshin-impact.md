@@ -5,7 +5,6 @@ author:
   email: noreply@blogger.com
 categories:
   - games
-  - genshin impact
 comments: true
 date: 2021-05-13T13:37:00.000Z
 description: Mora Cost, Rarity Exp Multiplier Chance for upgrading artifact genshin impact

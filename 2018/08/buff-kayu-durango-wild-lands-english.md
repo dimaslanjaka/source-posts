@@ -5,10 +5,9 @@ author:
   email: noreply@blogger.com
 categories:
   - games
-  - durango
 tags:
-  - durango
   - android
+  - durango
 comments: true
 date: 2018-08-09T14:54:00.000Z
 description: Buff Kayu Durango Wild Lands Woods Buffs

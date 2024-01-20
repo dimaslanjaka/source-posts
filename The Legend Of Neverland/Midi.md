@@ -4,7 +4,6 @@ author:
   link: https://github.com/dimaslanjaka
 categories:
   - games
-  - the legend of neverland
 comments: true
 date: 2021-08-20T17:00:00.000Z
 description: Midi collection for the legend of neverland perform music skill
@@ -15,13 +14,13 @@ related_posts:
 tags:
   - life skill
   - midi
+  - the legend of neverland
   - tlon
 thumbnail: https://i.ytimg.com/vi/lK7h30vvRuI/mqdefault.jpg
 title: Midi The Legend Of Neverland
 type: post
 updated: 2023-08-08T07:44:12.000Z
 wordcount: 517
-
 ---
 
 ## NPC's favorite musical instrument

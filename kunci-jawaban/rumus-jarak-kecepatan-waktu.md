@@ -2,7 +2,6 @@
 author: Dimas Lanjaka
 categories:
   - education
-  - math
 comments: true
 date: 2022-10-15T19:42:33.000Z
 description: Memahami rumus jarak, kecepatan, waktu, rata-rata dalam matematika
@@ -22,7 +21,6 @@ title: Rumus Jarak, Kecepatan, Waktu, Dan Rata-rata
 type: post
 updated: 2023-08-08T07:44:16.000Z
 wordcount: 1731
-
 ---
 
 ## Singkatan jarak, kecepatan, waktu

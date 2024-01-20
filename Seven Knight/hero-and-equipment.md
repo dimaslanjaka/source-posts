@@ -4,7 +4,6 @@ author:
   link: https://github.com/dimaslanjaka
 categories:
   - games
-  - seven knight
 comments: true
 date: 2021-12-03T11:00:00.000Z
 description: Seven Knights 2 Hero Usage and Equipment Guide
@@ -17,13 +16,13 @@ lang: en
 location: Indonesia
 tags:
   - games
+  - seven knight
 thumbnail: https://cdn.nijigenfun.com/wp-content/uploads/2021/11/10145404/games_2021111001_cover.jpg
 title: Hero Usage and Equipment Guide
 type: post
 updated: 2023-08-08T07:44:12.000Z
 webtitle: Seven Knights 2
 wordcount: 4915
-
 ---
 
 <p>

@@ -2,7 +2,6 @@
 author: Dimas Lanjaka
 categories:
   - games
-  - genshin impact
 comments: true
 date: 2021-05-14T13:30:00.000Z
 description: Mora cost weapon genshin impact
@@ -20,7 +19,6 @@ type: post
 updated: 2023-08-08T07:45:10.000Z
 webtitle: Genshin Impact
 wordcount: 872
-
 ---
 
 ## How much mora required to upgrade weapon to maximum level on genshin impact?

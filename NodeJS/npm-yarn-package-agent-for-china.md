@@ -4,19 +4,18 @@ categories:
   - programming
 comments: true
 date: 2022-11-10T09:29:49+07:00
-description: NPM Package Agent For Programmer In China .yarnrc
-  disable-self-update-check trueregistry
-  https://registry.npm.taobao.orgphantomjs_cdnurl https://npm.taobao.org/
+description: NPM Package Agent For Programmer In China .yarnrc disable-self-update-check trueregistry https://registry.npm.taobao.orgphantomjs_cdnurl https://npm.taobao.org/
 lang: en
 tags:
+  - javascript
+keywords:
   - npm
   - agent
   - nodejs
   - configuration
 title: NPM Package Agent For Programmer In China
 type: post
-updated: 2023-09-03T04:27:59+07:00
-wordcount: 45
+updated: 2024-01-20T12:05:29.118Z
 ---
 
 ## .yarnrc

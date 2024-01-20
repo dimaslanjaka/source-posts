@@ -4,7 +4,6 @@ author:
   link: https://github.com/dimaslanjaka
 categories:
   - games
-  - the legend of neverland
 comments: true
 date: 2021-08-16T17:00:00.000Z
 description: Expel Incident With The Standard Rewards.
@@ -12,13 +11,13 @@ lang: en
 location: Indonesia
 tags:
   - quest
+  - the legend of neverland
 thumbnail: https://i.ytimg.com/vi/2X152P2goVs/maxresdefault.jpg
 title: Standard Rewards Expel Incident The Legend Of Neverland
 toc: true
 type: post
 updated: 2023-08-08T07:44:20.000Z
 wordcount: 259
-
 ---
 
 <!-- toc -->

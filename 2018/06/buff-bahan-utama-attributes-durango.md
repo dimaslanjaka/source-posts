@@ -5,10 +5,9 @@ author:
   email: noreply@blogger.com
 categories:
   - games
-  - durango
 tags:
-  - durango
   - android
+  - durango
 comments: true
 date: 2018-06-29T00:56:00.000Z
 description: Attributes BuffSenjata / WeaponsPakaian / ClothesMakanan / FoodsRingan /
@@ -18,7 +17,6 @@ title: Buff Bahan Utama Attributes - Durango Wild Lands
 type: post
 updated: 2023-08-08T07:45:41.000Z
 wordcount: 668
-
 ---
 
 ![buff durango](https://4.bp.blogspot.com/-jB3ahTlpbOg/WzVjXZm_g-I/AAAAAAAAAS4/MTfdRe9Dcm8MoF6krkWY_d3iciZPaj4VACLcBGAs/s1600/FB_IMG_15302253070912946.jpg "buff durango")

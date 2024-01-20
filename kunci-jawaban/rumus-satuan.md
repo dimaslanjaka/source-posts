@@ -1,7 +1,6 @@
 ---
 author: Dimas Lanjaka
 categories:
-  - math
   - education
 comments: true
 date: 2022-10-16T04:01:16+07:00

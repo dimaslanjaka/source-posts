@@ -5,7 +5,6 @@ author:
   email: noreply@blogger.com
 categories:
   - games
-  - genshin impact
 comments: true
 date: 2021-06-07T04:20:00.003Z
 description: Update genshin impact manual via download manager IDM.
