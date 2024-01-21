@@ -20,7 +20,7 @@ webtitle: PHP Android
 ---
 
 <details>
-  <summary>Click me</summary>
+  <summary>Install PHP for Android</summary>
 
   Introduction
   ------------
