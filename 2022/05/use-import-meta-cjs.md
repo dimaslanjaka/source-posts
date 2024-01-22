@@ -15,6 +15,7 @@ updated: 2024-01-23T00:42:35+07:00
 ---
 
 ## explanation
+
 Using typescript hybrid compiler to compile for ESM and CommonJS is a experimental for NodeJS.
 Some function/magic function/constructor is not supported by CommonJS. So, you must define them manually, such as: __dirname, __filename
 
@@ -31,6 +32,7 @@ ReferenceError: __dirname is not defined in ES module scope
 ```
 
 ## __dirname and __filename resolver for ESM and CommonJS
+
 ```ts
 export const getDirname = () => {
   // get the stack
@@ -48,6 +50,7 @@ export default getDirname;
 ```
 
 ## Usage
+
 ```ts
 import * as path from 'path';
 import { getDirname } from './dirname.ts'; // to prevent called by ESM, we using static import
@@ -56,12 +59,17 @@ const __filename = __resolve.__filename;
 const __dirname = path.dirname(__filename);
 console.log(__dirname, __filename); // /media/dimaslanjaka/DATA/Repositories/traffic-generator/express/src/public/routes /media/dimaslanjaka/DATA/Repositories/traffic-generator/express/src/public/routes/index.ts
 ```
+
 ## Usage Force Unix Style
+
 Install upath
+
 ```bash
 npm i upath
 ```
+
 Call them
+
 ```ts
 import path from 'upath';
 import { getDirname } from 'config';
@@ -175,6 +183,7 @@ Technically, in ES modules, you need to specify the full file path of an import 
 The easiest option though is probably to just bundle up all the output using an ESM-aware bundler like *rollup*.
 ## Running hybrid apps
 From the main project [`package.json`](./package.json):
+
 ```json
 {
   "scripts": {
@@ -183,6 +192,7 @@ From the main project [`package.json`](./package.json):
   }
 }
 ```
+
 To start node using CommonJS, you don't need to do anything and can just run `node <PATH_TO_TARGET>.js`.
 To start node using/supporting ES modules, you need to (currently) supply the `--experimental-modules` option and then a path to the entrypoint `.mjs` file (`node --experimental-modules <PATH_TO_TARGET>.mjs`).
 ## License
