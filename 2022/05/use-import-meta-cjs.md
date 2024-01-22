@@ -4,22 +4,31 @@ categories:
   - programming
 comments: true
 date: 2022-05-02T06:01:50+0000
-description: How to implement import.meta on typescript hybrid esm and commonjs compiler
+description: How to implement import.meta __dirname is not defined on typescript hybrid esm and commonjs compiler
 lang: en
 tags:
-  - nodejs
-  - esm
   - typescript
   - javascript
-  - commonjs
-title: How to use import.meta on typescript hybrid compiler
+title: __dirname is not defined in ES module scope
 type: post
-updated: 2024-01-23T00:28:42+07:00
+updated: 2024-01-23T00:42:35+07:00
 ---
 
 ## explanation
 Using typescript hybrid compiler to compile for ESM and CommonJS is a experimental for NodeJS.
 Some function/magic function/constructor is not supported by CommonJS. So, you must define them manually, such as: __dirname, __filename
+
+for an example below error outputs:
+
+```log
+(node:11396) ExperimentalWarning: Custom ESM Loaders is an experimental feature and might change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:11396) ExperimentalWarning: The Node.js specifier resolution flag is experimental. It could change or be 
+removed at any time.
+ReferenceError: __dirname is not defined in ES module scope
+    at file:///d:/Workspaces/Javascript/whatsapp-autoreply/test/xlsxParse.ts:9:40
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25)
+```
 
 ## __dirname and __filename resolver for ESM and CommonJS
 ```ts
@@ -27,12 +36,12 @@ export const getDirname = () => {
   // get the stack
   const { stack } = new Error();
   // get the third line (the original invoker)
-  const invokeFileLine = stack.split(`\n`)[2];
+  const invokeFileLine = (stack || '').split(`\n`)[2];
   // match the file url from file://(.+.(ts|js)) and get the first capturing group
-  const __filename = invokeFileLine.match(/file:\/\/(.+.(ts|js))/)[1];
+  const __filename = (invokeFileLine.match(/file:\/\/(.+.(ts|js))/) || [])[1].slice(1);
   // match the file URL from file://(.+)/ and get the first capturing group
   //     the (.+) is a greedy quantifier and will make the RegExp expand to the largest match
-  const __dirname = invokeFileLine.match(/file:\/\/(.+)\//)[1];
+  const __dirname = (invokeFileLine.match(/file:\/\/(.+)\//) || [])[1].slice(1);
   return { __dirname, __filename };
 };
 export default getDirname;
