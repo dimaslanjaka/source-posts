@@ -14,8 +14,7 @@ tags:
   - commonjs
 title: How to use import.meta on typescript hybrid compiler
 type: post
-updated: 2023-09-03T06:34:27+07:00
-wordcount: 3831
+updated: 2024-01-23T00:28:42+07:00
 ---
 
 ## explanation
@@ -41,10 +40,11 @@ export default getDirname;
 
 ## Usage
 ```ts
+import * as path from 'path';
 import { getDirname } from './dirname.ts'; // to prevent called by ESM, we using static import
 const __resolve = getDirname();
 const __filename = __resolve.__filename;
-const __dirname = dirname(__filename);
+const __dirname = path.dirname(__filename);
 console.log(__dirname, __filename); // /media/dimaslanjaka/DATA/Repositories/traffic-generator/express/src/public/routes /media/dimaslanjaka/DATA/Repositories/traffic-generator/express/src/public/routes/index.ts
 ```
 ## Usage Force Unix Style
