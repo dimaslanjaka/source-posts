@@ -2,7 +2,7 @@
 title: classpath config for gradle within vscode redhat java extension
 description: configuration classpath for gradle in eclipse or vscode redhat java
 date: 2024-01-26T02:45:04+07:00
-updated: 2024-01-26T03:02:32+07:00
+updated: 2024-01-26T03:23:59+07:00
 categories: [programming]
 tags: [java, kotlin, groovy, vscode]
 ---
@@ -20,14 +20,19 @@ Searching source configs inside `.classpath` and `*.prefs` files
 result looks like:
 
 ```xml
-<classpath>
-	<classpathentry excluding="**/*.txt" kind="src" output="build/classes/java/main" path="src/main/java">
-		<attributes>
-			<attribute name="gradle_scope" value="main"/>
-			<attribute name="gradle_used_by_scope" value="main,test"/>
-		</attributes>
-	</classpathentry>
-</classpath>
+<classpathentry excluding="**/*.txt" output="build/classes/java/main" kind="src" path="src/main/java">
+	<attributes>
+		<attribute name="gradle_scope" value="main"/>
+		<attribute name="gradle_used_by_scope" value="main,test"/>
+	</attributes>
+</classpathentry>
+<classpathentry output="build/classes/java/test" kind="src" path="src/test/java">
+	<attributes>
+		<attribute name="gradle_scope" value="test"/>
+		<attribute name="gradle_used_by_scope" value="test"/>
+		<attribute name="test" value="true"/>
+	</attributes>
+</classpathentry>
 ```
 
 - Search annotation config `bin/generated-sources/annotations` and `bin/generated-test-sources/annotations`
