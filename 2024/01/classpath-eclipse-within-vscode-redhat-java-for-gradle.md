@@ -56,3 +56,8 @@ Example `settings.json`:
  ]
 }
 ```
+
+## Conclusion
+Now you don't have to wait long when opening a Java project in VScode with the Redhat Java plugin, because all build output is synchronized from Gradle and Eclipse JDT which are used by the Redhat Java extension.
+
+And this trick can change the output folder from Redhat Java Extension to the Gradle build folder.
