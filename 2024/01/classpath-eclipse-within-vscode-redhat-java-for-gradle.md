@@ -2,7 +2,7 @@
 title: classpath config for gradle within vscode redhat java extension
 description: configuration classpath for gradle in eclipse or vscode redhat java
 date: 2024-01-26T02:45:04+07:00
-updated: 2024-01-26T03:23:59+07:00
+updated: 2024-01-26T04:20:01+07:00
 categories: [programming]
 tags: [java, kotlin, groovy, vscode]
 ---
@@ -125,16 +125,29 @@ My full working `.classpath` configuration
 Example `settings.json`:
 ```jsonc
 {
-	"java.project.outputPath": "build",
-	"java.import.generatesMetadataFilesAtProjectRoot": false,
-	"java.editor.reloadChangedSources": "auto",
-	"java.configuration.updateBuildConfiguration": "disabled",
-	"java.server.launchMode": "Hybrid",
-	"java.project.referencedLibraries": [
-		"build/classes/java/main",
-		"build/resources/main",
-		"lib/**/*.jar"  // Adjust this based on your project structure
-	]
+  "java.project.outputPath": "build",
+  "java.import.generatesMetadataFilesAtProjectRoot": false,
+  "java.editor.reloadChangedSources": "auto",
+  "java.configuration.updateBuildConfiguration": "disabled",
+  "java.server.launchMode": "Hybrid",
+  "java.project.referencedLibraries": [
+    "build/classes/java/main",
+    "build/resources/main",
+    "lib/**/*.jar"
+  ],
+  "java.edit.smartSemicolonDetection.enabled": true,
+  "terminal.integrated.env.windows": {
+    "PATH": "${workspaceFolder};${workspaceFolder}\\bin;${workspaceFolder}\\node_modules\\.bin;${env:PATH}"
+  },
+  "terminal.integrated.env.linux": {
+    "PATH": "${workspaceFolder}:${workspaceFolder}/bin:${workspaceFolder}/node_modules/.bin:${env:PATH}"
+  },
+  "java.sharedIndexes.enabled": "off",
+  "java.project.resourceFilters": [
+    "node_modules",
+    "\\.git",
+    "\\.cache"
+  ]
 }
 ```
 
