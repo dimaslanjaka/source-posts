@@ -42,7 +42,7 @@ result looks like:
 - Ensure it has the necessary classpath settings.
 
 Example `settings.json`:
-```json
+```jsonc
 {
  "java.project.referencedLibraries": [
    "build/classes/java/main",
