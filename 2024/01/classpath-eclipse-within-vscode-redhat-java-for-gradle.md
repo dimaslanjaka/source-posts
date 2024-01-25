@@ -33,6 +33,7 @@ result looks like:
 - Replace with `build/generated/sources/annotationProcessor/java/main` and `build/generated/sources/annotationProcessor/java/test`
 
 ![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/97281fc6-22cb-4347-a5e6-3e9872ab8c76)
+![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/ee62a458-68b8-4e9a-9a0d-264d8f4d3d60)
 
 
 **Configure `settings.json`:**
