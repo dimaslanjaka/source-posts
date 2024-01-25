@@ -11,6 +11,8 @@ Here's a guide for both IDEs:
 
 ## Search java source
 
+Searching source configs inside `.classpath` and `*.prefs` files
+
 - Search java source config by substring `path="src/main/java"`
 - Replace output attribute to gradle build folder `output="build/classes/java/main"`
 
@@ -26,6 +28,12 @@ result looks like:
 	</classpathentry>
 </classpath>
 ```
+
+- Search annotation config `bin/generated-sources/annotations` and `bin/generated-test-sources/annotations`
+- Replace with `build/generated/sources/annotationProcessor/java/main` and `build/generated/sources/annotationProcessor/java/test`
+
+![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/97281fc6-22cb-4347-a5e6-3e9872ab8c76)
+
 
 **Configure `settings.json`:**
 
