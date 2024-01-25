@@ -45,8 +45,79 @@ result looks like:
 
 ![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/3e264d78-f046-47d0-85f0-ffceedd0bbe1)
 
+My full working `.classpath` configuration
 
-**Configure `settings.json`:**
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="**/*.txt" kind="src" output="build/classes/java/main" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/groovy/main" path="src/main/groovy">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/resources/main" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/java/test" path="src/test/java">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/classes/kotlin/test" path="src/test/kotlin">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/resources/test" path="src/test/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-19/"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="src" output="build/test" path="build/generated-test-sources/annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="build/generated-sources/annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="bin/generated-sources/annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="build/test" path="bin/generated-test-sources/annotations">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="test" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/default"/>
+</classpath>
+```
+
+## Configure `.vscode/settings.json`
 
 - In the `.vscode` directory (created by the above task), there should be a `settings.json` file.
 - Ensure it has the necessary classpath settings.
@@ -54,11 +125,16 @@ result looks like:
 Example `settings.json`:
 ```jsonc
 {
- "java.project.referencedLibraries": [
-   "build/classes/java/main",
-   "build/resources/main",
-   "lib/**/*.jar"  // Adjust this based on your project structure
- ]
+	"java.project.outputPath": "build",
+	"java.import.generatesMetadataFilesAtProjectRoot": false,
+	"java.editor.reloadChangedSources": "auto",
+	"java.configuration.updateBuildConfiguration": "disabled",
+	"java.server.launchMode": "Hybrid",
+	"java.project.referencedLibraries": [
+		"build/classes/java/main",
+		"build/resources/main",
+		"lib/**/*.jar"  // Adjust this based on your project structure
+	]
 }
 ```
 
