@@ -2,7 +2,7 @@
 title: spring boot with eclipse gradle plugin
 description: sync compiled classes from eclipse gradle plugin with spring boot devtools
 date: 2024-01-26T10:38:40+07:00
-updated: 2024-01-26T10:49:38+07:00
+updated: 2024-01-26T11:02:03+07:00
 tags: [java, gradle, kotlin]
 categories: [programming]
 ---
@@ -19,7 +19,9 @@ dependencies {
 }
 ```
 
-## Configure `eclipse` gradle plugin
+## Configure gradle
+
+### Configure `eclipse` gradle plugin
 
 ```gradle
 eclipse {
@@ -36,6 +38,35 @@ eclipse {
     }
 }
 ```
+
+### Configure `jar` and `bootJar` tasks
+
+In Gradle, if you want to create a JAR file and exclude duplicate files, you can use the DuplicatesStrategy.EXCLUDE strategy. This strategy excludes duplicates from the final JAR by keeping only the first occurrence of each duplicate file.
+
+```
+// Optional: Specify the main class if your JAR is executable
+application {
+    mainClassName = 'web.MainApplication'
+}
+// Configure the JAR task
+jar {
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    manifest {
+        attributes "Start-Class": "web.MainApplication"
+    }
+}
+// Configure the spring JAR task
+bootJar {
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    manifest {
+        attributes "Start-Class": "web.MainApplication"
+    }
+}
+```
+
+> Replace 'web.MainApplication' with the actual main class of your application.
+>
+> Note: The `application` block is optional and is only necessary if your JAR is executable, and you want to specify the main class. If your JAR is not executable, you can omit the `application` block.
 
 ## Initialize configuration for Eclipse
 
