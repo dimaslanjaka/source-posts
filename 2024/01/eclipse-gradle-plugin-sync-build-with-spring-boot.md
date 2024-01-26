@@ -39,6 +39,24 @@ eclipse {
 }
 ```
 
+### Configure `JavaCompile` tasks
+
+#### Groovy DSL
+
+```gradle
+tasks.withType(JavaCompile).configureEach {
+    options.compilerArgs.add("-parameters")
+}
+```
+
+#### Kotlin DSL
+
+```gradle
+tasks.withType<JavaCompile>() {
+    options.compilerArgs.add("-parameters")
+}
+```
+
 ### Configure `jar` and `bootJar` tasks
 
 In Gradle, if you want to create a JAR file and exclude duplicate files, you can use the DuplicatesStrategy.EXCLUDE strategy. This strategy excludes duplicates from the final JAR by keeping only the first occurrence of each duplicate file.
