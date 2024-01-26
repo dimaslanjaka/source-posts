@@ -2,8 +2,8 @@
 title: spring boot with eclipse gradle plugin
 description: sync compiled classes from eclipse gradle plugin with spring boot devtools
 date: 2024-01-26T10:38:40+07:00
-updated: 2024-01-26T11:02:03+07:00
-tags: [java, gradle, kotlin]
+updated: 2024-01-26T20:57:25+07:00
+tags: [java, gradle, kotlin, groovy]
 categories: [programming]
 ---
 
@@ -40,6 +40,11 @@ eclipse {
 ```
 
 ### Configure `JavaCompile` tasks
+
+According [Upgrading to Spring Framework 6.x](https://github.com/spring-projects/spring-framework/wiki/Upgrading-to-Spring-Framework-6.x#parameter-name-retention) we need apply `-parameters` jvm arguments into compiler to make it works.
+
+**Issues about this config**
+- [Error "Name for argument of type [java.util.UUID] not specified, and parameter name information not found in class file either"with spring-boot 3.2.0 upgrade](https://github.com/spring-projects/spring-boot/issues/38723)
 
 #### Groovy DSL
 
