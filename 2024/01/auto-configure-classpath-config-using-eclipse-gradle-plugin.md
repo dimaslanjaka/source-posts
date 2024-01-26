@@ -1,7 +1,7 @@
 ---
 title: auto configure classpath config using eclipse gradle plugin
 date: 2024-01-26T06:59:16+07:00
-updated: 2024-01-26T07:32:35+07:00
+updated: 2024-01-26T09:02:22+07:00
 description: configuring classpath and build settings automatically for an Eclipse project that uses the Gradle build tool
 categories: [programming]
 tags: [gradle, java, kotlin]
@@ -107,7 +107,7 @@ eclipse {
                     } else  {
                         println(entry.path)
                     }
-                    entry.output = entry.output.replace('bin/', "build/")
+                    if (entry.output != null) entry.output = entry.output.replace('bin/', "build/")
                 }
             }
         }
