@@ -43,6 +43,8 @@ export interface X extends Y {}
 export const yourVariable = {} as X;
 ```
 
+## Conclusion
+
 done. now the problem fixed
 
 result 
