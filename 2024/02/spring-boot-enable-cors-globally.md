@@ -99,3 +99,6 @@ corsConfiguration.setExposedHeaders(List.of("Authorization"));
 
 [reference](https://stackoverflow.com/a/66590699/6404439)
 
+## Conclusion
+
+Now you need to customize the CORS configuration based on your need. Adjust the configuration according to your specific needs. Ensure that your Spring Boot application has the necessary dependencies, such as spring-boot-starter-security and spring-boot-starter-web.
