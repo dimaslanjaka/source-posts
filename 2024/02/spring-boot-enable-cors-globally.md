@@ -63,3 +63,15 @@ public class SecurityConfig {
     }
 }
 ```
+
+**Description of `CorsConfiguration` methods**
+
+-   **setAllowedHeaders**-> you have to specify which parameters are allowed to be sent to the backend services through the front-end app, for example, if you are using Bearer/Basic Token Authorization methods, you need to pass your JWT-Token through the "Authorization" header. So you need to make sure that backed would accept this data accordingly and for this purpose, you must put "Authorization" in the list of Allowed-Headers.
+
+-   **setAllowedMethods**-> Do not forget to put "OPTIONS" method in the list for Pre-flight process. Don't worry, [read more here!](https://developer.mozilla.org/en-US/docs/Glossary/Preflight_request)
+
+-   **setAllowCredentials**-> If you are using Authorization header, set it True.
+
+-   **setExposedHeaders**-> If you are returning data through Response Headers, you need to specify them here. for example, some APIs are designed to return Authorization token after success /authentication through Response Headers. Thus, the related header needs to be exposed accordingly.
+
+-   **setAllowedOrigins**-> You must specify the domains that are eligible to send requests to your backend applications. for example, if your application is hosted on <https://penguin.com> and your APIs are on <https://api.penguin.com>, you need to allow "https://penguing.com" to send requests to your backend. Also, you are able to pass wildcard (*) to allow any domains to send requests to your backend. But it's recommended to not use "any" unless you are providing public APIs or you are deploying in the non-production environments.
