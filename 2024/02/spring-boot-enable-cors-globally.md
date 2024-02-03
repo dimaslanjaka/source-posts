@@ -6,6 +6,7 @@ updated: 2024-02-03T12:48:58+07:00
 categories: [programming]
 tags: [java, kotlin]
 keywords: [java, cors, "spring boot", security]
+thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/c5f5e304-9e64-4cc0-b763-8df4020fc83d
 ---
 
 To enable Cross-Origin Resource Sharing (CORS) globally in a Spring Boot application with Spring Security,
@@ -102,3 +103,5 @@ corsConfiguration.setExposedHeaders(List.of("Authorization"));
 ## Conclusion
 
 Now you need to customize the CORS configuration based on your need. Adjust the configuration according to your specific needs. Ensure that your Spring Boot application has the necessary dependencies, such as spring-boot-starter-security and spring-boot-starter-web.
+
+![spring security with cors](https://github.com/dimaslanjaka/source-posts/assets/12471057/c5f5e304-9e64-4cc0-b763-8df4020fc83d)
