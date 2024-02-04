@@ -21,7 +21,7 @@ interface FlowbiteToastProps {
   [key: string]: any;
   /** show toast indicator */
   showToast: boolean;
-  /** parent state handler to set `showToast` useful for dismissable toast **/
+  /** parent state handler to set `showToast` useful for dismissable toast */
   handler: (showToast: boolean) => any;
 }
 
