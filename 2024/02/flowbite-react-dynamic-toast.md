@@ -59,7 +59,7 @@ export default FlowbiteToast;
 
 ## Insert `<FlowbiteToast/>` in parent react element
 
-for example we create `Login.tsx` and showing toast after executing `fetch` ajax.
+for example we create `Login.tsx` and showing flowbite toast after executing `fetch` ajax.
 
 ```tsx
 import React from 'react';
