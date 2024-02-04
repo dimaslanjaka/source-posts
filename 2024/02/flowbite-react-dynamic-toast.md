@@ -10,7 +10,7 @@ Below is an example of how you can create a dynamic toast component in React usi
 
 ## Create flowbite toast element
 
-save below codes with filename `FlowbiteToast.tsx`
+save below codes with filename `FlowbiteToast.tsx` in folder `src/component`
 
 ```tsx
 import { Toast } from 'flowbite-react';
@@ -57,6 +57,7 @@ for example we create `Login.tsx` and showing toast after executing `fetch` ajax
 
 ```tsx
 import React from 'react';
+import FlowbiteToast from './component/FlowbiteToast';
 
 export default function Login() {
   // declare parent toast state
