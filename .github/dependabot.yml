@@ -13,6 +13,11 @@ updates:
     target-branch: 'master'
     schedule:
       interval: 'monthly'
+  - package-ecosystem: 'github-actions'
+    directory: '/'
+    target-branch: 'posts'
+    schedule:
+      interval: 'monthly'
 
   # Maintain dependencies for npm/yarn
   - package-ecosystem: 'npm'
