@@ -3,7 +3,8 @@ title: How to create dynamic toast with flowbite-react
 date: 2024-02-04T21:16:11+07:00
 tags: [javascript, typescript]
 categories: [programming]
-updated: 2024-02-04T21:26:38+07:00
+updated: 2024-02-04T22:11:22+07:00
+thumbnail: https://www.flowbite-react.com/images/components/toast-dark.svg
 ---
 
 Below is an example of how you can create a dynamic toast component in React using `flowbite-react`.
@@ -79,3 +80,10 @@ export default function Login() {
   return (<main><FlowbiteToast showToast={showToast} handler={setShowToast} /></main>);
 }
 ```
+
+## Conclusion
+
+Now your dynamic flowbite-react toast ready to modify. Here [My Own FLowbite React Dynamic Toast](https://github.com/dimaslanjaka/webpack-boilerplate/commit/d220c84525d3538186790d72a53df275d6472384)
+
+Thanks for reading my article of:
+- flowbite-react toast dynamic
