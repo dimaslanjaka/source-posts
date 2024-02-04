@@ -7,6 +7,11 @@ updated: 2024-02-04T22:11:22+07:00
 thumbnail: https://www.flowbite-react.com/images/components/toast-dark.svg
 ---
 
+In this article you will learn of How to create toast with flowbite-react dynamically, see below screenshoots.
+
+![Desktop](https://github.com/dimaslanjaka/source-posts/assets/12471057/ff040935-f69b-420b-b3c7-35f0ba6cc6ba)
+![Mobile](https://github.com/dimaslanjaka/source-posts/assets/12471057/884b397e-dbda-4b54-8a0c-af2e386dc447)
+
 Below is an example of how you can create a dynamic toast component in React using `flowbite-react`.
 
 ## Create flowbite toast element
