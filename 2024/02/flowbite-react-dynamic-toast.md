@@ -37,7 +37,12 @@ const FlowbiteToast: React.FC<FlowbiteToastProps> = ({ showToast, handler }) => 
           <span className="mb-1 text-sm font-semibold text-gray-900 dark:text-white">Update available</span>
           <div className="mb-2 text-sm font-normal">A new software version is available for download.</div>
         </div>
-        <Toast.Toggle onDismiss={() => handler(false)} />
+        <Toast.Toggle
+          onDismiss={() => {
+            // hide toast when X button clicked
+            handler(false);
+          }}
+        />
       </Toast>
     )
   );
