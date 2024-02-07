@@ -4,6 +4,7 @@ date: 2024-02-08T01:02:20+07:00
 categories: [programming]
 tags: [java, kotlin]
 updated: 2024-02-08T01:09:50+07:00
+thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/3fb94ad5-f947-408e-a180-31bc2d286a8c
 ---
 
 Usually, the message "Content-Type 'application/x-www-form-urlencoded;charset=UTF-8' is not supported" suggests that there is a problem with the content type that was given in the request header. This issue frequently happens while using an API or web application.
@@ -74,3 +75,9 @@ public class ProxyList {
     }
 }
 ```
+
+## Conclusion
+
+now test send form post to your endpoint.
+
+![spring Content-Type application/x-www-form-urlencoded;charset=UTF-8 is not supported](https://github.com/dimaslanjaka/source-posts/assets/12471057/3fb94ad5-f947-408e-a180-31bc2d286a8c)
