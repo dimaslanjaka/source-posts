@@ -3,6 +3,7 @@ title: Include livereload in spring boot web
 date: 2024-02-09T09:32:14+07:00
 categories: [programming]
 tags: [java, kotlin]
+thumbnail: https://i.ytimg.com/vi/A109ZrIHPiQ/hqdefault.jpg
 ---
 
 LiveReload is a tool that automatically reloads your web application whenever you alter the source code or static resources. To integrate LiveReload into a Spring Boot web application, follow these steps:
