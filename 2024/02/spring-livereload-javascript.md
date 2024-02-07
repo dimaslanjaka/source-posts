@@ -32,9 +32,27 @@ dependencies {
 Enable LiveReload in either `application.properties` or `application.yml`.
 Open the `src/main/resources/application.properties` or `src/main/resources/application.yml` file and add the following property:
 
+### PROPERTIES
+
 ```properties
 spring.devtools.livereload.enabled=true
+spring.devtools.livereload.livereload=true
 ```
+
+### YAML
+
+```yml
+spring:
+    devtools:
+        restart:
+            enabled: true
+        livereload:
+            enabled: true
+```
+
+## Install livereload into your html
+
+Call the livereload javascript into your html template. For example using `thymeleaf`:
 
 ```html
   <script th:inline="javascript">
@@ -49,3 +67,11 @@ spring.devtools.livereload.enabled=true
     })();
   </script>
 ```
+
+## Open the Application in the Browser:
+
+Launch your program in the browser.
+
+Now, whenever you make changes to your code or resources, the LiveReload server will detect them and reload the browser to reflect the changes.
+
+Keep in mind that `spring-boot-devtools` is only advised for development and should not be used in production. Also, keep in mind that LiveReload may not operate completely in all cases, particularly if you're utilizing sophisticated frameworks or setups.
