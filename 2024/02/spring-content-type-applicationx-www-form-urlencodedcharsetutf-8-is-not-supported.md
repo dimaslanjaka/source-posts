@@ -71,6 +71,7 @@ public class ProxyList {
     @ResponseBody
     public ResponseEntity<JsonNode> addReceiver(@Valid ProxyAddModel postBody) {
         if (postBody != null && postBody.proxies != null) {
+            // process post body
             ProxyUtils proxyUtils = new ProxyUtils();
             proxyUtils.fromLocal(postBody.proxies);
         }
@@ -78,6 +79,23 @@ public class ProxyList {
         return new AjaxResponse(false, "proxies added").toHttpResponse();
     }
 }
+```
+
+If you want redirect user after post body received, you can using below codes:
+
+```java
+    @PostMapping(value = { "/proxy/add" },
+            consumes = { MediaType.APPLICATION_FORM_URLENCODED_VALUE })
+    // @ResponseBody
+    public String addReceiver(@Valid ProxyAddModel postBody) {
+        if (postBody != null && postBody.proxies != null) {
+            // process post body
+            ProxyUtils proxyUtils = new ProxyUtils();
+            proxyUtils.fromLocal(postBody.proxies);
+        }
+        // return new AjaxResponse(false, "proxies added").toHttpResponse();
+        return "redirect:/proxy?success=add";
+    }
 ```
 
 ## Conclusion
