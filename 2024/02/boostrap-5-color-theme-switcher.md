@@ -4,6 +4,8 @@ description: Color mode toggler for Bootstrap 5.3.0+
 date: 2024-02-09T22:04:25+07:00
 tags: [html, css, javascript]
 categories: [programming]
+thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/7da67737-0c30-45b8-ad13-b162e43ee37c
+updated: 2024-02-10T03:58:35+07:00
 ---
 
 How to create **Color Mode Switch for Bootstrap 5**
@@ -193,3 +195,5 @@ Adjust background color, text color, and other styles as needed.
 ### Live result Boostrap 5 Color Theme Switcher
 
 {% codepen https://codepen.io/dimaslanjaka/pen/eYPXvOL %}
+
+![1 jiWP9X7g6p0-G2vmcKf5lQ](https://github.com/dimaslanjaka/source-posts/assets/12471057/7da67737-0c30-45b8-ad13-b162e43ee37c)
