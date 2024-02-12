@@ -1,75 +1,78 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
-  "frontMatter.content.pageFolders": [
-    {
-      "title": "source-posts",
-      "path": "[[workspace]]/posts"
-    }
-  ],
-  "frontMatter.framework.id": "hexo",
+  "frontMatter.content.autoUpdateDate": false,
   "frontMatter.preview.host": "http://localhost:4000",
-  "frontMatter.content.publicFolder": "source/images",
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
       "pageBundle": false,
       "fields": [
-      {
-        "title": "Title",
-        "name": "title",
-        "type": "string"
-      },
-      {
-        "title": "Description",
-        "name": "description",
-        "type": "string"
-      },
-      {
-        "title": "Publishing date",
-        "name": "date",
-        "type": "datetime",
-        "default": "{{now}}",
-        "isPublishDate": true
-      },
-      {
-        "title": "Thumbnail",
-        "name": "thumbnail",
-        "type": "image"
-      },
-      {
-        "title": "Is in draft",
-        "name": "draft",
-        "type": "boolean"
-      },
-      {
-        "title": "Tags",
-        "name": "tags",
-        "type": "tags"
-      },
-      {
-        "title": "Categories",
-        "name": "categories",
-        "type": "categories"
-      },
-      {
-        "title": "updated",
-        "name": "updated",
-        "type": "datetime",
-        "default": "{{now}}",
-        "isModifiedDate": true
-      },
-      {
-        "name": "permalink",
-        "editable": true,
-        "type": "slug"
-      },
-      {
-        "title": "Author",
-        "name": "author",
-        "type": "divider"
-      }
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true,
+          "dateFormat": "yyyy-MM-dd'T'HH:mm:ssXXX"
+        },
+        {
+          "title": "Thumbnail",
+          "name": "thumbnail",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "boolean"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "updated",
+          "name": "updated",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isModifiedDate": true,
+          "dateFormat": "yyyy-MM-dd'T'HH:mm:ssXXX"
+        },
+        {
+          "name": "permalink",
+          "editable": true,
+          "type": "slug"
+        },
+        {
+          "title": "Author",
+          "name": "author",
+          "type": "divider"
+        }
       ]
     }
-    ],
-    "frontMatter.site.baseURL": "https://www.webmanajemen.com"
+  ],
+  "frontMatter.framework.id": "hexo",
+  "frontMatter.content.publicFolder": "hexo:post_asset_folder",
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/posts",
+      "title": "Source Posts"
+    }
+  ],
+  "frontMatter.site.baseURL": "https://www.webmanajemen.com/"
 }
