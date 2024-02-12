@@ -25,7 +25,7 @@ export function slugGenerator(str: string) {
 
 export default slugGenerator;
 
-if (require.main === module) {
+if (typeof require !== 'undefined' && require.main === module) {
   const str = 'Deprecated WebSecurityConfigurerAdapter Solution';
   const slug = slugGenerator(str);
   // Dump it back to the destination input
