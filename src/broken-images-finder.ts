@@ -1,10 +1,11 @@
-import { red } from 'ansi-colors';
 import axios from 'axios';
 import { glob } from 'glob';
-import { parsePost } from 'hexo-post-parser';
+import { color, parsePost } from 'hexo-post-parser';
 import { JSDOM } from 'jsdom';
 import { marked } from 'marked';
-import { config_yml, excludePatterns, postsDir } from '../config';
+import path from 'path';
+import { writefile } from 'sbg-utility/dist';
+import { config_yml, excludePatterns, postsDir, sourceDir } from '../config';
 import { delay } from './utils/promise';
 
 const globStream = new glob.Glob('**/*.md', {
@@ -32,7 +33,9 @@ async function start() {
     const file = files.shift() || '';
 
     if (file.length > 0) {
-      toHtml(file);
+      const reportFile = path.join(sourceDir, 'reports/broken-images.html');
+      const reports = await toHtml(file);
+      writefile(reportFile, reports);
     }
 
     // delay 3s
@@ -42,17 +45,41 @@ async function start() {
   }
 }
 
-/** parse markdown to html */
-async function toHtml(file: string) {
-  const parse = await parsePost(file, { sourceFile: file, config: config_yml });
-  if (parse && parse.body) {
-    const html = await marked(parse.body, { async: true });
-    await findBrokenImages(html);
-  }
+interface Report {
+  /** post path */
+  post: string;
+  /** array of broken image url */
+  brokenImages: string[];
 }
 
-/** find broken images from html */
+/** parse markdown to html */
+async function toHtml(file: string) {
+  const results = [] as Report[];
+  const parse = await parsePost(file, { sourceFile: file, config: config_yml });
+  if (parse && parse.body) {
+    try {
+      const html = await marked(parse.body, { async: true });
+      console.log('finding broken images on', file);
+      const result = { post: file, brokenImages: [] } as Report;
+      const brokenImages = await findBrokenImages(html);
+      if (brokenImages.length > 0) {
+        result.brokenImages = brokenImages;
+        results.push(result);
+      }
+    } catch (e) {
+      console.error(e);
+    }
+  }
+  return results;
+}
+
+/**
+ * find broken images from html
+ * @param html html string
+ * @returns array of broken image url
+ */
 async function findBrokenImages(html: string) {
+  const results = [] as string[];
   const dom = new JSDOM(html);
   const document = dom.window.document;
   const images = Array.from(document.querySelectorAll('img'));
@@ -60,9 +87,11 @@ async function findBrokenImages(html: string) {
     const img = images[i];
     if (img.src && img.src.startsWith('http'))
       await axios.get(img.src).catch((e) => {
-        console.error(red('broken image'), img.src, e.message);
+        console.error(color.default.redBright('broken image'), img.src, e.message);
+        results.push(img.src);
       });
   }
+  return results;
 }
 
 // setTimeout(() => {
