@@ -14,7 +14,7 @@
     "start": "node --loader ts-node/esm -r dotenv/config src/translate.ts",
     "postinstall": "node postinstall.cjs --yarn",
     "update:postinstall": "curl -L https://github.com/dimaslanjaka/nodejs-package-types/raw/main/postinstall.js > postinstall.cjs",
-    "update:ncu": "npx npm-check-updates --workspaces --enginesNode -u -x jsdom,chalk,deepmerge-ts",
+    "update:ncu": "npx npm-check-updates --workspaces --enginesNode -u -x jsdom,chalk,deepmerge-ts,husky",
     "update": "run-s update:**",
     "postupdate": "npm install",
     "fix:puppeteer": "node node_modules/puppeteer/install.js",
