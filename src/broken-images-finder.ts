@@ -1,3 +1,4 @@
+import { red } from 'ansi-colors';
 import axios from 'axios';
 import { glob } from 'glob';
 import { parsePost } from 'hexo-post-parser';
@@ -41,20 +42,26 @@ async function start() {
   }
 }
 
+/** parse markdown to html */
 async function toHtml(file: string) {
   const parse = await parsePost(file, { sourceFile: file, config: config_yml });
   if (parse && parse.body) {
     const html = await marked(parse.body, { async: true });
-    const dom = new JSDOM(html);
-    const document = dom.window.document;
-    const images = Array.from(document.querySelectorAll('img'));
-    for (let i = 0; i < images.length; i++) {
-      const img = images[i];
-      if (img.src && img.src.startsWith('http'))
-        await axios.get(img.src).catch((e) => {
-          console.error('broken image', img.src, e.message);
-        });
-    }
+    await findBrokenImages(html);
+  }
+}
+
+/** find broken images from html */
+async function findBrokenImages(html: string) {
+  const dom = new JSDOM(html);
+  const document = dom.window.document;
+  const images = Array.from(document.querySelectorAll('img'));
+  for (let i = 0; i < images.length; i++) {
+    const img = images[i];
+    if (img.src && img.src.startsWith('http'))
+      await axios.get(img.src).catch((e) => {
+        console.error(red('broken image'), img.src, e.message);
+      });
   }
 }
 
