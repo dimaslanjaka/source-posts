@@ -3,6 +3,7 @@ import { glob } from 'glob';
 import { color, parsePost } from 'hexo-post-parser';
 import { JSDOM } from 'jsdom';
 import { marked } from 'marked';
+import moment from 'moment-timezone';
 import path from 'path';
 import { writefile } from 'sbg-utility/dist';
 import { config_yml, excludePatterns, postsDir, sourceDir } from '../config';
@@ -33,9 +34,11 @@ async function start() {
     const file = files.shift() || '';
 
     if (file.length > 0) {
-      const reportFile = path.join(sourceDir, 'reports/broken-images.html');
+      const reportFile = path.join(sourceDir, 'reports/index.md');
       const reports = await toHtml(file);
-      writefile(reportFile, reports);
+      const metadata = ['---', 'title: Reports', 'type: page', `date: ${moment().format()}`, '---'].join('\n');
+      const body = [`## Blog Reports`, '```json', JSON.stringify(reports, null, 2), '```'].join('\n');
+      writefile(reportFile, metadata + '\n\n' + body);
     }
 
     // delay 3s
