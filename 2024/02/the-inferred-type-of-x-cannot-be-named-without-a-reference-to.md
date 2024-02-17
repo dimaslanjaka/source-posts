@@ -48,7 +48,7 @@ export function loadSavedCredentialsIfExist() {
 
 Provide a type annotation for 'loadSavedCredentialsIfExist'. For example:
 
-```
+```ts
 const loadSavedCredentialsIfExist: import('googleapis-common/node_modules/google-auth-library/build/src/auth/googleauth').JSONClient = function () {
   try {
     const content = fs.readFileSync(TOKEN_PATH).toString();
