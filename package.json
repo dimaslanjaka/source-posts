@@ -89,7 +89,7 @@
     "lodash.flatten": "^4.4.0",
     "moment-timezone": "^0.5.44",
     "nunjucks": "^3.2.4",
-    "puppeteer": "^20.5.0",
+    "puppeteer": "^22.0.0",
     "puppeteer-google-translate": "*",
     "querystring": "^0.2.1",
     "request": "^2.88.2",
