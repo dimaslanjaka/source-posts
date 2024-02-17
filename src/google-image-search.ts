@@ -1,4 +1,4 @@
-import cheerio, { AnyNode } from 'cheerio';
+import { AnyNode, load as cheerioLoad } from 'cheerio';
 import flatten from 'lodash.flatten';
 import queryString from 'querystring';
 import request from 'request';
@@ -60,7 +60,7 @@ export default function gis(
       if (typeof done == 'function') done(error);
       return;
     }
-    const $ = cheerio.load(body);
+    const $ = cheerioLoad(body);
     const scripts = $('script');
     const scriptContents = [] as string[];
     for (let i = 0; i < scripts.length; ++i) {
