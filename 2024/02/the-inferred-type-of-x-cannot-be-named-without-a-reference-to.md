@@ -2,6 +2,7 @@
 title: Fix The inferred type of 'X' cannot be named without a reference
 description: How to fix The inferred type of 'X' cannot be named without a reference to 'path'. This is likely not portable. A type annotation is necessary.
 date: 2024-02-17T10:03:26+07:00
+updated: 2024-02-17T13:50:16+07:00
 tags: [typescript]
 categories: [programming]
 thumbnail: https://opengraph.githubassets.com/cb6062afbffe358485c799cae3d14f62e49207fe63b6ed7a7d7b3dbe598f1f63/reduxjs/redux-toolkit/issues/1806
