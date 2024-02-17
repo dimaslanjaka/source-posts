@@ -49,29 +49,21 @@ export function loadSavedCredentialsIfExist() {
 <details>
   <summary>Performing a clean introduce of Yarn can offer a few benefits</summary>
   
-  1. **Guarantees a New Begin:
-  ** Expelling any existing establishments and arrangements guarantees simply begin with a clean slate. This will be accommodating on the off chance that you've experienced issues or irregularities along with your past Yarn setup.
+  1. **Guarantees a New Begin:** Expelling any existing establishments and arrangements guarantees simply begin with a clean slate. This will be accommodating on the off chance that you've experienced issues or irregularities along with your past Yarn setup.
   
-  2. **Settle Dependency Conflicts:
-  ** A clean introduce makes a difference in settling potential reliance clashes or issues with obsolete bundles. It guarantees merely bring the most recent forms of Yarn and its dependencies.
+  2. **Settle Dependency Conflicts:** A clean introduce makes a difference in settling potential reliance clashes or issues with obsolete bundles. It guarantees merely bring the most recent forms of Yarn and its dependencies.
   
-  3. **Dodges Versioning Issues:
-  ** Over time, you might have different forms of Yarn introduced on your framework. A clean introduce guarantees merely are working with the most recent steady form, diminishing the chance of versioning issues.
+  3. **Dodges Versioning Issues:** Over time, you might have different forms of Yarn introduced on your framework. A clean introduce guarantees merely are working with the most recent steady form, diminishing the chance of versioning issues.
   
-  4. **Makes strides Framework Soundness:
-  ** Evacuating any leftovers of past establishments can contribute to a more steady and unsurprising environment. It makes a difference in avoiding unforeseen behavior caused by obsolete or clashing setups.
+  4. **Makes strides Framework Soundness:** Evacuating any leftovers of past establishments can contribute to a more steady and unsurprising environment. It makes a difference in avoiding unforeseen behavior caused by obsolete or clashing setups.
   
-  5. **Improves Security:
-  ** Remaining up-to-date with the most recent forms of bundle directors is vital for security. A clean introduce guarantees simply have the foremost later form of Yarn, which may incorporate security patches and advancements.
+  5. **Improves Security:** Remaining up-to-date with the most recent forms of bundle directors is vital for security. A clean introduce guarantees simply have the foremost later form of Yarn, which may incorporate security patches and advancements.
   
-  6. **Tackles Establishment Issues:
-  ** In the event that you've experienced troubles amid the establishment of Yarn or have issues related to lost conditions, a clean introduce can offer assistance resolve these issues.
+  6. **Tackles Establishment Issues:** In the event that you've experienced troubles amid the establishment of Yarn or have issues related to lost conditions, a clean introduce can offer assistance resolve these issues.
   
-  7. **Simplifies Troubleshooting:
-  ** When looking for offer assistance or investigating issues with Yarn, beginning with a clean establishment gives a steady standard. It makes it simpler for others to help you, as they won't got to consider potential complications from past configurations.
+  7. **Simplifies Troubleshooting:** When looking for offer assistance or investigating issues with Yarn, beginning with a clean establishment gives a steady standard. It makes it simpler for others to help you, as they won't got to consider potential complications from past configurations.
   
-  8. **Advances Best Practices:
-  ** Intermittently performing clean installs could be a great hone to preserve a solid improvement environment. It guarantees that you're working with an optimized setup and diminishes the probability of experiencing unforeseen issues.
+  8. **Advances Best Practices:** Intermittently performing clean installs could be a great hone to preserve a solid improvement environment. It guarantees that you're working with an optimized setup and diminishes the probability of experiencing unforeseen issues.
 </details>
 
 On Unix-based systems (Linux or macOS):
