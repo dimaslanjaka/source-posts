@@ -3,7 +3,7 @@ import { md5, writefile } from 'sbg-utility';
 import path from 'upath';
 import { puppeteerOpt } from './puppeteerOpt';
 
-export async function puppeteerBrowse(url: string, options?: PuppeteerLaunchOptions) {
+export async function puppeteerGetHtml(url: string, options?: PuppeteerLaunchOptions) {
   let html = '';
   const file = path.join(process.cwd(), 'tmp/html/' + md5(url) + '.html');
 

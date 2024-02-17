@@ -1,3 +1,3 @@
-import { browse } from './puppeteer/browse';
+import { puppeteerGetHtml } from './puppeteer/getHtml';
 
-browse('https://github.com/mozilla/geckoview/issues/229');
+puppeteerGetHtml('https://github.com/mozilla/geckoview/issues/229');

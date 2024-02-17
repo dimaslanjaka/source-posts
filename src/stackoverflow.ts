@@ -3,12 +3,14 @@ import moment from 'moment-timezone';
 import { md5, writefile } from 'sbg-utility';
 import path from 'upath';
 import { fileURLToPath } from 'url';
-import { browse } from './puppeteer/browse';
+import { puppeteerGetHtml } from './puppeteer/getHtml';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-browse('https://stackoverflow.com/questions/23075748/how-to-compile-typescript-code-in-the-browser').then(parse);
+puppeteerGetHtml('https://stackoverflow.com/questions/23075748/how-to-compile-typescript-code-in-the-browser').then(
+  parse
+);
 
 function parse(o: { html: string; url: string }) {
   const dom = new JSDOM(o.html, { contentType: 'text/html' });
