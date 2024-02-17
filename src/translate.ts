@@ -5,7 +5,7 @@ import nunjucks from 'nunjucks';
 import puppeteer from 'puppeteer';
 import path from 'upath';
 import { fileURLToPath } from 'url';
-import { puppeteerOpt } from './puppeteerOpt';
+import { puppeteerOpt } from './puppeteer/puppeteerOpt';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
