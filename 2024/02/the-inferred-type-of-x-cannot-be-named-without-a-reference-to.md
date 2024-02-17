@@ -4,6 +4,7 @@ description: How to fix The inferred type of 'X' cannot be named without a refer
 date: 2024-02-17T10:03:26+07:00
 tags: [typescript]
 categories: [programming]
+thumbnail: https://opengraph.githubassets.com/cb6062afbffe358485c799cae3d14f62e49207fe63b6ed7a7d7b3dbe598f1f63/reduxjs/redux-toolkit/issues/1806
 ---
 
 If you're experiencing a TypeScript mistake related to module determination or sort induction. 
