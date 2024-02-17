@@ -16,7 +16,7 @@
     "allowSyntheticDefaultImports": true,
     "moduleResolution": "node"
   },
-  "include": ["./src/**/*", "./*.ts", "./*.js"],
+  "include": ["./src/**/*", "./*.ts", "./*.js", "./test/"],
   "exclude": ["**/node_modules"],
   "typeAcquisition": {
     "enable": true
