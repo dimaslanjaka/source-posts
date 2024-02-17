@@ -13,6 +13,8 @@ _The blunder message recommends that the sort of 'X' cannot be named without a r
 To resolve this issue, you'll have to be give a type annotation for 'X' or adjust your module determination settings. 
 Here are a few of methods you'll be able take:
 
+## Sample problem
+
 For example I will resolve these error
 
 ```log
