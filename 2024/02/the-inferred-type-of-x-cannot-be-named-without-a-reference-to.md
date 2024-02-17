@@ -57,3 +57,25 @@ const loadSavedCredentialsIfExist: import('googleapis-common/node_modules/google
   }
 }
 ```
+
+## Boundary return type
+
+Provide a boundary return type for 'loadSavedCredentialsIfExist'. For example:
+
+```ts
+/**
+ * Reads previously authorized credentials from the save file.
+ *
+ * @return
+ */
+export function loadSavedCredentialsIfExist(): import('googleapis-common/node_modules/google-auth-library/build/src/auth/googleauth').JSONClient {
+  try {
+    const content = fs.readFileSync(TOKEN_PATH).toString();
+    const credentials = JSON.parse(content);
+    // const uri = 'https://www.googleapis.com/oauth2/v3/tokeninfo?access_token=' + credentials.accestoken;
+    return google.auth.fromJSON(credentials);
+  } catch (err) {
+    return null;
+  }
+}
+```
