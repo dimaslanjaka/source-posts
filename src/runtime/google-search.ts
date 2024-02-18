@@ -61,11 +61,22 @@ const isEsMain = esMain(import.meta);
 
 if (isRequireMain || isEsMain) {
   (async () => {
-    const browser = await puppeteer.launch(getPuppeteerOptions({ headless: 'new' }));
-    const page = await browser.newPage();
+    const browser = await puppeteer.launch(getPuppeteerOptions({ headless: false }));
+    const page = (await browser.pages())[0] || (await browser.newPage());
+    page.setDefaultNavigationTimeout(0);
+
+    // Disable geolocation by setting the 'geolocation' permission to 'denied'
+    await page.setGeolocation({ latitude: 0, longitude: 0, accuracy: 0 });
 
     // Navigate to Google
     await page.goto('https://www.google.com');
+
+    // Open a new page
+    const page2 = await browser.newPage();
+    await page2.goto('https://proxy6.net/en/privacy');
+
+    // Switch to the first page
+    await page.bringToFront();
 
     // Type the search keyword and press Enter
     const keyword = 'quiz the legend of neverland';
