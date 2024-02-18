@@ -9,17 +9,34 @@ export function readProxy() {
   // read proxy.txt
   const text = fs.readFileSync(file, 'utf-8');
   // parse content of proxy.txt
-  const regex =
-    /((\b(.*)\b:\b(.*)\b@)?\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b):?(\d{2,5})/gm;
-  let m: RegExpExecArray | null;
+  const lines = text.split(/\r?\n/gm);
   const proxies = [] as string[];
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    const regexIpPort =
+      /((\b(.*)\b:\b(.*)\b@)?\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b):?(\d{2,5})/gm;
+    let m: RegExpExecArray | null;
 
-  while ((m = regex.exec(text)) !== null) {
-    // This is necessary to avoid infinite loops with zero-width matches
-    if (m.index === regex.lastIndex) {
-      regex.lastIndex++;
+    while ((m = regexIpPort.exec(line)) !== null) {
+      // This is necessary to avoid infinite loops with zero-width matches
+      if (m.index === regexIpPort.lastIndex) {
+        regexIpPort.lastIndex++;
+      }
+      if (m[0] && !proxies.includes(m[0])) proxies.push(m[0]);
     }
-    if (m[0]) proxies.push(m[0]);
+
+    const regexIpSpacePort =
+      /(\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b)(?:.*)(\b\d{2,5}\b)/gm;
+    while ((m = regexIpSpacePort.exec(line)) !== null) {
+      // This is necessary to avoid infinite loops with zero-width matches
+      if (m.index === regexIpSpacePort.lastIndex) {
+        regexIpSpacePort.lastIndex++;
+      }
+      if (m[1] && m[2]) {
+        const proxy = m[1].trim() + ':' + m[2].trim();
+        if (!proxies.includes(proxy)) proxies.push(proxy);
+      }
+    }
   }
 
   const proxyText = proxies.join('\n');
