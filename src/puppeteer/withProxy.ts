@@ -96,8 +96,7 @@ export default async function puppeteerWithProxy(
   }
 
   if (options.deleteOnError) {
-    const proxyError =
-      /^net::ERR_CONNECTION_RESET|net::ERR_TIMED_OUT|net::ERR_TUNNEL_CONNECTION_FAILED|net::ERR_PROXY_CONNECTION_FAILED|net::ERR_INVALID_AUTH_CREDENTIALS|net::ERR_SOCKS_CONNECTION_FAILED/gim;
+    const proxyError = /^CONNECTION_RESET|CONNECTION_FAILED|net::ERR_INVALID_AUTH_CREDENTIALS/gim;
     const hasError = Object.values(proxyResult).filter((s) => proxyError.test(s));
     // delete proxy when error matches count same as proxy result count
     if (hasError.length === Object.keys(proxyResult).length) {
