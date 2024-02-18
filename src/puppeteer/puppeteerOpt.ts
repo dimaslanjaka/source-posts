@@ -1,6 +1,6 @@
 import { deepmerge } from 'deepmerge-ts';
 import * as puppeteer from 'puppeteer';
-import { path } from 'sbg-utility';
+import { array_unique, path } from 'sbg-utility';
 
 export const puppeteerOpt: puppeteer.PuppeteerLaunchOptions = {
   headless: false,
@@ -37,5 +37,6 @@ export default function getPuppeteerOptions(options: MyPuppeteerOptions = {}) {
     });
     delete launchOpt.proxy;
   }
+  launchOpt.args = array_unique(launchOpt.args || []);
   return launchOpt;
 }
