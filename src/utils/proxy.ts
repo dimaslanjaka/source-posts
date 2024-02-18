@@ -10,7 +10,7 @@ export function readProxy() {
   const text = fs.readFileSync(file, 'utf-8');
   // parse content of proxy.txt
   const regex =
-    /(\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b):?(\d{2,5})/gm;
+    /((\b(.*)\b:\b(.*)\b@)?\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b):?(\d{2,5})/gm;
   let m: RegExpExecArray | null;
   const proxies = [] as string[];
 

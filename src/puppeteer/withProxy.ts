@@ -95,7 +95,7 @@ export default async function puppeteerWithProxy(
     if (!hasSuccess) {
       if (proxyError.test(Object.values(proxyResult).join(' '))) {
         const proxy2Remove =
-          (/(\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b):?(\d{2,5})/gm.exec(
+          (/((\b(.*)\b:\b(.*)\b@)?\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b):?(\d{2,5})/gm.exec(
             options.proxyAddress
           ) || [])[0];
         if (proxy2Remove) {
