@@ -10,3 +10,7 @@
 	path = packages/translator
 	url = https://github.com/dimaslanjaka/puppeteer-google-translate.git
 	branch = main
+[submodule "extensions/chromium/webrtc"]
+	path = extensions/chromium/webrtc
+	url = https://github.com/dimaslanjaka/Chromium-WebRTC-Leak-Prevent
+	branch = master
