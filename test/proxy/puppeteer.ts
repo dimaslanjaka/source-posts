@@ -8,8 +8,8 @@ import { readProxy, removeProxy } from '../../src/utils/proxy';
   while (proxies.length > 0) {
     // Replace with the actual public proxy address and port
     const proxy = proxies.shift();
-    const proxyResult = { socks: '', http: '' };
-    await Bluebird.all(['http://', 'socks5://']).each((protocol) => {
+    const proxyResult = { socks5: '', http: '', https: '' };
+    await Bluebird.all(['http://', 'socks5://', 'https://']).each((protocol) => {
       const proxyLog = `${protocol}${proxy}`;
       return launch(protocol + proxy)
         .then((result) => {
@@ -20,15 +20,18 @@ import { readProxy, removeProxy } from '../../src/utils/proxy';
           console.log(msg);
         })
         .catch(async (e: Error) => {
-          proxyResult[protocol.startsWith('http') ? 'http' : 'socks'] = e.message;
+          (proxyResult as Record<string, any>)[protocol.replace('://', '')] = e.message;
           console.log(`${proxyLog}`, color.default.redBright('failed'), e.message);
         });
     });
     const proxyError =
       /net::ERR_CONNECTION_RESET|net::ERR_TIMED_OUT|net::ERR_TUNNEL_CONNECTION_FAILED|net::ERR_PROXY_CONNECTION_FAILED|net::ERR_INVALID_AUTH_CREDENTIALS/gim;
-    const hasSuccess = proxyResult.http.length == 0 || proxyResult.socks.length == 0;
-    if (proxyError.test(proxyResult.http + proxyResult.socks) && !hasSuccess) {
-      removeProxy(proxy);
+    const hasSuccess = proxyResult.https.length == 0 || proxyResult.http.length == 0 || proxyResult.socks5.length == 0;
+    if (!hasSuccess) {
+      if (proxyError.test(Object.values(proxyResult).join(' '))) {
+        console.log('removing', proxy);
+        removeProxy(proxy);
+      }
     }
   }
 })();
