@@ -39,7 +39,8 @@ export function randomProxy() {
 }
 
 /** remove proxy from list */
-export function removeProxy(str: string) {
+export function removeProxy(str?: string) {
+  if (!str) return;
   const proxies = readProxy();
   const index = proxies.findIndex((proxy) => proxy == str);
   if (index !== -1) {
