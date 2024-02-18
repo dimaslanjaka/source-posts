@@ -1,18 +1,21 @@
 import { deepmerge } from 'deepmerge-ts';
 import * as puppeteer from 'puppeteer';
-import { array_unique, fs, path } from 'sbg-utility';
+import { array_unique, fs, md5, path } from 'sbg-utility';
 
-const userDataDir = path.join(process.cwd(), 'tmp/puppeteer_profile');
+const userDataDir = path.join(process.cwd(), 'tmp/puppeteer_profiles/default');
 if (!fs.existsSync(userDataDir)) fs.mkdirSync(userDataDir, { recursive: true });
 
 export const puppeteerOpt: puppeteer.PuppeteerLaunchOptions = {
   headless: false,
+  executablePath: puppeteer.executablePath(),
+  ignoreDefaultArgs: ['--disable-extensions'],
   args: [
     '--user-data-dir=' + userDataDir,
     '--no-sandbox',
     '--disable-setuid-sandbox',
     '--disable-infobars',
     '--window-position=0,0',
+    '--disable-gpu',
     '--disable-web-security',
     '--ignore-certificate-errors',
     '--ignore-certificate-errors-spki-list',
@@ -26,18 +29,19 @@ interface MyPuppeteerOptions extends puppeteer.PuppeteerLaunchOptions {
 }
 
 export default function getPuppeteerOptions(options: MyPuppeteerOptions = {}) {
-  let launchOpt = deepmerge(puppeteerOpt, options);
+  const launchOpt = deepmerge(puppeteerOpt, options);
   if (launchOpt.proxy) {
     const proxyAddress = launchOpt.proxy;
     launchOpt.ignoreHTTPSErrors = true;
-    launchOpt = deepmerge(launchOpt, {
-      args: [
-        `--proxy-server=${proxyAddress}`,
-        `--ignore-certificate-errors`,
-        `--no-sandbox`,
-        `--disable-setuid-sandbox`
-      ]
-    });
+    const profile_dir = path.join(process.cwd(), `tmp/puppeteer_profiles/${md5(options.proxy!)}`);
+    if (!fs.existsSync(profile_dir)) fs.mkdirSync(profile_dir, { recursive: true });
+    launchOpt.args = [
+      `--proxy-server=${proxyAddress}`,
+      `--ignore-certificate-errors`,
+      `--no-sandbox`,
+      `--disable-setuid-sandbox`,
+      `--user-data-dir=` + profile_dir
+    ];
     delete launchOpt.proxy;
   }
   launchOpt.args = array_unique(launchOpt.args || []);
