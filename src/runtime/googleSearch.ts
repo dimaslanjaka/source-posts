@@ -1,8 +1,8 @@
 import { dirname } from 'path';
 import puppeteer, { TimeoutError } from 'puppeteer';
 import { fileURLToPath } from 'url';
-import { puppeteerOpt } from './puppeteer/puppeteerOpt';
-import { randomProxy, removeProxy } from './utils/proxy';
+import { puppeteerOpt } from '../puppeteer/puppeteerOpt';
+import { randomProxy, removeProxy } from '../utils/proxy';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);

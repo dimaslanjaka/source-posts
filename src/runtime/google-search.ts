@@ -1,8 +1,8 @@
 import * as puppeteer from 'puppeteer';
 import { array_shuffle, delay, fs, noop } from 'sbg-utility';
-import scrollToBottom from './puppeteer/scrollToBottom';
-import puppeteerWithProxy, { puppeteerWithProxyLauncher } from './puppeteer/withProxy';
-import { readProxy } from './utils/proxy';
+import scrollToBottom from '../puppeteer/scrollToBottom';
+import puppeteerWithProxy, { puppeteerWithProxyLauncher } from '../puppeteer/withProxy';
+import { readProxy } from '../utils/proxy';
 
 function getPuppeteerSS(filename: string) {
   const dir = 'tmp/puppeteer_screenshot/';
@@ -19,9 +19,9 @@ function getPuppeteerSS(filename: string) {
     await puppeteerWithProxy(
       {
         proxyAddress: proxies.pop()!,
-        url: 'https://www.google.com',
+        url: 'http://www.google.com',
         deleteOnError: true,
-        headless: false
+        headless: 'new'
       },
       doSearch
     );
