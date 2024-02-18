@@ -31,21 +31,26 @@ export async function puppeteerWithProxyLauncher(opt: PuppeteerWithProxyOptions)
   // Launch the browser with proxy settings
   const profile_dir = path.join(process.cwd(), `tmp/puppeteer_profiles/${md5(proxyAddress)}`);
   if (!fs.existsSync(profile_dir)) fs.mkdirSync(profile_dir, { recursive: true });
-  const browser = await puppeteer.launch({
-    headless: 'new',
-    args: [
-      `--proxy-server=${proxyAddress}`,
-      '--disable-infobars',
-      '--no-sandbox',
-      `--disable-setuid-sandbox`,
-      `--user-data-dir=` + profile_dir,
-      '--disable-web-security',
-      '--ignore-certificate-errors',
-      '--ignore-certificate-errors-spki-list',
-      '--ignoreHTTPSErrors=true',
-      '--user-agent="Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z‡ Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"'
-    ]
-  });
+  const browser = await puppeteer.launch(
+    deepmerge(
+      {
+        headless: 'new',
+        args: [
+          `--proxy-server=${proxyAddress}`,
+          '--disable-infobars',
+          '--no-sandbox',
+          `--disable-setuid-sandbox`,
+          `--user-data-dir=` + profile_dir,
+          '--disable-web-security',
+          '--ignore-certificate-errors',
+          '--ignore-certificate-errors-spki-list',
+          '--ignoreHTTPSErrors=true',
+          '--user-agent="Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z‡ Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"'
+        ]
+      } as puppeteer.PuppeteerLaunchOptions,
+      opt
+    )
+  );
 
   // Create a new page
   const page = (await browser.pages())[0] || (await browser.newPage());
