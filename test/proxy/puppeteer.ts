@@ -1,9 +1,22 @@
 import Bluebird from 'bluebird';
+import { spawnAsync } from 'git-command-helper';
 import { color } from 'hexo-post-parser';
 import * as puppeteer from 'puppeteer';
+import { bindProcessExit, delay, fs, isWindows, md5, path } from 'sbg-utility';
 import { readProxy, removeProxy } from '../../src/utils/proxy';
 
+bindProcessExit('kill-chrome', async () => {
+  // kill previous unclosed chrome
+  if (isWindows) {
+    await spawnAsync('wmic', ['process', 'where', `"name like 'chrome.exe'"`, 'delete'], {
+      shell: true,
+      stdio: 'inherit'
+    });
+  }
+});
+
 (async () => {
+  // checking proxy starts
   const proxies = readProxy();
   while (proxies.length > 0) {
     // Replace with the actual public proxy address and port
@@ -39,10 +52,22 @@ import { readProxy, removeProxy } from '../../src/utils/proxy';
 async function launch(proxyAddress?: string) {
   if (!proxyAddress) return null;
   // Launch the browser with proxy settings
+  const profile_dir = path.join(process.cwd(), `tmp/puppeteer_profiles/${md5(proxyAddress)}`);
+  if (!fs.existsSync(profile_dir)) fs.mkdirSync(profile_dir, { recursive: true });
   const browser = await puppeteer.launch({
-    ignoreHTTPSErrors: true,
-    args: [`--proxy-server=${proxyAddress}`, `--ignore-certificate-errors`, `--no-sandbox`, `--disable-setuid-sandbox`],
-    headless: 'new'
+    headless: 'new',
+    args: [
+      `--proxy-server=${proxyAddress}`,
+      '--disable-infobars',
+      '--no-sandbox',
+      `--disable-setuid-sandbox`,
+      `--user-data-dir=` + profile_dir,
+      '--disable-web-security',
+      '--ignore-certificate-errors',
+      '--ignore-certificate-errors-spki-list',
+      '--ignoreHTTPSErrors=true',
+      '--user-agent="Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/W.X.Y.Z‡ Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"'
+    ]
   });
 
   // Create a new page
@@ -54,6 +79,7 @@ async function launch(proxyAddress?: string) {
     return await page.goto('http://ip.me', { waitUntil: 'networkidle0', timeout: 40000 });
   } catch (e: any) {
     await browser.close();
+    await delay(2000);
     throw e;
   }
 }
