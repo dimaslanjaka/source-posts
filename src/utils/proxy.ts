@@ -1,11 +1,14 @@
-import { readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
-import { writefile } from 'sbg-utility';
+import { fs, writefile } from 'sbg-utility';
 
 /** read proxy from proxy.txt */
 export function readProxy() {
   const file = join(process.cwd(), 'proxy.txt');
-  const text = readFileSync(file, 'utf-8');
+  // create proxy.txt
+  if (!fs.existsSync(file)) writefile(file, '');
+  // read proxy.txt
+  const text = fs.readFileSync(file, 'utf-8');
+  // parse content of proxy.txt
   const regex =
     /(\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b):?(\d{2,5})/gm;
   let m: RegExpExecArray | null;
@@ -43,5 +46,5 @@ export function removeProxy(str: string) {
     delete proxies[index];
   }
   const file = join(process.cwd(), 'proxy.txt');
-  writeFileSync(file, proxies.filter((str) => str.length > 0).join('\n'));
+  writefile(file, proxies.filter((str) => str.length > 0).join('\n'));
 }
