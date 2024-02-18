@@ -2,6 +2,7 @@ import { spawnAsync } from 'git-command-helper';
 import { color } from 'hexo-post-parser';
 import * as puppeteer from 'puppeteer';
 import { bindProcessExit, delay, fs, isWindows, md5, path } from 'sbg-utility';
+import { removeProxy } from '../utils/proxy';
 
 bindProcessExit('kill-chrome', async () => {
   // kill previous unclosed chrome
@@ -13,7 +14,18 @@ bindProcessExit('kill-chrome', async () => {
   }
 });
 
-export async function puppeteerWithProxyLauncher(proxyAddress?: string) {
+export interface PuppeteerWithProxyOptions extends puppeteer.PuppeteerLaunchOptions {
+  /** IP:PORT */
+  proxyAddress: string;
+  /** url to visit */
+  url?: string;
+  /** delete proxy on error from proxy.txt? */
+  deleteOnError?: boolean;
+}
+
+export async function puppeteerWithProxyLauncher(opt: PuppeteerWithProxyOptions) {
+  const url = opt.url || 'http://ip.me';
+  const proxyAddress = opt.proxyAddress;
   if (!proxyAddress) return null;
   // Launch the browser with proxy settings
   const profile_dir = path.join(process.cwd(), `tmp/puppeteer_profiles/${md5(proxyAddress)}`);
@@ -40,7 +52,7 @@ export async function puppeteerWithProxyLauncher(proxyAddress?: string) {
   // await (await import('puppeteer-page-proxy')).default(page, proxyAddress);
 
   try {
-    await page.goto('http://ip.me', { waitUntil: 'networkidle0', timeout: 40000 });
+    await page.goto(url, { waitUntil: 'networkidle0', timeout: 40000 });
     return { page, browser, proxyAddress };
   } catch (e: any) {
     await browser.close();
@@ -50,19 +62,17 @@ export async function puppeteerWithProxyLauncher(proxyAddress?: string) {
 }
 
 export default async function puppeteerWithProxy(
-  proxy: string,
-  options: puppeteer.PuppeteerLaunchOptions | ((obj: Awaited<ReturnType<typeof puppeteerWithProxyLauncher>>) => any),
+  options: PuppeteerWithProxyOptions,
   callback?: (obj: Awaited<ReturnType<typeof puppeteerWithProxyLauncher>>) => any
 ) {
-  if (typeof options == 'function') callback = options;
   const proxyResult = { socks5: '', http: '', https: '', socks: '', socks4: '' };
   const protocols = ['http://', 'socks5://', 'https://', 'socks://', 'socks4://'];
   let done = false;
   for (let i = 0; i < protocols.length; i++) {
     if (done) break;
     const protocol = protocols[i];
-    const proxyLog = `${protocol}${proxy}`;
-    await puppeteerWithProxyLauncher(protocol + proxy)
+    const proxyLog = `${protocol}${options.proxyAddress}`;
+    await puppeteerWithProxyLauncher({ proxyAddress: protocol + options.proxyAddress })
       .then((result) => {
         let msg = `${proxyLog} ${color.default.greenBright('success')}`;
         if (!result) {
@@ -76,5 +86,23 @@ export default async function puppeteerWithProxy(
         (proxyResult as Record<string, any>)[protocol.replace('://', '')] = e.message;
         console.log(`${proxyLog}`, color.default.redBright('failed'), e.message);
       });
+  }
+
+  if (options.deleteOnError) {
+    const proxyError =
+      /net::ERR_CONNECTION_RESET|net::ERR_TIMED_OUT|net::ERR_TUNNEL_CONNECTION_FAILED|net::ERR_PROXY_CONNECTION_FAILED|net::ERR_INVALID_AUTH_CREDENTIALS/gim;
+    const hasSuccess = Object.values(proxyResult).some((s) => s.length == 0);
+    if (!hasSuccess) {
+      if (proxyError.test(Object.values(proxyResult).join(' '))) {
+        const proxy2Remove =
+          (/(\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b):?(\d{2,5})/gm.exec(
+            options.proxyAddress
+          ) || [])[0];
+        if (proxy2Remove) {
+          console.log('removing', proxy2Remove);
+          removeProxy(proxy2Remove);
+        }
+      }
+    }
   }
 }
