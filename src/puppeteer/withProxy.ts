@@ -97,18 +97,17 @@ export default async function puppeteerWithProxy(
 
   if (options.deleteOnError) {
     const proxyError =
-      /net::ERR_CONNECTION_RESET|net::ERR_TIMED_OUT|net::ERR_TUNNEL_CONNECTION_FAILED|net::ERR_PROXY_CONNECTION_FAILED|net::ERR_INVALID_AUTH_CREDENTIALS/gim;
-    const hasSuccess = Object.values(proxyResult).some((s) => s.length == 0);
-    if (!hasSuccess) {
-      if (proxyError.test(Object.values(proxyResult).join(' '))) {
-        const proxy2Remove =
-          (/((\b(.*)\b:\b(.*)\b@)?\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b):?(\d{2,5})/gm.exec(
-            options.proxyAddress
-          ) || [])[0];
-        if (proxy2Remove) {
-          console.log('removing', proxy2Remove);
-          removeProxy(proxy2Remove);
-        }
+      /^net::ERR_CONNECTION_RESET|net::ERR_TIMED_OUT|net::ERR_TUNNEL_CONNECTION_FAILED|net::ERR_PROXY_CONNECTION_FAILED|net::ERR_INVALID_AUTH_CREDENTIALS|net::ERR_SOCKS_CONNECTION_FAILED/gim;
+    const hasError = Object.values(proxyResult).filter((s) => proxyError.test(s));
+    // delete proxy when error matches count same as proxy result count
+    if (hasError.length === Object.keys(proxyResult).length) {
+      const proxy2Remove =
+        (/((\b(.*)\b:\b(.*)\b@)?\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b):?(\d{2,5})/gm.exec(
+          options.proxyAddress
+        ) || [])[0];
+      if (proxy2Remove) {
+        console.log('removing', proxy2Remove);
+        removeProxy(proxy2Remove);
       }
     }
   }
