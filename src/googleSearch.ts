@@ -1,8 +1,8 @@
-import { readFileSync, writeFileSync } from 'fs';
-import { dirname, join } from 'path';
+import { dirname } from 'path';
 import puppeteer, { TimeoutError } from 'puppeteer';
 import { fileURLToPath } from 'url';
 import { puppeteerOpt } from './puppeteer/puppeteerOpt';
+import { randomProxy, removeProxy } from './utils/proxy';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -42,26 +42,4 @@ async function search(keyword: string) {
       }
     }
   }
-}
-
-function readProxy() {
-  const file = join(__dirname, 'proxy.txt');
-  return readFileSync(file, 'utf-8')
-    .split(/\r?\n/gm)
-    .map((str) => str.trim())
-    .filter((str) => str.length > 0);
-}
-
-function randomProxy() {
-  return readProxy()[Math.floor(Math.random() * readProxy().length)];
-}
-
-function removeProxy(str: string) {
-  const proxies = readProxy();
-  const index = proxies.findIndex((proxy) => proxy == str);
-  if (index !== -1) {
-    delete proxies[index];
-  }
-  const file = join(__dirname, 'proxy.txt');
-  writeFileSync(file, proxies.join('\n'));
 }
