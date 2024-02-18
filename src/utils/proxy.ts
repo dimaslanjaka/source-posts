@@ -1,5 +1,6 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
+import { writefile } from 'sbg-utility';
 
 /** read proxy from proxy.txt */
 export function readProxy() {
@@ -17,6 +18,14 @@ export function readProxy() {
     }
     if (m[0]) proxies.push(m[0]);
   }
+
+  const proxyText = proxies.join('\n');
+
+  // rewrite proxy
+  if (proxyText != text) {
+    writefile(file, proxyText);
+  }
+
   return proxies;
 }
 
