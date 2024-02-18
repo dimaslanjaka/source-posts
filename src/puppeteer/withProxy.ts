@@ -1,19 +1,8 @@
 import { deepmerge } from 'deepmerge-ts';
-import { spawnAsync } from 'git-command-helper';
 import { color } from 'hexo-post-parser';
 import * as puppeteer from 'puppeteer';
-import { array_unique, bindProcessExit, delay, fs, isWindows, md5, path } from 'sbg-utility';
+import { array_unique, delay, fs, md5, path } from 'sbg-utility';
 import { removeProxy } from '../utils/proxy';
-
-bindProcessExit('kill-chrome', async () => {
-  // kill previous unclosed chrome
-  if (isWindows) {
-    await spawnAsync('wmic', ['process', 'where', `"name like 'chrome.exe'"`, 'delete'], {
-      shell: true,
-      stdio: 'inherit'
-    });
-  }
-});
 
 export interface PuppeteerWithProxyOptions extends puppeteer.PuppeteerLaunchOptions {
   /** IP:PORT */

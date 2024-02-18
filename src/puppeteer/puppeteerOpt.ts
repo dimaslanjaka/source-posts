@@ -1,6 +1,17 @@
 import { deepmerge } from 'deepmerge-ts';
+import { spawnAsync } from 'git-command-helper';
 import * as puppeteer from 'puppeteer';
-import { array_unique, fs, md5, path } from 'sbg-utility';
+import { array_unique, bindProcessExit, fs, isWindows, md5, path } from 'sbg-utility';
+
+bindProcessExit('kill-chrome', async () => {
+  // kill previous unclosed chrome
+  if (isWindows) {
+    await spawnAsync('wmic', ['process', 'where', `"name like 'chrome.exe'"`, 'delete'], {
+      shell: true,
+      stdio: 'inherit'
+    });
+  }
+});
 
 const userDataDir = path.join(process.cwd(), 'tmp/puppeteer_profiles/default');
 if (!fs.existsSync(userDataDir)) fs.mkdirSync(userDataDir, { recursive: true });

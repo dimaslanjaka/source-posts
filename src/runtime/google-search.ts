@@ -1,8 +1,14 @@
+import esMain from 'es-main';
 import * as puppeteer from 'puppeteer';
+import getPuppeteerOptions from '../puppeteer/puppeteerOpt';
 import getPuppeteerSS from '../puppeteer/screenshoot';
 import scrollToBottom from '../puppeteer/scrollToBottom';
 
 export async function startSearch(page: puppeteer.Page) {
+  // Type a search query
+  const searchQuery = 'quiz the legend of neverland';
+  await page.type('input[name=q],textarea[name=q]', searchQuery);
+
   // Press Enter to submit the search
   await page.keyboard.press('Enter').catch((e) => console.log('failed press enter on google searchbox', e.message));
 
@@ -48,4 +54,22 @@ export async function startSearch(page: puppeteer.Page) {
     // Take a screenshot after scrolling to the bottom
     await page.screenshot({ path: getPuppeteerSS('theSite_bottom_of_page.png') });
   }
+}
+
+const isRequireMain = typeof require !== 'undefined' && require.main === module;
+const isEsMain = esMain(import.meta);
+
+if (isRequireMain || isEsMain) {
+  (async () => {
+    const browser = await puppeteer.launch(getPuppeteerOptions({ headless: 'new' }));
+    const page = await browser.newPage();
+
+    // Navigate to Google
+    await page.goto('https://www.google.com');
+
+    // Type the search keyword and press Enter
+    const keyword = 'quiz the legend of neverland';
+    await page.type('input[name="q"]', keyword);
+    await page.keyboard.press('Enter');
+  })();
 }
