@@ -11,5 +11,7 @@ import getPuppeteerOptions from '../../src/puppeteer/puppeteerOpt';
   const browser = await puppeteer.launch(options);
   const page = (await browser.pages())[0] || (await browser.newPage());
   page.setDefaultNavigationTimeout(0);
-  await page.goto('https://www.ipaddress.my/', { waitUntil: 'networkidle0' });
+  await page
+    .goto('https://www.ipaddress.my/', { waitUntil: 'networkidle0' })
+    .catch((e) => console.error('fail visit', e.message));
 })();
