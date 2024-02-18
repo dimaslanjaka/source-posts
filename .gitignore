@@ -16,6 +16,7 @@ tmp
 # custom
 /nodejs-esm-starter
 .env
+PSW/
 
 # yarn
 **/.yarn/cache
