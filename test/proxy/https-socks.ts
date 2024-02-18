@@ -21,6 +21,8 @@ import { readProxy } from '../../src/utils/proxy';
         })
         .on('error', (e) => {
           console.log(proxy, e.message);
+          // const regex = /ECONNREFUSED/g;
+          // if (regex.test(e.message)) removeProxy(proxy);
           resolve();
         })
         .on('end', function () {
