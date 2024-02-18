@@ -1,3 +1,4 @@
+import { deepmerge } from 'deepmerge-ts';
 import { spawnAsync } from 'git-command-helper';
 import { color } from 'hexo-post-parser';
 import * as puppeteer from 'puppeteer';
@@ -72,7 +73,7 @@ export default async function puppeteerWithProxy(
     if (done) break;
     const protocol = protocols[i];
     const proxyLog = `${protocol}${options.proxyAddress}`;
-    await puppeteerWithProxyLauncher({ proxyAddress: protocol + options.proxyAddress })
+    await puppeteerWithProxyLauncher(deepmerge(options, { proxyAddress: protocol + options.proxyAddress }))
       .then((result) => {
         let msg = `${proxyLog} ${color.default.greenBright('success')}`;
         if (!result) {
