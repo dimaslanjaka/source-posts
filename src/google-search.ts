@@ -1,5 +1,5 @@
 import * as puppeteer from 'puppeteer';
-import { delay, fs, noop } from 'sbg-utility';
+import { array_shuffle, delay, fs, noop } from 'sbg-utility';
 import scrollToBottom from './puppeteer/scrollToBottom';
 import puppeteerWithProxy, { puppeteerWithProxyLauncher } from './puppeteer/withProxy';
 import { readProxy } from './utils/proxy';
@@ -12,8 +12,10 @@ function getPuppeteerSS(filename: string) {
 
 (async () => {
   // Replace with the actual public proxy address and port
-  const proxies = readProxy();
+  let proxies = readProxy();
   while (proxies.length > 0) {
+    // shuffle proxies
+    proxies = array_shuffle(proxies);
     await puppeteerWithProxy(
       {
         proxyAddress: proxies.pop()!,
