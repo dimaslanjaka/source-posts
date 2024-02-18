@@ -50,6 +50,7 @@ export async function puppeteerWithProxyLauncher(opt: PuppeteerWithProxyOptions)
     opt
   );
   launchOpt.args = array_unique(launchOpt.args!);
+  if (launchOpt.headless) launchOpt.headless = 'new';
   const browser = await puppeteer.launch(launchOpt);
 
   // Create a new page
