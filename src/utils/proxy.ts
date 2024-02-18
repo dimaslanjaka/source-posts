@@ -26,7 +26,7 @@ export function readProxy() {
     }
 
     const regexIpSpacePort =
-      /(\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b)(?:.*)(\b\d{2,5}\b)/gm;
+      /^(\b(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b)(?:.*?)(\b\d{2,5}\b)/gm;
     while ((m = regexIpSpacePort.exec(line)) !== null) {
       // This is necessary to avoid infinite loops with zero-width matches
       if (m.index === regexIpSpacePort.lastIndex) {
