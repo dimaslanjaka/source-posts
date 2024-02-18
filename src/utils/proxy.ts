@@ -34,5 +34,5 @@ export function removeProxy(str: string) {
     delete proxies[index];
   }
   const file = join(process.cwd(), 'proxy.txt');
-  writeFileSync(file, proxies.join('\n'));
+  writeFileSync(file, proxies.filter((str) => str.length > 0).join('\n'));
 }
