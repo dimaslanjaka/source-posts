@@ -29,7 +29,7 @@ export async function puppeteerWithProxyLauncher(opt: PuppeteerWithProxyOptions)
   const proxyAddress = opt.proxyAddress;
   if (!proxyAddress) return null;
   // Launch the browser with proxy settings
-  const profile_dir = path.join(process.cwd(), `tmp/puppeteer_profiles/${md5(proxyAddress)}`);
+  const profile_dir = path.join(process.cwd(), `.yarn/cache/puppeteer_profiles/${md5(proxyAddress)}`);
   if (!fs.existsSync(profile_dir)) fs.mkdirSync(profile_dir, { recursive: true });
   const launchOpt = deepmerge(
     {
