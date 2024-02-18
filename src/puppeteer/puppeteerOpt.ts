@@ -1,11 +1,14 @@
 import { deepmerge } from 'deepmerge-ts';
 import * as puppeteer from 'puppeteer';
-import { array_unique, path } from 'sbg-utility';
+import { array_unique, fs, path } from 'sbg-utility';
+
+const userDataDir = path.join(process.cwd(), 'tmp/puppeteer_profile');
+if (!fs.existsSync(userDataDir)) fs.mkdirSync(userDataDir, { recursive: true });
 
 export const puppeteerOpt: puppeteer.PuppeteerLaunchOptions = {
   headless: false,
   args: [
-    '--user-data-dir=' + path.join(process.cwd(), 'tmp/puppeteer_profile'),
+    '--user-data-dir=' + userDataDir,
     '--no-sandbox',
     '--disable-setuid-sandbox',
     '--disable-infobars',
