@@ -6,6 +6,7 @@ import getPuppeteerOptions from '../puppeteer/puppeteerOpt';
 import getPuppeteerSS from '../puppeteer/screenshoot';
 import scrollToBottom from '../puppeteer/scrollToBottom';
 
+/** start typing keywords and emulating */
 export async function startSearch(page: puppeteer.Page) {
   // Type a search query
   const searchQuery = 'quiz the legend of neverland';
@@ -58,7 +59,10 @@ export async function startSearch(page: puppeteer.Page) {
 
       // Take a screenshot after scrolling to the bottom
       await page.screenshot({ path: getPuppeteerSS('theSite_bottom_of_page.png') });
-      console.log('done');
+      console.log('search google automation done');
+
+      // Close the browser
+      await page.browser().close();
     }
   }
 }
