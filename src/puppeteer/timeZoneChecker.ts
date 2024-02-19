@@ -12,6 +12,7 @@ async function timeZoneChecker({ timeZone = 'Asia/Jakarta' }: { timeZone: string
   }
   const browser = await puppeteer.launch(launchConfig);
   const page = await browser.newPage();
+  await page.emulateTimezone(timeZone);
 
   await page.goto('https://whoer.net/');
   const detectedTimezone = await page.$eval('.ico-timesystem', (e) => (e.parentNode as any).innerText);
