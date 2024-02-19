@@ -1,4 +1,5 @@
 import * as puppeteer from 'puppeteer';
+import clickSelector from './clickSelector';
 
 /**
  * scroll down puppeteer
@@ -22,6 +23,7 @@ export default function scrollToBottom(page: puppeteer.Page) {
         if (shouldReturn) {
           return promise;
         }
+        await clickSelector(page, '[id*="ad_position_box"][id="dismiss-button"]');
         // scroll down by a chunk
         await page.evaluate((scrollAmount) => {
           window.scrollBy(0, scrollAmount);
