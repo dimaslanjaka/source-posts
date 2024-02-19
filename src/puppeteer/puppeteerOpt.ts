@@ -7,8 +7,8 @@ bindProcessExit('kill-chrome', async () => {
   // kill previous unclosed chrome
   if (isWindows) {
     await spawnAsync('wmic', ['process', 'where', `"name like 'chrome.exe'"`, 'delete'], {
-      shell: true,
-      stdio: 'inherit'
+      shell: true
+      // stdio: 'inherit'
     });
   }
 });
