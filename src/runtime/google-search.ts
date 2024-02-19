@@ -1,6 +1,7 @@
 import esMain from 'es-main';
 import * as puppeteer from 'puppeteer';
-import { noop, path } from 'sbg-utility';
+import { path } from 'sbg-utility';
+import clickSelector from '../puppeteer/clickSelector';
 import getPuppeteerOptions from '../puppeteer/puppeteerOpt';
 import getPuppeteerSS from '../puppeteer/screenshoot';
 import scrollToBottom from '../puppeteer/scrollToBottom';
@@ -50,19 +51,14 @@ export async function startSearch(page: puppeteer.Page) {
 
   if (mySite && mySite[0]) {
     const selector = mySite[0].selector;
-    // console.log({ selector });
-    if ((await page.$(selector)) !== null) {
-      await page.click(selector, { delay: 300 });
-
-      await page.waitForNavigation({ waitUntil: 'networkidle2' });
+    if (await clickSelector(page, selector)) {
       await page.screenshot({ path: getPuppeteerSS('theSite.png') });
 
-      await scrollToBottom(page);
+      await scrollToBottom(page).catch((e) => console.log('failed scroll down', e.message));
 
       // Take a screenshot after scrolling to the bottom
       await page.screenshot({ path: getPuppeteerSS('theSite_bottom_of_page.png') });
-    } else {
-      console.log('no element found', selector);
+      console.log('done');
     }
   }
 }
@@ -86,15 +82,6 @@ if (isRequireMain || isEsMain) {
     );
     const page = (await browser.pages())[0] || (await browser.newPage());
     page.setDefaultNavigationTimeout(0);
-    await page.setExtraHTTPHeaders({
-      'user-agent':
-        'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36',
-      'upgrade-insecure-requests': '1',
-      accept:
-        'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
-      'accept-encoding': 'gzip, deflate, br',
-      'accept-language': 'en-US,en;q=0.9,en;q=0.8'
-    });
 
     // Disable geolocation by setting the 'geolocation' permission to 'denied'
     await page.setGeolocation({ latitude: 0, longitude: 0, accuracy: 0 });
@@ -116,7 +103,7 @@ if (isRequireMain || isEsMain) {
     try {
       await startSearch(page);
     } catch (e) {
-      console.error(e);
+      console.error('error', e);
     }
   })();
 }
@@ -126,8 +113,6 @@ async function loginNotifBlock(page: puppeteer.Page) {
   const selectors = ['[aria-label="Tetap logout"]', '[aria-label*="logout"]', '[data-dismiss="n"]'];
   for (let i = 0; i < selectors.length; i++) {
     const selector = selectors[i];
-    if ((await page.$(selector)) !== null) {
-      await page.click(selector).catch(noop);
-    }
+    await clickSelector(page, selector);
   }
 }
