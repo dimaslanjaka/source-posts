@@ -4,18 +4,18 @@ author:
   link: https://www.blogger.com/profile/07981649157148639830
   email: noreply@blogger.com
 categories:
-  - uncategorized
+  - programming
 comments: true
 date: 2021-03-28T02:54:00.004Z
 description: Git Login Via Command Line git config --global user.name myusernamegit config --global user.email myemailgit config --global github.user myusernamegit config --
 lang: en
 tags:
-  - tips & tricks
+  - shell
+  - cmd
 thumbnail: https://i.ytimg.com/vi/yDntCIs-IJM/hqdefault.jpg
 title: Git Login Via Command Line
 type: post
 updated: 2024-02-20T13:04:15+07:00
-wordcount: 50
 ---
 
 ```bash
