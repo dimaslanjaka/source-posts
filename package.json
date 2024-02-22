@@ -104,6 +104,7 @@
   },
   "packageManager": "yarn@3.8.0",
   "resolutions": {
+    "node-libcurl": "4.0.0",
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/tarball/private",
     "safelinkify": "https://github.com/dimaslanjaka/safelink/raw/monorepo/release/safelinkify.tgz",
     "sbg-api": "https://github.com/dimaslanjaka/static-blog-generator/raw/e95b585/packages/sbg-api/release/sbg-api.tgz",
