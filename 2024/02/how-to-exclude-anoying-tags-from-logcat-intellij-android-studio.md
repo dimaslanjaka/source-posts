@@ -2,7 +2,10 @@
 title: How to exclude anoying tags in intellij idea or android studio
 description: In IntelliJ IDEA and Android Studio, you can exclude specific log tags in the Logcat view
 date: 2024-02-22T14:12:51+07:00
+thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/5241507b-bdf2-48b4-8712-5d1dc0761690
 ---
+
+![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/5241507b-bdf2-48b4-8712-5d1dc0761690)
 
 In IntelliJ IDEA and Android Studio, you can exclude specific log tags in the Logcat view. Here's how you can do it:
 
