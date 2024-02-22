@@ -21,5 +21,8 @@ HardwareCodecCapability AudioCapabilities OpenGLRenderer ViewRoot ForceDarkHelpe
 
 ## Conclusion
 
-Done, now all common anoying tags should not be displayed on logcat logs
+Done, now all common anoying tags should not be displayed on logcat logs. Looks like below screenshot, no more annoying tags shown :)
+
+![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/6a72637d-6ee7-410d-bed5-a6d666663201)
+
 
