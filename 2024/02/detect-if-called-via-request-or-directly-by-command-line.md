@@ -1,6 +1,6 @@
 ---
 title: Detect NodeJS if called using import or directly
-date: 2024-03-17T18:16:51+07:00
+date: 2024-02-23T18:16:51+07:00
 description: How can I detect if my NodeJS file is called using node file path `node path-to-file` or `require('path-to-file')` or `import 'path-to-file'` ?
 tags:
   - javascript
@@ -8,11 +8,12 @@ tags:
 categories:
   - programming
 keywords:
+  - detect
   - import
   - require
-  - detect
+  - meta
 slug: detect-nodejs-called-by-import
-updated: 2024-03-17T18:33:33+07:00
+updated: 2024-02-23T18:33:33+07:00
 ---
 
 ## CommonJS
