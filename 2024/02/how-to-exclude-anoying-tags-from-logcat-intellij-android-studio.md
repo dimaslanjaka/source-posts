@@ -3,7 +3,13 @@ title: How to exclude anoying tags in intellij idea or android studio
 date: 2024-02-22T14:12:51+07:00
 ---
 
+- Open Android Studio.
+- Go to Tools> Android> Logcat.
+- In Logcat, look for options related to "Ignore Tags" or "Ignored Log Tags".
+- Add a list of tags that you want to ignore, by separating it using spaces or commas.
+
 ```text
+HardwareCodecCapability AudioCapabilities OpenGLRenderer ViewRoot ForceDarkHelper Looper PlayCore AudioTrack SurfaceUtils cr_ChildProcessConn FA ActivityThread DynamiteModule Perf DynamitePackage EgretLoader cr_LibraryLoader BpBinder chatty FeatureParser MediaCodec ExtendedACodec MapperHal OMXClient VideoCapabilities Gralloc3 MetadataUtil AdrenoGLES chromium DpmTcmClient WebViewFactory cr_CachingUmaRecorder AdrenoUtils cr_media AudioManager cr_SpareChildConn Chrome_InProcGp Choreographer AdInternalSettings Keep-Alive Vary pool-15-thread- WifiMulticast WifiHW MtpService PushClient EGL_emulation OpenGl* InputReader art dalvik Environment DataRouter AlarmManager WindowManager PhoneStatusBar ActivityManager ResourceType PackageManager gralloc Gnss NetRec ResolverController GAv4 AsyncOperation AppOps WificondControl aofp wifi netmgr ctxmgr BestClock FirebaseInstanceId android.os.Debug memtrack netd system_server StrictMode bluetooth NetworkMonitor BroadcastQueue ConnextivityService WakeLock HttpClientWrapper RAWR Tenor BgTask WifiService BluetoothAdapter UpdateStatsService AppIdleHistory Connectivity VelvetNetworkClient WorkerManager ActivityTaskManager UsageStatsService ocess.gservice DropBoxManagerService EventLogChimeraService PContextMetricsRunner MultiDex AutofillManager libMEOW
 ```
 
 ## Conclusion
