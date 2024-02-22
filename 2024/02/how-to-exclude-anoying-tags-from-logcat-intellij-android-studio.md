@@ -7,7 +7,7 @@ date: 2024-02-22T14:12:51+07:00
 In IntelliJ IDEA and Android Studio, you can exclude specific log tags in the Logcat view. Here's how you can do it:
 
 - Open Android Studio or Intellij IDEA.
-- Go to Tools> Android> Logcat.
+- Go to Tools > Android > Logcat.
 - In Logcat, look for options related to "Ignore Tags" or "Ignored Log Tags".
 - Add a list of tags that you want to ignore, by separating it using spaces or commas.
 
