@@ -18,6 +18,8 @@ tmp
 # custom
 /nodejs-esm-starter
 .env
+PSW/
+proxy.txt
 
 # yarn
 **/.yarn/cache
