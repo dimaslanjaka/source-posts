@@ -3,6 +3,7 @@ title: How to exclude anoying tags in intellij idea or android studio
 description: In IntelliJ IDEA and Android Studio, you can exclude specific log tags in the Logcat view
 date: 2024-02-22T14:12:51+07:00
 thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/5241507b-bdf2-48b4-8712-5d1dc0761690
+updated: 2024-02-22T15:07:53+07:00
 ---
 
 ![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/5241507b-bdf2-48b4-8712-5d1dc0761690)
@@ -21,6 +22,16 @@ HardwareCodecCapability AudioCapabilities OpenGLRenderer ViewRoot ForceDarkHelpe
 ## Setting result looks like below screenshoot
 
 ![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/1061e3cb-b57f-44de-96b8-78aab3cebeba)
+
+## Additional for GeckoView
+
+Put below pattern to logcat filter column 
+
+```text
+-tag~:GeckoConsole|SurfaceComposerClient|BufferQueueConsumer|GeckoSession|GeckoThread|Web\sContent|GeckoEventDispatcher|BLASTBufferQueue|GeckoNetworkManager|linker
+```
+
+![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/78a27118-5eae-43e1-abba-0a6a3ad81270)
 
 ## Conclusion
 
