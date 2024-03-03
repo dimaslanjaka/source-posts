@@ -1,7 +1,7 @@
 ---
 title: setup vmoption intellij idea for 8GB RAM processor intel i3
 description: Here are some suggestions for setting up VM options in IntelliJ IDEA with an 8GB RAM machine and an Intel i3 processor
-date: 2024-02-27T21:39:32+07:00****
+date: 2024-02-27T21:39:32+07:00
 categories: [programming]
 tags: [tips & tricks, java, kotlin]
 ---
