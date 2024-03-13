@@ -19,7 +19,7 @@ To limit Android Studio's memory usage, you can modify the `studio.vmoptions` fi
 ```
 -Xms256m
 -Xmx2048m
-````
+```
 
  Example values are used above (`-Xms256m` for the initial heap size and `-Xmx2048m` for the maximum heap size). You can increase or decrease these values based on your system's configuration.
 
