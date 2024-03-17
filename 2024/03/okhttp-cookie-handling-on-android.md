@@ -12,13 +12,18 @@ requires:
 ```toml
 [versions]
 webkit = "1.10.0"
+okhttp = "4.12.0"
 
 [libraries]
 webkit = { module = "androidx.webkit:webkit", version.ref = "webkit" }
+okhttp = { module = "com.squareup.okhttp3:okhttp-bom", version.ref = "okhttp" }
+okhttp-lib = { module = "com.squareup.okhttp3:okhttp" }
 ```
 
 ```gradle
 implementation libs.webkit
+implementation platform(libs.okhttp)
+implementation libs.okhttp.lib
 ```
 
 create `WebkitCookieManager.kt`
