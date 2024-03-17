@@ -5,9 +5,23 @@ categories: [programming]
 tags: [java, kotlin, android]
 ---
 
-create `WebkitCookieManager.kt`
-
 Here how i implement cookie handling for android lollipop - tiramisu and also jvm and non-persistent connection.
+
+requires:
+
+```toml
+[versions]
+webkit = "1.10.0"
+
+[libraries]
+webkit = { module = "androidx.webkit:webkit", version.ref = "webkit" }
+```
+
+```gradle
+implementation libs.webkit
+```
+
+create `WebkitCookieManager.kt`
 
 ```kotlin
 import android.content.Context
