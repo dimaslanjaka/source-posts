@@ -94,6 +94,8 @@ here's a graphical representation of the Android Activity lifecycle:
             +-------------------+
 ```
 
+![Android activity lifecycle graph](https://i.stack.imgur.com/VW8m8.jpg)
+
 ## is I can extends superclass activity which superclass extends AppCompatActivity?
 
 Yes, you can certainly extend a superclass that extends `AppCompatActivity` in your Android application. In fact, it's a common practice to create a custom base activity that extends `AppCompatActivity` and then have your other activities in the application extend this custom base activity.
