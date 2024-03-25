@@ -41,6 +41,8 @@ Understanding these lifecycle methods is crucial for properly managing the state
 
 ## Graph of android lifecycle
 
+here's a graphical representation of the Android Activity lifecycle:
+
 ```
             +-------------------+
             |                   |
@@ -58,7 +60,7 @@ Understanding these lifecycle methods is crucial for properly managing the state
                       v
             +-------------------+
             |                   |
-            |      onResume()    |
+            |      onResume()   |
             |                   |
             +---------+---------+
                       |
