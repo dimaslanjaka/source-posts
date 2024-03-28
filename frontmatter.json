@@ -72,6 +72,10 @@
     {
       "path": "[[workspace]]/posts",
       "title": "Source Posts"
+    },
+    {
+      "path": "[[workspace]]/2024",
+      "title": "2024"
     }
   ],
   "frontMatter.site.baseURL": "https://www.webmanajemen.com/"
