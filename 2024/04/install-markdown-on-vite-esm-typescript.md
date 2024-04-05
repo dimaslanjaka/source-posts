@@ -3,7 +3,7 @@ title: Install markdown engine on vite ESM typescript
 description: How to install markdown renderer engine on vite ESM typescript
 date: 2024-04-05T16:30:51+07:00
 thumbnail: https://github.com/dimaslanjaka/source-posts/assets/12471057/fb798a73-27aa-4e74-b063-f72fb66e2596
-updated: 2024-04-05T16:42:57+07:00
+updated: 2024-04-05T17:31:39+07:00
 ---
 
 ![Vite + Markdown](https://github.com/dimaslanjaka/source-posts/assets/12471057/fb798a73-27aa-4e74-b063-f72fb66e2596)
@@ -13,7 +13,7 @@ updated: 2024-04-05T16:42:57+07:00
 ## Install
 
 ```bash
-yarn add -D vite-plugin-markdown @babel/preset-react @babel/preset-typescript @babel/env
+yarn add -D vite-plugin-markdown @babel/preset-react @babel/preset-typescript @babel/env babel-plugin-module-resolver
 ```
 
 ## Setup babel config
