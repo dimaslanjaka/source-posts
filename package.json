@@ -66,7 +66,7 @@
   "dependencies": {
     "@electron/remote": "^2.1.2",
     "@octokit/core": "^5.0.0",
-    "@octokit/graphql": "^7.0.1",
+    "@octokit/graphql": "^8.1.0",
     "@octokit/request": "^6.2.8",
     "@octokit/rest": "^20.0.1",
     "@octokit/types": "^12.5.0",
