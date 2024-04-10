@@ -6,7 +6,7 @@ comments: true
 date: 2022-12-29T19:40:35+07:00
 description: Cara setting github actions agar jalan satu job saja sequentally
 lang: id
-permalink: /id/GitHub/github-actions-run-single-instance.html
+permalink: /GitHub/github-actions-run-single-instance.html
 tags:
   - github
   - github-actions-workflow
