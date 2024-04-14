@@ -4,6 +4,7 @@ date: 2024-02-22T22:56:24+07:00
 updated: 2024-04-14T23:55:50+07:00
 categories: [programming]
 tags: [software]
+thumbnail: https://kingpinbrowser.com/wp-content/uploads/how-disable-webrtc.png
 ---
 
 <p align="center"><img src="https://github.com/K3V1991/How-to-disable-WebRTC-in-Chrome-Firefox-Safari-Opera-and-Edge/blob/main/Disable-WebRTC.png" width="200"></a>
