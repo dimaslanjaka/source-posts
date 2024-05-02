@@ -123,8 +123,11 @@ Include etc/extra/httpd-vhosts.conf
 
 ### Important for XAMPP v3.+
 > **AllowOverride All** deprecated
+> 
 > **Order Allow,Deny** deprecated
+> 
 > **Allow from all** deprecated
+
 ```apache
     <Directory "/xampp/htdocs/">
         Options Indexes FollowSymLinks Includes ExecCGI
