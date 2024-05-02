@@ -133,3 +133,5 @@ Include etc/extra/httpd-vhosts.conf
 
 - Restart XAMPP
 - Access Browser URL http://wp.webmanajemen.com and http://adsense.webmanajemen.com now each domain has their own public directory to serve
+
+![](https://www.automationdojos.com/wp-content/uploads/2021/11/post-xampp-virtualhost-fimg.png)
