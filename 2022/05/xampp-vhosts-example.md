@@ -12,9 +12,7 @@ tags:
 thumbnail: https://www.automationdojos.com/wp-content/uploads/2021/11/post-xampp-virtualhost-fimg.png
 title: XAMPP vhosts config full example and guide
 type: post
-updated: 2023-08-08T07:45:09.000Z
-wordcount: 1099
-
+updated: 2024-05-02T18:36:24+07:00
 ---
 
 ## Sample configuration for xampp virtual hosts 100% work tested 2022
@@ -39,6 +37,38 @@ XAMPP vhosts config full example and guide
 User dimaslanjaka
 Group dimaslanjaka
 </IfModule>
+```
+
+- script create SSL certificate for XAMPP in windows
+
+```batch
+@echo off
+
+@REM save this script into xampp_folder/apache/bin
+
+SETLOCAL EnableDelayedExpansion
+
+@REM Get the directory of the script
+set "script_dir=%~dp0"
+
+set "OPENSSL_CONF=%script_dir%\..\conf\openssl.cnf"
+
+set /p domain="Enter Domain: "
+@REM set "domain=dev.webmanajemen.com"
+set "state=East Java"
+set "country=ID"
+set "organization=Website Management Indonesia"
+set "organizational_unit=Developer"
+set "city=Surabaya"
+
+set "cert_output_dir=%script_dir%\..\conf\crt\%domain%"
+if not exist "%cert_output_dir%" mkdir "%cert_output_dir%" /p
+
+bin\openssl req -new -out "%cert_output_dir%\server.csr" -subj "/C=%country%/ST=%state%/L=%city%/O=%organization%/OU=%organizational_unit%/CN=%domain%"
+bin\openssl rsa -in "%cert_output_dir%\privkey.pem" -out "%cert_output_dir%\server.key" -subj "/C=%country%/ST=%state%/L=%city%/O=%organization%/OU=%organizational_unit%/CN=%domain%"
+bin\openssl x509 -in "%cert_output_dir%\server.csr" -out "%cert_output_dir%\server.crt" -req -signkey %cert_output_dir%\server.key -days 365 -subj "/C=%country%/ST=%state%/L=%city%/O=%organization%/OU=%organizational_unit%/CN=%domain%"
+bin\openssl req -new -sha256 -nodes -out "%cert_output_dir%\server.csr" -keyout "%cert_output_dir%\server.key" -subj "/C=%country%/ST=%state%/L=%city%/O=%organization%/OU=%organizational_unit%/CN=%domain%"
+bin\openssl req -new -sha256 -newkey rsa:2048 -nodes -keyout "%cert_output_dir%\server.key" -x509 -days 365 -out "%cert_output_dir%\server.crt" -subj "/C=%country%/ST=%state%/L=%city%/O=%organization%/OU=%organizational_unit%/CN=%domain%"
 ```
 
 - enable xampp virtual hosts
