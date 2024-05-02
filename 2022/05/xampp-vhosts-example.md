@@ -121,6 +121,23 @@ Include etc/extra/httpd-vhosts.conf
 </VirtualHost>
 ```
 
+### Important for XAMPP v3.+
+> **AllowOverride All** deprecated
+> **Order Allow,Deny** deprecated
+> **Allow from all** deprecated
+```conf
+    <Directory "/xampp/htdocs/">
+        Options Indexes FollowSymLinks Includes ExecCGI
+        # Options Indexes FollowSymLinks # you can using this
+        # AllowOverride All      # Deprecated
+        # Order Allow,Deny       # Deprecated
+        # Allow from all         # Deprecated
+
+        # --New way of doing it
+        Require all granted
+    </Directory>
+```
+
 - Edit `hosts` file
 > specify your own local domain
 > - Windows 10 – `C:\Windows\System32\drivers\etc\hosts`
