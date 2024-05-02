@@ -125,7 +125,7 @@ Include etc/extra/httpd-vhosts.conf
 > **AllowOverride All** deprecated
 > **Order Allow,Deny** deprecated
 > **Allow from all** deprecated
-```conf
+```apache
     <Directory "/xampp/htdocs/">
         Options Indexes FollowSymLinks Includes ExecCGI
         # Options Indexes FollowSymLinks # you can using this
