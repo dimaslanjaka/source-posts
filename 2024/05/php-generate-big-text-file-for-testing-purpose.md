@@ -1,6 +1,8 @@
 ---
-title: [PHP] generate big text file for testing purpose
+title: "[PHP] generate big text file for testing purpose"
 date: 2024-05-10T16:04:23+07:00
+tags: [php]
+categories: [programming]
 ---
 
 This script will generate a text file named `big_text_file.txt` with a size of approximately 10 megabytes. 
