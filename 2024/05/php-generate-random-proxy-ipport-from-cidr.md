@@ -1,6 +1,7 @@
 ---
-title: [PHP] generate random proxy IP:PORT from CIDR
+title: "[PHP] generate random proxy IP:PORT from CIDR"
 date: 2024-05-10T18:47:10+07:00
+updated: 2024-05-13T10:11:24+07:00
 tags: [php]
 categories: [programming]
 ---
