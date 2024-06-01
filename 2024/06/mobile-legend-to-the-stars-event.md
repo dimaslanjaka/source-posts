@@ -4,7 +4,7 @@ description: How to solve event To The Stars Event in Mobile Legends
 date: 2024-06-01T17:14:14+07:00
 tags: ["mobile legends"]
 categories: ["games"]
-thumbnails: https://i.ytimg.com/vi/UcITM0EZCHQ/maxresdefault.jpg
+thumbnail: https://i.ytimg.com/vi/UcITM0EZCHQ/maxresdefault.jpg
 ---
 
 **Mobile Legends** - **To The Star** event - event jalan takdir stage **1-1**
