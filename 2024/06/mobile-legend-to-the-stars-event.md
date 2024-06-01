@@ -9,7 +9,12 @@ thumbnails: https://i.ytimg.com/vi/UcITM0EZCHQ/maxresdefault.jpg
 
 **Mobile Legends** - **To The Star** event - event jalan takdir stage **1-1**
 
-![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/5e64b7ee-cf95-4a60-949e-a4c99bd9251e)
+![stage 1-1](https://github.com/dimaslanjaka/source-posts/assets/12471057/5e64b7ee-cf95-4a60-949e-a4c99bd9251e)
+
+**Mobile Legends** - **To The Star** event - event jalan takdir stage **3-1**
+
+![stage 3-1](https://github.com/dimaslanjaka/source-posts/assets/12471057/76b9ad73-d96c-4254-a64c-a71917a69fab)
+
 
 **Mobile Legends** - **To The Star** event - event jalan takdir stage **4-4**
 
