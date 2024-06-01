@@ -7,5 +7,8 @@ categories: ["games"]
 thumbnails: https://i.ytimg.com/vi/UcITM0EZCHQ/maxresdefault.jpg
 ---
 
-mobile lagends to the star 4-4 jalan takdir
-![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/e0a4ebfa-7b87-48dc-9770-c6f17e895208)
+**Mobile Legends** - **To The Star** event - event jalan takdir stage **1-1**
+![image](https://github.com/dimaslanjaka/source-posts/assets/12471057/5e64b7ee-cf95-4a60-949e-a4c99bd9251e)
+
+**Mobile Legends** - **To The Star** event - event jalan takdir stage **4-4**
+![mobile legends to the star 4-4](https://github.com/dimaslanjaka/source-posts/assets/12471057/e0a4ebfa-7b87-48dc-9770-c6f17e895208)
