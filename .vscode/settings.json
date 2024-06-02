@@ -42,5 +42,9 @@
   },
   "code-runner.saveFileBeforeRun": true,
   "nunjucksTemplate.preserveEmptyLine": 3,
-  "npm.packageManager": "yarn"
+  "npm.packageManager": "yarn",
+  "pasteImage.basePath": "${currentFileDir}",
+  "pasteImage.path": "${currentFileDir}",
+  "pasteImage.showFilePathConfirmInputBox": true,
+  "pasteImage.insertPattern": "/assets/${imageSyntaxPrefix}${imageFilePath}${imageSyntaxSuffix}"
 }

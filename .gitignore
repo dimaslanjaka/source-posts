@@ -2,6 +2,7 @@ Test
 .guid
 /dimaslanjaka
 proxy.txt
+package-lock.json
 
 # olds and backups
 *-old

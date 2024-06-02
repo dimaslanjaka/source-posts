@@ -3,6 +3,7 @@
     "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "formulahendry.code-runner",
-    "k--kato.intellij-idea-keybindings"
+    "k--kato.intellij-idea-keybindings",
+    "eliostruyf.vscode-front-matter"
   ]
 }
