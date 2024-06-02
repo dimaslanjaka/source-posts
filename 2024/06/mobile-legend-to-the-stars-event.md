@@ -58,3 +58,6 @@ updated: 2024-06-02T07:24:18+07:00
 
 ![mobile legends to the star 4-4](https://github.com/dimaslanjaka/source-posts/assets/12471057/e0a4ebfa-7b87-48dc-9770-c6f17e895208)
 
+**Mobile Legends** - **To The Star** event - event jalan takdir stage **4-5**
+
+![stage 4-5](https://github.com/dimaslanjaka/source-posts/assets/12471057/ebf0e335-9aa2-4135-8337-95528ca219b5)
