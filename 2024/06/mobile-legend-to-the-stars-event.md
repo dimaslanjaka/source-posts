@@ -81,3 +81,11 @@ updated: 2024-06-02T07:38:47+07:00
 **Mobile Legends** - **To The Star** event - event jalan takdir stage **5-7**
 
 ![stage 5-7](https://github.com/dimaslanjaka/source-posts/assets/12471057/f2a75d67-b2cd-42a9-8835-2118ecf25c6e)
+
+## Stage 7-1 - 7-7
+
+![stage 7-1](https://github.com/dimaslanjaka/source-posts/assets/12471057/a7933fd9-5904-47b1-9ed2-0f1d4d966470)
+![stage 7-2](https://github.com/dimaslanjaka/source-posts/assets/12471057/ea4b3bca-98f7-4570-9b48-69e70ee9fb85)
+![stage 7-3](https://github.com/dimaslanjaka/source-posts/assets/12471057/9fae6e56-1d05-44eb-b7a6-1692b4ee8751)
+![stage 7-4](https://github.com/dimaslanjaka/source-posts/assets/12471057/1b53f427-6998-4fa1-89b9-0d8ab00afa1d)
+![stage 7-5](https://github.com/dimaslanjaka/source-posts/assets/12471057/9defef2b-59cc-42d3-8a7d-654d895a8c8c)
