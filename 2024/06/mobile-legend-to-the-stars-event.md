@@ -105,7 +105,7 @@ updated: 2024-06-19T17:07:52+07:00
 ### Stage 7-2
 ![stage 7-2](https://github.com/dimaslanjaka/source-posts/assets/12471057/ea4b3bca-98f7-4570-9b48-69e70ee9fb85)
 ### Stage 7-3
-![stage 7-3](https://github.com/dimaslanjaka/source-posts/assets/12471057/9fae6e56-1d05-44eb-b7a6-1692b4ee8751)
+![stage 7-3](https://github.com/dimaslanjaka/source-posts/assets/12471057/c3af09d9-6756-49a2-8306-f3531bff049e)
 ### Stage 7-4
 ![stage 7-4](https://github.com/dimaslanjaka/source-posts/assets/12471057/1b53f427-6998-4fa1-89b9-0d8ab00afa1d)
 ### Stage 7-5
