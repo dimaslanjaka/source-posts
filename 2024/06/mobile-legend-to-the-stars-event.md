@@ -82,6 +82,15 @@ updated: 2024-06-07T10:32:42+07:00
 
 ![stage 5-7](https://github.com/dimaslanjaka/source-posts/assets/12471057/f2a75d67-b2cd-42a9-8835-2118ecf25c6e)
 
+## Stage 6-1 - 6-7
+
+![stage 6-1](https://github.com/dimaslanjaka/source-posts/assets/12471057/f85f60d5-d2cb-4b77-a32c-53e0823ca617)
+![stage 6-2](https://github.com/dimaslanjaka/source-posts/assets/12471057/ca866cc2-e23c-4f6b-8667-c5b29d571f02)
+![stage 6-3](https://github.com/dimaslanjaka/source-posts/assets/12471057/fc26bfd9-c7b3-47f6-acdf-4ce4aed666e2)
+![stage 6-4](https://github.com/dimaslanjaka/source-posts/assets/12471057/8db00ef0-96a1-4a93-86e4-1aa90dd2e1e7)
+![stage 6-5](https://github.com/dimaslanjaka/source-posts/assets/12471057/bc5554fe-20c5-4df4-b79f-fa9a23cca66d)
+
+
 ## Stage 7-1 - 7-7
 ### Stage 7-1
 ![stage 7-1](https://github.com/dimaslanjaka/source-posts/assets/12471057/a7933fd9-5904-47b1-9ed2-0f1d4d966470)
