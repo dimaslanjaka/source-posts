@@ -10,7 +10,11 @@ thumbnail: https://i.ytimg.com/vi/UcITM0EZCHQ/maxresdefault.jpg
 updated: 2024-06-19T17:07:52+07:00
 ---
 
+## Stage 1
+
 **Mobile Legends** - **To The Star** event - event jalan takdir stage **1-1**
+
+## Stage 3
 
 ![stage 1-1](https://github.com/dimaslanjaka/source-posts/assets/12471057/5e64b7ee-cf95-4a60-949e-a4c99bd9251e)
 
@@ -40,6 +44,8 @@ updated: 2024-06-19T17:07:52+07:00
 
 **Mobile Legends** - **To The Star** event - event jalan takdir stage **3-7**
 
+## Stage 4
+
 ![stage 3-7](https://github.com/dimaslanjaka/source-posts/assets/12471057/8aed2877-b36b-4291-b748-56ea9e9a431a)
 
 **Mobile Legends** - **To The Star** event - event jalan takdir stage **4-1**
@@ -68,6 +74,8 @@ updated: 2024-06-19T17:07:52+07:00
 
 **Mobile Legends** - **To The Star** event - event jalan takdir stage **4-7**
 
+## Stage 5
+
 ![stage 4-7](https://github.com/dimaslanjaka/source-posts/assets/12471057/db893fad-6c1b-40e1-9bd2-4a940436893b)
 
 **Mobile Legends** - **To The Star** event - event jalan takdir stage **5-5**
@@ -82,7 +90,7 @@ updated: 2024-06-19T17:07:52+07:00
 
 ![stage 5-7](https://github.com/dimaslanjaka/source-posts/assets/12471057/f2a75d67-b2cd-42a9-8835-2118ecf25c6e)
 
-## Stage 6-1 - 6-7
+## Stage 6
 
 ![stage 6-1](https://github.com/dimaslanjaka/source-posts/assets/12471057/f85f60d5-d2cb-4b77-a32c-53e0823ca617)
 
@@ -99,7 +107,7 @@ updated: 2024-06-19T17:07:52+07:00
 ![stage 6-7](https://github.com/dimaslanjaka/source-posts/assets/12471057/2834d7d4-a3e7-4bfc-a071-29efebf5c830)
 
 
-## Stage 7-1 - 7-7
+## Stage 7
 ### Stage 7-1
 ![stage 7-1](https://github.com/dimaslanjaka/source-posts/assets/12471057/a7933fd9-5904-47b1-9ed2-0f1d4d966470)
 ### Stage 7-2
