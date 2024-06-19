@@ -7,7 +7,7 @@ tags:
 categories:
   - games
 thumbnail: https://i.ytimg.com/vi/UcITM0EZCHQ/maxresdefault.jpg
-updated: 2024-06-07T10:32:42+07:00
+updated: 2024-06-19T17:07:52+07:00
 ---
 
 **Mobile Legends** - **To The Star** event - event jalan takdir stage **1-1**
@@ -89,6 +89,8 @@ updated: 2024-06-07T10:32:42+07:00
 ![stage 6-3](https://github.com/dimaslanjaka/source-posts/assets/12471057/fc26bfd9-c7b3-47f6-acdf-4ce4aed666e2)
 ![stage 6-4](https://github.com/dimaslanjaka/source-posts/assets/12471057/8db00ef0-96a1-4a93-86e4-1aa90dd2e1e7)
 ![stage 6-5](https://github.com/dimaslanjaka/source-posts/assets/12471057/bc5554fe-20c5-4df4-b79f-fa9a23cca66d)
+![stage 6-6](https://github.com/dimaslanjaka/source-posts/assets/12471057/567558ad-dd55-45a5-ae81-cd3079b490d1)
+![stage 6-7](https://github.com/dimaslanjaka/source-posts/assets/12471057/2834d7d4-a3e7-4bfc-a071-29efebf5c830)
 
 
 ## Stage 7-1 - 7-7
