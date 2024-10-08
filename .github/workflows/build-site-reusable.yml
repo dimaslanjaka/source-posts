@@ -57,7 +57,7 @@ jobs:
             ./.yarn/caches
             **/node_modules
             ./yarn.lock
-          key: ${{ runner.os }}-${{ env.node_version }}-${{ hashFiles('_config.yml', '**/yarn.lock') }}
+          key: ${{ runner.os }}-${{ env.node_version }}-${{ hashFiles('**/.husky/hash.txt', '_config.yml', '**/yarn.lock') }}
           restore-keys: |
             ${{ runner.os }}-${{ env.node_version }}
             ${{ runner.os }}-yarn
