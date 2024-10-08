@@ -102,7 +102,7 @@
     "upath": "^2.0.1",
     "yaml": "^2.3.4"
   },
-  "packageManager": "yarn@3.8.0",
+  "packageManager": "yarn@4.5.0",
   "resolutions": {
     "node-libcurl": "4.0.0",
     "cross-spawn": "https://github.com/dimaslanjaka/node-cross-spawn/tarball/private",
