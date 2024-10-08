@@ -34,3 +34,4 @@ yarn.lock
 
 # temporary ignored
 articleGenerator
+.husky/hash.txt
