@@ -2,12 +2,12 @@
 title: Exported variable has or is using name from external module
 description: How to fix exported variable using private type from external module
 date: 2024-02-04T02:04:52+07:00
-updated: 2024-02-04T02:07:22+07:00
+updated: 2024-10-08T18:07:02+07:00
 categories: [programming]
 tags: [typescript]
 ---
 
-In TypeScript, when you have an exported variable that uses a private type from an external module, you may run into issues because private types are not accessible outside of their module. 
+In TypeScript, when you have an exported variable that uses a private type from an external module, you may run into issues because private types are not accessible outside of their module.
 
 answers for exported variable that uses a private type from an external module:
 
@@ -51,14 +51,12 @@ export const yourVariable = {} as X;
 
 done. now the problem fixed
 
-result 
+result
 
-before 
-[![error][1]][1]
+before
+![error](https://i.stack.imgur.com/6zwQS.png)
 
 after
-[![success][2]][2]
+![success](https://i.stack.imgur.com/uVeAs.png)
 
 
-  [1]: https://i.stack.imgur.com/6zwQS.png
-  [2]: https://i.stack.imgur.com/uVeAs.png
