@@ -14,10 +14,10 @@ tags:
 thumbnail: /NodeJS/eslint-prettier-typescript-vscode-esm/thumb.png
 title: Auto format typescript with esm in vscode
 type: post
-updated: 2023-09-02T23:34:20.000Z
-wordcount: 800
-
+updated: 2024-10-14T02:22:35+07:00
 ---
+
+> This configuration deprecated for **ESLint v9**, [Read Here for migrated ESLint v9](./eslint-prettier-typescript.md)
 
 ## CommonJS
 for Non-ESM/CommonJS you can read these article [CommonJS Eslint Prettier Auto Format Typescript Project In VSCode](eslint-prettier-typescript-vscode.md)
@@ -93,6 +93,7 @@ yarn add prettier eslint-config-prettier eslint-plugin-prettier eslint @typescri
   }
 }
 ```
+
 ## Create .prettierrc
 ```jsonc
 {
@@ -104,6 +105,7 @@ yarn add prettier eslint-config-prettier eslint-plugin-prettier eslint @typescri
   "tabWidth": 2
 }
 ```
+
 ## Create .vscode/settings.json
 ```jsonc
 {

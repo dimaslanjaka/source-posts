@@ -7,8 +7,7 @@ categories:
   - programming
 comments: true
 date: 2021-11-28T00:00:00.000Z
-description: How to configure eslint with prettier to automated lint and format
-  codes in typescript project using vscode
+description: How to configure eslint with prettier to automated lint and format codes in typescript project using vscode
 keywords:
   - nodejs
   - eslint
@@ -24,11 +23,11 @@ tags:
 thumbnail: https://i.ytimg.com/vi/lHAeK8t94as/maxresdefault.jpg
 title: Eslint Prettier In Typescript Project Using Vscode
 type: post
-updated: 2023-09-17T00:13:57.000Z
+updated: 2024-10-14T02:22:35+07:00
 webtitle: NodeJS
-wordcount: 2562
-
 ---
+
+> This configuration deprecated for **ESLint v9**, [Read Here for migrated ESLint v9](./eslint-prettier-typescript.md)
 
 ## Auto Lint And Format Typescript Using VSCode With Eslint And Prettier
 
@@ -214,7 +213,7 @@ module.exports = {
 
 ## Create .vscode/settings.json
 this will automate lint and format your codes when saving.
-```jsonc 
+```jsonc
 {
   "files.autoSave": "onWindowChange",
   "editor.codeActionsOnSave": {
