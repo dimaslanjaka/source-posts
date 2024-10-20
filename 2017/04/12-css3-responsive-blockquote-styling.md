@@ -11,11 +11,226 @@ description: CSS3 Blockquote Effects Demo
 lang: en
 tags:
   - css
-thumbnail: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUtlynMMhFXVKgaLk8lcOo_X_6ZTtwmffeOl4rVh8h-EJtJejQ
+thumbnail: https://i.ytimg.com/vi/gyopOTVV7Jk/maxresdefault.jpg
 title: 12 CSS3 Responsive Blockquote Styling
 type: post
-updated: 2023-10-09T07:07:47.000Z
-wordcount: 1039
+updated: 2024-10-20T09:47:48+07:00
 ---
 
-<img height="280" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUtlynMMhFXVKgaLk8lcOo_X_6ZTtwmffeOl4rVh8h-EJtJejQ" width="320"><br>Today i want to reshare css3 for styling blockquote.<br><br><pre>/* <br>// 12 - CSS3 Blockquote Effects Demo<br>// Made with ❤ by @Pawan_Mall<br>// http://www.web-manajemen.blogspot.jp <br>*/<br><br>@import url('http://fonts.googleapis.com/css?family=Montez');<br>@import url(http://fonts.googleapis.com/css?family=Francois+One);<br><br>body{<br>  background: #f5f7fa;<br>  margin:10px;<br>  padding:10px;  <br>}<br><br>blockquote{<br>  display:block;<br>  background: #fff;<br>  padding: 15px 20px 15px 45px;<br>  margin: 0 0 20px;<br>  position: relative;<br>  <br>  /*Font*/<br>  font-family: Georgia, serif;<br>  font-size: 14px;<br>  line-height: 1.2;<br>  color: #666;<br><br>  /*Box Shadow - (Optional)*/<br>  -moz-box-shadow: 2px 2px 15px #ccc;<br>  -webkit-box-shadow: 2px 2px 15px #ccc;<br>  box-shadow: 2px 2px 15px #ccc;<br><br>  /*Borders - (Optional)*/<br>  border-left-style: solid;<br>  border-left-width: 15px;<br>  border-right-style: solid;<br>  border-right-width: 2px;    <br>}<br><br>blockquote::before{<br>  content: "\201C"; /*Unicode for Left Double Quote*/<br>  <br>  /*Font*/<br>  font-family: Georgia, serif;<br>  font-size: 60px;<br>  font-weight: bold;<br>  color: #999;<br>  <br>  /*Positioning*/<br>  position: absolute;<br>  left: 10px;<br>  top:5px;<br>  <br>}<br><br>blockquote::after{<br>  /*Reset to make sure*/<br>  content: "";<br>}<br><br>blockquote a{<br>  text-decoration: none;<br>  background: #eee;<br>  cursor: pointer;<br>  padding: 0 3px;<br>  color: #c76c0c;<br>}<br><br>blockquote a:hover{<br> color: #666;<br>}<br><br>blockquote em{<br>  font-style: italic;<br>}<br><br>  /*Default Color Palette*/<br>blockquote.default{ <br>  border-left-color: #656d77;<br>  border-right-color: #434a53;  <br>}<br><br>/*Grapefruit Color Palette*/<br>blockquote.grapefruit{<br>  border-left-color: #ed5565;<br>  border-right-color: #da4453;<br>}<br><br>/*Bittersweet Color Palette*/<br>blockquote.bittersweet{<br>  border-left-color: #fc6d58;<br>  border-right-color: #e95546;<br>}<br><br>/*Sunflower Color Palette*/<br>blockquote.sunflower{<br>  border-left-color: #ffcd69;<br>  border-right-color: #f6ba59;<br>}<br><br>/*Grass Color Palette*/<br>blockquote.grass{<br>  border-left-color: #9fd477;<br>  border-right-color: #8bc163;<br>}<br><br>/*Mint Color Palette*/<br>blockquote.mint{<br>  border-left-color: #46cfb0;<br>  border-right-color: #34bc9d;<br>}<br><br>/*Aqua Color Palette*/<br>blockquote.aqua{<br>  border-left-color: #4fc2e5;<br>  border-right-color: #3bb0d6;<br>}<br><br>/*Blue Jeans Color Palette*/<br>blockquote.bluejeans{<br>  border-left-color: #5e9de6;<br>  border-right-color: #4b8ad6;<br>}<br><br>/*Lavander Color Palette*/<br>blockquote.lavander{<br>  border-left-color: #ad93e6;<br>  border-right-color: #977bd5;<br>}<br><br>/*Pinkrose Color Palette*/<br>blockquote.pinkrose{<br>  border-left-color: #ed87bd;<br>  border-right-color: #d870a9;<br>}<br><br>/*Light Color Palette*/<br>blockquote.light{<br>  border-left-color: #f5f7fa;<br>  border-right-color: #e6e9ed;<br>}<br><br>/*Gray Color Palette*/<br>blockquote.gray{<br>  border-left-color: #ccd1d8;<br>  border-right-color: #aab2bc;<br>}<br><br><br>/* These CSS classes used just for Demo purpose */<br>.heading{<br>   font-family:Montez;<br>   text-align:center;<br>   font-size:30px;<br>}<br>code{<br>  color:#da4453;<br>}<br>span{<br>  font-weight:bolder;<br>  <br>}<br>h1{<br>  text-align:left;<br>  font-size:16px;<br>  font-family: 'Francois One', sans-serif;<br>}<br><br>span.Cdefault{<br>  color:#434a53;<br>}<br>span.Cgrapefruit{<br>  color:#da4453;<br>}<br>span.Cbittersweet{<br>  color:#e95546;<br>}<br>span.Csunflower{<br>  color:#f6ba59;<br>}<br>span.Cgrass{<br>  color:#8bc163;<br>}<br>span.Cmint{<br>  color:#34bc9d;<br>}<br>span.Caqua{<br>  color:#3bb0d6;<br>}<br>span.Cbluejeans{<br>  color:#4b8ad6;<br>}<br>span.Clavander{<br>  color:#977bd5;<br>}<br>span.Cpinkrose{<br>  color:#d870a9;<br>}<br>span.Clight{<br>  color:#e6e9ed;<br>}<br>span.Cgray{<br>  color:#aab2bc;<br>}</pre><br><h3>Demo:</h3>{% codepen https://codepen.io/dimaslanjaka/pen/aWpXJY default_tab=result height=500 %}<br><br><b>Incoming Terms:</b> <i>css3 blockquote | styling blockquote | css for blockquote | Responsive Blockquote | How to make cool and simple clearly <blockqiote> | awesome blockquote | 12 css | css3</blockqiote></i>
+![](https://i.ytimg.com/vi/gyopOTVV7Jk/maxresdefault.jpg)
+Today i want to reshare css3 for styling blockquote.
+
+```css
+/*
+// 12 - CSS3 Blockquote Effects Demo
+// Made with ❤ by @Pawan\_Mall
+// http://www.web-manajemen.blogspot.jp
+*/
+
+@import url('http://fonts.googleapis.com/css?family=Montez');
+@import url(http://fonts.googleapis.com/css?family=Francois+One);
+
+body{
+  background: #f5f7fa;
+  margin:10px;
+  padding:10px;
+}
+
+blockquote{
+  display:block;
+  background: #fff;
+  padding: 15px 20px 15px 45px;
+  margin: 0 0 20px;
+  position: relative;
+
+  /*Font*/
+  font-family: Georgia, serif;
+  font-size: 14px;
+  line-height: 1.2;
+  color: #666;
+
+  /*Box Shadow - (Optional)*/
+  -moz-box-shadow: 2px 2px 15px #ccc;
+  -webkit-box-shadow: 2px 2px 15px #ccc;
+  box-shadow: 2px 2px 15px #ccc;
+
+  /*Borders - (Optional)*/
+  border-left-style: solid;
+  border-left-width: 15px;
+  border-right-style: solid;
+  border-right-width: 2px;
+}
+
+blockquote::before{
+  content: "\\201C"; /*Unicode for Left Double Quote*/
+
+  /*Font*/
+  font-family: Georgia, serif;
+  font-size: 60px;
+  font-weight: bold;
+  color: #999;
+
+  /*Positioning*/
+  position: absolute;
+  left: 10px;
+  top:5px;
+
+}
+
+blockquote::after{
+  /*Reset to make sure*/
+  content: "";
+}
+
+blockquote a{
+  text-decoration: none;
+  background: #eee;
+  cursor: pointer;
+  padding: 0 3px;
+  color: #c76c0c;
+}
+
+blockquote a:hover{
+ color: #666;
+}
+
+blockquote em{
+  font-style: italic;
+}
+
+  /*Default Color Palette*/
+blockquote.default{
+  border-left-color: #656d77;
+  border-right-color: #434a53;
+}
+
+/*Grapefruit Color Palette*/
+blockquote.grapefruit{
+  border-left-color: #ed5565;
+  border-right-color: #da4453;
+}
+
+/*Bittersweet Color Palette*/
+blockquote.bittersweet{
+  border-left-color: #fc6d58;
+  border-right-color: #e95546;
+}
+
+/*Sunflower Color Palette*/
+blockquote.sunflower{
+  border-left-color: #ffcd69;
+  border-right-color: #f6ba59;
+}
+
+/*Grass Color Palette*/
+blockquote.grass{
+  border-left-color: #9fd477;
+  border-right-color: #8bc163;
+}
+
+/*Mint Color Palette*/
+blockquote.mint{
+  border-left-color: #46cfb0;
+  border-right-color: #34bc9d;
+}
+
+/*Aqua Color Palette*/
+blockquote.aqua{
+  border-left-color: #4fc2e5;
+  border-right-color: #3bb0d6;
+}
+
+/*Blue Jeans Color Palette*/
+blockquote.bluejeans{
+  border-left-color: #5e9de6;
+  border-right-color: #4b8ad6;
+}
+
+/*Lavander Color Palette*/
+blockquote.lavander{
+  border-left-color: #ad93e6;
+  border-right-color: #977bd5;
+}
+
+/*Pinkrose Color Palette*/
+blockquote.pinkrose{
+  border-left-color: #ed87bd;
+  border-right-color: #d870a9;
+}
+
+/*Light Color Palette*/
+blockquote.light{
+  border-left-color: #f5f7fa;
+  border-right-color: #e6e9ed;
+}
+
+/*Gray Color Palette*/
+blockquote.gray{
+  border-left-color: #ccd1d8;
+  border-right-color: #aab2bc;
+}
+
+
+/* These CSS classes used just for Demo purpose */
+.heading{
+   font-family:Montez;
+   text-align:center;
+   font-size:30px;
+}
+code{
+  color:#da4453;
+}
+span{
+  font-weight:bolder;
+
+}
+h1{
+  text-align:left;
+  font-size:16px;
+  font-family: 'Francois One', sans-serif;
+}
+
+span.Cdefault{
+  color:#434a53;
+}
+span.Cgrapefruit{
+  color:#da4453;
+}
+span.Cbittersweet{
+  color:#e95546;
+}
+span.Csunflower{
+  color:#f6ba59;
+}
+span.Cgrass{
+  color:#8bc163;
+}
+span.Cmint{
+  color:#34bc9d;
+}
+span.Caqua{
+  color:#3bb0d6;
+}
+span.Cbluejeans{
+  color:#4b8ad6;
+}
+span.Clavander{
+  color:#977bd5;
+}
+span.Cpinkrose{
+  color:#d870a9;
+}
+span.Clight{
+  color:#e6e9ed;
+}
+span.Cgray{
+  color:#aab2bc;
+}
+```
+
+
+### Demo:
+
+{% codepen https://codepen.io/dimaslanjaka/pen/aWpXJY default_tab=result height=500 %}
+
+**Incoming Terms:** _css3 blockquote | styling blockquote | css for blockquote | Responsive Blockquote | How to make cool and simple clearly | awesome blockquote | 12 css | css3_
