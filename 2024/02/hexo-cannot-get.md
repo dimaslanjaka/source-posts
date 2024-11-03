@@ -2,6 +2,7 @@
 title: Hexo Cannot GET /
 description: How to fix Hexo Cannot GET /
 date: 2024-02-24T21:58:30+07:00
+updated: 2024-11-03T16:28:25+07:00
 tags: [javascript, typescript]
 categories: [programming]
 ---
@@ -25,12 +26,22 @@ index_generator:
 ```
 
 ## Check the URL and Paths:
-Ensure that you are accessing the correct URL. 
-Hexo may be configured to generate content under different paths. 
+Ensure that you are accessing the correct URL.
+Hexo may be configured to generate content under different paths.
 For example, if your site is located in a subdirectory, you might need to access `http://localhost:4000/subdirectory/`
 
+## Missing markdown renderer
+
+Ensure your dependencies has `hexo-renderer-marked` or `hexo-renderer-markdown-it`, or install by:
+
+```bash
+npm i hexo-renderer-marked
+# npm i hexo-renderer-markdown-it
+```
+
 ## Reinstall Dependencies:
-Sometimes, issues can arise from corrupted dependencies. 
+
+Sometimes, issues can arise from corrupted dependencies.
 You can try deleting the node_modules directory and reinstalling dependencies:
 
 ```bash
