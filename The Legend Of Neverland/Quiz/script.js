@@ -77,7 +77,8 @@ let quizSrc = [];
 
 function jQueryMethod() {
   // ul questions
-  let inputSearch = document.getElementById('search-questions');
+  const searchElementQuery = '#search-questions';
+  const inputSearch = document.querySelector(searchElementQuery);
 
   // searcher
   let searchLi = function (filter) {
@@ -213,7 +214,7 @@ function jQueryMethod() {
     doSearch();
   });
 
-  const jqInput = jQuery(inputSearch);
+  const jqInput = jQuery(searchElementQuery);
   const inputListener = () => searchLi(jqInput.val());
   let listenerTimer;
   // on input typed and changed https://stackoverflow.com/a/7757327/6404439
