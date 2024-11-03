@@ -2,27 +2,28 @@
   "editor.tabCompletion": "on",
   "emmet.excludeLanguages": [],
   "emmet.includeLanguages": {
-	"markdown": "html"
+    "markdown": "html"
   },
   "[markdown]": {
-	"editor.wordWrap": "on",
-	"editor.quickSuggestions": {
-	  "comments": true,
-	  "strings": true,
-	  "other": true
-	}
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "comments": true,
+      "strings": true,
+      "other": true
+    }
   },
   "[ts]": {
-	"editor.wordWrap": "on",
-	"editor.defaultFormatter": "esbenp.prettier-vscode",
-	"editor.formatOnSave": true
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
   },
   "emmet.showSuggestionsAsSnippets": true,
   "files.autoSave": "afterDelay",
   "editor.formatOnSave": false,
   "files.exclude": {
-	"**/node_modules": true
+    "**/node_modules": true
   },
   "code-runner.clearPreviousOutput": true,
   "code-runner.saveAllFilesBeforeRun": true,
+  "eslint.useFlatConfig": true
 }
