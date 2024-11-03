@@ -26,6 +26,7 @@ yarn.lock
 # master project
 /nodejs-esm-starter
 /posts
+/extensions
 
 # front matter project
 /db.json
