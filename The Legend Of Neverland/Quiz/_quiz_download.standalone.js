@@ -25,7 +25,7 @@ async function main() {
               .toString('utf-8')
               .split(/\r?\n/)
               .map(line => line.replace(/\s+/g, ' ').trim())
-              .filter(line => line.length > 0)
+              .filter(line => line.length > 0 && line.includes("(X)") && line.includes("(O)"))
               .sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()))
               .map(line => {
                 line = line.trim();
