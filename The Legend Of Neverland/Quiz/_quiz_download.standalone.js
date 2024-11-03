@@ -1,115 +1,66 @@
-// single runner
-
 const axios = require('axios');
-const fs = require('fs');
-const { join } = require('path');
+const fs = require('fs-extra');
 const path = require('path');
 const through = require('through2');
 const ansiColors = require('ansi-colors');
+const terser = require('terser');
 
 async function main() {
-  const quizfile = path.join(__dirname, 'quiz.txt');
-  await axios.default
-	.get('http://backend.webmanajemen.com/tlon/quiz.txt', {
-	  method: 'get',
-	  responseType: 'stream',
-	  maxRedirects: 10
-	})
-	.then(function (response) {
-	  /**
-	   * @type {import('stream').Stream}
-	   */
-	  const streamData = response.data;
-	  streamData
-		.pipe(
-		  through.obj(function (file, _, next) {
-			const trim = file
-			  .toString('utf-8')
-			  .split(/\r?\n/gm)
-			  .filter((str) => str.trim().length > 0)
-			  .map((str) => str.trim())
-			  .sort(function (a, b) {
-				return a === b ? 0 : a < b ? -1 : 1;
-			  })
-			  .map((str) => {
-				str = str.trim();
-				if (!str.endsWith('(O)') || !str.endsWith('(X)')) {
-				  console.log(ansiColors.red('invalid'), str);
-				}
-				return str;
-			  })
-			  .join('\n');
-			file = Buffer.from(trim);
-			return next(null, file);
-		  })
-		)
-		.pipe(fs.createWriteStream(quizfile));
-	})
-	.catch(function (error) {
-	  if (error.response) {
-		// The request was made and the server responded with a status code
-		// that falls out of the range of 2xx
-		console.log(error.response.data);
-		console.log(error.response.status);
-		console.log(error.response.headers);
-	  } else if (error.request) {
-		// The request was made but no response was received
-		// `error.request` is an instance of XMLHttpRequest in the browser and an instance of
-		// http.ClientRequest in node.js
-		console.log(error.request);
-	  } else {
-		// Something happened in setting up the request that triggered an Error
-		console.log('Error', error.message);
-	  }
-	  console.log(error.config);
-	});
+  const quizFile = path.join(__dirname, 'quiz.txt');
+  const inputScript = path.join(__dirname, 'script.js');
+  const outputScript = path.join(__dirname, 'script.min.js');
 
-  // minify script.js
-  const terser = require('terser');
+  try {
+    // Fetch and process quiz file
+    const response = await axios.get('http://backend.webmanajemen.com/tlon/quiz.txt', {
+      responseType: 'stream',
+      maxRedirects: 10
+    });
 
-  let input = join(__dirname, 'script.js');
-  let output = join(__dirname, 'script.min.js');
-  await terser.minify(fs.readFileSync(input, 'utf-8')).then(function (result) {
-	if (typeof result.code === 'string') {
-	  fs.writeFileSync(output, result.code);
-	} else {
-	  console.log(result);
-	}
-  });
+    await new Promise((resolve, reject) => {
+      response.data
+        .pipe(
+          through.obj(function (chunk, _, next) {
+            const processedData = chunk
+              .toString('utf-8')
+              .split(/\r?\n/)
+              .map(line => line.replace(/\s+/g, ' ').trim())
+              .filter(line => line.length > 0)
+              .sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()))
+              .map(line => {
+                line = line.trim();
+                if (!line.endsWith('(O)') && !line.endsWith('(X)')) {
+                  console.log(ansiColors.red('invalid'), line);
+                }
+                return line;
+              })
+              .join('\n');
+            next(null, Buffer.from(processedData));
+          })
+        )
+        .pipe(fs.createWriteStream(quizFile))
+        .on('finish', resolve)
+        .on('error', reject);
+    });
 
-  /*
-  // minify table.html
-  const hmt = require('html-minifier-terser');
+    // Minify script.js
+    const scriptContent = await fs.readFile(inputScript, 'utf-8');
+    const result = await terser.minify(scriptContent);
 
-  input = join(__dirname, 'table.html');
-  output = join(__dirname, 'table.min.html');
-  await hmt
-	.minify(fs.readFileSync(input, 'utf-8'), {
-	  removeAttributeQuotes: false,
-	  collapseWhitespace: true,
-	  preserveLineBreaks: true,
-	  removeComments: false
-	})
-	.then((result) => {
-	  if (typeof result === 'string')
-		fs.writeFileSync(
-		  output,
-		  result.replace(
-			'<!-- include Quiz/quiz.txt -->',
-			fs.readFileSync(join(__dirname, 'quiz.txt'))
-		  )
-		);
-	});
+    if (result.code) {
+      await fs.writeFile(outputScript, result.code);
+    } else {
+      console.error('Terser minification failed:', result);
+    }
 
-  // minify style.css
-  const CleanCSS = require('clean-css');
-
-  input = join(__dirname, 'style.css');
-  output = join(__dirname, 'style.min.css');
-  const result = new CleanCSS({}).minify(
-	fs.readFileSync(input, 'utf-8')
-  ).styles;
-  if (typeof result === 'string') fs.writeFileSync(output, result);*/
+  } catch (error) {
+    console.error('An error occurred:', error.message || error);
+    if (error.response) {
+      console.error('Response:', error.response.data, error.response.status, error.response.headers);
+    } else if (error.request) {
+      console.error('No response received:', error.request);
+    }
+  }
 }
 
 main();
