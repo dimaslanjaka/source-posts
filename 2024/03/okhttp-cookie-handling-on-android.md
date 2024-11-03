@@ -1,8 +1,13 @@
 ---
 title: OkHttp cookie handling on android (webview supported)
 date: 2024-03-17T09:06:22+07:00
-categories: [programming]
-tags: [java, kotlin, android]
+categories:
+    - programming
+tags:
+    - java
+    - kotlin
+    - android
+updated: 2024-11-03T17:55:56+07:00
 ---
 
 Here how i implement cookie handling for android lollipop - tiramisu and also jvm and non-persistent connection.
@@ -201,12 +206,9 @@ val clientBuilder = OkHttpClient.Builder()
 clientBuilder.cookieJar(WebkitCookieManager(CookieManager.getInstance(), binding!!webview, applicationContext))
 ```
 
-[![declaration of okhttp][1]][1]
+![declaration of okhttp][okhttp-cookie-handling-on-android/1AcJt.png]
 
-[![on intercept section create connection][2]][2]
+![on intercept section create connection][okhttp-cookie-handling-on-android/EgV2P.png]
 
 this work and tested, when i clear cookies the value of cookies on website changed, otherwise all same until expiration date of cookie.
 
-
-  [1]: https://i.stack.imgur.com/1AcJt.png
-  [2]: https://i.stack.imgur.com/EgV2P.png
