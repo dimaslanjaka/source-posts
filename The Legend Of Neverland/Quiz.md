@@ -17,8 +17,8 @@ updated: 2024-11-03T18:30:06+07:00
 ---
 
 > when this page errors you can try [Quiz the legend of neverland questions and answers beta version](/test-unit/quiz.html)
-
-<!-- troubleshoot (missing, incorrect quiz) report to +6285655667573 via whatsapp -->
+>
+> troubleshoot (missing, incorrect quiz) report to **webmanajemen@gmail.com** or discord **L3n4r0x#5266**
 
 <!-- include Quiz/table.html -->
 <div id="quiz-debug"></div>

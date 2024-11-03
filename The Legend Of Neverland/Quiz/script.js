@@ -73,17 +73,11 @@ function escapeRegExp(string) {
   return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
 }
 
-// let quizUrls = [
-//   'https://raw.githubusercontent.com/dimaslanjaka/source-posts/posts/The%20Legend%20Of%20Neverland/Quiz/quiz.txt',
-//   'https://backend.webmanajemen.com/tlon/quiz.php?show'
-// ];
 let quizSrc = [];
 
 function jQueryMethod() {
   // ul questions
-  //let questions = document.getElementById('questions');
   let inputSearch = document.getElementById('search-questions');
-  //let O_only = document.getElementById('O_only');
 
   // searcher
   let searchLi = function (filter) {
@@ -169,7 +163,6 @@ function jQueryMethod() {
       'https://raw.githubusercontent.com/dimaslanjaka/source-posts/posts/The%20Legend%20Of%20Neverland/Quiz/quiz.txt'
     );
   });
-  // quizUrls.forEach();
 
   function processResponse(data) {
     if (typeof data === 'string') {
