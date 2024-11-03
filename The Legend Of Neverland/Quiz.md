@@ -13,8 +13,7 @@ tags:
 thumbnail: /The Legend Of Neverland/Quiz/SCENIC-QUIZ.jpg
 title: Quiz The Legend Of Neverland
 type: post
-updated: 2023-12-24T17:59:36+07:00
-wordcount: 2129
+updated: 2024-11-03T18:30:06+07:00
 ---
 
 > when this page errors you can try [Quiz the legend of neverland questions and answers beta version](/test-unit/quiz.html)
@@ -43,6 +42,8 @@ There will be lots of general knowledge questions thrown at you, and here are th
 ## Changelog
 > The Legend Of Neverland Quiz Data Changelog
 
+### 2024-11-03
+- Priority backend server first
 ### 2023-01-11
 - change quiz **The tunnel that connects with Cabala is called Path of Cremation** to **(X)**
 - change quiz **The Tunnel That Connects With Cabala Is Called Parh Of Fire Sword** to **(O)**
