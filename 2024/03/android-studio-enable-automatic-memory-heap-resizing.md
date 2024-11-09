@@ -1,6 +1,7 @@
 ---
 title: enable automatic memory heap resizing of android studio
 date: 2024-03-03T01:44:44+07:00
+updated: 2024-03-03T01:44:44+07:00
 categories: [programming]
 tags: [java]
 ---

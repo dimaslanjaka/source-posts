@@ -1,6 +1,7 @@
 ---
 title: List of Chrome Driver command line arguments
 date: 2024-04-25T14:02:47+07:00
+updated: 2024-04-25T14:02:47+07:00
 categories: [programming]
 ---
 

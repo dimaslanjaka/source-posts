@@ -1,6 +1,7 @@
 ---
 title: Include livereload in spring boot web
 date: 2024-02-09T09:32:14+07:00
+updated: 2024-02-09T09:32:14+07:00
 categories: [programming]
 tags: [java, kotlin]
 thumbnail: https://i.ytimg.com/vi/A109ZrIHPiQ/hqdefault.jpg

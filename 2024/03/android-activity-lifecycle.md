@@ -3,6 +3,7 @@ title: Android Activity lifecycle
 tags: [kotlin, java, android]
 categories: [programming]
 date: 2024-03-25T19:23:10+07:00
+updated: 2024-03-25T19:23:10+07:00
 ---
 
 ## is `onStart` or `onCreate` first will be triggered in android activity?

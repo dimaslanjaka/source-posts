@@ -1,6 +1,7 @@
 ---
 title: Turn git log history into markdown
 date: 2024-03-16T02:18:05+07:00
+updated: 2024-03-16T02:18:05+07:00
 tags: [github, bash]
 categories: [programming]
 ---

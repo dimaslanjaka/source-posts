@@ -1,12 +1,13 @@
 ---
 title: "[PHP] generate big text file for testing purpose"
 date: 2024-05-10T16:04:23+07:00
+updated: 2024-05-10T16:04:23+07:00
 tags: [php]
 categories: [programming]
 ---
 
-This script will generate a text file named `big_text_file.txt` with a size of approximately 10 megabytes. 
-You can adjust the size by changing the value of `$fileSizeMB`. 
+This script will generate a text file named `big_text_file.txt` with a size of approximately 10 megabytes.
+You can adjust the size by changing the value of `$fileSizeMB`.
 The script generates random strings of characters to fill the file.
 
 ```php

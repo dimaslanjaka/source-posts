@@ -1,6 +1,7 @@
 ---
 title: react-dom server generate static html from react elements
 date: 2023-09-28T13:34:23+07:00
+updated: 2023-09-28T13:34:23+07:00
 categories: [programming]
 tags: [react, javascript, typescript]
 ---

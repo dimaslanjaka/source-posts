@@ -4,6 +4,7 @@ description: Here are some suggestions for setting up VM options in IntelliJ IDE
 date: 2024-02-27T21:39:32+07:00
 categories: [programming]
 tags: [tips & tricks, java, kotlin]
+updated: 2024-02-27T21:39:32+07:00
 ---
 
 When configuring IntelliJ IDEA's VM options, we recommend that you  consider the available memory on your computer, in this case 8GB of RAM.

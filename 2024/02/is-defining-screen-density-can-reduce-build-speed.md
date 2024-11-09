@@ -1,9 +1,17 @@
 ---
-title: is defining screen density on gradle.build can reduce build time ?
+title: is defining screen density can reduce build time ?
 date: 2024-02-28T20:27:35+07:00
-categories: [programming]
-tags: [kotlin, java, android, gradle, groovy]
+updated: 2024-11-09T15:50:08+07:00
+categories:
+    - programming
+tags:
+    - kotlin
+    - java
+    - android
+    - gradle
+    - groovy
 permalink: 2024/02/is-defining-screen-density-on-gradlebuild-can-reduce-build-time.html
+description: is defining screen density on gradle.build can reduce build time ?
 ---
 
 Setting screen density in  an Android project's "build.gradle" file usually has no direct impact on build time.
@@ -14,7 +22,7 @@ This is not configured at build time.
 
 To clarify, when you set screen density in the 'build.gradle' file, you typically specify different versions of the drawable resource for different screen densities.
 
- For example: 
+ For example:
 
 gradle
 
@@ -33,7 +41,7 @@ android {
 
 This configuration is more about generating APKs with different drawables for different screen densities and is not directly related to  build times.
 
- To improve  your Android project build time, you may want to consider other strategies such as: 
+ To improve  your Android project build time, you may want to consider other strategies such as:
 
 1.  **Caching:** Utilize Gradle's built-in caching mechanisms to avoid redundant work in subsequent builds.
 

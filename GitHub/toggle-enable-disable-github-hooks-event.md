@@ -1,13 +1,17 @@
 ---
-title: Toggle enable/disable github hooks event
+title: Toggle github hooks event
 description: How to toggle enable/disable github hooks event
 date: 2024-02-11T20:31:05+07:00
-categories: [programming]
-tags: [bash, github]
+categories:
+  - programming
+tags:
+  - bash
+  - github
+updated: 2024-11-09T15:53:36+07:00
 ---
 
-Pre-commit hooks are scripts that run locally before a commit is made. 
-They are not specific to GitHub but can be part of your local development environment. 
+Pre-commit hooks are scripts that run locally before a commit is made.
+They are not specific to GitHub but can be part of your local development environment.
 Tools like `pre-commit` allow you to configure and run hooks before each commit.
 
 ## enable git hooks

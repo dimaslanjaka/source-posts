@@ -2,12 +2,13 @@
 title: How to use kotlin-bom?
 description: To use the Kotlin BOM, you typically follow these steps
 date: 2024-02-26
+updated: 2024-02-26
 permalink: 2024/02/how-to-use-kotlin-bom.html
 ---
 
 In **Kotlin**, a bill of materials is a more centralized way to manage dependencies. This allows you to specify a set of dependencies and their versions in one place, making it easier to manage and update dependencies across your projects.
- 
-To use **Kotlin BOM**, you typically follow these steps: 
+
+To use **Kotlin BOM**, you typically follow these steps:
 
 ## Add the BOM Dependency to Your Build File:
 
@@ -66,7 +67,7 @@ The following is an example of using the **ResolutionStrategy** block in the roo
 
 For example i will set the kotlin version in variable
 
-#### `build.gradle` file: 
+#### `build.gradle` file:
 
 ```gradle
 ext {
