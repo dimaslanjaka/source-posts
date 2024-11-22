@@ -1,7 +1,7 @@
 ---
 title: enable automatic memory heap resizing of android studio
 date: 2024-03-03T01:44:44+07:00
-updated: 2024-03-03T01:44:44+07:00
+updated: 2024-11-22T08:26:49+07:00
 categories: [programming]
 tags: [java]
 ---
@@ -32,7 +32,7 @@ Keep in mind that setting the maximum heap size too high might cause issues if y
 
 To add garbage collection options and parallelism while limiting the maximum heap size to 1GB in Android Studio, you can modify the `studio.vmoptions` file. Here's an example configuration:
 
-java
+### Android Studio
 
 ```
 # custom Android Studio VM options
@@ -54,6 +54,63 @@ java
 -XX:MaxNewSize=512m
 
 # Enable automatic heap resizing
+-XX:+UseAdaptiveSizePolicy
+```
+
+### Intellij IDEA (Community or Ultimate)
+
+```
+# Use the server JVM, optimized for long-running applications with more aggressive optimizations.
+-server 
+
+# Aim to keep GC pause times under 200ms. This affects how the JVM manages memory.
+-XX:MaxGCPauseMillis=200
+
+# Trigger garbage collection when 45% of the heap is occupied. Helps manage memory pressure.
+-XX:InitiatingHeapOccupancyPercent=45
+
+# Set the ratio of the Eden space (young generation) to the survivor space.
+# A ratio of 8 means the Eden space is 8 times larger than a survivor space.
+-XX:SurvivorRatio=8
+
+# Allow flushing of compiled code from the code cache to prevent it from running out of memory.
+-XX:+UseCodeCacheFlushing
+
+# Reserve 128MB for the code cache, which stores JIT-compiled code.
+-XX:ReservedCodeCacheSize=128m
+
+# Enable assertions during runtime for debugging purposes.
+-ea
+
+# Disable caching of canonicalized file path strings. 
+# This is often useful when working with networked or temporary file systems.
+-Dsun.io.useCanonCaches=false
+
+
+# ===================
+# Custom Android Studio VM options
+# ===================
+
+# Set the maximum heap size for the JVM to 1GB. Controls the upper limit of memory usage.
+-Xmx1g
+
+# Set the initial heap size to 256MB. This is the starting memory allocation.
+-Xms256m
+
+# Enable parallel garbage collection to improve throughput by using multiple threads.
+-XX:+UseParallelGC
+
+# Enable the concurrent garbage collector, which works alongside the application
+# (used in conjunction with parallel GC for balanced performance).
+-XX:+UseConcMarkSweepGC
+
+# Set the initial size of the young generation (Eden + survivor spaces) to 512MB.
+-XX:NewSize=512m
+
+# Set the maximum size of the young generation to 512MB.
+-XX:MaxNewSize=512m
+
+# Enable adaptive resizing of heap spaces to improve performance dynamically based on application behavior.
 -XX:+UseAdaptiveSizePolicy
 ```
 
