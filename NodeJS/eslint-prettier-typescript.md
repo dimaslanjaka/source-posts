@@ -13,7 +13,7 @@ keywords:
   - eslint
   - javascript
   - typescript
-updated: 2024-10-14T02:30:32+07:00
+updated: 2025-07-05T19:29:12+07:00
 ---
 
 ## Install dependencies
@@ -325,7 +325,10 @@ Create **.vscode/settings.json**
 {
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true // let ESLint take formating and linting
-  }
+  },
+  // ESLint v9 need to using flat config
+  "eslint.useFlatConfig": true,
+  "eslint.experimental.useFlatConfig": true
 }
 ```
 
