@@ -1,7 +1,7 @@
 ---
 title: Yarn NPM Registry Configuration
 description: Example configuration for setting up Yarn to use a custom NPM registry and authentication.
-date: 2025-07-19
+date: 2025-07-19T16:40:01+07:00
 tags:
   - yarn
 ---
