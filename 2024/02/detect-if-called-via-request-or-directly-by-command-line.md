@@ -1,10 +1,12 @@
 ---
-title: Detect NodeJS if called using import or directly
+title: Detect if a Node.js File Is Run Directly or Imported
+description: Learn how to check if a Node.js file is executed via CLI (node path-to-file) or loaded using require or import. Supports both CommonJS and ES modules.
 date: 2024-02-23T18:16:51+07:00
-description: How can I detect if my NodeJS file is called using node file path `node path-to-file` or `require('path-to-file')` or `import 'path-to-file'` ?
 tags:
+  - esm
   - javascript
   - typescript
+  - commonjs
 categories:
   - programming
 keywords:
@@ -13,7 +15,7 @@ keywords:
   - require
   - meta
 slug: detect-nodejs-called-by-import
-updated: 2024-02-23T18:33:33+07:00
+updated: 2025-07-25T00:53:36Z
 ---
 
 ## CommonJS
@@ -67,6 +69,48 @@ if (esMain(import.meta)) {
     console.log('required as a module');
 }
 ```
+
+### Support ESM and CJS
+
+If you're writing Node.js code that should behave differently when run directly vs. imported as a module, you need a reliable way to detect how it's being executed.
+
+The following snippet works across all module formats: `.cjs`, `.mjs`, and `.js` (depending on your project setup). It checks whether the file was invoked via the CLI (`node file.js`) or imported (`require()` or `import`).
+
+```js
+// Detect if the script is run directly in both CommonJS and ESM
+let isMain = false;
+
+try {
+  // CommonJS detection
+  if (
+    typeof require !== "undefined" &&
+    typeof module !== "undefined" &&
+    require.main === module
+  ) {
+    isMain = true;
+  }
+} catch (_e) {
+  // Ignore errors in ESM environments
+}
+
+try {
+  // ES Module detection
+  const mainArg = process.argv[1] && path.resolve(process.argv[1]);
+  if (mainArg && import.meta.url === pathToFileURL(mainArg).href) {
+    isMain = true;
+  }
+} catch (_e) {
+  // Ignore errors in CommonJS environments
+}
+
+if (isMain) {
+  console.log("Invoked from CLI");
+} else {
+  console.log("Not invoked from CLI");
+}
+```
+
+> ✅ This approach works seamlessly in both CommonJS and ES Modules, making it ideal for packages or scripts that support multiple module systems.
 
 In this example, if you run `main.mjs` directly using the `main.mjs` node, you will see the output: "This module is the main module.
 " If you import `main.mjs` into another ESM module using `import './main.mjs';`, you will see the output **This module will be imported as a module.** Note  the ESM file extension.
