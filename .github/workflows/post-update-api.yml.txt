@@ -43,7 +43,11 @@ jobs:
           repository: dimaslanjaka/source-posts
           token: '${{ secrets.ACCESS_TOKEN }}'
       - name: update submodule
-        run: bash -e ./bin/submodule-install
+        shell: bash
+        run: |
+          npm install -g rimraf binary-collections@https://raw.githubusercontent.com/dimaslanjaka/bin/master/releases/bin.tgz
+          npx rimraf .git/modules
+          npx submodule-install
       - uses: actions/cache@v3
         id: cache
         name: init cache
