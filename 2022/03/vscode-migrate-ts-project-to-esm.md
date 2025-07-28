@@ -4,17 +4,16 @@ categories:
   - programming
 comments: true
 date: 2022-03-30T06:57:37+0000
-description: "VSCode Migrate Typescript CommonJS to ESM How to migrate
-  typescript commonjs to esm with vscode package.json add following key to
-  package.json type: module, mai"
+description: "VSCode Migrate Typescript CommonJS to ESM How to migrate typescript commonjs to esm with vscode package.json add following key to package.json type: module, mai"
 lang: en
-tags: []
+tags:
+  - vscode
+  - ide
 thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/https://opengraph.githubassets.com/51ab140e160882668aa0f466b095b5bb634739d04b8095f768d1741def9280f2/inmanta/vscode-inmanta/issues/314
 title: VSCode Migrate Typescript CommonJS to ESM
 type: post
-updated: 2023-09-02T23:13:08.000Z
+updated: 2025-07-29T00:04:41+07:00
 wordcount: 1063
-
 ---
 
 ## How to migrate typescript commonjs to esm with vscode
@@ -113,16 +112,27 @@ add filename extensions to existing local imports (within a package):
 ### Method 1
 - Open Search And Replace VSCode
 - Insert below pattern to search input and check Regex Search Flag
-```regexp
-(^import.*\/((?!.js).)*)(['"];)$
-```
+  ```r
+  (^import.*\/((?!.js).)*)(['"];)$
+  ```
 - Insert below replacement pattern to replacement input
-```regexp
-$1.js$3
-```
+  ```r
+  $1.js$3
+  ```
 - Insert folder to `files to input` bar for example `src/`
 - Replace all
 ![image](https://user-images.githubusercontent.com/12471057/160769725-41b16e7d-ef33-4886-8113-d59a30a63482.png)
 ### Method 2
 -   Search: `^(import [^';]* from '(\./|(\.\./)+)[^';.]*)';`
 -   Replace: `$1.js';`
+
+### Method 3
+
+- filter only import with dot
+  ```r
+  (^import.*from\s+)(['"])(\.{1,2}\/(?!.*\.js)[^'"]*)(['"];)$
+  ```
+- code replacement
+  ```r
+  $1$2$3.js$4
+  ```
