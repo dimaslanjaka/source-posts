@@ -1,20 +1,22 @@
 ---
-title: Detect if a Node.js File Is Run Directly or Imported
-description: Learn how to check if a Node.js file is executed via CLI (node path-to-file) or loaded using require or import. Supports both CommonJS and ES modules.
+title: Detect if a Node.js File Runs Directly or Is Imported
+description: Learn how to determine if a Node.js file is executed directly from the CLI or imported as a module, with examples for CommonJS, ESM, and cross-module detection.
 date: 2024-02-23T18:16:51+07:00
 tags:
+  - nodejs
   - esm
+  - commonjs
   - javascript
   - typescript
-  - commonjs
 categories:
   - programming
 keywords:
-  - detect
-  - import
-  - require
-  - meta
-slug: detect-nodejs-called-by-import
+  - node.js detect main module
+  - check if node file run directly
+  - detect node require vs import
+  - commonjs require.main
+  - esm import.meta.url
+slug: detect-nodejs-file-run-directly-or-imported
 updated: 2025-08-08T15:59:45+07:00
 ---
 
