@@ -15,7 +15,7 @@ keywords:
   - require
   - meta
 slug: detect-nodejs-called-by-import
-updated: 2025-07-25T00:53:36Z
+updated: 2025-08-08T15:59:45+07:00
 ---
 
 ## CommonJS
@@ -47,7 +47,14 @@ In the ECMAScript Module (ESM), you can use the "import.meta" object  to determi
 
 ```ts
 // main.mjs
-if (import.meta.url === `file://${process.argv[1]}`) {
+
+import { fileURLToPath, pathToFileURL } from 'url';
+import path from 'path';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+if (import.meta.url === pathToFileURL(process.argv[1]).href) {
   // This module is being run directly
   console.log('This module is the main module.');
 } else {
