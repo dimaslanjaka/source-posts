@@ -4,9 +4,7 @@ categories:
   - programming
 comments: true
 date: 2023-04-19T13:41:48+07:00
-description: How to setup jest typescript and code runner in vscode How to setup
-  jest typescript with code runner in vscode with this technique you can
-  directly run test sin
+description: How to setup jest typescript and code runner in vscode How to setup jest typescript with code runner in vscode with this technique you can directly run test sin
 lang: en
 tags:
   - vscode
@@ -17,7 +15,7 @@ tags:
   - javascript
 title: How to setup jest typescript and code runner in vscode
 type: post
-updated: 2023-09-03T04:28:04+07:00
+updated: 2025-08-19T08:52:07Z
 wordcount: 3173
 ---
 
@@ -199,7 +197,129 @@ create typescript config for jest in root of project folder, change typescript c
 }
 ```
 
-### step to test 
+## Setup jest for compatible Mixed module (CommonJS and ESM)
+
+> when your project is CJS (dont have `type: module` in package.json), you should convert `jest.config.js` and `babel.config.js` to CJS syntax
+
+### Install additional dependencies
+
+```bash
+yarn add -D jest ts-jest jest-config jest-mock @jest/expect @jest/environment @jest/types @jest/globals @babel/core @babel/preset-env @babel/preset-typescript babel-jest
+```
+
+### Create `jest.config.js`
+
+```typescript
+import { defaults } from 'jest-config';
+import path from 'upath';
+import { fileURLToPath } from 'url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+
+/** @type {import('jest').Config} */
+export default {
+  ...defaults,
+  testEnvironment: 'node',
+  extensionsToTreatAsEsm: ['.ts', '.tsx'],
+  transform: {
+    // TypeScript files
+    '^.+\\.(ts|tsx)$': [
+      'ts-jest',
+      {
+        babelConfig: {
+          presets: [
+            [
+              '@babel/preset-env',
+              {
+                targets: { node: 'current' }
+              }
+            ],
+            '@babel/preset-typescript'
+          ]
+        },
+        useESM: true,
+        tsconfig: path.join(__dirname, 'tsconfig.jest.json')
+      }
+    ],
+    // ESM JavaScript files
+    '^.+\\.(mjs)$': [
+      'babel-jest',
+      {
+        presets: [['@babel/preset-env', { targets: { node: 'current' }, modules: false }]],
+        babelrc: false,
+        configFile: false
+      }
+    ],
+    // CommonJS and other JS files
+    '^.+\\.(cjs|js|jsx)$': [
+      'babel-jest',
+      {
+        presets: [['@babel/preset-env', { targets: { node: 'current' } }]]
+      }
+    ]
+  },
+  moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx', 'mjs', 'cjs', 'json', 'node'],
+  moduleNameMapper: {
+    '^(\\.{1,2}/.*)\\.(js|mjs|jsx|tsx)$': '$1'
+  },
+  testMatch: ['**/__tests__/**/*.+(ts|tsx|js|jsx|mjs|cjs)', '**/*.(test|spec).+(ts|tsx|js|jsx|mjs|cjs)'],
+  transformIgnorePatterns: ['/node_modules/(?!your-esm-package)/'], // allow ESM packages if needed
+  collectCoverageFrom: ['src/**/*.{ts,js,mjs,cjs}'],
+  coveragePathIgnorePatterns: ['/node_modules/', '/dist/', '/tmp/', '/test/', '/__tests__/', '/coverage/', '/lib/'],
+  coverageDirectory: 'coverage',
+  coverageReporters: ['text', 'lcov', 'html'],
+  setupFilesAfterEnv: [],
+  testTimeout: 120000,
+  detectOpenHandles: true,
+  modulePathIgnorePatterns: ['<rootDir>/test/package.json']
+};
+```
+
+### Create `tsconfig.jest.json`
+
+```jsonc
+{
+  // custom schema (non-vscode environment)
+  "$schema": "https://json.schemastore.org/tsconfig",
+  // extends other typescript config file
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    // make dump output to temp folder
+    "outDir": "tmp/jest",
+    /* Visit https://aka.ms/tsconfig.json to read more about this file */
+    /* Language and Environment */
+    "target": "esnext" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+
+    /* Modules */
+    "module": "esnext" /* Specify what module code is generated. */,
+    "esModuleInterop": true /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables `allowSyntheticDefaultImports` for type compatibility. */,
+    "forceConsistentCasingInFileNames": true /* Ensure that casing is correct in imports. */,
+
+    /* Type Checking */
+    "strict": false /* Enable all strict type-checking */,
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */
+  }
+}
+```
+
+### Create `babel.config.js`
+
+```javascript
+export default {
+  presets: [
+    [
+      '@babel/preset-env',
+      {
+        targets: { node: 'current' },
+        modules: false // keep ESM
+      }
+    ],
+    '@babel/preset-typescript'
+  ]
+};
+```
+
+### step to test
 create sample test inside `test` folder
 
 #### create `test/math-operator.test.ts`
@@ -211,7 +331,7 @@ const mathOperations = {
    sum: function(a,b) {
        return a + b;
    },
-   
+
    diff: function(a,b) {
        return a - b;
    },
