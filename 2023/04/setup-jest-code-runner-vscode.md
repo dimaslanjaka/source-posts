@@ -16,7 +16,6 @@ tags:
 title: How to setup jest typescript and code runner in vscode
 type: post
 updated: 2025-08-19T08:52:07Z
-wordcount: 3173
 ---
 
 ![thumbnail](https://user-images.githubusercontent.com/12471057/236297105-21e4c9ef-ea6d-407f-8603-76990ee80977.png)
