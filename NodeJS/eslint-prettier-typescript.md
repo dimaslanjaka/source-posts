@@ -13,7 +13,7 @@ keywords:
   - eslint
   - javascript
   - typescript
-updated: 2025-07-05T19:29:12+07:00
+updated: 2025-08-20T23:04:04Z
 ---
 
 ## Install dependencies
@@ -369,3 +369,6 @@ yarn add --dev @tsconfig/node16
 
 ## Finish
 now your vscode format and lint your codes automatically.
+
+> **See Also:**
+> [Comprehensive ESLint Flat Config for JS, TS, React, and Prettier](./eslint-all-in-one-flat-config.md)

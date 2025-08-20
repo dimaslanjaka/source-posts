@@ -23,11 +23,14 @@ tags:
 thumbnail: https://i.ytimg.com/vi/lHAeK8t94as/maxresdefault.jpg
 title: Eslint Prettier In Typescript Project Using Vscode
 type: post
-updated: 2024-10-14T02:22:35+07:00
+updated: 2025-08-20T23:04:16Z
 webtitle: NodeJS
 ---
 
 > This configuration deprecated for **ESLint v9**, [Read Here for migrated ESLint v9](./eslint-prettier-typescript.md)
+>
+> **See Also:**
+> [Comprehensive ESLint Flat Config for JS, TS, React, and Prettier](./eslint-all-in-one-flat-config.md)
 
 ## Auto Lint And Format Typescript Using VSCode With Eslint And Prettier
 

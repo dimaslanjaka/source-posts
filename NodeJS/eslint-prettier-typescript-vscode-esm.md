@@ -18,6 +18,9 @@ updated: 2024-10-14T02:22:35+07:00
 ---
 
 > This configuration deprecated for **ESLint v9**, [Read Here for migrated ESLint v9](./eslint-prettier-typescript.md)
+>
+> **See Also:**
+> [Comprehensive ESLint Flat Config for JS, TS, React, and Prettier](./eslint-all-in-one-flat-config.md)
 
 ## CommonJS
 for Non-ESM/CommonJS you can read these article [CommonJS Eslint Prettier Auto Format Typescript Project In VSCode](eslint-prettier-typescript-vscode.md)

@@ -4,8 +4,7 @@ categories:
   - programming
 comments: true
 date: 2022-04-19T09:37:38.000Z
-description: How to auto format using eslint and prettier in typescript react
-  project using vscode
+description: How to auto format using eslint and prettier in typescript react project using vscode
 lang: en
 tags:
   - nodejs
@@ -15,10 +14,13 @@ tags:
 thumbnail: https://miro.medium.com/max/1400/1*N9n5F63ne3HimpJ10d1HEw.jpeg
 title: Eslint Prettier Auto Format In Typescript React Project
 type: post
-updated: 2024-10-14T02:22:35+07:00
+updated: 2025-08-20T23:04:36Z
 ---
 
 > This configuration deprecated for **ESLint v9**, [Read Here for migrated ESLint v9](./eslint-prettier-typescript.md)
+>
+> **See Also:**
+> [Comprehensive ESLint Flat Config for JS, TS, React, and Prettier](./eslint-all-in-one-flat-config.md)
 
 ## Auto format Tsx files in VSCode
 Assuming you've got `eslint` extension installed on Visual Studio Code, you should add the following to your settings.

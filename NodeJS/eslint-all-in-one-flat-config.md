@@ -1,0 +1,318 @@
+---
+title: ESLint Flat Config for JS, TS, React, and Prettier
+date: 2025-08-20T22:54:10Z
+updated: 2025-08-20T22:56:37Z
+description: ESLint Flat Config for JS, TS, React, and Prettier with Babel, Hooks, and JSONC support.
+categories:
+  - Programming
+  - ESLint
+  - JavaScript
+  - TypeScript
+  - React
+tags:
+  - eslint
+  - javascript
+  - typescript
+  - react
+  - prettier
+  - linting
+  - configuration
+  - flat config
+  - babel
+  - hooks
+  - jsonc
+  - web development
+  - setup
+  - guide
+  - tutorial
+  - best practices
+---
+
+## Why Use ESLint Flat Config?
+
+The new ESLint Flat Config format (`eslint.config.js`) offers a more flexible, modern, and JavaScript-native way to configure your linter. It allows you to:
+
+- Use full JavaScript for dynamic configuration.
+- Share and compose configs easily.
+- Integrate with modern tools like Babel, TypeScript, and Prettier.
+- Avoid legacy config pitfalls and limitations.
+
+This article provides a complete, production-ready Flat Config setup for projects using JavaScript, TypeScript, React, and Prettier, with support for Babel and JSONC (JSON with comments) for Prettier configuration.
+
+---
+
+## Requirements
+
+```bash
+yarn add -D eslint @eslint/js eslint-config-prettier eslint-plugin-prettier @babel/core @babel/eslint-parser @babel/preset-react @babel/plugin-syntax-import-assertions typescript typescript-eslint eslint-plugin-react eslint-plugin-react-hooks globals jsonc-parser
+```
+
+## Write `.prettierrc.json`
+
+```jsonc
+{
+  // Prettier config
+  "semi": true,
+  "singleQuote": true,
+  "printWidth": 100,
+  "tabWidth": 2,
+  "trailingComma": "es5"
+}
+```
+
+---
+
+```javascript
+// ESLint Flat Config for JS, TS, React, and Prettier
+// ---------------------------------------------------
+// This configuration uses Flat Config (`eslint.config.js`)
+// and integrates:
+//   - Base JS rules (@eslint/js)
+//   - Babel parser for modern JS & JSX
+//   - TypeScript parser for TS/TSX
+//   - React + React Hooks plugins
+//   - Prettier as an ESLint plugin
+//   - jsonc-parser for Prettier config (supports comments)
+// Requirements:
+//   yarn add -D \
+// eslint @eslint/js eslint-config-prettier eslint-plugin-prettier \
+// @babel/core @babel/eslint-parser @babel/preset-react @babel/plugin-syntax-import-assertions \
+// typescript typescript-eslint \
+// eslint-plugin-react eslint-plugin-react-hooks \
+// globals jsonc-parser
+// ---------------------------------------------------
+
+import js from '@eslint/js';
+import globals from 'globals';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { defineConfig } from 'eslint/config';
+
+import babelParser from '@babel/eslint-parser';
+import tseslint from 'typescript-eslint';
+import prettier from 'eslint-plugin-prettier';
+import prettierConfig from 'eslint-config-prettier';
+import react from 'eslint-plugin-react';
+import reactHooks from 'eslint-plugin-react-hooks';
+import { parse as parseJSONC } from 'jsonc-parser';
+
+// Resolve current directory for reading .prettierrc.json
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// Load Prettier config, allowing comments in JSON
+const prettierrc = parseJSONC(fs.readFileSync(path.resolve(__dirname, '.prettierrc.json'), 'utf-8'));
+
+export default defineConfig([
+  // ---------------------------------------------------
+  // 🌍 Global config (applies to all files)
+  // ---------------------------------------------------
+  {
+    ignores: [
+      '**/*.md', // Ignore Markdown files
+      '**/*.html', // Ignore raw HTML files
+      '**/*.py', // Ignore Python scripts
+      '**/*.txt', // Ignore plain text
+      '**/tmp/**', // Ignore temp files
+      '**/app/**', // Ignore custom app output
+      '**/dist/**', // Ignore build output
+      '**/node_modules/**', // Ignore dependencies
+      '**/coverage/**', // Ignore test coverage
+      '**/logs/**', // Ignore logs
+      '**/vendor/**', // Ignore vendor code
+      '**/min.*', // Ignore minified assets
+      '**/*.lock', // Ignore lockfiles
+      '**/public/**', // Ignore public assets
+      '**/.yarn/**' // Ignore Yarn cache
+    ],
+
+    // Global language options
+    languageOptions: {
+      globals: {
+        ...globals.browser, // Browser globals (window, document, etc.)
+        ...globals.node, // Node.js globals (process, __dirname, etc.)
+        ...globals.jest, // Jest testing globals
+        grecaptcha: 'readonly', // Google reCAPTCHA
+        $: 'readonly', // jQuery $
+        jQuery: 'readonly', // jQuery object
+        adsbygoogle: 'writable', // Google Ads
+        hexo: 'readonly' // Hexo static site generator
+      },
+      ecmaVersion: 'latest', // Support latest ECMAScript syntax
+      sourceType: 'module' // Enable ES modules
+    },
+
+    plugins: { prettier },
+
+    rules: {
+      // ✅ Run Prettier as an ESLint rule (using config with comments)
+      'prettier/prettier': ['error', prettierrc],
+
+      // ✅ Disable stylistic rules that conflict with Prettier
+      ...prettierConfig.rules,
+
+      // Example JS style relaxations
+      'arrow-body-style': 'off', // Allow any arrow fn body style
+      'prefer-arrow-callback': 'off', // Allow normal function callbacks
+      // ⚙️ Allow unused variables starting with "_"
+      'no-unused-vars': [
+        'error',
+        {
+          argsIgnorePattern: '^_',
+          varsIgnorePattern: '^_',
+          caughtErrorsIgnorePattern: '^_'
+        }
+      ]
+    }
+  },
+
+  // ---------------------------------------------------
+  // 📜 JavaScript (JS, MJS, CJS, JSX)
+  // ---------------------------------------------------
+  {
+    files: ['**/*.{js,mjs,cjs,jsx}'],
+    ...js.configs.recommended, // Use ESLint recommended JS rules
+    languageOptions: {
+      parser: babelParser, // Use Babel parser for modern JS/JSX
+      parserOptions: {
+        requireConfigFile: false, // Allow parsing without .babelrc
+        babelOptions: {
+          presets: ['@babel/preset-react'], // Handle JSX in JS files
+          plugins: ['@babel/plugin-syntax-import-assertions'] // Support `import ... with { type: "json" }`
+        },
+        ecmaFeatures: {
+          jsx: true // Enable JSX parsing
+        }
+      },
+      globals: { ...globals.browser, ...globals.node }
+    },
+    rules: {
+      'no-unused-vars': 'error' // Disallow unused variables
+    }
+  },
+
+  // ---------------------------------------------------
+  // 🟦 TypeScript (TS, TSX, MTS, CTS)
+  // ---------------------------------------------------
+  {
+    files: ['**/*.{ts,tsx,mts,cts}'],
+    ...tseslint.configs.recommended, // Use recommended TS rules
+    languageOptions: {
+      parser: tseslint.parser, // TypeScript-aware parser
+      parserOptions: {
+        project: './tsconfig.json' // Point to project tsconfig
+      },
+      globals: { ...globals.browser, ...globals.node }
+    },
+    rules: {
+      // Replace base "no-unused-vars" with TS version
+      'no-unused-vars': 'off',
+      '@typescript-eslint/no-unused-vars': [
+        'error',
+        {
+          argsIgnorePattern: '^_', // Allow ignored args starting with "_"
+          varsIgnorePattern: '^_', // Allow ignored vars starting with "_"
+          caughtErrorsIgnorePattern: '^_' // Allow ignored caught errors
+        }
+      ],
+
+      '@typescript-eslint/explicit-function-return-type': 'off', // No need to force return types
+      '@typescript-eslint/no-explicit-any': 'off', // Allow `any`
+      '@typescript-eslint/no-this-alias': [
+        'error',
+        {
+          allowDestructuring: false,
+          allowedNames: ['self', 'hexo'] // Allow aliasing `this` to self/hexo
+        }
+      ]
+    }
+  },
+
+  // ---------------------------------------------------
+  // ⚛️ React (JSX + TSX)
+  // ---------------------------------------------------
+  {
+    files: ['**/*.{jsx,tsx}'],
+    plugins: {
+      react, // React linting rules
+      'react-hooks': reactHooks, // Enforce hooks rules
+      prettier
+    },
+    rules: {
+      // ✅ React recommended rules
+      ...react.configs.recommended.rules,
+      ...react.configs['jsx-runtime'].rules,
+
+      // ✅ React Hooks best practices
+      ...reactHooks.configs.recommended.rules,
+
+      // ✅ Prettier formatting
+      'prettier/prettier': 'error',
+
+      // ⚙️ Adjustments for modern React
+      'react/react-in-jsx-scope': 'off', // Not needed in React 17+
+      'react/prop-types': 'off' // Disable PropTypes if using TS
+    },
+    settings: {
+      react: {
+        version: 'detect' // Auto-detect installed React version
+      }
+    }
+  }
+]);
+```
+
+> **Note:**
+> - For ESM projects (`"type": "module"` in `package.json`), use `eslint.config.js` or `eslint.config.mjs`.
+> - For CommonJS projects (no `"type": "module"`), use `eslint.config.cjs` or `eslint.config.js`.
+> - Choose the config file extension that matches your project's module system for best compatibility.
+
+---
+
+## Key Features of This Config
+
+- **Unified Linting**: One config for JS, TS, React, and Prettier.
+- **Modern Syntax Support**: Babel parser for latest JS/JSX, TypeScript parser for TS/TSX.
+- **React & Hooks**: Best practices and rules for React and React Hooks.
+- **Prettier Integration**: Prettier runs as an ESLint rule, using config with comments.
+- **Flexible Ignoring**: Ignores common output, lock, and asset files.
+- **Globals**: Pre-configured for browser, Node.js, Jest, and common web globals.
+- **Customizable**: Easily extend or override for your project needs.
+- **ESM & CJS Project Support**: This ESLint config works for both ECMAScript Module (ESM) and CommonJS (CJS) projects—just use the appropriate file extension (`.mjs`, `.js`, or `.cjs`) for your `eslint.config` file to match your project's module system.
+
+---
+
+## How to Use
+
+1. **Install dependencies** (see Requirements above).
+2. **Copy the config** into your project as `eslint.config.js`.
+3. **Add a `.prettierrc.json`** file (optionally with comments, thanks to JSONC support).
+4. **Run ESLint** on your codebase:
+
+   ```bash
+   npx eslint . --ext js,jsx,ts,tsx
+   ```
+
+5. **Integrate with your editor** (e.g., VS Code) for real-time linting and formatting.
+
+---
+
+## Troubleshooting & Tips
+
+- If you see parser errors, ensure all dependencies are installed and up to date.
+- For TypeScript, make sure your `tsconfig.json` is present and correct.
+- You can further customize rules for your team or project style.
+- For monorepos, you can share this config across packages.
+
+---
+
+## References & Further Reading
+
+- [ESLint Flat Config Guide](https://eslint.org/docs/latest/use/configure/configuration-files-new)
+- [Prettier Documentation](https://prettier.io/docs/en/options.html)
+- [TypeScript ESLint](https://typescript-eslint.io/)
+- [Babel ESLint Parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser)
+- [React ESLint Plugin](https://github.com/jsx-eslint/eslint-plugin-react)
+
+---
