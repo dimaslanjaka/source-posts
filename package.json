@@ -49,6 +49,7 @@
     "@types/toastr": "^2.1.43",
     "@typescript-eslint/eslint-plugin": "^8.38.0",
     "@typescript-eslint/parser": "^8.38.0",
+    "binary-collections": "^2.0.9",
     "clean-css": "^5.3.3",
     "eslint": "^9.31.0",
     "eslint-config-prettier": "^10.1.8",
