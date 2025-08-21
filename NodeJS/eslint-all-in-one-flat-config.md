@@ -1,7 +1,7 @@
 ---
 title: ESLint Flat Config for JS, TS, React, and Prettier
 date: 2025-08-20T22:54:10Z
-updated: 2025-08-21T04:00:14Z
+updated: 2025-08-21T16:46:00Z
 description: ESLint Flat Config for JS, TS, React, and Prettier with Babel, Hooks, and JSONC support.
 categories:
   - Programming
@@ -176,10 +176,10 @@ export default tseslint.config(
   },
 
   // ---------------------------------------------------
-  // 📜 JavaScript (JS, MJS, CJS, JSX)
+  // 📜 ESM (JS, MJS, JSX)
   // ---------------------------------------------------
   {
-    files: ['**/*.{js,mjs,cjs,jsx}'],
+    files: ['**/*.{js,mjs,jsx}'],
     languageOptions: {
       // Use Babel parser for modern JS/JSX
       parser: babelParser,
@@ -206,6 +206,43 @@ export default tseslint.config(
       // Only use base no-unused-vars for JS, allow unused vars starting with _
       '@typescript-eslint/no-unused-vars': 'off',
       // Place custom no-unused-vars last to ensure it takes precedence
+      'no-unused-vars': [
+        'error',
+        {
+          argsIgnorePattern: '^_',
+          varsIgnorePattern: '^_',
+          caughtErrorsIgnorePattern: '^_'
+        }
+      ]
+    }
+  },
+
+  // ---------------------------------------------------
+  // 📦 CommonJS (CJS)
+  // ---------------------------------------------------
+  {
+    files: ['**/*.cjs'],
+    languageOptions: {
+      sourceType: 'commonjs',
+      parser: babelParser,
+      parserOptions: {
+        // Allow parsing without .babelrc
+        requireConfigFile: false,
+        babelOptions: {
+          // Handle JSX in JS files
+          presets: ['@babel/preset-env']
+        }
+      },
+      globals: {
+        ...globals.node
+      }
+    },
+    rules: {
+      // Allow require statements in CJS files
+      '@typescript-eslint/no-var-requires': 'off',
+      '@typescript-eslint/no-require-imports': 'off',
+      '@typescript-eslint/no-unused-vars': 'off',
+      'no-var-requires': 'off', // Allow require() in CJS
       'no-unused-vars': [
         'error',
         {
