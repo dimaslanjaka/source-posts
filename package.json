@@ -37,7 +37,7 @@
     "moment": "^2.30.1",
     "moment-timezone": "^0.6.0",
     "requirejs": "^2.3.7",
-    "sbg-utility": "^2.0.8",
+    "sbg-utility": "^2.0.9",
     "toastr": "^2.1.4"
   },
   "devDependencies": {
