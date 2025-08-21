@@ -1,7 +1,7 @@
 ---
 title: ESLint Flat Config for JS, TS, React, and Prettier
 date: 2025-08-20T22:54:10Z
-updated: 2025-08-21T03:02:03Z
+updated: 2025-08-21T04:00:14Z
 description: ESLint Flat Config for JS, TS, React, and Prettier with Babel, Hooks, and JSONC support.
 categories:
   - Programming
@@ -83,32 +83,29 @@ yarn add -D eslint @eslint/js eslint-config-prettier eslint-plugin-prettier @bab
 // globals jsonc-parser
 // ---------------------------------------------------
 
-import js from '@eslint/js';
+import babelParser from '@babel/eslint-parser';
+import eslint from '@eslint/js';
+import prettierConfig from 'eslint-config-prettier';
+import prettier from 'eslint-plugin-prettier';
+import react from 'eslint-plugin-react';
+import reactHooks from 'eslint-plugin-react-hooks';
 import globals from 'globals';
+import { parse as parseJSONC } from 'jsonc-parser';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { defineConfig } from 'eslint/config';
-
-import babelParser from '@babel/eslint-parser';
 import tseslint from 'typescript-eslint';
-import prettier from 'eslint-plugin-prettier';
-import prettierConfig from 'eslint-config-prettier';
-import react from 'eslint-plugin-react';
-import reactHooks from 'eslint-plugin-react-hooks';
-import { parse as parseJSONC } from 'jsonc-parser';
 
-// Resolve current directory for reading .prettierrc.json
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
-// Load Prettier config, allowing comments in JSON
 const prettierrc = parseJSONC(fs.readFileSync(path.resolve(__dirname, '.prettierrc.json'), 'utf-8'));
 
-export default defineConfig([
+export default tseslint.config(
   // ---------------------------------------------------
   // 🌍 Global config (applies to all files)
   // ---------------------------------------------------
+  eslint.configs.recommended,
+  tseslint.configs.recommended,
   {
     ignores: [
       '**/*.md', // Ignore Markdown files
@@ -131,17 +128,27 @@ export default defineConfig([
     // Global language options
     languageOptions: {
       globals: {
-        ...globals.browser, // Browser globals (window, document, etc.)
-        ...globals.node, // Node.js globals (process, __dirname, etc.)
-        ...globals.jest, // Jest testing globals
-        grecaptcha: 'readonly', // Google reCAPTCHA
-        $: 'readonly', // jQuery $
-        jQuery: 'readonly', // jQuery object
-        adsbygoogle: 'writable', // Google Ads
-        hexo: 'readonly' // Hexo static site generator
+        // Browser globals (window, document, etc.)
+        ...globals.browser,
+        // Node.js globals (process, __dirname, etc.)
+        ...globals.node,
+        // Jest testing globals
+        ...globals.jest,
+        // Google reCAPTCHA
+        grecaptcha: 'readonly',
+        // jQuery $
+        $: 'readonly',
+        // jQuery object
+        jQuery: 'readonly',
+        // Google Ads
+        adsbygoogle: 'writable',
+        // Hexo static site generator
+        hexo: 'readonly'
       },
-      ecmaVersion: 'latest', // Support latest ECMAScript syntax
-      sourceType: 'module' // Enable ES modules
+      // Support latest ECMAScript syntax
+      ecmaVersion: 'latest',
+      // Enable ES modules
+      sourceType: 'module'
     },
 
     plugins: { prettier },
@@ -173,23 +180,40 @@ export default defineConfig([
   // ---------------------------------------------------
   {
     files: ['**/*.{js,mjs,cjs,jsx}'],
-    ...js.configs.recommended, // Use ESLint recommended JS rules
     languageOptions: {
-      parser: babelParser, // Use Babel parser for modern JS/JSX
+      // Use Babel parser for modern JS/JSX
+      parser: babelParser,
       parserOptions: {
-        requireConfigFile: false, // Allow parsing without .babelrc
+        // Allow parsing without .babelrc
+        requireConfigFile: false,
         babelOptions: {
-          presets: ['@babel/preset-react'], // Handle JSX in JS files
-          plugins: ['@babel/plugin-syntax-import-assertions'] // Support `import ... with { type: "json" }`
+          // Handle JSX in JS files
+          presets: ['@babel/preset-react'],
+          // Support `import ... with { type: "json" }`
+          plugins: ['@babel/plugin-syntax-import-assertions']
         },
         ecmaFeatures: {
-          jsx: true // Enable JSX parsing
+          // Enable JSX parsing
+          jsx: true
         }
       },
-      globals: { ...globals.browser, ...globals.node }
+      globals: {
+        ...globals.browser,
+        ...globals.node
+      }
     },
     rules: {
-      'no-unused-vars': 'error' // Disallow unused variables
+      // Only use base no-unused-vars for JS, allow unused vars starting with _
+      '@typescript-eslint/no-unused-vars': 'off',
+      // Place custom no-unused-vars last to ensure it takes precedence
+      'no-unused-vars': [
+        'error',
+        {
+          argsIgnorePattern: '^_',
+          varsIgnorePattern: '^_',
+          caughtErrorsIgnorePattern: '^_'
+        }
+      ]
     }
   },
 
@@ -198,26 +222,21 @@ export default defineConfig([
   // ---------------------------------------------------
   {
     files: ['**/*.{ts,tsx,mts,cts}'],
-    ...tseslint.configs.recommended, // Use recommended TS rules
     languageOptions: {
-      parser: tseslint.parser, // TypeScript-aware parser
+      // TypeScript-aware parser
+      parser: tseslint.parser,
       parserOptions: {
-        project: './tsconfig.json' // Point to project tsconfig
+        // Point to project tsconfig
+        project: './tsconfig.json'
       },
-      globals: { ...globals.browser, ...globals.node }
+      globals: {
+        ...globals.browser,
+        ...globals.node
+      }
     },
     rules: {
       // Replace base "no-unused-vars" with TS version
       'no-unused-vars': 'off',
-      '@typescript-eslint/no-unused-vars': [
-        'error',
-        {
-          argsIgnorePattern: '^_', // Allow ignored args starting with "_"
-          varsIgnorePattern: '^_', // Allow ignored vars starting with "_"
-          caughtErrorsIgnorePattern: '^_' // Allow ignored caught errors
-        }
-      ],
-
       '@typescript-eslint/explicit-function-return-type': 'off', // No need to force return types
       '@typescript-eslint/no-explicit-any': 'off', // Allow `any`
       '@typescript-eslint/no-this-alias': [
@@ -225,6 +244,15 @@ export default defineConfig([
         {
           allowDestructuring: false,
           allowedNames: ['self', 'hexo'] // Allow aliasing `this` to self/hexo
+        }
+      ],
+      // Place custom TS unused-vars rule last to ensure it takes precedence
+      '@typescript-eslint/no-unused-vars': [
+        'error',
+        {
+          argsIgnorePattern: '^_', // Allow ignored args starting with "_"
+          varsIgnorePattern: '^_', // Allow ignored vars starting with "_"
+          caughtErrorsIgnorePattern: '^_' // Allow ignored caught errors
         }
       ]
     }
@@ -261,7 +289,7 @@ export default defineConfig([
       }
     }
   }
-]);
+);
 ```
 
 > **Note:**
