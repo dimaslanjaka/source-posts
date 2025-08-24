@@ -1,7 +1,7 @@
 ---
 title: ESLint Flat Config for JS, TS, React, and Prettier
 date: 2025-08-20T22:54:10Z
-updated: 2025-08-24T05:37:17Z
+updated: 2025-08-24T17:05:07Z
 description: ESLint Flat Config for JS, TS, React, and Prettier with Babel, Hooks, and JSONC support.
 categories:
   - Programming
@@ -27,6 +27,7 @@ keywords:
   - guide
   - tutorial
   - best practices
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/250px-ESLint_logo.svg.png
 ---
 
 ## Why Use ESLint Flat Config?
