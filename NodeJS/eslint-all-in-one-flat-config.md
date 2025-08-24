@@ -1,7 +1,7 @@
 ---
 title: ESLint Flat Config for JS, TS, React, and Prettier
 date: 2025-08-20T22:54:10Z
-updated: 2025-08-21T16:46:00Z
+updated: 2025-08-24T05:37:17Z
 description: ESLint Flat Config for JS, TS, React, and Prettier with Babel, Hooks, and JSONC support.
 categories:
   - Programming
@@ -48,7 +48,9 @@ This article provides a complete, production-ready Flat Config setup for project
 yarn add -D eslint @eslint/js eslint-config-prettier eslint-plugin-prettier @babel/core @babel/eslint-parser @babel/preset-react @babel/plugin-syntax-import-assertions typescript typescript-eslint eslint-plugin-react eslint-plugin-react-hooks globals jsonc-parser
 ```
 
-## Write `.prettierrc.json`
+## Write Prettier Config
+
+Save below config to `.prettierrc.json`
 
 ```jsonc
 {
@@ -61,7 +63,7 @@ yarn add -D eslint @eslint/js eslint-config-prettier eslint-plugin-prettier @bab
 }
 ```
 
----
+### Write ESLint Configuration
 
 ```javascript
 // ESLint Flat Config for JS, TS, React, and Prettier
@@ -361,6 +363,62 @@ export default tseslint.config(
    ```
 
 5. **Integrate with your editor** (e.g., VS Code) for real-time linting and formatting.
+
+---
+
+## How to integrate with VSCode
+
+### Install plugins
+
+- [ESLint VSCode Plugin](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Prettier VSCode Plugin](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+### Configure VSCode
+
+Save below config to project settings `.vscode/settings.json`
+
+```jsonc
+{
+  "terminal.integrated.env.linux": {
+    // linux custom PATH environment variable
+    "PATH": "${env:PATH}:${workspaceFolder}/node_modules/.bin:${workspaceFolder}/bin"
+  },
+  "terminal.integrated.env.windows": {
+    // windows custom PATH environment variable
+    "PATH": "${env:LOCALAPPDATA}\\nvm;C:\\nvm4w\\nodejs;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\usr\\bin;${env:PATH};${workspaceFolder}\\node_modules\\.bin;${workspaceFolder}\\bin;${workspaceFolder}\\vendor\\bin"
+  },
+  "javascript.suggestionActions.enabled": false,
+  "eslint.useFlatConfig": true,
+  "eslint.probe": [
+    "astro",
+    "civet",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "mdx",
+    "vue",
+    "markdown",
+    "json",
+    "jsonc"
+  ],
+  "eslint.validate": [
+    "astro",
+    "civet",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "mdx",
+    "vue",
+    "markdown",
+    "json",
+    "jsonc"
+  ]
+}
+```
 
 ---
 
