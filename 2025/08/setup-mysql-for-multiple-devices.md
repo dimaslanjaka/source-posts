@@ -1,6 +1,7 @@
 ---
 title: How to Activate MySQL for Multiple Devices
 date: 2025-08-24T17:54:43Z
+updated: 2025-09-12T18:08:29+07:00
 tags:
   - mysql
   - database
@@ -8,17 +9,17 @@ tags:
   - tutorial
 ---
 
-# How to Activate MySQL for Multiple Devices
+## How to Activate MySQL for Multiple Devices
 
 This tutorial will guide you through the steps to allow multiple devices to access your MySQL server over a network.
 
-## Prerequisites
+### Prerequisites
 
 - MySQL server installed on your host machine
 - Access to the MySQL root user or an admin account
 - Basic knowledge of networking
 
-## Step 1: Configure MySQL to Listen on All IP Addresses
+### Configure MySQL to Listen on All IP Addresses
 
 1. Open the MySQL configuration file (`my.cnf` or `my.ini`).
    - On Windows: Usually located at `C:\ProgramData\MySQL\MySQL Server X.X\my.ini`
@@ -45,7 +46,7 @@ This tutorial will guide you through the steps to allow multiple devices to acce
      sudo systemctl restart mysql
      ```
 
-## Step 2: Allow Remote Connections in the Firewall
+### Allow Remote Connections in the Firewall
 
 1. Open port 3306 (default MySQL port) in your firewall settings.
    - **Windows:** Use Windows Defender Firewall to allow inbound connections on port 3306.
@@ -54,7 +55,7 @@ This tutorial will guide you through the steps to allow multiple devices to acce
      sudo ufw allow 3306/tcp
      ```
 
-## Step 3: Create a MySQL User for Remote Access
+### Create a MySQL User for Remote Access
 
 > ⚠️ Important: At this point MySQL will accept connections from anywhere. If your server is exposed to the internet, secure it:
 
@@ -70,7 +71,7 @@ This tutorial will guide you through the steps to allow multiple devices to acce
    ```
    > Replace `username` and `password` with your desired credentials.
 
-## Step 4: Connect from Another Device
+### Connect from Another Device
 
 On the client device, use the following command to connect:
 
@@ -78,6 +79,47 @@ On the client device, use the following command to connect:
 mysql -h <server-ip-address> -u username -p
 ```
 Replace `<server-ip-address>` with the IP address of your MySQL server.
+
+## Optimizations
+
+### Increase Packet Size Limit
+
+edit: `/etc/mysql/mysql.conf.d/mysqld.cnf`
+
+```ini
+[mysqld]
+max_allowed_packet = 128M
+net_read_timeout = 120
+net_write_timeout = 120
+```
+
+check using:
+
+```sql
+SHOW VARIABLES LIKE 'max_allowed_packet';
+SHOW VARIABLES LIKE 'net_read_timeout';
+SHOW VARIABLES LIKE 'net_write_timeout';
+```
+
+### Increase Connection Limit
+
+edit: `/etc/mysql/mysql.conf.d/mysqld.cnf`
+
+```ini
+[mysqld]
+max_connections = 500
+wait_timeout = 60
+interactive_timeout = 60
+```
+
+check using
+
+```sql
+SHOW VARIABLES LIKE 'max_connections';
+SHOW STATUS LIKE 'Threads_connected';
+SHOW STATUS LIKE 'Threads_running';
+```
+
 
 ## Security Tips
 
