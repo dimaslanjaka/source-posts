@@ -5,8 +5,7 @@ tags: ["night crows", "guide"]
 categories:
   - games
 last_updated: 2025-11-08
-author: "System"
-version: "1.0"
+author: "L3n4r0x"
 ---
 
 ▶Server B.F Lv.45 ㅡ Total DEF 240 / Total ACC 200  
