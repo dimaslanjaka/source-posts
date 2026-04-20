@@ -3,8 +3,8 @@ name: Post Update
 
 on:
   # schedule:
-    # https://crontab.guru/#0_8_*_*_*
-    # - cron:  '0 8 * * *'
+  # https://crontab.guru/#0_8_*_*_*
+  # - cron:  '0 8 * * *'
   push:
     branches:
       # - master
@@ -46,7 +46,7 @@ jobs:
           repository: dimaslanjaka/source-posts
           submodules: recursive
           token: '${{ secrets.ACCESS_TOKEN }}'
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: ${{ env.node_version }}
           check-latest: true
