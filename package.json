@@ -22,7 +22,7 @@
   "dependencies": {
     "@popperjs/core": "^2.11.8",
     "aes-js": "^3.1.2",
-    "axios": "^1.13.6",
+    "axios": "^1.16.1",
     "bluebird": "^3.7.2",
     "bootstrap": "^5.3.8",
     "bootstrap-icons": "^1.13.1",
@@ -31,11 +31,11 @@
     "glob": "^13.0.6",
     "highlight.js": "^11.11.1",
     "jquery": "^4.0.0",
-    "js-cookie": "^3.0.5",
+    "js-cookie": "^3.0.7",
     "jsonc-parser": "^3.3.1",
-    "lodash": "^4.17.23",
+    "lodash": "^4.18.1",
     "moment": "^2.30.1",
-    "moment-timezone": "^0.6.0",
+    "moment-timezone": "^0.6.2",
     "requirejs": "^2.3.8",
     "sbg-utility": "^2.0.11",
     "toastr": "^2.1.4"
@@ -49,7 +49,7 @@
     "@types/toastr": "^2.1.43",
     "@typescript-eslint/eslint-plugin": "^8.38.0",
     "@typescript-eslint/parser": "^8.38.0",
-    "binary-collections": "^2.0.10",
+    "binary-collections": "^2.0.11",
     "clean-css": "^5.3.3",
     "eslint": "^9.31.0",
     "eslint-config-prettier": "^10.1.8",
@@ -57,11 +57,11 @@
     "globals": "^16.3.0",
     "html-minifier-terser": "^7.2.0",
     "husky": "^9.1.7",
-    "lint-staged": "^16.3.2",
+    "lint-staged": "^17.0.5",
     "npm-run-all": "^4.1.5",
     "prettier": "^3.6.2",
-    "terser": "^5.46.0",
-    "typescript": "^5.9.3"
+    "terser": "^5.47.1",
+    "typescript": "^6.0.3"
   },
   "packageManager": "yarn@4.5.1"
 }
