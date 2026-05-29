@@ -25,5 +25,111 @@
   },
   "code-runner.clearPreviousOutput": true,
   "code-runner.saveAllFilesBeforeRun": true,
-  "eslint.useFlatConfig": true
+  "eslint.useFlatConfig": true,
+  "terminal.integrated.env.linux": {
+    "PATH": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:${workspaceFolder}/bin:${workspaceFolder}/node_modules/.bin:${workspaceFolder}/vendor/bin",
+    "PUPPETEER_SKIP_DOWNLOAD": "true",
+    "PHP_CS_FIXER_IGNORE_ENV": "1",
+    "ESLINT_USE_FLAT_CONFIG": "true"
+  },
+  "terminal.integrated.env.windows": {
+    "PATH": "${env:LOCALAPPDATA}\\nvm;C:\\nvm4w\\nodejs;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\usr\\bin;${env:PATH};${workspaceFolder}\\node_modules\\.bin;${workspaceFolder}\\bin;${workspaceFolder}\\vendor\\bin;C:\\laragon\\bin\\mysql\\mysql-8.4.3-winx64\\bin;C:\\Users\\Dell\\AppData\\Local\\Programs\\Ollama",
+    "PUPPETEER_SKIP_DOWNLOAD": "true",
+    "PHP_CS_FIXER_IGNORE_ENV": "1",
+    "ESLINT_USE_FLAT_CONFIG": "true"
+  },
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    },
+    "Short PowerShell": {
+      "source": "PowerShell",
+      "args": [
+        "-NoExit",
+        "-Command",
+        "function prompt { \"[$((Get-Item .).Name)]> \" }"
+      ],
+      "icon": "terminal-powershell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [],
+      "icon": "terminal-cmd"
+    },
+    "Short Command Prompt": {
+      "path": [
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [
+        "/k",
+        "prompt $p$_$g"
+      ],
+      "icon": "terminal-cmd"
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "Cygwin": {
+      "path": "C:\\cygwin64\\bin\\bash.exe",
+      "args": [
+        "--login",
+        "-i"
+      ],
+      "env": {
+        "CHERE_INVOKING": "1"
+      }
+    }
+  },
+  "eslint.probe": [
+    "astro",
+    "civet",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "mdx",
+    "vue",
+    "markdown",
+    "json",
+    "jsonc",
+    "css",
+    "glimmer-js",
+    "glimmer-ts",
+    "svelte",
+    "nunjucks"
+  ],
+  "eslint.validate": [
+    "astro",
+    "civet",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "mdx",
+    "vue",
+    "markdown",
+    "json",
+    "jsonc",
+    "css",
+    "glimmer-js",
+    "glimmer-ts",
+    "svelte",
+    "nunjucks"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never",
+    "source.fixAll.ts": "never",
+    "source.addMissingImports.ts": "never",
+    "source.removeUnused.ts": "never",
+    "source.removeUnusedImports": "never",
+    "source.sort.json": "never",
+    "source.sortImports": "never"
+  }
 }
