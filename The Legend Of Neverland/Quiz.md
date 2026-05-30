@@ -42,6 +42,8 @@ There will be lots of general knowledge questions thrown at you, and here are th
 ## Changelog
 > The Legend Of Neverland Quiz Data Changelog
 
+{% include_file './Quiz/changelog.md' pretext:false %}{% endinclude_file %}
+
 ### 2024-11-03
 - Priority backend server first
 ### 2023-01-11

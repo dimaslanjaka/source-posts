@@ -1,0 +1,143 @@
+- `31da7a0` 2026-05-30
+
+  chore(quiz): normalize TLoN quiz entries and update answer references
+
+- `9eb6921` 2026-05-30
+
+  refactor(quiz): merge analyze script into download and fix empty output
+
+- `1399959` 2024-11-03
+
+  optimize scripts, eslint
+
+- `0fc1849` 2024-11-03
+
+  only show line has (O) or (X)
+
+- `f811724` 2024-11-03
+
+  optimize downloader script
+
+- `6408b88` 2024-02-12
+
+  update posts
+
+- `83a70d0` 2023-05-22
+
+  update quiz
+
+- `db2cd85` 2023-05-11
+
+  chore: update quiz
+
+- `39015cb` 2023-05-11
+
+  chore: update quiz
+
+- `df7e4a7` 2023-04-07
+
+  update quiz
+
+- `1dc323e` 2023-03-30
+
+  empty quiz
+
+- `813ff6f` 2023-03-17
+
+  update quiz
+
+- `312b885` 2023-02-27
+
+  update posts
+
+- `112d110` 2023-02-25
+
+  update quiz
+
+- `db0f4df` 2023-02-24
+
+  chore: update chimeraland wikipedia data
+
+- `92ab63d` 2023-02-23
+
+  update quiz
+
+- `2258d52` 2023-02-20
+
+  update quiz
+
+- `0fa18f3` 2023-02-12
+
+  update quiz
+
+- `61adb06` 2023-02-12
+
+  update quiz
+
+- `5d0bae0` 2023-01-30
+
+  update quiz, chimeraland
+
+- `6fbda2e` 2023-01-25
+
+  update quiz
+
+- `c971520` 2023-01-25
+
+  update quiz
+
+- `52b9bf4` 2023-01-16
+
+  update quiz
+
+- `632e873` 2023-01-11
+
+  update quiz
+
+- `74a6d03` 2023-01-09
+
+  update quiz
+
+- `be29bf0` 2023-01-09
+
+  update quiz
+
+- `c977f0f` 2023-01-08
+
+  update quiz
+
+- `ce84f0b` 2023-01-05
+
+  add quiz
+
+- `ebc429b` 2022-12-27
+
+  update quiz
+
+- `322bc84` 2022-12-20
+
+  update
+
+- `cbc571e` 2022-12-13
+
+  update
+
+- `fd51b0a` 2022-12-10
+
+  Update
+
+- `90c93e7` 2022-12-10
+
+  update
+
+- `9614746` 2022-10-29
+
+  update quiz
+
+- `a7d5287` 2022-10-11
+
+  Prune at Sel 11 Okt 2022 11:58:40  WIB
+
+- `4304dca` 2022-10-11
+
+  Prune at Sel 11 Okt 2022 08:16:46  WIB
