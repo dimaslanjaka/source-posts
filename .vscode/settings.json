@@ -33,10 +33,11 @@
     "ESLINT_USE_FLAT_CONFIG": "true"
   },
   "terminal.integrated.env.windows": {
-    "PATH": "${env:LOCALAPPDATA}\\nvm;C:\\nvm4w\\nodejs;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\usr\\bin;${env:PATH};${workspaceFolder}\\node_modules\\.bin;${workspaceFolder}\\bin;${workspaceFolder}\\vendor\\bin;C:\\laragon\\bin\\mysql\\mysql-8.4.3-winx64\\bin;C:\\Users\\Dell\\AppData\\Local\\Programs\\Ollama",
+    "PATH": "${env:LOCALAPPDATA}\\nvm;C:\\nvm4w\\nodejs;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\usr\\bin;${env:PATH};${workspaceFolder}\\node_modules\\.bin;${workspaceFolder}\\bin;${workspaceFolder}\\vendor\\bin;C:\\laragon\\bin\\mysql\\mysql-8.4.3-winx64\\bin;${env:LOCALAPPDATA}\\Programs\\Ollama",
     "PUPPETEER_SKIP_DOWNLOAD": "true",
     "PHP_CS_FIXER_IGNORE_ENV": "1",
-    "ESLINT_USE_FLAT_CONFIG": "true"
+    "ESLINT_USE_FLAT_CONFIG": "true",
+    "WORKSPACE_FOLDER": "${workspaceFolder}"
   },
   "terminal.integrated.profiles.windows": {
     "PowerShell": {
@@ -45,29 +46,17 @@
     },
     "Short PowerShell": {
       "source": "PowerShell",
-      "args": [
-        "-NoExit",
-        "-Command",
-        "function prompt { \"[$((Get-Item .).Name)]> \" }"
-      ],
+      "args": ["-NoExit", "-Command", "function prompt { \"[$((Get-Item .).Name)]> \" }"],
       "icon": "terminal-powershell"
     },
     "Command Prompt": {
-      "path": [
-        "${env:windir}\\Sysnative\\cmd.exe",
-        "${env:windir}\\System32\\cmd.exe"
-      ],
+      "path": ["${env:windir}\\Sysnative\\cmd.exe", "${env:windir}\\System32\\cmd.exe"],
       "args": [],
       "icon": "terminal-cmd"
     },
     "Short Command Prompt": {
-      "path": [
-        "${env:windir}\\System32\\cmd.exe"
-      ],
-      "args": [
-        "/k",
-        "prompt $p$_$g"
-      ],
+      "path": ["${env:windir}\\System32\\cmd.exe"],
+      "args": ["/k", "prompt $p$_$g"],
       "icon": "terminal-cmd"
     },
     "Git Bash": {
@@ -75,13 +64,32 @@
     },
     "Cygwin": {
       "path": "C:\\cygwin64\\bin\\bash.exe",
-      "args": [
-        "--login",
-        "-i"
-      ],
+      "args": ["--login", "-i"],
       "env": {
         "CHERE_INVOKING": "1"
       }
+    },
+    "PowerShell 7": {
+      "path": "${env:LOCALAPPDATA}\\Microsoft\\WindowsApps\\pwsh.exe",
+      "icon": "terminal-powershell"
+    },
+    "Short PowerShell 7": {
+      "path": "${env:LOCALAPPDATA}\\Microsoft\\WindowsApps\\pwsh.exe",
+      "args": [
+        "-NoExit",
+        "-Command",
+        "function prompt { Write-Host '[' -NoNewline -ForegroundColor DarkGray; Write-Host (Split-Path -Leaf (Get-Location)) -NoNewline -ForegroundColor Cyan; Write-Host ']> ' -NoNewline -ForegroundColor DarkGray; return ' ' }"
+      ],
+      "icon": "terminal-powershell"
+    },
+    "Oh My Posh": {
+      "path": "${env:LOCALAPPDATA}\\Microsoft\\WindowsApps\\pwsh.exe",
+      "args": [
+        "-NoExit",
+        "-Command",
+        "$init = $null; foreach ($candidate in @('${workspaceFolder}/scripts/OhMyPoshInit.ps1','${workspaceFolder}/node_modules/@dimaslanjaka/eslint-base-config/scripts/OhMyPoshInit.ps1')) { if (Test-Path $candidate) { $init = $candidate; break } }; if ($init) { & $init } else { oh-my-posh init pwsh | Invoke-Expression }"
+      ],
+      "icon": "terminal-powershell"
     }
   },
   "eslint.probe": [
