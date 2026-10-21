@@ -57,5 +57,9 @@
     "terser": "^5.47.1",
     "typescript": "^6.0.3"
   },
-  "packageManager": "yarn@4.18.1"
+  "packageManager": "yarn@4.18.1",
+  "resolutions": {
+    "got": "11.8.2",
+    "@dimaslanjaka/eslint-base-config": "https://github.com/dimaslanjaka/eslint-base-config/raw/29e36df/release/dimaslanjaka-eslint-base-config.tgz"
+  }
 }

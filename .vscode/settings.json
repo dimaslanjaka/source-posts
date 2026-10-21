@@ -27,13 +27,14 @@
   "code-runner.saveAllFilesBeforeRun": true,
   "eslint.useFlatConfig": true,
   "terminal.integrated.env.linux": {
-    "PATH": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:${workspaceFolder}/bin:${workspaceFolder}/node_modules/.bin:${workspaceFolder}/vendor/bin",
+    "PATH": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:${workspaceFolder}/node_modules/.bin:${workspaceFolder}/bin:${workspaceFolder}/vendor/bin:${workspaceFolder}/.venv/bin:${workspaceFolder}/venv/bin:$PATH",
     "PUPPETEER_SKIP_DOWNLOAD": "true",
     "PHP_CS_FIXER_IGNORE_ENV": "1",
-    "ESLINT_USE_FLAT_CONFIG": "true"
+    "ESLINT_USE_FLAT_CONFIG": "true",
+    "WORKSPACE_FOLDER": "${workspaceFolder}"
   },
   "terminal.integrated.env.windows": {
-    "PATH": "${env:LOCALAPPDATA}\\nvm;C:\\nvm4w\\nodejs;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\usr\\bin;${env:PATH};${workspaceFolder}\\node_modules\\.bin;${workspaceFolder}\\bin;${workspaceFolder}\\vendor\\bin;C:\\laragon\\bin\\mysql\\mysql-8.4.3-winx64\\bin;${env:LOCALAPPDATA}\\Programs\\Ollama",
+    "PATH": "${env:LOCALAPPDATA}\\nvm;C:\\nvm4w\\nodejs;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\usr\\bin;${workspaceFolder}\\node_modules\\.bin;${workspaceFolder}\\bin;${workspaceFolder}\\vendor\\bin;C:\\laragon\\bin\\mysql\\mysql-8.4.3-winx64\\bin;${env:LOCALAPPDATA}\\Programs\\Ollama;${workspaceFolder}\\venv\\Scripts;${workspaceFolder}\\.venv\\Scripts;${env:PATH};",
     "PUPPETEER_SKIP_DOWNLOAD": "true",
     "PHP_CS_FIXER_IGNORE_ENV": "1",
     "ESLINT_USE_FLAT_CONFIG": "true",
