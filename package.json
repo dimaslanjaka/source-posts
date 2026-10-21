@@ -8,9 +8,7 @@
     "update:ncu": "npx npm-check-updates -u",
     "ci": "yarn install --production=true --immutable --immutable-cache --check-cache --frozen-lockfile --check-files",
     "prod": "npm install --omit=dev",
-    "yarn:prod": "yarn install --production=true",
-    "sp:clean": "cd .. && npm run clean",
-    "sp:copy": "cd .. && npm run copy"
+    "yarn:prod": "yarn install --production=true"
   },
   "keywords": [],
   "private": true,
